@@ -1,0 +1,59 @@
+# ==============================================================================
+# Scam Shield - Git Ignore Rules
+# ==============================================================================
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+
+# Firebase & GCP Service Account Credentials
+# (Never commit real credentials; keep .env.example safe)
+*firebase-service-account*.json*
+*service-account*.json
+*.credentials.json
+
+# Audio Uploads & Temp Storage
+uploads/*
+!uploads/.gitkeep
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Machine Learning Artifacts & Weights (Private models)
+models/artifacts/*
+!models/artifacts/.gitkeep
+*.pkl
+*.joblib
+*.onnx
+*.pt
+*.bin
+*.h5
+
+# OS & IDE Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Project alias/junction if created
+/scam-shield
+
