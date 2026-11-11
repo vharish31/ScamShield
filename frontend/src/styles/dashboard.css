@@ -1,0 +1,234 @@
+/* ==========================================================================
+   Scam Shield — SaaS Shell Layout (Navbar & Sidebar)
+   ========================================================================== */
+
+.ss-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Fixed Horizontal Top Navbar (~72px) */
+.ss-navbar {
+  height: var(--ss-navbar-height);
+  background-color: var(--ss-surface);
+  border-bottom: 1px solid var(--ss-border);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1030;
+  padding: 0 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.ss-brand-logo {
+  width: 38px;
+  height: 38px;
+  border-radius: 11px;
+  background: linear-gradient(135deg, var(--ss-primary) 0%, #7C73F6 100%);
+  color: #FFFFFF;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  box-shadow: 0 4px 12px rgba(91, 80, 240, 0.28);
+  flex-shrink: 0;
+}
+
+/* Global Search Input */
+.ss-global-search {
+  position: relative;
+  width: 100%;
+  max-width: 340px;
+}
+
+.ss-global-search input {
+  background-color: var(--ss-surface-muted);
+  border: 1px solid var(--ss-border);
+  border-radius: 10px;
+  padding: 0.48rem 0.9rem 0.48rem 2.3rem;
+  font-size: 0.85rem;
+  color: var(--ss-text-main);
+  width: 100%;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.ss-global-search input:focus {
+  outline: none;
+  border-color: var(--ss-primary);
+  box-shadow: 0 0 0 3px rgba(91, 80, 240, 0.14);
+}
+
+.ss-global-search .ss-search-icon {
+  position: absolute;
+  left: 0.8rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--ss-text-muted);
+  pointer-events: none;
+}
+
+/* Body Wrapper Below Fixed Navbar */
+.ss-body-frame {
+  display: flex;
+  flex: 1;
+  padding-top: var(--ss-navbar-height);
+  min-height: 100vh;
+}
+
+/* Fixed Vertical White Sidebar (~250px) */
+.ss-sidebar {
+  width: var(--ss-sidebar-width);
+  background-color: var(--ss-surface);
+  border-right: 1px solid var(--ss-border);
+  height: calc(100vh - var(--ss-navbar-height));
+  position: fixed;
+  top: var(--ss-navbar-height);
+  left: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  transition: width 0.22s ease, transform 0.25s ease, background-color 0.2s ease;
+  z-index: 1025;
+}
+
+.ss-sidebar.collapsed {
+  width: var(--ss-sidebar-collapsed-width);
+}
+
+.ss-sidebar-nav {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1rem 0.75rem;
+}
+
+.ss-nav-group-label {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ss-text-muted);
+  padding: 0.85rem 0.75rem 0.4rem;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.ss-sidebar.collapsed .ss-nav-group-label {
+  text-align: center;
+  padding-left: 0;
+  padding-right: 0;
+  font-size: 0.6rem;
+}
+
+.ss-nav-link {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.64rem 0.85rem;
+  margin-bottom: 0.2rem;
+  border-radius: 10px;
+  color: var(--ss-text-secondary);
+  text-decoration: none;
+  font-size: 0.88rem;
+  font-weight: 500;
+  transition: all 0.16s ease;
+  white-space: nowrap;
+}
+
+.ss-nav-link i {
+  font-size: 1.08rem;
+  color: var(--ss-text-muted);
+  flex-shrink: 0;
+  transition: color 0.16s ease;
+}
+
+.ss-nav-link:hover {
+  background-color: var(--ss-surface-muted);
+  color: var(--ss-text-main);
+}
+
+.ss-nav-link:hover i {
+  color: var(--ss-primary);
+}
+
+.ss-nav-link.active {
+  background-color: var(--ss-primary-light);
+  color: var(--ss-primary);
+  font-weight: 600;
+}
+
+.ss-nav-link.active i {
+  color: var(--ss-primary);
+}
+
+.ss-sidebar.collapsed .ss-nav-link {
+  justify-content: center;
+  padding: 0.7rem;
+}
+
+.ss-sidebar.collapsed .ss-nav-text,
+.ss-sidebar.collapsed .ss-nav-badge,
+.ss-sidebar.collapsed .ss-profile-meta {
+  display: none;
+}
+
+.ss-sidebar-footer {
+  padding: 0.85rem;
+  border-top: 1px solid var(--ss-border);
+}
+
+/* Main Content Area (Offset for Fixed Sidebar) */
+.ss-main-content {
+  flex: 1;
+  min-width: 0;
+  margin-left: var(--ss-sidebar-width);
+  padding: 1.5rem;
+  transition: margin-left 0.22s ease;
+}
+
+.ss-sidebar.collapsed ~ .ss-main-content {
+  margin-left: var(--ss-sidebar-collapsed-width);
+}
+
+/* Mobile Sidebar Drawer Behavior */
+@media (max-width: 991.98px) {
+  .ss-sidebar {
+    position: fixed;
+    top: var(--ss-navbar-height);
+    left: 0;
+    bottom: 0;
+    height: calc(100vh - var(--ss-navbar-height));
+    transform: translateX(-100%);
+    z-index: 1040;
+    width: var(--ss-sidebar-width) !important;
+  }
+
+  .ss-sidebar.mobile-open {
+    transform: translateX(0);
+    box-shadow: var(--ss-shadow-lg);
+  }
+
+  .ss-main-content,
+  .ss-sidebar.collapsed ~ .ss-main-content {
+    margin-left: 0;
+    padding: 1rem;
+  }
+}
+
+.ss-mobile-backdrop {
+  position: fixed;
+  top: var(--ss-navbar-height);
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(17, 24, 39, 0.45);
+  backdrop-filter: blur(2px);
+  z-index: 1035;
+}
+

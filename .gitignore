@@ -1,0 +1,48 @@
+# ==============================================================================
+# Scam Shield - Root Git Ignore Rules
+# ==============================================================================
+
+# Virtual Environments
+venv/
+.venv/
+backend/venv/
+
+# Secrets & Firebase Credentials
+*firebase-service-account*.json*
+*service-account*.json
+*.credentials.json
+.env
+.env.*
+!.env.example
+backend/.env
+!backend/.env.example
+
+# Audio Storage & Uploads
+uploads/*
+!uploads/.gitkeep
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+backend/**/__pycache__/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Machine Learning Artifacts
+models/artifacts/*
+!models/artifacts/.gitkeep
+backend/models/artifacts/*
+!backend/models/artifacts/.gitkeep
+*.pkl
+*.joblib
+*.onnx
+
+# Alias or Junction
+/scam-shield
+

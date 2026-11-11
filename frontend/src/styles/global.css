@@ -1,0 +1,160 @@
+/* ==========================================================================
+   Scam Shield — Global Design Tokens & Typography
+   ========================================================================== */
+
+:root {
+  /* Brand & Accent */
+  --ss-primary: #5B50F0;
+  --ss-primary-hover: #4A3FE0;
+  --ss-primary-light: #EEF0FF;
+
+  /* Surfaces & Backgrounds */
+  --ss-bg: #F7F9FC;
+  --ss-surface: #FFFFFF;
+  --ss-surface-muted: #F8FAFC;
+
+  /* Text Hierarchy */
+  --ss-text-main: #111827;
+  --ss-text-secondary: #64748B;
+  --ss-text-muted: #94A3B8;
+
+  /* Borders & Shadows */
+  --ss-border: #E2E8F0;
+  --ss-shadow-sm: 0 1px 3px rgba(17, 24, 39, 0.04), 0 1px 2px rgba(17, 24, 39, 0.03);
+  --ss-shadow-md: 0 6px 20px rgba(17, 24, 39, 0.06);
+  --ss-shadow-lg: 0 12px 32px rgba(17, 24, 39, 0.08);
+
+  /* Semantic & Risk Palette */
+  --ss-success: #10B981;
+  --ss-success-bg: #ECFDF5;
+  --ss-warning: #F59E0B;
+  --ss-warning-bg: #FFFBEB;
+  --ss-danger: #EF4444;
+  --ss-danger-bg: #FEF2F2;
+  --ss-critical: #991B1B;
+  --ss-critical-bg: #FEE2E2;
+  --ss-info: #06B6D4;
+  --ss-info-bg: #ECFEFF;
+
+  /* Layout Dimensions */
+  --ss-navbar-height: 72px;
+  --ss-sidebar-width: 250px;
+  --ss-sidebar-collapsed-width: 76px;
+  --ss-radius-card: 16px;
+}
+
+/* Dark Mode Design Tokens */
+[data-theme="dark"] {
+  --ss-primary: #7367F0;
+  --ss-primary-hover: #867CF5;
+  --ss-primary-light: rgba(115, 103, 240, 0.16);
+
+  --ss-bg: #0B1120;
+  --ss-surface: #111827;
+  --ss-surface-muted: #1E293B;
+
+  --ss-text-main: #F8FAFC;
+  --ss-text-secondary: #CBD5E1;
+  --ss-text-muted: #94A3B8;
+
+  --ss-border: #1F2937;
+  --ss-shadow-sm: 0 2px 6px rgba(0, 0, 0, 0.3);
+  --ss-shadow-md: 0 8px 24px rgba(0, 0, 0, 0.35);
+  --ss-shadow-lg: 0 16px 36px rgba(0, 0, 0, 0.45);
+
+  --ss-success-bg: rgba(16, 185, 129, 0.14);
+  --ss-warning-bg: rgba(245, 158, 11, 0.14);
+  --ss-danger-bg: rgba(239, 68, 68, 0.15);
+  --ss-critical-bg: rgba(153, 27, 27, 0.25);
+  --ss-info-bg: rgba(6, 182, 212, 0.14);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background-color: var(--ss-bg);
+  color: var(--ss-text-main);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.font-mono {
+  font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+.text-main {
+  color: var(--ss-text-main) !important;
+}
+
+.text-sec {
+  color: var(--ss-text-secondary) !important;
+}
+
+.text-mut {
+  color: var(--ss-text-muted) !important;
+}
+
+.text-primary-brand {
+  color: var(--ss-primary) !important;
+}
+
+.bg-primary-light {
+  background-color: var(--ss-primary-light) !important;
+}
+
+/* Form elements in Dark Mode */
+[data-theme="dark"] .form-control,
+[data-theme="dark"] .form-select,
+[data-theme="dark"] .input-group-text {
+  background-color: var(--ss-surface-muted);
+  border-color: var(--ss-border);
+  color: var(--ss-text-main);
+}
+
+[data-theme="dark"] .form-control::placeholder {
+  color: var(--ss-text-muted);
+}
+
+[data-theme="dark"] .modal-content,
+[data-theme="dark"] .dropdown-menu {
+  background-color: var(--ss-surface);
+  color: var(--ss-text-main);
+  border-color: var(--ss-border);
+}
+
+[data-theme="dark"] .dropdown-item {
+  color: var(--ss-text-secondary);
+}
+
+[data-theme="dark"] .dropdown-item:hover {
+  background-color: var(--ss-surface-muted);
+  color: var(--ss-text-main);
+}
+
+[data-theme="dark"] .list-group-item {
+  background-color: transparent;
+  color: var(--ss-text-main);
+  border-color: var(--ss-border);
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: var(--ss-surface-muted) !important;
+}
+
+[data-theme="dark"] .bg-white {
+  background-color: var(--ss-surface) !important;
+}
+
+[data-theme="dark"] .border {
+  border-color: var(--ss-border) !important;
+}
+

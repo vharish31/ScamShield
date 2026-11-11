@@ -1,0 +1,344 @@
+/* ==========================================================================
+   Scam Shield — Reusable Component Styles
+   ========================================================================== */
+
+/* Cards (14-18px radius, thin border, soft shadow, subtle hover elevation) */
+.ss-card {
+  background-color: var(--ss-surface);
+  border: 1px solid var(--ss-border);
+  border-radius: var(--ss-radius-card);
+  box-shadow: var(--ss-shadow-sm);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+.ss-card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--ss-shadow-md);
+}
+
+.ss-icon-box {
+  width: 46px;
+  height: 46px;
+  border-radius: 12px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  flex-shrink: 0;
+}
+
+.ss-avatar {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--ss-primary) 0%, #818CF8 100%);
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 0.84rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+/* ==========================================================================
+   Buttons (Primary Purple, Secondary, Outline, Danger, Icon-Only)
+   ========================================================================== */
+
+.btn-ss-primary {
+  background-color: var(--ss-primary);
+  border: 1px solid var(--ss-primary);
+  color: #FFFFFF;
+  font-weight: 600;
+  border-radius: 10px;
+  padding: 0.52rem 1.15rem;
+  transition: all 0.16s ease;
+}
+
+.btn-ss-primary:hover,
+.btn-ss-primary:focus {
+  background-color: var(--ss-primary-hover);
+  border-color: var(--ss-primary-hover);
+  color: #FFFFFF;
+  box-shadow: 0 4px 12px rgba(91, 80, 240, 0.28);
+}
+
+.btn-ss-primary:disabled {
+  opacity: 0.6;
+  box-shadow: none;
+}
+
+.btn-ss-secondary {
+  background-color: var(--ss-surface);
+  border: 1px solid var(--ss-border);
+  color: var(--ss-text-main);
+  font-weight: 600;
+  border-radius: 10px;
+  padding: 0.52rem 1.1rem;
+  transition: all 0.16s ease;
+}
+
+.btn-ss-secondary:hover,
+.btn-ss-secondary:focus {
+  background-color: var(--ss-surface-muted);
+  border-color: var(--ss-text-muted);
+  color: var(--ss-text-main);
+}
+
+.btn-ss-outline {
+  background-color: transparent;
+  border: 1px solid var(--ss-primary);
+  color: var(--ss-primary);
+  font-weight: 600;
+  border-radius: 10px;
+  padding: 0.52rem 1.1rem;
+  transition: all 0.16s ease;
+}
+
+.btn-ss-outline:hover,
+.btn-ss-outline:focus {
+  background-color: var(--ss-primary-light);
+  color: var(--ss-primary);
+}
+
+.btn-ss-danger {
+  background-color: var(--ss-danger);
+  border: 1px solid var(--ss-danger);
+  color: #FFFFFF;
+  font-weight: 600;
+  border-radius: 10px;
+  padding: 0.52rem 1.1rem;
+  transition: all 0.16s ease;
+}
+
+.btn-ss-danger:hover {
+  background-color: #DC2626;
+  border-color: #DC2626;
+  color: #FFFFFF;
+}
+
+.btn-ss-icon {
+  width: 38px;
+  height: 38px;
+  padding: 0;
+  border-radius: 10px;
+  border: 1px solid var(--ss-border);
+  background-color: var(--ss-surface);
+  color: var(--ss-text-secondary);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease;
+}
+
+.btn-ss-icon:hover {
+  background-color: var(--ss-primary-light);
+  color: var(--ss-primary);
+  border-color: rgba(91, 80, 240, 0.3);
+}
+
+/* ==========================================================================
+   Consistent Risk Badges & General Status Badges
+   ========================================================================== */
+
+.ss-risk-badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.35rem 0.72rem;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  letter-spacing: 0.02em;
+}
+
+.ss-risk-low {
+  background-color: var(--ss-success-bg);
+  color: #065F46;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.ss-risk-medium {
+  background-color: var(--ss-warning-bg);
+  color: #92400E;
+  border: 1px solid rgba(245, 158, 11, 0.35);
+}
+
+.ss-risk-high {
+  background-color: var(--ss-danger-bg);
+  color: #B91C1C;
+  border: 1px solid rgba(239, 68, 68, 0.35);
+}
+
+.ss-risk-critical {
+  background-color: #991B1B;
+  color: #FFFFFF;
+  border: 1px solid #7F1D1D;
+}
+
+[data-theme="dark"] .ss-risk-low {
+  color: #34D399;
+}
+
+[data-theme="dark"] .ss-risk-medium {
+  color: #FBBF24;
+}
+
+[data-theme="dark"] .ss-risk-high {
+  color: #F87171;
+}
+
+/* Status Badges */
+.ss-status-badge {
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.28rem 0.65rem;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.32rem;
+}
+
+.ss-status-completed,
+.ss-status-verified,
+.ss-status-safe {
+  background-color: var(--ss-success-bg);
+  color: var(--ss-success);
+}
+
+.ss-status-processing {
+  background-color: var(--ss-info-bg);
+  color: var(--ss-info);
+}
+
+.ss-status-pending {
+  background-color: var(--ss-warning-bg);
+  color: var(--ss-warning);
+}
+
+.ss-status-failed,
+.ss-status-flagged {
+  background-color: var(--ss-danger-bg);
+  color: var(--ss-danger);
+}
+
+.ss-status-unverified {
+  background-color: var(--ss-surface-muted);
+  color: var(--ss-text-secondary);
+  border: 1px solid var(--ss-border);
+}
+
+/* ==========================================================================
+   Drag & Drop Uploader & Audio Player
+   ========================================================================== */
+
+.ss-dropzone {
+  border: 2px dashed var(--ss-border);
+  border-radius: var(--ss-radius-card);
+  background-color: var(--ss-surface-muted);
+  padding: 3rem 1.5rem;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.ss-dropzone:hover,
+.ss-dropzone.dragging {
+  border-color: var(--ss-primary);
+  background-color: var(--ss-primary-light);
+}
+
+.ss-dropzone-icon {
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  background-color: var(--ss-primary-light);
+  color: var(--ss-primary);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.9rem;
+  margin-bottom: 1rem;
+}
+
+/* ==========================================================================
+   Circular Risk Score Gauge
+   ========================================================================== */
+
+.ss-risk-gauge {
+  width: 164px;
+  height: 164px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  position: relative;
+}
+
+.ss-risk-gauge-inner {
+  width: 132px;
+  height: 132px;
+  border-radius: 50%;
+  background-color: var(--ss-surface);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 2px 6px rgba(17, 24, 39, 0.06);
+}
+
+/* ==========================================================================
+   Enterprise Data Table & Skeletons
+   ========================================================================== */
+
+.ss-table {
+  margin-bottom: 0;
+  color: var(--ss-text-main);
+}
+
+.ss-table thead th {
+  background-color: var(--ss-surface-muted);
+  color: var(--ss-text-secondary);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-bottom: 1px solid var(--ss-border);
+  padding: 0.9rem 1rem;
+  white-space: nowrap;
+}
+
+.ss-table tbody td {
+  padding: 0.95rem 1rem;
+  vertical-align: middle;
+  border-bottom: 1px solid var(--ss-border);
+  font-size: 0.87rem;
+  background-color: transparent;
+  color: var(--ss-text-main);
+}
+
+.ss-table tbody tr:hover td {
+  background-color: var(--ss-surface-muted);
+}
+
+.ss-skeleton {
+  background: linear-gradient(90deg, var(--ss-surface-muted) 25%, var(--ss-border) 50%, var(--ss-surface-muted) 75%);
+  background-size: 200% 100%;
+  animation: ssShimmer 1.4s infinite;
+  border-radius: 8px;
+}
+
+@keyframes ssShimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+.ss-pattern-highlight {
+  background-color: rgba(239, 68, 68, 0.16);
+  color: var(--ss-danger);
+  padding: 0.05rem 0.25rem;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
