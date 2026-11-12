@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, the food I ordered at your place hasn't been delivered yet, can you check it out?
+Speaker2: Hello, please wait a moment, I'll check for you. What is your order number?
+Speaker1: Order number is one two three four five.
+Speaker2: Okay, I found it. Your food is already on the road, it should take about ten minutes to arrive.
+Speaker1: Okay, thank you. Got it, my address is Happiness Villa No. 2, Building 3, Unit 402, Room 402. Do you know how the delivery man should walk to my apartment?
+Speaker2: Don't worry, we know the delivery man very well in this community, he will deliver on time.
+Speaker1: That's great, I was worried about not being able to find it.
+Speaker2: You can relax and wait, feel free to contact us if you have any questions.
+Speaker1: Okay, thank you for your service.
+Speaker2: You're welcome, I hope you enjoy your meal.

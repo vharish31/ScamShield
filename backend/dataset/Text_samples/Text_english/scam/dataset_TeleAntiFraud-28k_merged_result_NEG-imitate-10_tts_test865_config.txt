@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you? I'm little Zhang. Have you recently used online shopping?
+Speaker2: Hey, have you used it before?
+Speaker1: Oh, that's how it is, I am an XX express customer service representative, we found that one of your packages had some issues during transportation, and we need you to cooperate and handle it a bit.
+Speaker2: What problem?
+Speaker1: Your package may have been misoperated, please provide your order number and phone number, we will help you query and solve the issue on this end.
+Speaker2: How do I know this isn't a scam call?
+Speaker1: You can call our official customer service hotline at any time to verify, but for your package to be processed quickly, please cooperate with the following.
+Speaker2: Okay, my order number is 123456789, my phone number is 13800138000.
+Speaker1: Okay, we have recorded your information. Later, a workperson will contact you through our official app to handle this issue. First, download our official app, which will make it easier for us to handle.
+Speaker2: What is the name of the official app?
+Speaker1: Call 'XX Express Service', you can search and download it in the app store, after download use your phone number to register and login, we will send you processing messages through the system.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Thank you very much for your cooperation. If you have any issues during use, please feel free to contact our customer service at any time. Have a happy life, goodbye.
+Speaker2: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm customer service Li from the e-commerce platform. I see you have a lot of shopping points on your account, they will clear out at midnight tonight, what do you plan to do with them?
+Speaker2: Oh, really? I didn't notice, what can these points be used for?
+Speaker1: These points can be used to deduct cash, you have 3999 points on your account, which is equivalent to deducting 390 yuan, many products can be used.
+Speaker2: Okay, then I'll take a look and see what needs to be bought.
+Speaker1: Okay, I've sent you a text message with exchange options. Take a look and see if there are any products you like to exchange directly.
+Speaker2: Okay, I'll take a look right away.
+Speaker1: Remember to exchange them quickly after clearing the points.
+Speaker2: I know, thank you for your reminder.
+Speaker1: No problem, if you have other questions, feel free to contact me, wish you happy shopping.
+Speaker2: Okay, thank you, bye.

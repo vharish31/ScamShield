@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li Ming?
+Speaker2: Hello, yes, you are?
+Speaker1: Hi, I'm the client manager of Citibank, I noticed you recently showed interest in purchasing financial products, and I want to know more about your specific needs, to see if our products match your investment plan.
+Speaker2: Oh, that's how it is, I do have some interest in investing in finance, but I haven't got a specific plan yet.
+Speaker1: Okay, I can provide you with some professional advice. To communicate more conveniently, can you add my WeChat? This way I can answer your questions anytime and also directly send some financial products' information to you.
+Speaker2: Adding WeChat is okay, but I'm a bit concerned about the safety of the information on WeChat.
+Speaker1: I completely understand your concerns, our bank's information is very safe, and since we added WeChat, I can also introduce you to some bank internal promotions, which are not publicly known.
+Speaker2: Okay, I'll add you on WeChat.
+Speaker1: Great, my WeChat number is the same as my phone number, 1368412987. After adding it, I will first send you a detailed introduction about our financial products. You can contact me anytime if you have any questions.
+Speaker2: Okay, thank you.

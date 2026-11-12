@@ -1,0 +1,10 @@
+Speaker1: Hello
+Speaker2: Hey, how are you, where are you?
+Speaker1: Can you wait for a moment? I'm almost there. Where are you going now?
+Speaker2: I'm ready to go to that green park, are you?
+Speaker1: Okay, let's meet at the entrance of the park, you call me when you arrive.
+Speaker2: Okay, meet me at the park entrance.
+Speaker1: Uh-huh, you remember to bring some water, there are many people in the park, maybe it's not convenient to buy water there.
+Speaker2: Okay, I'll be there soon, don't worry.
+Speaker1: Okay, be careful on the road, see you later.
+Speaker2: Okay, see you later.

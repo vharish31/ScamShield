@@ -1,0 +1,10 @@
+Speaker1: Hey, are you open today?
+Speaker2: Hello, today is normal business, what can I help you with?
+Speaker1: I see you guys have new sports shoes, can you tell me more about them?
+Speaker2: Our new sports shoes are now on sale, with many color options to choose from. Which color would you like to know more about?
+Speaker1: Can I see the black one?
+Speaker2: Of course, black running shoes are very popular, would you like to come and try them on?
+Speaker1: I'm here now, about ten minutes away.
+Speaker2: Okay, we're waiting for you here. If you have any other needs, feel free to let me know in advance.
+Speaker1: Okay, thank you. Alright, what time does your store close?
+Speaker2: Our store is open until nine o'clock every day, you can come in time.

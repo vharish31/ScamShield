@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I live in Happiness Village, can you consult me on the recent increase in the electricity bill in our community?
+Speaker2: Hello, regarding the recent increase in electricity fees, the main reason is that the cost of electricity has increased, and we are actively coordinating to see if there is a more affordable solution.
+Speaker1: Is the use of electricity in public facilities in our community also included?
+Speaker2: Yes, public facilities' electricity also includes in it, like road lights, elevators, etc., these all are calculated according to actual usage.
+Speaker1: Is there any way we can reduce this portion of the fees as tenants?
+Speaker2: Yes, we recommend residents to save electricity as much as possible, such as turning off public area lights when not in use, and using elevators reasonably. At the same time, the property will periodically check the facilities to ensure there is no unnecessary power waste.
+Speaker1: Okay, thank you for your advice. I will tell my neighbors about it.
+Speaker2: You're welcome! If you have any other questions, feel free to contact us anytime. Thank you for your understanding and support!

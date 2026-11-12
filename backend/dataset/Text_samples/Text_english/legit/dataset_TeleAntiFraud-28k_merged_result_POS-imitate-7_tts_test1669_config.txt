@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can you help me check the departure time of the early morning bus from the city center to the airport tomorrow?
+Speaker2: Okay, just a moment, I'll help you look it up.
+Speaker1: Thank you, and also that one, I saw an introduction to a travel scenic spot last time, but I forgot the name, can you help me look it up?
+Speaker2: Sure, but I need you to provide some description or characteristics of the location, so I can find it more accurately.
+Speaker1: I remember a temple on a mountain with many steps and a big Buddha statue.
+Speaker2: Based on your description, this is likely the South Mountain Buddha Scenic Area. Do you need me to give you the specific location and opening hours?
+Speaker1: Let's go there, it's so annoying.
+Speaker2: Okay, here it is. Do you need help with anything else?
+Speaker1: Thanks for your help, it was really a big help.
+Speaker2: No problem, need to contact anytime.

@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Li, I recently want to buy a new phone, I heard your store has new A brand phones on the market, can you introduce them to me?
+Speaker2: Hello, little Li, I am the customer service staff at the store. We have recently released new models of A brand smartphones. Which one would you like to know more about? We have different configurations and colors to choose from here.
+Speaker1: I want to see the latest flagship phone, but I don't know what the price is like.
+Speaker2: The price of our flagship aircraft is currently three thousand eight hundred yuan, and we also offer a service for installment payments, which you can choose, to reduce the pressure of a one-time payment.
+Speaker1: How much interest is charged for installment payments?
+Speaker2: Our store cooperates with several banks to provide interest-free installment services. If it's a bank credit card installment, the first six periods are interest-free.
+Speaker1: That's great, I want to go to the store to see the real thing, what are your store's business hours?
+Speaker2: Our store's business hours are from 9am to 9pm. You can come anytime. If you're convenient, you can make an appointment in advance. We'll prepare a trial machine for you.
+Speaker1: Can I go at three in the afternoon tomorrow?
+Speaker2: Of course, tomorrow at three in the afternoon, we'll be here waiting for you. Is there anything else you need help with?
+Speaker1: No more, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, have you encountered any troubles recently?
+Speaker2: Oh, lately there's nothing big, how about you?
+Speaker1: Great, I have a good news here, can help you solve some potential issues, are you interested to listen?
+Speaker2: Okay, tell me.
+Speaker1: Our company recently launched a new financial product with high returns and low risk. If you're interested, I can give you a detailed introduction.
+Speaker2: Listen well, how to join in?
+Speaker1: Just download our app, register an account, and then you can start investing. I can send you a link to easily download it.
+Speaker2: Okay, send me a link.
+Speaker1: Okay, just a moment, I'll send it to you now. To ensure safety, it's best to download it directly on your phone by clicking the link, your computer might get intercepted.
+Speaker2: Okay, I'll download it later, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, there's an issue with the product you bought from our platform two days ago, need to confirm with you.
+Speaker2: Hey, what's the issue?
+Speaker1: We checked the shipping information and found that your package may have been lost during transportation. To compensate you, we plan to give you a refund, but you need to cooperate with us to complete some steps.
+Speaker2: Okay, what do I need to do?
+Speaker1: First, please provide us with your purchase order number, then click on the link we send you and follow the instructions to complete the refund.
+Speaker2: Okay, I don't have an order number, but I can provide you with the phone number and name used for purchase.
+Speaker1: Okay, for your information security, we will send a secure link to your phone after verifying the information. Please pay attention to check and complete the operation quickly.
+Speaker2: Okay, I understand now, thank you for your help.
+Speaker1: No problem, we will handle everything for you in the background, if you have any questions, you can contact our customer service at any time. Additionally, to speed up the process, you can download our official app, which will provide you with more detailed instructions.
+Speaker2: Okay, I'll download the app now, thank you.

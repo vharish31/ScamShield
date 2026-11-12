@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the food square, you previously booked our restaurant for dinner, now there is one hour left before the reservation time, what time do you think you will arrive?
+Speaker2: Hello, I just left work, I might be late, around 7:30 I should arrive.
+Speaker1: Okay, pay attention to safety on your way, we'll hold your spot here, just come straight over when you arrive.
+Speaker2: Okay, thank you, I will pay attention on the road.
+Speaker1: Hey, do you have any special dietary requirements? Like not eating spicy or being allergic to certain foods.
+Speaker2: I don't eat spicy, the others are okay.
+Speaker1: Understood, we will pay special attention to it. Afterwards, you can directly find our service staff, they will lead you to the designated location.
+Speaker2: Okay, thank you very much for your reminder, see you later.
+Speaker1: No problem, looking forward to your arrival, be careful on the road.
+Speaker2: Okay, bye.

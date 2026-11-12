@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you recommend a restaurant here suitable for two people?
+Speaker2: Of course, what type of cuisine do you want to eat?
+Speaker1: We want to eat Sichuan cuisine, spicy a little.
+Speaker2: Okay, I recommend you guys try Xiāngxiāngjiān, their spicy chicken and steamed fish are both very delicious.
+Speaker1: Sounds good, how far is this restaurant from here?
+Speaker2: No, it's about a fifteen-minute drive from your place.
+Speaker1: Is it necessary to book seats in advance?
+Speaker2: It's recommended to book in advance, especially on weekends when it's more crowded.
+Speaker1: Can I reserve now for seven o'clock tonight?
+Speaker2: Sure, I'll book it for you. See you later!

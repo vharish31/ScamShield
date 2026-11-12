@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I recently want to buy a new phone, can you give me some info about your store's phones?
+Speaker2: Hello, I'm very happy to be able to serve you. We have a variety of brands and models of mobile phones here. Do you have any specific requirements, such as budget, brand preference, or functional preference?
+Speaker1: I'd like to spend around 3,000 yuan, I like the photo function a lot, and it's best if it's a new style.
+Speaker2: Okay, based on your needs, I recommend you check out this new brand phone. Its camera configuration is very high, the photo effect is very good, and there's currently a promotion, you can get it for three thousand yuan.
+Speaker1: How long does the battery of this phone last?
+Speaker2: This phone's battery capacity is 4000mAh, which can be used for 1.5 to 2 days of normal use. If it's used lightly, the battery life will be longer.
+Speaker1: Sounds good, can I come take a look tomorrow?
+Speaker2: Of course, our store is open from 9 am to 9 pm every day. You can choose any time to come, and I will personally introduce you at that time.
+Speaker1: Okay, thank you for your recommendation, see you tomorrow.
+Speaker2: No problem, see you tomorrow, looking forward to your arrival.

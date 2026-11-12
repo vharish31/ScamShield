@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, and you're little Wang?
+Speaker2: Yes, hello, little Zhang, what do you want to talk to me about?
+Speaker1: Is it like that? We have a weekend party with a classmate, would you be able to attend?
+Speaker2: Weekend, I check my schedule, should be okay.
+Speaker1: Great, the location is in the old restaurant in the city center, do you know?
+Speaker2: I know that place, the environment is not bad.
+Speaker1: Okay, we agreed on 5 pm, don't forget.
+Speaker2: Okay, I will arrive on time, thank you for reminding me.
+Speaker1: Okay, see you later.
+Speaker2: Okay, see you later.

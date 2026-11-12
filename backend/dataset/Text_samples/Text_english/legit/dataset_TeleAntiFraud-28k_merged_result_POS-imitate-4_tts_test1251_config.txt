@@ -1,0 +1,10 @@
+Speaker1: Hello, can you still make an appointment for a haircut there?
+Speaker2: Sure, what time do you want to make a reservation?
+Speaker1: Is three in the afternoon tomorrow okay?
+Speaker2: Can we meet at 3 o'clock? Do you have any special requirements, such as a hairstylist or style?
+Speaker1: No specific requirements, just a regular cut, don't make it too complicated.
+Speaker2: Okay, I'll schedule a meeting for you tomorrow at 3 pm. Just remember to come 10 minutes early.
+Speaker1: Okay, thank you. Got it, do you have any drinks there?
+Speaker2: Yes, we have free mineral water and coffee here, you can take it yourself when you come.
+Speaker1: That's great, thank you. See you tomorrow.
+Speaker2: No problem, see you tomorrow.

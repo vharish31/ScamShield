@@ -1,0 +1,8 @@
+Speaker1: Hey, how are you? I'm little Zhang. My friend said you have a computer repair shop here?
+Speaker2: Yes, I am the computer repair technician here. What's the problem?
+Speaker1: My computer won't turn on, the screen is always black, can you take a look?
+Speaker2: Sure, bring your computer here and I'll check it out.
+Speaker1: Okay, I'll be there in about half an hour, right at the Lighting Road store?
+Speaker2: No problem, it's Lighting Road No. 23, if you can't find it, you can call me.
+Speaker1: Okay, I'll contact you when the time comes, thank you.
+Speaker2: No problem, I'll help you handle it anytime you come.

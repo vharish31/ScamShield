@@ -1,0 +1,13 @@
+Speaker1: Hello, you, I am a customer service representative of China Construction Bank, Xiaowang.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we noticed that you had previously applied for a loan, and now there's a special promotion going on, which can provide you with a no-collateral loan at a very low interest rate.
+Speaker2: Is it really true? What should I do if my qualifications aren't enough?
+Speaker1: Do you have any overdue records on this side? If not, we can help you apply.
+Speaker2: I didn't miss the deadline, but my credit score is low.
+Speaker1: No problem, we have a dedicated channel to help you solve this problem. Just provide some basic information, and we can apply for you.
+Speaker2: What information do you need from me?
+Speaker1: You just need to provide your ID number and phone number, we will send a verification code to your phone, you input the verification code to complete the application.
+Speaker2: Okay, how do I apply?
+Speaker1: You can click on the link we send, follow the instructions, and it will immediately be sent to your phone.
+Speaker2: Okay, I'll be right back.
+Speaker1: Okay, please operate quickly after receiving the link. If you have any questions, feel free to contact me anytime. Have a happy life, bye.

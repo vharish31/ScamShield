@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you? This is the Beijing Municipal Service Center, I am customer service representative Liu, you have consulted some service information with us before, do you need help in any other place now?
+Speaker2: Hey, how are you? I don't need any help right now.
+Speaker1: Okay, that's great. But, if you have any questions, you can contact us anytime. By the way, we recently launched a promotion, just click on our link and you can enjoy a free service trial.
+Speaker2: Free service trial? It sounds good, how do I operate?
+Speaker1: It's very simple. Just click on this link and follow the instructions. If you're not convenient, I can send the link to your phone.
+Speaker2: Okay, then send it to my phone.
+Speaker1: Okay, I'll send it now. Please pay attention to check the message. Besides this, we also have an exclusive app, which contains many discount activities and practical services, you can download, install and try.
+Speaker2: Okay, thank you for your recommendation. I will take a look.
+Speaker1: No problem, if you have any issues during the use process, please feel free to contact me at any time. For your convenience, you can add my WeChat, I am always online.
+Speaker2: Okay, let me add you on WeChat.

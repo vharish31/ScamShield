@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there?
+Speaker2: What's up?
+Speaker1: Do you have time today? I want to ask you to help me choose a phone.
+Speaker2: Okay, what time do you plan to go?
+Speaker1: 3 PM is good for me because I have some free time then.
+Speaker2: Okay, I'll meet you at three o'clock.
+Speaker1: Where are you waiting for me?
+Speaker2: I'm waiting for you at the entrance of the electronic city.
+Speaker1: Okay, I'll just go directly when the time comes.
+Speaker2: Okay, let's meet later.

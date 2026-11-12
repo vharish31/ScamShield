@@ -1,0 +1,10 @@
+Speaker1: Hello, you.
+Speaker2: Hello, what do you want from me?
+Speaker1: Have you received the sofa you ordered earlier?
+Speaker2: Oh, that sofa, it hasn't been delivered yet, isn't it the one that was delivered this morning?
+Speaker1: Oh, but we checked here, it seems like the road to your house is congested, the trucks can't get in.
+Speaker2: What should I do, I've been waiting at home all day.
+Speaker1: How about we change the time, so we won't be stuck on the road and can send it over later? Or you can find a time to pick it up from our warehouse?
+Speaker2: Let's change the time then, how about tomorrow morning?
+Speaker1: Sure, can we meet at around 9 am tomorrow morning?
+Speaker2: 9 o'clock is fine, sorry to bother you.

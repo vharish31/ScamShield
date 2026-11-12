@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask, do you have any good hairdressers here?
+Speaker2: Hello, yes, we have several experienced hair stylists here, which one would you like to book?
+Speaker1: I cut my hair here before, it felt okay, but I forgot the name.
+Speaker2: Can you tell me the time of your last visit? I'll check and see who served you.
+Speaker1: I cut my hair short about a month ago.
+Speaker2: Okay, let me look it up... I found it, the barber for short hair is Li master.
+Speaker1: Can I schedule a meeting with Li teacher? What time do you have free?
+Speaker2: Master Li is available from 2 pm to 4 pm tomorrow. Which time is convenient for you?
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Sure, I'll help you book an appointment for tomorrow afternoon at 3 pm. Just remember to come ten minutes early.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are your restaurant still open?
+Speaker2: Hello, what time is it now?
+Speaker1: I'll book a seat around 8 o'clock, give or take half an hour.
+Speaker2: Okay, eight o'clock location is fine, how about you guys?
+Speaker1: Do two people have a place to sit by the window?
+Speaker2: Yes, I have reserved a window seat for you. Do you need to order in advance?
+Speaker1: No more, let's go to the store and order again. Right, do you have any vegetarian options?
+Speaker2: Yes, we have many vegetables, such as stir-fried broccoli and stir-fried green beans, which are very popular.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, welcome at the time, goodbye.

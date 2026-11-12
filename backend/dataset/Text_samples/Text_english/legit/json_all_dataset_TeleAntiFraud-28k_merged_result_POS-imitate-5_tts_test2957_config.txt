@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, are you there yet?
+Speaker1: Arrived, I stand at the community gate, you hurry over please.
+Speaker2: Okay, I'll be there soon. Wait for me a minute, it might take three to five minutes.
+Speaker1: Okay, no rush, take it slow.
+Speaker2: You're welcome, please put the things outside the door for me, I'll get them when I arrive.
+Speaker1: Okay, I'll put it at door number fifty-three.
+Speaker2: Okay, can you help me?
+Speaker1: No problem, be careful on the road.
+Speaker2: Okay, thank you, see you later.

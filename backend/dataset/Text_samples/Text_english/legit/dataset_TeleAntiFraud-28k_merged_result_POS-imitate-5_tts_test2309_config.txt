@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the manager?
+Speaker2: Hello, yes, who are you?
+Speaker1: I am Lee Huai, the applicant for the position mentioned in the previous phone call.
+Speaker2: Hey, Li Huai, I got your resume. When can you come to the company for an interview?
+Speaker1: Can I do it all this week? Which day is suitable for you?
+Speaker2: How about 10 am on Tuesday?
+Speaker1: Okay, on Tuesday morning at 10am, no problem.
+Speaker2: Okay, the location is our branch office, the address is the city center square one number building twelve floor.
+Speaker1: Okay, I know this place, I will arrive on time.
+Speaker2: Okay, see you on Tuesday.

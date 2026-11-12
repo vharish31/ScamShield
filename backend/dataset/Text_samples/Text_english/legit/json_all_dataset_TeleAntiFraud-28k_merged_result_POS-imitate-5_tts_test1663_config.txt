@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm Xiao Zhang, and I want to inquire about your yoga classes on this side.
+Speaker2: Hello, I am the customer service of the yoga studio, what information do you want to know?
+Speaker1: I want to know the course schedule and fees for the beginner class.
+Speaker2: The initial class meets every Monday, Wednesday, and Friday from 7 to 8:30 p.m., and the fee is 400 yuan per month.
+Speaker1: Do I need to make an appointment in advance if I want to sign up?
+Speaker2: Yes, in order to ensure teaching quality, we need to book in advance. You can book through phone or our WeChat public account.
+Speaker1: Okay, I want to try out this weekend, do you guys have a trial class?
+Speaker2: Yes, we have a free trial class every Saturday morning at 9am. You can book it on WeChat.
+Speaker1: What do I need to prepare for my 9 am Saturday morning trip?
+Speaker2: No need to prepare specially, wear comfortable sports clothes and sports shoes, yoga mats will be provided here.
+Speaker1: Okay, thank you for your patience in answering, see you on Saturday.
+Speaker2: No problem, see you on Saturday, wish you a happy weekend.

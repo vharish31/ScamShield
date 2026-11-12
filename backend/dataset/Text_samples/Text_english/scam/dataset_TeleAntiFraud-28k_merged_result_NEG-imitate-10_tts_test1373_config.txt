@@ -1,0 +1,10 @@
+Speaker2: Hello
+Speaker1: Hello, are you Li boss?
+Speaker2: Is it me, do you have anything to talk about?
+Speaker1: I am the small king of the personal loan department at Agricultural and Commercial Bank, recently our bank has a special promotion loan project with a low interest rate, fast repayment, are you interested in learning more?
+Speaker2: Hey, do you want a loan? I have enough cash flow right now, but let's hear you out.
+Speaker1: Great, this project is perfect for small and medium-sized enterprises. If you need it, I can send you a link, and you can fill out some basic information to apply.
+Speaker2: Can you send a link? Is it safe?
+Speaker1: Very safe, our bank's official website. You can rest assured. If you still have any concerns, we can add a WeChat, I will give you detailed explanations.
+Speaker2: Okay, let's add a WeChat.
+Speaker1: Okay, my WeChat number is a123456789. Add a note with your name when adding, I'll get back to you.

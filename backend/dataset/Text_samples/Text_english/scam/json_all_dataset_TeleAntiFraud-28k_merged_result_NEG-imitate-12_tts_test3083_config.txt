@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm financial advisor Li, recently I've been helping some clients with cash flow issues, do you have any recently?
+Speaker2: Hello, currently there is no need for this, thank you.
+Speaker1: Okay, I understand. However, if you have any needs in this aspect in the future, you can contact me anytime, I can provide some professional advice.
+Speaker2: Okay, thank you for your advice.
+Speaker1: Hey, do you usually use your phone for banking? We have a new app here that can make it easier to manage your finances, and right now there's a newbie bonus for signing up.
+Speaker2: Oh, is that so? Then how do I register?
+Speaker1: Scan this QR code to download our app, follow the instructions to complete registration.
+Speaker2: Okay, let me try.
+Speaker1: Great! If you have any issues during the registration process, feel free to contact me. I wish you a happy use!
+Speaker2: Thank you, I will.

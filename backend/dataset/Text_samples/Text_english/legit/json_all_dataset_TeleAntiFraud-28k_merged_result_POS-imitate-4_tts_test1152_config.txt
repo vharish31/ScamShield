@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm Xiaoming, I bought a pair of shoes from your store yesterday, and I just want to ask if there's any problem with the shoes, can I exchange or refund them?
+Speaker2: Hello, Xiaoming, can you tell me specifically what the problem is?
+Speaker1: The soles of my shoes feel uncomfortable after walking for a long time because they are a little worn out.
+Speaker2: This situation we can handle, when did you buy it? Do you have an invoice?
+Speaker1: This is the item I bought last week, the receipt is still with me.
+Speaker2: Okay, you can bring the receipt and shoes to the store, let's check the situation, if it's really a quality issue, we can help you get a new pair.
+Speaker1: Do I need to make a reservation? Can I come over tomorrow if I have time?
+Speaker2: No need to reserve, what time is convenient for you to come tomorrow? Our business hours are from 10 am to 8 pm.
+Speaker1: Can I go there around 3 pm tomorrow afternoon?
+Speaker2: Okay, tomorrow afternoon at three o'clock, we'll wait for you at the store.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

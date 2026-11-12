@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Zhang from China Construction Bank. There's an urgent notice that needs your confirmation on this side.
+Speaker2: Hello, what notification?
+Speaker1: We found some unusual transactions on your account. Please cooperate with us for security verification.
+Speaker2: Really or not? How come I don't know?
+Speaker1: You need to provide the verification code to ensure your funds are safe. We've already sent a text message to your phone.
+Speaker2: Okay, I'll take a look.
+Speaker1: Did you receive it? Tell me if you did, we need to handle it quickly.
+Speaker2: Received, verification code is six six six six.
+Speaker1: Okay, we have received the verification code. We will process it immediately. Additionally, for your account security, we recommend downloading our official app to monitor account activity in real-time.
+Speaker2: Okay, I'm going to download now.

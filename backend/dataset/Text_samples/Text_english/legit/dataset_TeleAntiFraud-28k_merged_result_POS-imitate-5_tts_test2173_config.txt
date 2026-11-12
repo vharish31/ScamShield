@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me if your store has any new sports shoes?
+Speaker2: Have you, we recently bought several new sports shoes, what color and size do you want?
+Speaker1: I want a pair of white size 42.
+Speaker2: Okay, we have white color 42 running shoes in stock here.
+Speaker1: How much does this shoe cost?
+Speaker2: The price of this white sports shoe is five hundred ninety-nine yuan.
+Speaker1: Can you be a little cheaper?
+Speaker2: This shoe is a new product, the price is quite firm, but if you buy it now, we can give you a pair of sports socks, how about it?
+Speaker1: Okay, I'll think about it. Are there any other promotional activities?
+Speaker2: Yes, if you place an order today, you can also enjoy a discount of 50 yuan for every 500 yuan spent.

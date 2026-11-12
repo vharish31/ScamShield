@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: I saw your advertisement, I want to ask about the price of your menu.
+Speaker2: Hello, we have various dishes to choose from here, could you please tell me roughly what kind of service you need?
+Speaker1: I'm looking for a family-style dinner that can accommodate around ten people.
+Speaker2: Okay, we have a family gathering menu with ten dishes, priced at six hundred yuan, and included is free tea and water service.
+Speaker1: Can I make a reservation for this dish that sounds good?
+Speaker2: Of course, you can choose a suitable time, we prepare in advance.
+Speaker1: Can I reserve a table for six o'clock on Saturday evening?
+Speaker2: Saturday evening at 6:00, okay, I'll book it for you. Do you need a contact method?
+Speaker1: Please, my phone number is 1345678900.
+Speaker2: Okay, I have recorded it down. On Saturday evening at six, we will prepare everything for you. Is there anything else you need help with?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

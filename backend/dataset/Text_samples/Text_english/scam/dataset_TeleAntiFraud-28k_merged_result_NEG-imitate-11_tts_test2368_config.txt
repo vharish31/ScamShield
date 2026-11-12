@@ -1,0 +1,13 @@
+Speaker1: Hey, what's up?
+Speaker2: Hello, who are you?
+Speaker1: Hello, I am Xiao Zhang, the customer service representative of Chinatian Technology. We noticed that you recently purchased a smartwatch on our platform and may have encountered some issues, so we want to confirm with you.
+Speaker2: Oh, really? I really encountered some problems, my smartwatch shows time inaccurate.
+Speaker1: I'm very sorry to have caused you inconvenience, we will solve this problem for you. Could you please provide your purchase order number?
+Speaker2: Okay, the order number is 234101.
+Speaker1: Okay, I have found your order. To quickly solve your problem, please download our official app to quickly handle your order issue.
+Speaker2: Is the app safe to download?
+Speaker1: It's absolutely safe, our app is available in all major app stores, you can download it with peace of mind. After downloading, I will guide you to complete the operation on the app and handle your issue.
+Speaker2: Okay, let me try.
+Speaker1: Great! After downloading, open the app and click on the "Customer Service" on the first page, then select "Feedback" and follow the instructions.
+Speaker2: Okay, I understand. Thank you for your help.
+Speaker1: No problem, if you encounter any issues during the operation, please feel free to contact me anytime. My contact information is 07623232. Wish you all the best, goodbye.

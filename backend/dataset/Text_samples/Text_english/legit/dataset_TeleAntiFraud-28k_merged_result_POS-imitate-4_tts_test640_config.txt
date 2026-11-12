@@ -1,0 +1,14 @@
+Speaker1: Hello, can you find a customer service specialist?
+Speaker2: Hello, I am a customer service representative. What can I help you with?
+Speaker1: Hello, I found a washing machine on your website that I like, but I'm not sure if it's suitable for my home's layout, so I want to consult with you.
+Speaker2: Of course, can you simply describe your home's layout, such as the size of the space, the width of the door, etc.?
+Speaker1: Our house is a two-room apartment, the balcony has a door, about 80 centimeters wide, I don't know if this washing machine can successfully enter the door.
+Speaker2: Based on the information you provided, this washing machine is 60 centimeters wide and should fit easily into your home. However, to ensure there are no issues, it's recommended to measure the width of your door frame and make sure there's enough space.
+Speaker1: Okay, I'll measure it tomorrow. Also, how loud is the noise of this washing machine?
+Speaker2: This washing machine's noise control is very good, the noise level is approximately 54 decibels during operation, which will not affect your daily life.
+Speaker1: That's great, I'm still worried about washing clothes at night affecting my family's rest. By the way, do you have a delivery service to our door?
+Speaker2: Yes, we provide door-to-door delivery service nationwide, and we also have a professional installation team that can help you install and debug.
+Speaker1: That's so convenient, I decided to buy it. Have you guys had any promotional activities lately?
+Speaker2: Yes, you can enjoy a 90% discount now when purchasing, and there's also a chance to get a small gift. You can check the specific activity details at checkout.
+Speaker1: Okay, thank you for your help. I will place my order quickly.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Have a nice shopping, bye!

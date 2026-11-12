@@ -1,0 +1,9 @@
+Speaker1: Hello, this is Xiao Li, the customer service representative of China Security Express. There is a lost package compensation notice that needs your confirmation.
+Speaker2: Really? I really didn't receive a package yesterday.
+Speaker1: Yes, after we confirmed, your package was indeed lost, to compensate for your loss, we need you to click on a link to confirm the compensation information.
+Speaker2: Okay, how do I operate it?
+Speaker1: You can open this link through your phone browser and enter your personal information and delivery number, we will process your compensation claim quickly.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, if you have any issues after operating, feel free to contact me anytime.
+Speaker2: Thank you, I'll handle it now.
+Speaker1: No problem, wish you good luck.

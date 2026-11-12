@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service center of Huaxing Bank, I am the customer service manager Li Ming, have you recently filled out information on our bank's activity page?
+Speaker2: Yes, I did fill out some information.
+Speaker1: Great, after reviewing, we found that you meet our new credit loan conditions, high credit limit, low interest rate, pay as you go, no collateral, are you interested in learning more?
+Speaker2: This sounds good, I really need some cash flow lately.
+Speaker1: That's great, but to ensure your information is safe, we need to verify some personal info first, like your ID number and bank account, can you provide them easily?
+Speaker2: Can you ensure my information security? How?
+Speaker1: We have strict information security measures, all information is processed through encryption, absolutely no leakage to third parties, you can rest assured.
+Speaker2: Okay, I believe you once, my ID number is 123456789012345678, my bank account is 6222020000000000000.
+Speaker1: Thank you very much for your cooperation. We will process your loan application immediately after you click on this link and fill out the detailed personal information. The link is http://fakebank.com/loanapply.
+Speaker2: Okay, I'm going to fill it out now.

@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, I just saw your menu, can you tell me if your beef noodle is spicy?
+Speaker2: Hello, our beef noodle soup has several flavors, you can choose non-spicy, mild spicy or medium spicy.
+Speaker1: Do you have a non-spicy one now?
+Speaker2: Is it now that you are coming, or do you need to schedule a specific time?
+Speaker1: Can I come in about half an hour?
+Speaker2: Okay, we'll hold a spot for you, about half an hour from now.
+Speaker1: Okay, thank you. By the way, I brought a child, do you have a child's chair?
+Speaker2: Yes, we have children's chairs here, don't worry.
+Speaker1: Thank you for your service. See you in half an hour.
+Speaker2: Okay, see you in half an hour, be careful on the road.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I assist you at the warm home family service?
+Speaker2: Hi, how are you? What specifically is the content of your cleaning service?
+Speaker1: Hello, our cleaning service includes daily cleaning and deep cleaning, such as wiping windows and cleaning kitchen appliances.
+Speaker2: Hey, what's your service time like?
+Speaker1: We provide flexible service time, which can be arranged according to your needs in the morning, afternoon or weekend.
+Speaker2: Okay, how do I make a reservation?
+Speaker1: You can directly book here, tell me your convenient time, we will arrange our staff to come to your door for service.
+Speaker2: How is the cost calculated?
+Speaker1: Our fee standard is calculated by the hour, fifty yuan per hour, if special services are required, such as opening and cleaning, the cost will be different.
+Speaker2: Okay, I understand, so I'll make a reservation for next Saturday at 10 am.
+Speaker1: Okay, I have scheduled a service for you on Saturday at 10 am next week. We will arrive on time.

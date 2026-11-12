@@ -1,0 +1,9 @@
+Speaker2: Hello!
+Speaker1: What time do your store close?
+Speaker2: What can I help you with at our store, which closes at nine o'clock in the evening?
+Speaker1: How long will it take to get a new phone?
+Speaker2: If you order now, you can usually get it delivered tomorrow afternoon.
+Speaker1: Great, I'll order now.
+Speaker2: Okay, after placing the order, please check the logistics information, and feel free to contact us if you have any issues.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. If you have other questions, feel free to consult anytime. Have a nice day!

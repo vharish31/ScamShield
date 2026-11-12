@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Xiao Wang, I want to consult your home service.
+Speaker2: Hello, Xiao Wang, I am customer service Li, what services do you want to know about?
+Speaker1: Can you tell me more about your cleaning service, specifically for families with children, how do you ensure safety?
+Speaker2: Our cleaning service uses all non-toxic and harmless cleaning agents, which are especially suitable for families with children. We also provide professional child-friendly cleaning services to ensure every corner is dry and clean.
+Speaker1: Okay, how do you arrange your service time? Can you make a reservation?
+Speaker2: Of course, our service time is very flexible, you can schedule a time according to your needs. We provide service from 8 am to 6 pm, which time slot is most convenient for you?
+Speaker1: Can I make a reservation for this Saturday morning at 10 o'clock?
+Speaker2: On Saturday morning at 10 o'clock, we will arrange our staff to provide door-to-door service. Could you please tell me your address?
+Speaker1: The address is Happiness Villa No. 3, Building 2, Unit 402.
+Speaker2: Okay, happy community three number building two single unit four zero two room, we arrive on Saturday morning at ten o'clock on time. If you have other requirements, please contact us in advance. Wish you happy life, goodbye!

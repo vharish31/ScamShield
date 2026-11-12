@@ -1,0 +1,16 @@
+Speaker1: Hey, how are you? I want to ask if there's a room here for this weekend?
+Speaker2: Hello, how many nights do you plan to stay?
+Speaker1: I plan to stay two nights, from Saturday to Sunday, for two people.
+Speaker2: Okay, I'll check here. Hmm, on weekends we have standard rooms with twin beds, standard rooms are 300 yuan per night, and big rooms with twin beds are 350 yuan per night.
+Speaker1: Is there any vacant room in the big bedroom?
+Speaker2: Do you need to book the two rooms in the big bedroom?
+Speaker1: Please book two nights of a large bed room.
+Speaker2: Okay, I'll book for you. What's your name and contact info?
+Speaker1: My name is Li, my phone number is 1381234565.
+Speaker2: Okay, Mr. Li, your reservation was successful. We will hold the room until Saturday evening 6 pm. If you have any issues, please contact us anytime.
+Speaker1: Okay, thank you. Is there any good restaurant recommendation near the hotel?
+Speaker2: Yes, there's a great restaurant next to our hotel called "Mei Shi Xuan". The food is delicious, you should definitely give it a try.
+Speaker1: I'm so eager to go after listening to you, thank you for your recommendation.
+Speaker2: No problem, I hope you enjoy your stay at our hotel. If you need any help, please let me know.
+Speaker1: Okay, thank you again, goodbye.
+Speaker2: Goodbye, wish you all the best.

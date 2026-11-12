@@ -1,0 +1,12 @@
+Speaker1: Hi, I'm little Li, can you tell me about your restaurant's special dishes?
+Speaker2: Hello, little Li, I am server Wang, our restaurant special dishes have spicy crab, ginger steamed clams and roast lamb, very popular.
+Speaker1: Hey, how much do these dishes cost?
+Speaker2: Lobster with chili is 80 yuan per portion, steamed abalone with ginger is 50 yuan per plate, roasted lamb is 100 yuan per kilogram.
+Speaker1: What is the restaurant's business hours?
+Speaker2: Our restaurant business hours are from 10 am to 10 pm every day, welcome anytime.
+Speaker1: How far in advance do I need to book a place?
+Speaker2: It's recommended to book two to three days in advance, especially during holidays, to ensure a seat.
+Speaker1: Okay, I plan to take my family out at 6 pm on Saturday night. Can I reserve it?
+Speaker2: Sure, on Saturday evening at 6 pm, I will reserve a four-person table for you. Please remember to give your name when you arrive.
+Speaker1: Okay, thank you for your help, see you on Saturday.
+Speaker2: You're welcome, looking forward to your arrival, see you on Saturday.

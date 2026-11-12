@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me more about your delivery service?
+Speaker2: We provide various food delivery services here. You can place an order through our app or phone. We will deliver within an hour.
+Speaker1: How long do I need to order food in advance?
+Speaker2: I suggest you place your order one to two hours in advance to ensure the taste and temperature of the food.
+Speaker1: Okay, I want to eat hotpot tonight, do you guys provide hotpot delivery?
+Speaker2: Yes, we provide hot pot takeout service, including ingredients, dishes, and utensils, you can choose according to your needs.
+Speaker1: What about the price?
+Speaker2: The prices of hot pot delivery vary depending on the selected ingredients, generally between 100 to 200 yuan, you can first check our menu and select your favorite ingredients.
+Speaker1: Okay, let me take a look. Which payment methods are supported?
+Speaker2: We support WeChat Pay, Alipay, and bank card payments. You can choose your preferred payment method when placing an order.
+Speaker1: Thanks for your help, I'll place the order now.
+Speaker2: You're welcome, hope you enjoy your meal, feel free to contact us anytime if you have any questions.

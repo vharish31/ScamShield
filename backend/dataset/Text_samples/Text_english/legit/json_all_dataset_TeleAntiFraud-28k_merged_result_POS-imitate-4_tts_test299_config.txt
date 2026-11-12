@@ -1,0 +1,13 @@
+Speaker1: Hey, are you Wang Qiang?
+Speaker2: Hello, are you me?
+Speaker1: Hi, I'm little Li. Did you consult our website about a smartwatch a few days ago? Would you like to know more about it?
+Speaker2: Hey, yeah, that bracelet, I'm still pretty interested in it, do you have any new stuff over there?
+Speaker1: Okay, our warehouse has goods now, you can choose to come to the store directly to see them, or I can help you deliver them quickly.
+Speaker2: How long will the delivery take?
+Speaker1: In general, it takes two to three days to deliver after placing an order, but the specific delivery time depends on the logistics situation.
+Speaker2: Is there any discount activity on the price?
+Speaker1: There's a promotion going on right now. Buy this watchband and get a 90% discount, plus a free watchband protector.
+Speaker2: The sound is good, I decided to buy one, do you support online payment?
+Speaker1: You can complete payment through our official website or app, it's very convenient.
+Speaker2: Okay, I'll place an order later, thank you for your help.
+Speaker1: You're welcome, feel free to contact us anytime if you have any questions, happy shopping!

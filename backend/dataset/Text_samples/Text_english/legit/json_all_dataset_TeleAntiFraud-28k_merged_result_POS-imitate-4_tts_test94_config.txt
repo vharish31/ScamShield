@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, this is a nice home. Is there anything I can help you with?
+Speaker1: Hey, I saw your advertised sofa, want to know more about the price and style?
+Speaker2: Okay, our sofa comes in various styles and colors to choose from, prices range from 3,000 to 10,000 yuan, you can check the specific design in-store or online.
+Speaker1: Is it convenient for me to go back now?
+Speaker2: Of course, we are open from nine in the morning to eight in the evening, and welcome you anytime.
+Speaker1: Okay, now I'm going back.
+Speaker2: Okay, we are at the square next to the city center, you walked straight from the north gate and arrived.
+Speaker1: How long will it take to arrive?
+Speaker2: If you leave now, you should arrive in about twenty minutes, if the road isn't congested.
+Speaker1: Okay, thank you, I'll see you later.
+Speaker2: No problem, see you later.

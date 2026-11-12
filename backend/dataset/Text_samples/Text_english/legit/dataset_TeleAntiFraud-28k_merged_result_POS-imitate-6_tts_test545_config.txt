@@ -1,0 +1,10 @@
+Speaker1: Hello, are you in room 122? I'm here to deliver food.
+Speaker2: Yes, I am.
+Speaker1: Okay, I'll go upstairs.
+Speaker2: Okay, thank you.
+Speaker1: Here, you open the door.
+Speaker2: I'll be right there.
+Speaker1: Okay, no rush.
+Speaker2: Here, here, can you help me?
+Speaker1: No problem, this is your meal, please confirm.
+Speaker2: Okay, everyone, thank you.

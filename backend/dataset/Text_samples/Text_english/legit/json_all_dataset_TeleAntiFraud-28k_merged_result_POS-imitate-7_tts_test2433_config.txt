@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me more about your hairdressing service, how long can I book in advance?
+Speaker2: Our hairdressing service usually requires a two to three day advance booking. If you book now, the earliest you can schedule is tomorrow afternoon.
+Speaker1: Do you have any free time in the afternoon tomorrow?
+Speaker2: What time is more convenient for you, three and a half or four and a half in the afternoon tomorrow?
+Speaker1: Quarter to four, I should have arrived.
+Speaker2: Okay, I'll book you a haircut at 4:30, remember to bring your ID.
+Speaker1: Okay, thank you. Got it, do you have shower services there?
+Speaker2: Yes, haircut service includes hair washing service, you can enjoy it later.
+Speaker1: Okay, I'll see you later.
+Speaker2: Okay, see you later. If you have any questions, feel free to contact us anytime. Bye.

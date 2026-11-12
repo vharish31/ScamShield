@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the manager of Agricultural and Commercial Bank.
+Speaker2: Hello, Zhang Manager.
+Speaker1: Have you noticed any recent capital rotation needs in your enterprise? I can provide you with some low-interest loan services. Are you interested in learning more?
+Speaker2: Uh, I'm a bit tight-handed right now, can you give me a specific explanation?
+Speaker1: Of course. We have a special loan product designed for enterprises, no collateral, fast approval, high credit limit. Just provide some basic information and we can start the application process right away.
+Speaker2: Listen well, what do you need me to do?
+Speaker1: Just click this link, fill in the relevant information, and we'll have a specialist follow up.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you a text message with the link. Please fill it out quickly. Also, to speed up the approval process, you can fill in your bank card information on the application form, so we can directly process the review.
+Speaker2: I understand, thank you for your help.

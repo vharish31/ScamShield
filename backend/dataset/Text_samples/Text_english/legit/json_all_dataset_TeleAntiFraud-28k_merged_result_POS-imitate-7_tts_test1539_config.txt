@@ -1,0 +1,9 @@
+Speaker1: Hello, I am customer service Li from the point store, we see that your account has not yet used the member points, tonight all the points will expire and clear zero. Do you know?
+Speaker2: Have the points expired? Where did these points come from?
+Speaker1: These points are the ones you accumulated by using our payment service. You now have over 28,000 points in your account, which you can exchange for a variety of products, such as white wine gift boxes, brand-name four-piece suits, high-definition TVs, and smartwatches.
+Speaker2: Is it possible to directly deduct cash?
+Speaker1: Yes, you can directly deduct cash with points, you need to seize time to choose products for exchange. To thank you for your support, I can also apply for a special privilege, after exchange, the remaining points can be retained, and you can also get an additional gift bag, enjoy free return service.
+Speaker2: How do I exchange?
+Speaker1: You can exchange through our official website or mobile app. I can provide you with an exchange link here, and if you're convenient, I can send it to your phone.
+Speaker2: Okay, that's all I need from you.
+Speaker1: No problem, I will send you the exchange link right away. If you encounter any issues during the process, please feel free to contact me anytime.

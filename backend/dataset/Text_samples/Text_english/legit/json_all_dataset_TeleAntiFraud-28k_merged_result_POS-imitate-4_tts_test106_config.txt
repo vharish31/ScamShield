@@ -1,0 +1,10 @@
+Speaker1: Hello, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: I am a customer service representative for an e-commerce platform. Your accumulated shopping points on your account will be cleared at midnight tonight.
+Speaker2: Really? I don't know how.
+Speaker1: We have already sent you a free exchange SMS, you can open it to take a look.
+Speaker2: Okay, I'll go take a look right away.
+Speaker1: These points can help you deduct over three thousand nine hundred dollars in cash, hurry up to spend them.
+Speaker2: Okay, what can I buy?
+Speaker1: You can buy cigarettes, alcohol, groceries, and electronic products on our platform with points.
+Speaker2: Okay, thank you for your reminder.

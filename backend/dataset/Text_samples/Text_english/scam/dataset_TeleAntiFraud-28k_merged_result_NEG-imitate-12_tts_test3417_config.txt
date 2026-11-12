@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the happy shopping platform customer service center, I am customer service manager Zhang.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed that you recently placed an order to purchase a phone on our platform, but unfortunately, there were some issues with your order.
+Speaker2: Oh, is that so? What's the problem?
+Speaker1: Your order has been mistakenly marked as a duplicate order, but you can actually enjoy our member discount price. To make up for it, we have decided to give you a special discount. Just click on the link, select a new product, and you can enjoy a 90% discount.
+Speaker2: How do I operate it?
+Speaker1: You can click on the link I sent you to directly enter the discount page and select your favorite products. If you're not convenient, I can help you complete it through the phone.
+Speaker2: Okay, can you send me a link?
+Speaker1: Okay, I'll send it to you right away. To ensure your account's safety, please provide your phone number first, so we can send you a link.
+Speaker2: My phone number is 13000000000.

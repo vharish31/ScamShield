@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm Lee Huai, I recently saw your beauty service at your shop and wanted to know more about the specifics.
+Speaker2: Hello, Lee Huang, I am a customer service representative, very happy to serve you. What aspect of beauty service do you want to know about?
+Speaker1: I want to know more about the contents and prices of the below nursing care services.
+Speaker2: Our facial cleansing service includes deep cleansing, skin analysis, facial massage, and other procedures, which take about an hour and cost 200 yuan.
+Speaker1: Does this service have any special discounts?
+Speaker2: Do you want to try our special activity and get an 80% discount on your first facial massage service?
+Speaker1: Great, do I need to make an appointment?
+Speaker2: Yes, to ensure service quality, we suggest booking in advance. Do you have any convenient time?
+Speaker1: Can I meet you at 3 pm on Thursday afternoon next week?
+Speaker2: Okay, I have scheduled a facial treatment for you on Tuesday afternoon at 3 pm. Please come on time. Do you need anything else?
+Speaker1: No more, thank you for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival, wish you a happy life.

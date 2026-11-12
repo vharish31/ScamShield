@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Lee Huai?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Zhang, the customer service representative from Taobao. There's an issue with your order, and we need your cooperation to handle it.
+Speaker2: What's the issue?
+Speaker1: Your order was lost during delivery by the courier company, so we need to process a refund for you.
+Speaker2: How do you handle it?
+Speaker1: Please click on the link we provide, fill in the relevant information, and we will process your refund quickly.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, please let me know if you have any issues. You can contact me anytime.
+Speaker2: Thank you, I will pay attention.

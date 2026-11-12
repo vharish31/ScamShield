@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I just ordered a cake on your website, can you confirm the order?
+Speaker2: Hello, Xiao Ming, I am customer service representative Zhang. Can I help you confirm your order? What is your order number?
+Speaker1: My order number is one two three four five six seven.
+Speaker2: Okay, I'll check. Please wait a moment. I found it, your order has been confirmed, the cake will be delivered to the address you provided before four o'clock this afternoon.
+Speaker1: That's great, thank you. By the way, I want to confirm the flavor of the cake, I remember it's chocolate with strawberry.
+Speaker2: Yes, your order note confirms that you selected chocolate with strawberry flavor. We will prepare it according to your request.
+Speaker1: Okay, what about it? Additionally, do I need to sign for the cake delivery myself?
+Speaker2: No need for self-receipt, if there's someone else at home, they can pick up. If no one's home, our delivery person will put the cake in the specified safe spot and call to confirm.
+Speaker1: This way is much more convenient now, thank you for your help, little Zhang.
+Speaker2: No problem, this is what I should do. If there are any other questions, please feel free to consult anytime. Wish you a happy day!

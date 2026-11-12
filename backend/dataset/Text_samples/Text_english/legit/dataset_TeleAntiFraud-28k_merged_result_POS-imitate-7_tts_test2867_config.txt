@@ -1,0 +1,11 @@
+Speaker1: Hey, are you going to the Central Park?
+Speaker2: Hey, how are you? Yeah, I want to go to the Central Park, are you there yet?
+Speaker1: I should be there in about ten minutes, can you confirm the order, I'll be right over.
+Speaker2: Okay, okay, I'll confirm right away.
+Speaker1: Do you have anything urgent on your side?
+Speaker2: Oh no, my friend's birthday is coming up, I better hurry over.
+Speaker1: I understand, I will hurry over quickly.
+Speaker2: Great, I'll wait for you, I'll send you the location.
+Speaker1: Okay, I see the location, you can relax now.
+Speaker2: Okay, thank you, I'll call you now.
+Speaker1: Okay, okay, be careful on the road.

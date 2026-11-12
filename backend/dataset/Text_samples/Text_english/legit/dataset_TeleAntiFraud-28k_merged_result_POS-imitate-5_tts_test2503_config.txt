@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, recently I saw a phone I like, do you have this phone in stock here?
+Speaker2: Hello, little king, I am the small zhang of the electronic mall, the phone you said is in stock, which model do you want to know?
+Speaker1: The latest model with the highest configuration version.
+Speaker2: Okay, we do have the latest high-end configuration version of the phone in stock, and there's also a discount promotion going on right now. When do you want to come pick it up?
+Speaker1: What is the content of the discount activity? Can I come over this afternoon?
+Speaker2: We are currently offering a discount of 95% on this phone, and you will also receive a free original phone case and screen protector. If you come this afternoon, you can pick it up directly.
+Speaker1: I heard it's good, so I'll probably arrive around 3 pm at your store, hoping there's still some goods then.
+Speaker2: Okay, I'll reserve a room for you. Just say "find me small zhang" when you arrive.
+Speaker1: Okay, thank you for your service, see you in the afternoon.
+Speaker2: No problem, looking forward to your arrival, see you in the afternoon.

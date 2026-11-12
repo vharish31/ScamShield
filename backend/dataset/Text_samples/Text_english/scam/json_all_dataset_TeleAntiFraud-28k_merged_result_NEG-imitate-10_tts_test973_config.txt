@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural Bank, Li Xiaoxia. Have you recently had any need for capital rotation? We have a low-interest credit loan here with a very favorable interest rate, only requiring 0.02 yuan.
+Speaker2: I don't need a loan at the moment.
+Speaker1: Okay, would you be able to provide contact information? We can provide more detailed information for your reference in the future if you need it.
+Speaker2: Okay, but I'm not very clear on these loan procedures.
+Speaker1: No problem, you just need to provide some basic information, and our staff will help you complete the subsequent operations. You can learn more information through this link: [this is the link]
+Speaker2: I received the link. I'll take a look. Are there any other procedures?
+Speaker1: You just need to fill in the relevant information in the link, and we will review it quickly. After review is approved, you need to pay the audit fee, and then the loan can be released.
+Speaker2: How much is the review fee?
+Speaker1: The review fee is three thousand yuan, which is a necessary expense to ensure your credit is good. After the review is passed, your loan amount will be much higher than this fee.
+Speaker2: Okay, I will consider it. Thank you for your help.

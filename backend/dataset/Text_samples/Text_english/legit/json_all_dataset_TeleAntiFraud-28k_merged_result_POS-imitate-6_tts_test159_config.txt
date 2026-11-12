@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your hair cutting service.
+Speaker2: Hello, I am the customer service of the beauty salon. What can I help you with?
+Speaker1: Can you tell me more about your haircut package, how much does it cost?
+Speaker2: We have several different haircut packages here. The basic haircut is 80 yuan, which includes washing, cutting, and drying; if you need a hair design, the price is 120 yuan.
+Speaker1: Do I need to make an appointment if I just want to cut a basic one?
+Speaker2: I suggest you make an appointment in advance to ensure you have a suitable time slot.
+Speaker1: Okay, I want to make a reservation for tomorrow at 2 pm.
+Speaker2: Okay, tomorrow at 2 pm, I will record it for you. Can you provide your name and contact information?
+Speaker1: My name is Li Ming, phone number is 131233456.
+Speaker2: Okay, Li Ming Xiāngshēng, I have already booked a basic haircut service for you tomorrow at 2 pm, please come ten minutes early.
+Speaker1: Okay, thank you for your service, goodbye.
+Speaker2: No problem, I'm looking forward to your arrival, goodbye.

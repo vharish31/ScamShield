@@ -1,0 +1,10 @@
+Speaker1: Hello, I am a customer service representative from Commercial Bank, we recently introduced a new loan product, are you interested in learning more?
+Speaker2: Can I borrow some money? I recently have a little bit of cash need, can you give me more information?
+Speaker1: Of course, this loan product does not require collateral, approval is quick, interest rate is low, and it is very suitable for your current situation. If you are interested, you can click on the link I sent you and fill out the relevant information, and we will have a specific person contact you.
+Speaker2: How do I know this link is safe?
+Speaker1: This link is our official link, very safe, you can relax now. Moreover, for your information security, it is recommended that you operate in a safe network environment.
+Speaker2: Okay, let me try.
+Speaker1: Okay, thank you for your trust. If you encounter any issues during the operation, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you good luck with the operation.
+Speaker2: Goodbye.

@@ -1,0 +1,11 @@
+Speaker2: Hey, how are you?
+Speaker1: Is your delivery service still operating?
+Speaker2: Are you interested in ordering food? We have been providing service continuously.
+Speaker1: Yes, I want to see what recommended dishes are there.
+Speaker2: Our special dishes this week are red braised pork and steamed fish, both very popular. Would you like to try them?
+Speaker1: Listen sounds good, so I want one portion of red braised pork and one portion of steamed fish, and also need one bottle of Coke.
+Speaker2: Okay, red braised pork, steamed fish and a bottle of Coke, do you have any other requirements? Like spiciness or less oil, for example?
+Speaker1: No problem, just follow the standard, okay, how long will you be able to send it?
+Speaker2: What is your address? We usually deliver within 30 minutes after ordering.
+Speaker1: The address is Yángguāng huāyuán xiǎozhuāng sān hào lóu èr dàn yī xiàng liù xiàng èr yī shìng.
+Speaker2: Okay, your order has been recorded. It will arrive in about thirty minutes. If there are any issues, we will contact you in advance.

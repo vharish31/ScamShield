@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I work at the Agricultural Bank's Credit Center, we recently launched a no collateral loan product with a low interest rate and quick disbursement, are you interested in learning more?
+Speaker2: Uh, I'm a bit tight-handed right now, can you give me a detailed explanation?
+Speaker1: Of course. You just need to provide some basic personal information, and we can evaluate your loan amount. For convenience, you can download our bank's official app, which is very easy to use.
+Speaker2: How do I know if this app is safe to download?
+Speaker1: This app is our official channel, absolutely safe. You can download it through this link, I will send it to your phone. After downloading, you can directly apply for a loan in the app, very convenient.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, if you have any issues after downloading, feel free to contact me anytime. My phone number is 13812345678. Best wishes, goodbye.
+Speaker2: Thank you, goodbye.

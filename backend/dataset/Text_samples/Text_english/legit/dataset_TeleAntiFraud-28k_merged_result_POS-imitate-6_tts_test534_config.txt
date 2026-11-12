@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Li, the customer service representative for Zhiji Maintenance. I see you recently have a need for maintenance service, can I help you understand the specifics?
+Speaker2: Hello, my home's air conditioner isn't working properly lately. What could be the problem?
+Speaker1: Understood, could you please provide us with the address information? We'll arrange for a professional repair technician to come over and check it out.
+Speaker2: Okay, my home address is Happiness Road 32nd Lane, 3rd Floor, 2nd Unit, 602 Room.
+Speaker1: Is 10am to 12pm on tomorrow morning convenient for you?
+Speaker2: Sure, I've been at home during this time period.
+Speaker1: Okay, we have successfully reserved the appointment, master will arrive on time, please keep the phone communication open. Is there anything else you need help with?
+Speaker2: No more, thank you.
+Speaker1: You're welcome, wish you happy life, bye.
+Speaker2: Goodbye.

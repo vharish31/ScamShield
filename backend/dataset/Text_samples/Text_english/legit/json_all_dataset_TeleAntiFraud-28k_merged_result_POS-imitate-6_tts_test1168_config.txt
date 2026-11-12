@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? Do you have any vacant rooms here?
+Speaker2: Hello, I am the front desk clerk. What type of room would you like to reserve?
+Speaker1: A standard apartment for two people.
+Speaker2: Okay, let me check. Hmm, we also have standard rooms, can we book them?
+Speaker1: What is the price?
+Speaker2: The standard room price is three hundred and fifty yuan per night, including breakfast for two.
+Speaker1: Okay, I want to book two nights, starting from tomorrow.
+Speaker2: Okay, I'll register you. What's your name and contact info?
+Speaker1: My name is Li Ming, phone number is 13801380138.
+Speaker2: Okay, Li Ming Xiāngshēng, your reservation is complete. Please directly handle the check-in procedures at the front desk tomorrow.
+Speaker1: Okay, thank you.

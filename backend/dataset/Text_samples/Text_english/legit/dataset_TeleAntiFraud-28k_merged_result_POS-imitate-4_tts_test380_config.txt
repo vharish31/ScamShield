@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your return/exchange policy?
+Speaker2: Of course, if our platform's products are found to have quality issues within seven days of delivery, they can be returned for free. However, if the return is due to personal reasons, there may be a fee for the return.
+Speaker1: What if the product itself has issues?
+Speaker2: If the issue is with the product itself, such as damage or not matching the description, we offer a no-condition free return or exchange, and you just need to provide relevant photos as proof.
+Speaker1: Okay, I understand. Is there another question? What is the estimated delivery time?
+Speaker2: We usually ship within 24 hours after ordering, the exact delivery time depends on your location. In general, it takes 3-5 days for cities and may take a little longer for remote areas.
+Speaker1: Can I choose the courier company when placing an order?
+Speaker2: Currently, we have several courier companies that we cooperate with. You can choose the courier company you want when placing an order, and we will do our best to meet your needs.

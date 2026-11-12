@@ -1,0 +1,11 @@
+Speaker2: Hello, do you want to consult rental housing information?
+Speaker1: Yes, I saw it online, do you still have a house for rent?
+Speaker2: Is it convenient for you to be in which area now?
+Speaker1: Are you far from the subway station in Chaoyang District?
+Speaker2: Is it about a ten-minute walk from here, or do you live alone or share a rental with friends?
+Speaker1: I need a two-bedroom apartment with two friends.
+Speaker2: We have several options in our two-room apartment. How much is your budget?
+Speaker1: The monthly budget is around five thousand.
+Speaker2: Okay, we have a few suitable properties within the budget, would you like to come take a look in person? What time is convenient for you?
+Speaker1: Is this weekend okay?
+Speaker2: Sure, 10 am on Saturday morning is good?

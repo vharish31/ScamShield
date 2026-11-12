@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a waiter at a restaurant, you have a reservation for tonight at 7 pm, do you want to confirm if you will come?
+Speaker2: Yeah, it's okay, we might be late by a bit, around seven thirty.
+Speaker1: Okay, no problem, 7:30 we'll reserve seats for you. Do you have any special requests, like seating preference or need a baby chair?
+Speaker2: We want a window seat, otherwise there are no special requirements.
+Speaker1: Okay, we'll prepare the window side for you. Do you have any pre-ordered dishes or do you need our recommendation?
+Speaker2: We haven't decided yet, let's take a look at the menu when we get there and then order.
+Speaker1: Okay, our restaurant's menu has red braised pork and steamed fish, you can consider it. Just let us know your name when you arrive, we'll be ready for you.
+Speaker2: Okay, thank you for your reminder, see you later.

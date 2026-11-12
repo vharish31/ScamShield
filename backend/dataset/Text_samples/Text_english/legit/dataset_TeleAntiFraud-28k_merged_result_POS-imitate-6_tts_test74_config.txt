@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, I just booked a train ticket to Hangzhou on your website, but I haven't received the confirmation SMS yet, can you help me check it?
+Speaker2: Hello, little Li, I am customer service Liu, can help you check? Please provide your phone number used when buying tickets.
+Speaker1: Okay, it's this number: 133123456.
+Speaker2: Okay, I'll check. Please wait for a moment.
+Speaker1: Okay, thank you.
+Speaker2: Found it, your train ticket has been successfully booked. It's possible that the message was intercepted by the telecom operator. You can log in to our website and check the details in my order.
+Speaker1: How do I know my train ticket information?
+Speaker2: You can log in to the website and check your order details on my order page. The order details will include your train schedule, seat number, and other relevant information.
+Speaker1: Okay, I'll check it out.
+Speaker2: If you have any other questions, please contact our customer service. Have a nice trip.

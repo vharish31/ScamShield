@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm small Li, I'm from the middle center of the customer service of the middle line, we recently received a notice that your package was lost during transportation, to compensate you, we need you to provide some information to process the refund.
+Speaker2: Really? What do I do now, I recently bought some stuff.
+Speaker1: Don't worry, we will help you handle it fully on this side. To process the refund, I need you to provide your name, phone and bank card number, and we will directly deposit the refund into your bank account.
+Speaker2: Okay, my name is Xiao Zhang, my phone number is 13812345678, my bank card number is 6222 0800 1234 5678.
+Speaker1: Okay, little Zhang, we have recorded your information. To verify your identity, I need you to provide a verification code. We will send it to your phone later, please pay attention to check it.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the verification code has been sent, please enter the verification code.
+Speaker2: The verification code is 123456.
+Speaker1: Thank you, we have verified successfully. To speed up the refund process, I need you to download our cooperation third-party payment app, through which you can quickly handle the refund.
+Speaker2: Okay, I'll go download it now.

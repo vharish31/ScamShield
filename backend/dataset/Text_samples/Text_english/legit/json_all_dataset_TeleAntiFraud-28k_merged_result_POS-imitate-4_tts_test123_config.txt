@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service of Meishikitianzhi, did you book the weekend dinner party with us before?
+Speaker2: Okay, I booked two seats.
+Speaker1: Okay, we have reserved a spot for you, the specific time is 6 pm, right?
+Speaker2: Yes, that's this time.
+Speaker1: Okay, our restaurant is located in the city center square, adjacent to the subway station, and the transportation is very convenient.
+Speaker2: What time do you think is good for me to arrive?
+Speaker1: I suggest you arrive fifteen minutes early, so you can have enough time to find the location and enjoy the dinner leisurely.
+Speaker2: Okay, thank you for your reminder, I will arrive on time.
+Speaker1: You're welcome. If you have any other questions, please call our service hotline anytime. Enjoy your meal!
+Speaker2: Thank you, goodbye.

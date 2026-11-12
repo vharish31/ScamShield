@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Lee Huai?
+Speaker2: Yes, who are you?
+Speaker1: I am the manager of Agricultural and Commercial Bank. I see you have a business license, can I provide you with a loan of 35,000 yuan for your enterprise, no need for credit check, do you need to convert funds in the near future?
+Speaker2: Hmm, this sounds good, but how do I know you guys are legit?
+Speaker1: We are a regular bank, you can query through our official website. For convenience, you can download our app, which contains detailed loan information.
+Speaker2: Will downloading the app have any risks?
+Speaker1: No worries, our app is safe, you can download it without any concerns. After downloading, you can apply for a loan directly within the app, the process is very simple.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you have any issues after downloading, feel free to contact me anytime. I'll reserve a loan amount for you, don't worry.
+Speaker2: Thank you, I will download it quickly.

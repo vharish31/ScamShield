@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Xiaoming, I want to book a restaurant, can you help me?
+Speaker2: Hello, Xiaoming, of course, which restaurant do you want to reserve?
+Speaker1: I want to reserve a table at the new Sichuan restaurant in the city square, I heard the taste is good.
+Speaker2: Okay, that restaurant is quite popular, when are you planning to go?
+Speaker1: Do you know what time their business closes on the weekend?
+Speaker2: What specific time slot would you like to reserve for the weekend?
+Speaker1: Let's reserve the 7 pm seat on Saturday evening for about four people.
+Speaker2: Okay, your four-person seat has been reserved for Saturday night at 7 pm. Do you have any special requests, such as seating position or menu items?
+Speaker1: If there's a window seat, that's best. As for the menu, we'll decide later based on the situation.
+Speaker2: Okay, try to arrange a spot by the window, see you on Saturday!

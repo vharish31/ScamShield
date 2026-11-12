@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Ming, I'm at the airport, can you come pick me up?
+Speaker2: Hello, Xiaoming, I just got off the plane, I'm in the parking lot, where are you in the parking garage?
+Speaker1: I'm waiting for you on the second floor of building one parking lot, there are clear indications, you won't miss it.
+Speaker2: Okay, I see it, parking lot number one, I will come quickly.
+Speaker1: Okay, I'm waiting for you here. Call me when you arrive.
+Speaker2: Okay, see you later.
+Speaker1: Remember to bring your ID, we need it when we go to the hotel.
+Speaker2: Okay, I know, I brought my ID with me, see you later.
+Speaker1: Pay attention to safety on the road, and send me a message when you arrive.
+Speaker2: Okay, you can relax, see you later.

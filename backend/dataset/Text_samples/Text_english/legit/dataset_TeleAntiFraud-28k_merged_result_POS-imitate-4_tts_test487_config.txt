@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm Xiao Zhang, I recently opened a hair salon on your side, can you tell me how your appointment schedule is this week?
+Speaker2: Hello, little Zhang, I am little Li, our appointment situation this week is quite good, weekends are quite full, weekdays still have some gaps.
+Speaker1: Great, I have a few customers who want to make a reservation, do you have any availability on Friday from four to six in the afternoon?
+Speaker2: Let me check, there's an available spot from 4 pm to 6 pm on Friday.
+Speaker1: Great, I'll book at 5 pm, the customer's name is Xiao Wang, phone number is 13500000000.
+Speaker2: Okay, I have already scheduled a haircut for Little King on Friday at 5 pm, and we will send a reminder one day in advance via text message.
+Speaker1: Thank you very much, please feel free to contact me anytime if there are any changes.
+Speaker2: No problem, we will notify you promptly if there are any situations. Thank you for your trust and support.

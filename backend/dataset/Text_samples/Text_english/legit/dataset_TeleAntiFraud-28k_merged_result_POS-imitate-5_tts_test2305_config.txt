@@ -1,0 +1,18 @@
+Speaker1: Hello, I am customer service Li, have you recently purchased any products from our online store?
+Speaker2: No, no, I haven't bought anything recently.
+Speaker1: Oh, I didn't know that, we recently had a member point exchange activity.
+Speaker2: No no, not clear.
+Speaker1: That's right, your account has accumulated some member points, which can be exchanged for goods.
+Speaker2: No no no, I don't know about this activity.
+Speaker1: Hey, the point exchange activity started last month, you can use points to exchange some practical gifts.
+Speaker2: No no, how did I not notice?
+Speaker1: It's possible that you're usually busy and didn't notice our messages.
+Speaker2: Hmm, maybe it's like that.
+Speaker1: Do you have a moment? I can check your account balance.
+Speaker2: Sure, sorry to bother you.
+Speaker1: Okay, I'll check... Hmm, you have over 5,000 points, you can exchange many practical gifts.
+Speaker2: What can be exchanged there?
+Speaker1: Like us, we have smartwatches, thermos cups, and various household items. Are you interested?
+Speaker2: Hmm, sounds good.
+Speaker1: Do you need me to exchange it now?
+Speaker2: Sure, can you help me look for something suitable?

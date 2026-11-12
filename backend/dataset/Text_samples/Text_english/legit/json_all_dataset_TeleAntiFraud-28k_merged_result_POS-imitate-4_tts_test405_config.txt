@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Just arrived at the subway station, you too?
+Speaker1: I'm still on the bus, probably just another ten minutes until we arrive.
+Speaker2: Okay, I'll wait for you at the exit of the subway station.
+Speaker1: Okay, where are you standing at the exit? I will go straight to find you after I get off the car.
+Speaker2: I'm at gate one, you get off the car and walk along the signboard, it's easy to find.
+Speaker1: Okay, I understand. You first buy a cup of coffee or something, don't wait too long.
+Speaker2: Okay, be careful on the road, I'll wait for you.
+Speaker1: Thank you, see you later.
+Speaker2: See you later.

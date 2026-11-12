@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm Lee Ming. I reserved a place at your store for tomorrow at noon. Can you confirm it?
+Speaker2: Hello, Li Ming, we have reserved a seat for you here. It's at the window position, 12:00 PM tomorrow. Is it okay?
+Speaker1: Sure, the spot by the window is perfect, thank you. By the way, do you know what the weather will be like tomorrow? Will you bring an umbrella?
+Speaker2: Tomorrow should be a sunny day, with temperatures around twenty degrees, so you don't need an umbrella, but bringing an outer layer of clothing might be more comfortable.
+Speaker1: Okay, thank you for your advice. What time would be best for me to meet you at your store?
+Speaker2: Please arrive ten minutes early, so you have time to adjust and be ready for dinner.
+Speaker1: Okay, I will arrive on time. Also, is transportation convenient near your store?
+Speaker2: Our store is located near convenient transportation, with several buses directly accessible, and there are parking lots, which is also convenient to drive.
+Speaker1: Okay, I'll drive over. What's the address of your store?
+Speaker2: Our store is located on the first number of the square road in the city center, and you can see our signboard when you turn right at the square road corner.
+Speaker1: Got it, thanks for your detailed answer. See you tomorrow!
+Speaker2: No problem, see you tomorrow! Wish you enjoy your meal!

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Ming?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for a courier company. Your package has arrived. Please schedule a delivery time.
+Speaker2: Okay, when is it convenient for you to deliver?
+Speaker1: Can we reserve the time slot from 9am to 11am tomorrow morning or from 2pm to 4pm in the afternoon? Which one is more convenient for you?
+Speaker2: I have something to do in the morning. I can come in the afternoon from two to four o'clock.
+Speaker1: Okay, let's schedule a meeting for tomorrow afternoon from 2 to 4. We'll call you beforehand to confirm.
+Speaker2: Okay, thank you. And is the package from my online shopping?
+Speaker1: Yes, according to the system record, you bought several books in the literature category during your last purchase.
+Speaker2: Okay, bother you now.

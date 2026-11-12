@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me more about your delivery service?
+Speaker2: Of course. We provide various food delivery options here, you can choose your favorite dishes, place an order and they will be delivered to you in about 34 minutes.
+Speaker1: How much is your delivery fee?
+Speaker2: Delivery fee is 5 yuan, if order amount exceeds 50 yuan, delivery fee can be waived.
+Speaker1: Okay, if I want to order now, how long will it take to be delivered?
+Speaker2: You can get your order in about forty minutes.
+Speaker1: Do I need to pay in advance?
+Speaker2: You can choose online payment or cash on delivery.
+Speaker1: Okay, I'll choose online payment. Thank you for your help.
+Speaker2: No problem, if you have other questions, feel free to contact me. Enjoy your meal!

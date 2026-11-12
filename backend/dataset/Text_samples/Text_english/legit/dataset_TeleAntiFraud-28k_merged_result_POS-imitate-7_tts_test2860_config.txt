@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? Do you still hire waiters here?
+Speaker2: Hello, are you a full-time or part-time server?
+Speaker1: I am full-time.
+Speaker2: Okay, we are on a monthly salary basis as full-time service staff, with a base salary of three thousand yuan and performance-based bonuses.
+Speaker1: How is performance bonus calculated?
+Speaker2: Performance bonuses are based on your work performance, such as customer satisfaction and work efficiency, and are usually around 400 to 600 yuan per month.
+Speaker1: How is the work schedule arranged?
+Speaker2: The work schedule is on a rotating shift, with eight hours per day and four days off per month.
+Speaker1: Can I come for an interview when it sounds good?
+Speaker2: You can come over at 2 pm tomorrow afternoon, we'll start with a simple interview to understand your basic situation.

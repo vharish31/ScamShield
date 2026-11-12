@@ -1,0 +1,13 @@
+Speaker1: Hello, how can I help you with the five eight job recruitment for customer service?
+Speaker2: Hey, how about you guys are recruiting people now?
+Speaker1: Hello, what position are you applying for on our side?
+Speaker2: I'm looking for a job as a waiter.
+Speaker1: Waiter, we have positions here, how old are you?
+Speaker2: I am twenty-two years old.
+Speaker1: Are you twenty-two? Do you need to provide a health certificate?
+Speaker2: I have a health certificate, can provide.
+Speaker1: Okay, you can come for the interview now, our work hours are from 9 am to 6 pm every day, what time is convenient for you?
+Speaker2: I can come at 10 am tomorrow morning.
+Speaker1: Okay, tomorrow morning at 10 am, you come to our company front desk and find me, my name is Li Ming, I will meet you at that time.
+Speaker2: Okay, thank you, Li Ming, see you tomorrow.
+Speaker1: No problem, see you tomorrow.

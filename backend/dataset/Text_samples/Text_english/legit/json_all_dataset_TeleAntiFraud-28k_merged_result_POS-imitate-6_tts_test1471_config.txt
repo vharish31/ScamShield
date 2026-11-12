@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm at the subway station exit. How can I get to your store?
+Speaker2: Hello, walk straight out of the subway station, turn left at the second red and green light, walk about 500 meters, you will see a big advertising board, our store is next to the advertising board.
+Speaker1: Okay, I see the red light, should I turn left and then walk straight?
+Speaker2: Turn left and walk straight, remember passing a bridge, passed the bridge and walked for a while before arriving.
+Speaker1: After crossing the bridge, how would I know I had reached the end?
+Speaker2: Crossing the bridge, you will see a big bus station, our store is a red-colored small building facing the station.
+Speaker1: Understood, I'll leave soon, how long will it take to arrive?
+Speaker2: From your current location, it will take approximately fifteen minutes.
+Speaker1: Okay, I'm leaving now. If there are any issues on the road, contact me.
+Speaker2: Okay, be careful on the road, give me a message when you arrive.

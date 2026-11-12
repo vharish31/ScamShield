@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you check if your store has any new phone models?
+Speaker2: Yeah, we just got a batch of new phones, lots of styles, which one do you want to know about?
+Speaker1: Do you have that recently popular star phone?
+Speaker2: Yes, we have new star phone here, which information do you want to know?
+Speaker1: I want to know its price and approximate range.
+Speaker2: The price of the star sign phone is three thousand five hundred yuan, the continuation ability is very strong, the charging can be used for two days left and right, very convenient.
+Speaker1: Do you have any free gifts when buying a phone in the store?
+Speaker2: Yes, when you buy a phone, we will give you a phone case and a screen protector, as well as three months of warranty service.
+Speaker1: Okay, I'll spend the weekend checking it out, thank you.
+Speaker2: No problem, we are open on weekends too, you can come anytime. Bye!

@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am the customer service of an e-commerce platform. Today I am calling to remind you that there are seven thousand eight hundred and some change points in your account, which will expire at twelve o'clock tonight.
+Speaker2: Oh, really? How come I didn't know there were so many points?
+Speaker1: These points are the accumulated points from your previous purchases on our platform, you can use these points to exchange many products, such as electronic products and daily necessities, at a very low price.
+Speaker2: So, what should I do with these points?
+Speaker1: Just log in to our platform, enter personal center, select points mall, to see all available points exchange products.
+Speaker2: Okay, I'll check it out later. Thank you for reminding me.
+Speaker1: You're welcome! If you have any issues while using our product, please feel free to contact our customer service at any time. We hope you enjoy your shopping!
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye.

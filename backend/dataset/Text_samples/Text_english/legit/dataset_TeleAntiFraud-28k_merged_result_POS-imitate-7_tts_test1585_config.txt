@@ -1,0 +1,11 @@
+Speaker1: Hello, I'm little king, want to consult your hair service.
+Speaker2: Hello, Xiao Wang, I am Xiao Li from the hair salon, what can I help you with?
+Speaker1: Can I make a haircut appointment on Sunday at 2 PM?
+Speaker2: Is it okay, do you need to arrive fifteen minutes before two o'clock on Sunday afternoon?
+Speaker1: Okay, I will arrive on time.
+Speaker2: Okay, let's meet later.
+Speaker1: How long does it usually take to cut hair?
+Speaker2: In general, washing hair usually takes about an hour.
+Speaker1: I understand, thank you for your answer.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. Goodbye.
+Speaker1: Goodbye.

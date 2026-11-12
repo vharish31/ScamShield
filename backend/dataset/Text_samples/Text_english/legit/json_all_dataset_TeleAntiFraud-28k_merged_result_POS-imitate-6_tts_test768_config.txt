@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little king, I saw you browsing a smartwatch on our website, are you interested in this product?
+Speaker2: Hmm, I'm really interested in this watch, what special features does it have?
+Speaker1: This smartwatch can monitor your heart rate, blood pressure, sleep quality, and connect to your phone to receive messages, very practical.
+Speaker2: How much does that handband cost?
+Speaker1: This watchband is currently on sale for 399 yuan, originally priced at 499 yuan.
+Speaker2: Great, can you tell me more about your after-sales service?
+Speaker1: We offer a 7-day no-questions-asked return, a 15-day free exchange, and free repairs for quality issues within one year.
+Speaker2: Great, I might place an order soon, let's keep in touch then.
+Speaker1: Okay, you can contact me anytime if you have any questions, small king is always here to serve you.
+Speaker2: Thank you, goodbye.
+Speaker1: Goodbye, wish you happy life.

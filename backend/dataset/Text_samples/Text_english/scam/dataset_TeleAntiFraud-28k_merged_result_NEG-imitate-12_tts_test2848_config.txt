@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: You speak
+Speaker1: Good afternoon, Mr. Li. I am from a small loan company. We specialize in solving cash flow problems for small businesses. Our company can provide unsecured loans with amounts ranging from 10,000 to 50,000. Do you have any recent financial needs?
+Speaker2: I recently need some rotating funds, can you explain in detail?
+Speaker1: Okay, Li Laoban, this loan product is very flexible, the interest rate is very low. Just need you provide some basic data, like business license, ID card etc, we can quickly approve. Moreover, we also provide door-to-door service, very convenient.
+Speaker2: Listen well, what do you need me to do?
+Speaker1: Just click this link, fill out some basic info, and our customer manager will contact you quickly. This link is: (simulated conversation, no actual link provided)
+Speaker2: Okay, let me try.
+Speaker1: Great, Li Laoban, please fill out the information and we will arrange the review immediately. If there are any issues, please contact me anytime. Best wishes for your business, goodbye.
+Speaker2: Thank you, goodbye.

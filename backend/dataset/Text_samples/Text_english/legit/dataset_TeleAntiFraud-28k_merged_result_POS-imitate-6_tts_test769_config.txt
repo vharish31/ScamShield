@@ -1,0 +1,9 @@
+Speaker1: Hey, hello, I'm Zhang Qiang, I made an appointment for a haircut at your store yesterday, can you help me schedule it today?
+Speaker2: Hello Zhang Qiang, this is the hair salon, what time did you make your appointment yesterday?
+Speaker1: I had an appointment at three in the afternoon, but I'm a little early now, around two and a half.
+Speaker2: Okay, you can come early too, we'll prepare for you here, but it might take a while.
+Speaker1: How long do you think it will take?
+Speaker2: In general, clients who arrive early will wait no more than half an hour. You can come early, we'll try to arrange it quickly.
+Speaker1: Okay, thank you, I'll come over later.
+Speaker2: Okay, we'll be ready here. Just come over. Be careful on the road. Bye.
+Speaker1: Okay, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently want to buy a new phone, can you recommend me one?
+Speaker2: Hello, little Zhang, of course you can. What special requirements do you have for a new phone? For example, budget range, favorite brand or needed functions?
+Speaker1: The budget is roughly between five and six thousand, I like to take photos, so the pixels should be higher.
+Speaker2: Okay, based on your needs, I recommend you consider the latest Xiaomi, its camera is excellent, especially in low light environments.
+Speaker1: How long does the battery of the new Xiaomi last?
+Speaker2: This phone's battery capacity is 4000mAh, which can be used all day with normal use and also supports fast charging.
+Speaker1: Is this phone in stock now? It sounds pretty good to me.
+Speaker2: This phone is currently in stock. If you're interested, I can help you place an order.
+Speaker1: Okay, I'll book one. How's your delivery speed?
+Speaker2: We usually ship within 24 hours after ordering, based on your address, it will take about 2-3 days to arrive.

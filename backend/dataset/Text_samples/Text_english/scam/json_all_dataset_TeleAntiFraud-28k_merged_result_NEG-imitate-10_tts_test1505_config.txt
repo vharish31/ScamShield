@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am an AliExpress customer service representative. We found that the package you bought yesterday was accidentally lost during transportation. To process the refund, we need you to provide some basic information.
+Speaker2: Is that so? That's terrible. What information do you need?
+Speaker1: First, please provide your name and phone number so we can verify the order information. Then, we will send you a link to your phone, you need to click the link and fill in your bank card information, so we can directly refund your money to your bank card.
+Speaker2: Okay, my name is Zhang Wei, phone number is 13812345678.
+Speaker1: Okay, Mr. Zhang Wei, we have recorded your information, and you will receive a link shortly. Please pay attention to the SMS, click on the link to complete the refund process.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you have any questions, please feel free to contact our customer service at any time. Additionally, we have a special app designed for our customers to track their packages in real-time, would you be interested in downloading it?
+Speaker2: Listen good, how download?
+Speaker1: You can download directly through the link in the text message, or I can send you a QR code, scanning it will also allow you to download.
+Speaker2: Okay, I'll wait for a text message, thank you.

@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me? How are you? What can I help you with?
+Speaker1: Hi, I'm Xiao Ming, recently I want to buy a computer, do you have any configuration suitable for students?
+Speaker2: Yes, little Ming. We have a good configuration student computer here, suitable for daily learning and entertainment use, and the price is very high.
+Speaker1: How much does this computer cost?
+Speaker2: This computer originally costs six hundred and eighty yuan, now there's a discount of three hundred yuan.
+Speaker1: Can the price be further discounted after the discount?
+Speaker2: Small Ming, this price is already the lowest, but if you decide to buy now, I can send you a computer worth two hundred yuan.
+Speaker1: How do I take this discount?
+Speaker2: You can input the discount code XIAOMING200 on our official website to enjoy the discount.
+Speaker1: Okay, thank you for your help. I will go take a look.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. I hope you enjoy shopping!

@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have any vegetables at this store?
+Speaker2: Yes, we have a lot of vegetable options here, including stir-fried oyster mushrooms, spicy bean sprouts, and garlic spinach.
+Speaker1: Are you open for business now?
+Speaker2: We are open from 10 am to 10 pm, and now we are in business hours.
+Speaker1: Can I come in about half an hour?
+Speaker2: Of course, we will reserve a spot for you.
+Speaker1: Okay, I'll just come directly when the time comes.
+Speaker2: That's right, just come directly at the time, if you need to pre-order dishes, you can call us ahead.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you later, wish you a happy day.

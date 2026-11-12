@@ -1,0 +1,13 @@
+Speaker1: Hey, are you Li Ming?
+Speaker2: Hello, I am. Who are you?
+Speaker1: I am the manager of the commercial bank's credit department, we recently introduced a special discounted loan product with a very low interest rate, do you know if you are interested in learning more?
+Speaker2: Uh, loan, I recently have a bit of a cash need.
+Speaker1: Great, this is perfect for you. You just need to provide some basic information, and we can quickly approve.
+Speaker2: What do I need to do?
+Speaker1: Just click this link, fill out the application form, and we'll quickly process it for you.
+Speaker2: Okay, I'll try it out. Is this link safe?
+Speaker1: Of course it's safe, this is our official link, absolutely no problem. You can relax now.
+Speaker2: What information do I need to provide after clicking on the link?
+Speaker1: Please provide name, ID number, phone number, and bank card number for quick approval.
+Speaker2: Okay, I'll go operate now. Thank you, Zhang Jīngnǐ.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes for your application!

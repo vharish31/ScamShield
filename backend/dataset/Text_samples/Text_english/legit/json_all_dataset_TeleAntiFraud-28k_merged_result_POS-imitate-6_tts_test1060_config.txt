@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Li, recently I want to decorate my home, I heard you have decorating services on this side?
+Speaker2: Hello, little Li, yes, we do provide home decoration services here, do you want to know more about the specific process and price?
+Speaker1: Hey, yes, I mainly want to know about your quote and roughly how long the renovation period is?
+Speaker2: Our general process is to first measure the room, then design a decoration plan based on your needs, and finally give you a detailed quote. Typically, a standard decoration period is around three to four months, but this can vary depending on the complexity of the decoration and the availability of materials.
+Speaker1: So, when can I schedule an appointment for the property on this side?
+Speaker2: What time works best for you to come in for service between 9am and 12pm in the morning and 2pm and 5pm in the afternoon?
+Speaker1: Can I choose this Friday afternoon at three o'clock?
+Speaker2: Okay, I've noted it down. Our designer will contact you to confirm the address at 3 pm on Friday.
+Speaker1: Okay, then I'll wait for you guys at home. What do I need to prepare?
+Speaker2: Just prepare the floor plan of your home, if you have any specific decoration style or material requirements, please inform us in advance, so that we can design with more specificity.
+Speaker1: Got it, thanks for your detailed answer, see you on Friday.
+Speaker2: No problem, see you on Friday, wish you have a great day!

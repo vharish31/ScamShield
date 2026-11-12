@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, our restaurant recently introduced some new dishes, do you have any interest in trying them out?
+Speaker2: Hello, little Li, you've been busy lately, right? I heard your new menu items are great. What are they?
+Speaker1: Hey, we've recently introduced several seafood dishes, such as ginger steamed clams, clear steamed sea bass, and some vegetables, like ginger stir-fried broccoli, which are all very popular.
+Speaker2: What are the business hours like?
+Speaker1: We are open from 11 am to 9 pm every day, and on weekends we extend until 10 pm.
+Speaker2: Okay, do I need to make a reservation in advance for this weekend trip?
+Speaker1: Of course, reserving a seat can ensure that there is a seat, can you tell me the specific time you will arrive?
+Speaker2: Two people around seven in the evening.
+Speaker1: Okay, I have reserved a seat for you at seven o'clock tonight. See you then.
+Speaker2: Thanks, see you this weekend.

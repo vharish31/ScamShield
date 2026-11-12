@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Hello, I am.
+Speaker1: I am small Li, now in some baos client service, we notice you recently bought a clothes on our platform, unfortunately this product lost in transportation.
+Speaker2: What do you do if it's true or false?
+Speaker1: To compensate you, we have decided to provide you with a refund, but you need to cooperate with us to complete some steps.
+Speaker2: Okay, you say.
+Speaker1: First, click this link to download our official app, so we can quickly handle your refund issue.
+Speaker2: Download the app? Is it safe?
+Speaker1: Of course, this is our official channel, download it and follow the instructions to complete the refund quickly.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much for your cooperation. If you encounter any problems during the operation, please feel free to contact me at any time. My phone number is 40123456. Best wishes for your success!

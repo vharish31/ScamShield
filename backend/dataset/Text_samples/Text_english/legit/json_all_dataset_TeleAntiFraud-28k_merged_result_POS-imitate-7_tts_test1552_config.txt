@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I recently decided to cut my hair, and I want to make an appointment at your hair salon.
+Speaker2: Okay, we have various hairstyle options here. Which day would you like to book an appointment?
+Speaker1: Can I make a reservation for Saturday afternoon at two o'clock next week?
+Speaker2: Saturday at two in the afternoon is okay, but there are more people with reservations that day, so you need to pay a deposit to secure your spot.
+Speaker1: How much is the deposit?
+Speaker2: The deposit is 50 yuan, which will be deducted from the total cost after payment.
+Speaker1: Okay, how do I pay this deposit?
+Speaker2: You can pay through Wechat or Alipay, I'll send you a payment code.
+Speaker1: Okay, thank you.
+Speaker2: No problem, we will confirm via text message after successful booking, see you then.

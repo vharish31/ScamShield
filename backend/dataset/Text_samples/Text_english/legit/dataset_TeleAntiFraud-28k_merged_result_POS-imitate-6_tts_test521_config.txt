@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I saw your store's information and wanted to know more about your promotional activities.
+Speaker2: Hey, how are you? We have a promotion this week. Which category of products are you interested in?
+Speaker1: I recently want to buy a washing machine, look if there is any discount
+Speaker2: The washing machine has two special deals this week, one is a full automatic wave roller, and the other is a drum roller, which one do you prefer?
+Speaker1: I prefer rolling pin style, save water save electricity
+Speaker2: Okay, we have a nine-discounted rolling drum washing machine here, and also a gift sent as a bonus. Are you interested?
+Speaker1: Great, what is the capacity of this washing machine?
+Speaker2: This vacuum cleaner is eight kilograms in capacity and is suitable for families of three to five people.
+Speaker1: Can I go back now?
+Speaker2: Of course, our store is open from 9 am to 8 pm every day. Welcome to come anytime.

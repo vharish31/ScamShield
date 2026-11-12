@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? Good morning? Sorry to bother you, I'm the customer manager of XYZ bank, we have a special promotion for a loan with a high credit limit, low interest rate, and fast approval, are you interested in learning more?
+Speaker2: "Hey, hi, I don't have a need for a loan at the moment."
+Speaker1: Oh no, it's such a pity. But if you need anything in the future, feel free to add my WeChat, anytime you want to contact me, I'll provide you with professional service.
+Speaker2: Hmm, okay. What's your WeChat number?
+Speaker1: My WeChat is someoneso, add me down, any questions can directly contact me.
+Speaker2: Okay, I'll add one more.
+Speaker1: Great, you can send a verification message after adding it, which will help me confirm.
+Speaker2: Okay, I will send it.
+Speaker1: Do you want to know about a recent investment product that has a high return and low risk?
+Speaker2: Are you interested in investing in financial products? It sounds good, can you give me some information?
+Speaker1: Of course, I'll give you a link in a minute, you can take a look, feel free to contact me anytime if you have any questions.

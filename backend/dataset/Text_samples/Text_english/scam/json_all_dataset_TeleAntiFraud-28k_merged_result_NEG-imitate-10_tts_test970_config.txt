@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm small Li, this is the AliExpress customer service center, you had some issues with the products you bought on our platform before, we need to handle it now.
+Speaker2: Oh, is that so? What's the issue?
+Speaker1: Your order number is 123456789, the product was damaged during transportation, we are ready to give you a refund, please cooperate.
+Speaker2: Okay, how can I assist you?
+Speaker1: Please click on this link and fill out the relevant information, we will process it quickly.
+Speaker2: Link? How do I know this is true?
+Speaker1: We are regular AliExpress customer service, you can rest assured. The link is safe, clicking will have detailed explanation.
+Speaker2: Okay, let me try.
+Speaker1: Okay, click the link and follow the instructions. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you.

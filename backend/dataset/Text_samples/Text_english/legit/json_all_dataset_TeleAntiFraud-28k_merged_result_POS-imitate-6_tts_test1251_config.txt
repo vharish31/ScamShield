@@ -1,0 +1,11 @@
+Speaker2: Hey, how are you? What's up?
+Speaker1: I saw a new smartwatch on your website and wanted to know more about it.
+Speaker2: Hey, smartwatch, our new product just hit the market, do you have any specific questions?
+Speaker1: What functions does this watchband support? Such as heart rate monitoring and sleep analysis.
+Speaker2: This watch supports heart rate monitoring, sleep quality analysis, step count, and waterproof design, making it perfect for daily use and exercise.
+Speaker1: What is the price of this watchband?
+Speaker2: This watch costs 299 yuan, there's a discount of 50 yuan now, you can buy it at a discounted price.
+Speaker1: Can you tell me approximately how long your delivery time is?
+Speaker2: In general, we will ship within 24 hours after ordering, and delivery time varies depending on your location, usually within 1-3 days.
+Speaker1: Okay, I'll place the order now, thank you for your detailed introduction.
+Speaker2: You're welcome! If you have any other questions, feel free to contact our customer service anytime. Have a great shopping!

@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I'm at the intersection of forty characters, can you help me find the way to forty-one building?
+Speaker2: Hello, the forty-first building is on the north side of the forty-characters road intersection, you walk along this road straight, see the first crossroad left turn, and then walk to the end, it's done.
+Speaker1: Okay, should I be on the south side?
+Speaker2: Yes, your current location is on the south side, and building forty-one is on the north side.
+Speaker1: Okay, I'll try to find it first. If I can't, I'll contact you.
+Speaker2: Okay, no problem, if you really can't find it, you can call me again and I'll tell you in detail.
+Speaker1: Thank you so much, I'll leave now, see you later.
+Speaker2: No problem, be careful on the road, see you later.

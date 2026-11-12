@@ -1,0 +1,9 @@
+Speaker1: Hey, how are you, where are you?
+Speaker2: Hey, how are you? I just arrived at the parking lot, where are you?
+Speaker1: I'm waiting for you at the entrance of the parking lot, are you on B floor?
+Speaker2: Yes, I am on B level, but there are several exits here, do you know which one is it?
+Speaker1: Do you see if there's an exit with a K4 on it? I usually wait there.
+Speaker2: Okay, I see it, I'm walking out of K4 exit now, it should take a few minutes to get there.
+Speaker1: Okay, I'm waiting for you here, you arrived, give me a call.
+Speaker2: Okay, I'll call you as soon as I arrive, see you later.
+Speaker1: Okay, see you later.

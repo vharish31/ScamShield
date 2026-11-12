@@ -1,0 +1,14 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of the Bank of Commerce, Zhang.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed your credit record is excellent, we would like to recommend a special loan product to you, no collateral, no guarantee, fast approval, low interest rate.
+Speaker2: "Ugh, I'm not interested in loans."
+Speaker1: Understood, but our product has very favorable conditions, just need you to provide some basic information, we can pre-approve the loan amount for you, no fees required.
+Speaker2: Is it really free?
+Speaker1: Yes, completely free. If you're interested, you can download our app and submit an application through it, very convenient.
+Speaker2: Do you want to download the app? How do I know if this is real?
+Speaker1: You can scan the QR code I send to you, it's the official one, very safe. If you don't want to download, you can just add my WeChat and I'll help you.
+Speaker2: Add me on WeChat? How can I know if you're a scammer?
+Speaker1: Please rest assured, I am the customer manager of the Zhao Shang Bank, you can add my WeChat, my name is Xiao Zhang, WeChat is zhang123456. After adding WeChat, I can send you more product information.
+Speaker2: Okay, let me try.
+Speaker1: Great, thank you for your trust. I'll give you my WeChat later, feel free to contact me if you have any questions. Have a happy life, bye!
+Speaker2: Goodbye.

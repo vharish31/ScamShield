@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, what can I help you with?
+Speaker1: I am the customer service at the food square, want to confirm your reservation.
+Speaker2: Hey, okay, is it tonight's reservation?
+Speaker1: Yes, your reservation is for 7 pm tonight, right?
+Speaker2: Yes, we are four people.
+Speaker1: Okay, I have reserved four seats for you. Do you need special arrangement?
+Speaker2: We need a window seat, and by the way, there's someone in our group who doesn't eat spicy food.
+Speaker1: Understood, we will prepare a window seat for you and pay attention to your menu selection.
+Speaker2: Goodbye, thank you for your cooperation. See you later.
+Speaker1: See you later, wish you enjoy your meal.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Tiancheng Technology customer service center. I am customer service representative Li. You recently purchased a product on our platform and experienced a quality issue. We want to handle the refund for you. Is it convenient for you now?
+Speaker2: Hello, I did buy some products, but there were no problems, how do you know my phone number?
+Speaker1: Hello, we are detected by the system, there may be some small problems with the factory production, for your benefit, we can provide a no-condition refund service, you just need to follow our instructions to operate.
+Speaker2: So, how do you operate it?
+Speaker1: It's very simple. Just click on the link we send to you, fill out the relevant information, and we'll process your refund within 24 hours, ensuring your funds are safe.
+Speaker2: Okay, I'm waiting for your links.
+Speaker1: Okay, the link will be sent to your phone immediately. Please pay attention to receive it. Additionally, to speed up the process, please provide your bank card number, and we will directly refund the amount to your account.
+Speaker2: Okay, I'll wait for the link, I'll give you my bank card number later.
+Speaker1: Okay, thank you for your cooperation. If you have any questions, please call our customer service hotline at any time. Have a happy life, goodbye.
+Speaker2: Goodbye.

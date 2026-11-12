@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, this is the Shanghai microfinance service center. We noticed that you may have some recent financial needs, and we can provide you with a 10,000 yuan low-interest loan. Do you need to quickly convert your funds?
+Speaker2: Uh, I haven't decided on this plan yet.
+Speaker1: Okay, that's fine. If you're interested, you can click this link to learn more information, or you can directly download our app, which is very convenient to use.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, after downloading the app, you can directly apply online, the approval process is very fast, usually it takes only one hour to complete.
+Speaker2: Listen well, then how do I download it?
+Speaker1: You can search our app name through the mobile app store or I can give you a download link directly, which is more convenient.
+Speaker2: Okay, can you send me a link?
+Speaker1: Okay, just a moment, I'll send it to you right away. Also, to ensure your account's safety, you need to input a verification code after downloading it, I'll send it to you too.

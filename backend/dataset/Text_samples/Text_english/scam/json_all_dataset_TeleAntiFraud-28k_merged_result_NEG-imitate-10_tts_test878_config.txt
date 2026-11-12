@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer manager from Ping An Bank, Li Wen. Recently, our bank has launched a very favorable credit loan product. Would you be interested in learning more about it?
+Speaker2: Loan? I don't need it now.
+Speaker1: Ah, understood, but this loan is very flexible, no collateral is required, the review is very quick, if you need it in the future, you can contact us anytime.
+Speaker2: How do you review them?
+Speaker1: We mainly evaluate through your credit record, which is very simple and quick. If you're interested, you can first download our bank's official app, where you can directly apply.
+Speaker2: Do you want to download the app? No way, won't it be unsafe?
+Speaker1: Don't worry, we are a legitimate bank and our app is the official one. It's very safe. Plus, you can get more discounts by applying through the app.
+Speaker2: Even though I'm a little worried, what should I do if there's a risk?
+Speaker1: We understand your concerns, but please rest assured that all data will be encrypted processed, very safe. If you're not comfortable, you can directly come to our bank branch to handle it.
+Speaker2: Okay, I'll think about it.
+Speaker1: Okay, here's my contact information. You can contact me anytime if you have any questions. I hope our service can help you. Have a happy life. Bye.

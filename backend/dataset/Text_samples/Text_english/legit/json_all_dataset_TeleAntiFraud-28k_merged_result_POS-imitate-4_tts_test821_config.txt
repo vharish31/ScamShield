@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm an e-commerce customer service, you have a purchase point on your account, it will expire tonight at twelve o'clock, you haven't used it yet.
+Speaker2: Oh, really? I didn't notice.
+Speaker1: Yes, you have accumulated 26,800 points on your account, which can be redeemed for approximately 3,900 yuan in cash.
+Speaker2: Wow, so many? Then how do I use these points?
+Speaker1: You can use these points to buy products on our platform, such as liquor, groceries, and phones. I've already sent you a free exchange SMS, take a look.
+Speaker2: Okay, I'll go take a look right away.
+Speaker1: Hey, you better hurry up and handle these points before midnight, otherwise they'll be zeroed out.
+Speaker2: I know, thank you for your reminder.
+Speaker1: You're welcome. If you have any other questions, feel free to contact me anytime. Have a great shopping!
+Speaker2: Okay, thank you, bye.

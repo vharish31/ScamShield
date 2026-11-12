@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to check your store's business hours.
+Speaker2: Hello, our store is open from 9am to 9pm. What time is most convenient for you to come?
+Speaker1: Can I go out at six o'clock in the evening? Is there anyone there at that time?
+Speaker2: Okay, at that time there were still quite a few people in the store, you can just come directly.
+Speaker1: Okay, I'll go at six. By the way, do you have a parking spot?
+Speaker2: Yes, there's a small parking lot behind our store. You can park there when you come.
+Speaker1: That's great, thank you for your help.
+Speaker2: No problem, if you have any questions when you come, you can directly call me on the phone.
+Speaker1: Okay, I'll see you later.
+Speaker2: Okay, see you later, be safe on the road.

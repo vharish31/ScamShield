@@ -1,0 +1,9 @@
+Speaker1: Hello, how can I help you at Star Light Coffee Shop?
+Speaker2: Hello, can you recommend any special coffee today?
+Speaker1: We recommend mocha coffee today with special chocolate syrup. The taste is very rich. You can try it.
+Speaker2: The sound is good, I'm thinking of trying some new flavors. Are you guys open now?
+Speaker1: We are open from nine in the morning to nine in the evening, and we are currently in the middle of business hours.
+Speaker2: Can you reserve a spot for me about an hour from now?
+Speaker1: Of course, I will reserve a window seat for you, I hope you like it.
+Speaker2: Thanks for your help, see you later.
+Speaker1: No problem, see you later, hope you have a happy time.

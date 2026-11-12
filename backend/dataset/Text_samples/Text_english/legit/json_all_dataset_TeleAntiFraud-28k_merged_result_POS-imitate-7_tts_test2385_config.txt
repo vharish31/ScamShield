@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I'm Meituan customer service, have you received the order for the bottom layer of the hot pot you placed before?
+Speaker2: Hey, what's up, still not there? I've been waiting for a while now.
+Speaker1: Okay, I'll check here, what time did you place your order?
+Speaker2: It should have been delivered half an hour ago.
+Speaker1: Okay, I found it. Where is your order being sent?
+Speaker2: Deliver to home address: XX community.
+Speaker1: Okay, I see your order has been shipped, it might be because of the delivery rush hour, the courier is a little late.
+Speaker2: How long do we have to wait?
+Speaker1: Based on the current situation, we estimate that it will take fifteen to twenty minutes.
+Speaker2: Okay, I'll wait a moment, thank you.
+Speaker1: No problem, if you have any other questions, feel free to contact me anytime, enjoy your meal.

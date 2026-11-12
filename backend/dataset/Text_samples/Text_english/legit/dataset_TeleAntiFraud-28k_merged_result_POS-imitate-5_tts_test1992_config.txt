@@ -1,0 +1,8 @@
+Speaker1: Hello, Master.
+Speaker2: Hey, where are you?
+Speaker1: I'm waiting for you at that old place, which is right outside the big supermarket.
+Speaker2: Oh, that big supermarket, I know, you wait for me a minute, I'll be there soon.
+Speaker1: Okay, master, hurry up, I'm a bit cold here.
+Speaker2: Don't worry, I'll definitely be there in ten minutes, don't leave.
+Speaker1: Okay, I'll wait for you, be careful on the road.
+Speaker2: Okay, see you later.

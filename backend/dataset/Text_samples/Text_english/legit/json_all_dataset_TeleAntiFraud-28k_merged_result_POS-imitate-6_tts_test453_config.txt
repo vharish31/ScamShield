@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's special dishes and business hours?
+Speaker2: Our restaurant special dishes include red braised pork, steamed fish and kung pao chicken, all very popular. Our business hours are from 10am to 10pm.
+Speaker1: Can I reserve a seat for 7 pm tomorrow night? It sounds good.
+Speaker2: Of course, how many positions have you reserved?
+Speaker1: Two of us, I'm with a friend of mine.
+Speaker2: Okay, the two seats for you have been reserved for tomorrow night at seven o'clock. Do you have any special requests?
+Speaker1: There are no specific requirements, just hope the environment isn't too noisy.
+Speaker2: Understood, we will arrange a quiet place for you. See you later!

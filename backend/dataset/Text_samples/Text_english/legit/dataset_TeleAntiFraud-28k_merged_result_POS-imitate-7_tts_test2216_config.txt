@@ -1,0 +1,15 @@
+Speaker1: Hello, I'm the neighbor recommended by old king, want to know how your home appliance repair service is?
+Speaker2: Hello, our home appliance repair service is quite good, the master has rich experience, and the service attitude is also good. What maintenance do you want to consult?
+Speaker1: My washing machine broke down. Do you guys have on-site service?
+Speaker2: Of course, we provide door-to-door repair services, you can tell me specifically what the problem is, I will record it on this side.
+Speaker1: The washing machine won't start, it was working fine before suddenly it broke down.
+Speaker2: That's it, it might be a power or control panel issue. Let's have our master come over and take a look. What's a convenient time for us to send someone over?
+Speaker1: It's best if I have something in the morning and we can meet in the afternoon tomorrow.
+Speaker2: How about 2 PM tomorrow?
+Speaker1: Between 2 and 4 o'clock is fine.
+Speaker2: Okay, let's agree to meet at two o'clock in the afternoon tomorrow. The master will arrive on time. What is your home address?
+Speaker1: The address is Happiness Villa No. 3, Building 2, Unit 602.
+Speaker2: Okay, I have recorded the address. See you tomorrow at 2 pm. If there are any changes, we will contact you in advance.
+Speaker1: Okay, thank you, please you.
+Speaker2: No problem, this is what we should do. If there are any other issues, please contact us anytime. Goodbye.
+Speaker1: Goodbye.

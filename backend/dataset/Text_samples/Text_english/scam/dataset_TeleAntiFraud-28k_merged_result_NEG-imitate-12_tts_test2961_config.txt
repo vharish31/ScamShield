@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am a customer manager of China Express Bank, Xiao Zhang.
+Speaker2: Hello, do you have anything to talk about?
+Speaker1: That's right, we noticed some unusual activity on your account at our bank recently, possibly involving a refund.
+Speaker2: Refund? I haven't bought anything recently.
+Speaker1: We found an issue with your order on this side, please work with us to handle it, ensuring your funds are safe.
+Speaker2: What do I need to do?
+Speaker1: We have a specific process on this side that requires you to click on a link to confirm your identity.
+Speaker2: Link? How do I know if it's safe?
+Speaker1: This link is safe, you can rest assured, our bank will ensure your information is secure.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much for your cooperation. Just click on the link and follow the instructions. If you need help, feel free to contact me anytime.

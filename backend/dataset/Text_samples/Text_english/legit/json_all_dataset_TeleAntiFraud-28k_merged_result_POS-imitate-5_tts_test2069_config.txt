@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am an customer service representative for some certain electronic device, recently we have new products on the market, do you know if you are interested in learning more?
+Speaker2: Hello, I'm quite interested in electrical appliances, do you have any recommendations?
+Speaker1: We have a new smart air purifier that's great for family use. It not only cleans the air, but also has a killing bacteria function.
+Speaker2: How much does this air purifier cost?
+Speaker1: The price of it is 2500 yuan, there is now a discount activity, you can enjoy a 90% discount.
+Speaker2: The discounted price is indeed a good deal. What is the size of this air purifier? Is it suitable for use in what size of room?
+Speaker1: This air purifier is 40 cm long, 30 cm wide, and 60 cm tall, making it perfect for use in rooms up to 30 square meters.
+Speaker2: How loud is its noise? I have trouble sleeping at night because I'm afraid of being disturbed.
+Speaker1: This air purifier has a sleep mode, which is very quiet after starting, almost not heard, very suitable for night use.
+Speaker2: Okay, listen to what you said, I plan to buy one. How to buy it?
+Speaker1: You can directly place an order on our official website or come to our physical store for shopping. If you need it, I can arrange a door-to-door delivery service for you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Where did my takeout go?
+Speaker2: Hello, your takeout is being delivered, estimated arrival time is about 10 minutes.
+Speaker1: Okay, I'm waiting at the community door.
+Speaker2: Okay, pay attention, I'll contact you when I arrive.
+Speaker1: Hey, I just saw that the door card at the community entrance seemed to be broken. Can you directly take me to the community?
+Speaker2: Sure, I'll contact property management to open the door.
+Speaker1: No problem, it's really a hassle for you.
+Speaker2: No problem, this is what we should do.
+Speaker1: I'll wait for your call, thank you.
+Speaker2: Okay, please wait a moment. I'll contact you as soon as I arrive.

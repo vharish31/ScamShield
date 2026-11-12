@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Have you rented out this house yet?
+Speaker2: Are you interested in this set of houses yet?
+Speaker1: Yes, I've been looking for a house recently. Can you introduce me to some options?
+Speaker2: Of course. This apartment has one bedroom, one bathroom, good lighting, and a nice community environment. There are supermarkets and parks nearby.
+Speaker1: That sounds good. How much is the rent for that house?
+Speaker2: The monthly rent is four thousand five hundred yuan, with a one-time deposit of three thousand.
+Speaker1: Are there any additional fees, such as property fees or electricity fees?
+Speaker2: The property fees are included in the rent, but the water and electricity bills need to be paid separately.
+Speaker1: Okay, when can I come see the house?
+Speaker2: Is ten o'clock on Sunday morning convenient? I can open the door for you in advance.
+Speaker1: Sunday morning at 10 am is okay, thank you.
+Speaker2: No problem, see you later. Goodbye.

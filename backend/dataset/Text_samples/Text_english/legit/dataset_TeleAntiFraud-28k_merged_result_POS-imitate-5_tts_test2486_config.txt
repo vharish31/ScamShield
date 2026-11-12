@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform. Did you just order?
+Speaker2: Hey, yes yes, I placed an order, but how come it hasn't arrived yet?
+Speaker1: What is your specific order number? I'll check on this end.
+Speaker2: The order number is five thousand three hundred sixty-nine.
+Speaker1: Okay, I'll check. Where are you?
+Speaker2: I am at the east gate of the sunshine community.
+Speaker1: Found it, your order has been delivered to the courier, estimated delivery time is about 20 minutes left and right.
+Speaker2: Okay, I'll wait a moment.
+Speaker1: If you have any questions, please contact me anytime. Enjoy your meal!
+Speaker2: Thank you, goodbye.

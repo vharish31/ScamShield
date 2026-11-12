@@ -1,0 +1,10 @@
+Speaker1: Hey, did you go to work yet?
+Speaker2: Hey, just landed, where are you waiting for me?
+Speaker1: I'm waiting for you at the bus station downstairs the company.
+Speaker2: Okay, I'll be there soon. Wait for me a minute, don't leave.
+Speaker1: Okay, I'll wait for you.
+Speaker2: I see you, is there a convenience store nearby?
+Speaker1: Yes, that's here. You come closer a little, I see you.
+Speaker2: Okay, I'll go over there.
+Speaker1: Be careful on the road.
+Speaker2: I know, see you later.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the loan department at Ningbo Bank. We currently have a special promotion for our loan products. Would you like to know more about it?
+Speaker2: Loan products? I recently have a bit of cash shortage, can you introduce me a little?
+Speaker1: Of course, this loan product has no collateral, approval is quick, interest is very low, and it's very suitable for your needs.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Great, just download our bank's official app, fill out some basic info, and you can quickly apply.
+Speaker2: Do you want to download the app? How can I know if this app is safe?
+Speaker1: Our bank app is officially certified and very safe. You can search for Ningbo Bank in the app store and download it to see our official logo.
+Speaker2: Okay, I'll try. What should I do if I encounter issues during the application process?
+Speaker1: If you encounter any problems, you can directly contact our customer service, which is available 24/7 online. For your convenience, I have also provided you with a dedicated customer service link. I have sent it to your phone, just click on it to directly contact us.
+Speaker2: Okay, thank you Li Jing Manager. Then I will first go download the app.

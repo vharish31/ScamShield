@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask if your store has the new model tablet computer?
+Speaker2: Hello, do you want to know about the latest tablet computers here?
+Speaker1: That's the latest flagship version with the highest configuration.
+Speaker2: Our flagship tablet computer is currently in stock and priced at 5600 yuan. Do you have any color preferences?
+Speaker1: I want to see the silver.
+Speaker2: We also have silver ones, now you can buy them and enjoy a certain discount, like getting a protective case and screen protector for free.
+Speaker1: Are there any activities? Like installment payments, for example?
+Speaker2: Do you think the installment payment plan with twelve interest-free periods is suitable for you here?
+Speaker1: Hmm, if I could pay in installments, I'll think about it.
+Speaker2: Okay, paying in installments is very convenient. If you have any other questions, feel free to ask me anytime.
+Speaker1: Okay, thank you, I'll think about it, and contact you later.
+Speaker2: Okay, no rush, please consider contacting me anytime, wish you a happy day!

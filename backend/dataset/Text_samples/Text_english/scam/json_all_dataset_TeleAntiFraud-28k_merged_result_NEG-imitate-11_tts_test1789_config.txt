@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Shanghai Bank, I am customer manager Zhang.
+Speaker2: Hello, Small Zhang Manager.
+Speaker1: We noticed you've been looking for loan information recently. We have a credit loan product that's perfect for you, with an annual interest rate that's incredibly discounted, just 0.03%.
+Speaker2: Really? I really need cash flow now.
+Speaker1: Yes, this product is very suitable for you. To help you understand the details, you can click on the link I sent you, which contains all the information about the loan.
+Speaker2: How do I get this link?
+Speaker1: I can send you a message through text, just provide your phone number.
+Speaker2: Okay, my phone number is 1381380138.
+Speaker1: Okay, you will receive a text message with a link. Click on it to see the details. If you have any questions, feel free to contact me.
+Speaker2: Okay, thank you for your help.

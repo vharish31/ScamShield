@@ -1,0 +1,11 @@
+Speaker1: Hello, you.
+Speaker2: Hello, who are you?
+Speaker1: I am small Li from the city water electric repair center. You previously scheduled an in-home repair service for this afternoon at 3 pm. Can you confirm if there is someone at your home?
+Speaker2: Oh, it's my reservation, my family is home now, you guys can come over.
+Speaker1: Okay, our repairman will arrive in about twenty minutes, you can prepare the devices that need maintenance first.
+Speaker2: Okay, I will be ready. If there are any issues, how should I contact you guys?
+Speaker1: You can call our service hotline at 4008666666, we will serve you anytime.
+Speaker2: Okay, thank you. Is there another question? How long will the maintenance take this time?
+Speaker1: Based on your description, we roughly estimate it will take about an hour, but if any other issues arise during the repair process, it may take longer.
+Speaker2: I understand, you guys have been working hard, see you later.
+Speaker1: Okay, see you later, wish you a happy day.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: I want to make a reservation for six o'clock tomorrow night for two people.
+Speaker2: Okay, where would you like to reserve a seat? Window or indoor?
+Speaker1: Standing by the window will be better.
+Speaker2: I understand, the window seat has been reserved for you. What would you like to be called?
+Speaker1: I am Li Huai.
+Speaker2: Okay, Li Huaiyuan, we will be ready for you at six o'clock in the evening tomorrow.
+Speaker1: Thanks, do you have any special dishes?
+Speaker2: Our signature dishes here include red braised pork, steamed fish and sour fish, all very popular.
+Speaker1: Listen to these sounds, let's book these dishes.
+Speaker2: Okay, these menu items have been reserved for you. If there are any changes, please contact us anytime.
+Speaker1: Okay, thank you for your help. Bye.
+Speaker2: You're welcome. I hope you have a pleasant dining experience. Goodbye.

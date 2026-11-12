@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I found this restaurant through Meituan and want to ask a few questions.
+Speaker2: Okay, what do you want to know?
+Speaker1: Do you have vegetarian options?
+Speaker2: Yes, we have several vegetarian dishes, such as stir-fried vegetables, stir-fried mushrooms, and vegetarian dumplings.
+Speaker1: How much do these menu items cost?
+Speaker2: Stir-fried vegetables are 20 yuan, roasted soybeans are 25 yuan, steamed dumplings are 30 yuan.
+Speaker1: What time do you guys go to bed tonight?
+Speaker2: What time do you plan to come in the evening at ten o'clock?
+Speaker1: Can I reserve a spot at seven o'clock on Saturday evening?
+Speaker2: Of course, on Saturday evening at 7 pm, okay, I have already booked it for you.
+Speaker1: Goodbye, thank you.
+Speaker2: You're welcome. I'm looking forward to your arrival. Goodbye.

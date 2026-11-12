@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have any new insulated cups in your store? I saw some nice pictures of them online.
+Speaker2: Yes, we just got a new batch of insulated cups, they come in many colors and styles, you can come to the store to take a look.
+Speaker1: What's the price like?
+Speaker2: The price of new insulated cups ranges from 100 to 300 yuan, depending on the material and function.
+Speaker1: Okay, can I go over there around 3 pm this afternoon?
+Speaker2: Of course, we'll wait for you at the store at 3 pm. Remember to bring the pictures you ordered online, so we can recommend them to you.
+Speaker1: Okay, thank you. Where is the store specifically?
+Speaker2: Our store is located in the city center square north side, adjacent to the public transportation station, very easy to find.

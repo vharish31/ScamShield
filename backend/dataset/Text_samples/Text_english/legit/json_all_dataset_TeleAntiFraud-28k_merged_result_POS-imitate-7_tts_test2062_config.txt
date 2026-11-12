@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Lee Ming's friend, I came to find him, can you tell me how to get to Lee Ming's house?
+Speaker2: Hello, Li Mingjia, walk straight from here to the second crossroad, turn right and keep going until the end, there's a red door on the left, that's his house.
+Speaker1: Okay, how many roads do I need to cross?
+Speaker2: Just cross the road and turn right to get there.
+Speaker1: How long will it take to walk from here to his house?
+Speaker2: About ten minutes, not far away.
+Speaker1: Okay, thank you for your help. I'll go now.
+Speaker2: No problem, if you can't find it, just give me a call. Be careful on the road.
+Speaker1: Okay, I will pay attention. Thank you again, goodbye.
+Speaker2: Goodbye, wish you a smooth journey.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is China Construction Bank, I am Zhang Jing Manager.
+Speaker2: Hello, what do you have in mind?
+Speaker1: That's right, we noticed that your recent loan usage rate at our bank has been low, and we want to know if you have any new funding requirements.
+Speaker2: "Oh, this is not being considered temporarily."
+Speaker1: We have a special discounted loan product here with monthly interest of only two cents and fifty, fast approval, no collateral required, and it's particularly suitable for customers like you.
+Speaker2: It sounds good, but I'm not really interested.
+Speaker1: You may not know that many customers have recently obtained financial support through our fast channel, resolving many urgent issues. If you're interested, you can first download our official app for more details.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Of course, our app is officially certified, so you don't have to worry about security issues. You can download it directly from this link: [fake link], and if you have any problems, you can contact me.
+Speaker2: Okay, let me try.

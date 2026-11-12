@@ -1,0 +1,12 @@
+Speaker1: Hello, how can I help you? This is the car media team.
+Speaker2: Hello, do you have any public baths available for rent now?
+Speaker1: Okay, we have a taxi here, what time do you want to take it?
+Speaker2: I want to pick up my car at ten o'clock tomorrow.
+Speaker1: Okay, tomorrow at 10 am pick up the car. Do you need us to pick you up at the door or will you come yourself?
+Speaker2: I'll come over and get it myself.
+Speaker1: Okay, when you come tomorrow, just walk straight from the parking lot exit to the pickup point.
+Speaker2: Okay, I'll just go there directly tomorrow.
+Speaker1: Remember to bring your driver's license and ID, we need to verify the information here.
+Speaker2: Okay, I will bring it along. Thank you.
+Speaker1: No problem, if you have other questions, feel free to contact us anytime. See you tomorrow.
+Speaker2: Okay, see you tomorrow. Goodbye.

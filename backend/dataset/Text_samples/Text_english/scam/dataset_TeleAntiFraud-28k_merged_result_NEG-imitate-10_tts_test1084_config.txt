@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Wang?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Lee Huang, the customer service manager at Guangfa Bank. We have a special low-interest loan product here that's perfect for you, with an interest rate of just 0.3%. Would you be interested in learning more?
+Speaker2: Uh, I recently need some cash flow, can you give me a detailed explanation?
+Speaker1: Of course, this loan product doesn't require collateral, approval is quick, and disbursement is quick too. You just need to provide some basic personal information and credit report, and we can start processing it.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Just click this link, fill out the application form, and we'll quickly review your information.
+Speaker2: Okay, I'll click on the link now.
+Speaker1: Great, if you have any questions, you can contact me anytime. My phone number is 13812345678, and you can also add me on WeChat, my WeChat number is the same as my phone number.
+Speaker2: Okay, thank you for your help.

@@ -1,0 +1,10 @@
+Speaker1: Hello, hello, this is the express delivery customer service, I am Lee manager, you have a package to receive, but it shows returned, can you listen to it for a moment?
+Speaker2: Okay, you say, what's up?
+Speaker1: That's right, your package was lost during transportation, to protect your rights, we need to process a refund, can you please provide your bank card information?
+Speaker2: How can I confirm that you are a real courier company?
+Speaker1: You can check my work number through our official website or call our official customer service hotline to verify, we are indeed processing this issue for you.
+Speaker2: So, how do I provide bank card information?
+Speaker1: Just click this link, fill in your bank card information and verification code, and we can process your refund.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, after you finish operating, we will process quickly, and you can contact me anytime if there are any issues.
+Speaker2: Thank you, I will pay attention.

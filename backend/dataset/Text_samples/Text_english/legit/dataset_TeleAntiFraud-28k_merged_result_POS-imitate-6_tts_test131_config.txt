@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am Ali's customer service, you recently bought a product on our platform and want to know your experience.
+Speaker2: Hello, I bought that smart home voice-controlled lamp, it's not bad, quite convenient.
+Speaker1: That's great, we're also very happy to provide a satisfactory product to you. Yes, are you satisfied with our delivery service?
+Speaker2: The delivery was quite fast, it arrived on the second day, and the packaging was very complete.
+Speaker1: Great, thank you for your feedback. If you have any other issues that need help or any suggestions about our products, feel free to contact us anytime.
+Speaker2: Okay, I will. Right, I recently saw you guys release a new smart speaker, want to know more about its features?
+Speaker1: The newly released smart speaker not only supports voice control but also has multiple music services, can easily connect other smart devices at home, and realize smart home control.
+Speaker2: How much does that sound good soundbox cost?
+Speaker1: This smart speaker costs 399 yuan, there's a discount promotion now, you can get a 90% discount.
+Speaker2: Okay, I'll consider it. Thank you for your introduction. I'll get back to you if I have any questions.
+Speaker1: You're welcome, please feel free to contact us anytime. Wishing you a happy life, goodbye.

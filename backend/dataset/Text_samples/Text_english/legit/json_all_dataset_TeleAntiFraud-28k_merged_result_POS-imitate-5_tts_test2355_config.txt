@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Hey, I'm little Li, we agreed to go to the movie together yesterday.
+Speaker2: Hey hey hey, I almost forgot, where are you?
+Speaker1: Are you here at the subway station?
+Speaker2: Can you wait for me for a few minutes? I'm still on the road.
+Speaker1: Okay, no problem, hurry up and come over.
+Speaker2: Okay, I'll go now, see you later.
+Speaker1: See you soon, be careful on the road.
+Speaker2: Okay, thank you.

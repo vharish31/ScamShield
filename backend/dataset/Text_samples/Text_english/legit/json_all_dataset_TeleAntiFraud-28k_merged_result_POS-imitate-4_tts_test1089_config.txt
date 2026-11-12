@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service at the food square, you booked dinner with us before, do you want to confirm if you'll come tonight?
+Speaker2: Hey, how are you? I'm Wang Ming, everything should be fine tonight, what time do we start eating?
+Speaker1: Hello, Wang Ming, we open at six o'clock, your reserved seat is at seven and a half, if there's any change, please inform us in advance.
+Speaker2: Okay, I know, I'll be on time at 7:30. Right, do you have any vegetarian options there? I have a few friends who don't eat meat.
+Speaker1: Yes, we have a special vegetarian menu with a variety of dishes. You can tell me in advance, and I will prepare it for you.
+Speaker2: Great, thank you so much, by the way, my friend is allergic to peanuts, so we need to be careful.
+Speaker1: No problem, we will specially mark, ensure that there will be no sprouts. You can enjoy your meal, any need can be found at any time with the waiter.
+Speaker2: Okay, thank you for your reminder and service, see you later.
+Speaker1: Good evening, I'm waiting for you. Goodbye.
+Speaker2: Goodbye.

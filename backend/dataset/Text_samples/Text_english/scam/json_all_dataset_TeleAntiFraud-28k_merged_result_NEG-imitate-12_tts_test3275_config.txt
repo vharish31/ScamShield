@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm the manager here at the Huaxia Bank Credit Center. We noticed that you recently have a need for cash flow. We can provide you with a low-interest, unsecured loan. The approval process is quick. Would you be interested in learning more?
+Speaker2: Uh, really? I recently need some money, can you give me more detailed information?
+Speaker1: Of course, this loan product is very suitable for you, but you need to download our official app first, fill out the application through the app, so we can further assess your loan amount.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, our app is officially certified, you can download it with peace of mind. You just need to scan the QR code or search 'Huaxia Xinlai' in the app store and download and install it.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, if you have any issues after downloading, feel free to contact me anytime. My phone number is 13712345678, my name is Zhang Manager.
+Speaker2: Okay, thank you Zhang Jīngnǐ, I will handle it quickly.
+Speaker1: No problem, wish your application to be successful, feel free to contact me if you have any questions. Bye!
+Speaker2: Goodbye.

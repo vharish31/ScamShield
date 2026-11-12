@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative at the construction of the bank's credit center. There is a low-interest loan product that I would like to recommend to you.
+Speaker2: Hello, I don't have any financial needs at the moment.
+Speaker1: Ah, that's good to know. Our annual interest rate can be very low, like if you need ten thousand, you only need to repay two hundred and thirty yuan per month.
+Speaker2: It sounds good, but I'm not really interested.
+Speaker1: Okay, I'll send you a link, you can check out the detailed information, if you have any questions, just let me know.
+Speaker2: Okay, let's take a look.
+Speaker1: Great, I'll send it to you right away. By the way, you can also download our app, it's more convenient to operate, and feel free to contact me if you have any questions.
+Speaker2: Okay, I will pay attention. Thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Wish you a happy life, goodbye.
+Speaker2: Goodbye.

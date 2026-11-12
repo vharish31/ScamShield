@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I'm little Li, you guys are my store's regulars.
+Speaker2: Hello, little Li, what can I help you with?
+Speaker1: Can you introduce me to the new desserts your store has just launched?
+Speaker2: Of course, our recent releases of dragon fruit smoothie and strawberry milkshake have been very popular.
+Speaker1: How much do these two desserts cost?
+Speaker2: Strawberries are 35 yuan, raspberry cream is 40 yuan.
+Speaker1: Is it necessary to make a reservation if I go now?
+Speaker2: There are still some seats available, but to ensure you have a seat, it's recommended to book in advance.
+Speaker1: I'll book a double seat, around an hour from now.
+Speaker2: Okay, I have already made an appointment for you. See you then.
+Speaker1: Thank you, see you later.

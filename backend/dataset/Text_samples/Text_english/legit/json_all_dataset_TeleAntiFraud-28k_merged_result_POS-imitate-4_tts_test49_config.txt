@@ -1,0 +1,10 @@
+Speaker1: Hey, is it you?
+Speaker2: Hey, it's me, what's up?
+Speaker1: Do you have time tonight to go to the movie?
+Speaker2: Let's watch a movie, it's good, what movie do you want to watch?
+Speaker1: That new action movie that just came out is supposed to be really exciting.
+Speaker2: Great, I also like this kind of movie. Let's start at 7.
+Speaker1: Can you get to the movie theater by 7:30 PM?
+Speaker2: Sure, I'll leave at 6:20, I should arrive on time.
+Speaker1: Great, see you later.
+Speaker2: See you then, you pick a spot first, I'll go straight to you once I arrive.

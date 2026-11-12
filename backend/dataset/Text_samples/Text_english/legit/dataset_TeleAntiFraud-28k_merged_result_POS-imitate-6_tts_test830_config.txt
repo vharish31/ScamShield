@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Zhang San, looking for Li Si
+Speaker2: Hello Zhang San, Li Si is not here now, what can you directly tell me?
+Speaker1: Uh, that's how it is, then I have a question to consult, I rented a house in your community, but recently I found the sewer is clogged, don't know who to find to fix
+Speaker2: You can contact property management if this kind of problem occurs. They will arrange a maintenance person to come check it out. My phone number is for the property management of my community, I can help you contact them.
+Speaker1: That's great, now I feel relieved, could you please contact someone for me, I'm at home this afternoon, can I arrange for a repairman to come over?
+Speaker2: Okay, I'll call the property office and they'll arrange someone to come over, you just give them your phone number and they'll contact you in advance to confirm the time.
+Speaker1: Okay, my phone number is 888-666-6666, thank you for your help, it's really annoying you.
+Speaker2: No problem, this is what we should do, if you have any questions, please contact me anytime, wish you happy life.
+Speaker1: Okay, thank you again, goodbye.
+Speaker2: Goodbye

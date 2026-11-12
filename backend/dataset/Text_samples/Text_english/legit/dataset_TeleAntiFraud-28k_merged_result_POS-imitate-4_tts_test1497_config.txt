@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Are you Li Ming?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm the customer service representative for the community management, just wanted to let you know that there will be maintenance on the water and electricity network tomorrow. There might be some temporary power outages and water cuts, so please prepare in advance.
+Speaker2: Okay, thank you for your notification, how long will it stop for?
+Speaker1: We'll finish as early as possible between 9am and 3pm.
+Speaker2: What should I do if I have to work at home tomorrow?
+Speaker1: Sorry, we don't have any solution for this situation. If you have urgent work, I suggest you go to a nearby coffee shop or any other place with power.
+Speaker2: Okay, I will consider your advice. Thank you.
+Speaker1: No problem, if you have any other questions, please feel free to contact property, we will do our best to help you.
+Speaker2: Okay, thank you again, goodbye.
+Speaker1: Goodbye.

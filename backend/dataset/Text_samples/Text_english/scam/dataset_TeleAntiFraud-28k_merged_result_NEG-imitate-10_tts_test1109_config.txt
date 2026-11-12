@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Zhang from Agricultural and Commercial Bank, can you talk now?
+Speaker2: Hey, convenient, hello
+Speaker1: Okay, recently I've been helping some customers with their cash flow problems. Do you have any cash needs lately?
+Speaker2: There is a demand for capital, but I don't trust these lending platforms now
+Speaker1: I understand your concerns, all our bank's loan products are regular, and there's currently a special promotion with a very low interest rate.
+Speaker2: Can you give me a specific explanation?
+Speaker1: Of course, as long as you download our bank app and register, you can see detailed loan information. Moreover, there are currently extra discount coupons available for download.
+Speaker2: Download the app, okay, how do you download this app?
+Speaker1: It's very simple. You can directly click on the link I gave you or scan the QR code to download our official app.
+Speaker2: Okay, let me try it out. Thank you for your recommendation.

@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Do your store sell electric cars?
+Speaker2: Yes, we have various styles of electric cars here.
+Speaker1: Can you tell me more about your blue electric car's performance?
+Speaker2: This electric car's performance is excellent, its range can reach 80 kilometers, and its charging time is only 6 hours.
+Speaker1: What's the price?
+Speaker2: This electric car costs two thousand yuan, and there's a promotion now, you can get a nine-discount discount when buying.
+Speaker1: How much is the discount after a 90% discount?
+Speaker2: After a 90% discount, it's one thousand eight hundred yuan.
+Speaker1: The bike sounds good, I plan to try it out this weekend.
+Speaker2: Okay, we are open all day on weekends here. You can come anytime.
+Speaker1: Can I come over at two in the afternoon on Saturday?
+Speaker2: Okay, there will be someone to meet you at 2 pm on Saturday afternoon here. You can relax.
+Speaker1: Okay, see you then.
+Speaker2: See you later, wish you a happy weekend.

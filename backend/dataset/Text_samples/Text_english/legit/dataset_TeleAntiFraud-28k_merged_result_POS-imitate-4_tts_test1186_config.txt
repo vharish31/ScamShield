@@ -1,0 +1,18 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Have you seen our company's recruitment information recently?
+Speaker2: Have you seen, is it about the sales consultant position?
+Speaker1: Yes, that's the position. Are you interested?
+Speaker2: I'm a bit interested, but I'm not very clear about the specific job requirements.
+Speaker1: Okay, I can give you a detailed introduction. This position is mainly responsible for maintaining customer relationships and developing new customers.
+Speaker2: What is your work schedule like?
+Speaker1: We are on the east side, 9am to 6pm on weekdays, and weekends are double holidays.
+Speaker2: I can consider it.
+Speaker1: Okay, if you decide to come for an interview, you can contact me.
+Speaker2: Okay, let's add each other on WeChat so we can easily communicate.
+Speaker1: Sure, my WeChat is 1362701886.
+Speaker2: Okay, I added you.
+Speaker1: Okay, after you finish, you can send a message to confirm.
+Speaker2: Okay, I understand. Thank you.
+Speaker1: No problem, you can contact me anytime if you have other questions. Goodbye.
+Speaker2: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a loan officer at the construction bank. My name is Li Ming. Our bank recently introduced a low interest rate loan product. Do you have any recent funding needs?
+Speaker2: Hello, I don't have any funding needs, thank you.
+Speaker1: Oh, this way, then you first understand a bit, maybe it'll be useful later. Our loan product is very convenient, no collateral needed, approval is quick.
+Speaker2: Okay, thank you for your recommendation.
+Speaker1: No problem, if you need anything, you can download our app, register and fill out some basic information, and you'll be able to complete the application quickly.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Of course, our app is legitimate, you can download it from the app store by searching '建设银行贷款'.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues while using it, feel free to contact me anytime. My phone number is 13800138000.
+Speaker2: Okay, thank you for your help.

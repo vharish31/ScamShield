@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me talk?
+Speaker2: Hey, can you hear me? Who are you?
+Speaker1: I am a customer service representative for a food delivery platform. I noticed you haven't placed an order yet today at noon. May I ask what you plan to order for lunch?
+Speaker2: "Oh, I'm not hungry yet, I'm not planning to order food."
+Speaker1: Okay, if you're hungry, remember to come to our platform and check out the various foods we offer, from fast food to local specialties.
+Speaker2: Okay, thank you for reminding me.
+Speaker1: No problem, by the way we have a new user promotion activity today, first-time orders can enjoy an eighty-five percent discount.
+Speaker2: Sounds good, I'll think about it.
+Speaker1: Okay, you can place an order anytime after you've made a decision. If you have any questions, please contact our customer service.
+Speaker2: Okay, thank you for your service.

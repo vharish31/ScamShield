@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of our website, recently you bought some products on our website and there were some issues, we need to handle it for you.
+Speaker2: Wow, really? I haven't bought anything lately.
+Speaker1: It's possible that your account has been misused, we need you to cooperate with us to complete a security verification to ensure your account is safe.
+Speaker2: How can I cooperate?
+Speaker1: Just click on the link I sent you and follow the instructions.
+Speaker2: Okay, I'll take a look later when I have some time.
+Speaker1: To ensure your safety, the link's valid time is only ten minutes. Are you ready to operate now?
+Speaker2: You can send the link to me now.
+Speaker1: Okay, I'll send it right away. Please pay attention to check the message. Moreover, if you encounter any issues, feel free to contact our customer service representative at any time. The phone number is 4001680888.
+Speaker2: Okay, thank you.

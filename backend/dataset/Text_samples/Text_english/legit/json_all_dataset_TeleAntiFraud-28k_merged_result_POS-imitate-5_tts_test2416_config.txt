@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service representative for Xiaomei, I noticed you've been browsing our website for some household appliances recently, would you be interested in learning more about our latest promotional activities?
+Speaker2: Hello, I recently had a desire to buy a new washing machine. Do you have any recommendations?
+Speaker1: We have a Haier full automatic washing machine here, which is now on special offer. The original price is three thousand yuan, but now it only costs two thousand five hundred yuan, and we also offer free door-to-door installation service.
+Speaker2: How is the washing ability and power consumption of it?
+Speaker1: This washing machine has a capacity of eight kilograms, which is very suitable for family use, and it is highly efficient, very energy-saving, and the monthly electricity bill will not be too high.
+Speaker2: Is it okay for me to place an order now?
+Speaker1: Of course, if you place an order now, we will also send you a set of laundry detergent for free, and you can arrange for delivery tomorrow.
+Speaker2: Okay, I'll place an order now, thank you for your recommendation.
+Speaker1: You're welcome. If you have any issues during the purchasing process, please feel free to contact me anytime. Have a nice shopping, goodbye.
+Speaker2: Okay, thank you, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I just bought a phone case from an online mall, but I haven't received it yet. Can you help me check it out?
+Speaker2: Hello, Xiao Ming, I am customer service king, can help you query. Can you tell me the order number?
+Speaker1: Okay, my order number is 123456789.
+Speaker2: Please wait a moment, I'll check. Okay, your order has been shipped, the logistics company is SF Express, the tracking number is 876543210.
+Speaker1: How come I didn't receive the logistics information?
+Speaker2: There might be a slight delay in updating logistics information, you can check the latest logistics status by inputting the tracking number on the SF Express website or logistics query website.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to contact our customer service at any time. Have a happy life!
+Speaker1: Okay, bye.
+Speaker2: Goodbye, wish you all the best.

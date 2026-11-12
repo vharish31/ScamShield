@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, who are you looking for?
+Speaker1: Hi, I'm Xiaoming, can you consult me about your store's activities?
+Speaker2: Hey, little Ming, how are you? Is there anything I can help you with?
+Speaker1: Can you give me a detailed explanation of the recent discount promotion at your store?
+Speaker2: Of course, our current activities are discounted by 200, 500, 1000, and 200, which is very cost-effective.
+Speaker1: If the items I bought are not enough for a full refund, can I combine them?
+Speaker2: Sure, as long as all the products are from our store, you can take a look to see if there's anything else you need.
+Speaker1: Okay, if I choose express delivery, how do I calculate the shipping fee?
+Speaker2: Our store charges a shipping fee of 10 yuan first, followed by 5 yuan, and if the total is 500 yuan, the shipping fee is free.
+Speaker1: If I receive the goods and find issues, can I return or exchange them?
+Speaker2: Of course, we support seven-day no-reason return or exchange, as long as the product does not affect secondary sales.

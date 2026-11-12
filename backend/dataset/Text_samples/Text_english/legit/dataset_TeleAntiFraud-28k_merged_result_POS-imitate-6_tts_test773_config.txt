@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? Can I ask if your restaurant is open today?
+Speaker2: Hello, we are open for business today, our business hours are from 11 am to 9 pm.
+Speaker1: Okay, can I reserve a four-person table for around 6:30 PM tonight?
+Speaker2: Okay, a 6:30 reservation for a four-person table is fine, please arrive ten minutes early to avoid missing the reservation time.
+Speaker1: Okay, I will arrive on time. Do you have any recommendations for dishes?
+Speaker2: Our restaurant menu has Kung Pao Chicken, Clear Steamed Fish and Beef Stir Fry, all very popular, you can try them.
+Speaker1: Everything sounds good, I'll come later. By the way, do you provide free parking service?
+Speaker2: Yes, our restaurant has a parking lot behind it, and you can park for free for two hours with the receipt.
+Speaker1: Okay, thank you for your detailed answer. See you later.
+Speaker2: No problem, we'll meet at the restaurant at the appointed time, wish you a happy meal, goodbye.

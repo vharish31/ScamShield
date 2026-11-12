@@ -1,0 +1,9 @@
+Speaker1: Hey, how are you? I'm little Li, from JD customer service. Your order seems to have some issues, we need to check it out. Have you been shopping on our platform recently?
+Speaker2: Yeah, I bought a new phone a few days ago.
+Speaker1: It's like this, we found that your order may have an exception, and we need you to cooperate with us to do a simple verification. Can you add a microphone to your WeChat?
+Speaker2: Okay, let's go.
+Speaker1: Great, my WeChat is 13512345678. After you add me, I will send you a link. You click on the link and fill in your personal information. That way we can verify your order situation.
+Speaker2: Okay, I'll add you.
+Speaker1: Okay, I'll add you after, I'll send you the link immediately, remember to fill it out quickly, otherwise your order may be cancelled.
+Speaker2: I got it, I'll handle it later.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please contact me anytime.

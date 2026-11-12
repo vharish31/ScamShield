@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Lee Huai?
+Speaker2: Hello, how are you? I am Lee Huai. Who are you?
+Speaker1: Hello, I am Xiao Wang, this is the Tmall customer service center, we found that the product you recently bought on our platform may have issues, we need to assist you in handling it.
+Speaker2: Oh, really? Then what do we do?
+Speaker1: That's right, we have already applied for a full refund on your behalf, but you need to cooperate with a simple verification step.
+Speaker2: Okay, what do I need to do?
+Speaker1: Just click on the link in the text message we sent you and enter the verification code as prompted.
+Speaker2: Okay, I'll check my messages later.
+Speaker1: Okay, the text message should have been sent by now. If there are any issues, feel free to contact me anytime, my phone number is 13512345678.
+Speaker2: Okay, thank you.

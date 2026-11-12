@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the credit center of China Construction Bank.
+Speaker2: Hello, how are you?
+Speaker1: I am a manager, we noticed you've been looking for loan information recently, coincidentally we have a new product, interest rate is extremely discounted, can achieve 2.5%.
+Speaker2: Hmm, is that so? It sounds good.
+Speaker1: Yes, this product is very suitable for friends who need urgent cash flow. If you're interested, you can click on the link I sent you, download our app, fill out the relevant information, and we can handle it for you.
+Speaker2: Okay, what information do I need to provide?
+Speaker1: You just need to provide your ID, bank card, and phone number, and we will review it in the background. Once approved, the loan will be immediately credited to your account.
+Speaker2: It sounds simple. Do I need to pay any fees?
+Speaker1: No fees, just provide real info, approved and funds released.
+Speaker2: Okay, let me try.
+Speaker1: Great, I'll send you the link right away. If you have any questions after downloading the app, feel free to contact me anytime.

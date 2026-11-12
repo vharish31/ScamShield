@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you deliver food to my home from here?
+Speaker2: Of course, we provide delivery service here, you can tell me what you want to order and the delivery address, I will help you place the order.
+Speaker1: Okay, I want to order a beef stir-fry and a sweet and sour pork ribs, and send it to happiness small community three number floor one unit.
+Speaker2: Okay, you ordered a beef stir-fry and a sweet and sour pork ribs, delivery address is Happiness Small Community Three Number Building One Unit. Do you need a phone number?
+Speaker1: Please, my phone number is 13813801380.
+Speaker2: Okay, I've recorded it down. You should wait around forty minutes or so, our chef is just getting ready with the food.
+Speaker1: Forty minutes? That's a bit long, is there a faster way?
+Speaker2: Due to a large number of orders, this is the fastest time. However, I will confirm with the kitchen to see if it can be processed urgently.

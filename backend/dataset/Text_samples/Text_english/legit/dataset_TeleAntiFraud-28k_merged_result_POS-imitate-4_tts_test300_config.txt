@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little king, I bought an air purifier in your store, I want to consult about installation.
+Speaker2: Hello, Little Wang, I am customer service Zhang, I can help you with the installation problems of air purifiers, do you have any specific needs?
+Speaker1: Do I need to make an appointment to install it? How much does it roughly cost?
+Speaker2: Installation requires advance booking, we have a professional installation team, installation cost varies based on model, which air purifier model did you purchase?
+Speaker1: I bought an A2000 model.
+Speaker2: The installation fee for the A2000 model is 200 yuan. You can call us to schedule during work hours. Our phone number is 400-123-4567.
+Speaker1: Okay, I'll call to make an appointment tomorrow. Is there any information on how long it will take to install?
+Speaker2: The installation time is approximately one hour, if everything goes smoothly, it won't be too long.
+Speaker1: I understand, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, feel free to consult anytime. Wish you a happy life. Bye.

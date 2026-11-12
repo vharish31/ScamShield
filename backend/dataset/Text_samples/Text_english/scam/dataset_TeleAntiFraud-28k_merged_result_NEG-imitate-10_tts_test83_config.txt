@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? This is the customer service representative of Speedy Finance, your recent loan application on our platform has been approved, would you be convenient to process it now?
+Speaker2: Okay, I did apply, but I'm not convenient right now, can we talk later?
+Speaker1: Sure, but in order to ensure that your information is accurate and error-free, I need you to provide some verification information, so I can double-check it.
+Speaker2: Okay, you say, what information do you need?
+Speaker1: I need your ID number and bank card number, as well as the verification code you received, so we can confirm your identity.
+Speaker2: I see, the ID number is 123456789012345678, the bank card number is 6222081234567890123, and the verification code is 123456.
+Speaker1: Okay, the information has been confirmed, your loan application has been processed well, you can log in to our APP to check the detailed situation.
+Speaker2: How can I download your app?
+Speaker1: You can search for SpeedHolly Finance in the mobile app market and download our official app, or I can send you a download link.
+Speaker2: Send the link, it's faster this way.
+Speaker1: Okay, just a moment, I'll send it over now. The link has already been sent to you, remember to use the official channel to download it, ensure safety.
+Speaker2: Okay, thank you.

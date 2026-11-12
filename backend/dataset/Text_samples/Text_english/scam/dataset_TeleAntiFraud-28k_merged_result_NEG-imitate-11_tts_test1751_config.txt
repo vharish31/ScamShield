@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the commercial bank customer service center, I am customer service manager Zhang Wei.
+Speaker2: Hello, what do you have?
+Speaker1: We found some unusual transactions on your credit card, and we need you to cooperate with us for investigation.
+Speaker2: Oh, really? Then what do we do?
+Speaker1: Don't worry, we have already frozen your card, but for the sake of security, we need you to provide your card number and verification code.
+Speaker2: Okay, the card number is...
+Speaker1: Please log in to our security verification page and enter the verification code using your card number.
+Speaker2: How to log in?
+Speaker1: You can click this link, we'll send a text message to you shortly.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the message has been sent, please act quickly, ensure your funds are safe.

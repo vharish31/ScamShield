@@ -1,0 +1,15 @@
+Speaker2: Hello
+Speaker1: I'm Xiaoming, I saw your house on the internet, I want to know more about it
+Speaker2: Yes, what company are you from?
+Speaker1: I am the shell, I want to know the specific situation of this house, such as price, area, decoration situation, etc.
+Speaker2: Oh, this apartment's area is one hundred and twenty square meters, decorated is several years ago, price is four hundred thousand, includes land lease fee
+Speaker1: How much money is the land lease for that soil?
+Speaker2: The price of the land lease is 45000, which includes the total price.
+Speaker1: Is there any room for negotiation on this price?
+Speaker2: Let's talk about the price a little bit, but the fluctuation won't be too big, since the condition of this house is still very good.
+Speaker1: Understood, I have a customer who is very interested in this set of apartments, he plans to come and see the apartments tonight, is it convenient for you to come and see them with him?
+Speaker2: Okay, let's meet at the hotel room tonight. Just call me beforehand to confirm the time.
+Speaker1: Okay, I'll confirm the time and call you in advance, please come over and open the door on time.
+Speaker2: Okay, no problem, just call ahead.
+Speaker1: Okay, thank you for your cooperation, let's meet later.
+Speaker2: Okay, bye.

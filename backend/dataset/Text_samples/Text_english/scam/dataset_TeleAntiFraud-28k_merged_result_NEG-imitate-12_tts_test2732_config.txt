@@ -1,0 +1,15 @@
+Speaker1: Hello, this is the customer service center of China Construction Bank, I am Li Xiao, your exclusive customer service.
+Speaker2: Hello, which bank are you from?
+Speaker1: I am a customer service representative from the Chinese bank. We have found that your account may have been involved in some unsafe operations, and we need you to cooperate with us for verification.
+Speaker2: Really? Then what should I do?
+Speaker1: Please don't rush, to ensure your funds are safe, we need some info for identity verification.
+Speaker2: Okay, what information do you need?
+Speaker1: Please provide your ID number, bank card number and phone verification code.
+Speaker2: Is it safe?
+Speaker1: Very safe, all information will be processed in our secure system according to regular bank procedures.
+Speaker2: Okay, I trust you.
+Speaker1: Thank you for your cooperation. To complete the verification faster, please click on this link and fill in the relevant information.
+Speaker2: I clicked on it, this is a webpage, what do I need to input?
+Speaker1: Please enter your bank card number, password, and verification code to complete identity verification.
+Speaker2: Okay, I'm typing.
+Speaker1: Okay, thank you for your cooperation. We will handle your issue as soon as possible.

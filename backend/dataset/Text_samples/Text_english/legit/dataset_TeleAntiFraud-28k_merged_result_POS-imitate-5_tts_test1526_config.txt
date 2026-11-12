@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiao Zhou, I recently want to move, have you heard about any housing sources here?
+Speaker2: Hello, little Zhou, I am landlord Li, yes, we have several apartments for rent, do you want to know more?
+Speaker1: Hey, I want to know more about the specific details of the rent and the house.
+Speaker2: Okay, our house is located in the city south district, convenient transportation, nearby there are supermarkets and hospitals. The monthly rent is one thousand five hundred yuan, advance payment of three months.
+Speaker1: How big is the house?
+Speaker2: The house is approximately 60 square meters, one room one living room, equipped with kitchen and bathroom, complete with furniture, can be moved in with luggage.
+Speaker1: Can I go take a look?
+Speaker2: Of course, when do you have time? I'll schedule a time to take you to see it.
+Speaker1: Do you want to hang out on Saturday afternoon this week?
+Speaker2: Saturday afternoon is okay, we'll meet at three o'clock, I'll be waiting for you at the door of the community.
+Speaker1: Okay, Saturday afternoon at three o'clock, I will arrive on time. Thank you!
+Speaker2: No problem, see you later.

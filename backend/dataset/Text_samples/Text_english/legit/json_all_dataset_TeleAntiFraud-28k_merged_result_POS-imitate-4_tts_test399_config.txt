@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am Lee Ming, your air conditioner has been having some issues lately, can you send a technician to take a look?
+Speaker2: Hello, Li Ming, I am customer service king, what problem did you have with your air conditioner?
+Speaker1: Just recently since starting up there's been strange noises and the cooling effect isn't as good as before.
+Speaker2: Understood, in this situation we recommend scheduling a master check as soon as possible. Can you arrange a time?
+Speaker1: What's the plan for tomorrow afternoon?
+Speaker2: Can it be two in the afternoon tomorrow?
+Speaker1: Let's meet at 2 o'clock, so I can wait at home in advance.
+Speaker2: Okay, we recorded down the time, the teacher will arrive on time tomorrow at 2 pm. If there are any other issues, please contact us anytime.
+Speaker1: Okay, thank you.
+Speaker2: No problem, wish you happy life. Bye!

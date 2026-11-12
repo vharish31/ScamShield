@@ -1,0 +1,12 @@
+Speaker1: Hello, is this the Flower Flower Restaurant?
+Speaker2: Hello, yes, this is the Flower Flower Restaurant. Is there anything I can help you with?
+Speaker1: Can you tell me about your special dishes?
+Speaker2: Our signature dishes include Kung Pao Chicken, Clear Steamed Fish and Spicy Szechuan, all very popular.
+Speaker1: How much does the palace chicken drumstick cost?
+Speaker2: The price of gong bao chicken is 38 yuan, and the portion is quite big.
+Speaker1: Okay, can I reserve a four-person seat for tomorrow night at seven o'clock?
+Speaker2: Okay, the four-person position has been reserved for you for tomorrow night at seven o'clock. Please remember to arrive on time.
+Speaker1: Okay, thank you. Will you contact me to confirm later?
+Speaker2: Okay, we'll call you back tomorrow afternoon to confirm. Is there anything else you need help with?
+Speaker1: No longer available, thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival. Goodbye!

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Car Multiple Platform, regarding your car seat cover installation service, the front door contact at the original store is unavailable.
+Speaker2: Oh, hello, what do we do? I ordered this paper when I placed the order saying it could only be randomly selected and not changed.
+Speaker1: I understand your confusion, but the original store is currently unreachable, can you find a nearby store?
+Speaker2: Is the store nearby far from here?
+Speaker1: It's a bit far, but it might be the only solution at the moment.
+Speaker2: Okay, let me check if there are any other options, or you can try contacting the original store again?
+Speaker1: Okay, I'll try again. But if I can't get in touch, I might have to choose a nearby store.
+Speaker2: Okay, let's try again. If it still doesn't work, I'll consider nearby stores.
+Speaker1: Okay, I'll try again later, I'll call you back.
+Speaker2: Okay, thank you for your help. Wait for your message.

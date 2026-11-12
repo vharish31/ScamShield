@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer service flower at the happy flower shop, have you received the flower bouquet you ordered and are you satisfied with it?
+Speaker2: I'm still quite satisfied, the flowers are quite fresh.
+Speaker1: That's great, we always strive to provide the best service. Yes, do you know we have a promotion activity this week?
+Speaker2: Do you know what activities are there?
+Speaker1: Yes, any flower bouquet purchased within this week can enjoy a 90% discount, and there's also a chance to get free premium packaging.
+Speaker2: I recently really want to order a bouquet and send it to my friend.
+Speaker1: That's great, do you need me to book now?
+Speaker2: Okay, can you help me?

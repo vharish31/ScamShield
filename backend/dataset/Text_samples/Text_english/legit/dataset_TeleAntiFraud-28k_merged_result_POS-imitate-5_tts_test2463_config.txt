@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, can you help me check the weather forecast for this weekend in your area?
+Speaker1: Okay, where are you from?
+Speaker2: I am in Jiangnan city.
+Speaker1: Okay, the weather forecast for this weekend in Jiangnan City is clear, with temperatures ranging from 15 to 25 degrees, perfect for outdoor activities.
+Speaker2: That's great, I'm planning to have a picnic in the park.
+Speaker1: It sounds interesting, remember to bring sunscreen, although it's not hot, but the UV rays are quite strong.
+Speaker2: Okay, thank you for the reminder. Is there anything else to prepare?
+Speaker1: You can bring an umbrella in case it suddenly rains. If you plan to stay outside for a long time, remember to bring plenty of water and some snacks.
+Speaker2: Okay, I will be ready. Thank you for your advice. Have a great weekend!
+Speaker1: You too, I wish you a happy weekend!

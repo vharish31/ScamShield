@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li. I booked a repair service on your platform for tomorrow. Can you confirm if the master can arrive on time?
+Speaker2: Hello, little Li, I am customer service Zhang, your repair service will be arranged on time for the master to come to your door, the specific time is tomorrow morning at ten o'clock, can you?
+Speaker1: Okay, ten o'clock is fine, but I have some things to do in the morning, around eleven o'clock and a half, can this time be adjusted?
+Speaker2: No problem, master can be a little late, I will adjust the time in the system, make sure master can arrive at your convenient time.
+Speaker1: Great, thank you. And what tools or materials do I need to prepare for the master?
+Speaker2: Master will bring all the necessary tools and materials, you don't need to prepare anything, just wait for master at home and he will bring everything you need.
+Speaker1: What a good thing, if I have an urgent matter that needs to be rescheduled, what should I do?
+Speaker2: You can contact our customer service in advance, and we will reschedule the tutor to come to your door based on your new time, as much as possible to meet your needs.
+Speaker1: Okay, now I can relax, thank you for your help, see you tomorrow.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy day today and see you tomorrow.

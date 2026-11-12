@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Lee Ming, I bought a phone from your store yesterday, now I have some problems and want to consult.
+Speaker2: Hello, Li Ming, what questions can you tell me, I will do my best to help you solve them.
+Speaker1: Sometimes my phone automatically restarts, I don't know if it's a quality issue.
+Speaker2: This situation sounds a bit abnormal, can you bring me to the store to check it out?
+Speaker1: Sure, but I have something in the morning, can I go around two in the afternoon?
+Speaker2: Okay, come over at 2 pm this afternoon and there won't be any problems, remember to bring the purchase certificate.
+Speaker1: Okay, I'll go over there tomorrow afternoon. And if there's any repair needed, it'll probably take a few days?
+Speaker2: If it's maintenance work, we usually finish it within three work days. If we need to replace parts, it might take a bit longer.
+Speaker1: Understood, I'll go over there at 2 pm tomorrow, thank you for your help.
+Speaker2: No problem, you can come directly to me tomorrow, I will handle it quickly. Goodbye.

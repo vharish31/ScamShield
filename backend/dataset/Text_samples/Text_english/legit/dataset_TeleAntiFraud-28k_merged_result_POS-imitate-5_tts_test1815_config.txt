@@ -1,0 +1,9 @@
+Speaker1: Hi, how are you? I'm the customer service for food delivery, can you confirm your order status?
+Speaker2: Hello, I ordered takeout, but it hasn't been delivered yet.
+Speaker1: Can you provide your order number? So I can help you query it.
+Speaker2: Okay, my order number is 123456789.
+Speaker1: Thank you, I'll check... Your order is ready, estimated delivery time is about 30 minutes.
+Speaker2: Okay, that's all for now. If you have any questions, I'll get back to you.
+Speaker1: No problem, if you have any questions, you can contact us anytime. Enjoy your meal!
+Speaker2: Thank you, goodbye.
+Speaker1: Goodbye, wish you all the best.

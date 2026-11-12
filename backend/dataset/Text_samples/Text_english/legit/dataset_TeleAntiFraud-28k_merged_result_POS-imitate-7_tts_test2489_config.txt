@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li first?
+Speaker2: Yes, what's up?
+Speaker1: I am the property manager of Xingguang Xiangquan, can you confirm if you will be at home tomorrow morning, we plan to conduct a family safety check tomorrow morning.
+Speaker2: Uh, what time are you coming in the morning tomorrow?
+Speaker1: We plan from 9 to 10.
+Speaker2: Okay, from 9 to 10 is fine, I'll wait for you guys later.
+Speaker1: Okay, thank you for your cooperation. If you have any questions, you can directly contact me.
+Speaker2: Okay, thank you.
+Speaker1: No problem, we'll see each other tomorrow.
+Speaker2: See you tomorrow, goodbye.

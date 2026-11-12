@@ -1,0 +1,10 @@
+Speaker1: Hey, are you still looking for someone over there?
+Speaker2: Hmm, still looking, the recent project is quite tight.
+Speaker1: Hey, I have a friend who's looking for a job and was wondering if you could recommend anything?
+Speaker2: Sure, what direction is your friend doing?
+Speaker1: He was a software developer before, with several years of experience.
+Speaker2: That's quite suitable, we exactly need this kind of technology expert.
+Speaker1: Okay, I'll send his resume to you.
+Speaker2: Okay, please send me your email address, we will arrange an interview as soon as possible on this side.
+Speaker1: Okay, thank you for your help. I hope he has a chance to join your team.
+Speaker2: No problem, I'm looking forward to his joining.

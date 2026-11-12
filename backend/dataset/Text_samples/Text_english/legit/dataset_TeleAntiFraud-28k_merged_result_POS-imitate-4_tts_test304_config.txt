@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, this is Xiao Wang, can you talk over there?
+Speaker2: Hello, little king, what do you want to talk to me about?
+Speaker1: I recently want to buy an electric car, I see your store has a good one, want to know specific information.
+Speaker2: Hey, electric car, what specific model are you interested in? We have several different models here.
+Speaker1: Can you introduce me to a phone called "Flashlight"?
+Speaker2: The flash phone is one of our best-selling models, equipped with a high-performance battery, with a range of up to 150 kilometers, suitable for city commuting.
+Speaker1: What is the price of this car?
+Speaker2: The price of an electric vehicle with a flashlight is 4899 yuan, and there is currently a discount promotion for purchasing it.
+Speaker1: What is the specific content of the discount activity?
+Speaker2: If you place an order now, we can offer you a set of cycling equipment as a gift, including a helmet, gloves, cycling suit, and additional battery maintenance service.

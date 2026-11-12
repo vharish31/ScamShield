@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I recently discovered your phone, I want to know more specific information.
+Speaker2: Hello, little king, I am customer service little Li, very happy to serve you. Which phone do you like?
+Speaker1: That's the latest one you have, I heard it has great performance.
+Speaker2: Yes, you're talking about our flagship phone model. This phone uses the latest processor, and the battery life is very strong, making it perfect for daily use.
+Speaker1: What is the price of that?
+Speaker2: This phone's price is 3999 yuan, now there's a discount of 200 yuan when buying.
+Speaker1: Hey, are there any discount activities going on, what should I pay attention to?
+Speaker2: You can purchase directly through our official website or our offline stores, and to participate in promotional activities, please enter the discount code at checkout. Our customer service will also confirm.
+Speaker1: Okay, thank you for your detailed answer. I will consider it.
+Speaker2: You're welcome. If you have any questions, please feel free to contact us anytime. Have a nice life, bye!

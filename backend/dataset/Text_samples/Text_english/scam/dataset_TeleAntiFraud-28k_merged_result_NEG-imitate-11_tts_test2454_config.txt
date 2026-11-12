@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Laoban?
+Speaker2: No, you're wrong.
+Speaker1: Hi, what's your name? I'm the customer manager of XX bank, and we have a discount loan promotion at the end of the year. Do you have any funding needs?
+Speaker2: I'm Lee, I just need some cash flow recently.
+Speaker1: Mr. Li, you're really lucky, we have a perfect loan product for you, low interest rate, fast approval, all you need is some basic information, and you can quickly get the money.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your ID, business license, and the last six months of bank statements. To speed up the approval process, you can add my WeChat first, and I will help you submit the documents online.
+Speaker2: Okay, let me add your WeChat. What's your WeChat number?
+Speaker1: My WeChat number is XXX. After you add me, we can communicate directly online, very convenient.
+Speaker2: Okay, I'll add you.

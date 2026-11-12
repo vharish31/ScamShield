@@ -1,0 +1,9 @@
+Speaker2: Hey, where are you going?
+Speaker1: Just arrived at your community gate, how do I proceed?
+Speaker2: I walked straight from the community gate to the first street corner and turned left, then walked all the way to the end, our house is on the first floor.
+Speaker1: Okay, I know, about how long until I arrive?
+Speaker2: Okay, take it slow, don't rush.
+Speaker1: Okay, I'll be there in a while.
+Speaker2: Okay, I'm waiting for you at home.
+Speaker1: I'll hang up now, see you later.
+Speaker2: See you later.

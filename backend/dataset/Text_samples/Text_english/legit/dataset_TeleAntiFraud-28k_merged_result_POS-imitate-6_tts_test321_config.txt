@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I want to reserve a seat for four people at noon tomorrow.
+Speaker2: Okay, which restaurant would you like to reserve?
+Speaker1: It's your restaurant, named Flower Fragrance Residence.
+Speaker2: Understood, Flower Fragrance Residence. What is your name and contact information?
+Speaker1: My name is Zhang, phone number is 5545454444.
+Speaker2: Okay, Mr. Zhang, I have reserved a seat for you at noon tomorrow for four people. Do you need to arrive half an hour early?
+Speaker1: Okay, let's arrive ten minutes early, at 11:50 am.
+Speaker2: Okay, we will reserve a spot for you. If there are any changes, please contact us in advance. Have a nice day!
+Speaker1: Thank you, goodbye.

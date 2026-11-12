@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there?
+Speaker2: Hello, I'm here, how are you?
+Speaker1: Can you tell me what time your delivery service ends?
+Speaker2: Our delivery service ends at 10 pm tonight, so you can still make it if you order now.
+Speaker1: That's great, can you recommend a brand of your family's fried rice?
+Speaker2: Of course, our family's most popular dish is seafood fried rice, with shrimp, squid, green beans, and carrots, the taste is very fresh and delicious.
+Speaker1: Sounds good, let me try. Yes, do you have money for sending food?
+Speaker2: Yes, if you spend 50 yuan, you don't have to pay extra delivery fee. Your order amount is exactly 50 yuan, so you don't need to pay extra delivery fee.
+Speaker1: That's great, now I have no burden. How long will it take to deliver after I place the order?
+Speaker2: We usually deliver within 30 minutes after ordering, if your address is within our delivery range.

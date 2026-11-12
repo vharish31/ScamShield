@@ -1,0 +1,10 @@
+Speaker1: Hello, are you from Li's household cleaning service?
+Speaker2: Hello, yes, what do you need from us?
+Speaker1: I want to book a housekeeper to help with cleaning and sanitation.
+Speaker2: Okay, which day would you like to make a reservation?
+Speaker1: Are you going out this weekend?
+Speaker2: Is it okay, which specific day of this weekend is it?
+Speaker1: Can I come at 10 am on Saturday morning?
+Speaker2: Sure, we will arrive on time at 10 am on Saturday morning.
+Speaker1: Okay, that's all for you.
+Speaker2: No problem, if you have other needs, please contact me anytime.

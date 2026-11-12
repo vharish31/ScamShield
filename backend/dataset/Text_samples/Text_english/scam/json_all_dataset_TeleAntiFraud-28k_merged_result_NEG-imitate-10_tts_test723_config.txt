@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, understand?
+Speaker2: Hello, where are you?
+Speaker1: Is this Shenzhen Bank? Are you Mr. Zhang?
+Speaker2: What do you have?
+Speaker1: We noticed some unusual usage of your credit card, so we need to conduct a security verification. Could you please provide your card number and verification code?
+Speaker2: The card number is okay, but I need to confirm the verification code again, are you a regular channel?
+Speaker1: Of course, we are the customer service of Shenzhen Bank, for the sake of your account safety, we need you to cooperate with the verification.
+Speaker2: How can I confirm this is your bank's official phone number?
+Speaker1: You can call our bank customer service hotline 4001234567 or directly click on the official verification page link sent by us.
+Speaker2: Okay, I'll check my messages later, thank you.

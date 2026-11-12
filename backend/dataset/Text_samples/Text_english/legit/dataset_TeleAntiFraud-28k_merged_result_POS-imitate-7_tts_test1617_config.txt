@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I saw your takeout menu, do you have any recommendations for dishes?
+Speaker2: Hello, yes, we have the most popular here, palace sauce chicken and spicy Sichuan peppercorn, you can try it.
+Speaker1: How much do these two dishes cost?
+Speaker2: The price of gong bao chicken is 28 yuan, and the price of ma la xiang guo is 35 yuan.
+Speaker1: Hey, it sounds good, can you tell me how long your delivery time is?
+Speaker2: On average, it takes about 30 minutes from placing an order to delivery, but the specific time may vary depending on the current order volume.
+Speaker1: Okay, I want to order a palace sauce chicken drumstick tonight, can you take the order now?
+Speaker2: Okay, you can order now, we will prepare quickly.
+Speaker1: What time can I place an order and have it delivered?
+Speaker2: If you order now, you can get it delivered to you around 7 o'clock.
+Speaker1: Okay, I'll place the order now, thank you for your service.
+Speaker2: No problem, thank you for your support, wish you enjoy your meal.

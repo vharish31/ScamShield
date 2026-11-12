@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me your hairdressing service hours here?
+Speaker2: We are open from 9 am to 8 pm on weekdays and weekends as well.
+Speaker1: How far in advance do I need to make a reservation?
+Speaker2: We suggest you book at least one day in advance to ensure you have enough time.
+Speaker1: Okay, can I make a reservation for tomorrow afternoon at three o'clock?
+Speaker2: Is this your first time here?
+Speaker1: Yes, first time.
+Speaker2: Okay, just come directly to the appointment time and we will be ready for you.

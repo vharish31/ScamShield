@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm little Li, consulting your home cleaning service.
+Speaker2: Hello, little Li, I am customer service Zhang, what information do you want to know?
+Speaker1: Can you tell me how your family's clock point service is charged?
+Speaker2: Our clock point service is charged at 30 yuan per hour, and in general, a service time is not less than two hours.
+Speaker1: If I only need an hour of service.
+Speaker2: If your need is one hour, we can charge the fee according to the lowest two-hour standard, which is 60 yuan.
+Speaker1: How long do I need to book in advance?
+Speaker2: You can schedule a service appointment for the day before you need it, between 3 and 5 pm. We will arrange our staff according to your needs.
+Speaker1: Have all your service personnel undergone training?
+Speaker2: Yes, all our service personnel undergo professional training to ensure high-quality service for customers.
+Speaker1: Okay, thank you for your answer. I will think about it.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult us anytime. We hope our service meets your expectations.

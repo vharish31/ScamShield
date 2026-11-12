@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I just arrived at your store door.
+Speaker2: Okay, come in, I'm waiting for you at the front desk.
+Speaker1: Okay, I see you, see you later.
+Speaker2: See you later.
+Speaker1: What is the cancellation policy for haircuts here?
+Speaker2: If you need to cancel an appointment, it's best to notify us a day in advance so we can arrange time for other customers.
+Speaker1: If I have an urgent matter and can't come today, what should I do?
+Speaker2: If you have a temporary matter, please inform us at least two hours in advance. We may charge a certain cancellation fee as compensation.
+Speaker1: I understand, thank you for your explanation.
+Speaker2: No problem, feel free to ask me any questions anytime.

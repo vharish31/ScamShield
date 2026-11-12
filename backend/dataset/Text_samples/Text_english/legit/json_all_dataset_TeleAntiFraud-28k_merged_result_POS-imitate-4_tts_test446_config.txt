@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I just saw your job posting, want to know if you're still hiring?
+Speaker2: Hey, are you interested in applying?
+Speaker1: Yes, I want to know more about the specific work content and requirements.
+Speaker2: Alright, we mainly need to do market promotion, which requires certain communication skills and teamwork spirit.
+Speaker1: I used to work at a sales company and also did some customer service work.
+Speaker2: That's great, we also highly value this aspect. You can send your resume to me, we'll schedule an interview later.
+Speaker1: Okay, my email is example@domain.com, I will send my resume over quickly.
+Speaker2: Got it, thank you, if there's any further info, we'll get in touch.
+Speaker1: Okay, thank you. I'll hang up first, bye.
+Speaker2: Goodbye, wish you all the best.

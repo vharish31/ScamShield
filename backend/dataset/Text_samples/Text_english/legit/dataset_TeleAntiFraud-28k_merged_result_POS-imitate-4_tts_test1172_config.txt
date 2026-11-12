@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how can I help you?
+Speaker1: Can you tell me if there are any suitable outdoor sports shoes here?
+Speaker2: Yes, we have several shoes specifically designed for outdoor sports here. What specific information do you want to know?
+Speaker1: I mainly want to know about the slip resistance and breathability of shoes, as well as the price.
+Speaker2: This shoe here is highly recommended, has excellent slip resistance, fits various complex terrains, and has good breathability, ensuring dry feet. The price of this shoe is 1200 yuan.
+Speaker1: The sound is good, but I need a size bigger, do you have forty-five sizes?
+Speaker2: We have stock of 45 codes here, but the quantity is limited. You can place an order now, and we will arrange for quick delivery.
+Speaker1: Okay, I decided to place an order. How do I pay?
+Speaker2: You can pay through our official website or mobile app, supporting credit cards, PayPal, WeChat, etc. payment methods.
+Speaker1: I understand, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a happy shopping!

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw a new phone in your store, I want to know more about it.
+Speaker2: Okay, our new phone is the latest release, with main features including high-resolution camera, long battery life, and fast charging.
+Speaker1: How much does this phone cost?
+Speaker2: This phone costs 3200 yuan, there's a promotion going on, and you'll get a headset and phone case for free when you buy it.
+Speaker1: Is this phone in stock now?
+Speaker2: Yes, we have fresh produce here, you can come to the store anytime to take a look.
+Speaker1: What time can I go to your store to take a look?
+Speaker2: Our store's business hours are from 10 am to 9 pm. You can choose a convenient time to come.
+Speaker1: Can I go there around 3 pm tomorrow afternoon?
+Speaker2: Of course, there will be someone serving you here at three o'clock in the afternoon tomorrow.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival. Goodbye!

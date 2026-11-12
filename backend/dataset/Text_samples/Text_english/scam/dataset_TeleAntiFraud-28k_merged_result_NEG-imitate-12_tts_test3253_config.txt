@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm the customer manager of the construction bank, Zhang Wei Qiang.
+Speaker2: Hello, what do you have?
+Speaker1: We recently launched a very affordable credit loan with a very low interest rate, only requiring 0.02 yuan.
+Speaker2: "Ugh, I'm not interested in loans."
+Speaker1: That's really too bad, this loan is so suitable for friends who need to circulate funds.
+Speaker2: No need, thank you.
+Speaker1: If you have any future funding needs, feel free to contact me anytime. I have a link here with detailed information about loans.
+Speaker2: Link? I'm not very convenient to open the link.
+Speaker1: That's really too bad, but you can also find out more information by downloading our bank's official app.
+Speaker2: Okay, I will consider it. Thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I'm Xiao Ming, I just booked my haircut appointment for tomorrow on your website.
+Speaker1: Hello, Xiao Ming, I found your appointment information. Your appointment is with hairstylist Xiao Wang at 10 am tomorrow, right?
+Speaker2: Yes, it's this time.
+Speaker1: Okay, we will prepare in advance. By the way, if it's the first time to the store, you need to bring your ID for real name registration.
+Speaker2: Okay, I know, I will bring it along.
+Speaker1: Also, our store's address is 100 Guangming Road, get off at Guangming Station on Line 2 of the metro and walk for five minutes to reach it.
+Speaker2: Okay, I know how to go. Thank you for reminding me.
+Speaker1: You're welcome. If you have any questions, feel free to contact us anytime. Have a nice day!
+Speaker2: Thank you, goodbye.

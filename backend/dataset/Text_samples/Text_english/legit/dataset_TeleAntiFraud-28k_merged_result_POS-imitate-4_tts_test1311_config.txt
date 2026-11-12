@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I want to reserve a seat for two people at noon tomorrow.
+Speaker2: Okay, which branch would you like to reserve? We have east city store and west city store.
+Speaker1: Let's book the Xicheng store, do you have any recommendations there?
+Speaker2: Our store's signboard menu has spicy kung pao chicken, steamed fish with ginger and scallions, and our signature beef noodle soup, all very popular.
+Speaker1: Let's try the spicy Sichuan hotpot and the steamed fish with ginger and scallions.
+Speaker2: Okay, I will reserve these two dishes for you. Do you need to order any special seating requirements, such as a window seat or a quiet corner?
+Speaker1: If there's a quiet corner, that's best. We want to chat.
+Speaker2: Understood, I will try my best to arrange a quiet corner for you. Could you please provide your contact information so we can confirm the reservation?
+Speaker1: My phone number is 1380000000, you can contact me through this number.
+Speaker2: Okay, I've recorded it. Tomorrow at noon, West City Store, two people, quiet corner seat, we'll meet then.
+Speaker1: Okay, thank you for your help. Bye.
+Speaker2: You're welcome. I'm looking forward to your arrival. Goodbye.

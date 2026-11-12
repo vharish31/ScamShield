@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Zhang?
+Speaker2: Yes, hello, who are you?
+Speaker1: I'm Little Wang, let's meet up this afternoon to go to the movie together.
+Speaker2: Hey, I remember now, did you go to the movie theater?
+Speaker1: Just now, I got out of the subway station and am walking towards the movie theater.
+Speaker2: Okay, I'm still at home, I'll leave soon, it should take about twenty minutes.
+Speaker1: Okay, let's meet at the movie theater entrance.
+Speaker2: Okay, meet at the movie theater entrance at the specified time.
+Speaker1: Okay, pay attention to safety on the road.
+Speaker2: Thank you, see you on the road.

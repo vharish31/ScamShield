@@ -1,0 +1,12 @@
+Speaker1: Hello, nice to meet you, I'm Lee Huai, from Silver Peak Investment Company customer service.
+Speaker2: Hello, what can I help you with?
+Speaker1: We noticed you've recently shown interest in our investment products. There's now a special opportunity for you to double your investment and see it grow.
+Speaker2: Oh, really? This sounds good, but I'm not very familiar with investing.
+Speaker1: No problem, we have a professional team to serve you. Just provide some basic information like your name and contact, and we can customize an investment plan for you.
+Speaker2: My name is Zhang Ming, phone number is 13500000000.
+Speaker1: Okay, Mr. Zhang Ming, thank you very much. To ensure your information is safe, I need you to provide a verification code. I will now send it to you via text message.
+Speaker2: Okay, I received it. The verification code is 123456.
+Speaker1: Thank you very much. We also have a special promotion, if you download our investment app through our exclusive link now, you can enjoy an additional 5% return rate.
+Speaker2: How do I download this app?
+Speaker1: It's simple. I send you a link, you click to enter, follow the instructions to download. Add my WeChat, I'll send you the link directly.
+Speaker2: Okay, I'll add you on WeChat.

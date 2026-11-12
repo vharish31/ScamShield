@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service of China Construction Bank, I am the customer service manager Wang, have you recently applied for a loan on our platform?
+Speaker2: Oh, really? I recently applied for a loan, but I haven't received a reply yet.
+Speaker1: That's right, your loan application has been approved, but we need you to complete an identity verification. Is it convenient for you to do it now?
+Speaker2: Identity verification? How to operate?
+Speaker1: It's simple, just click on the link I sent you and follow the instructions.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, send me the link, hurry up, don't delay, otherwise the loan amount will be cancelled.
+Speaker2: Okay, I'll go operate now.
+Speaker1: Okay, if you have any issues during the operation, feel free to contact me anytime. Best of luck with the operation.
+Speaker2: Thank you, I will pay attention.

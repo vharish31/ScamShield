@@ -1,0 +1,11 @@
+Speaker1: Hey, are you ordering takeout from our restaurant?
+Speaker2: Hey, hi, I just ordered a palace sauce chicken drumstick and a spicy sour soup.
+Speaker1: Okay, do you have any special requirements for these two menus?
+Speaker2: Don't put cilantro in gong bao chicken, can sour and spicy soup be replaced with tomato soup? I recently can't accept spicy.
+Speaker1: No problem, we can skip the green onions with the gong bao chicken, and we can replace the sour and spicy soup with tomato soup.
+Speaker2: Okay, and can you give me more rice, please?
+Speaker1: Of course, extra rice is not charged separately.
+Speaker2: Thank you so much, my address is happiness road 100 number happiness small community two number floor four single unit three hundred and six room.
+Speaker1: Okay, I have recorded your address. It will arrive approximately half an hour later. If there are any changes, we will contact you in advance.
+Speaker2: Okay, can you please wait for me at the door for a while? If you have any questions, please call me anytime.
+Speaker1: Okay, we'll be ready soon. See you then.

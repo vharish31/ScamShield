@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Just got off the subway station, you too?
+Speaker1: Let's go to the new coffee shop that just opened up near the bookstore. What do you think?
+Speaker2: Okay, I'll go now, it should take about a few minutes to get there.
+Speaker1: Okay, you arrived. I'm waiting for you here.
+Speaker2: Okay, I'll contact you right away.
+Speaker1: Remember to bring an umbrella, the weather forecast predicts there's a chance of rain today.
+Speaker2: Okay, I brought it, don't forget to bring it too.
+Speaker1: Okay, let's talk again when we meet.
+Speaker2: Okay, see you later.

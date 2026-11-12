@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of China Mobile Bank, I noticed your recent shopping records, there may be some discount activities suitable for you, are you interested in learning more?
+Speaker2: What discount activity?
+Speaker1: We have a limited-time shopping cashback activity, with a maximum return of 15%, and also have the chance to get free overseas shopping vouchers. Just download our exclusive app, register and you can participate in the activity.
+Speaker2: How do I download your app?
+Speaker1: You can directly click on the link I send to you to download our official app, install it on your phone, and register with your phone number after successful registration, you can then view the activity details.
+Speaker2: Is your app safe? I'm afraid of risks.
+Speaker1: You can rest assured that our app is certified by the Chinese government as a safe software, and we have a dedicated security team responsible for protecting user information. If you have any questions, please contact our customer service, and we will answer them promptly.
+Speaker2: Okay, let me try.
+Speaker1: Great! Thank you for your support! If you have any questions, please feel free to contact us anytime. Enjoy your use!
+Speaker2: Okay, thank you.

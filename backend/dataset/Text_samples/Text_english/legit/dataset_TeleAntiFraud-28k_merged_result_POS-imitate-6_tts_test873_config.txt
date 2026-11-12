@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the delivery boy, your food is here, can you come down to get it?
+Speaker2: Hello, can I bring food up from the fifth floor?
+Speaker1: This building rules, outside delivery can only be sent to the first floor, not upstairs.
+Speaker2: Okay, I'll come down right away, you wait for me a minute.
+Speaker1: Okay, I'm waiting for you here, hurry down.
+Speaker2: Okay, I'll go down now.
+Speaker1: The wind is a bit big here, you quickly come down, I help you look at the food.
+Speaker2: I understand, I'll be quick.
+Speaker1: Okay, pay attention to safety.
+Speaker2: Thank you, be careful on the road.

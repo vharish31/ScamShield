@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I'd like to inquire about your delivery service.
+Speaker2: Of course, we provide many dishes, you can choose your favorite.
+Speaker1: How long is your delivery time?
+Speaker2: Typically, from placing an order to delivery takes about 30 minutes, but the specific time may be adjusted based on the order volume and weather conditions.
+Speaker1: How long will it take for the order to be delivered?
+Speaker2: As soon as you place an order now, we will prepare it quickly after receiving it, and we estimate that it will take about forty minutes to deliver it to your hands.
+Speaker1: Okay, I placed an order. My address is Mingzhu Xiāojuān Èr nián lóu Sān dān yī xīng sì zhèr liú.
+Speaker2: Okay, apartment 2, building 2, unit 3, room 402 in Mingzhu Xianguan, we have recorded it, and we will contact you later to confirm the order details.

@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: I'm little Li, just bought a shirt from your store.
+Speaker2: Hello, little Li, what can I help you with?
+Speaker1: Why haven't I received any delivery information for the order I just placed?
+Speaker2: Please wait a moment, I'll check your order. Can you tell me your order number?
+Speaker1: Okay, my order number is one two three four five six seven.
+Speaker2: Okay, I found it. Your order is being prepared, estimated delivery in 30 minutes.
+Speaker1: How long will it take for me to receive it?
+Speaker2: Based on the current delivery situation, you can expect to receive it in about an hour and a half.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, please feel free to contact us anytime if you have any questions.

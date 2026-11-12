@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you little king?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Little Li from the community management, just want to confirm the water pipe repair situation at your home.
+Speaker2: Oh, okay, there's really a problem with my water pipe.
+Speaker1: Can you come over to check in the morning around 10 o'clock tomorrow on this side?
+Speaker2: Sure, tomorrow morning I'll be at home.
+Speaker1: Okay, we will bring the necessary tools at the specified time. If you need to replace parts, you may have to pay some fees.
+Speaker2: No problem, as long as you can fix it, that's fine. Thank you.
+Speaker1: No problem, feel free to contact us anytime. See you tomorrow.
+Speaker2: Okay, see you tomorrow.

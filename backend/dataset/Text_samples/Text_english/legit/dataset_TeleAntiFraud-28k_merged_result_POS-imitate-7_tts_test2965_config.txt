@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, can you find me one of your customer service specialists? I want to consult about a product on your platform.
+Speaker2: Hello, Mr. Li, I am customer service representative Zhang, what can I help you with?
+Speaker1: Hello, I want to know more about the detailed information of this smartwatch on your platform, such as its battery life and supported functions.
+Speaker2: Okay, we have many smartwatch models. What specific model are you interested in? For example, brand, model?
+Speaker1: That's the one recommended on your homepage, the brand is Star.
+Speaker2: I understand that the continuation ability of the star intelligent watch is approximately two days, supporting heart rate monitoring, sleep analysis, and message reminders, and is very suitable for daily use.
+Speaker1: How is the waterproof performance of that watch?
+Speaker2: This watch is waterproof for daily life, such as washing hands or rain, but it's not recommended to wear it while swimming.
+Speaker1: What if there are issues during use, will you provide after-sales service?
+Speaker2: Of course, we provide a one-year warranty service, any non-human damage can be repaired for free.

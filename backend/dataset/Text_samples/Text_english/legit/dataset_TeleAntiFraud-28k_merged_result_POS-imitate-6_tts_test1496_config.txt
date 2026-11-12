@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer service of the community property, I see you have not paid the property fee yet, today is the last day, do you remember?
+Speaker2: What are property fees? I don't know.
+Speaker1: You may have forgotten, there's an unpaid property fee from last year in your account, if not handled promptly, there will be overdue interest.
+Speaker2: How do I pay?
+Speaker1: You can pay directly through our WeChat public account or go to the property management office to handle it, we have various payment methods here.
+Speaker2: What is the name of the WeChat public account?
+Speaker1: "The name of the WeChat public account is 'Happy Garden Property', you can search it and find it easily, very convenient."
+Speaker2: Okay, I'll handle it right away, thank you for reminding me.
+Speaker1: You're welcome. If you have any questions, feel free to contact us anytime. Wishing you a happy life.

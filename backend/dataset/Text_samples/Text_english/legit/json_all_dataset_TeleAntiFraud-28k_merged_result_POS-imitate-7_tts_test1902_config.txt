@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, want to consult your hair service.
+Speaker2: Hello, little king, I am the customer service representative here, what can I help you with?
+Speaker1: Can you tell me more about your haircut package, how much does it cost?
+Speaker2: Our haircut package has many options, the basic package is 200 yuan, which includes cutting and washing hair. If you need additional services like styling or coloring, you can add some extra fees.
+Speaker1: Can I make a reservation for tomorrow afternoon at three o'clock?
+Speaker2: Would you like me to confirm the 3 pm meeting tomorrow afternoon? There is still an available slot.
+Speaker1: Okay, can you help me?
+Speaker2: I have already made an appointment for you. Tomorrow at 3 pm, please come 10 minutes early.
+Speaker1: Okay, thank you.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, wish you a happy day.

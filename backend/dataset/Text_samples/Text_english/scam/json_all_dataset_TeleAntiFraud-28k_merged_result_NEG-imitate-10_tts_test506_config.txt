@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from the Beijing Bank credit card center. Have you recently considered increasing your credit limit?
+Speaker2: Hello, how do I increase my credit limit?
+Speaker1: That's it, we have a special activity, just need you to provide some personal info, we can quickly process for you.
+Speaker2: What personal information do you need to provide?
+Speaker1: We need your ID number, bank card number, and some basic contact information to confirm your identity.
+Speaker2: Is it like that, then do I need to go to the bank?
+Speaker1: No need, just click the link I sent you and follow the instructions to complete the application.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, I'll send you the link now. Remember to complete the operation quickly, the number of participants is limited.
+Speaker2: Thank you, I will pay attention.

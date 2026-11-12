@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Zhong?
+Speaker2: Hello, it's me.
+Speaker1: Hello, I am the customer service manager of the commercial bank, named Lee Huai. We noticed that you recently have a loan need, and currently we have a special promotion loan project, no collateral is required, the interest rate is very low, and can be quickly approved.
+Speaker2: Oh, really? I really need a capital turnaround recently.
+Speaker1: Yes, it's perfect. To process your application faster, I need you to download our bank's official loan app first, so we can communicate and submit information more easily.
+Speaker2: Okay, how do I download?
+Speaker1: Very simple, you can download it directly through this link, I'll send it to you soon.
+Speaker2: Okay, I got it, let's download it.
+Speaker1: After downloading is complete, open the APP, register the account, and then follow the instructions to fill in the relevant information. If there are any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help.

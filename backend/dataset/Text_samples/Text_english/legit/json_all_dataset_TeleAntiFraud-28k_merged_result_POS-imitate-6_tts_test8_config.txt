@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm the waiter at the Xiaoming fast food store, you ordered food from us before, now we have a new promotion, want me to notify you?
+Speaker2: Hello, do you have any discount activities?
+Speaker1: Our store is now launching a promotion where you get 30% off when you spend over 100 yuan, and there are also some new hamburger options on sale at 80% off.
+Speaker2: Sounds good, I want to try it now, are your store still open?
+Speaker1: Our store's business hours are from 10 am to 10 pm, and you're here right now.
+Speaker2: Okay, I'll go over there in a while.
+Speaker1: Okay, our store location is on the first floor of the building in the city center. Do you know how to get here?
+Speaker2: I often go there.
+Speaker1: That's great, welcome you, we will prepare everything for you.
+Speaker2: Thank you, see you later.

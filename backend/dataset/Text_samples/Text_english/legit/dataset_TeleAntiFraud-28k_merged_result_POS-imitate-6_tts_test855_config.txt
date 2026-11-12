@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I'm a delivery rider, your food is here, now at the small community door.
+Speaker2: Okay, are we at the north gate?
+Speaker1: Yes, it's at the North Gate. Can you come down?
+Speaker2: Can you come to the front desk for a moment?
+Speaker1: Sure, but remember to come back within half an hour, otherwise the takeout may get cold.
+Speaker2: Okay, I'll come quickly. Thank you.
+Speaker1: No problem, pay attention to safety.
+Speaker2: Okay, bye.

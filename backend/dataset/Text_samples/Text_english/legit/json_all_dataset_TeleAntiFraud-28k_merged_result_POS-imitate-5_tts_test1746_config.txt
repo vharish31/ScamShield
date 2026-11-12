@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at the community door, can't find the security guard.
+Speaker2: Hey, hi, wait a sec, I'll take a look.
+Speaker1: Okay, I'm waiting for you at the door.
+Speaker2: Can you come in first, is the door at the entrance open?
+Speaker1: I opened the door and came in.
+Speaker2: After entering the door, you walked towards the most distant non-rusty door.
+Speaker1: Is that the door at the end?
+Speaker2: Yes, the door at the end, go up and walk to the left side of the stairs.
+Speaker1: Okay, I understand, thank you.
+Speaker2: No problem, be careful, say it on the second floor.

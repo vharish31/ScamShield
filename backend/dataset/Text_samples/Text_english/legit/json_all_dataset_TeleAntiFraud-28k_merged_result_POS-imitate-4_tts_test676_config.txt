@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am the city express delivery customer service, your express will be delivered today, are you at home?
+Speaker2: Hello, I'm at home, when will the delivery arrive?
+Speaker1: We will notify you if there are any changes between 3 PM and 4 PM.
+Speaker2: Okay, that's bothersome, if there's any change, remember to tell me in advance.
+Speaker1: No problem, we will notify you promptly. Moreover, your package is fragile, we will pay special attention to it.
+Speaker2: Thanks for your careful reminder, I'm worried about the safety of my package.
+Speaker1: This is what we should do, you can rest assured, we will ensure safe delivery of the package.
+Speaker2: Now I can relax, thank you for your service, goodbye.
+Speaker1: You're welcome, wish you a happy day, bye.

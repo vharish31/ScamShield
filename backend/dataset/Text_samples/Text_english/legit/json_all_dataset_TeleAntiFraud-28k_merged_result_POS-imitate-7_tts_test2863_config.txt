@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Let's take a look at that paper together.
+Speaker2: Hey, can you send me the receipt, I'll confirm it here.
+Speaker1: Okay, then what do you need at that service counter?
+Speaker2: "Hey, the service counter needs the order number and delivery person's phone number."
+Speaker1: Okay, here you go.
+Speaker2: Got it, I've already seen it, just wait a minute, I'll handle it.
+Speaker1: Okay, can you help me?
+Speaker2: No problem, I'll notify you after I handle it.

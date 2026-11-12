@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm a Meituan rider, I'm currently at the mall, is this place near the mahjong hall?
+Speaker2: Yes, this is it.
+Speaker1: Okay, I see the building. I come from the east, then walk towards the back door.
+Speaker2: Hey, you walked straight in after coming in.
+Speaker1: I arrived in about two minutes.
+Speaker2: Okay, you arrived to walk west.
+Speaker1: Okay, I arrived later, walk four-ring road corner right turn is it?
+Speaker2: Turn right at the third crossroad, take the big road on the right, number 86.
+Speaker1: Okay, I know. I arrived at the meeting point.
+Speaker2: Okay, I'll wait for you.

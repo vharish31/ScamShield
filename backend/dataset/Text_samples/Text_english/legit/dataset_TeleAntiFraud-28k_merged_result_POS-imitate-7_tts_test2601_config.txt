@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I'm the neighbor you mentioned last time. Can I borrow your WiFi for a while? My WiFi is broken.
+Speaker2: Sure, sure. But my home internet speed is slow, you can go ahead.
+Speaker1: No problem, can use it temporarily. What's the password?
+Speaker2: The password is 12345678, I'll give you the key when you come over.
+Speaker1: Okay, I'll be right over.
+Speaker2: Okay, you arrived. Call me.
+Speaker1: Okay, thank you.
+Speaker2: No problem, come straight up now.

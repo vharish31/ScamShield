@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, do you have any air purifiers suitable for home use here?
+Speaker2: Hello, little Li, yes, we have various models of air purifiers here, what is the area of your home?
+Speaker1: My home is about 40 square meters, I want to put it in the living room, it's best to purify formaldehyde.
+Speaker2: Okay, we have a model A1 air purifier that's suitable for 40 square meters and comes with a special feature for removing formaldehyde, making it perfect.
+Speaker1: How much does this one cost?
+Speaker2: The price of the A1 model air purifier is 2500 yuan, and there is now a discount activity, which can enjoy a 90% discount.
+Speaker1: Can you send it over tomorrow?
+Speaker2: Okay, please provide a detailed address, we can arrange to deliver goods to your door tomorrow.
+Speaker1: Okay, the address is Red Flag Road 33rd Number, the contact phone number is 1380013800138.
+Speaker2: Okay, I noted it down. It will be arranged to send it over tomorrow. Are there any other things that need consultation?

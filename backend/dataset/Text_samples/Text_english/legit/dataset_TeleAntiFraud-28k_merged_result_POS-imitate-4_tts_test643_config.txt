@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm from the community management, I want to confirm the water and electricity repair appointment for your house, can it be tomorrow morning at nine o'clock?
+Speaker2: Hello, okay, I'll meet you at nine o'clock in the morning, but I might be late home, around ten o'clock.
+Speaker1: Okay, I'll wait for you at ten o'clock. If you come back early, you can contact me anytime.
+Speaker2: Okay, thank you. I'll try to come back early. What tools do I need to prepare for maintenance?
+Speaker1: No need, we all bring tools, you just need to ensure the power switch at home is on, convenient for us to check.
+Speaker2: Got it, just turn on the power switch and that's it, I'll pay attention.
+Speaker1: That's right, as long as you keep the power switch on, we'll take care of the rest. Are there any other issues?
+Speaker2: No more, just this way, bother you.
+Speaker1: No problem, this is our work. See you tomorrow.
+Speaker2: See you tomorrow, thank you.

@@ -1,0 +1,12 @@
+Speaker1: Hello
+Speaker2: Hello
+Speaker1: Hello, I am the general manager of Agricultural and Commercial Bank, recently we have launched a low interest loan product, do you have any funding needs?
+Speaker2: Uh, loan, I recently have a place where I need some cash.
+Speaker1: Great, this loan product has a very low interest rate, and the approval process is very fast. All you need to do is fill out some basic information, and you'll get the approval result right away.
+Speaker2: That's very convenient. What do I need to do?
+Speaker1: Just click on the links we send you and fill out the application form online.
+Speaker2: Okay, how do I get this link?
+Speaker1: Please wait a moment, I will send you the link via text message. Once you receive it, click on the link and follow the instructions.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, after you receive the message, if you have any questions, feel free to contact me anytime. My phone number is 7613205888. Best wishes for your application. Bye.
+Speaker2: Okay, thank you, bye.

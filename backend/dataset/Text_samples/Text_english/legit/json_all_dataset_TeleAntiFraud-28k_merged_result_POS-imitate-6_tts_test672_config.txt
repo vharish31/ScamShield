@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little king, I want to ask you guys if there's a place at the restaurant tomorrow night?
+Speaker2: Hello, Little King, this is Little Chef Restaurant. Do you want to reserve a few seats for tomorrow night?
+Speaker1: I'd like to reserve a table for four people around 7:30 PM.
+Speaker2: Okay, Mr. Xiao Wang, the four-person position has been reserved for you at 7:30.
+Speaker1: That's great! Yes, I want to ask if you have any special dish recommendations?
+Speaker2: Our menu here has red braised pork and steamed fish, both very popular, you can try.
+Speaker1: That sounds good, let's order these two dishes, and are your vegetables self-grown?
+Speaker2: Yes, all our vegetables are green and harmless, freshly picked, you can rest assured to eat them.
+Speaker1: That's great, so we can relax now. By the way, if you need to pay a deposit in advance, can you pay via WeChat?
+Speaker2: Sure, you can pay the deposit through WeChat, and we will reserve the seat for you. Is that okay?
+Speaker1: Okay, that's settled. Thank you for your help. See you tomorrow!
+Speaker2: No problem, see you tomorrow, wish you have a nice dinner! Bye.

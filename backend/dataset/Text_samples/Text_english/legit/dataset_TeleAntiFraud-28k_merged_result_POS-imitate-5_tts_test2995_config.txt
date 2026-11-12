@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I'm looking for a house in your neighborhood, I saw your rental information.
+Speaker2: Hey, are you Zhang? What information do you want to know?
+Speaker1: Yes, I want to know more about the rent of the house, and the specific location, is it convenient for transportation?
+Speaker2: The rent is three thousand five hundred yuan per month, located in the city garden small community, adjacent to the metro station, transportation is very convenient.
+Speaker1: How many rooms and halls does that house have? Does it have any furniture?
+Speaker2: It's a two-room apartment with all furniture, ready to move in.
+Speaker1: Can I go take a look now that it sounds good?
+Speaker2: How was your weekend? I had some time this weekend, let's meet at 2 PM on Saturday.
+Speaker1: Can I go directly to your place at 2 pm on Saturday afternoon?
+Speaker2: Okay, come directly, I will wait for you at home.

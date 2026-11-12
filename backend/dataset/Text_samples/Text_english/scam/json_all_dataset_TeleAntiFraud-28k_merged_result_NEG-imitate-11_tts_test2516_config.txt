@@ -1,0 +1,14 @@
+Speaker1: Hello, are you Mr. Wang?
+Speaker2: Hey, it's me, you?
+Speaker1: Hi, I'm a customer service representative from China Construction Bank. We noticed that you recently submitted a loan application with us, and we were wondering if you have any further loan requirements?
+Speaker2: Uh, loan? I'm a bit tight-handed right now, not really needed.
+Speaker1: Understood, but Mr. Wang, our latest loan product is very cheap, no collateral, quick approval, low interest rate, very suitable for short-term cash flow.
+Speaker2: Can you give me a detailed introduction?
+Speaker1: Of course, to make it easier for you to understand, I'll add you on WeChat and send you detailed information, how about it?
+Speaker2: Okay, add me to this WeChat number.
+Speaker1: Okay, I'll add you later, make sure to check it. Additionally, we also have some limited-time discount activities, you can apply through a specific link to enjoy a lower rate.
+Speaker2: That sounds good, I also want to know more about these activities.
+Speaker1: Okay, I'll send you the link later, just click on it to see the activity details. If you have any questions, feel free to contact me.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you all the best, bye.
+Speaker2: Goodbye.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the Flower Flower Rental Car Platform, I am customer service representative Little Flower, can you confirm your recent rental car service experience?
+Speaker2: Oh, hello, the car rental experience is still okay, it's just that the navigation had some issues that day and we couldn't find the specific location.
+Speaker1: I'm very sorry to have caused you inconvenience. Could you please tell me specifically where the problem occurred at the pickup point?
+Speaker2: The location displayed on the navigation in the pickup point of the city square is slightly different from the actual location.
+Speaker1: Understood, we will quickly verify and update the navigation information to prevent other users from encountering the same issue.
+Speaker2: Is the navigation information updated now?
+Speaker1: The process is still under verification, but I suggest you try our customer service location service first. There will be a specialist to guide you to the pickup point.
+Speaker2: How do I use the location service on customer service?
+Speaker1: You can click 'Take Car Help' in our APP, select 'Customer Service Location', and we will dispatch a specialist to contact you, providing real-time navigation assistance.
+Speaker2: Okay, thank you for your advice. I'll give it a try.
+Speaker1: You're welcome! If you have any questions, please feel free to contact us anytime. We hope you enjoy using it. Goodbye!

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? Can you tell me if there is a vegetarian set meal here?
+Speaker2: Hello, do you want to know the specific dishes in our vegetarian set meal?
+Speaker1: Okay, can you tell me what the options are and how much they cost?
+Speaker2: Okay, our vegetable set meal includes five different vegetables, such as stir-fried oyster mushrooms, spicy stir-fried bean sprouts, clear stir-fried green beans, garlic and ginger stir-fried bok choy and palace tofu, and the price of the set meal is thirty yuan.
+Speaker1: Can I order now or do I have to wait for a specific time?
+Speaker2: Can you schedule a time, what time do you want it delivered at?
+Speaker1: I'll be home around two in the afternoon.
+Speaker2: Okay, I will record it, the delivery will be at 2 pm sharp, do you need an address?
+Speaker1: Please, the address is happiness road one hundred and three.
+Speaker2: Okay, happy road 103, 2 pm, we will arrive on time, do you need any other help?

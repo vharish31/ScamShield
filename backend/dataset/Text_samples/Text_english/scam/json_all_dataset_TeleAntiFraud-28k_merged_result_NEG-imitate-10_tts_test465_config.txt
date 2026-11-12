@@ -1,0 +1,14 @@
+Speaker1: Hey, are you Zhang Laoban?
+Speaker2: Who are you?
+Speaker1: Mr. Zhang, good afternoon, I am small Li from the China Bank Credit Department, your recent account activity shows that you may have a funding need, we have a low interest loan product that is very suitable for your small enterprise, would you like to know more?
+Speaker2: Uh, loan, I temporarily don't have this plan.
+Speaker1: That's really too bad, but this loan product is very cheap, with an annual interest rate of only 0.3%, and the application process is very simple. If you need it, I can help you apply.
+Speaker2: I'm still not very interested, thank you.
+Speaker1: Okay, let me think about it first. By the way, I have another investment project that can generate a monthly return of 10%, are you interested in learning more about it?
+Speaker2: Invest in wealth management? It sounds good, but I don't understand these things.
+Speaker1: No problem, I have a detailed project introduction here. You can take a look first. I'll send you a link, you click on the link to download our app, there's more information up there.
+Speaker2: Link? I'm afraid it's not safe.
+Speaker1: You can relax, we are the official link of China Bank, very safe. If you are not convenient, you can also add my WeChat, I will directly send you the materials.
+Speaker2: I'm still not very confident, thank you for your recommendation.
+Speaker1: Okay, I won't disturb you anymore. If you have any financial needs, feel free to contact me anytime. Have a nice life, goodbye.
+Speaker2: Bye.

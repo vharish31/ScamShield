@@ -1,0 +1,10 @@
+Speaker1: Hey, did you eat dinner yet?
+Speaker2: Not yet, I'm planning to go out and find some food.
+Speaker1: Want to order takeout? I have a few good options here.
+Speaker2: Great, do you have any recommendations?
+Speaker1: There's a good-tasting Sichuan restaurant and an Italian pasta place is also okay.
+Speaker2: Let's go to the river restaurant. I want to eat spicy food.
+Speaker1: Okay, I'll place the order. Is your address still the same as last time?
+Speaker2: Okay, let's go back to the old place. Sorry to bother you.
+Speaker1: No problem, I'll call you in a minute.
+Speaker2: Okay, thank you.

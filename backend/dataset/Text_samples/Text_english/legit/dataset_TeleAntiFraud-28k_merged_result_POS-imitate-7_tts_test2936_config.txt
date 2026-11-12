@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: Hey, I see you consulted our fitness courses on our website before, do you still have interest in it?
+Speaker2: Oh, yes, I've always been interested in fitness, do you guys have any recommendations for courses now?
+Speaker1: We have a new course recently, called the energy burning course, very suitable for friends who want to quickly lose weight and shape up.
+Speaker2: How long does this course last? How much does it cost?
+Speaker1: This course meets three times a week, on Tuesdays, Thursdays, and Fridays at 7:00 p.m., each session lasting one and a half hours. The fee is 300 yuan per month.
+Speaker2: Okay, I'll think about it. Do you have a trial course?
+Speaker1: Yes, we provide a free trial opportunity. You can try it first. What time is convenient for you to come?
+Speaker2: Can I go out this weekend?
+Speaker1: Okay, this Saturday evening at 7 pm, you just come directly.
+Speaker2: Okay, thank you. See you later.
+Speaker1: No problem, see you later. Wish you all the best.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Lee Huai, can I ask about your computer assembly service?
+Speaker2: Hello, Lee Huang, I am customer service king, our computer assembly service is now on sale, what information do you want to know?
+Speaker1: Can you provide a detailed introduction of the recommended configuration on your website for a new computer that I recently need?
+Speaker2: Of course, our recommended computer configuration is an i7 processor, 16GB memory, 512GB solid-state drive, and an NVIDIA GTX 1660 Super graphics card, which is very suitable for gaming and professional software use.
+Speaker1: How much does it cost?
+Speaker2: This computer configuration is currently selling for 6800 yuan, and if you order now you can also enjoy an additional 5% discount.
+Speaker1: Okay, I'll think about it. By the way, do you provide on-site installation service?
+Speaker2: We provide on-site installation service, the fee is 100 yuan, if you buy a computer from us, this service is free.
+Speaker1: Great, I decided to order, when can you deliver?
+Speaker2: Typically, we complete assembly and ship within 3 to 5 business days after ordering, if selecting expedited shipping, it usually arrives within 2 to 3 days. If choosing in-home installation, we can schedule a suitable time.

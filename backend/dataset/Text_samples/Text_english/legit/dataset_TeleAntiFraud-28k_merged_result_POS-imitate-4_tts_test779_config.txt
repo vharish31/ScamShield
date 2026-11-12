@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm little Li. Just heard from a friend that there's a great little restaurant over here. Want to try it out? Can you tell me how to get there?
+Speaker2: Are you coming from the east gate?
+Speaker1: Yes, I am from the east gate.
+Speaker2: After you come in, walk straight, turn right at the second crossroad, walk two hundred meters left and right, and you'll see a red sign, which is our restaurant.
+Speaker1: Okay, how long will it take?
+Speaker2: About ten minutes, if you walk quickly, you should be able to get there in seven or eight minutes.
+Speaker1: Okay, thank you for your help. So, I'll leave now.
+Speaker2: No problem, welcome to come, be careful on the road.

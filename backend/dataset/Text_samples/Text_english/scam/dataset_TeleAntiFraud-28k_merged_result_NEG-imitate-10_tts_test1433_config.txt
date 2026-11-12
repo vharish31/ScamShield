@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from Xingyue Investment. We noticed that there is an incomplete investment record in your account. Do you need help with that?
+Speaker2: What investment record? I don't remember this happening.
+Speaker1: "Hey, it's possible that you registered our platform before but didn't continue operating. We have a really great promotion right now, if you join now, you can enjoy double the reward on your first investment."
+Speaker2: Is it really? It sounds good.
+Speaker1: Of course, I can give you a link here, you click on it to register, and then follow the instructions to enjoy the benefits.
+Speaker2: Okay, let me try.
+Speaker1: Great! Just click this link and register to start enjoying our services.
+Speaker2: I got the link, now I'm clicking on it.
+Speaker1: Okay, if you encounter any issues, feel free to contact me anytime, I'll help you solve them.
+Speaker2: This interface looks quite professional, what should I do to start investing?
+Speaker1: Just follow the instructions on the page, first top up a small amount, say one hundred yuan, then choose an investment project, and you can start experiencing it.

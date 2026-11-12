@@ -1,0 +1,14 @@
+Speaker1: Hi, how are you? I'm Lee Huai, I want to consult your takeout service.
+Speaker2: Hello, Li Huai, I am server Zhang Xiao, very happy to serve you. What can I help you with?
+Speaker1: Can you tell me about your store's business hours and the delivery range for takeout?
+Speaker2: Our store's business hours are from 11 am to 9 pm, and delivery service covers a five-kilometer radius around us.
+Speaker1: Can you deliver to my place which is about four kilometers away from your store?
+Speaker2: Yes, four kilometers is within our delivery range.
+Speaker1: Okay, if I order now, how long will it take to deliver?
+Speaker2: Based on the address you provided, it's estimated to arrive in about 30 minutes.
+Speaker1: That's great, I want to try the menu at your store today, do you have any recommendations?
+Speaker2: Our store's signboard menu has kung pao chicken, steamed fish, and spicy and sour hot pot, all very popular, you can choose according to your taste.
+Speaker1: I'll have a spicy chicken and ginger dish, a steamed fish with water, and a bowl of rice.
+Speaker2: Okay, your order has been recorded. We will prepare it quickly. Is there anything else you need to add?
+Speaker1: No longer available, thank you.
+Speaker2: Okay, we will process your order quickly and expect it to arrive within 30 minutes. If you have any issues, please feel free to contact us. Enjoy your meal!

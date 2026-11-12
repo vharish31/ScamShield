@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Hello, I am. What's up?
+Speaker1: Hi, I'm the client manager of Huaxing Bank, Zhang. We noticed that you recently processed a business license with us. Do you have any requirements for capital rotation?
+Speaker2: Hey, do you have any needs at the moment? What's your loan interest rate?
+Speaker1: We have a special low-interest loan for entrepreneurs, with monthly interest as low as 0.005%, up to a maximum of three years, which is very suitable for your early-stage enterprise.
+Speaker2: Sounds good, but I need to think about it.
+Speaker1: Of course, considering carefully is very important. However, I have a special recommendation for you regarding our bank's latest entrepreneurial investment plan. Not only does it provide loans, but it also has a professional investment advisory team to help you plan your business development. Are you interested?
+Speaker2: Hmm, this sounds really interesting. How can I learn more?
+Speaker1: Great! To better understand the details, you can click on the link I sent you and download our official app. It has detailed introductions and online customer service to answer your questions anytime.
+Speaker2: Okay, I'll go download and check it out, thanks for your recommendation.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Shenzhen Agricultural and Commercial Bank, I am customer manager Li, you have consulted our bank's loan services before, do you know if you are interested in learning more now?
+Speaker2: Hello, I recently have some cash flow needs, can you give me a specific explanation?
+Speaker1: Of course, we have a special quick loan product designed for small and medium-sized enterprises, no collateral, fast approval, and the interest rate is also very favorable.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: You just need to submit some basic information through our bank's official app, and once approved, the funds will be in your account as soon as possible.
+Speaker2: Oh, this way, how do I download that app?
+Speaker1: It's very simple. You can download it directly through the link I give you.
+Speaker2: Okay, give me the link.
+Speaker1: Okay, I'll send it to you right away. However, to ensure your information is secure, please provide your phone number first, so I can send you a verification code.
+Speaker2: Okay, my phone number is 13812345678.

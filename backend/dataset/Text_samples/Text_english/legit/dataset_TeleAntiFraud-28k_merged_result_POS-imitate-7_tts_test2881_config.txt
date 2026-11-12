@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what do you have?
+Speaker1: Oh, I'm a happy real estate agent, I see you posted a job search info on 58 city.
+Speaker2: Oh, really? I'm really looking for a job.
+Speaker1: Hey, we have a position for real estate sales here, are you interested?
+Speaker2: Can you understand the rules of real estate sales? Where are you from?
+Speaker1: Is your home near the city square where our company is located?
+Speaker2: I'm near the train station, not too far away.
+Speaker1: That's great, we can arrange it nearby. If it's convenient, you can add a WeChat, we can first understand your basic situation on this side.
+Speaker2: Okay, I have some free time these two days, can we chat on WeChat?

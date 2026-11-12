@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I saw your outside delivery service, I want to order a lunch.
+Speaker2: Hello, little Zhang, very happy to serve you, what do you want to order?
+Speaker1: Can I have a beef and rice dish, a sweet and sour pork ribs, and a vegetable dish, please?
+Speaker2: Of course, beef and rice noodles with sweet and sour pork ribs, and a side of vegetables, okay? Is there anything else needed?
+Speaker1: No longer needed, correct, when can you send them?
+Speaker2: We will deliver within 30 to 45 minutes after ordering, the exact time will be determined based on your location.
+Speaker1: Okay, my place is a bit far away, can you guys send it?
+Speaker2: Sure, as long as it's within our delivery range, we can send it to you. Can you give me the specific address?
+Speaker1: I am in the Happy Village, building 3, unit 2, room 402.
+Speaker2: Okay, apartment 204, building 3, floor 2, room 402, we will arrange it quickly. Is there anything else you need help with?

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm waiting for you in C one and C two, it's a bit stuffy here, come over quickly.
+Speaker2: Okay, I'm going there now, do you have a place on your side?
+Speaker1: Okay, I'm still here, you arrived quickly, huh?
+Speaker2: Hurry hurry, I'm at C2 entrance, see your car.
+Speaker1: Okay, okay, come over here. There's a cop over there, be careful.
+Speaker2: I see, I'm driving carefully, I'll be there soon.
+Speaker1: Hey, the traffic here is a bit chaotic, be careful.
+Speaker2: Okay, wait for me a minute, I'll be there soon.
+Speaker1: Okay, I'm waiting for you here, be careful.
+Speaker2: Okay, let's go.

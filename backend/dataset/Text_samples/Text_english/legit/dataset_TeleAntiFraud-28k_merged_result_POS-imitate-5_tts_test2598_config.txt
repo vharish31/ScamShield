@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, just moved to a new house, can you help me install a air conditioner here?
+Speaker2: Hello, little Li, of course, we provide on-site installation service. Can you tell me the specific address now?
+Speaker1: Okay, the address is City Garden No. 13, 605 Room.
+Speaker2: Okay, 13th floor, room 605, I noted it down. Can you be convenient and come to this time period from 9am to 11am tomorrow morning?
+Speaker1: Tomorrow morning is okay, but I have something at ten o'clock, so it's best to be before nine o'clock.
+Speaker2: Okay, let's arrive at nine o'clock. Do we need to prepare anything else?
+Speaker1: Do I need to prepare in advance for installing an air conditioner, since it requires coordination?
+Speaker2: You don't need to prepare anything, we'll bring all the necessary materials and tools. Just make sure there's enough space around the air conditioner.
+Speaker1: Okay, I will pay attention. How do you calculate the cost?
+Speaker2: The installation fee is three hundred yuan. If additional materials are needed, we will inform you in advance. I will confirm with you one last time tomorrow before installation.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from JD.com. Recently, you purchased a product on our platform, but we found that there may have been issues with the logistics process. We need your cooperation to handle it.
+Speaker2: Uh, really? I really bought a piece of clothing last week and haven't received a notification saying there's an issue yet.
+Speaker1: That's it, we found out through the system that your order's logistics information is abnormal, it's possible that the package was lost. In order to compensate you, we need you to provide some information to help you process a refund.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your name, phone number, and bank card number. We will refund the money to your bank account within 24 hours.
+Speaker2: Okay, how can I provide this information?
+Speaker1: You can add my customer service exclusive WeChat number by scanning the QR code I send you, then send the information to me.
+Speaker2: Wechat? I'm not very confident, will there be any risks?
+Speaker1: Don't worry, all of our JD customer service WeChat numbers are real name verified, so there won't be any problems. If you're not sure, you can first add me on WeChat, and I'll send you an identity verification file. Once you confirm it's correct, you can provide the information.
+Speaker2: Okay, give me your QR code, I'll add you on WeChat.
+Speaker1: Okay, just a moment, I'll send it to you right away.

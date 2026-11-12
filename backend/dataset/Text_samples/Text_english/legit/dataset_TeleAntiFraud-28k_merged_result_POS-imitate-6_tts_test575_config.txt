@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Little Li's delivery?
+Speaker2: Hello, I am the customer service of Xiao Li delivery, what can I help you with?
+Speaker1: Do you have a fried rice menu?
+Speaker2: Yes, we have many flavors of stir-fried food here, such as egg stir-fried, seafood stir-fried, and beef stir-fried. Which one do you want?
+Speaker1: How much does a portion of seafood fried rice cost?
+Speaker2: The seafood fried rice is thirty-five yuan per portion, and there's a discount now.
+Speaker1: Okay, let's have one portion of seafood fried rice and one portion of sweet and sour pork ribs, pack and send them over.
+Speaker2: Okay, your order has been recorded. It will arrive in about thirty minutes. What's the address?
+Speaker1: Deliver to Yang Guang Hua Yuan San Gong Zhong Yī Dàn Yī, phone number is Yī San Bāo Zhōu Yī San Bāo Zhōu Yī.
+Speaker2: Okay, your order has been confirmed. We will deliver it to Yangguang Huayuan Sanqiang Sanqiang Yī Dànù, in thirty minutes. If there are any issues, we will contact you promptly.

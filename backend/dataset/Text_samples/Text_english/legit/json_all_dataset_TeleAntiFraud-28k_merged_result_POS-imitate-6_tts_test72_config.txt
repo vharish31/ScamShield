@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me about tomorrow's weather so I can plan my outing?
+Speaker2: Tomorrow's weather forecast shows clear skies, with temperatures around 20 degrees, perfect for outdoor activities.
+Speaker1: That's great, I still plan to go for a walk at the West Lake.
+Speaker2: The scenery at the West Lake is indeed beautiful, you can go early, the fewer people, the better the scenery.
+Speaker1: Can you recommend a few shops from that tea house on the other side?
+Speaker2: Of course, both Longjing tea and green tea xuan are good choices, the environment is elegant, and you can also taste the authentic Longjing tea on the ground.
+Speaker1: Okay, I'll go take a look. And, is the transportation convenient on that side?
+Speaker2: The public transportation along the West Lake is very developed, you can take the bus or subway directly to reach there, and taxi is also very convenient.
+Speaker1: Thank you very much, the information you provided is very helpful to me.
+Speaker2: No problem, I hope you have a pleasant trip. If you have any other questions, feel free to ask me anytime.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I've been waiting at your store door for a long time. Why haven't you seen your car yet?
+Speaker2: Hey, just a minute, I just got a call and might take a few more minutes to get there.
+Speaker1: Okay, I'll wait a minute, but hurry up, I have something urgent here.
+Speaker2: Okay, okay, I'll be there soon, you wait a little longer.
+Speaker1: Okay, you arrived, give me a call, I'm waiting here for you.
+Speaker2: Okay, no problem, I'll call you when I arrive.
+Speaker1: Okay, thank you, master.
+Speaker2: No problem, please wait, I'll be right over.
+Speaker1: Okay, bye.
+Speaker2: Goodbye.

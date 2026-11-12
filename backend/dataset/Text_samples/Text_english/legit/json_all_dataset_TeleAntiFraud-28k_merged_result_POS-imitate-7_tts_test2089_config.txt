@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the food square, your previous order from us, do you want to ask if you are satisfied?
+Speaker2: Hello, it's okay, just the delivery time is a bit long.
+Speaker1: Uh, this one we definitely need to improve, I'm really sorry to bring you inconvenience. Besides sending time, how's the quality of the food?
+Speaker2: The dishes are still available, the portions are ample, but they're a bit cold.
+Speaker1: It's because our delivery time is long that causes our delivery efficiency to be strengthened, ensuring the temperature of the food. Thank you for your feedback, we will do better next time.
+Speaker2: Okay, I hope it's better next time.
+Speaker1: We'll definitely do it, and if you have any other suggestions, feel free to contact us anytime.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, looking forward to your next visit, wish you happy life.
+Speaker2: Thank you, goodbye.

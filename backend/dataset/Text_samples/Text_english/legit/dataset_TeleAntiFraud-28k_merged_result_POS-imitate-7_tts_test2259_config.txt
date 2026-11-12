@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm small Li, I want to book a haircut tomorrow.
+Speaker2: Hello, little Li, I am the customer service of the hair salon, can I help you book an appointment? What time do you want to book an appointment?
+Speaker1: Can we meet around 2:30 in the afternoon?
+Speaker2: Okay, there's a spot at 2:30 in the afternoon. What type of haircut design do you need?
+Speaker1: I want to cut my hair short, not too complicated, clean and simple.
+Speaker2: Understood, we will arrange a hairdresser with rich experience for you. What is your contact information?
+Speaker1: My phone number is 635421888.
+Speaker2: Okay, I've recorded it. See you at the hair salon at 2:30 PM tomorrow.
+Speaker1: Okay, thank you, see you later.
+Speaker2: You're welcome. I'm looking forward to your arrival. Goodbye.

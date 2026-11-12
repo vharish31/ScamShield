@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am 85 degrees C customer service, your recent order may have a small issue, can you check your order to make sure it's correct?
+Speaker2: Okay, I'll take a look right away.
+Speaker1: Thank you, if you have any questions, please let me know, we will handle it quickly.
+Speaker2: Looked once, confirmed not my order, is your milk tea praiseworthy.
+Speaker1: I'm so sorry to have caused you inconvenience. It might be that one of our staff accidentally attached the order. I'll immediately remake a new espresso for you and ensure it gets to you quickly.
+Speaker2: Okay, thank you for your handling.
+Speaker1: No problem, this is what we should do. Please keep the phone line open so our delivery guy can contact you in time.
+Speaker2: Okay, I'm waiting. Thank you.
+Speaker1: Thank you for your understanding again. If you have any other places that need help, please contact us at any time. Wish you a happy day!

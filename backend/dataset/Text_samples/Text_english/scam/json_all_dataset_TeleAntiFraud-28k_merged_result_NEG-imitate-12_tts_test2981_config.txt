@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I am a customer manager at China Merchants Bank. Recently, we have launched a special discounted financial product with a higher return rate than the market average. Would you be interested?
+Speaker2: Oh, I'm a bit tight-handed lately, not very convenient to invest.
+Speaker1: Oh, that's how it is. No problem, it's just that I want to give you a chance to understand a little more. By the way, our bank also has an activity, as long as you add our official customer service WeChat, you can get a free insurance, are you interested?
+Speaker2: Would you like to get insurance for free? It sounds good, how do you get it?
+Speaker1: Great! Just scan this QR code, follow our public account, and then follow the instructions to complete the task.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much. If you have any questions, please feel free to contact me anytime. This QR code is... (simulate description of QR code)... the pattern you see on the screen is the same.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, I hope our service can help you. If you have any other needs, remember to find me. Goodbye.
+Speaker2: Okay, bye.

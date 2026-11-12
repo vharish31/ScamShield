@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, who are you? Can you hear me?
+Speaker1: I am the customer service at the food square, you previously booked dinner with us, want to confirm your booking information?
+Speaker2: Oh, I remember now, yes, I made a reservation for tonight's dinner table.
+Speaker1: Okay, is your reservation for 6:00 PM?
+Speaker2: Yes, six o'clock.
+Speaker1: Has the number of people you reserved changed?
+Speaker2: The four people are still the same.
+Speaker1: Okay, we have reserved four seats for you. If you have any special dietary requirements, please let us know in advance.
+Speaker2: Okay, thank you. No other needs. Then we see each other later.

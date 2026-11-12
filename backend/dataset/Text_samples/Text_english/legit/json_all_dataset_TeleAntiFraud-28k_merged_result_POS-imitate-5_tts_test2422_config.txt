@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Qingyun restaurant, could you confirm the time for your previously reserved dinner?
+Speaker2: Hello, my reserved time is 7 pm tonight, is everything okay?
+Speaker1: Okay, 7:00 is fine. Do you need to adjust the reservation number?
+Speaker2: The four of us are still booked.
+Speaker1: Okay, four seats have been reserved for you. Do you have any special requirements, such as seats by the window or a child's chair?
+Speaker2: If there is a window, it's best to lean against it. No need for a child's chair.
+Speaker1: I understand, we will try our best to arrange seats by the window. By the way, our restaurant has recently introduced a new seafood combo platter, would you like to try it?
+Speaker2: Listen to it, it sounds good. Let's take a look at the menu and decide later.
+Speaker1: Okay, we'll prepare the menu in advance. We're looking forward to your arrival. If you need anything else, please feel free to contact us.
+Speaker2: Okay, thank you. See you later.

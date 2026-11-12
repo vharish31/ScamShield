@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you, where are you?
+Speaker2: Can you show me how to enter the building when I arrive at the front door?
+Speaker1: Come in from the left door, that door is open.
+Speaker2: Okay, I see it, but this door seems a bit narrow, can I go in?
+Speaker1: If you can come in, just squeeze a little, try it out.
+Speaker2: If I can't come in, I'll call you.
+Speaker1: Okay, be careful, if you can't come in through the front door, go around the back door.
+Speaker2: Is it good to walk on the back door side?
+Speaker1: The road on the backside is wider and easier to find.
+Speaker2: Okay, I'll give it a try first. If it doesn't work, I'll contact you.

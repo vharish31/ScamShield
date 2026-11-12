@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm small Li, this is JD Finance customer service, you have applied for a loan on our platform before, now it's approved, do you want to know more about it?
+Speaker2: Oh, I haven't applied for a loan yet.
+Speaker1: There's a chance your personal information was used by someone else, but don't worry, if you have any financial needs now, we can help you solve them. Just download our official app and we'll quickly approve.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, this app is very safe and easy to use. Just search for "小李金融" in the app store on your phone and download it.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues after downloading, feel free to contact me anytime. My WeChat is L123456, just add me for easy communication in the future.
+Speaker2: WeChat? This isn't good.
+Speaker1: No problem, we often communicate with customers through WeChat, after you add WeChat, I can directly send you operation instructions, more convenient.
+Speaker2: Okay, I'll add you on WeChat.

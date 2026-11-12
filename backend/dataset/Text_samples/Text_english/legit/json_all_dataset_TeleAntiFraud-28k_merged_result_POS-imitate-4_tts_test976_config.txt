@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you looking for Meituan customer service?
+Speaker1: Uh, can you tell me why my takeout order hasn't moved yet?
+Speaker2: Can you tell me your order number? I'll check it for you here.
+Speaker1: Okay, my order number is one two three four five six seven eight nine zero.
+Speaker2: Okay, I found it. Your order is still being prepared by the merchant because it's mealtime, so it might be a little late.
+Speaker1: How long will it take to send it?
+Speaker2: Based on the current situation, it's approximately 30 minutes left, we will expedite the delivery to you as soon as possible.
+Speaker1: Okay, can you nag the shopkeepers a bit, hurry them up.
+Speaker2: Okay, I will immediately contact the seller and urge them to speed up their preparation.
+Speaker1: Thank you, hope not too long.
+Speaker2: No problem, we will process it quickly. If you have other questions, please contact customer service.

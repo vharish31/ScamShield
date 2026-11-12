@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of Commercial Bank of China, recently we have launched a new loan product, no collateral, low interest rate, fast approval, are you interested in learning more?
+Speaker2: Hello, loan? I'm a bit tight right now, but I can take a look.
+Speaker1: Great, this loan product is perfect for you. Just download our app, fill out some basic info, and you'll quickly get approved.
+Speaker2: Download the app? Is it safe?
+Speaker1: Absolutely safe, our commercial bank's APP has a professional security team to ensure safety. After you download it, I can remotely guide you through the application process.
+Speaker2: Okay, let me try.
+Speaker1: Okay, you download the app first, I'll wait for your message.
+Speaker2: Okay, I'll go download it now.
+Speaker1: After downloading, please let me know, I'll be ready with the materials, and help you complete the approval in the shortest time possible.
+Speaker2: Okay, thank you.

@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I'm Xiao Wang, the customer manager of Commercial Bank.
+Speaker2: Hello hello.
+Speaker1: Hello, we recently introduced a special discounted credit loan. Are you interested in learning more?
+Speaker2: Okay, I'll listen.
+Speaker1: Great, this loan product has no collateral or guarantee, approval is quick, and disbursement is quick too. It's perfect for friends in urgent need of cash.
+Speaker2: How do I apply for it?
+Speaker1: Just click this link to download our official app, follow the instructions to apply.
+Speaker2: Official app? Okay, I'll try it out.
+Speaker1: Yes, that's it. After downloading, there will be a dedicated customer service representative to guide you through the operation.
+Speaker2: Okay, thank you for your recommendation. I will check it out.
+Speaker1: You're welcome. If you have any issues during the operation, feel free to contact me anytime. Best wishes!

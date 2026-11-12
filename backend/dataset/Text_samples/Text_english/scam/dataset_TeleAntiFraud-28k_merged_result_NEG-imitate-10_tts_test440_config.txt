@@ -1,0 +1,10 @@
+Speaker1: Hello, I am customer service representative Zhang, welcome to Xingyue e-commerce platform. We have detected some issues with the recent products you purchased, please confirm with us.
+Speaker2: Okay, you say, what's the question?
+Speaker1: We found that your order may have been subject to trading irregularities, to protect your rights, we need you to cooperate with us in a simple verification.
+Speaker2: How to verify?
+Speaker1: Just click on the link we send you and follow the instructions on the page.
+Speaker2: Okay, I'll give it a try.
+Speaker1: After clicking, you will see a verification page, enter your order number and verification code, so we can confirm your identity.
+Speaker2: Okay, I see it.
+Speaker1: Okay, just wait for our processing result. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

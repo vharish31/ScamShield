@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li from the delivery platform, your delivery is here, it's at the community doorstep delivery box, would you mind coming down to get it?
+Speaker2: Okay, I'll pick it up, thank you.
+Speaker1: No problem, if you can't find the takeout counter, just tell me, I can guide you remotely.
+Speaker2: Okay, I know, the takeout counter is at the left side of the community door, right?
+Speaker1: Yes, that's right. After you arrive, scan the QR code on the box with your phone and the door will open.
+Speaker2: If my phone is out of battery, how can I open the cabinet without a key?
+Speaker1: If your phone is out of power, you can first find a place to charge it, or contact me, I can help you contact a delivery person to pick up your order.
+Speaker2: Okay, I'll go take a look first, it should be fine.
+Speaker1: Okay, give me a call back once you arrive at the community gate, I'll confirm if you successfully got it.
+Speaker2: Okay, thank you for your reminder, I will pay attention.

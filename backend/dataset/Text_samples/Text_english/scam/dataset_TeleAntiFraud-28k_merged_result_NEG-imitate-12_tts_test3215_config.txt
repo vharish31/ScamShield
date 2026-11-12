@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Huaxia Bank Loan Department, I am Zhang Manager, your previous loan application has been approved, you can come to handle it now.
+Speaker2: Loan? I haven't applied for it yet.
+Speaker1: It might be your friend or family who applied, but that doesn't matter. Do you need a loan now? We have very favorable policies here.
+Speaker2: I really need money, but I don't know what your loan conditions are like.
+Speaker1: Our loans are very simple, no collateral, no guarantee, just need to provide some basic information, can quickly issue loans.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Great, just click on the link I sent you and fill out the relevant information to complete the application.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send it to you now. Just remember not to close the page while filling it out to avoid losing the information.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Xiaojie?
+Speaker2: Hello, I am Li Xiaojie.
+Speaker1: I am a customer manager at an agricultural bank, we recently introduced a special discounted loan product that can provide you with a credit limit of 50,000 yuan, do you have any recent funding needs?
+Speaker2: Uh, I recently need some money.
+Speaker1: Great, our product not only has a low interest rate, but also a fast approval speed. You just need to provide some basic personal information and property proof, and you can quickly complete the process.
+Speaker2: Listen well, what do I need to do?
+Speaker1: You can click this link first, fill out the application form, we will quickly review it.
+Speaker2: Okay, I'll go click now.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact me at any time. Additionally, to facilitate your future inquiries, please add my WeChat, and you can directly communicate with me if you have any questions.
+Speaker2: Okay, I'll add you on WeChat.

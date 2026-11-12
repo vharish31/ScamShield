@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am a customer manager of China Merchants Bank, Zhang.
+Speaker2: Hello, what do you have?
+Speaker1: Have you recently had any financial needs? We recently introduced a special discounted credit loan service with an annual interest rate of only 2.5%, you might be interested.
+Speaker2: No, we don't have this requirement at the moment.
+Speaker1: Okay, understood. But if you need anything, feel free to add my WeChat, anytime consult.
+Speaker2: Okay, can I add one more?
+Speaker1: Great, my WeChat number is zhonghai2023, add me with your name as the remark, I'll get back to you.
+Speaker2: Okay, I understand.
+Speaker1: Additionally, if you have friends who need loan services, you can recommend them to us, we also have referral rewards here.
+Speaker2: Okay, I will consider it. Thank you for your information.

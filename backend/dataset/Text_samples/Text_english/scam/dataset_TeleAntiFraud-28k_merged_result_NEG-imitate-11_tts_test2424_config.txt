@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm little Zhang, this is XX express company's customer service representative, we found that you recently had a package lost in transit.
+Speaker2: Uh? Real or fake? How do we handle it?
+Speaker1: Don't worry, we have a specific claims process. To make it easier for you to get compensation quickly, you can first click on the link we provide and fill out the relevant information.
+Speaker2: Okay, how do I click on a link?
+Speaker1: You can find our link in your text message, or I can send it directly to you, just click on it after receiving it.
+Speaker2: Okay, give it to me.
+Speaker1: Okay, please wait for a moment, you will receive a text message from our company with a link. Click on the link and follow the instructions to proceed.
+Speaker2: Okay, I'll be right back.
+Speaker1: Additionally, to ensure a smooth claims process, you may need to provide some personal information, such as your name, phone number, and ID number, which we will keep strictly confidential.
+Speaker2: Okay, I know. Thank you for your help.

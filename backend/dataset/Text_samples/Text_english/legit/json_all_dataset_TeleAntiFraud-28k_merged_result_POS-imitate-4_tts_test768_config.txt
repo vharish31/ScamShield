@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Have you been looking for a new place to live recently?
+Speaker2: Hmm, I'm considering moving to a new place, my current place is a bit far away.
+Speaker1: This place is great, it's close to the city center and convenient for transportation.
+Speaker2: Can you specify where it is?
+Speaker1: Surrounded by complete facilities, there's a supermarket, hospital, and school near the Qingyun Road.
+Speaker2: How much is the rent for that house?
+Speaker1: The monthly conversation in a single room is about 1,500 left and right, and the payment is made in three installments.
+Speaker2: Sure, I have some free time next week, can I go take a look?
+Speaker1: Of course, when would you come?
+Speaker2: I have time next Thursday afternoon.
+Speaker1: Okay, let's meet on Tuesday afternoon at three o'clock next week.
+Speaker2: Okay, see you later.
+Speaker1: See you later. Goodbye.
+Speaker2: Goodbye.

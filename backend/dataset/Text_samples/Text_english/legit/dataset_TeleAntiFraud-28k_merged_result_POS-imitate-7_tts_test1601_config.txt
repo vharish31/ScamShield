@@ -1,0 +1,13 @@
+Speaker2: Hello, do you have anything?
+Speaker1: Hey, I saw your restaurant reviews are good online, want to try it out, do you have any seats now?
+Speaker2: Yes, there is a vacancy now, how many of you?
+Speaker1: Two people.
+Speaker2: Okay, for two people's conversation, can we arrange a window side location? What time do you guys come?
+Speaker1: About 5:30 in the afternoon.
+Speaker2: Okay, 5:30, you guys come directly in, I will prepare a place for you in advance.
+Speaker1: Okay, thank you. Is there anything else? I see you have special dishes, can you recommend one?
+Speaker2: Of course, our menu here has spicy Sichuan hot pot and steamed fish with ginger, both very popular, you can try.
+Speaker1: Let's order these two dishes.
+Speaker2: Okay, I've taken note. Will I be ready when the time comes? Are there any other things that need to be prepared in advance?
+Speaker1: I'm not available right now, I'll check later. Thank you for your service.
+Speaker2: Please welcome you.

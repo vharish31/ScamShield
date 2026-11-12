@@ -1,0 +1,14 @@
+Speaker1: Hey, hello, I'm little Zhang, I saw your job advertisement, want to consult?
+Speaker2: Hello, little Zhang, I am a recruiter, you can call me little Li, what can I help you with?
+Speaker1: I'd like to know more about this job, such as working hours and benefits.
+Speaker2: This job is full-time, working hours are from 9am to 6pm, there's a one-hour lunch break in the middle, benefits include five insurances and a year-end bonus.
+Speaker1: What is the salary range for this position?
+Speaker2: The salary range is between 4,000 to 6,000, with specifics determined by individual ability and performance.
+Speaker1: What materials do I need to prepare?
+Speaker2: You need to prepare a resume. If you have relevant work experience or project experience, you can also attach relevant proof materials.
+Speaker1: Okay, when can I come for the interview?
+Speaker2: We have interviews scheduled every day this week. You can choose a convenient time to come, like tomorrow at 3 PM.
+Speaker1: Great, what's the address for tomorrow at 3 pm?
+Speaker2: The address is Happiness Road 100th, and there will be a guide at the door to lead you to the interview location.
+Speaker1: Okay, thank you, little Li, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a smooth journey.

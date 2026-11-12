@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, the guy who looked at the icebox in your store yesterday, can you tell me the specific price and after-sale service?
+Speaker2: Hello, Xiaoming, I am customer service representative Zhang, the price of the icebox you looked at yesterday in the store is 2388 yuan, we provide 5-year warranty service, and if needed, we can also provide on-site installation.
+Speaker1: Uh, does installing on the door require an extra fee?
+Speaker2: If we are within the city, we provide free door-to-door installation service. Beyond the city range, there may be a certain transportation fee.
+Speaker1: How long will it take to deliver after I place an order now?
+Speaker2: If you place an order now, we will arrange delivery within two workdays. The specific time can be confirmed with the delivery driver.
+Speaker1: Okay, I'll place the order now. Do you have WeChat payment?
+Speaker2: Yes, we support WeChat payment, Alipay and bank card payment. You can choose the convenient payment method.
+Speaker1: Can I use WeChat payment? After successful payment, will you send me a confirmation message?
+Speaker2: Okay, after the payment is successful, we will send an order confirmation message to your phone, you can pay attention to the short message.

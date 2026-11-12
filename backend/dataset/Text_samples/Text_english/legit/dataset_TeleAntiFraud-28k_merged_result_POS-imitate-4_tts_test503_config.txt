@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if there is seafood fried rice here?
+Speaker2: Yes, our seafood fried rice is very popular, containing fresh shrimp, squid, and clams.
+Speaker1: How much does it cost to sound good?
+Speaker2: The price of a seafood fried rice is 30 yuan per portion.
+Speaker1: Okay, I want to reserve a place, approximately when can I come?
+Speaker2: What time do you plan to come? Our high peak period is from six to nine in the evening, so there might be a wait.
+Speaker1: Do I need to book in advance if I plan to arrive at seven o'clock in the evening?
+Speaker2: I suggest you book in advance to ensure a place. Can I book a two-person seat for you?
+Speaker1: Okay, book a two-person seat, thank you.
+Speaker2: No problem, your reservation is successful. Please remember to arrive ten minutes early to avoid missing the location. Enjoy your meal!

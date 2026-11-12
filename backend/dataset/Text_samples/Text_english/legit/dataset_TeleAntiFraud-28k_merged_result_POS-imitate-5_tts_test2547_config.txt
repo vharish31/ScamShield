@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? This is Blue Sky Home Services, you previously scheduled a cleaning service, can we confirm tomorrow morning at 10am?
+Speaker2: Hey, is it okay? I can make it tomorrow morning at 10 am.
+Speaker1: Okay, let's meet tomorrow. Do you need us to bring cleaning supplies?
+Speaker2: Hey, can you bring the best, I might not have enough cleaning agents here.
+Speaker1: No problem, we will definitely bring all the necessary cleaning supplies. By the way, if there are any special situations that need to be cancelled or changed time, please notify us two hours in advance.
+Speaker2: Okay, I know now, thank you for reminding.
+Speaker1: You're welcome. If you have any other needs or questions, please feel free to contact us anytime. Have a great day!
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

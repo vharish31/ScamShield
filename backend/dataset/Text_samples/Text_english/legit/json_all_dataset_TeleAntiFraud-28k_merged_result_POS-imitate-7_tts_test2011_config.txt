@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Do you guys have that new smartwatch for sale over there?
+Speaker2: Hello, do you have this watch? Which one do you want to know about?
+Speaker1: That's the one recommended on your website, with the black stripe.
+Speaker2: That style is currently in stock, priced at 2500 yuan.
+Speaker1: Can you lower the price a little? I've seen other families charging 2400 yuan.
+Speaker2: Okay, let me check if I can apply for a discount for you, just wait a moment.
+Speaker1: Okay, thank you.
+Speaker2: Okay, I applied for it, can I give you a 95% discount, which is 2375 yuan, what do you think?
+Speaker1: Hmm, this price is still okay, so I'll take one block. Can I pick it up tomorrow?
+Speaker2: Sure, what time is convenient for you tomorrow, I'll schedule a call with you.

@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Mr. Zhou?
+Speaker2: Yes, who are you?
+Speaker1: I am an e-commerce platform customer service representative. We found an issue with your order. Please work with us to handle it.
+Speaker2: What's the issue?
+Speaker1: Your order was lost during delivery, to compensate you, we need your bank card information for a refund.
+Speaker2: Okay, how can I provide?
+Speaker1: Please click on this link and fill out the relevant information. We will process it within 24 hours.
+Speaker2: Link? How do I click?
+Speaker1: You can open your phone browser, input this URL: http://www.example.com, and follow the page instructions.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you have any questions, feel free to contact me anytime. My phone number is 13800138000.

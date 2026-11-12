@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, I recently want to change my phone, I heard your store new phone is quite good, can you introduce me one?
+Speaker2: Hello, Mr. Wang, I am Li, the clerk at the small shop, we really have a lot of new phones here, can you tell me which brand you prefer or what your budget is roughly?
+Speaker1: Hmm, I prefer apples, but the budget is around six thousand yuan.
+Speaker2: Okay, we have an iPhone 12 here with a price of around six thousand yuan, this phone's performance is excellent, and there's a bonus item when you buy it now.
+Speaker1: What special features does this phone have?
+Speaker2: The iPhone 12 supports 5G networks, has a hyper-resolution XDR display screen, takes great photos, and its battery life is also very strong.
+Speaker1: Can I get it right away after I go back now?
+Speaker2: Sure, we have fresh produce here, you can come anytime.
+Speaker1: Okay, I'll come back in about half an hour, can you keep this phone for me, okay?
+Speaker2: No problem, I will keep your things, see you later.

@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you have time today?
+Speaker2: What's up?
+Speaker1: Do you want to go to the library with me today?
+Speaker2: Great, the library just got some new books. I want to take a look too. What time are we going?
+Speaker1: What's up at two in the afternoon?
+Speaker2: You can borrow two books, remember to bring our library card.
+Speaker1: Okay, I brought my library card. Let's meet at the library entrance?
+Speaker2: Okay, be careful on the road outside.
+Speaker1: Okay, see you on the road.

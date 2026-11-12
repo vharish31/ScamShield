@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the customer manager of China Merchants Bank, your previous loan application has been approved, and we can provide you with a credit limit of 50,000 yuan.
+Speaker2: Really? Great, I always need this money.
+Speaker1: Yes, but in order to ensure that your information is accurate and error-free, you need to download our official app and complete the identity verification.
+Speaker2: Okay, I'll download it right away.
+Speaker1: After downloading, please register and fill out the relevant information, we will process it quickly.
+Speaker2: I downloaded it, but I don't know how to register.
+Speaker1: After opening the app, click the registration button in the bottom right corner and follow the instructions.
+Speaker2: Okay, I'll try.
+Speaker1: If you encounter any issues, please feel free to contact our customer service at any time. Our phone number is 400-123-4567.
+Speaker2: Okay, thank you for your help.

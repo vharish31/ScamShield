@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I just ordered a snowflake on your website, but I can't find the car now, can you help me solve it?
+Speaker2: Okay, please wait a moment, I'll check for you. Did you order an 8:30 car?
+Speaker1: Yes, that's the 8:30 car.
+Speaker2: Okay, I just checked and it's possible that our staff hasn't driven the car to the designated location yet. Where are you currently parked?
+Speaker1: Can you hurry up at the entrance of the parking lot? It's pretty cold here.
+Speaker2: I understand your situation, I will immediately contact the work personnel, let him quickly drive the car over there. Please wait a few minutes, you should be able to arrive quickly.
+Speaker1: Okay, thank you. I'll wait a moment and see.
+Speaker2: No problem, we deeply apologize for any inconvenience caused to you. If you have any other questions, please feel free to contact me anytime. I wish you all the best.

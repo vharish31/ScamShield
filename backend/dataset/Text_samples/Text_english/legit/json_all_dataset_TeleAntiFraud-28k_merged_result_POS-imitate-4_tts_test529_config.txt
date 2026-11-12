@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Zhang, what's been up lately?
+Speaker2: Hey, little Zhang, I'm doing pretty good, lately work has been a bit busy, how about you?
+Speaker1: That's okay, what's it like at your new company?
+Speaker2: Yes, the new environment is not bad, the colleagues are also quite friendly, just the project is a bit more.
+Speaker1: That's good, how are you adapting?
+Speaker2: Hi there, take it slow, learn more. Hey, do you have time this weekend? Let's go eat together.
+Speaker1: Okay, I have something to do on Saturday afternoon, I should have some time in the evening.
+Speaker2: Okay, let's meet up on Friday evening at the new Italian restaurant. How is it?
+Speaker1: Sounds good, I haven't been to that restaurant yet, how about we meet up at 7pm on Friday?
+Speaker2: Okay, see you on Friday evening at seven, I'll arrive early, take a seat first.
+Speaker1: Okay, just remember to be safe, don't rush on the road.
+Speaker2: Okay, okay, see you on Friday, bye.

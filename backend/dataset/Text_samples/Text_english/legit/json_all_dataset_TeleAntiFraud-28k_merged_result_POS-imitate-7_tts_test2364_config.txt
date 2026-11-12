@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hi, I'm little Li, can you come for the massage service you booked last time tonight?
+Speaker2: Is it possible to be a little late?
+Speaker1: Okay, what time do you want to start?
+Speaker2: Are you leaving at eight?
+Speaker1: 8 am is okay, I can help you confirm the appointment.
+Speaker2: Okay, thank you.
+Speaker1: No problem, is there anything else you need help with?
+Speaker2: No more, see you later.

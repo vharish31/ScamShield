@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the agricultural bank's customer manager, Lee Huai.
+Speaker2: Hello, do you have anything?
+Speaker1: We noticed you recently have a need for capital rotation, our bank can provide low interest credit loan, are you interested in learning more?
+Speaker2: I'm currently facing some difficulties with my finances.
+Speaker1: Great, we have a product that's perfect for you. Just provide some basic info and it'll be quickly approved.
+Speaker2: What do I need to do?
+Speaker1: You can first click this link, fill out the application form, and we will have a specialist serve you.
+Speaker2: Is this link safe?
+Speaker1: Absolutely safe, this is our bank's official website, don't worry.
+Speaker2: Okay, I'll go fill it out.

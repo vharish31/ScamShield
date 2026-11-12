@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am little Li, recently I want to find some time to go to your store to cut my hair, can you tell me what is your store's working hours?
+Speaker2: Hello, our hair salon is open from 9am to 8pm, even on weekends.
+Speaker1: Can I go at three in the afternoon on Saturday?
+Speaker2: Saturday afternoon at three o'clock is fine, this time period won't be too crowded, you can come directly and cut.
+Speaker1: Okay, I'll go at 3 pm on Saturday afternoon.
+Speaker2: Okay, Saturday afternoon at three o'clock, we'll wait for you, would you like to make an appointment?
+Speaker1: Do you need to make a reservation? If possible, can you help me make one?
+Speaker2: Okay, I have already made a reservation for you. Saturday at 3 pm, see you then.

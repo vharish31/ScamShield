@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Xiao Ming, recently I've been preparing to move, want to know more about moving services.
+Speaker2: Hello, Xiao Ming, I am Zhang from the moving company. I am very happy to serve you. What aspects do you want to know about?
+Speaker1: What is the calculation method for your moving costs, and do you have any discount policies?
+Speaker2: Our moving costs are calculated based on the number of items and the distance of transportation. If you book in advance, we can give you a 90% discount.
+Speaker1: How much money would it cost to move furniture and books from Dongcheng District to Xicheng District?
+Speaker2: Based on the information you provided, the moving cost is approximately between 800 to 1000 yuan. If you book now, you can enjoy a 90% discount.
+Speaker1: Okay, what is your service time? I need to move on Saturday.
+Speaker2: We can provide service from Monday to Sunday, including Saturday. If it's convenient for you, please let me know the specific time, and I will arrange it for you.
+Speaker1: Can I come at 10 am on Saturday morning?
+Speaker2: Sure, we will arrive at 10 am on Saturday morning. If you have any other requirements, please feel free to contact me anytime.

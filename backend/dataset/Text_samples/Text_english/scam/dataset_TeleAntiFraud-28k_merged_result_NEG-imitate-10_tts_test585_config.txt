@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from speed purchase website, recently you bought a product from our platform, we found there might be some issues with your order, could you please help us verify it?
+Speaker2: Really or not, I don't know?
+Speaker1: That's it, we show your order status is abnormal on the backend, it might be caused by system failure. To confirm your information, you need to click on the link we send to you and input some basic information.
+Speaker2: Just tell me the question directly, why do I have to click on the link?
+Speaker1: This is our standard procedure to ensure your information security. We need you to verify your identity through this link. The link is absolutely safe, you can click it with confidence.
+Speaker2: Okay, let me try.
+Speaker1: Okay, the link has been sent to your phone. Please handle it quickly. After you handle it, we will give you a confirmation call.
+Speaker2: Okay, I understand.
+Speaker1: Additionally, to compensate for your inconvenience, we have prepared a 100 yuan discount coupon, which you can redeem through the link.
+Speaker2: That's great, thank you.

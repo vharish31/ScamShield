@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how can I help you?
+Speaker1: What do you recommend for a new phone?
+Speaker2: Of course, do you prefer established brands or new ones?
+Speaker1: I tend to prefer big brands because of their quality assurance.
+Speaker2: I understand, currently we have several big brand smartphones, such as the new model from some certain brand, the performance is good, and the photography effect of another certain brand is excellent.
+Speaker1: What is the approximate price range?
+Speaker2: The new prices for some brand are around 3,000 to 4,000 yuan, while the prices for another brand are around 4,000 to 5,000 yuan.
+Speaker1: Hey, I'm more inclined towards a certain brand's new product. Can you give me a detailed introduction?
+Speaker2: Of course, the new phone from that brand comes equipped with the latest processor, runs quickly, has a strong battery life, and also features the latest camera technology, resulting in incredibly clear photo quality.

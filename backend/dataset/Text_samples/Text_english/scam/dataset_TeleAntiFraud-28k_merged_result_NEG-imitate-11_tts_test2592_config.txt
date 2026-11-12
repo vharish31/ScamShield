@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Laoban?
+Speaker2: Who are you?
+Speaker1: Hello, I am a customer service representative from JD Finance, we noticed that you have an incomplete refund on JD, do you need our help to handle it?
+Speaker2: Is that true? I had problems with the things I bought recently, can you guys help me handle it?
+Speaker1: Of course, for convenience in processing, I need you to provide your phone number and order number used during purchase.
+Speaker2: Okay, my phone number is 13700000000, and the order number is 20230405123456789.
+Speaker1: Thank you for your cooperation. To speed up the refund process, please click on this link and fill out the necessary information.
+Speaker2: Link? Is it safe?
+Speaker1: Very safe, this is an internal exclusive link, you can rest assured to fill in.
+Speaker2: Okay, let me try.

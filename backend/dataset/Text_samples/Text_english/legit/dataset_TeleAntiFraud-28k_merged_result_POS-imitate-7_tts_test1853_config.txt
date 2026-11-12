@@ -1,0 +1,12 @@
+Speaker1: Hey, are there any available spots for a haircut tomorrow?
+Speaker2: Hello, can I make a haircut appointment? What specific time slot is most convenient for you tomorrow?
+Speaker1: Can we meet around 3:30 in the afternoon?
+Speaker2: 3:30 is okay, is this your first time at our store?
+Speaker1: Yes, first time, how do you walk there?
+Speaker2: Our store is located near the city center square, are you coming from the train station or the subway station?
+Speaker1: I came from the subway station.
+Speaker2: After getting off the subway station, walk straight along the main road for about five minutes, then turn left at the second red and green light, and walk for two more minutes to see our store.
+Speaker1: Okay, I understand, thank you for your guidance.
+Speaker2: No problem, is there anything else you need help with?
+Speaker1: No more, thank you. See you tomorrow.
+Speaker2: See you tomorrow, looking forward to your arrival.

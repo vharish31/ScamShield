@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Zhao Shang Yin Hang, your credit card application from our bank has been approved, and now we need you to complete the final verification step.
+Speaker2: Oh, really? Then what should we do?
+Speaker1: Yes, just click on the link in the text message we sent you and enter some basic information to complete it.
+Speaker2: Okay, I'll check my messages right away.
+Speaker1: Okay, please tell me once you're done operating.
+Speaker2: Okay, I'll go operate first.
+Speaker1: For convenience, we have an app here specifically for you to download, which will make operation more convenient after you download it.
+Speaker2: Okay, I'll go download it now.
+Speaker1: After downloading, you can directly input the verification code in the app, and it will work.
+Speaker2: Okay, I understand, thank you.

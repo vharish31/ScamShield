@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: At home? How are you?
+Speaker1: Can you find out if there's a parking lot near your house?
+Speaker2: There's a parking lot right outside the community door, very convenient.
+Speaker1: Okay, I'll be there in about twenty minutes. Are you at home?
+Speaker2: No problem, I'm waiting for you at home.
+Speaker1: Please pay attention to the blue car, I'm driving it.
+Speaker2: Okay, the blue car, I remember it. Be careful on the road.
+Speaker1: Okay, thank you. See you later.
+Speaker2: See you later.

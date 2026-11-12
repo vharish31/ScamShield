@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am Zhang from the loan center of China Construction Bank. We have launched a low-interest credit loan for customers who are buying social security in Dongguan. Are you interested in learning more?
+Speaker2: Low interest loan? How about low interest method?
+Speaker1: The interest rate is very low, only 0.03%, no collateral is required, the approval process is very fast, you can consider it.
+Speaker2: How do I apply for it?
+Speaker1: You can directly click on the link I sent you and fill out some simple information, and our work staff will quickly contact you.
+Speaker2: Link? How do you send it to me?
+Speaker1: Add my WeChat first, then I'll send you a direct link after adding WeChat, which is more convenient and quick.
+Speaker2: Okay, give me your WeChat number.
+Speaker1: Okay, my WeChat number is zhangxiaoming123, add me and I'll send you the link right away after you add me.

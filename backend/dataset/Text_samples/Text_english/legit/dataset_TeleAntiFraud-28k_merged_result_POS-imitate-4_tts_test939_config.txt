@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, find little Wang.
+Speaker2: Hey, little Li, I'm little Wang, what's up?
+Speaker1: Do you have any free time this weekend? We plan to climb a mountain, would you like to come together?
+Speaker2: Let's climb a mountain, it sounds good, when specifically?
+Speaker1: Saturday morning at 9am, meet at the park entrance. How about it?
+Speaker2: Okay, I had some free time yesterday, can I go? Do I need to bring anything?
+Speaker1: Bring enough water, some simple snacks, sunscreen, if possible, bring a hiking stick.
+Speaker2: Okay, I know. And did you check the weather forecast for yesterday? Won't it rain?
+Speaker1: I checked the weather forecast, it was supposed to be sunny that day, but I still brought an umbrella just in case.
+Speaker2: Okay, that's settled then. See you on Saturday!

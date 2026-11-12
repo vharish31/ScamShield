@@ -1,0 +1,11 @@
+Speaker1: Hey, hi, I'm little Li from the point exchange center, I see you have a lot of points that haven't been used yet, they'll expire and clear out at midnight tonight.
+Speaker2: Really? How come I don't know I have points?
+Speaker1: Yes, you will earn points every time you shop on our platform, which can be used to discount cash to buy products.
+Speaker2: How do I check my points?
+Speaker1: You can log in to our platform, view your points in the personal center, or directly tell me your phone number, I can help you query.
+Speaker2: Okay, my phone number is this, can you help me check it?
+Speaker1: Okay, just a moment. Your account does indeed have 30,000 points, which can be exchanged for a lot of good stuff, like electronic products or home decor items.
+Speaker2: What should I do to exchange?
+Speaker1: You can select products on our platform and directly deduct with points. If you need help, I can guide you on operation.
+Speaker2: These points expired, can't use them anymore?
+Speaker1: Yes, points will expire and be cleared if they exceed the expiration date, so I recommend you use them as soon as possible. If you're not convenient now, I can help you save the points for tomorrow.

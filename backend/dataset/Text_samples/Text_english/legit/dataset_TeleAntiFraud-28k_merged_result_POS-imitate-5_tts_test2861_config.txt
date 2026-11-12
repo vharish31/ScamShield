@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Are you still recruiting at your company?
+Speaker2: Are you coming to apply for the job?
+Speaker1: Yes, I want to know the specific requirements for recruitment.
+Speaker2: Do you have relevant work experience?
+Speaker1: I used to work at a factory, mainly responsible for operating machinery.
+Speaker2: This job mainly involves operating the processing center and requires some mechanical knowledge and operating experience.
+Speaker1: I've read the job description, I think I can handle it.
+Speaker2: You can come for an interview, let's see the specifics.
+Speaker1: Okay, when can I come over?
+Speaker2: Come over at nine in the morning tomorrow, we'll wait for you at the factory gate.
+Speaker1: Okay, thank you. See you tomorrow.
+Speaker2: No problem, see you tomorrow.

@@ -1,0 +1,8 @@
+Speaker1: Hello, I am a customer service representative from some bank. I see that you previously applied for a loan on our platform, but due to incomplete information, it was not approved. Now I can help you resubmit your information to ensure this time's approval.
+Speaker2: Oh, is that so? How do you operate it?
+Speaker1: It's simple, just download our bank's official app and follow the instructions to resubmit your information.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can search our bank's name in the mobile app store and download the official app, or I can give you a download link directly, and you can download it directly by clicking on the link.
+Speaker2: Just send me the link, it's more convenient that way.
+Speaker1: Okay, please wait for a moment, I'll send it to you soon. By the way, to ensure your personal information is safe, you need to provide a verification code. I'll send you a text message with the code, you tell me how much it is, and that way we can confirm it's you.
+Speaker2: Okay, I'll wait for your text message.

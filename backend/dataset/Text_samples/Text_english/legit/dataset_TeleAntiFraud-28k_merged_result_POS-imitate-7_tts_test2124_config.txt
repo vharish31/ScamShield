@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, can I ask about your takeout service?
+Speaker2: Hello, little Li, I am a waiter in the store, what can I help you with?
+Speaker1: Can you recommend some dishes at your store?
+Speaker2: Our store's signboard menu has kung pao chicken, steamed fish and beef noodle soup, all very popular.
+Speaker1: Okay, can you tell me what your store's business hours are?
+Speaker2: Our store's business hours are from 10 am to 10 pm every day, no holidays.
+Speaker1: If I order food now, how long will it take to be delivered?
+Speaker2: If you order now, we will deliver in half an hour, the exact time depends on your location.
+Speaker1: Okay, thank you for your help, so I'll place the order now.
+Speaker2: Okay, wish you enjoy your meal, feel free to contact us if you have any other questions.

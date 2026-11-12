@@ -1,0 +1,10 @@
+Speaker1: Hello, is this the L'Oreal shop here?
+Speaker2: Yes, do you want to make a hair appointment?
+Speaker1: Yes, can I make an appointment for tomorrow at 2 pm for a haircut?
+Speaker2: What kind of service would you like to book for tomorrow at 2 pm?
+Speaker1: I want to cut short hair, then do a simple style.
+Speaker2: Okay, the short hair and molding cost 250 yuan, can you see it?
+Speaker1: Okay, can I come directly tomorrow?
+Speaker2: Sure, let's meet at the L'Oreal shop at 2 pm tomorrow afternoon.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, goodbye.

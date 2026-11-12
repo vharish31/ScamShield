@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I'm the customer service representative of the food square, small beauty.
+Speaker2: Hello, what do you have?
+Speaker1: I want to inform you that you earned 500 points at our food square last month, and they will expire at 12 am tonight if not used before then.
+Speaker2: Oh, really? How come you didn't see the reminder?
+Speaker1: It's possible that your phone has information interception settings. These points can be exchanged for food and drink vouchers in our food square, or directly deducted from cash.
+Speaker2: Where can I exchange now?
+Speaker1: You can operate on our official app, or directly come to the food square's service counter.
+Speaker2: Okay, I'll check it out later when I have some free time.
+Speaker1: Okay, feel free to contact me anytime if you have any questions. I hope you enjoy a great dining experience at our food square.
+Speaker2: Thank you, goodbye.

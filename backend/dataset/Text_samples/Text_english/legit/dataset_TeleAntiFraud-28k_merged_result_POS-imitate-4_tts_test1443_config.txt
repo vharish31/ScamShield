@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am an e-commerce platform customer service representative. Your shopping points will be cleared to zero by tonight 12:00 am, and you haven't exchanged them yet.
+Speaker2: Really? How come I didn't see the text message notification?
+Speaker1: Maybe it's because my phone is set to block, I'll send you one more time, please pay attention to check it.
+Speaker2: Okay, what can I buy with my points?
+Speaker1: Points can be exchanged for various products on our platform, such as electronic products, daily necessities, and discounts.
+Speaker2: Okay, I'm going to the website now.
+Speaker1: Okay, log in to your account and enter the point mall, select the products you like and you can exchange them.
+Speaker2: Can the products that can be exchanged with points be sent home?
+Speaker1: Of course, after you select the products, please fill out the delivery address, and we will arrange for shipping.
+Speaker2: Okay, thank you for your reminder. I'll handle it right away.
+Speaker1: You're welcome, feel free to contact me if you have any questions, have a great shopping trip.

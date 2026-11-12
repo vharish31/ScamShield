@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask about your restaurant's special dishes.
+Speaker2: Hello, our restaurant has many special dishes, such as red braised pork, sour and spicy fish and stir-fried mushroom chicken, do you have any special preferences?
+Speaker1: I like spicy food, do your palace chicken and pepper not spicy?
+Speaker2: Kung Pao Chicken is one of our restaurant's signature dishes, with a moderate spiciness that is very popular. If you prefer a spicier taste, we can adjust it for you.
+Speaker1: Great, can you tell me your business hours?
+Speaker2: Our restaurant business hours are from 11 am to 9 pm every day, and on weekends they are extended to 10 pm.
+Speaker1: Okay, I plan to go out on the weekend. Do you need to make reservations in advance for the weekend?
+Speaker2: There are more weekend tourists, so it's recommended to book in advance to ensure a spot. Please tell me the specific time and number of people, and I'll help you book.
+Speaker1: Can I reserve a table for two people at seven o'clock on Saturday evening?
+Speaker2: Sure, on Saturday evening at 7pm, for two people, I have already reserved a spot for you. Just come directly at that time.
+Speaker1: Thanks, I'll see you on Saturday.
+Speaker2: No problem, see you on Saturday, looking forward to your arrival. Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the property manager of the community, just confirming that your water bill for this month hasn't been paid yet.
+Speaker2: Oh, hello, I've been busy lately, I forgot. How much?
+Speaker1: The total is one hundred and fifty yuan. If you're convenient, you can go to the property management office to pay in person, or I can help you pay online.
+Speaker2: How do I operate online payment?
+Speaker1: Just log into our community's app, find the payment option, select water fee, follow the instructions to complete the payment.
+Speaker2: Okay, let me try.
+Speaker1: If you have any issues during the operation, feel free to contact me anytime.
+Speaker2: Thank you, I'll try first.
+Speaker1: Okay, I hope everything goes smoothly. If there are any other issues, please feel free to contact us anytime. Goodbye.
+Speaker2: Okay, bye.

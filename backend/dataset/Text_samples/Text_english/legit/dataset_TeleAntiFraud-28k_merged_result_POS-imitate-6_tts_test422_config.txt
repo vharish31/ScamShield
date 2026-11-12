@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you the JD convenience store?
+Speaker1: Yes, this is a JD convenience store. What can I help you with?
+Speaker2: Can you ask if you have that chocolate bar?
+Speaker1: Chocolate stick, let me check. Hmm, what flavor do you want?
+Speaker2: That's the chocolate flavor, which your friend especially likes.
+Speaker1: Okay, I'll check. Hmm, do we have any chocolate bars with milk flavor? How many do you need?
+Speaker2: Ten roots, exactly for a small friend snack.
+Speaker1: Okay, ten-root milk chocolate stick, thirty yuan in total. Do you want to pick it up or need it delivered?
+Speaker2: Let's go to the store and check if there are any other snacks suitable for small friends.
+Speaker1: Okay, you can go straight to the cashier when you arrive. I'll prepare for you. Do you need any other consultation?
+Speaker2: No more, thank you. See you later.
+Speaker1: Okay, see you later, be careful on the road. Bye.
+Speaker2: Goodbye.

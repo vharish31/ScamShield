@@ -1,0 +1,12 @@
+Speaker1: Is it convenient for you to talk now on your side?
+Speaker2: Sure, you say, what's up?
+Speaker1: I want to consult with you about your family's new smartwatch that I saw in an ad, it's quite interesting.
+Speaker2: Hey, that watch is our new model, it has a lot of functions, can you tell me specifically what you're interested in?
+Speaker1: I mainly want to know how long the battery lasts and if I can connect my phone to use it.
+Speaker2: This watch uses a high-performance battery, which can provide up to one week of normal use time. As for connecting to a phone, it supports Bluetooth and is compatible with most smartphones, making it easy to receive notifications and control music.
+Speaker1: What about the price?
+Speaker2: The current promotional price is 1299 yuan, and you can also get a free one-year health consultation service when you buy.
+Speaker1: Sounds good, I'll think about it. By the way, do you have any fresh produce in your store?
+Speaker2: The store currently has fresh produce, so if you decide to buy, you can come to the store at any time to pick it up.
+Speaker1: Okay, thank you for your detailed introduction. I'll think about it and get back to you.
+Speaker2: No problem, please feel free to consult anytime, goodbye.

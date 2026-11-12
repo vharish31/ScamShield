@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm little Zhang, I ate at your place last time.
+Speaker2: Hey, little Zhang, do you remember anything? What's up?
+Speaker1: It's like that, I still want to dine at your restaurant today, but I'm not quite clear on your business hours.
+Speaker2: Our restaurant is open from 10 am to 9 pm, you can place an order anytime.
+Speaker1: That's great, can I order a beef burger and a vegetable salad, please?
+Speaker2: Of course, both beef and vegetable fried rice and salad are available, and it will take about 30 minutes for delivery to your location.
+Speaker1: Okay, I'll order online later, thank you.
+Speaker2: No problem, what do you need to contact me anytime, wish you enjoy your meal.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how can I help you?
+Speaker1: Can I exchange my recently rented electric bike here for a new one since the battery seems not very durable?
+Speaker2: Of course, what specific problem have you encountered?
+Speaker1: I rode twenty kilometers before, but now I can't even ride thirteen kilometers with four hours of battery.
+Speaker2: Understood, it might be the battery aging, or it could be because the weather got cold.
+Speaker1: Can you give me a new car in the afternoon when I pick up my car?
+Speaker2: Sure, I'll prepare a longer-range car type for you. What time will you come in the afternoon?
+Speaker1: Around four in the afternoon.
+Speaker2: Okay, I will prepare in advance, you can directly exchange the car after coming.

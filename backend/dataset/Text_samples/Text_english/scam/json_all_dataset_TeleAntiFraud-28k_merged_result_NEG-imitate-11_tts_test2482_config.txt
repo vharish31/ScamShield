@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is our customer service center. You previously purchased a product from our platform with a quality issue, and we need to process a refund for you. Would it be convenient for you to take a phone call now?
+Speaker2: Okay, you say, what's the question?
+Speaker1: To process your refund, we need you to download a refund-specific app, which ensures your funds are safe, are you ready to download now?
+Speaker2: Do you want to download the app? I'm not sure, I'm afraid it's not safe.
+Speaker1: You can rest assured that this app is our company's official software and is very safe. You can download it and try it out first, and if you have any issues, you can contact us at any time.
+Speaker2: Okay, let me try.
+Speaker1: Okay, please download the app and enter the verification code 123456 after opening it. That way we can process your refund.
+Speaker2: Okay, let me try.
+Speaker1: If you encounter any issues during the operation, please contact our customer service at any time, we will solve them for you.
+Speaker2: Thank you, I will.

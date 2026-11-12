@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I am from the health service center of the community of the People's Hospital of Fucheng Road in the Fucheng District of the city. I saw your resume and wanted to know more about your situation.
+Speaker2: Hey, who are you, what are you doing in the city north now?
+Speaker1: Hey, I noticed you've been working in the public health field, we have an open position for a public school principal here, are you interested?
+Speaker2: This job sounds great, but my current work location is in the north of the city, which is quite far from your side.
+Speaker1: Is that so, it's a bit far? But our project is a joint effort between the group company, Chaoyang District Government and the National Administration of Traditional Chinese Medicine, which may be a good development opportunity for you.
+Speaker2: Hmm, I know, but considering the commute time and family situation, it might not be convenient.
+Speaker1: I understand your concerns. If you have any other questions or need further clarification, please feel free to contact me anytime.
+Speaker2: Okay, thank you for your understanding. If you need me, I will contact you. Goodbye.
+Speaker1: Okay, bye, wish you work well.

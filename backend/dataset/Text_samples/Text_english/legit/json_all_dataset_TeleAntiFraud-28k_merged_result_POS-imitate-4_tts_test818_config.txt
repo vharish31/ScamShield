@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service monkey of the point store, we noticed that your points have not been used for a long time, tonight before twelve o'clock all the points will be cleared, do you know?
+Speaker2: Clear points? What's going on?
+Speaker1: That's right, points are accumulated based on your purchases made through our platform, which can be used to exchange products, equivalent to cash. Your account currently has over 26,000 points, which can be used to exchange a variety of products, such as wine gift boxes and smartwatches.
+Speaker2: Oh, I checked my text message, it really has a reminder.
+Speaker1: Yes, there is a detailed explanation in the text message. You need to be on time, after twelve o'clock the points will be invalidated. To help you, I can apply for a special privilege, after exchanging the products, the remaining points will be retained, and an additional after-sale gift will be given, enjoying free return and exchange service.
+Speaker2: What can I exchange for products now?
+Speaker1: You can choose from our point store, such as high-definition TV, smartwatch, etc., which are very popular. You can log in to your account now.
+Speaker2: Okay, I'll go take a look.
+Speaker1: Okay, if you have any questions, feel free to contact me. I wish you a happy exchange!
+Speaker2: Thank you, goodbye.

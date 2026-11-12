@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to ask about your restaurant's vegetarian options.
+Speaker2: Hello, we have many vegetarian dishes here, such as stir-fried vegetables, stir-fried three-vegetable, and mapo tofu, which one would you like to know more about?
+Speaker1: What is the price and quantity of stir-fried vegetables?
+Speaker2: The price of stir-fried vegetables is 38 yuan, enough for two to three people to enjoy.
+Speaker1: What time does your restaurant open?
+Speaker2: Our restaurant business hours are from 11 am to 10 pm, on weekends they will be extended to 11 pm.
+Speaker1: Okay, I plan to come to dinner at six o'clock on Saturday night. Do I need to make a reservation in advance?
+Speaker2: It's usually pretty crowded for dinner on Saturdays. It's recommended to make a reservation in advance to ensure you have a spot.
+Speaker1: Can I make a reservation now?
+Speaker2: Of course, I can record it for you. What's your name and contact information?
+Speaker1: My name is Zhang, phone number is 13801380138.
+Speaker2: Okay, Zhang Xiāngshēng, the 6:00 PM appointment on Saturday has been arranged for you. See you then.

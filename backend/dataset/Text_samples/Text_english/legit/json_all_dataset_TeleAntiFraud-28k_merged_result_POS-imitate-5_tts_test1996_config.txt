@@ -1,0 +1,13 @@
+Speaker1: Hello, I'm small Li, you are the store's appointment customer service.
+Speaker2: Hello, little Li, what can I help you with?
+Speaker1: Is that right? You scheduled a massage service on our platform a few days ago but haven't confirmed a specific time yet. Let's confirm it together.
+Speaker2: Oh, okay, I did actually make a reservation. Can you guys make it this weekend?
+Speaker1: What time slots are convenient for you this weekend? Saturday morning and Sunday afternoon are free.
+Speaker2: Sunday afternoon, what time is around several?
+Speaker1: On Sunday from 3 to 5 PM, which time do you think is suitable?
+Speaker2: Three o'clock is fine, let's set three o'clock then.
+Speaker1: Okay, I have scheduled a massage service for you on Sunday at 3 pm. Do you have any special requirements or need to prepare anything in advance?
+Speaker2: There are no specific requirements, just hope the environment is comfortable.
+Speaker1: Please rest assured, we will arrange the best room and instructor for you. When you arrive, just go to the front desk and give your name.
+Speaker2: Okay, thank you for your arrangement. See you later.
+Speaker1: See you later, wish you have a nice weekend. Bye.

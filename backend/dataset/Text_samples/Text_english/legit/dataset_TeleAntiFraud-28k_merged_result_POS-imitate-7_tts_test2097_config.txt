@@ -1,0 +1,13 @@
+Speaker1: Hello, how can I assist you at Li's household service?
+Speaker2: Hello, I want to know more about your cleaning service, particularly family deep cleaning.
+Speaker1: Okay, our family deep cleaning service includes comprehensive cleaning, deep cleaning of the kitchen and bathroom, glass wiping, etc. You can choose the service content based on your needs.
+Speaker2: How is the cost calculated?
+Speaker1: The cost is usually determined based on the size of the house and the specific services, we have a standard pricing table, we can give you a quote first.
+Speaker2: Can you give me a rough estimate of the cost for cleaning a room about 100 square meters?
+Speaker1: Okay, a house around one hundred square meters, if you choose a full-scale cleaning service, the cost is approximately four hundred yuan left and right, if it's deep cleaning, it may be a little more expensive, around six hundred yuan left and right.
+Speaker2: Do I still need to schedule cleaning on the weekend? Do you guys have any service on the weekend?
+Speaker1: We also provide service on weekends, but weekend appointments are quite tight, so I suggest you confirm the specific time as soon as possible.
+Speaker2: Okay, can I schedule something for Saturday this week?
+Speaker1: This weekend, we have a little time, can we schedule it? If it's convenient for you, I'll help you book it.
+Speaker2: Okay, let's schedule this for Saturday this week, thank you.
+Speaker1: No problem, we will arrive on time for the weekend service, please feel free to contact us if you have any issues.

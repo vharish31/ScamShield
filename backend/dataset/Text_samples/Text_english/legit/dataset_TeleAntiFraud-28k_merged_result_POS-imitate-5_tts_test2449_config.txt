@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, this is Xiaoming express, you have a package delivered, need to schedule delivery time?
+Speaker2: Hello, yes, I have a package that can be delivered to my home?
+Speaker1: Of course, where is your specific address?
+Speaker2: My address is Flower Garden No. 3, Building 1, Unit 602.
+Speaker1: Okay, I've noted down this address. When do you want it delivered?
+Speaker2: Is two in the afternoon convenient tomorrow?
+Speaker1: Tomorrow at 2 PM, I will notify the delivery man to deliver on time.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact us if you have any other questions.
+Speaker2: Okay, I understand, thank you.

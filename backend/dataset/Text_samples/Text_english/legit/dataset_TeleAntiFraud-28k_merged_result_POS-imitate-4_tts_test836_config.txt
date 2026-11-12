@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the property manager of the community, the issues you just reported have been recorded by us.
+Speaker2: Okay, thank you.
+Speaker1: Can you specify the exact location of your apartment?
+Speaker2: It's the third floor, second unit.
+Speaker1: Okay, building three, unit two. We will quickly arrange for a maintenance person to come check.
+Speaker2: Okay, what time can you come?
+Speaker1: Is three in the afternoon convenient?
+Speaker2: Sure, three o'clock is fine.
+Speaker1: Okay, if there are any changes we will contact you in advance.
+Speaker2: Okay, thank you.

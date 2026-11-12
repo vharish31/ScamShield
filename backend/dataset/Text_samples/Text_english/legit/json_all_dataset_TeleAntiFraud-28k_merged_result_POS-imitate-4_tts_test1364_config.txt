@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm little Zhang, want to ask about your restaurant's vegetarian dishes.
+Speaker2: Hello, little Zhang, I am server Li, our restaurant has many vegetarian dishes, such as stir-fried vegetables, steamed tofu, stir-fried four seasons beans, etc.
+Speaker1: How much do these menu items cost?
+Speaker2: Stir-fried vegetables are thirty yuan, steamed tofu is thirty-five yuan, stir-fried four-season beans are forty yuan.
+Speaker1: What is the business hours of your restaurant?
+Speaker2: Our restaurant business hours are from 10 am to 10 pm, on weekends they will be extended to 11 pm.
+Speaker1: Sure, can I reserve a seat for 7 pm tomorrow evening?
+Speaker2: Of course, the 7 pm seat has been reserved for you for tomorrow night, please come directly at that time.
+Speaker1: Thank you, can I directly order these vegetarian dishes at that time?
+Speaker2: You can directly order these dishes at the time, and if you need, we can also recommend other vegetarian options.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you enjoy your meal.

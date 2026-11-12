@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little Li, just recommended a skincare product at your store to a customer, I want to know more about it.
+Speaker2: Hello, little Li, I am the customer service clerk at the store, what can I help you with?
+Speaker1: What are the main effects of that skincare product and who is it suitable for?
+Speaker2: This skincare product is mainly for moisturizing and anti-aging, suitable for all skin types, especially dry and mixed skin types.
+Speaker1: Is there any noticeable usage points for this product?
+Speaker2: Before using, it is recommended to clean the skin first and apply an appropriate amount of product gently massage until completely absorbed. If there is an allergic reaction, stop immediately.
+Speaker1: Can you tell me if there are any promotional activities for this product?
+Speaker2: Currently we have a buy-one-get-one promotion, purchasing this product will get you a free sample, perfect for travel.
+Speaker1: That's great, I plan to travel on the weekend, this is perfect timing. Can I order now?
+Speaker2: Of course, you can buy through our website or in store. If it's online shopping, we will ship within 24 hours.
+Speaker1: Okay, I'll check out your website. Thank you for your detailed introduction. Goodbye.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, happy shopping, goodbye.

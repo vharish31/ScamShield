@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, I recently found a phone on your website that I like, can you tell me more about its specifications and price?
+Speaker2: Hello, little Li, I am customer service Zhang, very happy to serve you. Which phone do you like?
+Speaker1: That's the latest flagship phone, black.
+Speaker2: Okay, this flagship smartphone is our recent best-selling product, the black version is currently in stock. Its configuration is top-of-the-line processing, large memory, ultra-clear camera. As for the price, the official website lists it at 4,999 yuan.
+Speaker1: Is there any discount activity on that price?
+Speaker2: We currently have a limited-time promotion, if you place an order within this week, you can enjoy a 90% discount, and also have a chance to get a beautiful gift.
+Speaker1: How long will I be able to receive the goods if I order now?
+Speaker2: If you place an order now, we will ship it quickly. Generally, you can receive it in two to three days in the city area, and it may take one to two days longer in remote areas.
+Speaker1: Okay, I'll place the order now. Thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a nice shopping!

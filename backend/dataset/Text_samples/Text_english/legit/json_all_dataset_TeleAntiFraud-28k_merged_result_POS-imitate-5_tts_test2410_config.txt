@@ -1,0 +1,10 @@
+Speaker1: Hey, are the tables I reserved at your store ready?
+Speaker2: Hello, are you ready? You can come now?
+Speaker1: Sure, I'll go now.
+Speaker2: Great, we have a little surprise here for you, you'll definitely love it when you come.
+Speaker1: That's great, I love surprises the most.
+Speaker2: Please come quickly, we are waiting for you.
+Speaker1: Hey, I'm off now. By the way, do you have free WiFi in your store?
+Speaker2: Yes, our WiFi password here is 123456, you can use it directly when you come.
+Speaker1: Okay, thank you.
+Speaker2: No thanks, we welcome anytime. Be careful on the road, see you!

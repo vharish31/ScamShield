@@ -1,0 +1,13 @@
+Speaker1: Hello, this is the city delivery center, I am customer service Li.
+Speaker2: Hello, little Li, I just saw job information on your website and want to know more.
+Speaker1: Okay, are you looking for a delivery job?
+Speaker2: Yes, I'm looking for a job related to delivery.
+Speaker1: We have a delivery job position here, and there's a 500 yuan signing bonus now.
+Speaker2: Hey, what are the requirements for this job?
+Speaker1: The most important thing is to have a driver's license, be physically healthy, be able to endure hardship, and have flexible work hours.
+Speaker2: Sounds good, I have a driver's license and meet other requirements.
+Speaker1: You can come to our delivery center for an interview. The address is XX road XX number. Someone is available to receive you from 9 am to 5 pm every day.
+Speaker2: Okay, can I go at 10 am tomorrow morning?
+Speaker1: Okay, tomorrow at 10 am, you can report my name to them, Li Xiaoming, they will take you to find me.
+Speaker2: Okay, thank you, little Li.
+Speaker1: No problem, see you tomorrow.

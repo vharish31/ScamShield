@@ -1,0 +1,8 @@
+Speaker1: You are little Li, I am little Zhang, we agreed to study at the library this afternoon.
+Speaker2: Hey, hey, I almost forgot, are you already at the library?
+Speaker1: I just arrived, this place is pretty quiet, pretty good for studying.
+Speaker2: That's great, I'll clean up a bit and then come over, should take about twenty minutes.
+Speaker1: Okay, no rush, take it slow, pay attention to safety on the road.
+Speaker2: Okay, thank you for reminding me, so I'm leaving now.
+Speaker1: Hey, be careful on the road, give me a text message when you arrive.
+Speaker2: Okay, I understand, see you later.

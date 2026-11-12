@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager at Agricultural Bank, we noticed you may have recently had a funding need, we can offer a 30,000 yuan unsecured loan, are you interested?
+Speaker2: Oh, actually I'm okay, I don't need a loan right now.
+Speaker1: Okay, I understand. But if you need anything in the future, feel free to contact me. For convenience, can you add a WeChat?
+Speaker2: Add WeChat? It seems a bit inconvenient.
+Speaker1: No problem, I understand. Here's a link where you can learn more about the loan details and apply directly, very convenient.
+Speaker2: Link? Okay, you say.
+Speaker1: Okay, the link is https://loan.example.com. Just follow the instructions after opening it.
+Speaker2: Okay, thank you. I'll take a look.
+Speaker1: No problem, feel free to call me anytime if you have any questions. Wishing you a happy life.
+Speaker2: Okay, bye.

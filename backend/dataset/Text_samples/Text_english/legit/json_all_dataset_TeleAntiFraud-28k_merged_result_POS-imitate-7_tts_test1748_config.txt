@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little Zhang, I just booked an appointment for tomorrow afternoon on your website, can you confirm the time?
+Speaker2: Hello, little Zhang, I am small Li from the beauty salon, I have found your appointment information, your appointment is tomorrow at three in the afternoon, right?
+Speaker1: Yes, that's this time.
+Speaker2: Okay, this time we are fine on our end. How much time do you need to notify us before coming tomorrow?
+Speaker1: I'll probably leave around 2:45, but I might encounter traffic on the way, so I'm not sure exactly when I'll arrive.
+Speaker2: Understood, you will depart at 2:45 PM, then we will wait for you here, if there are any changes, you can contact us anytime.
+Speaker1: Okay, thank you. Got it, I also want to ask, I want to cut a short hair this time, do you have any recommendations for hairstylists on your side?
+Speaker2: Do you have a preference for a hairstyle style? Are you more into a business or leisure style?
+Speaker1: I want a little bit of leisure, but not too much fun.
+Speaker2: Okay, I understand, I will recommend our master teacher here, he is very skilled in this style of haircut design, can you accept this arrangement?
+Speaker1: Okay, thank you for your arrangement, see you tomorrow.
+Speaker2: Okay, see you tomorrow, be careful on the road.

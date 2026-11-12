@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: I ordered takeout from your side, why hasn't it arrived yet?
+Speaker2: Please wait a moment, I'll check your order.
+Speaker1: Okay, I'll wait for your message.
+Speaker2: Your takeout is ready. It's estimated to take twenty minutes to arrive.
+Speaker1: Okay, I'll wait a moment.
+Speaker2: Sorry, the recent order volume is large, so it may be a little slow.
+Speaker1: No problem, understand now.
+Speaker2: Thank you for your understanding. If you have any other questions, please contact us anytime.

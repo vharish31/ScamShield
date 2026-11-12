@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how can I help you?
+Speaker1: I bought a washing machine at your store a few days ago, but I found some problems today.
+Speaker2: Oh, this is really annoying. What specific issue is it?
+Speaker1: The washing machine makes a lot of noise while washing clothes, and sometimes it stops working.
+Speaker2: This situation shouldn't happen like this. Can we send a repairman to your door to check it out? When is it convenient for you?
+Speaker1: That's great, can I schedule tomorrow afternoon?
+Speaker2: Okay, our repairman will come to your house at around three in the afternoon tomorrow. Is anyone at home?
+Speaker1: Yes, I will wait at home.
+Speaker2: Okay, I'll record it first. If there are any changes, we'll notify you in advance.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, this is what we should do. If there are any other issues, please contact us anytime.

@@ -1,0 +1,12 @@
+Speaker2: Hello, which one are you looking for?
+Speaker1: Are you looking to rent a car?
+Speaker2: Hi, Mr. Xiao Wang, can you recommend any car models on this side?
+Speaker1: Based on your needs, we have two types here: economic and business. The economic type is suitable for short-term travel, and the business type is suitable for family or long-term travel.
+Speaker2: I mainly want to take my family out for fun on the weekend. What about business-like?
+Speaker1: The business type car space is large, comfortable, very suitable for family travel. When will you arrive this weekend to pick up the car?
+Speaker2: Around nine in the morning.
+Speaker1: Okay, I'll meet you at the rental car point at 9:00 am. Remember to bring your ID and driving license.
+Speaker2: Okay, I will arrive on time, thank you.
+Speaker1: No problem, be careful on the road.
+Speaker2: Okay, bye.
+Speaker1: Goodbye.

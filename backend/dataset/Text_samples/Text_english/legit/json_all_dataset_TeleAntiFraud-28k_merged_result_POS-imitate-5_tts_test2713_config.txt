@@ -1,0 +1,10 @@
+Speaker1: Hey, are your restaurant still open?
+Speaker2: Hello, is our restaurant still open for business, and do you want to reserve a table?
+Speaker1: Hey, I'm nearby, I want to go out for dinner tonight, do you have any space?
+Speaker2: Yes, we have several empty tables now, how many people would you like to reserve a spot for?
+Speaker1: Two of us, we'll be there in about twenty minutes.
+Speaker2: Okay, I will reserve a spot for you. The restaurant address is Xinghua Lu Yī Bǎo Zhāng, do you know how to get there?
+Speaker1: I know how to go, thank you.
+Speaker2: No problem, if you can't find it, feel free to call me anytime. Is there anything else you need to inform us in advance?
+Speaker1: No more, just order from the regular menu.
+Speaker2: Okay, wait for your arrival, goodbye.

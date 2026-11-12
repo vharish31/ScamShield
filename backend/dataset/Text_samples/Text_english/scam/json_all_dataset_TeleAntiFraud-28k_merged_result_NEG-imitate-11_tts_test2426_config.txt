@@ -1,0 +1,10 @@
+Speaker1: Hello, I am Xiao Wang, I am the customer manager of Tian An Yin Bank here.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed you've been looking for a loan recently. I can offer a no-collateral loan here with a very favorable interest rate.
+Speaker2: Really? I really need some cash flow recently.
+Speaker1: Yes, I can help you apply. But you need to download our bank's loan app first, which can speed up the approval process.
+Speaker2: Okay, what is the name of this app?
+Speaker1: You can download "Tian An Kuai Dai" in the app store on your phone.
+Speaker2: Okay, I'll go download it now.
+Speaker1: After downloading, please fill out the information according to the instructions. If you have any questions, feel free to contact me at any time.
+Speaker2: Okay, thank you, little king.

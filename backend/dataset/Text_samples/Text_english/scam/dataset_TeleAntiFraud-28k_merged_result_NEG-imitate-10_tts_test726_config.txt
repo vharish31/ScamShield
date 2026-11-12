@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the customer manager of China Construction Bank, Li.
+Speaker2: Hello, Li Manager, what do you have?
+Speaker1: That's right, we noticed you're one of our valued customers at our bank, and now there's a special loan project with an incredibly low interest rate of 2.5%, which is perfect for you.
+Speaker2: Hmm, that sounds good, can you give me more details?
+Speaker1: Of course, this loan project is specifically designed for high-quality customers, no collateral, fast approval, and the interest rate is only 2.5%.
+Speaker2: What do I need to do?
+Speaker1: Just add my WeChat, I have a detailed application process flow chart that I can send to you.
+Speaker2: Okay, let me add you on WeChat.
+Speaker1: Great, my WeChat number is zhongxin12345, add me and I'll send you the info right away.
+Speaker2: Okay, I added you.

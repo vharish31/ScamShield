@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Liu? This is the customer service of Yida Mall. How can I help you?
+Speaker2: Yes, what's up?
+Speaker1: Your order was shipped yesterday, but the logistics said your address may not be delivered normally, please confirm.
+Speaker2: What should we do?
+Speaker1: To ensure your order arrives smoothly, click on the link we send you to update your address information.
+Speaker2: How do I know if this link is safe?
+Speaker1: Don't worry, this is the official link, very safe. If you're not sure, just add our customer service WeChat, we'll guide you.
+Speaker2: Okay, let me try.
+Speaker1: Okay, our customer service WeChat is yida_customer. Add it and let me know, I will make the customer service specialist contact you.
+Speaker2: Okay, thank you.

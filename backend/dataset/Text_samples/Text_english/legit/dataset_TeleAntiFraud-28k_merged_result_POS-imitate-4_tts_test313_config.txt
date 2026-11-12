@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I saw your new store opened on Meituan, want to know about your signature dishes?
+Speaker2: Hello, welcome to call for consultation, our family's special dishes have spicy and sour fish and hot pot, both are very popular among customers.
+Speaker1: What is the price of these special dishes?
+Speaker2: Ma la xiāng gǎng chǎo shì liù shí yuán yī fèn, suān cài yú shì bā shí yuán yī fèn.
+Speaker1: Does your store have any lunchtime discounts?
+Speaker2: Yes, from noon to two, all dishes are 90% off.
+Speaker1: Do you have any space for me to go to the afternoon?
+Speaker2: There are still some spots available, you can come directly, we will prepare a place for you.
+Speaker1: Okay, thank you for your help, see you at noon.
+Speaker2: No problem, looking forward to your arrival, see you at noon.

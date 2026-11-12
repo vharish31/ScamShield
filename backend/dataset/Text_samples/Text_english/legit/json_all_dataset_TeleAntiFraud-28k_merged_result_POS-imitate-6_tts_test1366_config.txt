@@ -1,0 +1,10 @@
+Speaker1: Hello, I am Li, the customer service representative for home furniture, we noticed that you recently browsed some furniture on our website but did not place an order, do you know what we can help you with?
+Speaker2: Oh, that's it, I'm looking at the sofa, but I'm not sure about the style and color, I'm afraid I bought the wrong one.
+Speaker1: I understand your concerns, we have professional designers who can recommend suitable sofas based on the style and size of your room. Please let me know when it's convenient for you, we can schedule a one-on-one service.
+Speaker2: That's great, I have some free time this weekend, can I make an appointment?
+Speaker1: Of course, there are designers on duty from 10 am to 5 pm on Sunday. Which time slot is convenient for you?
+Speaker2: Can we meet at two in the afternoon?
+Speaker1: That's fine, how about we agree to meet at our store on Sunday afternoon at 2 pm? The address is Minghu Road 108, do you know how to get there?
+Speaker2: I know, it's convenient to come from my house, thank you.
+Speaker1: No problem, if you have any questions on the way, please contact me anytime, looking forward to your arrival.
+Speaker2: Okay, thank you, bye.

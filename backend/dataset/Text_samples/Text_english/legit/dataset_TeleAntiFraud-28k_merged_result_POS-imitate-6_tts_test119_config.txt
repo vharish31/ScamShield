@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, yesterday at your store I bought a washing machine with a little problem, want to consult a little.
+Speaker2: Hello, Mr. Wang, I am customer service representative Li, what questions can I help you with?
+Speaker1: The washing machine leaked a little after one day of use.
+Speaker2: We've encountered this issue before, it's usually because of an incorrect installation.
+Speaker1: What do I need to do?
+Speaker2: You can first check if the drainage pipe is tightly connected, sometimes adjusting the interface a little can solve the problem.
+Speaker1: What should be done if the leak persists after adjustment?
+Speaker2: If the adjustment doesn't fix the leak, please contact our after-sales service, we can arrange a professional technician to come and check and repair.
+Speaker1: How can I contact your customer service?
+Speaker2: You can directly call our customer service hotline and tell them your situation, they will help you arrange.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I'd like to know more about your household services on this side.
+Speaker2: Of course, what kind of service do you need, cleaning or other?
+Speaker1: How long will it take to clean 100 square meters of my home?
+Speaker2: In general, it takes about three to four hours to clean 100 square meters, depending on the room's cleanliness level.
+Speaker1: How do you calculate the price?
+Speaker2: Our hourly fee is fifty yuan, so it's roughly between two hundred and two hundred fifty yuan.
+Speaker1: Okay, this price is acceptable. Can I reserve tomorrow afternoon at two o'clock?
+Speaker2: Tomorrow at 2 PM is okay, I will arrange a service person for you. Please pay the deposit in advance.
+Speaker1: Okay, how do we pay the deposit?
+Speaker2: You can choose to pay with WeChat or Alipay, I'll send you a payment link.
+Speaker1: Okay, I'll pay later. Thank you.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. See you tomorrow!

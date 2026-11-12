@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank, work number six seven eight nine. Do you have any recent financial needs? We can provide unsecured low interest loans.
+Speaker2: Hello, I recently need some money.
+Speaker1: Great, our loan service is perfect for you. Just provide some basic info and you'll get approved quickly.
+Speaker2: What do I need to do?
+Speaker1: It's very simple. You can click on the link I sent you and fill in the relevant information, and we will quickly review it.
+Speaker2: Okay, I'll go operate.
+Speaker1: Please wait, in order to ensure the safety of your information, you need to pay a deposit first, and the deposit will be returned to you after the loan is approved.
+Speaker2: How much deposit is it?
+Speaker1: Just need to pay 2000 yuan, this is to prevent malicious application, after approval will fully refund.
+Speaker2: Okay, I understand. I'll go pay now.

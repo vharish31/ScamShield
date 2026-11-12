@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: I am Li Huang, the customer manager of China Bank, we recently launched a special discounted loan product with a very low interest rate, do you have any funding needs?
+Speaker2: Hey, I recently need some cash flow, can you give me a detailed explanation?
+Speaker1: Of course. This loan product is very suitable for small microenterprise owners and personal entrepreneurs, with loan amounts ranging from ten thousand to fifty thousand, interest rates as low as two percent, and flexible repayment terms.
+Speaker2: How do I apply for it?
+Speaker1: It's very simple. Just click on the link we send to you, fill out some basic information, and we'll have a specialist review it. Once it's approved, the money can be deposited into your account immediately.
+Speaker2: Okay, let me think about it. Can you send me a link?
+Speaker1: Okay, I'll send you a link right away. Just pay attention to the text message and click on the link once you receive it, then follow the instructions.
+Speaker2: Okay, thank you.

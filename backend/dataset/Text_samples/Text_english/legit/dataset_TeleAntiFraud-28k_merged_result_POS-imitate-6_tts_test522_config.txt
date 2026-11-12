@@ -1,0 +1,12 @@
+Speaker1: Hello, you.
+Speaker2: Hello
+Speaker1: Are you the customer who just ordered food on our platform?
+Speaker2: Yeah, I ordered a spicy stir-fry.
+Speaker1: Okay, we have received your order. However, since it's peak dining time, delivery may be slightly delayed, around forty minutes or so.
+Speaker2: Can we hurry up? I'm a bit urgent.
+Speaker1: We'll arrange it quickly, but we're quite busy right now. Would you like me to communicate with the delivery guy to expedite it?
+Speaker2: Okay, thank you.
+Speaker1: No problem, your order number is 58586. You can check the delivery progress through this number on the Meituan app.
+Speaker2: Okay, I understand.
+Speaker1: If you have any other questions, feel free to contact me anytime. Enjoy your meal, goodbye.
+Speaker2: Okay, bye.

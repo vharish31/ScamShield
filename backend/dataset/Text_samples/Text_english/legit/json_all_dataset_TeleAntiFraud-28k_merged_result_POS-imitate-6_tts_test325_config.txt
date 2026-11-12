@@ -1,0 +1,11 @@
+Speaker1: Hey, how's it going? I'm Zhang, I applied for the job at your company two days ago, can you give me an update on the progress?
+Speaker2: Hello, it's me, I work in HR, we've received your resume and it's still under review.
+Speaker1: Uh, like this, what about when will there be results?
+Speaker2: In general, the review will be completed within a week. If there is a suitable job, we will call you.
+Speaker1: Okay, I'll wait a moment, thank you for your reply.
+Speaker2: No problem, you can contact me anytime if you have other questions.
+Speaker1: Can you tell me more about the daily work content of this position?
+Speaker2: This job mainly involves daily maintenance of products and customer technical support, requiring some technical background.
+Speaker1: I understand, I have relevant work experience, so I should be able to handle this job.
+Speaker2: That's great, your resume fits our requirements, and we'll schedule an interview after it's reviewed and approved.
+Speaker1: Okay, I'll wait for your good news, thank you!

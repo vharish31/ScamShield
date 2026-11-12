@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you? I'm Li Xiaoling, how about you recently?
+Speaker2: Hello, little Li, I'm pretty good, you? How have you been lately?
+Speaker1: I'm not bad, thank you. How's it going with your recent job search?
+Speaker2: Yes, I have several companies that are interested, but they are still in talks. Do you have any good suggestions?
+Speaker1: I think you should attend more industry events, it might lead to better opportunities.
+Speaker2: Hmm, this suggestion is good, I will try it out. By the way, have you had anything fun lately?
+Speaker1: I recently went to a new exhibition with my friends, it's quite interesting, I recommend you also go take a look.
+Speaker2: Is the exhibition good? What is it about?
+Speaker1: It's about modern art, with many interactive parts, it's great for relaxing the mind.
+Speaker2: I'll go on the weekend if I have time, thank you for your recommendation.
+Speaker1: No problem, I hope you like it. How about we have dinner together this weekend?
+Speaker2: Okay, that's settled. See you this weekend!
+Speaker1: Okay, see you this weekend, goodbye.
+Speaker2: Goodbye.

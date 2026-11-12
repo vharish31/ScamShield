@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, who are you looking for?
+Speaker1: I'm little king, last time at your store ordered birthday cake, want confirm order situation.
+Speaker2: Hey, little king, wait a minute, I'll check your order.
+Speaker1: Okay, can you help me?
+Speaker2: Found it, your six-inch strawberry muffin cake was ordered for tomorrow, right?
+Speaker1: Yes, that's it. I want to confirm one more time, can the cake be ready in a few minutes?
+Speaker2: We usually prepare cakes one hour before the scheduled time, when will you come to pick them up tomorrow?
+Speaker1: Can I come at three in the afternoon?
+Speaker2: Okay, I'll be ready with the cake at 3 pm. Do you need me to help with anything else?
+Speaker1: No more, thank you.
+Speaker2: No problem, feel free to contact us if you have any questions. Happy birthday! Goodbye.
+Speaker1: Thank you, goodbye.

@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you? I am a customer service representative for the platform.
+Speaker2: Hello, customer service representative.
+Speaker1: Can you check the atmosphere lights today or tomorrow if you have time?
+Speaker2: Hey, what did you say? Your voice is a bit loud.
+Speaker1: Can you check the wiring of the ambient lighting? The customer said that the speaker was burnt after installing the ambient lighting.
+Speaker2: Oh, this situation. But is it really in our place?
+Speaker1: It's not your place, but the customer hopes you can check it out.
+Speaker2: Sure, but the manual fee needs to be collected at 30 yuan.
+Speaker1: Thirty yuan is okay, I will assign the order to you, then pull the customer into our service group.
+Speaker2: Okay, I understand. What issues do you have now?
+Speaker1: His speaker isn't working anymore, maybe it's a problem with the installation of the ambient lighting.
+Speaker2: I understand. The sound is gone. Please give me the customer's information and video, I will check carefully.
+Speaker1: Okay, I'll arrange it right away. Please send the check results to the group, the customer has already checked at other stores but hasn't found any issues.
+Speaker2: Okay, I will do my best to help. If the issue is not here, I will notify you promptly.
+Speaker1: Thank you for your cooperation, I will communicate with the customer and let him come quickly.
+Speaker2: Okay, arrange it after, pull me into the group. When the customer comes, I start checking.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer service of Flower Flower Supermarket. I want to inform you that the points you earned in the activity you participated in before can now be exchanged for gifts. Do you have time to exchange them?
+Speaker2: Exchange gifts? How come I didn't know about this activity?
+Speaker1: You participated in the point accumulation activity at our supermarket when you were shopping previously, and now you can exchange the accumulated points for some practical gifts, such as kitchenware and daily necessities.
+Speaker2: Oh, that's how it is. Then what do I need to do?
+Speaker1: You can directly come to our supermarket customer service center, we have a point redemption area here, please bring your membership card, we will help you redeem.
+Speaker2: How many points do I need to exchange?
+Speaker1: Exchanging different gifts requires different points, for example, a high-end non-stick pan requires 5,000 points, a set of glass dishes requires 2,000 points, which gift do you want to exchange?
+Speaker2: Look at my points, were they five thousand before?
+Speaker1: Yes, your points can exactly exchange high-end non-stick pans, if you still have other needs, we also have some small gifts here, like towels, detergent, only need 1000 points.
+Speaker2: I have time this weekend, can I come to exchange?
+Speaker1: Okay, we are open for business as usual on weekends. You can come anytime, and if you have any other questions, please contact us in advance. Have a great weekend!

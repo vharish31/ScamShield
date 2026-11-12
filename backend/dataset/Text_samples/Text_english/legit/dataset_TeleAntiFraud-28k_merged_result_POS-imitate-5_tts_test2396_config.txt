@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little king, I saw your job info, I wanna know more.
+Speaker2: Hello, I am recruiter Li, you can ask me any questions related.
+Speaker1: What are the specific requirements for this job position?
+Speaker2: This job requires at least two years of work experience, proficiency in office software, and good communication skills.
+Speaker1: Is this job full-time or part-time?
+Speaker2: He is a full-time employee, his work hours are from Monday to Friday, from 9 am to 6 pm.
+Speaker1: What about the salary and benefits?
+Speaker2: The salary and benefits are 8,000 yuan per month, with a probation period of three months, and performance bonuses after passing probation.
+Speaker1: Is there a five-insurance-one-golden plan?
+Speaker2: Yes, our company provides five insurance benefits, as well as vacation time and team-building activities.
+Speaker1: Okay, thank you for your answer. I will think about it.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. Best wishes for all your endeavors.

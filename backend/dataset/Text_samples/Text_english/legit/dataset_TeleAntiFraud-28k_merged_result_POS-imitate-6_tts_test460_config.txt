@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Hey, I want to ask you guys if you have the latest new iPhone in stock?
+Speaker2: Okay, is the latest iPhone what you're asking about?
+Speaker1: Yes, that's the newest one. I want to know if there's any fresh produce. I plan to go take a look today.
+Speaker2: Okay, just a moment, I'll look it up for you.
+Speaker1: Okay, thank you.
+Speaker2: Found it, currently our store has black and white fresh produce, which color do you need?
+Speaker1: Black is classic.
+Speaker2: Okay, black is in stock, can you come over and pick it up?
+Speaker1: Sure, I'll come around three in the afternoon, okay?
+Speaker2: Of course, we open the door at three o'clock this afternoon. You can come directly to the first floor phone exhibition area to find me when you arrive.
+Speaker1: Okay, see you then, thank you.
+Speaker2: No problem, see you later.

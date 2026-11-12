@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I am the customer service monkey of the point store, we see that your account has never exchanged any member points. Tonight all points will be cleared, do you know?
+Speaker2: It's almost twenty.
+Speaker1: All these points were accumulated by you using your mobile phone to pay for things. You now have over 26,000 member points in your account, which can be directly exchanged in the mall. You can use these points to buy things like white wine gift boxes, brand name suits, high-definition TVs, and smartwatches.
+Speaker2: Really? I don't know how.
+Speaker1: Yes, all points can be directly deducted for cash. You need to hurry up, otherwise all points will be cleared by midnight tonight.
+Speaker2: What should we do?
+Speaker1: Okay, I'll apply for a special privilege for you. After you select and exchange your products, I'll keep the remaining unused credits in your account and give you an additional after-sale gift package. Once you receive it, you can enjoy free return and exchange services.
+Speaker2: That's great, thank you.

@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hi, how are you? I'm the customer service representative for our online food platform, I see you made a reservation for dinner on Sunday but haven't confirmed yet.
+Speaker2: Oh, really? I did order, but I haven't decided which restaurant to go to yet.
+Speaker1: Ah, I understand. We have a few recommendations here, such as the blue color restaurant near the city center, the environment is elegant, and the food is very unique.
+Speaker2: The food there sounds good, but I'm not familiar with the dishes there.
+Speaker1: No problem, the signboard menu at the blue-colored restaurant has beef burger, seafood platter and special vegetable salad, all of which taste great. Moreover, they also provide vegetarian options.
+Speaker2: That's great, I'm quite interested in all of these. Do you have any free time this weekend?
+Speaker1: Can you help me check? Okay, there's a table for four at seven o'clock on Sunday night.
+Speaker2: Let's schedule this time.
+Speaker1: Okay, I have made a reservation for you. Please remember to arrive at the restaurant fifteen minutes in advance.
+Speaker2: Okay, thank you for your help.

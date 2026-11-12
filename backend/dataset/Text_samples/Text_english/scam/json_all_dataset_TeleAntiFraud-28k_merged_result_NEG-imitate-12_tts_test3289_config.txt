@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Ming? This is the customer manager of Shenzhen Bank.
+Speaker2: Is it me, what do you have in mind?
+Speaker1: Hello, Li Ming, our bank recently launched a low-interest rate loan product with a loan amount of up to one hundred thousand yuan. Do you have any need for capital rotation?
+Speaker2: Oh, this sounds good, I really need some money lately.
+Speaker1: Great, just provide some basic info and we'll quickly approve. For convenience, you can apply through our mobile banking app, I have a personal download link here.
+Speaker2: How do I get this link?
+Speaker1: Just click on the link in the text message we sent you, download our app, and follow the instructions.
+Speaker2: Okay, I'll check my messages later.
+Speaker1: Okay, the text message has been sent to your phone. If you have any questions, feel free to contact me anytime. My phone number is 13812345678.
+Speaker2: Thank you, I will process it quickly.

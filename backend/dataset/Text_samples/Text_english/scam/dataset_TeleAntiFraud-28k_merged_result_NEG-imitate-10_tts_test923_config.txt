@@ -1,0 +1,13 @@
+Speaker2: Hello, who are you?
+Speaker1: Hello, I am the customer service manager of Tian An Yin Hang, recently we have a promotion on our loan products, do you want to know more?
+Speaker2: "Loan, I don't need it now."
+Speaker1: Understand it a bit, it might come in handy in the future. Our discount this time is quite large, interest is low, and procedures are simple.
+Speaker2: What is the loan amount limit for you?
+Speaker1: Based on your credit situation, we can provide a maximum loan amount of one hundred thousand yuan.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: You just need to download our Tian An Yin Hang APP, register and fill in the relevant information, and then submit the review.
+Speaker2: Let's download the app, it's so convenient now. What's the name of the app?
+Speaker1: Our app is called "Tian An Li Cai". You can search and download it in the mobile app store.
+Speaker2: Okay, I'll try it out. Are there any other things to pay attention to?
+Speaker1: No problem, if you have any questions, you can directly contact me. My WeChat number is Tian An KFJM, add me as a friend, I can answer anytime.
+Speaker2: Okay, I will consider it, thank you.

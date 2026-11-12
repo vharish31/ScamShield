@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Where did my takeout delivery go?
+Speaker2: I'm standing at the door of the fourth building in your courtyard, room 604?
+Speaker1: Yes, six forty, but I didn't see it at the door.
+Speaker2: Which building is at the door number six forty? Is it the one with a sloping roof?
+Speaker1: Yes, that's the building with a slanted roof, and if you go from the slanted roof to the right, you'll see it.
+Speaker2: Hey, can you confirm if there's a trash station at the door?
+Speaker1: Yes, that's the door of the trash station.
+Speaker2: I'm leaning against the wall, I feel like I'm sending to 64.
+Speaker1: Ugh, what do I do now? I'll just go look around.
+Speaker2: Okay, you go take a look, call me later.
+Speaker1: Okay.

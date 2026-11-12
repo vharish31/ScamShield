@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer manager of Huaxia Bank, Lee Huai, we have a special promotion for credit loan recently, monthly interest only 0.02, want to know more?
+Speaker2: Can you explain how to apply?
+Speaker1: It's very simple. Just provide some basic personal information, and we can review it. For convenience, you can add my WeChat, I'll send you an application link, you can fill it out directly on your phone.
+Speaker2: Okay, how do I add you on WeChat?
+Speaker1: My WeChat is my phone number, 13800138000, add me and I'll send you the link right away.
+Speaker2: Okay, I'll add you.
+Speaker1: Okay, I'll wait for your friend's application. After adding WeChat, I'll send you a detailed application process, and you can ask me any questions anytime.
+Speaker2: Okay, thank you.

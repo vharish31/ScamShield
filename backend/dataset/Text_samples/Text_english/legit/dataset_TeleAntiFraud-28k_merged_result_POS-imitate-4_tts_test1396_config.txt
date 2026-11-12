@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you know if there's a fruit store nearby?
+Speaker2: Turn right at the second crossroad in front, there's a market there with many fruit stalls.
+Speaker1: Is this store selling dragon fruit?
+Speaker2: It's the right time for jujubes, let's go try some.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, feel free to ask me if you have any other questions.
+Speaker1: Okay, I'll go take a look over there and see you later.
+Speaker2: Okay, have a nice shopping trip, bye.

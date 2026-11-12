@@ -1,0 +1,12 @@
+Speaker1: Hey, are there any new phones here?
+Speaker2: Hey, hello, yes, we just launched a new smartphone, which one do you like?
+Speaker1: What about the blue one, how is the configuration?
+Speaker2: This phone has an eight-core processor, an eight-plus-one-plus-eight memory configuration, a four-megapixel camera, and supports fast charging and wireless charging functionality.
+Speaker1: Is the price alright?
+Speaker2: This phone is currently on sale for 3500 yuan, originally priced at 3800 yuan.
+Speaker1: Are there any discount activities?
+Speaker2: Yes, you can enjoy one year of extended warranty service when purchasing now, and you can also participate in the exchange old for new activity, with a maximum discount of five hundred yuan.
+Speaker1: Can I come to the store tomorrow?
+Speaker2: Of course, our store is open from 10 am to 9 pm. What time is convenient for you tomorrow?
+Speaker1: Can I come at three in the afternoon?
+Speaker2: Okay, we'll wait for you at the store later.

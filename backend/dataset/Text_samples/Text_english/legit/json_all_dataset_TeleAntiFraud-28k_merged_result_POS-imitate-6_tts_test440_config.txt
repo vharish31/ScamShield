@@ -1,0 +1,10 @@
+Speaker1: Hey, how do I get to the city center library from the train station?
+Speaker2: Hello, you can walk to the left after getting off the train station, see the first bus stop sign, take the three bus, and get off at the library station.
+Speaker1: How long will it take?
+Speaker2: It should take about forty minutes, if there's no traffic on the road.
+Speaker1: What time does the library close?
+Speaker2: The library usually opens at nine in the morning and closes at six in the evening.
+Speaker1: Okay, I understand. Is there a place to eat nearby the library?
+Speaker2: Yes, there's a small eating street across from the library, with many small restaurants and food shops, you can go there to eat.
+Speaker1: Goodbye, thank you, I'm leaving now.
+Speaker2: You're welcome, wish you a smooth journey, goodbye!

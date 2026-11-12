@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I want to consult your bike shop.
+Speaker2: Hello, Xiao Wang, I am the customer service clerk at the store, what can I help you with?
+Speaker1: Do you guys have a mountain bike? I'm planning to go for a bike ride on the weekend.
+Speaker2: Do we have any mountain bikes in our store? There are quite a few styles to choose from. Which one would you like to know more about?
+Speaker1: Can you give me a detailed introduction of the 'Yuán Xíngzhě' mountain car that I've heard so much about?
+Speaker2: The 'far traveler' is a popular item in our store, suitable for long-distance cycling. The frame is made of aluminum alloy, lightweight and durable. It comes with front and rear shock absorbers that can effectively reduce vibration.
+Speaker1: How much does that car cost?
+Speaker2: This car costs 2500 yuan, and now you can enjoy a 90% discount when buying it.
+Speaker1: Can I try riding a bike in the store this weekend?
+Speaker2: Of course, what time is convenient for you this weekend, I can reserve a car for you.

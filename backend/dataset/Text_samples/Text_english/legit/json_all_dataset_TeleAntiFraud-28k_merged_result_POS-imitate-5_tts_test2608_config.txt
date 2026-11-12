@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey there
+Speaker1: How have you been lately?
+Speaker2: Hello, just work is a bit busy.
+Speaker1: Yeah, I heard your project is really tight.
+Speaker2: Yes, I have to work overtime this week.
+Speaker1: You should pay attention to your body, don't get too tired.
+Speaker2: Thank you, I will pay attention. How have you been recently?
+Speaker1: I'm doing okay, it's just that getting the kids to school is a bit busy.
+Speaker2: Sending a child to school is indeed important, you should carefully plan it out.

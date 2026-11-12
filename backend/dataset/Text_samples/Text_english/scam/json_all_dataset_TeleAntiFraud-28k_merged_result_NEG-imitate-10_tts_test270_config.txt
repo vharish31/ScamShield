@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm small Li, this is the city bank customer service representative, we noticed you're looking for some loan information recently, right?
+Speaker2: Yes, I really have this requirement.
+Speaker1: Great, we have a very affordable loan project here with no collateral required and very low interest rate. Would you like to know more about it?
+Speaker2: How do I apply?
+Speaker1: It's very simple. Just click this link to install our official app, then follow the instructions to apply.
+Speaker2: Okay, let me try.
+Speaker1: Great, after installation, remember to register with your phone number and fill out some basic information. We will quickly review.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Okay, if you encounter any issues during the process, feel free to contact me anytime. My phone number is 000-000-0000. Best of luck with your application!
+Speaker2: Thank you, goodbye.

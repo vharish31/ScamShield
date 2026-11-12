@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, you good?
+Speaker1: I'm Xiaoming, I made an appointment at your shop before, but I couldn't go because of something, now I want to rebook
+Speaker2: Okay, Xiaoming, what was the time of your last appointment?
+Speaker1: That time on Saturday at 11:30 last week
+Speaker2: Okay, I'll check. Hmm, it's already recorded. What time do you want to book now?
+Speaker1: Is two o'clock on Sunday okay?
+Speaker2: Sure, I have a two o'clock slot on Sunday afternoon. Do you need me to book it for you?
+Speaker1: Okay, can you please? Also, I forgot my member card last time, but I remembered this time, can I still enjoy the member price?
+Speaker2: Of course, as long as you bring your membership card, you can enjoy the member price. That I help you book on Sunday afternoon 2 pm is fine, remember to be on time.

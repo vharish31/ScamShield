@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Xiao Zhang, the customer service representative for XX speed delivery. Your package was accidentally lost during transportation, and the company will compensate you in full. Would you be convenient to take a call?
+Speaker2: Really or not, I haven't received any package recently.
+Speaker1: Yes, in order to quickly process this issue, you need to cooperate with us to complete some necessary procedures.
+Speaker2: What do I need to do?
+Speaker1: First, you need to click on the link I sent you and fill out your personal information, including your bank account number, so that the indemnification money can be deposited into your account.
+Speaker2: Okay, I'll take a look in a moment.
+Speaker1: Okay, the link has been sent to your phone. Please handle it quickly. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, this is what we should do. Right, to speed up processing speed, you can also add my WeChat, we can directly communicate online.
+Speaker2: Let's go, then I'll add you on WeChat.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything to talk about?
+Speaker1: I want to go to your library tomorrow and check out the books. Can you tell me what time it opens?
+Speaker2: Our library is open from 9 am to 6 pm during weekdays and closes at 5 pm on weekends.
+Speaker1: Okay, I understand. Is transportation convenient there? How do I walk from the train station to get there?
+Speaker2: After getting off the train station, you can first walk to the right, turn left at the second crossroad, then walk straight for about 500 meters, see the red light ahead, and then turn right, walk about 200 meters, and you can see our library.
+Speaker1: Is there a direct bus to it? It sounds a bit complicated.
+Speaker2: Yes, you can take the No. 4 bus and get off at the library station, which is more convenient.
+Speaker1: Okay, thank you for your help. I'll go by this route tomorrow.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. Wishing you a happy reading time tomorrow!

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, your takeout just arrived, it's at the small community door now.
+Speaker2: Hello, I saw the surveillance camera at the door, where are you?
+Speaker1: I put the red take-out box on the door, have you seen it?
+Speaker2: Okay, what is the number of the food counter?
+Speaker1: The number of the take-out counter is three, you can open the door after inputting three when you arrive.
+Speaker2: I know, thank you.
+Speaker1: No problem, you can call me if you can't find it.
+Speaker2: Okay, there shouldn't be any problems, thank you again.
+Speaker1: No problem, wish you enjoy your meal.
+Speaker2: Thank you, goodbye.

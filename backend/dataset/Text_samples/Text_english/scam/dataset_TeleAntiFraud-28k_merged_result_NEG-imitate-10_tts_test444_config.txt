@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Who are you?
+Speaker1: Hello, I am the bank's customer service manager. Our bank recently launched a new investment and wealth management product with a very high return. Would you be interested in learning more?
+Speaker2: Invest in finance, I recently really want to see if there are any good investment projects.
+Speaker1: Great! This product is perfect for you. Here's a link you can click for more detailed information, and we have a dedicated customer service team to answer any questions you may have.
+Speaker2: Link me to it, I'll take a look.
+Speaker1: Okay, I'll send the link via text message to your phone, just open it when you receive it.
+Speaker2: I'm going, I received it, let me take a look.
+Speaker1: Okay, if you have any questions, feel free to contact me anytime. My phone number is 13800138000.
+Speaker2: Okay, thank you.

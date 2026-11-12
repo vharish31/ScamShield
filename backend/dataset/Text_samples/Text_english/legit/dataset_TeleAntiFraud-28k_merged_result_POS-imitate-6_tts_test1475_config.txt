@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service monkey of the point store, recently we noticed that there are many member points in your account that haven't been used.
+Speaker2: Oh, really? I didn't notice at all.
+Speaker1: Yes, your points will expire at midnight tonight and clear zero, do you consider anything to exchange?
+Speaker2: What can I exchange for this?
+Speaker1: You can exchange many practical products, such as smart speakers, fitness bands, and various life items, all of which can be directly deducted with points for cash.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: It's very simple. You can log in to our point store, select the products you like, and then use points to deduct, if there are any remaining points, you can still keep them in your account.
+Speaker2: Okay, I'll try it out now.
+Speaker1: Okay, feel free to contact me anytime if you have any questions. I hope you find a product you like.
+Speaker2: Thank you for your reminder. I will handle it quickly.

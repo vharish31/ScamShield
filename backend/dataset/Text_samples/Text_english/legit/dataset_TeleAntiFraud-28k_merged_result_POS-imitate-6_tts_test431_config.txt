@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm Xiaoming, I made an appointment for your haircut yesterday, can you confirm the time?
+Speaker2: Hello, Xiao Ming, I am the customer service representative of the hair salon, is your appointment time yesterday afternoon at 3 pm?
+Speaker1: Yes, but I couldn't go yesterday because of an urgent matter, can I change it to 4 pm today?
+Speaker2: Sure, I have a free slot at four o'clock this afternoon. Can you confirm the address? It's on West City Road, number thirty-three.
+Speaker1: I know the address, so I'll set four points, and then go directly to the front desk when I arrive?
+Speaker2: Yes, you can directly sign up upon arrival, and we will prepare everything for you.
+Speaker1: Okay, thank you. Right, my friend also wants to make a reservation, do you have any space now?
+Speaker2: Sure, can you help your friend schedule a time, what time does he want to schedule?
+Speaker1: Is 4 o'clock also okay for him?
+Speaker2: Okay, schedule a place for him at 4:15, you can come together.
+Speaker1: Great, this is so convenient, thank you for your help.
+Speaker2: You're welcome, please feel free to contact us if you have any questions. We're looking forward to your arrival. Goodbye.

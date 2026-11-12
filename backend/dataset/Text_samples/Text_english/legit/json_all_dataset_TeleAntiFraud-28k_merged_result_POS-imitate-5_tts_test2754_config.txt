@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, can you tell me what time your delivery service ends?
+Speaker2: Our delivery service ends at nine o'clock at night, it's still early now, you can place an order.
+Speaker1: Okay, I'll order some stir-fry and soup, how long will it take you to deliver?
+Speaker2: In general, we will deliver within 30 minutes after ordering, but the specific time depends on the current order situation.
+Speaker1: What time can I expect my order to arrive now?
+Speaker2: Your order will be delivered in about forty minutes.
+Speaker1: Okay, that's my address: Happiness Community Three Period Two Number One Building One Unit, can you confirm?
+Speaker2: Happy community three period two number one unit, okay, this address I record down. Are there other things need to note?
+Speaker1: No more, just send it according to this address.
+Speaker2: Okay, your order has been confirmed. It will be delivered in about 40 minutes. If you have any issues, we will contact you promptly.

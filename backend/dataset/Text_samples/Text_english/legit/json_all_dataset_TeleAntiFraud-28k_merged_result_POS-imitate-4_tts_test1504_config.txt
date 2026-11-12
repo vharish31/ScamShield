@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you provide household services here?
+Speaker2: Yes, we provide various household services including cleaning, maid, nanny, etc.
+Speaker1: What is your service time like?
+Speaker2: We provide flexible service time, which can be arranged according to your needs, whether it's half a day, a full day or long-term service.
+Speaker1: What about the price?
+Speaker2: The price varies depending on the service content and time. You can provide specific requirements, and I can give you a precise quote.
+Speaker1: I need a cleaner to come once a week for four hours each time.
+Speaker2: Okay, based on your requirements, every week once, every time four hours of cleaning service, the price is two hundred yuan per time.
+Speaker1: Listen well, then how do I make a reservation?
+Speaker2: Can you please provide me with your specific address and convenient time, so I can arrange the service for you. Do you confirm the appointment now?
+Speaker1: Sure, my address is Happiness Villa 12th Floor, 3rd Unit, 402 Room. Can I meet you at 10 am on Saturday morning?
+Speaker2: Okay, I have made a reservation for you. Every Saturday morning at 10 am, the cleaning staff will arrive on time. If there are any changes, please notify us one day in advance.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. If you have any questions, please feel free to contact us anytime. Have a happy life!

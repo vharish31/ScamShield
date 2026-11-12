@@ -1,0 +1,10 @@
+Speaker1: Hey, is it you?
+Speaker2: Hey, it's me, what's up?
+Speaker1: Please wait a moment, could you lend me an umbrella? It might rain today.
+Speaker2: Okay, I know. Where are you waiting for me?
+Speaker1: I am at the old place, just at the subway station exit.
+Speaker2: Okay, I'll go now, about fifteen minutes to arrive.
+Speaker1: Alright, remember to bring an umbrella, it's windy here, don't let the umbrella blow away.
+Speaker2: Haha, don't worry, I will be careful. Do you have anything else on your side?
+Speaker1: No umbrella? Just wait for you to bring an umbrella.
+Speaker2: Okay, see you later.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of China Bank, and we have a very affordable loan product here with monthly interest of only 0.0001%, are you interested in learning more?
+Speaker2: Ugh, this one's not really interesting to me, I'm pretty busy right now and I still have to pay back the loan, can you help?
+Speaker1: Understand your concerns, but this product is very flexible, can be borrowed and returned, and the review is very fast, if you have any financial needs, please contact us anytime.
+Speaker2: Well, I'll think about it first, thank you for your advice.
+Speaker1: Okay, here's my contact information. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, I'll note it down.
+Speaker1: Additionally, to better understand more details, you can scan our QR code to download the official app, which has many discount activities.
+Speaker2: Download the app? How do you operate it?
+Speaker1: It's very simple. Just open WeChat, scan the QR code I sent you, and you can download it directly.
+Speaker2: Okay, I'll give it a try, thank you.

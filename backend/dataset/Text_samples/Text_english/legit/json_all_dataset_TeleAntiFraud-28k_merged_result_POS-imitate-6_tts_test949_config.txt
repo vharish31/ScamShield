@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I just arrived at your store, the parking spot is a bit tight, can you help me reserve a parking spot?
+Speaker2: Hello, welcome. Can we reserve a parking spot for you? What is your license plate number?
+Speaker1: My license plate number is JYA 8888.
+Speaker2: Okay, please park in the designated parking lot, our staff will guide you to the front desk.
+Speaker1: Okay, thank you. Right, I want to buy a new laptop today, do you have stock?
+Speaker2: Yes, we have many notebook computers here. You can choose according to your needs. If you come now, we can introduce them in detail.
+Speaker1: That's great, I probably need a laptop with a long battery life for work.
+Speaker2: I understand, we have a notebook that's great for work, with a battery life of up to twelve hours and a good configuration. You can have a detailed introduction when you come later.
+Speaker1: Okay, I'll go now. Also, can I get a discount if I pay with my credit card?
+Speaker2: Sure, you can enjoy extra discounts when paying with a credit card. The specific discount amount can be found by asking our salespeople in-store.
+Speaker1: Okay, I'll go over there right away, thank you.
+Speaker2: You're welcome, we're looking forward to your arrival, wish you a smooth journey, goodbye.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I'm here to deliver food, where are you?
+Speaker2: Hello, are you at the east gate of the community yet?
+Speaker1: I just arrived, can you come out and pick me up at the east gate?
+Speaker2: Okay, I'll be right down, just wait for me a minute.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Can you see the red advertisement sign on the left? That's where I came from.
+Speaker1: I see you, I'm waiting for you here, hurry up and come out.
+Speaker2: I came out, did you see me?
+Speaker1: I see it, I'm holding your food over here.
+Speaker2: Is this my meal? Thank you.
+Speaker1: Yes, this is your ordered dish, check it to see if there are any issues.

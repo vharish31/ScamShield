@@ -1,0 +1,10 @@
+Speaker1: Hey, how's the weather on your side?
+Speaker2: Hey, the weather here is pretty good, clear skies, just a bit hot. How about yours?
+Speaker1: It's a bit gloomy here, and it's rained a little. I want to go to a place today, but I don't know what to wear.
+Speaker2: On a gloomy day, you can wear a long-sleeved shirt and add a thin outer layer, which is convenient for dealing with temperature changes.
+Speaker1: Hey, great idea, thanks for your suggestion. By the way, do you have time this weekend to go see a movie together?
+Speaker2: What type of movie should I watch this weekend?
+Speaker1: Do you like action movies? I heard a new one just came out and it got really good reviews.
+Speaker2: The action movie sounds good, let's check the reviews before deciding.
+Speaker1: Okay, I'll first check the comments, then tell you later.
+Speaker2: Okay, you decide, I'll listen to you.

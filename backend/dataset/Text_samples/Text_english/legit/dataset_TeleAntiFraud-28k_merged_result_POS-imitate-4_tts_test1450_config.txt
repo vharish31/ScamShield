@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently want to change my job, do you have any recruitment information here?
+Speaker2: Hello, little Zhang, I am recruiter Li Xiao, yes, we are currently recruiting, do you have any work experience in any field?
+Speaker1: I had a lot of experience with network maintenance and customer service in a previous internet company.
+Speaker2: That's great, we need people like you here. Would you be willing to come to our company for an interview?
+Speaker1: Okay, I'm free all week, what time works for you guys?
+Speaker2: We have time every afternoon this week. You can choose any time to come over, like tomorrow at 3 PM?
+Speaker1: Can I have the address sent to me at three in the afternoon tomorrow?
+Speaker2: Okay, the company address is XX road XX number. You arrived, you can call me, I will pick you up.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

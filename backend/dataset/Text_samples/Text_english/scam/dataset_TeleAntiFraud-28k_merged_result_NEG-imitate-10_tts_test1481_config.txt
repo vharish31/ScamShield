@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Hey, who are you?
+Speaker1: I am a customer service representative at the China Bank Credit Center. We have a new loan product with a very low interest rate. Would you be interested in learning more about it?
+Speaker2: How do you apply for this loan?
+Speaker1: It's very simple. Just download our bank's official app, register, and fill out the relevant information. We'll have a specialist follow up.
+Speaker2: Download the app? How do you download it?
+Speaker1: You can directly click on the link I sent you to download the latest official app.
+Speaker2: Okay, let me try.
+Speaker1: Okay, please download and install it. If you have any questions, feel free to contact me. By the way, would you be convenient to add a WeChat? This way communication is more convenient.
+Speaker2: Wechat? Okay, you add me.
+Speaker1: Okay, I added you. Please confirm later. Thank you!

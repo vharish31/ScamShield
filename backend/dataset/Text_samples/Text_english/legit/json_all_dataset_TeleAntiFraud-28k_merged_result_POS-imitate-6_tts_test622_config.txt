@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, the washing machine I bought from your store has some issues, can you help me figure out how to handle it?
+Speaker2: Hello, can you specify what the issue is? We can provide repair services here.
+Speaker1: The sound that comes out after the washing machine starts is very loud, it feels like something is stuck inside.
+Speaker2: If the machine is not working properly, it may be because the parts inside the machine have become loose. First, please check the inside of the machine to see if there are any foreign objects. If not, please turn off the machine, unplug it, and then contact us to arrange for an on-site repair.
+Speaker1: Okay, I'll check first. If it's still not working, when can you guys come to fix it?
+Speaker2: Generally speaking, we will arrange a technician to come to your door within twenty-four hours after receiving a repair call. You can first schedule a convenient time.
+Speaker1: Can I schedule it for three in the afternoon tomorrow?
+Speaker2: Sure, I will help you schedule a technical service appointment for tomorrow afternoon at 3 PM. The technician will contact you beforehand to confirm the specific address and time.
+Speaker1: Okay, thank you for your help. I'm looking forward to the arrival of the tech team tomorrow.
+Speaker2: You're welcome. If you have any questions, feel free to contact us anytime. Have a nice day!

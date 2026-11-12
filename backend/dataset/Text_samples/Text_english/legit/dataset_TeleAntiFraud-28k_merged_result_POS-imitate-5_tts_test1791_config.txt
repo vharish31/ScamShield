@@ -1,0 +1,14 @@
+Speaker1: Hey, hi, I found a TV on your website that I like, can I ask you something?
+Speaker2: Hello, I'm very happy to serve you. Which TV model do you prefer?
+Speaker1: That is a 55-inch intelligent TV, model T55Pro.
+Speaker2: Okay, this TV is our store's bestseller, supports multiple smart apps, and also supports voice control.
+Speaker1: How much does this TV cost?
+Speaker2: This TV is priced at 4999 yuan, and there's currently a promotion, so you can enjoy a 300 yuan discount.
+Speaker1: When can I receive my order now that I've placed it?
+Speaker2: If you place an order now, we will arrange delivery within 24 hours, usually within 2-3 days.
+Speaker1: Do I need to schedule an installation time in advance?
+Speaker2: Yes, we recommend you book an installation time in advance, our installer will arrive on time to serve you.
+Speaker1: Okay, I'll place an order now and schedule the installation for next Saturday morning.
+Speaker2: Okay, I have recorded down for you, on Saturday morning we will arrange for the teacher to come to your house on time. Is there anything else you need help with?
+Speaker1: No more, thank you for your help.
+Speaker2: You're welcome. If you have any questions, please feel free to consult anytime. Wish you a happy life. Bye.

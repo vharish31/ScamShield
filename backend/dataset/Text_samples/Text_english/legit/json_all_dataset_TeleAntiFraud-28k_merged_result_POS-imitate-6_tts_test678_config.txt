@@ -1,0 +1,12 @@
+Speaker1: Hello, I want to order takeout from your place today, do you have any recommendations?
+Speaker2: Hello, this week we recommend beef and broccoli, and the new sour fish, both are very popular.
+Speaker1: What is the flavor of vinegar fish? Spicy?
+Speaker2: The spicy flavor of vinegar fish is strong, if you don't like spicy, we can make it mild or non-spicy.
+Speaker1: Can you give me a mild spicy fish in vinegar and a beef and pork burger, please?
+Speaker2: Okay, do you need any drinks or small dishes?
+Speaker1: Let's have a glass of iced red tea.
+Speaker2: Okay, your order is a spicy fish in vinegar, a beef and egg fried rice, and a bottle of ice red tea, which is a total of 50 yuan.
+Speaker1: Okay, could you please deliver to the Yangguang Xiǎojīng in the Xīnqū Gōngzhǎng fùjìn de yánggōng xiǎojīng, mǎofēi huò wǒmenpái huò yī tèng liǎng dàn yī shù xiàn zhōng liǎng dàn yī.
+Speaker2: Okay, I have recorded your address. It will arrive in about thirty minutes. If there are any changes, we will contact you in advance.
+Speaker1: Okay, thank you, I'll check my phone later to confirm.
+Speaker2: Okay, please check your phone and confirm if you need to contact us anytime. Have a nice meal!

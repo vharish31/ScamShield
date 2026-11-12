@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's special dishes and business hours?
+Speaker2: Our restaurant special dishes include Kung Pao Chicken, Clear Steamed Fish and Spicy Szechuan, very popular. Our business hours are from 10am to 10pm, you can come anytime.
+Speaker1: Have you guys heard that the gong bao chicken is delicious? I want to try it. How much does a portion cost?
+Speaker2: Kung Pao Chicken is our store's signature dish, a portion costs 38 yuan, and if you come now, we still have an 80% discount.
+Speaker1: That's great, I plan to spend the weekend with my friend. Do you have a room?
+Speaker2: Yes, we have different sizes of rooms that you can book in advance. What kind of room do you need?
+Speaker1: We're about six people, need a room that can seat six to eight.
+Speaker2: Okay, we have a private room for six to eight people this weekend, which day specifically?
+Speaker1: Is six o'clock on Saturday evening okay?
+Speaker2: Sure, I'll book a private room for six to eight people at six o'clock on Saturday evening. See you then.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, I'm looking forward to your arrival, goodbye.

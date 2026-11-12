@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Lee Huai, is it convenient for you to talk over there?
+Speaker2: Hello, Li Huai, I'm fine, what's up?
+Speaker1: I couldn't find the restaurant you mentioned on the map you sent me, can you give me directions?
+Speaker2: Of course. You first go to the big crossroad, then walk straight, you will see a red telephone booth, just on the left side of the telephone booth fifty meters left and right.
+Speaker1: Okay, I understand. So, how long will it take me to get there?
+Speaker2: If you're driving, it'll take about 10 minutes. If you're walking, it might take 20 minutes.
+Speaker1: I planned to walk to go, the weather forecast said it would be a bit hot today.
+Speaker2: Yes, it's really hot today, bring some water, be careful of heatstroke.
+Speaker1: Thank you for your reminder. I left now. I'll call you to confirm.
+Speaker2: Okay, be careful on the road, call me directly when you arrive.

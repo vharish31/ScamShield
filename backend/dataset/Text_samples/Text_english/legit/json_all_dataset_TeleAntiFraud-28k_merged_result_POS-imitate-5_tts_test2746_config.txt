@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm the customer service at the food square, you made a reservation for dinner here yesterday, want to confirm your reservation details?
+Speaker2: Hey, are you talking about the reservation for last Friday at 7pm?
+Speaker1: Yes, it's the reservation for that day. We just want to confirm, do you need to adjust the reservation time or the number of people?
+Speaker2: Seven people, seven o'clock.
+Speaker1: Okay, no problem. By the way, we have a special dish recommendation. Do you want to know more about it?
+Speaker2: Sure, you can introduce yourself.
+Speaker1: We have a seafood grilled set meal that includes shrimp, scallops, grilled fish, etc. It's very suitable for group dining and there's a discount if you book now.
+Speaker2: How much does it cost to sound good?
+Speaker1: The original price is 888 yuan, now you can order it for 688 yuan and get a free fruit cake.
+Speaker2: Okay, I'll book this menu.
+Speaker1: Okay, I'll arrange it for you. When you arrive at the restaurant, remember to give your name, we'll be ready for everything.
+Speaker2: Okay, thank you. See you later.

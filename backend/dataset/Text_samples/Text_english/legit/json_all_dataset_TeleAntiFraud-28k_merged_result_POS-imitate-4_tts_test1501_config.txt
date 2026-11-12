@@ -1,0 +1,12 @@
+Speaker1: Hello, are you a customer service representative for the public car company?
+Speaker2: Hello, yes, this is the customer service center for the public car, what can I help you with?
+Speaker1: I want to consult the repair policy for my Dacia Logan I bought a few days ago.
+Speaker2: Okay, can you tell me the specific model of your vehicle and the problem you encountered? This way I can provide you with more accurate help.
+Speaker1: I bought a Porsche 19, but recently the air conditioning isn't working well.
+Speaker2: Understood, regarding issues with air conditioning not working, it is usually free to repair within the warranty period. You can bring your car purchase invoice and vehicle to the nearest authorized dealer service center for inspection and repair.
+Speaker1: Do I need to make a reservation, or can I just go directly?
+Speaker2: To save you time, we recommend that you make an appointment in advance. You can do so through our website or our customer service hotline, and we will arrange an appropriate time for you.
+Speaker1: Sure, can I schedule a meeting for tomorrow morning at 10 am?
+Speaker2: Sure, I have scheduled a repair service for you tomorrow morning at 10 am. Please bring your car and relevant documents. If you have any issues, feel free to contact us anytime.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: You're welcome, wish you all the best, see you tomorrow.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative for a food delivery platform. Your order is ready. It will be delivered in about twenty minutes.
+Speaker2: Okay, thank you.
+Speaker1: No problem, please check the address before leaving, our delivery boy will deliver the food according to this address.
+Speaker2: The address is correct. You guys delivered the food to the little brother. I'll call you later, I might go out for a bit.
+Speaker1: Is your phone number 1234567?
+Speaker2: Yes, that's this number.
+Speaker1: Understood, the delivery boy has arrived. Is there anything else you need me to help with?
+Speaker2: No more, thank you.
+Speaker1: Okay, I wish you enjoy your meal. If you are satisfied with our service, I hope you can give us a good review.
+Speaker2: Okay, I understand, thank you for your service.

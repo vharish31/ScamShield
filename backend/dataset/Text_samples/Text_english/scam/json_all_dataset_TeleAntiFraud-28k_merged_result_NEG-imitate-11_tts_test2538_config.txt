@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Hello, I am.
+Speaker1: Hello, I am Zhang, the loan manager of the construction bank. We have recently introduced a low-interest loan product. Would you like to know if you have any funding needs?
+Speaker2: Oh, I hadn't thought about this one.
+Speaker1: Okay, I'll briefly introduce this loan product. It doesn't require collateral, the approval process is fast, and the interest rate is very favorable. If you're interested, you can download our official app, fill out some basic information, and we'll have a specialist serve you.
+Speaker2: What is the name of this app?
+Speaker1: You can download "Jian Xiàng Dàn Kùo" from the app store on your phone.
+Speaker2: Okay, let me try.
+Speaker1: Hello, if you have any problems while using, please call our customer service hotline at any time. The phone number is 4000000000. Enjoy your use, goodbye.
+Speaker2: Thank you, goodbye.

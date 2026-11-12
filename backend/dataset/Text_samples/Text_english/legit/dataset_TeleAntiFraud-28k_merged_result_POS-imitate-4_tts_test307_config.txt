@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: At home, where are you?
+Speaker1: I just arrived at the community door, come down now.
+Speaker2: Okay, I'll come down right away.
+Speaker1: Did you bring an umbrella? The weather forecast predicts that it may rain today.
+Speaker2: Did you bring an umbrella?
+Speaker1: I brought it, I'll give it to you later.
+Speaker2: Goodbye, thank you.
+Speaker1: No problem, let's go home together later.
+Speaker2: Okay, I'll come down right away.

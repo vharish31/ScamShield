@@ -1,0 +1,11 @@
+Speaker1: Hello, I'm Li Xiao, this is the staff of China Construction Bank.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we have a great loan project here with no collateral, low interest, and fast approval.
+Speaker2: Oh, really? I really need some cash flow recently.
+Speaker1: Yes, this project is very suitable for you. You just need to provide some basic information, and we can quickly approve it.
+Speaker2: What do I need to do?
+Speaker1: Just click this link and fill out some info.
+Speaker2: Can you give me a specific link?
+Speaker1: Okay, this link is http://example.com/loan, you click in and fill out the information.
+Speaker2: Okay, I'll go now. Thank you.
+Speaker1: No problem, please feel free to contact me if you have any questions. I wish you a successful early approval.

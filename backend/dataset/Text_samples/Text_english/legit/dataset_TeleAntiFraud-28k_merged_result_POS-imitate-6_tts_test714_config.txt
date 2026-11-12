@@ -1,0 +1,10 @@
+Speaker1: Hey, how do I walk to the train station from the taxi?
+Speaker2: Hello, where are you now?
+Speaker1: I am in the big shopping mall in the city center.
+Speaker2: Okay, starting from the big mall, you can walk about three stations along the main road in the east direction, then take a taxi and tell the driver to go to the train station directly.
+Speaker1: How long will it take?
+Speaker2: If the road is good, it will take about 40 minutes. However, during rush hour there might be traffic jams, so it's recommended to leave earlier.
+Speaker1: Okay, thank you for your help. I will leave early.
+Speaker2: No problem, wish you a smooth journey. Feel free to ask me any other questions anytime.
+Speaker1: Okay, bye.
+Speaker2: Goodbye, wish you have a nice day.

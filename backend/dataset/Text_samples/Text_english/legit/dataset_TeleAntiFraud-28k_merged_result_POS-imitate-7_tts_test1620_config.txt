@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform. You may have encountered some problems with your previous order. Do you need my help to solve them?
+Speaker2: Hello, I see that the order status hasn't updated, is there a problem?
+Speaker1: Hmm, I checked over here, it seems like the delivery guy ran into some small trouble while picking up the order, he's already left, and we should expect him to arrive in about ten minutes or so.
+Speaker2: Okay, I'll wait a moment. By the way, I want to try out the new restaurant on your platform today, do you have any recommendations for dishes?
+Speaker1: This restaurant's signboard menu is red braised pork and steamed fish, many customers have highly praised it, you can try it.
+Speaker2: The sound is good, I'll try it next time. Also, what are the business hours of this restaurant?
+Speaker1: The restaurant's business hours are from 10 am to 10 pm. You can choose to order based on your own time.
+Speaker2: Okay, thank you for your help. I'll continue waiting for my takeout.
+Speaker1: No problem, feel free to contact me if you have any other questions. Enjoy your meal!
+Speaker2: Okay, thank you, bye.

@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Are you asking us about our business hours today?
+Speaker2: Yes, I saw your store, but I didn't see the business hours sign. Can you tell me a moment?
+Speaker1: We are open from 9am to 9pm without any breaks in between.
+Speaker2: Okay, I understand. Do you provide delivery service?
+Speaker1: Yes, we can order through the delivery platform, or directly call us, we have someone deliver the food.
+Speaker2: That's great, I'm ready to order a portion of your signature dish, do you have any recommendations?
+Speaker1: Our store's signboard menu is red braised pork and sour fish, both very popular, you can try.
+Speaker2: Sounds good, I'll take these two dishes. How far in advance do I need to make a reservation?
+Speaker1: If you are now, we will be ready in thirty minutes and then deliver the food to your door.
+Speaker2: Okay, I'll wait for you guys to deliver the food later. Thank you!
+Speaker1: No problem, what do you need to contact us urgently, wish you a happy meal!

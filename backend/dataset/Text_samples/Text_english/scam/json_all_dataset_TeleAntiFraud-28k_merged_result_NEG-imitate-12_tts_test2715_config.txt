@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from tposmall.com. Recently, you purchased a product on our platform and encountered an issue. We need your cooperation to handle it.
+Speaker2: Hey, what's the issue?
+Speaker1: Your order has been mistakenly marked as violating the rules. To avoid any impact on your account, please quickly log in to the backend to check.
+Speaker2: What should I do?
+Speaker1: You can log in through this link, we have already prepared the relevant materials for you.
+Speaker2: Okay, I'll click the link in a moment.
+Speaker1: Okay, to ensure your account's safety, the link is only valid for ten minutes, please act quickly.
+Speaker2: Okay, I'm going now.
+Speaker1: Thank you for your cooperation. If you have any questions, please feel free to contact me anytime.
+Speaker2: Okay, thank you.

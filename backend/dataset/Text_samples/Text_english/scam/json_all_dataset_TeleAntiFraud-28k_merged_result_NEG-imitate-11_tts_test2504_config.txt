@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the Agricultural and Commercial Bank, we recently introduced a special discounted loan, low interest rate, quick disbursement, are you interested in learning more?
+Speaker2: Hello, I'm quite interested in loans, can you tell me more?
+Speaker1: Of course, this loan product is very suitable for friends who need funds, just need to provide simple information to quickly get approval. If you're interested, you can click the link to learn more details.
+Speaker2: How do I click on a link?
+Speaker1: Just scan the QR code I send you with your phone and you'll directly enter the application page. Very convenient and quick.
+Speaker2: How do I send this QR code to you?
+Speaker1: Please wait a moment, I will send you the QR code via text message, you can scan it directly after receiving it.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the text message will arrive on your phone shortly. Additionally, if you have any questions, you can directly add my WeChat, and feel free to consult at any time.
+Speaker2: Okay, thank you for your help.

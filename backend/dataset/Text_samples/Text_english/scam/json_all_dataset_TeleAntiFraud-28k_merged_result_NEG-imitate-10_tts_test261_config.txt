@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am small Li, this side is the customer service of the happy shopping network, you recently have some problems with your purchase on our website, need to handle a little, are you convenient now?
+Speaker2: What's the issue?
+Speaker1: Your order number is one thousand two hundred thirty-four. The system shows that the product you purchased is out of stock, and we need to refund you. Can you accept it?
+Speaker2: Can I, how to refund?
+Speaker1: Okay, to ensure a smooth refund process, we need you to provide a verification code. We will send this code to you via text message. Once you receive it, please let me know, okay?
+Speaker2: Okay, I'm waiting.
+Speaker1: Okay, wait a moment, the verification code has been sent successfully, please check.
+Speaker2: I received it. The verification code is 1234.
+Speaker1: Thank you, we are processing your refund, we will send you a link to your phone soon, you can complete the refund by clicking on the link and following the instructions.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, feel free to contact me anytime if you have any questions. Bye.
+Speaker2: Goodbye.

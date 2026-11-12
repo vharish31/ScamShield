@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hello, I am a customer service representative from some platform, we found that you have an order that hasn't been processed, it might affect your store weight, please handle it quickly.
+Speaker2: Oh, I'll take a look, I'll just go handle it.
+Speaker1: Okay, by the way, our platform recently launched a new app that can help you better manage your store. Are you interested in learning more about it?
+Speaker2: What's the new app? How do I download it?
+Speaker1: It's very simple. Just click this link to download our latest app directly.
+Speaker2: Link? I don't see it.
+Speaker1: Open your phone messages, we'll send you a download link via text message. Click the link to download.
+Speaker2: Okay, I'll wait for a moment for the text message. Thank you.

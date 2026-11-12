@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm Lee Ming, I just made a reservation for your restaurant dinner, want to confirm?
+Speaker2: Hello, Li First Name, I am a waiter at the restaurant, what time did you order your seat?
+Speaker1: I reserved a 7:00 PM dinner for two people, window seats.
+Speaker2: Okay, Mr. Li, your reserved seven o'clock window seats have been kept for you. Do you need to confirm your contact information?
+Speaker1: Okay, my phone number is 13812345678. If there are any changes, please contact me.
+Speaker2: Okay, Mr. Li, your phone number has been recorded. If there are any changes, we will contact you immediately. Do you need any further recommendations?
+Speaker1: Do you have any recommendations for dishes?
+Speaker2: Our restaurant's signboard menu has kung pao chicken and clear steamed fish, both very popular, you can try them.
+Speaker1: Then I'll order these two dishes, and do you have any vegetarian recommendations?
+Speaker2: In our vegetable dishes, stir-fried vegetables and steamed broccoli are both very popular, you can choose according to your preference.
+Speaker1: Okay, thank you for your recommendation, I'll order it later.
+Speaker2: Please welcome, Mr. Li, we are looking forward to your arrival. If there is anything else needed, please feel free to consult anytime.

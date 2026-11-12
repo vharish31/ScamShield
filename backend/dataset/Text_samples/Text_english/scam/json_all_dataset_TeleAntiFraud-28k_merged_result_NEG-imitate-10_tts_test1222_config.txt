@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am small Li, this side is XX bank's customer service specialist, recently we launched a special discount loan product, interest rate as low as two cents, are you interested in learning more?
+Speaker2: Two cents? It sounds good, what's the specifics?
+Speaker1: That's it, this product is specifically designed for enterprises and individuals, the procedures are simple, the loan is quick, as long as you provide some basic information, you can apply. Have you recently had any funding needs in your company?
+Speaker2: Uh, recently there's been some issues with cash flow, what should we do about it?
+Speaker1: Great, to make it easier for you to apply, you can first download our bank's official app, click on the "Quick Loan" button on the homepage, and fill in the relevant information.
+Speaker2: Do you want to download the app? Is it reliable? Won't it be a scam?
+Speaker1: Don't worry, we are a legitimate bank and won't scam you. Moreover, after downloading, you will have a dedicated customer service manager to guide you through all the steps, which is very convenient.
+Speaker2: Okay, I'll try. What's the name of the app?
+Speaker1: You can download the app named "XX Bank Loan" by searching it in the app store on your phone. After downloading, please call me and I will open the green channel for you here.
+Speaker2: Okay, I'll download it now. Thank you for your help.

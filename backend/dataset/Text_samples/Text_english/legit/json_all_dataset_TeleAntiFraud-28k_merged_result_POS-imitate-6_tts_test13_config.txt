@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm Li Xiao, the repair service you booked, I'm here at your apartment complex.
+Speaker2: Okay, I'll go down now, wait for me at the door.
+Speaker1: Okay, I'm waiting for you at the door.
+Speaker2: Wait a minute, I'll be there soon.
+Speaker1: No rush, you come slowly, safety first.
+Speaker2: Thank you, please wait for me five minutes.
+Speaker1: No problem, I'm waiting for you here.
+Speaker2: Okay, let's go.
+Speaker1: I see you, I'll be by your side.
+Speaker2: Let's go upstairs.

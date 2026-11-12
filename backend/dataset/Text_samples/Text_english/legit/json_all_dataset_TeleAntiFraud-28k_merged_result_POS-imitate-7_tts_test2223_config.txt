@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I bought a phone at your store, but now it seems like I can't open it.
+Speaker2: Hey, how are you? Sorry to hear about your phone issue. When did you buy it?
+Speaker1: It was the one I bought last Saturday, it wouldn't open yesterday.
+Speaker2: Okay, don't worry, we can handle it here. Can you come to the store once?
+Speaker1: I'm currently abroad, I might be able to return next week.
+Speaker2: Okay, you can send it back to us first for checking, we will process it quickly on this end.
+Speaker1: What do I need to send to you guys?
+Speaker2: You can send it to our after-sales service center in Beijing, address: North Area, Electronic City Technology Park, Chaoyang District, Beijing, recipient: After-sales Department.
+Speaker1: Okay, how long will it take to process after I send it over?
+Speaker2: In general, we will complete the repair within three working days after receiving your phone and notify you of the result.
+Speaker1: Okay, thank you for your help. I will send it quickly.
+Speaker2: No problem, feel free to contact us if you have any other questions. Best wishes.

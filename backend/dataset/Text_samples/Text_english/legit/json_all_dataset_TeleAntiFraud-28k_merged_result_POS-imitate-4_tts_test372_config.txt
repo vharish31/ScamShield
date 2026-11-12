@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm small Li, I saw on your website that you provide home services, want to know more?
+Speaker2: Hello, little Li, I am customer service representative Zhang. What aspects of home service do you want to know about?
+Speaker1: Can you tell me more about your deep cleaning service and how much it costs?
+Speaker2: Our deep cleaning service prices are based on the size of the house, usually starting at 100 yuan and adding 20 yuan for every 10 square meters.
+Speaker1: How much time do I need to reserve a 120 square meter apartment?
+Speaker2: Your apartment is 120 square meters, so the service fee is 340 yuan. You can choose any day from Monday to Friday between 9 am and 5 pm.
+Speaker1: Can I choose Saturday? Are you guys working on Saturday?
+Speaker2: We also provide service on Saturday, but it requires a 50 yuan service fee.
+Speaker1: Okay, then I'll choose Saturday morning at 10 am.
+Speaker2: Okay, I have scheduled a deep cleaning service for you on Saturday morning at 10 am. A staff member will contact you to confirm the specific location.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the Happiness Mall customer service. I am Xiaofu. Do you have any recent points usage?
+Speaker2: No, lately I've been quite busy, I haven't paid attention.
+Speaker1: Hey, do you know? The points are about to expire, after expiration they can't be used.
+Speaker2: Really? Let me check, how many points do I have left?
+Speaker1: You have over 100,000 points in your account, which can be directly exchanged for products in the mall.
+Speaker2: Oh, this way, what's so good about that?
+Speaker1: We have various household appliances, daily necessities, and electronic products, such as smartwatches and tablets.
+Speaker2: That's great, I recently want a smartwatch.
+Speaker1: Okay, the smartwatch can be exchanged with points, and there's also an extra after-sale service package now.
+Speaker2: That's great, I'll come to the mall tomorrow.
+Speaker1: Okay, see you tomorrow, don't forget to bring the member card.

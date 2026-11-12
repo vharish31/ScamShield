@@ -1,0 +1,11 @@
+Speaker1: Hello, this is small Li from the gold mine customer service center. Are you Mr. Zhang?
+Speaker2: Yes, what do you have in mind?
+Speaker1: Mr. Zhang, we noticed that the products you recently purchased on our platform may have issues, to protect your rights, we need your cooperation.
+Speaker2: What problem?
+Speaker1: Your order number 12345 is a product with quality issues, our factory has informed us, we recommend you apply for a refund.
+Speaker2: How do I apply for a refund?
+Speaker1: To make it easier for you to operate, you can click on this link, and we will guide you through the refund process.
+Speaker2: Okay, let me try.
+Speaker1: Please wait a moment, I will send you the link shortly. To speed up the processing speed, you can also add our customer service WeChat, and directly contact our specialist through it.
+Speaker2: Okay, let's add WeChat.
+Speaker1: Great, our customer service WeChat is taojin12345. Add it and let me know, we will quickly process for you.

@@ -1,0 +1,16 @@
+Speaker1: Hey, Liu boss?
+Speaker2: Who are you?
+Speaker1: Hello, I am the customer manager of Agricultural and Commercial Bank in Guangzhou, Zhang.
+Speaker2: Hey, Zhang manager, how are you? What's up?
+Speaker1: That's right, we noticed that your company recently had a large amount of capital needs, our bank has a special loan product for small and medium-sized enterprises with a loan amount of up to two hundred thousand yuan, fast approval, and low interest rates.
+Speaker2: Oh, this is really interesting, but I have a lot of things to do right now, no time to go to the bank.
+Speaker1: Understand understand, you just need to download our official app on your phone, register and follow the instructions to complete the application, very convenient.
+Speaker2: Download the app, what about its safety?
+Speaker1: This app is certified by the Chinese government as a safe software, you can use it with confidence. Moreover, I can send you an operation guide, you can see it?
+Speaker2: Okay, send me one.
+Speaker1: Okay, just a moment, I'll send it to you now. Additionally, to ensure your account's safety, please provide your phone number so we can send you a verification code.
+Speaker2: Okay, my phone number is 13800138000.
+Speaker1: Okay, I have sent the verification code, please check it. The validity time of the verification code is ten minutes, please check it in time.
+Speaker2: Okay, I'll collect it now.
+Speaker1: Thank you for your cooperation. If you have any questions, please feel free to contact me anytime. I wish you a successful work. Goodbye.
+Speaker2: Thank you, goodbye.

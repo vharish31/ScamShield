@@ -1,0 +1,12 @@
+Speaker1: Hey, are you still open at this restaurant?
+Speaker2: Hello, are you still open? What do you want to consult on the menu?
+Speaker1: Can you tell me about your signature dishes and how much they cost?
+Speaker2: Our special dishes here include red braised pork, steamed fish and gong bao chicken, priced between 35 and 50 yuan.
+Speaker1: Do you have a private room? I plan to eat dinner with my family.
+Speaker2: Do you need to reserve several seats in a private room?
+Speaker1: About six people.
+Speaker2: Okay, we have a private room for six people. What time would you like to reserve?
+Speaker1: Can I come at six and a half in the evening?
+Speaker2: Okay, 6:30 is fine. Do you need to leave your contact info?
+Speaker1: Please, my phone number is 13813801380.
+Speaker2: Okay, I have already reserved for you. Just go to the front desk and give them your phone number when you arrive.

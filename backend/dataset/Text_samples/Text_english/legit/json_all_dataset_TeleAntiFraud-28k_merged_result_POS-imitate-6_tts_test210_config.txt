@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Zhang, the customer service representative of the point store. We haven't seen you use the points in your account before, do you know if you have received our reminder SMS?
+Speaker2: Hmm, I don't seem to have noticed.
+Speaker1: I'll tell you, you have over 30,000 member points in your account, which can be directly exchanged for products in our mall, such as white wine gift boxes, famous brand four-piece sets, high-definition TVs, and smartwatches.
+Speaker2: Really?
+Speaker1: Yes, and using points to discount cash is especially cost-effective. However, please remind you that the points will expire at midnight tonight, so you need to use them before then.
+Speaker2: What can I exchange for this?
+Speaker1: You can choose any product you're interested in, such as the white wine gift box or the smartwatch, both of which are very popular.
+Speaker2: Can you help me check my smartwatch?
+Speaker1: Of course, smartwatches are one of our best-selling products in our mall, and we still have stock. If you decide to exchange it, I can help you operate it.
+Speaker2: Okay, then I'll exchange it.

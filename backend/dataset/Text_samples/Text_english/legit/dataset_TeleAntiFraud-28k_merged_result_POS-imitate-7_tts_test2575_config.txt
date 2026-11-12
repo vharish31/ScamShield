@@ -1,0 +1,14 @@
+Speaker1: Hello, I'm small Zhang, I'm here to book a haircut for you.
+Speaker2: Hello, little Zhang.
+Speaker1: Can you confirm one more time, your haircut appointment time is tomorrow at 3 pm, right?
+Speaker2: Yes, that's right.
+Speaker1: Okay, I'll send you a text message reminder in advance.
+Speaker2: Okay, thank you.
+Speaker1: No problem, by the way, how long do you need to arrive in advance?
+Speaker2: Let's meet around ten minutes earlier.
+Speaker1: Okay, what is the address of our store? Do you know the location?
+Speaker2: I went there before.
+Speaker1: Okay, if you have any questions, you can call me anytime.
+Speaker2: Okay, thank you for your reminder.
+Speaker1: No problem, see you tomorrow.
+Speaker2: See you tomorrow.

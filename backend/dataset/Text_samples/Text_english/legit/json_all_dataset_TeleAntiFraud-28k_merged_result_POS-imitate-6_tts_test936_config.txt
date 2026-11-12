@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you little king?
+Speaker2: Yes, I am small Li.
+Speaker1: Hey, have we determined the time for the meeting of our project yet?
+Speaker2: I confirm, tomorrow morning at 10 am, in the big meeting room.
+Speaker1: Okay, I took note. So, how are your materials prepared on your side?
+Speaker2: Almost done, I sorted through it last night, should be no issues.
+Speaker1: Okay, let's check again together to make sure there's no mistake.
+Speaker2: Okay, no problem, tomorrow morning we arrive at the meeting room half an hour early.

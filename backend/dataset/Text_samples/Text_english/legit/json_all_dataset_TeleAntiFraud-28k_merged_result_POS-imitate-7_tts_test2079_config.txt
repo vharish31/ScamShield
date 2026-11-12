@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative for the automotive industry. I see that you have left contact information on our website. Would you like to know more about your interest in our M8 car model?
+Speaker2: Hey, you're interested in M8, huh?
+Speaker1: Okay, which configuration do you want to know about? We have diesel and hybrid versions.
+Speaker2: I want to see the mix version.
+Speaker1: Okay, the mixed version of M8 guidance price is 28,688. However, we have a discount policy here, which can reduce about 6,000, and the discounted price is about 22,000.
+Speaker2: Wow, that discount is quite substantial.
+Speaker1: Yes, if you place an order now, you can still talk about it when you get to the store.
+Speaker2: Hmm, I'll think about it.
+Speaker1: Okay, feel free to reach out to me if you have any questions.
+Speaker2: Okay, thank you.

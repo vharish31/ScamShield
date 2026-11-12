@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of Sequoia Express, there is a package that could not be successfully delivered due to an address issue, please confirm the address.
+Speaker2: Oh, really? What could be the problem with my delivery?
+Speaker1: That's it, the address information on your delivery label is not accurate, in order to ensure that the package can be successfully delivered to your hands, we need you to confirm the latest address.
+Speaker2: How can I confirm?
+Speaker1: You can click on the link we send you via text message, which contains a confirmation app for the address, just input your latest address info.
+Speaker2: Okay, where is the text message?
+Speaker1: The message is sent from the official number of the sequent logistics, and there is a confirmation link inside, you click on the link, and follow the instructions to complete it.
+Speaker2: I found it, what information do I need to input after clicking on the link?
+Speaker1: Just enter your name, phone, and latest delivery address, submit and we'll rearrange delivery, very convenient.
+Speaker2: Okay, I'll handle it. Thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service representative of the Happy Wealth Consulting Company. Have you recently considered investing in wealth management?
+Speaker2: Hey, investing in wealth management? I didn't know much about it before, what are you guys doing?
+Speaker1: Our company specializes in providing high returns, low risk investment projects. There's a particularly good opportunity right now that can double your investment, are you interested in learning more?
+Speaker2: What about ensuring safety?
+Speaker1: Our company has specialized teams for risk control, and we guarantee that all investments are legal and regulatory. To put your mind at ease, we have an online platform that you can access through our app for more detailed information.
+Speaker2: Do you want to download the app? What is the name of the app?
+Speaker1: The name of the app is "Happy Finance", you can search and download it in the app store on your phone. After downloading, enter the recommendation code "Happy868" to enjoy the exclusive discount for new users.
+Speaker2: Okay, let me try. But how much money does this investment require?
+Speaker1: The initial investment is only one thousand yuan. If you're interested, you can try a small investment to experience our service. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you for your recommendation, I will consider it.

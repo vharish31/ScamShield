@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you a new coffee shop?
+Speaker1: Yes, we are just starting out, what can we help you with?
+Speaker2: Can you tell me about your special drinks and prices?
+Speaker1: Our signboard here is iron and mocha. Iron is thirty-five yuan per cup, mocha is forty yuan per cup.
+Speaker2: What are your business hours?
+Speaker1: We are from eight in the morning to ten at night every day.
+Speaker2: Can I go back now?
+Speaker1: Of course, we have a place now, please come anytime.
+Speaker2: Okay, I'll be there in about ten minutes, thank you.
+Speaker1: Okay, we'll wait for you at the store. Bye.

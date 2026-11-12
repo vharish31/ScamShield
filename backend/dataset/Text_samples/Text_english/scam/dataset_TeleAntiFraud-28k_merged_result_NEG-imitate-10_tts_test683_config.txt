@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am a customer service representative from Beijing Technology, we noticed that you recently purchased a smartwatch on our platform, but the system shows that your order has an issue, please cooperate to handle it.
+Speaker2: Oh, really? What should we do then?
+Speaker1: Don't worry, we have already solved most of the problems for you, but to ensure the safety of your account, you need to click on a link to verify your information.
+Speaker2: How do I click on a link?
+Speaker1: You can receive a link through a text message we send you, click on it to enter the verification page, and follow the instructions to complete the process.
+Speaker2: I haven't received the text message yet.
+Speaker1: It's possible that there's network delay, you can wait a bit and if you still don't get it, please provide your phone number, we'll resend.
+Speaker2: Okay, I'll wait a moment. If I still don't receive it, I'll contact you again.
+Speaker1: Okay, please wait a moment. If you have any questions, feel free to contact us anytime. Have a nice life, goodbye.

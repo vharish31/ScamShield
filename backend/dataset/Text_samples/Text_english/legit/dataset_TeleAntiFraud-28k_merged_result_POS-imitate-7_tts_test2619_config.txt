@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you today?
+Speaker2: Hello, just a little busy. How about you?
+Speaker1: Yeah, I've got a lot of projects lately, feeling a bit stressed.
+Speaker2: Understand, you can try to rest early at night, your body is tight.
+Speaker1: Hey, thanks for your advice. I'll give it a try. By the way, do you want to go out for dinner tonight?
+Speaker2: Good, what do you want to eat?
+Speaker1: Have you heard that a new hot pot restaurant just opened? The reviews aren't bad, want to give it a try?
+Speaker2: Sounds good, let's go at 7?
+Speaker1: What's it like at 6:30?
+Speaker2: Okay, I'll wait for you at the store at 6:30.

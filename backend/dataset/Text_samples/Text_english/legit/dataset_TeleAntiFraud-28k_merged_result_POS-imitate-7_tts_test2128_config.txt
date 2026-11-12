@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about the signature dishes and prices at your restaurant?
+Speaker2: Our restaurant has many signature dishes, such as red braised pork, steamed fish, and spicy and sour hot pot. The prices are 35 yuan per portion for red braised pork, 50 to 70 yuan depending on the size for steamed fish, and 45 yuan per portion for spicy and sour hot pot.
+Speaker1: What are your business hours?
+Speaker2: Our restaurant's business hours are from 11 am to 9 pm, you can come for lunch and dinner during those hours.
+Speaker1: Okay, can I make an early reservation for around six in the afternoon?
+Speaker2: Of course, how many people would you like to reserve a spot for?
+Speaker1: The positions of two people.
+Speaker2: Okay, I have reserved two seats for you at six o'clock in the afternoon.
+Speaker1: Okay, thank you.
+Speaker2: Please come soon.

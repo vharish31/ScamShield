@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you deliver food here?
+Speaker2: Of course, tell me where you are, I'll recommend nearby restaurants.
+Speaker1: I'm in the Happy Village, looking for some river fish to eat.
+Speaker2: Okay, there's a restaurant near the Happy Village community that serves Cantonese cuisine and has high ratings. Do you want to try it?
+Speaker1: What do you recommend?
+Speaker2: Their water-cooked pork slices, gong bao chicken wings and ma la xiang guo are all very popular, you can try them.
+Speaker1: Can I have a water-cooked pork slice and a spicy stir-fried chicken wing, how much is it?
+Speaker2: The steamed pork ribs are 30 yuan, the spicy chicken wings are 25 yuan, total 55 yuan.
+Speaker1: Okay, I placed an order. How long will it take to deliver?
+Speaker2: Typically, it takes about 30 to 45 minutes from placing an order to delivery, but the specific time may vary slightly.
+Speaker1: Okay, thank you, I'll be home later.
+Speaker2: No problem, wish you enjoy your meal, please feel free to contact us anytime.

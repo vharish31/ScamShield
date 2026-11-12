@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiao Huá, are you guys a car rental company?
+Speaker2: Hello, Xiao Huá, yes, we provide car rental service here, what can we help you with?
+Speaker1: Can you tell me more about your car rental service, such as the car types and prices?
+Speaker2: We have economic, comfortable, and luxury cars here. The economic type costs 200 yuan per day, the comfortable type costs 300 yuan per day, and the luxury type costs 500 yuan per day.
+Speaker1: Do you need a deposit for that rental car?
+Speaker2: The deposit varies according to the car type. The deposit for an economic car is one thousand yuan, one thousand five hundred yuan for a comfortable car, and two thousand yuan for a luxury car.
+Speaker1: Would there be a discount if I rented for a week?
+Speaker2: Rent a car for a week or more, and we offer a 10% discount. You can choose your preferred car model.
+Speaker1: Okay, I plan to rent a comfortable type of car. When can I pick it up?
+Speaker2: You can choose to pick up the car at 10 am tomorrow morning, we will prepare the vehicle in advance.
+Speaker1: That's great, thank you for your help.
+Speaker2: No problem, feel free to contact us anytime if you have any questions, wish you a happy journey.

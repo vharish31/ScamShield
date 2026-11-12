@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what place is this?
+Speaker1: We're a happy supermarket, you bought a bag of mouse bedding from us before, now our bedding is sold out.
+Speaker2: Can it be replaced with wood chips?
+Speaker1: Okay, but the price of wood chips is a little higher, you need to add a little more.
+Speaker2: How much discount do I need to add?
+Speaker1: The price of a bag of wood chips is nineteen yuan.
+Speaker2: Do you have the cage?
+Speaker1: Do you want to buy together? The cage is still there.
+Speaker2: Hey, do you still have that comforter?
+Speaker1: Cotton bedding also exists, the price of cotton bedding is eight yuan. However, if you order from Meituan, the wood will have a discount, and it may be cheaper.
+Speaker2: Okay, I'll check it out on Meituan. Thank you for your help.
+Speaker1: No problem, feel free to contact us anytime. Have a great shopping!

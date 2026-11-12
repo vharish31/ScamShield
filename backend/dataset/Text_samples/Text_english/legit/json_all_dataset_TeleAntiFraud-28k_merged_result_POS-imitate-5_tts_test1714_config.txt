@@ -1,0 +1,11 @@
+Speaker1: Hello, I'm Little Wang, the sales consultant for An Yang Xiao Peng Car.
+Speaker2: Hello, which family are you from?
+Speaker1: I am the salesperson of Anying Xiaobao Automobile, do you have any recent time to come and take a look at the new car models?
+Speaker2: Have you heard about any new car models lately?
+Speaker1: We recently released new models of G6 and G9, with significant improvements in performance and appearance. You have some time to take a look.
+Speaker2: When will the new products be in the store?
+Speaker1: We're still waiting for the manufacturer's notice until the specific store time, but you can come to the store and check out the new models, take a test drive.
+Speaker2: I'm also quite interested in the new one, can I make a test drive appointment this weekend?
+Speaker1: Of course, I can book a test drive for you on Saturday morning at 10 am. Is that convenient for you?
+Speaker2: Okay, that's settled then, thank you.
+Speaker1: No problem, see you on Saturday, be careful on the road.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I saw your restaurant has good reviews online, want to know more about your special dishes?
+Speaker2: Hello, thank you for your attention. Our restaurant's special dishes include red braised pork, steamed fish and spicy pot, all very popular.
+Speaker1: What are the prices of these menus approximately?
+Speaker2: Red braised pork is 38 yuan per portion, steamed fish is priced differently based on size between 50 to 80 yuan, and spicy pot-stewed chicken is 45 yuan.
+Speaker1: What is the restaurant's business hours?
+Speaker2: Our restaurant is open from 11 am to 9 pm every day.
+Speaker1: Do you need to make reservations for the weekend?
+Speaker2: Weekends are usually crowded, so it's recommended to make reservations in advance to ensure a seat.
+Speaker1: Okay, can I make a reservation for Saturday evening at 6:00 PM?
+Speaker2: Okay, I have already booked an appointment for you. Please arrive ten minutes early, we will be ready for you.

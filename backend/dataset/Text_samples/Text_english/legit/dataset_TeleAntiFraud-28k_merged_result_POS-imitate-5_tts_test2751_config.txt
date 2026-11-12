@@ -1,0 +1,16 @@
+Speaker1: Hello
+Speaker2: Hey, who are you?
+Speaker1: Hello, I saw your family's rental house on the internet and wanted to know more about it.
+Speaker2: Okay, which property are you interested in?
+Speaker1: Is there another one on the top floor with a balcony?
+Speaker2: There are still rooms with balconies on the top floor, which are independent and can be used for sunbathing or flower planting.
+Speaker1: How much is the rent for this house?
+Speaker2: Rent is three thousand yuan per month, with a deposit of three months, including property fees.
+Speaker1: Can I go take a look at the house?
+Speaker2: Of course, whenever you're convenient, I can arrange a house viewing.
+Speaker1: Is this weekend okay?
+Speaker2: Is it Saturday or Sunday this weekend?
+Speaker1: How was it on Sunday morning at 10 am?
+Speaker2: I'll be ready by 10 am on Saturday morning and meet you then.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a loan officer at China Construction Bank. Do you have any recent funding needs?
+Speaker2: Hello, I need a little bit, but I already have some loans at other banks.
+Speaker1: No problem, we have a special discount loan project here with a low interest rate and fast approval, you can consider it.
+Speaker2: What are the specific steps to do it?
+Speaker1: Simple, just download our loan app, fill out some basic info, and we'll have a specialist contact you.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Of course, our app is authenticated and has more discounts after download.
+Speaker2: Okay, let me try.
+Speaker1: Great, please fill in the recommendation code 123456 after downloading, so you can enjoy more discounts.
+Speaker2: Okay, thank you for your help.

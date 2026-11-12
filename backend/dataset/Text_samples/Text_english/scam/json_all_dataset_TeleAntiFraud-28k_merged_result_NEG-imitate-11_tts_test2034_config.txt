@@ -1,0 +1,10 @@
+Speaker1: Hello, are you free to talk now? I'm Li, the loan manager at Commercial Bank.
+Speaker2: Hey, convenient to talk, what's up?
+Speaker1: Yes, we have a recent loan product without collateral and low interest rate, which is very suitable for personal and small business users. Are you interested in learning more?
+Speaker2: I recently have a bit of a cash need, can you give me a detailed explanation?
+Speaker1: Of course. This loan product is very flexible, with a maximum loan amount of 50,000, fast approval, and same-day loan. You only need to provide some basic personal information and income proof.
+Speaker2: How do I apply?
+Speaker1: Great, just scan the QR code, fill in the relevant information, and our staff will contact you quickly. This QR code is linked to the message I sent you via SMS, so please act immediately and don't forget to confirm it's the official link of the Commercial Bank.
+Speaker2: Okay, I'm waiting for a text message.
+Speaker1: Okay, wait a minute, the text message has been sent. Please confirm, if there are any issues, you can contact me anytime.
+Speaker2: Received it, thank you.

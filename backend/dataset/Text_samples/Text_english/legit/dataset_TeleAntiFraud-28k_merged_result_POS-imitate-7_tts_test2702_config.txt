@@ -1,0 +1,13 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, can you tell me where the hair salon is located?
+Speaker2: Our hair salon is located at the corner of Red Star Street and is next to the big supermarket.
+Speaker1: Is transportation convenient over there?
+Speaker2: It's very convenient. There's a bus station nearby and a bike parking spot.
+Speaker1: Are you open for business today?
+Speaker2: Our business hours are from 9 am to 7 pm.
+Speaker1: Can I schedule a time for this afternoon?
+Speaker2: Of course, what time do you want to make a reservation?
+Speaker1: What was it like around three in the afternoon?
+Speaker2: 3 o'clock is fine, I'll make you an appointment. Just come directly at that time.
+Speaker1: Okay, thank you. I'll probably arrive around 3:30, I'll call you to confirm.
+Speaker2: Okay, okay. You call me when you arrive, I'll wait for you here.

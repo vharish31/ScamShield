@@ -1,0 +1,14 @@
+Speaker1: Hello, you.
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to know more about your household services, such as cleaning and taking care of the elderly.
+Speaker2: Okay, we provide comprehensive household services, including family cleaning and elderly care. Do you need one-time or long-term services?
+Speaker1: I'd like to understand the pricing and specific services first.
+Speaker2: Our one-time cleaning service costs 200 yuan, which includes three hours of service time. The price for elderly care service is 150 yuan per day, with an eight-hour service time.
+Speaker1: Do all your service personnel have specialized training?
+Speaker2: Yes, all our service personnel undergo professional training, and have health certificates and relevant work experience.
+Speaker1: Okay, I want to try out a cleaning service appointment.
+Speaker2: Okay, can you tell me your address and appointment time please?
+Speaker1: My address is Beijing Shi Chao Yang Qu Xing Hao Liu, Yǐ Yào Shí Jiān Shí, Míng Tiān Shàng Wǎn Míng Jiǔ Fèn.
+Speaker2: Okay, we will arrive at 9:00 am sharp on tomorrow morning. If there are any changes, we will contact you in advance.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome! We're looking forward to providing you with high-quality service. Goodbye!

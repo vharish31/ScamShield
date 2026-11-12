@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm a customer service representative from a car-rental platform. You previously reserved one of our vehicles. Can you confirm if the pickup time has changed?
+Speaker2: Hey, hello, the pickup time hasn't changed, I'm still following the original time.
+Speaker1: Okay, we will deliver the vehicles to the pickup point one hour before the scheduled time, please prepare your driving license in advance.
+Speaker2: Okay, I understand. Right, do your vehicles need to be filled up with gas beforehand?
+Speaker1: Yes, we require the car to be returned with a full gas tank. If it's not full, you'll have to pay an extra fee.
+Speaker2: Yes, if I encounter any issues while using it, can I contact you guys anytime?
+Speaker1: Of course, we have a 24-hour customer service hotline, available at any time for you.
+Speaker2: Okay, I'm not very familiar with the car model, maybe I'll need your help to explain it later.
+Speaker1: No problem, we will arrange our staff to give you a detailed introduction when you pick up your car, to ensure you can use it smoothly.
+Speaker2: Thanks, now I'm relieved, thanks for your help.
+Speaker1: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy use.

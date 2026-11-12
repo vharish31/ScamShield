@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, this is the city food square, you have reserved a seat at noon today, confirm one more time?
+Speaker2: Hello, yes, I still need this reservation.
+Speaker1: Okay, is your reservation for a four-person table?
+Speaker2: Yes, it's a four-person table.
+Speaker1: Okay, can you confirm your contact information? Is your phone number 1234567890?
+Speaker2: Yes, this phone number is correct.
+Speaker1: Okay, we have reserved a spot for you, come before noon at twelve.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you have any other questions, please contact us anytime. Enjoy your meal.
+Speaker2: Okay, thank you, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Tianchengwu yong, are you Li Ming?
+Speaker2: Hello, I am, what do you have?
+Speaker1: We received your feedback on the parking issue in the community, and we want to know more about the specifics.
+Speaker2: Uh, lately I've found that parking spots are getting increasingly tight, sometimes I come back late at night and can't find a spot.
+Speaker1: Understood, we have already started solving this problem, and plan to add some nighttime temporary parking spots.
+Speaker2: That's good, but I hope it won't affect other residents' normal travel.
+Speaker1: Don't worry about this, we will plan reasonably to make sure it doesn't affect everyone. What time do you usually go home from work?
+Speaker2: I usually come home around eight in the evening.
+Speaker1: Okay, we will adjust the use time of parking spaces based on everyone's feedback. Thank you for your cooperation.
+Speaker2: You're welcome. Thank you for your handling.

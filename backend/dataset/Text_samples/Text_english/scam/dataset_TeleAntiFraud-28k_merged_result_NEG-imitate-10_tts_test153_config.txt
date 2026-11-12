@@ -1,0 +1,12 @@
+Speaker1: Hello, are you the boss of Huaxin Jingrong?
+Speaker2: Yes, which bank are you from?
+Speaker1: Hi, I'm Li from Huaxin Finance. We have a loan product that's perfect for you. Would you be interested in learning more about it?
+Speaker2: Loan? I recently need some cash flow, how complex are your loan procedures?
+Speaker1: It's very simple. Just provide some basic personal information, and we'll quickly approve with a very favorable interest rate.
+Speaker2: What materials do I need to prepare?
+Speaker1: You just need to provide copies of your ID and business license, and we have an app that you can download to submit your documents online, very convenient.
+Speaker2: APP? How do I know if you guys are legitimate?
+Speaker1: You can rest assured, Huaxin Finance is a regular financial institution approved by the China Banking Regulatory Commission. After downloading the app, you can try it out, and if you have any questions, you can contact me anytime.
+Speaker2: Okay, I'll try. What's the name of the app?
+Speaker1: The name of the app is "Hua Xin Loan". You can search and download it in the app store. After downloading, register and fill out the information, I will review it in the background.
+Speaker2: Okay, I'll give it a try. Thank you for your help.

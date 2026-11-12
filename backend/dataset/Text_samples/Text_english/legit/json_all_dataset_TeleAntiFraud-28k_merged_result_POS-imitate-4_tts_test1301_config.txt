@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, you good?
+Speaker1: Do you have anything to talk about?
+Speaker2: Hey, I want to know more about your swimming courses over there.
+Speaker1: Okay, our swimming course is divided into beginner, intermediate and advanced levels. Have you had swimming experience before?
+Speaker2: A little, but not very comfortable.
+Speaker1: I suggest you start from the beginner class. Our beginner class mainly teaches basic swimming skills and safety knowledge.
+Speaker2: When does the beginner class start?
+Speaker1: The beginner class meets every Monday, Wednesday, and Friday from 7 to 8:30 p.m., with a total of ten class hours.
+Speaker2: How much does it cost to hear it?
+Speaker1: The total cost for the entire beginner course is 500 yuan, which includes all class hours and swimming pool usage fees.
+Speaker2: Okay, I want to sign up.
+Speaker1: Great, you can fill out the registration information on our official website, or you can come to our front desk to handle the paperwork.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, if you have other questions feel free to contact me, wish you happy swimming!

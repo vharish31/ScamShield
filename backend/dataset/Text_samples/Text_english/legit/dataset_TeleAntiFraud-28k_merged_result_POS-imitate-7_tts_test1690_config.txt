@@ -1,0 +1,10 @@
+Speaker1: Hello, I recently want to buy a new phone, can you recommend me one?
+Speaker2: Of course, what specific needs do you have? For example, budget, preferred brand, main use, etc.
+Speaker1: My budget is around three thousand, I like to take photos with my phone and play games occasionally, I don't have a specific brand preference.
+Speaker2: Okay, based on your needs, I recommend you check out the Huawei Nova 9. The camera quality is great, the game performance is not bad, and the price is within your budget range.
+Speaker1: How is the battery capacity and charging speed of this phone?
+Speaker2: This phone's battery capacity is 4300mAh, supports 66W fast charging, charging speed is very fast, usually takes about 30 minutes to fill up.
+Speaker1: Does this phone have any stock now?
+Speaker2: There are goods, and there is a discount activity now, you can directly go to the store to see, or you can choose to order online.
+Speaker1: Okay, I have time in the afternoon, go to your store and take a look.
+Speaker2: Okay, we meet at 100 Some Street in the afternoon.

@@ -1,0 +1,10 @@
+Speaker1: Hello, you are welcome to the Bank of China customer service department. I am the customer service manager, Wang.
+Speaker2: Hello, what do you have?
+Speaker1: Have you recently had any financial needs? We just launched a personal loan with a very low interest rate.
+Speaker2: Hey, I recently need some cash flow, can you give me a specific answer?
+Speaker1: Okay, this loan product has an extremely low interest rate of only 0.3%, no collateral is required, and the loan will be approved and disbursed immediately upon approval. Would you like to know more about it?
+Speaker2: How can I ensure that it's true?
+Speaker1: You can click this link, enter your information, we will immediately review. For safety reasons, you can first provide your identity card number and mobile phone number, we will contact you to confirm within a workday.
+Speaker2: Okay, I'll try it out. Send me the link.
+Speaker1: Okay, just a moment, I'll send it to you right away. Additionally, to speed up the review process, you can download our official app, which has more detailed information and application process on it.
+Speaker2: Okay, I'll go download it. Thank you for your help.

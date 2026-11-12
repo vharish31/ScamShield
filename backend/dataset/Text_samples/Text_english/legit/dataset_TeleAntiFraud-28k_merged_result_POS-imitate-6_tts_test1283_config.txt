@@ -1,0 +1,12 @@
+Speaker1: Hello, this is the happy flower shop.
+Speaker2: Hello, I want to book a bouquet of flowers for my friend tomorrow.
+Speaker1: Okay, what type of flower do you want? We have roses, lilies, and daisies here.
+Speaker2: I want to buy a yellow flower bundle, it looks sunny.
+Speaker1: Okay, can you see if the sunflower is 120 yuan?
+Speaker2: Okay, let's do it this way.
+Speaker1: Okay, please provide a delivery address and contact phone number.
+Speaker2: The address is Happiness Villa Building 2, Room 306, and the phone number is 13600000000.
+Speaker1: Okay, I have recorded it down. The delivery will be on time at three o'clock in the afternoon tomorrow. Is there anything else you need help with?
+Speaker2: No more, thank you.
+Speaker1: You're welcome, I hope your friend is happy when the flowers arrive. Goodbye.
+Speaker2: Goodbye.

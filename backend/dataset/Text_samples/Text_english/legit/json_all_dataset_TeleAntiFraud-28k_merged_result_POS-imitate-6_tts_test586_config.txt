@@ -1,0 +1,8 @@
+Speaker1: Hey, where are you?
+Speaker2: I just got off the subway station, and I'm walking towards the address you gave me now.
+Speaker1: Okay, walk straight along this road and turn left at the second red and green light.
+Speaker2: How long do I have to walk?
+Speaker1: Okay, let's walk for five more minutes. I'll wait for you here.
+Speaker2: Okay, I'll be there soon, you wait for me a moment.
+Speaker1: No problem, pay attention to safety on the road.
+Speaker2: Thank you, see you later.

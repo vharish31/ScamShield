@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural Bank's Tianhe Branch, have you recently applied for a loan?
+Speaker2: Hello, I haven't applied.
+Speaker1: Ah, that's great! We have a low-interest loan product here that's perfect for you. All you need to do is download our app, fill out some basic info, and you can quickly get the loan.
+Speaker2: Really? It sounds good.
+Speaker1: Yes, very convenient. Just click this link to download our app, register and a specialist will contact you.
+Speaker2: Okay, let me try.
+Speaker1: Great, please provide your phone number after downloading, we will quickly review.
+Speaker2: Okay, I understand. Thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes for your loan.
+Speaker2: Okay, thank you. Bye.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, who are you looking for?
+Speaker1: Hi, I'm Li Xiao, can you help me with the customer service at your store?
+Speaker2: Hello, little Li, I am customer service representative Wang, what can I help you with?
+Speaker1: Do you have any haircut appointments at the store now?
+Speaker2: Okay, what time do you want to make a reservation?
+Speaker1: It's best if it's tomorrow afternoon, around four o'clock.
+Speaker2: Okay, tomorrow afternoon at four o'clock, this time can be reserved.
+Speaker1: How early do we need to arrive?
+Speaker2: I suggest you arrive fifteen minutes early, so you can drink a cup of water and relax a bit beforehand.
+Speaker1: Okay, I'll arrive at three forty-five in the afternoon tomorrow.
+Speaker2: Okay, see you tomorrow, hope you have a nice experience.

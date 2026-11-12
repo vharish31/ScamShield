@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: How have you been lately?
+Speaker2: Hey, I'm doing pretty good, how about you? What have you been up to lately?
+Speaker1: Hey, I've been thinking about buying a new phone lately, what do you think is the best one now?
+Speaker2: What kind of phone are you using now? Are you mainly using it for watching videos or playing games?
+Speaker1: Mainly play games, occasionally watch videos.
+Speaker2: You can consider the latest flagship phone, the performance is good, the game playing is smooth.
+Speaker1: Hmm, the flagship model sounds good, but the price must be expensive, right?
+Speaker2: Yes, flagship models are usually more expensive, but you can check if there are any promotional activities, sometimes you can save a lot.
+Speaker1: Okay, thank you for your advice. I'll check it out online.
+Speaker2: No problem, feel free to contact me if you need anything else, wish you get the right phone.
+Speaker1: Goodbye, goodbye.

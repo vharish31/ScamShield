@@ -1,0 +1,8 @@
+Speaker1: Hello, do you have the new sports shoes here?
+Speaker2: Hello, we have new sports shoes here, which one do you want to know about?
+Speaker1: That blue one that's so popular online.
+Speaker2: Do you want to take a look at the blue one? We have it in stock here, but the quantity might not be complete.
+Speaker1: Okay, I'm at the mall near you, how long will it take to get there?
+Speaker2: I've been waiting at the door for about ten minutes since you came from the mall.
+Speaker1: Okay, I'll just go now, thank you.
+Speaker2: No problem, see you later.

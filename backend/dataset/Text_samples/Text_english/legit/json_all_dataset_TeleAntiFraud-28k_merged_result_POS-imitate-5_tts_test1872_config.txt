@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to reserve a seat for tomorrow at noon.
+Speaker2: Hello, which restaurant did you book a seat at?
+Speaker1: That's your store in the city center.
+Speaker2: Okay, which restaurant did you mean? How many people?
+Speaker1: Just the two of us.
+Speaker2: Okay, two guests, tomorrow at noon twelve, city center branch, I can help you book. Do you need a window seat?
+Speaker1: If possible, it's best to lean against the window.
+Speaker2: Okay, I'll try my best to arrange the position for you against the window. Do you have any special requirements?
+Speaker1: There are no specific requirements, just hoping for a quieter environment.
+Speaker2: Understood, I will select a relatively quiet area for you. The reservation information has been recorded, please arrive ten minutes in advance tomorrow, we will be ready for you.
+Speaker1: Okay, thank you for your service, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li Xiaoxiao?
+Speaker2: Yes, who are you?
+Speaker1: I am the customer manager at HSBC Bank, Zhang Manager. We noticed that you applied for our credit card a month ago, but you haven't activated it yet. Can you explain if there were any issues?
+Speaker2: Oh, that's it, I've been pretty busy lately and haven't had time to handle it yet.
+Speaker1: To make it easier for you, we can complete the activation through a simple online verification. You can click on this link to directly enter our secure page and perform the operation.
+Speaker2: How do I know this link is safe?
+Speaker1: All of our links are encrypted, so you can rest assured. Moreover, to prove our identity, I can send you a verification code via text message, and you can tell me after receiving it, which will confirm our identity.
+Speaker2: Okay, I'll give it a try.
+Speaker1: Okay, just a moment, I'll send you a text message right away. Please pay attention to your phone text message and let me know the verification code once you receive it.
+Speaker2: Okay, I'm waiting.

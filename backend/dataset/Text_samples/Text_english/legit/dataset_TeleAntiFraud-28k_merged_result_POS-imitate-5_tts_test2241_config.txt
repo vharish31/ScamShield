@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Zhang, can I ask if your air conditioning repair service can be booked on Sunday?
+Speaker2: Sure, we have a free slot on Sunday, what time is convenient for you?
+Speaker1: Can we meet at two in the afternoon?
+Speaker2: Can we meet at 2 o'clock? What's your address?
+Speaker1: The address is Mingde Road No. 3, remember it, Mingde Road No. 3.
+Speaker2: Okay, remember the address of Mingde Road No. 3, we'll arrive on Sunday at 2 pm sharp.
+Speaker1: Okay, can you please work hard?
+Speaker2: No problem, feel free to contact me anytime with any questions, take care.
+Speaker1: Goodbye.

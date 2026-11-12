@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service for the online food delivery, can I ask if you are satisfied with your last order of spicy pot?
+Speaker2: Hello, it's okay, the taste is quite good, just the delivery time is a bit longer.
+Speaker1: Thank you very much for your feedback. We will inform the delivery team about this issue and strive for improvement.
+Speaker2: Hey, can we switch the delivery guy next time? The attitude of the last delivery guy wasn't great.
+Speaker1: At this point, we will pay attention to ensure that every delivery person can provide quality service. What do you want to eat next time, and I will recommend it to you?
+Speaker2: What do you recommend for a change of taste?
+Speaker1: Our recently new seafood fried rice is very popular, the seafood is fresh, the taste is also very unique, you try try?
+Speaker2: Listen to it, let's try this seafood fried rice, remember to send it early.
+Speaker1: Okay, this time we will pay special attention to the delivery time, to ensure you can enjoy the food when it's hot.
+Speaker2: Okay, thank you, looking forward to the next meal.

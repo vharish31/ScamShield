@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm from Ele.me, what floor is your apartment on?
+Speaker2: Are you here yet? I'm at home now.
+Speaker1: Am I at the elevator next to the supermarket in the small community?
+Speaker2: Yes, from the elevator behind the supermarket, it's closer.
+Speaker1: Is that school behind the supermarket?
+Speaker2: No, the elevator on the side of the classroom is farther, there's an elevator right behind the supermarket, you can take it from there.
+Speaker1: Okay, I see the Xiànxiànfēi jiā yòu xuǎnchōu chàngshì, qǐng rèn yīxiàng, shì zhège chàngshì huòmài ma?
+Speaker2: That's right, it's behind this supermarket.
+Speaker1: Found it, this is the third floor elevator, understood.
+Speaker2: Okay, third floor elevator, come up.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you recommend any family gathering meal options on your side?
+Speaker2: Yes, we have special family dinner menus with various options. How many people would you like for your dinner?
+Speaker1: We're probably around ten people.
+Speaker2: Great, for a group of ten people, we recommend you choose our family happy set, which includes various dishes and a dessert, perfect for a family gathering.
+Speaker1: How much does this dish cost?
+Speaker2: The family feast set menu costs 500 yuan and serves 10 people.
+Speaker1: What is the restaurant's business hours?
+Speaker2: Our restaurant business hours are from 10 am to 10 pm. You can choose a convenient time.
+Speaker1: Okay, can I reserve this weekend Saturday evening at six o'clock?
+Speaker2: Okay, your 6:00 PM reservation on Saturday has been confirmed. Remember to bring your reservation information.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome! We're looking forward to your arrival! We wish you a happy dining experience. Goodbye!

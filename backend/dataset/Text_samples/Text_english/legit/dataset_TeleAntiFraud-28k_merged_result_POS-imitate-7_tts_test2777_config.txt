@@ -1,0 +1,10 @@
+Speaker1: Hey, are you open today? I'm Li Xiao, can I help you?
+Speaker2: Hello, I am customer service Zhang, our store is open today normally, what can I help you with?
+Speaker1: I saw a new phone in your store. I want to know the price and color options.
+Speaker2: This phone has black, white, and blue colors, and the price is 3999 yuan.
+Speaker1: Is this phone insured by the national insurance?
+Speaker2: Yes, this phone supports national insurance, you can enjoy the service in any authorized service center after purchase.
+Speaker1: Okay, can I come over this afternoon?
+Speaker2: Of course, our store's business hours are from 9 am to 9 pm. You can come anytime during that time.
+Speaker1: Okay, I'll probably be there around 4 o'clock. See you then.
+Speaker2: Okay, four o'clock meeting, I'll have the phone ready for you by then, welcome!

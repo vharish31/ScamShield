@@ -1,0 +1,14 @@
+Speaker1: Hello, this is the customer service of Speedy Express. Due to system upgrade, there might be issues with your package information. Please work with us to handle it.
+Speaker2: Yeah, true or false, I did my homework yesterday.
+Speaker1: Yes, in order to ensure that your package can be delivered smoothly, we need you to provide us with your phone number and verification code, so that we can confirm your identity.
+Speaker2: Okay, how can I provide you with this information?
+Speaker1: You can click on the link in the text message we sent you, and follow the instructions to proceed.
+Speaker2: What's the link to the text message? I didn't receive it.
+Speaker1: Maybe it's because your phone is set to block, check the trash message to see if there is any. If not, I can send again.
+Speaker2: Okay, let's try again.
+Speaker1: Okay, just a moment, I'll send it to you now. Remember to process it quickly after you receive it, otherwise your package may be returned.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, in addition, to ensure your information is safe, we recommend downloading our official app immediately. All operations can be completed in the app.
+Speaker2: Do you want to download the app? Sure, I'll try it.
+Speaker1: Great, thank you for your cooperation. If you have any questions, please feel free to contact our customer service anytime.
+Speaker2: Okay, thank you, bye.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform. Did you order delivery before?
+Speaker2: Yes, it's mine.
+Speaker1: Okay, your order is tofu, cabbage, winter squash, and flower vegetable meat, is that right?
+Speaker2: Yeah, that's right.
+Speaker1: Okay, but we found that the stock of scallions and chili peppers is insufficient, and we may need to replace them, do you agree?
+Speaker2: Is there anything that can be replaced?
+Speaker1: Can we add some other vegetables, like bell peppers or tomatoes? How do you think?
+Speaker2: Capsicum peppers are okay, but tomatoes are not very fond of.
+Speaker1: Okay, let's add chili peppers, no tomatoes. Additionally, the flower sprouts and sesame oil sauce are gone, do we need to replace it?
+Speaker2: What can be exchanged for flower sprouts with sesame sauce?
+Speaker1: Can we add some onion or chili oil for you to see which one you like?
+Speaker2: Mud is okay, thank you.

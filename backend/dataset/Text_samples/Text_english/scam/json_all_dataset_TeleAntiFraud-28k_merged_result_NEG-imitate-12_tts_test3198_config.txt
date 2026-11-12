@@ -1,0 +1,10 @@
+Speaker1: Hello, you are Lee boss? I am the customer manager of China information bank. We have a loan product for small businesses. Are you interested in learning more?
+Speaker2: Is there anything special?
+Speaker1: Of course, our this loan product is no collateral, no guarantee, approval speed is fast, amount is high, very suitable for your small micro enterprise.
+Speaker2: Sounds good, but I've met a lot of scammers, are you guys legit?
+Speaker1: You can rest assured, we are a legitimate bank, you can verify information through our official website or download our official app.
+Speaker2: Okay, how do I apply?
+Speaker1: It's simple. Just download our app, fill out some basic info, upload your business license and other materials, and you're done with the application.
+Speaker2: Do you want to download the app? What is the name of your app?
+Speaker1: Our app is called "Zhongxin qǐyè dàn" and you can download it from the app store, make sure to download the official version.
+Speaker2: Okay, I'll give it a try. Thank you for your recommendation.

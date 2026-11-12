@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Are you not the delivery person for the noon order today?
+Speaker2: Okay, I made an appointment. What now?
+Speaker1: Your order is now ready to be delivered. The delivery man will arrive in about twenty minutes.
+Speaker2: Okay, I'm waiting.
+Speaker1: Do you still want to follow the previous rule of not using pepper?
+Speaker2: No spicy this time, thank you.
+Speaker1: Okay, I have taken note clearly, please pay attention to your phone, the delivery man will call you to confirm when he arrives quickly.
+Speaker2: Okay, thank you for your service.

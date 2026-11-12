@@ -1,0 +1,10 @@
+Speaker1: Hey, are your stores still open?
+Speaker2: Hello, our store is open until 10 pm tonight.
+Speaker1: Great to be here, I just arrived in this city, do you have any recommended dishes?
+Speaker2: Our store's signboard menu has roast duck and spicy pot, both very popular, you can try.
+Speaker1: Does one need to pre-order for roast duck?
+Speaker2: If there are many people, it's best to make a reservation in advance. If it's just one person, they can order directly.
+Speaker1: Can I order a roast duck and spicy pot stickers by myself?
+Speaker2: Of course, what time do you think you'll arrive?
+Speaker1: Can I reserve a seat for twenty minutes?
+Speaker2: Okay, I'll reserve a seat for you, you can just come straight in when the time comes.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of Meituan Waimai, your previous order, the shop said it might be delivered later.
+Speaker2: Is it really? Then it's probably going to take a while.
+Speaker1: Can you wait for about 30 minutes on the merchant's side?
+Speaker2: Okay, a thirty minute conversation is still acceptable.
+Speaker1: Okay, I'll confirm with the seller. If there are any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you for your understanding.
+Speaker1: No problem, we've been here all along. Oh, do you need any other help? Like checking the status of other orders?
+Speaker2: I don't need it now, just wait for this order.
+Speaker1: Okay, I wish you a happy meal. If you have any questions, please contact us anytime. Bye.
+Speaker2: Okay, thank you, bye.

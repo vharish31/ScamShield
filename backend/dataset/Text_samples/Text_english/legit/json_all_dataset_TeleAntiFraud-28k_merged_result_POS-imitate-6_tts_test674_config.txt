@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the customer service hotline?
+Speaker2: Hello, welcome to the customer service center, what can I help you with?
+Speaker1: I bought a piece of clothing from your website a few days ago and received it today, but the size was too small. I want to exchange it for a larger size. Is it possible?
+Speaker2: Sure, we support seven-day no-reason return or exchange. Can you provide the order number?
+Speaker1: Okay, the order number is one five nine eight six four two.
+Speaker2: Thank you for your cooperation. I have found your order on this end. Could you please let me know if you would like us to send you new size clothes or if you would like to send back the original products first and we process it for you?
+Speaker1: Please send the original product back first, and then send me a new one after you receive it.
+Speaker2: Okay, please use express to send the original product back to us, the address is on our website's return policy page, please attach the order number and contact information when sending it back, we will process it quickly.
+Speaker1: Okay, I understand, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to contact us anytime. Have a nice life. Bye.

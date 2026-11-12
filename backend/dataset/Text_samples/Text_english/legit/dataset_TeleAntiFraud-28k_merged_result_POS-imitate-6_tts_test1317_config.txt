@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Have you guys got any new promotional activities lately?
+Speaker2: Hello, there is a promotion activity this week, all products are 80% off, and there are some buy-one-get-one-free activities, which category of products do you want to know the promotion information for?
+Speaker1: Can you show me some electronic products, especially phones, do you have any discounts?
+Speaker2: Our latest smartphone models are now available with a 90% discount when purchased, and you also have the opportunity to get a free phone case and screen protector service. Which model are you interested in?
+Speaker1: Have you any new stock of brand A's latest products?
+Speaker2: Our store does have the latest model of brand A in stock. You can come directly to purchase it, or I can reserve one for you, which way is more convenient for you?
+Speaker1: Can you help me reserve some time for this weekend?
+Speaker2: Of course, I will reserve it for you this weekend. Please bring your ID when you come this weekend, so we can register.
+Speaker1: Okay, thank you for your help. I'm definitely going this weekend.
+Speaker2: No problem, I'm looking forward to your arrival. If you have any other questions, feel free to contact me anytime. Have a great weekend!

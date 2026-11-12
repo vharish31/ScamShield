@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of sequoia express, we found that you lost a package during transportation.
+Speaker2: What's real and what's not, what do we do now?
+Speaker1: Don't be anxious, we have a solution, to compensate for your loss, we can process a refund and provide a certain amount of compensation.
+Speaker2: Great, what should I do now?
+Speaker1: Okay, first you need to provide your name and contact information so we can verify your information.
+Speaker2: Okay, my name is Li Ming, phone number is 13512345678.
+Speaker1: Mr. Li, I have recorded the information. For safety reasons, we will send you a link via text message. After clicking the link and following the instructions, you can complete the refund and compensation.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the text message will be sent to your phone shortly. Please pay attention to receive it. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

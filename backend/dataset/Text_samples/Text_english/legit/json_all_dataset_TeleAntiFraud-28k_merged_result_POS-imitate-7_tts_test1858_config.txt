@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: I can hear that your voice is a little quiet on that side.
+Speaker1: Okay, my voice is a little loud. Do you have time tonight?
+Speaker2: What's up?
+Speaker1: I just booked a restaurant, want to invite you to dinner?
+Speaker2: Really? Great, which restaurant?
+Speaker1: That new Italian restaurant, I heard the environment is good.
+Speaker2: Great, I heard their pizza is really good. What time?
+Speaker1: I ordered a 7:00 am flight, just in time to avoid rush hour.
+Speaker2: Okay, then I will arrive on time. Please send me the restaurant address.

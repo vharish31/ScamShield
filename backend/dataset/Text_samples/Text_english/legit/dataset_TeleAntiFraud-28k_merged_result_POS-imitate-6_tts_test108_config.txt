@@ -1,0 +1,9 @@
+Speaker1: Hey, hello, I'm Xiaoming, just now you said you couldn't find the way, I'm right here, can I help you with directions?
+Speaker2: Okay, I have a headache now, where are you?
+Speaker1: Where are you at the North Gate of East Lake Park?
+Speaker2: What should I do now that I'm at the south gate?
+Speaker1: Walking north along the lake shore for about ten minutes, you will see a big fountain.
+Speaker2: Okay, did you see the hot spring after?
+Speaker1: After passing the spring, turn right, walk about 50 meters, and you will see a small road, which goes straight to reach the destination.
+Speaker2: Okay, I understand, thank you, see you later.
+Speaker1: No problem, see you later!

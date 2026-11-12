@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the Huameijidian Hotel. You previously booked a double room at our hotel. Do you want to confirm your check-in time?
+Speaker2: Hello, I reserved for tomorrow check-in, stay two nights.
+Speaker1: Okay, your reservation is for tomorrow check-in, two nights, right? We have reserved a room for you, please confirm your contact phone number so we can notify you promptly if there are any changes.
+Speaker2: Okay, my phone number is 000-000-0000.
+Speaker1: Okay, we have recorded your phone number. Do you have any special requirements? For example, do you need a bed or any other service needs?
+Speaker2: No need for extra bed, but can room be a little quieter? I easily get woken up.
+Speaker1: Of course, we will arrange a room for you away from elevators and stairs, ensuring a peaceful rest environment.
+Speaker2: That's great, thank you.
+Speaker1: You're welcome. If you have any other needs, please feel free to contact our front desk anytime. We wish you a happy stay.
+Speaker2: Okay, thank you, bye.

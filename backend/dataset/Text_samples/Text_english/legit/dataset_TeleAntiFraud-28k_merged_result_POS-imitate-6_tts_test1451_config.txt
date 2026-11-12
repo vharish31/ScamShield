@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm a customer service representative from Da Huang Public Company. Can you confirm your housekeeping service time is tomorrow morning at 9am?
+Speaker2: Hi, yes, I did book a housekeeping service, can it be tomorrow morning at nine o'clock?
+Speaker1: Okay, our housekeeping staff will arrive on time. Do you need anything prepared in advance?
+Speaker2: No need, home already cleaned some clutter, you guys come directly sweep just fine.
+Speaker1: Okay, the service staff will bring all necessary cleaning tools. Additionally, if you have any needs during the service process, you can raise them at any time.
+Speaker2: Okay, I'll just wait at home then. By the way, are all your service staff trained?
+Speaker1: Yes, our service staff undergo professional training to ensure they can provide high-quality service.
+Speaker2: Then I can relax. If there are any issues after the service ends, can I contact you guys?
+Speaker1: Of course, we have a dedicated customer service team, and you can contact us anytime after the service ends if you have any questions or suggestions.
+Speaker2: Okay, thank you. See you tomorrow.
+Speaker1: No problem, see you tomorrow. Wish you have a good day. Bye.

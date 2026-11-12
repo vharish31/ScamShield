@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hi, how are you? Are you consulting the weather for tomorrow?
+Speaker1: Yes, I want to know if it will rain tomorrow, I plan to go out and play.
+Speaker2: Tomorrow's weather forecast shows it will be clear, no rain, perfect for outdoor activities.
+Speaker1: That's great, thank you. Is there anything else? I want to know how to get to the recent bus station.
+Speaker2: Starting from your current location, walk straight along this road for about 500 meters, then turn right at the crossroads you see, and walk another 200 meters to reach your destination.
+Speaker1: Okay, I noted it down, thank you.
+Speaker2: No problem, if there's anything else you need help with, feel free to ask me anytime.
+Speaker1: Okay, thank you, goodbye.
+Speaker2: Goodbye, wish you have fun.

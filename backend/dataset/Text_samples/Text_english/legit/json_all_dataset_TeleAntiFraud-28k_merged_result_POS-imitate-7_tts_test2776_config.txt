@@ -1,0 +1,15 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, hello, can you hear me, say something.
+Speaker1: I am a customer service representative for an e-commerce platform. I see that you have a lot of points on your account, they will be cleared at midnight tonight, have you used them yet?
+Speaker2: Oh, is that so? I didn't notice, how much can I arrive?
+Speaker1: These points can be redeemed for over three thousand nine hundred dollars in cash, you won't have any left if you don't exchange them now.
+Speaker2: What can I do, I didn't pay attention before, can I still use it now?
+Speaker1: Of course, I have already sent you a text message with exchange options, you can take a look, there are many products to choose from.
+Speaker2: Okay, I'll take a look right away.
+Speaker1: Look, there's a store selling alcohol, electronics, and many other products. Hurry up and pick a few that you like.
+Speaker2: Hmm, I took a look, quite a few, I'll pick a phone.
+Speaker1: That's a good idea, using points to exchange a phone is very cost-effective, have you decided yet?
+Speaker2: Great, it's this new smartphone.
+Speaker1: Great choice! This phone's performance is excellent. We'll arrange for shipping as soon as you exchange it.
+Speaker2: Okay, thank you for your reminder, almost missed it.
+Speaker1: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy use.

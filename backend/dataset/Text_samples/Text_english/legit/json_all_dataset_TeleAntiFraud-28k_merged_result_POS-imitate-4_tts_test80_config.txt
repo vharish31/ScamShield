@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Wǒ shì xiǎo wáng, nǐ zuòqǐ bù shì shuō yào zuò rén mùlǐ de diàn tǐ ma?
+Speaker2: Hey, it's me. Do you have time on your side?
+Speaker1: Can you be convenient tomorrow afternoon?
+Speaker2: Can I come over at around two in the afternoon tomorrow?
+Speaker1: Can I come to your house at 3 o'clock?
+Speaker2: Okay, I'll wait for you at home later.
+Speaker1: Okay, I noted down your address as Flower Garden Community, right?
+Speaker2: Yes, the flower garden apartment complex, building number three, unit two, apartment four zero one.
+Speaker1: Okay, see you tomorrow.
+Speaker2: See you tomorrow, thank you.

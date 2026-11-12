@@ -1,0 +1,12 @@
+Speaker1: Hi, I'm little Zhang, I'm in your neighborhood's small community, need to book an electric water repair service.
+Speaker2: Hello, little Zhang, I am customer service representative Li from maintenance service. Could you please tell me your specific address?
+Speaker1: I live in the Happy Garden community, which is right next to the park.
+Speaker2: Okay, I understand. What specifically do you need to repair?
+Speaker1: My kitchen faucet is leaking and the light in the living room is out.
+Speaker2: Understood. We will arrange for the master to come to our door for service as soon as possible. What is a convenient time for you?
+Speaker1: It's best if I'm at home all day today.
+Speaker2: Okay, we'll try to arrange this afternoon. The master will call you ahead to confirm the specific time.
+Speaker1: Okay, thank you. What about the repair cost?
+Speaker2: The cost of repairing water dragon head and electric line is around 300 yuan. The specific fee will be explained by the master after he comes to the door.
+Speaker1: Okay, I understand. Just wait for your teacher to contact me. Thank you.
+Speaker2: No problem, feel free to contact us anytime if you have any questions. Have a great day!

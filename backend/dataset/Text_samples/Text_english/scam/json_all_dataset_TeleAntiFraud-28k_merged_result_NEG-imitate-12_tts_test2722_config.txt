@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Li? I am the manager of Huaxia Bank.
+Speaker2: Yes, Mr. Zhang.
+Speaker1: Is that so? Our bank recently introduced a new financial product with high returns and low risk. Would you be interested in learning more about it?
+Speaker2: Uh, is that so? What's the specifics of it?
+Speaker1: This product has an annual return rate of up to 100%, and it's risk-free. If you're interested, you can click on the link I send you, download our official app, register, and then you'll be able to see the detailed information.
+Speaker2: That sounds good, I can give it a try.
+Speaker1: Okay, I'll give you the link. Just click the link and follow the instructions.
+Speaker2: Okay, I'll wait for the link.
+Speaker1: Okay, please wait, the link has been sent to you. You can contact me anytime if you have any questions.
+Speaker2: Thank you, I will take a look.

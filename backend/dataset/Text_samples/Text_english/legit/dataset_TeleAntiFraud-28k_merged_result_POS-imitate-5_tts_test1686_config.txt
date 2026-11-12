@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, do you have any recommendations for products in your store?
+Speaker2: Hello, Xiao Ming, I'm very happy to serve you. Our store just got a new phone on the market with very high configuration and great value for money. Are you interested?
+Speaker1: Hey, how much does this phone cost?
+Speaker2: This phone is priced at 3500 yuan, and now you can enjoy a discount when buying, it's very cheap.
+Speaker1: Is this phone in stock? I plan to buy it tomorrow.
+Speaker2: Yes, we have enough stock in our store now, you can relax. Our store opens at nine in the morning tomorrow, what time would you come be more convenient for you?
+Speaker1: Can I come at 10 am tomorrow morning?
+Speaker2: Of course, I'll be here at 10 am. If you have any questions, feel free to contact me anytime.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day today.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to inquire about your restaurant's reservation service.
+Speaker2: Hello, I'm very happy to serve you. What can I help you with?
+Speaker1: Can you tell me about your special dishes and how much they cost?
+Speaker2: Our restaurant special dishes include Kung Pao Chicken, Clear Steamed Fish and Spicy Szechuan, priced from 30 to 80 yuan.
+Speaker1: Sounds good. What are your business hours?
+Speaker2: Our restaurant business hours are from 10 am to 10 pm every day, no holidays.
+Speaker1: Okay, I want to reserve a four-person seat, around seven o'clock on Saturday evening.
+Speaker2: Okay, the 4-person table for Saturday night at 7 pm has been reserved for you. Please remember to arrive 10 minutes early.
+Speaker1: Okay, thank you. And, I need to understand your parking situation.
+Speaker2: Our restaurant provides a free parking lot right behind it, very convenient.
+Speaker1: Thanks for your help. See you later.
+Speaker2: No problem, see you later, wish you enjoy your meal.

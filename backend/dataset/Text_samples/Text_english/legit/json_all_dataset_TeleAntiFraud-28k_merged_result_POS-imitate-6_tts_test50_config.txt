@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service monkey of the point store, we see your account has member points, it seems like you've never used them before?
+Speaker2: Uh, is that so? I'm not quite clear, can you tell me what use are points?
+Speaker1: Of course, you can directly deduct your points for cash, in our mall exchange products.
+Speaker2: Is it true? I didn't know this function before, will the points expire?
+Speaker1: Yes, the points are valid for a limited time, all points will be cleared tonight.
+Speaker2: Oh, I gotta hurry and see what good stuff I can trade for.
+Speaker1: Hey, you have over 26,000 member points in your account, which can be exchanged for a variety of products, such as white wine gift boxes, brand-name suits, high-definition TVs, and smartwatches.
+Speaker2: Wow, that's great, I recently wanted a smartwatch.
+Speaker1: Great, after you choose your products, I can also help you apply for a special privilege, and the remaining unused points will continue to be saved.
+Speaker2: Thank you so much, now I feel relieved.

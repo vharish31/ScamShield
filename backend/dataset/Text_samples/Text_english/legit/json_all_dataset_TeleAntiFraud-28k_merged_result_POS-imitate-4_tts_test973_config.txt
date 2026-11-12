@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Can you tell me how to make your family's cake?
+Speaker2: Our cakes are all freshly baked, straight out of the oven, with all ingredients carefully selected. What flavor do you want?
+Speaker1: How much for a chocolate-flavored one?
+Speaker2: Do you want to reserve a chocolate cake for 68 yuan?
+Speaker1: Can I reserve, what time can it be done?
+Speaker2: If you're ready now, you can pick it up in about two hours, or we can deliver it to you, which option do you find more convenient?
+Speaker1: Can you deliver it to my home at Happiness Road 123?
+Speaker2: Okay, Happiness Road 101, we will deliver quickly, about an hour, please pay attention to the delivery call.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy life.

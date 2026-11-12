@@ -1,0 +1,10 @@
+Speaker1: Hi, hello, I reserved a table at your restaurant for tonight at six o'clock, is that right?
+Speaker2: Hello, could you please ask what your reservation name is?
+Speaker1: Zhang Wei, 1361234567.
+Speaker2: Okay, I'll check. Hmm, found it, Mr. Zhang Wei, your reservation is at six o'clock, right? How many people?
+Speaker1: Yes, four people.
+Speaker2: Okay, for the four of you, we have reserved a spot by the window for you, can you see this way?
+Speaker1: Sure, the spot by the window sounds good.
+Speaker2: That's great, just come to the front desk with your name when the time comes, and we'll be ready for you.
+Speaker1: Okay, thank you. Is there a children's menu at your place?
+Speaker2: Yes, we have prepared a special children's menu for our little friends, with various healthy and delicious children's dishes. You can choose them later.

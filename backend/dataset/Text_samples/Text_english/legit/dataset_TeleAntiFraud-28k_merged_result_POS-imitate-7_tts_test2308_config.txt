@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Are you still hiring servers at your store?
+Speaker2: Yes, we are recruiting. How did you know about this information?
+Speaker1: I found it online and want to know more about the specific requirements and conditions.
+Speaker2: Hey, we mainly hire restaurant waiters here, who need to be responsible for greeting customers, taking orders, and serving food.
+Speaker1: Does this job require work experience?
+Speaker2: We prefer candidates with relevant experience, but we are also open to applicants who have just graduated or are interested in learning.
+Speaker1: What about the salary and benefits?
+Speaker2: Base salary plus performance-based bonus, specifically based on individual performance and work tenure, also includes employee meals and year-end bonus.
+Speaker1: Can I come for an interview when it sounds good?
+Speaker2: Can you come at 2 PM tomorrow? We'll be ready for the interview then.

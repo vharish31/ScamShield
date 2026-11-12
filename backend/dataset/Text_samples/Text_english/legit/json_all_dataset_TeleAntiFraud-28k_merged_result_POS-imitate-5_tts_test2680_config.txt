@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Hey, can you tell me about your restaurant's special dishes and how much they cost?
+Speaker2: We have several menu items here, such as fish and pork noodle soup, spicy chicken and peanut, and stir-fried beef with basil. The prices are 35 yuan for fish and pork noodle soup, 40 yuan for spicy chicken and peanut, and 50 to 70 yuan for stir-fried beef with basil depending on the portion size.
+Speaker1: Hey, it sounds good. What are your restaurant's business hours?
+Speaker2: Our restaurant opens at 10 am every day and closes at 10 pm. Welcome anytime.
+Speaker1: Okay, when would be a good time for me to compare?
+Speaker2: If you don't mind the crowd, you can choose to eat during the lunchtime from 12 to 2 pm or the dinner time from 6 to 8 pm. If you want a quieter environment, you can choose to eat outside of those times.
+Speaker1: Hey, I prefer to eat at restaurants. Do I need to reserve a seat in advance?
+Speaker2: I suggest you book in advance, especially on weekends and holidays, people will be more crowded. You can tell me the specific time and number of people, I will reserve for you.

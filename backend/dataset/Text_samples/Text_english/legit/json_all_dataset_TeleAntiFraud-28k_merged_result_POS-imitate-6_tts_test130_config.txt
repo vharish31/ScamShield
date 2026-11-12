@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I saw a new smartwatch on your website, want to know more details?
+Speaker2: Hello, Xiaoming, I'm so happy to serve you. Our smartwatch has many functions such as health monitoring, message reminders, and motion tracking. What specific information do you want to know about?
+Speaker1: What is the battery life of this watch and what is its water resistance level?
+Speaker2: This smartwatch's battery life is approximately seven days, and it doesn't need to be charged every day when used normally. The waterproof rating is up to 50 meters, so it can be worn during daily activities like washing hands, rain, and swimming.
+Speaker1: What should I do if I buy it and find out it doesn't fit me?
+Speaker2: We provide a 7-day no-reason return/exchange service. If you're not satisfied with your purchase, as long as the product remains unopened and undamaged, you can easily apply for a return/exchange.
+Speaker1: Okay, can I choose cash on delivery?
+Speaker2: Of course, we support cash on delivery. You can pay after receiving the goods and feeling satisfied. If there are any issues, you can contact us immediately.
+Speaker1: Then I'll set one up, when can you send it?
+Speaker2: Okay, I'll place the order for you now. Typically, we arrange delivery within twenty-four hours after ordering, and the exact delivery time will depend on your location.
+Speaker1: Okay, thank you for your help, looking forward to receiving the watch.
+Speaker2: You're welcome. If you have any questions, feel free to consult anytime. Wish you a happy life. Bye!

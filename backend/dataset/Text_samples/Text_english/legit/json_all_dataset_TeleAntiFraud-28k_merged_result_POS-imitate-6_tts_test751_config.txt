@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I want to consult your restaurant's menu and business hours.
+Speaker2: Hello, I am server Zhang, our restaurant has a very rich menu with various Chinese and Western dishes, business hours are from 11am to 10pm.
+Speaker1: Do you have any recommended dishes?
+Speaker2: There are several menu items with signs here, such as spicy pot stir-fry, steamed fish with clear broth, and stir-fried beef with signs, all of which are very popular.
+Speaker1: The sound is great, I want to reserve a four-person private room, around 7 pm in the evening.
+Speaker2: Okay, we booked a four-person private room for you at seven o'clock tonight. Do you need to leave your contact information?
+Speaker1: Please, my phone number is 13813801380.
+Speaker2: Okay, I have recorded it down for you, see you at seven o'clock tonight.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: Please welcome you.

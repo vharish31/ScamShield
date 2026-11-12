@@ -1,0 +1,11 @@
+Speaker1: Hello, I am Wang Jing Manager, there is an order from you on our platform before, there may be a problem, please cooperate to handle it.
+Speaker2: What problem? How come I don't know?
+Speaker1: Your order may have been mistakenly processed, please click on the link we sent and confirm the information.
+Speaker2: Link? How can I know this isn't a scam?
+Speaker1: We are a legitimate platform. You can rest assured, if you're not sure, you can download our official app and process it through the app.
+Speaker2: Okay, how do I download your app?
+Speaker1: You can scan the QR code I send you or click the link to download, very convenient.
+Speaker2: What should I do after downloading it?
+Speaker1: After downloading, you can find the order processing entry in the app and follow the instructions to operate.
+Speaker2: Okay, I'll give it a try. Thank you for your help.
+Speaker1: No problem, feel free to contact me anytime. Best wishes.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Zhang Qiang? This is the customer service representative from Huaxin Bank.
+Speaker2: Hello, I am Zhang Qiang, what do you have?
+Speaker1: John, we noticed that your loan amount at our bank has been tight recently. We have a new loan product that doesn't require any collateral, can be quickly approved, are you interested in learning more about it?
+Speaker2: Oh, is that so? What is the interest rate on this loan?
+Speaker1: The interest rate is very favorable, the annual interest rate is only 0.05%, which is much lower than the loan products on the market, and the application process is very simple, you just need to download our APP, fill in some basic information, and you can complete the application.
+Speaker2: Where can I download the app?
+Speaker1: You can directly click on the link I send to you, and it will automatically redirect you to the download page of the app. After downloading, follow the instructions.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you have any questions, feel free to contact me anytime. My phone number is 13800138000.
+Speaker2: Okay, thank you.

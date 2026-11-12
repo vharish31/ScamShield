@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm at the corner of Xin Street, want to take a bike ride.
+Speaker2: Hello, I have already dispatched a car, approximately 10 minutes left to arrive.
+Speaker1: Okay, I'll wait here.
+Speaker2: You can wait at a visible place on the road, if you see a white car with the license plate number 8888, that's ours.
+Speaker1: Okay, I noted it down. How do I pay for the car fee?
+Speaker2: You can pay with your phone, we support multiple payment methods.
+Speaker1: Then I'll pay with Alipay.
+Speaker2: No problem, the driver has arrived. He will tell you the payment steps. If there is anything wrong, you can contact me anytime.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, hope you have a pleasant journey, bye.

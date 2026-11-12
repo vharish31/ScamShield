@@ -1,0 +1,13 @@
+Speaker1: Hello, do you have any recent promotional activities in your family?
+Speaker2: Hello, we recently have some promotional activities, which category of products do you want to know about?
+Speaker1: I want to see the household appliances, especially the refrigerator and washing machine.
+Speaker2: Okay, we currently have discounts on both the refrigerator and washing machine. If you're a member, you can also enjoy additional discounts.
+Speaker1: What specific discounts can I get as a member?
+Speaker2: Members can enjoy a 5% discount and a small gift when purchasing a refrigerator and washing machine.
+Speaker1: Can you tell me the specific address of your store?
+Speaker2: Our store is on the third floor of the bright square in the city center. You can take the metro line one to the bright station, get off and walk five hundred meters to reach us.
+Speaker1: Okay, I understand. What are your business hours?
+Speaker2: Our business hours are from 9am to 9pm every day, no rest on weekends.
+Speaker1: Okay, I'll go this afternoon. Thank you for your help.
+Speaker2: You're welcome. I'm looking forward to your arrival. If you have any questions, please feel free to consult anytime. Goodbye.
+Speaker1: Goodbye.

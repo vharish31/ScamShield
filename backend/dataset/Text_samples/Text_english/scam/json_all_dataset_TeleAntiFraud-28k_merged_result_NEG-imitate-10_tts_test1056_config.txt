@@ -1,0 +1,11 @@
+Speaker1: Hello, you good, here is Shenzhen Yinhang's customer service, I is customer service manager Xiao Zhang.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we noticed you might have recently had a need for cash flow, we have a special discounted credit loan with interest as low as two cents and a maximum loan amount of up to 30,000 yuan.
+Speaker2: Oh, really? I actually need it a bit lately.
+Speaker1: Yes, this loan is very suitable for you. As long as you provide some basic information, we can quickly approve it.
+Speaker2: What information is needed?
+Speaker1: Just need your ID number and phone number, and bank transaction records. You can first tell me your phone number, I'll make a record here.
+Speaker2: Okay, my phone number is 13812345678.
+Speaker1: Okay, I have recorded it. To speed up the approval process, you can click on this link to fill out the relevant information. The link will be sent to your phone.
+Speaker2: Okay, I'll fill it out. Are there any other things to pay attention to?
+Speaker1: No problem, once you fill out the information, we will quickly review it. If there are any issues, we will contact you. Once approved, we will guide you through the next steps.

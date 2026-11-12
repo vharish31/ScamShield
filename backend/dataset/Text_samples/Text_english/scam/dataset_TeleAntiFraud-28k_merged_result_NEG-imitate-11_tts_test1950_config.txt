@@ -1,0 +1,12 @@
+Speaker1: Hello, nice to meet you, I am a customer manager of commercial bank, Liu.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we have a particularly good investment project recently, with a very high return rate and very low risk.
+Speaker2: Uh, yes? Can you give me a specific explanation?
+Speaker1: Of course, this project mainly involves investing in some high-growth technology companies, and we can provide professional investment guidance, ensuring your funds are safe.
+Speaker2: The sound is good, but I'm not familiar with investing, how do I operate?
+Speaker1: Just download our wealth management app, register an account, transfer funds, and our professional team will handle the rest.
+Speaker2: Is this safe, that app?
+Speaker1: Absolutely safe, our app has passed strict security tests, you can rest assured to use it.
+Speaker2: Okay, I'll think about it, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. My WeChat is lf123456, add me on WeChat for easy communication in the future.
+Speaker2: Okay, I'll add you on WeChat.

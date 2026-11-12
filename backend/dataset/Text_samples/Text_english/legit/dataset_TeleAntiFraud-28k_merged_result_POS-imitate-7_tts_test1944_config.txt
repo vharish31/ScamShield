@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Do you have any haircut appointments here?
+Speaker2: Yes, we can make an appointment to do hair here. Which day do you want to make an appointment?
+Speaker1: Is this weekend okay?
+Speaker2: Is it okay, which day of this weekend? Saturday or Sunday?
+Speaker1: Sunday, around 2 pm?
+Speaker2: Sunday at 2 PM still has some spots, I can help you book. Do you need to leave your contact info?
+Speaker1: Okay, my phone number is 1381380138.
+Speaker2: Okay, I have recorded it down. Remember to come at 2 pm on Sunday.
+Speaker1: Okay, thank you!

@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is happy express customer service center, I is customer service specialist Zhang.
+Speaker2: Hello, do you have anything to talk about?
+Speaker1: That's right, we found out that one of your packages was accidentally lost during transportation, and we're really sorry.
+Speaker2: Uh? How do I handle that?
+Speaker1: Please don't worry, to compensate for your loss, we will refund your shipping fee and also give you a gift worth 100 yuan.
+Speaker2: How do I operate it?
+Speaker1: Please click on the link in the text message we sent you, follow the instructions to fill out the relevant information, and we will process your refund and gift within three business days.
+Speaker2: Okay, I'll wait a minute to check my messages.
+Speaker1: Okay, to speed up processing speed, you can add our customer service's WeChat first, the WeChat number is in the text message. If there are any questions, you can directly contact me.
+Speaker2: Okay, I'll check my messages and add WeChat to contact you.

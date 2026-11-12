@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm at your store to confirm the delivery time for the food I ordered.
+Speaker2: Hello, I am a delivery person, your order is being prepared, it will take approximately fifteen minutes.
+Speaker1: Okay, when can I expect to receive it around 5 or 6?
+Speaker2: Based on the current progress, you should receive your meal at forty-five minutes past the hour.
+Speaker1: Will there be traffic congestion if I live in the Qingyun Xiaoquan?
+Speaker2: The traffic on the side of the Qingyun Xiāngqū is not bad at the moment, I will try to avoid rush hour to ensure timely delivery.
+Speaker1: Okay, then I'll stay at home all day.
+Speaker2: Thank you very much for your patience, if there are any changes, I will contact you in advance.
+Speaker1: Yes, I have another question. Can you confirm if the spicy dish in my order is available?
+Speaker2: We have noted your request for spicy food, the chef will make it according to your taste.
+Speaker1: That's great, thank you for your help.
+Speaker2: You're welcome, please feel free to contact us if you have any questions, enjoy your meal!

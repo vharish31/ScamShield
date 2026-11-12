@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a server at some restaurant, did you reserve a seat for tonight at seven o'clock?
+Speaker2: Yes, I remember I booked tonight's seat.
+Speaker1: Okay, we have recorded your reservation. How many of you are there?
+Speaker2: We are four.
+Speaker1: Okay, four of you. Do you have any special seat requirements, such as by the window or a quiet corner?
+Speaker2: If there are quiet corners, that would be better.
+Speaker1: Understood, we will do our best to arrange for you. Additionally, our restaurant has a special seafood promotion tonight, are you interested?
+Speaker2: Can you introduce yourself to us?
+Speaker1: Of course. We have fresh shrimp and scallops, as well as a special seafood platter, all made to order, very fresh.
+Speaker2: That's great, we'll consider some options later. Thank you for your recommendation.
+Speaker1: You're welcome. I hope you have a wonderful dining experience tonight at our restaurant. If you have any other needs, please let me know.

@@ -1,0 +1,9 @@
+Speaker2: Hey, your package arrived, are you at home?
+Speaker1: At home at home, I just arrived home, where did you put it?
+Speaker2: I'm waiting in the guard room, can you come get me?
+Speaker1: The guard room, okay, I'll go down to get it right away.
+Speaker2: Okay, hurry down, I'm waiting for you here.
+Speaker1: Okay, I'll go down now, you watch me, don't let anyone make a mistake.
+Speaker2: No problem, you relax, I'm here waiting for you.
+Speaker1: Please lend me your shoes, I'll wear them.
+Speaker2: Okay, I'm waiting for you here, see you later.

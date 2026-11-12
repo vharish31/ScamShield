@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you the Macao Sun Da car repair shop?
+Speaker2: Okay, yes, what can help you?
+Speaker1: My car has been having some starting issues lately, so I want to check it out.
+Speaker2: Okay, can you come over now? Let's first check what the issue is.
+Speaker1: Can I go now? Do I need to bring anything?
+Speaker2: No need, just drive the car over directly.
+Speaker1: Okay, I'll be there in about twenty minutes.
+Speaker2: Okay, we're waiting for you on this side, be careful on the road.

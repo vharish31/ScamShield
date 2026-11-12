@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am the customer service of the food square. I have confirmed your reservation for tonight at six and a half. Your seat is reserved.
+Speaker2: Okay, thank you.
+Speaker1: No thanks, is this your first time here?
+Speaker2: Yes, first time.
+Speaker1: Would you like me to introduce you to our special dishes?
+Speaker2: Okay, can you help me?
+Speaker1: We have several menu items here, such as spicy Szechuan, steamed sea bass, and both are very popular. If you prefer something milder, we also have garlic and basil.
+Speaker2: Everything sounds great, I want to order a spicy hot pot first.
+Speaker1: Okay, we will prepare the spicy pot for you. Also, our restaurant now has a Meituan discount coupon activity, you can follow it.
+Speaker2: Okay, I will pay attention to it. Thank you for your recommendation.
+Speaker1: You're welcome! I hope you enjoy your dinner tonight. If you need anything, please feel free to find our server at any time. Goodbye!
+Speaker2: Thank you, goodbye!

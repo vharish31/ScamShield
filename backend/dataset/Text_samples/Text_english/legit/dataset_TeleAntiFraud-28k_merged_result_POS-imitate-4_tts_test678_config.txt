@@ -1,0 +1,10 @@
+Speaker1: Hello, I am a server at Xingyue Restaurant. You reserved a table for tonight at six o'clock. Can you confirm if you will still come?
+Speaker2: Okay, I'll go. Do you have any recommendations for dishes there?
+Speaker1: Our menu here has steamed sea bass with ginger and green onions, and also has a famous roast duck, all of which are very popular.
+Speaker2: Okay, I'll order these later. Also, I might bring a few friends along, can I add a few more seats?
+Speaker1: Of course, you can bring a few people, I'll adjust it here.
+Speaker2: Four or five people.
+Speaker1: Okay, I will reserve six seats for you. Do you have any special seat requirements, such as by the window or non-smoking area?
+Speaker2: It's best to be in a non-smoking area, a quiet place.
+Speaker1: Understood, I will arrange a non-smoking area for you. Let's meet tonight at six.
+Speaker2: Okay, thank you. See you later.

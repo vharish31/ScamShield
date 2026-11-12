@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Is your restaurant still open?
+Speaker2: Are you ready to reserve a seat for business?
+Speaker1: Sure, want to reserve a double place for tonight at seven o'clock?
+Speaker2: Okay, 7 am is fine, do you have any special requirements?
+Speaker1: I hope to sit by the window and look at the night view.
+Speaker2: Okay, I'll reserve the spot by the window for you. How many people?
+Speaker1: Two people.
+Speaker2: Okay, the two window seats have been reserved for you, remember to come on time.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, hope you enjoy your meal, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, do you have anything?
+Speaker1: Hello, I am the customer service of the e-commerce platform. Your accumulated shopping points on your account will be cleared at midnight tonight. Have you used up these points yet?
+Speaker2: Oh, really? I forgot. What can these points be exchanged for?
+Speaker1: These points can be redeemed for over three thousand nine hundred dollars in cash, you can use these points to buy a lot of products, such as mobile phones, electronics, liquor, etc.
+Speaker2: That's quite reasonable. How many points do I have on my account?
+Speaker1: You have accumulated 26,800 points on your account, which is equivalent to nearly 4,000 yuan worth of products. Hurry up and log in to our platform.
+Speaker2: Okay, I'll go take a look. Do these points have to be used up by twelve midnight tonight?
+Speaker1: Yes, if these points are not used up by 12 am tonight, they will be cleared. You had better seize time.
+Speaker2: Understood, thank you for your reminder. I will handle it quickly.

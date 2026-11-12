@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, what can I help you with?
+Speaker1: I want to inquire about your hair salon's business hours. What time do you open?
+Speaker2: We are open from 9 am to 8 pm every day, including holidays.
+Speaker1: Okay, can I reserve a spot for tomorrow afternoon at 2 PM?
+Speaker2: Sure, I've reserved a spot for you at 2 pm tomorrow afternoon. Just come a little early.
+Speaker1: What do we need to prepare in advance?
+Speaker2: No need to prepare anything special, just come and tell us your needs directly.
+Speaker1: I understand, thank you for your help.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, see you tomorrow.

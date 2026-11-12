@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Li Ming?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for JD Finance, and I found that you have an outstanding loan from our platform that you haven't paid off yet. I want to know more about your repayment plan.
+Speaker2: Oh, that's it, I'm a bit short of funds lately.
+Speaker1: Understand your situation, but we recently introduced a new repayment plan that can extend the repayment period, reduce your repayment pressure.
+Speaker2: How do I operate it?
+Speaker1: You can download our latest version app, directly modify repayment plan through app, operation very simple.
+Speaker2: Okay, I'll download and take a look.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact our customer service at any time. By the way, would you be willing to add my WeChat account for easier communication in the future?
+Speaker2: WeChat? Okay, say your WeChat number.
+Speaker1: My WeChat number is jingdongjinrong123. Add me as a friend and I can help you solve any problems you encounter anytime.
+Speaker2: Okay, I'll add you.

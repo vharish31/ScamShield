@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of Fei Fan Wai Mai, you ordered a seafood set meal from our platform before, but the delivery time was delayed, do you want to confirm if you are still waiting?
+Speaker2: Still here, but I'm worried the time is too long, the food will get cold.
+Speaker1: I'm very sorry to have caused you inconvenience. We have already notified the delivery man to speed up the delivery. To make up for your waiting time, we have decided to provide you with a free delivery service next time you order.
+Speaker2: Okay, then, thank you.
+Speaker1: No problem, your satisfaction is our pursuit. Moreover, are you satisfied with our dishes? Do you have any suggestions?
+Speaker2: The taste of the food is good, just hoping the delivery can be a little faster.
+Speaker1: Thank you very much for your feedback. We will immediately feedback to the relevant department and strive to improve the service quality.
+Speaker2: Okay, then I'll ask you.
+Speaker1: Okay, if you have any other questions, please feel free to contact us. Your meal should be here soon, enjoy your meal!
+Speaker2: Thank you, goodbye.

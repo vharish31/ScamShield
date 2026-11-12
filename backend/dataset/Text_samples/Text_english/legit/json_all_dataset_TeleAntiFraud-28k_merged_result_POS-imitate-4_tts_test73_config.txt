@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me about your restaurant's special dishes?
+Speaker2: Our restaurant's signboard menu has kung pao chicken, steamed fish and beef noodles, all with very good taste.
+Speaker1: What are your business hours?
+Speaker2: Our business hours are from 11 am to 9 pm every day, no holidays.
+Speaker1: Sure, can I reserve a seat for tomorrow evening at 7 pm?
+Speaker2: Is it okay? How many of you are there?
+Speaker1: We are four people
+Speaker2: Okay, I have reserved a 4-person table for you at 7 pm tomorrow night. Just come directly when it's time.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. I'm looking forward to your arrival. Goodbye.
+Speaker1: Goodbye.

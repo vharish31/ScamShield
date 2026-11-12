@@ -1,0 +1,12 @@
+Speaker1: Hello, I want to inquire about your short-term rental service.
+Speaker2: Hello, can we provide short-term rental service here? How long do you need to rent?
+Speaker1: About ten days, because there are guests coming to the family recently.
+Speaker2: Okay, short-term rentals of ten days or so are available. What type of room do you need?
+Speaker1: A one-room one-living-room apartment is enough, as long as it's comfortable to live in.
+Speaker2: We have a one-room, one-living-room apartment. The daily rent is one hundred and fifty yuan, and after ten days it's two thousand two hundred and fifty yuan. Is that okay?
+Speaker1: Hmm, the price is acceptable. Do we need a deposit?
+Speaker2: You need to pay a deposit of 300 yuan before checking in. If the room facilities are not damaged upon checkout, the deposit will be fully refunded.
+Speaker1: Okay, I understand. So when can I move in?
+Speaker2: You can come anytime, please inform me one day in advance with specific time, I will prepare room for you.
+Speaker1: Okay, I'll make a note of it, thank you for your help.
+Speaker2: No problem, see you later. Wish you and your family a happy home.

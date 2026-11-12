@@ -1,0 +1,15 @@
+Speaker1: Hello, I'm Li Xiao, this is somebao customer service.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we noticed that you recently purchased a product on our platform, but unfortunately, the product was lost during transportation.
+Speaker2: Really? Then what do we do?
+Speaker1: Don't worry, we can provide you with a fast refund service. Just click on the link we send and fill out the relevant information to receive your refund immediately.
+Speaker2: Okay, how do I operate it?
+Speaker1: Just click this link and follow the instructions to fill out your bank account information, and we'll immediately process your refund request.
+Speaker2: Link? Okay, I'll take a look later.
+Speaker1: Okay, the link has been sent to your phone. Please check it out. Also, for the sake of security, please provide your verification code. Let's verify your identity.
+Speaker2: Did you send me the verification code too?
+Speaker1: Yes, the verification code has been sent to your phone, check your messages.
+Speaker2: Okay, I received it. The verification code is 123456.
+Speaker1: Okay, thank you for your cooperation. We will immediately process your refund request. Is there anything else we can help you with?
+Speaker2: No more, thank you.
+Speaker1: No problem, wish you happy life, bye.

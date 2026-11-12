@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? Can you tell me if there are any jobs suitable for graduates in your place?
+Speaker2: Hello, there is a job position that suits fresh graduates, you can have a detailed look.
+Speaker1: That's great, my brother just graduated, he had no work experience before, is that okay?
+Speaker2: Sure, we value learning ability and teamwork spirit more, work experience is not necessary.
+Speaker1: What do we need to prepare?
+Speaker2: We'll start with a preliminary interview here to understand his basic information and professional background, and then arrange relevant tests.
+Speaker1: When is the interview approximately?
+Speaker2: Can we schedule an interview for next Tuesday at 2 PM? Is this time convenient for you?
+Speaker1: 2 PM on Thursday is good, no problem.
+Speaker2: Okay, I'll reserve this time for your brother. Remember to bring your resume and related certificates.
+Speaker1: Okay, thank you for your help. We'll meet later.
+Speaker2: No problem, wish your brother's interview goes well, see you later.

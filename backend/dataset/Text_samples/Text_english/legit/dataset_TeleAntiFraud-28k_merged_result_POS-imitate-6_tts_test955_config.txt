@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to inquire about your restaurant's signature dishes.
+Speaker2: Our restaurant specialties include red braised pork, steamed fish and spicy pot, all very popular.
+Speaker1: How do you make clear-steamed fish?
+Speaker2: We use fresh cod, seasoned with ginger and scallions, and use traditional steaming methods to preserve the freshness and nutrition of the fish.
+Speaker1: How much does it cost to sound good?
+Speaker2: The price of steamed fish is 120 yuan per person, and we have discounts if there are many people.
+Speaker1: What time do you close on weekends?
+Speaker2: Our restaurant is open from 11 am to 10 pm on weekends. We recommend you make a reservation in advance to avoid waiting.
+Speaker1: Okay, can I reserve a four-person table for 2 pm?
+Speaker2: Okay, I have already reserved for you. Just give me your name when you arrive.
+Speaker1: Thank you, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

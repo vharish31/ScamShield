@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I want to reserve a seat at 12 pm tomorrow.
+Speaker2: Hello, Xiao Ming, I am the little red at the restaurant. I am very happy to serve you. How many are you?
+Speaker1: We are four people, wanting to reserve a window seat.
+Speaker2: Okay, the window position has been reserved for you. Do you have any special dietary requirements?
+Speaker1: There's a friend among us who doesn't eat seafood, while the others can.
+Speaker2: Understood, we will pay special attention at that time. Do you need to order ahead?
+Speaker1: Sure, I want to order one portion of beef stir-fry, one portion of steamed fish, and one portion of green vegetables.
+Speaker2: Okay, all these menu items have been recorded. What drinks do you need to order?
+Speaker1: Two glasses of orange juice, two glasses of iced red tea.
+Speaker2: Okay, Xiao Ming, your reservation is complete. Tomorrow at noon twelve, we'll be here waiting for you. If there are any changes, please contact us anytime.

@@ -1,0 +1,20 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw your rental housing information online and want to know more details.
+Speaker2: Okay, do you want to rent our one room one apartment?
+Speaker1: Yes, my friend recommended it, saying your house is not bad.
+Speaker2: Thank you for the award, our house is indeed well maintained. Can you simply introduce yourself?
+Speaker1: I'm Li Ming, currently working at a company nearby, looking for a place to live nearby.
+Speaker2: Li Ming, hello. Our house is very suitable for office workers, the surrounding transportation is convenient, and all the facilities are complete.
+Speaker1: How much is the rent for that house? And how do you calculate the deposit?
+Speaker2: The monthly rent is 2500 yuan, and the deposit is one month's rent. You can choose to pay one month's rent upfront or six months' rent.
+Speaker1: Can't hold on for three lines?
+Speaker2: Okay, three-pay is our common way.
+Speaker1: Okay, can I go take a look at the house?
+Speaker2: Of course, when do you have time?
+Speaker1: Can't go this weekend?
+Speaker2: This weekend is fine, specific time you decide.
+Speaker1: Let's meet at two in the afternoon on Saturday.
+Speaker2: Okay, Saturday afternoon at two o'clock, I'll be waiting for you here.
+Speaker1: Okay, thank you.
+Speaker2: No problem, see you later.

@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is Tian An Yin Bank customer service center, I is Zhang Jing Manager.
+Speaker2: Hello, Zhang Manager, what do you have?
+Speaker1: That's right, we found some unusual activity on your account recently, so we need you to cooperate with us for a security check.
+Speaker2: Uh, what do I need to do?
+Speaker1: Could you please provide your bank account and the recent transaction verification code for us to verify?
+Speaker2: Okay, my account number is 6222 0800 1234 5678, and the verification code for my recent transaction is 123456.
+Speaker1: Thank you very much, we need you to download a safety check app to ensure your account safety.
+Speaker2: Okay, I'll go download it now.
+Speaker1: You can download the app named "Safe Guardian" from the app store. After downloading, please open the app and enter the invitation code 123456. We will immediately start the security check.
+Speaker2: Okay, I'll download it now. Thank you, Zhang Jingni!

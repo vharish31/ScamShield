@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about the special dishes at your restaurant?
+Speaker2: Our restaurant specialties include steamed fish, kung pao chicken and spicy Szechuan, all very popular.
+Speaker1: How much do these dishes cost?
+Speaker2: Steamed fish in water is 68 yuan, palace spicy chicken is 38 yuan, stir-fried with chili oil and ginger is different in price according to quantity, ranging from 45 yuan to 70 yuan.
+Speaker1: What are your business hours from what time to what time?
+Speaker2: Our restaurant business hours are from 11 am to 9 pm every day.
+Speaker1: Okay, I want to reserve a seat for tomorrow night at seven o'clock.
+Speaker2: Okay, the 7 pm spot has been reserved for you tonight. Please remember to arrive ten minutes early.
+Speaker1: Okay, thank you.
+Speaker2: Please welcome you.

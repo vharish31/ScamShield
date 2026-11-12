@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Which restaurant is on your side?
+Speaker2: Welcome to the delicious restaurant. Is there anything I can help you with?
+Speaker1: I want to reserve a place for two people at seven o'clock in the evening.
+Speaker2: Okay, 7 pm for two people, can you book the location for me? What's your name?
+Speaker1: Call me little Li.
+Speaker2: Okay, Little Li, the location has been reserved for you. Just come directly when the time comes.
+Speaker1: Okay, what do you recommend there?
+Speaker2: Our menu here has red braised pork, steamed fish with ginger and scallions, and stir-fried mushrooms with garlic, all very popular.
+Speaker1: I'm getting hungry listening to you, I'll definitely try it later.
+Speaker2: You won't be disappointed if you come, we're waiting for your arrival.

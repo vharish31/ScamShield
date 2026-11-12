@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Zhang, the customer service representative at Huayang Science and Technology Company.
+Speaker2: Hello, what do you have?
+Speaker1: That's it, our system detected unusual activity on your account, it might have been illegally operated.
+Speaker2: Really? Then what do we do?
+Speaker1: To ensure your account is safe, we need you to cooperate with a simple verification.
+Speaker2: Okay, what do I need to do?
+Speaker1: Please click this link, then follow the instructions, enter your bank card number and verification code.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, please let me know once the operation is done, we'll process it quickly.
+Speaker2: Okay, thank you.

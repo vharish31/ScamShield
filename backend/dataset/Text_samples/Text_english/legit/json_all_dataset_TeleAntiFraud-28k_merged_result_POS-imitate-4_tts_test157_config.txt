@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I want to inquire about your hairdressing appointment service.
+Speaker1: Okay, what time slot would you like to book?
+Speaker2: Can I make a reservation for tomorrow afternoon at 2:00 PM?
+Speaker1: Can I see you at two in the afternoon tomorrow? Is this your first time at our store?
+Speaker2: Yes, first time.
+Speaker1: Okay, can you tell me your name and contact information for the first time you're coming?
+Speaker2: Okay, my name is Li Huai, phone number is 13800138000.
+Speaker1: Okay, Li Huangshēng, I recorded it down. You can come at exactly 2 pm tomorrow afternoon.
+Speaker2: Okay, thank you. By the way, I have long hair, I want to cut a short hair, do you have any recommended hairstyles here?
+Speaker1: Yes, we have several popular short haircuts here. You can try them on in the shop, our barber will recommend one based on your face shape and style.
+Speaker2: Okay, thank you for your detailed answer.
+Speaker1: No problem, feel free to contact us anytime if you have any questions. See you tomorrow!
+Speaker2: Okay, see you tomorrow. Goodbye.
+Speaker1: Goodbye.

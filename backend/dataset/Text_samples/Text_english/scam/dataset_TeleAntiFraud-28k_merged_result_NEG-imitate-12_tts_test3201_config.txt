@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Who are you?
+Speaker1: Mr. Li, hello, I am Li, the loan manager of the Dongjing Bank, we have a new loan product called "Mingxiangdai", are you interested in learning more about it?
+Speaker2: Loan? I don't really need this one.
+Speaker1: Mr. Li, please don't rush to reject this loan product. It's very flexible and the interest rate is very low. You just need to provide some basic information, and we can quickly approve it for you.
+Speaker2: How do I know you guys are legitimate?
+Speaker1: Mr. Li, you can rest assured that we are the official products of Dongguan Bank. You can apply for us through our official app, which is more secure. I can send you a link, and you can download our app after you click on it to see more detailed information.
+Speaker2: Okay, can you send me a link?
+Speaker1: Okay, I'll send it over now. Please make sure to check the text message. If you have any issues after downloading, feel free to contact me anytime.
+Speaker2: Thank you, I will take a look.

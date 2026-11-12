@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, I came to pick up the reserved cake.
+Speaker2: Hello, little Li, can you tell me what time you are scheduled for, I'll check.
+Speaker1: I was scheduled to come at 3:30 PM yesterday, but he said he would pick me up today.
+Speaker2: Okay, I checked. I found it. Your reservation is for a birthday cake, right?
+Speaker1: Yes, that's the chocolate flavor.
+Speaker2: This cake is ready, you can pick it up at the counter.
+Speaker1: Okay, I'll come over now. Also, do you have parking spots here?
+Speaker2: Yes, there's a small parking lot behind us, you can just drive right in.
+Speaker1: Thanks for your help.
+Speaker2: No thanks, wish you a smooth journey.

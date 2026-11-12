@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am an agribank customer manager, Xiao Zhang.
+Speaker2: Hello, what do you have?
+Speaker1: We recently launched a new loan product with a high credit limit and low interest rate, which is very suitable for customers with funding needs.
+Speaker2: What are the conditions for this loan?
+Speaker1: As long as you have a stable income and no negative credit records, you can apply. We can also provide one-on-one service to help you solve problems during the loan process.
+Speaker2: The sound is good, but I'm not convenient to go to the bank now.
+Speaker1: No problem, you can click this link to download our app, and apply online directly.
+Speaker2: Is this app safe? I'm using it for the first time.
+Speaker1: Absolutely safe, we are a regular bank, all information will be encrypted processed. You just need to follow the instructions, and you can complete the application quickly.
+Speaker2: Okay, I'll give it a try. Thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes for your application.

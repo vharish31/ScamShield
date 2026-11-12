@@ -1,0 +1,10 @@
+Speaker1: Hello, you are an agricultural bank customer service representative, Lee Huai.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed some unusual activity on your account recently, to ensure the safety of your funds, we need you to cooperate with us to do some verification.
+Speaker2: Okay, what do you need me to do?
+Speaker1: Please provide your ID number and bank card number, we need to verify the information on this side.
+Speaker2: Okay, my ID number is 123456789012345678, my bank card number is 6222 0808 1234 5678.
+Speaker1: Okay, thank you for your cooperation. Moreover, we found out that you may be involved in a fraud case, so please transfer the funds to the account we provide for your safety.
+Speaker2: Really? Then what should I do?
+Speaker1: Yes, you just need to transfer your funds to this account: 6222 0808 1234 5679, and then provide us with the transfer receipt, we will help you process it in the backend.
+Speaker2: Okay, I'll transfer the money right away.

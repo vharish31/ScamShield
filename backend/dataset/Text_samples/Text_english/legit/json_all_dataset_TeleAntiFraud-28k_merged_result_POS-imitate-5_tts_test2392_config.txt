@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm a Meituan merchant, did your delivery guy drop your food?
+Speaker2: "Hmm, yes, I've been waiting, and it took a long time to find out that the delivery didn't arrive."
+Speaker1: I'm very sorry, this situation shouldn't happen. We'll handle the refund first, you can apply directly, and the customer service will approve it.
+Speaker2: Okay, how do I apply for a refund?
+Speaker1: You can click on the "Apply for Refund" button on the order details page, select the refund reason, and then submit the application.
+Speaker2: How long will it take for the refund to be credited to my account?
+Speaker1: In general, refunds are processed within one business day, but the exact time of crediting may vary depending on your payment method.
+Speaker2: I understand, thank you for your help.
+Speaker1: No problem, if you have other questions, please contact our customer service anytime.
+Speaker2: Okay, thank you again, goodbye.
+Speaker1: Goodbye, wish you happy life.

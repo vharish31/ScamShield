@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, recently I want to buy a phone, I saw your store has activities, want to consult.
+Speaker2: Hello, little Li, I am the customer service clerk Zhang in the store, what can I help you with?
+Speaker1: Can you check the stock of this phone for me?
+Speaker2: Of course, can you tell me which specific phone model are you referring to?
+Speaker1: This is the latest flagship phone, black, 12+256GB configuration.
+Speaker2: Okay, I'll help you look it up right away. Just a moment.
+Speaker1: Okay, thank you.
+Speaker2: Found it, this phone model currently has stock, but the quantity is limited, if you're interested, it's recommended to place an order quickly.
+Speaker1: Is there any discount activity now for purchasing?
+Speaker2: You can enjoy a discount and earn store points when you buy this phone now. You can use the points on your next purchase.

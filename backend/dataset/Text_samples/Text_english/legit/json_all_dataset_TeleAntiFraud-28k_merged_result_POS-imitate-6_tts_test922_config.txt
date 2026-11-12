@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I am a customer service representative for Zhilian recruitment. We agreed to have an interview at 9:30 am this morning.
+Speaker2: Oh, yes, I remember. Is the interview location at your company?
+Speaker1: Yes, the interview location is at our company, the address is Huace City Center, third floor. You can come directly there later.
+Speaker2: Okay, the Huace City Tower is three floors?
+Speaker1: You can take the elevator directly to the third floor after arriving at the building. Our front desk will welcome you.
+Speaker2: Okay, I'll be there around 9:20. Is that okay?
+Speaker1: Of course, arriving early is no problem, you can wait in the rest area first.
+Speaker2: Okay, thank you for your reminder, let's meet later.
+Speaker1: Okay, see you later, wish you a smooth journey.

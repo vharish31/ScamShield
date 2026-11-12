@@ -1,0 +1,9 @@
+Speaker1: Hey, where are you? I can't find you anymore.
+Speaker2: I'm at the library door, hurry up and come over.
+Speaker1: Library entrance? There are several doors here, are they main doors or side doors?
+Speaker2: The main entrance is the one with the big clock tower.
+Speaker1: Oh, I understand, I'll be right over.
+Speaker2: Okay, I'm waiting for you here, hurry up.
+Speaker1: Wait for me a minute, I just arrived at the crossroad, it's just a few seconds away.
+Speaker2: Okay, I see you, just wait for you downstairs at the clock tower.
+Speaker1: Okay, I'll be there soon.

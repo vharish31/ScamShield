@@ -1,0 +1,12 @@
+Speaker1: Hey, how much does your new phone cost?
+Speaker2: Hello, the lowest price for the new phone is six thousand five hundred. The specific colors and configurations may have some price differences, what configuration do you want?
+Speaker1: Is that white one expensive?
+Speaker2: The white ones are seven thousand, but now there's a promotion for white ones, you can get a discount of one thousand.
+Speaker1: Can I get it from your store now?
+Speaker2: You can take the white handphones directly now, our store has enough white handphones.
+Speaker1: Okay, I'll be there in about half an hour. Have the store address not changed?
+Speaker2: The address hasn't changed, it's still at the square next to the city center, you can go directly in when you arrive.
+Speaker1: What are your business hours from what time to what time?
+Speaker2: Our store's business hours are from 9am to 9pm, you can come anytime.
+Speaker1: Okay, thank you, I'll see you later.
+Speaker2: No problem, see you later, wish you a smooth journey.

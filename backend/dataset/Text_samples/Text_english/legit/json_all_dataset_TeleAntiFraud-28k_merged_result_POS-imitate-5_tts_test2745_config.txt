@@ -1,0 +1,12 @@
+Speaker1: Hi, I'm little Li, I need to consult your new phone here.
+Speaker2: Hello, little Li, I am customer service representative Wang, what can I help you with?
+Speaker1: Can you tell me about the latest ES phone from your place, is there a model that costs 14,350 yuan?
+Speaker2: Hmm, you said it should be the ES type number, but our latest here is ES four, price is fifteen thousand six hundred and eight.
+Speaker1: Is the 15686 model the best option?
+Speaker2: Yes, this is the top version, the configuration is very good, do you want to know more information?
+Speaker1: How's the battery life of this phone?
+Speaker2: This phone's battery capacity is 4000mAh, it can be used normally for a whole day without any problems, and it can also last until the evening if used heavily.
+Speaker1: Is this phone sold by the company of the FourS store?
+Speaker2: Yes, this is the four-store sale through our cooperation, with quality and service guaranteed.
+Speaker1: Okay, I'll wait a minute, I'll ask my friend's opinion and see if they agree or disagree.
+Speaker2: Okay, take your time to think it over. If you have any questions, feel free to reach out to me anytime.

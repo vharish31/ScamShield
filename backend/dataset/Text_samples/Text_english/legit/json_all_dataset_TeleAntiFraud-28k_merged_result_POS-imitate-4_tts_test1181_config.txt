@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Ming, can you hear me?
+Speaker2: Can you hear me, little Ming?
+Speaker1: How have you been lately?
+Speaker2: Good, you?
+Speaker1: I'm doing well, lately my work has been pretty busy.
+Speaker2: Work is busy, but don't forget to rest, don't get too tired.
+Speaker1: Thank you for your concern. The weather has turned cold lately. How's the weather on your side?
+Speaker2: The weather here has started to get cold, how about there?
+Speaker1: The weather here is pretty similar, with a big temperature difference between morning and evening.
+Speaker2: Oh, the weather is changing a lot, remember to wear some clothes when going out.

@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I want to make an appointment for tomorrow's haircut time.
+Speaker2: Okay, what time would you like to make an appointment tomorrow?
+Speaker1: Can we meet at three in the afternoon?
+Speaker2: Three o'clock is fine, but I already have an appointment at three o'clock on this side, can we be slightly late, like three and a half?
+Speaker1: Three and a half is okay, so I'll come at three and a half.
+Speaker2: Okay, I have booked an appointment for you tomorrow at 3:30 PM at the hair salon. Remember to bring your ID, we need to register here.
+Speaker1: Okay, I'll bring it. How long will it take?
+Speaker2: In general, a simple haircut usually takes about 45 minutes to an hour. If there are special requirements, it might take a little longer.
+Speaker1: Okay, thank you.
+Speaker2: No problem, feel free to contact us anytime if you have any questions. See you tomorrow.

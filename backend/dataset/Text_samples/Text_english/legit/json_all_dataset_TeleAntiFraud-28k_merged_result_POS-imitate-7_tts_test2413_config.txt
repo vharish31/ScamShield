@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, do you have any stir-fried vegetables and rice noodles in the store?
+Speaker2: Hello, little king, we have stir-fried vegetables with noodles here, which is very popular, do you want to try?
+Speaker1: Okay, I want to order one portion. Can you adjust the spiciness level?
+Speaker2: Sure, we offer micro spicy, medium spicy and special spicy three options, which one do you want?
+Speaker1: Can I have spicy, do you have sweet things here?
+Speaker2: Yes, we have mango ice cream and red bean cake, both are sweet, you can choose one.
+Speaker1: Can I have a red bean cake? Also, I'll be there in about twenty minutes. Can you help me prepare a little?
+Speaker2: No problem, we will be ready at the store before you arrive, you can come directly to the store after you arrive to pick it up.
+Speaker1: Okay, thank you, I'll see you later.
+Speaker2: No problem, see you later, wish you enjoy your meal!

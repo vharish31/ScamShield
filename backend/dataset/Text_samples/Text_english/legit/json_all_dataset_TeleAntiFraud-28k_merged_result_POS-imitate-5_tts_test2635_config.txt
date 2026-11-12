@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm here through your online platform to confirm if I can change the time.
+Speaker2: Hello, can you tell me which service you are booking on our platform?
+Speaker1: I scheduled a housekeeping service, originally it was at 3 PM tomorrow, but now I have some things and want to change it to 10 AM tomorrow morning.
+Speaker2: Okay, this time is adjustable. However, we need to confirm if changing the date will result in additional fees.
+Speaker1: Oh, in this way, if there are any additional fees, how much would it probably be?
+Speaker2: If you change your service within 24 hours before the service, you will pay 10% of the service fee as a change fee. Since your situation is within this time range, you need to pay the change fee.
+Speaker1: Then I understand, then I agree to pay this rescheduling fee.
+Speaker2: Okay, I will help you change your appointment time. The rescheduling fee will be deducted directly from your account, and you can check the detailed expenses in your account.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, feel free to contact me anytime. Have a nice day.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager of Agricultural and Commercial Bank, my name is Lee Hua, do you have any recent capital rotation needs?
+Speaker2: Hello, I currently don't have any financial needs.
+Speaker1: Oh, that's how it is. Do you know that we just launched a low-interest loan product, it's really cheap, are you interested in learning more about it?
+Speaker2: Low interest loan? It sounds good, can you give me more details?
+Speaker1: Of course. To quickly understand your needs, I can send you a link, you click on the link and fill out some personal information, we will have a specialist contact you.
+Speaker2: Okay, how do I receive this link?
+Speaker1: If it's convenient for you, you can add my WeChat, I'll send you the link through WeChat.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: My WeChat number is LH123456, add me and I'll send you the link.
+Speaker2: Okay, I'll add you.

@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Is that a housekeeping service company?
+Speaker2: Yes, I am.
+Speaker1: I saw you guys recruiting family cleaners at Five Eight City Center. I wanted to know more about it.
+Speaker2: Okay, we really need several family cleaners, can you tell me some of your basic information?
+Speaker1: I'm Li Huai, 27 years old, have 2 years of family cleaning work experience, can start work immediately.
+Speaker2: Hmm, your situation sounds pretty good. Our work hours here are from eight in the morning to five in the evening, with one day off per week.
+Speaker1: What are the salary and benefits for this time period?
+Speaker2: We provide a monthly base salary of 3,000 yuan, plus performance bonuses. If you perform well, the bonuses are also quite attractive.
+Speaker1: What materials do I need to prepare before it sounds good?
+Speaker2: You need to prepare copies of your identity card, health certificate, and past work certificates.
+Speaker1: Okay, I will prepare these materials. When can I go for an interview?
+Speaker2: You can come to our company for an interview at 10 am tomorrow. The address is 108 Garden Road, Jianzhu Serviced Apartments.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

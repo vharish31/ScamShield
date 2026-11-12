@@ -1,0 +1,8 @@
+Speaker1: Hello, this is Green Source Home Service Company, I am customer service Xiao Lin, you previously booked our cleaning service, confirm one more time, tomorrow morning at 10 am, our staff will come to your home to provide service, do you have anyone at home?
+Speaker2: Okay, I'll be at home at 10 am tomorrow.
+Speaker1: Okay, our staff will arrive on time. Remember to prepare the clean areas in advance. Is there anything else I can help with?
+Speaker2: Hey, can you confirm the cost of cleaning the kitchen?
+Speaker1: The price of kitchen cleaning varies based on the size of the kitchen and the level of grease. Generally, the cost of kitchen cleaning is 200 yuan. If the kitchen is particularly large or has special requirements, there may be an additional fee.
+Speaker2: I understand now, thank you for your answer.
+Speaker1: You're welcome. If you have other questions, feel free to contact us anytime. See you tomorrow!
+Speaker2: Okay, see you tomorrow. Goodbye.

@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Is this the small cloud family, do you need home service?
+Speaker2: We are quite busy lately, can we find a nanny to help clean the house?
+Speaker1: Okay, which day do you want to book the service?
+Speaker2: Is it okay this weekend? Just Saturday.
+Speaker1: Is Saturday okay? What time specifically?
+Speaker2: It's best in the afternoon, around two o'clock.
+Speaker1: Okay, can we record that, on Saturday afternoon at 2 pm, what is your home address?
+Speaker2: The address is 33 New Huai Road.
+Speaker1: Okay, New Huai Luo San Sang Zhong, we will arrive on time. Is there anything else we need to pay attention to?
+Speaker2: Hey, don't let the cat run around at home and please don't disturb my study room.
+Speaker1: Okay, we will pay special attention. Do you have any other requirements?
+Speaker2: No more, thank you.
+Speaker1: Okay, thank you for your trust, we will provide the best service. Goodbye.
+Speaker2: Goodbye.

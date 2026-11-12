@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank, you previously applied for a loan with us, and now there is a special promotion, the interest rate is very low, are you interested in learning more?
+Speaker2: Hello, I'm little Zhang, what discounts do you have?
+Speaker1: John, this discount activity is exclusively for high-quality customers, with interest rates as low as 0.3%, and fast loan processing, all you need to do is download our app and fill out some basic information.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, our app is officially certified, you can download it with peace of mind. After downloading, please enter the referral code 123456, so you can enjoy additional discounts.
+Speaker2: Okay, I'll try. What's the name of this app?
+Speaker1: You can download the "Quick Loan" app by searching for it on the app store on your phone. If you have any questions, you can contact me anytime. My phone number is 13800138000.
+Speaker2: Okay, I'll download it now. Thank you for your recommendation.
+Speaker1: You're welcome! I hope you enjoy it. If you have any questions, feel free to contact me anytime. Goodbye!
+Speaker2: Okay, bye!

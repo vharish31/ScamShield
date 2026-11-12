@@ -1,0 +1,10 @@
+Speaker1: Hello, hello, hello, hi, I'm little Li, this is the sequential wind express customer service, you have a package in the transportation process that has been lost, now you can give you a refund, is it convenient for you?
+Speaker2: Really? That's great, I recently had a package that I haven't received yet.
+Speaker1: Yes, we have confirmed the situation. In order to process it quickly, please provide us with your bank card number and verification code. We will directly transfer the funds to your account.
+Speaker2: Okay, then I will give you my bank card number.
+Speaker1: Okay, I have received your bank card number. Now please open your phone text message and check the verification code, then tell me.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you very much, we have already handled it, and the refund will be in your account within 24 hours. Moreover, we have a new member activity, registering members can enjoy more discounts, are you interested?
+Speaker2: Hey, it sounds good, how do I register?
+Speaker1: It's simple. Just click this link, https://example.com, and fill out the relevant information.
+Speaker2: Okay, I'll register now. Thank you for your help again.

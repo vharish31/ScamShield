@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Zhao?
+Speaker2: Who?
+Speaker1: I am a credit manager at a commercial bank, you have consulted with us about loan matters in the past, we now have a low interest loan product that is very suitable for you, loan amounts ranging from ten thousand to fifty thousand, would you like to know if you have any recent loan needs?
+Speaker2: "Hmm, I'm feeling pretty comfortable right now, I don't need a loan at the moment."
+Speaker1: That's great, but this product has a particularly favorable discount rate, I can keep it for three days for you, if you change your mind, you can contact me anytime.
+Speaker2: Okay, thank you for your recommendation, I will consider it.
+Speaker1: No problem, okay, if you're interested, you can click on the link we gave you, which has detailed information about this product.
+Speaker2: Okay, I'll take a look.
+Speaker1: That's great, feel free to contact me anytime if you have any questions, wish you a happy life.
+Speaker2: Thank you, goodbye.

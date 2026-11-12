@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, are you coming to the yoga class?
+Speaker1: Yes, I have a one o'clock appointment for a beginner class today.
+Speaker2: Okay, you're right on time, let's get started now.
+Speaker1: That's great, it's my first time here, how do you charge here?
+Speaker2: The first trial class is 100 yuan per time, and if you buy a card later, it will be more discounted.
+Speaker1: I understand, so now I'll pay.
+Speaker2: Okay, scan the code and pay, I'll prepare a yoga mat for you.
+Speaker1: Okay, thank you.
+Speaker2: No problem, the classroom is on the second floor, just go straight up and you're good to go, our coach is already waiting for you.

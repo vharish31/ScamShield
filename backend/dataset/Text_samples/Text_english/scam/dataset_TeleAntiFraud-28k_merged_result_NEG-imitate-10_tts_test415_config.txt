@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural and Commercial Bank. Recently, we have introduced a low-interest loan product. Do you have any funding needs?
+Speaker2: Hello, I currently don't have any funding needs, thank you.
+Speaker1: Okay, that's it. If you have any needs, you can add my WeChat, contact me anytime, this is my WeChat number: abc123456.
+Speaker2: Okay, I noted it down, thank you.
+Speaker1: By the way, we also have a high-yield, low-risk investment product for financial assets. Would you be interested in learning more about it?
+Speaker2: Invest in finance, I'm not very familiar with it, but you can give me some information to take a look at.
+Speaker1: Okay, can I give you a link, you click on it and you can see detailed information, this link: http://example.com/investment.
+Speaker2: Okay, thank you. I will go take a look.
+Speaker1: That's great! If you have any questions, feel free to contact me anytime. By the way, this link can only be accessed through a mobile phone, so it might not work on a computer.
+Speaker2: I know, thank you for your reminder.

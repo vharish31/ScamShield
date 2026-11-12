@@ -1,0 +1,12 @@
+Speaker1: Hello, can you hear me clearly?
+Speaker2: Hey, are you there? Can you hear me clearly?
+Speaker1: Now it's clear, there was a bit of noise just now.
+Speaker2: Okay, what do you have to call about?
+Speaker1: Is this how it is? I am little king, want to consult you guys' home service, see if tomorrow convenient come clean house?
+Speaker2: Hello, Little Wang, we have a free slot tomorrow, how many hours of service do you need at your home?
+Speaker1: It'll take about three to four hours, my home is pretty messy.
+Speaker2: Okay, can we come to your house at 10 am tomorrow morning? Can you see us?
+Speaker1: What about the cost?
+Speaker2: We charge 80 yuan per hour, so 4 hours is 320 yuan.
+Speaker1: Okay, let's just agree on this, we'll see each other later.
+Speaker2: Okay, see you later, thank you for choosing our service.

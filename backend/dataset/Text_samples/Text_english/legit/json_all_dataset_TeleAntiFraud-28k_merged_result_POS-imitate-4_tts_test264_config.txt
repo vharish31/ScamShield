@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? Can I ask if you have any free time this weekend to help fix my pipes at home?
+Speaker2: Hello, we should have time this weekend, could you please tell me the specifics, I'll arrange for the master to come over.
+Speaker1: The kitchen faucet at home is leaking a little, which is very inconvenient to use.
+Speaker2: Understood, we've dealt with this situation many times before, so don't worry. How long do you think it will take to handle it?
+Speaker1: I'll check, I think there's some space in the afternoon, probably starting from two o'clock.
+Speaker2: Okay, let's meet at 2 pm. The teacher will arrive on time. If you arrive early, it's convenient to receive him.
+Speaker1: Okay, see you then, thank you.
+Speaker2: You're welcome. You can contact us anytime if you have any questions. Have a nice day.
+Speaker1: You too, goodbye.
+Speaker2: Goodbye.

@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, are you Mr. Lee?
+Speaker2: Yes, I am.
+Speaker1: Hello, I am the customer service representative of the little king of fast food, and I want to confirm the order situation of yesterday.
+Speaker2: Okay, what's the question?
+Speaker1: It seems that one of the dishes from your order yesterday was not delivered, we checked and it might have been missed during the delivery process.
+Speaker2: Is it like that? What can we do then?
+Speaker1: I'm very sorry for the inconvenience I've caused you. I will personally confirm this time and refund you a copy.
+Speaker2: Goodbye, thank you.
+Speaker1: No problem, your satisfaction is our pursuit. Moreover, as compensation, we will provide you with a free drink.
+Speaker2: Goodbye, thank you.
+Speaker1: You're welcome. If you have any questions, please feel free to contact us anytime. Have a happy life. Goodbye.
+Speaker2: Okay, bye.

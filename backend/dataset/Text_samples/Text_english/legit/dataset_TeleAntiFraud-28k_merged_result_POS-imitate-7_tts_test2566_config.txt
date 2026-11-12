@@ -1,0 +1,15 @@
+Speaker1: Hi, you, I'm little Li, the car rental service you consulted before is now available for you.
+Speaker2: Hello, little Li, thank you. I plan to go out and play this weekend, want to rent a car.
+Speaker1: Okay, what car type do you want to rent? We have economic, comfortable, and luxury options here.
+Speaker2: Economy type is good, mainly save oil, convenient travel.
+Speaker1: I understand, for an economic type car we recommend the snowflake, the fuel consumption is approximately six liters per hundred kilometers, very suitable for outdoor travel.
+Speaker2: How do you calculate the rent?
+Speaker1: Rent is 200 yuan per day, and if rented for three days or more, enjoy a 20 yuan discount per day.
+Speaker2: Can I get a discount if I rent for three days?
+Speaker1: Of course, the total rent for three days is five hundred forty yuan.
+Speaker2: Okay, let's do it this way. Where is the car parking location?
+Speaker1: Do you need me to book a rental car for you at the pickup location near the airport?
+Speaker2: Please borrow the car on the weekend.
+Speaker1: Okay, I have reserved a car for you from 9am to 10am on the weekend. You can pick it up anytime during that time.
+Speaker2: Thanks a lot, Li.
+Speaker1: You're welcome, wish you a happy weekend trip, feel free to contact me anytime if you have any questions.

@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I want to consult your BBQ service.
+Speaker2: Hello, I'm very happy to serve you. Our grilling service here is very popular. What aspects would you like to know?
+Speaker1: What are your business hours? Do you have an outdoor grilling area?
+Speaker2: Our business hours are from 11 am to 10 pm, seven days a week. The outdoor grilling area is popular when the weather is good.
+Speaker1: Do we need to make reservations in advance for the outdoor grilling area?
+Speaker2: The outdoor grilling area does indeed require advance reservation, especially on weekends and holidays. Could you please tell me what time you plan to come, and I can check the reservation situation for you.
+Speaker1: I want to come this weekend with about five people.
+Speaker2: Okay, this weekend, both Saturday and Sunday are available. Which specific day is convenient for you?
+Speaker1: That Sunday is convenient, around 3 pm.
+Speaker2: Okay, on Sunday at 3 pm, I will book an outdoor barbecue area for five people. Please remember to come on time, and if there are any changes, please contact us in advance.
+Speaker1: Okay, thank you for your help. We will definitely be on time. Goodbye.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

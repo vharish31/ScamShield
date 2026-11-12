@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I see your store is hiring service staff, is that true?
+Speaker2: Yes, we are hiring, are you interested?
+Speaker1: I'm really interested, I used to work at a western restaurant and want to change the environment.
+Speaker2: That's great, we mainly do Chinese cuisine here, have you tried Chinese food before?
+Speaker1: I did some, mainly helping with setting the table and cleaning up.
+Speaker2: You can come to our store for an interview to see if it's suitable.
+Speaker1: What do I need to bring for the interview?
+Speaker2: Please bring your ID and health certificate, let's take a look.
+Speaker1: Okay, can I go over there at 2 pm tomorrow afternoon?
+Speaker2: Sure, let's meet at the store at 2 pm tomorrow.
+Speaker1: Okay, thank you. Bye.
+Speaker2: No problem, goodbye.

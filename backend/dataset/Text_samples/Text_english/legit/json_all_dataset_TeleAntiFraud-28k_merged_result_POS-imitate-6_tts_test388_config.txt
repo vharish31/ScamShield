@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, I came to pick up the reserved cake.
+Speaker2: Hello, little Li, what time is it scheduled?
+Speaker1: I was scheduled for three o'clock yesterday afternoon, and said it was okay to pick up today.
+Speaker2: Okay, I'll check. Wait a minute, I'll find it for you now.
+Speaker1: Okay, thank you.
+Speaker2: Found it, your predefined strawberry cake, right?
+Speaker1: Yes, that's it. How much money?
+Speaker2: This cake costs 258 yuan, you've already paid 158 yuan, you still need to pay 108 yuan.
+Speaker1: Okay, I'll pay here.
+Speaker2: Okay, payment successful. You come front desk pick up cake.

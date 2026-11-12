@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, I heard you guys have new models, can you introduce them to me?
+Speaker2: Hello, Xiao Ming, I am the sales consultant at the store, Xiao Wang. We have just received a new batch of smartphones. Which one would you like to know more about?
+Speaker1: Can you tell me more about the latest flagship phone? I heard its performance is great, is it really that good?
+Speaker2: Yes, this flagship phone configuration is very high, both the processor and camera are very excellent, very suitable for users who like photography and games.
+Speaker1: What about the price?
+Speaker2: The flagship phone we are currently doing a promotion on originally costs six thousand two hundred yuan, but now it's only five thousand eight hundred yuan, and we're also throwing in a phone case and a steel screen protector.
+Speaker1: Can I go back now?
+Speaker2: Of course, our store is on the third floor of the electronic city in the city center. If you come, I will give you a detailed introduction.
+Speaker1: Okay, I'm leaving now, should be about 20 minutes, see you then.
+Speaker2: Okay, see you later, I'll wait for you at the store. Be careful on the way, see you.

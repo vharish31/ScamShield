@@ -1,0 +1,9 @@
+Speaker1: Hey, hi, I'm little Zhang, you previously booked our haircut service, want to confirm the appointment time?
+Speaker2: Oh, hello, yes, I remember I made an appointment, is it tomorrow at three in the afternoon?
+Speaker1: Yes, it's tomorrow at three in the afternoon. However, we just received a notification that there might be some temporary water and electricity maintenance tomorrow, so we might need to adjust the time a bit.
+Speaker2: It's a bit inconvenient, but I have some free time in the evening tomorrow, if you're available, can we change it to six o'clock in the evening?
+Speaker1: Sure, we can reserve a spot for you at six o'clock in the evening. Is your contact information still the same phone number as before?
+Speaker2: Yes, it's still the same phone number.
+Speaker1: Okay, I'll record it according to the original number. If there are any changes, we'll contact you in advance.
+Speaker2: Okay, thank you, see you tomorrow.
+Speaker1: Hey, see you tomorrow, be careful on the road. Bye.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. Have you recently considered applying for a loan?
+Speaker2: Hello, I currently have enough funds, so I haven't considered taking out a loan yet.
+Speaker1: That's great, but our this time interest rate of our loan product is very low, only 2.5%, and the approval is fast, very convenient.
+Speaker2: Sounds good, but I don't need it now.
+Speaker1: Understood, but if you need anything in the future, feel free to contact us. Okay, we also have a financial investment product with a very high return, would you be interested in learning more?
+Speaker2: Are you interested in investing in wealth management? Can you give me specific details?
+Speaker1: Of course, this financial product is managed by a professional investment team, with a historically stable return rate, you can try a small initial investment.
+Speaker2: How do I operate it?
+Speaker1: You just need to download our app, register and you can start investing after. I can send you a link, you click on it to download the app, register with code ABCD1234 and enjoy new user discount.
+Speaker2: Okay, let me try.
+Speaker1: Great! If you have any questions after downloading, please feel free to contact me anytime. My phone number is 13800138000. I wish your investment goes smoothly!

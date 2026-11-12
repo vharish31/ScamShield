@@ -1,0 +1,14 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, hello, who are you?
+Speaker1: Hello, I'm JD customer service representative Wang, we received feedback that there was a problem with the product you bought before, and we need to process a refund for you.
+Speaker2: Is that so? That's great, how do we handle it?
+Speaker1: Please provide your bank card information during purchase so we can refund the money to your account.
+Speaker2: Okay, then what should I do to provide you with?
+Speaker1: You can click this link to fill out your bank card information online.
+Speaker2: Okay, I'll go operate.
+Speaker1: Please wait a moment, in order to ensure the safety of your account, we need you to provide a verification code, which we will send to your phone.
+Speaker2: Okay, let's take a look at our phones.
+Speaker1: Okay, the verification code has been sent to your phone, please check.
+Speaker2: I got it, I'm typing now.
+Speaker1: Great, your refund will be processed within 24 hours, and if you have any questions, you can contact us.
+Speaker2: Okay, thank you for your help.

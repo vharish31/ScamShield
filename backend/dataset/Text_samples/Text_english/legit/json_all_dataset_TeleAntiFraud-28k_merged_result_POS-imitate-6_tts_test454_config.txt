@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? Can I reserve a restaurant table here?
+Speaker2: Hello, yes, we can book here. What time slot would you like to book?
+Speaker1: I want to reserve this weekend evening, around seven, for two people.
+Speaker2: Okay, we still have a location. Do you have any special requirements, such as a window seat?
+Speaker1: If there's a spot by the window, that's best. If not, it's okay too.
+Speaker2: Okay, I will try my best to arrange a seat by the window. Could you please provide your name and contact information?
+Speaker1: My name is Li Ming, phone number is 13812345678.
+Speaker2: Okay, Mr. Lee, your reservation has been successful. A waiter will guide you to the designated location at the specified time.
+Speaker1: Okay, thank you. Is there anything else, do you have any special dishes at your restaurant?
+Speaker2: Our signature dishes here include steamed sea bass, spicy pork, and garlic mushrooms, all of which are highly rated by our guests.
+Speaker1: It sounds great, we'll try it later. Thank you for your help, goodbye.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

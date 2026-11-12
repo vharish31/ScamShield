@@ -1,0 +1,18 @@
+Speaker1: Hey, are you still hiring employees at the store?
+Speaker2: Hello, recruitment, are you male or female?
+Speaker1: I am a man.
+Speaker2: Have you done sales before?
+Speaker1: I have sold fruits in a supermarket before.
+Speaker2: Hey, how old are you?
+Speaker1: I am twenty-three years old.
+Speaker2: What is your work schedule?
+Speaker1: I can start working a week from now.
+Speaker2: Okay, you can directly go to the store to interview. Bring your resume.
+Speaker1: Do I need to pay a deposit for an interview?
+Speaker2: No deposit, we don't have it here.
+Speaker1: How is salary calculated?
+Speaker2: We are monthly salary with a guaranteed base plus commission, and also have a full attendance award.
+Speaker1: When can I start working the fastest?
+Speaker2: After passing the interview, based on the schedule, you can start working as soon as next Monday.
+Speaker1: Okay, thank you.
+Speaker2: No problem, remember to bring your resume when coming for the interview. Wish you a successful interview.

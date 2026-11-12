@@ -1,0 +1,15 @@
+Speaker1: Hello, that's how it is, I saw a piece of clothing in your store that I liked last time, and I want to ask about the price and size again.
+Speaker2: Hey, what are you wearing? Can you tell me a little about the style?
+Speaker1: That blue jacket I tried on last time felt okay, but I'm not sure about the size.
+Speaker2: Okay, for the windbreaker, we have small, medium, and large sizes. Which size do you want?
+Speaker1: I took the middle level last time and felt a little tight. I don't know how the big level will be.
+Speaker2: The big guy's words will be a little more relaxed, you can try it out, if you feel it's not suitable, we also support seven-day no-reason return on our side.
+Speaker1: What's the price? I remember it was around three hundred, how much exactly?
+Speaker2: Yes, the price of that wind jacket is three hundred sixty-eight yuan, now there's a first-time discount, you can reduce twenty yuan.
+Speaker1: That's quite reasonable, I'll buy the large size, how do I pay?
+Speaker2: Can you pay online or pay on delivery? Which is more convenient for you?
+Speaker1: Let's pay online, it's more convenient and quick.
+Speaker2: Okay, I'll place the order for you now. You'll receive a payment link on your phone shortly, and once you pay, we'll arrange for shipping right away.
+Speaker1: Okay, thank you, then I'll wait for the delivery.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, wish you a happy life, goodbye.
+Speaker1: Okay, bye.

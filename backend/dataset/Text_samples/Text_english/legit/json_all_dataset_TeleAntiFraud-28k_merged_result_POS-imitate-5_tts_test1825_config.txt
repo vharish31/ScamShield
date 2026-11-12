@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the food kingdom, yesterday you ordered a spicy pot of fragrant chicken on our platform, today I am calling to confirm if you are satisfied with your food?
+Speaker2: Hmm, still satisfied, just feel the spiciness is a bit stronger than expected.
+Speaker1: I'm so sorry for the unpleasant experience you had, our dishes have adjustable spiciness, please specify your preference in the remark section next time you order, we will do our best to meet your needs.
+Speaker2: Okay, I will pay attention next time.
+Speaker1: Additionally, do you have any opinions or suggestions regarding the speed and packaging of the food we sent you?
+Speaker2: The delivery speed was quite fast, but the packaging was a little simpler, and the take-out box had a little leakage.
+Speaker1: Thank you very much for your feedback. We will improve the packaging materials to ensure that the food arrives safely and intact.
+Speaker2: Okay, I hope you guys get better.
+Speaker1: Thank you again for your support. If you have any other needs or suggestions, please feel free to contact us anytime. Have a happy life!
+Speaker2: Thank you, goodbye.

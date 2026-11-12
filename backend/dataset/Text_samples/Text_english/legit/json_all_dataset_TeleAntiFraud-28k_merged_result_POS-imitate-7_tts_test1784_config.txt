@@ -1,0 +1,10 @@
+Speaker1: Hello, are you open now?
+Speaker2: Hello, we are now open for business, what can we help you with?
+Speaker1: Can I reserve a table for two tonight at seven o'clock?
+Speaker2: Sure, 7:00 AM reservation for two people is okay, do you need me to record your contact information?
+Speaker1: Okay, my phone number is 1381380138.
+Speaker2: I've got it, 13801380138, 7pm, two people, no problem.
+Speaker1: Do you have a vegetarian menu?
+Speaker2: Yes, we have a special vegetarian menu, you can choose your favorite dishes.
+Speaker1: That's great, thank you for your help.
+Speaker2: No problem, we're looking forward to your arrival. If you have any other needs, please feel free to contact us anytime.

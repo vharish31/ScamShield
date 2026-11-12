@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's service today, weekend? What time do you close?
+Speaker2: Our weekend business hours are from 10am to 10pm. You can come anytime.
+Speaker1: Okay, can I reserve a spot around six o'clock?
+Speaker2: Of course, how many people would you like to reserve a spot for?
+Speaker1: Please reserve a table for four people, preferably by the window.
+Speaker2: Okay, I have already reserved a spot for you at six o'clock in the window, just come directly when the time comes.
+Speaker1: Thank you, I'll see you later.
+Speaker2: No problem, see you later, wish you a happy day.

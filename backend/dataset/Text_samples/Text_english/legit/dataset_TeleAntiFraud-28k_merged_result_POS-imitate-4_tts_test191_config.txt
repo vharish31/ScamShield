@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What can I help you with?
+Speaker1: I want to order a takeout, do you have any recommendations?
+Speaker2: We have many popular dishes here, such as kung pao chicken, yu xiang rou si, and ma la xiang guo. Do you like spicy food?
+Speaker1: I like spicy food, let's have a spicy hot pot.
+Speaker2: Okay, spicy pot, what do you need to add? Like tofu, golden needle mushroom or lotus root?
+Speaker1: Add some gold needle mushrooms and tofu, and also a bottle of Coke.
+Speaker2: Okay, one spicy pot of hot pot, add golden needle mushrooms and tofu, and a bottle of Coca-Cola. Where do you need to deliver the food?
+Speaker1: Deliver to the Blue Wave Apartment on Lightning Road, 3rd floor, unit 402.
+Speaker2: Okay, your order has been recorded. It's estimated to arrive in 30 minutes. Is that okay with you?
+Speaker1: Okay, thank you.
+Speaker2: You're welcome. If you have any questions, please contact us anytime. Enjoy your meal. Goodbye.

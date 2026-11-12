@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of Agricultural and Commercial Bank, Li.
+Speaker2: Hello, little Li.
+Speaker1: Based on the business license of your mold shop, our bank can provide you with a 68,000 yuan enterprise loan with a very low interest rate. Do you currently need to convert cash?
+Speaker2: Hmm, I need to consider this matter.
+Speaker1: No problem, our loan application process is very simple, just need to fill out some basic information online, then we will have a specific customer manager contact you.
+Speaker2: Do you need me to fill out the form online?
+Speaker1: Yes, you can click this link to directly fill out the application form.
+Speaker2: Okay, I'll go fill it out later.
+Speaker1: Great, once you fill it out, I'll contact you right away. Additionally, we have our own app, you can download it to easily check your loan progress anytime.
+Speaker2: Okay, I will download it.

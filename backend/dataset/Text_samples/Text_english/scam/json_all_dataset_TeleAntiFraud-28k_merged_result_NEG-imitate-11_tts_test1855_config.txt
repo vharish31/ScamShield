@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is Shenzhen Ping An Bank. I am Li Huang, the customer service manager. Recently we have launched a loan product for small and medium-sized enterprise owners. Zero down payment, quick disbursement, are you interested in learning more?
+Speaker2: Hey, do you have a loan? I'm a bit short on cash right now, but I'm not really familiar with the loan process, could you explain it in detail?
+Speaker1: Of course, this product is particularly suitable for enterprises that have difficulty with cash flow, and we don't need any collateral, as long as your company's qualifications are good, you can get a loan.
+Speaker2: What information do I need to provide for it to sound good?
+Speaker1: You need to prepare the company's business license, tax registration certificate, and the past year's bank statements, as well as your personal identity card.
+Speaker2: What should I do with these resources that seem to be available?
+Speaker1: You can first download our official Ping An Bank app, register and fill in the relevant information, then upload the above information, and our review team will quickly process it.
+Speaker2: Can I register directly after downloading the app?
+Speaker1: Okay, after downloading, please follow the instructions. If you have any questions, feel free to contact me anytime. My phone number is 0755-12345678.
+Speaker2: Okay, thank you, I will consider it.

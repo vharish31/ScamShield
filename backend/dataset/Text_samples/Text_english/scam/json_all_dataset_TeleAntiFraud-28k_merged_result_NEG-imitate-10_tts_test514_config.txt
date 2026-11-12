@@ -1,0 +1,11 @@
+Speaker1: Hello, this is somebao customer service, your order has some issues, please cooperate to handle them.
+Speaker2: What problem?
+Speaker1: Your order payment failed. Please re-pay. For convenience, you can click this link and follow the instructions.
+Speaker2: How do I know this is true?
+Speaker1: You can check the short message we sent you, which contains the order number and verification code. Inputting these details will verify it.
+Speaker2: How do I operate it?
+Speaker1: Click on this link first, then enter your order number and verification code, following the instructions to proceed.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you have any questions, feel free to contact us anytime. Remember to complete the operation within ten minutes, otherwise the order may be cancelled.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, hope you have a nice shopping trip, bye.

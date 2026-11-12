@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Who are you?
+Speaker1: I am a waiter at the restaurant, you reserved a seat in our restaurant before, tonight at seven, do you remember?
+Speaker2: Oh, I remember now, there was such an event.
+Speaker1: Okay, what do you need us to prepare for you? Do you have any special requirements for food?
+Speaker2: No need for anything special, just try to be a little clearer, I don't eat spicy.
+Speaker1: Okay, we will prepare clear food for you. Are you coming alone, or are there others with you?
+Speaker2: I brought two people with me.
+Speaker1: Okay, we will prepare three seats for you. Do you have a reserved phone number?
+Speaker2: The phone number is 555-8888.
+Speaker1: Okay, five five five eight eight eight, we recorded it. You can come at seven o'clock, we will prepare everything for you.
+Speaker2: Okay, thank you, see you later.

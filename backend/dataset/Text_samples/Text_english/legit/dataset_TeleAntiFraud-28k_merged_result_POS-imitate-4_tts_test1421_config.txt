@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, do you know any good recommendations around here?
+Speaker2: Hello, Xiaoming. We have several new models of mobile phones here with different brands and configurations. What aspects do you mainly consider?
+Speaker1: The main thing is that the photo effect is good, and the endurance ability needs to be strengthened.
+Speaker2: Understood, we recently launched a smartphone with a powerful camera and excellent battery life. Would you like to know more about it?
+Speaker1: How much does this phone cost?
+Speaker2: This phone costs 3500 yuan, and now you can buy it with a discount and get a free original phone case and screen protector.
+Speaker1: What are the color options for this phone?
+Speaker2: There are three colors: black, white, and blue. You can choose based on your preference.
+Speaker1: What time can you ship the blue one?
+Speaker2: Our blue stock is sufficient, if you place an order now, we can ship it to you tomorrow, usually within two to three days it will arrive.

@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the manager of the credit department at China Merchants Bank.
+Speaker2: Hello, Zhang Manager, what's up?
+Speaker1: We noticed that your recent loan application at our bank didn't go through. Can you tell us about your current financial needs?
+Speaker2: Oh, really? I really need some cash flow.
+Speaker1: Okay, I can recommend a very convenient loan service for you. Just download our bank's app, fill out some basic information, and you can quickly apply for a loan.
+Speaker2: Does this app sound good? Is it safe?
+Speaker1: Absolutely safe, our bank's APP has undergone strict security authentication. You just need to provide some personal information, such as identity number, bank card number, and we can quickly process it for you.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you download the app, you can directly contact me, and I will guide you through the entire process.
+Speaker2: Okay, thank you, Zhang Jingni.

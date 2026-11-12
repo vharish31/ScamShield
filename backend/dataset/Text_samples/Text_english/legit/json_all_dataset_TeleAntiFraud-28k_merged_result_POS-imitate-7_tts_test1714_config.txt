@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm little Li, do you have any available seats in your restaurant?
+Speaker2: Hello, Little Li, we have a spot here, when will you come over?
+Speaker1: Can I come at six o'clock?
+Speaker2: Sure, we'll reserve a spot for you at six o'clock. Do you need to order your menu in advance?
+Speaker1: No, I'll order later, okay, what special dishes do you have?
+Speaker2: We have red hot spicy pork and steamed fish, very popular, you can try it.
+Speaker1: Okay, I'll pay when it's time. Do you have a private room?
+Speaker2: Do you need to pre-book the private room?
+Speaker1: If it's convenient, can you book a reservation for us, there are four of us.
+Speaker2: Okay, a four-person room has been reserved for you. Just say your name when you arrive.
+Speaker1: Thanks for your help, see you later.
+Speaker2: No problem, see you later, wish you a happy day.

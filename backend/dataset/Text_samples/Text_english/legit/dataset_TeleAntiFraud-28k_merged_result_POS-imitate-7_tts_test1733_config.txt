@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from some electric platform. Have you recently encountered any issues with the washing machine you purchased?
+Speaker2: Yeah, that's right, the washing machine has been leaking recently.
+Speaker1: I'm very sorry to have caused you inconvenience, can we arrange a professional technician to come to your home and check it out at your convenience?
+Speaker2: What's the plan for tomorrow afternoon at three o'clock?
+Speaker1: Can we arrive at the time you've scheduled for tomorrow afternoon at three o'clock? Are there any other issues that need my help with?
+Speaker2: How much time is left for the repair of the washing machine?
+Speaker1: The warranty period for the washing machine you purchased is three years, starting from the day of purchase. Since you are still within the warranty period, all maintenance services are free.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome. If you have any questions, please feel free to contact us anytime. See you tomorrow, wish you a happy day.
+Speaker2: I wish you a happy day, goodbye.

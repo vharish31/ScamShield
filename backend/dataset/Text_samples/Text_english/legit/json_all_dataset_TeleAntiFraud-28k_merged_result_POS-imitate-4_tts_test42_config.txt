@@ -1,0 +1,12 @@
+Speaker1: Hey, how have you been lately?
+Speaker2: Hello, just work is a bit busy. You?
+Speaker1: I'm also pretty busy, lately I've been preparing a project.
+Speaker2: That sounds interesting, do you need help?
+Speaker1: Hi, thanks. So, do you have any free time this weekend?
+Speaker2: Do you have any plans?
+Speaker1: Let's go for a walk, the weather forecast says it's good this weekend.
+Speaker2: What do you want to do?
+Speaker1: Can you recommend any places yet?
+Speaker2: You can go to the East Lake Greenway, the scenery is great, suitable for relaxation.
+Speaker1: Sounds good, let's do it then. Meet at East Lake Greenway on Saturday morning at 9am?
+Speaker2: Okay, see you at nine on Saturday morning.

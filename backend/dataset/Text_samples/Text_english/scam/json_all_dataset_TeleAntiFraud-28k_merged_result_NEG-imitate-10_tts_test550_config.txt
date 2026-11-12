@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Ming?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Liu, the customer manager at Commercial Bank, and we noticed you've been looking for loan services recently. So, we're calling to see if we can help with your specific needs.
+Speaker2: Uh, a loan, I actually need it. Do you guys have any discounts?
+Speaker1: Of course, we recently launched a very affordable loan project with a low interest rate, quick approval, and no collateral required. If you're interested, you can click on the link I sent you for more details.
+Speaker2: Okay, I'm interested. Can you give me the link?
+Speaker1: Okay, I will send it to you immediately. Please pay attention to check the message, click on the link and fill in the relevant information, our staff will quickly contact you.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome. If you have any questions, feel free to contact us anytime. We hope our service can help you.
+Speaker2: Okay, I will check. Thank you again.

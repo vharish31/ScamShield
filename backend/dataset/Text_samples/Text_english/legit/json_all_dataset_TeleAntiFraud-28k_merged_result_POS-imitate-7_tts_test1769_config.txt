@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Is it convenient for you to talk now on your side?
+Speaker2: Sure, what do you have?
+Speaker1: Can you tell me how your air purifier is doing?
+Speaker2: Our home's air purifier is quite good, the filter is a multi-layer design, able to effectively filter out dust and harmful substances from the air.
+Speaker1: What's the price?
+Speaker2: The price varies depending on the model, around one thousand to three thousand.
+Speaker1: I take a look, I need a high-priced one on this side.
+Speaker2: You may consider our standard model, it has a high value for money and good filtering effect.
+Speaker1: Okay, I'll think about it, and contact you if I have any questions.
+Speaker2: Okay, feel free to consult anytime, wish you a happy life.

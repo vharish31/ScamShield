@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I just put your package in the mailbox at the community door. Remember to pick it up.
+Speaker2: Okay, thank you. What is the pickup code for the parcel box?
+Speaker1: The pickup code is a six-digit number. I already sent you a text message, check your phone.
+Speaker2: Okay, I received it, thank you.
+Speaker1: No problem, feel free to contact me anytime.
+Speaker2: Okay, can you help me?
+Speaker1: Wherever, wherever, this is right.
+Speaker2: Okay, I'll go get my package first. Bye.
+Speaker1: Okay, bye.

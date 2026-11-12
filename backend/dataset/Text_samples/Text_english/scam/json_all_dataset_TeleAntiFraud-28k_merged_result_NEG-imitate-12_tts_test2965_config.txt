@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm a loan officer at Agricultural Bank, Li Qiang.
+Speaker2: Hello, are you from Agricultural Bank?
+Speaker1: Yes, we have a very affordable enterprise loan project here. Do you know if your company has any funding needs?
+Speaker2: There is, but how to operate?
+Speaker1: It's very simple. Just download our special app, register and follow the instructions to apply.
+Speaker2: APP? Where to download?
+Speaker1: Click this link directly, we've prepared it for you, and you'll find detailed installation instructions after downloading.
+Speaker2: Link? Safe?
+Speaker1: Absolutely safe, we are a regular bank, there will be no issues. You can relax, after downloading, our staff will guide you to complete the operation.
+Speaker2: Okay, I'll try.

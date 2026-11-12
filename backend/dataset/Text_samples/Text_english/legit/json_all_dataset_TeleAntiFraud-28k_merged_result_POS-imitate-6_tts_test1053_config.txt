@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I'm the hairdresser you booked before, can you come at 3 pm this afternoon?
+Speaker2: Okay, I'm little Zhang, three in the afternoon, okay? But I might be late, around four o'clock?
+Speaker1: No problem, you come at four o'clock, I'll wait for you.
+Speaker2: Okay, I'll arrive at four o'clock, how will you get there?
+Speaker1: Get off the subway station, walk straight along the main road, turn right at the second red light, and keep going until the end, our store is on the left side, there's a big sign.
+Speaker2: Okay, I understand, let's meet at four o'clock.
+Speaker1: Okay, meet at four o'clock, pay attention to safety on the road.
+Speaker2: Thank you, goodbye.

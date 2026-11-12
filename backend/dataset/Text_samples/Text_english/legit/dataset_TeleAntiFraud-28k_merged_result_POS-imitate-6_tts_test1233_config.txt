@@ -1,0 +1,11 @@
+Speaker1: Hey, hi, I'm little Li, you ordered a train ticket to Hangzhou from our website before, there were some small issues with the order, please check the information again.
+Speaker2: Hello, what's the problem with my train ticket?
+Speaker1: Please input your ID number with the missing digit. Otherwise, the order cannot be issued.
+Speaker2: Oh, this way, the last digit of that ID number is three.
+Speaker1: Okay, I'll update your information right away, just a moment.
+Speaker2: Okay, thank you.
+Speaker1: The information has been updated, your train ticket has been successfully issued, you can check the electronic ticket information through the order details.
+Speaker2: What time should I go to the station to pick up my ticket?
+Speaker1: You can take your ticket at the self-service machine at the station the day before departure by presenting your identity card, or you can directly swipe your identity card to enter the station.
+Speaker2: Got it, thank you for your help, so I'll just swipe my ID directly at the station when the time comes.
+Speaker1: Okay, wish you a pleasant journey. Feel free to contact us if you have any other questions.

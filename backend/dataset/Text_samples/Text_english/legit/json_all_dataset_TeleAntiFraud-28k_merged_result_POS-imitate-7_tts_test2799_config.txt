@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, I recently want to renovate my house, I heard you have decorating service on your side?
+Speaker2: Hello, how are you, little king, yes, we provide decoration services here, do you have any specific requirements?
+Speaker1: Hey, can you first tell me about your quote and roughly what the decoration process is like?
+Speaker2: Okay, our quote is generally based on the size of the decoration and the materials. You can first tell me the approximate size of your house and which decoration projects you need?
+Speaker1: My house is about one hundred square meters, mainly I want to repaint the walls, change the floor, also renovate the kitchen and bathroom.
+Speaker2: I understand, for decoration projects we usually calculate the cost per square meter at 300 yuan, which includes material and labor fees. You can take a look at the quote first, and if there's anything unclear, you can contact me anytime.
+Speaker1: Okay, I'll take a look. Also, how long does it usually take to renovate?
+Speaker2: Typically, it takes about a month to decorate a 100 square meter house, but the specific time depends on the construction progress and the arrival of materials.
+Speaker1: How far in advance do I need to book a month?
+Speaker2: You can contact us one week in advance to schedule the construction team. If there are any special circumstances, we can coordinate further.

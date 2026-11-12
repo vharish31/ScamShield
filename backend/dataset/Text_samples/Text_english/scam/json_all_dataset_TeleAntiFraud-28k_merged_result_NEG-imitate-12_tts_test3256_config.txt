@@ -1,0 +1,11 @@
+Speaker1: Hey, are you little Zhang?
+Speaker2: Yes, who are you?
+Speaker1: I am Liu, the customer service representative from Speedy Delivery, we found out that one of your packages was lost during transportation.
+Speaker2: What do you do if it's true or false?
+Speaker1: Don't worry too much, to compensate you, we can provide you with a refund, but you need to confirm the order information first.
+Speaker2: Okay, I'll cooperate with you guys.
+Speaker1: Great, to process it faster, you need to download our app and register an account, so we can directly transfer the compensation money to your account.
+Speaker2: Where can I download the app?
+Speaker1: You can download it through this link: http://fakesite.com. This link is only available to you and is very safe.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Okay, after downloading, please contact me immediately, I will guide you through the remaining steps.

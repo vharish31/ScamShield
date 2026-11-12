@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any beginner yoga classes here?
+Speaker2: Yes, we have a basic yoga class that's great for beginners.
+Speaker1: How long is this course?
+Speaker2: Every week, on Tuesday and Thursday evenings from 7 to 8 pm.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: Yes, to ensure everyone has enough practice space, we suggest booking in advance.
+Speaker1: Sure, can I schedule a class for next Tuesday?
+Speaker2: Of course, I will help you schedule your classes for next Tuesday. Can you provide your name and contact information?
+Speaker1: I am Li Huai, my phone number is 13801380138.
+Speaker2: Okay, Lee Huang, I have already booked a reservation for you. Remember to arrive at the yoga studio ten minutes early.

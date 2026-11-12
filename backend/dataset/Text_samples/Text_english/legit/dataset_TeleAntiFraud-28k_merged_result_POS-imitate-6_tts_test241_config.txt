@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: Okay, I'm the customer service of an e-commerce platform. You have a penny on your account, it will be cleared at midnight tonight, and you haven't used it yet.
+Speaker2: How many points do I have?
+Speaker1: You have accumulated 26,800 points on your account, which can be redeemed for approximately 3,900 yuan worth of products.
+Speaker2: So many? Then how do I use these points?
+Speaker1: Just click on the links in the text messages we send you, select the products you're interested in, and then use points to exchange them.
+Speaker2: Okay, I'll go take a look.
+Speaker1: Great, feel free to contact me if you have any questions. I hope you can use these points to buy your desired products.
+Speaker2: Thank you for your reminder. Goodbye.
+Speaker1: No problem, goodbye.

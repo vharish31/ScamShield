@@ -1,0 +1,12 @@
+Speaker1: Hello, this is the customer service representative of Huaxing Bank, I am Li Xiao.
+Speaker2: Hello, what do you have?
+Speaker1: Have you noticed that your credit card limit hasn't been used up? Would you like to increase your credit card limit?
+Speaker2: Increase credit limit? How to operate?
+Speaker1: That's it, we have a special activity, just need you to provide some personal information, we can quickly review it.
+Speaker2: What information do you need?
+Speaker1: Our main concern is your identity card number, bank account, and phone number, so we can ensure the safety of the information.
+Speaker2: That sounds a bit unsafe.
+Speaker1: Don't worry, Huaxing Bank has strict information protection measures, and absolutely will not leak your personal information.
+Speaker2: Okay, can you tell me the specific steps next?
+Speaker1: Okay, just click this link [click sound], follow the page instructions to fill out the info.
+Speaker2: Okay, let me try.

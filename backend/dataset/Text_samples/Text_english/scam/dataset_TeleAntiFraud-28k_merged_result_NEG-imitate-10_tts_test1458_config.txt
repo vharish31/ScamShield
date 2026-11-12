@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Hello, this is New Source Technology Limited Company, I am customer service representative Wang, you filled out information on the internet before, do you want to know more about our financial products?
+Speaker2: Okay, sure, understand now.
+Speaker1: Great, we recently launched a high-yield financial product with an annual return rate of 13%, and the risk is very low.
+Speaker2: Is it really? It sounds good.
+Speaker1: Yes, this product is very suitable for investment. To ensure the safety of your funds, please download our exclusive app, which will help you better manage your investment.
+Speaker2: Okay, how do I download it?
+Speaker1: You can directly click on the link I sent to you to download our app. After downloading, register an account and then you can start investing.
+Speaker2: Okay, I'll try.

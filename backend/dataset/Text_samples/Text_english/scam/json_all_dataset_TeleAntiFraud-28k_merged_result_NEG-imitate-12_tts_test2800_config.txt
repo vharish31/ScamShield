@@ -1,0 +1,11 @@
+Speaker1: Hello, I'm Zhang Xiao, this is the customer service representative of Jiangnan Technology Company.
+Speaker2: Hello, what do you have?
+Speaker1: That's it, we noticed some unusual login records on your account in our platform, which means your account might have been stolen.
+Speaker2: Really? Then what do we do?
+Speaker1: Don't worry, to ensure the safety of your account, we need you to cooperate with us in a simple identity verification.
+Speaker2: Okay, what do we need to do?
+Speaker1: First, you need to click on the link in the text message we sent, download our latest version of safe software, so you can ensure your account is secure.
+Speaker2: Okay, I'll download it right away.
+Speaker1: After downloading, please complete the registration according to the instructions and then tell me the verification code, I will help you complete the identity verification.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, I'm waiting for your message. If you have any questions, feel free to contact me anytime.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, I recently found a smartwatch on your website that I like, can you give me more details?
+Speaker2: Hello, little Li, I'm very happy to serve you. What specific needs do you have for smartwatches? For example, features, price range, or brand preference?
+Speaker1: I mainly want to use it to record exercise data, take a look at sleep quality, if the price is between one thousand to two thousand, that's better.
+Speaker2: We have a product here that perfectly fits your needs. It has both exercise tracking and sleep monitoring features, and the price is within your budget. Would you like to know more about the specific model?
+Speaker1: Sure, can you give me a detailed introduction?
+Speaker2: Of course. This watch is from XX brand, XX model, it comes with the latest heart rate monitoring technology, can real-time record your exercise data, including steps, calories burned, etc. At the same time, it also supports multiple exercise modes, such as running, cycling, etc. The sleep monitoring function is also very strong, can help you understand your sleep situation every night, including deep sleep, shallow sleep time, etc. The price is RMB 1,999.
+Speaker1: How long does the battery of this watch last?
+Speaker2: This watch's battery life is very strong, one time charging can use about seven days, very suitable for daily use.
+Speaker1: That's great, I want to buy this watch. Do you have it in stock now?
+Speaker2: The watch stock is sufficient, you can directly order to buy. If you need me to help you order, please tell me.

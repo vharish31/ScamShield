@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you? I'm Zhang San, are you a furniture store in their family?
+Speaker2: Hello, yes, I am the salesperson here, what can I help you with?
+Speaker1: Can you introduce me to your sofa and dining table?
+Speaker2: Of course, we have many stylish sofas and tables here. Do you want modern minimalist style or traditional style?
+Speaker1: I prefer modern minimalist style, in terms of price?
+Speaker2: Modern minimalist style sofas and dining tables, prices range from a few thousand to tens of thousands, depending on materials and design. Do you have a budget range?
+Speaker1: What's the budget around 10,000 yuan? Do you have any recommendations?
+Speaker2: There's a perfect one for you, with a modern and simple style, priced around 9,000 yuan, with excellent quality and a clean, spacious appearance.
+Speaker1: Can I go take a look? It sounds good.
+Speaker2: Of course, when would you like to come? Our store is open from 9am to 9pm every day.
+Speaker1: Can I go at three in the afternoon tomorrow?
+Speaker2: Okay, tomorrow afternoon at three o'clock, I will be here waiting for you, see you later.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me about the special dishes at your restaurant?
+Speaker2: Our restaurant special dishes include Kung Pao Chicken, Steamed Fish and Spicy Eggplant, all of which are very popular.
+Speaker1: Is the fish spicy when cooked in water?
+Speaker2: Okay, spicy fish is spicy, if you can't eat spicy, we can do mild or non-spicy versions.
+Speaker1: How much does that spicy fish cost?
+Speaker2: Sixty-eight yuan for spicy fish in boiling water.
+Speaker1: Okay, I still want to reserve a four-person table for this weekend, is that possible?
+Speaker2: Okay, the four-person table for this weekend has been reserved for you. What time are you arriving?
+Speaker1: About 5:30 in the afternoon.
+Speaker2: Okay, 5:30, we'll have the table ready for you. See you then!

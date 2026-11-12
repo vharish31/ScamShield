@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Hi, I'm little Li. Do you have plans for the weekend at home?
+Speaker2: Hey, little Li, I'm home this weekend, do you have anything to do?
+Speaker1: Let's have dinner together this weekend, it's been so long since we last saw each other.
+Speaker2: So, where do we go to eat?
+Speaker1: Let's go to the old place, the taste of their food is good.
+Speaker2: Okay, let's stay at the old place. When do we meet?
+Speaker1: Let's meet at 5:30 in the afternoon. I'll arrive early, wait for you a little while.
+Speaker2: Okay, 5:30 meeting, I'll just go there directly.

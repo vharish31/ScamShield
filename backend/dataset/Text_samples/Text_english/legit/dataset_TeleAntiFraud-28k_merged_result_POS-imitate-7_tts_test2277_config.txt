@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I am the property manager of the community, can you confirm with me that your recent water and electricity repair appointment is tomorrow morning at 10 am, okay?
+Speaker2: Yes, I remember we made an appointment at this time.
+Speaker1: Okay, our repairman will arrive on time. If there are any changes, we will notify you in advance.
+Speaker2: Okay, thank you. Right, I have a little leak at home with the water dragon head, do I need to inform the master in advance?
+Speaker1: Of course, it's best to explain in advance, so the teacher can bring the tools and solve the problem more quickly.
+Speaker2: Okay, then I'll wait at home in the morning.
+Speaker1: Thank you very much for your cooperation. If there are any other issues, please feel free to contact us anytime.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye, wish you a happy day.

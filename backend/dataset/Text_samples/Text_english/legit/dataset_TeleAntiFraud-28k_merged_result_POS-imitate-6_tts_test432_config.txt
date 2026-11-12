@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from an e-commerce platform. I see that you have purchased some products from our platform before. There is now a promotion on the phone you were previously interested in. Would you like to know more about it?
+Speaker2: Can you tell me about any specific promotions for this phone?
+Speaker1: This phone's current activity is a discount of 500 yuan, and there's also a chance to get a one-year screen protection. Additionally, our users who order today can enjoy free next-day delivery service.
+Speaker2: Oh, this way, what color options does this phone have?
+Speaker1: This phone comes in black, silver, and blue, you can choose based on personal preference.
+Speaker2: Okay, I want blue, can you confirm the inventory?
+Speaker1: Of course, let me check. Okay, the blue phone is currently in stock, and if you order now, we can guarantee it will be delivered tomorrow.
+Speaker2: That's great, I'll order now.
+Speaker1: Okay, I'll send the purchase link to your phone later, just click on the link to complete the payment. Is there anything else I can help you with?
+Speaker2: Thank you for your service.
+Speaker1: You're welcome, feel free to contact us anytime if you have any questions. Wishing you a happy life, goodbye.

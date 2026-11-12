@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask, do you have any suitable houses for rent here?
+Speaker2: Hello, do you want to rent what kind of house?
+Speaker1: I want to rent a one-bedroom one-unit apartment with furniture.
+Speaker2: There's a one-room-one-apartment house here with complete furniture. You can come take a look.
+Speaker1: How much is the monthly rent for this apartment?
+Speaker2: The monthly rent for this apartment is three thousand yuan, paid in advance for three months.
+Speaker1: When can I go see the house?
+Speaker2: Do you have time this afternoon? Around four o'clock I can take you to see.
+Speaker1: Can we meet at 4 o'clock? What's the specific address to walk to?
+Speaker2: The address is XX road XX number, you walk five hundred meters east from the subway station to arrive.
+Speaker1: Okay, I will contact you later. Thank you.
+Speaker2: No problem, see you later.

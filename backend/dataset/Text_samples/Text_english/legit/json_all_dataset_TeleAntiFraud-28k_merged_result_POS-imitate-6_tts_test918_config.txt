@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is Happy Express, I am customer service king, you have a package being sent, want to confirm your delivery address is correct?
+Speaker2: Hi, how are you? My address is Happiness Road, Happiness Villa, Happiness Building, Happiness Unit, Happiness Number, right?
+Speaker1: Yes, happy street, happy small community, happy building, happy apartment, happy number, address is correct. Is it convenient for you to receive goods?
+Speaker2: Can you deliver between 3pm and 5pm this afternoon?
+Speaker1: Okay, we will arrange for a courier to deliver your package to your door at this time. Your package is quite important, so we recommend that you sign for it yourself.
+Speaker2: Okay, I'll wait at home. Also, I've been shopping online a lot lately, do you guys have any discounts on delivery?
+Speaker1: Yes, we have a point redemption activity for fast delivery now, you can follow our WeChat public account to accumulate points and exchange various gifts.
+Speaker2: Sounds good, I'll check it out. Thanks for the reminder.
+Speaker1: You're welcome. It's our duty to serve you. If you have any questions, please feel free to contact us anytime. Have a happy life!
+Speaker2: Okay, thank you, bye.

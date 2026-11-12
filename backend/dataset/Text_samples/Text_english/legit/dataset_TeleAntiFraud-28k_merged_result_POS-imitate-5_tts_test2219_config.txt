@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, can you hear me? Say something.
+Speaker1: Hello, I am the customer service of the e-commerce platform. Your shopping points will be cleared at midnight tonight, have you not taken them to redeem yet?
+Speaker2: Okay, okay, I understand.
+Speaker1: These points can help you redeem over three thousand nine hundred dollars in cash, otherwise they will clear zero.
+Speaker2: I quickly check my messages and then go to exchange them.
+Speaker1: Okay, the text message has been sent to you, open it up and take a look.
+Speaker2: Okay, I'll go take a look. Thank you for reminding me.
+Speaker1: No problem, feel free to contact me anytime if you have any questions.
+Speaker2: Okay, thank you. Bye.

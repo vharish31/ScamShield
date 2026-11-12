@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural Bank. On this line, I want to know if you have any need for capital rotation.
+Speaker2: Uh, can you tell me, I recently need some money.
+Speaker1: Okay, our bank has introduced a low-interest credit loan for high-quality customers, with a very favorable interest rate. You may want to consider it.
+Speaker2: How do I apply?
+Speaker1: It's very simple. Just click this link and fill out some basic information.
+Speaker2: Link? How do I click?
+Speaker1: Copy the link to your phone browser and follow the instructions to complete it.
+Speaker2: Okay, I'll try.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact me anytime.
+Speaker2: Thank you, I'll give it a try.
+Speaker1: No problem, wish you a successful application. Goodbye.
+Speaker2: Goodbye.

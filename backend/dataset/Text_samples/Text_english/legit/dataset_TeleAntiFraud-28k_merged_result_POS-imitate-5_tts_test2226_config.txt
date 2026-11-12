@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me?
+Speaker1: Hi, I'm the customer service of the food delivery platform. I noticed that you've been ordering a lot from our platform recently. Do you have any suggestions or opinions about our services?
+Speaker2: Hmm, the service is pretty good, just sometimes the delivery time for food is a bit long.
+Speaker1: Thank you very much for your feedback. We will convey your opinions to the relevant department and try to shorten the delivery time. By the way, what are your special preferences for our platform's dishes?
+Speaker2: I like spicy food, especially Sichuan cuisine. How many Sichuan restaurants do you have on your platform?
+Speaker1: Our platform has a lot of Sichuan restaurants to choose from. You can try them out, like spicy chicken, steamed fish, etc., which are our specialty dishes.
+Speaker2: Okay, I'll try it next time. Also, do you have any discount activities on your platform?
+Speaker1: Yes, we currently have a new user first-order discount of ten yuan, as well as a general discount of five yuan for orders of fifty yuan or more, which you can choose to use when placing an order.
+Speaker2: That's great, thank you for your introduction.

@@ -1,0 +1,8 @@
+Speaker1: Hey, where are you?
+Speaker2: Just arrived at the subway station, you too?
+Speaker1: I was still on the bus, about ten minutes left.
+Speaker2: Okay, I'll wait for you here. Don't rush.
+Speaker1: Okay, I understand, see you later.
+Speaker2: See you soon, be careful on the road.
+Speaker1: Hey, you too, see you later.
+Speaker2: Hey, slow down on the road.

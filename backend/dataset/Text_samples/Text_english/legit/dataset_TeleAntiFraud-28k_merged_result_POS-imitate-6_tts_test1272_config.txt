@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Ming's delivery?
+Speaker2: Yes, I'm waiting at the company door, come quickly.
+Speaker1: Okay, I'll be there soon, you wait a minute.
+Speaker2: Okay, thank you. Alright, can you help me carry a bottle of water?
+Speaker1: Sure, what brand do you want?
+Speaker2: Let's go to the mine water.
+Speaker1: Okay, I understand. You probably need to wait about ten minutes or so.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

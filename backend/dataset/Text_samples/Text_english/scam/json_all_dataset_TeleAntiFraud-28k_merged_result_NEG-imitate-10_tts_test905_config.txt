@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Where?
+Speaker1: Hello, I am small Liu, this side is the China Construction Bank Financial Service Center, recently we have a special wealth management project for high-quality customers, the return rate is very high, are you interested in learning more?
+Speaker2: Hmm, that sounds good, what's the story?
+Speaker1: That's it, this project is specifically for customers with stable income, no need for any down payment, as long as you download our app and register, you can start investing right away.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, our app is available in all major app markets. Just click this link to download directly.
+Speaker2: Okay, let me try.
+Speaker1: Great! If you have any questions after downloading, feel free to contact me. My phone number is 400123345, wish you a successful investment!
+Speaker2: Thank you, I will contact you.

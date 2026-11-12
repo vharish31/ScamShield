@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Zong?
+Speaker2: Yes, who are you?
+Speaker1: I am a loan manager at Guotai Bank. Based on the recent financial situation of your company, I believe we have a low-interest loan product that would be suitable for you, which can help you solve your current cash flow problem.
+Speaker2: Oh, really? I'm really a bit short of cash lately.
+Speaker1: Yes, this loan product does not require collateral, the approval process is very fast, just need you to provide some basic company information.
+Speaker2: What do I need to do?
+Speaker1: You can first scan the QR code I send to you, fill out some basic information, and our staff will contact you quickly.
+Speaker2: Okay, let me try.
+Speaker1: Great, this is your exclusive link, https://fakebankloan.com, remember to fill out the correct information.
+Speaker2: Okay, I'll go fill it out now. Thank you.

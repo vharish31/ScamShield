@@ -1,0 +1,9 @@
+Speaker1: Are you at home?
+Speaker2: Okay, what's up?
+Speaker1: Just came back from the supermarket, bought a lot of stuff, do you need me to bring you something?
+Speaker2: Really? That's great! Bring me some fruit, apples and oranges are both fine.
+Speaker1: Okay, bring apples and oranges, do you need anything else?
+Speaker2: No need, these are enough, you are really great.
+Speaker1: No problem, on my way. I arrived to call you.
+Speaker2: Okay, be careful on the road. Bye.
+Speaker1: Okay, bye.

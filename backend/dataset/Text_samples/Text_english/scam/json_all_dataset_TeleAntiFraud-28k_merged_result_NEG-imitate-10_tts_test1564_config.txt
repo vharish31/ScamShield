@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the manager of the Shenzhen Bank, there is a special discount loan product I want to introduce to you.
+Speaker2: Hello, I recently need to transfer funds, can you give me a specific explanation?
+Speaker1: Of course, this loan product has no collateral, low interest rate, fast approval, and is very suitable for you. However, to ensure the safety of your information, I need you to first download our bank's official app and submit the application through the app.
+Speaker2: Okay, then I'll try. What's the name of this app?
+Speaker1: Just search for Shenzhen Bank, download the official app, register an account, and follow the instructions to operate it.
+Speaker2: Okay, I'll download it. What do I need to do after it's finished?
+Speaker1: After downloading is complete, you can find the loan application entrance in the app, fill in the relevant information, upload the necessary files, our review team will quickly process.
+Speaker2: What files do I need to prepare?
+Speaker1: The main thing is identity proof, income proof, and bank statements. If you have property or other asset proof, it can help increase your loan amount.
+Speaker2: Okay, thank you for your introduction, I will prepare quickly.

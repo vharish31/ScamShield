@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you deliver food to my home from here?
+Speaker2: Of course, we provide delivery services within the entire city.
+Speaker1: How much is the delivery fee?
+Speaker2: The cost of delivery varies depending on the distance, usually between 5 and 10 yuan.
+Speaker1: How much do I owe for delivery at Happy Community?
+Speaker2: The happy community's delivery fee is six yuan.
+Speaker1: Okay, I'll order a beef stir-fry and a glass of iced tea.
+Speaker2: Okay, one portion of beef stir-fry, one glass of iced red tea, total of 40 yuan 6 cents, including delivery of meal fee.
+Speaker1: Okay, I'll pay with Alipay.
+Speaker2: Okay, after payment is completed, we will arrange delivery as soon as possible. Approximately 30 minutes delivery time.
+Speaker1: Okay, thank you.
+Speaker2: No problem, if you have any other needs, please contact us anytime. Goodbye!

@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Are your store open today?
+Speaker2: Is the store open from 9am to 9pm? Is there anything we can help with?
+Speaker1: Can you tell me about your special dishes?
+Speaker2: Our menu here has red braised pork, steamed fish, and gong bao chicken, each dish is carefully made by the chef.
+Speaker1: How much does it cost to listen?
+Speaker2: Red braised pork is 35 yuan, steamed fish is priced differently based on size between 50 to 80 yuan, and gong bao chicken is 25 yuan.
+Speaker1: Uh, what time would be about right for me to go?
+Speaker2: Our dinner peak is usually around five in the afternoon. You can come at four and a half or six to reduce waiting time.
+Speaker1: Okay, thank you, I'll come at six in the evening.
+Speaker2: Okay, see you tonight, welcome!

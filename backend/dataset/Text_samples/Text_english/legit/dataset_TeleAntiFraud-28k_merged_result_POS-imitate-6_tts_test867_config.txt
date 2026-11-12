@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I want to inquire about your appointment service
+Speaker2: Okay, what service would you like to book?
+Speaker1: I want to make a haircut appointment, when do you have a free time?
+Speaker2: Haircut, do you have any free days to come over here in the next few days?
+Speaker1: Is this weekend okay?
+Speaker2: Is there a specific time you prefer for the weekend? Morning or afternoon?
+Speaker1: It's best in the afternoon, around three o'clock.
+Speaker2: Okay, so we'll meet on Saturday afternoon at three o'clock. Do you need me to record your contacts for you?
+Speaker1: Okay, my phone number is 13123345.
+Speaker2: Okay, I have recorded it down. On Saturday afternoon at three o'clock, we will call you to confirm, do you need to pay attention to anything else?
+Speaker1: Thanks for your help. I'm sorry, I don't have it right now.
+Speaker2: No problem, see you on Saturday!

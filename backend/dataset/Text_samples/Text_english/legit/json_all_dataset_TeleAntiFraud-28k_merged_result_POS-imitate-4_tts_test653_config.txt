@@ -1,0 +1,12 @@
+Speaker1: Hello, I am the mother of little Ming, do you have any place for the painting class this weekend?
+Speaker2: Hello, Xiao Ming Mā, there are still a few spots left in the painting class this weekend, do you want to sign up Xiao Ming?
+Speaker1: Yes, I want to sign him up. When does the painting class start?
+Speaker2: The painting class starts at 10 am on Saturday and ends at 12 pm.
+Speaker1: How long do we need to arrive in advance?
+Speaker2: Arrive fifteen minutes early to have time to prepare and adapt to the environment.
+Speaker1: Understood. How much does it cost?
+Speaker2: The cost of one course is eighty yuan.
+Speaker1: Can I pay on site?
+Speaker2: Sure, on-site payment is also possible, we support cash or WeChat payment.
+Speaker1: Okay, thank you for your help, see you on Saturday!
+Speaker2: No problem, see you on Saturday! Wish little Ming have fun.

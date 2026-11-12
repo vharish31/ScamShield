@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Li, recently I want to buy a new phone, I heard your store's new phones are pretty good, want to consult.
+Speaker2: Hello, little Li, I am the customer service staff at the store, Zhang. I am very happy to serve you. What specific phone are you looking for?
+Speaker1: I want to know more about this new flagship phone, how's its performance, and how much does it cost?
+Speaker2: This flagship phone is our store's best-selling product, with extremely strong performance, equipped with the latest processor, large memory and high-resolution screen, making it ideal for gaming and multimedia use. The current price is three thousand eight hundred yuan.
+Speaker1: Hmm, that sounds good. What colors does this phone come in?
+Speaker2: This phone offers three color options: black, white, and blue. You can choose based on personal preference.
+Speaker1: Okay, I want to choose blue. Do you have any in stock? When can I pick it up?
+Speaker2: The blue products are currently in stock. Would you like to pick them up in person at the store or have them delivered to your door? Which option is more convenient for you?
+Speaker1: Can I pick up my order at the store tomorrow at what time?
+Speaker2: Okay, tomorrow our store's business hours are from 10 am to 8 pm. You can pick up at any time, please inform us half an hour in advance so we can prepare your phone.
+Speaker1: Thanks for your help. I'll come over tomorrow afternoon around three.
+Speaker2: No problem, little Li, see you tomorrow! If there are any other questions, feel free to consult anytime.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a server at the Meishikitang restaurant. You previously reserved the double-person set menu for tonight, can you confirm if you will come at six o'clock?
+Speaker2: Hey, hello, yes, I will arrive on time today.
+Speaker1: Okay, do you have any special dietary requirements, such as being allergic to seafood?
+Speaker2: Is it possible to have a window seat?
+Speaker1: Sure, we'll reserve a window seat for you. Also, do you have a membership card? You can enjoy a 90% discount.
+Speaker2: Yes, my membership card number is 03030303.
+Speaker1: Okay, I noted it down. Right, the restaurant's address is on the third floor of Baozi Street in the city center, do you know if you can come over?
+Speaker2: Hmm, I checked, transportation is quite convenient, I took the bus over.
+Speaker1: That's great, if you can't find a place, you can call me anytime, my phone number is 077777777.
+Speaker2: Okay, thank you for your reminder, see you later.
+Speaker1: See you later, wish you have a happy dinner. Bye.

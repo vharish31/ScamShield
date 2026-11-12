@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your restaurant has private rooms?
+Speaker2: Hello, do you have a private room, are you wanting to book?
+Speaker1: Okay, I plan to reserve a private room for six people at six o'clock in the evening tomorrow.
+Speaker2: Okay, tomorrow night at six o'clock in the private room, six people, no problem. Do you have any special requirements?
+Speaker1: We want to eat some clean food, do you have any recommendations for main dishes?
+Speaker2: We have a very popular dish of steamed fish with a clear sign, and the dried mushrooms in the tea tree are also very popular. For the main course, we recommend our handmade noodles, which have a very good taste.
+Speaker1: Sounds good, let's try these. Also, do you provide free parking?
+Speaker2: Yes, our restaurant provides a free parking lot, you can rest assured to come.
+Speaker1: Goodbye, let's see each other tomorrow. Thank you for your help.
+Speaker2: No problem, see you tomorrow, welcome to come.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative, Johnson, from Speed Loan.
+Speaker2: Hello, what do you have?
+Speaker1: Is that so, we noticed you recently submitted a loan application on our website, do you have any funding needs now?
+Speaker2: "Uh, I do need it, but I also applied elsewhere and haven't decided yet."
+Speaker1: Understand understand, we here can provide no deposit, quick loan, and interest very cheap. If you interested, can first download our APP, proceed pre-approval.
+Speaker2: Do you want to download the app? I'm afraid it's not safe.
+Speaker1: Don't worry, our app is certified, so it's safe. Plus, we offer a one-month free trial, don't miss this chance.
+Speaker2: How do I download it?
+Speaker1: It's very simple. Just scan this QR code to download directly. After downloading, enter the recommendation code 123456 to enjoy more discounts.
+Speaker2: Okay, let me try.

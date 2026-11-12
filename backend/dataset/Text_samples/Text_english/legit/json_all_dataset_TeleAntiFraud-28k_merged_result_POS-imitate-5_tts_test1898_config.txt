@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you? I want to order takeout, can you recommend a restaurant?
+Speaker2: Hello, we have many choices here. What type of food do you like? For example, Sichuan, Cantonese, or Western.
+Speaker1: What do you recommend for a light meal?
+Speaker2: I recommend you try our steamed fish with ginger and green onions, both are pretty clean dishes.
+Speaker1: How much do these two dishes cost?
+Speaker2: Steamed fish with clear broth is 35 yuan, and steamed fish with scallions and oyster sauce is 15 yuan.
+Speaker1: Okay, I'll have both of these dishes, do I need to add rice and soup too?
+Speaker2: Rice is three yuan per bowl, soup is five yuan per bowl.
+Speaker1: How about a bowl of rice and a bowl of soup, how much does it cost in total?
+Speaker2: The total is sixty-three yuan. Please confirm the address, and we will arrange delivery immediately.
+Speaker1: The address is Happiness Small Community No. 3 Building No. 2 Unit 602 Room, OK, approximately how long can it be delivered?
+Speaker2: In general, it can be delivered within 30 minutes. However, there may be a delay during peak hours.
+Speaker1: Okay, thank you, I'll wait for your delivery.
+Speaker2: Okay, wish you enjoy your meal, bye!

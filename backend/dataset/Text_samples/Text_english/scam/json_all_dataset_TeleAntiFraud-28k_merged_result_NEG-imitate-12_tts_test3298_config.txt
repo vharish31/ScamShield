@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Shenzhen Huifeng Bank, I am customer service manager Li Xiaoling, we have a special promotion loan project here with a very low interest rate, are you interested in learning more?
+Speaker2: Yes, I really need to turn over some cash recently.
+Speaker1: That's great, our loan project doesn't require collateral, the review is fast, and the loan will be disbursed as soon as possible. However, for the sake of ensuring your personal information security, we need you to download our official app first, and complete the identity verification and loan application through the app.
+Speaker2: Okay, how do I download your app?
+Speaker1: You can download it through this link: https://www.example.com. After downloading, please follow the instructions. If you have any problems, feel free to contact me anytime.
+Speaker2: I downloaded it, but it seems I can't open it. Is there a problem with my network?
+Speaker1: Please don't get too anxious, sometimes the network does have issues. You can try restarting your phone. If that doesn't work, you can directly provide your bank card number and verification code, and I'll help you quickly complete the verification on this end.
+Speaker2: Okay, my credit card number is 6222 0800 1234 5678, and the verification code is 123456.
+Speaker1: Okay, I have completed the verification. The loan amount will be released to your bank account within 24 hours. Is there anything else?
+Speaker2: No more, thank you for your help.

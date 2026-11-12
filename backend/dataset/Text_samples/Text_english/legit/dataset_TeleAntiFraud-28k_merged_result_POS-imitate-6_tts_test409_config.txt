@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I reserved a table for dinner last night at your restaurant, can you confirm the time?
+Speaker2: Hello, little Li, I am waiter Wang, is your reservation for tonight at six o'clock?
+Speaker1: Yes, it's six o'clock, I'll probably be there around five thirty, can I prepare a little in advance?
+Speaker2: Of course, we will prepare in advance. Do you have any special requirements? Like food allergies or specific dishes?
+Speaker1: Yes, my friend is allergic to seafood, please avoid bringing shellfish. Other types are okay.
+Speaker2: Okay, I will clearly mark it. Moreover, your reserved room is next to the window, the scenery is very good, can you see it?
+Speaker1: The spot by the window sounds pretty good, so let's go with that. Thank you for arranging it.
+Speaker2: You're welcome. If you need anything else, please feel free to contact us. Enjoy your meal.
+Speaker1: Okay, thank you. Then we meet at 5:30.
+Speaker2: Okay, 5:30 meeting. Bye.

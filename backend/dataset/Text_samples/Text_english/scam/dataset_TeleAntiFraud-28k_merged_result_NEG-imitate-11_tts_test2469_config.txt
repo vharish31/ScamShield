@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I'm little Li, this side is the Zhao Shang Yin Bank, have you submitted a loan application before?
+Speaker2: Yes, I have submitted it.
+Speaker1: Okay, the information has been reviewed and approved. To ensure accuracy, we need you to cooperate and do a simple verification.
+Speaker2: Validation? How to validate?
+Speaker1: That's it, we need you to download an app called '招行贷款助手'. Some steps inside need you to follow the instructions.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Absolutely safe, this is our bank's exclusive, you can rest assured now. After downloading, open the APP, input your identity card number and mobile number, we will send you a verification code.
+Speaker2: Okay, let me try.
+Speaker1: Okay, after receiving the verification code, please complete the verification according to the instructions in the app, so that we can successfully disburse the funds.
+Speaker2: What should I do if I encounter problems after downloading it?
+Speaker1: You can contact customer service directly through the app, or call me, my phone number is 4001233333, you can contact me anytime.

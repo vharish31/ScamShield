@@ -1,0 +1,13 @@
+Speaker1: Hello, is it Zhang Huai?
+Speaker2: Who are you?
+Speaker1: I am a courier customer service representative, here is your package, but due to some issues, it cannot be sent normally.
+Speaker2: What problem?
+Speaker1: Our solution is to process a refund for your lost package during transportation.
+Speaker2: How do I handle a refund?
+Speaker1: Just click this link and fill out the relevant information, and we'll handle your refund issues.
+Speaker2: How do I know this is true?
+Speaker1: We are regular express delivery customer service, you can verify my identity through our service hotline 400-123-4567.
+Speaker2: How can I confirm this link is safe?
+Speaker1: This link is our official link, very safe, you can also add my WeChat first, I will send it to you through WeChat, so you can directly confirm it in WeChat.
+Speaker2: Okay, I'll add you on WeChat.
+Speaker1: Great, my WeChat number is speed express customer service, add me and I'll immediately send you a link, follow the instructions and you'll quickly complete the refund.

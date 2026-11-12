@@ -1,0 +1,11 @@
+Speaker2: Hello, who are you?
+Speaker1: Hello, I am the manager of the northeast bank, your loan application has been approved, you can borrow 30,000.
+Speaker2: Really? That's great, I really need cash flow recently.
+Speaker1: Yes, to make it easier for you to process, you can first click on the link I sent you to download our official app, and then follow the instructions to operate it.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Please wait a moment, in order to verify your identity, I need you to provide a verification code, the verification code will be sent to your phone, please tell me once you receive it.
+Speaker2: Okay, I'm waiting.
+Speaker1: The verification code has been sent, please check.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you, we have verified successfully on this side. Please download the app and register. After registration is complete, please contact me, I can guide you through the final payment process.
+Speaker2: Okay, I'm going to download now.

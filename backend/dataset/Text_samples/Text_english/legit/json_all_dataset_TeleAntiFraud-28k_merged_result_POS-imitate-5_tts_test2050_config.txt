@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm Xiao Zhang, I want to consult your family's household services.
+Speaker2: Hello, I am customer service representative Li from a cleaning company, how can I assist you?
+Speaker1: Do you provide clean and cooking services at your home?
+Speaker2: Yes, we provide daily cleaning, deep cleaning, cooking and other various services, which can be customized according to your needs.
+Speaker1: How much would it cost to hire someone to clean if I just wanted to do that?
+Speaker2: Our one-time cleaning service charges based on room size, typically around 200 yuan for a single room and 250 yuan for a double room.
+Speaker1: Is it okay if I clean once a week?
+Speaker2: Of course, we provide weekly cleaning service, the price will be slightly discounted, you can consider long-term cooperation.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: Yes, to ensure that the service personnel can arrive on time, we suggest you book in advance one day.
+Speaker1: Okay, can I schedule a cleaning service this Sunday?
+Speaker2: Okay, I will record it down and arrange for someone to come to your door for service at the appointed time.

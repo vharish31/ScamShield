@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, this is the blue sky car repair shop, you are Li Ming?
+Speaker2: Hey, it's me, you guys.
+Speaker1: Did you have a car checkup scheduled for tomorrow morning at 10am?
+Speaker2: Okay, can you confirm how early I need to arrive?
+Speaker1: It's best to arrive ten minutes early, so we can process your registration paperwork.
+Speaker2: Okay, I will arrive on time tomorrow.
+Speaker1: Okay, after checking it over, if any repairs are needed, we'll confirm the cost first, is that okay with you?
+Speaker2: Sure, can you help me out?
+Speaker1: No problem, this is part of our service. Moreover, if you have other questions, you can contact us anytime.
+Speaker2: Okay, thank you, see you tomorrow.
+Speaker1: See you tomorrow, be careful on the road.

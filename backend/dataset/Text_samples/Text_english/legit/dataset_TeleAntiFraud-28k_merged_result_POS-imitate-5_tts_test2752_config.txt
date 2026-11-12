@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: What time do your store close?
+Speaker2: What do you need to buy at our store tonight at nine o'clock?
+Speaker1: Do you sell light bulbs here to replace the ones in my car?
+Speaker2: What model do you want?
+Speaker1: Just those ordinary car headlights, shining brightly in two.
+Speaker2: Okay, this kind is here, are you coming now?
+Speaker1: Hey, I just placed an order, when can it arrive?
+Speaker2: Please check the logistics information. If it's sent out today, it should arrive tomorrow.
+Speaker1: Okay, can I come over and pick up the row tomorrow night when I have some free time?
+Speaker2: Sure, you can come directly to me when you arrive tomorrow.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: Okay, see you tomorrow, be careful on the road.

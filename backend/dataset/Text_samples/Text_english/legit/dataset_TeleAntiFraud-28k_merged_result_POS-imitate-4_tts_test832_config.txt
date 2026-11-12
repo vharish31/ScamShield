@@ -1,0 +1,12 @@
+Speaker1: Hello, where are you now?
+Speaker2: Hello, I'm at the entrance of the sunshine square, can you see me?
+Speaker1: Can you see? The red bag is in your hand, right?
+Speaker2: Okay, let's get in the car.
+Speaker1: Okay, you sit steady, we're off.
+Speaker2: Okay, thank you.
+Speaker1: No problem, do you have any special arrangements for this trip?
+Speaker2: I plan to watch a movie and then find a restaurant to have dinner.
+Speaker1: Do you have any movie recommendations that sound good?
+Speaker2: I recently saw a sci-fi movie that got good reviews, so I plan to go see it.
+Speaker1: That's great, the movie theater is here, walk slowly, be careful.
+Speaker2: Thank you, goodbye.

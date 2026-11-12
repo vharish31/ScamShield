@@ -1,0 +1,12 @@
+Speaker1: Hello, is it Li first name?
+Speaker2: Yes, who are you?
+Speaker1: I am Zhang Wei, a customer service representative at Commercial Bank, with the employee number 666666. Our bank recently introduced a special discounted loan service, and we would like to know more about your needs.
+Speaker2: Loan? I recently need some cash flow, what are your conditions?
+Speaker1: Great, Mr. Li, our interest rate for this loan is very low, only 0.5%, and the approval speed is fast, we can apply and get the loan on the same day.
+Speaker2: Listen well, what do you need me to do?
+Speaker1: First, you need to provide some basic personal information, then we will review it in the system. To speed up the review process, you can download our app first, which has a dedicated application channel.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, Mr. Li, our app is certified by the government, you can download it with peace of mind. After downloading, I will provide you with a personal invitation code, ensuring your information is safe.
+Speaker2: Okay, what is the invitation code you mentioned?
+Speaker1: Okay, your invitation code is 8888, after downloading the app, please enter this code, our system will automatically recognize and speed up your application process.
+Speaker2: Okay, I understand, thank you.

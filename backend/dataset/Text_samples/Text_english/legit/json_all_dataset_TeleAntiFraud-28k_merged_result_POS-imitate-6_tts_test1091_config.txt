@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm small Li, want to consult your fitness course.
+Speaker2: Hello, little Li, I am the customer service staff at the fitness center, you can call me little Zhang. What courses do you want to know about?
+Speaker1: Can you tell me more about your yoga courses, including the price and time?
+Speaker2: Our yoga classes are held every Monday, Wednesday, and Friday evenings at 7 p.m., each class lasting 60 minutes, and cost 300 yuan per month.
+Speaker1: Can you give me a course schedule?
+Speaker2: Of course, I will send you the course schedule via text message. What time do you plan to try it out soon?
+Speaker1: Can I schedule a class on Saturday next week?
+Speaker2: On Saturday, there are yoga classes from 10 am to 3 pm. Which time slot do you choose?
+Speaker1: Can we meet at 3 PM this afternoon? Can we come directly then?
+Speaker2: Okay, on Saturday at 3 pm, we have reserved a spot for you. Just come directly to the front desk to check in when you arrive. If there are any changes, please contact us in advance.

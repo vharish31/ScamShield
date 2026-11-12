@@ -1,0 +1,13 @@
+Speaker2: Hey, how are you?
+Speaker1: Hey, hello, this is the customer service representative of Happy Buy Mall, disturbing you.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we found out that your order has some issues due to system upgrade, so please confirm your information again.
+Speaker2: Uh, what should we do now?
+Speaker1: You can click on the links we send to you or directly download our latest app to quickly solve problems.
+Speaker2: Link? I haven't received it yet.
+Speaker1: It might be network delay, you can download the app first, and you can directly check the order status inside, very convenient.
+Speaker2: Okay, I'll try downloading the app.
+Speaker1: Okay, if you have any issues after downloading, please contact our customer service, and we will help you solve them promptly.
+Speaker2: Thank you, I know now.
+Speaker1: You're welcome, hope you have a nice shopping trip, bye.
+Speaker2: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how was your dining experience at our restaurant last time?
+Speaker2: Thanks, you guys did a great job.
+Speaker1: Would you like to know about the new dishes at our restaurant recently?
+Speaker2: Sure, what's new on the menu?
+Speaker1: Our new dishes include spicy chicken with chili peppers, stir-fried frog with dried scallops, and ginger-fried shrimp, all of which are very popular.
+Speaker2: I like frogs quite a bit, it sounds good.
+Speaker1: Next time you come, we have discount coupons to give you.
+Speaker2: Okay, thank you for your recommendation, I will consider it.
+Speaker1: You're welcome. If you have any questions or need to make a reservation, please feel free to contact us anytime.
+Speaker2: Okay, I understand, thank you.

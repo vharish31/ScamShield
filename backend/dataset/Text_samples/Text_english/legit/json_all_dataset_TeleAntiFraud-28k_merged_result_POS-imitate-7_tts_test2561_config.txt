@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I have more vegetables in your seafood fried rice, please?
+Speaker2: Of course, we can adjust the menu's ingredient ratio based on the customer's taste, and adding more green vegetables is fine.
+Speaker1: What time do you close the store?
+Speaker2: Our store is open until 10 pm, you can come anytime.
+Speaker1: Okay, I'll come over around seven in the evening.
+Speaker2: Okay, we'll wait for you here at the specified time.
+Speaker1: Can I just go find you directly?
+Speaker2: Okay, you arrived directly, I will receive you.
+Speaker1: Okay, thank you.
+Speaker2: No problem, I'm looking forward to your arrival. Goodbye.

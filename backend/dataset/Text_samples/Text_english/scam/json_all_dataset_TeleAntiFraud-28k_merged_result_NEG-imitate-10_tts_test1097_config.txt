@@ -1,0 +1,13 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: Hello, this is the China Construction Bank Credit Center, I am your personal customer manager, Zhang.
+Speaker2: Hey, Zhang manager.
+Speaker1: We noticed your recent credit card usage has been very good, so we want to thank you for your support by preparing a special gift for you.
+Speaker2: Is it really? What gift is it?
+Speaker1: It's a valuable electronic health wristband that can monitor your heart rate, blood pressure, and other health data.
+Speaker2: The sound is good, but how to take it?
+Speaker1: It's simple. Just download our official app, complete registration and link your credit card, then you can get it in the app.
+Speaker2: Okay, let me try.
+Speaker1: Hello, I have a personal link here, it will be sent to you via text message, just click the link to download the app directly.
+Speaker2: I got the text message, now I'm downloading.
+Speaker1: Okay, feel free to contact me if you have any questions. Enjoy your use!

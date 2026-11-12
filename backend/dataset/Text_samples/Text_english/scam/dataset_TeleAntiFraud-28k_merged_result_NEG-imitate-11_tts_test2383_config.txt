@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service representative from the Chinese bank. We noticed that you may have recently experienced some issues with your funds, so we have specially prepared a 30,000 credit loan for you. Do you have any immediate funding needs?
+Speaker2: Hello, I currently don't have any financial needs.
+Speaker1: Okay, I understand your situation. However, if you need anything in the future, you can consider downloading our bank app, which allows you to quickly apply and withdraw money, very convenient.
+Speaker2: Uh, is it okay if I directly handle it at the bank if I need it?
+Speaker1: Of course, but you may have to wait a long time at the bank and the procedures are quite complicated. Through the APP, you can complete the application in just a few minutes and there will be a specific customer service person to guide you.
+Speaker2: Okay, I'll think about it.
+Speaker1: Okay, if you have any questions, you can call our customer service anytime or add me on WeChat, my WeChat ID is bank customer service small Zhang, I will help you immediately.
+Speaker2: Okay, thank you for your advice.
+Speaker1: No problem, I hope my advice is helpful to you. If you need anything, please contact me. Wish you a happy life, goodbye!
+Speaker2: Okay, bye.

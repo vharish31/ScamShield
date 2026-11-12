@@ -1,0 +1,13 @@
+Speaker1: Hey, how are you? I'm little Li, our store just launched a new batch of electronic products, do you have any interest in coming to take a look?
+Speaker2: Hey, how are you, little Li, do you have any plans to buy a new phone recently? Do you have any recommendations on your side?
+Speaker1: What are your specific requirements for price and brand among the new high-value-for-money phones we have here, including flagship and mid-range models?
+Speaker2: I plan to budget around three thousand yuan, preferably a well-known brand, with good battery life and camera functionality.
+Speaker1: Are you interested in this phone? It's around 3,000 yuan and it has a great configuration, a large battery, and excellent camera quality. There's also a discount promotion going on right now.
+Speaker2: Great, what are the color and memory size options for this phone?
+Speaker1: What color do you prefer: black, blue or white? And which memory version do you prefer: 128GB or 256GB?
+Speaker2: I want to choose the blue color, 256GB version, what discount activities are there for this phone now?
+Speaker1: The 256GB blue version is currently on sale with a 90% discount, and you will also get a phone case and screen protector film for free, it's a great deal.
+Speaker2: Great, I'll buy this one, do you guys support cash on delivery?
+Speaker1: Of course, you can choose to pay on delivery, we will arrange to ship within three days and notify you of the specific time.
+Speaker2: Okay, I'll wait for your notice, thank you for your recommendation, Li.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. I hope you enjoy it. Goodbye!

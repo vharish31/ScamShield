@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Happiness Bank personal loan department, I am the manager, Zhang.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed you've been looking for loan services lately, we have a product here that's perfect for you, zero down payment, low interest rate, and fast approval.
+Speaker2: Hmm, this is quite attractive, how do I apply?
+Speaker1: Great, just download our official app and fill out some basic info, submit and we'll quickly review.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Extremely safe, our app is officially certified, you can download happy bank in the app store.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you encounter any issues while downloading, please contact me anytime. My phone number is 400123456.
+Speaker2: Thank you, I will contact you.

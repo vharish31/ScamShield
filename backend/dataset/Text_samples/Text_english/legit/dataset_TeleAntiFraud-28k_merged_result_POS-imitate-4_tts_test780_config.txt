@@ -1,0 +1,14 @@
+Speaker1: Hello, I am the car security installation service platform. I see you bought a car record recorder on JD. Do you need help with installation?
+Speaker2: Isn't it?
+Speaker1: Have you already arranged it before?
+Speaker2: I haven't arranged anything yet, I haven't contacted you yet.
+Speaker1: Could you please tell me your address so I can arrange the nearest store for you?
+Speaker2: I am at No. 1, Tian'an Road, Tian'an District.
+Speaker1: Okay, I'll check if there are any cooperative stores nearby.
+Speaker2: Okay, can you help me?
+Speaker1: Found it, there's a cooperative store in Tian An Qu, would you be convenient to come over and install tomorrow morning?
+Speaker2: Can we meet tomorrow morning? What time?
+Speaker1: Can I see you at 10 am in the morning?
+Speaker2: 10 o'clock is fine, thank you.
+Speaker1: Okay, I have booked an appointment for you tomorrow morning at 10 am. Remember to bring your car record. Goodbye.
+Speaker2: Okay, thank you, bye.

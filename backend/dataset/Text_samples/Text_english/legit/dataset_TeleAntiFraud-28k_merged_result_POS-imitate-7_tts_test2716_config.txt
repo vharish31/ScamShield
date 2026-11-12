@@ -1,0 +1,10 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, I'm good, thank you. How are you?
+Speaker1: Hi, I've been pretty busy lately with work. Do you have any plans recently?
+Speaker2: I plan to go to a park on the weekend if the weather is good, and I want to have a picnic.
+Speaker1: Do you have any recommendations for parks that sound good?
+Speaker2: Yeah, the scenery in North Mountain Park is great, not too many people, perfect for a picnic.
+Speaker1: That's great, I'm also thinking of finding a place to relax. Can you tell me how to go there?
+Speaker2: Sure, starting from the city center, walk along Changshan Road straight, turn right after passing the third red light, and you'll see the park entrance right ahead.
+Speaker1: Okay, thank you for your advice. I'll try it out this weekend.
+Speaker2: No problem, hope you have fun. See you this weekend!

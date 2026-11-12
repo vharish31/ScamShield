@@ -1,0 +1,9 @@
+Speaker1: Hi, how are you? I'm Liu, the customer manager at Dongjing Bank. Recently we launched a loan product specifically designed for small business owners with no collateral. Have you recently had any funding needs?
+Speaker2: Hello, I'm little Zhang, I recently need some cash flow, can you introduce in detail?
+Speaker1: Of course, this loan product has a very low interest rate, and the approval process is fast. All you need to provide are some basic documents. If you're interested, you can first download our bank's official app, fill out some basic information, and I'll help you speed up the approval process in the background.
+Speaker2: Okay, how do I download your app?
+Speaker1: You can search 'Dongjing Bank' on the mobile app store, download the official app, register and fill in the relevant information after downloading, and you can contact me if you have any unclear parts.
+Speaker2: Okay, I'll go download it, but I don't understand these operations. If I encounter any problems, what should I do?
+Speaker1: No problem, just download the app and find the online customer service within it. Tell me your phone number and I will contact you immediately to help you solve all problems.
+Speaker2: Okay, thank you for your help. I'll download it right away.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. I hope your download goes smoothly. Let's meet in our app.

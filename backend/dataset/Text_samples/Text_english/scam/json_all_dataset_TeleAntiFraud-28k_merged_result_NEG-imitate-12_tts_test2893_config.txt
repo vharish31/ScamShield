@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of the Shenzhen Bank. I saw that you had a loan consultation with us before. We now have a special promotion for loans, with interest rates as low as two cents. Would you like to know more?
+Speaker2: Okay, I can understand a bit, what are the conditions for your loan products?
+Speaker1: As long as you have a stable income source and good credit records, you can apply. To simplify the process, I recommend downloading our app, where you can directly apply, very convenient.
+Speaker2: Do you want to download the app? I'm afraid it's not safe.
+Speaker1: Don't worry, our app is legitimate and completely safe. If you're concerned, you can first provide some basic information on the phone, and I'll review it for you. Once it's approved, you can download the app and fill out the detailed information.
+Speaker2: Can I provide information, but will you not leak my personal information?
+Speaker1: Absolutely not, we highly value customer information privacy. To make you feel more at ease, I'll send you a link, you can click it to see our official safety statement.
+Speaker2: Okay, send me a link.
+Speaker1: Okay, wait a minute, I'll send it to you soon. Please check it after you receive it, and feel free to contact me if you have any questions.
+Speaker2: Okay, I'll wait for your link.

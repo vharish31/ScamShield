@@ -1,0 +1,10 @@
+Speaker1: Hello, hello, how are you? I am Xiao Wang, this is the customer service representative of Huaxian Yinhang, recently our bank has launched a very favorable credit loan, interest rate as low as 0.02, are you interested in learning more?
+Speaker2: Hmm, the interest rate is two cents, it sounds good, how do you operate it specifically?
+Speaker1: That's it, you need to download our bank's official app first, then fill out some basic information, and once approved, you can apply for a loan.
+Speaker2: Download the app, is this app safe?
+Speaker1: Of course, we are a regular bank. You can trust us. After downloading the app, you can also enjoy more financial services.
+Speaker2: Okay, I'll try to see. What's the name of the app, I'll search it in the app store.
+Speaker1: Okay, search for Huaxian Bank, download the official one, and you're good to go. Remember to register and fill out the information after downloading. Feel free to contact me if you have any questions.
+Speaker2: Okay, thank you. Is there another question? What conditions are needed for this loan application?
+Speaker1: The main requirement is to have a stable job and income, and to provide an identity card and bank statement. After approval, the loan will be credited to your account within one working day.
+Speaker2: Understood, I'll download the app now, thank you for your help.

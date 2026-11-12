@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I made an appointment for tomorrow's haircut, want to confirm?
+Speaker2: Hello, little Zhang, I am the customer service representative of the hair salon, what time is your appointment tomorrow?
+Speaker1: I have an appointment tomorrow at three in the afternoon.
+Speaker2: Okay, I checked and your appointment time is fine, we'll hold a spot for you here.
+Speaker1: Great, thank you. Oh, do I need to bring anything with me when I go?
+Speaker2: You don't need to bring anything, we'll provide all the tools and products you need here.
+Speaker1: Okay, I'll just go directly tomorrow.
+Speaker2: Yes, you can come directly tomorrow. If there are any changes, please contact us in advance.
+Speaker1: Okay, I will arrive on time. Thank you for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival, wish you a happy day. Goodbye.

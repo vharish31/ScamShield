@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to know more about your restaurant's reservation service.
+Speaker2: Hello, I'm very happy to serve you, what do you want to know?
+Speaker1: Do you have any rooms, approximately how much would they cost?
+Speaker2: We have different sized rooms that can accommodate 4 to 12 people, the prices are based on the dishes you order and are generally between 300 to 1000 yuan.
+Speaker1: How far in advance do I need to book if I want to reserve?
+Speaker2: Please book at least one day in advance, especially on weekends or holidays, we will reserve according to your needs.
+Speaker1: Okay, can I reserve a room with 10 people on either side for tomorrow afternoon at 6 pm?
+Speaker2: Sure, I'll book a 10-person room for you tomorrow at 6 pm. Please provide your name and contact information.
+Speaker1: Okay, my name is Li Huai, phone number is 1346789011.
+Speaker2: Okay, Mr. Li, I have already reserved everything for you. We will prepare everything for you at the appointed time. If there are any changes, please contact us in advance.
+Speaker1: Thank you, I'll bother you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

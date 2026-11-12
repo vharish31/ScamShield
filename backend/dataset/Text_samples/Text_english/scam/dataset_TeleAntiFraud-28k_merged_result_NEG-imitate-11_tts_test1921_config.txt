@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Lin?
+Speaker2: Yes, who are you?
+Speaker1: Hello, I am the Li manager of Huaxin Investment, we noticed that you have recently had a need for investment in finance, do you have any interest in participating in our high-end financial planning?
+Speaker2: Are you investing in wealth management? It sounds good, do you have any specific plans?
+Speaker1: Of course, we have a very safe financial product with an annual yield of 12%, and the risk is extremely low.
+Speaker2: Wow, so high? Your platform is reliable?
+Speaker1: Our platform has been running for many years and has many successful cases. To understand more detailed information, you can scan the QR code I send you and download our official app, which contains a lot of detailed introductions.
+Speaker2: Okay, let me try.
+Speaker1: Great, you can download it first and then I will introduce the investment plan in detail in the app. You can contact me anytime if you have any questions.
+Speaker2: Okay, thank you for your recommendation. I will take a look.

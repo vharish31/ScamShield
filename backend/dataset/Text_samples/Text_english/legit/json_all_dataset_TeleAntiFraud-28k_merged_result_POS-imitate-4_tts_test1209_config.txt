@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a customer service representative of the point store, we noticed that you have a lot of member points in your account that have not been used.
+Speaker2: Oh, really? I haven't paid much attention to these points.
+Speaker1: Yes, points can be used to exchange various products, such as electronic products and daily necessities, at a great discount.
+Speaker2: Are these points about to expire?
+Speaker1: Okay, your points will expire at midnight tonight and will be cleared, so you won't be able to use them after that.
+Speaker2: Okay, let me see what can be exchanged.
+Speaker1: Okay, you can log in to our point store and choose the products you like. If you need help, I can guide you online.
+Speaker2: Thank you, I'll take a look first, and contact you if there are any issues.
+Speaker1: No problem, you can contact me anytime. I hope you can choose the products you like.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me your restaurant's business hours and do you have any special dishes?
+Speaker2: Our restaurant is open from 11 am to 10 pm, and our signature dishes are the beef noodle soup and the steamed fish with ginger and scallions, both of which are very popular.
+Speaker1: Can I reserve the 7 pm spot for tomorrow night?
+Speaker2: Of course, can I reserve a few seats for you at seven o'clock tomorrow night?
+Speaker1: Thank you, thank you.
+Speaker2: Okay, we have reserved the two seats for you. Do you have any special requirements, such as a non-smoking area or a window seat?
+Speaker1: It's best to sit by the window, so you can enjoy the scenery outside.
+Speaker2: No problem, we will do our best to arrange it. See you later!
+Speaker1: Okay, thank you, see you later!

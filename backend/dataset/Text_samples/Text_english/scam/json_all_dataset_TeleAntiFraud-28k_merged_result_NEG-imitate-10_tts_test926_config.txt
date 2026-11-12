@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Yes, who are you?
+Speaker1: Hey, Li Laoban, good morning. I'm the customer service representative for Shunfengkuaidi. That's right, your previous package was returned because the address was incorrect, so you need to confirm the delivery address again.
+Speaker2: Oh, really? Then what do we do now?
+Speaker1: To ensure that your package arrives safely, please click on the link to re-enter your shipping address. Is that convenient for you?
+Speaker2: Okay, how do I get that link?
+Speaker1: Please wait a moment, I'll send it to you now. Please pay attention to check the message, once received click on the link following the instructions.
+Speaker2: Okay, I'm waiting.
+Speaker1: Okay, Li Laoban, the text message has been sent to your phone. Please pay attention to check it. If there are any issues, feel free to contact me anytime. Have a good day.
+Speaker2: Okay, thank you.

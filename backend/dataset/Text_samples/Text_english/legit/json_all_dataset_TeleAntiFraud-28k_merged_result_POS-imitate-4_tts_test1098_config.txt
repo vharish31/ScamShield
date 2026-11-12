@@ -1,0 +1,9 @@
+Speaker1: Hey, hello, I'm little Zhang, the food I ordered at your store hasn't been delivered yet, can you check it for me?
+Speaker2: Hello, little Zhang, I am the customer service of the delivery platform. Can I help you with your query? What is your order number?
+Speaker1: Can you check my order number 123456789, please?
+Speaker2: Okay, just a moment, I'll help you search. Small Zhang, your order is being delivered, estimated delivery time is twenty minutes.
+Speaker1: Okay, I'll wait a moment. Is there any compensation if it exceeds the time limit?
+Speaker2: If we exceed the estimated time by thirty minutes, we will give a certain compensation according to the platform rules. You can rest assured to wait.
+Speaker1: Okay, thank you for your answer.
+Speaker2: No problem, feel free to contact me anytime. I hope you enjoy your meal. Goodbye.
+Speaker1: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Yes, hello.
+Speaker1: Hello, I am Zhang, the customer manager of Huaxia Bank, we noticed that you have been very active in using credit cards recently, do you have any need for cash flow? We can provide low interest loan service.
+Speaker2: Hmm, I haven't considered this aspect before, but what about your loan service?
+Speaker1: Our loan services are very convenient, no collateral required, quick approval, low interest rates. As long as you meet our credit evaluation standards, you can apply. Just download our official app and follow the instructions to quickly apply.
+Speaker2: Do you want to download the app? It sounds good, but how can I confirm the safety of this app?
+Speaker1: I understand your concerns, Mr. Lee. Our app is certified by the government, so you can use it with peace of mind. If you're not comfortable, you can first add my WeChat, and I'll explain the process in detail.
+Speaker2: Okay, then I'll add your WeChat, you give me your WeChat number.
+Speaker1: Okay, my WeChat is 13811112222. Add me as a friend and I'll send you the download link for the app.
+Speaker2: Okay, thank you for your help. I'll add you later.

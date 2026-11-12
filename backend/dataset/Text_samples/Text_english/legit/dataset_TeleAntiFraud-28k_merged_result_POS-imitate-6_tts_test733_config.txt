@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am from the car installation platform, have your customers recently changed their tires?
+Speaker2: Oh, I'm not at the store today, not very clear.
+Speaker1: Is that okay if the customer wants to take away the old tires?
+Speaker2: Uh, if a customer wants to take away old tires, we usually don't object, but we need to ensure he can safely take them away.
+Speaker1: Okay, if the customer is willing to pay a little fee, like ten yuan per tire, is that okay?
+Speaker2: Okay, then he can pay this price.
+Speaker1: That's great, I'll notify him, he should arrive soon.
+Speaker2: Okay, can you please, thank you.
+Speaker1: No problem, if you have other questions, feel free to contact us anytime.
+Speaker2: Okay, bye.

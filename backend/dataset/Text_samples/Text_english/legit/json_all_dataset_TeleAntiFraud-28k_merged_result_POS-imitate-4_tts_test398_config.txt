@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, I recently want to buy a new phone, I heard your company has new smart watches, can you introduce them to me?
+Speaker2: Hello, I am customer service king, of course I can. We have a new smartwatch that can monitor heart rate, blood pressure, and multiple exercise modes, very practical. What information do you want to know?
+Speaker1: How much does this watch cost?
+Speaker2: This smartwatch costs 2800 yuan, and there's a discount activity now, you can get a 90% discount.
+Speaker1: How long is the navigation time of this watch?
+Speaker2: This smartwatch can last up to seven days in normal use. If you turn on the power-saving mode, the battery life will be longer.
+Speaker1: The watch sounds great, I recently need a watch like this. Do you guys support cash on delivery here?
+Speaker2: You can choose to pay on delivery when purchasing with our support. After placing your order, we will arrange for quick shipping, usually within two workdays.
+Speaker1: Okay, I'll place an order today. And how is your after-sales service?
+Speaker2: Our after-sales service is very good. If you have any problems after buying, you can contact us, and we will provide free repair service to ensure your usage experience.

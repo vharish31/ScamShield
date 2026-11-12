@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the happy shopping mall customer service center, I am the customer service representative Lee Jing, you recently purchased makeup products on our platform and found quality issues, we are ready to process a refund for you.
+Speaker2: Oh, is that so? That's great, how do I refund?
+Speaker1: To facilitate convenience and speed, please provide us with your bank card number and verification code. We will immediately refund the amount to your bank card.
+Speaker2: Okay, my bank card number is 1234567890123456, and the verification code is 123456.
+Speaker1: Thank you for your cooperation. We will process it quickly. Additionally, we have launched a limited-time discount promotion. You can enjoy an additional discount by clicking on the link <https://fakeurl.com>. Are you interested?
+Speaker2: Listen sounds good, I click look look.
+Speaker1: Great, just click and follow the on-screen instructions. Additionally, to ensure the quality of the products you're buying, we recommend downloading our official app, which offers more discounts.
+Speaker2: Okay, I'll download it.
+Speaker1: Thank you very much for your support. If you have any questions, please feel free to contact me anytime. Have a happy shopping!
+Speaker2: Thank you, goodbye.

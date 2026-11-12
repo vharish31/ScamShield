@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, which one
+Speaker1: Hello, I am a waiter at the food city, you ordered a private room in our restaurant before, do you know if it's convenient or not, I want to confirm the time.
+Speaker2: Oh, that's right, I remember it was ordered for tomorrow night at seven o'clock.
+Speaker1: Okay, tomorrow at seven o'clock, we confirmed that the room you booked is next to the window, the environment is good, do you have any other special requirements?
+Speaker2: Hey, no problem, just help me prepare some fruits, especially some oranges.
+Speaker1: Okay, we will prepare the fruits in advance, especially oranges, we will prepare more of them. Moreover, do you have any special requirements for the dishes?
+Speaker2: In terms of dishes, we prefer lighter ones, could you recommend some special ones?
+Speaker1: Okay, our signature dishes with a light flavor are white cut chicken, clear steamed fish, and scallion and basil, how are they?
+Speaker2: These few dishes sound good, just follow the ones you said, thank you.
+Speaker1: Okay, I've noted it down. Tomorrow evening at seven, we'll be ready in advance, and then meet up.
+Speaker2: Okay, thank you, see you later.

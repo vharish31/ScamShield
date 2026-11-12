@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, this is the Ali Finance Service Center, I am customer service manager Zhang.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, our system detected an inactive enterprise account under your name, which can apply for a no-collateral loan with a very favorable interest rate.
+Speaker2: Really? I really have a company, but I have never applied for a loan.
+Speaker1: Yes, this is a great opportunity. You can apply quickly through our exclusive link.
+Speaker2: How to apply?
+Speaker1: Scan the QR code I send, download our official app, and follow the instructions.
+Speaker2: Okay, let me try.
+Speaker1: Great, after scanning the QR code, if you have any issues, feel free to contact me anytime. Best of luck.

@@ -1,0 +1,9 @@
+Speaker1: Hey, hi, I ordered a piece of clothing on your website yesterday, but I haven't received it today.
+Speaker2: Hello, I am a customer service representative. Can I help you with a query? Please provide your order number, okay?
+Speaker1: Okay, my order number is eight seven six five four three two one.
+Speaker2: Thank you for your patience, I found your order information, the products have been shipped and are currently in transit.
+Speaker1: When will it arrive approximately?
+Speaker2: Based on logistics information, we estimate that we can arrive tomorrow. If there are any changes, we will notify you promptly.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, feel free to contact us anytime. Have a nice life, bye.
+Speaker1: Okay, bye.

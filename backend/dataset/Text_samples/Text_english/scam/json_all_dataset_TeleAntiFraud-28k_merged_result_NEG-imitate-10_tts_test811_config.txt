@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural Bank. I have some good news to tell you.
+Speaker2: Hello, do you have any good news?
+Speaker1: We recently launched a credit product targeting high-quality customers, with a maximum loan amount of 50,000 yuan, and highly competitive interest rates.
+Speaker2: Oh, really? I really need to turn over some cash recently.
+Speaker1: Great, here's a link for you to apply, just click and fill out the relevant information, our staff will get in touch with you soon.
+Speaker2: How do I get this link?
+Speaker1: Just reply your phone number, I'll send the link to your phone.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your name, ID number, and phone number. We will review and approve it quickly, and then contact you.
+Speaker2: Okay, my phone number is 13812345678.
+Speaker1: Okay, I'll send you the link now. Please pay attention to the SMS and complete the application as soon as possible.

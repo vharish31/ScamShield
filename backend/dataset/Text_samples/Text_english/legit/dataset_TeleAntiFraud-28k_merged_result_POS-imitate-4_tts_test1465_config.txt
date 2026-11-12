@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Can you please check the reservation status of your restaurant?
+Speaker2: Of course, what time is it now, do we need to reserve several places?
+Speaker1: Tomorrow night at six, two people
+Speaker2: Okay, tomorrow evening at six o'clock, two people's seats, can be reserved at the window seats, the scenery is good, how about it?
+Speaker1: The seat by the window sounds pretty good, can I sit by the window?
+Speaker2: Of course, I will arrange it for you. Do you need me to recommend some special dishes?
+Speaker1: Okay, do you have any recommendations?
+Speaker2: Our menu here has steamed fish and stir-fried pork, as well as new seasonal vegetables, all very popular.
+Speaker1: It sounds good, let's decide later. Thank you for your recommendation.
+Speaker2: You're welcome. I'm looking forward to your visit. If you have any other needs, please feel free to contact me anytime.

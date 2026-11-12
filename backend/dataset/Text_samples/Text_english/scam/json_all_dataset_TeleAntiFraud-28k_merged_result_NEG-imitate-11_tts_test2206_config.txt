@@ -1,0 +1,11 @@
+Speaker1: Hello, this is JD Finance customer service, I'm small king, we found an anomaly in your account, need you to cooperate to handle it.
+Speaker2: Hello, how is my account?
+Speaker1: Your recent transactions on your account seem suspicious, it's possible that your account has been stolen, to ensure your financial safety, we need you to verify your identity.
+Speaker2: How do I verify my identity?
+Speaker1: You can click this link, enter your bank card number and verification code, we will handle it in the background.
+Speaker2: Okay, I'll handle it right away.
+Speaker1: Okay, click this link and you'll be redirected to our official page. Enter the information and wait a few minutes, we'll send a verification code to your phone.
+Speaker2: Did you receive the verification code? Is this it?
+Speaker1: That's right, just enter this verification code on the page and then click confirm.
+Speaker2: Okay, I inputted it, now what do I do?
+Speaker1: Okay, please wait for a moment, we will process your information in the background. Once the processing is done, we will call you to confirm.

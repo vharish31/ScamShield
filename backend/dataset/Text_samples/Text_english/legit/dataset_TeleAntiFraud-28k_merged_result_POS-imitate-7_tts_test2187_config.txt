@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Hi, I'm the manager of the Xiaoming fast food store. You ordered food from us before, do you have any suggestions about our service?
+Speaker2: Oh, that's right, I think your service is pretty good, just sometimes the delivery time for food is a bit slow.
+Speaker1: Thank you very much for your feedback. We will make improvements. By the way, we have recently introduced a new menu, would you like to try it?
+Speaker2: What's special about the new menu?
+Speaker1: The new menu includes our newly developed spicy pot, as well as free drinks, and the prices are very reasonable.
+Speaker2: Listen sounds good, so I can order a trial.
+Speaker1: Okay, can you leave an address, we'll arrange to send you food soon.
+Speaker2: Okay, the address is Xinghua Lu Yīyībān, please send it over quickly.
+Speaker1: Okay, we will send it quickly. If there are any issues, please feel free to contact us anytime.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye, I hope you like our new menu.

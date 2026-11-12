@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm looking for a suitable gym, can you recommend some options for me?
+Speaker2: Hello, of course, where do you want to look?
+Speaker1: It's best to walk or bike to the south lake.
+Speaker2: What are some good options on the south side of the lake? Are there any specific requirements for facilities or courses that you have?
+Speaker1: I mainly want to do yoga and running, and it's best if there are also bathing facilities.
+Speaker2: Both the Healthy Life Center and the Sunlight Fitness Center offer yoga classes and have good shower facilities. The Healthy Life Center has a wider variety of yoga classes, and their treadmills are the newest models. Which one do you think is more suitable?
+Speaker1: How much is the membership fee at the health and vitality center?
+Speaker2: The monthly membership at the health and vitality center is 500 yuan, and the annual membership is 4500 yuan. The annual membership is a bit more cost-effective.
+Speaker1: Okay, I'll think about it. Also, are they open on weekends?
+Speaker2: They are open every day from 6 am to 10 pm, including weekends. What time is most convenient for you to go and try it out?
+Speaker1: Thanks for letting me go see it this weekend.
+Speaker2: No problem, I hope you like it. See you this weekend!

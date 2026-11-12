@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you? I want to ask if this restaurant has private rooms?
+Speaker2: Hello, do you want to make a reservation at our restaurant which has private rooms?
+Speaker1: Yes, I plan to have dinner with my family on the weekend at a quiet restaurant.
+Speaker2: Okay, we have several different sized rooms here, how many people will you be?
+Speaker1: There will probably be about ten people around.
+Speaker2: Ten people can reserve our middle-sized room, which can accommodate ten to twelve people, and the environment is very comfortable.
+Speaker1: How much does this room cost?
+Speaker2: The room itself is free, you just need to pay per person for the menu, we have different priced sets available to choose from.
+Speaker1: What do you recommend dishes?
+Speaker2: Our restaurant's signboard menu has steamed sea bass, ginger and green onion, and red braised pork, which are very popular, you can consider it.
+Speaker1: These sound good, I'll give more details later.
+Speaker2: Okay, you can call ahead to confirm before coming, we will prepare everything for you.
+Speaker1: Okay, thank you for your help, see you this weekend.
+Speaker2: No problem, see you this weekend, wish you have a nice weekend.

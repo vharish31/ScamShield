@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Hello, I am the customer manager of Agricultural and Commercial Bank, your non-rusty food store has just passed our bank's enterprise loan review, you can get a no-collateral loan, are you interested in learning more?
+Speaker2: Really? I really need some cash flow recently.
+Speaker1: Yes, we have a special loan product designed for business owners, with a very low interest rate and a fast approval process. You just need to download our app, fill out some basic information, and complete the application.
+Speaker2: Do you want to download the app? It sounds very convenient.
+Speaker1: Yes, our app operation is very simple and the security is very high. You can download and try it now, and feel free to contact me if you have any questions.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, if you have any issues after downloading, remember to contact me. My phone number is 0755-12345678.
+Speaker2: Thank you, I will pay attention.

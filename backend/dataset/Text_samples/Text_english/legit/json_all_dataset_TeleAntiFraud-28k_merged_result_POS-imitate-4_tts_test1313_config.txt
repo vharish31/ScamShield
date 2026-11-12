@@ -1,0 +1,10 @@
+Speaker1: Hi, how can I schedule maintenance service on your side?
+Speaker2: Hello, how are you? I am a customer service representative. Our repair service is available all day. What time would you like to schedule a repair?
+Speaker1: Can I come at three in the afternoon tomorrow?
+Speaker2: Okay, what maintenance project did you schedule for 3 PM tomorrow afternoon on our side?
+Speaker1: My washing machine at home seems to have some issues. I'm not sure if the motor is broken, so I want to ask the master to take a look.
+Speaker2: Okay, there are specialized technicians on our side for washing machine repair. The master will arrive on time at 3 pm tomorrow afternoon. Please provide a contact address and phone number so that the master can contact you.
+Speaker1: Okay, my home address is Xiānqiáo huāyuán sān hào lóu èr dàn yī xiàng liù xiàng liú xiàng liú, diàn huā is six wǔ wǔ sì xiàng yī xiàng liú xiàng liú, huā yì is six wǔ wǔ sì xiàng yī xiàng liú xiàng liú.
+Speaker2: Okay, New Qiáo Huāyuán Sān hǎo lóu Èr dān yī xiàng liù xiàng èr yī, diàn huā Sìxìng hé liú xiàng hé liú xiàng èr yī, jiān jīng kèi rècù hǎo le, míngtiān xiàng wǎn sān diàn wǒmen shī xià
+Speaker1: Okay, can you please let me know if there are any changes?
+Speaker2: Okay, if there are any changes, we will notify you immediately, please keep your phone line open, wish you a happy life, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, recently I need to move, want to consult moving services.
+Speaker2: Hello, little Zhang, I am Li Xiao from the moving company, very happy to serve you. What information do you want to consult?
+Speaker1: Can you tell me about your moving service process and price, and roughly how far in advance do I need to book?
+Speaker2: We will first evaluate the price based on the number of items and the distance to move, usually small-scale moving starts at 200 yuan, and the price for large-scale moving will be different based on the actual situation.
+Speaker1: How much would it cost to move this bed, wardrobe, TV, and some books from here to Chaoyang District?
+Speaker2: Based on the information you provided, our initial quote is three hundred and fifty yuan. The specific price we will determine upon on-site evaluation. When do you need us to conduct the on-site evaluation?
+Speaker1: When do you have time this weekend?
+Speaker2: Can you tell me if it's more convenient for you on Saturday or Sunday for us to arrange a worker to come to your door? We usually start work at nine in the morning.
+Speaker1: Is it okay to meet at 10 am on Saturday morning?
+Speaker2: Okay, we will arrive on time at 10 am on Saturday morning. Please prepare the items that need to be moved, we will arrive on time and serve you.

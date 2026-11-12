@@ -1,0 +1,12 @@
+Speaker1: Hey, are there any rooms for rent there?
+Speaker2: Yes, are you interested?
+Speaker1: Hey, I have a few questions to ask. Firstly, how much is the rent?
+Speaker2: The monthly rent of the room is 1500 yuan, and the water and electricity fees are self-paid.
+Speaker1: How big is that room? Does it have an independent bathroom?
+Speaker2: The room is approximately twelve square meters, with an independent bathroom.
+Speaker1: Sure, can I cook in the room?
+Speaker2: Sure, but be careful and don't mess around in public areas.
+Speaker1: Understood, when can I go take a look at the room?
+Speaker2: Is three to six in the afternoon convenient for you? I'll be there then.
+Speaker1: Okay, I'll go at four o'clock tomorrow.
+Speaker2: Okay, see you tomorrow.

@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm Xiaoming, recently I want to buy a car, I saw your store has several nice ones.
+Speaker2: Hello, Xiaoming, very happy to serve you. Which car model do you like the most?
+Speaker1: I'm quite interested in that SUV, but I don't know the specific configuration and price.
+Speaker2: That SUV is our best-selling car model, it comes with features such as automatic transmission, rearview radar, and navigation system, and the price is approximately fifteen thousand yuan.
+Speaker1: 15,000 sounds good. How is the fuel consumption of this car?
+Speaker2: This car's fuel consumption in the city is approximately eight liters per 100 kilometers, and it's a bit lower on the highway, approximately six and a half liters.
+Speaker1: That's right, it's pretty fuel-efficient. Can you tell me more about the maintenance policy for this car?
+Speaker2: This car's maintenance policy is free for the first service, then every 5,000 miles or six months, a service is performed, and the specific cost varies depending on the maintenance project.
+Speaker1: Okay, thank you for your detailed introduction. I plan to come to the store on Saturday morning, is that convenient for you?
+Speaker2: On Saturday morning, of course, we have staff working from 10 am to 6 pm, so you can come over at any time.
+Speaker1: Okay, I'll come at 10 am on Saturday morning. Thank you, goodbye.
+Speaker2: Okay, see you on Saturday, goodbye.

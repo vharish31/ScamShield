@@ -1,0 +1,11 @@
+Speaker1: Hello, this is Century Family Mall customer service, your order has a problem, please handle it.
+Speaker2: What's the issue?
+Speaker1: Your order cannot be automatically processed due to system upgrade. Please click our customer service link to complete verification.
+Speaker2: Okay, how do I click on a link?
+Speaker1: Just reply with the number eight, I'll send you a text message with a link to your phone, click the link to complete the verification.
+Speaker2: Okay, I'll reply eight.
+Speaker1: Okay, wait a moment, the text message will be sent to your phone immediately, please check it promptly and act accordingly.
+Speaker2: I got the text message, so I'll click on the link now.
+Speaker1: Okay, just complete the verification as instructed on the page. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you happy life, bye.

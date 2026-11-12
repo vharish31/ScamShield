@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you guys tell me if you have any free rooms this weekend? I'm planning a short trip and want to book a room in advance.
+Speaker2: Okay, when do you plan to come? I can help you look it up.
+Speaker1: I plan to arrive on Saturday afternoon and leave on Sunday afternoon.
+Speaker2: Okay, I'll check. For rooms from Saturday to Sunday, we have both standard and luxury rooms. Do you have a preference?
+Speaker1: What's the price in standard interval?
+Speaker2: The standard price for a room with breakfast is 168 yuan per night.
+Speaker1: Okay, I'll book a standard room.
+Speaker2: Okay, I have booked a standard room for you from Saturday to Sunday. Please provide your name and contact information to confirm the booking.
+Speaker1: My name is Li Ming, phone number is 13800000000.
+Speaker2: Okay, Mr. Lee, your reservation is complete. If there are any changes, we will contact you by phone. Have a nice trip!

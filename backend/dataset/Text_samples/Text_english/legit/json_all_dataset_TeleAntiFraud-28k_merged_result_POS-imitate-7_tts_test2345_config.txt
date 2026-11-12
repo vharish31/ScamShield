@@ -1,0 +1,15 @@
+Speaker1: Hi, I'm Li Xiao, customer service representative for Meituan Waimai.
+Speaker2: Hello, little Li.
+Speaker1: Have you been looking for part-time jobs on Meituan recently?
+Speaker2: Yes, I'm looking for some part-time jobs that suit me.
+Speaker1: We have a delivery driver position opening at Meituan outside food right now. Are you interested?
+Speaker2: Can we consider making the time schedule for this job flexible?
+Speaker1: Very flexible, you can choose class times based on your own time, such as early morning, late afternoon, or peak hours.
+Speaker2: How do you calculate salary?
+Speaker1: We are on a commission basis, each order has a certain commission, the more work the more commission.
+Speaker2: What materials do I need to prepare?
+Speaker1: You need to provide your identity card and health proof. We can discuss the specific details at the interview.
+Speaker2: Okay, when can I come for the interview?
+Speaker1: You can come to the Meituan headquarters in the city center at 9 am tomorrow.
+Speaker2: Okay, I understand, see you tomorrow.
+Speaker1: See you tomorrow, feel free to contact me anytime if you have any questions.

@@ -1,0 +1,11 @@
+Speaker1: Hey, what's the name of the menu at your store?
+Speaker2: Hello, our store's menu has steamed fish, spicy chicken, and red braised pork, all of which are very popular.
+Speaker1: How much do these menus cost?
+Speaker2: Steamed fish is 60 yuan, spicy chicken is 45 yuan, stir-fried pork is 50 yuan.
+Speaker1: Is your store open now?
+Speaker2: Our business hours are from 11 am to 9 pm, and you're here right now.
+Speaker1: Okay, I want to reserve a seat for two people, what time is convenient?
+Speaker2: Okay, what time are you arriving? I'll hold a spot for you.
+Speaker1: Six thirty in the evening.
+Speaker2: Okay, 6:30, two person seats, I will leave a spot for you. See you then.
+Speaker1: Thank you, see you later.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? This is the food square, is there anything I can help you with?
+Speaker2: Hello, I want to know your restaurant's business hours.
+Speaker1: Our restaurant business hours are from 11am to 10pm, weekends are extended to 11pm.
+Speaker2: Okay, I want to reserve a table for two people at seven o'clock in the evening.
+Speaker1: Okay, 7 o'clock spot, two people. What's your name and contact info?
+Speaker2: My name is Li Ming, phone number is 13812345678.
+Speaker1: Okay, Mr. Li, we have reserved a seat for you at seven o'clock tonight. Please arrive ten minutes early.
+Speaker2: Okay, thank you. Is there anything else, do you have any special dish recommendations?
+Speaker1: Our restaurant specialties include red braised pork, steamed fish and kung pao chicken. These are all very popular dishes.
+Speaker2: Okay, thank you for your recommendation. I will order these dishes later.

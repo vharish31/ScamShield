@@ -1,0 +1,10 @@
+Speaker1: Hey, are you the delivery boy?
+Speaker2: Hello, I'm a delivery boy, do you need any help?
+Speaker1: Why haven't I seen the delivery guy pick up my order yet?
+Speaker2: Please wait a moment, this area has a lot of orders, you might need to wait a little, don't rush.
+Speaker1: Okay, how long do we have to wait?
+Speaker2: Generally speaking, peak hours may require waiting twenty to thirty minutes. Can you handle it?
+Speaker1: Okay, but I'm a bit urgent right now, can you help me urge a little?
+Speaker2: Okay, I'll give you a nudge in a minute, just hang on for a sec, you should get a message soon.
+Speaker1: Thank you so much, you've really been a bother.
+Speaker2: No worries, this is my job. Don't worry, I'll notify you first if there's any news.

@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm little Li, did you book an appointment for tomorrow morning's haircut on our website?
+Speaker2: Yes, hello, I have an appointment at 10 o'clock for a haircut.
+Speaker1: Okay, we have arranged everything for you. Please come to the store at 10 am tomorrow.
+Speaker2: Okay, thank you. So, how early do I need to arrive?
+Speaker1: We suggest you arrive ten minutes early, so you can have time to fill out some necessary information forms.
+Speaker2: I understand, so I'll probably arrive at 9:50.
+Speaker1: Thank you very much, this arrangement is very suitable. If you have any need to adjust, please contact us anytime.
+Speaker2: Okay, I will arrive on time. Also, can I provide haircut washing service after haircut?
+Speaker1: Of course, after the haircut we will provide you with a free shampoo service, to make your hair even cleaner.
+Speaker2: Okay, now I can relax. Thank you for your help.
+Speaker1: You're welcome. We're looking forward to your arrival. If you have any questions, please feel free to contact us anytime. Goodbye.
+Speaker2: Goodbye.

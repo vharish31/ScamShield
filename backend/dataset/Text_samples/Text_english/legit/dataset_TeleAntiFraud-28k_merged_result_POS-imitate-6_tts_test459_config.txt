@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, can you come to North Bridge Street to pick me up?
+Speaker2: Okay, where are you now? I'll be there soon.
+Speaker1: Can you see the KFC at the North Bridge Street entrance?
+Speaker2: I see, I'll be there in about ten minutes, just wait a moment.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Okay, I'll call you when I arrive.
+Speaker1: Okay, thank you.
+Speaker2: No problem, be careful on the road.

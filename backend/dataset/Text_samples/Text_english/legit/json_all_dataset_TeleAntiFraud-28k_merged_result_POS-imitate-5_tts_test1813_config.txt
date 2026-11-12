@@ -1,0 +1,13 @@
+Speaker1: Hey, hello, I want to ask, do your restaurant have private rooms?
+Speaker2: Hello, how many rooms do you need?
+Speaker1: About ten people left and right, want to give friend birthday.
+Speaker2: Okay, we have ten rooms for ten people, approximately what time is it?
+Speaker1: Can I meet you at six thirty on Friday next week?
+Speaker2: Sure, I'll reserve 6:30 PM on Friday for you.
+Speaker1: How early should we arrive to be good?
+Speaker2: It's better to arrive 15 to 20 minutes early for the meeting, so you can have a time point for food and adjust the environment.
+Speaker1: Okay, let's just come directly at the time, right?
+Speaker2: Okay, just come directly, we'll be ready on this side.
+Speaker1: That's great, thank you for your help.
+Speaker2: You're welcome, please feel free to contact us if you have any questions. Happy birthday to your friend. Goodbye.
+Speaker1: Okay, bye.

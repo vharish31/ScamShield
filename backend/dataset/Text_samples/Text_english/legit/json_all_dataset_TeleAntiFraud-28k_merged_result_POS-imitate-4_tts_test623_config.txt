@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Xiaoming, recently I bought a phone from your store, want to know about the repair policy.
+Speaker2: Hello, I am customer service Zhang, regarding the repair policy, can you tell me the specific date of purchase and product model?
+Speaker1: Okay, I bought it on the 15th of last month, the model is Xingcheng Sanhao.
+Speaker2: The warranty period for the Star Chien San Guo handset is one year, starting from the day of purchase. Any non-human-caused fault during this period can be repaired for free.
+Speaker1: What should I do if I want to extend the warranty period?
+Speaker2: We also provide an extension of the warranty service, you can choose to extend it for one year or two years, the specific fees and service content will be sent to you via text message, you can understand it in detail.
+Speaker1: Okay, what should I reply to the text message after receiving it?
+Speaker2: After receiving the message, simply reply with the corresponding number to confirm the service. If you have any questions, you can directly contact us.
+Speaker1: I understand, thank you for your help, little Zhang.
+Speaker2: You're welcome, feel free to ask any questions anytime, hope you enjoy it.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, I just bought a phone at your store, but when I got home I found a scratch on the screen, what can I do about it now?
+Speaker2: Oh no, I'm so sorry, I've been bothering you. Can you tell me your order number? I'll check it over here.
+Speaker1: Okay, my order number is one two three four five six seven.
+Speaker2: Okay, I found it. This situation you can choose to return or exchange, you see which one is more convenient for you?
+Speaker1: Can I get a new phone?
+Speaker2: Of course, you can bring your phone and all attachments with you, and then come to our store, we will give you a new one.
+Speaker1: Can I spend the afternoon tomorrow?
+Speaker2: Sure, our store business hours are from 10 am to 8 pm tomorrow afternoon. You can come anytime.
+Speaker1: Okay, I'll go over there at three in the afternoon tomorrow, see you then.
+Speaker2: Okay, see you tomorrow. I'll have a new phone ready for you by then.

@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I want to inquire about your haircut appointment service.
+Speaker2: Hello, how about you book a time slot?
+Speaker1: What's the plan for next Tuesday afternoon?
+Speaker2: What time on Thursday afternoon do you need to make a reservation for next week?
+Speaker1: Is three and a half in the afternoon okay?
+Speaker2: Sure, can you provide your name and contact information at 3:30 PM?
+Speaker1: Okay, my name is Li Ming, phone number is 13579123.
+Speaker2: Mr. Li, your haircut appointment is next Tuesday at 3:30 PM. We will send you a text message reminder beforehand. Is that okay with you?
+Speaker1: Great, thank you.
+Speaker2: You're welcome. If you have any other needs or questions, feel free to contact us anytime. Have a nice life. Bye.
+Speaker1: Goodbye.

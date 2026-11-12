@@ -1,0 +1,10 @@
+Speaker1: Hey, are there any power banks for sale in your store?
+Speaker2: Hello, what model do you want here?
+Speaker1: I want a big one that can quickly charge my phone.
+Speaker2: This phone here has a 10,000 mAh battery, supports fast charging, and also comes with a data line.
+Speaker1: How much does this cost?
+Speaker2: This power bank was originally priced at 150 yuan, now there's a promotion, only 120 yuan.
+Speaker1: Can we try it out on-site?
+Speaker2: Of course, you come to the store, I give you a demonstration.
+Speaker1: Okay, I'll be there in about half an hour.
+Speaker2: Okay, I'm waiting for you here.

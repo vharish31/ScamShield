@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a waiter at some restaurant. Yesterday at our restaurant, you mentioned wanting to make a reservation for this Saturday evening. Is it convenient now?
+Speaker2: Hello, yes, I'm convenient now, I want to confirm some booking things.
+Speaker1: Okay, what size table would you like to reserve for how many people?
+Speaker2: We need to reserve a four-person table.
+Speaker1: Okay, the four-person table, do we have any special preferences for the window seats or indoor seats?
+Speaker2: If possible, we would like to sit by the window.
+Speaker1: The window seat has been reserved for you, the time is next Saturday evening at seven o'clock, is that okay?
+Speaker2: Okay, 7 am is fine, thank you.
+Speaker1: No problem, to confirm your reservation, please provide a contact method, so we can confirm.
+Speaker2: My phone number is 000-000-0000, you can contact me.
+Speaker1: Okay, we have recorded it down. Next Saturday evening at seven, for four people, at the window side. We are looking forward to your arrival.
+Speaker2: Okay, thank you, see you later.

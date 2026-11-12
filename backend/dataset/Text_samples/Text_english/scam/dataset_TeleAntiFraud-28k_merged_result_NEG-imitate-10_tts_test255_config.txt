@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Lee Huai?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer manager at a commercial bank, we noticed you had previously consulted our loan services, now we have a loan product that is very suitable for you, the interest rate is very low, and the approval is very fast.
+Speaker2: Oh, is that so? Then how can I understand this loan product?
+Speaker1: Just download our bank's official app, register personal information, submit loan application, and get approval result quickly.
+Speaker2: I downloaded your app before, but I couldn't log in every time.
+Speaker1: It might be a network issue or your phone system version doesn't support it. To make it easier for you to operate, I can send you a link, and you can click on it to directly enter the loan application page.
+Speaker2: Okay, let me try.
+Speaker1: Okay, just a moment, I'll send the link to your phone right away. Also, to speed up the approval process, please prepare your ID and bank statement in advance.
+Speaker2: Okay, thank you for your help.

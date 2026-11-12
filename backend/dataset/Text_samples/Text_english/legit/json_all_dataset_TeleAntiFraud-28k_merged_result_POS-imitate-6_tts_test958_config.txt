@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, hi, I have something at home, sorry
+Speaker1: Hey, nothing, do you need any help?
+Speaker2: I just ordered takeout, but there's an urgent matter at home now, I might not be able to come back for a while, could you help me cancel it?
+Speaker1: Okay, just wait a moment, I'll take a look.
+Speaker2: Okay, can you help me?
+Speaker1: I have already canceled it for you, you can reorder or come back later to order.
+Speaker2: Thank you so much.
+Speaker1: No problem, feel free to contact me anytime.
+Speaker2: Okay, bye.
+Speaker1: Goodbye.

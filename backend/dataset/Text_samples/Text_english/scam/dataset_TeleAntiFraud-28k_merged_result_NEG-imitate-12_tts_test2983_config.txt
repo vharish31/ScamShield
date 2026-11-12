@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for JD Finance, we recently launched a low interest loan project for high quality customers, are you interested in learning more?
+Speaker2: Low interest loan? How to apply?
+Speaker1: It's very simple. Just download our official app, register an account and you'll see the loan options. Fill in the relevant information to apply.
+Speaker2: Is this app safe?
+Speaker1: Absolutely safe, we are a regular financial institution, all operations are completed within our official app, there will be no risks.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you encounter any issues during the download or registration process, feel free to contact me anytime. My phone number is 13800138000.
+Speaker2: Thank you, I will contact you.

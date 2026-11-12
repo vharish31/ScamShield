@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform. Your order is ready. It will take about ten minutes to deliver.
+Speaker2: Okay, thank you.
+Speaker1: No problem, do you have any other things that need help with, like dishes or invoices?
+Speaker2: Hey, I need utensils, no invoice.
+Speaker1: Okay, I will note down the items that need cutlery. Also, recently our platform has an activity, first-time orders can enjoy a half-price discount, your current order has already enjoyed this discount.
+Speaker2: Really? That's great. I will continue to use your platform next time.
+Speaker1: Thank you very much for your support. If you have any questions, please contact our customer service at any time. Enjoy your meal!
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

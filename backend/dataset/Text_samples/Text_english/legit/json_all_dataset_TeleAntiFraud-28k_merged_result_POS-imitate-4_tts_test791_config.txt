@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the property management customer service of the community, I want to confirm with you that your water and electricity bills for this month are not paid yet, when is it convenient for you to come and pay them?
+Speaker2: Hey, how are you? I've been having trouble going out lately. Is there any way I can pay online?
+Speaker1: Of course, you can pay through our WeChat public account or Alipay life account, very convenient.
+Speaker2: What is the name of the WeChat public account?
+Speaker1: Follow the WeChat public account "Happy Community Property Management" and select "Convenient Services" from the menu after following. Then click on "Water and Electricity Payment" and follow the instructions to complete the payment.
+Speaker2: Okay, I'll try and see what to do if there are problems.
+Speaker1: If you encounter any issues, you can contact our customer service hotline at any time. Our phone number is 400123456. We will solve the issue promptly.
+Speaker2: Okay, thank you for your help. I'll go operate now.
+Speaker1: No problem, please contact us if you have any questions. After paying the fee, please send me a confirmation.
+Speaker2: Okay, thank you, goodbye.
+Speaker1: Goodbye.

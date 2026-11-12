@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any new phones in this store?
+Speaker2: Anything for the new batch of smartphones? What brand or model do you need?
+Speaker1: Do you have the latest new rice?
+Speaker2: Do you want to know any information about the new iPhone from smallmi? We have it in stock.
+Speaker1: The main is configuration and price.
+Speaker2: Okay, this Xiaomi phone uses a Qualcomm Snapdragon processor, has 8GB of RAM, a 20-megapixel front-facing camera, a 40-megapixel rear-facing camera, a 4,500mAh battery, and sells for 2,999 yuan.
+Speaker1: This price sounds good, do you guys have any discount activities?
+Speaker2: Currently, you can enjoy a 300 yuan discount when purchasing this phone, and also receive a free original phone case.
+Speaker1: When can I come to pick up?
+Speaker2: If you're convenient, you can come between 3 and 5 this afternoon. Our store is in the commercial street of the city center. It's easy to find if you come.

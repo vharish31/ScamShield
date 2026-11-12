@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for FedEx, we found out that you might have lost a package during transportation.
+Speaker2: Really? Then what do we do?
+Speaker1: To quickly solve this problem, we need you to cooperate with us in a simple verification.
+Speaker2: Okay, what do I need to do?
+Speaker1: Please click on the link we sent, fill in the relevant information, and we can process your refund.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Thank you very much for your cooperation, Li First Name, if there are any questions, please contact us anytime.
+Speaker2: Okay, thank you.

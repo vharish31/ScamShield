@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiao Ming, recently I've been interested in the phone in your store, can I ask you a few questions?
+Speaker2: Hello, Xiao Ming, I am customer service representative Zhang, very happy to serve you. What specific questions do you have?
+Speaker1: What is the battery capacity of this phone? Is it fast to charge?
+Speaker2: This phone's battery capacity is 4000mAh, supports fast charging, and can charge from 0% to 80% in about half an hour.
+Speaker1: What is the number of pixels on its camera? How is the photo quality?
+Speaker2: This phone's main camera is 4.8 million pixels, the photo effect is great, supports night and portrait modes, very suitable for photography enthusiasts.
+Speaker1: Can you tell me how many colors are available for this phone?
+Speaker2: This phone comes in black, white, and blue, you can choose based on your preference.
+Speaker1: Great, I'd like to know more about your after-sales service if I buy this phone.
+Speaker2: We offer a one-year free warranty service, as well as a seven-day no-reason return or exchange policy. If you have any issues with using the product, you can contact our customer service at any time.

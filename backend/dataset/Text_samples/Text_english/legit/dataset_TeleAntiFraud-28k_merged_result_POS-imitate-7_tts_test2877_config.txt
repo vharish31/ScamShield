@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm Lee Huai, do you have any new blue tooth earphones in the store?
+Speaker2: Hello, Lee Huai, okay, we just got a new batch, sound quality is great, which one do you want to know more about?
+Speaker1: Can you tell me the price and color options for the best-selling one?
+Speaker2: Is black and white the best-selling, priced at 299 yuan, suitable for you?
+Speaker1: Sure, I want to buy a white one. Do you have it now?
+Speaker2: Yes, white is currently in stock, you can take it anytime.
+Speaker1: Okay, I plan to come over this weekend, will you guys be open for business this weekend?
+Speaker2: Our weekend business hours are normal, from 9am to 9pm. It's convenient for you to come anytime during that time.
+Speaker1: That's great, I plan to come over at 2:30 on Saturday afternoon, see you then.
+Speaker2: Okay, we'll meet at 2 pm on Saturday. See you later.
+Speaker1: Okay, bye.

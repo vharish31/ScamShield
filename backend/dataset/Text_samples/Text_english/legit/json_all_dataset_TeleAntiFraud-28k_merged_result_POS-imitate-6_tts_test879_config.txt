@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if there are any new washing machines on your side?
+Speaker2: Hello, yes, we just bought a new energy-efficient washing machine here, it's very cost-effective.
+Speaker1: What is the price of this washing machine?
+Speaker2: This washing machine costs three thousand yuan, there is currently a promotion, and buying it will give you a free set of laundry detergent.
+Speaker1: Oh, this way, how is the energy consumption of this washing machine?
+Speaker2: This washing machine has an energy consumption level of A+, it is very energy efficient, and the cost of use is very low.
+Speaker1: Is this washing machine in stock now?
+Speaker2: Yes, we have fresh produce here, you can directly come to pick it up, or you can choose to have it delivered to your door.
+Speaker1: Do you need to pay an extra fee for delivering goods to the door?
+Speaker2: If within city limits, we provide free door-to-door delivery service, otherwise there may be additional shipping fees.

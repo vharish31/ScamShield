@@ -1,0 +1,13 @@
+Speaker1: Hello, how can I help you at the Yánggōu chǎnchǎng?
+Speaker2: Hello, what are your special dishes?
+Speaker1: What kind of our special dish would you like to know more about? Red braised pork, steamed fish, or palace chicken?
+Speaker2: How much does palace chicken wings cost?
+Speaker1: The price of palace chicken drumsticks is 38 yuan per portion. You can choose to eat it at the table or take it away.
+Speaker2: What are your business hours?
+Speaker1: Our restaurant's business hours are from 10 am to 10 pm, you can come to dine anytime.
+Speaker2: Okay, shall I book a seat in advance for tonight at 7 pm?
+Speaker1: If you're convenient, you can pre-order a spot, which will be more convenient.
+Speaker2: Okay, I'll reserve a four-person table, thank you.
+Speaker1: Okay, I have already booked for you. Just come directly at the time, we are waiting for you.
+Speaker2: Thank you, goodbye.
+Speaker1: Goodbye, wish you a happy day.

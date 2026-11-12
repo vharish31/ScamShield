@@ -1,0 +1,8 @@
+Speaker1: Hello, I am the person who bought the electric scooter from your store last time. I want to confirm if the battery model I bought is correct.
+Speaker2: Hello, the model number of the electric bike you bought should be recorded on our side, but it's best to confirm it again to avoid any mistakes.
+Speaker1: Okay, how do I confirm?
+Speaker2: Can you check the battery label for the model number, or take a picture and send it to me, I can check it on this end.
+Speaker1: "Hmm, can I find the model?"
+Speaker2: Okay, tell me after you find it, if the model is wrong, we can help you change it.
+Speaker1: Thank you, I'll just look around first.
+Speaker2: No problem, you can contact me anytime, any questions are fine.

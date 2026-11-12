@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Do you have any fruit for sale here?
+Speaker2: Hello, we have fresh fruits here, what fruit do you want to buy?
+Speaker1: Do you have any red apples here?
+Speaker2: Yes, our red apples are very popular, fresh and sweet.
+Speaker1: What's the price like?
+Speaker2: Red Delicious apples are currently 10 cents per kilogram, quite affordable.
+Speaker1: Can I send five kilograms to my home?
+Speaker2: Of course, we provide delivery service, where is your home address?
+Speaker1: The address is Yángguāng huāyuán xiǎozuò, èr nián lóu sān dàn yīn lìng liù er bā shì.
+Speaker2: Okay, I noted it down, approximately half an hour later send it over.

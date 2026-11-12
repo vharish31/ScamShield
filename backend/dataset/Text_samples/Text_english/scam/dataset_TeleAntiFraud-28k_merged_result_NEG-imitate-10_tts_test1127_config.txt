@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Lee Huai? I am the manager of the Banking Credit Department, Zhang.
+Speaker2: Hello, I am Lee Huai, what do you have?
+Speaker1: That's right, we have a great loan project here with an interest rate as low as 0.125%, which can be paid off in three years, no collateral required.
+Speaker2: The sound is good, but I don't need a loan lately.
+Speaker1: That's it, but this opportunity is really rare, if you're interested, you can add me on WeChat first, and feel free to contact me anytime.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: My WeChat number is LHLoanManager, add me and feel free to consult me for any questions.
+Speaker2: Okay, I'll add one more.
+Speaker1: Okay, let me know after you add it, so we can communicate more easily.
+Speaker2: Okay, I understand, thank you.

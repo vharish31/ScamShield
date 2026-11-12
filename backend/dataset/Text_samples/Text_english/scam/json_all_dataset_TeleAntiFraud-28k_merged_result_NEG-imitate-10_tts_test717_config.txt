@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a loan officer at the Chinese bank. We have a great opportunity for you to solve your cash flow problems. The monthly interest rate is very low, only 2.99%.
+Speaker2: Hmm, this sounds good, I can understand a bit.
+Speaker1: Great, just provide some basic information and we can start processing. For convenience, you can first click on the link we send you and fill out the information online.
+Speaker2: How do I receive this link?
+Speaker1: Please wait for a moment, I'll send it over right away. It's best to use your phone to receive it, it's more convenient to operate.
+Speaker2: Okay, I'll be right back.
+Speaker1: Have you received the message on your phone yet?
+Speaker2: I got it, I'll fill it out right away.
+Speaker1: Hello, after you fill it out, I'll quickly review it. If there are any issues, we can further communicate through WeChat.
+Speaker2: Okay, let me add you on WeChat.
+Speaker1: Okay, my WeChat is Xiaoming Loan Assistant. Add your name to my contact and I'll get back to you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, recently I bought a smartwatch from you guys, but I found that the time is always off, so what's going on?
+Speaker2: Hello, Small Li, I am customer service Zhang. Please tell me the model and purchase date of your watch, I will help you check.
+Speaker1: Okay, the model is SW2023, it was bought in March this year.
+Speaker2: Thank you for your patience. Based on your description, there is a possibility that the time on this watch may be inaccurate under certain conditions. We recommend that you perform a software update. Would it be convenient for you to update it in-store?
+Speaker1: I'm currently abroad and can't make it to the store. Can you help me solve it remotely?
+Speaker2: Of course, if it's convenient for you, you can first download our official app and update your watch software through it.
+Speaker1: Okay, I'll give it a try. If it still doesn't work, I'll contact you again.
+Speaker2: No problem, if you have any other questions, please feel free to contact us anytime. Have a nice day!
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye, I hope to help you soon.

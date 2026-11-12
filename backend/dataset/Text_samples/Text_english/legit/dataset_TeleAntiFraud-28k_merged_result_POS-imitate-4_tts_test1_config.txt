@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I bought an electric kettle from your store last time, recently it seems to have some problems, can you help me handle it?
+Speaker2: Hello, little Li, I am customer service representative Zhang, can I help you with this issue? When did you buy your electric kettle? What specific problem did you encounter?
+Speaker1: I bought it last November, recently I found that the sound is very loud when it's heating up, and sometimes water splashes out.
+Speaker2: Understood, in this situation we suggest you not use it yet, you can bring it to the store for us to check. If it's a product quality issue, we are responsible for free repair or replacement.
+Speaker1: Okay, when can I go over?
+Speaker2: You can come over at 3 pm tomorrow afternoon. It's less crowded at that time, so we can serve you faster.
+Speaker1: Okay, I noted it down for tomorrow at three in the afternoon. Do I need to bring anything else?
+Speaker2: Please bring your purchase receipt and electric water bottle with you. If you have a warranty card, bring it along too.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you happy life.

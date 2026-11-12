@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Xiaoming, I recently discovered a smartwatch on your platform that I like, can I ask you a few questions?
+Speaker2: Hello, Xiao Ming, I am customer service king, very happy to serve you. What information do you want to know about this smartwatch?
+Speaker1: What is the battery life of this watch and what functions does it support?
+Speaker2: This smartwatch has a battery life of about a week and supports heart rate monitoring, sleep analysis, step count tracking, and message reminders among other functions.
+Speaker1: How much does that watch cost?
+Speaker2: This smartwatch costs 999 yuan, and our platform currently has a full discount activity, where you get a hundred yuan off when you spend a thousand yuan.
+Speaker1: Okay, I'll think about it. Right, what's your after-sales policy?
+Speaker2: Our after-sales policy is seven-day no-reason return or exchange, and within fifteen days, any issues can be repaired for free.
+Speaker1: Okay, I'll think about it again, thank you for your answer.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Wish you a happy life. Bye.

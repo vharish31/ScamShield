@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Yes, who are you?
+Speaker1: I am the customer manager of Huaxia Bank, Li Xiaoming. Recently we launched a no collateral loan service for small businesses with very low interest rates. Would you like to know if you have any needs in this area?
+Speaker2: Hmm, this sounds good, but I'm currently able to manage my cash flow, so I don't have a need for a loan at the moment.
+Speaker1: Understood, but such opportunities are rare. If you need anything in the future, feel free to contact me. For convenience, would you like to add me on WeChat? I can send you detailed loan information.
+Speaker2: Okay, sure, add me, my WeChat and phone number are the same.
+Speaker1: Okay, I will add you quickly. If you have any questions, you can consult me anytime. By the way, we also have a specialized financial app, which contains many high-quality financial products. You can download and take a look.
+Speaker2: Okay, I will consider it. Thank you for your recommendation.
+Speaker1: No problem, if you have any questions, feel free to contact me anytime. I'll be waiting for your message on WeChat. Have a happy life, goodbye.
+Speaker2: Okay, bye.

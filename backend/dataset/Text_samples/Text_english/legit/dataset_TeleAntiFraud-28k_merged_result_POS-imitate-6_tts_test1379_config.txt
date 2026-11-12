@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, this is the happy restaurant, are you Xiaozhi?
+Speaker2: Hey, it's me.
+Speaker1: Okay, did you book a four-person seat before?
+Speaker2: Yes, it's six and a half tonight.
+Speaker1: Okay, we're ready for you now. What time do you think you'll arrive?
+Speaker2: I'll arrive around six.
+Speaker1: Okay, let's reserve a seat for you half an hour in advance. If you're late, it's no problem.
+Speaker2: Okay, thank you.
+Speaker1: No problem, by the way, our restaurant has a new seafood combo plate today, would you like to give it a try?
+Speaker2: Listen well, let's take a look later.

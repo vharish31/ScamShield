@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for express delivery, regarding your recent order, we found there may have been an issue, please cooperate to handle it.
+Speaker2: Oh, really? What's the problem?
+Speaker1: Your package was lost during transportation, to compensate for your loss, we need you to cooperate with the claim process.
+Speaker2: What do I need to do?
+Speaker1: Just click on the link we send to you and fill out the relevant information according to the instructions to complete the compensation claim.
+Speaker2: Okay, now I'm waiting for your links.
+Speaker1: Okay, to ensure your information is secure, we'll send a safe link via text message. Please pay attention to receive it.
+Speaker2: Okay, I'll check my messages later. Thank you.
+Speaker1: You're welcome. This is what we should do. If you have any questions, you can contact us anytime.

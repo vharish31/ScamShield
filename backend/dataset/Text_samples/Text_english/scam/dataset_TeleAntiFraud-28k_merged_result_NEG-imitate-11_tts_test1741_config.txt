@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a loan officer at an agricultural bank. We specialize in providing loans to homeowners here, with a maximum loan amount of 50,000, and a very competitive interest rate. Would you be interested in learning more?
+Speaker2: Uh, really? I recently really need cash flow, can you introduce in detail?
+Speaker1: Of course. Our loan product is no-collateral, just need to provide house property certificate related information, approval process is very fast, usually three days inside can put money. If you are interested, you can first download our APP, fill out some basic information, we will quickly review.
+Speaker2: Download the app? Is it safe?
+Speaker1: Very safe, our app is officially certified, you can download it from the app store by searching 'agricultural bank'. After downloading, fill in basic information, we will arrange a specialist to contact you for further confirmation of the loan matters.
+Speaker2: Okay, I'll download it. How can I contact you after downloading?
+Speaker1: After downloading, you can directly find the customer service in the app and click on 'online consultation' to get a quick response. Additionally, you can also add our customer service WeChat and consult us directly.
+Speaker2: WeChat? Is that okay?
+Speaker1: No problem, adding WeChat is more convenient, our customer service WeChat is: agri_bank_loan, add time note down your name, we will prioritize processing your application.
+Speaker2: Okay, thank you. I'll download the app and add WeChat.

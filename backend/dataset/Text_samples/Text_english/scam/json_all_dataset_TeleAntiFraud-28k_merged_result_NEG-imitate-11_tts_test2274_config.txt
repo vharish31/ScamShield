@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Li Xiao, a bank customer service representative. We noticed that you've consulted about a loan with us before. Do you have any recent financial needs?
+Speaker2: Hey, hi, I really need some cash flow lately.
+Speaker1: Okay, that's great. We have a low-interest loan project here that doesn't require collateral, fast approval, and fast disbursement. Are you interested?
+Speaker2: How do I apply?
+Speaker1: You just need to download our bank's official app, fill out some basic information, and submit it for review.
+Speaker2: Official app? How do I know if it's real?
+Speaker1: You can rest assured, our app is available in all app stores. You can download it by searching with your phone number, there will be no mistakes.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues after downloading, feel free to contact me directly. My phone number is 13812345678.
+Speaker2: Okay, thank you.

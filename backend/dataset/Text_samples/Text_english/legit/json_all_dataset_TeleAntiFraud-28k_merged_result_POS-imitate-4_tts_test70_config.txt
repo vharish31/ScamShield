@@ -1,0 +1,12 @@
+Speaker1: Hello, I am the customer service monkey of the point mall, have you noticed that there are many member points in your account that have not been exchanged?
+Speaker2: Is it?
+Speaker1: Yes, these points can be redeemed for cash, you must use them up by 12 am tonight or they will all be cleared.
+Speaker2: Really? I didn't notice, can you tell me specifically how to operate it?
+Speaker1: Of course, you have over 26,000 points in your account, which can be exchanged for white wine gift boxes, brand-name four-piece suits, high-definition TVs, and smartwatches.
+Speaker2: Can all these be exchanged with points?
+Speaker1: Yes, and I can also apply for a special privilege for you, which will keep the remaining balance after the exchange, and also give you an extra gift bag, enjoy free return service.
+Speaker2: Great, now I'll take a look and see what's suitable.
+Speaker1: Okay, hurry up and choose, time waits for no one. Let me know once you've decided, I'll help you handle it.
+Speaker2: Okay, thank you for your reminder. I will handle it quickly.
+Speaker1: No problem, feel free to contact me anytime. Best wishes for your exchange!
+Speaker2: Okay, thank you, goodbye.

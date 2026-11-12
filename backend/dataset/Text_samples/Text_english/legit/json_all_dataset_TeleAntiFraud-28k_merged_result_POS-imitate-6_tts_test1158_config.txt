@@ -1,0 +1,11 @@
+Speaker2: Hello, hello.
+Speaker1: Hey, how are you? I'm wondering if your restaurant has private rooms?
+Speaker2: Yes, we have different-sized rooms here that can accommodate different numbers of guests.
+Speaker1: Can we reserve a private room for ten people at six o'clock in the evening tomorrow?
+Speaker2: Sure, I'll reserve a room for 10-12 people at 6 pm tomorrow night.
+Speaker1: Is it necessary to pay in advance when we make our reservation?
+Speaker2: No need to pay in advance, just pay after eating at the restaurant. However, to reserve the booth, it's recommended to arrive half an hour early.
+Speaker1: Okay, we will arrive on time tomorrow.
+Speaker2: Okay, we're waiting for your arrival. If you have any other needs, feel free to contact us anytime.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye.

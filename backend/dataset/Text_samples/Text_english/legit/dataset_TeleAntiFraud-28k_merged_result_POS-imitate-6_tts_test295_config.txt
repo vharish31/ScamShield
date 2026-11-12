@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform. Did you order delivery recently?
+Speaker2: Yes, it's mine.
+Speaker1: Sorry, the delivery boy for the takeout may have missed your order of soda and coke, and also a small portion of ice cream.
+Speaker2: Oh, like this, then what do we do?
+Speaker1: Can we give you a refund of four yuan on this side? Please add our customer service WeChat.
+Speaker2: Okay, my WeChat and phone number are the same, add me.
+Speaker1: Okay, I'll add you now, I'll refund you four yuan later through WeChat, I'm really sorry to cause you inconvenience.
+Speaker2: No problem, this kind of thing is inevitable, let's talk after adding WeChat.
+Speaker1: Okay, just a minute. I'll add you now. By the way, the reason the delivery boy is careless is because it's too busy during the peak delivery period. I hope you can understand a little.
+Speaker2: Hmm, I understand, of course, everyone is different.

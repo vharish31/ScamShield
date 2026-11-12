@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm little king, this is somebao customer service, your package was lost during transportation, to compensate you, we need to give you a refund.
+Speaker2: Really? Then what do we do?
+Speaker1: Yes, to facilitate the processing, you need to download our special app, which can handle the refund process more quickly.
+Speaker2: Okay, how do I download it?
+Speaker1: You can search 'JD customer service assistant' in the mobile app store, download and install it, then input your order number and follow the instructions.
+Speaker2: Okay, I'm going to download now.
+Speaker1: Okay, download and install it, then contact me immediately after, I will guide you through the next steps.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me if you have other questions. Have a nice day.
+Speaker2: Okay, bye.

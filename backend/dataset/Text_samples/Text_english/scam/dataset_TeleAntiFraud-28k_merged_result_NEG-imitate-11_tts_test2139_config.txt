@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the JD customer service center. The product you bought on our platform has been lost due to a problem with the logistics company. We are ready to compensate you. Can you cooperate with us?
+Speaker2: Really? Thank you so much.
+Speaker1: No need to thank you, this is what we should do. To facilitate compensation, could you please provide your bank card number and verification code?
+Speaker2: Okay, here it is.
+Speaker1: Great, you're really a good person. By the way, to ensure the safety of your account, we recommend downloading our latest security verification app, which can better protect your personal information.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Okay, download it and you can input your bank card information in the app, we will process your compensation claim quickly.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, is there anything else you need help with?
+Speaker2: No longer available, thank you.

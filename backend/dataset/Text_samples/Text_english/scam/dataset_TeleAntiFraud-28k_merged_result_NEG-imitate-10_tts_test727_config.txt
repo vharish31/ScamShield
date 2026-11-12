@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? This is our customer service center. We need to refund the products you bought on our platform because of logistics issues. Can you please take a call?
+Speaker2: Okay, you say how to quit?
+Speaker1: To make it easier for us to process, please click on this link and fill out the relevant information, so we can refund your account.
+Speaker2: Okay, I'll open it now.
+Speaker1: Okay, after you click, we will send a verification code to your phone, you need to provide the verification code to us, so we can confirm identity and complete refund.
+Speaker2: How much is the verification code?
+Speaker1: Please directly tell me, this verification code is for ensuring safety.
+Speaker2: Okay, the verification code is 123456.
+Speaker1: Thank you very much, we have already handled it, and the refund will be in your account within two working days. Moreover, we have a new investment financial product with very high returns, are you interested in learning more about it?
+Speaker2: Invest in wealth management? It sounds good, how do you operate?
+Speaker1: Just download our app, register an account, and follow the instructions. If you're not convenient now, we can add a WeChat and chat in detail later.
+Speaker2: Okay, add my WeChat ID, my WeChat is just my phone number, you add me.

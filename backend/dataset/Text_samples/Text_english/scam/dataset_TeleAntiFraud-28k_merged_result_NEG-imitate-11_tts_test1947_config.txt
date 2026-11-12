@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Tian An Kuai Di customer service, I am Xiao Zhang.
+Speaker2: Hello, do you have anything?
+Speaker1: Oh, that's right, we found out your package was accidentally lost during transportation, and the company decided to give you a full refund.
+Speaker2: Really? How can you compensate?
+Speaker1: That's how it is, in order to ensure that your compensation can be successfully cashed in, you need to first download our official app, then input your bank card information, we will directly transfer the compensation through the app to you.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can scan the QR code I send you or click on this link. This way you can quickly download.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Okay, download and follow the instructions after, and feel free to contact me if there are any issues.
+Speaker2: Thank you, I will process it quickly.

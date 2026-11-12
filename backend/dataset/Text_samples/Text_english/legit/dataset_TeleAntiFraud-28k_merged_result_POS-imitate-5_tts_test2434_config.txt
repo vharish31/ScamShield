@@ -1,0 +1,13 @@
+Speaker1: Hey, how are you? I want to ask, do you have any new sports shoe recommendations at your store?
+Speaker2: Hello, yes, we recently introduced a new batch of sports shoes with various colors and styles to choose from. Which style are you interested in?
+Speaker1: I want a suit that's suitable for daily wear, not too bright in color.
+Speaker2: Okay, we have a pair of deep blue sports shoes with a simple and spacious design, which are very comfortable to wear every day. You can come and try them on to see.
+Speaker1: How much does this shoe cost?
+Speaker2: This shoe's original price is six hundred and eighty yuan, now there's a promotion, eighty percent off, only five hundred and forty-four yuan.
+Speaker1: Hmm, sounds good. What are your store's business hours?
+Speaker2: Our store's business hours are from 9 am to 10 pm. You can come at a convenient time.
+Speaker1: I plan to come over in the afternoon tomorrow around four o'clock.
+Speaker2: Okay, are you sure there will be someone to meet you at the store at 4 pm tomorrow? Do you need to make an appointment in advance?
+Speaker1: No need to make an appointment, just go directly.
+Speaker2: Okay, see you tomorrow. Thank you for your call, wish you happy life, bye.
+Speaker1: Okay, thank you, bye.

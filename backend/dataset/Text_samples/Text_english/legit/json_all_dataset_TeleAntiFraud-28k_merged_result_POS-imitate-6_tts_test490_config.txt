@@ -1,0 +1,9 @@
+Speaker2: Hey, how are you? What's up?
+Speaker1: Hello, I am a waiter at a nearby restaurant. Could you please tell me if you have any special discount activities this week?
+Speaker2: Yes, this week we launched a discounted lunch set meal, originally priced at 50 yuan, now only 35 yuan, and you can get a free soup for free.
+Speaker1: Can I go directly there if it sounds good?
+Speaker2: Of course, but to ensure your dining experience, it's recommended to make a reservation in advance.
+Speaker1: Okay, can I reserve a seat for tomorrow at noon?
+Speaker2: Sure, I'll reserve a spot for you at noon tomorrow. Do you need me to record your name?
+Speaker1: No need, I'll just go directly when the time comes.
+Speaker2: Okay, see you tomorrow.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Can you give me some advice on the new summer clothes in your store? Do you have anything that fits my body type?
+Speaker2: Of course, we have many styles here that can satisfy different needs. You can describe your desired style, and I can give you some suggestions.
+Speaker1: I prefer a simple and spacious style, with colors in a light palette.
+Speaker2: Okay, we have a light blue dress with a simple and spacious style that suits you well. You can try it on if you have some time.
+Speaker1: What's the price?
+Speaker2: This dress is priced at 350 yuan, it's currently on summer sale and is being offered at 80% off.
+Speaker1: What is the price after discount?
+Speaker2: The price after discount is 288 yuan.
+Speaker1: Can I go over there tomorrow?
+Speaker2: Of course, our store is open from 9 am to 9 pm every day, and you're welcome to come anytime.
+Speaker1: Okay, thank you for your recommendation, see you later.
+Speaker2: No problem, see you later, wish you have a good day.

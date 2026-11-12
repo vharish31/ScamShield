@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I checked out your website yesterday and I'd like to inquire about your massage service.
+Speaker2: Hello, I'm very happy to serve you. Do you have any specific questions about our massage service?
+Speaker1: Hey, what kinds of massage services do you guys offer and how much does it cost per session?
+Speaker2: We have relaxing massage, deep tissue massage and aromatherapy massage here, priced from 150 to 300 yuan, you can choose specifically based on your needs.
+Speaker1: How many days in advance do I need to book a deep tissue massage at your organization?
+Speaker2: Deep-tissue massages are very popular, it's recommended to book at least two days in advance to ensure there's enough time for you.
+Speaker1: Okay, can I book a reservation for 2 pm on Friday next week?
+Speaker2: Okay, I'll confirm it for you. Alright, your appointment on Friday at 2 PM in the deep-layer massage group has been successfully booked.
+Speaker1: How long do I need to arrive?
+Speaker2: I suggest you arrive fifteen minutes early, so you can fill out some necessary forms and relax a bit.
+Speaker1: Okay, thank you for your advice. See you then.
+Speaker2: No problem, see you later, wish you happy life.

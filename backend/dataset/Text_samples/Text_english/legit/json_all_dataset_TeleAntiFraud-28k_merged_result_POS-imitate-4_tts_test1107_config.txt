@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I just booked a haircut appointment for tomorrow on your website. Can you confirm the time?
+Speaker2: Hello, I'm here to help you. What's your appointment time?
+Speaker1: I have an appointment tomorrow at three in the afternoon.
+Speaker2: Okay, I found it. Your appointment is tomorrow afternoon at three o'clock, the location is our central store.
+Speaker1: Uh, yes. How many days do I need to arrive beforehand?
+Speaker2: I suggest you arrive ten minutes early, so we have enough time to prepare for you.
+Speaker1: Understood, what do I need to bring?
+Speaker2: You don't need to bring anything, all the items we will prepare for you.
+Speaker1: Okay, thank you. Is it the service of cutting hair and washing head, right?
+Speaker2: Yes, the service you booked is indeed a haircut and head wash. If you have any other needs, you can directly communicate with our hairdresser after you arrive.
+Speaker1: Okay, thank you for your patience, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

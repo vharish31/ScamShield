@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear, they are talking.
+Speaker1: Hello, I am a customer service representative from a courier company. You have a package that needs to be delivered, but the courier has been unable to contact you multiple times. Can you provide a convenient time for delivery?
+Speaker2: Okay, I've been staying at home lately, you can just leave the delivery at my doorstep, no need to call.
+Speaker1: Okay, I will notify the courier to deliver the package at your doorstep. If you have any issues, please feel free to contact us anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, is there anything else you need help with?
+Speaker2: No longer available, thank you.
+Speaker1: Okay, wish you have a nice day, bye.
+Speaker2: Goodbye.

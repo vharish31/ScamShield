@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the sequoia express customer service, you have a damaged package in transit, do you need to process a refund, are you ready now?
+Speaker2: Good, you say, my express how?
+Speaker1: Your package was damaged during transportation, to protect your rights, we need to process a refund, please provide your order number and refund account.
+Speaker2: Order number is 123456789, account I will give you later, I first confirm.
+Speaker1: Okay, to speed up the refund process, please click on the link we provide, fill out the relevant information, and we will process it quickly.
+Speaker2: Okay, I'll go operate.
+Speaker1: Thank you for your cooperation. If you have any issues, please feel free to contact our customer service at any time. Our phone number is 400-123-4567.
+Speaker2: Okay, thank you.
+Speaker1: Additionally, to give you feedback, we have a promotion, if you download our app, you can enjoy a 80% discount on your next express delivery, are you interested?
+Speaker2: Listen sounds good, I download try try.

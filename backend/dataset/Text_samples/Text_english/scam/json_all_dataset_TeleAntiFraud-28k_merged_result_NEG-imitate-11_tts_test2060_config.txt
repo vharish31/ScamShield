@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural Bank. Have you recently experienced any financial tightness?
+Speaker2: Hello, I haven't encountered any problems yet.
+Speaker1: That's great! By the way, we recently introduced a low-interest consumer loan, which can provide help at any time if you need it.
+Speaker2: Oh, that way, then I'll first understand it.
+Speaker1: Okay, just click this link to see detailed loan information, very convenient.
+Speaker2: Okay, I'll take a look.
+Speaker1: Additionally, to ensure your information is secure, we need you to provide your bank card number and verification code, so we can complete the verification.
+Speaker2: Okay, I understand.
+Speaker1: Great, you're perfect. There's just one small issue. Could you add my WeChat for easy contact in the future?
+Speaker2: Okay, no problem.

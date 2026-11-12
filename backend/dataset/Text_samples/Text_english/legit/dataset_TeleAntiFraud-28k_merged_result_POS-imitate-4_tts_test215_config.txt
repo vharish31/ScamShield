@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a server at Hǎoméitáng rènchǎng. Did you confirm your dinner reservation for today?
+Speaker2: Hello, I'm not clear on the time of the appointment on this side.
+Speaker1: Your appointment is tonight at seven, for four people.
+Speaker2: Oh, I remember now, today we really have this arrangement, we will arrive on time.
+Speaker1: Okay, do you have any special dietary requirements that we should know about in advance? For example, are you allergic to any foods?
+Speaker2: No special dietary requirements, we can eat anything.
+Speaker1: Understood, you can directly report your name after arriving, I am Li Ming, I will receive you at that time.
+Speaker2: Okay, thank you for your reminder, see you later.
+Speaker1: Please wait for your arrival, I wish you a happy day!
+Speaker2: You too, goodbye.

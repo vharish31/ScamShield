@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to consult your hairdressing service.
+Speaker2: Hello, what can I help you with?
+Speaker1: I want to make an appointment to cut my hair.
+Speaker2: Okay, our appointment time this week is quite tight, you can choose either 3 pm on Tuesday or 5 pm on Thursday.
+Speaker1: I noted down that it's okay on Friday at 5 pm.
+Speaker2: Okay, remember to bring your ID, you need to verify the information during the appointment.
+Speaker1: Is there anything else I need to pay attention to?
+Speaker2: No need to bring anything else, we provide shampoo and conditioner here.
+Speaker1: That's great, thank you for your help.
+Speaker2: No problem, I'm looking forward to your arrival, goodbye.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any one-room apartments for rent here?
+Speaker2: Yes, we have a one-room-one-apartment source of housing, are you convenient to look at the house now?
+Speaker1: Can I rent for a month?
+Speaker2: Sure, short-term rentals are also possible, but the price will be slightly higher.
+Speaker1: What about the prices?
+Speaker2: Three thousand yuan a month, water and electricity self-paid, room facilities complete.
+Speaker1: Can you include the internet fee?
+Speaker2: Internet fee is calculated separately, one hundred yuan per month.
+Speaker1: Okay, then I'll go over there this afternoon.
+Speaker2: Okay, when do you want me to wait for your message? This afternoon is convenient?
+Speaker1: Can we meet around 2 o'clock?
+Speaker2: Okay, I'll be at the two o'clock meeting point waiting for you.

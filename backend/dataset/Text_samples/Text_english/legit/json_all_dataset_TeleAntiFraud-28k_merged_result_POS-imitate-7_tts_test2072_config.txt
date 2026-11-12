@@ -1,0 +1,16 @@
+Speaker1: Hey, are you guys able to make an appointment for a beauty treatment at that spa?
+Speaker2: Hello, yes, we can make an appointment for beauty services at our beauty salon, which kind of service would you like to book?
+Speaker1: Can you tell me about your facial skincare routine, what projects are included?
+Speaker2: Our facial cleansing mainly includes deep cleansing, removing dead skin cells, facial toner and moisturizing, and also providing personalized skincare advice based on your skin condition.
+Speaker1: What's the price like? It sounds good.
+Speaker2: The price varies depending on the selected care items. The basic care package is 200 yuan, and additional fees will be charged for special projects.
+Speaker1: How long will it take me?
+Speaker2: Basic care usually takes about an hour. If there are special projects, the time will be extended accordingly.
+Speaker1: Okay, I think I'll have some time next week, when do you guys have a free spot?
+Speaker2: Can you specify which day is convenient for you, I can check the appointment situation on this end.
+Speaker1: What's the plan for Friday afternoon at three o'clock?
+Speaker2: 3:00 PM on Friday, okay, I'll check. Hmm, this time slot is still available, do you need me to help you book it?
+Speaker1: Could you please make a reservation for me?
+Speaker2: Okay, I have already booked an appointment for you on Friday at 3 pm. Remember to bring your ID when you come.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later, wish you a happy day.

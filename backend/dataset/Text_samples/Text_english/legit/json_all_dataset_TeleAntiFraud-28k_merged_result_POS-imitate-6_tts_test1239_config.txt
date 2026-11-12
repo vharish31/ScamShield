@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What's up?
+Speaker1: Hey, is that right? I'm the barber shop in the small city, you made an appointment for a haircut tomorrow afternoon at two o'clock, want to confirm if you're still there?
+Speaker2: Okay, I'm still here, we can meet at two o'clock tomorrow.
+Speaker1: Okay, I'll record it down. Do you have any specific hairstyle in mind?
+Speaker2: Hmm, I want to cut my hair short, not too short, clean and neat just fine.
+Speaker1: I understand, we will base our recommendations on your face shape and communication details. Additionally, our store currently has a promotion where first-time customers can receive a 90% discount, remember to bring your phone, the discount will be sent to your phone.
+Speaker2: Okay, thank you for reminding me, I will bring my phone tomorrow.
+Speaker1: No problem, then see you tomorrow, if there are any changes, please contact us in advance.
+Speaker2: Okay, see you tomorrow. Thank you.

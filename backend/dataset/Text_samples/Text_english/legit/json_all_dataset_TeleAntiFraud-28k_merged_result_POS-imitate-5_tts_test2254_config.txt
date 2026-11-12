@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me how to make a hair appointment with you guys?
+Speaker2: Okay, you can tell me your name and contact information, I will help you register.
+Speaker1: My name is Zhang Ming, phone number is 13801380138.
+Speaker2: Okay, Mr. Zhang Ming, I have recorded your information. What day would you like to schedule an appointment?
+Speaker1: Is three o'clock on Saturday afternoon okay?
+Speaker2: This Saturday at 3 PM, we will reserve a spot for you.
+Speaker1: Okay, I made a reservation.
+Speaker2: Okay, see you later. If there are any changes, please inform us in advance.

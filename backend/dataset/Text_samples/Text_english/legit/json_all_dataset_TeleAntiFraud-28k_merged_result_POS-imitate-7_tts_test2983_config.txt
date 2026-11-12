@@ -1,0 +1,14 @@
+Speaker1: Hello, are you the small Wang fruit store?
+Speaker2: Hello, yes, this is Xiao Wang's fruit store, what can I help you with?
+Speaker1: Hey, I saw a blueberry imported in your store's WeChat mini-program, I want to know more about it.
+Speaker2: Okay, our imported blueberries are from Chile, very fresh, taste good, and each box costs sixty yuan.
+Speaker1: Six yuan per box, can I buy two boxes?
+Speaker2: Of course, two boxes are 102 yuan. Do you need to order now?
+Speaker1: Sure, please send it to my home, the address is Guāngmíng lù érshí nó.
+Speaker2: Okay, Lighting Road No. 20, we will arrange delivery as soon as possible, estimated delivery within one hour.
+Speaker1: Okay, thank you. Alright, do you have a receipt?
+Speaker2: Do you need an electronic invoice or a paper invoice?
+Speaker1: Electronic invoice, please send to my email address.
+Speaker2: Okay, your order information and electronic invoice will be sent to your email address shortly. Is there anything else you need help with?
+Speaker1: No more, thank you, goodbye.
+Speaker2: You're welcome, wish you happy life, bye.

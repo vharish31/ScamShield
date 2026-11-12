@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Tianhe Technology Limited Company's customer service representative Zhang Xiao, we noticed some unusual orders in your recent purchase records on our platform, please cooperate with us to verify.
+Speaker2: Can you tell me specifically which of the many things I recently bought was the most expensive?
+Speaker1: Okay, please wait a moment, I'll check. Hmm, that's right, you recently placed an order for a laptop, worth around five thousand yuan, we found that this might be a system error causing the price anomaly.
+Speaker2: Ugh, what do we do now?
+Speaker1: To ensure your rights, we need you to cooperate with us in a refund operation, and at the same time we will compensate you with a 500 yuan discount coupon. Can you provide us with your bank card information?
+Speaker2: Okay, how can I provide?
+Speaker1: You can click this link and fill out the relevant information, and we will process your refund within two workdays.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, thank you for your cooperation. If you have any questions, please feel free to contact our customer service at any time. Have a happy life!
+Speaker2: Thank you, goodbye.

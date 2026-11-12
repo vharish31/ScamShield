@@ -1,0 +1,9 @@
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you sell fruits here?
+Speaker2: Yes, we have apples, bananas, oranges, etc. here. Which one do you want?
+Speaker1: Do you have red Delicious apples here?
+Speaker2: Yes, we have freshly picked red apples here, five yuan per kilogram.
+Speaker1: Okay, can you send five kilograms to my home?
+Speaker2: Okay, please provide an address, we will deliver within an hour.
+Speaker1: Okay, the address is Xiǎngfú xiǎngquān sān hào lóu èr dàn yī shì sì xiàng yī rù, mǎ fàn nǐ le.
+Speaker2: Okay, we will arrange to send the goods quickly, approximately within one hour they will arrive, please pay attention to your phone.

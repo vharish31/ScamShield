@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of the express delivery company. You have a package to confirm delivery, are you available now?
+Speaker2: Hey, how are you? I'm pretty convenient, what's the problem with my package?
+Speaker1: That's right, your package was accidentally lost during transportation, and we're really sorry. We now have a solution, which is to provide you with a refund, but you'll need to cooperate and complete some steps.
+Speaker2: Okay, what are the steps?
+Speaker1: Okay, first please click on the link we provide, to enter our refund page.
+Speaker2: How do I know if this link is safe?
+Speaker1: Please rest assured, this is our official link, very safe. Moreover, to ensure your rights, we will provide a small verification fee, you just need to provide your bank card information, we will first give you a small amount of money, confirm it and then you can refund it.
+Speaker2: Okay, I think I can try it. How do I operate it?
+Speaker1: Great, just click this link and follow the instructions on the page. Also, to speed up the process, you can fill in some personal information in the link, such as your name, phone number, and ID number.
+Speaker2: Okay, I'll try now, thank you.

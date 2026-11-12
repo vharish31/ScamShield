@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of Huatai Science and Technology Company, I am Zhang Huai, you have a problem with the smartwatch you bought on our platform before, we need to handle it for you.
+Speaker2: Oh, really? My bracelet is a bit problematic, what's going on?
+Speaker1: That's it, we found out that the handwatch you bought has a battery overheating issue, for your safety, we need to replace it with a new one.
+Speaker2: Great, how do I switch?
+Speaker1: Just click on the link I sent you and fill out the relevant information, and we'll arrange for a courier to pick up at your door and send you a new wristband.
+Speaker2: Okay, I'll go operate.
+Speaker1: Could you please, I have another small request, we have newly developed a health management app, hope you can download and try it, can better manage your health data.
+Speaker2: Okay, what is the name of this app?
+Speaker1: You can search and download the "Health Guardian" app in the app store, and there's a newbie package waiting for you after download.
+Speaker2: Okay, thank you for your help. I'll go download now.

@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am small Li, I saw your store is recruiting, want to know more about the situation.
+Speaker2: Hey, yeah, our store recently needs to hire some part-time, do you have any specific time requirements?
+Speaker1: I have some free time both in the evening and on weekends, mainly I want to understand more about the salary and job content.
+Speaker2: Our part-time salary is 20 yuan per hour, our main job is to help sort out shelves, serve customers, and sometimes help pack products.
+Speaker1: Does it sound good? Do we need an interview?
+Speaker2: No interview needed, if you're interested, just come to the store and find me, I'll arrange it for you.
+Speaker1: Okay, can I come over at six o'clock tomorrow night?
+Speaker2: Okay, tomorrow evening at six o'clock, I'll be waiting for you at the store.
+Speaker1: Okay, thank you. Bye.
+Speaker2: No problem, goodbye.

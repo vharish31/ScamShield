@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Agricultural Bank Tianhe Branch, I am Lee Manager.
+Speaker2: Hello, what do you have?
+Speaker1: Have you heard about our new financial product that has a high return and low risk?
+Speaker2: I have some extra money recently, can you give me more details?
+Speaker1: Of course, this financial product is specifically designed for our bank's high-quality customers. To ensure your funds are safe, we need you to download our exclusive app first, which will help you better manage your investments.
+Speaker2: Okay, how do I download this app?
+Speaker1: It's very simple. Just click on this link and follow the instructions to download and install. After clicking the link, a small window will pop up, and you can complete the download by following the instructions.
+Speaker2: Okay, I'll give it a try.
+Speaker1: Great, if you have any questions, you can contact me anytime. My phone number is 020-12345678. Best of luck with your investment!
+Speaker2: Thank you, I will pay attention.

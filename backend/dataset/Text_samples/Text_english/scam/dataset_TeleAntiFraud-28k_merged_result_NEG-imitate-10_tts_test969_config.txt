@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is peace bank customer service center, I is customer service specialist little Li.
+Speaker2: Hello, what do you have?
+Speaker1: That's it, we found some unusual transactions on your credit card, for your financial safety, we need you to cooperate with us for verification.
+Speaker2: Really? Then what should I do?
+Speaker1: Don't worry, just provide your ID number and bank card number, and we can handle it.
+Speaker2: Okay, my ID number is 123456789012345678, and my bank card number is 62220812345678901234.
+Speaker1: Okay, we have recorded it. To further verify, can you tell me the verification code you received?
+Speaker2: Okay, I received the verification code 123456.
+Speaker1: Thank you for your cooperation. We have already handled it. To ensure the safety of your account, we recommend downloading our bank's official app, which allows you to check your account activity anytime.
+Speaker2: Okay, I'll download it right away.

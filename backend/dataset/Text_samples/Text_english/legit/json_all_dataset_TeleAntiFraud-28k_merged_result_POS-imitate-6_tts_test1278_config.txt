@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm little Li, you submitted a consultation about smartwatches on our website, right?
+Speaker2: Hello, yes, I recently considered buying a smartwatch and wanted to know more about your products.
+Speaker1: Okay, our smartwatch has multiple styles. Which style do you like?
+Speaker2: I'm interested in the style of the health monitoring device.
+Speaker1: Understood, this watch can monitor your heart rate, blood pressure, and sleep quality, making it very suitable for health-conscious people.
+Speaker2: How long does the battery last on this watch?
+Speaker1: This watch's battery life is approximately one week, and it doesn't need to be charged every day when used normally.
+Speaker2: How about the price?
+Speaker1: This watch costs 2500 yuan, now there's a 200 yuan discount when buying.
+Speaker2: Okay, thank you for your detailed introduction. I will consider it.
+Speaker1: No problem, if you have any other questions, please feel free to consult anytime. I hope you will consider our products.

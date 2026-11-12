@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, your delivery boy.
+Speaker2: Hey, are my takeout here yet?
+Speaker1: Okay, I'm here at the community gate, can you come down and pick up a few things?
+Speaker2: Okay, I'll go down now.
+Speaker1: Okay, remember to bring a bag, some things need to be taken with you.
+Speaker2: I know, I'll be there quickly.
+Speaker1: Okay, I'm waiting for you at the door.
+Speaker2: Okay, thank you.
+Speaker1: No problem, hurry down quickly, it's cold outside.
+Speaker2: Okay, let's go.

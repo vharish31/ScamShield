@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I saw on your website that you sell that new coffee maker, can you tell me how long the warranty is for this coffee maker?
+Speaker2: Hello, the warranty period for this coffee machine is one year. If you have any issues during use, please contact our customer service, and we will quickly help you solve them.
+Speaker1: Okay, what is the power of this coffee machine? Is it suitable for home use?
+Speaker2: This coffee maker has a power of 1500 watts, very suitable for home use, and the operation is simple and convenient.
+Speaker1: Can this coffee machine work properly with two-pronged power outlets at my home?
+Speaker2: Okay, the power cord of this coffee machine is interchangeable, both two-pronged and three-pronged outlets can be used.
+Speaker1: Is there any stock left for this coffee machine?
+Speaker2: Yes, there is stock for this coffee machine, you can place an order with confidence.
+Speaker1: How long will it take for the order to be delivered after placing it?
+Speaker2: We usually ship within 24 hours after ordering, and the delivery time varies depending on your location, but generally it takes 3-5 days to arrive.

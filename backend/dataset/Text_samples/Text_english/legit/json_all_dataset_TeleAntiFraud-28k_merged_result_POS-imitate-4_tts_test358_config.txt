@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm little king, did we agree to meet at the bookstore at 10 am this morning?
+Speaker2: Okay, okay, it's me who invited you. I have something to do right now, I might be late, you can go to the bookstore first and wait for me.
+Speaker1: No problem, how long will you be able to arrive?
+Speaker2: I'll try to be quick, I should arrive in about fifteen minutes.
+Speaker1: Okay, I'll wait for you at the bookstore entrance.
+Speaker2: Okay, you go first, I'll be there later.
+Speaker1: Be careful on the road.
+Speaker2: Okay, thank you, see you later.

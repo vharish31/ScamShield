@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I'm little Li, your Taobao order seems to have some issues, can you help me handle it?
+Speaker2: What's the issue?
+Speaker1: Your package was lost during transportation. To compensate you, please click this link and input the relevant information. We will process your refund quickly.
+Speaker2: Okay, how do I operate it?
+Speaker1: Click this link, fill in your bank card information and verification code according to the prompt, and you can complete the refund.
+Speaker2: Is this safe?
+Speaker1: Very safe, we are official customer service, link also official, you can safely operate.
+Speaker2: Let me try and see.
+Speaker1: Okay, feel free to contact me anytime during the operation if you have any questions.
+Speaker2: Thank you, I will process it quickly.
+Speaker1: No problem, feel free to contact me anytime. Best wishes.

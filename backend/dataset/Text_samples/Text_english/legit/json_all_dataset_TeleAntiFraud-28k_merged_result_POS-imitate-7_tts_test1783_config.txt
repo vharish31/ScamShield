@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you check what time slots are available for haircut appointment tomorrow afternoon?
+Speaker2: Okay, let me check. There's an hour-long break from 3 to 5 pm tomorrow afternoon. Which time is more convenient for you?
+Speaker1: I can make it at 5 o'clock, so I'll book 5 o'clock.
+Speaker2: Okay, your haircut appointment is tomorrow at 5 pm. Don't forget to bring your ID.
+Speaker1: How long do I need to arrive?
+Speaker2: Arriving ten minutes early ensures there's enough time to prepare.
+Speaker1: Understood, thank you. By the way, do you have any children's haircut services at your place?
+Speaker2: Yes, we have a special haircut service for children here, which can provide toys and cartoons for children to watch, so that children do not feel scared during their haircuts.
+Speaker1: That's great, my son can come too.
+Speaker2: Of course, just let me know when you make a reservation and I'll arrange an appropriate time.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow. Be careful on the road.

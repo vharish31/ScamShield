@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Shenzhen Bank. Have you recently encountered any issues with cash flow?
+Speaker2: Hello, I haven't encountered any cash flow problems yet, but can I listen to your advice?
+Speaker1: Of course, we have a very favorable loan project at the bank now, no collateral, low interest, fast approval, very suitable for your current situation.
+Speaker2: Can you give me a detailed introduction? I've heard it sounds good, but I've met some scammers before.
+Speaker1: Understand your concerns. You can scan the QR code I sent you and download our official app, which has detailed explanations and application procedures inside.
+Speaker2: Okay, I'll try it out. Is this app safe?
+Speaker1: Absolutely safe, our bank's app has been strictly reviewed, you can download it first and then understand it, any questions can be contacted me.
+Speaker2: Okay, I'll try. What's the best way to contact you if there are any issues?
+Speaker1: You can add my WeChat, my WeChat number is sz_banker, you can contact me anytime if you have any questions, I will help you.
+Speaker2: Okay, thank you for your help. I will contact you.

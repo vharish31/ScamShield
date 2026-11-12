@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you at the city flower shop?
+Speaker2: Hello, I want to book a bouquet of flowers to send to a friend, do you have any recommendations?
+Speaker1: Of course, this season, both roses and lilies are very popular. What is your friend's gender?
+Speaker2: She's a woman, but I'm not sure what color she likes.
+Speaker1: We have a bouquet of mixed colors, including red roses, white lilies and some decorative small flowers, it looks both romantic and elegant, what do you think?
+Speaker2: How much does that bouquet of flowers cost?
+Speaker1: The price of this mixed bouquet is 180 yuan. If you order now, we can also provide free greeting cards and packaging services.
+Speaker2: Okay, I'll book this bouquet, right? Can you send it to the Friendship Road 100th office?
+Speaker1: Okay, we usually deliver within two hours after ordering. You can choose a specific time slot, such as 10am to 12pm or 2pm to 4pm.
+Speaker2: I'll choose 2-4 PM, thank you for your help.

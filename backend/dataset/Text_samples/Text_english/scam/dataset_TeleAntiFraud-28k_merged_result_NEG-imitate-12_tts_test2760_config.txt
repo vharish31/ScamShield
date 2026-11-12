@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer manager of Dongjing Bank. We have a loan product for rural residents with low interest rates, a two-year repayment period. Would you be interested in learning more about it?
+Speaker2: Hey, loan, I recently really need cash flow, how are your loan conditions?
+Speaker1: Our loan conditions are very favorable, no collateral, no guarantee, quick approval, quick disbursement. You just need to provide your ID and bank card, and we can start processing.
+Speaker2: What do I need to do to make it sound good?
+Speaker1: Just click this link, fill in your personal info, and our staff will contact you quickly.
+Speaker2: Okay, let me try.
+Speaker1: Great, click this link and save the page. If you have any issues, feel free to contact me anytime.
+Speaker2: I understand, thank you.
+Speaker1: No problem, do you have any more questions?
+Speaker2: No more, I'll go take a look first.
+Speaker1: Okay, wish you good luck. If you have any questions, please contact me anytime.

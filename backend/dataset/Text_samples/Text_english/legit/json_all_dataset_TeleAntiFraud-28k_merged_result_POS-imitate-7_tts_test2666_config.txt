@@ -1,0 +1,12 @@
+Speaker1: Hello, you.
+Speaker2: Hello, how are you?
+Speaker1: Can you introduce me to your hairdressing service?
+Speaker2: Of course, we have various haircut services here, including cutting, dyeing, and straightening. The price for cutting hair is 60 yuan, and the prices for dyeing and straightening hair depend on the hairstyle and hair length, usually between 200 and 500 yuan.
+Speaker1: Okay, I want to make a haircut appointment, what time is convenient for you?
+Speaker2: How about tomorrow afternoon at 3:30? It's a relatively quiet time, and the environment is peaceful.
+Speaker1: What time do I need to arrive tomorrow at 3:30 PM?
+Speaker2: Please arrive ten minutes early, we can prepare something for you.
+Speaker1: Okay, do I need to pay in advance?
+Speaker2: You don't need to pay now, you can pay at the store later, we support both cash and electronic payment.
+Speaker1: Okay, thank you for your service, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

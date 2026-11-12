@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your return/exchange policy?
+Speaker2: Of course, we support seven-day no-reason return or exchange here, but the products must be kept in their original packaging, and there should be no signs of use.
+Speaker1: What if the product has issues?
+Speaker2: If there are any quality issues, we provide a 30-day free exchange service, and if it's a serious issue, we can also directly process a refund for you.
+Speaker1: Okay, can I return the clothes I bought recently because they're a bit too small?
+Speaker2: You can apply for a refund within seven days as long as the clothes are not obviously used, we will all process it.
+Speaker1: What do I need to apply for?
+Speaker2: You can log into your account on our website, find the corresponding order, click on apply for refund, fill in the reason for refund and return address, we will process it quickly.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy life.

@@ -1,0 +1,12 @@
+Speaker1: Hello, did you say you would come over yesterday? Can you come over early this morning?
+Speaker2: Hey, do you have a few minutes?
+Speaker1: If you're convenient, I'll wait for you at home. Otherwise, I'll go to work.
+Speaker2: Can't leave at 9:30?
+Speaker1: Sure, you can call first to confirm, I'll wait for your reply.
+Speaker2: Okay, I'll be back in a while.
+Speaker1: Okay, I'm waiting for you at home.
+Speaker2: You can go to work first until 10:30.
+Speaker1: Wait until 10:30 for you to come back.
+Speaker2: Okay, I'll call you later.
+Speaker1: Goodbye.
+Speaker2: Goodbye.

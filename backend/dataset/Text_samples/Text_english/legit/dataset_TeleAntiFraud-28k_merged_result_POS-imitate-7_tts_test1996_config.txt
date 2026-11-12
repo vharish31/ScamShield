@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I bought a piece of clothing at your store yesterday, but it seems to have some issues.
+Speaker2: Hello, little Li, I am customer service Zhang, what questions do you have?
+Speaker1: The color of the clothes I bought is different from what's shown on the website, and it looks a bit dark.
+Speaker2: I'm very sorry to cause you inconvenience. It might be due to the lighting when taking the picture. Would you like us to exchange it for you or give you a refund?
+Speaker1: Can I send my clothes back and get a new one?
+Speaker2: Of course, you can directly send the clothes back, and we will process it quickly after receiving it.
+Speaker1: Okay, do I need to pay postage myself?
+Speaker2: No need, we bear postage. You can use our free return label, details are in order details.
+Speaker1: That's great, thank you for your help, I will send the clothes back as soon as possible.
+Speaker2: No problem, if you have any other questions, please feel free to contact us. We hope this shopping experience won't affect your impression of us.

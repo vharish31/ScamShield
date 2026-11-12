@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: Hi, I'm the customer service at the food square. Do you have any time to try our new menu items lately?
+Speaker2: Hey, what's new on the menu?
+Speaker1: We have recently introduced a seafood pizza and a fruit ice cream sandwich, which have been very popular with customers.
+Speaker2: Can you tell me what time your restaurant is open?
+Speaker1: Our restaurant is open from 10 am to 10 pm every day. You can come anytime.
+Speaker2: Okay, can I go to your place around 3 pm on Saturday afternoon?
+Speaker1: Of course, on Saturday at 3 pm, we will reserve a spot for you.
+Speaker2: Thanks for your help.
+Speaker1: No problem, we're looking forward to your arrival. If there's anything that needs to be communicated in advance, please let us know.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I assist you? I am a customer service representative from the smart home store, and I noticed that you have recently browsed our website for smart speakers. Do you have any questions or need help with anything?
+Speaker2: Hello, yes, I am quite interested in your smart speaker, but I don't know much about its functions, what can it do?
+Speaker1: Our smart speaker not only can play music, set alarms, etc., but also can control smart home devices like smart lights, air conditioners, answer questions, provide news, weather forecasts, etc.
+Speaker2: How does the sound quality sound?
+Speaker1: In terms of sound quality, we use a high-quality sound system. Whether it's listening to music or watching a movie, it can provide clear and satisfying sound experience.
+Speaker2: Are there any promotional activities going on now?
+Speaker1: Buy a smart speaker now and we can offer you a 10% discount, plus you have a chance to get a free smart light bulb, the offer is only valid this week.
+Speaker2: How much does it cost? I'll think about it, and if I decide to buy, how long will delivery take?
+Speaker1: If you place an order, we will ship it within 24 hours and it usually takes 3 days to arrive in most parts of China.
+Speaker2: Okay, thank you for your detailed introduction. I will consider it.
+Speaker1: You're welcome. If you have any questions, feel free to consult anytime. Have a nice day!

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager from a bank in Shenzhen. We have a very attractive loan plan here. Would you like to know more about it?
+Speaker2: Hello, I recently have some need for a loan, could you specifically explain this plan?
+Speaker1: Of course, this loan plan is very suitable for friends who need short-term cash flow, and the procedures are very simple, just need to provide some basic personal information, and can quickly approve, the funds will be quickly credited.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: You just need to click on the link or download our official app, fill in the relevant information, and you can apply. If you're not convenient, I can provide a QR code, you scan it and fill in the information directly, very convenient.
+Speaker2: How do I know if this link or app is safe?
+Speaker1: We are a regular bank, all operations are conducted in a safe environment. You can completely trust us. If you need more information, you can add me on WeChat, I can send you detailed information, and I can also provide one-on-one service.
+Speaker2: Adding WeChat, I am concerned about leaking personal information.
+Speaker1: I understand your concerns, but we have specific privacy protection measures in place, so we will never leak any of your information. After adding WeChat, you can consult me anytime about any issues, and I can also help you quickly approve.
+Speaker2: Okay, let me add you on WeChat and see.

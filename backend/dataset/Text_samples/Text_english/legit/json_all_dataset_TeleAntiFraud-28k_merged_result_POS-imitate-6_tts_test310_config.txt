@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? I'm here to deliver food, can you come down now to take your order?
+Speaker2: Hello, I'm still on the road, probably need about ten minutes to get there.
+Speaker1: Okay, I'll wait for you here, call me when you arrive.
+Speaker2: Okay, are you waiting for me at the community door?
+Speaker1: Okay, I'm waiting at the door for you, call me when you arrive.
+Speaker2: Okay, I'm almost there, I'll call you soon.
+Speaker1: Okay, I'll hang up first, wait for your call.
+Speaker2: Okay, thank you, goodbye.

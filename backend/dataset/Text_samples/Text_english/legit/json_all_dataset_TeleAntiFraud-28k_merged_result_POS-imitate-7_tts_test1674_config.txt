@@ -1,0 +1,12 @@
+Speaker1: Hello, you.
+Speaker2: Hello, do you want to inquire about our company's recruitment?
+Speaker1: Yes, I saw your job posting for a designer on the internet and wanted to know more about it.
+Speaker2: Okay, we currently have a designer position vacancy, mainly responsible for product interface design and user experience optimization.
+Speaker1: How many years of work experience is required for this position?
+Speaker2: We require at least two years of relevant work experience. If you have an excellent portfolio, the conditions can be relaxed.
+Speaker1: I worked at a design company for three years and accumulated a lot of project experience.
+Speaker2: It's great to have you apply, please send your resume and portfolio to our email, we'll arrange an interview ASAP.
+Speaker1: Okay, I'll send it over today. What time can we schedule the interview?
+Speaker2: After receiving your resume, we will contact you within a week to confirm the specific interview time.
+Speaker1: Okay, thank you for your reply, looking forward to joining your company.
+Speaker2: No problem, I'm looking forward to your joining. Best wishes, goodbye.

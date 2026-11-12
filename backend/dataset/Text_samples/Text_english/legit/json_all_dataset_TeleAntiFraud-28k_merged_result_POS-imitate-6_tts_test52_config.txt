@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm small Zhang, a taxi driver, I just arrived at your designated location.
+Speaker2: Hello, I'm waiting at the exit of the subway station, can you see me?
+Speaker1: I see the subway station, which exit are you at? I rang twice on the bell, did you hear it?
+Speaker2: I saw you. I was at the second exit, you moved forward a little, I saw you.
+Speaker1: Okay, I'll go first, you wait for me on the roadside, be careful.
+Speaker2: Okay, I see your car, come over soon.
+Speaker1: Okay, let's get in the car, remember to fasten your seatbelt.
+Speaker2: Let's go now.
+Speaker1: Okay, where do you want to go?
+Speaker2: Go shopping in the center of the sky street in the city center.

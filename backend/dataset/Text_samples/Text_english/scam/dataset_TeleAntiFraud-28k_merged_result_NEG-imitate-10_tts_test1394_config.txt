@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is Zhōngtiān yínkōng kèfù zhōngxīn, wǒ shì kèfù zhuāngyáng xiǎowáng.
+Speaker2: Hello, do you have anything?
+Speaker1: We noticed some unusual transactions on your bank card recently. To ensure your financial safety, we need you to cooperate with us for a security verification.
+Speaker2: Really? Then what do I need to do?
+Speaker1: Yes, first you need to provide your bank card number and ID number, then we will send a verification code to your phone via text message, you tell me after receiving it.
+Speaker2: Okay, my bank card number is 6228480101001111, my identity card number is 3101111111111111.
+Speaker1: Okay, I have recorded it down. Now I will send you a short message, please pay attention to check the verification code.
+Speaker2: Okay, I received it. The verification code is six six six six six.
+Speaker1: Thank you, we have completed the verification. To further ensure the safety of your account, we recommend downloading our bank's official app, which allows you to monitor your account activity in real-time.
+Speaker2: Okay, I'll download it right away.

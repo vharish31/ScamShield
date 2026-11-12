@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service representative you contacted before.
+Speaker2: Hello, what can I help you with?
+Speaker1: We received your request for product return, can you confirm your order number?
+Speaker2: Okay, my order number is one two three five four six seven eight.
+Speaker1: Okay, I'll check. Do you want a refund or exchange?
+Speaker2: I want to exchange this product because it has some small issues.
+Speaker1: Understood, regarding the products you selected, we have several styles to exchange, do you have a particular preference?
+Speaker2: I want to change to the blue one if it's possible.
+Speaker1: Okay, we still have blue style in stock. I will process your exchange request, and estimate to complete within three work days.
+Speaker2: Okay, thank you for your help, please.

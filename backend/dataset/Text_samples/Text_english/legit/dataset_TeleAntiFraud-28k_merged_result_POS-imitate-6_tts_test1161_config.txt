@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: I saw your store has a certain icebox on the internet, and I want to know more details.
+Speaker2: Oh, yes, we do have an icebox on promotion. What specific information do you want to know about it?
+Speaker1: What is the price and energy consumption level of this refrigerator?
+Speaker2: This refrigerator costs 3500 yuan, has an energy consumption level of one, and is very energy-efficient.
+Speaker1: What is its capacity?
+Speaker2: This refrigerator has a total capacity of 520 liters, the freezer and the cold storage compartment are 200 liters and 330 liters respectively.
+Speaker1: Can you deliver it even though I'm not nearby?
+Speaker2: Of course, we provide nationwide delivery service, just provide a detailed shipping address.

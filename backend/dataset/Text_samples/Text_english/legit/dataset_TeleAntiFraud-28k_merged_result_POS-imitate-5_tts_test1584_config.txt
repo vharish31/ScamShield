@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, have you arrived?
+Speaker1: Are you waiting for me at the door?
+Speaker2: Yes, I'm waiting for you at the door.
+Speaker1: Okay, I'll be right down, it should take about five minutes.
+Speaker2: No problem, I'm waiting for you here.
+Speaker1: It's so tiring, the weather is nice today, let's go for a walk and feel good.
+Speaker2: Yes, the weather is good, and my mood follows suit.
+Speaker1: Okay, where do we eat?
+Speaker2: I want to go to that new Sichuan restaurant. I heard the taste is great.
+Speaker1: Okay, I also heard it, let's try it.

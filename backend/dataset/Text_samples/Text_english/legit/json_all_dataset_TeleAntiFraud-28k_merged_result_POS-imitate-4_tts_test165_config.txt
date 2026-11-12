@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw a phone in your store that I like, can you ask if there's any stock left now?
+Speaker2: Hello, which phone do you prefer?
+Speaker1: That's the blue one that sells the most in your store, I don't remember the model number.
+Speaker2: You said blue X5 phone, this model is still in stock.
+Speaker1: Can I go to the store now?
+Speaker2: Okay, please come over now, we'll be ready for you here.
+Speaker1: Okay, I'll be there in about half an hour. How are you guys going?
+Speaker2: After getting off the subway station, walk straight for five minutes, turn right at the first crossroad, and then walk for two minutes to reach the destination.
+Speaker1: Okay, I understand, thank you.
+Speaker2: Please wait for us. Goodbye.

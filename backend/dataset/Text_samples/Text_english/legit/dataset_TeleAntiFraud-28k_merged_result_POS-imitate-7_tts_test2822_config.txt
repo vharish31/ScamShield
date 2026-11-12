@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you asking for directions?
+Speaker1: Hey, I just moved to this community, I'm not very familiar with the situation here yet.
+Speaker2: No problem, where do you want to go?
+Speaker1: I want to go to the nearest supermarket and buy some daily necessities.
+Speaker2: Okay, go out from here, turn right and walk straight for about 500 meters, there's a big comprehensive supermarket on that side.
+Speaker1: Uh, do I need to turn the car again?
+Speaker2: No need, just walk, the road sign there is quite clear.
+Speaker1: Thanks for your help.
+Speaker2: No problem, feel free to ask for help anytime.

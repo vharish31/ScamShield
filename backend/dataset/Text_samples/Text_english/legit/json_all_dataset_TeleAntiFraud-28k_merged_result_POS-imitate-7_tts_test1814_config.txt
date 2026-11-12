@@ -1,0 +1,12 @@
+Speaker1: Hello, is this Xiaoming restaurant?
+Speaker2: Hello, this is Xiǎomíng rèntiān, can you help me with anything?
+Speaker1: Can you tell me more about the dish with the special sign on the menu?
+Speaker2: Of course. Our signboard menu is spicy hot pot, with chicken wings, potatoes, lotus root, etc., very popular.
+Speaker1: What are the business hours of your restaurant?
+Speaker2: Our restaurant opens at 10 am every day and closes at 10 pm.
+Speaker1: Okay, I plan to go to your place for dinner this weekend. Do I need to make a reservation in advance?
+Speaker2: It's usually more crowded on weekends, so it's recommended to make reservations in advance to ensure you have a seat.
+Speaker1: Okay, I'll make a reservation for Saturday evening at 7 pm.
+Speaker2: Okay, I have made a reservation for you. Please arrive on time.
+Speaker1: Thank you, see you then.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

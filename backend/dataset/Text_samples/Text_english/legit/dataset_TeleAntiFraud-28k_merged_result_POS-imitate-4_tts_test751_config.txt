@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, can you hear me? Hello.
+Speaker1: Hi, I'm the customer service at the Xiaoyun convenience store. Do you have any suggestions on your shopping experience at our store?
+Speaker2: Oh, your store is not bad, I just think the products update a little slow sometimes.
+Speaker1: Thank you for your feedback. We will update our products quickly. By the way, do you know our store has a promotion activity recently?
+Speaker2: Is there any activity?
+Speaker1: Yes, we now have a buy one get one free promotion, and if you spend over two hundred yuan, you can join the lottery, the prizes are beautiful small gifts.
+Speaker2: I'll definitely take more time to look around next time.
+Speaker1: Great, you can contact us anytime if you need anything. Our service hours are from 9am to 9pm.
+Speaker2: Okay, thank you. I'll hang up first, I'll come back later if I have time to stroll around.
+Speaker1: Okay, wish you happy life, bye.

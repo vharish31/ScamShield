@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm Zhang San, calling to inquire about your family's delivery service
+Speaker2: Hey, Zhang Three. Our home delivery service is quite convenient. What do you want to know?
+Speaker1: What is your delivery range and time?
+Speaker2: Our delivery range is mainly the city center area, including Dongcheng District and Xicheng District. The delivery time is from 10 am to 10 pm.
+Speaker1: If I order food now, how long will it take to be delivered?
+Speaker2: If you order now, based on your location, it will arrive approximately 30 to 45 minutes later.
+Speaker1: Okay, I'll order a beef noodle soup and a spicy sour soup.
+Speaker2: Okay, one portion of beef and rice, one portion of sour and spicy soup, the total is thirty-five yuan. You will receive a text message to confirm the order, please confirm if it's correct.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome. If you need to contact us at any time, please do so. Enjoy your meal!

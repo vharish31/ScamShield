@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I just ordered an egg cake at your store, but it seems like the address is wrong.
+Speaker2: Hello, Xiao Ming, I am customer service king, you give me address, I help you change a little.
+Speaker1: Okay, my new address is Xiàngfú xiǎojīng sān hào lóu yī dàn yī zhèr zhèr, mǎ fàn nǐ le.
+Speaker2: Okay, I have already revised it for you. I estimate it will be delivered by 4 pm this afternoon.
+Speaker1: That's great, thank you. Is it possible to send the cake in advance for a party tonight?
+Speaker2: Okay, what time do you want it delivered?
+Speaker1: Can you deliver it at three in the afternoon?
+Speaker2: Sure, we will arrange for timely delivery.
+Speaker1: Okay, thank you, I'll wait for your call.
+Speaker2: Okay, no problem, wish you a happy party. Bye!

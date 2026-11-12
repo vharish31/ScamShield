@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm a server at a fast food restaurant, right? You ordered takeout from us last week, didn't you?
+Speaker2: Yeah, I remember.
+Speaker1: Have you heard about our store's new product tasting activity? We'd love to invite you to try it out. What do you say?
+Speaker2: Have you heard about the new product launch event? It sounds great, are there any special discounts?
+Speaker1: Sure, as long as you come to the store and try new products, you can enjoy the buy one get one discount, and there's also a chance to win a small gift.
+Speaker2: The buy one get one deal sounds great, but where are you now? How long does the activity last?
+Speaker1: The activity will last until the end of the month, you can come to the store at any time during this period to experience it.
+Speaker2: Okay, I'll go there on weekends when I have time off.
+Speaker1: See you this weekend! Don't forget to bring your order number, you'll get an extra surprise!
+Speaker2: Okay, thank you for the invitation, see you this weekend.

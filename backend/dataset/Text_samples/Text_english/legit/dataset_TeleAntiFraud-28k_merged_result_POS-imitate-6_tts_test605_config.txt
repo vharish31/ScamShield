@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I just ordered lunch at your store. Can you confirm it for me?
+Speaker1: Okay, give me the order number, I'll check it out for you.
+Speaker2: Order number is one two three four five.
+Speaker1: Okay, I found it. Your order is ready. It will be delivered in about thirty minutes.
+Speaker2: Okay, thank you. Is it possible to provide an invoice?
+Speaker1: Of course, do you need an electronic invoice or a paper invoice?
+Speaker2: Electronic invoice is fine, please send to this email address: one two three@four five six.com.
+Speaker1: Okay, I noted it down. The invoice will be sent to you after the order is completed. Is there anything else you need help with?
+Speaker2: No more, thank you for your help.
+Speaker1: You're welcome, hope you enjoy your meal, bye.

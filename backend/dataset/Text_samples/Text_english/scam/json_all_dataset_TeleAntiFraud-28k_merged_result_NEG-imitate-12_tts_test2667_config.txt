@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li Wen?
+Speaker2: Hello, who are you?
+Speaker1: I am a customer service representative from Speedy Express, your package was lost during transportation, we are currently handling compensation matters.
+Speaker2: What should I do?
+Speaker1: Don't worry, we have a specific compensation process. For convenience in handling, please provide some personal information, including name, phone and ID number.
+Speaker2: Okay, I'll cooperate.
+Speaker1: Thank you for your cooperation. Additionally, to ensure that the indemnification can be quickly settled, we also need you to provide bank account information.
+Speaker2: Is your bank account safe?
+Speaker1: Completely safe, we are a regular company, our compensation process is transparent. To speed up processing, you can click our official link, fill out the relevant information.
+Speaker2: Okay, I'll go operate.

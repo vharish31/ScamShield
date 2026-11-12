@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you? This is the Taobao customer service center, I am customer service representative Zhang Huang, you recently purchased a product with quality issues, we are ready to process a refund for you, would you like me to explain the process?
+Speaker2: Hey, what's the problem?
+Speaker1: Your order number is 123456789, we found a quality issue with the product, for your protection, we recommend you immediately process a refund. Please click on the link below to complete the refund process.
+Speaker2: How do I click on a link?
+Speaker1: You can scan the QR code with your phone or I can send you a text message link, you click the link and follow the instructions.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your order number and phone number, we will verify your identity and immediately process your refund.
+Speaker2: Okay, then I'll wait for your text message.
+Speaker1: Okay, the text message has been sent. Please check it. If there are any issues, feel free to contact me anytime.
+Speaker2: I got it. I'll go operate now. Thanks.
+Speaker1: You're welcome, wish you happy life, bye.

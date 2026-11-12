@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how long will this delivery take?
+Speaker1: Which order are you?
+Speaker2: I am that three-in-one order.
+Speaker1: Okay, I'll check, you wait a minute.
+Speaker2: Okay, thank you.
+Speaker1: Found it, your takeout may take about twenty minutes.
+Speaker2: I'll be late by twenty minutes.
+Speaker1: You can choose to have the delivery guy bring the food to the specified location, or wait for you to pick it up on your way back.
+Speaker2: Can you please have the delivery guy bring the food to the company lobby and have him note it down for me?
+Speaker1: Okay, I will make sure to take clear notes, you can relax.
+Speaker2: Thank you, please.
+Speaker1: No problem, please contact me if you have any questions.
+Speaker2: Okay, bye.
+Speaker1: Goodbye.

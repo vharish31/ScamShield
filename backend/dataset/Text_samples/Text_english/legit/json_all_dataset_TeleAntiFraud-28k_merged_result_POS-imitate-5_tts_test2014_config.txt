@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I am a customer service representative for a fast food delivery platform. Can you confirm your order for today's delivery? Have you received it?
+Speaker2: Ah, received received, thank you.
+Speaker1: Okay, what time is your order?
+Speaker2: It should be 12:30.
+Speaker1: Quarter to twelve, okay. What's your address at Happiness Villa, three-floor apartment, unit one?
+Speaker2: Yes, that's right.
+Speaker1: Okay, your meal will probably be delivered around 12:20, and if there are any changes we'll contact you in advance.
+Speaker2: Okay, okay. Thank you.
+Speaker1: You're welcome. If you have any questions, feel free to contact us anytime. Enjoy your meal. Goodbye.
+Speaker2: Goodbye.

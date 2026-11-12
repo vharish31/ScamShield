@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the manager of the Zhang at the Zhao Shang Yin Bank, and we noticed that you have recently browsed on our platform. Do you have any need for capital rotation?
+Speaker2: Uh, I've been having some trouble with my finances lately, but I haven't figured out what to do yet.
+Speaker1: I understand, we have a special loan project here that requires no collateral, simple procedures, and fast disbursement. If you're interested, you can first learn more about it.
+Speaker2: How do I apply?
+Speaker1: Great, you can first download our bank's special app, register and fill in some basic information, and our customer service will contact you immediately.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much for your trust. The name of the app is 'Zhao Xing Jin Rong Zhu Shou'. After downloading, if you have any questions, please contact me. Wish you a happy life. Goodbye.
+Speaker2: Okay, thank you, bye.

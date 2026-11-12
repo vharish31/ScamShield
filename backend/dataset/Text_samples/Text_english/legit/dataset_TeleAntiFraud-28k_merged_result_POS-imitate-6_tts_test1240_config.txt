@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, this is little Li's food recommendation, you consulted our family's special dishes before, now do you want to know more about it?
+Speaker2: Hey, how are you? I want to know what kind of dishes are on your family's menu?
+Speaker1: Okay, our family's signboard menu has spicy crab, Sichuan hot pot, and steamed sea bass, all of which are very popular.
+Speaker2: How spicy is your Chongqing hot pot?
+Speaker1: Our Chongqing hotpot has different spiciness levels to choose from, ranging from mild to spicy, you can select based on your taste.
+Speaker2: What are your business hours?
+Speaker1: Our business hours are from 11 am to 10 pm every day, and on weekends they are extended to 11 pm.
+Speaker2: Okay, do I need to make a reservation in advance if I want to go to your house to eat on the weekend?
+Speaker1: To ensure you have a seat, it's recommended to book in advance, especially on weekends when it's busier.
+Speaker2: Okay, can I reserve a seat for 7 pm on Saturday evening?
+Speaker1: Sure, I'll book it for you, Saturday evening at 7pm. Don't forget to come on time.
+Speaker2: Okay, thank you.

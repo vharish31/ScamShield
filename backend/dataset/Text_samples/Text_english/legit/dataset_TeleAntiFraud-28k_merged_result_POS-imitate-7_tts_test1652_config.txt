@@ -1,0 +1,14 @@
+Speaker1: Hello, can you order takeout here?
+Speaker2: Hello, okay, we provide delivery service, what do you want to order?
+Speaker1: Do you have beef fried rice and pork ribs with sweet and sour sauce?
+Speaker2: Yes, we have beef fried rice here, and sweet and sour pork ribs are also very popular.
+Speaker1: How much do these menus cost?
+Speaker2: The beef fried rice is 30 yuan, the sweet and sour pork ribs are 45 yuan.
+Speaker1: Okay, how long will it take to deliver these two menus?
+Speaker2: Typically, we deliver within thirty minutes after ordering, but the specific time may vary due to traffic conditions.
+Speaker1: Can I order now?
+Speaker2: Of course, I can help you place an order. What's your address?
+Speaker1: The address is Blue Sky Villa, No. 3, Building 2, Unit 602.
+Speaker2: Okay, your order has been recorded. We will send it over quickly. Is there anything else you need help with?
+Speaker1: No longer available, thank you.
+Speaker2: You're welcome. If you have any questions, please contact us anytime. Enjoy your meal!

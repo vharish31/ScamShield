@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Hey, who are you?
+Speaker1: Hello, I am the manager of a small loan company, we have recently introduced a new service for low interest, no collateral loans, do you have any recent funding needs?
+Speaker2: Oh, there is, but I was rejected for loans before.
+Speaker1: Don't worry, we have a dedicated green channel here for quick approval. Just provide some basic information and you're good to go.
+Speaker2: So, how do I apply?
+Speaker1: Great, just download our official app and fill out the relevant information, and we'll have a specialist review your data.
+Speaker2: Okay, now I'm going to download.
+Speaker1: Please pay a deposit upfront to ensure the safety of your information. Once the loan is approved, we will refund the full amount.
+Speaker2: How much is the deposit?
+Speaker1: Just pay one thousand yuan to prevent malicious applications.

@@ -1,0 +1,9 @@
+Speaker2: Hey, how are you? I just placed an order for delivery, can you deliver it quickly?
+Speaker1: Okay, I will quickly help you with that.
+Speaker2: Thank you, I'm a bit anxious, it's almost eleven now, I have a meeting soon.
+Speaker1: Understood, I will notify the delivery man to prioritize your order.
+Speaker2: Okay, can you help me?
+Speaker1: No problem, do you have anything else you need help with?
+Speaker2: I'm not available right now, but if you have any questions, I'll get back to you.
+Speaker1: Okay, wish you a successful meeting. Bye.
+Speaker2: Thank you, goodbye.

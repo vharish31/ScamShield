@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I recently want to change my phone, can you recommend me some?
+Speaker2: Hello, of course. What are your specific requirements for a new phone? Like brand, budget, and feature requirements?
+Speaker1: I want a camera with good photo quality and strong battery life, within a budget of around three thousand yuan.
+Speaker2: Okay, based on your needs, I recommend you consider the small blue star S10. This phone's camera is excellent, the battery lasts all day, and the price is within your budget.
+Speaker1: How is the memory and storage space of S10?
+Speaker2: This phone has 8GB of RAM and 128GB of storage space, which is enough for daily use and can also be expanded.
+Speaker1: That's great, I like to take photos and watch videos, this configuration should be enough.
+Speaker2: Yes, this phone is very suitable for your needs. If you're interested, I can help you check if there are any recent discount activities.
+Speaker1: Okay, can you help me?
+Speaker2: No problem, I'll just check it out, wait a minute.

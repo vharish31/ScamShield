@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a customer service representative from China Construction Bank, we have a special discount loan project here, do you want to know more about it?
+Speaker2: Uh, loan, I'm a bit tight right now, can you say something first?
+Speaker1: Okay, this loan project is specifically for citizens of Chongqing, the monthly interest is only 0.02 yuan, and the approval and disbursement are both quick.
+Speaker2: Really? This is so good?
+Speaker1: Indeed, this is a project launched by a regular bank, aimed at benefiting more citizens, and thus this discount was introduced.
+Speaker2: What should I consider, how do you guys operate?
+Speaker1: It's simple. Just provide your ID info, and we'll approve it quickly once it's reviewed. If you're interested, add my WeChat, I'll send you detailed info.
+Speaker2: Okay, I add you WeChat, you send me data look.
+Speaker1: Great, my WeChat is China Construction Bank Assistant, add me and I'll send you the data.
+Speaker2: Okay, I'll add you.

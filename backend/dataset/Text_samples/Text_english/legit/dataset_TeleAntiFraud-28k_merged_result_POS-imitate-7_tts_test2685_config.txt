@@ -1,0 +1,8 @@
+Speaker1: Hey, are you there? I'm standing at the gate of the community, can you see me?
+Speaker2: Just came out, haven't seen you yet, where are you at the door?
+Speaker1: I'm at the east gate. You can see me after you come out and turn left.
+Speaker2: Okay, I'll be there soon, you wait a minute.
+Speaker1: Okay, I'm waiting for you here, don't rush.
+Speaker2: I see you, just a moment, I'll be right there.
+Speaker1: Okay, be careful, pay attention to safety on the road.
+Speaker2: Thank you, I will pay attention. See you later.

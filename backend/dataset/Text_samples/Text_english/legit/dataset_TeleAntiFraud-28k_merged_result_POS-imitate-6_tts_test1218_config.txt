@@ -1,0 +1,11 @@
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you deliver food to my home?
+Speaker2: Of course, what is the specific address of your home?
+Speaker1: I am in the Yánggōng huāyuán xiǎojīng in Xīnchéng qū.
+Speaker2: Okay, our delivery service is available in the Yángguāng huāyuán xiǎojī, and there are several delivery points near your home.
+Speaker1: That's great, I want to have a beef stir-fry and a sweet and sour pork ribs for dinner tonight.
+Speaker2: Okay, one portion of beef stir-fry and one portion of sweet and sour pork ribs, do you need any drinks or snacks?
+Speaker1: Let's have another bottle of iced red tea.
+Speaker2: Okay, one portion of beef stir-fry, one portion of sweet and sour pork ribs, and one bottle of ice red tea, which costs 40 yuan in total, will be delivered within 30 minutes.
+Speaker1: Okay, thank you, I'll be waiting at home later.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, enjoy your meal.

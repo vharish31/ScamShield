@@ -1,0 +1,11 @@
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I reserved a table at your store, but suddenly I had something urgent and couldn't go.
+Speaker2: No worries, what time did you order?
+Speaker1: I was supposed to come at seven in the evening, but I might not make it now.
+Speaker2: Understood, we can keep your reservation on this side or you can change to another time.
+Speaker1: Can it be changed to 7 pm tomorrow night?
+Speaker2: Of course, tomorrow evening at seven, we will reserve it for you.
+Speaker1: Okay, thank you. And what do we do if it rains tomorrow?
+Speaker2: No worries, our restaurant has umbrellas available, you don't need to worry.
+Speaker1: That's great, thank you.
+Speaker2: Please come soon.

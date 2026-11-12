@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you have time in the afternoon? Let's go to the library together.
+Speaker2: Great, I have some free time at three in the afternoon, do you?
+Speaker1: I'm free at three o'clock too, let's meet at the library at three o'clock.
+Speaker2: Okay, meet at the library entrance.
+Speaker1: Hey, what book have you been reading lately? Recommend one for me.
+Speaker2: I've recently been watching "White Night Express," which is quite good, a suspense mystery type, you can take a look.
+Speaker1: That sounds interesting, let me try to see.
+Speaker2: Hey, I hope you like it. See you later this afternoon.

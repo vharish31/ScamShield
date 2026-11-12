@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm the property management service of the community, just reminding you that your property fee is overdue by a week.
+Speaker2: Oh, really? I've been busy lately, I forgot.
+Speaker1: No problem, you can come to our property management office to pay in person at your convenience, or you can pay through our WeChat public account.
+Speaker2: Okay, then I'll pay via WeChat tonight.
+Speaker1: Okay, thank you very much for your cooperation. By the way, our community is doing green upgrading recently, there might be some noise, hope it won't disturb you.
+Speaker2: Oh, I'll pay attention now. Thank you for reminding me.
+Speaker1: No problem, feel free to contact us anytime if you have any questions or suggestions.
+Speaker2: Okay, thank you. I'll pay the rent by the end of the day and send you a screenshot to confirm.
+Speaker1: Okay, please send me a screenshot after you pay, and I will confirm for you.
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye, wish you all the best.

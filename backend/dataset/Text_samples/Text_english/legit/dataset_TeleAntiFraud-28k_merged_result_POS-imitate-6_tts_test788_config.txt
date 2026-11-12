@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: Hello, I am a waiter at the restaurant, just confirming the dinner time you previously reserved.
+Speaker2: Okay, what restaurant are you guys from?
+Speaker1: We are the Flower and Fragrance Restaurant. You previously reserved a seat for tonight at 7 pm through a phone call.
+Speaker2: I remember it now. I'm really going tonight.
+Speaker1: Do you need to adjust your reservation time? Or do you have any special requirements?
+Speaker2: No adjustment, seven o'clock is perfect. However, I have two people together, need to lean against the window position.
+Speaker1: Okay, I've reserved a window seat for you. Additionally, we have a special seafood promotion tonight, would you like to know more in advance?
+Speaker2: Sounds good, let's take a look later. Thank you for reminding me.

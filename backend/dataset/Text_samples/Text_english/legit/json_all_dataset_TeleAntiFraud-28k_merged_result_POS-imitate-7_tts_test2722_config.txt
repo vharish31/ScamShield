@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a server at the Meishikitang restaurant. I remember you dined with us before. Would you like to confirm if you are satisfied, and do you have any suggestions?
+Speaker2: Mmm, I think the beef is quite delicious, just a little old.
+Speaker1: Thank you very much for your feedback. We will inform the chef about this issue and see if it can be improved.
+Speaker2: Okay, I hope it's better next time.
+Speaker1: Of course, we always strive to improve service quality. By the way, you can make a reservation in advance when you come to eat next time, which will help you avoid waiting.
+Speaker2: That's great, I'll call ahead to make a reservation next time.
+Speaker1: Okay, we'll handle the reservation issues. Also, our restaurant is having a spring sale promotion, many dishes have discounts, are you interested in checking it out?
+Speaker2: Can you send me some information about the activity?
+Speaker1: Of course, I will send the activity link to the phone number you have reserved.
+Speaker2: Okay, thank you for your service.
+Speaker1: You're welcome. I'm looking forward to your next visit. Wish you have a great day!

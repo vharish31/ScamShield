@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm little Ming, I just arrived at your hospital, looking for a doctor to see a doctor.
+Speaker2: Hello, Xiaoming, you arrived, I'm waiting for you in the outpatient department.
+Speaker1: Okay, where is the outpatient department? I'm having a bit of trouble finding it.
+Speaker2: You enter from the main entrance, walk straight ahead and turn right, and you'll see the clinic sign.
+Speaker1: Okay, I see the sign, I'll be there in a while.
+Speaker2: Okay, hurry up and come over here, I'm waiting for you here.
+Speaker1: Uh, what doctor did I have an appointment with today? I forgot.
+Speaker2: You have an appointment with Dr. Zhang, who is an orthopedic specialist, you can find him directly at the front desk of the outpatient department by registering your name.
+Speaker1: Okay, thank you, I'll be there in a minute, see you later.
+Speaker2: No problem, see you later, be careful.

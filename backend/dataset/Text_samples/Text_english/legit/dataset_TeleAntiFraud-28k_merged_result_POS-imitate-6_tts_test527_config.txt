@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? This is Green Meadow Restaurant. You reserved a four-person table for yesterday, right?
+Speaker2: Yes, it's my reservation.
+Speaker1: Okay, can this time work for you at 7 pm?
+Speaker2: Is it okay to sit at the window edge?
+Speaker1: Sure, I have reserved a spot for you by the window. By the way, our restaurant has a special seafood set menu tonight. Would you like to make a reservation in advance?
+Speaker2: The seafood set menu sounds good, do you have any recommendations?
+Speaker1: We recommend the steamed large hairy crab, ginger-fried live oysters, and seafood hot plate, all of which are very popular dishes.
+Speaker2: I'll order a seafood platter.
+Speaker1: Okay, seafood platter is reserved for you. You can order directly when you arrive at the restaurant. Is there anything else you need help with?
+Speaker2: No longer available, thank you.
+Speaker1: No problem, please feel free to contact us anytime. Enjoy your meal, goodbye.
+Speaker2: Thank you, goodbye.

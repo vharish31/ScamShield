@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I want to consult your fitness courses on this side.
+Speaker2: Hello, little Li, I am the customer service of the fitness center, you can call me little Zhang. What can I help you with?
+Speaker1: Can you tell me about your fitness programs and how much they cost?
+Speaker2: We offer various fitness programs here, including yoga, aerobics, strength training, etc. The price for a single class is 50 yuan, and there are more discounts if you buy a card.
+Speaker1: What about the discount on the credit card?
+Speaker2: We have three-month cards, priced at 1,200 yuan, six-month cards at 2,200 yuan, and year cards at 3,800 yuan. Signing up for a card allows you to enjoy more courses and more flexible scheduling.
+Speaker1: Can I come to the course anytime if I buy a card?
+Speaker2: Yes, after you bought the card, you can freely choose courses within our open time, we have a fixed course schedule every day, you can arrange according to your own time.
+Speaker1: Okay, I'll think about it first, and then I'll come back with more details when I have time.
+Speaker2: Okay, little Li, you can contact me anytime if you have any questions. I'm looking forward to your joining!

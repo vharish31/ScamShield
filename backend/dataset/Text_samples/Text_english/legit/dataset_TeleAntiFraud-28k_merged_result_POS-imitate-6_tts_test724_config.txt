@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I just bought a piece of clothing at your store, I want to consult the return and exchange policy.
+Speaker2: Hello, little Zhang, I am customer service Li, very happy to serve you. Do you have any problems with the clothes you bought?
+Speaker1: No, I bought it and tried it on, the size was too small, I want to exchange it for a bigger one.
+Speaker2: Okay, we support seven-day no-reason return or exchange here. You just need to keep the clothes original and attach the purchase receipt, and send it back to us.
+Speaker1: Do I have to pay postage myself?
+Speaker2: If the issue is with product quality, we will cover the shipping fees, but if it's due to personal reasons and you need to exchange, you'll have to handle the shipping fees yourself.
+Speaker1: What is the address to which I should send the items I want to exchange back?
+Speaker2: You can find the return/exchange address on our website or just tell me, I can record it for you.
+Speaker1: Okay, I'll send it back tomorrow, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to contact us anytime. We hope you're satisfied with our service.

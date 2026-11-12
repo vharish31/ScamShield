@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer service from Hong Kong, you ordered five ice creams before, but we only have three here now, how should we handle it?
+Speaker2: Uh, this way, can't we change the flavor?
+Speaker1: Hmm, can we try a different flavor? But our inventory is limited, we only have chocolate and strawberries, are you okay with that?
+Speaker2: Can I have the chocolate? Then how do I give the money back to you?
+Speaker1: Okay, I'll give you some chocolate to make up for it. As for the money, you can choose to directly transfer it to your payment account, or I can give you cash on the spot, which one is more convenient for you?
+Speaker2: Let's withdraw money on the spot, it's more convenient.
+Speaker1: Okay, I'll deliver it to you at 2 pm and refund the difference.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions.
+Speaker2: Okay, bye.
+Speaker1: Goodbye.

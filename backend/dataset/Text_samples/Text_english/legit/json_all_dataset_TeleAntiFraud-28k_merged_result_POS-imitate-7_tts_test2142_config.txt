@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently want to buy a new phone, I saw your online activity, want to know more.
+Speaker2: Hello, you are small Zhang sir, I am customer service Li, very happy to serve you. What specific activity do you want to know about which phone?
+Speaker1: That flagship phone recommended on your homepage looks pretty good in terms of price, but I'm not quite clear on the specific discount details.
+Speaker2: This flagship phone is our top recommended product for this activity, and now you can enjoy a discount of 500 yuan when purchasing, as well as a gift of a phone case worth 200 yuan and a steel case worth 200 yuan.
+Speaker1: Hey, when does that activity end?
+Speaker2: This activity ends by the end of the month, if you're interested, I suggest you place an order as soon as possible to avoid missing the discount.
+Speaker1: How long will I be able to receive the goods after placing an order?
+Speaker2: We usually ship within 24 hours after your order and deliver within 2-3 days depending on your shipping method.
+Speaker1: If there are problems with the phone, can it be returned?
+Speaker2: Of course, we provide a seven-day no-questions-asked return service. If you receive any issues with your phone, you can contact us within seven days to handle return or exchange.

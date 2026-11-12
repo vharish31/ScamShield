@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm looking for a new coffee shop, do you know the location?
+Speaker2: Hello, how are you? Which coffee shop did you say? What's the name?
+Speaker1: That coffee shop called "Warm Corner" is said to have a good environment.
+Speaker2: Oh, cozy corner, I know, just in the downtown pedestrian street, next to that big fountain.
+Speaker1: Really? I can't find it, can you explain in detail how to walk?
+Speaker2: Of course, you first walk to the entrance of the pedestrian street, then turn right, it will take about five minutes, you will see a big fountain, the coffee shop is just opposite the fountain, very easy to find.
+Speaker1: Thanks for your help, I'll go over there right away.
+Speaker2: You're welcome! Have a great day!
+Speaker1: You too, bye!
+Speaker2: Goodbye!

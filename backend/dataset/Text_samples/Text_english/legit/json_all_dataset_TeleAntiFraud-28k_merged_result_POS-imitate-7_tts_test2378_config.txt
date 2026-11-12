@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I'm in Wangfu Jie Da Street, can you come pick me up?
+Speaker2: Hello, Xiao Ming, I am driver Wang, I will arrive at your place soon.
+Speaker1: Okay, I'll wait for you. How long will it take to arrive?
+Speaker2: The road is good now, it should take about ten minutes to get there.
+Speaker1: Okay, I see you, just in front of the coffee shop on the corner of the street.
+Speaker2: Okay, I see you, get in the car.
+Speaker1: Thank you, I need to go to the Xicheng shopping mall.
+Speaker2: Okay, I know the way, sit steady, we're off.
+Speaker1: Will the road be congested on the way?
+Speaker2: It's still good now, don't worry.

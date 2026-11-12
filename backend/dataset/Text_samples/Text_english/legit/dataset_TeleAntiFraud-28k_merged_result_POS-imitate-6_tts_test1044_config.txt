@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Zhang, want to ask about your restaurant's special dishes
+Speaker2: Hello, welcome to call this restaurant, I am server Li, what can I help you with?
+Speaker1: Can you tell me what your signature dishes are and approximately how much they cost?
+Speaker2: Our restaurant menu has red braised pork, steamed fish and kung pao chicken, priced at 38 yuan, 45 yuan and 35 yuan respectively.
+Speaker1: What are your business hours?
+Speaker2: We open at ten in the morning and close at ten at night, no breaks in between.
+Speaker1: Sure, can I reserve a seat for 7 pm tomorrow night?
+Speaker2: Of course, how many would you like to reserve?
+Speaker1: Can I reserve a table for four? Do you have any recommendations for a menu?
+Speaker2: Our family set meal includes four dishes and a soup, suitable for four people, priced at two hundred yuan, with a high value for money.
+Speaker1: I'll book this family dinner for tomorrow night at seven.
+Speaker2: Okay, I have made a reservation for you. See you tomorrow. I hope you enjoy your meal.

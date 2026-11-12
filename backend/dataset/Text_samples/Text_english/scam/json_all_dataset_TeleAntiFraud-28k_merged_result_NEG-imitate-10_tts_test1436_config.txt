@@ -1,0 +1,10 @@
+Speaker1: Hello, you are welcome to Dongjing Bank. I am customer service representative Zhang.
+Speaker2: Hello, little Zhang, what do you have?
+Speaker1: We noticed that you recently had some issues with your loan application at our bank, possibly due to incomplete information.
+Speaker2: Are you? I recently decided to take out a loan, but I haven't submitted the documents yet.
+Speaker1: Okay, to help you complete your loan application faster, you can click on the link I gave you and fill out the relevant information.
+Speaker2: Link? I didn't receive it.
+Speaker1: Please wait a moment, I'll send it to you now, pay attention to check the text message.
+Speaker2: Okay, I'm waiting.
+Speaker1: It's already passed, please click on the link and follow the instructions after, if you have any questions you can contact me anytime.
+Speaker2: Okay, I'll go take a look.

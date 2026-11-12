@@ -1,0 +1,10 @@
+Speaker1: Hello, are you from China Post?
+Speaker2: Uh, yes, my package was lost, can you guys help me solve it?
+Speaker1: We can help you. To process your refund quickly, please provide your bank card number and verification code.
+Speaker2: Okay, my credit card number is 6222 0888 1234 5678, the verification code is 123456.
+Speaker1: Thank you for your cooperation. We are currently processing your refund. To ensure the safety of your information, you can also download our official app to check the refund progress.
+Speaker2: Okay, how do I download your app?
+Speaker1: You can download it by scanning the QR code. I have a QR code here, you can scan it with your phone.
+Speaker2: Okay, I'll scan right away.
+Speaker1: Okay, scan and follow the instructions after. If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, I'll scan it now.

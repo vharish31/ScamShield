@@ -1,0 +1,13 @@
+Speaker1: Hello, this is the speedy finance customer service, I am Chen manager.
+Speaker2: Hello, Chen Manager.
+Speaker1: We noticed you recently have a need for cash flow, so we specifically recommended a low-interest loan product to you.
+Speaker2: Oh, really?
+Speaker1: Yes, this loan product does not require collateral, approval is fast, and the limit is up to 50,000.
+Speaker2: Sounds good, but I don't need it now.
+Speaker1: Understand it, it might come in handy later. You can download our app first, register and you'll have a dedicated contact.
+Speaker2: Okay, I'll download and take a look.
+Speaker1: Great, download it and remember to register with your phone number. The registration code is 123456.
+Speaker2: Okay, I will pay attention.
+Speaker1: If you have any issues after downloading, feel free to contact me directly. My WeChat is chenshiping.
+Speaker2: Okay, I will add you on WeChat. Thank you.
+Speaker1: No problem, wish you happy life, bye.

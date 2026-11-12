@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at your store door, but I didn't see the blue store sign you mentioned, is it possible I'm lost?
+Speaker2: Hello, the blue sign on the store may have been taken down temporarily because it was recently renovated, but our store's location hasn't changed. Have you seen the building with the big red door in front?
+Speaker1: Can you see it? That's your store?
+Speaker2: Yes, you entered from the big red door, then walked straight, turned right at the end, and you can see our store now.
+Speaker1: Okay, I'll go over there. Hey, do you guys have any discount activities now?
+Speaker2: Yes, now all customers in the store can enjoy a 90% discount, and there's also a buy two get one free promotion.
+Speaker1: Great, I'm coming right now.
+Speaker2: Okay, we're waiting for you at the store.
+Speaker1: Thank you, see you later.
+Speaker2: See you later.

@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me?
+Speaker1: Hello, I am the restaurant customer service, did you make a reservation for tonight's dinner?
+Speaker2: Yes, I reserved two tables for tonight at seven o'clock.
+Speaker1: Okay, we have reserved a spot for you. The restaurant is on the third floor of the city square. Convenient transportation.
+Speaker2: Okay, I'll probably arrive at six and a half.
+Speaker1: Hello, we will be ready for you at the door. Also, our new signature dish has received many positive reviews from customers, would you like to try it?
+Speaker2: What do you recommend?
+Speaker1: We have seafood pizza, beef stir-fry and handmade noodles, all of which are very popular.
+Speaker2: Then I'll just come one time.
+Speaker1: Great, your choice is amazing. If you have any other needs, please contact us anytime. See you later.
+Speaker2: Okay, thank you, see you later.

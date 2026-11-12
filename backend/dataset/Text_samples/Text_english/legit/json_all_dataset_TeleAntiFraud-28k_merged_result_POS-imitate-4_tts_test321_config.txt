@@ -1,0 +1,11 @@
+Speaker2: Hello
+Speaker1: I see a blue sports shoe in your store, I want to ask about the price and size.
+Speaker2: Hello, this blue sports shoe currently has sizes 38, 40, and 42, priced at 385 yuan.
+Speaker1: Do you have forty-one?
+Speaker2: We don't have item 41 yet, but you can leave your contact info, and we'll notify you as soon as it arrives.
+Speaker1: Can I make a reservation?
+Speaker2: Okay, you need to pay half the deposit first, and we'll notify you when the shoes arrive to pick up or deliver.
+Speaker1: Okay, how do I pay the deposit?
+Speaker2: You can directly pay through our WeChat or Alipay, I will send you a QR code here.
+Speaker1: Okay, let's add each other on WeChat, I'll send you money later.
+Speaker2: Okay, I'll add you on WeChat, just a moment.

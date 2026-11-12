@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have the new phone here?
+Speaker2: Yes, we have new phones here, which model do you want to know about?
+Speaker1: That's the latest one, I heard its performance is particularly good.
+Speaker2: Yes, this phone's performance is really good, equipped with the latest processor and large memory capacity.
+Speaker1: What is the price?
+Speaker2: This phone costs 5800 yuan, but there's a promotion now, you can get a discount of 300 yuan.
+Speaker1: Oh, that's quite reasonable. I plan to buy it today.
+Speaker2: Okay, we have stock here, you can come over anytime. Do you need me to reserve a machine for you?
+Speaker1: Okay, could you reserve a room for me, I'll be there in a minute.
+Speaker2: No problem, I reserved a spot for you, just come and find me when you arrive.
+Speaker1: Okay, thank you. See you later.
+Speaker2: No problem, see you later.

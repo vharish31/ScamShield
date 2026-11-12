@@ -1,0 +1,14 @@
+Speaker1: Hey, hello, I'm Xiaoming, I saw your shop in the alley, I want to consult with you.
+Speaker2: Hello, Xiaoming, I am the recruiter, what can I help you with?
+Speaker1: Can you tell me more about this job, is it making shoes?
+Speaker2: Yes, this job mainly involves making shoes, which requires certain sewing skills.
+Speaker1: If I'm a newbie, can I learn?
+Speaker2: Do we provide basic training, but do you have relevant experience?
+Speaker1: I don't have much experience, but I'm willing to learn.
+Speaker2: Okay, can we consider giving you a chance to try it out for a while and see how it goes?
+Speaker1: Is it okay, how long is the trial period?
+Speaker2: The trial period is usually three months. If you perform well, you can be promoted early.
+Speaker1: Okay, thank you for the opportunity. What do I need to prepare some materials?
+Speaker2: Please bring your ID and resume, we will arrange an interview on this side.
+Speaker1: Okay, I will prepare quickly, thank you.
+Speaker2: No problem, I'm looking forward to your joining, wish you all the best.

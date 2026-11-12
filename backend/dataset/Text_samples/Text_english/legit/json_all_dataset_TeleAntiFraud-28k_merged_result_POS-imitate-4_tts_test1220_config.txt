@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming. I saw on your website yesterday that you have a new smartwatch. Can you tell me more about it?
+Speaker2: Hello, Xiao Ming, I am customer service representative Xiao Zhang, very happy to serve you. Which smartwatch do you want to know about?
+Speaker1: What does the black striped belt do?
+Speaker2: This new smartwatch we just released supports heart rate monitoring, sleep analysis, exercise recording, and also has blue tooth calling and message reminders.
+Speaker1: How much does that cost?
+Speaker2: This smartwatch is priced at 999 yuan, and there's a discount of 200 yuan now due to a promotion.
+Speaker1: Huh, that's quite reasonable. How's your after-sales service?
+Speaker2: Our after-sales service is very timely, nationwide insurance, free repair within one year of non-human damage, and there is a seven-day no-reason return service.
+Speaker1: Okay, then I'll consider it. If I decide to buy, how do I place an order?
+Speaker2: You can place an order on our official website or mobile app, select the style and color you want, and then follow the instructions to complete the payment. If you have any questions, feel free to contact me anytime.

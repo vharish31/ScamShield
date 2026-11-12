@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Zhang, the customer manager at the Chinese bank, we recently launched a low-interest, fast-approval, no collateral loan product that can lend up to 50,000. Do you have any need for cash flow?
+Speaker2: Is it really? I'm a little tight-handed right now, can you tell me in detail?
+Speaker1: Of course, I can give you a link, you click on it and fill out some basic information, we will review it quickly, if it passes, the money will be in your account as soon as today.
+Speaker2: Great, I'll wait for the funds to circulate now. How can you send me the link?
+Speaker1: Can you please provide your phone number? Just click on the link in the message I send you. It's very simple to operate.
+Speaker2: Okay, my phone number is 12345678901.
+Speaker1: Okay, Li Laoban, I'll send you a short message now. Please pay attention to check it out, and click on the link to complete the operation after receiving it. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you.

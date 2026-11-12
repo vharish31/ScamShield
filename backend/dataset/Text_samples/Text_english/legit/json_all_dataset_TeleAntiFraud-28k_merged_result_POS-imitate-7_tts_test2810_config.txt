@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Zhang, the customer service of the delivery platform. Your order is ready. It will be delivered in about 30 minutes.
+Speaker2: Okay, thank you. That, I just looked at the order, seems like I forgot to note down the remark, can you help me modify it a bit?
+Speaker1: Of course, what do you want to note down?
+Speaker2: I want to change rice porridge to noodles, don't add spicy.
+Speaker1: Okay, I'll make the changes now. Once the changes are done, I'll confirm your order again.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, this is my job. Your order has been successfully modified. Rice has been replaced with noodles, no spicy. Is there anything else you need?
+Speaker2: No more, just like this.
+Speaker1: Okay, we will process your order quickly. If you have any issues, please feel free to contact us anytime.
+Speaker2: Okay, thank you.

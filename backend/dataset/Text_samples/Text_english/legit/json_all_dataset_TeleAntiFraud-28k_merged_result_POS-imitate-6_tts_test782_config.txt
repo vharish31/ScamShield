@@ -1,0 +1,10 @@
+Speaker1: Hey, are your family's business open today?
+Speaker2: Hello, are there anything we can help you with today?
+Speaker1: Can I reserve a four-person table for seven o'clock in the evening?
+Speaker2: Sure, 7:00 PM reservation for four people is okay. What's your name and contact info?
+Speaker1: My name is Li Ming, phone number is 1345678900.
+Speaker2: Okay, Li Ming Xiāngshēng, we have reserved a four-person table for you at seven o'clock tonight. If there are any changes, we will contact you in advance.
+Speaker1: Thanks, can we just come directly at the time?
+Speaker2: Yes, you can come directly, we will prepare for you.
+Speaker1: Okay, let's meet later.
+Speaker2: See you later, wish you a happy day.

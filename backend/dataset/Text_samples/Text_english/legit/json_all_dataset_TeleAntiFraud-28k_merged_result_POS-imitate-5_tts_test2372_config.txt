@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your pet boarding service.
+Speaker2: Hello, I am a service staff at the pet amusement park. What information do you want to know?
+Speaker1: What is the cost of fostering and what is the fostering environment like?
+Speaker2: We have different-sized boarding rooms here, priced from 50 yuan to 100 yuan per day, the environment is clean and comfortable, each room has air conditioning and an automatic feeder.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: Yes, I recommend you book in advance, especially on holidays, our foster home will be quite busy.
+Speaker1: Okay, what's the best way to book a cat boarding for my pet cat this weekend?
+Speaker2: You can directly book through phone or our WeChat public account, provide your information and pet basic situation, we will confirm and send you confirmation info.
+Speaker1: Can I bring my cat's special food over?
+Speaker2: Of course, you can bring cat food, and we will take good care of your pet according to your request.
+Speaker1: Thanks, now I'm relieved, thanks for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy life.

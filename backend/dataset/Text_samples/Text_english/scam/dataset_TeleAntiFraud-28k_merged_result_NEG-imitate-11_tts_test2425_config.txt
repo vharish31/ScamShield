@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I'm your friend Li, I'm a bit busy lately, can you help me out?
+Speaker1: What are you doing?
+Speaker2: Sure, there's a recent investment opportunity with high returns, but it needs a starting capital of 50,000. Can you lend me that amount?
+Speaker1: Invest? What specifically?
+Speaker2: It's a foreign exchange trading platform, my friend has already made a lot of money on it, if you're interested, I can give you the link, you can also take a look first.
+Speaker1: Okay, I'll think about it. Please send me the link first.
+Speaker2: Okay, add me on WeChat, I'll send it to you.
+Speaker1: Okay, what's your WeChat number?
+Speaker2: Add me on WeChat, it's Little Li, let's chat in detail later.

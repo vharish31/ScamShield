@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Have you got any travel plans lately?
+Speaker2: Hey, I've been thinking about going out to play recently, do you have any recommendations?
+Speaker1: We recently launched a three-day tour of the Jiangnan water town, which includes several famous ancient towns and food experiences, and is quite suitable for relaxing the mind.
+Speaker2: How about the price?
+Speaker1: The price is very reasonable, only 1200 yuan per person, including accommodation and some meals.
+Speaker2: How long do I need to book in advance for this price?
+Speaker1: It's best to schedule a meeting about a week in advance, so we can ensure the itinerary.
+Speaker2: Okay, I'll check my schedule and get back to you.
+Speaker1: Okay, feel free to contact us anytime, and feel free to consult us on any questions. Have a great day!
+Speaker2: Thank you, goodbye.

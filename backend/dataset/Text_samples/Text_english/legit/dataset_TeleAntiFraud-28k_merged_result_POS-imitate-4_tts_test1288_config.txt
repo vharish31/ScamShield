@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, do you have any reserved seats in your restaurant?
+Speaker2: Hello, I am a waiter at the restaurant, do you want to reserve a few points?
+Speaker1: Can I reserve a table for two at seven o'clock in the evening, by the window please?
+Speaker2: Okay, there's a desk next to the window. Do you have any special requirements?
+Speaker1: Is it possible to have a quiet environment?
+Speaker2: No problem, that location environment is really quiet, suitable for chatting.
+Speaker1: Okay, let's just go directly when the time comes.
+Speaker2: Yes, you come directly at the time, I arrange everything for you.
+Speaker1: Thanks for your help, see you later.
+Speaker2: No problem, see you later, wish you a happy day.

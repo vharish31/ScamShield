@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service for food delivery, you ordered from our platform before, do you want to know how satisfied you are with our service?
+Speaker2: Hello, it's okay, just that the delivery was a bit slow that day.
+Speaker1: I'm very sorry to have brought you an unpleasant experience. Can you tell me which specific day it was? We'll check which stage the problem occurred.
+Speaker2: Just on Tuesday last week, we waited for a little over an hour.
+Speaker1: Understood, we deeply apologize for the delay this time. To make up for your inconvenience, we can provide you with a free delivery service. How about it?
+Speaker2: Okay, next time we order, I'll use it.
+Speaker1: Okay, just note it down when you order. And are you still satisfied with our food's taste?
+Speaker2: The taste is not bad, it's quite suitable for my taste.
+Speaker1: Great, thank you for your confirmation! If you have any suggestions, please feel free to tell us anytime.
+Speaker2: Okay, thank you.

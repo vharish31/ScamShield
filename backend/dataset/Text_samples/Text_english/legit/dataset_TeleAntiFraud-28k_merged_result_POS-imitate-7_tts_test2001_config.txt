@@ -1,0 +1,11 @@
+Speaker1: Hello, can you hear me? Hi, I'm a waiter at the restaurant. Can I ask if you have time to come here for dinner tomorrow?
+Speaker2: Hello, do you have any recommendations for dishes tomorrow when you have time?
+Speaker1: Our restaurant recently introduced several new dishes, such as the signature roast duck and clear steamed sea bass, both of which are very popular.
+Speaker2: How much does it cost to listen?
+Speaker1: Roast duck is 118 yuan per piece, and sea bass prices vary depending on size, ranging from 90 yuan to 150 yuan.
+Speaker2: What time can I arrive at dinner tomorrow night?
+Speaker1: Our business hours are from 11 am to 9 pm. You can choose to come in the afternoon between 6 pm and 7 pm. This time slot is less crowded.
+Speaker2: Okay, I'll arrive at six o'clock tomorrow. Do I need to book in advance?
+Speaker1: To ensure a place, I suggest you book in advance. Would you like me to book you a window seat?
+Speaker2: Okay, let's reserve a window seat, thank you. See you tomorrow!
+Speaker1: Okay, see you tomorrow! I'm looking forward to your arrival.

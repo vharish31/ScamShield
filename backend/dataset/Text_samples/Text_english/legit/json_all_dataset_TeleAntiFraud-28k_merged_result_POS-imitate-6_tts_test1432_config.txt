@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service monkey of the point store, we see that your account points have not been redeemed for a long time.
+Speaker2: Oh, really? I really didn't pay attention to the points this time.
+Speaker1: Yes, these points are accumulated by you during consumption, which can be used to deduct cash.
+Speaker2: How many points do I have now?
+Speaker1: You currently have over 26,000 points, which can be exchanged for a variety of products, such as white wine gift boxes, brand-name suits, high-definition TVs, and smartwatches.
+Speaker2: So many, how do I exchange them?
+Speaker1: You just need to log in to our point store, select the products you like, and then use points to redeem cash to exchange jars.
+Speaker2: Okay, I'll go take a look. What if my points aren't enough?
+Speaker1: If you don't have enough points, you can use some points to offset the cost and pay the rest in cash.
+Speaker2: I understand, thank you for your reminder.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you? I am customer service representative Liu.
+Speaker2: Yes, what do you have in mind?
+Speaker1: Hello, we received a notification that your phone number may be involved in illegal activities, for your safety, we need you to cooperate with us to do some identity verification.
+Speaker2: That's impossible, I've never lent my phone number to anyone before.
+Speaker1: We understand your concerns, but there is indeed such a record. For your safety, we suggest you follow our instructions. First, please provide the last six digits of your ID number.
+Speaker2: Okay, how can I provide?
+Speaker1: You can directly tell me, or click on the link we send to you, on a safe page, input.
+Speaker2: Is the link you sent safe?
+Speaker1: Absolutely safe, this is our official link. You can trust it. Just click and follow the instructions on the page.
+Speaker2: Okay, let me try.

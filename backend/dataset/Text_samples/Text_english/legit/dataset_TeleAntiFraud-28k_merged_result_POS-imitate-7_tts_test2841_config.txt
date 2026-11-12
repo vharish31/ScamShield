@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, can you hear me?
+Speaker1: Can you hear me? Where are you?
+Speaker2: Just arrived at the square, you too?
+Speaker1: Can you come over here at the library entrance?
+Speaker2: Okay, I'll go now, it should take about a few minutes.
+Speaker1: Okay, I'm waiting for you at the door.
+Speaker2: Hmm, there aren't many cars on the road, we'll arrive quickly.
+Speaker1: How's the weather on your side?
+Speaker2: The weather is nice, a bit cold, you should wear more clothes.

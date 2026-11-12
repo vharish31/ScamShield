@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? Did you go to work today?
+Speaker2: Hey, I just got to work this morning.
+Speaker1: How are you? Did you hit any cars?
+Speaker2: Hello, there's a little rain on the road, so we slowed down a bit.
+Speaker1: On rainy days, be careful when driving. And, I have a question to ask you.
+Speaker2: Hey, what's the issue?
+Speaker1: I plan to go camping on the weekend, but I don't know what the weather will be like, can you check for me?
+Speaker2: Okay, just a moment, I'll help you look it up.
+Speaker1: Okay, thank you.
+Speaker2: Found out, the weekend weather forecast shows there will be clear skies, but it might be chilly at night, remember to bring enough clothes.
+Speaker1: Great, I'll be ready. Thank you so much!
+Speaker2: No problem, have fun!

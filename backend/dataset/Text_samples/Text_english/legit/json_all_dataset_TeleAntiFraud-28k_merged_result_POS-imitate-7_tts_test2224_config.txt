@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little Zhang, what's been up lately?
+Speaker2: Hey, little Zhang, how are you? What have you been up to lately?
+Speaker1: Hey, I've been busy preparing a project lately. How about you, have you done anything new recently?
+Speaker2: So, I recently got a new phone, it's pretty fun. By the way, what's your project about?
+Speaker1: Hey, this project is about market research for our company's new smart home product launch, are you interested in smart home?
+Speaker2: I'm quite interested in smart home devices now. Do you have any recommendations from your company?
+Speaker1: Yes, our latest smart speaker and smart lock are quite popular, the operation is simple, and the safety is very high. You have time to come to our store and take a look.
+Speaker2: Okay, when is it convenient for you, I can go over and take a look?
+Speaker1: Tell me when you have some free time, I'll arrange it here.
+Speaker2: How about this weekend? What about 2 PM on Saturday?
+Speaker1: Okay, let's meet at the store at two o'clock on Saturday afternoon.

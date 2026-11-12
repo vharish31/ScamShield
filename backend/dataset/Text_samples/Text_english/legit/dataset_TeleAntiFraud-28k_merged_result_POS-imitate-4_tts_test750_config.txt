@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, recently I want to buy a new phone, can you help me take a look?
+Speaker2: Hello, little Li, of course you can, what kind of phone do you want, do you have any special requirements?
+Speaker1: I want a smartphone with good battery life, no lag when playing games, and the latest style.
+Speaker2: Okay, based on your needs, I have several phone models to recommend, such as the latest Xiaomi Mi Pro, which has excellent battery life and outstanding gaming performance.
+Speaker1: How is the camera on the Xiaoming handphone?
+Speaker2: Its camera is also very good, rear four cameras, main camera pixels up to one million, very suitable for users who like to take photos.
+Speaker1: What is the price of this phone?
+Speaker2: This phone costs 3800 yuan, and there's a promotion to buy it now and get a free earphone and phone case.
+Speaker1: Sounds great, I'll think about it and call you back tomorrow to confirm, okay?
+Speaker2: Of course, you can contact me anytime, I will keep this phone for you.

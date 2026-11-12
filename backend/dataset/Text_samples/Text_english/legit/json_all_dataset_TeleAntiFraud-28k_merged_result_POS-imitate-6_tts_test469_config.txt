@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from a cleaning company. You previously scheduled our cleaning service for tomorrow morning at 10 am, right?
+Speaker2: It's my appointment.
+Speaker1: Okay, our employees will arrive on time. By the way, do you need to prepare anything at home?
+Speaker2: What do I need to prepare?
+Speaker1: We will bring all cleaning tools and supplies, you just need to keep the basics clean at home, that's enough for us to operate.
+Speaker2: Okay, I'll be careful. By the way, does my cat need to be locked in the room?
+Speaker1: Yes, for safety reasons, it's best to keep the cat in a room to avoid it getting scared or interrupting our work.
+Speaker2: Okay, I understand. What will happen if additional time is needed?
+Speaker1: If the service time exceeds the scheduled time, we will charge an additional fee of 30 yuan per half hour. However, we will do our best to complete the service within the scheduled time.
+Speaker2: Okay, let's do it this way, thank you for reminding me.

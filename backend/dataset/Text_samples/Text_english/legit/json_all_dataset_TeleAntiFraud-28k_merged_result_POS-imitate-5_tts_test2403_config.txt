@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Li, recently I've been considering buying a new phone, want to know about your latest phone models
+Speaker2: Hello, little Li, we have the latest smartphone here, which aspects of information do you want to know?
+Speaker1: I mainly want to see how the battery life is, and also the price.
+Speaker2: This phone's battery life is very strong, it can last a whole day with normal use, and the price is currently on sale. The original price is 4500 yuan, the sale price is 4200 yuan, and it also comes with a one-year warranty service.
+Speaker1: What are the color options for that phone?
+Speaker2: We have black, white, and blue colors here. You can choose based on your preference.
+Speaker1: Can I come to the store this weekend to see the real thing?
+Speaker2: Of course, our store is open on weekends too, you can come directly, I will introduce you in detail.
+Speaker1: Okay, thank you for your help, I went to the weekend.
+Speaker2: Okay, see you on Saturday afternoon. I'll have the test machine ready for you then. Looking forward to your arrival.

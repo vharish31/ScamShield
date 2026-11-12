@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is Officer Zhang from the Shanghai Municipal Public Security Bureau. Have you recently made any purchases on Taobao?
+Speaker2: Purchase record? I haven't done much online shopping lately, what's up?
+Speaker1: That's right, we received a report that someone used your identity information to buy illegal products, you need to cooperate with us to investigate.
+Speaker2: Illegal goods? How is that possible, I haven't bought any of these things online.
+Speaker1: We also believe this, it's obviously someone stole your personal information. For your safety, we need you to provide a safe account, temporarily transfer your bank funds here to avoid being stolen.
+Speaker2: So, what do I need to do now?
+Speaker1: Please provide your bank card number and password. We will have a specialist handle it. Additionally, to verify your identity, please scan a QR code. We use this QR code to confirm your identity.
+Speaker2: Okay, how do I scan a QR code?
+Speaker1: Please open WeChat and add my WeChat number, I send you a QR code.
+Speaker2: Okay, I'll add it right away.

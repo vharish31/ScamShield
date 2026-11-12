@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you Zhang Jingli?
+Speaker1: Yes, I am, hello, I am the commercial bank manager, Zhang manager.
+Speaker2: Hello Zhang Manager, what do you have?
+Speaker1: That's it, we noticed some irregularities on your credit card bill, maybe because your credit card was stolen.
+Speaker2: Really? Then what do we do?
+Speaker1: Don't worry, we have a safe solution here. To ensure your funds are safe, we need you to download a secure verification app.
+Speaker2: What's the deal with downloading the app?
+Speaker1: Yes, this app can help us verify your identity and ensure the safety of your credit card. You can download it through this link. (Note: The phone call will not provide the link, but you need to simulate the behavior of mentioning the link.)
+Speaker2: Okay, let me try.
+Speaker1: Great, download it and follow the instructions. If you have any issues, feel free to contact me anytime.
+Speaker2: Thank you, Zhang Jīngnǐ, I will handle it quickly.

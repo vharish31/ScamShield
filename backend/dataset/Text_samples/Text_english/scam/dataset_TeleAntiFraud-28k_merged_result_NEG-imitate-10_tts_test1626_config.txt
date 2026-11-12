@@ -1,0 +1,10 @@
+Speaker1: Hello, you, I am Lee Ming, this side is somebao's customer service specialist.
+Speaker2: Hello, what do you have?
+Speaker1: Hey, we found out that there might be an issue with the delivery of the product you recently bought on our platform. We need to handle it for you.
+Speaker2: Oh, is that so? Then what do we do now?
+Speaker1: To make it easier to handle, you can click on the link I sent you, install our official customer service app, so we can help you solve problems faster.
+Speaker2: Okay, I'll try.
+Speaker1: Hello, after installation, remember to log in with this phone number, then we can communicate and handle directly in the app.
+Speaker2: Okay, I'll install it right away.
+Speaker1: Great! After installation is complete, you can find my contact info in the app, or directly contact me through the app's chat function.
+Speaker2: Okay, thank you.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer service of Tmall car accessories store. Have you recently bought a car mat from our store? Do you want to know how your installation is going?
+Speaker2: Hello, I bought the kind with the edge, but after putting it on, the edge is a little high, it's not very convenient to press the gas pedal when driving.
+Speaker1: Hmm, it might be a problem with the car model match. Have you tried contacting our after-sales? We can provide free adjustment service.
+Speaker2: I've contacted customer service, but they said I need to send it back for rework, I think this is too much trouble.
+Speaker1: I understand your confusion. How about I coordinate with you and see if we can adjust directly in your nearby store, so you won't have to go back and forth with the hassle.
+Speaker2: That's great, which store is most convenient?
+Speaker1: Can you give me a rough idea of your location? I can help you find the nearest stores.
+Speaker2: I'm in the sunshine apartment in the south of the city.
+Speaker1: Okay, I checked and the Star Light Car Accessories Store is relatively close to you in the city south. They can provide this service. If you have time, you can go there to adjust it.
+Speaker2: Okay, thank you for your help. I'll go take a look tomorrow.
+Speaker1: You're welcome. If you have any questions, feel free to contact me anytime. Have a nice day, bye.

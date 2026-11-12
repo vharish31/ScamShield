@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I want to consult my haircut appointment for tomorrow.
+Speaker2: Hello, little Li, I am the small king of the hair salon, what can I help you with?
+Speaker1: Can you confirm if the appointment at 3 pm tomorrow is still valid?
+Speaker2: Your appointment time is tomorrow afternoon three o'clock, this time is okay, we will reserve a place for you.
+Speaker1: Okay, when would it be better to arrive at the meeting?
+Speaker2: If you arrive ten minutes early, we'll prepare something for you first, which will be more convenient.
+Speaker1: Can I come at around 2:30?
+Speaker2: We'll be ready two and a half hours in advance. You can start as soon as you arrive.
+Speaker1: Okay, thank you for your reminder, I'll see you later.
+Speaker2: No problem, see you tomorrow, hope you have a happy experience.

@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Is the house you sent still there? The one in Wanda One-Priced Residence?
+Speaker2: When do you want to come over?
+Speaker1: Can I go see it tomorrow if I have time?
+Speaker2: Sure, what time is convenient for you tomorrow?
+Speaker1: Can I have some time in the afternoon around two o'clock?
+Speaker2: Okay, you can come directly at two o'clock, I will wait for you there.
+Speaker1: How much is the rent for one month?
+Speaker2: Rent is 450 yuan per month, three months' deposit.
+Speaker1: Does this price include water and electricity fees?
+Speaker2: Not included, water and electricity fees are calculated separately based on actual usage.
+Speaker1: Do you know if there's a net in that house?
+Speaker2: Yes, the internet speed is still good enough to meet the daily online needs.
+Speaker1: Okay, thank you. See you tomorrow.
+Speaker2: Okay, see you tomorrow.

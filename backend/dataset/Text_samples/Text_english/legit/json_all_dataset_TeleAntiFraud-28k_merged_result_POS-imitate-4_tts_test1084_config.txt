@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, nice to meet you, I'm little Li.
+Speaker1: Little Li, how have you been lately?
+Speaker2: That's good, just work is a bit busy. You?
+Speaker1: I'm the same, lately projects have been many, overtime and overtime pay.
+Speaker2: You should pay attention to your body, don't get too tired.
+Speaker1: Thank you for your concern, you too.
+Speaker2: Hey, do you have time this weekend? Let's go eat together.
+Speaker1: Great, I also want to go out and relax a bit.
+Speaker2: So, shall we meet on Saturday evening at seven o'clock?
+Speaker1: What restaurant shall we go to at 7 o'clock?
+Speaker2: Let's go to that new hotpot restaurant in the city south, I heard it's very good.
+Speaker1: Okay, that one I heard is pretty good too, see you on Saturday.
+Speaker2: See you on Saturday, contact later.

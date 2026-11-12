@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am the manager of Huaxia Bank, we have a special credit loan that is suitable for you, the interest rate is very low, do you have any recent financial needs?
+Speaker2: I don't need a loan, thank you.
+Speaker1: Oh, that's really too bad. But if you change your mind, you can contact us anytime. By the way, do you have our official customer service QQ?
+Speaker2: No extra.
+Speaker1: Let me know if you have any questions, it's more convenient and quick. Our official QQ is 1236987, please remember to add your name, so we can easily find your information.
+Speaker2: Okay, I will consider it.
+Speaker1: Great! You can directly contact us through QQ if you have any questions, and we will answer them immediately. Thank you for your cooperation. Wish you a happy life. Bye.
+Speaker2: Goodbye.

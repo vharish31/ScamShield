@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the bank's customer manager, Lee. We have a special promotion loan project here, the interest rate is very low, and the approval is very fast. Are you interested in learning more?
+Speaker2: Hello, I recently have some cash flow needs, can you explain in detail?
+Speaker1: Of course. This loan project is specifically designed for small micro enterprises and individual households, no collateral, no guarantee, maximum loan amount of one hundred thousand. Moreover, we have a special app that you can download online to apply, very convenient.
+Speaker2: Listen well, what's the name of this app? How to download?
+Speaker1: You can download the "Wealth Speed Loan" app directly from the mobile app store. After downloading, register and fill in the relevant information. Our customer service will contact you quickly.
+Speaker2: Okay, I'll try to see. Also, what is the interest rate for this loan?
+Speaker1: The lowest interest rate you can get is 4.5%, but it depends on your situation. If you have other bank loan records, you can enjoy a lower interest rate.
+Speaker2: Understood. I have another question, how long does it usually take for loan approval?
+Speaker1: In general, approval usually takes one to two business days. If all your information is complete, you can get the loan as soon as possible today.
+Speaker2: Great, I'll download the app now. Thank you.

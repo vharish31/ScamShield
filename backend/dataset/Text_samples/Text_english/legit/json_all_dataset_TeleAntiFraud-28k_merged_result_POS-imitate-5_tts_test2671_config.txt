@@ -1,0 +1,12 @@
+Speaker1: Hey, how come the coffee machine I bought at your store seems to have some issues?
+Speaker2: Hello, can you specifically say what the issue is?
+Speaker1: Is it normal that the sound is very loud and a little shaking after turning on the computer?
+Speaker2: In general, when the coffee machine starts up, there are some sounds, but if the sounds are particularly loud and noticeable shaking, it may indicate a fault.
+Speaker1: What do I need to do?
+Speaker2: You can first check if there are any foreign objects blocking the machine or if the placement is stable. If there are still issues, we can arrange an on-site check.
+Speaker1: I have already checked it over, but it's still not okay, when can you send someone?
+Speaker2: Can we schedule technical staff to come to your home for service in the next two workdays?
+Speaker1: Okay, I'll wait for your call later.
+Speaker2: Okay, we will contact you in advance to confirm the specific time. Thank you for your cooperation. Wish you a happy life.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye.

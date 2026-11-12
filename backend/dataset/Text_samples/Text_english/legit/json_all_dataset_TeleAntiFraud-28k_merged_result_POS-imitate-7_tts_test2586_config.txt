@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, I just bought a piece of clothing from your store, but the size seems a bit big, can I ask if it's possible to exchange for a smaller size?
+Speaker2: Hello, little Li, I am the customer service clerk at the store, can I help you with anything?
+Speaker1: Okay, the order number is 2341601.
+Speaker2: Okay, I found your order. Is it a black long-sleeved shirt, right?
+Speaker1: Yes, that's it.
+Speaker2: Okay, little Li, we have small one number here, do you want to receive it directly or come to the store to exchange it?
+Speaker1: Can you send it directly to the store for me? It's not convenient for me to go there.
+Speaker2: Okay, just send the clothes back to us, the address is Beijing Shi Haidi Qu Xi West Third Flag Jianmateri Cheng Xi Road Ershi Baozi, you can pay the postage.
+Speaker1: Okay, thank you, I'll go mail it now.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. Have a happy life!

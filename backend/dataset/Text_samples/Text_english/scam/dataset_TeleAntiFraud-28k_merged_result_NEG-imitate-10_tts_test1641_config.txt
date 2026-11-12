@@ -1,0 +1,13 @@
+Speaker1: Hi, how are you? I'm the customer service of WeiDaiWang, have you been looking for a loan recently?
+Speaker2: Yes, I recently have some funds that need to be circulated.
+Speaker1: Okay, we have a very good loan plan here with low interest rates, quick disbursement, you just need to provide some personal information, and we can handle it for you.
+Speaker2: What information is needed?
+Speaker1: Please provide your ID number, phone number, and bank card number. We will complete the review in a few minutes.
+Speaker2: Do I need to download your app?
+Speaker1: Yes, you can scan the QR code I send you to download our official app, register and then apply for a loan.
+Speaker2: Okay, let me try.
+Speaker1: Okay, after you download it, if you have any questions, feel free to contact me anytime. Also, to speed up the review process, you need to pay a 200 yuan review fee first.
+Speaker2: What is the review fee?
+Speaker1: We will refund this fee after it's approved to ensure the accuracy and effectiveness of your information.
+Speaker2: Okay, I'll pay the review fee first.
+Speaker1: Okay, after you pay, we will immediately process your application. If you have any questions, please contact me anytime.

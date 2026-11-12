@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I just ordered takeout from your store, is it here now?
+Speaker2: Hello, little Zhang, I am the delivery boy, your delivery has arrived, it's on the first floor delivery table now.
+Speaker1: Okay, how do I find this delivery table?
+Speaker2: After entering the big door, there's a long table on your right, with many takeout orders on top, just find your order number and you're good to go.
+Speaker1: Okay, I understand. Another question, my takeout is on the 15th floor, can you send it up?
+Speaker2: Sorry, we can only deliver to the first floor's takeout table according to the rules. You can ask your colleagues to help you pick it up.
+Speaker1: Okay, let's discuss the next time I order food with you guys.
+Speaker2: Okay, you can contact us before ordering next time, we will try to coordinate.
+Speaker1: Okay, thank you for your understanding.
+Speaker2: No problem, feel free to contact me anytime. Enjoy your meal!

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Lee Hua, I recently want to buy a new phone, I heard your store just got a new batch, can you introduce me to them?
+Speaker2: Hello, Lee Huang, I am the customer service of the electronic city, there are many new phones, which brand are you looking for?
+Speaker1: Do you want to see what's new from Huawei?
+Speaker2: Yes, the new Huawei phone has arrived, with faster processor, larger storage space, and a brand new camera system.
+Speaker1: How about the price?
+Speaker2: This phone has various configurations, priced from 3500 to 7000 yuan, specifically, please look at the configuration you choose.
+Speaker1: Can I come over and see it myself this weekend?
+Speaker2: Of course, we also have activities on weekends, and you can enjoy more discounts. I reserve a seat for you, would you come a few minutes earlier?
+Speaker1: I should arrive around 3 pm, is that okay?
+Speaker2: 3 o'clock is good, then we meet at that time, if you have other questions, you can contact me anytime. Bye.

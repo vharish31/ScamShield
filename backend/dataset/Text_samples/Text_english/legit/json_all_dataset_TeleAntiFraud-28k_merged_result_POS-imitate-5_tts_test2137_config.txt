@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me more about the household services on your side, specifically what projects do you have?
+Speaker2: What specific service do you need from our daily cleaning, appliance cleaning, and moving services?
+Speaker1: Can you provide a door-to-door cleaning service on the weekend?
+Speaker2: Of course, we provide door-to-door service. You can choose single-time service or regular service.
+Speaker1: How long do I need to make a reservation for a single service?
+Speaker2: In general, it's enough to make an appointment a day in advance. However, weekends are our peak hours, so we recommend making an appointment two days in advance to ensure service time.
+Speaker1: Okay, can I make a reservation for this Saturday morning at 10 o'clock?
+Speaker2: Okay, there's no problem with this time. We will send our workmen on time to the door to serve.

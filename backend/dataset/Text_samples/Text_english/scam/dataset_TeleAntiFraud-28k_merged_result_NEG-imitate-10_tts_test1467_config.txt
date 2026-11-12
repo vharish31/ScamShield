@@ -1,0 +1,11 @@
+Speaker2: Hello, this is the customer service of the express delivery company, your package encountered a problem during transportation, please cooperate to handle it.
+Speaker1: What happened to my package?
+Speaker2: Your package was accidentally lost during transportation, but we can help you retrieve it through a special channel. Please provide some basic information.
+Speaker1: What basic information?
+Speaker2: We will directly deposit the compensation money into your account after processing your claim, using the information provided, including your name, phone number, and bank card number.
+Speaker1: Why do you need my bank card number?
+Speaker2: This is to ensure that you receive the compensation quickly.
+Speaker1: I'm not very confident, are you really a courier company?
+Speaker2: We are the official customer service for fast delivery, you can verify through our official customer service phone. However, to avoid delaying your compensation, please provide information first.
+Speaker1: I'm not sure yet, okay, I won't provide information for now, I'll check the official website myself.
+Speaker2: Okay, please verify first and contact me if there are any issues. However, to avoid affecting your compensation, I suggest you provide information as soon as possible.

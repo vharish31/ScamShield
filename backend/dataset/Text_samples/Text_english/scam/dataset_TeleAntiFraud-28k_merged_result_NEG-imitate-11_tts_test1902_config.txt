@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative from Guangming Bank. We currently have a special promotion for interest-rate loans, with low interest rates and fast approval. Do you currently have a need for a loan?
+Speaker2: I don't need a loan at the moment, thank you for your call.
+Speaker1: Oh, that's too bad. But I want to know, have you ever encountered a refund issue when shopping online?
+Speaker2: I've had it, but it's usually solved directly on the platform.
+Speaker1: That's great. But sometimes the processing on the platform can be slow, our bank has a special refund service that can quickly handle these things, as long as you provide your bank card information, you can quickly refund, are you interested in learning more?
+Speaker2: The sound is good, but I'm not clear on how to operate this specifically.
+Speaker1: It's very simple. Just click on the link we send to you, fill out the relevant information, and we'll help you complete the refund within twenty-four hours.
+Speaker2: Okay, let me try it out.
+Speaker1: Okay, you will receive a text message with a link shortly. Please pay attention to check it. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, I saw a Huawei phone on your website and want to know more about its details.
+Speaker2: Hello, I am a customer service representative. Which Huawei phone are you inquiring about?
+Speaker1: Do you have any goods for Mate 40 series?
+Speaker2: What version of the Mate 40 series are you planning to buy?
+Speaker1: What's the difference between 8+1+2+8 and 12+2+5+6?
+Speaker2: The eight plus one two eight version is the basic version, suitable for daily use; the twelve plus two five six version has more memory and runs more smoothly, suitable for game players or users with large storage requirements.
+Speaker1: What is the difference in price?
+Speaker2: The price of the eight-plus-one-two-eight version is three thousand five hundred yuan, and the price of the twelve-plus-two-five-six version is four thousand two hundred yuan.
+Speaker1: Okay, I want to buy twelve plus two five six, can I place an order now?
+Speaker2: Sure, you can place an order directly through our website, or I can help you place an order now, just need your shipping address and contact info.

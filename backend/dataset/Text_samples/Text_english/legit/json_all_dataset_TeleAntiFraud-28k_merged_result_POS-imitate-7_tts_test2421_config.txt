@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I reserved a table for tonight at your store, just to confirm
+Speaker1: Okay, please wait a moment, I'll check your reservation information.
+Speaker2: Okay, thank you.
+Speaker1: Found it, your reservation is for tomorrow night at seven o'clock, right?
+Speaker2: Yes, it's my reservation.
+Speaker1: Can you confirm the number of people, is it four?
+Speaker2: Yes, four.
+Speaker1: Okay, I have confirmed for you. If there are any changes, please inform us in advance.
+Speaker2: Okay, no problem. Thank you.

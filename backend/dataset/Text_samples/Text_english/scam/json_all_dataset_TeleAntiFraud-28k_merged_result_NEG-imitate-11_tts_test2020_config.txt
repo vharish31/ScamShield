@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, this side north Beijing bank customer center, I customer service specialist little Li.
+Speaker2: Hello, what do you have?
+Speaker1: That's it, we detected some unusual activity on your account recently, to ensure the safety of your funds, we need you to cooperate and perform a identity verification.
+Speaker2: Oh, really? Then what do I need to do?
+Speaker1: That's right, you can first tell me your recent transaction time and amount, so we can quickly confirm your identity.
+Speaker2: Okay, my recent transaction was on last Friday, amount was 1500 yuan.
+Speaker1: Okay, I have confirmed. Next, to further verify your identity, we need you to provide the last four digits of your bank card.
+Speaker2: Okay, my bank card last four digits are 1234.
+Speaker1: Okay, thank you for your cooperation. To ensure the safety of your account, we recommend that you immediately change your password and we will send you a text message with a verification code, please tell me once you receive it, so we can further confirm.
+Speaker2: Okay, I understand.

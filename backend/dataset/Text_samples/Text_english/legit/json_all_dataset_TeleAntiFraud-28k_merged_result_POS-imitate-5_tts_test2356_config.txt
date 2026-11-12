@@ -1,0 +1,12 @@
+Speaker2: Hi, you, it's me who just reserved at your store.
+Speaker1: Hey, what time did you book your seat?
+Speaker2: I reserved for tonight at 7 pm.
+Speaker1: Okay, what is your reserved name?
+Speaker2: My reserved name is Li Ming.
+Speaker1: Okay, Li Ming, your reservation has been recorded.
+Speaker2: You can just call me Li Ming.
+Speaker1: Okay, Li Ming, what time are you arriving?
+Speaker2: I'll probably arrive at six and a half.
+Speaker1: Okay, you can go straight to the front desk, we will prepare for you.
+Speaker2: Okay, thank you. I'll hang up first, see you later.
+Speaker1: Okay, bye.

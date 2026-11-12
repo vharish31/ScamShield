@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you please tell me your restaurant's business hours and whether it's possible to reserve a seat?
+Speaker2: What time would you like to reserve a seat at our restaurant, which is open from 10 am to 10 pm?
+Speaker1: Can I reserve a table for two tonight at seven o'clock?
+Speaker2: Okay, the 7:00 am spot is reserved for you. Please arrive ten minutes early to make it convenient for us to arrange.
+Speaker1: Okay, thank you. And, do you have any special dishes to recommend?
+Speaker2: Our restaurant's signboard menu has spicy roast chicken and seafood platter, both very popular among customers, you can try.
+Speaker1: The food sounds good, I'll order these when I come. Also, if I have any special dietary requirements, can you accommodate them?
+Speaker2: Of course, our restaurant can provide various flavor adjustments to meet the needs of different customers. What special requirements do you have? Please inform us in advance.

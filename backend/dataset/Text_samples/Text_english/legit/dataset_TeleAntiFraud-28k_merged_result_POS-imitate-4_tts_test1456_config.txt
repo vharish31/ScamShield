@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I want to order takeout, but I don't know which one is good, can you recommend a few?
+Speaker2: Of course, what type of food do you want to eat? For example, are you in the mood for Chinese, Western, or fast food?
+Speaker1: What are some good options for Chinese food?
+Speaker2: There's a great Beijing-style fried noodle place nearby with delicious flavor. You should give it a try.
+Speaker1: What's the best way to order the fried rice with gravy in old Beijing?
+Speaker2: You can directly search for old Beijing fried sauce noodles on the delivery platform, select your favorite dishes, and place an order.
+Speaker1: Okay, thank you for your recommendation, I'll go order now.
+Speaker2: You're welcome, I hope you enjoy your meal!

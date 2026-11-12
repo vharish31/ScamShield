@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Wei?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Li Xiao from the Commercial Bank of China, and we recently found some unusual activity on your account. We need you to cooperate and verify it.
+Speaker2: What abnormal change?
+Speaker1: Your account appears to have been stolen, to ensure the safety of your funds, we need you to provide us with your identity card number and bank card number, so we can verify.
+Speaker2: Really? Then what do I do?
+Speaker1: Yes, this is very important. You can click on the link I sent you and fill out the relevant information, and we will process immediately.
+Speaker2: Okay, I'll go operate.
+Speaker1: Thank you for your cooperation. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

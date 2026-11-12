@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, want to ask if there's anything suitable to wear in summer on your side?
+Speaker2: Hello, Mr. Li, do we have any light and breathable clothing suitable for summer here? What style and color do you want?
+Speaker1: The main color is white or light, with a simple style.
+Speaker2: Okay, we have a white, simple, lightweight, breathable blouse here that's perfect for summer.
+Speaker1: How much does this jacket cost?
+Speaker2: This jacket is priced at 288 yuan, and there's currently a promotion, so you can enjoy a 90% discount.
+Speaker1: The price of nine-discounted items is around 250 yuan, which I can accept.
+Speaker2: Yes, after a 90% discount, it's 252 yuan. You can order now and get free shipping.
+Speaker1: Then I placed an order, how long will it take for you to ship it?
+Speaker2: In general, we will ship within 24 hours after your order, and the delivery usually takes 3-5 days.

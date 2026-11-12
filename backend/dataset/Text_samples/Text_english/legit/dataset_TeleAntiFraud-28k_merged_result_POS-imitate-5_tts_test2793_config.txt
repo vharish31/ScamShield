@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I saw you guys have a massage service online, wanna know more about it?
+Speaker2: Hello, how can I assist you?
+Speaker1: What massage services do you provide? How much do they cost?
+Speaker2: We provide full body massage, shoulder and neck massage, and foot massage. Full body massage is 200 yuan for an hour, shoulder and neck massage is 104 yuan for 40 minutes, and foot massage is 150 yuan for an hour.
+Speaker1: If I book a two-hour full body massage, can I get a discount?
+Speaker2: Of course, if you book a two-hour full body massage, we will give you a 90% discount, total price is 360 yuan.
+Speaker1: Okay, can I schedule a meeting for tomorrow afternoon at 2:00 PM?
+Speaker2: Tomorrow at two in the afternoon is fine, we will reserve it for you. Please provide a contact phone number so we can confirm the appointment.
+Speaker1: Okay, my phone number is 13812345678.
+Speaker2: Okay, I have recorded it down. See you tomorrow at two in the afternoon. If there are any changes, please inform us in advance.
+Speaker1: Okay, thank you. Bye.
+Speaker2: No problem, goodbye.

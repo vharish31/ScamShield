@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. There are some large unpaid balances on your credit card. Do you need to handle them?
+Speaker2: What? How come I don't know?
+Speaker1: It's possible that you haven't carefully checked your recent bill, your credit card had several large expenses last week, so you need to verify now.
+Speaker2: How come I didn't receive the text message notification?
+Speaker1: It's possible that your message was intercepted, for your financial safety, we need you to provide the last three digits on the back of your credit card, so we can verify.
+Speaker2: Can I talk about this on the phone? I'm a little worried.
+Speaker1: Of course, this is part of the verification of your identity, don't worry, we are the official customer service of Commercial Bank.
+Speaker2: Okay, then I'll tell you.
+Speaker1: Okay, to further confirm, please click this link and fill out some personal information, we will process it quickly.
+Speaker2: Okay, I'll go do it right away.

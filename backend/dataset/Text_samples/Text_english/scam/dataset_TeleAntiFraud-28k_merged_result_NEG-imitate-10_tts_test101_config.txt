@@ -1,0 +1,13 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm from Huaxia Bank customer service. We noticed you recently have a need for cash flow. Would you be interested in applying for our fast loan service?
+Speaker2: Loan? I recently have a bit of need, but I'm not very familiar with these.
+Speaker1: No problem, Mr. Lee, our loan service is very convenient, you just need to provide some basic information, and we can quickly approve. And the interest rate is very favorable, do you think it's suitable?
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Hello, I have a link here that you can use to apply directly, and we can quickly review it for you.
+Speaker2: Link? How do I know this is safe?
+Speaker1: You can rest assured, we are a legitimate bank, this link is our official website link, very safe. If you're not convenient, I can also send you a verification code, you can log in to our official app through the verification code, more secure.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you a verification code. Please pay attention to check it later, then download our app, follow the instructions to operate it. If you have any questions, feel free to contact me.
+Speaker2: Okay, thank you.
+Speaker1: No problem, I hope our service can help you. If you have other questions, please call our customer service hotline. Have a nice life, goodbye.

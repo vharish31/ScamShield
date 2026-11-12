@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Lee, a customer service representative at Agricultural and Commercial Bank, have you recently consulted with us about a loan? Do you currently have a loan need?
+Speaker2: Hey, hi, I'm feeling pretty good right now, I don't need a loan at the moment.
+Speaker1: That's great. But if you have a need for cash in the future, you can consider our fast loan service, no collateral, no guarantee, and the interest rate is very favorable.
+Speaker2: What about your loan processing?
+Speaker1: It's very simple. Just download our official app, fill out some basic information, and get approved, and the money will quickly be deposited into your account.
+Speaker2: Do you want to download the app? It sounds pretty convenient, but how can I be sure your app is safe?
+Speaker1: You can download the app of Agricultural and Commercial Bank from the app store on your phone by searching "Agricultural and Commercial Bank" or by following the link I will send you later.
+Speaker2: Okay, thank you. I'll first understand, and if needed, contact you later.
+Speaker1: No problem, you can contact me anytime if you have any questions. My phone number is 13812345678. Have a happy life, bye!
+Speaker2: Goodbye, thank you.

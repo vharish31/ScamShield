@@ -1,0 +1,9 @@
+Speaker2: Hello, who are you?
+Speaker1: Hello, I'm little Li, I saw your rental housing information on your website, can you tell me which floor this apartment is on?
+Speaker2: Hello, this apartment is on the third floor.
+Speaker1: Hey, third floor, how much is the rent for that house?
+Speaker2: Rent is two thousand five hundred yuan per month.
+Speaker1: Hmm, this price is still okay. When can I go see the house?
+Speaker2: You can come anytime, I have flexible time here.
+Speaker1: Okay, can I go over at three in the afternoon tomorrow?
+Speaker2: Okay, tomorrow afternoon at three o'clock, I will be waiting for you here.

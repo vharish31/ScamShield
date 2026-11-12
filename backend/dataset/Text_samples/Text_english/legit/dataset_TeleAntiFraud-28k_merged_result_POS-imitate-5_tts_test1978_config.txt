@@ -1,0 +1,10 @@
+Speaker1: Hey, are you ready to go to the train station?
+Speaker2: Hey, can you come pick me up at the train station?
+Speaker1: Okay, please confirm the order first, I'll come over right away to pick you up.
+Speaker2: Okay, I confirm. How long will you be able to arrive?
+Speaker1: I'm about three kilometers away from you, roughly ten minutes to get there.
+Speaker2: That's fast, I've confirmed already, call me when you arrive.
+Speaker1: Okay, where do you want to get off the bus?
+Speaker2: As soon as you arrive at the community door, just ring the bell, and I will come out.
+Speaker1: Okay, I arrived at the meeting. Please be notified by the bell, pay attention to safety on the way.
+Speaker2: Okay, thank you, pay attention to safety on the road.

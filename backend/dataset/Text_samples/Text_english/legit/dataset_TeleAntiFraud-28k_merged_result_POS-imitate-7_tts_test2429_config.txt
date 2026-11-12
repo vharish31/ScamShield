@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, now in front of your store, ready to pick up my appointment car.
+Speaker2: Hello, Xiaoming, your appointment is at 9:00 am, right?
+Speaker1: Yes, I have an appointment at nine in the morning for golf, I just arrived at your store.
+Speaker2: Okay, I'll check over here. You wait a minute.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Found it, your order is 9 am golf, already added 50 yuan insurance.
+Speaker1: Yes, I remember adding insurance, so I can directly go get the car?
+Speaker2: Okay, come to the front desk and we'll verify the information, then you can go to the parking lot to pick up your car.
+Speaker1: Okay, I'm coming over now. Thank you.
+Speaker2: No problem, feel free to come find us anytime with any questions, wish you a happy trip.

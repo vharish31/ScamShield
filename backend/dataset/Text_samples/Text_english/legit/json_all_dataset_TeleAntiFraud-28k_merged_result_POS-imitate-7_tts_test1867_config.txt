@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you sell iPhones with apples here?
+Speaker2: Yes, we have the latest iPhone here. Which model are you interested in?
+Speaker1: What's the price of the latest iPhone?
+Speaker2: The latest price of iPhone is 8888 yuan, there is no discount now, but we can provide installment payment.
+Speaker1: How much interest is charged for installment payments?
+Speaker2: Interest on installment payments is zero, you just need to pay a fixed amount of principal each month.
+Speaker1: If I buy a phone now, can I get it immediately?
+Speaker2: Okay, we have fresh produce here, you can directly come to the store to pick it up.
+Speaker1: Okay, I'll come over in a little while.
+Speaker2: Okay, we'll wait for you at the store. Bye.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me if there's a two-person dish here?
+Speaker2: There are couple sets here, including two entrees, two appetizers, and two drinks.
+Speaker1: How much does it cost to listen?
+Speaker2: The price of the couple's set meal is 158 yuan, and it's still on sale at a discount of 9 yuan.
+Speaker1: Hey, can I reserve a seat for tonight around six thirty?
+Speaker2: Sure, there's a spot at six thirty on this side. Do you need me to book it for you?
+Speaker1: Can you please?
+Speaker2: Okay, I'll book it for you. Could you please provide your name and contact information?
+Speaker1: My name is Zhang Huá, phone number is 13800138000.
+Speaker2: Okay, Mr. Zhang Huang, I have already reserved the 6:30 couple's dinner for you tonight. Just come directly when it's time.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, hope you enjoy your meal. Bye!

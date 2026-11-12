@@ -1,0 +1,9 @@
+Speaker2: Hey, where are you?
+Speaker1: Just got off the subway station, where are you meeting me?
+Speaker2: There's a coffee shop on the right side, I'm waiting for you there.
+Speaker1: Okay, I see it, it's coming soon.
+Speaker2: Okay, when you come, give me a call, I'll be right out to meet you.
+Speaker1: Okay, no problem.
+Speaker2: Remember to bring an umbrella, the weather forecast predicts that it may rain today.
+Speaker1: Okay, thank you for reminding me, I brought it with me.
+Speaker2: Okay, see you later.

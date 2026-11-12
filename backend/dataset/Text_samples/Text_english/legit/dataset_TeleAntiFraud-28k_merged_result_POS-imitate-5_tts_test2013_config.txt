@@ -1,0 +1,8 @@
+Speaker1: Did you arrive?
+Speaker2: Are you already there? I just left.
+Speaker1: I arrived quickly, approximately ten minutes remain.
+Speaker2: Okay, you arrived. I'll be out in a moment.
+Speaker1: Okay, I arrived to call you.
+Speaker2: Okay, be careful on your way.
+Speaker1: Okay, you too, see you later.
+Speaker2: See you later.

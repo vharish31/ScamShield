@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am JD customer service, your recent purchase has issues, we need to process a refund for you.
+Speaker2: Oh, is that so? Then what should I do now?
+Speaker1: Yes, for safety reasons, please download our official app, so you can ensure a safe refund process.
+Speaker2: Okay, I'll download it. How can I contact you after it's done?
+Speaker1: After downloading, you can find our customer service entrance in the app and click on it to be guided by a customer service specialist to complete the refund process.
+Speaker2: I understand, thank you.
+Speaker1: No problem, if you encounter any issues during the download process, please directly call this phone number to contact us.
+Speaker2: Okay, I will pay attention.
+Speaker1: Additionally, to speed up the refund process, we need you to provide a bank account and verification code for identity verification.
+Speaker2: What about verification code? Is it safe?

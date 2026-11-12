@@ -1,0 +1,10 @@
+Speaker1: Hey, can you help me look up the bus route to the library in the morning?
+Speaker2: Sure, where are you starting from?
+Speaker1: I'm starting from the city center.
+Speaker2: Okay, from the city center to the library, you can take the second line of the subway from the people's square station, get off at the third station, and then take the fifth route bus to the third station, and you will arrive.
+Speaker1: Okay, how long will it take approximately?
+Speaker2: Taking the subway and bus together usually takes about 45 minutes, but there might be some delay during early morning or peak hours.
+Speaker1: How early do I need to leave?
+Speaker2: If you need to be at the library at 9:00, it's recommended to leave around 8:00 to avoid traffic congestion.
+Speaker1: Okay, thank you for your help. I will depart on time.
+Speaker2: No problem, feel free to ask me if you have any other questions. Have a great journey, goodbye!

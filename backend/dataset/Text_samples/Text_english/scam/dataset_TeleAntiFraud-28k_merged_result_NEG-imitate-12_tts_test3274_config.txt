@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural Bank. There is a special loan discount that I would like to introduce to you.
+Speaker2: Hello, loan? I don't need it now, thank you.
+Speaker1: No need for politeness, this is a rare opportunity, interest rate is as low as two cents, and no down payment is required, only need your basic information.
+Speaker2: No need, thank you.
+Speaker1: Have you recently encountered any issues related to cash flow, such as investments, purchases, or family expenses?
+Speaker2: No, thank you for your concern.
+Speaker1: Understood, I have a good investment opportunity here with high returns and low risk. Would you be interested in learning more?
+Speaker2: Invest in wealth management? I'm not very interested in this now.
+Speaker1: Okay, let me recommend another part-time job opportunity for you, which can help you earn extra income. How about it?
+Speaker2: Part-time? How do I operate?
+Speaker1: It's very simple. Just complete some small-amount task orders through our app to earn commission.
+Speaker2: Listen good, I how download this APP?
+Speaker1: You can download the app through this link: https://example.com/刷单APP. After downloading, register an account. I will help you interface tasks on this end.
+Speaker2: Okay, let me try.
+Speaker1: Great, feel free to contact me anytime if you have any questions. My WeChat is: 13812345678. Best wishes!

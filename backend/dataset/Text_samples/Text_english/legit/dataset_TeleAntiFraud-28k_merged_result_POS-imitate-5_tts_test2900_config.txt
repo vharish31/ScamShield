@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little king, just saw your job posting on five eight city.
+Speaker2: Hi, I'm recruiter Li, are you interested in the Meituan bike messenger position we posted?
+Speaker1: Yes, I'm quite interested, can you tell me more about the specific salary and working hours?
+Speaker2: Okay, our salaries are based on a fixed amount plus commission. The fixed amount is three thousand yuan per month, and the commission is based on the number of delivery orders, with six yuan per order. The working hours are quite flexible, and you can arrange them yourself.
+Speaker1: What is the approximate monthly income for that?
+Speaker2: You need to look at your daily delivery quantity. If you can complete 50 orders per day, you can earn around 6,000 after a month.
+Speaker1: What materials do I need to prepare?
+Speaker2: You need to bring your ID and health certificate, we will conduct a review, and after it's approved, you can enter the job.
+Speaker1: Okay, can I come over at 2 pm tomorrow?
+Speaker2: Okay, tomorrow at 2 pm, we'll wait for you at the company. The address is xxx road xxx number. Call me when you arrive.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

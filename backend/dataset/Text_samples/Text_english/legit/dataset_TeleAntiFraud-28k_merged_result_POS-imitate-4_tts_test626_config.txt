@@ -1,0 +1,10 @@
+Speaker1: Hey, are you still able to make an appointment for a haircut?
+Speaker2: Hello, okay, what time do you want to make an appointment?
+Speaker1: Can I come at three in the afternoon tomorrow?
+Speaker2: Can I see you at three in the afternoon tomorrow? Is this your first time here?
+Speaker1: Yes, first time.
+Speaker2: Okay, it's the first time here, we have a new customer discount.
+Speaker1: How long do I need to arrive before it sounds good?
+Speaker2: Please arrive around ten minutes beforehand, so you can fill out some necessary information first.
+Speaker1: Okay, I'll arrive at two fifty in the afternoon tomorrow. Thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival, see you tomorrow.

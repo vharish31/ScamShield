@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's special dishes?
+Speaker2: We have a signboard for roast duck, steamed fish and spicy pot, all very popular here.
+Speaker1: What kind of fish is that steamed fish?
+Speaker2: Steamed fish is made with fresh fish, the meat is fresh and delicious, and it's very suitable for guests with a clear and light taste.
+Speaker1: Okay, can you tell me what your business hours are?
+Speaker2: Our restaurant business hours are from 11 am to 10 pm every day, and on weekends they are extended to 11 pm.
+Speaker1: Can I reserve a seat around 7 pm tomorrow night?
+Speaker2: Of course, I can help you book a four-person table. Please provide your contact information to confirm.

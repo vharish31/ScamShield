@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li.
+Speaker2: Hello, little Li, I am a customer service representative for a second-hand car trading platform.
+Speaker1: Hey, hello, I saw a blue Lexus Think on your website yesterday and wanted to know more about it.
+Speaker2: Okay, that car is indeed a blue Honda Civic, a 2016 model, with a driving distance of approximately six thousand kilometers.
+Speaker1: How is the condition of this car? Has it been in any accidents?
+Speaker2: This car has passed our specialized inspection and no accident records were found, the car condition is excellent, you can buy it with peace of mind.
+Speaker1: Are there any discounts on the price?
+Speaker2: The current price of this car is ten thousand yuan. If you decide to buy it, we can offer you a one thousand yuan discount.
+Speaker1: I'd like to take a look at the maintenance records for this car.
+Speaker2: This car's maintenance records are very complete, every time maintenance is done at a regular 4S shop, we have a detailed maintenance record here that can be provided to you.

@@ -1,0 +1,18 @@
+Speaker1: Hello, nice to meet you, I am Lee Huai, I am a customer service representative at Ping An Bank.
+Speaker2: Hello.
+Speaker1: Have you noticed that your recent credit card usage at our bank has been good? Would you like to know more about our latest credit card promotion activity?
+Speaker2: Sure, let me explain.
+Speaker1: Great, our activity this time not only has a high return, but you can also participate in the draw through our APP, and have a chance to win a trip abroad.
+Speaker2: Listen sounds good, how to join?
+Speaker1: You just need to download our official app, register and link your credit card to participate.
+Speaker2: Is this app safe?
+Speaker1: Absolutely safe, our app has passed the national information security certification, you can completely put your mind at ease using it.
+Speaker2: Okay, let me try.
+Speaker1: Okay, in addition, in order to ensure that you can participate in the activity smoothly, you may need to provide some personal information, such as your name, ID number, and phone number, for identity verification.
+Speaker2: Okay, then you say it.
+Speaker1: Okay, can you provide your name and phone number, we will handle it in the background.
+Speaker2: My name is Wang Yong, my phone number is 13800138000.
+Speaker1: Okay, Wang Yang, we will handle it quickly. Thank you for your support. If there are any issues, please feel free to contact me anytime. My phone number is 13800138001.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, hope you enjoy it, bye.
+Speaker2: Goodbye.

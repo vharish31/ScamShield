@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang. I recently want to buy a car. I heard your store has several good car models.
+Speaker2: Hello, little Zhang, I am the high-level sales consultant, what can I help you with?
+Speaker1: I want to know more about M03 and G6 these two car models, especially now there are what discount policies.
+Speaker2: Both M03 and G6 have good activities currently, M03's promotion will end this month, and G6 has a no-interest activity.
+Speaker1: Hey, do you have any free time this week, can I come over and take a look?
+Speaker2: Of course, which day is most convenient for you to come over? We have test drive services here, which can help you better experience these two car models.
+Speaker1: Is it okay to have some free time on Saturday afternoon this week?
+Speaker2: What time will you arrive on Saturday afternoon?
+Speaker1: About two o'clock.
+Speaker2: Okay, I'll meet you at the store at 2 pm. I'll arrange a test drive when you arrive.

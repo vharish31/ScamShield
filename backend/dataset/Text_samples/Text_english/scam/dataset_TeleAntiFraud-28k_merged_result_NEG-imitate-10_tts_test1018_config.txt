@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm your delivery customer service representative. You might have had a problem with your recent delivery.
+Speaker2: Really? I recently had a package that didn't arrive.
+Speaker1: That's right, after we confirmed, your package was accidentally lost during transportation.
+Speaker2: What should I do, the things inside are very important to me.
+Speaker1: We understand your feelings very well, to make up for your loss, we can provide you with a compensation of one million yuan.
+Speaker2: Really? That's great! How do we operate?
+Speaker1: First, you need to click on the link we provide, fill out your personal information, so we can verify your identity.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, after the operation is completed, please pay attention to check the message, we will send a verification code to you, please reply to this phone number after receiving it.
+Speaker2: I know, thank you for your help.

@@ -1,0 +1,9 @@
+Speaker1: Hey, hello, I'm little Li, just ordered takeout from your store, can you help me confirm it?
+Speaker2: Hello, Mr. Li, I am a waiter at the store, what did you order for dinner?
+Speaker1: I ordered beef stir-fry and a spicy sour soup, the address is Happiness Small Community Building 2, No. 3, Unit 4, Room 202.
+Speaker2: Okay, I'll check your order. Hmm, found it. Your address and restaurant are correct. Estimated delivery time is 30 minutes from now.
+Speaker1: Okay, can you give me a call if anything changes? My phone number is 1380013800.
+Speaker2: No problem, we will notify you immediately if there are any changes. Is there anything else you need help with?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, hope you enjoy your meal, bye.
+Speaker1: Goodbye.

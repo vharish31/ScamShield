@@ -1,0 +1,10 @@
+Speaker1: Hello, you, I am a customer service representative of commercial bank, named Zhang.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, our system detected that you have an unused credit limit, which qualifies you for low-interest loan services.
+Speaker2: Hmm, this sounds good, how do you operate it?
+Speaker1: It's very simple. Just download our official app and authenticate with your real name to apply.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can directly click on the link I sent you or scan the QR code, which is more convenient.
+Speaker2: Okay, let me try.
+Speaker1: Okay, please let me know once you've finished downloading, and I'll guide you through the next steps.
+Speaker2: Okay, thank you.

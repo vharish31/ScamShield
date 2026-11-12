@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Mr. Wang?
+Speaker2: Yes, who are you?
+Speaker1: I am the customer manager of Agricultural and Commercial Bank, Lee Huai. We noticed that your company's recent business operation is good, and we want to know if you have any need for capital rotation.
+Speaker2: No, thank you.
+Speaker1: Okay, but we have a special discounted loan project with a low interest rate, fast approval, and no collateral required. Would you consider it?
+Speaker2: I don't need it.
+Speaker1: Okay, but this opportunity is rare, if you change your mind, you can add my WeChat, anytime contact me.
+Speaker2: Add me on WeChat? I'm not very convenient.
+Speaker1: Okay, I'll send you a link, you fill out some basic info online, and we'll have someone follow up.
+Speaker2: Can you send the link? I still think it's not safe.
+Speaker1: I understand your concerns, but this link is safe, and the operation is very simple. Are you really not considering it?
+Speaker2: Okay, let me take a look again. Please send me the link.

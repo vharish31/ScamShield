@@ -1,0 +1,11 @@
+Speaker1: Hey, hi, I'm the customer service of the e-commerce platform, your shopping points are going to expire tonight at twelve o'clock. Have you used these points to exchange products yet?
+Speaker2: How come I didn't see any points reminder SMS?
+Speaker1: Oh, your text message may have been intercepted by your phone, your points are accumulated from your regular shopping, which can be used to offset cash.
+Speaker2: How do I use these points?
+Speaker1: You can select products on our platform and use points to deduct the corresponding amount, very convenient.
+Speaker2: But I didn't see anything I liked.
+Speaker1: There are many promotional activities going on now, including electronic products, home appliances, clothing, shoes, and hats. You can check them out.
+Speaker2: What should I do if my points expire?
+Speaker1: If you don't use the platform before midnight tonight, your points will be cleared. It's recommended that you log in and use it quickly.
+Speaker2: Okay, I'll take a look right away, thank you for reminding me.
+Speaker1: No problem, if you have any other questions, feel free to contact me. Have a nice shopping!

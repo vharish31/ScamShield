@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Is it convenient for you to talk now on your side?
+Speaker2: Sure, you say, what's up?
+Speaker1: Can I reserve a spot for tonight at this location?
+Speaker2: Is it okay? How many seats do you want to reserve?
+Speaker1: Reserve four seats, around seven o'clock.
+Speaker2: Okay, the 7:00 am seats for four people, I have noted it down for you. Are there any special requirements?
+Speaker1: If there's a spot by the window, that's best. If not, it's okay too.
+Speaker2: Okay, please arrange a seat for you near the window. What's your name?
+Speaker1: I am Li Huai.
+Speaker2: Mr. Li, your seat has already been reserved. Just come directly when the time comes.
+Speaker1: Okay, thank you. See you tomorrow.
+Speaker2: See you tomorrow, welcome to come.

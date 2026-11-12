@@ -1,0 +1,10 @@
+Speaker1: Hello, I recently want to buy a new phone, can you recommend me one?
+Speaker2: Hello, of course. What do you usually do with your phone? Do you play games a lot, take photos, or watch videos?
+Speaker1: I mainly use it for taking photos and watching videos, occasionally play games.
+Speaker2: Understood. Then I recommend you a phone with a particularly good camera effect, its camera pixels are very high, and its battery life is also very strong.
+Speaker1: How much does this phone cost?
+Speaker2: This phone costs 3800 yuan, there's a discount now, you can get a phone case and screen protector for free.
+Speaker1: Hmm, this price I can accept. Does this phone have stock?
+Speaker2: We have plenty of in-stock items. You can come to the store anytime to pick them up, or we can deliver them to your home quickly.
+Speaker1: I'll choose delivery to home, address is Beijing city Chaoyang district Xinghuao Road 100 number.
+Speaker2: Okay, I have recorded your order. We will arrange shipping as soon as possible. Is there anything else you need help with?

@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: I'm waiting for you at the station exit, hurry up and come over.
+Speaker1: Just got off the subway station, didn't see you, where are you specifically at the exit?
+Speaker2: Have you seen the small shop on the left side of the third exit?
+Speaker1: I see you, I'll be there soon.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: I'm a bit stuck here, I might be late a few minutes, you can go first.
+Speaker2: No problem, I'm here waiting for you, be careful on the road.
+Speaker1: Thank you, I'll be there soon.
+Speaker2: Okay, see you later.

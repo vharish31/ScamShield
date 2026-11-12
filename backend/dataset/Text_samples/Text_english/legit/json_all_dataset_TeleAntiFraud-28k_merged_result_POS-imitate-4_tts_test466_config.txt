@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I'm Little Li, I looked at a health meal on your platform yesterday, I want to know more about it
+Speaker2: Okay, Mr. Li, I am customer service representative Zhang, what information do you want to know?
+Speaker1: Can you tell me what's included in this menu and how much it costs?
+Speaker2: This fitness membership package includes three months of membership, unlimited use of our fitness facilities, and two private coaching sessions. The price is six hundred and eighty yuan.
+Speaker1: Is there any discount if I buy today?
+Speaker2: If you buy today, we can give you a 90% discount and also a free body composition analysis.
+Speaker1: That's great, I decided to buy it. How do I pay?
+Speaker2: You can directly pay online through our platform, or come to our fitness center front desk to pay, we will prepare the relevant member card and information for you.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Did you see the job posting you put up online?
+Speaker2: Hey, what position are you looking at?
+Speaker1: I want to know the specific work hours and benefits of the person who works at the front desk.
+Speaker2: This job is from 9am to 6pm Monday to Friday, with weekends off, a monthly salary of 3,000 to 4,000, and performance-based bonuses.
+Speaker1: Can you tell me what I need to prepare some materials?
+Speaker2: Please bring your resume and ID, we will arrange an interview here.
+Speaker1: Okay, when can I go to the interview?
+Speaker2: You can come to our place at 10 am tomorrow for the interview.
+Speaker1: Okay, tomorrow morning at 10 am, I will arrive on time. Thank you!
+Speaker2: No problem, see you later!

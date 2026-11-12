@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Zhang Zong? I'm Li Xiaoming, the agricultural bank's customer manager. We recently introduced a special discounted loan service with a very low interest rate. Would you like to know more about it?
+Speaker2: Hello, little Li, I recently have some cash flow needs, can you explain in detail?
+Speaker1: Of course. This loan service is specifically designed for high-quality customers, with simple application conditions, and the fastest possible approval on the same day. You only need to provide some basic personal information and credit records, and we can start the review right away.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: You can first click on the link I sent you, fill out the application form, and if you have any questions, you can directly contact me.
+Speaker2: Okay, I'll go fill it out later. But I'm concerned about the security of personal information. Is this link reliable?
+Speaker1: Don't worry, Zhang Zong, our bank system is very safe, all information is encrypted processed. If you're still not confident, you can directly handle it at our bank counter, but it will be slower.
+Speaker2: Can I just go to the bank directly? What's your phone number on that side?
+Speaker1: Okay, Zhang Zong, this is my phone number, 13801380138, you can contact me anytime. It's best to call before going to the bank, I'll prepare the materials in advance for you.
+Speaker2: Understood, thank you for your patience in explaining, I'm ready now, I'll get back to you later.

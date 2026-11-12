@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of the provincial city technology limited company, I am Xiao Wang.
+Speaker2: Hello, what do you have?
+Speaker1: We found some unusual activity on your account, there's a risk that it may have been stolen, have you recently logged into any unfamiliar websites?
+Speaker2: No, I'm just operating on the official website.
+Speaker1: Okay, for your safety, we need to verify your account information. Can you provide your bank card number and the verification code of your recent transaction?
+Speaker2: That's okay, my recent verification code was 123456.
+Speaker1: Thank you, we still need you to click on a link to complete the account's security verification.
+Speaker2: Okay, send me the link.
+Speaker1: Please wait, I will send it to you soon. To ensure the safety of your account, please click on the link and follow the instructions immediately.
+Speaker2: Okay, I'm waiting for your link.

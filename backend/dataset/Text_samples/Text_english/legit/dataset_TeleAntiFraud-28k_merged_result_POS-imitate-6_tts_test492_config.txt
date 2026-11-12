@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Zhang, recently I'm doing customer service for a food delivery platform, want to know your opinion about our service.
+Speaker2: Hey, are you a food delivery platform? Do you have anything special that needs to be asked?
+Speaker1: Have you encountered any issues during your recent dining experience on our platform?
+Speaker2: No problem, sometimes delivery time is a bit long, sometimes the food gets cold.
+Speaker1: Thank you for your feedback. We will improve our delivery service. By the way, do you have any suggestions for our platform's promotional activities?
+Speaker2: The discount activity is quite good, just hoping to have more discount activities, so it's more affordable.
+Speaker1: Okay, I will record it and give feedback to the relevant department. Is there anything else you need help with?
+Speaker2: Thanks for your patience in answering my question.
+Speaker1: You're welcome, feel free to contact us anytime if you have any questions. Goodbye!
+Speaker2: Goodbye, thank you.

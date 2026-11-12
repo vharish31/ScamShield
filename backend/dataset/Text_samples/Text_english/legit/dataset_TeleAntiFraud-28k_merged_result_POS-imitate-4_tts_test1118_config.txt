@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the delivery boy, your food is here.
+Speaker2: Okay, I'll go down and get it right away.
+Speaker1: Okay, I'm waiting for you at the community door.
+Speaker2: Which door is at the community entrance?
+Speaker1: That's the West Gate, which is adjacent to the park.
+Speaker2: Okay, I know, about a few minutes I'll be there.
+Speaker1: Okay, I'll wait for you.
+Speaker2: Wait a minute, I just got off the elevator.
+Speaker1: Okay, no rush, take it slow.
+Speaker2: Are you here?

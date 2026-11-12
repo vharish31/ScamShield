@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, do you have time tonight?
+Speaker2: Alright, what's up?
+Speaker1: Wǒ jiān zài fùqǐn xīn kāi de chǎnshì dìng le gè wèi zhòu, xiǎng bù xiǎng yīgè qù chéng chéng?
+Speaker2: Is the new restaurant any good?
+Speaker1: I heard it's good, I want to try their special dishes.
+Speaker2: Let's start at what time?
+Speaker1: I booked 7:00, let's meet around 6:30.
+Speaker2: Okay, I'll wait for you at your doorstep.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

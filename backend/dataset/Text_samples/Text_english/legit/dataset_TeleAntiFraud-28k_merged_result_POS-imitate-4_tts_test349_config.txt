@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, just bought a smartwatch from your store, want to know how to use it.
+Speaker2: Hello, little Zhang, I am customer service Li, what questions can you directly ask me?
+Speaker1: Sure, I just started using it and I'm not sure how to activate some of the functions. Can you explain it to me?
+Speaker2: Of course, you first open the settings menu on your wristband, find the function settings, then select the function you need, and follow the instructions to operate it.
+Speaker1: Uh, in this way, I still want to ask one more thing, does this wristband support heart rate monitoring?
+Speaker2: Sure, you can turn on heart rate monitoring in the health monitoring options, it will automatically record your heart rate changes.
+Speaker1: Okay, I'll try it out. Got it, I also see a sleep monitoring function, how do I use it?
+Speaker2: Sleep monitoring is very convenient. Just turn on the handband before going to bed and it will automatically record your sleep status. You can check a detailed sleep report the next morning.
+Speaker1: Thanks for your detailed answer. I'll give it a try.
+Speaker2: No problem, if you have any other questions, please feel free to contact me anytime. I wish you a happy use!

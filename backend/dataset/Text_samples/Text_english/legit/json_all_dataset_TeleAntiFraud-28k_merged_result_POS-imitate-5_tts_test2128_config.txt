@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I just booked a massage service on your website, can you confirm the time?
+Speaker2: Hello, I am a customer service representative. What time did you make your appointment?
+Speaker1: Can you confirm my appointment for tomorrow afternoon from 3 to 5 PM?
+Speaker2: Okay, I'll check. Is it a single person or a double person massage that you have booked?
+Speaker1: It's a single person massage.
+Speaker2: The appointment for a single person massage service on Saturday afternoon from 3 to 5 PM has been confirmed, and our masseuse will arrive on time.
+Speaker1: Great, thank you. By the way, do I need to make any preparations in advance?
+Speaker2: No need to prepare specially, keep the phone call smooth when time comes, our masseuse will contact you beforehand.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. If you have any questions, please feel free to contact us anytime. Have a nice day.

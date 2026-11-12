@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you have any fresh apples here?
+Speaker2: Yes, we have fresh apples every day here, just arrived.
+Speaker1: How do you sell your apples?
+Speaker2: Our apples are sold by the pound at ten cents a pound, and if you buy a lot you can get a discount.
+Speaker1: Do you have any discount if I buy five kilograms?
+Speaker2: You can get a 95 cent discount for every kilogram of five kilograms you buy.
+Speaker1: Okay, now I'm coming over.
+Speaker2: Okay, the address here is Jingming Street 100, just tell me when you arrive, I'll prepare for you.
+Speaker1: Okay, thank you, see you later.
+Speaker2: Okay, see you later.

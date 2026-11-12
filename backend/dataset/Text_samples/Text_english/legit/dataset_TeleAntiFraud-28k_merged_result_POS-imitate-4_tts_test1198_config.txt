@@ -1,0 +1,14 @@
+Speaker1: Hi, how are you? I'm small Li from the community management, can you confirm the time for the water and electricity repair appointment?
+Speaker2: Hello, little Li, can I see you tomorrow afternoon?
+Speaker1: Can we meet tomorrow afternoon? What time?
+Speaker2: What's it like at 3 o'clock?
+Speaker1: Can we meet at three o'clock? I'll be there around three left or right, do you have someone at home?
+Speaker2: Yes, I will be at home tomorrow.
+Speaker1: Okay, I'll note it down. If there are any changes, I'll contact you in advance.
+Speaker2: Okay, thank you.
+Speaker1: No problem, do you need anything to prepare in advance, like power outages?
+Speaker2: Uh, do I need to turn off this one in advance?
+Speaker1: Yes, for safety reasons, it's best to cut off power before repairing.
+Speaker2: Okay, I understand, I will prepare in advance tomorrow.
+Speaker1: Okay, see you tomorrow.
+Speaker2: Okay, bye.

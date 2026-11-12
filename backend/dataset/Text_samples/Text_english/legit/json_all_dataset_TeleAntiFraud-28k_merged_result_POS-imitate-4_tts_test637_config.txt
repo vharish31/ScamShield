@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, my friend told me your hair salon here is good, I want to make an appointment for tomorrow afternoon.
+Speaker2: Hello, little Li, I'm very happy to serve you. What time slots do you prefer for tomorrow afternoon?
+Speaker1: Yeah, I'm available from 3 to 5 in the afternoon.
+Speaker2: Okay, what time period from 3 to 3:30 do you prefer, or from 4 to 4:30? Which one do you think is suitable?
+Speaker1: Four o'clock to four thirty sounds good, let's book four o'clock then.
+Speaker2: Okay, I have booked a haircut for you tomorrow at 4 pm. Please come 10 minutes early so we can start on time.
+Speaker1: Okay, I will arrive early. Right, this is my first time here, how do I navigate your store?
+Speaker2: Our store is at the intersection of Guangming Street and Xinghua Road. You walk from Xinghua Road to the east, pass two red lights and turn left, and you'll be on Guangming Street. Our store is on the north side of the road, and you'll see a big blue sign that says "Shijian" (time-fashion cut).
+Speaker1: Okay, I understand, thank you for your detailed guidance.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Have a nice day, see you tomorrow!

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, my friend recommended this restaurant, can you tell me about your signature dishes?
+Speaker2: Hello, welcome to our restaurant. Our signature dishes include spicy pork, steamed lobster and garlic mushrooms, all very popular.
+Speaker1: The sound is great, I plan to come this weekend, what are your business hours?
+Speaker2: Our restaurant opens at 11 am every morning and closes at 9 pm every night. On weekends, we're a bit busier, so we recommend you book your seat in advance.
+Speaker1: Okay, what time would be best for a four-person table reservation?
+Speaker2: You can choose between the time slots from noon to one o'clock or from six to seven o'clock. These two time slots have fewer customers, so the experience will be better.
+Speaker1: Can I reserve a seat at six thirty in the evening?
+Speaker2: Of course, is your name Xiaoming? I will reserve a table for you.
+Speaker1: Okay, thank you. If there's traffic congestion, what should I do if I'm late?
+Speaker2: No problem, you can contact us in advance to reserve a seat. If there are any changes, please contact us anytime.

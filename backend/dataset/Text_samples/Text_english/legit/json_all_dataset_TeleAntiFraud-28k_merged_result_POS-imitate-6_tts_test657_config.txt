@@ -1,0 +1,10 @@
+Speaker1: Hello, I have an appointment for a haircut with you guys, right?
+Speaker2: Yes, you are scheduled for 3 PM on Friday.
+Speaker1: Is it short hair or what?
+Speaker2: Our services include haircutting, hair dyeing and hair straightening. You have scheduled a haircut.
+Speaker1: Who is that master?
+Speaker2: I am the technical manager of our store, Lee.
+Speaker1: How is the technology of Mr. Li?
+Speaker2: Master Li's technology is very good, many old customers are specifically served by him.
+Speaker1: I'll meet you at three o'clock on Friday afternoon.
+Speaker2: Okay, you can come directly when the time comes.

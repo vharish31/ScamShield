@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, I recently want to buy a new phone, do you have any good recommendations in your store?
+Speaker2: Hello, Mr. Li, we have many stylish phones here. Do you have any specific requirements, such as budget, brand, or functionality?
+Speaker1: I mainly want to use it for daily use and occasionally play mobile games, with a budget of around two to three thousand.
+Speaker2: I recommend two phones to you. The first one is the latest model of brand A, which has very strong performance and is great for gaming, and the price is also within your budget. The second one is brand B's phone, which has a very high price-to-value ratio and is also very suitable for daily use.
+Speaker1: What are the differences between these two phones?
+Speaker2: Brand A's phone is better in terms of processor and memory, so the gaming experience will be better. Brand B's phone is better in terms of battery life and camera, so daily use is more convenient.
+Speaker1: The sound is good, I might need to think twice. Are you open on weekends? I want to go take a look.
+Speaker2: Of course, we are open on weekends too, you can come anytime, our business hours are from 9 am to 8 pm.
+Speaker1: Okay, thank you for your recommendation. I'll check it out this weekend.
+Speaker2: You're welcome, I'm looking forward to your arrival, wish you a happy weekend!

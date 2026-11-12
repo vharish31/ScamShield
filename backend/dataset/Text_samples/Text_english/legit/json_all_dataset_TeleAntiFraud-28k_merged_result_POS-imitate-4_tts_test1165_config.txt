@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I want to consult your maintenance service on this side.
+Speaker1: Okay, what specific maintenance service are you looking to consult on?
+Speaker2: My home's air conditioner broke down, can you come over and fix it?
+Speaker1: Sure, we provide door-to-door repair service. Can you tell me the specific address?
+Speaker2: Okay, the address is Xiǎngfú xiǎngquān sān hào lóu èr dān yī xiàng liù zhōng yī rùmù
+Speaker1: Okay, let's quickly arrange for the teacher to come over. What time would you like to schedule it?
+Speaker2: It's best if I'm at home all day tomorrow afternoon.
+Speaker1: Can we meet tomorrow afternoon? What time do you want exactly?
+Speaker2: Between two and four o'clock is about it.
+Speaker1: Okay, we will arrange for the teacher to come to your home between 2 pm and 4 pm tomorrow afternoon. Remember to stay at home.
+Speaker2: Okay, thank you, then I'll wait for the teacher at the door tomorrow.

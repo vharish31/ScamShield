@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, recently all the takeout orders I placed at your store were delivered late, what's going on?
+Speaker2: Hello, how are you? Small Ming, I am the customer service of the delivery platform, I'm sorry to bring you an unpleasant experience.
+Speaker1: Hmm, recently when I ordered takeout, they all said it would be delivered within half an hour, but it took over an hour.
+Speaker2: I'm very sorry, this might be because of the bad weather recently, causing traffic congestion on the road.
+Speaker1: Do you have any compensatory measures?
+Speaker2: For this situation, our platform will provide you with a free meal exchange code, which you can use on your next order.
+Speaker1: How do I use this exchange code?
+Speaker2: You can enter my personal center in our App and find my discount coupon, then choose to use this exchange code.
+Speaker1: Okay, thank you for your answer. I hope to send it on time next time.
+Speaker2: Definitely, we will strengthen delivery management to ensure service quality. Again, we apologize for the inconvenience we brought to you.

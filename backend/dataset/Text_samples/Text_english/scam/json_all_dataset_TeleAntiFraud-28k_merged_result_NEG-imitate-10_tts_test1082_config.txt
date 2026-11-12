@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hi, I'm a customer service representative from Huaxia Bank. We noticed that you've been using your credit card frequently recently, so we might consider increasing your credit limit. Is there anything I can help you with?
+Speaker2: Oh, really? That's great.
+Speaker1: Yes, but we need to verify your personal information to increase the quota, if convenient, you can add a WeChat, we have a specific link to fill out the information.
+Speaker2: Add me on WeChat, okay? Can this number be added?
+Speaker1: Okay, I'll send you a WeChat message with a link. Just follow the instructions after clicking on the link, and feel free to ask me if you have any questions.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, I hope our service can assist you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, just saw your job posting on your website, want to know more.
+Speaker2: Hello, you are small Li, the recruiter. It's great to hear that you are interested in our company's positions. Which position are you interested in learning more about?
+Speaker1: I saw your job posting for software engineer and would like to know more about the specific requirements and work content for this position.
+Speaker2: Okay, the job of a software engineer mainly involves software development and maintenance work, which requires strong programming skills and project management experience. We require at least two years of relevant work experience, proficient in Java and Python programming.
+Speaker1: What is the interview process for this job position given that I have three years of Java development experience and have also studied Python in my free time?
+Speaker2: The interview process first involves a phone interview, which mainly aims to understand your basic situation and work experience. After that, there will be a technical interview, which will assess your technical skills. Finally, there will be a manager interview, which mainly aims to understand your professional plans and team cooperation ability.
+Speaker1: What materials do I need to prepare for a strict process?
+Speaker2: You need to prepare a detailed resume, if there are any project case involved, it's best to prepare a brief introduction as well. We will arrange a phone interview within five work days after receiving the resume.
+Speaker1: Okay, I will send my resume to your email as soon as possible, thank you for your patience in answering.
+Speaker2: No problem, if you have any other questions, feel free to contact me anytime. We're looking forward to your resume, wish you good luck!

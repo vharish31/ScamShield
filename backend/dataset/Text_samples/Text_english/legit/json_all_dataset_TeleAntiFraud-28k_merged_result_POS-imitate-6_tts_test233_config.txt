@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang from the community service center, we have new fitness courses open recently, want to know more?
+Speaker2: Hello, I recently want to start exercising, do you have any recommended courses?
+Speaker1: Of course, we opened a new yoga class and a high-intensity interval training course this week. Which one are you more interested in?
+Speaker2: Yoga sounds good, I tried it before and felt very relaxed.
+Speaker1: Yoga classes are very suitable for relaxing the mind and body. The classes are held every Wednesday, Friday, and Sunday at 7 pm, and each class lasts for one hour.
+Speaker2: Is it convenient for you to make an appointment in advance?
+Speaker1: Yes, in order to ensure that each member has enough exercise space, we need to book in advance. You can book through our official website or WeChat mini-program.
+Speaker2: Okay, I'll check it out. Thank you for your recommendation.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Have a great workout!
+Speaker2: Thank you, goodbye!

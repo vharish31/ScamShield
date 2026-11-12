@@ -1,0 +1,14 @@
+Speaker2: Hey, you talk
+Speaker1: Hello, did you see that your house is for rent on the fifth floor of the Wuxing City?
+Speaker2: Yes, do you want to rent?
+Speaker1: Hey, can I come over now?
+Speaker2: Sure, can you come over now?
+Speaker1: I'm honest, then I'm honest, I'm going over there now.
+Speaker2: Okay, do you want to rent a single room or a shared room?
+Speaker1: In my room, I sometimes cook food in the kitchen.
+Speaker2: Can you see if the monthly rent for a single-room kitchen is eight hundred yuan, with a security deposit of one thousand yuan and three months' rent paid upfront?
+Speaker1: Seven hundred rows is a bit over my budget?
+Speaker2: Seven hundred words, only possible without a kitchen, consider?
+Speaker1: Well, let's just forget about it, I'll take a look at the others.
+Speaker2: Okay, you can contact me anytime, bye.
+Speaker1: Goodbye.

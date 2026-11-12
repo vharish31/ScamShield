@@ -1,0 +1,11 @@
+Speaker2: Hello, this is the Net Security Mall customer service. Recently, you purchased a product on our platform, but we found some issues that need your confirmation.
+Speaker1: What problem? I don't know how.
+Speaker2: The products you bought have some quality issues, we are ready to handle return and refund, but we need some information from you.
+Speaker1: Okay, what information do I need to provide?
+Speaker2: Please provide your bank card number and verification code for us to verify your identity during purchase.
+Speaker1: Why provide bank card number and verification code? This may not be safe?
+Speaker2: Don't worry, this is to ensure your funds are safe, to prevent anyone from fraudulently claiming a refund. You can trust it.
+Speaker1: Can you confirm identity in another way?
+Speaker2: If you're not comfortable providing bank card information, you can click on the link we sent and download our official app to verify your identity through it.
+Speaker1: Okay, let me try.
+Speaker2: Okay, the link has been sent to your phone. Please handle it quickly. If you have any issues, feel free to contact us anytime.

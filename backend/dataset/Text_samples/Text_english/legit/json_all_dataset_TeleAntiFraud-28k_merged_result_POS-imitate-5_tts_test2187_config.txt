@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any clothes suitable for summer here?
+Speaker2: Yes, we have many summer clothing items here, such as short-sleeved T-shirts, shorts, and dresses. Do you have any particular preferences?
+Speaker1: I want a simple style short sleeve T-shirt, preferably in a solid color.
+Speaker2: Okay, we have a white cotton short-sleeved T-shirt here, very simple and spacious. Can you tell me your size?
+Speaker1: Do you have an M on this T-shirt?
+Speaker2: Sure, this T-shirt has an M on it. If you're convenient now, I can reserve one for you.
+Speaker1: Okay, can you help me schedule this for the weekend?
+Speaker2: Of course, I will reserve it for this weekend. If you have any other questions, feel free to contact me anytime.

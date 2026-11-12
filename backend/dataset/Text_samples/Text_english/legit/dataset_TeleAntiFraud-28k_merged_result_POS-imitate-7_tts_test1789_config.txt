@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, are you from Five Eight City?
+Speaker1: Yes, I saw the information about your delivery drivers.
+Speaker2: Hey, I'm in charge of recruiting. Where are you now?
+Speaker1: I am in Dongcheng District.
+Speaker2: Dongchengqu, that's quite close. We mainly send coffee and fast food, three kilometers range of takeout.
+Speaker1: Hmm, I know this one. Do you provide electric cars?
+Speaker2: We have electric cars available, as well as free charging services. You can take a car directly when you arrive, and get started with the work.
+Speaker1: That's great. Do you have any requirements for age?
+Speaker2: Are you between eighteen and fifty-three years old?
+Speaker1: I am fifty-one this year, it should be right.
+Speaker2: No problem, when do you have time to come over? We can schedule a trial work.
+Speaker1: Can I go at nine in the morning tomorrow?
+Speaker2: Sure, tomorrow at nine, remember to bring your ID. We're at happy road three in east city, see you then.

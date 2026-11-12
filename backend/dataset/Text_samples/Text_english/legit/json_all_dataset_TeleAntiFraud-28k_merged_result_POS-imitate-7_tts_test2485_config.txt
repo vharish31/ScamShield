@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you tell me more about your recent fitness program and how much it costs?
+Speaker2: We recently introduced some new fitness programs, including yoga, aerobics, and machine training, with different course prices.
+Speaker1: How much does a yoga class cost per session?
+Speaker2: The price for a single session of yoga is 50 yuan. If you buy a card, there are more discounts.
+Speaker1: Can I have a monthly card?
+Speaker2: Of course, a monthly card is 300 yuan, unlimited use.
+Speaker1: Do I need to make a reservation?
+Speaker2: I suggest you make an appointment a day in advance, so we can ensure a place for you.
+Speaker1: Okay, I'll make an appointment tomorrow.
+Speaker2: Okay, see you tomorrow, wish you a happy day!

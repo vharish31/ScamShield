@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm little Liu, do you have any recommendations for weekend travel routes here?
+Speaker2: Hello, little Liu. We have several good routes here. Do you want to experience natural scenery or city culture?
+Speaker1: I want to experience some natural scenery, the best would be a place with mountains and water.
+Speaker2: Okay, I recommend a place called Qingyunshan. It's a beautiful mountain with clear water and is perfect for a weekend short trip.
+Speaker1: Is the transportation convenient on the other side of Qingyunshan?
+Speaker2: The transportation in Qingyunshan is quite convenient. You can take the dedicated public transport line directly from the city center to reach there, or choose to take a taxi, which will take approximately 40 minutes to an hour to arrive.
+Speaker1: How long is a bus on the dedicated line?
+Speaker2: There's a bus every thirty minutes on the dedicated line from six in the morning to six in the evening.
+Speaker1: Okay, thank you for your recommendation. I'll go to Qingyunshan this weekend.
+Speaker2: No problem, wish you have fun! If you have other questions, feel free to contact me anytime.

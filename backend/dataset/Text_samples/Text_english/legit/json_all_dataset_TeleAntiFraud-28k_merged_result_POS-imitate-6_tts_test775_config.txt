@@ -1,0 +1,12 @@
+Speaker1: Can you hear me clearly?
+Speaker2: Can you hear me clearly? How are you today?
+Speaker1: Do you need anything from the electronics market on that side today?
+Speaker2: Exactly my phone case is broken, can you help me bring one?
+Speaker1: Of course, do you know the model of your phone?
+Speaker2: Yes, my phone is the new model V30.
+Speaker1: Know what? I'll check that side for fresh produce. Do you need anything else?
+Speaker2: I still have one power bank, but my current one is not enough.
+Speaker1: Okay, let's take a look together. What kind of power bank do you want? Like capacity, brand, etc.
+Speaker2: The capacity should be at least one million milliseconds, the brand can be any, as long as the price-performance ratio is high.
+Speaker1: Okay, I'll remember. I should be back around four in the afternoon, and then I'll bring it over to you.
+Speaker2: Okay, can you come in the afternoon?

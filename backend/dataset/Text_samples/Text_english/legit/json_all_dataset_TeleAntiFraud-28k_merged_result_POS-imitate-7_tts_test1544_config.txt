@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, takeout arrived, where are you?
+Speaker2: Hello, I'm at the company gate. Come over.
+Speaker1: Okay, I'll be there in about three minutes. Just wait for a moment.
+Speaker2: Okay, thank you.
+Speaker1: No problem, I'll be right over, just wait a minute.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Arrived, where are you?
+Speaker2: I see you over here.
+Speaker1: Okay, here's your takeout, double-check the order.
+Speaker2: Okay, thank you, please you.

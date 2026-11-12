@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? This is the customer service representative of the gold mining mall, did you recently buy a smartwatch on our platform?
+Speaker2: Yes, what's the problem?
+Speaker1: We found an anomaly in your order, possibly due to a system error causing a pricing display issue. Please work with us to resolve it.
+Speaker2: What should I do?
+Speaker1: To ensure your rights, we need you to download our official app and process refunds through it.
+Speaker2: Okay, how do I download it?
+Speaker1: You can search for the official app of Taobao in the app store, download and install it, and register and log in with the phone number you used to place an order.
+Speaker2: Okay, I'll go download it now.
+Speaker1: After downloading, you can find the customer service in the app, and we will have a specialist guide you through the refund process.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you have any issues during the download or use process, please feel free to contact me anytime. Best wishes. Goodbye.
+Speaker2: Goodbye.

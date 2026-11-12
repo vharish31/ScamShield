@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I just ordered a takeout at your store, can you help me check where it was delivered?
+Speaker2: Hello, little king, I am delivery customer service Zhang, can help you query. Please provide the order number or delivery address, I will check here.
+Speaker1: Okay, my order number is one two three four five four three two, delivered to happy small community three number floor two zero two.
+Speaker2: Okay, I checked... your order has been delivered to courier Li Xiao, he is now on his way and should arrive in 15 minutes.
+Speaker1: Okay, can you confirm for me if it will arrive within fifteen minutes? If not, can I contact you? My phone number is 13578901.
+Speaker2: Okay, if small Lee doesn't arrive on time, we will contact you actively. But please don't worry, small Lee is usually very punctual.
+Speaker1: Thank you for your help. I'll wait for his phone call.
+Speaker2: You're welcome, please feel free to contact us if you have any questions, enjoy your meal.
+Speaker1: Okay, thank you.
+Speaker2: Goodbye, is there anything that needs to be contacted again?

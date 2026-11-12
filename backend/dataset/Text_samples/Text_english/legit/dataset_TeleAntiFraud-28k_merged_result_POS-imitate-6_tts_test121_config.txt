@@ -1,0 +1,10 @@
+Speaker1: Hey, is it you?
+Speaker2: Hey, it's me, what's up?
+Speaker1: I just arrived at your neighborhood, but I can't find the specific location.
+Speaker2: Hey, which road are you on?
+Speaker1: I'm on Daming Road, but I can't see your house number.
+Speaker2: Walk forward to the first crossroad, then turn left and keep going straight until you reach the end, and you'll see a red door, which is my home.
+Speaker1: Okay, I'll go now, you wait for me at home.
+Speaker2: Okay, I'll wait for you at home, be careful on the road.
+Speaker1: Thank you, see you later.
+Speaker2: See you later.

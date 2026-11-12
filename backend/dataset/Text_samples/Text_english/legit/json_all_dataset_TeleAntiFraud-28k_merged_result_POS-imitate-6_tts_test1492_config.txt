@@ -1,0 +1,10 @@
+Speaker1: Hello, I want to inquire about your appointment service.
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you please arrange the hairdressing service for next week? What are your available time slots?
+Speaker2: We usually provide service from 9am to 6pm, with a one-hour break between each time segment. You can choose an appropriate time.
+Speaker1: Can I make a reservation for 2:00 PM on Tuesday next week?
+Speaker2: Okay, next Tuesday at 2 pm, I can help you make a reservation. Do you need to leave your contact information?
+Speaker1: Okay, my phone number is 12345678901.
+Speaker2: I have recorded it. The appointment is successful. I will call you beforehand to confirm. Are there any other things you need to consult?
+Speaker1: No more, thank you for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival. Goodbye!

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you help me consult your delivery service?
+Speaker2: Of course, what information do you want to know about?
+Speaker1: Can you tell me which restaurants you recommend and approximately how long the delivery time is?
+Speaker2: Our restaurant has many branches, such as Cantonese, Sichuan and Western cuisine. You can choose based on your taste. Generally, delivery time is between 30 minutes and an hour, depending on your location.
+Speaker1: How do I place an order?
+Speaker2: You can select restaurant and menu on our app, then fill in delivery address and contact info, complete payment and order will be generated, we will start preparing your food.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, feel free to contact me if you have any other questions. Enjoy your meal!

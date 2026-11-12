@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Li, I recently saw your coffee shop's coffee is very good, I want to know more about your coffee types and prices.
+Speaker2: Hello, little Li, we have various coffee here, such as latte, espresso, cappuccino, etc., priced from 20 yuan to 30 yuan, do you have anything special you're interested in?
+Speaker1: What's the difference between iron and cobalt?
+Speaker2: What do you prefer, the smooth taste of iron milk or the richer taste of caramel milk?
+Speaker1: How much does the price of the smooth one cost?
+Speaker2: The price of iron is 22 yuan. If you are a first-time customer, we also have a new customer discount, which means you can enjoy a 90% discount.
+Speaker1: That sounds good, I plan to go there this weekend, what are your weekend business hours?
+Speaker2: Our weekend business hours are from 8am to 10pm. You can come anytime.
+Speaker1: Okay, thank you, then I'll try to pick up iron over the weekend. Goodbye.
+Speaker2: Okay, little Li, see you this weekend, welcome to come. Bye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Can you check the reservation situation at your restaurant for Thanksgiving night? Is there any available space?
+Speaker2: Good evening on Friday? Let me check. Hmm, there are available seats, how many would you like to reserve?
+Speaker1: Do two people need to reserve?
+Speaker2: Do you want to reserve a time?
+Speaker1: Seven o'clock in the evening.
+Speaker2: Okay, your 7:00 PM seat has been reserved. What's your name and contact info?
+Speaker1: My name is Zhang Wei, phone number is 1351235456.
+Speaker2: Okay, Mr. Zhang Wei, your reservation has been confirmed, see you at seven o'clock tonight.

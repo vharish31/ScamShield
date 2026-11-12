@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Xiaoming, recently I've been considering buying a new phone, could you guys give me some information about your phone store?
+Speaker2: Hello, Xiao Ming, I am the customer service representative of the mobile phone store, Zhang. What can I help you with?
+Speaker1: Can you tell me about the latest smartphones, including their prices and performance?
+Speaker2: We recently launched several new phones, including flagship models from well-known brands and relatively affordable mid-range options. You can first tell me your budget range, and I can recommend a few options for you.
+Speaker1: My budget is around three thousand, mainly for daily use, occasionally for gaming.
+Speaker2: A budget of around three thousand, I recommend considering this new mid-range phone with an eight-core processor, six thousand milliampere battery, fast charging, and a forty-eight hundred pixel camera, perfect for daily use and entertainment.
+Speaker1: Does this phone have any in stock?
+Speaker2: Yes, this phone model is currently in stock at our store, you can try it out anytime.
+Speaker1: Okay, can I go to the store tomorrow?
+Speaker2: Of course, our store's business hours are from 9 am to 8 pm tomorrow. You can come anytime you're convenient.

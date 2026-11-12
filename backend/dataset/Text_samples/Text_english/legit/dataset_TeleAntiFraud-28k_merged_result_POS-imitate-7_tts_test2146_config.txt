@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, how is the phone case you bought at our store a few days ago?
+Speaker2: Okay, thank you. There's just a little problem. Do you think you can change it?
+Speaker1: Of course, what specific issue are you referring to?
+Speaker2: The phone case's color gradually faded after using it for a few days.
+Speaker1: That's great, we can exchange a new phone case of the same style for you. When is it convenient for you to come to the store?
+Speaker2: I've been pretty busy this week, but I have some time off this weekend.
+Speaker1: Is Saturday and Sunday convenient for you?
+Speaker2: Can we meet on Sunday morning at nine o'clock?
+Speaker1: No problem, we'll be at the store at 9am on Sunday.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm customer service representative Lee from the food delivery platform. Do you have any feedback or suggestions about our service that you'd like to share with us?
+Speaker2: Oh, your service is not bad, just sometimes the delivery is a bit slow.
+Speaker1: Thank you very much for your feedback. We will make every effort to improve delivery speed. By the way, do you know our current activities?
+Speaker2: Do you know what activities are there?
+Speaker1: We currently have a full-price discount activity, and new users can enjoy a 50% discount on their first order. If you're interested, you can place an order now to try it out.
+Speaker2: The sound is good, I'm ordering food now, how long will it take to deliver?
+Speaker1: Based on your current location, it will take approximately 30 to 40 minutes.
+Speaker2: Okay, I'll order a meal first and have it delivered later.
+Speaker1: Okay, if you have any issues after ordering, please feel free to contact us. Enjoy your meal!
+Speaker2: Thank you, goodbye.

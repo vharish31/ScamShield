@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you recommend any good takeout here?
+Speaker2: Of course, we have various cuisines here, such as Sichuan, Cantonese, and Northeast Chinese, what's your preference?
+Speaker1: Do you have any recommendations for Cantonese cuisine?
+Speaker2: There's a famous Sichuan restaurant here called "Lào Huān Tiān," which is very popular. Their spicy fish and palace vegetable chicken are both very delicious. Would you like to try them?
+Speaker1: How long does delivery usually take at that store?
+Speaker2: Based on your location, it usually takes 30 minutes to an hour for an order to be delivered, but it may take a little longer during peak hours.
+Speaker1: Okay, I'll give it a try, thank you for your recommendation.
+Speaker2: You're welcome. I hope you enjoy your meal. If you have any questions, feel free to contact me anytime.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Could you introduce me to your household services on this side, please?
+Speaker2: Of course, we provide daily cleaning, deep cleaning, maid service, etc. You can specifically say which one you need?
+Speaker1: I mainly want to find a nanny, every week I come home to clean and disinfect.
+Speaker2: Okay, we have professional housekeepers who can provide weekly cleaning services, you can choose a fixed time, such as every Tuesday or every Saturday.
+Speaker1: How do you calculate the price?
+Speaker2: The price will vary based on the size and cleanliness of your home. The standard price is usually two hundred yuan. If the area is large or there are special requirements, it may be slightly higher.
+Speaker1: Can I first book a trial session?
+Speaker2: Of course, you can first book a trial service experience, and then decide whether to continue if you are satisfied. Do you need me to book it now?
+Speaker1: Okay, can you help me schedule an appointment for this weekend at 10 am on Saturday or Sunday?
+Speaker2: Okay, I have already made a reservation for you. On Saturday morning at 10 am, our aunt will come to serve you. If there are any changes, we will contact you in advance.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a great day.

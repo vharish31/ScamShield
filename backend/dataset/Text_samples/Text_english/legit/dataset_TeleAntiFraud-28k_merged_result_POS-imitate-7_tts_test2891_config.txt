@@ -1,0 +1,10 @@
+Speaker1: Hey, are my takeout delivery here yet?
+Speaker2: Hello, the delivery has arrived downstairs, would you be convenient to come down and pick it up?
+Speaker1: Okay, I'll go down now. Uh, could you please ask, is the restaurant still open until what time?
+Speaker2: This restaurant is open until 10 pm, you can order anything if you need to.
+Speaker1: I know, thank you. Then I'll go get takeout.
+Speaker2: Okay, be careful when you get down, pay attention to safety on the road.
+Speaker1: Okay, thank you for your reminder.
+Speaker2: No problem, please feel free to contact me anytime.
+Speaker1: Okay, bye.
+Speaker2: Goodbye.

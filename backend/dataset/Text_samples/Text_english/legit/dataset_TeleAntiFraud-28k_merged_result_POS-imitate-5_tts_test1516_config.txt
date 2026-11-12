@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you? This is the Little King Car Rental Company, did you consult our car rental service before and are you still interested now?
+Speaker2: Hello, how are you? Yes, I am still considering. How about your prices and car models?
+Speaker1: We have various car models to choose from, ranging from small cars to luxury cars. In terms of pricing, small cars are rented for 200 yuan per day, while luxury cars are rented for 600 yuan per day.
+Speaker2: What about the insurance and additional fees?
+Speaker1: The insurance includes the driver, if you need an additional driver, you need to add 50 yuan for each additional driver.
+Speaker2: Okay, how much would it cost to rent for a week?
+Speaker1: If you rent a small car for a week, the total cost is 1400 yuan, and if you rent a luxury car, the total cost is 4200 yuan.
+Speaker2: Can you tell me more about your pick-up and drop-off locations, are they in the city?
+Speaker1: The pick-up and drop-off locations are both in the central area of the city, specifically at No. 100, Tian'an Road. Very convenient.
+Speaker2: Okay, it sounds good. I plan to pick up tomorrow, do I need to make a reservation in advance?
+Speaker1: It's recommended to book in advance, so we can make sure we have a car ready for you. You can book through our website or by phone.
+Speaker2: Okay, I will make the appointment. Thank you for your help. I look forward to working with you.
+Speaker1: Thank you very much for your choice. If you have any other questions, please contact us anytime. Have a nice trip!

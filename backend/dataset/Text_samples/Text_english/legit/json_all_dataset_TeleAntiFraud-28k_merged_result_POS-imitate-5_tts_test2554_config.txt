@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, I saw your store has a lot of phone types, I want to consult you
+Speaker2: Hello, Xiaoming, welcome to consult, we have many brands of mobile phones in our store, which brand do you want to know about?
+Speaker1: I recently became interested in the iPhone 13 from Apple, but I don't know what the current price of this phone is.
+Speaker2: The iPhone 13 is very popular in our store. The current price is six thousand five hundred yuan, but there is now an activity, so you can enjoy some discount.
+Speaker1: Is there any activity, how much discount can I get?
+Speaker2: During the activity, you can get a five hundred yuan discount, so you only need six thousand yuan to bring it back home.
+Speaker1: How long will it take for delivery?
+Speaker2: Our store supports nationwide shipping, usually, after placing an order, it can be delivered within two to three days.
+Speaker1: Okay, can you tell me about your after-sales service if there are any problems with the phone?
+Speaker2: We provide nationwide insurance services, any issues can contact our customer service, will provide corresponding solutions based on specific situations.

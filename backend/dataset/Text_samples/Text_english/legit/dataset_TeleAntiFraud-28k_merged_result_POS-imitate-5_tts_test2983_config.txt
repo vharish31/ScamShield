@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from some e-commerce platform. You have a large amount of shopping points on your account, which will expire at midnight tonight.
+Speaker2: Really? How did I miss that?
+Speaker1: Yes, these points are from your accumulated purchases, you can redeem them for about 4,000 yuan.
+Speaker2: How do I use these points?
+Speaker1: You just need to log in to our platform, select the products you want, and then choose to use point deduction during payment.
+Speaker2: Okay, now I'll go take a look.
+Speaker1: Okay, you can take a look at our recommendations, such as electronic products and home decor, they are very practical.
+Speaker2: Thanks for reminding me, I've noted it down.
+Speaker1: No problem, feel free to contact me if you have any other questions. Have a great shopping!
+Speaker2: Okay, thank you, bye.

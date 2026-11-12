@@ -1,0 +1,9 @@
+Speaker1: Hey, hi, this is the small Zhang from Shanghai Bank Personal Loan Center, recently they introduced a low interest credit loan, do you have any interest in learning more?
+Speaker2: I don't need a loan right now.
+Speaker1: Oh, that's right. But our product's interest rate is really low, and the approval process is very fast. If you have other financial needs, such as investment or consumption, you can also consider it.
+Speaker2: How do you apply?
+Speaker1: It's very simple. Just scan this QR code to download our loan app, fill out the relevant information, and submit it. We'll have a specialist contact you after.
+Speaker2: Where is the 2D code?
+Speaker1: You can open WeChat, search for the public account 'Shanghai Yinhang Daihuai Xuetai', follow it and you'll see the QR code on the first page, very convenient.
+Speaker2: Okay, let me try.
+Speaker1: Great! You can contact me anytime if you have any questions. My phone number is 18700000000. Best wishes for your application!

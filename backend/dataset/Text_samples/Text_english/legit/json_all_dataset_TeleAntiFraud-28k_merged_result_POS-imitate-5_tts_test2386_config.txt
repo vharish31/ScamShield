@@ -1,0 +1,10 @@
+Speaker1: Hello, I am Lee Huai, I saw you guys recruiting, want to know more
+Speaker2: Hello, Li Huai, which position do you want to know about?
+Speaker1: Can you tell me which positions are still missing personnel in your company?
+Speaker2: What position are you interested in?
+Speaker1: Can you tell me the specific requirements for the sales position?
+Speaker2: The sales position mainly involves promoting products and maintaining customers, requiring good communication skills and sales techniques, with relevant experience given priority.
+Speaker1: I worked in the sales department of a small company for two years, my performance was always good, I think I can handle this position
+Speaker2: That's great, you can send me your resume, let's arrange a time for an interview.
+Speaker1: Okay, my email is lihua@example.com. I will send my resume over quickly. Thank you!
+Speaker2: Got it, we'll arrange it quickly, wish you all the best!

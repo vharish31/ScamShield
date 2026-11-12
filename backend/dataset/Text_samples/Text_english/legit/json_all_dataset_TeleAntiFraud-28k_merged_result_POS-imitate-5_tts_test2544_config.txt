@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, I recently want to buy a new phone, I heard there are many new models here, can you introduce them to me?
+Speaker2: Hello, little Li, I am the customer service specialist here, of course! We have many new brand phones here, which one do you like the most?
+Speaker1: Can you tell me the price and main features of the latest apple?
+Speaker2: The latest iPhone 14 Pro model is available here for 8999 yuan. It is equipped with the A16 chip, supports 5G networks, has a 120Hz refresh rate, and its camera performance is excellent, making it the preferred choice for photography enthusiasts.
+Speaker1: The sound is good, but I'm more concerned about the battery life of this phone, how long does it last?
+Speaker2: The iPhone 14 Pro has made many optimizations in battery life, which can meet the needs of normal use for a whole day. If you are a heavy user, you may need to carry an extra charger.
+Speaker1: Okay, can you tell me if this phone is in stock, I'm quite busy lately and I hope to get it soon.
+Speaker2: Currently our store has iPhone 14 Pro in stock, you can choose to pick it up directly at the store or have us deliver it to your door, very convenient.
+Speaker1: That's great, I have some free time tomorrow afternoon, can I come to your store to check out the real thing and decide if I want to buy it?
+Speaker2: Okay, tomorrow our business hours are from 9am to 9pm. You can come anytime. I'll explain in detail then, I hope you find a satisfactory phone.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Hi, I'm your friend Li Xiao, where are you?
+Speaker2: I'm waiting for you at the station exit.
+Speaker1: Hey, are you lost at the bus station?
+Speaker2: No, I followed the navigation, there's only one bus station here.
+Speaker1: It might be a navigation issue. Wait a minute, I'll be right over.
+Speaker2: Okay, I'll wait for you here. Wear blue clothes.
+Speaker1: What are you wearing blue clothes?
+Speaker2: I'm wearing a black jacket, hurry up and come over, it's a bit windy here.

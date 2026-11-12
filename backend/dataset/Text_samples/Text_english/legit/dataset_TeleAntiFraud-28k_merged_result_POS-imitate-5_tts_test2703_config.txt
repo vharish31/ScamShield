@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiao Ming, I saw a smartwatch on your online store, I want to ask a few questions.
+Speaker2: Hello, Xiao Ming, I am customer service representative Zhang, very happy to serve you. Which smartwatch do you want to know about?
+Speaker1: That black strap watch with a silver dial that supports heart rate monitoring.
+Speaker2: Okay, that smartwatch is our store's bestseller, with features like heart rate monitoring and step count tracking, it's very practical.
+Speaker1: How much does this watch cost?
+Speaker2: This smartwatch costs 980 yuan, and you can enjoy a 90% discount when buying it now.
+Speaker1: How long does the battery of this watch last approximately?
+Speaker2: This smartwatch's battery life is approximately one week, under normal use, one charge per week is enough.
+Speaker1: That's fine, can I return it if I'm not satisfied?
+Speaker2: Of course, our store supports seven-day no-reason return and exchange, as long as the watch remains unaltered, it will not affect the second-hand sale, and it can be returned and exchanged.

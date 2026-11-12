@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, this is the customer service representative of some certain express company, I am small Zhang. You have a package that was returned because the address was not detailed, we need you to confirm the information.
+Speaker2: Oh, really? I recently did some online shopping, maybe I made a mistake with the address.
+Speaker1: Okay, to confirm the information, please click on the link we sent, fill in the detailed address and contact information, and then we can reschedule the delivery.
+Speaker2: Okay, I'll check my messages later.
+Speaker1: Okay, just a moment, I will send it to you right away. Additionally, for the sake of ensuring your information security, you may need to provide your identity card number, we will verify it.
+Speaker2: Okay, just a moment, I'll text you after I get the message.
+Speaker1: Okay, could you please confirm the information, so we can quickly process it, thank you for your cooperation.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your store has any new sports shoes?
+Speaker2: Hello, yes, we recently received a new batch of products, many styles to choose from.
+Speaker1: That's great, I recently came across a white and red striped one, do you guys have it?
+Speaker2: Yes, that style is very popular, but because it sells quickly, there might not be much stock left.
+Speaker1: Can I buy that now?
+Speaker2: Sure, you can come directly to try on. If there's no suitable size, I can help you register, and notify you as soon as the goods arrive.
+Speaker1: Okay, I'll go now. What's your address?
+Speaker2: Our store is on the third floor of the Star Light Square in the city center, next to the south entrance, easy to find.
+Speaker1: Okay, thank you. I'll be there in about half an hour.
+Speaker2: Okay, we're waiting for you here. Be careful on the road.

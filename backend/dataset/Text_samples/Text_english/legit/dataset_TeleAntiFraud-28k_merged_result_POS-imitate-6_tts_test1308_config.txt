@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the restaurant in Hong Kong, you ordered five ice creams before, but we only have three here, do you want to pay two dollars on site or online?
+Speaker2: Can I refund on the spot?
+Speaker1: Okay, I'll just give it to you directly.
+Speaker2: Okay.
+Speaker1: Can you come over later and pick me up?
+Speaker2: I'll be back in a while.
+Speaker1: Okay, we close the door at two in the afternoon. Please come as early as possible.
+Speaker2: I arrived half an hour ago.
+Speaker1: Okay, no problem. Thank you.
+Speaker2: Okay, bye.
+Speaker1: Goodbye.

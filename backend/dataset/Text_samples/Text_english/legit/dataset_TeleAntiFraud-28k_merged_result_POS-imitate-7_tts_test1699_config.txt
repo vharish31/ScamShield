@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if there's a two-person dish here?
+Speaker2: Yes, we have several two-person dishes here, including special dishes and desserts. Would you like to know more?
+Speaker1: Sure, can you introduce yourself?
+Speaker2: Of course. Our couple set meal A includes two portions of special fried dishes, one soup and one dessert, priced at 200 yuan. Set meal B includes three portions of special dishes, one soup and two desserts, priced at 250 yuan.
+Speaker1: Does the quantity of these dishes seem sufficient for two people to eat?
+Speaker2: Yes, these portion sizes are designed for two people, allowing you to sample a variety of dishes without wasting.
+Speaker1: Okay, can I reserve set B for tonight at seven o'clock?
+Speaker2: Okay, I have reserved table B for tonight at 7 pm. Alright, I have recorded it down for you. Just come to the store when it's time, and if there are any changes, please contact us in advance.

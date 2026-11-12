@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Li?
+Speaker2: Yes, I am small Li, you are?
+Speaker1: Hi, I'm Zhang from JD Finance customer service. Our system shows that you have an overdue order that needs immediate processing, otherwise it will affect your credit record.
+Speaker2: Really? I haven't noticed this issue recently.
+Speaker1: Yes, this is an important order. You need to handle it immediately. For your convenience, I can send you a link. Just click on the link and you can handle it directly.
+Speaker2: How do I confirm this link is safe?
+Speaker1: This link is our official JD Finance processing page, absolutely safe. You can rest assured to click it, and we will send you a confirmation SMS. You can verify the link in the SMS.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the message has been sent. Please pay attention to check it. After clicking on the link, please follow the instructions on the page. If there are any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help.

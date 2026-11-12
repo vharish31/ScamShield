@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I just moved here, I'm not very familiar with this environment, can you help me find my way?
+Speaker2: Hello, where are you going?
+Speaker1: I want to go to the park nearby, I heard the scenery is nice there, I want to go for a walk on the weekend.
+Speaker2: Oh, that park is really good, after you come out from home, keep walking forward, walk to the first crossroad, then turn right.
+Speaker1: Okay, turn right after that?
+Speaker2: After turning right, you continue walking for about five minutes, and you will see a red and green light. After passing the red and green light, turn left, and you will see the entrance to the park.
+Speaker1: Got it, turn left after the red light, and you'll see the park entrance, thanks.
+Speaker2: No problem, the weather on weekends is nice, going for a walk in the park is really comfortable, wish you have fun.
+Speaker1: Thank you, thank you again for your help, goodbye!
+Speaker2: Goodbye, have a nice walk!

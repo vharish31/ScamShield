@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Yes, who are you?
+Speaker1: I am a client manager at Zhong Xing Bank, named Zhang Huai, we have a special loan product for small and medium-sized enterprises, with a very low interest rate, and simple procedures.
+Speaker2: Uh, is that so? I'm a bit tight-handed right now, can you give me a specific explanation?
+Speaker1: Of course, in order to better understand your needs, I need you to fill out an online application form first, so we can process it more quickly.
+Speaker2: Okay, how do I fill it out?
+Speaker1: Just click this link and follow the page instructions to fill out the relevant information.
+Speaker2: Link? Okay, I'll try.
+Speaker1: Okay, thank you very much for your cooperation. After you fill it out, we will have a specialist contact you.
+Speaker2: Okay, thank you.

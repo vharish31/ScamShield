@@ -1,0 +1,13 @@
+Speaker2: Hey
+Speaker1: Hey, do you have any good restaurant recommendations near your new place?
+Speaker2: Hey, there's a new Sichuan restaurant that opened up recently, the food is great, you should give it a try.
+Speaker1: Sichuan restaurant, I like spicy food now.
+Speaker2: That's great, you must like it. Their steamed fish is very famous.
+Speaker1: Steaming fish sounds great. What are their business hours?
+Speaker2: They open at 11 am and close at 10 pm.
+Speaker1: Okay, I'll try it out this weekend. Thank you for your recommendation.
+Speaker2: No problem, I hope you like it. Let me know your opinion later.
+Speaker1: I'm sure, we'll contact you later.
+Speaker2: Okay, have a good weekend.
+Speaker1: You're welcome, you too. Goodbye.
+Speaker2: Goodbye.

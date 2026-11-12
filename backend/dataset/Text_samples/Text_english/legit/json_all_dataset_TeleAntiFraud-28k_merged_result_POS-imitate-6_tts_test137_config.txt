@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'll find little Zhang
+Speaker2: Hello, little Zhang is not here, I am his colleague little Li, what can I help you with?
+Speaker1: Hey, little Li, I'm little Wang, I want to ask little Zhang when the goods we ordered before will arrive?
+Speaker2: Little Wang, hello, when should the batch goods arrive? Little Zhang went out today, I'll confirm the specific time and get back to you, okay?
+Speaker1: Okay, okay, can you please let me know if there are any changes?
+Speaker2: No problem, I will notify you in time. Are there any other things you need me to help with?
+Speaker1: I'm not available right now, if you have anything, please contact me later, thank you for your help.
+Speaker2: No problem, feel free to contact me anytime, wish you a happy day!
+Speaker1: I wish you a happy day, goodbye.
+Speaker2: Goodbye, little king.

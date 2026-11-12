@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, how's the weather on your side?
+Speaker2: The weather here is quite good, just a bit hot. How about there?
+Speaker1: It's hot here too. I'm planning to go out and play on the weekend. Do you have any recommendations for places to go?
+Speaker2: You can go to the city park and see the lake there, and you can also row a boat, it's quite cool.
+Speaker1: What's the way over there?
+Speaker2: You can take the subway to the park station and walk north for five hundred meters to reach it.
+Speaker1: Okay, thank you for your advice. I'll try it this weekend.
+Speaker2: No problem, have fun. See you this weekend!
+Speaker1: Okay, see you this weekend!

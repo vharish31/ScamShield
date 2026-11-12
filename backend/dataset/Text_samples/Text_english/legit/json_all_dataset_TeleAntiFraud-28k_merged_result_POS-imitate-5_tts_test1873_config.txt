@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? Can I send your food now?
+Speaker2: Hello, can I send it now, I'm waiting here already.
+Speaker1: Okay, where are you now, let me send the delivery guy over.
+Speaker2: I'm in the building number 5, unit 3, of the building next to the cultural square.
+Speaker1: Okay, apartment 5, unit 3, I'll arrange it right away. It should take about 20 minutes to arrive. Is that okay?
+Speaker2: Sure, thank you, you worked hard.
+Speaker1: No problem, is there anything else that needs help?
+Speaker2: I don't have anything now, just wait for dinner.
+Speaker1: Okay, please check your phone, our delivery man will contact you.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye, wish you enjoy your meal.

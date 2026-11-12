@@ -1,0 +1,11 @@
+Speaker2: Who
+Speaker1: Hello, I am small Li from the community management, recently we received some feedback from residents saying that the streetlights are broken, do you have this situation in your neighborhood?
+Speaker2: Oh, that's right, the bulb on my side of the house is really broken, it's not very convenient to walk at night.
+Speaker1: Thank you for your feedback. We will arrange a maintenance person to check and replace as soon as possible. Additionally, if you need further assistance, please feel free to contact us at any time.
+Speaker2: Okay, thank you. Right, my faucet also has a little leak, can we fix it together?
+Speaker1: Of course, I will record it at the same time. The repairman will come to your door at around 10 am tomorrow morning. Is that convenient for you?
+Speaker2: Ten o'clock is fine, I was at home at that time.
+Speaker1: Okay, that's how it is. If there are any changes, we will notify you in advance. Do you have any other questions?
+Speaker2: No longer available, thank you.
+Speaker1: No problem, feel free to contact us anytime. Wish you a happy life, goodbye.
+Speaker2: Goodbye.

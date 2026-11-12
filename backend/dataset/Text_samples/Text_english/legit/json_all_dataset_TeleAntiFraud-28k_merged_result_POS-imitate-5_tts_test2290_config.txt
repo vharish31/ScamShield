@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I'm at your store door, take out is here.
+Speaker2: Hello, little Li, wait a moment, I'll be right down soon.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: You're welcome, please wait a moment, I'll be right down.
+Speaker1: No problem, come down quickly, the wind outside is a bit big.
+Speaker2: Okay, okay. I'll be there soon.
+Speaker1: Hey, hurry up.
+Speaker2: I've already gone out, just wait a moment.
+Speaker1: Okay, I see you, hurry up.
+Speaker2: Okay, I'll be there soon.

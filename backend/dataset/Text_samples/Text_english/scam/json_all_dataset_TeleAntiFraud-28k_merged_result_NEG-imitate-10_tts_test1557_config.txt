@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, this is four-way express, you have a package to pick up.
+Speaker2: Hello, I haven't shopped recently, what's the matter with fast delivery?
+Speaker1: It's probably your friend or family who bought it for you. Could you please provide your name and phone number? We'll verify the information.
+Speaker2: I am Li Huai, my phone number is 12345678901.
+Speaker1: Mr. Li, we checked and there is indeed a package, but due to incorrect information, you need to click on the link to complete the information.
+Speaker2: Okay, how do I click on a link?
+Speaker1: Please wait for a moment, I will send you a short message with a link. Click on the link and follow the instructions to update the information.
+Speaker2: Okay, I'm waiting for your text message.
+Speaker1: Okay, the text message has been sent. Please check it. If you have any issues, feel free to contact me anytime.
+Speaker2: I got the text message, now I'm going to operate. Thank you.
+Speaker1: No problem, wish you good luck with your operation, bye.

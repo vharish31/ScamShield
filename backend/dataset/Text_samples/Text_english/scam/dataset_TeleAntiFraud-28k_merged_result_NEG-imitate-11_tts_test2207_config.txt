@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the delivery customer service, there is a package that couldn't be delivered because of the address issue, you need to confirm it.
+Speaker2: Oh, really? I didn't receive the text message notification.
+Speaker1: It's possible that your phone is set to block, I can help you handle it on this end, but you need to provide the order number and delivery phone number.
+Speaker2: Okay, order number is one two three four five six, phone number is zero zero zero zero zero zero zero zero0.
+Speaker1: Okay, I have recorded it. For convenience in processing, I need you to download our latest express delivery service app by clicking on this link.
+Speaker2: Okay, I'll go download it.
+Speaker1: After downloading is complete, you can input the verification code in the app, the verification code is six six six six, then you can complete the identity verification.
+Speaker2: Okay, I see it, the verification code has been entered.
+Speaker1: Great! You can now directly query your package status in the app. If you have any questions, please contact our customer service anytime.
+Speaker2: Okay, thank you, then I'll hang up the phone.
+Speaker1: No problem, wish you happy life, bye.

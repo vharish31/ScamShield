@@ -1,0 +1,12 @@
+Speaker1: Hey, are you there?
+Speaker2: Who are you? What do you want?
+Speaker1: I am a customer service representative from China Construction Bank. We noticed you have some recent online shopping records. We have a promotion that can provide you with interest-free installment service. Are you interested?
+Speaker2: No interest payment? It sounds good, how to apply?
+Speaker1: Great, just click on the link we sent you and fill out some basic info to quickly apply for our service.
+Speaker2: Okay, how do I get this link?
+Speaker1: I will send you the link via text message, just click on the link once you receive it.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, just a moment and you'll receive it. By the way, have you recently planned to buy any big-ticket items, like electronics or furniture?
+Speaker2: I recently wanted to buy a new TV, but I'm still hesitating.
+Speaker1: That's really amazing, we just happen to have a TV shopping festival with huge discounts, you can click the link to see more discount information.
+Speaker2: Listen well, I'm waiting for a text message.

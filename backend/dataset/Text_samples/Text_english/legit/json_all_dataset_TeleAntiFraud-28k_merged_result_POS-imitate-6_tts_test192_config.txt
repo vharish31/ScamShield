@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I'm your designated driver, I've arrived at the agreed location.
+Speaker2: Okay, I'll come down right away.
+Speaker1: Okay, I'm waiting for you in the car.
+Speaker2: Could you please tell me how much the car fare is?
+Speaker1: According to the platform, the fare is 44 yuan.
+Speaker2: Forty-four yuan, do you have a friend to share the price?
+Speaker1: Two people's conversation needs to add ten yuan.
+Speaker2: Okay, I'll pay 54 yuan first.
+Speaker1: Okay, after you pay, I'll leave.

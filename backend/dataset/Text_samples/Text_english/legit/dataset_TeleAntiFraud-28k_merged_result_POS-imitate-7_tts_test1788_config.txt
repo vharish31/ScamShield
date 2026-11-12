@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang. I just saw a phone on your website. Can I ask you a few questions?
+Speaker2: Hello, I am customer service Li, what can I help you with?
+Speaker1: This is the case, I saw a phone, but I don't know the battery life of this phone, how long can it be used?
+Speaker2: This phone's battery capacity is 4000mAh, which can be used for a whole day under normal use, and even two days with light usage.
+Speaker1: What is the megapixel count of this phone's camera?
+Speaker2: This phone's main camera is 48 million pixels, the front-facing camera is 16 million pixels, the photo effect is excellent, and the night shooting mode is outstanding.
+Speaker1: Can you tell me if there are any discount activities for purchasing now?
+Speaker2: Currently we have a limited time discount. Buy this phone and enjoy a 90% discount, and you can also exchange a hundred yuan for the original price of five hundred yuan's earphone, which is very cheap.
+Speaker1: Okay, then I'll think about it, and if I decide to buy, how do I place an order?
+Speaker2: You can place an order directly on our official website or through our customer service hotline. We will have professional customer service representatives serve you.

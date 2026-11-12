@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Do you provide pet grooming and beauty services here?
+Speaker2: Hello, do you want to make an appointment for our pet grooming service?
+Speaker1: Yes, I have a golden hair, I want to give it a full body beauty treatment.
+Speaker2: Okay, for the golden retriever, we recommend doing a full body check to ensure there are no skin diseases or allergies.
+Speaker1: Do I need to pay extra for a physical examination?
+Speaker2: Yes, the physical examination fee is 200 yuan, the beauty service fee is 400 yuan, adding up to a total of 600 yuan.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: I suggest you book in advance, so we can reserve time for you, avoiding waiting.
+Speaker1: Okay, can I make a reservation for this weekend, at 10 am on Saturday morning?
+Speaker2: On Saturday morning at 10 o'clock, we will arrange a professional beauty stylist for you.

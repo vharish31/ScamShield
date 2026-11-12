@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I want to ask if your restaurant has a vegetarian set meal?
+Speaker2: Hello, Xiaoming, we have a vegetarian set meal here, which one would you like to know more about?
+Speaker1: Can you tell me about the best-selling kind and how much it costs?
+Speaker2: Our four-season vegetable set meal, which includes seasonal vegetables, soy products, and a soup, costs 50 yuan.
+Speaker1: What time does your restaurant open?
+Speaker2: Our restaurant is open from 11 am to 9 pm every day.
+Speaker1: Okay, can I reserve a seat for tomorrow at noon?
+Speaker2: Of course, I can help you book a seat at noon tomorrow, can I book a few seats?
+Speaker1: Two people.
+Speaker2: Okay, the two seats have been reserved for you, see you tomorrow at noon!

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the food platform, you ordered a takeout from us before, do you want to know your satisfaction with the service and food?
+Speaker2: "Hey, you're good, that takeout is pretty good, pretty on time, the food is okay."
+Speaker1: That's great, thank you for your feedback. Our platform is always committed to providing better service, if you have any opinions or suggestions, please feel free to tell us anytime.
+Speaker2: Hey, okay, thanks. Right, I saw a new user promotion recently, can my friend register to enjoy the discount?
+Speaker1: Of course, our platform has a recommendation reward mechanism. For every successful referral of a new user who places an order, you and your friend can both get a one-time discount.
+Speaker2: Okay, I'll send the link to my friends.
+Speaker1: Thank you very much for your support. If your friend has any questions, please feel free to contact our customer service at any time.
+Speaker2: Okay, thank you for reminding me, I will tell them.
+Speaker1: No problem, I hope you all have a pleasant dining experience on our platform. Is there anything you need help with?
+Speaker2: No longer available, thank you.

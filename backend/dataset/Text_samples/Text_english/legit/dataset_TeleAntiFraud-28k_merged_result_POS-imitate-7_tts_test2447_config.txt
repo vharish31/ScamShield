@@ -1,0 +1,9 @@
+Speaker1: Hello, Iceberg Taxi Service.
+Speaker2: Hey, how are you? I want to go to the ice rink, can you come pick me up?
+Speaker1: Okay, can you confirm the order? I'll come over right away to pick you up.
+Speaker2: Okay, I have confirmed it, can you arrive in about a few minutes?
+Speaker1: The road is a bit congested, it should take about fifteen minutes to arrive.
+Speaker2: Okay, I'll wait for you at the door, call me when you arrive.
+Speaker1: Okay, I've seen the location you sent, I'll contact you when I arrive.
+Speaker2: Okay, worked hard, pay attention to safety on the road.
+Speaker1: Thank you, be careful on the road, see you later.

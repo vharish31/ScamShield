@@ -1,0 +1,10 @@
+Speaker2: Who
+Speaker1: Hello, I am small Li from the family service, recently we launched the spring cleaning service, do you need it?
+Speaker2: Housekeeping services, my house is pretty clean right now, no need for the time being.
+Speaker1: Ah, that's great. But the weather in spring is quite variable, sometimes there's more dust, our service can help you save a lot of trouble.
+Speaker2: Hmm, sounds good, but I need to check my schedule. What's your service time?
+Speaker1: Our service time is very flexible, we can arrange it according to your needs. Is there any special time you require between 9am and 6pm?
+Speaker2: Can I work on Saturday morning?
+Speaker1: Saturday morning is fine, can we schedule a meeting at 10 am? Is that possible?
+Speaker2: Ten o'clock, okay, then I'll wait for you at the door.
+Speaker1: Okay, we will arrive on time on Saturday morning. If there are any changes, we will contact you in advance. Thank you for your trust. Wish you a good day!

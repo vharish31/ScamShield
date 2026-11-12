@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Xiao Ming, recently looking for a job, saw your company has a recruitment program for programmers, want to know more.
+Speaker2: Hi, I'm recruiter Li, what are you interested in?
+Speaker1: I'm particularly interested in backend development using Java language projects.
+Speaker2: Okay, we have a Java development position that requires at least two years of work experience. Do you meet this requirement?
+Speaker1: I've been working for two and a half years, mainly doing Java development, and also some applications using the Spring framework.
+Speaker2: Good, your experience matches our requirements. We can arrange an interview, what time is convenient for you?
+Speaker1: Can I schedule something on Thursday afternoon this week?
+Speaker2: Okay, let's meet on Wednesday afternoon at 2:00 PM, arriving ten minutes early is fine.
+Speaker1: Okay, I'll arrive on time at 2 pm on Wednesday, thank you for arranging it.
+Speaker2: No problem, wish you a successful interview, see you on Wednesday.

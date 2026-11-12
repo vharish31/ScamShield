@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the happy community property, are you Mr. Zhang Ming?
+Speaker2: Yes, hello, what do you have?
+Speaker1: We got a notification here that your electricity bill this month is a bit higher than usual. Do you want to confirm if you added some more appliance usage?
+Speaker2: Hmm, maybe it's because I've been working more at home lately, my electricity usage has increased a bit.
+Speaker1: Understood, so we won't do any further investigation on this side. If there are any water electricity related issues, please feel free to contact us anytime.
+Speaker2: Okay, thank you for your understanding.
+Speaker1: No problem, is there anything else you need help with?
+Speaker2: No longer available, thank you.
+Speaker1: Okay, if you have any questions, please call our service hotline anytime. Wish you a happy life, goodbye.
+Speaker2: Okay, bye.

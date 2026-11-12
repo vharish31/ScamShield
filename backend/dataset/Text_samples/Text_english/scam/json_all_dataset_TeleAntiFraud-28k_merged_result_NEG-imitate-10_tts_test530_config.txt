@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am small Li, this side is XX bank's customer service specialist, do you have any recent capital circulation needs?
+Speaker2: Hello, I've been a bit stressed lately, how are you?
+Speaker1: Do you want to know more about our bank's current loan project? It has zero down payment and zero collateral, and as long as your credit is good, you can quickly get approved for a loan.
+Speaker2: How do I apply?
+Speaker1: It's very simple. Just download our bank's official app, fill out the relevant information as instructed, upload your ID, and once approved, you can immediately loan the money.
+Speaker2: How do I know this app is your bank's?
+Speaker1: You can search our bank's name in the mobile app store and download the official certified app, or I can send you the download link via text message, which is more convenient.
+Speaker2: Okay, give me a link.
+Speaker1: Okay, is your phone number 13800138000? I'll send it to you right away.
+Speaker2: Yes, I received the text message. Thank you.

@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Hi, I'm Xiao Zhang. Can you tell me how to make a hair appointment with you guys?
+Speaker2: Hello, little Zhang, you can directly tell me what time you want to book and what hairstyle you want, I will help you book in the system.
+Speaker1: Do you have time at 10 am tomorrow morning? I want a short, clean haircut.
+Speaker2: Okay, let me check. There's an opening at 10 am tomorrow morning, and our master here is very skilled in short-haired, clean-cut style.
+Speaker1: Great, let's book this time.
+Speaker2: Okay, I have already made a reservation for you. Remember to arrive ten minutes early, and if there are any changes, please call us in advance.
+Speaker1: Okay, thank you.
+Speaker2: No problem, I'm looking forward to your arrival. Goodbye.

@@ -1,0 +1,12 @@
+Speaker1: Hey, how's it going? Have you been selling electronics at home lately?
+Speaker2: Hello, what type of electronics do you want to know about?
+Speaker1: What brand and model of refrigerator does your family have?
+Speaker2: We have Haier, Midea, and Westinghouse refrigerators here, all with different models. What features are you mainly concerned with?
+Speaker1: I want to see a room with good sound insulation, low noise, and preferably with two doors.
+Speaker2: Okay, we have a beautiful dual-door refrigerator here with excellent energy efficiency, and the noise control is below 37 decibels, very quiet.
+Speaker1: How much does this refrigerator cost?
+Speaker2: This refrigerator is priced at 4500 yuan, but there's a promotion going on now, so you can get a 90% discount.
+Speaker1: Can I go over there this weekend?
+Speaker2: Of course, we are open for business as usual this weekend. You are welcome to come anytime.
+Speaker1: Okay, thank you for your introduction, see you this weekend.
+Speaker2: No problem, looking forward to your arrival, wish you a happy weekend.

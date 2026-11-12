@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I made a haircut appointment yesterday, came today, are you available now?
+Speaker2: Hello, I'm quite busy right now, what time is your appointment?
+Speaker1: I have an appointment at 10 am.
+Speaker2: Okay, I remember. Have you arrived yet?
+Speaker1: Yes, I just arrived at the door.
+Speaker2: Please wait for a moment, I'll have my front desk colleague lead you in.
+Speaker1: Okay, thank you.
+Speaker2: No problem, please wait a moment, we'll be right over here soon.
+Speaker1: Okay, I'll just wait here for a moment.
+Speaker2: Okay, just a moment, we'll be right over.

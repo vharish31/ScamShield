@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the manager of the China Merchants Bank, right?
+Speaker2: Yes, you are?
+Speaker1: Mr. Li, I have a very good investment opportunity here that can guarantee high returns and low risk. Have you recently considered any investment matters?
+Speaker2: Hmm, I recently have some spare cash, can consider it.
+Speaker1: Great, this project is perfect for you. All you need to do is download our bank's exclusive app to easily manage your investment portfolio, making it convenient and quick.
+Speaker2: Is this app safe?
+Speaker1: Absolutely safe, Li Laoban, we are regular bank development, you can put your mind at ease using it. I will send the download link to your phone, you can download anytime.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Thank you for your trust, Li Laoban. If you have any questions, please feel free to contact me. By the way, I have a small matter to tell you. Recently our bank has launched an activity, and you can download it through my recommended link, and you can also get an extra gift.
+Speaker2: Okay, thank you.

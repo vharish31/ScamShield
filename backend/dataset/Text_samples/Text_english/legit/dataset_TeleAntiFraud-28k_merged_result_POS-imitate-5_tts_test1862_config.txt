@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, can I ask about the menu of your restaurant?
+Speaker2: Hello, Xiao Ming, I am the waiter of this restaurant, what can I help you with?
+Speaker1: Hey, what's your signature dish?
+Speaker2: Our restaurant's signboard menu has red braised pork, steamed fish and gong bao chicken, all of which are very popular.
+Speaker1: What are your business hours like?
+Speaker2: Our restaurant business hours are from 10 am to 10 pm, on weekends they will be extended to 11 pm.
+Speaker1: Okay, I plan to come at 7 pm on Saturday night. Do I need to make a reservation?
+Speaker2: If it's convenient, please make an appointment in advance, so we can ensure there's a place waiting for you.
+Speaker1: Can I reserve a table for two people on Saturday evening at 7 pm?
+Speaker2: Of course, I have already made an appointment for you. See you then!

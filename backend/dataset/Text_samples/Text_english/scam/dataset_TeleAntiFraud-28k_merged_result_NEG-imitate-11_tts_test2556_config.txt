@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you? I am customer service representative Lee.
+Speaker2: Yes, what do you have in mind?
+Speaker1: We found a recent package for you, but due to incomplete address information, it couldn't be delivered.
+Speaker2: What should I do, I really need this package now.
+Speaker1: Don't worry, we have a solution, but you need to cooperate a little.
+Speaker2: Okay, you say, what do I need to do?
+Speaker1: We have a safe link here, you can click it to supplement your address information, and we can immediately arrange delivery after that.
+Speaker2: Okay, I'll order now.
+Speaker1: Great, please fill out the information and we'll process immediately. Also, we found that your account may have security risks, so we recommend updating your account information.
+Speaker2: I did it too, safety first.

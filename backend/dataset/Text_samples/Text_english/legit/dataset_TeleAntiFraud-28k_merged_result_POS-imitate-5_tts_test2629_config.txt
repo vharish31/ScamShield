@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you give me some detailed information about your new smartwatch?
+Speaker2: Of course, our new smartwatch has features such as heart rate monitoring, sleep analysis, step count, and various watch face styles to choose from.
+Speaker1: How long does the battery of this watch last?
+Speaker2: The battery life of this watch is approximately one week, with specific time depending on usage frequency and opened features.
+Speaker1: If I'm not satisfied, can I return it?
+Speaker2: Of course, we have a seven-day no-reason return policy, as long as the watch remains unaltered and undamaged, it can be returned.
+Speaker1: Okay, I'll buy one first to try it out. How do I pay?
+Speaker2: You can choose online payment, we support multiple payment methods, including credit card, Alipay and Wechat Pay.
+Speaker1: Okay, I'll go place the order now. Thank you for your help.
+Speaker2: You're welcome, please feel free to contact our customer service anytime if you have any questions. Have a great shopping experience!

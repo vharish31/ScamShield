@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you? I want to consult your delivery service.
+Speaker1: Hello, of course. What can I help you with?
+Speaker2: Can you tell me your delivery time and if you have any discount activities?
+Speaker1: Our delivery time is from 11 am to 9 pm. For the promotion, a single order of fifty yuan can reduce ten yuan.
+Speaker2: What should I do if I need to make a reservation?
+Speaker1: You can place an order on our official website or through our mobile app, or you can call to reserve directly, the phone number is 137****.
+Speaker2: How long will it take for the reservation made by phone to arrive?
+Speaker1: In general, it takes about 30 to 45 minutes from placing an order to delivery, depending on the current order volume.
+Speaker2: Okay, thank you for your help.
+Speaker1: You're welcome, feel free to contact us anytime if you have any questions. Have a happy life!

@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer manager of the Agricultural Bank, Tianhe Branch, Li Ming. We noticed that you are one of our old customers, and we have a particularly good loan project that we would like to recommend to you.
+Speaker2: Can I borrow some money? I recently need a capital turnover, can you give me detailed information?
+Speaker1: Of course. This loan service is specifically designed for high-quality customers, no collateral required, can be approved and funded on the same day, interest rate is very competitive. You only need to provide some basic information, and we can start the application process right away.
+Speaker2: The online lending service sounds good, but I'm a bit worried about it.
+Speaker1: We completely understand your concerns, we are a regular bank, all operations are safe. For your convenience, we have developed a special app, you can complete all application processes through the app, very quick and convenient.
+Speaker2: APP? How do you ensure its safety?
+Speaker1: Our app is strictly certified for security, you can see our security certificate after downloading. Moreover, all sensitive information will be encrypted processing, absolutely will not leak your personal information.
+Speaker2: Okay, how do I download this app?
+Speaker1: It's very simple. Just scan this QR code and you can download our official app directly.
+Speaker2: Okay, let me try.
+Speaker1: Great! If you encounter any issues after downloading, feel free to contact me anytime. Enjoy your use!
+Speaker2: Thank you, I will contact you. Goodbye.
+Speaker1: Goodbye, I look forward to working with you.

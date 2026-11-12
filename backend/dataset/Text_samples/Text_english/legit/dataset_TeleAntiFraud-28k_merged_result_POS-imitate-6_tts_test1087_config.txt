@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'm here looking for work, I saw your job postings.
+Speaker2: Uh, is that so? Do you have any relevant work experience?
+Speaker1: Yes, I accumulated a lot of experience in my previous work.
+Speaker2: That's good, we need independent workers here.
+Speaker1: I am able to adapt and willing to learn new things.
+Speaker2: You can come here for an interview tomorrow.
+Speaker1: Okay, where is the specific address?
+Speaker2: The address is Jingming Road 108, we will welcome you at the front desk at 9 am in the morning.
+Speaker1: Okay, thank you, I will arrive on time.
+Speaker2: No thanks, I hope your interview goes well.

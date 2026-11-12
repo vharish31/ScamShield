@@ -1,0 +1,12 @@
+Speaker1: Hello, you good, is
+Speaker2: Hello, how are you?
+Speaker1: I am the person who contacted you about renting the room yesterday. I want to know more about the room's situation today.
+Speaker2: Okay, what specific aspects do you want to know about?
+Speaker1: How do you calculate rent, deposit and water/electricity fees?
+Speaker2: The monthly rent is 1500 yuan, the deposit is two months' rent, the electricity and water fees are calculated based on actual usage, and we use the average method here.
+Speaker1: Is the equipment in that room complete? For example, washing machine, air conditioner?
+Speaker2: The room is equipped with basic furniture, including a bed, wardrobe, and desk. The air conditioner and washing machine are shared and located in the public area on the corridor.
+Speaker1: Can I come see the house when it sounds good?
+Speaker2: Can you come over this afternoon around three o'clock?
+Speaker1: Let's meet at 3 o'clock. Let's meet at the door of the community.
+Speaker2: Okay, see you later.

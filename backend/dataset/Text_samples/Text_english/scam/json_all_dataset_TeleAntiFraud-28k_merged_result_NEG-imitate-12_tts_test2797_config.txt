@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm Liu Xiao, a customer service representative at Huaxing Bank. Do you have any recent financial needs?
+Speaker2: Hello, I have a funding need, but I'm not very familiar with the loan process.
+Speaker1: No problem, we have a dedicated fast loan channel here, just need to provide some basic information, can quickly approve, put money quickly.
+Speaker2: What information is needed?
+Speaker1: Please provide your ID number, phone number, and bank card information, and we will quickly process it on this end.
+Speaker2: How do I know you guys are legitimate?
+Speaker1: We have a regular business license, you can click this link to check our qualification certificate.
+Speaker2: Okay, I'll take a look.
+Speaker1: After clicking on the link, you will find detailed explanations on the page, as well as online customer service to answer your questions.
+Speaker2: I saw it, how do I apply?
+Speaker1: Click the application button on the page, fill in your information, and we will quickly review it. If we need more information, we will contact you.
+Speaker2: Okay, let me try.

@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I want to ask, what are the signature dishes of this restaurant?
+Speaker2: Hello, our restaurant's menu has Kung Pao Chicken, Water Boiled Fish, and Beef Stir Fry, all of which are very popular dishes.
+Speaker1: What are the prices of these dishes?
+Speaker2: The palace chicken drumstick is 35 yuan, the steamed fish is 60 yuan, and the beef stir-fry is 40 yuan.
+Speaker1: Okay, can I reserve a four-person seat for tomorrow night at 6:30 PM?
+Speaker2: Okay, the 6:30 PM on the 4-person position has been reserved for you. Do you need to leave contact information?
+Speaker1: Please, my phone number is 00000000000.
+Speaker2: Okay, I've recorded it down. See you tomorrow!
+Speaker1: Okay, thank you. See you tomorrow!

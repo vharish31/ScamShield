@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, looking for little Liu?
+Speaker2: Hello, I am little Liu, what do you have?
+Speaker1: Hey, is this how it is, I want to confirm the meeting time on Friday with you, is it convenient for you?
+Speaker2: The meeting time on Friday was three in the afternoon, right?
+Speaker1: Sure, it's at three in the afternoon. But I have some changes, maybe I need to go earlier, can you see?
+Speaker2: Okay, let me take a look, I think it should be fine, but I have another small meeting, about twenty minutes, it shouldn't delay.
+Speaker1: That's great, we can wait for a few minutes, it won't affect the meeting progress.
+Speaker2: Okay, let's settle it then. Two twenty at the meeting room, I'll just go there directly when the time comes.
+Speaker1: Okay, let's meet at 2:20, thank you, Liu Xiao.
+Speaker2: No problem, little Zhang, see you later.

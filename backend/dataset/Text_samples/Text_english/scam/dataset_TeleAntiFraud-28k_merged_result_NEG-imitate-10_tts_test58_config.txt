@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, I am a customer manager at China Construction Bank, I noticed you are one of our high-quality customers, and I want to recommend a special loan product to you.
+Speaker2: Hey, do you want a loan? I don't need it now.
+Speaker1: This loan product is very flexible, with interest rates as low as 2.3%, quick approval, and no collateral required.
+Speaker2: Sounds good, but I'm not using it now.
+Speaker1: Okay, then you can first understand a bit, add a WeChat, I will send you detailed information.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: My WeChat number is zxy123456, add me.
+Speaker2: Okay, I'll add you.

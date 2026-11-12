@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I found a washing machine on your website that I like, can you give me some details?
+Speaker2: Hello, I'm very happy to serve you, which washing machine do you prefer?
+Speaker1: It's the latest energy-saving type you just released, the page says it has intelligent washing functionality.
+Speaker2: Yes, the product you mentioned is one of our bestsellers, it does have smart washing functionality, which can automatically adjust water quantity and washing time based on the weight and dirtiness of the clothes.
+Speaker1: What is the price of this washing machine?
+Speaker2: The price of this washing machine is 3500 yuan, and you can now enjoy a 100 yuan discount when purchasing.
+Speaker1: Hmm, that sounds good. Can you deliver and install it at the door?
+Speaker2: Of course, we provide free door-to-door delivery and installation service. Just tell us a convenient time.
+Speaker1: Is four in the afternoon tomorrow at home convenient?
+Speaker2: No problem, we'll arrive on time at four o'clock tomorrow. Please prepare the delivery address and contact information beforehand.
+Speaker1: Okay, thank you, I'll see you tomorrow.
+Speaker2: You're welcome, wish you happy life, see you tomorrow.

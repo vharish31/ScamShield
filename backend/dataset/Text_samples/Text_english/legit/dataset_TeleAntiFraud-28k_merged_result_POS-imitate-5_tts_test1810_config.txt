@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently want to buy a new phone, can you recommend me one?
+Speaker2: Hey, hello, little Zhang, of course you can. What do you mainly use your phone for? Play games or take photos?
+Speaker1: I mainly use it for taking photos and occasionally play games.
+Speaker2: You can consider the new Xiaomi 11, the photo quality is excellent, the game performance is not bad, and the price is quite reasonable.
+Speaker1: How's the battery life of the Xiaomi 11?
+Speaker2: The battery capacity of the Xiaomi Mi 11 is 4000mAh, which is enough for normal daily use. However, if used heavily, it may need to be charged.
+Speaker1: Okay, then I'll go take a look. By the way, what kind of phone did you use?
+Speaker2: I use Huawei Mate 30, it's very good, especially for photography.
+Speaker1: I heard good things about the Huawei Mate 30, I'll consider checking it out next time. Thank you for your recommendation!
+Speaker2: No problem, feel free to contact me if you have other questions, I hope you find a satisfying phone.

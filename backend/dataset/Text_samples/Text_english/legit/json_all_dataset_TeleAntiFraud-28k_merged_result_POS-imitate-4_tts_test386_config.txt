@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is Blue Sky Home Service Company, I am customer service Zhang, want to consult your cleaning service.
+Speaker2: Hello, little Zhang, I recently need someone to help clean my house. What is your service time?
+Speaker1: We provide service from Monday to Sunday, 8am to 6pm, you can choose appropriate time.
+Speaker2: What about the price?
+Speaker1: We charge based on the size of the house, approximately fifteen yuan per square meter. If there are special cleaning requirements, it may be slightly more expensive.
+Speaker2: My home is about one hundred square meters, there are no particularly difficult places to clean.
+Speaker1: That's about 1500 yuan for your cleaning fees.
+Speaker2: Can you provide one-time or recurring services?
+Speaker1: We have two kinds of services, you can choose based on your needs. If you choose the regular service, we also have a discount.
+Speaker2: Okay, I'll think about it and get back to you if needed. Thank you.
+Speaker1: No problem, I'm looking forward to your call, wish you a happy life. Goodbye.

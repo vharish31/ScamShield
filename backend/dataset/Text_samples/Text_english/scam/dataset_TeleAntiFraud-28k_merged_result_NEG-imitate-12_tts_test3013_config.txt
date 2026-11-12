@@ -1,0 +1,10 @@
+Speaker1: Hello, you, I am the manager of Jiangcheng Yinhang.
+Speaker2: Hello, Li Manager.
+Speaker1: We noticed you recently have a funding need, so we prepared a 30,000 low-interest loan for you.
+Speaker2: Hmm, that sounds good, but do I really need it?
+Speaker1: Of course, this loan does not require collateral, the approval speed is fast, and it is very suitable for your kind of small and medium-sized enterprise.
+Speaker2: What do I need to do?
+Speaker1: Just download our app, fill out the relevant info, and we'll quickly approve.
+Speaker2: Do you want to download the app? No problem, right?
+Speaker1: Absolutely safe, our app has undergone strict security testing. After downloading, you can directly submit an application within the app.
+Speaker2: Okay, let me try.

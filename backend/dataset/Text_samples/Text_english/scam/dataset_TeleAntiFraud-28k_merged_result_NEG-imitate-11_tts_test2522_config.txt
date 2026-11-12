@@ -1,0 +1,10 @@
+Speaker1: Hello, is it Zhang woman?
+Speaker2: Hey, what's up?
+Speaker1: Hello, Ms. Zhang, this is the customer service representative of Tian An Kuai Di, we found that one of your packages was accidentally lost during transportation, we are very sorry.
+Speaker2: What? Did my package really get lost? What should I do?
+Speaker1: Yes, we have confirmed the situation, to make up for your loss, we have decided to give you a refund and an additional compensation of 200 yuan.
+Speaker2: Is it really? That's great, how do I refund?
+Speaker1: Just click on the link we send to you, follow the instructions on the page, and you can easily complete the refund and compensation.
+Speaker2: Okay, I'll go operate later.
+Speaker1: Okay, the link will be sent to your phone later. If you have any questions, please feel free to contact us. Once again, I apologize for any inconvenience.
+Speaker2: Thank you, I'll hang up now.

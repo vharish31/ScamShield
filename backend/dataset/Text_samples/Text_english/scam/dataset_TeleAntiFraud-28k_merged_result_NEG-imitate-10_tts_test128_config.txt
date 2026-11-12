@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Zhang Zhòng?
+Speaker2: Hey, I am, you are?
+Speaker1: Hi, I'm the manager of the company that received investment from Tianyi. I noticed that you've been paying attention to some investment and financial projects lately. Would you be interested in learning more about our high-yield investment products?
+Speaker2: Uh, I recently have some spare cash, but I haven't decided which specific project to invest in yet.
+Speaker1: Great, we have a very good project with a return rate of 150%, and the risk is very low. If you're interested, you can first register an account and learn more about the details.
+Speaker2: What information do I need to provide when registering an account?
+Speaker1: Just provide your name, phone number, and ID number, and the registration process is very simple. You can also add my WeChat, I will directly send you a link, more convenient.
+Speaker2: Add WeChat? Will it not be a bit unsafe?
+Speaker1: Don't worry, our company is legitimate. Adding WeChat is just for convenient communication. I can send you our company's qualification proof first, you can take a look.
+Speaker2: Okay, let me try. What's your WeChat number?

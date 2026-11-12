@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: Hey, I'm the waiter at Xiao Ming restaurant, did you reserve a private room at our restaurant yesterday?
+Speaker2: Yes, it was six and a half in the evening.
+Speaker1: Yes, we received your reservation. However, there's a small issue today. There are some activities at six and a half, which might be a bit noisy.
+Speaker2: Oh, what do we do now?
+Speaker1: What time works best for you, 5:30 or 7:30?
+Speaker2: Let's postpone it to 7:30, that's fine.
+Speaker1: Okay, let's adjust to 7:30. See you then!
+Speaker2: Okay, thank you for your help, see you later!

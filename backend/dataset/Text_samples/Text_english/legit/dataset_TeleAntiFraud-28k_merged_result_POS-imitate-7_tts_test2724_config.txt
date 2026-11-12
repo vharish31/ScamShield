@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I assist you?
+Speaker2: Hello, I want to inquire about your latest summer promotion activities, do you have any discounts?
+Speaker1: Of course, we have many products participating in our summer promotion, such as air conditioners and refrigerators, with different discount levels. Which specific product are you interested in?
+Speaker2: I recently wanted to buy an air conditioner, I heard that you guys have a new energy-efficient air conditioner with a good energy-saving effect.
+Speaker1: Yes, we have a new energy-efficient air conditioner that uses advanced variable frequency technology to effectively reduce energy consumption. It is currently participating in our summer promotion and is offering a 10% discount.
+Speaker2: How much does it usually cost to install this air conditioner?
+Speaker1: The installation cost varies depending on the specific installation environment, but in general, the standard installation cost is 200 yuan. If you need a more detailed quote, please provide your address, and our technical personnel will conduct an on-site assessment.
+Speaker2: Okay, can you give me the address and help me schedule a tech team member?
+Speaker1: Okay, I'll record it down. What's your address? (Provide address)
+Speaker2: Yes, that's this address.
+Speaker1: Okay, I will quickly arrange for a technical expert to come to your place for an assessment. Are there any other issues that need consultation?

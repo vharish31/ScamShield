@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the food square, do you have any reserved service?
+Speaker2: Hello, how are you? Yes, we provide scheduled services. What time would you like to schedule?
+Speaker1: I want to reserve a seat for two people at noon tomorrow.
+Speaker2: Okay, tomorrow at noon twelve, two people. Do you have any special seat requirements, like a window seat?
+Speaker1: If there's a spot by the window that's best, otherwise it's okay too.
+Speaker2: Understood, we will try to arrange seats by the window. Do you have any food preferences or allergies that need to be notified in advance?
+Speaker1: I don't have any specific food preferences, but I'm allergic to seafood, so please don't put seafood dishes on the menu.
+Speaker2: Okay, I've recorded it. Are there any other things that need special attention besides seafood?
+Speaker1: No more, just these.
+Speaker2: Understood, everything is arranged now. Tomorrow at noon twelve, two people, by the window, avoid seafood dishes. Looking forward to your arrival. Goodbye.
+Speaker1: Okay, thank you. Bye.

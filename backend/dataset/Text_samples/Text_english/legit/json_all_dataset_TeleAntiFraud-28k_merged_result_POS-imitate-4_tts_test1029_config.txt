@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, this is a hair salon, I'm little king, you made an appointment with us for haircut service on Friday afternoon, do you want to confirm if you can come?
+Speaker2: Hello, I am small Li, I check my schedule, on Friday afternoon should be okay.
+Speaker1: Okay, let's confirm the time, is it 3 pm in the afternoon?
+Speaker2: Yes, it's three in the afternoon.
+Speaker1: Okay, we will be ready for you at 3 pm on Friday. Please note that if your time changes, please contact us two hours in advance.
+Speaker2: Okay, I will pay attention, thank you for reminding me.
+Speaker1: No problem, if you have other needs, such as a specific haircut design, you can let me know in advance.
+Speaker2: I want a simple short haircut, not too complicated.
+Speaker1: I understand, we will design according to your requirements. If there's anything you're not satisfied with, you can bring it up during the haircut process anytime.
+Speaker2: Okay, thank you, see you on Friday.

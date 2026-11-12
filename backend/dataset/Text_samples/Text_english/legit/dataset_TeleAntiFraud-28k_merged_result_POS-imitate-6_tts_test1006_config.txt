@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Lee Huai, can you tell me your store's business hours?
+Speaker2: Hello, Lee Huang, our store is open from 10 am to 10 pm during weekdays and from 10 pm to 11 pm on weekends.
+Speaker1: Okay, thank you. Can I come at around seven in the evening? Do you guys have a spot at that time?
+Speaker2: Yes, do you want to reserve a place?
+Speaker1: Yes, can I reserve a four-person table?
+Speaker2: Sure, I'll reserve a four-person table for you. Can you please provide your contact information so we can confirm?
+Speaker1: Okay, my phone number is 1390000000, can you help me?
+Speaker2: Okay, I have recorded it for you. See you at seven tonight, see you then.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you tonight. I hope you have a pleasant dining experience.

@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Your takeout arrived, where are you?
+Speaker2: I'm still working overtime at the company, you can wait at the front desk for a while, I'll be back soon.
+Speaker1: Okay, I'll put it on the front desk. Remember to come and get it.
+Speaker2: Okay, thank you, you worked hard.
+Speaker1: No problem, this is my job.
+Speaker2: Hey, my colleague also ordered food, can we send it over together?
+Speaker1: Sure, I'll send it over in a moment.
+Speaker2: Thanks again.
+Speaker1: No problem, we're all here to serve everyone.

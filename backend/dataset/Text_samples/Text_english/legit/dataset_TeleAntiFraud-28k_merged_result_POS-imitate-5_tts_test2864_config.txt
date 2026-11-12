@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the delivery service hotline?
+Speaker2: Yes, hello, I am a delivery service staff, can I help you with anything?
+Speaker1: Can you deliver an order of takeout to Tian'an Xiǎoqū here?
+Speaker2: Sure, Tian An Xiao Qu is within our delivery range. What do you want to order?
+Speaker1: I want to order a spicy kung pao chicken and a spicy stir-fried bean sprout, and also a bottle of Coke.
+Speaker2: Okay, one portion of spicy chicken, one portion of sour and spicy bean sprouts, and one bottle of Coke, that's 38 yuan in total.
+Speaker1: Okay, how long will it take for me to pay and send it?
+Speaker2: After payment is successful, it will be delivered approximately 30 minutes later. If there is traffic congestion, there may be a slight delay.
+Speaker1: Okay, I paid.
+Speaker2: Okay, after the payment is successful, we will arrange delivery as soon as possible. If there are any issues, please contact us anytime.

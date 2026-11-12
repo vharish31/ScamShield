@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you comfortable talking over there, Li?
+Speaker2: Okay, little Li, you say.
+Speaker1: Do you know the transportation situation at West Lake this weekend?
+Speaker2: Do you want to drive or take the bus?
+Speaker1: I want to take the bus, but parking is inconvenient on that side.
+Speaker2: It's true that parking is difficult around West Lake. You can take bus one to Dragon Yuan Road, then transfer to bus three to West Lake Station, and you're there.
+Speaker1: How long will it take to listen to it?
+Speaker2: It should take about an hour or so, but it depends on your departure time. Early morning, evening, and peak hours may be slower.
+Speaker1: Okay, thank you for your advice. I will check the specific time in advance.
+Speaker2: No problem, have fun, feel free to contact me anytime if you need help.
+Speaker1: Okay, thank you. Bye.
+Speaker2: Goodbye.

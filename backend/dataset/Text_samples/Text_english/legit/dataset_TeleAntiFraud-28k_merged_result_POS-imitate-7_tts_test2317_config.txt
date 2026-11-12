@@ -1,0 +1,15 @@
+Speaker2: Hello!
+Speaker1: How are you over there?
+Speaker2: Hello, just arrived home, how about you?
+Speaker1: I'm outside, I'll go shopping in a minute.
+Speaker2: What do you want? Do you need help carrying it?
+Speaker1: No need, just some daily items, go yourself.
+Speaker2: Be careful on the road.
+Speaker1: Okay, thank you. Got it, do you have time tomorrow?
+Speaker2: What are you doing tomorrow afternoon?
+Speaker1: Let's go out for a meal together, a friend introduced a new restaurant, they say it's quite good.
+Speaker2: Sounds good, what time?
+Speaker1: How was it in the afternoon around six?
+Speaker2: Sure, let's meet at six.
+Speaker1: Okay, contact me later.
+Speaker2: Okay, be careful on the road.

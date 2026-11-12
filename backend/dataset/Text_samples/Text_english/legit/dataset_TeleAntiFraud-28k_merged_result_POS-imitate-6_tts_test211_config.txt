@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am the customer service for fast food delivery, we received your recent order.
+Speaker2: Yeah, I ordered some food
+Speaker1: Yes, you ordered a bowl of beef noodles, a small stir-fried pork, and a plate of pickled cabbage.
+Speaker2: Yes, just these
+Speaker1: Never mind, there's a small problem here. We're temporarily out of pickled cabbage on this side, can we give you some other vegetables instead?
+Speaker2: What other dishes can I substitute?
+Speaker1: Do you like the mapo tofu or the spicy stir-fried bean sprouts here?
+Speaker2: Then let's switch to spicy stir-fried bean sprouts.
+Speaker1: Okay, I have already changed it for you. It should take about 30 minutes to arrive. Is that okay?
+Speaker2: Sure, thank you.

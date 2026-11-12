@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Can you introduce some special dishes at your restaurant?
+Speaker2: Of course, our special dishes here include fish and pork slices, kung pao chicken and steamed fish, all carefully made by our chefs.
+Speaker1: What is your business hours?
+Speaker2: Our restaurant business hours are from 11 am to 9 pm, on weekends they will be extended to 10 pm.
+Speaker1: Sure, can I reserve a four-person table for tomorrow at noon?
+Speaker2: Sure, please tell me your phone number, I'll record it here.
+Speaker1: Okay, my phone number is one three four five six seven eight nine zero.
+Speaker2: Okay, I have already made a reservation for you. Tomorrow at noon twelve, for four people, just come directly at that time.

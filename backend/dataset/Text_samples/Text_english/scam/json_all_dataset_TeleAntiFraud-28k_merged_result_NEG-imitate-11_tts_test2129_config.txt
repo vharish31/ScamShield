@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm the credit manager of Jiangnan Bank, Zhang Huai.
+Speaker2: Hello, which bank are you from?
+Speaker1: I work at the Jiangnan Bank, we have a special loan product designed for businesses, with a low interest rate, fast approval, are you interested in learning more?
+Speaker2: I recently need to turn over some cash, what are the requirements for your loan?
+Speaker1: This loan product is mainly for small businesses. As long as you have stable business records, you can apply. Moreover, we now have a special promotion. If you apply successfully, you can enjoy an additional discount on interest rates.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: It's very simple. Just click on the link I send to you, download our app, and follow the instructions to complete the application.
+Speaker2: What is the name of your app?
+Speaker1: Our app is called "Jiangnan Kuài Shí Dàn". If you have any questions after downloading, please contact me. My phone number is 13123456.
+Speaker2: Okay, I'll give it a try, thank you.

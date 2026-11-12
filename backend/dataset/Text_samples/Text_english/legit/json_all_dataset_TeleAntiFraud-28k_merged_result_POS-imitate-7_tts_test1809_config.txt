@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, can you help me book a car for pickup service?
+Speaker2: Hello, little Zhang, can I help you book? Where are you now?
+Speaker1: I'm at the train station, ready to go to the airport, I'll need a car in about half an hour.
+Speaker2: Okay, I will book a comfortable car for you, it will take about half an hour to arrive.
+Speaker1: Great, thank you. Okay, can you tell me the car license plate number and the driver's contact information?
+Speaker2: Of course, the car plate number is Beijing A12345, the driver's phone number is 13800138000. You can directly contact the driver if you have anything.
+Speaker1: Okay, I will pay attention. Also, I brought some luggage, don't know if the vehicle can accommodate it.
+Speaker2: No problem, the trunk space of a comfortable car is large enough, you should be able to fit your luggage in it.
+Speaker1: Now I can relax, thank you for your help.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. Have a great trip!

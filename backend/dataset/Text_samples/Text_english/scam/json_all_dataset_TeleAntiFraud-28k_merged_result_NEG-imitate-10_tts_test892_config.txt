@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the manager of the loan department at Huaxia Bank, and we noticed that you recently have a funding need. Would you like to know more about our low-interest loan service?
+Speaker2: I don't have any needs at the moment.
+Speaker1: Understood, but considering the possibility of future needs, I can provide you with a discount code. Just enter this discount code and you'll enjoy a lower interest rate. Can you provide a contact method?
+Speaker2: Okay, you say.
+Speaker1: Great, the discount code is HXYH2023, you can use this code to contact us. Additionally, I have a link here, you can click on it to get more detailed information about our loan products.
+Speaker2: I received the link you sent, thank you.
+Speaker1: No problem, feel free to contact me if you have any questions. By the way, we also have a limited-time activity. Just download our app to get an additional discount opportunity.
+Speaker2: Can I download the app too?
+Speaker1: Yes, there are many convenient services in the app, such as quick loan application and online customer service. After downloading, enter the discount code you just used, and you can see the specific activities.
+Speaker2: Okay, let me try.

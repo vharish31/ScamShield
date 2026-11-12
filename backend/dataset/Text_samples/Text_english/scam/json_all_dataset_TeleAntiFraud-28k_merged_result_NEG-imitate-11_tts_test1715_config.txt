@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am a customer manager of China Construction Bank, my name is Li Ming.
+Speaker2: Hello, what do you have?
+Speaker1: Do you want to know more about our recent loan service that has a very low interest rate and doesn't require collateral?
+Speaker2: Hey, I recently need some cash flow, can you give me a detailed explanation?
+Speaker1: Of course. Our loan service is very convenient and quick, you just need to download our app, fill out some basic information, and you can apply.
+Speaker2: Do you need to download which app?
+Speaker1: Yes, you just need to search '中信速贷' in the mobile app store, download and register, and we have a dedicated customer service team to guide you through the application process.
+Speaker2: It sounds pretty convenient, but I'm worried about safety issues.
+Speaker1: You can rest assured that our app is officially certified and very safe. For your convenience, I have a special link here that you can directly click to download.
+Speaker2: Okay, then I'll try. Can you give me a link?

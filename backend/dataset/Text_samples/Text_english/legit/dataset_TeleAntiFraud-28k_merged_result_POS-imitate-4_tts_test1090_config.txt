@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I reserved a seat at your restaurant for tonight at 7pm, can you confirm?
+Speaker2: Okay, what is your reservation name?
+Speaker1: The reservation is under Lin's name.
+Speaker2: Okay, Lin's reservation has been recorded. We will reserve a seat for you at seven o'clock tonight.
+Speaker1: Okay, there's another question. We have two people and we want to know if you have any special recommendations for a couple's dish?
+Speaker2: Yes, our couple's set meal includes appetizers, main courses, and desserts, and there are drinks to choose from, perfect for a romantic dinner.
+Speaker1: Sounds good, let's go with this menu.
+Speaker2: Okay, I have reserved a double room for you, see you tonight.

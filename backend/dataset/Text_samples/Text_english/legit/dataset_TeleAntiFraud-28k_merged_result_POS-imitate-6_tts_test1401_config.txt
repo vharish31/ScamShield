@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, do you have anything?
+Speaker1: I am a server at Tian Hu Restaurant. You left your contact information with me after dining at our restaurant. You said that if there are any new activities, you will be notified.
+Speaker2: Hey, do you guys have any activities?
+Speaker1: Is that so, our restaurant recently introduced new menu items for trial, and also has member points doubled reward, are you interested in joining?
+Speaker2: When does this activity start?
+Speaker1: The activity starts today and lasts until this weekend. If you're convenient, you can come anytime.
+Speaker2: Can I schedule a place for Friday afternoon?
+Speaker1: Of course, I can help you book a place for 6 pm on Friday, can you see?
+Speaker2: Okay, see you on Thursday, thank you for the invitation.
+Speaker1: You're welcome, I'm looking forward to your arrival, wish you a happy life. Goodbye.

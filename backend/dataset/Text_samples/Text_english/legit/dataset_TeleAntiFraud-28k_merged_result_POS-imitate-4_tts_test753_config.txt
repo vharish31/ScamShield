@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Zhang San, yesterday we talked on the phone and said that your store has a new phone model.
+Speaker2: Hello, Zhang San, I am Xiao Li, yes, we have a new phone model in our store.
+Speaker1: Can I go to your store today and see what time it opens?
+Speaker2: What time would you like to come to our store, which is open at nine in the morning and closes at eight in the evening?
+Speaker1: What time did you go, what color options are available for this phone?
+Speaker2: This phone comes in black, white, and blue, you can choose based on your preference.
+Speaker1: Do you have any blue left in stock?
+Speaker2: The blue products are still in stock, but the inventory is limited. You can see the real thing when you come.
+Speaker1: Okay, I'll go take a look later and ask about the warranty policy for this phone.
+Speaker2: This phone comes with a one-year full national link insurance service, and any issues can be contacted through our after-sales.

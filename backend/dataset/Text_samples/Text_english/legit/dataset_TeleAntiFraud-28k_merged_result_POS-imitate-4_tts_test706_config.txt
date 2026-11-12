@@ -1,0 +1,10 @@
+Speaker1: Hello, do your restaurant have any private rooms?
+Speaker2: Hello, do you have a specific time in mind to come?
+Speaker1: Two people around seven in the evening.
+Speaker2: Okay, 7:00 AM, no problem. Do you need to reserve?
+Speaker1: Hey, it's best to book in advance, I'm afraid there won't be any space left.
+Speaker2: Understood, I will help you book. What is your name?
+Speaker1: I am named Zhang Wei.
+Speaker2: Okay, Mr. Zhang, I have already booked for you, 7 o'clock meeting.
+Speaker1: Goodbye, thank you.
+Speaker2: No problem, feel free to contact us anytime. Goodbye!

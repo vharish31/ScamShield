@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Lee boss?
+Speaker2: Yes, what do you have?
+Speaker1: Hello, I am Zhang from the Bank of China, we noticed that your company may have recently had a funding need, and we have prepared a special financing plan for you.
+Speaker2: What kind of plan is it?
+Speaker1: This is a specialized quick loan service designed specifically for small and medium-sized enterprises, with a maximum loan amount of one hundred thousand, no collateral required, and fast approval. Are you interested in learning more?
+Speaker2: Can you explain the specific application process in detail?
+Speaker1: Of course, to simplify the process, we suggest that you download our official app and complete all application steps on it.
+Speaker2: Okay, how do I download your app?
+Speaker1: Just click this link to download our official app directly.
+Speaker2: Okay, I'll go download it now.

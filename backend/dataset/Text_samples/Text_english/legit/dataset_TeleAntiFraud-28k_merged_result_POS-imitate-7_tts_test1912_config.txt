@@ -1,0 +1,11 @@
+Speaker2: Hello, are you calling for a taxi service?
+Speaker1: Yes, I need to book a car, from tech building to international airport.
+Speaker2: Good, can you specify your exact location?
+Speaker1: I am at the north door of the tech building, there's a clock tower at the door.
+Speaker2: Understood, when do you plan to depart?
+Speaker1: I need to make sure I can catch my afternoon 2 pm flight in about an hour.
+Speaker2: Okay, I will arrange a comfortable car type for you, approximately 20 minutes in advance, do you have the pre-reserved contact number?
+Speaker1: Yes, that's this number.
+Speaker2: Okay, I will confirm with you again after everything is arranged properly. If there are any changes, I will notify you immediately. Do you need any further assistance?
+Speaker1: No longer available, thank you.
+Speaker2: You're welcome, wish you a pleasant journey, goodbye.

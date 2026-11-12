@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I am Xiao Zhang, I consulted beauty services at your store before.
+Speaker2: Hey, little Zhang, how are you? What can I help you with?
+Speaker1: Can you tell me more about your facial care project, how much does it cost?
+Speaker2: Our facial care project has different menus. The basic care is 150 yuan per time, and the deep cleansing plus hydration is 250 yuan per time.
+Speaker1: Can I schedule a basic care appointment? What time do you have free?
+Speaker2: Okay, we have time from 2 pm to 5 pm tomorrow afternoon. Which time is convenient for you?
+Speaker1: Let's schedule for tomorrow afternoon at three o'clock.
+Speaker2: Okay, I have already made a reservation for you. Tomorrow at 3 pm, remember to arrive ten minutes early.

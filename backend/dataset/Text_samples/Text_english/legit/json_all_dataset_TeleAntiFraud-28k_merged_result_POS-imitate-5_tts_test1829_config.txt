@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Zhang?
+Speaker2: Hey, how are you? I'm little Zhang, who are you?
+Speaker1: I'm Little Li, do you remember? We ate dinner together last Sunday.
+Speaker2: Hey, do you remember what you've been up to lately?
+Speaker1: Okay, I've been pretty busy lately. How about you?
+Speaker2: I'm pretty much the same, working overtime every day. By the way, how's that new project you mentioned last time progressing?
+Speaker1: The project has entered the final testing phase and is progressing smoothly.
+Speaker2: That's great, isn't it? This project is very important to your company, right?
+Speaker1: Yes, we are all waiting eagerly. By the way, do you have any free time this weekend? Let's go play basketball together.
+Speaker2: Great, I'm free on Saturday afternoon, see you then.

@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I booked a housekeeping service on Meituan. Can you confirm the specific service content?
+Speaker2: Hello, I am a customer service representative for home cleaning services. Can you confirm your appointment? What day did you schedule the service for?
+Speaker1: I am scheduled for this Saturday morning.
+Speaker2: Okay, I'll check. Is your appointment for family cleaning service? Including sweeping, cleaning bathrooms and kitchen.
+Speaker1: Yes, I also added a laundry service, can you confirm it for me?
+Speaker2: The laundry service is included in your order. The service time is from 9am to 12pm. The service personnel will arrive on time.
+Speaker1: That's great, can I add a cleaning project for an additional room on the spot?
+Speaker2: Of course, the service staff will adjust on-site based on your needs, and additional services will be charged according to standard prices.
+Speaker1: Okay, I'll be ready on Saturday. Can I still contact you if there are any issues?
+Speaker2: You can call our customer service hotline at any time, or directly contact our service personnel, who will help you solve the problem. Have a happy day!
+Speaker1: Thank you, goodbye!
+Speaker2: Goodbye, wish you a happy weekend!

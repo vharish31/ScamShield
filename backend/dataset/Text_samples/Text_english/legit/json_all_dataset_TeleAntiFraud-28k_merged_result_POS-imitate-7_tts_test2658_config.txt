@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Can I ask if there's a two-person meal option here?
+Speaker2: Hello, we have various two-person dishes here, which flavor would you like to try?
+Speaker1: Do you have any recommendations for trying out Cantonese flavor?
+Speaker2: We have a spicy hot pot set meal which includes spicy hot pot, a cold dish, two main dishes and a dessert, all very suitable for two people to share.
+Speaker1: How much does this dish cost?
+Speaker2: This dish originally costs 120 yuan, but now there's a discount promotion, only 100 yuan.
+Speaker1: Great, I plan to come at 8 pm tomorrow night, when do you start your business?
+Speaker2: We open at 11 am every day and close at 10 pm. If you're coming in the evening tomorrow, please call ahead half an hour to confirm the location.
+Speaker1: Okay, I will call ahead. And do I need to pre-order this menu?
+Speaker2: To ensure fresh ingredients, we recommend you book in advance, so we can better serve you.

@@ -1,0 +1,12 @@
+Speaker1: Hey, have you seen the ad for your store? Do you still have that new sofa?
+Speaker2: Hey, hello, yes, we have new sofa in stock at our store.
+Speaker1: What is the size of this sofa?
+Speaker2: This sofa has standard and large sizes. The standard size is 1.8 meters wide and 0.5 meters deep, and the large size is 2 meters wide and 1 meter deep.
+Speaker1: Hmm, my home space is small, the standard model should be appropriate. What are the color options?
+Speaker2: The standard sofa comes in three colors: gray, blue, and beige. You can choose based on your home decor style.
+Speaker1: Oh, I tend to prefer blue, how much does it cost?
+Speaker2: The price of the blue standard sofa is three thousand six hundred yuan, and now you can enjoy a nine-fifty discount when purchasing.
+Speaker1: Nin wu zhòng, nà háng zhòng huò zhòng. Wǒ néng qù nián dōu kàn kàn shí wù ma?
+Speaker2: Of course, welcome you to the store. Our store is on Xingguang Road 108 in the city center. Business hours are from 9 am to 9 pm.
+Speaker1: Okay, I plan to spend the weekend, are you guys open on the weekend too?
+Speaker2: We are open on weekends. You can come anytime. If you have a specific time, you can call ahead to make a reservation. We will be ready for you.

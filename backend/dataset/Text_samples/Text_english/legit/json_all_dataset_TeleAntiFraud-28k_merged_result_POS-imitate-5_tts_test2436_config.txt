@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have a hair appointment in the morning tomorrow here?
+Speaker2: Yes, we have several time slots to choose from in the morning tomorrow, at nine, ten and eleven o'clock.
+Speaker1: Do you have a place at ten o'clock?
+Speaker2: Is there another 10 o'clock appointment?
+Speaker1: Yes, I want to reserve a 10 o'clock spot.
+Speaker2: Okay, what's your name?
+Speaker1: I am Li Ming.
+Speaker2: Okay, Li Ming Xiāngshēng, your appointment is all set for tomorrow morning at 10 am. Remember to be on time.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, goodbye.

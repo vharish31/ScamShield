@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am Meituan customer service. You previously booked a restaurant on our platform. Do you want to confirm your booking information?
+Speaker2: Hello, what happened to my reservation?
+Speaker1: Yes, due to the renovation of the restaurant interior, the original location needs to be adjusted. We have arranged another VIP room for you, the environment is better, can you see it?
+Speaker2: Is the room okay? But what about the price?
+Speaker1: The room fee is the same as the one you booked before, so it won't add to your extra expenses.
+Speaker2: Okay, then let's do it this way.
+Speaker1: Okay, in addition, since the location has been adjusted, we can also provide you with a free appetizer, we hope you like it.
+Speaker2: That's great, thank you.
+Speaker1: You're welcome. If you need help in other places, please contact us anytime. Enjoy your meal.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li. Your package was lost, do you need me to handle compensation? Have you received any similar notifications recently?
+Speaker2: I haven't received any notifications on this side.
+Speaker1: Yes, we are the express company's customer service center, I have already recorded your information, to quickly process it, you need to download our official app, convenient for us to operate.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Very safe, this is our official channel, just search for "小李快递" and download and install it, then use your phone number to register, we can handle compensation on this end.
+Speaker2: Okay, let me try.
+Speaker1: Okay, after installation, open the app, click on the "Quick Compensation" on the homepage, enter your order number, we will process it quickly on this end.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. My phone number is 13500000000. I hope our service meets your expectations.
+Speaker2: Okay, I will contact you.

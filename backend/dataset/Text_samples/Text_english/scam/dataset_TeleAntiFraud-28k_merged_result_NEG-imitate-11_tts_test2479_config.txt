@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang? This is the China Construction Bank Center.
+Speaker2: Hello, I am Zhang.
+Speaker1: Mr. Zhang, hello, we noticed you might have recently needed funds, so we specially prepared a 10,000 yuan low-interest loan for you, with an interest rate of only 0.02%, very cheap.
+Speaker2: Really? I really need to turn over some cash recently.
+Speaker1: Yes, you just need to provide some basic information, and we can quickly review it. For your convenience, you can download our app, which is very easy to use.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Very safe, we are a regular bank, our APP is officially released through channels. After downloading, input the referral code to enjoy exclusive discounts.
+Speaker2: How do I know you're real?
+Speaker1: You can first confirm through our customer service phone and we also provide a detailed loan process explanation, you can first understand it. If you are willing, you can add my WeChat, I can answer your questions anytime.
+Speaker2: Okay, let me try.

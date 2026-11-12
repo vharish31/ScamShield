@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I want to inquire about your dining service.
+Speaker1: Okay, what are your specific needs?
+Speaker2: Can I reserve a seat for two people at noon tomorrow?
+Speaker1: Of course, our restaurant has a seat available at noon tomorrow for twelve o'clock, do you need to pre-order any type of dish?
+Speaker2: Do you have any recommendations for clean and simple dishes that we both like?
+Speaker1: There's a steamed fish with green onions and watercress here, both are quite clear, very suitable for you.
+Speaker2: Let's order these two dishes.
+Speaker1: Okay, I've noted it down. Do you need any other help?
+Speaker2: I'm not here right now, I'll come back later. Thank you.
+Speaker1: You're welcome, I'm looking forward to your arrival, wish you a happy day.

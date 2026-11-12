@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I reserved a table for six people at your store for tonight at six o'clock. Remember?
+Speaker2: Hello, I'll check. Is your reservation for tomorrow night at six o'clock, right?
+Speaker1: Yes, it's my phone number 123457902468.
+Speaker2: Okay, let me check. Hmm, found it. Yes, you did book a table for tomorrow night at six.
+Speaker1: Okay, can I just go directly tomorrow?
+Speaker2: Yes, you can come directly. However, our dishes are very popular, so we recommend you come ten minutes early to avoid waiting.
+Speaker1: Okay, I'll arrive early. By the way, do you have a couples menu?
+Speaker2: Yes, we have a couple's set meal, including two main courses, two appetizers, and one dessert, very affordable.
+Speaker1: Great, let's order the couple's set meal. Do you have red wine?
+Speaker2: Yes, we have many red wines to choose from, you can choose based on your taste.
+Speaker1: Okay, thank you. See you tomorrow.
+Speaker2: Okay, see you tomorrow. Wish you enjoy your meal!

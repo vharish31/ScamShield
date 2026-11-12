@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, can you help me order some takeout?
+Speaker2: Hello, of course, what do you want to eat?
+Speaker1: I want to eat a beef stir-fry and a sweet and sour pork ribs, deliver to Youxin small community.
+Speaker2: Okay, Xiāngyóu xiǎozhù, wǒ jìxiàng le. Qǐngwèn nǐ de dìxiàng shì nǎo yī tān lóu, nǎo yī shùn?
+Speaker1: It's apartment 2B in building 3, the door number is 102.
+Speaker2: Okay, three-numbered building, second floor, apartment 102. What's your contact number?
+Speaker1: My phone number is 8866554321.
+Speaker2: Okay, 8866554321. Your order has been submitted. It will arrive approximately 30 minutes later.
+Speaker1: Okay, thank you. If you can't find the door number, call me.
+Speaker2: Okay, let's go. Enjoy your meal, bye.

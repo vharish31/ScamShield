@@ -1,0 +1,13 @@
+Speaker1: Hello, I'm Zhang from the city convenience service center
+Speaker2: Hello, little Zhang, I want to consult your household services
+Speaker1: Okay, we provide cleaning, moving, and home appliance repair services among other household services. What specific service do you need to consult?
+Speaker2: I've been feeling disorganized at home lately, and I'm looking for a cleaning service. Do you have any recommendations?
+Speaker1: Of course, our cleaning service is divided into one-time deep cleaning and regular daily cleaning, and you can choose according to your needs.
+Speaker2: What is the price like?
+Speaker1: One-time deep cleaning service is priced based on the size of the area, ranging from 200 to 400 yuan. If it's a regular daily cleaning, the monthly service is four times, and the price is 600 yuan.
+Speaker2: Does it sound good? Then do I need to make a reservation in advance?
+Speaker1: Yes, to ensure service quality, we suggest you book in advance. Please specify a time, and I will arrange it for you.
+Speaker2: Okay, can I make a reservation for Saturday morning at 10 o'clock next week?
+Speaker1: Okay, I have scheduled a cleaning service for you next Saturday at 10 am. Our staff will arrive on time.
+Speaker2: Thanks for your help.
+Speaker1: You're welcome, please feel free to contact us anytime if you have any questions. We look forward to serving you.

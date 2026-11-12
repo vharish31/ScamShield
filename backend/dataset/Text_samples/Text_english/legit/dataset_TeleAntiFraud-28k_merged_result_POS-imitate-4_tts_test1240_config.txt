@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the happy restaurant, you reserved a four-person table for tonight at seven o'clock, right?
+Speaker2: Oh, okay, it's my appointment, but I might be late.
+Speaker1: Okay, what do you estimate the arrival time to be? We'll hold your spot here.
+Speaker2: Can you arrive around 7:30?
+Speaker1: Okay, we will reserve a spot for you before 7:30 am. Just come to the front desk and give your name when you arrive.
+Speaker2: Okay, thank you. So, do you have any special recommendations for tonight's menu?
+Speaker1: Yes, we have special recommendations for spicy pork ribs and steamed fish, as well as fresh vegetable salad, all of which have been highly praised by our customers.
+Speaker2: The sound is good, let's try and see. Also, do your restaurant have children seats?
+Speaker1: Yes, we have children's chairs, if you need them, you can directly tell the server when you arrive.
+Speaker2: Okay, thank you for your help. Let's meet again later.
+Speaker1: Okay, see you later, wish you enjoy your meal.

@@ -1,0 +1,12 @@
+Speaker1: Hello!
+Speaker2: Hello
+Speaker1: I am the manager of the Agricultural Bank's Tianhe Branch, have you recently considered investing in wealth management?
+Speaker2: Invest in finance? I don't understand, how does it work?
+Speaker1: Do you want to take a look at a special investment project on our side that has a very high return and low risk?
+Speaker2: Sounds good, but how to invest?
+Speaker1: You just need to download our bank's exclusive app, register an account, and you can start investing, the operation is very simple.
+Speaker2: Where can I download the app?
+Speaker1: You can search 'Wealth Treasure' in the mobile app store and download our official app, or I can give you a direct download link, which is more convenient.
+Speaker2: Okay, can you send me a link?
+Speaker1: Okay, wait a minute, I'll send it to you now. Once you receive it, just click on the link to download, and after the download is complete, register an account, and I'll guide you through the operation.
+Speaker2: Okay, I'm waiting.

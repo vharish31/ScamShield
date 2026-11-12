@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm from the small supermarket next to the community, can you sell basketballs here?
+Speaker2: Oh, we mainly sell everyday items here, maybe we don't have basketballs, you should check the sports equipment store to see if they have them.
+Speaker1: Hey, is there any place here that sells sports water bottles?
+Speaker2: Yes, we have running water kettles here, what style or capacity do you want?
+Speaker1: I want a water heater with a larger capacity, that can hold hot water, and preferably with a filter function.
+Speaker2: We have a 500ml large capacity sports water bottle with a filter function, priced at 80 yuan, you can come take a look.
+Speaker1: Okay, when do you close the door at night?
+Speaker2: Please call before coming over at 9 pm, as we sometimes close early.
+Speaker1: Okay, I'll come at around 8:30, and then we'll contact each other. Thank you!
+Speaker2: No problem, see you later!

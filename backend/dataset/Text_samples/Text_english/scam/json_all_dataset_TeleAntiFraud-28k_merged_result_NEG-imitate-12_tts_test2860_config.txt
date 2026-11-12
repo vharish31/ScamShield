@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the client manager of Ningbo Bank, Xiao Lin. Recently, our bank has launched a new credit loan product with an interest rate as low as 0.023. Are you interested in learning more about it?
+Speaker2: Uh, is that so? I recently really need cash flow, can you explain in detail?
+Speaker1: Of course, this product is very suitable for short-term capital rotation, no collateral, simple procedures, fast approval, you can directly download our official app, register and fill in the relevant information, and you can quickly apply for it.
+Speaker2: Do you want to download the app? Is this app safe?
+Speaker1: Very safe, we are a regular bank, our app also has regular review, you can rest assured to use it. For your convenience, I can send you a link, you click it and you can download it directly.
+Speaker2: Okay, let me try it out.
+Speaker1: Okay, just a moment, I'll send it over right away. Also, if you have any issues during the application process, feel free to contact me anytime, my phone number is 133123456.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome! I wish your application to be successful. If you have any other needs, please feel free to consult us anytime. Goodbye!
+Speaker2: Goodbye!

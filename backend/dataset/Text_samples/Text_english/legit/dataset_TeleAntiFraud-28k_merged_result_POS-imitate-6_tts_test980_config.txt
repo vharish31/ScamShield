@@ -1,0 +1,12 @@
+Speaker1: Hey, do you have a car for rent there?
+Speaker2: Okay, we have various car types available for rent here. What kind of car do you need to rent?
+Speaker1: I need to rent a small car, about a week.
+Speaker2: Okay, for a week's rental, we have several different car models here, do you have any specific requirements?
+Speaker1: I need a car that is performance stable, fuel efficient, and not too expensive.
+Speaker2: I understand, we have an economic type small car here that is very suitable for your needs, the rental fee is one day two hundred yuan, the deposit needs one thousand yuan.
+Speaker1: Can I withdraw the deposit?
+Speaker2: Sure, as long as the vehicle is not damaged, the deposit will be fully returned when the vehicle is returned.
+Speaker1: When can I pick up my car?
+Speaker2: Can you come to our place at 10 am tomorrow morning to pick up the car? The address is the car rental company in the city center. Is it convenient for you?
+Speaker1: Okay, I know the location. What documents do I need to prepare?
+Speaker2: You need to bring your ID and driver's license, we'll verify the info and then we can process the car rental paperwork.

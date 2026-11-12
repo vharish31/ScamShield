@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, can you deliver the takeout to my home?
+Speaker2: Hello, little Li, can you, what is your home address?
+Speaker1: My home is in the Yangguang Xiaoju, which is next to the big door of the park.
+Speaker2: Okay, I know that place. What do you want to eat?
+Speaker1: I want to order a spicy hot pot and a spicy stir-fried bean sprouts.
+Speaker2: Okay, both of these dishes are our store's specialties. What size portion do you want, large or small?
+Speaker1: Let's split into small portions, I can't eat too much by myself.
+Speaker2: Understood, small portion of spicy hot pot and sour spicy tofu, do you need anything else?
+Speaker1: Can I have another bowl of rice, is that right? Do you guys have any discount coupons?
+Speaker2: Yes, you can use the full fifty discount coupon now for your order.

@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I want to reserve a spot at your store today
+Speaker2: Hello, I'm very happy to serve you, what time would you like to book?
+Speaker1: About six o'clock in the evening, two people
+Speaker2: Okay, the two positions at six o'clock for two people, we can reserve this side for you. Do you need a position next to the window?
+Speaker1: If possible, I hope to sit by the window.
+Speaker2: Okay, the window seat has been reserved for you. Could you please confirm your name and contact information so we can verify the appointment details?
+Speaker1: My name is Zhang Wei, phone number is 13600000000
+Speaker2: Okay, Mr. Zhang, we have recorded your information. You can directly sign up when the time comes. Do you need any further assistance?
+Speaker1: Do you have any recommendations for dishes?
+Speaker2: Our store's special dishes include steamed cod and stir-fried frog, both highly praised by customers, you can try them.
+Speaker1: It sounds good, let's try it later. Thank you.
+Speaker2: You're welcome. We're looking forward to your visit. If you have any other needs, please contact us anytime.

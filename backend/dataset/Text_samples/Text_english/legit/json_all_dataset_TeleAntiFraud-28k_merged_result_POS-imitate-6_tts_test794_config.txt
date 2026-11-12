@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I consult with you about your electric cars that can be used for walking?
+Speaker2: Of course, our electric car is very suitable for daily commuting, what specific needs do you have?
+Speaker1: I want to know the range of an electric car and its price.
+Speaker2: We have several electric cars with a range of 50 to 100 kilometers, and prices ranging from 1500 to 3000 yuan.
+Speaker1: How much does an electric car cost in a distance of 80 kilometers on a long-distance journey?
+Speaker2: The range of the electric car in the cruise is around 80 kilometers. The price is around 2500 yuan.
+Speaker1: What items does this price include?
+Speaker2: This price includes the electric car itself, the charger, and the helmet is an extra accessory.
+Speaker1: If I want to buy, how do I place an order?
+Speaker2: You can add our WeChat, we have a dedicated customer service specialist for order processing.
+Speaker1: Okay, what are your WeChat numbers?
+Speaker2: Our WeChat number is 13752688, you add it down.
+Speaker1: Okay, I'll add it right away. Thank you for your help.
+Speaker2: No problem, feel free to contact me anytime if you have any questions.

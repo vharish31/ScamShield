@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Tencent Finance Customer Service, I am customer service representative Lee Ming, we found that you have an unprocessed order that needs your help to handle it.
+Speaker2: What order?
+Speaker1: One of your orders has a problem, the seller said they need to process a refund, but they need you to confirm your identity with some information.
+Speaker2: Uh, what do I need to do?
+Speaker1: Just click on the link we send to you, fill in the relevant information, and you can smoothly process a refund.
+Speaker2: Okay, I'll handle it now.
+Speaker1: Okay, the link has been sent to your phone. Remember to check it. If you encounter any issues during the process, feel free to contact me anytime.
+Speaker2: I got the text message, so I'm going to fill it out now.
+Speaker1: Hello, thank you for your cooperation. If you have any questions, please call our customer service anytime.
+Speaker2: Okay, thank you.

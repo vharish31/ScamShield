@@ -1,0 +1,14 @@
+Speaker1: Hello, I'm Li Xiao, the customer service representative of Xinghui Technology.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed that the smartwatch you bought on our platform had a fault, and now we can provide you with a free replacement service.
+Speaker2: Really? That's great, this bracelet really has some issues.
+Speaker1: To ensure a smooth switch process, you need to first complete registration and verification on our official website.
+Speaker2: Okay, how do I register?
+Speaker1: You can click on the following link and follow the instructions.
+Speaker2: Link? I don't see it.
+Speaker1: Okay, just a moment, I'll send you a text message, please pay attention to check it.
+Speaker2: Okay, I'm waiting.
+Speaker1: To speed up processing speed, we recommend downloading our official app, which can quickly complete verification.
+Speaker2: Do you want to download the app? No problem, I'll download it right away.
+Speaker1: Great, after downloading you can directly contact us in the app, we will process it first.
+Speaker2: Okay, thank you for your help.

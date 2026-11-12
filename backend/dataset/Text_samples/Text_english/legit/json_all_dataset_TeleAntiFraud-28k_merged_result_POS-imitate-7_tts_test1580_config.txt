@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm a server at a fast food restaurant, you ordered food from us before, we have a new promotion now, do you want to know more about it?
+Speaker2: Hey, good, what discount activities?
+Speaker1: We launched a "buy one get one" promotion this week. For every meal you order, you'll get a free small dish, and you'll also have the chance to earn our store's loyalty card.
+Speaker2: What is the use of a point card?
+Speaker1: Points cards can be used to accumulate points in our store, which can be exchanged for our store's food items, such as hamburgers and drinks.
+Speaker2: Can I enjoy this activity now that it sounds good?
+Speaker1: Of course, you can place an order directly on our online ordering platform, and specify that you are participating in the buy one get one free activity, and we will prepare it for you.
+Speaker2: Okay, then I'll go place an order.
+Speaker1: Okay, enjoy your meal, feel free to contact our customer service if you have any questions.
+Speaker2: Thank you, goodbye.

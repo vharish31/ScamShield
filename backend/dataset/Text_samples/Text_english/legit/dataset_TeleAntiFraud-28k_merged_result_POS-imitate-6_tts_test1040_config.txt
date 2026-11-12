@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to reserve a seat for tonight at six o'clock.
+Speaker2: Hello, are you making a reservation for our restaurant? How many people are you?
+Speaker1: Yes, two people.
+Speaker2: Okay, two seats. Do you need a window position?
+Speaker1: If possible, it's best to lean against the window.
+Speaker2: Understood, I will arrange a window seat for you. Do you have any special dietary requirements?
+Speaker1: No specific requirements, but my friend doesn't eat spicy.
+Speaker2: Understood, I will make a note of this at the scheduled time. What is your name and contact information?
+Speaker1: I am Li Huai, my phone number is 13801380138.
+Speaker2: Okay, Li Huangshēng, I have already reserved a seat for you at six o'clock tomorrow night at the front desk. Just come and report your name when you arrive.

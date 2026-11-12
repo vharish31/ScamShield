@@ -1,0 +1,13 @@
+Speaker1: Hello, I'm Li Xiao, a customer service representative at JD.com.
+Speaker2: Hello, do you have anything?
+Speaker1: We found out that the quality of the phone you recently bought has issues, we are ready to process your return and refund.
+Speaker2: Really? That's great.
+Speaker1: Yes, in order to facilitate your transaction, I need you to provide me with your order number and bank card information.
+Speaker2: Okay, my order number is one two three four five six seven, my bank card number is six two two two zero eight zero zero zero one.
+Speaker1: Okay, we have recorded it. For safety reasons, please click on the link we provide to complete identity verification.
+Speaker2: Okay, I'll go click now.
+Speaker1: Please open the message on your phone, click on the link inside, and enter the verification code to complete the verification.
+Speaker2: Okay, I saw the link and clicked on it.
+Speaker1: Okay, verification successful. Now please wait patiently, refund will be in account within 24 hours.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, if you have any other questions, please feel free to contact us. Wish you a happy life, goodbye.

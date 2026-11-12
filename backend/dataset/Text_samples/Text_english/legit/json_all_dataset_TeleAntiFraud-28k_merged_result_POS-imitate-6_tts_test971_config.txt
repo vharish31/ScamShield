@@ -1,0 +1,10 @@
+Speaker1: Hey, how have you been lately?
+Speaker2: Hello, I'm doing well, what have you been up to lately?
+Speaker1: I've been pretty busy lately, but it's okay. How about you, do you have any free time this weekend? Let's go out for a meal together.
+Speaker2: Great, I have some free time this weekend. What do you want to eat?
+Speaker1: Shall we go to hot pot? What do you say?
+Speaker2: Okay, hot pot sounds good. How long ago?
+Speaker1: What's up at 5:30? I'll be there to pick you up.
+Speaker2: Okay, no problem. Then we see each other this weekend.
+Speaker1: Okay, see you this weekend, see you then.
+Speaker2: Hey, take care of yourself, see you this weekend.

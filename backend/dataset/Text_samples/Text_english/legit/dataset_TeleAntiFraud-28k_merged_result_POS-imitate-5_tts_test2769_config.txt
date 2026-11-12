@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, your package arrived.
+Speaker2: Okay, I'll go down and get it right away.
+Speaker1: Okay, I put the package at the front desk. Don't forget to pick it up.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to find me anytime if you need help.
+Speaker2: Okay, I'll come down in a while.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Wait a minute, I have another question.
+Speaker1: What's the problem?
+Speaker2: Do I need to sign this package?

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of China Construction Bank, Li Ming. We have a special promotion for our credit loan, with an interest rate of 0.02%. Do you have any recent funding needs?
+Speaker2: "Oh, I don't need a loan, thank you."
+Speaker1: No rush, understand a bit more, now many loans are tricks, but our bank is legal, you can first download our app, understand product information.
+Speaker2: Do you want to download the app? It's not convenient.
+Speaker1: No problem, downloading is very simple, just click this link, and you can download it directly, very fast.
+Speaker2: Link? How do I know this link is safe?
+Speaker1: All the links on our bank's website are very safe, so don't worry, this link is: 123456, click it and you can directly download our official app.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you download it, you can register an account and fill out some basic information. We will have a dedicated customer manager contact you to handle your loan matters.
+Speaker2: Okay, thank you.

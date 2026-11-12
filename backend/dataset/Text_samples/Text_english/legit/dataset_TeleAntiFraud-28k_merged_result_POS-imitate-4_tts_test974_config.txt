@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear anything?
+Speaker1: I am the customer service of the e-commerce platform. Your accumulated shopping points on your account will be cleared at midnight tonight. How come you haven't used them yet?
+Speaker2: Oh, is that so? I haven't noticed. What can these points do?
+Speaker1: These points can be redeemed for a lot of money, for example, your account balance of 26,800 points is equivalent to 4,000 yuan, which can be directly used for shopping on our platform.
+Speaker2: Okay, then I have to hurry and take a look. How do you use points?
+Speaker1: You received a message with a link. Click on it to select your favorite product and then pay with points.
+Speaker2: Okay, I'll check right away. Thank you for reminding me.
+Speaker1: You're welcome. If you have any questions, feel free to contact me anytime. Have a great shopping!
+Speaker2: Okay, thank you.

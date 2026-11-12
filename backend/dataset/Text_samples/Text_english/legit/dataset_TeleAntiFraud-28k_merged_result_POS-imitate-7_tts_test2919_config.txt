@@ -1,0 +1,8 @@
+Speaker1: Hey, where are you?
+Speaker2: Just arrived at the big supermarket entrance, you too?
+Speaker1: I am standing at the exit of the subway station, there might be a slight deviation in positioning.
+Speaker2: Hey, which exit are you at?
+Speaker1: Are you at the A exit? Walk towards the supermarket and see if you can see the people crossing the sky bridge?
+Speaker2: I see, I'll go over there.
+Speaker1: Yes, I'm waiting for you under the sky bridge.
+Speaker2: Okay, let's go.

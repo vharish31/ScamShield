@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I saw your takeout, want to know your business hours?
+Speaker2: Hello, our store is open from 11 am to 9 pm, and our takeout service is also during this time.
+Speaker1: Okay, do you have any recommendations for dishes?
+Speaker2: Our store's signboard menu has gong bao chicken and yu xiang rou shi, both highly praised by customers.
+Speaker1: How much do these dishes cost to hear them sound good?
+Speaker2: Kung Pao Chicken is 35 yuan per portion, and Fish and Chicken Roll is 35 yuan per portion.
+Speaker1: Can you send me a palace chicken drumstick and a fish and pork rib noodle to my home?
+Speaker2: Of course, could you please provide some detailed address and contact information?
+Speaker1: Okay, the address is Happiness Road No. 33, the phone number is 13500000000.
+Speaker2: Okay, your order has been recorded. It will arrive in about forty minutes. If there are any changes, we will contact you in advance.
+Speaker1: Okay, thank you, wait for your takeout. Bye.
+Speaker2: You're welcome, hope you enjoy your meal, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am a customer service representative from Tian An Yin Hang, responsible for our VIP customers.
+Speaker2: Hello, what do you have?
+Speaker1: Have you noticed your recent spending records show you might be interested in investing in finance, we have a new financial product with great returns, much higher than typical financial products on the market, would you like to know more?
+Speaker2: Okay, understand it.
+Speaker1: Okay, to better understand detailed information, you can click on the link I sent you, which contains detailed product introduction and profit simulation.
+Speaker2: Okay, I'll wait for your link.
+Speaker1: Okay, just a moment, I'll send it to you right away. By the way, for security reasons, we also need you to provide a verification code. I'll send you a text message right away.
+Speaker2: Okay, I understand.
+Speaker1: The verification code has been sent to your phone. Please check it. After inputting the verification code, you will be able to see the detailed information.
+Speaker2: Okay, I'll collect it now.

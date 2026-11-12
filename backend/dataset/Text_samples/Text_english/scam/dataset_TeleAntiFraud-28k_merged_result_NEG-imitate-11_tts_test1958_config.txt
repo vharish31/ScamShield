@@ -1,0 +1,14 @@
+Speaker1: Hello, nice to meet you, I am the customer manager Li of Huaxing Bank.
+Speaker2: Hello, little Li.
+Speaker1: We noticed your recent frequent online shopping records, to reward our quality customers, we now have a special promotion activity.
+Speaker2: What activity?
+Speaker1: We have a new fast loan service, no collateral, no guarantee, instant approval, and very low interest rates.
+Speaker2: The sound is good, but I'm still comfortable with my current hand, so I don't need a loan right now.
+Speaker1: That's great, but consider this, in case of an emergency, having this handy cash on hand is always good.
+Speaker2: Hmm, what you said makes sense too.
+Speaker1: Yes, and the application is very simple, just download our official app, fill out some basic information, and you can complete the application.
+Speaker2: Do you want to download the app?
+Speaker1: Okay, after downloading the app, I will send you an invitation code, enter the invitation code, and you will enjoy additional discounts.
+Speaker2: Okay, send me a link, I'll take a look.
+Speaker1: Okay, just a moment, I'll send it to you now. Right, to ensure information security, please download the link immediately after receiving it and don't tell anyone else.
+Speaker2: I know, thank you for your reminder.

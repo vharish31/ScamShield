@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I'm little Zhang, I'm at the train station, can you come pick me up?
+Speaker2: Good, which exit of the train station did you arrive at?
+Speaker1: Can you come quickly from the south exit?
+Speaker2: Sure, I'll leave soon, it should take about 17 minutes to get there.
+Speaker1: Okay, I'm waiting for you here, you arrived, give me a call.
+Speaker2: Okay, I know, be careful on the road, see you later.
+Speaker1: Hey, you too, pay attention to safety on the road.
+Speaker2: Don't worry, I'll be back soon.

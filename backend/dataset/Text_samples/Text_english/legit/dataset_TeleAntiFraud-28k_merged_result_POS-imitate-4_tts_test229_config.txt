@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if there are any recent discount activities here?
+Speaker2: Yes, we have many discounts on products recently. Which category of products do you want to know about?
+Speaker1: I want to see electronic products, such as mobile phones and tablets.
+Speaker2: Okay, our electronic products this season have some great discounts. For example, the latest smartphone, originally priced at 4500, is now only 3900. The tablet also has a promotion, originally priced at 3000, is now 2700.
+Speaker1: Can I take a look at the real thing?
+Speaker2: Of course, you can come to our physical store and take a look. The address is on the third floor of the electronic city in the city center, and we have a special display area here.
+Speaker1: What time is best for me to go over?
+Speaker2: Our business hours here are from 10 am to 9 pm. What time is convenient for you?
+Speaker1: Can I go out at around three in the afternoon?
+Speaker2: Okay, I'll wait for you at the store later. If you have any questions, feel free to contact me anytime.
+Speaker1: Okay, thank you for your help, see you in the afternoon.
+Speaker2: No problem, see you in the afternoon, see you later.

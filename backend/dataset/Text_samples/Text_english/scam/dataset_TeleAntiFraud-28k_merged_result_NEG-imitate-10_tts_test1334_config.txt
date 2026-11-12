@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Hangzhou Bank customer service center. I am the customer service manager Li Ming. Recently we have launched a low interest loan product. Would you be interested in learning more about it?
+Speaker2: Thanks, I don't need a loan right now.
+Speaker1: Understand? You know that the interest rates on the market are generally high, but our product has a very low interest rate, only 2.5%, and the process is simple, and the approval is fast.
+Speaker2: That sounds good, but I don't have any place to spend money now.
+Speaker1: I understand your concerns, but it wouldn't hurt to know a little more first, just in case you need money urgently later. I can send you a link with detailed information, just take a quick look when you have some free time, no need to waste your time.
+Speaker2: Can you send me the link? I'm afraid it's a phishing link.
+Speaker1: You can rest assured, we are a legitimate bank and will not do such things. This link directly transfers to our official website, which is very safe.
+Speaker2: Okay, let me take a look.
+Speaker1: Great! Here's the link [fake link address], you can click on it anytime to check it out. If you have any questions, feel free to add me on WeChat anytime, my WeChat number is [fake WeChat number], I'm here to help you.
+Speaker2: Okay, thank you, I will take a look.

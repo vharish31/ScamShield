@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li. I saw you recently followed our new coffee shop, and I was wondering if you have time to try our latest coffee?
+Speaker2: Oh, hi, I've been pretty busy lately, not sure, let's talk about it.
+Speaker1: Hey, understand, when do you have time? We can reserve a spot for you.
+Speaker2: This weekend might have time, but it's not certain yet.
+Speaker1: Could you please specify the exact time for the weekend? We're happy to prepare for you.
+Speaker2: Saturday afternoon around two o'clock should be fine.
+Speaker1: Okay, let's meet on Saturday afternoon at 2 pm. I will prepare in advance, hoping you like our coffee when you come.
+Speaker2: Thank you, see you then.
+Speaker1: No problem, I'm looking forward to your arrival, goodbye.
+Speaker2: Goodbye.

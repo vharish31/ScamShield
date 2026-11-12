@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me about the different types of fitness programs you offer?
+Speaker2: What kind of course are you interested in here, such as yoga, swimming, aerobics, or strength training?
+Speaker1: What time does the Yoga class start?
+Speaker2: There are yoga classes every day, from 9am to 10am and 5pm to 6pm. You can choose an appropriate time.
+Speaker1: What is the price like?
+Speaker2: A single trial is 50 yuan, if you have a card, there are monthly, quarterly, and yearly cards, prices will be more discounted.
+Speaker1: Sure, can I make a reservation to try it out first?
+Speaker2: Of course, if it's convenient for you, we can schedule a class for tomorrow morning at nine o'clock.
+Speaker1: Can I arrive at nine in the morning tomorrow? Then do I need to arrive earlier?
+Speaker2: I suggest you arrive ten minutes early, so you can prepare for the activity.
+Speaker1: Okay, thank you for your advice. See you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

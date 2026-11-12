@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask if your restaurant has private rooms?
+Speaker2: Hello, how many people are there in the room?
+Speaker1: Can we arrange about ten people?
+Speaker2: Okay, our room can accommodate 10 to 15 people. What time are you coming?
+Speaker1: I plan to go out on Saturday night at around six o'clock.
+Speaker2: Okay, on Saturday evening at 6 pm, I have reserved a ten-person private room for you. Do you have any special requirements, such as preferred dishes or things to avoid?
+Speaker1: Do you have any good recommendations for Cantonese cuisine among your friends?
+Speaker2: There are several signature dishes at our local Cantonese restaurant, such as steamed fish, spicy chicken wings, and mapo tofu, which are all very popular. You may want to consider them.
+Speaker1: The food sounds good, so I'll order these few dishes, and we might be late, around six thirty.
+Speaker2: Okay, 6:30 is fine, I will notify the kitchen in advance to prepare your ordered dishes, please eat slowly. Is there anything else you need help with?
+Speaker1: If there's nothing else to say, then these will do, thank you for your service.
+Speaker2: You're welcome, I'm looking forward to your arrival, wish you a happy weekend.

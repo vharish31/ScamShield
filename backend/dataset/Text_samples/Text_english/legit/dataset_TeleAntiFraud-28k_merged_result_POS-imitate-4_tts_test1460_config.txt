@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, how do you make a hair appointment at your family's salon?
+Speaker2: Hey, do you want to book a haircut? You can book it through our WeChat public account or call directly to book.
+Speaker1: Let me directly call to schedule, what are your working hours from to?
+Speaker2: We work from 9am to 8pm on weekdays and don't rest on weekends.
+Speaker1: Okay, can I book an appointment for tomorrow afternoon at 3 pm?
+Speaker2: Sure, I can help you schedule an appointment for tomorrow afternoon at 3 PM.
+Speaker1: Okay, can I come directly tomorrow?
+Speaker2: Okay, you can come directly tomorrow. Don't forget to bring your ID, we need to verify your identity at the appointment time.
+Speaker1: Okay, I understand, thank you for your help.
+Speaker2: No problem, feel free to contact me anytime, see you tomorrow.

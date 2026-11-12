@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Lee Ming, I've been looking for work recently in your neighborhood, I heard the shared bikes here are quite convenient, want to know how to use them?
+Speaker2: Hey, hi, I'm the property manager of the community, sharing bike usage is very simple, just download our community app, register and you can scan to use it.
+Speaker1: Uh, what do you do with it after you finish using it?
+Speaker2: Just park at the designated parking spot after finishing, the APP will have detailed parking spot location, you don't need to worry about not finding a place.
+Speaker1: Okay, what should I do if my car gets into an accident?
+Speaker2: If your car breaks down, you can report it on the app, and we'll have a dedicated team handle it.
+Speaker1: Do I need to pay a deposit when using shared bikes?
+Speaker2: During the promotion period, you don't need to pay a deposit. You can directly register and start using it. It's very convenient.
+Speaker1: That's great, I'll try it tomorrow, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy use.

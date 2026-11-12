@@ -1,0 +1,10 @@
+Speaker1: Hello, I am from the credit department of Guangfa Bank. Recently we have launched a low interest loan product, with a maximum loan amount of 50,000. Do you have any recent financial needs?
+Speaker2: Can you give me a specific explanation?
+Speaker1: Of course, this product is designed exclusively for high-quality customers, no down payment, no collateral, just need to provide some basic information, after review is approved, the fastest possible loan disbursement on the same day.
+Speaker2: What materials do I need to prepare?
+Speaker1: You need to provide identity card, work proof and income proof. If you have a house property certificate, you can further increase the quota.
+Speaker2: I don't have a property certificate, but I can provide other information.
+Speaker1: That's fine, you can prepare these materials first, then add my WeChat, we have a dedicated customer service team on this side to help you handle it.
+Speaker2: Wechat? I add you wechat ba, zhè shì fāng biàn.
+Speaker1: Okay, my WeChat number is abcdef123456. After you add me, I will send you a link, which you can click to fill out the information. We will quickly review it.
+Speaker2: Okay, I'll add you.

@@ -1,0 +1,9 @@
+Speaker1: Hey, how are you? I'm little Li, how about you lately?
+Speaker2: Hey, little Li, I'm pretty good, you?
+Speaker1: I'm fine too, just a bit busy with work lately. Do you have any free time this weekend? Let's go hiking together.
+Speaker2: That sounds good, hiking up a mountain is nice. I should have some free time this weekend.
+Speaker1: Great, let's meet at the park entrance at 9am on Saturday morning.
+Speaker2: Okay, let's meet at nine. Remember to bring some water and snacks, it's hard to buy things on the mountain.
+Speaker1: Okay, I'll bring along supplies. Also, make sure you wear comfortable shoes and clothes, the mountain road is uneven.
+Speaker2: Got it, thanks for reminding. See you on Saturday!
+Speaker1: See you on Saturday, be careful on the road!

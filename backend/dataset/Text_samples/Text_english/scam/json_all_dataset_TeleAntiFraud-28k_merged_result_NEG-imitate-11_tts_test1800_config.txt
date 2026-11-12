@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the online customer service center of China Construction Bank, I am the customer service manager Li Ming, we found that you recently encountered some problems while using your credit card, so we specially called to help you solve them.
+Speaker2: Hello, yes, I recently encountered some problems.
+Speaker1: Okay, to better serve you, we have prepared a special solution for you. If you're not convenient now, you can handle it later through our official app.
+Speaker2: I have time now, can you tell me how to solve it?
+Speaker1: Of course, please click this link to download our official app, then follow the instructions, and we will solve your credit card problem.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Thank you very much for your cooperation. After downloading, please enter the verification code 123456 in the app, and we will immediately process it for you. If you have any questions, please feel free to contact me anytime.
+Speaker2: Okay, I understand.
+Speaker1: Thank you again for your support. Wish you a happy life. Goodbye.
+Speaker2: Goodbye.

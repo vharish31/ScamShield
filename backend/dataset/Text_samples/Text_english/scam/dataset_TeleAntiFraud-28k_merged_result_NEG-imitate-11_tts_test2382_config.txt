@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Who are you?
+Speaker1: I am the branch manager of the Agricultural and Commercial Bank in the East China region. Recently, we have launched a special discount loan product. Would you be interested in learning more about it?
+Speaker2: Loan? I don't need it now.
+Speaker1: That's fine, that works too. But our product is really cheap, the interest rate is low, and the procedures are simple. If you need it in the future, you can contact me anytime.
+Speaker2: Okay, can you explain in detail how to operate it?
+Speaker1: Okay, first you need to download our app, then register an account, fill out some basic information, and we'll have a specialist contact you for the review and payment process.
+Speaker2: Do you want to download the app? How do I know if your app is real?
+Speaker1: We are a regular bank, our APP will be on sale in major app stores, you can search for our bank name in the app store and download the official APP.
+Speaker2: Let me try it out.
+Speaker1: Okay, I'll send you a link, you can click on it to download our app, if you have any questions, feel free to contact me.
+Speaker2: Okay, thank you.

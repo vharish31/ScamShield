@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm at the entrance of the university of technology, can you come over and pick me up?
+Speaker2: Okay, I'm coming right now, stand at the door on the right side, I can see you.
+Speaker1: Okay, I see you, you're standing next to the bus stop, I'll be there soon.
+Speaker2: Hey, I see you, let's get in the car.
+Speaker1: Thank you, how do you calculate the car fare?
+Speaker2: Where would you go with 10 yuan in the city area?
+Speaker1: How much does it cost to go to the train station?
+Speaker2: Take 15 yuan at the train station and send it directly.
+Speaker1: Okay, can you help me?
+Speaker2: No problem, sit down, we're leaving.

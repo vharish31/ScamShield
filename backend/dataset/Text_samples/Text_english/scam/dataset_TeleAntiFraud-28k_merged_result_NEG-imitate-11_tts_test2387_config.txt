@@ -1,0 +1,9 @@
+Speaker2: Hello, who are you?
+Speaker1: Hello, I am small Li, this side is Huaihai Investment Company's customer service representative, we noticed you may have investment financial needs recently, do you know if you are interested in learning more?
+Speaker2: Oh, that's right, I did consider investing in finance, can you hear me out?
+Speaker1: Great, our company has a high return, low risk investment product that has been well received in the market. To better understand the details, you can click on the link we provide to download our official app, which will have detailed product introduction and customer service online consultation.
+Speaker2: Should I download the app? It sounds so formal, what should I do?
+Speaker1: It's very simple. Just call this phone number followed by the hash symbol, then enter 1234. Our system will automatically send a text message with a download link to your phone. After downloading, register and log in to see our investment products.
+Speaker2: Okay, let me try it out.
+Speaker1: Okay, please wait for a moment, I'll send you a text message now. Once you receive it, please download it immediately. If you have any questions, feel free to call our customer service hotline anytime.
+Speaker2: Okay, thank you for your recommendation. I will take a look.

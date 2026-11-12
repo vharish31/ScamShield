@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I'm Little Li, do you remember the one we ate dinner with last week?
+Speaker2: Hey, little Li, do you remember what's been going on lately?
+Speaker1: Hello, just work is a bit busy. How about you?
+Speaker2: It's about the same, working overtime every day. Oh, do you have anything to talk about?
+Speaker1: That's it, I recently changed projects and want to know more about your situation to see if there are any cooperation opportunities.
+Speaker2: Okay, what specifically do you want to know?
+Speaker1: I mainly want to understand your project requirements, take a look at whether our technology can help you.
+Speaker2: Okay, let's find some time to have a detailed chat, what time works best for you?

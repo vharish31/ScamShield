@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm the customer service of Meishikitang, do you still have interest in our signature dishes from your previous inquiry on our website?
+Speaker2: Hey, are you interested, what's your menu?
+Speaker1: Our menu has spicy crab, steamed sea bass, both made with fresh ingredients, the taste is amazing.
+Speaker2: What about the price?
+Speaker1: Lobster with chili is 288 yuan per portion, steamed fish with clear is 180 yuan per portion.
+Speaker2: What is your business hours?
+Speaker1: We are open from 11 am to 10 pm every day, and on weekends we extend until 11 pm.
+Speaker2: Okay, I want to go out to eat at seven o'clock on Saturday night. Do I need to make a reservation in advance?
+Speaker1: Of course, to ensure a place, I suggest you book in advance. Can I help you book a four-person private room?
+Speaker2: Okay, let's reserve a four-person private room, thank you.
+Speaker1: No problem, we have already reserved for you. See you at 7 pm on Saturday night. We are looking forward to your arrival.

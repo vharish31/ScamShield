@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to consult your hairdressing service.
+Speaker2: Hello, I'm very happy to serve you. What information do you want to know?
+Speaker1: How much does your cheapest haircut package cost and what services does it include?
+Speaker2: Our cheapest haircut package is 80 yuan, which includes basic haircut and washing services.
+Speaker1: Uh, what if I want to make a style?
+Speaker2: If you need a hairstyle, the cost will increase to 120 yuan, including haircutting, washing and styling services.
+Speaker1: Okay, can you tell me your business hours?
+Speaker2: Our business hours are from 9 am to 7 pm, even on weekends we will have normal business hours.
+Speaker1: Do I need to make a reservation for this weekend?
+Speaker2: There are more weekend guests, so I suggest you book in advance. Please let me know the specific time, and I'll arrange it for you.

@@ -1,0 +1,11 @@
+Speaker1: Hello, this is Beijing Bank Customer Service Center, I am Li Huang, the customer service manager, we recently introduced a high-interest credit loan service, monthly interest very low, are you interested in learning more?
+Speaker2: Hmm, this loan sounds good, but I'm a bit tight on cash right now, I'm not sure if I can apply.
+Speaker1: No problem, our loan service approval is very fast and the threshold is very low. As long as you have a stable income source, you can apply. I can help you apply for a preliminary approval, just need to provide some basic information.
+Speaker2: What information do I need to provide?
+Speaker1: You just need to provide your identity card number and phone number, and we will review it through the system. After the review is approved, you need to download our official app, fill out some detailed information, and then complete the application.
+Speaker2: Okay, how should I download your app?
+Speaker1: It's very simple. You can download our official app directly through this link: [provide a fake link]. After downloading, follow the instructions to complete the registration and fill out the information.
+Speaker2: Okay, I'll download it right away. What's the interest rate on this loan?
+Speaker1: Our loan interest rate is extremely low, currently at 1.2%, much lower than the market average. Moreover, if you continue to repay on time with us for three consecutive months, you can enjoy an even lower interest rate discount.
+Speaker2: That sounds good, so I'll download the app now and fill out the information.
+Speaker1: Okay, if you have any issues after downloading, feel free to contact me anytime. My phone number is 13612345678. Best of luck with your application!

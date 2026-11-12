@@ -1,0 +1,12 @@
+Speaker1: Hello, you are a customer service representative.
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you provide a detailed introduction of your new smartwatch?
+Speaker2: Of course. This smartwatch supports health monitoring, message notifications, motion recording, and various watch face styles to choose from.
+Speaker1: How long does the battery life of this watch last?
+Speaker2: This watch's battery life is approximately one week. If you frequently use some functions, it may be slightly shorter.
+Speaker1: Uh, when I place an order now, when will it arrive?
+Speaker2: If you order now, we will ship within 24 hours and usually arrive in 3-5 days.
+Speaker1: What is the price of this watch?
+Speaker2: This smartwatch costs 999 yuan, and now you can enjoy a 100 yuan discount when buying it.
+Speaker1: Then I placed the order, thank you for your detailed introduction.
+Speaker2: You're welcome, feel free to contact us if you have any questions, happy shopping!

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of Sequoia Express, there's a problem with your package during transportation, you need to cooperate to handle it.
+Speaker2: What's the issue?
+Speaker1: Your package was lost during transportation, to compensate you, we need you to provide your bank card information so we can quickly refund you.
+Speaker2: How can you confirm it's me?
+Speaker1: Please provide your name and phone number, we will verify the information.
+Speaker2: Okay, my name is Zhang San, phone number is 13812345678.
+Speaker1: Okay, Zhang San Xiāngshēng, the information is now double-checked, to ensure a smooth refund, could you please provide your bank card number and bank?
+Speaker2: Okay, my credit card number is 62220812345678901234 and the issuing bank is Commercial Bank.
+Speaker1: Okay, we will process it quickly. For security reasons, you need to provide the verification code of your bank card. We will send you a text message.
+Speaker2: Okay, I'll check my messages later.

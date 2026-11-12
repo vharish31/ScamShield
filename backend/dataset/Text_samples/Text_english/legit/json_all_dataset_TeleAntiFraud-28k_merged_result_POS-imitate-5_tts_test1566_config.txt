@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to inquire about the household services on your side, what kind of services do you provide?
+Speaker2: We provide various household services, including but not limited to cleaning, nanny, elderly care, etc. What specific aspect of service do you need?
+Speaker1: I've been pretty busy lately and my home is a bit messy, I want to ask an aunt to help clean the bathroom.
+Speaker2: Okay, clean service is one of our special services, we have professional cleaners, can provide service according to your needs.
+Speaker1: What about the price?
+Speaker2: In general, our cleaning service is charged by the hour, fifty yuan per hour. If it's a one-time big cleaning, the price can be determined based on the actual situation.
+Speaker1: Can I reserve this weekend? Is it suitable?
+Speaker2: Of course, you can contact us before Friday and we can arrange a service person based on your time.
+Speaker1: Okay, I'll contact you again on Thursday, thank you.
+Speaker2: No problem, looking forward to your call, wish you happy life.

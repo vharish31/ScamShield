@@ -1,0 +1,11 @@
+Speaker1: Hello, you are Lee boss? This is the Happy Bank Credit Center, I am customer service manager Liu, how can I help you?
+Speaker2: Hi, what's up?
+Speaker1: Mr. Lee, we noticed that your credit card spending record is good, as a token of our appreciation for your support of our bank, we specially recommend a high-limit credit card for you, which not only has a higher credit limit, but also various discount activities.
+Speaker2: Hey, it sounds good, what specific discounts do you have?
+Speaker1: This credit card offers exclusive discounts at over 100 merchants nationwide, airport VIP lounge service, and most importantly, you can now apply and enjoy a one-year annual fee waiver promotion.
+Speaker2: What are the application conditions?
+Speaker1: The application conditions are very simple. As long as you provide a proof of income, the review will be approved and we will mail you a new card.
+Speaker2: What do I need to do, can I apply online directly?
+Speaker1: Okay, just click this link, fill out the relevant information, and our staff will quickly process it for you.
+Speaker2: Okay, let me try.
+Speaker1: Thank you for your cooperation. If you have any questions, please feel free to contact me anytime. Have a happy life, goodbye.

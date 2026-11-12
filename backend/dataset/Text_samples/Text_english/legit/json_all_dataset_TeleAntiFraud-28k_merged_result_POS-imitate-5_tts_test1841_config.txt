@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, who are you?
+Speaker1: I am Lee Huang, I made a reservation for housekeeping services on your website yesterday, could you confirm the details of the reservation?
+Speaker2: Hello, Lee Huai. What time slot is your appointment for?
+Speaker1: I have an appointment for a cleaning service from 10 am to 12 pm tomorrow.
+Speaker2: Okay, what is the location of the service?
+Speaker1: Address is happiness road one hundred sixty eight number, sunshine small community three building four zero two.
+Speaker2: Okay, I have recorded the address. Please remind me if you need to cancel the appointment two hours in advance.
+Speaker1: Okay, I understand. And, does a pet cat at home affect the cleaning service?
+Speaker2: No way, our cleaning service includes cleaning pet hair. However, for safety reasons, we recommend you place your pet in a safe location.
+Speaker1: Okay, thank you. See you tomorrow.
+Speaker2: Okay, see you tomorrow. Wish you a happy day.

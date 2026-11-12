@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a server at the Flower Flower Restaurant. Did you have any suggestions or feedback on our menu items and service during your previous meal at our restaurant?
+Speaker2: "Ah, hello, I think your food is very delicious, the service is also very convenient, there's nothing special I'd recommend."
+Speaker1: Great, thank you very much for your confirmation! We always strive to provide the best dining experience for our customers.
+Speaker2: Hmm, quite good.
+Speaker1: Hey, have you tried our new menu items at the restaurant recently?
+Speaker2: Sounds good, I can try it next time.
+Speaker1: That's great. If you need anything, just contact me, I'll make arrangements for you.
+Speaker2: Okay, thank you for the invitation. I'll consider it. Bye!
+Speaker1: You're welcome, looking forward to your arrival, goodbye!

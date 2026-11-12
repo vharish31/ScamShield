@@ -1,0 +1,9 @@
+Speaker2: Hello!
+Speaker1: Hello, I am the manager of a consulting company in Shanghai, we have a very good investment opportunity with a high return rate and low risk, are you interested in learning more?
+Speaker2: Invest opportunity? I haven't heard of your company before.
+Speaker1: We are a newly established company that is currently in the promotion phase of our project, so you may not be very familiar with it yet. I can give you a detailed introduction if you invest some capital, and you will see a quick return.
+Speaker2: The sound is good, but I'm a bit worried about safety issues.
+Speaker1: Don't worry about this issue at all, we have a professional team in charge of risk control and all investments are transparent. I can send you a link, take a look at the project details and feel free to contact me if you have any questions.
+Speaker2: Okay, give me the link.
+Speaker1: Okay, I'll send it to you now. Additionally, to ensure the safety of funds, we recommend that you directly operate through our exclusive app, which is more convenient and efficient.
+Speaker2: Do you have a special app? Then I can relax more.

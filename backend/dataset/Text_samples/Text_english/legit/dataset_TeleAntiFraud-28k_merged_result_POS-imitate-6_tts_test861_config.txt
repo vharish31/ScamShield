@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there?
+Speaker2: Hey, how are you? I'm here, what's up?
+Speaker1: I just bought a phone case from your store, but the color I received is different from the one I chose.
+Speaker2: Oh, this situation is indeed a mistake in our work. I'm very sorry. Can you please tell me your order number?
+Speaker1: Okay, my order number is 123456789.
+Speaker2: Okay, I'll check. Hmm, found it. Yes, it was a mistake in color. We can send you a new one correctly or refund if you want.
+Speaker1: Then I just want another correct one.
+Speaker2: Okay, I'll handle it. I estimate it can be delivered within three days, please pay attention to check it.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, feel free to contact me anytime. Have a nice life, bye!

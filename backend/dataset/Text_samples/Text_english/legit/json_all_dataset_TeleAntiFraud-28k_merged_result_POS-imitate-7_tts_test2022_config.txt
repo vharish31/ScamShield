@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have any new phone cases here?
+Speaker2: Yes, we have many new phone cases here. What brand of phone case do you want?
+Speaker1: I want a phone case for my iPhone 12 that is made of silicone.
+Speaker2: We have the iPhone 12 here, it costs 120 yuan.
+Speaker1: Is this price acceptable? Can I come and get it if I need it?
+Speaker2: Of course, you can come directly to pick it up, or we can also deliver it to you by express.
+Speaker1: Can I come over in the afternoon tomorrow? What time do you guys usually go to bed?
+Speaker2: We'll be done at eight tonight, you can come over at any time tomorrow afternoon.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

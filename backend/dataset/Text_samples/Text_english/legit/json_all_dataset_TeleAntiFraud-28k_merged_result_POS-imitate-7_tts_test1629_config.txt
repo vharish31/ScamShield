@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the tenant of Jing Wan Yi Zhao Si Lv 4#1203, can you provide household services here?
+Speaker2: Hello, is it possible? We provide household services, including cleaning and laundry. What specific services do you need?
+Speaker1: Can you come and clean my place once a week?
+Speaker2: It's possible to meet once a week, we usually schedule time in the middle of the week, which day and time would be most convenient for you?
+Speaker1: Can I meet you at three o'clock on Thursday afternoon?
+Speaker2: Thursday afternoon at three o'clock is okay. Then I need you to provide me with the specific address and contact information of the room so that our work people can contact you.
+Speaker1: Okay, my room is on the fourth floor of building 1203, the phone number is 1357890265.
+Speaker2: Okay, Jing Wan Yi Zhao Si Lvu Xiàng Zhōu Shì Er, Diànhuā Shì Yī San Wǔ Qīng Bāo Nǐng, Wǒ Yǒu Jǐn Lù Chéng Hǎo Lè, Wǒmen Shì Qiānxià Diànhuā Liànxià Nǐn Shì Qùn Rèn.
+Speaker1: Okay, please let me know if you have any questions and feel free to contact me anytime.
+Speaker2: No problem, thank you. That we meet on Tuesday.

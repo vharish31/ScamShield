@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: I am a customer service representative for Meituan, you just placed an order for takeout on our platform, but the restaurant said your address is a bit far, it may take a little longer, can you accept it?
+Speaker2: Oh, this way, how long do you think it will take?
+Speaker1: Can you accept it if it takes about forty minutes?
+Speaker2: Forty minutes, okay, can I wait? But if it's overtime, can there be compensation?
+Speaker1: Of course, if you exceed the time limit, we will give you a discount coupon according to the platform rules as compensation.
+Speaker2: Okay, I agree. But I'm pretty busy lately, could you give me a call when the delivery arrives?
+Speaker1: Okay, we'll call you when the delivery arrives. Is there anything else you need help with?
+Speaker2: No more, thank you for your help.
+Speaker1: You're welcome, wish you happy life, bye.
+Speaker2: Goodbye.

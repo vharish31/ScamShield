@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I saw a washing machine on your website, I want to know about this month's promotion activities.
+Speaker2: Hello, Mr. Li, I am customer service representative Zhang, your inquiry about the washing machine is correct, you can enjoy a 90% discount when purchasing.
+Speaker1: Is this discount applicable to all models?
+Speaker2: Yes, all models are participating in this promotion, but inventory is limited, so if you need it, I suggest you place your order quickly.
+Speaker1: Okay, can you tell me approximately how long delivery will take?
+Speaker2: In general, we will arrange delivery within two to three business days after your order, and the specific delivery time will depend on the logistics situation in your location.
+Speaker1: If there are any issues, do you have after-sales service?
+Speaker2: Of course, we provide a one-year free warranty service, any issues can contact our customer service to solve.
+Speaker1: Okay, then I'll relax, I'll just place an order.
+Speaker2: Okay, thank you for your support. If you have any questions, please feel free to consult anytime. Have a happy shopping!

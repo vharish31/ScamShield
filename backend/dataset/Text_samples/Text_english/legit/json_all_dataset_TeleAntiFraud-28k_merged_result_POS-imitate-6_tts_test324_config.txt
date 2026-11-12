@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, I saw the new flavor hamburger at your store on the internet and the reviews are good, I want to know more about it.
+Speaker2: Hello, little Li, I am the little king of the hamburger store, thank you very much for your attention. Our new flavor hamburger is the latest to be released, blending multiple unique seasonings, the taste is very rich.
+Speaker1: I'm so eager to try this hamburger after listening to you talk about it. How much does it cost?
+Speaker2: This hamburger costs 35 yuan, and if you order through our small program, you can enjoy a 90% discount.
+Speaker1: That's great, I just want to try your small program. What are your business hours?
+Speaker2: Our store's business hours are from 10 am to 10 pm, both dine-in and takeout are very convenient.
+Speaker1: Can I reserve a seat in advance at your store at 3 pm this afternoon?
+Speaker2: Of course, I'll book you a window seat for 3 pm this afternoon.
+Speaker1: Thank you very much, see you later.
+Speaker2: No problem, I'm looking forward to your arrival, goodbye.

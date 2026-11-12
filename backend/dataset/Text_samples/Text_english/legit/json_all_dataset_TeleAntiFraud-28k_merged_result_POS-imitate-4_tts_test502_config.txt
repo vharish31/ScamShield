@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I just saw a promotion for a useful air purifier on your website and I want to consult.
+Speaker2: Hello, little Zhang, I am customer service Li, your home air purifier has a promotion, what aspects do you want to know?
+Speaker1: What is the price of this air purifier and how is its filtering effect?
+Speaker2: The promotional price of this air purifier is 399 yuan, its filtering effect is excellent, and it can effectively filter PM2.5, pollen, dust mites, and other allergens.
+Speaker1: Is that noise big or small? Is it suitable to put in the bedroom?
+Speaker2: This air purifier has a silent mode, even if it's used at night it won't affect sleep, it's very suitable for using in the bedroom.
+Speaker1: Can I place an order now and have it shipped today?
+Speaker2: If you place an order now, we promise to ship it tomorrow, usually within two to three days it can be delivered.
+Speaker1: Okay, I'll place the order now, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a nice life, goodbye!

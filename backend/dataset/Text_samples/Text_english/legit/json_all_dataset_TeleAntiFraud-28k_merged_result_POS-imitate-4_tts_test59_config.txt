@@ -1,0 +1,11 @@
+Speaker1: Hello, can you hear clearly?
+Speaker2: Sure, I can hear you clearly, who are you?
+Speaker1: I'm little Zhang, we met last week in the park, didn't you forget?
+Speaker2: Oh, I remember now, it's you, how have you been lately?
+Speaker1: Hi, how have you been lately?
+Speaker2: Yeah, work pressure is a bit big, right? Do you have any free time this weekend?
+Speaker1: Do you have any plans?
+Speaker2: Do you want to go hiking together and relax a bit?
+Speaker1: Great, hiking up the mountain sounds good, what specific time?
+Speaker2: How about we meet at 9am on Saturday morning? I'll pick you up, okay?
+Speaker1: Okay, Saturday morning at 9am, I'll meet you.

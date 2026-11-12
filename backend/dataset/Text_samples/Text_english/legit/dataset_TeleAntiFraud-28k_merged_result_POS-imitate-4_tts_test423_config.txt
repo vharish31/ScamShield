@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I want to order food.
+Speaker2: Hello, little Zhang, welcome, what do you want to order?
+Speaker1: I want to order a beef stir-fry, a pork ribs with sweet and sour sauce, and a bottle of Coke.
+Speaker2: Okay, one portion of beef stir-fry, one portion of sweet and sour pork ribs, and one bottle of Coke, are these all?
+Speaker1: Yes, all of these are correct.
+Speaker2: Okay, do you need it sent to an address?
+Speaker1: Yes, send it to the apartment at No. 23, Xiàngqíng lù, Sānzhōu lóu, Èr yī dòng chéng yī er bā shì.
+Speaker2: Okay, apartment 23 on Harmony Road, unit 2B, room 502, we will arrive in 30 minutes.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome. If you have any other needs, please feel free to contact us anytime. Enjoy your meal!

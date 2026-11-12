@@ -1,0 +1,10 @@
+Speaker1: Hello, are you good? I am a customer service representative from Commercial Bank, employee number 0089. Did you apply for a loan with us before?
+Speaker2: I haven't applied for a loan, have I?
+Speaker1: Oh, that might be a little problem with our system. But, now we have a special promotion for our quality customers, you can enjoy a no-down payment loan with a very low interest rate, are you interested in learning more?
+Speaker2: I recently need a capital rotation, can you explain in detail?
+Speaker1: Of course. This loan service is very convenient. You just need to provide some basic information, and we will quickly approve. For your convenience, you can download our official app, which has detailed operation procedures.
+Speaker2: Okay, how do I download this app?
+Speaker1: It's very simple. Just click on this link and follow the instructions to download and install. After installation, remember to use my recommendation code 123456 to register, so you can also enjoy additional services.
+Speaker2: Okay, let me try. Is this link safe?
+Speaker1: Absolutely safe, this is our official link, you can use it with confidence. If you encounter any issues during the operation, please feel free to contact me anytime, my phone number is 13800138000.
+Speaker2: Okay, thank you for your help. I will contact you.

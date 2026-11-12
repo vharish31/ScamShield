@@ -1,0 +1,12 @@
+Speaker1: Hey, are you little Li?
+Speaker2: Hello, I am little Li, who are you?
+Speaker1: Hi, I'm your neighbor little king, recently I want to rent a house, do you have any housing sources?
+Speaker2: Yes, I have a house in the Spring Hua Xiao Qu, three rooms one hall, are you interested?
+Speaker1: How much is the monthly rent for this house?
+Speaker2: The monthly rent of this house is 2500 yuan, including property fees and internet fees.
+Speaker1: Can you lower the price a little? I plan to rent for a year.
+Speaker2: If you rent for a year, you can get a discount of 2,300 yuan per month.
+Speaker1: Can I immediately move into this house?
+Speaker2: Okay, you can move in now, but you need to pay a month's rent in advance as a security deposit.
+Speaker1: Okay, I'll come over this weekend and we'll discuss it further.
+Speaker2: No problem, I'm at home this weekend, you can come over anytime.

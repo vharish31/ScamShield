@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Did you see new phones in your store online?
+Speaker2: Yes, we do have new phones in stock, would you like to take a look?
+Speaker1: Can you tell me the approximate price of this phone?
+Speaker2: This phone costs 3800 yuan, and now there's a small gift included when you buy it.
+Speaker1: The sound is good, I plan to spend the weekend watching.
+Speaker2: Okay, we'll wait for you at the store on the weekend. Do you need me to reserve a table for you?
+Speaker1: Never mind, I'll take a look and then we can talk. By the way, what time does your store close?
+Speaker2: Our store is open every day until 9 pm and on weekends too.
+Speaker1: Okay, thank you for your information. See you this weekend.
+Speaker2: No problem, see you this weekend. Wish you have a great day.

@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I saw a new washing machine on your website, I want to know more about it.
+Speaker2: Okay, this washing machine is our latest model, with a capacity of eight kilograms, supporting multiple wash and rinse modes, including fast wash and energy-saving wash.
+Speaker1: How much does it cost to sound good?
+Speaker2: This washing machine is priced at 2999.99 yuan, and you can now enjoy a 100 yuan discount when purchasing.
+Speaker1: Can I choose to have the delivery sent to my door?
+Speaker2: Of course, we provide free shipping nationwide, usually within three to five business days after ordering.
+Speaker1: Do I need to pre-book the installation service?
+Speaker2: We also provide installation service, you can note the need for appointment when placing an order, our installation master will install it together with the delivery.
+Speaker1: Great, I decided to buy one, how do I order?
+Speaker2: You can place an order directly on our website or through our mobile app after registering and logging in. Simply select the products you want and follow the prompts to complete the purchase.
+Speaker1: Okay, thank you for your help. I'll go place an order now.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, happy shopping!

@@ -1,0 +1,10 @@
+Speaker1: Hello, I bought a piece of clothing at your store yesterday, can I return it?
+Speaker2: Hello, is it okay, do we support seven-day no-reason return at the store? Do you need me to send the address back to you?
+Speaker1: Yes, can you help me with that. There's another question, I joined your member activity when I bought clothes, will this affect the return?
+Speaker2: No worries, membership activities won't affect returns, as long as the products are in the same condition and all labels are present, you can return them.
+Speaker1: Then I'll be relieved, will I have to pay for the shipping fees myself when I send it back?
+Speaker2: Yes, according to our return policy, the shipping fee is the customer's responsibility, but if the product has a problem, we can bear the shipping fee.
+Speaker1: Okay, I'll send it back first. If there are any issues, I'll contact you again. Thank you for your help.
+Speaker2: No problem, feel free to contact us anytime if you have any questions. We will handle it promptly. Have a great day.
+Speaker1: You're welcome, you too. Goodbye.
+Speaker2: Goodbye.

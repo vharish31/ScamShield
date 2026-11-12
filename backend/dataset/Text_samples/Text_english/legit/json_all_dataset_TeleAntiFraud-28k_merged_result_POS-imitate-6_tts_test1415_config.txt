@@ -1,0 +1,8 @@
+Speaker1: Hey, where are you?
+Speaker2: Have you arrived yet?
+Speaker1: I arrived, I'm waiting for you at the exit of the subway station, I brought an umbrella, today's weather forecast says there's a chance of rain.
+Speaker2: Okay, can I go quickly, wait for me later.
+Speaker1: Okay, be careful on the road, there are a lot of cars here.
+Speaker2: I know, I'm taking a taxi, should be quick.
+Speaker1: Okay, so you arrived to give me some information.
+Speaker2: Okay, see you later.

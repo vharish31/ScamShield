@@ -1,0 +1,8 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm sorry, I think I'm disturbing you right now. The restaurant you ordered from earlier had some small issues, so it might take a little longer to deliver your food. Is that okay with you?
+Speaker2: Oh, this way is okay, can we send it later tonight? How long will it take to arrive?
+Speaker1: Uh, it'll probably take about forty minutes or so, I'm really sorry for any inconvenience I've caused you.
+Speaker2: No problem, I'll be fine in a moment, you guys have worked hard too.
+Speaker1: Thank you very much for your understanding. We will handle it quickly on this side. If there are any more questions, please contact me anytime.
+Speaker2: Okay, thank you, I won't disturb you anymore, goodbye.
+Speaker1: Goodbye, wish you have a nice day!

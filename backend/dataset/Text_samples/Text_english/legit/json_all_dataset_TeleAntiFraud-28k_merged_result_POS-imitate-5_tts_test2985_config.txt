@@ -1,0 +1,10 @@
+Speaker1: Hey, that thing I bought on your platform yesterday, I haven't received it yet. Can you check it for me?
+Speaker2: Hello, I can help you with that. Can you provide me with the order number?
+Speaker1: Order number is 234512345, sorry.
+Speaker2: Okay, just a moment, I'll check. Hmm, this order shows it has been shipped, but the shipping company hasn't updated the latest delivery information yet.
+Speaker1: When will I receive it?
+Speaker2: According to the shipping company's regular time, you should receive it within the next one to three days. If there are any changes, we will notify you immediately.
+Speaker1: What should I do if I don't receive it within three days?
+Speaker2: If you haven't received it within three days, you can directly contact us, and we will further query and assist in solving the problem.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a happy life!

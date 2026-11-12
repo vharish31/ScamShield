@@ -1,0 +1,7 @@
+Speaker1: Hello, how are you? I am the customer service of the community property, I want to remind you that the water and electricity repair service in the community needs to be booked in advance, you can tell me your convenient time in advance, I will help you arrange it.
+Speaker2: Hello, I recently had some problems at home, the water heater leaked, when can you come to fix it?
+Speaker1: Okay, if it's convenient for you, our maintenance master can come over between 9am and 11am tomorrow morning.
+Speaker2: I can meet you tomorrow morning, but it's better after ten o'clock, I'm still on my way to work at nine.
+Speaker1: Okay, let's schedule for tomorrow morning at 10 am. Remember to prepare the water dragonhead model in advance, so that the master can quickly solve the problem.
+Speaker2: Okay, I understand, thank you for reminding me, see you tomorrow.
+Speaker1: You're welcome. Any questions, feel free to contact me anytime. See you tomorrow.

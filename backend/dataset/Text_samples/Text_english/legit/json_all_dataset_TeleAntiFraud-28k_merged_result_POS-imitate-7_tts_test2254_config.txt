@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hi, I'm Xiao Mei, it seems like you haven't been to our store recently, we have new summer clothes in stock, lots of styles, do you have time to pick a few?
+Speaker2: Oh, really? I've been pretty busy lately, but after hearing what you said, I'm actually quite curious to see it.
+Speaker1: That's great, we have a member activity at the store now, buy five hundred and get one hundred back, it's really cheap.
+Speaker2: Can you confirm how many points are left on my membership card?
+Speaker1: Okay, just a moment, I'll check. You came last year in October, now you have 120 points in Kari.
+Speaker2: Great, I can use it next time. What are your business hours?
+Speaker1: We are open from 10 am to 9 pm every day, and on weekends we extend until 10 pm.
+Speaker2: Okay, I'm free this weekend, I'll go take a look, thank you.

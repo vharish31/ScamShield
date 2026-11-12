@@ -1,0 +1,11 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, I reserved a table at your store.
+Speaker2: Okay, what time is your reservation?
+Speaker1: I am seven o'clock in the evening.
+Speaker2: Okay, we have reserved a spot for you here, just come to the service counter and say your name when you arrive.
+Speaker1: Okay, thank you, do I need to call ahead and confirm beforehand?
+Speaker2: No need to notify us if there are any changes, just come directly if not.
+Speaker1: Do you have a parking lot?
+Speaker2: Yes, we have a parking lot behind our store, free for customers to use.
+Speaker1: Okay, I'll just go there directly tonight.
+Speaker2: Okay, see you tonight, hope you enjoy your dinner!

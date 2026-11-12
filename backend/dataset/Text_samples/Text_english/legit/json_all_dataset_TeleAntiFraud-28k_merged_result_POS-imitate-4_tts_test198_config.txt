@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw a phone on your website, want to know more details?
+Speaker2: Hello, I'm very happy to serve you. What kind of phone are you interested in?
+Speaker1: That's the latest model, it's the Xiaomi Mi 30.
+Speaker2: The Xiaomi Mi 10, okay, this phone is our latest flagship, comes with a 6.5-inch AMOLED screen and a 48-megapixel main camera, has a 5,000mAh battery that supports fast and wireless charging.
+Speaker1: How much does that phone cost?
+Speaker2: The official selling price of the Starburst 3000 is 3999 yuan, but now we have an activity, and you can enjoy a 300 yuan discount when purchasing.
+Speaker1: Are there any discounts, when can I get the goods?
+Speaker2: If you place an order now, we will ship it to you within 24 hours, and usually it takes 2-3 days to arrive at your address.
+Speaker1: Okay, I'll place the order. Are there any other things to keep in mind?
+Speaker2: That's all there is to it. Just make sure to fill out your shipping address and contact information clearly when placing your order. If you have any issues, feel free to contact our customer service at any time. Have a great shopping experience!

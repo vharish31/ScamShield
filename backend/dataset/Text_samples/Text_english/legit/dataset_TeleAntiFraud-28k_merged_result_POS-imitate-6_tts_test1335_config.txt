@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: I am the customer service at the food square, can you confirm if you still need to reserve a seat for your dinner?
+Speaker2: Oh, okay, I really booked it. What time?
+Speaker1: Your reservation is for 7 pm at table four in the evening.
+Speaker2: Okay, I remember. I will arrive on time.
+Speaker1: Great, we will keep the reserved seats for you until 7:30. If you arrive after that time, we may need to reschedule.
+Speaker2: No problem, I will leave early, if anything happens on the road I will contact you again.
+Speaker1: Okay, we're waiting for your arrival. If you encounter any issues on the way, please contact us anytime.
+Speaker2: Thank you, see you later.

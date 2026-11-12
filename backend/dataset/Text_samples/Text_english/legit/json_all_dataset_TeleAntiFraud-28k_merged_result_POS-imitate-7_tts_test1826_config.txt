@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, you good?
+Speaker1: Where is that restaurant you mentioned earlier?
+Speaker2: Right in the city center, next to the big shopping mall, you know, right?
+Speaker1: Hmm, I know that place, but I'm not quite sure how to walk there specifically.
+Speaker2: Okay, you exit the shopping center and walk north for two hundred meters, then turn right at the first red and green light, and then walk straight to the bottom.
+Speaker1: Okay, thank you. Do you know what time they open the door?
+Speaker2: They usually close the door at nine o'clock in the evening, but on weekends they close it a little later.
+Speaker1: Should I leave around 7:00 AM?
+Speaker2: Of course, it's not a problem. They will be there at seven o'clock, and they won't be too many people.

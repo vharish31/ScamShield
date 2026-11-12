@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you remember the house you talked about yesterday?
+Speaker2: Remember remember, do you want to go take a look?
+Speaker1: Hey, do you think it's okay for me to go see a movie this afternoon?
+Speaker2: Sure, what time in the afternoon?
+Speaker1: Can't go at three o'clock?
+Speaker2: Three o'clock is fine, you can come directly, I'll wait for you.
+Speaker1: Okay, do you have that key?
+Speaker2: I have the key here, just give me a call when you arrive, I'll go pick you up.
+Speaker1: Okay, see you then, thank you.
+Speaker2: No problem, see you later.

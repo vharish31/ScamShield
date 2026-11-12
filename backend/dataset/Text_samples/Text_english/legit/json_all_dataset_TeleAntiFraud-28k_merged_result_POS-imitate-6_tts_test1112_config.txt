@@ -1,0 +1,8 @@
+Speaker1: Hey, where are you?
+Speaker2: Where are you at the subway station?
+Speaker1: Can you see me from the road in front of you?
+Speaker2: Can you see how many people are there on your side?
+Speaker1: Hello, not many, hurry up and come over.
+Speaker2: Okay, I'll go over there right away.
+Speaker1: Be careful on the road.
+Speaker2: I know, see you later.

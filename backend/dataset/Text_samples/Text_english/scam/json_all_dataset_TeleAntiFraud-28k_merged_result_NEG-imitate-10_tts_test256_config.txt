@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Zhang, I'm a customer service representative for some e-commerce platform.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we found some issues with the products you bought previously, so we need to give you a refund.
+Speaker2: Oh, really? How do you handle it?
+Speaker1: For your convenience, we have a dedicated refund link on this side. Just click the link and follow the instructions.
+Speaker2: Okay, I'll handle it right away.
+Speaker1: Okay, the link has been sent to your phone, please check it out.
+Speaker2: I got it, I'll open it right away.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact me anytime.
+Speaker2: Okay, thank you.

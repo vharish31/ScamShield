@@ -1,0 +1,12 @@
+Speaker2: Hey, who's there?
+Speaker1: Hello, I am Liu from Huaxia Bank's customer service, we have a great loan promotion activity here, do you have any recent funding needs?
+Speaker2: Loan? I recently need to circulate funds, do you have any discounts?
+Speaker1: That's right, we have introduced a special discounted loan plan for small business owners, with a very low interest rate and a fast approval speed, and you can apply and get the loan on the same day.
+Speaker2: Do I really need to prepare what resources?
+Speaker1: Please provide us with your business license, ID proof, and bank statement. We will quickly review them. Additionally, for the sake of information security, please download our official app and complete the identity verification process.
+Speaker2: Is the app safe to download?
+Speaker1: Extremely safe, this app is our official channel, all operations are under bank supervision. You can rest assured using it.
+Speaker2: Okay, let me try. How do I download it?
+Speaker1: You can search 'Hua Xia Bank Loan' on the mobile app store and download our official app. After downloading, register and fill in the relevant information, we will quickly review it.
+Speaker2: Okay, I'll download it later. Thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. My phone number is 13812345678. Best wishes.

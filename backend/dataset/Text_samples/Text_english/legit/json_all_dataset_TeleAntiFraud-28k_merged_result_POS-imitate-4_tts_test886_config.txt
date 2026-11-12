@@ -1,0 +1,15 @@
+Speaker1: Hello, are you looking to make a hair appointment?
+Speaker2: Yes, I want to make an appointment for tomorrow afternoon's haircut.
+Speaker1: How about 2 PM tomorrow?
+Speaker2: Can we meet around four o'clock?
+Speaker1: Can I come at 4 o'clock? Is this your first time at our store?
+Speaker2: Yes, first time.
+Speaker1: Okay, which stylist would you like to make an appointment with? We have several senior stylists here, all of whom are very skilled.
+Speaker2: Do you have any recommendations?
+Speaker1: Our Li master is very popular, his technology and service are both very good, you can book him.
+Speaker2: I'll book Li teacher.
+Speaker1: Okay, I have scheduled Li Si Fu for you tomorrow at 4 pm. Please arrive ten minutes early and let me know if there's anything you need to prepare.
+Speaker2: Nothing special, just cut some short hair, clean up a bit.
+Speaker1: Okay, Li teacher will design according to your needs. If you have any other needs, you can directly communicate with Li teacher.
+Speaker2: Okay, thank you. So, see you tomorrow.
+Speaker1: Okay, see you tomorrow. Wish you a happy day.

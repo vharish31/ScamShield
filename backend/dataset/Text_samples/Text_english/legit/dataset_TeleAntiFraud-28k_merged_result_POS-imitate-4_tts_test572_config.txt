@@ -1,0 +1,14 @@
+Speaker1: Hello, are you the small Ming fast food store?
+Speaker2: Hello, yes, this is a small Ming fast food store. What can I help you with?
+Speaker1: Can you tell me more about your menu, especially your signature dishes?
+Speaker2: Okay, our store's signature dishes are gong bao chicken, yu xiang rou shi and ma la dou fu, all of which are very popular.
+Speaker1: How much does a palace chicken drumming cost per portion?
+Speaker2: The price of palace chicken wings is 30 yuan per portion, and if you order a full meal for 100 yuan, you can enjoy a 90% discount.
+Speaker1: Uh, like this. So I want to book a table tonight, around eight people, can you provide takeout service?
+Speaker2: Of course, we provide free delivery service, and we will also attach a free bowl of hot and sour soup.
+Speaker1: Okay, can you deliver it to me at six o'clock or so?
+Speaker2: No problem, we will ensure to send you to your address before six o'clock, please inform us in advance.
+Speaker1: Okay, my address is Tian'an Xiǎoquān Sān hào lóu Èr dān yī jiān.
+Speaker2: Knowledged, Tian An Xiao Quan Three Hao Lou Er Dui Xiàn, wǒmen huì zhòng shí shòu dà, nǐ yǒu qìng yǒu yīng yǒu yīng yǒu yīng?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, hope you enjoy your meal, bye.

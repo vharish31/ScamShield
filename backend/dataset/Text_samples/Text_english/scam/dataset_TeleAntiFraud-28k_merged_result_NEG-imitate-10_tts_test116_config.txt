@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Huai Ru Yuan Bank's customer manager Zhang, we recently launched a special discount loan product, do you have any interest in learning more?
+Speaker2: Hey, a loan, I'm a bit short on funds right now, but I'm still curious, what's special about your loan product?
+Speaker1: This loan product is specifically designed for high-quality customers, no collateral, no guarantee, interest rate is very low, and the approval speed is fast, the fastest is the same day to disburse funds.
+Speaker2: How do I apply? Do I need to prepare any materials?
+Speaker1: The process is very simple. Just download our official app, fill out some basic information, and upload your identity card photo.
+Speaker2: Where can I download the official app?
+Speaker1: You can click this link to download, or scan my QR code to download faster.
+Speaker2: Okay, let me try. How do I operate it after downloading?
+Speaker1: After downloading the app, register an account and then on the homepage find the "Quick Loan" entrance, follow the instructions and you're good to go. If you have any issues, feel free to contact our customer service anytime.
+Speaker2: Okay, thank you for your introduction, I'll give it a try.

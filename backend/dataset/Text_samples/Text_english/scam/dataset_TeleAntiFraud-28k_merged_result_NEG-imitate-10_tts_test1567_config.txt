@@ -1,0 +1,10 @@
+Speaker1: Hello, I am a customer service representative from 9-day mall, you have a new order, please handle it quickly.
+Speaker2: Hello, why didn't I receive a notification?
+Speaker1: It's possible that the system notification wasn't sent in time, you can log in to the backend to check. If there are any issues, you can contact our operations teacher, he will assist you in handling them.
+Speaker2: Okay, I'll go take a look.
+Speaker1: Additionally, we found that your store is not yet bound to a payment method, to ensure the safety of transactions, we recommend that you bind it quickly.
+Speaker2: Bind payment method? How to operate?
+Speaker1: You can click this link and follow the instructions to complete the binding, I'll send you a message on WeChat.
+Speaker2: Wechat? How do I add you on Wechat?
+Speaker1: You can search my phone number on WeChat and add me as a friend, I will send you a link.
+Speaker2: Okay, I'll add you on WeChat. Thanks.

@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Are you really offering computer repair services on your friend circle?
+Speaker2: Yes, I can provide on-site service.
+Speaker1: My computer has been lagging recently. I want to check if it's a hardware issue.
+Speaker2: Sure, I can check it for you. It's probably due to insufficient memory or a virus.
+Speaker1: How much money do we need?
+Speaker2: The check fee is 50 yuan. If additional hardware needs to be replaced or the virus needs to be cleaned, the fee will be determined based on the actual situation.
+Speaker1: Okay, can you come over in the afternoon tomorrow at my place?
+Speaker2: Can we meet tomorrow afternoon? What time?
+Speaker1: Are you leaving at 2 o'clock?
+Speaker2: Okay, what time do you arrive, what's your address?
+Speaker1: The address is Happiness Villa No. 3, Unit 2, 402.
+Speaker2: Okay, I know how to go, see you tomorrow.
+Speaker1: Okay, thank you, see you tomorrow.

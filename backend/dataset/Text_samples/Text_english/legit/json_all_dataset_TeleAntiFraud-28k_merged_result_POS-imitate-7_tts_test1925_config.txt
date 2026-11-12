@@ -1,0 +1,14 @@
+Speaker1: Hi, I'm little Li, I want to consult your home service.
+Speaker2: Hello, Mr. Li, I am a customer service representative from a cleaning company. How can I assist you?
+Speaker1: I'd like to know more about your cleaning service, my house is about 120 square meters.
+Speaker2: Okay, we provide one-time deep cleaning service as well as regular cleaning service. You can choose to have it once a week or once every two weeks.
+Speaker1: What are your pricing standards?
+Speaker2: For a 120 square meter room, a one-time deep cleaning service fee is 400 yuan, and if it's a regular cleaning, the fee per cleaning is 300 yuan.
+Speaker1: I plan to book a service every week on Monday, starting from next week.
+Speaker2: Okay, I'll book a service for you starting next Monday at this time. Is this okay for you every week?
+Speaker1: Is it okay, do I need to pay a deposit?
+Speaker2: Yes, in order to confirm the appointment, we need you to pay a deposit of 100 yuan, which can be deducted from the service fee after the service ends.
+Speaker1: Okay, how do I pay the deposit?
+Speaker2: You can directly pay through our WeChat mini-program or pay via Alipay transfer, I will send you the payment link.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome. If you have any other questions, feel free to contact me anytime. I'm looking forward to serving you.

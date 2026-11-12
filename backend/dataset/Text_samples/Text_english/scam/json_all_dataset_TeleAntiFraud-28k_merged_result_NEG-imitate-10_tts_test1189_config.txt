@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am a customer service representative from Guangan Technology, we noticed that you recently encountered some issues while using our products, now we have a special promotion that can help you solve these problems and also enjoy additional discounts.
+Speaker2: Uh, okay? I recently encountered some problems, can you tell me specifically?
+Speaker1: Of course, we understand that your account may be temporarily affected by system upgrade, so as to compensate you, we provide a free VIP service experience. Just click on the link we provide and follow the instructions to complete it.
+Speaker2: What sounds good, what should I do?
+Speaker1: It's very simple. Just click on this link, then follow the instructions on the page, and you can complete the VIP service activation.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you encounter any issues during the operation process, please feel free to contact us at any time. Additionally, we have some recommended products that are currently on sale with special discounts. Would you like to take a look?
+Speaker2: Hmm, let me take a look first.

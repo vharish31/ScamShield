@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Lee, the manager of the company.
+Speaker2: Hello, Li Manager, what do you have?
+Speaker1: Is that so? We recently launched a special discount loan project with a very low interest rate and fast approval. Would you be interested in learning more?
+Speaker2: Do you want a loan? I have enough money now, so I don't need it.
+Speaker1: That's great, but this opportunity is quite rare. Have you considered future financial needs, such as expanding business or investing?
+Speaker2: Hmm, this is indeed true, but I'm still worried about the complicated procedures, time-consuming.
+Speaker1: You can rest assured that we have a dedicated team in charge, it's very convenient and quick. If you're interested, you can download our app, register and you'll be assigned a personal contact.
+Speaker2: Download the app? Is it safe?
+Speaker1: Absolutely safe, our app is officially certified, you can use it with peace of mind. Plus, there's a new user discount available for download now.
+Speaker2: Okay, let me try.

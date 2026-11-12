@@ -1,0 +1,10 @@
+Speaker1: Hey, are you open today at the restaurant?
+Speaker2: Hello, little Zhang, are there any tasks you need help with today?
+Speaker1: Can I reserve a four-person table for 7 pm tonight?
+Speaker2: Is that okay? The 7 o'clock spot has been reserved for you. Do you need to arrive early?
+Speaker1: No need, we just on time, can you recommend any menu?
+Speaker2: Our menu here has sweet and sour pork ribs, steamed fish with ginger and scallions, and spicy stir-fried chicken with peanuts, all very popular, you can try them.
+Speaker1: Okay, let's order these, do you guys have any vegetables?
+Speaker2: Yes, we have clear vegetable and ginger with broccoli, both are very good choices.
+Speaker1: Let's have a jasmine oolong tea, thank you.
+Speaker2: Okay, the order has been recorded, see you later.

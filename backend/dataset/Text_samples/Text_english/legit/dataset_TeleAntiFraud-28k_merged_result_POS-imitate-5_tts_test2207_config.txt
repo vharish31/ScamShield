@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little king, recently I'm considering buying a new car, want to know about your store's discount policy.
+Speaker2: Hey, hello, little king. We have some discount policies in our store recently. What specific car do you want to know about?
+Speaker1: I pay more attention to your SUVs in the store, recently I've been considering a certain one, but I'm still hesitating.
+Speaker2: Hey, this SUV actually has a discount now, not just on the price, but also includes some useful accessories.
+Speaker1: What specific items are there?
+Speaker2: The package includes an 888-degree electric card and 10,000 points, and also offers free first-year maintenance.
+Speaker1: The sound is good, but I still need to consider it again.
+Speaker2: No problem, you can consider it first. If you decide, feel free to contact us anytime.
+Speaker1: Okay, thank you for your introduction.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am the manager of the personal loan department at Commercial Bank, and we have introduced a low-interest loan. Do you need it?
+Speaker2: "Uh, I don't have a need for a loan at the moment."
+Speaker1: This way, this loan interest rate is very low, only need two cents, and the approval speed is fast, no need for collateral. If you need it, you can add a WeChat, I will give you detailed introduction.
+Speaker2: Okay, can I add a WeChat?
+Speaker1: Great, my WeChat is 13812345678, add me.
+Speaker2: Okay, I'll add you.
+Speaker1: After I add you, I'll send you a link, you can click to see our loan product details.
+Speaker2: Okay, I'll meet you later.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Wait for me at the east door of the mall.
+Speaker2: Okay, I'll just wait here for you, are you coming soon?
+Speaker1: Hurry up, we'll be there in a few minutes.
+Speaker2: Okay, I see you, just at the left side of the big gate.
+Speaker1: Okay, I see it, are you wearing red clothes?
+Speaker2: Yes, I am wearing red clothes.
+Speaker1: I'll be right back, just wait for me a minute.
+Speaker2: Okay, I'll wait for you here, be careful on the road.

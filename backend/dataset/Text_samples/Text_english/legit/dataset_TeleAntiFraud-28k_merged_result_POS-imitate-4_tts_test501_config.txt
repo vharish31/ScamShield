@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you see where I am?
+Speaker1: I'm at the subway station exit, hurry up and come over.
+Speaker2: Okay, I'll be there soon.
+Speaker1: Did you bring an umbrella? It might rain today.
+Speaker2: No umbrella, but the weather forecast says it's sunny today.
+Speaker1: Okay, let's go to the mall directly.
+Speaker2: Let's go shopping for clothes first, or should we go straight to the movie?
+Speaker1: Let's watch a movie first, I've already bought all the movie tickets.
+Speaker2: Okay, then I'll hurry over.

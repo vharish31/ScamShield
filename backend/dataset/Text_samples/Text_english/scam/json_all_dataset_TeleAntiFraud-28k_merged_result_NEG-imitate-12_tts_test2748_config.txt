@@ -1,0 +1,12 @@
+Speaker1: Hello, you, I am a customer service representative of Jinlong Yinhang, Li Ming.
+Speaker2: Hello, what can I help you with?
+Speaker1: We noticed your credit record is excellent, would like to invite you to our credit loan program.
+Speaker2: Oh, really? What conditions do loans require?
+Speaker1: It's very simple. Just provide some basic information and we'll evaluate it online.
+Speaker2: What do I need to do?
+Speaker1: You can click on the link I sent you and fill in the relevant information.
+Speaker2: Okay, but how do I know this link is safe?
+Speaker1: We are a regular bank, and our link is absolutely safe. Moreover, if you have any questions, you can directly contact me, my phone number is 011123456.
+Speaker2: Even though I'm a bit worried, what if there are problems?
+Speaker1: Don't worry, we have a professional customer service team available to answer any questions you may have. Additionally, this loan application has a promotion, the first 100 applicants can enjoy a lower interest rate.
+Speaker2: Okay, let me try.

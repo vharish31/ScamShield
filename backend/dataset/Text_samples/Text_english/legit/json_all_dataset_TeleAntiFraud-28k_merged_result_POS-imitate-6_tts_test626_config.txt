@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at the Little King Fast Food Store?
+Speaker2: Hello, I want to know more about your menu options and prices.
+Speaker1: We have various meal options here, such as beef burger set, chicken burger set, and vegetarian set. The beef burger set is 35 yuan, the chicken burger set is 30 yuan, and the vegetarian set is 25 yuan.
+Speaker2: What are your business hours?
+Speaker1: We open the door at 10 am every day and close it at 10 pm.
+Speaker2: Is it possible to deliver food to the door if the order quantity is large?
+Speaker1: Of course, we provide delivery service for food, if your order is over 100 yuan, we deliver it for free.
+Speaker2: Can I make a reservation for lunch at the company tomorrow at noon?
+Speaker1: Of course, you can place an order before noon on tomorrow at 11:30, and we will deliver on time.
+Speaker2: Okay, thank you for your help.
+Speaker1: You're welcome, feel free to contact us anytime if you have any questions, wish you a great day.

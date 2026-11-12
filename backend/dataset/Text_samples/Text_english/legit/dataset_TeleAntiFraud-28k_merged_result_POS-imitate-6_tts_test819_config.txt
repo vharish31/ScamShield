@@ -1,0 +1,13 @@
+Speaker1: Hello, this is the happy medicine store.
+Speaker2: Hello, I saw a vitamin C pill in your store, can you tell me more about it?
+Speaker1: Hey, we have vitamin C tablets here, they're imported, each bottle contains a hundred pills, and they cost forty-five yuan.
+Speaker2: Forty-five yuan for a bottle? What is the effect of this vitamin C pill?
+Speaker1: This vitamin C pill can help enhance immune function, prevent the common cold, and also has anti-aging and skin-beautifying effects.
+Speaker2: That sounds good, can I buy two bottles and can you deliver them?
+Speaker1: Of course, we provide city-wide delivery service, please leave your address and contact phone number.
+Speaker2: Okay, my address is Xiàngfú xiǎojīng èr niǎo lóu sān dān yī xīng sì zhèr liú, diànhuā is yī sān wǔ yī yī yī yī yī.
+Speaker1: Okay, I have recorded your information. We will quickly deliver it to you.
+Speaker2: Thank you, and I can receive it after six o'clock in the evening at home?
+Speaker1: Okay, we will deliver to you at six o'clock in the evening and call you beforehand to confirm.
+Speaker2: Okay, can you please, thank you.
+Speaker1: No problem, what do you need to contact us urgently, wish you a happy life.

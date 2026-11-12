@@ -1,0 +1,10 @@
+Speaker1: Hey, how have you been lately?
+Speaker2: That's good, lately work has been busy. How about you?
+Speaker1: I'm fine, but good, how about we go out to eat on the weekend?
+Speaker2: Any restaurant recommendations?
+Speaker1: There's a new restaurant that's supposed to be pretty good, with a nice environment and good service.
+Speaker2: Okay, let's go try it out. What time do you want to set?
+Speaker1: What's the plan for Saturday night at 6pm?
+Speaker2: Sure, on Saturday at 6 pm, remember to book a seat in advance.
+Speaker1: Okay, I'll go order tonight. See you later.
+Speaker2: Okay, see you later. Be careful on the road.

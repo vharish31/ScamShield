@@ -1,0 +1,10 @@
+Speaker1: Good morning, are you convenient to talk?
+Speaker2: Hey, what's up?
+Speaker1: I am the manager of China Information Bank, I noticed your recent credit record is very good, so I want to recommend a special loan service to you.
+Speaker2: Is it loan service?
+Speaker1: Yes, this is a loan without collateral, low interest rate, with a maximum loan amount of 50,000 yuan, and quick disbursement.
+Speaker2: That sounds good, I really need some money lately.
+Speaker1: Okay, to help you apply faster, I need some basic information from you, such as your name, ID number, and bank card number.
+Speaker2: Okay, my name is Wang Ming, my ID number is 123456789012345678, and my bank card number is 6222020000000000000.
+Speaker1: Thank you for your cooperation, Wang Ming. We still need you to click on this link to complete the application. The link is: www.fakebank.com/loan.
+Speaker2: Okay, I'll go click now.

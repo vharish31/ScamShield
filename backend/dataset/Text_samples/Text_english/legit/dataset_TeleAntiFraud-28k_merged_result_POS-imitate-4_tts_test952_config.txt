@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Have you rented out that apartment in Five Eight City yet?
+Speaker2: Yes, it's still for rent.
+Speaker1: How much is the rent for that house?
+Speaker2: Rent is one thousand five hundred yuan per month, with a three-month deposit.
+Speaker1: Can I rent for half a year? Because I am temporarily working here for half a year.
+Speaker2: You can rent for half a year, but you need to pay one month's rent in advance as a security deposit.
+Speaker1: Sure, can I go over to the house this weekend?
+Speaker2: Of course, you can go from 10 am to 4 pm on the weekend.
+Speaker1: Okay, thank you. I'm Zhang Ming, I'll contact you later.
+Speaker2: Okay Zhang Ming, I will wait for your call.

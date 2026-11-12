@@ -1,0 +1,11 @@
+Speaker1: Hey, are you little Li?
+Speaker2: Hello, yes, I am small Li.
+Speaker1: Hi, I'm Zhang, your neighbor in the Happy Community, and there's a health lecture happening in our community soon. Would you be interested in joining?
+Speaker2: When is the health lecture? It sounds good.
+Speaker1: The activity was held at the community center at 10 am on Saturday morning.
+Speaker2: Saturday morning at ten, okay, I should have some time.
+Speaker1: Great! This lecture will cover some practical knowledge on how to maintain health, and there will be interactive sessions, which is fun.
+Speaker2: I'll definitely go, by the way, can I find any other interested neighbors?
+Speaker1: Okay, if you're sure you want to go, it's best to arrive ten minutes early, sign in and get your materials.
+Speaker2: Okay, I understand, thank you for inviting me, Xiao Zhang.
+Speaker1: No problem, see you later.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the waiter of this restaurant, want to confirm your reservation tonight?
+Speaker2: Hey, I reserved a seat for tonight at seven.
+Speaker1: Yes, is it two digits?
+Speaker2: Yes, that's right.
+Speaker1: Okay, do you need a window position?
+Speaker2: If possible, it's better to sit by the window.
+Speaker1: Okay, I noted it down. By the way, we have a special seafood menu tonight, are you interested?
+Speaker2: Let's take a look at the menu when we arrive and decide then.
+Speaker1: No problem, just find me at the restaurant after you arrive and I'll recommend some special dishes for you.
+Speaker2: Okay, thank you, see you later.
+Speaker1: No problem, looking forward to your arrival, see you then.

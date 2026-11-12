@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am Lee Manager, this is Xinghui Yinhang, can you show me if you have consulted our loan service before, and do you still have this need now?
+Speaker2: Hey, hi, I recently have a bit of cash flow needs.
+Speaker1: Great, our loan service is perfect for you, no collateral required, simple paperwork, fast approval. If you're interested, you can add my WeChat first, I have some materials to send you.
+Speaker2: Okay, add me on WeChat then.
+Speaker1: Okay, after I add you on WeChat, I'll send you a link, you can click on the link to fill out some basic information, so we can process your application faster.
+Speaker2: Okay, I'll wait for you to add me on WeChat.
+Speaker1: There's one more small step to verify your identity. You need to provide a verification code, which will be sent to your phone. Once you receive it, tell me, so we can proceed to the next step.
+Speaker2: Okay, I will pay attention to receiving.
+Speaker1: Thank you very much for your cooperation. The verification code has been sent. Please pay attention to check it.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Okay, the verification code is correct, we have completed the initial verification. Next, just click on the link I sent you and follow the instructions.

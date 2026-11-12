@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Lee Huai?
+Speaker2: Hello, I am Lee Huai.
+Speaker1: I am a customer service representative from Huaxin Technology, our company recently launched a new investment financial platform, there is currently a new user bonus when registering, the returns are very high, are you interested in learning more?
+Speaker2: Invest in wealth management? I'm a bit tight-handed right now, not very convenient.
+Speaker1: No problem, this platform is particularly suitable for friends with limited funds, you can first try small-scale investment with no risk, and our platform has a professional investment advisory team to support.
+Speaker2: What does it sound like? How do I register?
+Speaker1: Great! Just click on the link I sent you and download our app. Register and you can start experiencing it.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact me anytime. I wish your investment to be successful. Goodbye!
+Speaker2: Thank you, goodbye.

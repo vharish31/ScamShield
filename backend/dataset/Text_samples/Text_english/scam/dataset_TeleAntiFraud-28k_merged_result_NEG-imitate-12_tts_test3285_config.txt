@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the happy mall customer service, I'm little Zhang, the items you bought in our mall were lost during delivery, we're ready to compensate you.
+Speaker2: Oh, really? Then what do we do now?
+Speaker1: To make it easier for you, we can handle this issue online. Just click on the link we send you and fill out the relevant information, and we'll quickly process the compensation.
+Speaker2: Okay, what do I need to do now?
+Speaker1: Just click on this link, follow the instructions, enter your order number and bank card information, and we will directly deposit the compensation money into your account.
+Speaker2: How do I know this link is safe?
+Speaker1: We are a legitimate mall, our links are absolutely safe, you can relax. For your convenience, we can also send links to you through WeChat or QQ.
+Speaker2: I'm still a bit worried, what if something goes wrong?
+Speaker1: Don't worry, we have a dedicated customer service team. If you have any questions, you can contact us anytime. To ensure your rights, we will send you a text message confirmation after you complete the operation.
+Speaker2: Okay, let me try.

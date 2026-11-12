@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me how your household services are priced?
+Speaker2: Our family's housekeeping service fees are determined based on the content of the service, such as cleaning, cooking, or taking care of the elderly, and different services have different prices.
+Speaker1: How do you charge for clean service?
+Speaker2: The cleaning service is calculated by the hour at 30 yuan, and if it's a one-time full-day service, the price will be more discounted.
+Speaker1: Can you provide door-to-door service for two hours?
+Speaker2: Of course, we provide door-to-door service. Can you please tell me the specific address and appointment time?
+Speaker1: I live in the Happy Community, want to book this Saturday morning 10am to clean.
+Speaker2: Okay, Happy Community, Saturday morning at 10 am, we will arrive on time. Please keep the phone line open, so we can confirm the meeting.
+Speaker1: Okay, thank you for your service.
+Speaker2: You're welcome! We're looking forward to providing you with service. Wish you have a great day!

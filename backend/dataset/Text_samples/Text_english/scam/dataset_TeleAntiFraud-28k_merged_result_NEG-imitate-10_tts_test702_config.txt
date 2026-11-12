@@ -1,0 +1,13 @@
+Speaker1: Hello, this is Shenzhen Bank, I am customer manager Zhang.
+Speaker2: Hello, little Zhang.
+Speaker1: We noticed that your credit card usage rate is high, to better serve you, we have a special credit limit increase plan that can quickly increase your credit card limit.
+Speaker2: Is it really? How to improve?
+Speaker1: First, download our official app and complete identity verification through it.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can click on the link I sent you, and download the official app directly, it's very convenient and quick.
+Speaker2: Okay, let's try.
+Speaker1: Alright, to ensure that your information is accurate and error-free, we need you to provide some personal information, such as your identity card number and bank account information.
+Speaker2: These information are very important, will you ensure safety?
+Speaker1: Of course, our bank has very strict information security measures, you can rest assured.
+Speaker2: Okay, thank you for your help. I'll download the app right away.
+Speaker1: Okay, if you have any issues while using it, feel free to contact me anytime. Have a great day!

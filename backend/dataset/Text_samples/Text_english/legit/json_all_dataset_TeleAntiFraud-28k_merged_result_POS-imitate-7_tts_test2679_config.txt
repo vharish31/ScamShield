@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, just saw your job posting, want to know more details.
+Speaker2: Hello, Xiao Ming, I am a recruiter, you can call me Xiao Wang. What position are you interested in?
+Speaker1: I am interested in the warehouse management position at your company. Can you provide me with more details about the job responsibilities and benefits?
+Speaker2: Okay, this job mainly involves managing the in and out of warehouse inventory, and you need to know how to operate a forklift. We provide training. As for benefits, the basic salary plus performance is probably between four thousand and five thousand.
+Speaker1: How is the work schedule arranged?
+Speaker2: We are an early eight to five work schedule, with one day off per week, and legal holidays are observed normally.
+Speaker1: How do you solve the accommodation problem?
+Speaker2: We provide employee dormitories, two people per room, with basic living facilities.
+Speaker1: Can I go for an interview?
+Speaker2: Of course, you can come to our company for an interview tomorrow morning at 9 am. The address is XX road XX number. Just find me once you arrive.

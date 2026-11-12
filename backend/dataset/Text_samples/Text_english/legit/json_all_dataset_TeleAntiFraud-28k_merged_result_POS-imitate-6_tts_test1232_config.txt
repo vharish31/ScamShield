@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw a special dish at your restaurant online and wanted to know more about it.
+Speaker2: Of course, our restaurant's special dishes are red braised pork head, which has a very fresh and delicious taste, and other special dishes like steamed fish, kung pao chicken, etc. You can choose the dishes you are interested in.
+Speaker1: How much is a head of a red panda?
+Speaker2: The head of a red-hot lion is 38 yuan per portion. If you dine in the restaurant, you can also enjoy a 90% discount.
+Speaker1: What time does your restaurant open?
+Speaker2: Our restaurant is open from 11 am to 10 pm. You can choose any time to have dinner.
+Speaker1: Okay, I plan to go to the middle of the day tomorrow. Do I need to make a reservation in advance?
+Speaker2: If it's convenient, please book in advance so we can reserve a spot for you. You can call to book or use our WeChat public account.
+Speaker1: Okay, I'll call you tomorrow morning to confirm, thank you for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival, wish you have a wonderful day. Goodbye!

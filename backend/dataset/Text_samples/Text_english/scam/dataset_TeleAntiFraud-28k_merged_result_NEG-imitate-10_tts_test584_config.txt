@@ -1,0 +1,12 @@
+Speaker1: Hello, nice to meet you, I am Lee manager, this is the China bank loan service center.
+Speaker2: Hello, where are you?
+Speaker1: Hello, I am introducing a special promotion for customers who need loans. Do you have any recent need for cash flow?
+Speaker2: Uh, what do I need to do?
+Speaker1: It's simple. Just download our bank's official loan app, register and fill out the relevant information, and we'll provide you with fast loan services.
+Speaker2: Is the app safe to download?
+Speaker1: Of course, we are a regular bank. I will send you the download link via text message. You can use it with confidence.
+Speaker2: How can I confirm that this is from your bank?
+Speaker1: Our bank's SMS will display the official customer service phone number, you can directly call to confirm, and any issues downloaded after will be able to contact our 24-hour customer service.
+Speaker2: Let's try it out.
+Speaker1: Okay, download the app by clicking the link in the text message. If you have any questions, feel free to contact us. Best wishes, goodbye.
+Speaker2: Bye, thank you, see you.

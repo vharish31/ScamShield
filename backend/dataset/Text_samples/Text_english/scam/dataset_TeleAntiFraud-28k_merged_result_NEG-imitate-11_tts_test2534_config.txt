@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Zhang Xiao, this is the customer service representative of China Construction Bank.
+Speaker2: Hello, do you have anything?
+Speaker1: Is that right, our system shows you have a certain amount of unused loan quota, the interest rate is very favorable, two years repayment, would you consider it?
+Speaker2: I don't really need a loan, thank you.
+Speaker1: Oh, that's it. I don't know if you're not interested in investing in finance. We have a high-yield investment project recently, and many customers have given good feedback.
+Speaker2: Invest in wealth management temporarily not need.
+Speaker1: Understood, but if you're interested, you can add my WeChat and consult anytime. I have a unique QR code here, add it to get more info.
+Speaker2: Okay, I'll think about it.
+Speaker1: Great, here's my WeChat number, scan it.
+Speaker2: Okay, I'll scan it.

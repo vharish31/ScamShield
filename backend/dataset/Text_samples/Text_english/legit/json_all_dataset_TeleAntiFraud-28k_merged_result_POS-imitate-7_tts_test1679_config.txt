@@ -1,0 +1,8 @@
+Speaker1: Hey, where are you?
+Speaker2: Did you just arrive downstairs?
+Speaker1: Hey, okay, I'm waiting for you at the coffee shop downstairs.
+Speaker2: Okay, I'll go right away. Are you waiting for me at the door of the coffee shop?
+Speaker1: Okay, I'm at the door, hurry up and come over.
+Speaker2: Okay, I'll go now, you find a place to sit, I'll be there in a while.
+Speaker1: Okay, I'll find a spot and wait for you.
+Speaker2: Okay, see you later.

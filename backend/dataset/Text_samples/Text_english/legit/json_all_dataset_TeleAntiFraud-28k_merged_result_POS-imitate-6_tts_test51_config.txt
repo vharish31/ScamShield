@@ -1,0 +1,10 @@
+Speaker1: Hello, you are small Li, your takeout is here, can you come down now to pick it up?
+Speaker2: Hey, I'm working overtime, can you deliver to the 5th floor now?
+Speaker1: Okay, where specifically?
+Speaker2: I'm on the 5th floor in the meeting room, the company's signboard is on the door, can you call me?
+Speaker1: Okay, I'll send it over right away, it should take about ten minutes or so, just wait a moment.
+Speaker2: Okay, thank you, you worked hard.
+Speaker1: No problem, this is my job, I'll contact you when it's done.
+Speaker2: Okay, can you please be careful?
+Speaker1: Thank you, I will be careful, goodbye.
+Speaker2: Goodbye.

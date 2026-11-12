@@ -1,0 +1,12 @@
+Speaker1: Hello, are you the Little Wang Li Hair Salon?
+Speaker2: Hello, Xiao Wang Lǐfǎdiàn, what can I help you with?
+Speaker1: Can I make an appointment for hair styling at 2 pm tomorrow?
+Speaker2: What time do you want to meet the master tomorrow at two in the afternoon?
+Speaker1: I want to book an appointment with the master who is most skilled at design in your store.
+Speaker2: Okay, that should be Zhang teacher, he is very skilled, his appointment is quite a lot, I will confirm it for you.
+Speaker1: Okay, can you help me?
+Speaker2: Master Zhang is free at two o'clock tomorrow afternoon, I can help you book.
+Speaker1: Okay, I'll arrive at two o'clock tomorrow.
+Speaker2: Okay, see you tomorrow. Just remember, if something urgent comes up and you can't make it, please let us know two hours in advance to avoid unnecessary losses.
+Speaker1: Got it, thanks for the reminder, see you tomorrow!
+Speaker2: No problem, see you tomorrow!

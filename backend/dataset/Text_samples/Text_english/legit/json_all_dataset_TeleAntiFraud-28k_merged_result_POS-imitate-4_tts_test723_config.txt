@@ -1,0 +1,10 @@
+Speaker1: Hello, can I talk to a customer service representative?
+Speaker2: Hello, I am a customer service representative. What can I help you with?
+Speaker1: I recently discovered a phone on your platform that I'm interested in. Can you tell me more about its specifications and price?
+Speaker2: Okay, can you tell me which specific phone model you are looking for? So I can help you find more detailed information.
+Speaker1: This is the X10 Pro black model phone.
+Speaker2: Okay, let me check. X10 Pro is a popular product on our platform, in terms of configuration, it uses the latest processor, comes with an eight-core CPU, eight GB of RAM, and 128 GB of storage. The screen size is 6.5 inches, with a resolution of 2048 x 1080. The camera setup includes a 3.2-megapixel front-facing camera and a 4.8-megapixel rear-facing camera with a 2-megap
+Speaker1: What kind of after-sales service does your platform provide for mobile phones?
+Speaker2: Our platform provides a 7-day no-questions-asked return policy, a 15-day free exchange service, and all products come with a one-year official warranty. If you encounter any issues while using our products, please feel free to contact our customer service at any time, and we will quickly resolve the issue for you.
+Speaker1: Okay, thank you for your detailed introduction. I'll think it over before making a decision.
+Speaker2: You're welcome. If you have any questions, please feel free to consult anytime. We hope our service can meet your satisfaction. Have a nice life. Bye!

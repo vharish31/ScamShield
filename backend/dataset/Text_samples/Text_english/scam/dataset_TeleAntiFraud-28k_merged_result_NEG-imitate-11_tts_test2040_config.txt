@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Lee Huai?
+Speaker2: Yes, who are you?
+Speaker1: Hello, I am a loan manager at an agricultural bank. I saw that you had previously applied for a loan, but it was not approved. Do you currently have a funding need?
+Speaker2: Uh, I actually need some cash flow right now.
+Speaker1: Great, we have a new loan project that doesn't require collateral, the approval speed is fast, and the interest rate is very low.
+Speaker2: How do I apply?
+Speaker1: Just download our official app, fill out the relevant information, and you can apply online. To speed up the approval process, you can also click on the link I sent you, which has some pre-review steps.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you download the app, feel free to contact me anytime if you have any questions. I'll help you through the whole process.
+Speaker2: Thank you for your help.

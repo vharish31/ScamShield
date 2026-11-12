@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Hey, I am.
+Speaker1: I am the customer service manager of the Bank of China, we recently launched a special discounted loan product, are you interested in learning more?
+Speaker2: Loan? I temporarily don't have any needs in this aspect.
+Speaker1: Oh, that's right. But the interest rate on this loan product is very low, only 0.2% per annum, and the approval is very fast, with the loan being approved and disbursed on the same day.
+Speaker2: The sound is good, but I don't understand these, how to apply?
+Speaker1: It's very simple. Just download our official app and fill out some basic information to complete the application.
+Speaker2: Where can I download the official app?
+Speaker1: You can click this link to directly download our app.
+Speaker2: Okay, let me try.

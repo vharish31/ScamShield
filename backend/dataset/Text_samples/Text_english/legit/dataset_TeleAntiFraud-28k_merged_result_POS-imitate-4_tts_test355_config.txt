@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm Lee Hua. Can you tell me if your store is open now?
+Speaker2: Oh, Li Huai, we open the door at nine, please wait a moment.
+Speaker1: Okay, can I go at around 10 o'clock?
+Speaker2: Okay, just come directly when you arrive.
+Speaker1: Do you still have that blue suit I saw last time?
+Speaker2: I think there should be some, but I need to check the inventory first, you arrived, I'll confirm again later.
+Speaker1: Okay, okay. Then I'll go over there later.
+Speaker2: Okay, pay attention to safety on the road.
+Speaker1: Thank you, see you then.
+Speaker2: See you later.

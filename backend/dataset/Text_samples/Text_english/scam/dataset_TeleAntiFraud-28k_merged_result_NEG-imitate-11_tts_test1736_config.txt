@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. Recently, our bank has launched a low-interest loan product. Would you be interested in learning more about it?
+Speaker2: Loan? I don't have this need right now.
+Speaker1: Hmm, that's right. But you should consider this product, it's very suitable for cash flow, and the application is very simple, just download our app and fill out some basic information to apply.
+Speaker2: Do you want to download the app? I feel not very safe.
+Speaker1: Don't worry, our app is legitimate and absolutely safe. Moreover, there's a discount now, interest rate is lower. If you're interested, I can send you a link, you can click on it to download the app directly.
+Speaker2: Can you send me the link? I'm still not very confident.
+Speaker1: That's right, our bank recently partnered with several well-known security software companies to ensure the safety of the app. You can try it out first and uninstall it if you're not satisfied.
+Speaker2: Well, let me think about it first.
+Speaker1: Okay, you can think about it first. If you have any questions, feel free to contact me anytime. My phone number is 13812345678, and you can also add me on WeChat to consult, my WeChat number is the same as my phone number.
+Speaker2: Okay, thank you. I will consider it.

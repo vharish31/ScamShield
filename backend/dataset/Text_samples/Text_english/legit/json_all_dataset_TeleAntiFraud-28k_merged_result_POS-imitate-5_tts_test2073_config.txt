@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, my friend said your fire pot here is very delicious, I want to reserve a spot.
+Speaker2: Hello, I'm very happy to serve you. What time would you like to reserve a location?
+Speaker1: Can I come at six and a half in the evening?
+Speaker2: Okay, there's still a spot at six and a half. How many do you want to reserve?
+Speaker1: Please confirm four seats, thank you.
+Speaker2: Okay, I have reserved a four-person table for you. Do you have any special requirements, such as a private room?
+Speaker1: No need for private room, but if there's a quiet spot, that's better.
+Speaker2: Understood, we will do our best to arrange a quiet location for you. Can you leave your name and contact information down please?
+Speaker1: I am Li Huai, my phone number is 134567890.
+Speaker2: Okay, Li Huangshēng, I have recorded it down. We will call you ahead of time to confirm. Looking forward to your visit!

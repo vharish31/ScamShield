@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I can't find the way to the library from the subway station exit, can you help me out?
+Speaker2: Hey, okay, where are you now?
+Speaker1: I am at the second exit.
+Speaker2: After exiting from the second exit, walk straight along the right side of the pedestrian road, you will see a large crossroads, continue walking straight for about 500 meters after crossing the road, and the library will be on your left hand side.
+Speaker1: Okay, do I need to make a turn?
+Speaker2: No need, just keep walking along the sidewalk, all the way until you see the crossroad. After crossing the road, keep walking straight, the library is on your left, very visible, you won't miss it.
+Speaker1: Okay, thank you for your help!
+Speaker2: No problem, if you have any other questions, feel free to call me anytime. Best wishes on your journey!
+Speaker1: Okay, bye!
+Speaker2: Goodbye!

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, recently I want to buy a new phone, can you recommend anything?
+Speaker2: Hello, little Zhang, I am the little king of the electronic mall, of course I can help you. What's your budget roughly?
+Speaker1: I plan to spend around 2,300 yuan.
+Speaker2: This price point has many phone options, such as brand A's model X and brand B's model Y, with high value for money.
+Speaker1: What are the differences between these two phones?
+Speaker2: Brand A's model X has strong endurance, making it suitable for frequent outdoor use. Brand B's model Y has good photo quality, so if you like photography, this one will be more suitable.
+Speaker1: Do you have any stock of B brand's Y model?
+Speaker2: There are currently discounts available for purchasing fresh produce. You can enjoy a 90% discount.
+Speaker1: Listen good, then how order?
+Speaker2: Can I help you place an order on our website or through the phone?

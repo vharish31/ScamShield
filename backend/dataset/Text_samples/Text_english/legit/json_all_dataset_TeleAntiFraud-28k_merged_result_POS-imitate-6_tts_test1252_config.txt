@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service monkey of the point store, see you have a lot of points unused in your account.
+Speaker2: Oh, really? I really didn't pay attention to the points thing.
+Speaker1: Yes, your points can be exchanged for many good things, such as electronic products and daily items, and they will expire soon.
+Speaker2: That's good, but I haven't been buying much new stuff lately.
+Speaker1: Hmm, I understand. But, if the points expire, it's a waste, we can help you choose some practical products.
+Speaker2: Do you have any recommendations?
+Speaker1: We have smartwatches here that are very suitable for daily use, and also have small household appliances related to health, such as air purifiers.
+Speaker2: The smartwatch sounds good, take a look.
+Speaker1: Okay, let me check the inventory for you, you can wait.
+Speaker2: Okay, thank you.

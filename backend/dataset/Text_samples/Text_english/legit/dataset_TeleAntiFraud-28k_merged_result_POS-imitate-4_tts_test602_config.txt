@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm little king, want to consult your restaurant reservation service.
+Speaker2: Hello, Little Wang, this is the Meiwei xuan restaurant, what can I help you with?
+Speaker1: I want to reserve a seat for four people at seven o'clock tomorrow night.
+Speaker2: Okay, tomorrow evening at seven o'clock, four guests, can you book for me? Do you have any special seat requirements, such as by the window or a quiet place?
+Speaker1: It's best if it's a quiet place, we want to chat quietly.
+Speaker2: Understood, I will arrange a quiet corner for you. Do you have any other special requirements?
+Speaker1: No more, thank you. Moreover, I heard your signboard menu is delicious, can you recommend several dishes?
+Speaker2: Of course, our menu has red braised pork, steamed fish with ginger and scallions, and spicy chicken wings, all of which are very popular. I can prepare them in advance for your order.
+Speaker1: That's great, let's order these dishes. Do we need to reserve red wine?
+Speaker2: Our red wine selection here is quite diverse, with dry red, sweet red, and half-dry red among others. You can choose based on taste. If you're unsure, I can recommend a red wine that pairs well with the food.

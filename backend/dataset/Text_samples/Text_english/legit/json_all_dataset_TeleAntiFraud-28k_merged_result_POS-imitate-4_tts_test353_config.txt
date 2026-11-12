@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm Xiao Ming, I looked at a phone in your store yesterday, I want to know more about the details.
+Speaker2: Hello, I am the store clerk, you can call me Xiao Zhang, what can I help you with?
+Speaker1: Can you tell me the specific configuration and price of that phone, and do you have any discount activities?
+Speaker2: That phone is the latest model, with high configuration, priced at 3800 yuan, there's a promotion now, you can enjoy a 95% discount when buying.
+Speaker1: What do I need to pay for a 95% discount?
+Speaker2: After a 9.5 discount, you need to pay 3610 yuan.
+Speaker1: Okay, when can I pick up the goods?
+Speaker2: We have fresh produce here, you can pick it up anytime, or we can deliver it to you for free.
+Speaker1: Can I come over in the afternoon tomorrow?
+Speaker2: Of course, we are open from three to six in the afternoon here every day, you can come anytime.
+Speaker1: Okay, I'll come over at four in the afternoon tomorrow. Thank you for your help.
+Speaker2: No thanks, I'm looking forward to your arrival. If you have any other questions, feel free to contact me anytime.

@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: I'm at apartment 4, hurry up and come over.
+Speaker1: Okay, I'll be there soon. Wait for me a minute, don't leave.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: How's the weather on your side?
+Speaker2: The weather today is quite nice, very clear, just a bit chilly.
+Speaker1: Wear some clothes when it's cold, or you'll freeze.
+Speaker2: Okay, thank you for your reminder. How about you?
+Speaker1: It's clear on my side too, just the wind is a bit big.
+Speaker2: Please pay attention to safety, be careful when going out during strong winds.

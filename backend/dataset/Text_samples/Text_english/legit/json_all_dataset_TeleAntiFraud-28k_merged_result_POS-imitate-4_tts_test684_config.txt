@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I want to consult your hair service.
+Speaker2: Hello, Xiao Ming, I am customer service king, very happy to serve you. What can I help you with?
+Speaker1: Do you have children in your place?
+Speaker2: Yes, we provide children's haircut service here, and there is a special children's haircut area, the environment is very warm.
+Speaker1: How far in advance do I need to make a reservation?
+Speaker2: I suggest you book in advance, so you can ensure you have enough time.
+Speaker1: Okay, can I bring my child there around 3:30 PM tomorrow?
+Speaker2: Sure, I have a free slot at 3 pm this afternoon. You're welcome to come over.
+Speaker1: What do I need to prepare?
+Speaker2: No need to prepare anything special. Just bring the child. If you have a favorite hairstyle photo, you can bring it over for reference.

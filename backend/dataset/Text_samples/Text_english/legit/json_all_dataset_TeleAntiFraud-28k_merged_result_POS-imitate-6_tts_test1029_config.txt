@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Are you getting off from Tian An Men Station?
+Speaker2: Hey, I'm waiting for you here, at the exit of the subway station.
+Speaker1: Okay, I'll be there soon.
+Speaker2: Okay, did you see me?
+Speaker1: I'm driving a blue car with a luggage box on the roof, are you almost here?
+Speaker2: I see you, I see you, I'm walking towards you.
+Speaker1: Okay, I'll park here and wait for you to come over.
+Speaker2: Okay, let's go.

@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I'm from the courier company. Your package will be delivered today, around 3 pm. Do you need me to deliver it to your door?
+Speaker2: Can you deliver it to my home at 3 pm today, even though I won't be there?
+Speaker1: Okay, I'll try to deliver it to you before noon. Do you have someone at home to receive the package?
+Speaker2: You should have someone at twelve o'clock. Then you can bother me, just send it to the door of the community.
+Speaker1: Okay, I will tell the driver clearly, deliver to the community door before twelve o'clock. Are there any other things you need me to help with?
+Speaker2: No more, thank you for your service.
+Speaker1: No thanks, this is what we should do. If you have any questions, feel free to contact me anytime. Have a happy life!
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye, wish you all the best.

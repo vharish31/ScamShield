@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Xiaojie?
+Speaker2: Hello, yes.
+Speaker1: I am a customer service representative from Commercial Bank, have you recently considered taking out a loan? We have very favorable interest rates and conditions.
+Speaker2: Oh, I hadn't considered it.
+Speaker1: I'll recommend a product to you, we have a loan product specifically for high-quality customers, the interest rate is very low, and the approval is very fast.
+Speaker2: The sound is good, but I'm not familiar with these.
+Speaker1: No problem, I have a link here that you can click to get detailed product information and application steps.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues after clicking the link, feel free to contact me anytime. Also, for convenience in applying, I suggest downloading our official app, which makes the process easier to operate.
+Speaker2: Okay, I will download it.

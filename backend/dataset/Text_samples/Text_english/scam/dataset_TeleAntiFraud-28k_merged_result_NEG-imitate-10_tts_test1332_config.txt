@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I am Li Xiao, the customer service representative for Beijing Huai Tai Jin Rong, I see you have registered a loan intention on our platform before, now there is a special opportunity for you, we can provide you with a no collateral loan service, the interest rate is very favorable.
+Speaker2: Uh, is that so? I'm a bit tight-handed right now, can you give me a specific explanation?
+Speaker1: Of course, our loan service this time is very convenient, no need for any collateral, as long as you have a stable income source, you can apply. To confirm your information, can you provide us with your identity card number and bank card number? We are ready to prepare the loan materials for you.
+Speaker2: Okay, I'll have to think about it, since this information is quite important.
+Speaker1: I understand your concerns, but as a regular financial institution, all information will be processed securely. Moreover, for your convenience, you can download our app, submit your information through the app, and it's more secure and convenient.
+Speaker2: Do you want to download the app? How can I know if you guys are scammers?
+Speaker1: We have a formal business license and financial permit, you can check it through our official website. To prove our sincerity, we also provide a free credit evaluation, just need you to provide your identity card number, no fees will be charged.
+Speaker2: Okay, let me try it out. Please send me the link.
+Speaker1: Okay, I'll send you the link via text message. After you download the app, feel free to contact me if you have any questions.

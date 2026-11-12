@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: What's up?
+Speaker1: I just came back from the supermarket, bought some fruit, brought some for you.
+Speaker2: Really? That's great! Thank you! Where are you? I'll go get it right away.
+Speaker1: I'm at the community gate, come down.
+Speaker2: Okay, I'll come down right away.
+Speaker1: When you come down, can you bring a garbage bag? We used it up at home.
+Speaker2: Okay, let me check if there is.
+Speaker1: Remember to bring an umbrella tomorrow, the weather forecast predicts rain.
+Speaker2: I know, thank you for reminding me. See you later.

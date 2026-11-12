@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm at the subway station. Can you come pick me up?
+Speaker2: Okay, I'm waiting for you at the exit of the subway station. Hurry up.
+Speaker1: Okay, I'll be there soon. There are a lot of people inside, so I might need a bit of time to find you.
+Speaker2: No problem, I stand at the most visible spot at the exit, you see me waving my hand and that's it.
+Speaker1: Are you wearing a black suit?
+Speaker2: Yes, it's me. You arrived to call me.
+Speaker1: Okay, thank you. About ten minutes left or right.
+Speaker2: No problem, be careful on the road.
+Speaker1: I arrived, saw you.
+Speaker2: Great, let's go to the parking lot and open the car.

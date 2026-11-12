@@ -1,0 +1,9 @@
+Speaker2: Hey, who are you looking for?
+Speaker1: Can I find little Li?
+Speaker2: Little Li, has he gone out to do errands? Is there anything I can help with?
+Speaker1: Hey, can you tell him to come to the company in the afternoon, we have a project to discuss.
+Speaker2: Okay, I know. Are you waiting for his phone call?
+Speaker1: No need, I know he'll come in the afternoon. Thank you for your help.
+Speaker2: No problem, please feel free to contact me anytime.
+Speaker1: Okay, bye.
+Speaker2: Goodbye.

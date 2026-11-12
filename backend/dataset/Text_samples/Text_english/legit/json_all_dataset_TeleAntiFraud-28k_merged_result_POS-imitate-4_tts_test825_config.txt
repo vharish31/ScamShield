@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I can't find your store here, can you help me with the directions?
+Speaker2: Hello, where are you?
+Speaker1: I'm in the Jade Garden, but I can't find the exact location of your store.
+Speaker2: Oh, you walk straight along Yuhua Road, see the second red and green light turn left, then keep going straight to the end, our store is on the right side, there's a big big sign.
+Speaker1: Okay, I understand now, thank you for your help, do your store open now?
+Speaker2: We are open now, business hours are from 9am to 9pm.
+Speaker1: Okay, I'll go now. Do you have parking spots at your store?
+Speaker2: Yes, there's a parking lot behind our store, it's free to park.
+Speaker1: That's great, I'll go over right away, thank you for your help.
+Speaker2: No problem, be careful on the road, give us a call when you arrive, we'll be waiting for you here.

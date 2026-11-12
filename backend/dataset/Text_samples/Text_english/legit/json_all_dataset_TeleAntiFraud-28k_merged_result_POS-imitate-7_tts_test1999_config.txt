@@ -1,0 +1,12 @@
+Speaker1: Hello
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer service of the food delivery platform, you ordered food from us before, do you have any suggestions about our service?
+Speaker2: Oh, hi, little beauty's service is pretty good, just sometimes the food delivery is a bit slow.
+Speaker1: Thank you for your feedback. We will make every effort to improve delivery speed. What have you been wanting to eat lately? I can recommend some new products for you.
+Speaker2: What are some recommendations for clean and light food recently?
+Speaker1: We recently introduced a new steamed fish dish with vegetables and salad, both of which are quite suitable for customers who want to eat light and refreshing.
+Speaker2: That sounds good, let me try steaming fish.
+Speaker1: Okay, I'll help you place an order. Is the delivery address still the previous one?
+Speaker2: Yes, still the previous address.
+Speaker1: Okay, your order has been successfully submitted. It's estimated to arrive in 30 minutes. Is there anything else you need help with?
+Speaker2: No longer available, thank you.

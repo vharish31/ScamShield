@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm here to pick up the package, what time can I get it?
+Speaker2: Hello, we are open from 9am to 6pm. What time is convenient for you to come?
+Speaker1: Can I come around three in the afternoon?
+Speaker2: Sure, please bring your ID when you come, we need to verify some information.
+Speaker1: Okay, I will remember to bring it. Is it at the door?
+Speaker2: Okay, you can call me after you arrive, and I'll come out to help you handle it.
+Speaker1: Okay, I'll call you directly when the time comes.
+Speaker2: Okay, my phone number is 000-000-0000, see you later.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later.

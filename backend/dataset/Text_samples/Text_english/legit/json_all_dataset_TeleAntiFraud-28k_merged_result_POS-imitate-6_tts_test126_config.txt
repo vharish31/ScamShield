@@ -1,0 +1,12 @@
+Speaker1: Hey, are there any more stocks of air conditioners at your home?
+Speaker2: Hello, which model of air conditioner are you interested in?
+Speaker1: That new one with the wall-mounted, dual temperature control.
+Speaker2: Oh, you're talking about the new wall-mounted air conditioner, let me check the inventory.
+Speaker1: Okay, can you help me?
+Speaker2: Found it, the white and silver models are both in stock.
+Speaker1: Can I have a white one now? Can you send and install the goods?
+Speaker2: Okay, you can choose to deliver today in the afternoon or tomorrow in the morning. The installer will contact you to confirm the time.
+Speaker1: Then I'll choose tomorrow morning, around what time can I arrive?
+Speaker2: We will deliver goods between 9am and 11am, and the installer will contact you half an hour before the goods arrive.
+Speaker1: Okay, I'll call you tomorrow, thank you.
+Speaker2: You're welcome. If you have other questions, please contact us anytime. Wish you a happy life. Bye.

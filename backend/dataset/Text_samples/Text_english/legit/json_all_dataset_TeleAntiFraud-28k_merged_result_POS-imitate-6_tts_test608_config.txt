@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is Happy Restaurant. Can you confirm your reservation for tomorrow night at six o'clock? Has the number of people changed?
+Speaker2: Hey, the number of people hasn't changed, it's still five, but they might be a few minutes late.
+Speaker1: Okay, no problem, we will save your spot. Do you have any special dietary requirements?
+Speaker2: One friend doesn't eat spicy, the others have no special requirements.
+Speaker1: Understood, we will prepare some non-spicy dishes for you. Do you need any drinks or alcohol?
+Speaker2: Let's have some drinks. I'll bring two glasses of orange juice. The rest, we'll figure out later.
+Speaker1: Okay, I noted down two glasses of orange juice. Can you please tell me if you will come directly to the restaurant or if you need our delivery service tomorrow?
+Speaker2: We drove ourselves over here, thank you.
+Speaker1: Okay, see you tomorrow. If you encounter any issues on the way, please feel free to contact us anytime. Wishing you a smooth journey.
+Speaker2: Thank you, goodbye.

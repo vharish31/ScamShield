@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the little king of the city south community service center, I saw that you have participated in volunteer activities in our community before, do you have time to participate in the next activity?
+Speaker2: Hey, hi, little king, I've been pretty busy lately, don't know the specific schedule yet.
+Speaker1: Hey, I understand, our activity is scheduled from 3 pm to 5 pm on Saturday this week, the main purpose is to help the elderly in the community with health checkups and life consultations.
+Speaker2: The weekend sounds great, but I have a meeting on Saturday, so I might not be able to go.
+Speaker1: Okay, next time we'll notify you in advance so you can attend if you're available.
+Speaker2: Okay, thank you for the invitation, I hope the community's activities get better and better.
+Speaker1: Thank you for your support. If you have any other questions or suggestions, please feel free to contact us anytime.
+Speaker2: Okay, bye.
+Speaker1: Goodbye.

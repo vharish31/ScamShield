@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the city community, there is something I want to confirm with you.
+Speaker2: Hello, what do you have?
+Speaker1: Just to confirm if you can adjust the time for the fitness course you previously booked at our community center, as the class time has changed this week.
+Speaker2: What was the original time, and what is the adjusted time now?
+Speaker1: The original time was this Thursday evening from 7 to 8:30, and the adjusted time is next Wednesday morning from 9 to 10:30.
+Speaker2: This time on Wednesday morning from 9 to 10:30 is okay.
+Speaker1: Okay, let's adjust to this time. Remember to bring your membership card.
+Speaker2: Okay, I understand, thank you for your notice.
+Speaker1: No problem, feel free to contact us anytime, wish you a happy day.
+Speaker2: You too, goodbye.

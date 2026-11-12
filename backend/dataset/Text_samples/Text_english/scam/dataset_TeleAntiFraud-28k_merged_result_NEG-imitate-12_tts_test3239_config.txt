@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Li Xiao from SF Express, we found out that you lost a package during transportation, now we need to process your refund.
+Speaker2: Really? Then what do we do now?
+Speaker1: To ensure your rights, we need you to provide your bank card number and verification code, so that we can directly refund your money to your account.
+Speaker2: Okay, my bank card number is 1234567890123456, and the verification code is 7890.
+Speaker1: Okay, we have recorded it. To speed up processing, please click on the link in the text message we sent and fill in the relevant information.
+Speaker2: Okay, I'll check my messages right away.
+Speaker1: Thank you very much for your cooperation. We will process your refund issue as soon as possible. If you have any questions, please feel free to contact me anytime.
+Speaker2: Okay, thank you.

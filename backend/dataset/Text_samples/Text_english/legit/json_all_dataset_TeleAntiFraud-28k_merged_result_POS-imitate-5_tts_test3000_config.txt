@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, yesterday I made an appointment for you at the hair salon, want to confirm the time?
+Speaker2: Hello, Xiao Zhang, I am the customer service of the hair salon, can you confirm if you are the 10 am appointment?
+Speaker1: Yes, it's 10 am.
+Speaker2: Okay, at 10 am we have a record here, just come on time.
+Speaker1: Okay, thank you. There's another question. I saw two shampoos at your store yesterday, and I want to confirm which one is better for oily hair.
+Speaker2: Our shampoo has two kinds, one is oily control type, the other is nourishing and moisturizing type. The oily control type is more suitable for oily hair, and it can effectively control oil, keep the scalp clean.
+Speaker1: Then I'll choose the clean oil type. Also, my friend said your salon's hairdresser technique is very good, I want to book a senior hairdresser.
+Speaker2: Okay, our senior hair stylist is Li Xiao, his technique is really good. At 10 am, Li Xiao is also free, I can help you book an appointment.
+Speaker1: Okay, let's book Little Li. Thank you for your help.
+Speaker2: No problem, little Zhang, you come on time and you can go ahead. If there are any other issues, please contact me anytime.

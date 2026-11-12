@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I reserve a seat for 7 pm tomorrow night? Is there any availability?
+Speaker2: Okay, let me check. How many are there?
+Speaker1: Four.
+Speaker2: Okay, I found it, there's a spot available at 7 pm tomorrow night for you to book.
+Speaker1: Great, can you help me book a room?
+Speaker2: No problem, the reservation was successful. Do you have any special dietary requirements or any specific seating requests?
+Speaker1: There are no specific requirements, just try to be a little quieter with the seats.
+Speaker2: Okay, I will arrange a quiet seat for you. Confirmation information will be sent to your phone later.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, hope you enjoy your meal. Bye.

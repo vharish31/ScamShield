@@ -1,0 +1,11 @@
+Speaker2: Hello, how can I help you?
+Speaker1: Hello, I bought a small TV last night at your store. Could you please check if it has Bluetooth functionality?
+Speaker2: Are you buying online or in-store?
+Speaker1: It's from your official online store.
+Speaker2: Okay, just a moment, I'll look it up for you.
+Speaker1: Okay, thank you.
+Speaker2: The small Mi TV you bought does indeed support Bluetooth functionality, allowing you to connect Bluetooth speakers or headphones for use.
+Speaker1: That's great, I'm still worried I won't be able to use Bluetooth.
+Speaker2: No problem, if you have any other questions, feel free to contact us anytime.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, I hope you enjoy it, goodbye.

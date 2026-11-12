@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm Zhang, the customer service representative from the point store. Have you been using points recently?
+Speaker2: Hey, hello, yes, I haven't noticed the points thing yet.
+Speaker1: Yes, your points will expire at midnight tonight, these points can be redeemed for a lot of cash.
+Speaker2: Uh, like this, then how do I use these points?
+Speaker1: You can log in to our platform, select your favorite products, and then use points to deduct, very convenient.
+Speaker2: Okay, let me give it a try.
+Speaker1: Okay, you can contact me if you have any issues after logging in. I will help you solve them.
+Speaker2: Thanks for the reminder, I'll handle it quickly.
+Speaker1: You're welcome, I hope you enjoy it. If you have any other questions, please feel free to consult anytime.
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye, wish you all the best.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, are you the new coffee shop?
+Speaker2: Hello, Xiaoming, okay, we are a new coffee shop, what can we help you with?
+Speaker1: Can you tell me about your special coffee and business hours?
+Speaker2: Our coffee shop specialties include latte, cappuccino, and mocha, as well as our own unique blueberry iced coffee. Our business hours are from 8 am to 10 pm.
+Speaker1: What does blueberry ice coffee taste like?
+Speaker2: Blueberry ice coffee is made by mixing fresh blueberry juice and concentrated coffee, with a sour and sweet taste, strong coffee aroma, and is very suitable for summertime drinking.
+Speaker1: What is the price?
+Speaker2: The price of blueberry ice coffee is 35 yuan.
+Speaker1: Okay, do you have any member cards or point activities?
+Speaker2: Yes, we have membership cards. For every 100 yuan spent, you can accumulate 10 points. Points can be exchanged for coffee or snacks.

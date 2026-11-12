@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Hi, I'm the property manager of the community, just wanted to notify you that we're going to do a comprehensive pipe check this weekend, it might take a few hours of water shutdown, do you have anyone at home?
+Speaker2: Is there someone at home? Can you give me a heads up before this happens?
+Speaker1: Of course, we will notify everyone through text message and community bulletin on Thursday, and you can contact us anytime if you need help.
+Speaker2: Okay, thank you, if I have other questions, who can I find to solve them?
+Speaker1: You can directly contact me, my phone number is 010-12345678, you can also call the front desk of the property at 010-87654321, we will respond to you as soon as possible.
+Speaker2: Okay, thank you, I'll hang up first, see you on Friday for the notice.
+Speaker1: Okay, please pay attention to the information and contact us if there are any issues. Goodbye.
+Speaker2: Goodbye.

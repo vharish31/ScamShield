@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the property manager of the community, and I want to confirm the recent maintenance service with you.
+Speaker2: Hey, what kind of repair are you talking about?
+Speaker1: That's right, there was a little leak at your water pipe two days ago. We've already started dealing with it, but we need you to confirm.
+Speaker2: Okay, when is it convenient for me to take a look?
+Speaker1: When is it convenient for you, we can all schedule.
+Speaker2: I can be there around three in the afternoon tomorrow.
+Speaker1: Okay, I'll send a repairman to your door at 3 pm tomorrow.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me anytime.
+Speaker2: Okay, bye.
+Speaker1: Goodbye.

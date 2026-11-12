@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Can you tell me how the delivery service fees work here?
+Speaker2: Hello, our delivery fee is based on the order amount. If the order is over 50 yuan, it's free delivery. Otherwise, you need to pay 5 yuan for delivery.
+Speaker1: If I order now, how long will it take to deliver?
+Speaker2: Currently our order quantity is not large, if you are within three kilometers of our store, you can deliver within approximately thirty minutes.
+Speaker1: Okay, I placed an order.
+Speaker2: Okay, you can place an order through our app or mini-program. If you have any questions, please contact me anytime.
+Speaker1: Hey, is there any discount activity for the first time using your service?
+Speaker2: Yes, new users can enjoy a 10 yuan discount on their first order. The system will automatically deduct it at checkout.
+Speaker1: That's great, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, enjoy your meal!

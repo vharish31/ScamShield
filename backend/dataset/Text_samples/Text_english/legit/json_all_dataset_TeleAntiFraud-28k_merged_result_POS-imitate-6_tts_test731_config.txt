@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, your haircut appointment was yesterday at two in the afternoon, can you confirm if you're still coming?
+Speaker2: Hey, hello, I'm little king, can I come tomorrow? But maybe I'll be late, around three o'clock.
+Speaker1: Okay, no problem, just let me know when you arrive, I'll be here waiting for you.
+Speaker2: That's great, thank you. By the way, I've been losing my hair lately, do you guys have any suggestions?
+Speaker1: Hey, have you tried our hair treatment program? It's good for both your scalp and hair. Would you like to try it?
+Speaker2: That sounds good, let's add a hair treatment program, how much?
+Speaker1: The hair treatment program costs 200 yuan and includes washing hair, scalp massage, and nutritional care, the entire process takes about an hour.
+Speaker2: Okay, let's do it this way, see you tomorrow.
+Speaker1: Okay, little king, see you tomorrow, pay attention to safety on the road.
+Speaker2: Thank you, goodbye.

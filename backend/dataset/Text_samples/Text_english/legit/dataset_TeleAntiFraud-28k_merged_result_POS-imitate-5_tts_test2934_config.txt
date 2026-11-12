@@ -1,0 +1,11 @@
+Speaker2: Hey, how are you?
+Speaker1: What time will the restaurant delivery arrive?
+Speaker2: Which platform are you ordering from?
+Speaker1: Ordering food delivery, order number is one two three six seven eight nine.
+Speaker2: Okay, I'll check. Just wait a minute, it was just confirmed, your order is expected to arrive in 30 minutes.
+Speaker1: Okay, okay. I'll wait a minute. There's another question. Do you like the new lemon tea?
+Speaker2: Our new product is lemon tea, with a refreshing taste, many customers have feedback saying it's great to drink, you can try it.
+Speaker1: Next time I'm at your restaurant, I'll try a glass. By the way, do you have business on weekends?
+Speaker2: Yes, our restaurant is open all year round, even on weekends, business hours are from 10 am to 10 pm.
+Speaker1: Okay, I understand. I will go try some new drinks this weekend. Thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, looking forward to your arrival.

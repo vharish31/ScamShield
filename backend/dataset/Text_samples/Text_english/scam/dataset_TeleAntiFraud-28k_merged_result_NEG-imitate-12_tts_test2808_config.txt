@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Guangzhou Telecom customer service center, I am customer service representative Zhang.
+Speaker2: Hello, what do you have?
+Speaker1: Have you recently purchased any products on our platform?
+Speaker2: I recently bought something, but I didn't receive any unusual notifications.
+Speaker1: Is it like that? Maybe it's a logistics issue, we need to verify your personal information and purchase records, can you provide your order number?
+Speaker2: Okay, the order number is one two three four five six seven.
+Speaker1: Okay, I'll check. Hmm, found it. Now we need you to cooperate with us on a small survey. Can you add my WeChat? This way it's convenient for us to contact you later.
+Speaker2: How much is WeChat?
+Speaker1: My WeChat is XYZ123456, add me as a friend, we can communicate further through WeChat.
+Speaker2: Okay, I'll add you.

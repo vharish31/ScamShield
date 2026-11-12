@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, want to ask about the new tablets in your store?
+Speaker2: Hello, you, small Ming, this side is the electronic mall customer service small Zhang, what can help you?
+Speaker1: Can you tell me more about the specific configuration of this tablet computer and if there are any discounts available now?
+Speaker2: This tablet has a high configuration, a twelve-inch screen, an eight-core processor, and sixty-four GB of memory. There's a promotion going on right now, and you can get a nine-discount discount when you buy it.
+Speaker1: How long will it take for the delivery to arrive?
+Speaker2: Our delivery speed is very fast now, usually it takes two to three days to deliver within the city, and it may take four to five days to deliver outside the city.
+Speaker1: What is the approximate delivery time for the order I placed today?
+Speaker2: If you place an order today, we will ship it tomorrow, and you should be able to receive it in the next few days.
+Speaker1: Okay, I placed the order. Are there any other things to pay attention to?
+Speaker2: Please confirm your delivery address and contact number when placing an order. If you have any issues, feel free to contact customer service, and we will promptly resolve them for you.

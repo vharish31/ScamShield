@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Xiaojie?
+Speaker2: Is it me, do you have anything to talk about?
+Speaker1: I am a loan advisor at HSBC Bank, we noticed you may have recently had a financial need.
+Speaker2: Oh, really? I actually need some money recently.
+Speaker1: Great, we have a low-interest loan product that's perfect for you. Just provide some basic info and you can quickly apply.
+Speaker2: What do I need to do now that it sounds good?
+Speaker1: Firstly, you need to download our official app, register and fill out the application information.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can click on the link I send to you, and download our app directly.
+Speaker2: Okay, I'll download it now. Thank you for your help.

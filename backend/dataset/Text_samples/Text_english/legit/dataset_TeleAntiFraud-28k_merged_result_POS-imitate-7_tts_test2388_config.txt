@@ -1,0 +1,10 @@
+Speaker1: Hey, how do you sell the bottom materials for your hotpot at home?
+Speaker2: Hello, our family's hotpot bottom ingredients are 30 yuan per package, there are many flavors like spicy, tomato, clear soup, you can choose according to your taste.
+Speaker1: Is there a discount if I buy ten packs?
+Speaker2: Okay, for bags of ten or more, you can get a five-yuan discount. What flavor do you want?
+Speaker1: I want five spicy and five clear soup.
+Speaker2: Okay, that comes to 255 yuan in total. Can you pick it up at the store? Or do we need to deliver it?
+Speaker1: Can I come to pick you up at what time?
+Speaker2: We close at nine in the evening, you can come anytime.
+Speaker1: Can I come over at around four in the afternoon?
+Speaker2: Of course, just find me at the store when the time comes, and I'll be ready.

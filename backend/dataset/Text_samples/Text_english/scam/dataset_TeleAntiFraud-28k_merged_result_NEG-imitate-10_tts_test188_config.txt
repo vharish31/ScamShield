@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm small Liu, this is the customer service representative of the happy shopping website, you recently bought electronic products on our website and have quality issues, we need to handle it for you.
+Speaker2: Oh, really? I recently bought an electronic product.
+Speaker1: Okay, we detected an issue with your order. To protect your rights, we need you to cooperate with us to complete a refund process.
+Speaker2: Okay, what do I need to do now?
+Speaker1: Please click on the link we sent you, then follow the instructions on our refund page.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, if you have any issues during the operation, please feel free to contact me at any time. To ensure your financial safety, we will immediately refund your money after you complete the operation.
+Speaker2: Thank you, I will complete the operation as soon as possible.
+Speaker1: No problem, if you have any questions, feel free to contact me anytime. By the way, to speed up the processing speed, you can also download our official app, which makes the operation more convenient.
+Speaker2: Okay, I'll go download it now.

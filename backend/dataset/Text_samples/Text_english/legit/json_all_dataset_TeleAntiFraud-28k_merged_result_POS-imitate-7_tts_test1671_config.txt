@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, can you make an appointment for a haircut here?
+Speaker2: Hello, is it possible to make a reservation here? What time would you like to reserve?
+Speaker1: Can I make a reservation for 3:30 PM tomorrow afternoon?
+Speaker2: Sure, at 3:30 PM tomorrow, we don't have any appointments here.
+Speaker1: Okay, can I just come directly tomorrow?
+Speaker2: Okay, you can come directly tomorrow. Do you need a contact method?
+Speaker1: Let's keep in touch, in case there are any changes and we can contact each other.
+Speaker2: Okay, what's your phone number?
+Speaker1: The phone number is 1381380138.
+Speaker2: Okay, I've recorded it. See you tomorrow at 3:30.

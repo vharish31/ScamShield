@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I didn't see anyone at the subway station.
+Speaker2: Where are you waiting at the exit?
+Speaker1: I'm at the A exit of West Station, it seems like there's no subway entrance here, I'm on the bridge.
+Speaker2: Okay, wait a minute, I'll be there soon.
+Speaker1: Okay, I'm waiting for you at the red light.
+Speaker2: Are you far from the red light?
+Speaker1: I slowly crossed the red light, not a bridge, just on the bridge.
+Speaker2: Okay, I see it, I'll be there soon.
+Speaker1: Okay, thank you.
+Speaker2: No thanks, see you later.

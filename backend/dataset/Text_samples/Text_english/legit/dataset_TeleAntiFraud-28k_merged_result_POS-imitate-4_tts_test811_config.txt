@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do your massage service still exist?
+Speaker2: Are you booking an appointment?
+Speaker1: Yes, I want to book a neck and shoulder massage, I've been working too much lately.
+Speaker2: Okay, we have various massage services here, including neck and shoulder massage. Which day would you like to book?
+Speaker1: Can I meet you at four o'clock tomorrow afternoon?
+Speaker2: Can I pay the deposit in advance tomorrow at four in the afternoon?
+Speaker1: Do you need to pay a deposit? How much?
+Speaker2: The deposit is 50 yuan, and it can be paid through WeChat.
+Speaker1: Okay, I'll pay now.
+Speaker2: After receiving the deposit, we will confirm the appointment. See you tomorrow.
+Speaker1: Okay, thank you. Bye.
+Speaker2: Goodbye.

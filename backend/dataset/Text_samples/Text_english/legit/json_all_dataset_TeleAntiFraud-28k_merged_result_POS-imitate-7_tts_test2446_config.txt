@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you please tell me your restaurant's business hours?
+Speaker2: Our restaurant is open from 11 am to 10 pm every day. You can come to have a meal anytime.
+Speaker1: Okay, I want to reserve a table for four people, around seven o'clock in the evening.
+Speaker2: Okay, your 7:00 pm four-person table has been reserved for you. Please call the reservation phone number when you arrive.
+Speaker1: How early do I need to arrive?
+Speaker2: To ensure a great dining experience, we recommend arriving 15 minutes early. If there are any changes, please feel free to contact us anytime.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

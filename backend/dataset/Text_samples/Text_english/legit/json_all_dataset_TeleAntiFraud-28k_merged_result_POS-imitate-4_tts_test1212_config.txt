@@ -1,0 +1,15 @@
+Speaker2: Hello, are you consulting our new phones here?
+Speaker1: Yes, I saw some new phones for sale online. I want to know more about them.
+Speaker2: Okay, which model are you interested in? We have several series here.
+Speaker1: I want to see the blue one, model X30.
+Speaker2: What's the blue X30, this color is quite popular. Are you concerned about battery life or camera configuration?
+Speaker1: I mainly care about the endurance ability because I often go out of town.
+Speaker2: This phone's battery capacity is 4500mAh, and the official says it can reach two days of normal use with one charge.
+Speaker1: Is that color good? Is there another color?
+Speaker2: Yes, besides blue, there are also black and white. Do you want to see other colors?
+Speaker1: What's the price of black ones?
+Speaker2: The black price and the blue one are the same, both are three thousand five hundred yuan.
+Speaker1: Okay, I'll think about it.
+Speaker2: Okay, if you have decided, you can directly contact us, and if you have any questions, you can consult us anytime.
+Speaker1: Thank you, goodbye.
+Speaker2: No problem, goodbye.

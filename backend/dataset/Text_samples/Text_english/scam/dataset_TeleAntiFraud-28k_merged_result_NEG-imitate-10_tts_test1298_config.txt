@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there?
+Speaker2: Hello, it's me. Who are you?
+Speaker1: I am a loan officer at Commercial Bank, we have a new loan product here that is very suitable for you as a high-quality customer.
+Speaker2: Loan? I don't need a loan, okay?
+Speaker1: This loan product has a low interest rate, quick approval, and no collateral is required.
+Speaker2: Do I really not need a deposit? How do I apply then?
+Speaker1: It's very simple. You can download our bank's official app, fill out the relevant information, and we will quickly approve it.
+Speaker2: How do I know you're legitimate if I download the app?
+Speaker1: You can first consult through our customer service phone, the number is 4008686868, or directly click on the link I gave you, more convenient and quick.
+Speaker2: Okay, let me try.

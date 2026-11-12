@@ -1,0 +1,11 @@
+Speaker2: Hey, hello hello
+Speaker1: What do you recommend for a new phone?
+Speaker2: What price point are you looking for? Do you have any specific requirements for functionality?
+Speaker1: The budget is approximately three thousand, mainly for gaming, and the battery life should be good.
+Speaker2: This price point, you can consider the latest Xiaomi, the performance is not bad, and the battery is quite durable.
+Speaker1: What's the latest model of rice? How's the camera on that phone?
+Speaker2: The camera is pretty good, the pixels are high, the photos taken are clear, and the night view mode is great.
+Speaker1: Does that phone have any goods in it?
+Speaker2: Do you want to go to the store now? There's not much stock.
+Speaker1: Okay, I'll be there in about half an hour.
+Speaker2: Okay, I'm waiting for you here, be careful on the road.

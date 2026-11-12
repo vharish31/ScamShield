@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I see a house for rent, want to know the details?
+Speaker2: Hello, is this apartment still rented? Can I help with anything?
+Speaker1: How much is the rent for this house?
+Speaker2: Rent is two thousand five hundred yuan per month, including water and electricity fees.
+Speaker1: What facilities does this house have?
+Speaker2: This apartment has a bed, a wardrobe, a desk, a separate bathroom, and a shared kitchen.
+Speaker1: Can I go take a look at the house?
+Speaker2: Of course, can I come to see you this weekend?
+Speaker1: Sure, this Saturday afternoon at three o'clock is okay?
+Speaker2: Saturday afternoon at three o'clock is fine, the address is happiness road twelve, see you then.

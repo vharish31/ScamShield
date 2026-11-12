@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I want to know how to use your electric car charging station?
+Speaker2: Hello, little Li, we have detailed instructions on how to use our app, you can download it first, register and then you can see the charging station location and operation instructions.
+Speaker1: I downloaded it, but I couldn't find any charging stations nearby.
+Speaker2: You can click 'Find Charging Stations' on the app's homepage and allow location permission to see charging stations nearby.
+Speaker1: Okay, I'll try. What's the price of charging?
+Speaker2: The charging price here is one yuan per degree, and there are different packages to choose from, such as charging one hundred and sending twenty.
+Speaker1: Do I need to reserve a charging station in advance?
+Speaker2: No reservation is needed, but it's recommended to check the charging station usage during peak hours in advance to avoid not having a space.
+Speaker1: I understand, thank you for your help, I'll give it a try.
+Speaker2: You're welcome! If you encounter any issues during the process, please contact our customer service. Have a great time using it!

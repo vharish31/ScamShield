@@ -1,0 +1,12 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, can you tell me what vegetarian options do you have on your menu?
+Speaker2: Hello, our vegetarian menu here is very rich, with options such as stir-fried vegetables, vegetarian spring rolls, and vegetarian set meals. Which one would you like to know more about?
+Speaker1: What is the price of the stir-fried vegetables and vegetarian set meal?
+Speaker2: Stir-fried vegetables cost 30 yuan per portion, there are many choices for the vegetarian set meal, one option is 45 yuan which includes a main dish and two side dishes; another option is 60 yuan which includes a main dish, two side dishes and a soup.
+Speaker1: The 60 yuan vegetarian set menu sounds good, what is your restaurant's business hours?
+Speaker2: Our business hours are from 10 am to 10 pm, you can choose any time slot to dine.
+Speaker1: Okay, can I reserve a spot for 7 pm tomorrow night?
+Speaker2: Okay, I have reserved a 7 pm location for you tonight. Remember to arrive ten minutes early.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.
+Speaker1: Goodbye.

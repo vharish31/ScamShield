@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little king, I want to consult your store's business hours.
+Speaker2: Hello, little king, I am customer service little Li, our store's business hours are from 10 am to 10 pm.
+Speaker1: Do you have any new product recommendations?
+Speaker2: Yes, we recently launched a spring promotion green tea, very popular, you can try it.
+Speaker1: Okay, how do I buy this green tea?
+Speaker2: You can place an order on our official website or through our WeChat mini-program, or you can go directly to the store to purchase.
+Speaker1: Do you have a membership card? What discounts do you get when purchasing?
+Speaker2: We have membership cards, first-time purchases can enjoy a 90% discount, subsequent purchases can accumulate points, points can be exchanged for gifts or discounts.
+Speaker1: Can I sign up for a membership card now?
+Speaker2: Of course, just provide the phone number and we can handle it.
+Speaker1: Okay, my phone number is 1375863999.
+Speaker2: Okay, I have already processed your membership card. You can use it anytime at the store.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer service of Meituan Waimai, I saw that you had consulted our delivery service before, are you interested in learning more now?
+Speaker2: Hey, I did ask before, but now I'm working on another platform.
+Speaker1: Oh, that's how it is. How do you feel about working on other platforms?
+Speaker2: Still possible, just sometimes the order is unstable.
+Speaker1: Our side's exams are relatively stable, if you're interested, you can consider it.
+Speaker2: Hmm, I can consider it, but I'm not ready to switch platforms right now.
+Speaker1: Understand, if you have any questions or need more information, feel free to contact me anytime.
+Speaker2: Okay, thank you for your understanding. I will contact you if there is anything needed.

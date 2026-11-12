@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the customer manager of Guangzhou Bank, Li Xiǎodōng.
+Speaker2: Hello, what do you have?
+Speaker1: Is that so, our bank recently introduced a low interest rate loan product, do you have any financial needs?
+Speaker2: I don't need a loan, thank you.
+Speaker1: Wow, you are really smart. But if you need anything in the future, you can consider it. By the way, have you encountered any issues with cash flow recently?
+Speaker2: No yet.
+Speaker1: Okay, let me recommend another project to you. We have an investment financial plan with high returns and low risk. You can consider it.
+Speaker2: The sound is good, but I'm not familiar with this type of product.
+Speaker1: No problem, you can add my WeChat, I will introduce you in detail. My WeChat number is guangzhou_bank_01.
+Speaker2: Okay, I added you on WeChat to get to know you better.

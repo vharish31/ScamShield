@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I just arrived at your company's door.
+Speaker2: Hello, Xiaoming, are you at our company door? Where are you standing?
+Speaker1: I'm standing at the door, not going in.
+Speaker2: Okay, come in, go straight to the small door on the east side, I'll meet you there.
+Speaker1: Okay, I see a yellow car stopped on the east side, just waiting for you there.
+Speaker2: Okay, just wait for me there, I'll be down soon.
+Speaker1: Okay, I'll wait for you.
+Speaker2: Okay, you go up first, I'll wait for you downstairs.
+Speaker1: Okay, I'll go wait for you, see you later.
+Speaker2: See you soon, be careful on the road.

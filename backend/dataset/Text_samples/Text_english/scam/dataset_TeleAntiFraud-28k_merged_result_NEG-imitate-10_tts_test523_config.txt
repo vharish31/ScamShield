@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Hello, how are you? I am.
+Speaker1: Hello, I am a customer manager of a commercial bank, our bank has recently launched a new credit loan product with a high loan amount and low interest rate. Would you like to know if you have any funding needs?
+Speaker2: Oh, this is great, I really need some cash flow lately.
+Speaker1: Great, your credit record is good, you can apply for a loan up to 50,000 yuan.
+Speaker2: How much is the interest rate?
+Speaker1: The annual interest rate is 0.03%, and the monthly interest is 0.025.
+Speaker2: Hmm, this interest rate sounds good.
+Speaker1: Yes, if you're interested, you can add my WeChat and I'll send you a loan application link. You can fill it out online.
+Speaker2: Okay, let me add your WeChat.
+Speaker1: Great, my WeChat number is 13800138000. Add me and I'll send you the link right away.
+Speaker2: Okay, I added it.

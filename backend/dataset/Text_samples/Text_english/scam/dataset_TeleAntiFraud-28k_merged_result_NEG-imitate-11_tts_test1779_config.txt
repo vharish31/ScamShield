@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Zong?
+Speaker2: Hello, I am Lee, who are you?
+Speaker1: Li Zhong, hello, I am loan manager of Agricultural and Commercial Bank, Zhang Huai, we noticed your tech company has recently developed rapidly, you can consider applying for a corporate loan, amount can reach 30,000, no collateral, fast payment.
+Speaker2: Oh, is that so? I can still manage my cash flow, so I don't need a loan right now.
+Speaker1: Li Zhòng, I understand your concerns, but the interest rate on loans is currently very favorable, and we have a special green channel for approval, which is very fast, and you don't need to personally run to the bank, just download our bank app and fill out the information.
+Speaker2: Do you want to download the app? It sounds very convenient, but I'm still worried about the security issues.
+Speaker1: Li Zhōng, you don't need to worry at all, our app is certified safe software, all information is encrypted processed, very safe. You can download and try it first, if there's any problem, feel free to contact me anytime.
+Speaker2: Okay, I'll try. Can you send me a link?
+Speaker1: Okay, Li Zong, wait a minute, I'll send it to you now. The link has already been sent to your phone. If you have any questions after downloading, please feel free to contact me anytime.
+Speaker2: Okay, thank you. I will take a look.

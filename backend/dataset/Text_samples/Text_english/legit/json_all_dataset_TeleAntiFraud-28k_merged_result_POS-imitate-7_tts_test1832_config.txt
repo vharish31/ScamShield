@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm the food delivery customer service representative. I want to confirm with you today's order. Have you received it?
+Speaker2: Did you receive it? But is the time you sent the food too long?
+Speaker1: I'm very sorry to give you an unpleasant experience, because today the order volume is very large, our delivery person may be slightly delayed.
+Speaker2: Can you guys hurry up and send it over? I'm really hungry now.
+Speaker1: Understand your feelings, we have already prompted the delivery man to speed up, and we estimate that it will take about twenty minutes left or right to arrive.
+Speaker2: Twenty minutes is still a bit long, can you guys go faster?
+Speaker1: We will contact the delivery person again to shorten the time. At the same time, as a compensation for your inconvenience, we will send you a free delivery service.
+Speaker2: Okay, I'll just wait a moment.
+Speaker1: Thank you very much for your understanding and patience. We will make sure this order is delivered as soon as possible. Is there anything else you need me to help with?
+Speaker2: No longer available, thank you.

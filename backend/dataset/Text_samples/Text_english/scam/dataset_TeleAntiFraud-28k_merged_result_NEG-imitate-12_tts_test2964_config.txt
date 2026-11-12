@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Huai?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for a courier company. One of your packages was accidentally lost during transportation, and our company has decided to compensate you.
+Speaker2: Really? Then what do we do?
+Speaker1: That's how it is, in order to process quickly and efficiently, we need you to provide some personal information, including your bank card number and verification code, so that we can directly transfer the compensation money to your account.
+Speaker2: Okay, what do I need to do?
+Speaker1: Just click on the link we send to you and fill out the information as instructed.
+Speaker2: Okay, just a moment, I'll send you the link.
+Speaker1: Okay, the link will be sent to your phone later, please handle it as soon as you receive it, so the compensation money can be paid quickly.
+Speaker2: Okay, thank you.

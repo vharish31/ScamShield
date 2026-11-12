@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li Huai?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for a courier company. We found that your package was lost during transportation. We are ready to give you a refund.
+Speaker2: Is it true or false? What can I do about it?
+Speaker1: Please don't rush, in order to facilitate the refund, I need you to provide me with your bank card number and verification code, so we can process the refund.
+Speaker2: Okay, I'll send it to you right away.
+Speaker1: Great, there's one more step. For safety reasons, we need you to download our official app, verify your identity, and refund will be faster.
+Speaker2: Okay, I'll download it now.
+Speaker1: After downloading, click the "Quick Refund" on the homepage and fill out the relevant information, and we will process your refund quickly.
+Speaker2: I understand, thank you, I'll go do it now.

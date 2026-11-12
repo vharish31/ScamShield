@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, where are you from?
+Speaker1: I am the credit manager of Agricultural and Commercial Bank, Zhang manager. We have a low-interest loan product here that is very suitable for your small-scale enterprise's capital circulation. Are you interested in learning more about it?
+Speaker2: Can I get a low interest loan? It sounds good, I recently have a need for some cash flow.
+Speaker1: Hello, I can give you a detailed introduction here. However, to save time, you can download our bank's official app on your phone's app store, where you can directly apply, it's very convenient.
+Speaker2: Can I apply directly on my phone? I'm not very familiar with these.
+Speaker1: Of course, but for safety reasons, we recommend applying through the app. If you're not comfortable, you can first download the app, and I'll be here waiting for you. You can ask me any questions you have directly.
+Speaker2: Okay, I'll try it out. What do I do after downloading it?
+Speaker1: After downloading, open the APP, register an account, select a loan product, fill in the relevant information, submit the application, and you're done. If you encounter any issues, feel free to call me anytime, my number is 13800138000.
+Speaker2: Okay, I'll download it now. Thank you for your help.

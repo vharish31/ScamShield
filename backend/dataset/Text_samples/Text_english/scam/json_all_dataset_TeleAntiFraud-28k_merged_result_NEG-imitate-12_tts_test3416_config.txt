@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am the customer manager of the Dongguan Bank, we recently launched a special promotion for credit loans with very low interest rates, would you like to know more?
+Speaker2: Okay, understand now.
+Speaker1: Okay, this loan does not require collateral, the approval speed is fast, and it is very suitable for individuals and small businesses. If you are interested, you can click on this link to download our official app, fill out the information and apply.
+Speaker2: Is the app safe to download?
+Speaker1: Of course, our app is developed by the bank itself, so there's no problem. Just scan this QR code with your phone to download it directly.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any questions after downloading, feel free to contact me anytime. My phone number is 13812345678.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish your application to be successful.

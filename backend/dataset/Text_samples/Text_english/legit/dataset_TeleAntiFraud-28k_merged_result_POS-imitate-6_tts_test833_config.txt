@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask if this restaurant has any vegetarian options?
+Speaker2: Hello, we have various vegetables here, such as stir-fried vegetables and stir-fried four seasons beans, do you have any special requirements?
+Speaker1: Does your friend like non-spicy vegetables?
+Speaker2: Yes, we have stir-fried broccoli, mushroom and oil-fried vegetables, all of which are not spicy, you can try them.
+Speaker1: How much do these menus cost?
+Speaker2: Stir-fried oysters are 35 yuan, stir-fried mushrooms and oil vegetables are 40 yuan, both are very popular dishes.
+Speaker1: Hey, I plan to come at four in the afternoon, are you guys open then?
+Speaker2: Our restaurant is open from 10 am to 10 pm, of course you can come in the afternoon at 4 pm.
+Speaker1: Okay, can I just come directly at the time?
+Speaker2: Yes, you can come directly, if convenient, you can call half an hour in advance to confirm, so as not to wait.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you later, wish you a happy day.

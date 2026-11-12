@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Did you book a housekeeping service on our website yesterday?
+Speaker2: Oh, yes, it's my appointment.
+Speaker1: Did you find my appointment for cleaning service? It's tomorrow at 3 PM in the middle of the road in the center of the sky, right?
+Speaker2: Yeah, this information is correct.
+Speaker1: Okay, our staff will arrive on time tomorrow. If there are any changes, we will contact you in advance.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you have any special requirements, such as needing extra cleaning tools or needing a specific area cleaned, please let us know in advance.
+Speaker2: Okay, I will prepare everything in advance, so that the workers can work smoothly.
+Speaker1: That's great. If you have any other questions, feel free to call our customer service anytime. Goodbye.
+Speaker2: Okay, bye.

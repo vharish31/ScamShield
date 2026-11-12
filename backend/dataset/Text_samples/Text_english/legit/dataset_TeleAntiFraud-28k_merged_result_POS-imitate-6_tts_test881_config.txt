@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm Xiao Zhang, and I'd like to inquire about your household services.
+Speaker2: Hello, little Zhang, I am a customer service representative, very happy to serve you. What aspect of home service do you want to know about?
+Speaker1: I'd like to know more about your cleaning service. My home is about 100 square meters and needs a thorough cleaning once.
+Speaker2: Okay, our cleaning service is very suitable for your needs. We provide two options, one is a regular cleaning which includes sweeping, wiping windows and tidying up, priced at 150 yuan. The other is a deep cleaning which includes deep cleaning of the kitchen and bathroom, priced at 200 yuan.
+Speaker1: What is your service time?
+Speaker2: We provide a 7-day, 24-hour service with appointment, you can arrange a suitable time according to your own time. Generally, the service time is from 9 am to 6 pm, and special requirements can be communicated in advance.
+Speaker1: Can I make a reservation for this weekend?
+Speaker2: Sure, do you want to come on Saturday or Sunday?
+Speaker1: Sunday morning at 10 o'clock, okay?
+Speaker2: Okay, on Sunday morning at 10 am, we noted down. There will be workmen contacting you in advance to confirm the address and specific requirements. Is there anything else?
+Speaker1: No more, thank you.
+Speaker2: You're welcome. We're looking forward to serving you. Goodbye.

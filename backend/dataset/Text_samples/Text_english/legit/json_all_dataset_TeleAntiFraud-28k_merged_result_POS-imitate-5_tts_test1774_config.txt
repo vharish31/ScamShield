@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Zhang. Do you have any new phones in your store?
+Speaker2: Hello, little Zhang, we have the latest phone model here, which specific phone do you want to know more about?
+Speaker1: I want to see the latest smartphone, I heard its performance is good.
+Speaker2: Yes, our new smartphone comes with the latest processor and large memory, making it great for gaming and multitasking.
+Speaker1: What is the price?
+Speaker2: This phone costs 3800 yuan, there's a discount now, you can get 95% off.
+Speaker1: What is the discount for 9.5? How much cheaper will it be?
+Speaker2: The price of the item on sale for 95% off is 190 yuan, but the actual payment price is 3610 yuan.
+Speaker1: The phone sounds good, I really need a new one lately.
+Speaker2: Okay, if you decide to buy, you can come to the store anytime, we also have other colors and configurations to choose from here.
+Speaker1: Okay, thank you for your detailed introduction. I'll think about it and come back later. Goodbye!
+Speaker2: No problem, feel free to contact me anytime if you have any questions. Goodbye!

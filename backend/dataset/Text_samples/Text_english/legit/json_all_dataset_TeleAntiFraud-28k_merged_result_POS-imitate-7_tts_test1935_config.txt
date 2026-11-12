@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently want to buy a new phone, can you recommend a few brands for me?
+Speaker2: Hello, little Zhang, I am customer service representative Li from e-commerce platform, of course. What kind of phone do you want? What is the main use of it?
+Speaker1: I budget around 3,000 to 4,000, mostly for daily use, occasionally for gaming.
+Speaker2: Okay, within this price range, I recommend you take a look at some popular phones on our platform. There's an X brand Y model with good performance and great gaming experience. Also, the Z brand W model has excellent photo quality.
+Speaker1: Can you give me a detailed introduction of Z brand's W model?
+Speaker2: Of course. The brand's W model uses the latest processor, runs quickly, and has high stability. The camera is a four-camera configuration, supports multiple shooting modes, and the night scene mode is particularly good. In addition, the battery capacity is large, and the endurance is strong.
+Speaker1: Does this phone have any promotional activities going on right now?
+Speaker2: Buy this phone now and we have an activity to give you a phone case and a steel film, and also a chance to get a hundred yuan cash coupon for your next shopping.
+Speaker1: The activity sounds very cheap, I plan to order right away.
+Speaker2: Great, I'll handle the order now. If you have any questions, feel free to contact me. I hope you enjoy shopping on our platform!

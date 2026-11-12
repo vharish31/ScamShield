@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm here to make a haircut appointment, I'm Lee Ming.
+Speaker2: Hello, Li Ming, I am the small king of the hair salon, what time did you make your appointment?
+Speaker1: Can four in the afternoon work for you? I saw that on your shop info.
+Speaker2: Sure, there's an available spot at four o'clock this afternoon, are you sure you want to schedule this time?
+Speaker1: Okay, I'll make an appointment for 4 pm. How long will it take to trim a man's short hair?
+Speaker2: A short haircut for men usually takes around 30 minutes, not too long.
+Speaker1: That's great, I happen to have this time, I'll arrive at four in the afternoon on time.
+Speaker2: Okay, Li Ming, we'll meet at the designated time. If there are any changes, you can call us ahead of time.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later.

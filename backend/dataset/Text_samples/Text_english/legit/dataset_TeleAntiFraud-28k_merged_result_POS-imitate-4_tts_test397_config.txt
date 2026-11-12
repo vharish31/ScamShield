@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Did you just see that your store has new earphones on your website?
+Speaker2: Yes, we recently launched several new headphones. Which one do you like?
+Speaker1: I see a blue one that sounds good, does this headphone waterproof?
+Speaker2: This blue earphone is truly waterproof, it reached IPX7 waterproof level, even if wearing it during exercise or small rain it has no problem.
+Speaker1: That's great, I need a waterproof earphone. How's the sound quality of this earphone?
+Speaker2: The audio quality of this headphone is excellent due to the latest audio technology it uses, supporting high-resolution sound, providing an excellent experience whether you're listening to music or watching a movie.
+Speaker1: That sounds really good. How much does this headphone cost?
+Speaker2: This headphone is priced at 399 yuan, and we are currently running a promotion. You can enjoy a 90% discount when you buy it.
+Speaker1: I decided to buy one. Do you support online payment?
+Speaker2: Of course, you can place an order and pay directly through our official website or mobile app.
+Speaker1: Okay, I'm going to place an order now. Thank you for your help.
+Speaker2: You're welcome. If you have any issues during the purchasing process, please feel free to contact our customer service. Have a nice shopping, goodbye.

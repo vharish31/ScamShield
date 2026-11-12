@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what do you have?
+Speaker1: I'm little Zhang, recently I ordered a cake from you guys, want to confirm delivery time.
+Speaker2: Okay, little Zhang, what date did you order the cake?
+Speaker1: I'll send it to you around 3 pm tomorrow.
+Speaker2: Okay, we will deliver to the specified address at exactly 3 pm tomorrow afternoon.
+Speaker1: That's annoying, the address is Happiness Small Community Building 3, 2nd Floor, Unit 402.
+Speaker2: Okay, happy community three number building two single unit four zero two, we recorded it. Are there any other things that need special explanation?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, wish you have a happy day, bye.
+Speaker1: Goodbye.

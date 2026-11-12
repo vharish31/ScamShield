@@ -1,0 +1,19 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you provide electric car weekly rental service here?
+Speaker2: Yes, we have an electric car rental service here.
+Speaker1: Is the battery of this week's rental supposed to be charged by the user or can it be replaced?
+Speaker2: We provide two options, you can choose to charge yourself or change the battery at the specified location.
+Speaker1: Do you have any electric cars that can be charged outside the battery?
+Speaker2: Our current electric cars are all 48V, but most of the external charging stations are 60V, not compatible.
+Speaker1: Do you have a 48-volt substation?
+Speaker2: We currently don't have 48-volt charging stations, but you can charge yourself, which is more convenient.
+Speaker1: Can you provide a charger?
+Speaker2: Okay, we will provide a charger in the car, you can charge anytime.
+Speaker1: Okay, then I'll choose my own charging method.
+Speaker2: How long do you need to rent it for?
+Speaker1: I want to rent for a week.
+Speaker2: Okay, the rent for a week is three hundred yuan, do you need to book now?
+Speaker1: Yes, I want to book now.
+Speaker2: Okay, I'll register your info and send you a confirmation text later. Thanks!
+Speaker1: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you the food delivery guy?
+Speaker2: Hello, little Wang, I am small Liu of food delivery, what can I help you with?
+Speaker1: Why haven't I received the delivery information yet?
+Speaker2: Can you give me your order number? I'll check it here.
+Speaker1: The order number is 778891.
+Speaker2: Okay, I'll check... Your order has been shipped, it's in transit, and is expected to arrive in 30 minutes.
+Speaker1: Can I send it over a little later? I'm at work now and might have to leave soon.
+Speaker2: Sure, do you need me to change the time for you?
+Speaker1: Can you please change it to seven o'clock in the evening?
+Speaker2: Okay, I have already made the changes for you. It will be delivered to you around 7 pm tonight. If there are any changes, we will notify you in advance.

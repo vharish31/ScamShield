@@ -1,0 +1,9 @@
+Speaker1: Hey, how are you? I'm little Li, I want to make a haircut this weekend, do you guys have any free time on Sunday?
+Speaker2: Hello, little Li, we are open on Sunday, but we need to make an appointment in advance, what time is convenient for you?
+Speaker1: Can I have some time around 3 PM this afternoon?
+Speaker2: 3 o'clock is okay, but we suggest arriving half an hour earlier, so we can make sure there's enough time, how about it?
+Speaker1: Okay, what do I need to prepare before three o'clock?
+Speaker2: No need to prepare specially, just tell us your name and time when you arrive. Also, if you have a special hairstyle in mind, please let us know in advance so we can serve you faster.
+Speaker1: Okay, I understand, thank you for your reminder, so I'll see you on Sunday afternoon at three.
+Speaker2: Okay, see you Sunday afternoon, looking forward to serving you, goodbye.
+Speaker1: Goodbye, thank you.

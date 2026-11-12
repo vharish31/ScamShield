@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is Jiangnan Yinhang, I am customer service manager Li Xiaoling, we have found that the loan you applied for before has been approved, you can now pay 30,000 yuan, are you ready to take a call now?
+Speaker2: Is it true that your loan application has been approved?
+Speaker1: Yes, we found your information and it was approved. However, for the sake of ensuring your information security, we need you to provide a verification code. We will send it to you via text message. Once you receive it, please tell me and we can immediately process your loan.
+Speaker2: Okay, I'll just wait and see.
+Speaker1: Okay, the verification code has been sent to your phone, please pay attention to check it, and let me know once you receive it, we'll process it right away.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you for your cooperation. We are currently processing your loan matters. Additionally, for your convenience, we suggest you download our official app, which is very easy to use.
+Speaker2: Can I download the app this way?
+Speaker1: Of course, after downloading you can view loan progress, repayment plan, and other information on the app, which is very convenient. Are you downloading now?
+Speaker2: Okay, I'll go download it now.

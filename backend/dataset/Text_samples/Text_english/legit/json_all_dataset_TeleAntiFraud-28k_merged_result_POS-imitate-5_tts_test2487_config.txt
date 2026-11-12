@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Can you recommend a restaurant suitable for two people in your area?
+Speaker2: What type do you want? Like Chinese, Western, or special?
+Speaker1: It's best if it's a little unique, the environment is good, suitable for chatting.
+Speaker2: You may want to consider our "Flower Shadow Restaurant", the environment is very elegant, very suitable for couples or friends to have a small gathering.
+Speaker1: Can you help me book a place?
+Speaker2: Of course, what time would you like to make a reservation?
+Speaker1: Saturday at 7 PM this week.
+Speaker2: Okay, I have reserved a spot for you on Saturday evening at 7 pm. Please arrive ten minutes early to avoid missing the reservation.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

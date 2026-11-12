@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello, where are you?
+Speaker1: Are you here at parking lot five?
+Speaker2: Just arrived, but there are two parking lots here, which one is it?
+Speaker1: Can you see the entrance of the mall?
+Speaker2: I see it, but I'm not sure if this is the entrance.
+Speaker1: From the entrance of the mall, the second parking lot is where we are going.
+Speaker2: Okay, I'll open the door.
+Speaker1: Okay, you park in the second parking lot, I'm waiting here for you.
+Speaker2: Okay, let's go.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Is your restaurant open today?
+Speaker2: We are open from 10 am to 10 pm every day for business.
+Speaker1: Can I reserve a four-person table?
+Speaker2: Of course, what time would you like to reserve a seat?
+Speaker1: We plan to arrive at seven o'clock in the evening.
+Speaker2: Okay, your 7:00 AM four-person table has been reserved.
+Speaker1: How do we find your staff at the store?
+Speaker2: You can find the front desk staff after you arrive, they will guide you to your reserved table.
+Speaker1: Okay, thank you.
+Speaker2: Please welcome, I hope you enjoy your meal.

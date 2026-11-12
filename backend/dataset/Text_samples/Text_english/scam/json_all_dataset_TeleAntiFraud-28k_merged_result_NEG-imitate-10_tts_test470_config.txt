@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm small Zhang, this side is happy shopping platform customer service, you bought smartwatch on our platform before because of quality problem need to recall, we can handle refund here.
+Speaker2: Really? Why didn't you send me a text message or email notification?
+Speaker1: It's possible that your contact information is incorrect, which is why the notification wasn't sent successfully. To quickly resolve this issue, you can first add my WeChat, and I'll send you a link. You can click on the link and fill out the relevant information to complete the refund quickly.
+Speaker2: Okay, add me on WeChat, my WeChat ID is xiaomingxinlian.
+Speaker1: Great, I'll add you right away. However, for safety reasons, it's best if you first download our official app, this way the operation is safer and more convenient for future purchases.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Thank you very much for your cooperation. After downloading, you can directly contact me in the app, and I will serve you fully. Moreover, to speed up the refund process, please provide your bank card information, so that we can return the money to your account.
+Speaker2: Okay, I understand, I'll go operate now.
+Speaker1: Okay, please let me know after you operate, I will help you with the next steps.
+Speaker2: Okay, thank you for your help.

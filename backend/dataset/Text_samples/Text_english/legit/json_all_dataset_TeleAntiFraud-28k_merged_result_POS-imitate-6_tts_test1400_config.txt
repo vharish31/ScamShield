@@ -1,0 +1,10 @@
+Speaker1: Hey, did you arrive?
+Speaker2: Hey, just arrived, where are you?
+Speaker1: Are you in the big hall waiting for me? Have you seen the elevator yet?
+Speaker2: Can you see me? Are you waiting for me at the elevator?
+Speaker1: Okay, come over here, I'm waiting for you.
+Speaker2: Okay, I'll be there soon.
+Speaker1: Did you buy anything?
+Speaker2: Did you buy any snacks?
+Speaker1: I bought some face masks, ready to use them at night.
+Speaker2: Good idea, recently my skin is dry, use face cream is suitable.

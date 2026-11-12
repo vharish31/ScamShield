@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the speedy express customer service, your package was returned because of the unclear address.
+Speaker2: Oh, really? Then what do we do?
+Speaker1: Yes, but you can fill out the address again through the link we provide, and we can resend it to you.
+Speaker2: Okay, how do I get this link?
+Speaker1: Please provide your phone number, and we'll send a link to your phone.
+Speaker2: That's right, my phone number is 13800138000.
+Speaker1: Okay, we have recorded your phone number. We will send you a link shortly, please pay attention to check it. Additionally, to speed up the processing speed, please provide your identity card number and bank card number for us to verify your identity.
+Speaker2: That's it, the identity card number is 110101199001012345, the bank card number is 6222081234567890.
+Speaker1: Thank you for your cooperation. We have recorded your information. The link will be sent shortly. Please pay attention to check it. Have a happy life. Goodbye.
+Speaker2: Okay, thank you, bye.

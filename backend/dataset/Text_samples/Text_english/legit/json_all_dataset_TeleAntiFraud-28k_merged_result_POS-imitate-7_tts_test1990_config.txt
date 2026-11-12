@@ -1,0 +1,10 @@
+Speaker1: Hey, how's the signal on your side?
+Speaker2: Signal is good, how about you?
+Speaker1: Never mind, I have some noise here, what do you want?
+Speaker2: What kind of takeout do you usually order?
+Speaker1: I've been frequenting that little restaurant lately. The taste is still pretty good, how about you?
+Speaker2: I ordered at that small restaurant last time, it was pretty good, I want to order from theirs this time.
+Speaker1: You can directly order online from the app, their beef and fried chicken drumsticks are very popular.
+Speaker2: Okay, I'll open the app and take a look. Right, the sweet shop you mentioned last time? I also want to go try it.
+Speaker1: Sweet shop, it's on the third floor of that commercial street, called Sweet Honey Time, you'll definitely like it.
+Speaker2: Okay, I'll go this weekend, thank you for recommending.

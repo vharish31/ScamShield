@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, we agreed to meet up at the library this afternoon, where are you now?
+Speaker2: Hey, little Li, I just arrived at the park, it's a bit far, maybe it'll take ten minutes or so, you go ahead first.
+Speaker1: Okay, just be careful on the road, I'll go first and take a position, wait for you to arrive and send me a message.
+Speaker2: Okay, no problem, I'll contact you right away over there.
+Speaker1: Hey, I checked and it seems like there's a lecture at the library today about artificial intelligence, would you like to come and listen together?
+Speaker2: That sounds pretty interesting, I'm pretty excited too, let's do it, it's perfect to learn more.
+Speaker1: That's great, the lecture starts at three in the afternoon, we'll try to arrive at two forty-five, that way we can still find a good spot.
+Speaker2: Okay, let me speed up, try to arrive early.
+Speaker1: Okay, be careful on the road, come over when you're ready.
+Speaker2: Okay, see you on the road.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of Hangzhou Bank, and we have a loan product specifically for small business owners. Are you interested in learning more?
+Speaker2: Hello, I'm little king, I don't have any capital needs now, what are your loan products like?
+Speaker1: Hey, Mr. Wang, this loan product doesn't require collateral, the interest rate is low, and the paperwork is simple. It's perfect for small microenterprises that need to quickly turn over cash. You can add me on WeChat, and I have detailed info I can send you.
+Speaker2: Do you want to add me on WeChat? Is it necessary? I can just understand it directly here.
+Speaker1: That's right, some information is more convenient to view on WeChat, and we also have some exclusive customer discount activities that you won't get if you don't have WeChat.
+Speaker2: Okay, your voice sounds good too, let's add you.
+Speaker1: Great, my WeChat number is AHbankloan. Add me and let me know, I'll give you the data.
+Speaker2: Okay, I'll add you now, contact me later.
+Speaker1: Okay, Mr. Little King, I'm waiting for your message. If you have any questions, you can contact me anytime. Wish you a happy life. Bye.
+Speaker2: Goodbye.

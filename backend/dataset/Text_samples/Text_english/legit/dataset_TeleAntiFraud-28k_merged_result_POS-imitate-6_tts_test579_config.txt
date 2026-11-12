@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm Xiao Zhang, I want to consult your home service.
+Speaker2: Hello, little Zhang, I am customer service representative Li Xiao, what can I help you with?
+Speaker1: Can you tell me how much it costs for an hour of your clock point service?
+Speaker2: The standard fee for clock point work service is 30 yuan per hour. If your appointment time is longer, you will also have a certain discount.
+Speaker1: If I book a day in advance, how much would it cost?
+Speaker2: If you book a day in advance, we have a special daily set menu for only 200 yuan, very cost-effective.
+Speaker1: How far in advance do I need to make a reservation for the appointment I have scheduled?
+Speaker2: We suggest you book at least one day in advance, so we can better arrange our staff for you.
+Speaker1: Okay, I plan to book a day of service this weekend, can you arrange it?
+Speaker2: Sure, this weekend we have some free time, you can choose either Saturday or Sunday.
+Speaker1: Can we schedule for Saturday then? Do we need to confirm beforehand?
+Speaker2: We will call you one day ahead to confirm the specific time and service content to ensure everything goes smoothly.

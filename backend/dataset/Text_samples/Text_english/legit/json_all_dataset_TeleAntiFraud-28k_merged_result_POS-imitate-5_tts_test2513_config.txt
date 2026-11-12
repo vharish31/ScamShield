@@ -1,0 +1,10 @@
+Speaker1: Hello, I want to reserve a restaurant table for six and a half tomorrow evening.
+Speaker2: Hello, I'm very happy to serve you. How many seats do you need to book?
+Speaker1: Four.
+Speaker2: Okay, four of you. Do you have any special requirements, such as sitting by the window or in a quiet corner?
+Speaker1: If there's a spot by the window, that's best.
+Speaker2: Okay, I will do my best to arrange a window seat for you. What is your name and contact information?
+Speaker1: I am Li Xiaoxi, my phone number is 13123456.
+Speaker2: Okay, Mr. Li. Your reservation was successful. Tomorrow at 6:30 pm, for four people, window seats. If there are any changes, please contact us in advance.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, hope you enjoy your meal. Bye.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Are the coffee shops still open?
+Speaker2: Hey, it's Xiaoming, our coffee shop is open until 10 pm tonight, you're coming too early now.
+Speaker1: Great, I'll be right over, do you guys have a place?
+Speaker2: No problem, there's enough space here, you should come over without any issues.
+Speaker1: Okay, I also brought a friend. Do you have two person seats?
+Speaker2: Yes, we have a special two-person table, just come directly to me when you arrive.
+Speaker1: Great, we'll be there in about twenty minutes. Do you have any recommendations there?
+Speaker2: Our fried rice with scallops and blueberries is very popular here. You can try it.
+Speaker1: Okay, let's order these at the time, thank you!
+Speaker2: You're welcome, come play and have fun.

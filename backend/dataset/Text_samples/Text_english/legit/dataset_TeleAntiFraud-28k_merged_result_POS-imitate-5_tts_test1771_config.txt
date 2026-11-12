@@ -1,0 +1,8 @@
+Speaker1: Hello, this is the city beauty salon, can I make an appointment for a haircut?
+Speaker2: Hello, is it possible, what time do you want to make a reservation?
+Speaker1: Can I go at around 3:30 PM on Saturday afternoon?
+Speaker2: Okay, Saturday afternoon at 3:30, we can arrange it. Can you leave your name and contact information down, please?
+Speaker1: My name is Li Ming, phone number is 13800138000.
+Speaker2: Okay, Li Ming Xiāngshēng, your appointment is scheduled for Saturday afternoon at 3:30 p.m. Remember to be on time.
+Speaker1: Okay, thank you, see you on Saturday.
+Speaker2: No problem, see you on Saturday, wish you a happy day.

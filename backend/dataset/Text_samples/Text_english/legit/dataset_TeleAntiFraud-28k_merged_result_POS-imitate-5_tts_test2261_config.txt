@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you need more hands on that side?
+Speaker2: Do we need, we happen to lack one helper
+Speaker1: Did you use a dishwasher at that old restaurant?
+Speaker2: We have a dishwasher here, but sometimes we have to wash by hand.
+Speaker1: Can I come tomorrow?
+Speaker2: Sure, around four o'clock tomorrow, are you okay?
+Speaker1: 4 o'clock is okay, I live not far
+Speaker2: Okay, see you tomorrow, when you come I'll be here waiting for you
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao, this is the customer service representative of some bank.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we noticed some unusual activity on your account recently, so we need you to cooperate with us to do a simple verification.
+Speaker2: What's the exception? What's the situation?
+Speaker1: Don't worry, it might be a system error. But for safety reasons, we need you to provide the last four digits of your bank card and verification code.
+Speaker2: Okay, how can I provide?
+Speaker1: You can input relevant information by clicking this link. The link is: (read out link in voice)
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, please let me know once the operation is completed, we will process it quickly.
+Speaker2: Okay, thank you.

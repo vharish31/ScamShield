@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is Li Ming, the customer manager of Agricultural and Commercial Bank. Have you consulted our loan business before?
+Speaker2: Oh, yes, I did consult before, how about now?
+Speaker1: We have reviewed your information and can offer you a 20,000 yuan unsecured loan. All you need to provide is some basic personal information to quickly process the loan.
+Speaker2: Really? That's great, I need cash flow now.
+Speaker1: Yes, but in order to ensure your credit, we need you to pay a deposit first, which can guarantee the safety of your loan.
+Speaker2: Deposit? How much money is needed?
+Speaker1: Just three thousand yuan, this is a small amount of fee, after the loan is disbursed, we will refund the full amount of the deposit to you.
+Speaker2: Okay, how do I pay?
+Speaker1: You can click on the link I sent you to complete payment through our online payment platform, which is very convenient and quick.
+Speaker2: Okay, I'll handle it right away. Thank you for your help.
+Speaker1: No problem, if you have any questions, please contact me anytime. Wish you business success. Bye.

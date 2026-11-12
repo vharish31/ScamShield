@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm Zhang San, want to consult your fitness course.
+Speaker2: Hello, Zhang San, I'm so happy to serve you. We have many fitness programs here, including yoga, aerobics, and strength training. Which one would you like to know more about?
+Speaker1: Can you tell me the specific time and price for yoga?
+Speaker2: Of course. Our yoga classes are held every week on Monday, Wednesday, and Friday at 7 pm, each class lasting 60 minutes. The fee for a single class is 80 yuan, and if you buy a monthly card, you can enjoy a discount, 500 yuan for a month, unlimited classes.
+Speaker1: What should I pay attention to when using a monthly card?
+Speaker2: The effective period of a monthly card is a natural month, starting from the day of purchase. If a card is purchased in the middle of the month, the fee remains the same, but the effective period will be extended to the same day of the next month. Additionally, monthly cards cannot be refunded or exchanged, and must be used with valid identification.
+Speaker1: Can I make a reservation? I want to try it out first. It sounds good.
+Speaker2: Of course, which day do you want to book the course?
+Speaker1: I have time this Thursday, so let's schedule it for Thursday.
+Speaker2: Okay, your Thursday evening yoga class has been reserved for you. Remember to arrive ten minutes early at the fitness center, we will prepare everything for you. If you have any questions, feel free to contact us anytime.
+Speaker1: Okay, thank you for your help. See you on Tuesday.
+Speaker2: No problem, see you on Tuesday. Wish you a happy day.

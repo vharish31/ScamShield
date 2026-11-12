@@ -1,0 +1,8 @@
+Speaker1: Where are you? I just arrived at the door.
+Speaker2: Oh, I'm still on the bus, just two more stops and I'll be there.
+Speaker1: Okay, then you arrived to give me a call.
+Speaker2: Okay, I understand.
+Speaker1: The weather is nice today, let's go for a walk in the park.
+Speaker2: Is there any food for sale in the park?
+Speaker1: Yes, there are a few small stalls in the park, we can buy some food.
+Speaker2: Great, I'm hungry. Let's go to the park as soon as I arrive.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of Xiaoming supermarket. We want to know how you are using the electric rice cooker you bought from us before.
+Speaker2: Hello, the electric rice cooker is not bad, just sometimes the rice cooks with a bit of stickiness.
+Speaker1: Oh, we've had other customers give feedback on this situation before, it's possible that the pressure setting on the electric kettle isn't quite right.
+Speaker2: Can this problem be solved?
+Speaker1: Sure, you can bring your electric rice cooker to our store, our technical staff will help you adjust the settings, or we can also arrange for a technical staff member to come to your home for service.
+Speaker2: Do you need to make an appointment for the door service?
+Speaker1: Could you please tell me a convenient time, I will help you book an appointment.
+Speaker2: What's the plan for three o'clock in the afternoon tomorrow?
+Speaker1: Tomorrow at three in the afternoon, I will help you book an appointment, and the technicians will arrive on time.
+Speaker2: Okay, thank you for your help.

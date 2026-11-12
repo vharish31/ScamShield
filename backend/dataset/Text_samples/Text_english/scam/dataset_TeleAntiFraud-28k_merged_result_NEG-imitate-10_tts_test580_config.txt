@@ -1,0 +1,8 @@
+Speaker1: Hello, this is the customer service center of Tiancheng Bank, I am the customer service manager Li Huai, we noticed that your credit card usage has been frequent recently, in order to better serve you, we can now offer you to increase your credit card limit, are you interested?
+Speaker2: Increase quota? How to increase?
+Speaker1: That's it, we have a dedicated VIP channel, just provide some basic information and we can process it for you. To ensure your information is secure, you can click on the link we send to you and fill in the relevant information.
+Speaker2: Will you send me links?
+Speaker1: Yes, I will send it to you now. Please pay attention to check the SMS, click on the link after receiving it, and fill in the information after that.
+Speaker2: Okay, I'll be right back.
+Speaker1: Okay, thank you for your trust. If you have any questions, feel free to contact me anytime. Have a happy life, goodbye!
+Speaker2: Goodbye.

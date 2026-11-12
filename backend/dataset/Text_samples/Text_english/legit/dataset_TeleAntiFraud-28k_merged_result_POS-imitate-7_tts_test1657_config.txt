@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, you good?
+Speaker1: Hi, I'm a customer service representative for a food delivery platform. I noticed you haven't used our services recently, and I wanted to see if there's anything I can help you with?
+Speaker2: "Uh, I haven't been ordering takeout lately, mostly because I've been cooking a lot at home."
+Speaker1: Recently, our platform has had many new discount activities, such as buy one hundred and get thirty off, and new user first order extra discount, are you interested in learning more?
+Speaker2: That sounds good, my home address is Flower Garden No. 12, Unit 3, can you send it over?
+Speaker1: Of course, our platform covers the entire city, including the garden community. Which restaurant's menu would you like to try?
+Speaker2: I want to try that new Sichuan restaurant called "Feng Fan Tiān," which is supposed to be very delicious.
+Speaker1: Okay, spicy Sichuan cuisine is very popular, I will help you order, what do you want to order?
+Speaker2: Let's have a steamed pork rib, sour and spicy fish, and a cold stir-fried cabbage.
+Speaker1: Okay, your order has been successfully submitted. It will arrive in about 30 minutes. Is there anything else you need help with?
+Speaker2: No more, thank you.
+Speaker1: You're welcome, hope you enjoy your meal, bye!

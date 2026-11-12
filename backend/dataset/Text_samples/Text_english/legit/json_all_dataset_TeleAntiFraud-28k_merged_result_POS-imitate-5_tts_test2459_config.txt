@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, this is the Starry Square of Xiangcheng Food.
+Speaker2: Hello, do you have any vegetarian set menu?
+Speaker1: Yes, we have several vegetable set meals here. Do you want to know the specific dishes?
+Speaker2: Yes, I want to know which dishes are included in the cheapest vegetarian set menu.
+Speaker1: The cheapest vegetarian set meal is 38 yuan, which includes a bowl of cold vegetable stir-fry, a bowl of spicy tofu and vegetable stir-fry, and a bowl of seasonal vegetables, as well as a small bowl of rice.
+Speaker2: Can I take this dish out?
+Speaker1: Sure, you can choose to bring your own luggage, and we also provide free packaging service.
+Speaker2: Can you help me prepare in about half an hour?
+Speaker1: Sure, you can come to pick up your food half an hour later, we will prepare it in advance, you can take it away as soon as you arrive.
+Speaker2: Okay, thank you. I'll see you later.
+Speaker1: Okay, see you later, wish you enjoy your meal.

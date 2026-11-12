@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I make a reservation for tomorrow's dinner? Is your restaurant still open?
+Speaker2: Of course, our restaurant is open every day until 10 pm.
+Speaker1: Great, I want to reserve a four-person seat, around 7:30 PM.
+Speaker2: Okay, the 7:30 location has been reserved for you. Are there any other special requirements?
+Speaker1: If there's a private room, that's better, it's a family gathering.
+Speaker2: Understood, we will do our best to arrange a quiet private room for you. Do you need any special food?
+Speaker1: My mom doesn't like spicy food, try to put less spicy pepper.
+Speaker2: Okay, we will pay special attention to this point. Are there any other things we need to inform you about?
+Speaker1: No more, thank you.
+Speaker2: You're welcome. I'm looking forward to your visit. Wishing you a happy day.

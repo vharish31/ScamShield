@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Li, want to ask about your restaurant's special dishes
+Speaker2: Hello, little Li, I am server Zhang. Our restaurant has many special dishes, such as the signature red braised pork, steamed sea bass, and spicy and sour hot pot. Which dish would you like to know more about?
+Speaker1: Can you introduce the price and method of making clear steamed sea bass fish?
+Speaker2: Steamed fish with clear broth is very popular in our restaurant. The fish meat is fresh and tender, retaining the original flavor of the fish. The price is 188 yuan per piece.
+Speaker1: What are your business hours?
+Speaker2: Our restaurant business hours are from 11 am to 10 pm, on weekends they will be extended to 11 pm.
+Speaker1: Okay, do I need to reserve a seat in advance for the weekend trip?
+Speaker2: It's usually more crowded on weekends. I suggest you book in advance to make sure you have a spot. Do you need me to help you book now?
+Speaker1: Okay, let's reserve two seats for two people, time is Sunday afternoon 2 pm.
+Speaker2: Okay, your seat is reserved for Sunday afternoon at 2 pm for two people. See you then.
+Speaker1: Thank you, see you on Sunday afternoon.
+Speaker2: You're welcome. I'm looking forward to your arrival. Goodbye.

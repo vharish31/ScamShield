@@ -1,0 +1,10 @@
+Speaker1: Hey, are you the one who just called me?
+Speaker2: Hi, I'm the manager of the Agricultural Bank, we have a special loan service for customers with houses, are you interested?
+Speaker1: Loan? I'm pretty tight on cash lately, but I generally don't consider taking out a loan.
+Speaker2: Hmm, I understand. But this loan service is very flexible, no collateral is required, and the approval is very fast. You can first add my WeChat, understand the details.
+Speaker1: Add WeChat, is this a bit too direct?
+Speaker2: Of course, we just hope to provide a more detailed introduction of this service on WeChat. Don't worry, we won't have any compulsory requirements.
+Speaker1: Okay, what's your WeChat number?
+Speaker2: My WeChat number is ABCD123456, add me and we can chat in detail.
+Speaker1: Okay, let me try.
+Speaker2: Great, now that you've joined, we can communicate further. If you have any questions, feel free to contact me anytime.

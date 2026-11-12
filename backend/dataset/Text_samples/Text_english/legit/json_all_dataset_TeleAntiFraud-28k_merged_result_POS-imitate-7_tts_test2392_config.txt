@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I am a customer service representative from some e-commerce platform. Your recent shopping points on our platform are about to expire. Do you know?
+Speaker2: Oh, really? I didn't notice that.
+Speaker1: That's it, your points will be completely cleared at midnight tonight if you don't use them quickly, otherwise they will expire.
+Speaker2: What can these points be exchanged for?
+Speaker1: These points can be used to purchase various products on our platform, such as electronic products and daily necessities, and can also be deducted for a portion of cash.
+Speaker2: How do I check my points?
+Speaker1: You can view detailed information about your points in the points section by logging into my account in our app.
+Speaker2: Okay, I'll check right away. How many products can these points be exchanged for?
+Speaker1: Your points can redeem approximately 4,000 yuan worth of goods, the exact amount will depend on the product you choose.
+Speaker2: Understood, thank you for your reminder, I will handle it quickly.

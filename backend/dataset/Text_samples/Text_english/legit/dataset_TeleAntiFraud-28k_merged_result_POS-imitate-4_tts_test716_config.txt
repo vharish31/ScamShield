@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me, what do you have to say?
+Speaker1: I am the property manager of the community, I want to tell you that the water in the community needs to be repaired tomorrow, from nine in the morning to four in the afternoon there will be a temporary suspension of water supply.
+Speaker2: Oh, that's it, so I need to prepare some water in advance tomorrow.
+Speaker1: Okay, suggest you store some water in advance, just in case.
+Speaker2: Okay, thank you for your reminder.
+Speaker1: No problem, are there any other issues?
+Speaker2: No more, just like this.
+Speaker1: Okay, I'll hang up first, remember to save water.
+Speaker2: Okay, thank you, bye.

@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Zhang Wei?
+Speaker2: Who are you?
+Speaker1: I am the customer manager of the China Bank, Lee Huai. Our bank recently launched a rural credit loan with a very low interest rate. Would you like to know more about it?
+Speaker2: Uh, loan, I'm a bit tight right now, can you give me a detailed explanation?
+Speaker1: Of course, this credit loan does not require collateral, approval is fast, interest rate is as low as 0.48%, and only basic information is needed to complete the application.
+Speaker2: What materials do I need to prepare?
+Speaker1: Please provide your ID, income proof, credit report, and fill out an application form. If you're interested, you can add my WeChat first, I'll send you a list of required documents, so you can prepare.
+Speaker2: Can you add me on WeChat? Can't I go to the bank directly?
+Speaker1: Going directly to the bank is also possible, but it will be more troublesome. You have to queue and make an appointment. If you add WeChat, I can help you pre-review the documents in advance, saving time and effort.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: My WeChat is LH88888, add me. After adding, I will send you the resource list.

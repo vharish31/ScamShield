@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, what can I help you with?
+Speaker1: I am the customer service at the New Star supermarket. You have accumulated a lot of points here, and they will be cleared at midnight tonight.
+Speaker2: Oh, I forgot about this thing. Can you give me a detailed explanation on how to use it?
+Speaker1: Of course, you just need to log in to our member account, select points redemption, and you can see the products that can be redeemed.
+Speaker2: Okay, I'll try it out, how many dollars can these points redeem?
+Speaker1: You have accumulated 20,000 points on your account, which can be roughly redeemed for 4,000 yuan worth of goods.
+Speaker2: Good, then I should hurry up to take a look. Are there any other things to pay attention to?
+Speaker1: No longer, you just need to complete the exchange before 12 o'clock. If there are other issues, feel free to contact me anytime.
+Speaker2: Okay, thank you for your reminder. I will handle it quickly.

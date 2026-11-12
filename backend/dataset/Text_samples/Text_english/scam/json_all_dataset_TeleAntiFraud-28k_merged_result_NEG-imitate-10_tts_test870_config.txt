@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am Zhang from the construction of the Bank of China Credit Center.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, based on your previous spending records at our bank, you may have a need for a loan. We recently have a special promotional loan product with a very low interest rate, no collateral required.
+Speaker2: "Uh, I currently don't have a need for a loan."
+Speaker1: Okay, but this discount is really hard to come by. If your mind changes, you can contact me anytime. I also have a link here that you can click to learn more details.
+Speaker2: Okay, let's take a look.
+Speaker1: Great, the link is http://example.com/loan, just click and follow the instructions to apply.
+Speaker2: Okay, thank you for your recommendation.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. By the way, we also have a dedicated customer service app that you can download for more discount information.
+Speaker2: Okay, I'll download and take a look.

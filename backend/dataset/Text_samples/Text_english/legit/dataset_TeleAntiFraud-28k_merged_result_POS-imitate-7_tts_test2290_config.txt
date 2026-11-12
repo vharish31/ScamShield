@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a waiter at the restaurant. You made a reservation for tonight at 7 pm. Can you confirm if you will still come?
+Speaker2: Yeah, hi, sure, I'm going out tonight.
+Speaker1: Okay, your reservation is for four people, right?
+Speaker2: Yes, it's the fourth seat.
+Speaker1: Okay, we have reserved a seat for you. What time do you think you'll arrive?
+Speaker2: I'll arrive around six thirty.
+Speaker1: Okay, we'll prepare in advance, just give us your reserved name when you arrive.
+Speaker2: Okay, thank you for your reminder.
+Speaker1: Please let us know if there are any changes in advance.
+Speaker2: Okay, I will. See you later.
+Speaker1: See you later, wish you a happy day.

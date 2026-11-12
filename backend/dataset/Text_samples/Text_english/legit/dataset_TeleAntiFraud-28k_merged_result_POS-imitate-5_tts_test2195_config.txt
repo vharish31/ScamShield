@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li. Do you have any good restaurant recommendations here?
+Speaker2: Hello, little Li, what type of food do you want to eat? For example, Chinese, Western, or special snacks?
+Speaker1: Hmm, let's have some Chinese food, something special, for a friend gathering.
+Speaker2: I recommend you guys to try the old street flavor, the environment there is good and the dishes are very unique.
+Speaker1: What does their restaurant have as a signature dish?
+Speaker2: Their signboard menu has red braised pork, steamed fish, and stir-fried frog, all of which are highly praised by customers.
+Speaker1: Great, these dishes sound delicious. Do I need to make a reservation in advance?
+Speaker2: I suggest you make an appointment in advance, especially on weekends when it's crowded. I can help you book it.
+Speaker1: Can you bother? We'll probably be around seven in the evening on Saturday.
+Speaker2: Okay, I'll make the reservation for you. Just show up with your names when it's time. Enjoy your meal!

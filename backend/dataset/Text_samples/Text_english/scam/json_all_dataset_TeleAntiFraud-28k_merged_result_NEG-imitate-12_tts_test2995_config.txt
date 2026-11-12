@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the Commercial Bank of China, and I am calling you based on your account information. We have approved a loan for you, and we would like to know if you have any funding needs?
+Speaker2: Hey, do you need money? I have enough right now, but if there's really a discount, I might consider it.
+Speaker1: That's great, our loan product interest rate is very low, and the approval speed is very fast. As long as you meet our conditions, you can apply for a loan today and get the money today.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: First, you need to download our official app, then register an account, fill out some basic information, upload some necessary certificate photos, such as identity card, business license, etc.
+Speaker2: Okay, after I download the app, how can I contact you?
+Speaker1: After downloading the app, you can find me directly in the app by searching for my name, which is Li Manager. Alternatively, you can add my WeChat, which is more convenient for communication.
+Speaker2: Wechat? What's your Wechat number?
+Speaker1: Add me on WeChat with the number LJ123456, let's have a detailed chat.
+Speaker2: Okay, I'll add you on WeChat right away, thank you.

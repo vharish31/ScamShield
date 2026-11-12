@@ -1,0 +1,10 @@
+Speaker1: Hello, I found your job information online and want to know more about the construction worker position.
+Speaker2: Hello, the position of a common worker is open, you can specifically say your situation, such as education and work experience.
+Speaker1: Hey, I have a bachelor's degree, I worked at a factory for two years before, mainly doing mechanical operations.
+Speaker2: Understood, your work experience is very helpful to us here. You can send your resume to us, and we will arrange an interview as soon as possible.
+Speaker1: Okay, to which email address should the resume be sent?
+Speaker2: You can send to our official email, the specific address can be found on our official website's contact us page.
+Speaker1: Hey, do you know what time the interview can be scheduled?
+Speaker2: We will contact you within a week after receiving your resume to schedule a specific interview time.
+Speaker1: Okay, thank you for your help. I'll wait for your notification.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wishing you all the best.

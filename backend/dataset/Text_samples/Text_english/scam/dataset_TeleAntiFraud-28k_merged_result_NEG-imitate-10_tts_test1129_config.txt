@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am Zhang, the customer manager of Zhao Shang Yin Hang.
+Speaker2: Hello, what do you have?
+Speaker1: Is that so? Our bank recently introduced a new investment financial product with high returns and low risk. Are you interested in learning more about it?
+Speaker2: Hey, do you invest in wealth management? I'm actually interested in learning more about it recently.
+Speaker1: Great, this product is perfect for you. To better understand the detailed information, you can first download our bank's official app, which has a detailed introduction of the product.
+Speaker2: Can I download the app? Yes, how do I download it?
+Speaker1: Just search '招商银行' in the app store, download and install it. After installation, register an account. I'm waiting for you here.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Okay, download it and remember to add my WeChat, my WeChat number is zhaoyin123, I can answer your questions anytime.
+Speaker2: Okay, thank you for your help. I'll go operate now.

@@ -1,0 +1,8 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, where are you now?
+Speaker2: I just arrived at the train station, looking for the way to the hotel.
+Speaker1: Okay, wait a minute, I'll send you a location, just follow the navigation.
+Speaker2: Okay, thank you. My signal is not good here, maybe need a while to see.
+Speaker1: No problem, you take it slow, when you arrive at the hotel give me a call, I'll come down to meet you
+Speaker2: Okay, I will, be careful on the road, goodbye.
+Speaker1: Be careful on the road, see you later.

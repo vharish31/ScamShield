@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang, currently working at the customer service center of XX platform. Have you recently purchased a product on our platform?
+Speaker2: Yeah, I did buy a piece of clothing from your platform a few days ago.
+Speaker1: Okay, let's verify the facts, the product you bought has issues due to logistics reasons, we'll process a refund for you.
+Speaker2: Oh, thank you so much, but I originally planned to keep it for myself.
+Speaker1: You're so lucky! To ensure your rights, we need your purchase order number and payment method at the time of purchase.
+Speaker2: Okay, the order number is 12345678, the payment method is WeChat payment.
+Speaker1: Okay, I have recorded it down. To quickly process the refund, please click on the link in the text message we sent, and follow the instructions.
+Speaker2: Okay, I'll check my messages in a bit.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact me anytime. I wish you a happy life.
+Speaker2: Thank you, goodbye.

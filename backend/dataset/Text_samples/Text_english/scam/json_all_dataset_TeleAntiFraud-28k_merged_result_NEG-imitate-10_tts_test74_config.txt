@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer manager of Agricultural and Commercial Bank, Lee Huai.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we noticed that your company's recent cash flow may be tight, and we can provide you with a quick, unsecured loan of a certain amount on this side.
+Speaker2: Uh, is that so? I'm actually kind of in need lately.
+Speaker1: Okay, if you're interested, you can click on the link we give you and fill out some basic information, and we can start reviewing it.
+Speaker2: Okay, will you send me the links?
+Speaker1: Yes, you will receive a text message with a link. Click on it and follow the instructions.
+Speaker2: Okay, I'll wait for a moment for a text message.
+Speaker1: Okay, the message will arrive on your phone soon. Moreover, to speed up the review process, you can download our official app, which contains more detailed application procedures.
+Speaker2: Okay, I will download it. Thank you.

@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, this is Xiao Li's fast food, you ordered food from us before, now there's a new activity, do you want to know more about it?
+Speaker2: Hey, can you, you guys have something new activity?
+Speaker1: Do you want to try some of our new menu items that are on sale now?
+Speaker2: What is the new dish that sounds so good?
+Speaker1: We have newly introduced spicy crab and ginger white flowers, which are very popular, you can try them.
+Speaker2: Okay, how can I participate in this activity?
+Speaker1: You can order online through our website or app, select the menu items for the activity, and the system will automatically deduct the price at checkout.
+Speaker2: Okay, I'll take a look. Got it, what's the estimated delivery time for your food?
+Speaker1: In general, we will deliver within 30 minutes after ordering, but the specific time may be adjusted based on actual circumstances.
+Speaker2: I understand, thank you for your introduction, I'll try it later.
+Speaker1: Okay, we're waiting for your order. If you have any questions, feel free to contact us anytime. Have a happy life, bye.

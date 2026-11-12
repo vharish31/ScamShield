@@ -1,0 +1,13 @@
+Speaker1: Hello, how can I help you at the Beijing Nissan Sales Center?
+Speaker2: Hello, I want to know more about the configuration and price of the new scenery.
+Speaker1: Okay, the Touring is one of our most popular car models. Are you considering buying the Touring 1.5 version?
+Speaker2: Yes, the lowest configuration.
+Speaker1: The lowest configuration of the T-car type, the full-price landing price is approximately 20,000 yuan left and right, and we still have some discount activities in our store.
+Speaker2: Is there a plan for buying a car with a loan?
+Speaker1: Yes, we provide various loan schemes, you can choose the down payment ratio and loan term, the specific scheme can be discussed in detail at the store.
+Speaker2: When is it convenient for me to go to the store and take a look?
+Speaker1: We are open from Monday to Sunday. You can choose a convenient time, and I will help you make an appointment.
+Speaker2: Can I come at three in the afternoon on Saturday?
+Speaker1: Sure, I'll arrange for a sales representative to meet you on Saturday at 3 pm. Is there anything else I can help you with?
+Speaker2: No longer available, thank you.
+Speaker1: Please wait for your arrival, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Which community do you live in?
+Speaker2: Hello, I live in Happiness Garden, are you here to deliver something?
+Speaker1: Okay, I have a package to send to you. Can you please provide me with your specific address?
+Speaker2: I'm on the fourth floor, second unit, room 602. Call me when you arrive at the door.
+Speaker1: Okay, I'll be there in about half an hour. Just keep an eye on your phone.
+Speaker2: Okay, no problem, I will pay attention. Right, can you help me carry the paper towels up?
+Speaker1: Sure, but I don't have cash on me, do you have WeChat Pay?
+Speaker2: Okay, when you arrive, I'll scan you with WeChat.
+Speaker1: Okay, I'll bring you a bag, see you later.
+Speaker2: Okay, thank you, be careful on the road.

@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am Xiao Zhang, I want to consult your fitness courses.
+Speaker2: Hello, little Zhang, I am health center service small Li, very happy to serve you. What courses do you want to know?
+Speaker1: Can you tell me about your yoga courses and if there have been any recent discount activities?
+Speaker2: We recently had a discount promotion for our yoga classes, originally priced at 300 yuan per class, now only 200 yuan, and if you take ten consecutive classes, you'll get an additional discount.
+Speaker1: Does it sound good? Then do I need to book the class time in advance?
+Speaker2: Yes, to ensure you can attend your desired course, we recommend you book in advance. You can do so directly through our app or by phone.
+Speaker1: Okay, can I make a reservation for an afternoon yoga class tomorrow?
+Speaker2: Of course, I can help you check the schedule for your classes tomorrow afternoon. What specific time do you want to reserve?
+Speaker1: About three in the afternoon.
+Speaker2: Okay, I checked and there's a yoga class at 3 pm. I can help you book it. Do you need me to confirm your personal information?

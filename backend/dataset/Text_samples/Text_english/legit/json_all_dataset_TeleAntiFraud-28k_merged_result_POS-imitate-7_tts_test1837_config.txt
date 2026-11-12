@@ -1,0 +1,7 @@
+Speaker1: Hello, how are you? I am a customer service representative from the courier company. Your package was delivered to the community's express box this morning, but you haven't come to pick it up yet. I am reminding you here.
+Speaker2: Oh, is that so? I'm quite busy today and didn't notice. Can I go now to pick it up?
+Speaker1: You can pick up your package at the express counter within 24 hours of delivery, even if you come after work.
+Speaker2: Okay, thank you for your reminder. I will go get it quickly.
+Speaker1: You're welcome. If you have any other questions, you can contact our customer service hotline anytime. Have a happy life!
+Speaker2: Okay, thank you again. Goodbye.
+Speaker1: Goodbye, wish you all the best.

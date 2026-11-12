@@ -1,0 +1,15 @@
+Speaker1: Hey, hi, I'm little king, I booked repair service yesterday online, want to confirm time?
+Speaker2: Hello, Mr. Wang, I am customer service representative Li, what time is your repair service scheduled?
+Speaker1: I have an appointment at 3:30 PM today.
+Speaker2: Okay, I'll check. Please wait for a moment.
+Speaker1: Okay, can you help me?
+Speaker2: Found it, your appointment time is today at 3:30 PM, we will be on time to serve you.
+Speaker1: Okay, what do I need to prepare?
+Speaker2: Just make sure the appliances that need maintenance are in a convenient location, and there's nothing else you need to prepare.
+Speaker1: I understand, thank you. Will the maintenance personnel bring tools?
+Speaker2: Yes, our maintenance personnel will bring all necessary tools and parts.
+Speaker1: Okay, I'll wait for them in the afternoon. And, if the repair requires additional parts, will there be an extra fee?
+Speaker2: If you selected the package with parts replacement during booking, you won't be charged extra. If not, there might be some extra cost for parts replacement.
+Speaker1: I remember it, thank you for your patience in answering.
+Speaker2: No problem, feel free to contact us anytime. Have a nice day, bye.
+Speaker1: Goodbye.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: I'm little Zhang, yesterday I made an appointment for your hair service, want to confirm the time
+Speaker2: Hello little Zhang, is your appointment tomorrow at 3 pm?
+Speaker1: Yes, that's tomorrow afternoon at three o'clock. I just checked, that time I might be late a little.
+Speaker2: No problem, you can be late a little, we will save a spot for you here.
+Speaker1: Okay, thank you, I'll probably arrive at four o'clock.
+Speaker2: Okay, we'll meet at four o'clock. If there are any changes, please inform us in advance.
+Speaker1: Okay, I will, thank you, bye.
+Speaker2: See you, looking forward to your arrival

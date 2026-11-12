@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I saw the information you posted on the job website, are you looking for a part-time job?
+Speaker2: Yes, I've been looking for some part-time job opportunities recently.
+Speaker1: Do you want to know more about the coffee shop server position on this side?
+Speaker2: That's great, I had similar part-time experience before.
+Speaker1: That's great, our coffee shop is located next to the city park, the environment is very good.
+Speaker2: The sound is good, I live in Xicheng District, how can I come over more conveniently?
+Speaker1: You can take the subway line 2 from Xicheng district to Dongcheng district, transfer to line 3, get off at the city park station, and you'll be at our coffee shop.
+Speaker2: I understand, this location is quite convenient for me.
+Speaker1: Can you come for an interview at two o'clock in the afternoon tomorrow?
+Speaker2: Okay, tomorrow afternoon at two o'clock, I will arrive on time.
+Speaker1: Okay, see you later.
+Speaker2: Okay, thank you. Bye.

@@ -1,0 +1,14 @@
+Speaker1: Hello, nice to meet you, I am the construction bank customer manager, Li.
+Speaker2: Hello, are you building a construction bank?
+Speaker1: Yes, we have a special loan product that's perfect for you here. The loan amount is high, the interest rate is low, and the approval process is fast. Have you recently had any financial needs?
+Speaker2: Loan, I am still considering.
+Speaker1: That's great! There's an extra discount for applying now, you can take a look first, it's just a simple application form.
+Speaker2: How to apply?
+Speaker1: You can click this link, we have a dedicated application page, very convenient, operation is also very simple.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you fill out the application form, our staff will contact you as soon as possible. Also, have you recently encountered any issues with lost packages or faulty products?
+Speaker2: What do I do if my package is lost?
+Speaker1: Oh no, it's really not convenient, I can help you process the refund here, just provide your order number and contact phone, we will have a dedicated customer service person help you with the refund.
+Speaker2: Okay, how can I provide this information?
+Speaker1: You can directly fill out the form in this link, and we will process it quickly.
+Speaker2: Okay, thank you.

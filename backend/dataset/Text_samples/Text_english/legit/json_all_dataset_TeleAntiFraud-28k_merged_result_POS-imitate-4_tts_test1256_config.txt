@@ -1,0 +1,11 @@
+Speaker1: Hello, I'm small Li, you are the property manager of your community.
+Speaker2: Hello, little Li, I am Zhang Xiang from the third floor.
+Speaker1: John, do you need any help with anything?
+Speaker2: Can you come take a look at my water pipe? It seems to be leaking a little.
+Speaker1: Okay, Mr. Zhang, I'll send someone over to check it out right away.
+Speaker2: Sorry to bother you, it's already late at night, no rush.
+Speaker1: No problem, this is what we should do. Is it convenient in the morning tomorrow?
+Speaker2: I can meet you tomorrow morning around ten.
+Speaker1: Okay, Mr. Zhang, we will arrive on time at 10 am tomorrow.
+Speaker2: Okay, thank you. Goodbye.
+Speaker1: Goodbye, Mr. Zhang.

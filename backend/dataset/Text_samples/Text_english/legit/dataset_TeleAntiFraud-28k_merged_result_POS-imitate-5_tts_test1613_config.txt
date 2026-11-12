@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can you inquire about any suitable part-time jobs here?
+Speaker2: Okay, what specific job are you interested in?
+Speaker1: Can you introduce the responsibilities of this position to the new employees you see?
+Speaker2: Of course, administrative staff are mainly responsible for organizing files, answering phones and taking meeting minutes, which requires certain computer skills and good communication skills.
+Speaker1: How is the work schedule arranged?
+Speaker2: Work hours are generally from 9 am to 6 pm, weekends are double rest, but can be adjusted according to actual circumstances.
+Speaker1: What about the salary and benefits?
+Speaker2: In terms of salary, we will provide a basic wage plus a performance bonus. The specific amount can be further discussed during the interview.
+Speaker1: Okay, what materials do I need to prepare for the application?
+Speaker2: You need to prepare a personal resume. If you have relevant certificates or work certifications, you can bring them along too.
+Speaker1: I understand, thank you for your detailed answer, I will quickly prepare materials.
+Speaker2: No problem, feel free to contact me if you have any other questions, wish you all the best.

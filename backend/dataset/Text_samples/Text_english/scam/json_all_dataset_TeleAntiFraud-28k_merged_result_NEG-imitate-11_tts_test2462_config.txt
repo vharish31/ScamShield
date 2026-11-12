@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang San?
+Speaker2: Yes, hello, who are you?
+Speaker1: I am the manager of the bank, we noticed you have been looking for a loan recently, we have a product that suits you, it can provide a 50,000 no collateral loan, are you interested in learning more?
+Speaker2: Really? I really need to turn over some cash recently.
+Speaker1: Yes, this loan product is very flexible, no collateral is required, just need to provide some basic information. To help you understand the details more clearly, we can add a WeChat, I will send the information to you through WeChat, how about it?
+Speaker2: Can I add you on WeChat? But how do I know you're a legitimate bank?
+Speaker1: We are a legitimate bank, you can query my information through the official website. After adding WeChat, I will send you my work certificate and the bank's authorization document, so you can rest assured.
+Speaker2: Okay, my WeChat number is 1234.
+Speaker1: Okay, I'll add you right away. Also, to speed up the loan approval process, you can prepare your identity card and bank statements in advance, and we will process it quickly.
+Speaker2: Okay, thank you for your help.

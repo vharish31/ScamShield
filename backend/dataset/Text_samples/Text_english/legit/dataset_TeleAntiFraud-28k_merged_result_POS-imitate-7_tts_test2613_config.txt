@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What can I help you with?
+Speaker1: Hi, I'm little Zhang. Can you tell me about your restaurant's special dishes and business hours?
+Speaker2: Hello, little Zhang. Our restaurant's special dishes include red braised pork, steamed fish and gong bao chicken, very popular. Our business hours are from 10 am to 10 pm.
+Speaker1: Sure, can I reserve a seat for 7 pm tomorrow evening?
+Speaker2: Of course, the 7:00 PM spot has already been reserved for you tomorrow night. How many positions do you need to reserve?
+Speaker1: Four of us.
+Speaker2: Okay, the four seats have been reserved for you. See you tomorrow night at seven. Looking forward to your arrival.
+Speaker1: Okay, thank you. And do you have a parking lot?
+Speaker2: Yes, there is a free parking lot next to our restaurant. You can directly drive over.
+Speaker1: Goodbye, see you tomorrow.
+Speaker2: See you tomorrow, wish you a happy day.

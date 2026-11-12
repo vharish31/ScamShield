@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm little Li, I reserved a table for tomorrow at noon at your place, just want to confirm.
+Speaker2: Hello, little Li, what time slot did you book?
+Speaker1: The reservation is for twelve o'clock in the afternoon for four people.
+Speaker2: Okay, I found it, your 4-person table at 12 o'clock, please come a little earlier, it's pretty crowded here at noon.
+Speaker1: Okay, I will arrive ten minutes early. And can we prepare a few appetizers in advance?
+Speaker2: Sure, what do you want to prepare in advance?
+Speaker1: I'd like to order your hot and sour fish with tofu, spicy kung pao chicken, and a vegetable dish, please.
+Speaker2: Okay, we will prepare these few dishes in advance to make sure you can have them as soon as you arrive. Is there anything else you need help with?
+Speaker1: Thanks for your arrangement, sorry for the inconvenience.
+Speaker2: You're welcome, please feel free to contact us if you have any questions. Have a nice day. Goodbye.
+Speaker1: Goodbye, thank you.

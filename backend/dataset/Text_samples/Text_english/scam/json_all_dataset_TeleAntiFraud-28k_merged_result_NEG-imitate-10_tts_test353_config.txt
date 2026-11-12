@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Huaxin Bank customer service center. I am customer service manager Li Huai. Is it Mr. Zhang?
+Speaker2: Yes, hello.
+Speaker1: Mr. Zhang, we have noticed some unusual transactions in your bank account recently, for the safety of your account, we need you to cooperate with us for an identity verification.
+Speaker2: Okay, what do I need to do now?
+Speaker1: Please click on the link in the text message we sent, follow the instructions, enter your bank card number and verification code.
+Speaker2: Okay, I received the text message, now I'm going to operate.
+Speaker1: Okay, Mr. Zhang, if you encounter any issues during the operation, please feel free to contact us anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, for your financial safety, we suggest you complete verification ASAP.
+Speaker2: Okay, I will process it quickly.

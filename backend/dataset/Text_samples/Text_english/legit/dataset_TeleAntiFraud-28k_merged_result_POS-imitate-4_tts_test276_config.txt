@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at the subway station entrance, can't find the way to your house anymore.
+Speaker2: Hello, after getting off the subway station, walk to the right and turn left at the first red and green light.
+Speaker1: Okay, I saw the red light, do I walk straight after turning?
+Speaker2: Okay, walk straight to the second crossroad, you will see a big advertisement board, then turn right.
+Speaker1: Okay, I noted that, then turn right?
+Speaker2: Turn right and keep walking, about three hundred meters, you will see a small community entrance, that's my home.
+Speaker1: Okay, I see the entrance of the community, is it the first door?
+Speaker2: Yes, it's the first door. After entering, walk to the left, and you'll reach my apartment building at the end.
+Speaker1: Okay, I understand, thank you for your guidance, I'll be there soon.
+Speaker2: No problem, be careful on the road, give me a message when you arrive.

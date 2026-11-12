@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Xiao Zhang, the customer service representative of Yongan E-commerce Platform. We noticed that there might be an issue with one of your orders, so please cooperate to handle it.
+Speaker2: What problem?
+Speaker1: One of your packages was accidentally lost during transportation. In order to process a refund, please provide us with your order number.
+Speaker2: Okay, my order number is one two three four five six seven eight nine zero.
+Speaker1: Okay, I have recorded it down. For convenience, you need to download our special app, which can handle the refund process more quickly inside.
+Speaker2: How to download?
+Speaker1: You can click this link, the link will automatically redirect to the download page.
+Speaker2: I clicked, why is the download page so slow?
+Speaker1: It might be a network issue. You can try clicking again or wait a bit and try later. If you're not convenient, you can add my WeChat, I'll guide you.
+Speaker2: Okay, let's add each other on WeChat.

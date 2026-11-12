@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you recruiting on that side?
+Speaker2: Hire, we need hands right now
+Speaker1: How much is the salary?
+Speaker2: The minimum salary is 7400, and there is a bonus for good performance.
+Speaker1: How is the bonus calculated?
+Speaker2: Performance evaluation is conducted monthly based on achievements.
+Speaker1: What is the working hours?
+Speaker2: From 9 am to 6 pm, weekend double rest
+Speaker1: What materials do I need to prepare for joining?
+Speaker2: Identity card, diploma, resume

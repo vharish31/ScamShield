@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform. Your order is ready. It will take about ten minutes to deliver.
+Speaker2: Okay, thank you.
+Speaker1: No problem, are you in the happy community?
+Speaker2: Yes, I'm waiting at the door of the Happy Community.
+Speaker1: Okay, the delivery person will contact you directly, pay attention to answer the phone.
+Speaker2: Okay, I understand.
+Speaker1: Do you need any more help?
+Speaker2: No more, thank you.
+Speaker1: Okay, wish you enjoy your meal, bye.
+Speaker2: Goodbye.

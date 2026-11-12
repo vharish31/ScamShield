@@ -1,0 +1,11 @@
+Speaker1: Hello, this is Li Xiao, a customer service representative at the Commercial Bank of China, and this is the Commercial Bank of China's Tianhe Branch. There is important information that needs to be notified to you.
+Speaker2: Hello, what information are you looking for?
+Speaker1: We found some unusual transactions in your account. To ensure the safety of your funds, we need you to cooperate with us for a security verification.
+Speaker2: How to verify?
+Speaker1: You need to click on the link we send to you, fill in the relevant information, and we will generate a safe code for you.
+Speaker2: Okay, I'll go do it later.
+Speaker1: Okay, to quickly solve the problem, please operate quickly. Additionally, we also have a limited time discount activity, if you register now, you can enjoy additional benefits.
+Speaker2: What benefits?
+Speaker1: After registering, we will provide you with a personal investment advisor to help you with financial management and there's a chance to earn high cashback.
+Speaker2: Sounds good, I'll go do it right away.
+Speaker1: Okay, feel free to contact me if you have any questions. Wishing you all the best.

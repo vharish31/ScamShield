@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little Zhou, this is the speed loan service center. We noticed you recently have a need for cash flow. We can provide you with a low interest loan, no collateral required, simple procedures, quick disbursement, are you interested in learning more?
+Speaker2: Hello, what are the conditions for this loan?
+Speaker1: Okay, just provide your ID info and work proof, and we'll quickly approve it. Our approval speed is very fast, basically within the day we can disburse the funds.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: It's very simple. Just download our official app, register an account, and submit the relevant information. If you're not convenient right now, I can send you a link, and you can directly click on the link to enter the application page.
+Speaker2: Send me the link, I'll take a look.
+Speaker1: Okay, just a moment, I'll send it over to you right away. Additionally, to ensure your funds are safe, we need you to provide a verification code. This verification code will be sent to the phone number you just provided, please let me know once you receive it, and we can proceed with the next step.
+Speaker2: Okay, I'm waiting.
+Speaker1: I have already sent you the verification code, it's a six-digit number, please check it.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you, we have recorded everything down, just click on the link I sent you and follow the instructions on the page. If you encounter any issues during the process, feel free to contact me anytime.

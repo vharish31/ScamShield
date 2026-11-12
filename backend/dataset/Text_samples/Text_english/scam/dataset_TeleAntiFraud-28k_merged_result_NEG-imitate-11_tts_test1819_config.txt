@@ -1,0 +1,12 @@
+Speaker1: Hello, nice to meet you, I am Lee, from the Agricultural Bank of China, Signing Center.
+Speaker2: Hello, Li Manager, what do you have?
+Speaker1: That's right, we noticed you recently inquired about loan information on our bank's activity page, and now there's a great low-interest loan project with monthly interest of only two cents, which is perfect for you.
+Speaker2: Hmm, this sounds good, but I'm not familiar with loans, can you explain specifically?
+Speaker1: Of course. This loan project is mainly for customers with stable income, such as those who have purchased social security. We can first do a preliminary credit check. If you meet the conditions, we will send you a link to your phone, and you can learn the detailed terms of the loan through the link.
+Speaker2: Okay, what information do you need me to provide?
+Speaker1: We need your name, ID number, and phone number. So we can create a temporary account for you in the system, which will be convenient for you to check information later.
+Speaker2: Is it safe? I am concerned about personal information leakage.
+Speaker1: Don't worry at all, our bank has very strict information security measures, your information will be handled carefully. Besides, this link is specially generated for you, very safe.
+Speaker2: Alright, I trust you guys. My name is Zhang Ming, my ID number is 123456789012345678, and my phone number is 13800138000.
+Speaker1: Okay, Zhang Ming, we have recorded your information. You will receive a text message shortly with a link and verification code. Please click on the link to check the details and enter the verification code to complete the verification. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you Li Jingli, I will pay attention to checking messages.

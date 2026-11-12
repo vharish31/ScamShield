@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you? I am a customer service representative from Zhiliang Jiaju. Do you have any recent home renovation needs?
+Speaker2: Hello, I recently considered renovating my house, can you introduce your services to me?
+Speaker1: Of course, we provide a one-stop-shop service from design to construction, including style design, material selection, construction supervision, and so on. What is your specific preference for decoration style?
+Speaker2: I prefer simple modern style, not too complicated, but with balance.
+Speaker1: Okay, we have many successful cases of simple modern style, we can design according to your needs and budget, can you roughly understand your budget range?
+Speaker2: The budget is approximately 20,000, but it's unclear how much decoration can be done within this budget.
+Speaker1: A budget of 20,000 can complete a middle-sized renovation project, including basic renovation and some custom furniture, we can arrange for a designer to talk to you, and plan in detail.
+Speaker2: Can you come to my basement at a convenient time?
+Speaker1: Can we all work on weekdays this week? Which day do you think is most convenient?
+Speaker2: How was it around 3 pm on Thursday afternoon?
+Speaker1: On Thursday afternoon at 3 PM, I will let the designer arrive early, and you can prepare the flat plan at home, and we can discuss the design plan on site.
+Speaker2: Okay, that's settled then, see you on Tuesday.
+Speaker1: Looking forward to working with you on Thursday. If you have any questions, please contact me anytime.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

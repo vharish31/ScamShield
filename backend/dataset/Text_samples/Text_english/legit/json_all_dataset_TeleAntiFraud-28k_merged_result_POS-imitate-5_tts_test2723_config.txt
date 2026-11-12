@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm little Zhang, I took a taxi to find you, are you at the tech building?
+Speaker2: Hey, okay, I'm at the tech building, come on quickly.
+Speaker1: Okay, I still have about fifteen minutes, wait for me a moment.
+Speaker2: Okay, no problem, just pay attention to safety on the road.
+Speaker1: Thanks, do you know any places to eat near the tech building?
+Speaker2: Yes, there are several good restaurants across the street from the tech building. What type do you want?
+Speaker1: Do you have any recommendations for something light and refreshing?
+Speaker2: The vegetarian restaurant is not bad, the environment is quite good, do you want to try it?
+Speaker1: Okay, let's go to the vegetarian restaurant. Sorry to bother you.
+Speaker2: No problem, you came, tell me one sound, I take you over there.

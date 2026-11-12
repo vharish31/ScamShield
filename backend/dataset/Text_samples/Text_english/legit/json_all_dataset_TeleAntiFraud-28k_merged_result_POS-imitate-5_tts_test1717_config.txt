@@ -1,0 +1,12 @@
+Speaker2: Hey, hello, this is Happy Shopping Mall, we confirm your just placed order
+Speaker1: Okay, you say.
+Speaker2: The pink stuffed animal you bought is out of stock. Do you want another color?
+Speaker1: Are there other colors?
+Speaker2: Yes, we also have blue and yellow stuffed animals, can you see them?
+Speaker1: Is the blue one the same price?
+Speaker2: Yes, the price is the same, all of them are fifty yuan.
+Speaker1: Okay, let's change it to blue.
+Speaker2: Okay, I'll make the changes now. I estimate I can deliver it tomorrow afternoon. Is that okay with you?
+Speaker1: Sure, thank you.
+Speaker2: You're welcome. If you have any other questions, feel free to contact our customer service anytime. Goodbye.
+Speaker1: Goodbye.

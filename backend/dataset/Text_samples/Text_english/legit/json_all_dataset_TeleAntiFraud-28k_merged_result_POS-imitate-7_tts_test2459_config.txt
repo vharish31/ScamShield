@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's special dishes and prices?
+Speaker2: Of course, our menu here has red braised pork, steamed fish and palace vegetable chicken, priced at 120 yuan, 150 yuan and 110 yuan respectively.
+Speaker1: The sound is good, are these dishes big in portion size? Suitable for several people to eat?
+Speaker2: Each portion of food is quite large, three portions are suitable for four to six people.
+Speaker1: Okay, I plan to take my family out on Saturday night this week. Do I need to make reservations in advance?
+Speaker2: I suggest you book in advance, Saturday night may be busy. Please tell me the specific time and number of people, I will reserve a spot for you.
+Speaker1: Okay, we are six people, planning to arrive at seven o'clock.
+Speaker2: Okay, I have reserved a six-person table for you at 7 pm on Saturday evening. Please report your name when you arrive.
+Speaker1: Thanks for your help.
+Speaker2: You're welcome. I'm looking forward to your visit. If you have any other questions, feel free to contact me anytime.

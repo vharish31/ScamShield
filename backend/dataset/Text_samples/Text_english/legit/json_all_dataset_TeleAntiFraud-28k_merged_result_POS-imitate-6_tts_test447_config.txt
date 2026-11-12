@@ -1,0 +1,14 @@
+Speaker1: Is it convenient for you to talk over there?
+Speaker2: Sure, you say, what's up?
+Speaker1: I recently wanted to change jobs, and saw your company's job postings, so I want to know more about the specifics.
+Speaker2: Hey, did you see our job posting? Which position are you interested in?
+Speaker1: I want to know the specific job duties and benefits of a market marketing specialist.
+Speaker2: Marketing specialists are mainly responsible for market research, customer relationship maintenance, and activity planning execution. In terms of benefits, we provide five-insurance-one-golden, and year-end awards.
+Speaker1: What is your work schedule like?
+Speaker2: Work hours are standard from 9am to 5pm, weekends are double rest days, and overtime will be given according to national regulations.
+Speaker1: Can I schedule an interview time?
+Speaker2: Of course, you can choose either 2 pm tomorrow or 10 am the day after, which time is more convenient for you?
+Speaker1: I'll choose tomorrow morning at 10am, thank you.
+Speaker2: Okay, tomorrow morning at 10 o'clock, remember to bring your resume and related documents. Then we'll meet.
+Speaker1: Okay, thank you, bye.
+Speaker2: Goodbye.

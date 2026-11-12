@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Li, I saw your rental info online, can you tell me more about the specifics?
+Speaker2: Hello, yes, I have a house for rent here, when do you have time to come take a look?
+Speaker1: That's great, can I have some time in the afternoon around four o'clock?
+Speaker2: Okay, let's meet at four o'clock this afternoon. I'll wait for you at home.
+Speaker1: Okay, what's the address?
+Speaker2: The address is Happiness Villa No. 3, Building 1, Unit 402. You can call me when you arrive, I'll come down to meet you.
+Speaker1: Okay, I know. So, how much is the rent?
+Speaker2: Rent is 2500 yuan per month, deposit is one month's rent upfront, and utilities are self-paid.
+Speaker1: What is the property fee?
+Speaker2: The property fee is one hundred yuan per month, and this is also self-responsible.
+Speaker1: Understood, I will arrive on time in the afternoon. Thank you for your cooperation.
+Speaker2: No problem, see you in the afternoon.

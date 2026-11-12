@@ -1,0 +1,12 @@
+Speaker1: Hello, this is the customer service of AliExpress Global Fast Trade, I am customer service representative Li Xiaowei.
+Speaker2: Hello.
+Speaker1: The system shows that there was an issue with the recent products you purchased on our platform, and we need to process a refund for you.
+Speaker2: Really? Then what do we do now?
+Speaker1: To ensure a smooth refund process, please download our official app first, which will make it quicker to handle.
+Speaker2: Okay, I download the app.
+Speaker1: After downloading, please open the APP and enter your order number and phone number, then click confirm.
+Speaker2: Okay, I'll follow along.
+Speaker1: Okay, you will receive a verification code. Input the verification code and the system will automatically process the refund.
+Speaker2: I received the verification code and have already entered it.
+Speaker1: Thank you very much for your cooperation. Your refund will be processed within 24 hours. If you have any questions, please feel free to contact me anytime.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hi, I'm the Zhonghua Lu Xiǎohóu Kǎiche, and I see you're following us online. What do you think about our car?
+Speaker2: Hello, I'm mainly looking at the payment plan for installments, and I'm still considering it.
+Speaker1: I understand, our car model's installment payment plan has many advantages, such as P zero three car model's installment interest rate is two point nine nine, M seven plus's interest rate is two point seven nine, what do you think?
+Speaker2: Hmm, I saw it, the two car models' installment plans are really good.
+Speaker1: Do you have time to come to the store and take a look at the real cars? Maybe you'll have a different feeling after experiencing it in person.
+Speaker2: I have already seen the car, but I still have some doubts about the payment plan.
+Speaker1: Okay, what's your specific question? I can give you a detailed answer.
+Speaker2: What is the approximate monthly payment amount if I choose a five-year repayment plan?

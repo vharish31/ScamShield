@@ -1,0 +1,14 @@
+Speaker1: Hello, are you the AYUN car rental service?
+Speaker2: Hello, yes, this is A Yun rental car service, what can I help you with?
+Speaker1: I rented a car from you guys yesterday, but when I tried to return it today, I found that there was no return car option on the app, I called several times but no one picked up, the car is now parked at the east big street parking lot.
+Speaker2: Oh, I know this situation, last night our customer service center was already closed, so maybe you didn't get my call. But don't worry, I recorded your situation, we will handle it quickly.
+Speaker1: Is there anyone available now to handle it?
+Speaker2: Of course, we have already dispatched workmen to the East Big Street Parking Lot to handle it, and it should be solved soon.
+Speaker1: How long can I leave?
+Speaker2: In general, our employees will complete paperwork within 30 minutes of arriving, you can wait a moment.
+Speaker1: Okay, can I wait for a moment? Also, is today's car rental time included in my rental period?
+Speaker2: No problem, we have already recorded your situation, we will calculate according to your original return time, no extra charge.
+Speaker1: That's great, thank you for your understanding.
+Speaker2: No problem, please feel free to contact us anytime if you have any questions. We hope to see you again next time when you choose our Aoyun car rental service.
+Speaker1: Okay, thank you, bye.
+Speaker2: Goodbye, wish you a happy day!

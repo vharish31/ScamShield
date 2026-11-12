@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: Hello, I am the customer service of the food delivery platform, you ordered food from us before, now you have a discount coupon to send to you.
+Speaker2: Oh, really? That's great.
+Speaker1: Yes, this coupon can be used for a 50 yuan discount, valid until Sunday.
+Speaker2: Can I use it now?
+Speaker1: Of course, you can place an order now, I can help you quickly complete the order here.
+Speaker2: Okay, what do you want to eat?
+Speaker1: Okay, you can take a look at our special recommendations, such as spicy hot pot and new seafood stir-fry, both are very popular.
+Speaker2: Let's try seafood fried rice.

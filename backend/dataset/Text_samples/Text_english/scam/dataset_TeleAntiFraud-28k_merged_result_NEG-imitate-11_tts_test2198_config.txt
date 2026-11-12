@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Sequoia Express customer service center, I am customer service representative Li Xiao, your package was accidentally lost during transportation, we deeply apologize.
+Speaker2: Oh, really? Then what do we do?
+Speaker1: To compensate for your loss, we have prepared a compensation amount, but you need to complete a simple verification process first.
+Speaker2: What is the verification process?
+Speaker1: Just click on the link we send, follow the on-screen instructions.
+Speaker2: How do I know this link is safe?
+Speaker1: Relax, this is our official link, very safe. To prove it, here's a verification code: 123456, just input it and you can start operating.
+Speaker2: Okay, let me try.
+Speaker1: Okay, thank you for your cooperation. If you have any issues during the operation, please feel free to contact me anytime. My phone number is 12345678901.
+Speaker2: Thank you, I'll go operate now.

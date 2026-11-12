@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, I reserved a spot for you at your store tonight at six.
+Speaker2: Hello, Small Li, we have reserved a place for you here, is it Small Li?
+Speaker1: Yes, it's me.
+Speaker2: Okay, you arrived, you can directly go to the front desk to sign up, we will guide you to your seat.
+Speaker1: Okay, thank you. Is it necessary for me to order ahead if my friend might be late?
+Speaker2: You can first order some appetizers, and then order the main course when your friend arrives, this way you can ensure the freshness of the food.
+Speaker1: Okay, then I'll order some cold dishes first.
+Speaker2: Okay, this arrangement is perfect. If you need anything at the restaurant, just let our waiter know.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: Good evening, I hope you have a pleasant dining experience. Goodbye.

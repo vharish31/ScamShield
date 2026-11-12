@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little king?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm little Li. Yesterday in the group I saw you mention wanting to know more about the new smartwatch, I happen to have a few here, you can come take a look.
+Speaker2: Are you sure? That's great, I've been thinking about buying a piece recently, when do you have time?
+Speaker1: Can you come over at three in the afternoon tomorrow?
+Speaker2: Okay, what's the address?
+Speaker1: The address is in the city center electronic city third floor, my store is called technology advanced.
+Speaker2: Okay, I know the place. See you tomorrow.
+Speaker1: Okay, see you tomorrow, don't forget to bring your ID, some brands require real name purchase.
+Speaker2: Got it, thanks for reminding me, see you tomorrow.

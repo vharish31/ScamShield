@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: Hey, are you Li Ming?
+Speaker2: Yes, who are you?
+Speaker1: Hey, I'm the little king of Tian Guang Bookstore, you left some info with us before saying you wanted to buy "Time's Simple History" book.
+Speaker2: Yes, I remember. Do you still have stock of this book?
+Speaker1: Okay, we still have five books. Can you come over and take them now?
+Speaker2: I'll be able to arrive around four in the afternoon.
+Speaker1: Okay, just come to our bookstore at the time, I will prepare the books for you.
+Speaker2: Okay, thank you, see you later.
+Speaker1: No problem, see you later.

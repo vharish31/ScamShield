@@ -1,0 +1,15 @@
+Speaker1: Hello
+Speaker1: Hello, I am the happy square electric city, can I help you with the air conditioner?
+Speaker2: Yeah, do you have any air conditioners that would fit in a small room?
+Speaker1: There is a great hanging machine here, very suitable for small rooms, and the price is very reasonable.
+Speaker2: How much does this air conditioner cost?
+Speaker1: This air conditioner was originally priced at 3600 yuan, but now there's a promotion, and it's on sale for 90% off, so it only costs 3240 yuan.
+Speaker2: How do you charge for installing services?
+Speaker1: The installation of the service is free, we provide on-site installation service, including drilling, wiring, etc., you just need to prepare the power outlet.
+Speaker2: Okay, when can I go to the store to take a look?
+Speaker1: You can come anytime, our business hours are from 9am to 8pm.
+Speaker2: Can I go at three in the afternoon tomorrow?
+Speaker1: Okay, tomorrow afternoon at three o'clock, I will be waiting for you at the store.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, I'm looking forward to your arrival, goodbye.
+Speaker2: Goodbye.

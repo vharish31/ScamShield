@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Little Wang, this is the customer service representative of Happy Mall.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed that the product you bought from our mall recently had quality issues, and we're ready to process a refund for you.
+Speaker2: Oh, really? That's great.
+Speaker1: Yes, to quickly process the refund, you need to first download our official app, which will make it easier to handle the refund process.
+Speaker2: Okay, how do I operate the app after downloading it?
+Speaker1: After downloading the app, register and log in, then click 'Refund Request' and fill in the relevant information. We will process immediately.
+Speaker2: No, I don't need to provide bank card information.
+Speaker1: No need, our system will handle automatically, but for verifying your identity, you may need to input bank card last four digits.
+Speaker2: Okay, I'll go download it now.

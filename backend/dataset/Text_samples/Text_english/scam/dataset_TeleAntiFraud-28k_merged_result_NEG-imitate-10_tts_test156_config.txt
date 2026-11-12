@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service representative from Tianhai Technology. Have you recently purchased any products on our platform?
+Speaker2: Yeah, that's right, I recently bought a computer.
+Speaker1: Okay, we found out that the computer you bought may have some quality issues, to protect your rights, we need to process a return and refund for you.
+Speaker2: Is that so? How can it be handled then?
+Speaker1: Just click on the link we send to you and follow the instructions to complete the refund.
+Speaker2: How do I know this link is safe?
+Speaker1: This link is our official one, absolutely safe, you clicking it will directly jump to our refund page.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your name, phone and bank card number, we will immediately process your refund.
+Speaker2: Okay, I'll go operate.

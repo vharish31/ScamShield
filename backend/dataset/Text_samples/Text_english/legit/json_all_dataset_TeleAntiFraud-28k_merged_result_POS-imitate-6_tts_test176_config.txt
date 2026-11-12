@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from some electronics company. I see that you have a lot of unused shopping points in your account, which will expire at midnight tonight.
+Speaker2: Really? This event didn't you hear about?
+Speaker1: Yes, these points are the ones you accumulated when you bought products before, and you can redeem a lot of cash with them.
+Speaker2: How come I didn't know about this?
+Speaker1: We usually send reminder SMS to users before their points expire, you might not have noticed.
+Speaker2: What can I buy with these points now?
+Speaker1: You can exchange various products with points, such as electronic products, home appliances, and discount coupons.
+Speaker2: How do I operate when using points to exchange?
+Speaker1: It's simple. Log in to our website or app, find the points mall, select the product you want, pay with points, and that's it.
+Speaker2: Okay, I'll try it out. Thank you for your reminder!

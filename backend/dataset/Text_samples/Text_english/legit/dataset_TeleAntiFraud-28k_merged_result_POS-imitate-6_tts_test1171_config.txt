@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to know more about your repair service.
+Speaker2: Hello, I am a service representative from the repair center. How can I assist you?
+Speaker1: I can't control the air conditioning at home anymore, can I go check it out by the door?
+Speaker2: Of course, can you tell me the specific address?
+Speaker1: Okay, the address is 17th Lighting Road, 3rd floor, 2nd unit, 602 room.
+Speaker2: Okay, I'll record it down. What time do you want us to come for door service?
+Speaker1: It's best if I have some time in the morning tomorrow.
+Speaker2: Okay, we'll arrange for someone to contact you to confirm the specific time tomorrow morning around 10 am.
+Speaker1: Okay, thank you. Is there a fee for on-site service?
+Speaker2: The first time we check a door is free. If maintenance is needed, the cost will be determined by the specific situation.
+Speaker1: I understand, so I'll wait for your call.
+Speaker2: Okay, you can contact us anytime if you have any questions. Have a nice life, bye.

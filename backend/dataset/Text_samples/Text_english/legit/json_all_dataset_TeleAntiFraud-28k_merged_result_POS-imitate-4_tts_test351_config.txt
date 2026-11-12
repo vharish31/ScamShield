@@ -1,0 +1,10 @@
+Speaker1: Hey, how have you been lately?
+Speaker2: Hey, how are you? Just been busy with work lately, how about you?
+Speaker1: Yeah, I've been pretty busy with my recent projects. Hey, do you have any free time this weekend?
+Speaker2: What are your plans for the weekend?
+Speaker1: Do you know of any good places to eat and relax?
+Speaker2: Let's try out this new restaurant. The environment is pretty good.
+Speaker1: What's the name of that restaurant?
+Speaker2: Call "Flavor Paradise," just on the side of the city center.
+Speaker1: That's great, I booked a seat in advance for the weekend.
+Speaker2: Okay, you book the seats in advance, we'll just go directly when the time comes.

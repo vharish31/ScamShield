@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I booked a room at your place. Can you confirm some info?
+Speaker2: Hello, I am the hotel's customer service, can I help you confirm your reservation information? What is your reservation name?
+Speaker1: I am Li Huai.
+Speaker2: Okay, I'll check... Li Huasheng, your reservation was successful. You reserved a standard room, check-in date is tomorrow, check-out date is later.
+Speaker1: Yes, I want to ask, how is breakfast arranged at the hotel?
+Speaker2: Our hotel provides free breakfast service from 7am to 9:30pm, located on the first floor restaurant of the hotel.
+Speaker1: Okay, what time do you arrive tomorrow? Does the hotel have shuttle service?
+Speaker2: We provide pick-up service, but need advance booking. If you can inform the exact arrival time, we can arrange it for you.
+Speaker1: Can you arrange airport pickup service for me around 2 pm?
+Speaker2: Okay, I will arrange airport pickup service for you. The pickup vehicle will arrive on time at the airport. If there are any changes, please contact us immediately.

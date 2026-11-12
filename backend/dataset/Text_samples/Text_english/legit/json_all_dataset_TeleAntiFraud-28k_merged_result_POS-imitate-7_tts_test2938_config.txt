@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I saw on JD that you guys are selling that smartwatch, can you tell me what functions it supports?
+Speaker2: Hello, this smartwatch supports heart rate monitoring, step count tracking, sleep analysis, and can connect to a phone to receive notifications.
+Speaker1: How long does the battery of this watch last?
+Speaker2: This watch's battery life is approximately one week, with specific times varying based on usage.
+Speaker1: Is this watch active now?
+Speaker2: Yes, now you can enjoy a 90% discount and also receive a free gift with purchase.
+Speaker1: That's great, I plan to buy a block. What's the delivery time?
+Speaker2: After placing an order, we will arrange delivery within 24 hours, usually within 3-5 days.
+Speaker1: Okay, thank you for your detailed answer. I'll place an order.
+Speaker2: You're welcome, feel free to contact us if you have any questions, happy shopping!

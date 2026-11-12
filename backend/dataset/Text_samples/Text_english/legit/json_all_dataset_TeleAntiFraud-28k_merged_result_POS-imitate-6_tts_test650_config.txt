@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Can you make an appointment for a haircut here?
+Speaker2: Is it okay, today or tomorrow?
+Speaker1: Do you have time this afternoon?
+Speaker2: Can you be free this afternoon at four o'clock?
+Speaker1: Can we meet at 4 o'clock? Do we need to arrive early?
+Speaker2: Please come ten minutes earlier, our address is Harmony Road 100, do you know how to get here?
+Speaker1: Can you tell me how to walk?
+Speaker2: Starting from the city center, walk along the Peace Road, and you'll see our sign after passing two red lights, it's easy to find.
+Speaker1: Okay, thank you, I'll meet you at four o'clock.
+Speaker2: Okay, meet at four o'clock, pay attention to safety on the road.

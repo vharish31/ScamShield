@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's special dishes and business hours?
+Speaker2: Our restaurant special dishes include Kung Pao Chicken, Steamed Fish and Stir-Fried Frog, all with a delicious taste, very popular. Our business hours are from 11 am to 9 pm.
+Speaker1: That sounds good, I want to book a private room this weekend.
+Speaker2: Okay, there will be more people on weekends, do you roughly know what time you'll come? Do you need to reserve a few seats?
+Speaker1: I reserved a table for four at 5:30 in the afternoon.
+Speaker2: Okay, 5:30, four seats, already reserved for you. Please come fifteen minutes early, so we can arrange for you.
+Speaker1: Sure, thank you. Moreover, can I order ahead, so I can go straight up when it's time?
+Speaker2: Sure, you can pre-order dishes by phone or our official WeChat in advance, and we will prepare them ahead of time.
+Speaker1: Okay, I will contact you in advance. Thank you.
+Speaker2: You're welcome! We're looking forward to your visit. Please feel free to contact us if you have any questions. Goodbye!

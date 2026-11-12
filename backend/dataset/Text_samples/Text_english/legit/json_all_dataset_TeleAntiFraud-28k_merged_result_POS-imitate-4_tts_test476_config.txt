@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hey, how have you been lately?
+Speaker2: Hello, how are you? What have you been up to lately?
+Speaker1: I'm doing well, lately my work has been pretty busy. What's new with you lately?
+Speaker2: I've recently started learning to cook, and I'm doing pretty well, so I'll give you a hand next time I have the chance.
+Speaker1: Really? That's great! I'm thinking of studying a few common dishes, let's teach you next time.
+Speaker2: Of course, you can just pick a time to come over.
+Speaker1: How was your weekend?
+Speaker2: Can we hang out this weekend? What time do you want to come over?
+Speaker1: 3 PM is good, but I might be late because I have some things to handle.
+Speaker2: No problem, I'll be ready when you arrive.

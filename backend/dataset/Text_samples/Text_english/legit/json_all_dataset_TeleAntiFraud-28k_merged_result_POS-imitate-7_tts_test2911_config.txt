@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm small Li, I want to consult your restaurant reservation service.
+Speaker2: Hello, I am restaurant server little king, what can I help you with?
+Speaker1: Can I reserve a spot for Saturday night? Is there still space available?
+Speaker2: Okay, let me check. On Saturday night, yes, we still have some places. How many people would you like to reserve a spot?
+Speaker1: What time can four of us arrive?
+Speaker2: We can reserve for you until 7 pm, if you are a little late, it's okay, but please don't be later than 7:30.
+Speaker1: Great, let's try to be on time. By the way, do you have any recommendations for dishes?
+Speaker2: Our restaurant's signboard menu has steamed sea bass and spicy pork, as well as a special cold dish, all of which are very popular.
+Speaker1: Let's book these dishes first, they sound great.
+Speaker2: Okay, I have reserved a four-person table for you at seven o'clock on Saturday night and noted down the menu you ordered. See you then.

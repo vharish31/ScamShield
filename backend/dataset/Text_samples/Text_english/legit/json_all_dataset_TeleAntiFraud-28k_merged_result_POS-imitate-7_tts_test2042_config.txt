@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm waiting for you at the exit of the subway station.
+Speaker2: Okay, I just got off the train, where are you at the exit?
+Speaker1: I'm at the second exit, there's a big billboard here, easy to find.
+Speaker2: Okay, I see the billboard now, let's go soon.
+Speaker1: You arrived, I'm waiting for your call.
+Speaker2: Okay, I know, see you later.
+Speaker1: Okay, see you later.
+Speaker2: Uh, did you bring an umbrella? It might rain today.
+Speaker1: Don't forget to bring an umbrella.
+Speaker2: Okay, thank you for reminding me, see you later.

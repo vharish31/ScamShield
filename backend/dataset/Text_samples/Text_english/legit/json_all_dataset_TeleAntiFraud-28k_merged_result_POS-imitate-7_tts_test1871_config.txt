@@ -1,0 +1,8 @@
+Speaker1: Hey, how are you? I'm little Zhang, don't know if you have time today, let's go strolling on the street?
+Speaker2: Hey, little Zhang, how are you? I'm a bit busy today, but I should have some time tomorrow, what are you up to tomorrow?
+Speaker1: Tomorrow, I'll be free too, what time will we meet at the old place tomorrow?
+Speaker2: Okay, how about two o'clock in the afternoon tomorrow at the old place?
+Speaker1: Okay, that's settled then. See you tomorrow.
+Speaker2: Hey, see you tomorrow, be careful on the road.
+Speaker1: Okay, you too. Bye.
+Speaker2: Goodbye.

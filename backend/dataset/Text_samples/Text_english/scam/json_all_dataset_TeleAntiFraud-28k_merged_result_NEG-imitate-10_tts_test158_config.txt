@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am from the Agricultural Bank Credit Center. Currently, we have a special loan project for users in Dongguan who have social security or public savings. Are you interested in learning more?
+Speaker2: Hey, I really need to turn over some cash lately, what are the conditions for your loan?
+Speaker1: It's very simple. As long as you have a stable income source and good credit, you can apply. To speed up the review process, please download our official app and fill out some basic information.
+Speaker2: Do you have the official download link for the app?
+Speaker1: Sure, I have a safe download link here. Just click on this link to download directly. The link is: http://example.com/download.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, after downloading, please choose the fast loan service and fill out the relevant information. Our customer service will contact you quickly. If you have any questions, you can call our customer service hotline anytime: 400-123-4567.
+Speaker2: Okay, I will pay attention. Thank you for your help.
+Speaker1: No problem, wish your loan goes smoothly. If you have any questions, feel free to contact us. Bye!
+Speaker2: Goodbye!

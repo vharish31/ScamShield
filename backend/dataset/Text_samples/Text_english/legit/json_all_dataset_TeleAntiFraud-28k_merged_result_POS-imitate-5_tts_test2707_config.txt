@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li. I saw you guys are hiring servers here. Can you tell me more details?
+Speaker2: Hello, I am the manager, we are indeed hiring servers here, do you have any specific questions?
+Speaker1: Can you tell me how work hours are arranged and what the salary and benefits are like?
+Speaker2: Our working hours are from 6am to 9pm, with two hours of rest in the middle. The salary is based on a fixed amount plus a commission, with the fixed amount being 2500 yuan and the commission depending on performance.
+Speaker1: What's the specific process for applying? Do I need to bring any documents?
+Speaker2: You can bring your ID and resume directly to our store, which is located in the food street of the central square, just find me when you arrive.
+Speaker1: Okay, what time would be most convenient for me to come?
+Speaker2: It's convenient for you, come over at 3 pm tomorrow afternoon. There will be fewer people then, we can have a detailed chat.
+Speaker1: Okay, I'll go at three o'clock in the afternoon tomorrow, thank you.
+Speaker2: No problem, see you tomorrow.

@@ -1,0 +1,9 @@
+Speaker1: Hello, how can I help you? This is Meituan Waimai customer service.
+Speaker2: Hello, I want to ask why my takeout hasn't arrived yet, I've been waiting for a long time.
+Speaker1: Can you please tell me your order number? I'll check it for you here.
+Speaker2: Okay, my order number is one two three four five six.
+Speaker1: Okay, just a moment, I'll check... Hmm, your takeout is delayed because the restaurant is slow, so it's a little late, we estimate it will take about twenty minutes to arrive.
+Speaker2: That's it, that's so annoying, thank you.
+Speaker1: No problem, if you have any other questions about your takeout, feel free to contact us anytime.
+Speaker2: Okay, thank you for your help, goodbye.
+Speaker1: Goodbye, wish you enjoy your meal.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I work at a pet store near you, we have some new pet products recently, do you want to know more about them?
+Speaker2: Hey, I recently want to buy some new toys for my cat at home, do you guys have any recommendations?
+Speaker1: Of course, we have a new cat scratching board with a new design, the cat loves it, and we also have several interactive toys that can improve your relationship.
+Speaker2: Can I go take a look?
+Speaker1: Of course, our store is at the intersection of Renmin Road and Guangming Street. When do you have time?
+Speaker2: Can I go over there around two in the afternoon tomorrow?
+Speaker1: No problem, tomorrow afternoon two o'clock, we'll wait for you here.
+Speaker2: Okay, thank you, see you tomorrow.
+Speaker1: No problem, see you tomorrow.

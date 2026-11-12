@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I am Lee Ming, this side is Shenzhen Science and Technology Development Limited Company's customer service representative, we noticed that you recently had some problems when shopping online, we have a special refund plan that can help you solve this problem, would you have time to listen to me introduce it?
+Speaker1: I have no issues, thank you.
+Speaker2: Is that so? That's great. But if you have any questions or need help, feel free to contact us anytime. For your convenience, we can add a WeChat, okay?
+Speaker1: Add WeChat and I will directly contact your customer service if there are any issues.
+Speaker2: Okay, okay. I'll send you a link. It has our customer service contact info. You can check it anytime you have questions. It's convenient and quick.
+Speaker1: No need to send links anymore, I can solve my own problems, thank you.
+Speaker2: Thank you so much, you are a master of independent problem-solving. If you really encounter a problem that cannot be solved, remember to come find us. Wish you all the best, goodbye!
+Speaker1: Okay, bye.

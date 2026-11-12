@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Liu?
+Speaker2: Hello, I am Liu Zhòng, who are you?
+Speaker1: Hello Liu, I am the client manager of Huaxia Bank, Wang. We noticed that your tech company recently has a need for capital rotation, so we have specially prepared a 50,000 low-interest entrepreneurial loan for you. Are you interested?
+Speaker2: Oh, really? I recently really need a penny, but I'm not very familiar with bank loans.
+Speaker1: Don't worry, Liu Zong, the loan process is very simple. Just provide some basic information, and once approved, the funds will be in your account the same day. We also have a dedicated app for you to track your loan progress anytime.
+Speaker2: How do I download this app that sounds good?
+Speaker1: Just click on this link to download our official app directly. The link is: [fake link], you can click download now, I'm waiting for you here.
+Speaker2: Okay, I'm going to download now.
+Speaker1: Hello Liu boss, after downloading is complete, please directly open the APP and input your phone number and verification code to start applying for a loan. If any issues arise, please contact me anytime.
+Speaker2: Okay, thank you, little king.

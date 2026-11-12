@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am the manager of the Agricultural and Commercial Bank, we recently introduced a special discounted loan product, interest rate is very low, only 2.9%, are you interested in learning more?
+Speaker2: I recently have a bit of a cash need, can you give me a detailed explanation?
+Speaker1: Of course, this product is very suitable for you. Firstly, you only need to provide your identity card and bank account number for approval. After approval, we will put the money in your account within 24 hours. Moreover, we also provide a special APP, through which you can easily manage your loan information.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: Great, just click on the link I sent you and download our app, then fill out the relevant information. I've also sent you a text message with the download link and instructions.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, you will receive a text message later. If you have any questions, feel free to contact me anytime. My phone number is 13800138000. You can call me directly if you have any questions.
+Speaker2: Thank you, I will contact you.

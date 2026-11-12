@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiao Zhang, this is Meituan Waimai customer service, have you recently encountered any issues on any food delivery platform and need help solving them?
+Speaker2: Hello, I don't have any questions, my orders are all going smoothly.
+Speaker1: That's great, but we recently received some user feedback saying that some orders have been delayed, in order to improve the service quality, we are currently inviting some users to participate in a special user experience plan, are you interested in learning more?
+Speaker2: What is the content of the user experience plan?
+Speaker1: That's it! To ensure your experience, we've prepared some small gifts. Just click a link, fill out some basic info, and you can get our gifts and help us improve our service.
+Speaker2: What does it sound like? How can I join in?
+Speaker1: Great, just click on this link, http://fake-link.com, follow the instructions and you're good to go. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much. If you have any questions or need help, please call this phone anytime, we provide 24-hour service.
+Speaker2: Okay, thank you for your help.

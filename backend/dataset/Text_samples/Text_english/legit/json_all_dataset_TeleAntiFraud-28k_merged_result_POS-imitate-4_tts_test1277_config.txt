@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you looking to rent a house in Five Eight City?
+Speaker2: Yes, is there really such an event, are you interested?
+Speaker1: Can you give me a detailed introduction of a place to live recently?
+Speaker2: Of course, this apartment is two bedrooms and one living room, located in the city center, convenient transportation, and the surrounding facilities are very complete.
+Speaker1: How much is the rent?
+Speaker2: Rent is three thousand yuan per month, including water and electricity, but not including property fees.
+Speaker1: Can you lower the price a little? After all, the economic situation is not good now.
+Speaker2: How about if you can sign a one-year contract, I can give you a hundred less every month, how about it?
+Speaker1: I can accept this price, but I live alone and it's a bit big, can you find a single-tenant?
+Speaker2: Sure, this apartment is designed for two people to live in, so finding a roommate to live together is fine.
+Speaker1: Okay, I'll think about it and get back to you tomorrow.
+Speaker2: No problem, you consider clearly the most important, tomorrow I will message you.

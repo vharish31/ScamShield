@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I made an appointment to see a house yesterday on your website, are you responsible for welcoming guests?
+Speaker2: Hey, are you the one who has a meeting scheduled for 10 am today?
+Speaker1: Yes, can I arrive at ten in the morning?
+Speaker2: Okay, you can come in through the south door after you arrive, just find me.
+Speaker1: Okay, I noted it down. Is it the south gate?
+Speaker2: Okay, South Gate, call me when you arrive, I'm waiting here for you.
+Speaker1: Okay, thank you, let's meet later.
+Speaker2: See you later, be careful on the road.

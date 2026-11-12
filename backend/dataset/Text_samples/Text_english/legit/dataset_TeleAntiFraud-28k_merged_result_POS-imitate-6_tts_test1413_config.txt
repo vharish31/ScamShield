@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, may I know how you schedule hair appointments here?
+Speaker2: Hello, we arrange time based on customer's appointment situation here, can you tell me roughly what time you want to make an appointment?
+Speaker1: Hey, can I make a reservation for this Saturday afternoon at 2:00 PM?
+Speaker2: On Saturday at 2 PM, let me check... Okay, this time slot is available. What kind of haircut do you want?
+Speaker1: Just cut the hair, trim the mustache.
+Speaker2: Okay, cutting hair and trimming beard are both included. Are you a first-time visitor here?
+Speaker1: Yes, first time.
+Speaker2: Okay, can you give me your name and contact information so we can record it and follow up later?
+Speaker1: My name is Zhang San, phone number is 13801380138.
+Speaker2: Okay, Mr. Zhang Three, we will record it down. Saturday afternoon two o'clock, remember to be on time, okay?
+Speaker1: Okay, thank you. See you later.
+Speaker2: No problem, see you later. Be careful on the road.

@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm little Liu, recently I'm preparing to move, want to know more about your moving service.
+Speaker2: Hello, I am the customer service representative of the moving company, King. I am very happy to serve you. What specific information do you want to consult?
+Speaker1: How do you calculate your moving costs and do you need to make a reservation in advance?
+Speaker2: Our costs are calculated based on the distance the movers have to travel and the number of items being moved. Small items have a starting price of one hundred yuan, and larger items will be priced according to the actual situation. Moving services must be booked in advance, so we can arrange the vehicle and manpower accordingly.
+Speaker1: If there is a traffic jam on moving day, will you charge extra?
+Speaker2: We cannot control the traffic situation, so this part of the cost will not be extra charged.
+Speaker1: Okay, can I schedule a move next Saturday?
+Speaker2: Sure, we have a free slot on Saturday. You can book it. Please provide your contact information, we will record your booking information.
+Speaker1: Okay, my phone number is 1381380138.
+Speaker2: Okay, I have recorded it down. If there are any changes, we will contact you in advance. Thank you for your appointment, wish you a happy life.

@@ -1,0 +1,14 @@
+Speaker1: Hello, is it Wang Xiaoming?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer manager at a commercial bank, and there's a great loan opportunity I want to recommend to you on this side.
+Speaker2: Loan? I don't need it now.
+Speaker1: Okay, I understand. But if you have any financial needs in the future, you can consider our services.
+Speaker2: What is the interest rate on your loan?
+Speaker1: Our loan interest rates are very favorable, with the lowest possible annual rate of 4.5%, and fast disbursement.
+Speaker2: How low? What conditions are needed?
+Speaker1: As long as you have a stable income source, such as a salary card or social security record, you can apply.
+Speaker2: What do I need to do?
+Speaker1: You can add my WeChat first, I will send you a link, you follow the instructions in the link to fill out the information, we will quickly review it.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: Please let me know once you've added my WeChat account workloan123, and we can further communicate in detail later.
+Speaker2: Okay, I add you WeChat.

@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I'm little king, I'm at the door of your community, I can't find the specific building number, can you help me with the direction?
+Speaker2: Hello, little king, after you entered the big door, there is a big elevator on the left side, and the building number is indicated next to the elevator.
+Speaker1: Okay, I see it, but the sign here is a bit blurry, not very clear.
+Speaker2: Hey, take a look at the building on the left side, it's the most noticeable.
+Speaker1: Is that the building on the left hand side? I see two buildings, should I go into the middle elevator?
+Speaker2: Okay, you go to the middle of the elevator, and then the leftmost building is the one you're looking for.
+Speaker1: Okay, thank you for your help. I'll go now.
+Speaker2: No problem, if you have other questions, feel free to contact me anytime.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to inquire about your restaurant's reservation service.
+Speaker2: Hello, I'm very happy to serve you. What can I help you with?
+Speaker1: I want to reserve a four-person seat for tonight at 6:30 PM.
+Speaker2: Okay, tomorrow at 6:30 PM, for four people. Do you have any special seat requirements, such as by the window or in a quiet corner?
+Speaker1: If there's a spot by the window that's best, if not, a quiet corner works too.
+Speaker2: Okay, I will reserve the window seat for you. Could you please confirm your name and contact information so we can confirm the reservation?
+Speaker1: My name is Li Ming, phone number is 13812345678.
+Speaker2: Okay, Li Ming Xiāngshēng, your reservation has been successful. Tomorrow at six thirty, we will prepare a window seat for you. If there are any changes, please contact us in advance.
+Speaker1: Okay, thank you. Is there a children's menu at your restaurant?
+Speaker2: Yes, we have special dishes prepared for children, including children's set meals and some small snacks. You can choose based on your child's preference.
+Speaker1: That's great, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Enjoy your meal, goodbye!

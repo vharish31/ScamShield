@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Hello, I am.
+Speaker1: Good morning, Mr. Li. I am the customer manager of Huaxia Bank, Lin Xiaohua. I remember you mentioned needing startup capital in the past. Do you have any needs in that regard now?
+Speaker2: No need at the moment.
+Speaker1: So, Mr. Li, do you know that our bank has a new entrepreneurial loan project now? The maximum amount is one hundred thousand, and the interest rate is very favorable, no collateral is required, only a business license is needed to apply.
+Speaker2: The sound is good, but I recently have no financial needs.
+Speaker1: Okay, I understand. Would it be convenient for you to add a WeChat? So if there's anything needed in the future, you can directly contact me, very convenient.
+Speaker2: Add WeChat, but I don't need it now.
+Speaker1: Okay, Li Laoban, thank you very much for your understanding. This is my WeChat, I'll send it to you later, you can add it at your convenience. If you have any questions, feel free to consult me. Wish your business prosperous, goodbye.
+Speaker2: Okay, thank you, bye.

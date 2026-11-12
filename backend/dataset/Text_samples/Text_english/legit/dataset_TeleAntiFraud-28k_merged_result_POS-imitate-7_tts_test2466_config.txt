@@ -1,0 +1,12 @@
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Hello, can I make an appointment for your hairdressing service?
+Speaker2: Sure, we provide booking service. What time do you want to book?
+Speaker1: Can I make a reservation for next Friday at 3 PM?
+Speaker2: Okay, can we schedule for next Friday at 3 PM? Do you need to tell me your name and contact info?
+Speaker1: Okay, my name is Li Huai, phone number is 12345678901.
+Speaker2: Okay, Li Huangshēng, I have recorded it down. Next Friday at three in the afternoon, we will be ready for you.
+Speaker1: Thank you. Is there a service to cut students' hairstyles?
+Speaker2: Of course, we have a specialized hairdresser in charge of designing and cutting the hair of our students.
+Speaker1: See you later.
+Speaker2: Okay, see you later. If you have any other questions, feel free to contact us. Bye!
+Speaker1: Goodbye!

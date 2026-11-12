@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank, your loan application has been approved.
+Speaker2: Really? Great, I've been waiting for this message.
+Speaker1: Yes, but in order to ensure that the funds can be smoothly released, we need you to first complete a simple verification step.
+Speaker2: What do I need to do to verify the steps?
+Speaker1: You need to download our bank's official app and then perform face recognition on it.
+Speaker2: Okay, I'll download it right away. What's the name of this app?
+Speaker1: You can search for the official app of Commercial Bank in the app store and download it. Then follow the instructions after downloading.
+Speaker2: Okay, I'll go download it now.
+Speaker1: After downloading is complete, please complete verification quickly so we can release funds promptly. If any issues arise, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help.

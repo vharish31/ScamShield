@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask if there are any vacant rooms available for booking here?
+Speaker2: Hello, do you want to book a certain type of room?
+Speaker1: I want a big bedroom, preferably with a window.
+Speaker2: Okay, our big bedroom here can meet your needs. The view from the window of the adjacent room is also very good. What time do you plan to move in?
+Speaker1: I plan to check in tomorrow afternoon around four o'clock.
+Speaker2: Okay, tomorrow at four in the afternoon, we will reserve a room for you. Do you need me to help you book it?
+Speaker1: Can you please?
+Speaker2: No problem, I'll book it right away. What's your name and contact number?
+Speaker1: I am Li Huai, my phone number is 13801380138.
+Speaker2: Okay, Li Huangshēng, I have already reserved a large room for you for tomorrow afternoon at four o'clock. You can check in directly at the front desk when you arrive.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, I hope you move in quickly, bye.

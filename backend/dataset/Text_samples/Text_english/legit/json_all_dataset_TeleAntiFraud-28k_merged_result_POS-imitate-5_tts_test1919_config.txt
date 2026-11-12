@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I want to buy a new phone recently, I heard that you have the latest brand phones on your side, is it true?
+Speaker2: Is it true that we have the latest phones here? Which one do you want to see now?
+Speaker1: What's the price of the latest iPhone?
+Speaker2: We have the latest iPhone here, priced at 7999 yuan, and now you can enjoy member discounts with significant savings when you buy.
+Speaker1: How much is the member price?
+Speaker2: The member price can be discounted by 200 yuan, which is 7799.99 yuan.
+Speaker1: Okay, can I see the real thing now?
+Speaker2: Of course, our store is in the electronic city in the center of the city. I will give you a detailed introduction when you come.
+Speaker1: Okay, I'll be there in about thirty minutes. Contact me then.
+Speaker2: Okay, I'll wait for you, see you later.

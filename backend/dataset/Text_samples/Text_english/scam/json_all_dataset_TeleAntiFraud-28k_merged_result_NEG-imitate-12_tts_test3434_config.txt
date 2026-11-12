@@ -1,0 +1,12 @@
+Speaker1: Hello, this is the Shanghai Bank Loan Service Center, I am the manager, recently we have introduced a low interest loan, do you know if you are interested in learning more?
+Speaker2: Hello, I recently need some cash flow, what are your loan conditions?
+Speaker1: Hello, our loan service is very flexible, no collateral, no guarantee, just provide some basic information, and we can quickly approve your loan.
+Speaker2: What materials do I need to prepare?
+Speaker1: You just need to provide your ID front and back photos, bank card information, and personal credit report. To speed up the review process, you can first download our bank app, fill in the relevant information.
+Speaker2: Download the app? Is it safe?
+Speaker1: Our app is officially certified and you can download it from the app store by searching for our bank name. After downloading, you can directly submit your information through the app and get approved within 24 hours, and the funds will be credited to your account.
+Speaker2: Okay, I'll try. Is there any fee during the review process?
+Speaker1: During the review process, there will be no fees. However, in order to ensure your credit, we need you to pay a deposit first, which will be fully refunded upon approval.
+Speaker2: What is the deposit amount?
+Speaker1: The deposit is five thousand yuan. You can transfer it to our customer service via WeChat or Alipay. After transferring, please keep the receipt and we will refund immediately after approval.
+Speaker2: Okay, I understand. I will process it quickly. Thank you.

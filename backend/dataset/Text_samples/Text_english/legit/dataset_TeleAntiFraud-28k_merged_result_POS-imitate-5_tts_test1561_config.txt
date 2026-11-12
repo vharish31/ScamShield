@@ -1,0 +1,10 @@
+Speaker1: Hello, I want to inquire about your restaurant's special dishes.
+Speaker2: Hello, our restaurant special dishes include red braised pork, steamed fish and kung pao chicken, all very popular with customers.
+Speaker1: What are the prices of these menus respectively?
+Speaker2: Red braised pork is 38 yuan per portion, steamed fish is priced differently based on size between 50 to 70 yuan, and palm chicken is 28 yuan per portion.
+Speaker1: I'd like to know your business hours.
+Speaker2: Our restaurant business hours are from 10 am to 10 pm, on weekends they will be extended to 11 pm.
+Speaker1: Is there still a place for me to go now?
+Speaker2: There are still some places, but I recommend you book in advance to avoid waiting.
+Speaker1: Okay, I'll reserve a four-person table for about half an hour from now.
+Speaker2: Okay, I have already reserved it for you. Just call your name when you arrive. We're looking forward to your visit.

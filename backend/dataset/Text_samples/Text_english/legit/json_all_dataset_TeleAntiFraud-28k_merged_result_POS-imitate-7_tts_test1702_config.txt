@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a waiter at the restaurant, you made a reservation for tonight's dinner, can you confirm if you will still come?
+Speaker2: Yeah, I'll go there tonight.
+Speaker1: Okay, is your reservation for two people's seats?
+Speaker2: Yes, I and my friend two people.
+Speaker1: Okay, we're ready for you now. What time is it?
+Speaker2: It should be around 7:30.
+Speaker1: Okay, 7:30, we will reserve a spot for you. Are there any other special arrangements needed?
+Speaker2: Can we have a window seat, please?
+Speaker1: Of course, the view from the window is great, you guys will like it. Do you need any special drinks or snacks prepared for you?
+Speaker2: No thanks, I'll come back later to order food.
+Speaker1: Okay, everything is ready. We are waiting for your arrival. Please feel free to contact us anytime.
+Speaker2: Okay, thank you, see you later.

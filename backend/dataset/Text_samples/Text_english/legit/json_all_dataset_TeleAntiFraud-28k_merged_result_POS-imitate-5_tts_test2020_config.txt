@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I'm Xiaoming, I have an appointment for a haircut at your store tomorrow at three in the afternoon, but I have something going on and I want to change it to tomorrow morning at ten, is that possible?
+Speaker2: Hello, Xiaoming, no problem, we can help you adjust your appointment time. Do you need to cancel your original appointment, or just change the time?
+Speaker1: Just change the time directly. Thank you.
+Speaker2: Okay, your appointment time has been changed to tomorrow morning at 10 am. If you have any other needs, please feel free to contact us.
+Speaker1: Okay, thank you. So, how early do I need to get to the store?
+Speaker2: Please arrive ten minutes early, so we can prepare everything for you.
+Speaker1: Okay, I will arrive early. Also, I want a short haircut, not too long, but also not too short, can you give me some suggestions?
+Speaker2: Of course, based on your description, we can design a simple and fashionable short haircut for you that is suitable for daily wear and can showcase your personality. Do you have any particular preference for hairstyle?
+Speaker1: I prefer simple things, don't make it too complicated, best when easy to handle.
+Speaker2: Understood, we will design according to your needs. See you tomorrow, wish you a happy day.
+Speaker1: Thank you, see you tomorrow.

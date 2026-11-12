@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiaoming, can you tell me what dishes are on your restaurant menu?
+Speaker2: Hello, Xiao Ming, very happy to serve you. Our restaurant's signboard menu has red braised pork, steamed fish and gong bao chicken, all very popular.
+Speaker1: What about the price?
+Speaker2: Red braised pork is 38 yuan per portion, steamed fish is priced differently based on size between 45 and 60 yuan, and palace-style chicken drumsticks are 32 yuan.
+Speaker1: Okay, I want to know your business hours.
+Speaker2: Our business hours are from 11 am to 9 pm every day, and on weekends they are extended to 10 pm.
+Speaker1: How far in advance do I need to book a place?
+Speaker2: Please book in advance, so we can reserve a spot for you.
+Speaker1: Okay, can I book two seats for tomorrow night at seven o'clock?
+Speaker2: Of course, we have already reserved a table for you for tomorrow night at seven o'clock for two people. Please come directly to the restaurant at that time, we will be ready for you.
+Speaker1: Thanks for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival. Goodbye!

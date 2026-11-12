@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service manager of the Agricultural Bank. We recently launched a special discount loan product that can solve your cash flow problem.
+Speaker2: Oh, really? I'm actually in need of some cash right now.
+Speaker1: Yes, this loan product is very suitable for you, no collateral, low interest, fast approval, you just need to download our official app to apply.
+Speaker2: Do you want to download the app? It sounds pretty convenient. What is the name of the app?
+Speaker1: Download the 'Farm Credit' app from the app store on your phone, fill out some simple information, and our customer manager will contact you quickly.
+Speaker2: Okay, I'll go download it. Are there any other things to keep in mind?
+Speaker1: No problem, if you have any issues after downloading, feel free to contact me anytime. By the way, for your convenience, I have a special link here. Just click on it to quickly download.
+Speaker2: Okay, I'll click on the link to download. Thank you for your help.
+Speaker1: No problem, after clicking on the link, you may receive a verification code, this verification code is very important, don't tell anyone, enter the verification code and you can complete the download.
+Speaker2: I understand, I will pay attention.

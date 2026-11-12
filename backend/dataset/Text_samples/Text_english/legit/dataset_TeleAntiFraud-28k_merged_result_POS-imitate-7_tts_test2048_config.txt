@@ -1,0 +1,10 @@
+Speaker2: Hello, who are you looking for?
+Speaker1: I am little Li, find little Wang, he here?
+Speaker2: Little Li, little Wang just went out, what's up?
+Speaker1: Hey, that's it, I said hi to him today and we agreed to study together at the library for our exams, can you bring some study materials over?
+Speaker2: Okay, I'll tell him. When do you meet?
+Speaker1: Can he come back on time at three in the afternoon?
+Speaker2: No problem, I will remind him. Are there any other things to tell?
+Speaker1: No more, can you remind him to bring study materials if he comes back?
+Speaker2: Okay, I will do it. Let's do it this way first, contact me if there's anything else.
+Speaker1: Okay, thank you. Bye.

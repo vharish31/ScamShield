@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the property management service of the community, have you made a repair appointment for your home's water and electricity?
+Speaker2: Hey, hi, still haven't, been pretty busy lately, forgot the appointment.
+Speaker1: Okay, can I help you book a master, what time is convenient for you?
+Speaker2: What's the plan for tomorrow afternoon?
+Speaker1: Can I come over tomorrow afternoon? The teacher will be there around two in the afternoon. Are you at home?
+Speaker2: I should be at home, but if I have any urgent matters, I will inform you in advance.
+Speaker1: Okay, I'll record it and let you know if there are any changes. Do you need any other help?
+Speaker2: No longer available, thank you.
+Speaker1: No problem, feel free to contact us anytime if you have any questions, wish you a happy day.
+Speaker2: Okay, thank you, bye.

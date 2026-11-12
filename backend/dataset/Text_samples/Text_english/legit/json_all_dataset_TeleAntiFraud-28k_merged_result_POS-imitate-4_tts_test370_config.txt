@@ -1,0 +1,10 @@
+Speaker2: Hello
+Speaker1: Are you little Li? I just saw your order, your egg cake is ready now, can you come and pick it up?
+Speaker2: Okay, I just finished class, I should be there in about twenty minutes.
+Speaker1: Okay, I'll leave it for you. See you in twenty minutes.
+Speaker2: Okay, thank you. Right, do you have a parking spot at your store?
+Speaker1: Yes, we have a small parking lot behind the store, you can park there.
+Speaker2: Okay, I understand, thank you for your reminder.
+Speaker1: No problem, if you can't find me when you arrive, you can call me.
+Speaker2: Okay, I'll contact you when the time comes. Hang up now, see you later.
+Speaker1: Okay, see you later.

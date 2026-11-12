@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, now working at Huatai Bank, our bank recently launched a special discounted loan product for high-quality customers.
+Speaker2: Loan, I'm not very interested.
+Speaker1: Hmm, don't rush to reject it yet, this product has a very low interest rate and simple procedures, no collateral required, perfect for short-term cash flow.
+Speaker2: How do you determine if I am a high-quality customer?
+Speaker1: We recommended you based on our analysis of your frequent account activity and good credit record in our bank.
+Speaker2: Oh, that's how it is. So, if I want to learn more, what should I do?
+Speaker1: That's great! I can give you a link here, which introduces detailed information about this product, you can click on the link to see it.
+Speaker2: Okay, let me try.
+Speaker1: The link has been sent to your phone. Open it and let me know if you have any questions. You can contact me anytime.
+Speaker2: Thank you, I will take a look.

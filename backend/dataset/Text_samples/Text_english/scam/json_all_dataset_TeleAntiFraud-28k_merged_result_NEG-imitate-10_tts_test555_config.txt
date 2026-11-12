@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the manager of Agricultural and Commercial Bank, do you have any recent funding needs?
+Speaker2: Hello, no need at the moment.
+Speaker1: Okay, understand. We have a special promotion for a loan at the bank recently, the interest rate is very low, no collateral is required, just provide some basic information to apply.
+Speaker2: What information do we need to provide in this way?
+Speaker1: Please provide a copy of your identity card, business license, and the past six months' bank account records.
+Speaker2: It sounds good, but how can I know if this project is real?
+Speaker1: You can log in to our official website to view related information, or download our official app, which has detailed introductions and application processes.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, download our app, register to easily view loan information and apply online.
+Speaker2: Okay, I'll give it a try.
+Speaker1: Hello, if you have any questions after downloading the app, please feel free to contact me anytime. My phone number is 13800138000. Best wishes!

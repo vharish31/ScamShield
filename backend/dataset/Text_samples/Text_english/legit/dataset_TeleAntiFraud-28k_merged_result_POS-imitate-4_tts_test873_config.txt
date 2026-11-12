@@ -1,0 +1,12 @@
+Speaker1: Hey, are you guys doing car repair service here?
+Speaker2: Hello, yes, we are here to provide car repair services. What can we help you with?
+Speaker1: My car's tires seem to have some issues, can you check them out?
+Speaker2: Of course, you can drive the car over, our teacher will help you check it.
+Speaker1: How long will it take?
+Speaker2: Checking tires usually doesn't take long, about 30 minutes or so. If you need to change tires, it might take a bit more time.
+Speaker1: Okay, I'll be there in about half an hour.
+Speaker2: Okay, we're always happy to welcome you here. Just come in directly when you arrive.
+Speaker1: Is there a parking spot here?
+Speaker2: Yes, we have several parking spots here, which should be enough for you to use.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, please contact us if you have any questions, be safe on the road.

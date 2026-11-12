@@ -1,0 +1,11 @@
+Speaker1: Hello, I'm a loan officer at Commercial Bank, Wang Manager.
+Speaker2: Hello, how did you know my phone number?
+Speaker1: Our bank is currently conducting a high-quality customer selection activity, and your information was obtained through our cooperation platform.
+Speaker2: Hey, do you guys have any discount activities?
+Speaker1: That's right, we recently launched a low-interest personal loan product with no collateral or guarantee, just requiring some basic information to quickly obtain the loan.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Just click this link, fill in the relevant information, and our staff will quickly review and contact you.
+Speaker2: Okay, let me try.
+Speaker1: Great! The link has been sent to you via text message. Please check it out.
+Speaker2: I got the text message, now I'm going to fill it out. Thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes for your success.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Can I ask if your restaurant is open now?
+Speaker2: Hello, our restaurant is now open for business, welcome to come in.
+Speaker1: What do you recommend?
+Speaker2: Our menu here has steamed fish, stir-fried pork, and hand-pulled noodles, all very popular with customers.
+Speaker1: Does it sound good? Then do I need to reserve a seat in advance?
+Speaker2: Yes, to ensure a comfortable dining environment, it is recommended to make a reservation in advance.
+Speaker1: Okay, I want to reserve a table for four people, around seven o'clock in the evening.
+Speaker2: Okay, I have reserved a four-person table for you at seven o'clock tonight. Do you need any further assistance?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

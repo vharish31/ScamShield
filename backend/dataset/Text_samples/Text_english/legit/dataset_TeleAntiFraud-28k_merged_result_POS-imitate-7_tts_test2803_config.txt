@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you coming to my house to get something?
+Speaker1: Yes, I arrived at the community door, but the door wouldn't open.
+Speaker2: "Oh, you walk to the right a little, there's a red button, press it to open the door."
+Speaker1: Okay, I see. Also, do you have anyone at home?
+Speaker2: Okay, I just got home, you come up.
+Speaker1: Okay, I'll go up there. Where is the stuff?
+Speaker2: Just leave it at the door, I'll bring it in later.
+Speaker1: Okay, then I'll go up there.
+Speaker2: Be careful on the road.

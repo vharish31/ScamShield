@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm on your website looking at a phone, want to know more about the specifics?
+Speaker2: Hello, I'm very happy to serve you. Which phone model are you looking for?
+Speaker1: That new flagship phone, I saw online that its performance is very good.
+Speaker2: Yes, this flagship phone is indeed our main product, it comes equipped with the latest processor, and its photography function is very powerful.
+Speaker1: What is the price of this phone now?
+Speaker2: The current price of this phone is three thousand five hundred yuan, and we also provide a choice of installment payment, you can choose to buy on installment.
+Speaker1: What procedures are needed for paying in installments?
+Speaker2: Paying in installments is very simple. Just provide your identity card information, and after our credit check, you can choose the installment period.
+Speaker1: Okay, I plan to place an order today, how soon can you ship it?
+Speaker2: If you place an order today, we will ship it within 24 hours, usually it takes 2-3 days to arrive.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the boss?
+Speaker2: Yes, what's up?
+Speaker1: Good morning, Mr. Wang. I am the customer manager of China Southern Bank. We noticed that your company, Macro Far Bio-tech Co., Ltd., recently has a need for cash flow. We can provide you with a no-collateral loan of a certain amount. Are you interested in learning more?
+Speaker2: Oh, this is okay, but I'm not familiar with the loan process, can you explain it in detail please?
+Speaker1: Of course, Mr. Wang, our loan product is very convenient, just need you to provide some basic company information, after approval, funds will be available the same day. To facilitate your operation, you can download our bank's official app first, which will make the operation more convenient.
+Speaker2: Okay, what should I pay attention to after downloading the app?
+Speaker1: After downloading the app, you can directly submit a loan application within the app, fill in the relevant information. If you have any questions, you can contact our customer service at any time. To speed up the review process, we recommend that you prepare the company's business license, tax registration certificate, and other relevant documents.
+Speaker2: I understand, so I'll download it right away.
+Speaker1: Hello, Wang Zhong, if you encounter any issues during downloading or operation, please call our customer service hotline 400-123-4567 at any time, we will provide full service for you. We hope our service meets your expectations.
+Speaker2: Okay, thank you for your help. I will handle it quickly.

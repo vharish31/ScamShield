@@ -1,0 +1,11 @@
+Speaker1: Hey, are you little king?
+Speaker2: Yes, hello, who are you?
+Speaker1: I am the customer service representative of the company, did you have any questions about the dishwasher you inquired about on our website yesterday, do you have any more questions now?
+Speaker2: Uh, is that so? I do have some questions about that washing machine. Can you help me answer them?
+Speaker1: Of course, what specific information do you want to know?
+Speaker2: What is the water and electricity consumption of this dishwasher, and how is its noise level?
+Speaker1: This dishwasher's water consumption is approximately 12 liters, its electricity consumption is between 1 to 1.5 kW, its noise level is around 55 decibels, and it's very quiet.
+Speaker2: What size family is it suitable for, given that it sounds good?
+Speaker1: This dishwasher is suitable for families of 4 to 6 people and has multiple wash and rinse cycles to meet different needs.
+Speaker2: Okay, thank you for your detailed answer. I will consider it.
+Speaker1: No problem, if you have any other questions, please feel free to consult anytime. We hope our products can help you.

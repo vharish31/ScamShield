@@ -1,0 +1,10 @@
+Speaker1: Hello, I am Xiaoming, I just saw on your website that you have a new smartwatch, I want to know more about this smartwatch.
+Speaker2: Hello, Xiao Ming, I am customer service representative Zhang, very happy to serve you. Regarding the smartwatch you mentioned, it is our latest fashion style, with health monitoring, call, information push functions and so on. What specific aspects do you want to know about?
+Speaker1: What is the battery life of this watch? Also, does it support which motion modes?
+Speaker2: This watch's battery life is excellent, it can last about seven days under normal use. As for the exercise modes, it supports over ten, including running, cycling, and swimming, making it great for fitness enthusiasts.
+Speaker1: Is this watch waterproof? I like swimming in my free time.
+Speaker2: Yes, this watch supports five waterproof levels, you can wear it while swimming without worrying about water intrusion.
+Speaker1: Sounds good. How much does this watch cost? Is there any promotion now?
+Speaker2: This watch is priced at 2800 yuan. We currently have a promotion going on, and when you buy this watch you can enjoy a 90% discount, as well as receive a free 200 yuan watch band.
+Speaker1: That's great, I plan to buy a block. How do you deliver? How long will it take to deliver?
+Speaker2: We provide nationwide express delivery service. Generally, orders will be delivered within two to three days after ordering. If you select urgent shipping at the time of ordering, we can prioritize processing.

@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm the little king who consulted with your home renovation service before.
+Speaker2: Hello, Little Wang, what can I help you with?
+Speaker1: How much would it cost to decorate a 80 square meter room in my house?
+Speaker2: Based on your home's area, the approximate decoration cost is around 500 yuan per square meter.
+Speaker1: Uh, does this include all the material and labor fees?
+Speaker2: Yes, this price includes all the material fees and labor fees, but does not include any additional design fees.
+Speaker1: Okay, what's the approximate cost of the design?
+Speaker2: Design costs vary depending on different design schemes, approximately around 50 yuan per square meter.
+Speaker1: Understood, if I decide to renovate now, how long will it take to complete?
+Speaker2: According to normal progress, it takes approximately two months to decorate an 80 square meter room.
+Speaker1: Okay, thank you for your answer. I will consider it and get back to you later.
+Speaker2: You're welcome. If you have any questions, please feel free to contact us anytime. We wish you a happy life.

@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I saw on your website that you have information about renting apartments, and I want to know more.
+Speaker2: Okay, which apartment are you interested in?
+Speaker1: That two-room apartment near the city park
+Speaker2: That apartment is a standard two-bedroom one-living-room, equipped with a kitchen and a bathroom, all facilities complete, monthly rent is three thousand yuan.
+Speaker1: Does the rent include property fees and electricity network fees?
+Speaker2: Rent includes property fees, electricity and water network fees need to be paid separately.
+Speaker1: Understood, can I look around this apartment anytime?
+Speaker2: Sure, when do you have time? I can arrange to take you to see the rooms here.
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Sure, tomorrow afternoon at three o'clock, I'll be waiting for you here.
+Speaker1: Okay, thank you. See you tomorrow.
+Speaker2: No problem, see you tomorrow.

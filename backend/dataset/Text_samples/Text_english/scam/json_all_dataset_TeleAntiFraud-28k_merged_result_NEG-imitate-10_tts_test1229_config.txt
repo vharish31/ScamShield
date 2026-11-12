@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Laoban?
+Speaker2: Hello, I am.
+Speaker1: Good morning, Mr. Zhang. I am from the commercial bank's credit department. We noticed that you recently applied for a credit card with us, and your credit card usage record is good. We have specially prepared a 30,000 yuan emergency fund for you. Have you considered needing any funds recently?
+Speaker2: Is it really? How to apply?
+Speaker1: Yes, you just need to download our bank's official app, fill out some basic information, and after approval, the funds will be directly transferred to your account.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, our app has been certified by the national information security authentication, please rest assured. If you are not convenient to download the app, you can also directly click on the link I sent you, and you can fill in the information directly in the link.
+Speaker2: Okay, how do I get this link?
+Speaker1: Okay, just a moment, I'll send you a text message with a link and instructions. Once you get it, follow the instructions.
+Speaker2: Okay, I'll wait for a moment for the text message. Thank you.

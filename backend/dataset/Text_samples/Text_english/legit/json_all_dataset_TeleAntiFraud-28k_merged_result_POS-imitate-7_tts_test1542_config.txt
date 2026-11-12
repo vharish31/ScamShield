@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you give me a detailed explanation of your new smartwatch?
+Speaker2: Of course. Our new smartwatch not only has a fashionable appearance, but also supports health monitoring, message reminders, and payment functions, among many other practical features.
+Speaker1: What specific data can health monitoring detect?
+Speaker2: It can monitor heart rate, blood pressure, oxygen saturation, and record your exercise data, helping you better understand your health status.
+Speaker1: Sounds good. Which phone systems does this watch support?
+Speaker2: This watch supports both Android and iOS systems, any smartphone can connect and use it.
+Speaker1: How long does it usually take for delivery?
+Speaker2: In general, we will ship within two to three business days after ordering, and delivery times will vary depending on your location, usually within one to three days.

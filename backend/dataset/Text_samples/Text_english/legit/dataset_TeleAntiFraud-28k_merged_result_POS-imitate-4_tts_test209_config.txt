@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, have you arrived?
+Speaker1: I arrived, I'm waiting for you at the door
+Speaker2: Okay, I'll come down right away, you wait a minute
+Speaker1: Okay, I'm waiting at the door for you, hurry up.
+Speaker2: Okay, okay, I'll come down now.
+Speaker1: Can you see me? I'm wearing a blue suit.
+Speaker2: I see you, walk a little to the right, I'm waiting for you here
+Speaker1: Okay, I see you, come over right away.
+Speaker2: Come over, let's go directly to the parking lot.

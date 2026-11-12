@@ -1,0 +1,10 @@
+Speaker1: Hello, this is JD customer service, I am customer service representative Liu, you recently purchased a product on our platform with quality issues, we need to process a refund for you.
+Speaker2: Oh, really? Then what should I do now?
+Speaker1: Yes, to facilitate processing, you need to download our specifically designed refund processing software, which will enable you to handle your refund more quickly.
+Speaker2: Okay, how do I download it?
+Speaker1: You can click this link to directly download our refund processing software.
+Speaker2: Okay, I'll go download it now.
+Speaker1: After downloading, please follow the instructions and enter your order number and bank card information. We will process the refund immediately after review.
+Speaker2: Okay, I understand. Thank you.
+Speaker1: No problem, if there are any issues during the process, feel free to contact me anytime. Wish you a happy life, goodbye.
+Speaker2: Goodbye.

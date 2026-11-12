@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Did you guys just see a job posting at your store? Are you guys hiring?
+Speaker2: Yes, we do have job information here. Do you want to know more about it?
+Speaker1: Okay, what's the main position?
+Speaker2: Which of sales and customer service do you prefer?
+Speaker1: What are the requirements for the customer service position?
+Speaker2: The customer service position requires a standard of common language, good communication skills and patience, and it is best to have at least one year of relevant work experience.
+Speaker1: I worked as a customer service representative at a company for two years, so I have the required experience.
+Speaker2: That's great, you can send your resume to our email, we will arrange an interview as soon as possible.
+Speaker1: Okay, thank you, I will send it over, how long will it take to receive a reply?
+Speaker2: In general, we will notify the interview time within a week after receiving the resume, please pay attention to check the email.
+Speaker1: Okay, thank you for your help. I look forward to joining your team.
+Speaker2: No problem, wish you all the best, bye.

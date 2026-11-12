@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service of the point store. I see that you have a lot of member points in your account that haven't been used yet. Do you know the rule for points expiration?
+Speaker2: Have my points expired? Can you tell me specifically what happened?
+Speaker1: Of course, points are accumulated based on your shopping consumption, which can be exchanged for products in our mall, such as electronic products or daily necessities, but points will be cleared at midnight tonight if not used before then.
+Speaker2: Hey, how many points do I have?
+Speaker1: Your account has over 26,000 points, which can be exchanged for a lot of good stuff.
+Speaker2: So many! I must hurry to see what's good.
+Speaker1: Okay, I recommend some popular products to you, such as high-definition TV, smartwatch, and white wine gift box.
+Speaker2: It sounds good, I'll think about it.
+Speaker1: No problem, if you decide to exchange, I can help you apply for a special privilege, retain unused credits, and send you an additional after-sale gift, enjoy free return and exchange service.
+Speaker2: That's great, I'll pick it up later, thank you.

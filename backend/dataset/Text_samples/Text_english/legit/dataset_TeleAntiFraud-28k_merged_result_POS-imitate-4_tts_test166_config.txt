@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to inquire about your restaurant's menu and prices, as well as your business hours.
+Speaker2: Okay, we have many special dishes here, such as palace chicken wings, steamed fish, and prices ranging from 30 to 60 yuan. Business hours are from 11 am to 9 pm.
+Speaker1: Does your room sound good?
+Speaker2: Yes, we have two rooms, one can accommodate six people, and the other can accommodate ten people.
+Speaker1: Can I order a six-person room on Saturday?
+Speaker2: Of course, it needs to be booked in advance on Saturday, I can help you book it, please leave your contact information.
+Speaker1: Okay, my phone number is 1863692323.
+Speaker2: Okay, we've recorded it down, see you on Saturday!

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I want to consult your smartwatch in your store.
+Speaker2: Hello, I am customer service Zhang, smartwatch is our store's best-selling product, do you have any specific questions?
+Speaker1: How long does the battery of this watch last? What is its water resistance level?
+Speaker2: This smartwatch's battery life is approximately two days, its water resistance level is 5ATM, it can be worn while swimming.
+Speaker1: What motion modes does this watch support?
+Speaker2: It supports running, swimming, cycling, and other ten sports modes, very suitable for sports enthusiasts.
+Speaker1: The watch sounds good, can you tell me if it's in stock and how much it costs?
+Speaker2: This watch is currently in stock, priced at 2800 yuan. If you place an order now, you can also enjoy a 95% discount.
+Speaker1: Okay, I'll place the order now, thank you for your patience in answering my questions.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a nice shopping!

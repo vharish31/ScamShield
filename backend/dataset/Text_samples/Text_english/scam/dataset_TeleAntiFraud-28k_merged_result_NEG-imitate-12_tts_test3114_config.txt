@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Shenzhen Bank, I am Wang Wei, the manager of the credit department.
+Speaker1: We noticed that your store has been doing well recently, so we have prepared a 30,000 yuan entrepreneurship loan for you. Do you have any need for capital rotation?
+Speaker2: Is it true? I'm having a bit of difficulty with cash flow right now.
+Speaker1: Yes, we highly value quality customers. To ensure the accuracy and completeness of your information, I need you to provide some personal information, including your identity card number and bank card number.
+Speaker2: Okay, I can provide, but is this for a loan?
+Speaker1: Yes, this is to verify your identity and ensure the safety of your funds. Additionally, we need you to download our app to complete the loan application.
+Speaker2: Download the app? How do you download it?
+Speaker1: You can download our official app by clicking on the link https://example.com. It's very easy to use.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Hello, after downloading, please complete the registration and application process according to the instructions. If you have any questions, feel free to contact me anytime.

@@ -1,0 +1,10 @@
+Speaker1: Hello, is this Li Wei's phone?
+Speaker2: Yes, what's up?
+Speaker1: Hello, I am a customer service representative for speedy express, you have a package that was returned because the address was not detailed, please confirm the address again.
+Speaker2: Oh, like this, then where is my package now?
+Speaker1: Your package is currently in our warehouse. In order to facilitate you to reconfirm your delivery address, I need you to provide me with some personal information, including your name, phone number and new delivery address.
+Speaker2: Okay, how can I provide?
+Speaker1: You can click on the link I sent you and fill in the detailed information, so we can reschedule the delivery.
+Speaker2: Okay, I'll go operate now, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. I hope your package arrives safely.
+Speaker2: Okay, thank you again.

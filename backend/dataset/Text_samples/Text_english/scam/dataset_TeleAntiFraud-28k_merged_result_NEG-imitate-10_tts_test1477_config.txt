@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the construction bank customer manager, I am Lee Huai.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, our bank recently introduced a special discounted loan product, no collateral, low interest, fast approval, and the maximum amount you can borrow is fifty thousand.
+Speaker2: "Hmm, that sounds good, but I don't have any specific funding needs right now."
+Speaker1: Understood, but the bank's policy is changing quickly, this discount may disappear soon. If you're interested, I can send you a link, you can apply online, very convenient.
+Speaker2: I'll just go to the bank myself to understand it better.
+Speaker1: Okay, I'll schedule a manager for you, what time is convenient for you to come?
+Speaker2: Let's meet next Tuesday afternoon.
+Speaker1: Okay, let's schedule a meeting for next Tuesday at 3 PM. I'll notify you in advance. By the way, to speed up the approval process, you can download our bank app and fill out the basic information.
+Speaker2: Okay, I will download it. Thank you.

@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I'm here to pick up my car.
+Speaker2: Hello, are you in the underground parking lot?
+Speaker1: Yes, I have arrived at the entrance of the underground parking lot.
+Speaker2: Okay, can you see the elevator? The elevator is on the right side of the first floor.
+Speaker1: Can you see me coming from the elevator?
+Speaker2: Yes, if you take the elevator to the second floor and turn left, you will see a sign.
+Speaker1: Okay, I went up.
+Speaker2: After reaching the second floor, walk along the direction of the signboard, and you will see our service counter.
+Speaker1: Okay, I arrived on the second floor, turned left and saw the sign, now I'm walking towards the service counter.
+Speaker2: Okay, after you arrive at the counter, tell the staff your license plate number, they will help you handle it.
+Speaker1: I understand, thank you for your help.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, I recently want to buy a notebook computer, can you recommend me one?
+Speaker2: Hello little king, of course you can. What are you mainly using it for? Like daily office work, games and entertainment or professional design?
+Speaker1: The main purpose is for work, occasionally play games.
+Speaker2: Understood. Do you have a budget for the price?
+Speaker1: The budget is approximately between six thousand and eight thousand.
+Speaker2: Okay, there are still many options for this price range. I recommend you consider the Huawei MateBook D. This laptop has stable performance, is suitable for work, and is quite smooth for gaming too.
+Speaker1: How long does the battery of this computer last?
+Speaker2: This laptop's battery life is quite good, the official specs say it can last up to ten hours, but in actual use it lasts around eight hours, which is great for carrying around outside.
+Speaker1: Is that all? Are there any other recommendations?
+Speaker2: If you have high requirements for the screen, you can check out Dell's Inspiron series. The screen display quality is excellent, and the price is within your budget.

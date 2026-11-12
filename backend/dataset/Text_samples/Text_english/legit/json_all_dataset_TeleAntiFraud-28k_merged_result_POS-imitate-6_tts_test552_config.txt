@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Did you go to which market did you buy fruits yesterday?
+Speaker2: I went to the big market on the east side, the fruit was very fresh.
+Speaker1: How are the apples there?
+Speaker2: The apples are delicious, sweet and crispy. I bought a box of them.
+Speaker1: How much is in a box?
+Speaker2: A box of 50 yuan is quite reasonable.
+Speaker1: Next time I'll go there and take a look.
+Speaker2: Sure, let's go, there are other good fruits on that side.

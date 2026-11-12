@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Li?
+Speaker2: Hello, I am little Li.
+Speaker1: I am a customer service representative for a construction bank. We have a special promotion for a loan project that offers no collateral and a low interest rate.
+Speaker2: Oh, really? I really need to turn over some cash recently.
+Speaker1: Yes, as long as you provide some basic information, we can open up loan services for you.
+Speaker2: What do I need to do?
+Speaker1: Just click this link, fill in the relevant information, and our staff will quickly contact you.
+Speaker2: Okay, let me try.
+Speaker1: Great, I've sent you the link on my phone, please handle it quickly.
+Speaker2: Okay, thank you.

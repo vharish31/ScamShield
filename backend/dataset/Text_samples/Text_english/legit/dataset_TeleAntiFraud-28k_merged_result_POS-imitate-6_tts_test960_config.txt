@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your hairdressing service.
+Speaker2: Hello, I am a customer service representative. You can call me small Zhang. What can I help you with?
+Speaker1: Do you know of any barbers in your area who specialize in short haircuts?
+Speaker2: Yes, we have many experienced hair stylists here who are skilled in various haircut designs, including short haircuts.
+Speaker1: That's great, I've recently been thinking about getting a new short haircut style. How far in advance do you usually need to make an appointment there?
+Speaker2: I suggest you make an appointment a day in advance, so we can arrange a suitable hairstylist for you.
+Speaker1: Okay, what time is best for me to come tomorrow afternoon?
+Speaker2: There is a time slot available from 3 pm to 6 pm tomorrow afternoon. You can choose any suitable time.
+Speaker1: Then I'll choose three points.
+Speaker2: Okay, I have made an appointment for you tomorrow afternoon at 3 pm for a haircut. Please arrive ten minutes early, and if there are any changes, please inform us in advance.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, I'm looking forward to your arrival, wish you a happy day.

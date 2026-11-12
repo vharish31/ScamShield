@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer service representative of the Agricultural Bank of China, Li Manager.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, our bank recently introduced a special promotion for a low-interest credit loan project, with an interest rate of only 3.5%, specifically designed for small merchants and small micro enterprises.
+Speaker2: Oh, really? I'm doing small business, can you give me specific details?
+Speaker1: Of course, as long as you have a fixed business location and normal business operation, you can apply. To make it easier for you to understand the details, you can click on the link I sent you and download our official app, which contains a lot of detailed introductions.
+Speaker2: How do I know if this link is safe?
+Speaker1: Don't worry, this link is absolutely safe, it's our bank's official channel. If you're not convenient, I can also add you on WeChat and give you a more detailed introduction.
+Speaker2: Okay, I'll add you on WeChat, what's your WeChat number?
+Speaker1: My WeChat number is abcd1234, add me, what questions can I help you with directly on WeChat?
+Speaker2: Okay, I'll add you.

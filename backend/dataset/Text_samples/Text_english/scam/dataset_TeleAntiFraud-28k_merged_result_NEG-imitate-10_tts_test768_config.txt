@@ -1,0 +1,11 @@
+Speaker1: Hey, are you Zhang Wei?
+Speaker2: Yes, who are you?
+Speaker1: I am Li Ming, an AliExpress customer service representative. We noticed that there may be issues with your order, so we need you to verify it.
+Speaker2: What problem?
+Speaker1: Your order shows an anomaly, it might be a system error, we need you to cooperate and verify it to ensure your funds are safe.
+Speaker2: How to verify?
+Speaker1: Please click on the link we send, log in and follow the instructions, this way you can ensure your account is safe.
+Speaker2: Can you send me a link?
+Speaker1: Yes, we will send you a link to your phone later, you can click to enter and follow the instructions.
+Speaker2: Okay, I'll be right back.
+Speaker1: Okay, please act quickly after receiving the link. If you have any questions, feel free to contact me anytime.

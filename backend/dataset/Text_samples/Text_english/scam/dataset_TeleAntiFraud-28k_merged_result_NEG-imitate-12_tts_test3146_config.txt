@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Sequoia Express customer service representative. Do you have a package to confirm delivery?
+Speaker2: "Okay, I have been shopping online recently."
+Speaker1: Okay, but we found some issues with your order information in the system, and we need you to work with us to fix them.
+Speaker2: What should we do?
+Speaker1: To ensure your information is secure, we need you to verify your identity through a secure link.
+Speaker2: Safe Link? How to operate?
+Speaker1: You can click this link and follow the instructions on the page to proceed.
+Speaker2: Okay, I'm going to operate now.
+Speaker1: Okay, if you have any issues during the operation, feel free to contact me anytime.
+Speaker2: Thank you, I'll go now.

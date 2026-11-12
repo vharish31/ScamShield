@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the fast food store. Your previous takeout may have been delivered late, have you received it?
+Speaker2: Hmm, got it, but it was really late.
+Speaker1: I'm very sorry to have caused you inconvenience, we have a small compensation, you can enjoy a 90% discount on your next order, can you see?
+Speaker2: Okay, next time remember to send it early.
+Speaker1: Okay, please remind the delivery guy to pay attention to the time. Do you have any other opinions about this service?
+Speaker2: No more, just hope to improve a bit.
+Speaker1: Thank you for your feedback. We will improve quickly. Do you need me to record this feedback?
+Speaker2: No need, I will pay attention myself.
+Speaker1: Okay, I wish you a happy life, looking forward to your next visit.
+Speaker2: Okay, bye.

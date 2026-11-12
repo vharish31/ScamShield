@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw your bakery on the internet, and I want to consult.
+Speaker2: Hello, I'm very happy to serve you. What can I help you with?
+Speaker1: Can you tell me the price of your store's birthday cake?
+Speaker2: The prices of birthday cakes at our store vary depending on size and style. Small ones cost around 100 to 200 yuan, medium ones are around 300 to 500 yuan, and large ones are over 600 yuan.
+Speaker1: How many days in advance do I need to order a special cake if I want to customize it?
+Speaker2: Order custom cakes at least a week in advance to ensure sufficient time for preparation and maintain cake quality.
+Speaker1: Okay, I'll probably decide on the meeting next week, and then get in touch with you guys.
+Speaker2: Okay, feel free to contact us anytime. If you have any questions or need help, feel free to call us anytime.
+Speaker1: Thank you for your help. I'll hang up first, bye.
+Speaker2: You're welcome, wish you have a nice day, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, what's up with the takeout I ordered from you not being delivered yet?
+Speaker2: Hello, Small Li, I am the customer service of the delivery platform, can you help me check your order?
+Speaker1: Okay, my order number is 12345. Can you help me check it?
+Speaker2: Okay, just a moment, I'll check... Your order is ready, estimated delivery in 30 minutes.
+Speaker1: I've been waiting so long, why haven't you shown up yet?
+Speaker2: I'm very sorry for the inconvenience caused, it might be due to traffic congestion or temporarily not being able to find your specific location on foot.
+Speaker1: Can you connect with the rider to send it to the new address?
+Speaker2: Okay, I need new delivery address information. I will contact the rider immediately to change the delivery address.
+Speaker1: Okay, I'm at the Starbucks on Guangming Street. Can you come over?
+Speaker2: Okay, I have changed the delivery address, the courier will arrive quickly, thank you for your understanding.

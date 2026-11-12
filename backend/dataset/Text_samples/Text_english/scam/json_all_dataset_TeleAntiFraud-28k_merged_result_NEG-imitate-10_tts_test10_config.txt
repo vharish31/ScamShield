@@ -1,0 +1,11 @@
+Speaker1: Hi, I'm little Li from the channel department.
+Speaker2: Hello, what do you have?
+Speaker1: Do you want to know more about our special discount loan product with an interest rate of only 0.02%?
+Speaker2: Can I, how to apply for this loan?
+Speaker1: It's very simple. Just download our bank's official app and follow the instructions to apply.
+Speaker2: Do you want to download the app? I'm afraid I'll have problems after downloading it.
+Speaker1: No problem, our middleway app is very safe, you just need to input some basic information according to the prompt, and after approval, you can get the loan.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your identity card number, mobile phone number, and workplace information to complete the review. Once approved, we will contact you.
+Speaker2: Okay, I'll give it a try. Thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. My phone number is 13700000000. Best wishes for your application!

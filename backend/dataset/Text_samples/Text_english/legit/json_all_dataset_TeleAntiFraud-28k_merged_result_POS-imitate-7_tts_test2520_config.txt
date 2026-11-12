@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Do you guys still hire part-time here?
+Speaker2: So, what kind of part-time job are you looking for?
+Speaker1: I want to do promotion, I have relevant experience before.
+Speaker2: That's great, when do you have time to come for an interview?
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Okay, come to the company directly at 3 pm tomorrow.
+Speaker1: Okay, where is the company address?
+Speaker2: The company address is in the city center square building, the tenth floor. Call me when you arrive at the square.
+Speaker1: Okay, thank you.
+Speaker2: No problem, see you tomorrow.

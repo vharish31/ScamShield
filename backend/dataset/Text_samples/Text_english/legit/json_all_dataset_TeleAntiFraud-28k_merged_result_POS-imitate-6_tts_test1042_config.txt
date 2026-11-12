@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the server from the food street in the food city, you previously booked a location with us, and you want to confirm your reservation time again today.
+Speaker2: Hey, are you sure it's seven o'clock in the evening?
+Speaker1: Yes, your reservation is at seven o'clock. We have reserved a spot for you here. Do you have any other special requests, such as the size of the table or the location?
+Speaker2: "Hey, if possible, I hope I can sit by the window, the view will be better."
+Speaker1: Okay, we will try to arrange the seats by the window as much as possible. By the way, we have a special recommendation for today's menu, such as the newly introduced signature roast duck, do you know if you are interested?
+Speaker2: Let's give it a try, shall we?
+Speaker1: Okay, we will prepare the baked duck in advance to ensure the speed of the meal. Do we need to pre-order any other dishes or drinks?
+Speaker2: Okay, let's add one steamed fish and a portion of green vegetables, and have two cups of iced red tea for drinks.
+Speaker1: Okay, steamed fish, green vegetables, and two cups of ice red tea, all noted down. We meet at seven o'clock, see you then!
+Speaker2: Okay, thank you for your service, see you later.

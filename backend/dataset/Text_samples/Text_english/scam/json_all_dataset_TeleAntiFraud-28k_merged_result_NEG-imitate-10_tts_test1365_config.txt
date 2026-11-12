@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer service manager of Dong An Bank, Li Ming. Our bank recently launched a special loan service with very low interest rates. Would you like to know more about your needs?
+Speaker2: Hey, I recently need some cash flow, can you tell me more?
+Speaker1: Of course. To better understand detailed information, you can click on the link I sent you and download our exclusive app, which has many discount activities.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the link now. If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, I will pay attention to checking.
+Speaker1: No problem, to ensure the safety of your information, please use the link we provide to download the app, other ways may have security risks.
+Speaker2: I understand, I will be careful.
+Speaker1: Okay, if you have any questions or need further assistance, please feel free to contact me. I hope our service meets your expectations.

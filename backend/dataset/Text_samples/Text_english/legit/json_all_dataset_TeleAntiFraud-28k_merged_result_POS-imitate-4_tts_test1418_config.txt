@@ -1,0 +1,7 @@
+Speaker1: Hey, are you there? I'm waiting for you at the old bookstore on that corner, did you arrive yet?
+Speaker2: Hey, I just got off the subway station, it's probably about ten minutes left.
+Speaker1: Okay, I'm waiting for you here. Do you know there's a small coffee shop next to the old bookstore? Let's go there and sit down?
+Speaker2: Okay, I know that place, the environment is good, let's go there.
+Speaker1: Great, you arrived. I'll find the location first.
+Speaker2: No problem, I'll tell you when we arrive. Be careful on the road, see you later.
+Speaker1: Okay, see you later.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help with?
+Speaker1: Can I make an appointment for hair services at your location?
+Speaker2: Of course, what time do you want to make a reservation?
+Speaker1: Is this weekend okay?
+Speaker2: Can you specify whether it's Saturday or Sunday for the weekend?
+Speaker1: How about Saturday afternoon, around what time do you have some free time?
+Speaker2: On Saturday afternoon from 3 to 5 there is a time slot available, you can choose one.
+Speaker1: How about I choose three points, how far in advance do I need to arrive?
+Speaker2: Arriving ten minutes early ensures starting on time.
+Speaker1: Okay, thank you. Is the price of haircuts how much?
+Speaker2: A regular haircut costs sixty yuan, and additional services like washing and styling may require extra fees.
+Speaker1: I understand, meet at three on Saturday.
+Speaker2: Okay, see you at three o'clock on Saturday, see you then.

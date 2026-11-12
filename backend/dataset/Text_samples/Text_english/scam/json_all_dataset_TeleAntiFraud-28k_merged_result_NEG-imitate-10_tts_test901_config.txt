@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a delivery customer service representative, there is a package that may have been misdelivered here, please work with me to handle it
+Speaker2: Is there a problem with my package?
+Speaker1: Yes, we found that the package may have been sent to the wrong address, so to confirm your information, please provide the following phone number and ID number.
+Speaker2: Okay, I can provide that too, but how can I confirm that you are a real delivery customer?
+Speaker1: You can log in to our official website to check, or you can directly click on the link I sent you, which has detailed operation procedures, so can you?
+Speaker2: Okay, let me try, just a moment.
+Speaker1: Okay, I'm waiting for your message. If you have any questions, you can contact me anytime, my phone number is 4001010101.
+Speaker2: Okay, thank you.

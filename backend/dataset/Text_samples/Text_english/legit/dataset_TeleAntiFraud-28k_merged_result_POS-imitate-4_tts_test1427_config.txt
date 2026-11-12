@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: I'd like to know more about your car rental service, specifically regarding the car types and pricing information.
+Speaker2: Okay, we have various car models to choose from here, such as economy, comfortable and luxury types. Please tell me your specific requirements, such as rental duration and purpose, and I can give you a more accurate quote.
+Speaker1: I plan to rent a car for a week, mainly for family vacation.
+Speaker2: I understand. For family travel, I recommend you choose our comfortable car type, with spacious seating and comfortable seats. The weekly rental price is 2400 yuan, including basic insurance.
+Speaker1: Is the price still reasonable? Is picking up and dropping off at the same location?
+Speaker2: Yes, both picking up and dropping off are available in our city center store. If you have other requirements at other locations, we can also provide door-to-door service, but there may be a certain fee.
+Speaker1: Then let's go to your city center store. Also, do I need to make an appointment in advance?
+Speaker2: It's recommended to book in advance to ensure a car is available. You can do it on our website or call our customer service directly.

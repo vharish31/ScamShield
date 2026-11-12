@@ -1,0 +1,8 @@
+Speaker1: Hello, this is some bank, I am customer service manager Li, you have a loan application that needs to be confirmed.
+Speaker2: Hey, loan application? I haven't applied for a loan recently.
+Speaker1: It's possible that your credit record is too good, our bank has granted you a loan. You just need to download our app, fill out some basic information, and quickly get a loan.
+Speaker2: Is this app safe?
+Speaker1: Absolutely safe, we are a regular bank, the app is official. You can scan this QR code to download, very convenient.
+Speaker2: Okay, let me try.
+Speaker1: Great, please let me know if you have any issues after downloading. Here's my WeChat, feel free to add me for future communication.
+Speaker2: Okay, I'll add you on WeChat. Thanks.

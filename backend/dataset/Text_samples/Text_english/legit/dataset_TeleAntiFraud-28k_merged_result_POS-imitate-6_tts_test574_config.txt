@@ -1,0 +1,8 @@
+Speaker1: Hey, how are you? I'm little Li, your haircut appointment, confirm the time?
+Speaker2: Hello, is three o'clock in the afternoon tomorrow correct for my reservation?
+Speaker1: Yes, tomorrow afternoon at three o'clock, the location is in the city square's hair salon, you remember to bring the appointment code.
+Speaker2: Okay, I noted it down. Do I need to arrive early?
+Speaker1: No problem, just come on time, we have reserved a spot here.
+Speaker2: That's great, thank you for your reminder.
+Speaker1: No problem, feel free to contact us anytime if you have any questions. Goodbye.
+Speaker2: Okay, bye.

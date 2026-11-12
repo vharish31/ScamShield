@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there?
+Speaker2: Yes, hello, who are you?
+Speaker1: Hi, I'm Li Xiao, from the customer service center of China Post Express, we found out that one of your packages was lost during transportation, now we need to process a refund, would you mind adding a WeChat?
+Speaker2: Oh, really? Okay, I'll add you on WeChat then.
+Speaker1: Great, my WeChat is Li Xiaokui, add me and I'll send you a link, just follow the instructions above to claim the compensation.
+Speaker2: Okay, I'll add you.
+Speaker1: Okay, after you add me, remember to tell me the first time, I'll send you the link right away.
+Speaker2: Okay, I know.
+Speaker1: There's one more thing, to ensure the safety of your account, you need to provide a verification code, I will send it to you via text message, once you receive it, please tell me, this way we can confirm the safety of the funds.
+Speaker2: Okay, I'll wait for a text message.

@@ -1,0 +1,12 @@
+Speaker1: Hey, where are you?
+Speaker2: Just got off the subway station, you too?
+Speaker1: Did you see the big billboard at the mall entrance?
+Speaker2: I saw it, I walked towards the billboard.
+Speaker1: Okay, I'm waiting here for you, hurry up.
+Speaker2: Okay, I'll go now.
+Speaker1: Look at the coffee shop over there, I'm waiting for you here.
+Speaker2: Okay, I see it, I'll be there soon.
+Speaker1: Where are you entering/exiting?
+Speaker2: Where are you at three o'clock?
+Speaker1: I am at the second door on this side, you walk towards this side.
+Speaker2: Okay, I'll come over now.

@@ -1,0 +1,14 @@
+Speaker1: Hey, hello, I'm from the internet looking at your rental information.
+Speaker2: Hello, yes, we have rental properties here. What information are you looking for?
+Speaker1: Can you tell me how rent is calculated?
+Speaker2: The monthly rent is 1,200 yuan, with a deposit of three months paid upfront, and the water and electricity bills are calculated based on actual usage.
+Speaker1: How many days do I need to notify you if I want to renew my lease?
+Speaker2: On this side, if you want to renew, you need to inform us one month in advance, so we can prepare the next tenant.
+Speaker1: What are the conditions of the house? Is there a refrigerator and a hot water heater?
+Speaker2: The apartment is a two-room one-living-room, equipped with air conditioning, hot water heater, washing machine, and all basic household appliances, you can directly carry your luggage into it.
+Speaker1: Can I go take a look at the house?
+Speaker2: Of course, when do you have time, we can schedule a time to look at the house.
+Speaker1: Can I go out this weekend?
+Speaker2: Can we hang out this weekend? What time works best for you?
+Speaker1: Let's meet at two o'clock.
+Speaker2: Okay, let's meet at two o'clock this weekend, remember to bring your ID and some deposit.

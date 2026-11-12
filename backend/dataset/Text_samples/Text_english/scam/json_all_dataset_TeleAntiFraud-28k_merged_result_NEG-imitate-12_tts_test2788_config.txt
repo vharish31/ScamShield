@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, this is the customer service representative of speed loan finance, we saw on the backend that you have previously applied for a small loan, but it was not successful. Do you have any recent financial needs?
+Speaker2: Hey, I've been feeling a bit tight lately, can you tell me more about it?
+Speaker1: Of course, we have launched a new loan product this time, the application process is very simple, just download our APP, submit some basic information, and get approved, and the money will be quickly deposited into your account after approval.
+Speaker2: Listen good, that this app how download?
+Speaker1: It's very simple. Just click this link to download our app directly.
+Speaker2: Okay, let me try.
+Speaker1: Great, after downloading, if you have any issues, feel free to contact me anytime. Just to make sure your information is secure, please provide your phone number so we can stay in touch later.
+Speaker2: Okay, my phone number is 13800138000.
+Speaker1: Okay, I have recorded it down. After downloading the app, remember to input the invitation code 123456, so you can enjoy the first-time discount. Have a nice use, bye.

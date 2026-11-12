@@ -1,0 +1,10 @@
+Speaker2: Hello, hello, I am Meituan rider
+Speaker1: Hello, why hasn't my takeout arrived yet?
+Speaker2: Hey, what small community is your order from?
+Speaker1: In the Happy Village, building 3, unit 2B
+Speaker2: Okay, I'll take a look, maybe it's because the road is congested, I'll try to go faster.
+Speaker1: Okay, hurry up, I'm waiting here.
+Speaker2: No problem, should be around ten minutes or so.
+Speaker1: Okay, thank you.
+Speaker2: No problem, please check and confirm, goodbye.
+Speaker1: Okay, bye.

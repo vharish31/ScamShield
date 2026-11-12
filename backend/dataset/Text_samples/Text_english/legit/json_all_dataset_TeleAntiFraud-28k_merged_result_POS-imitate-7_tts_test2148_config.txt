@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I'm planning to buy a new phone, do you guys have any new phones in your store?
+Speaker2: Hello, do we have new phones in our store? Which brand are you interested in?
+Speaker1: I want to see the latest iPhone, I heard its performance is very strong, but I don't know how much it costs.
+Speaker2: The new model of apples is really good in performance, now the price in the store is six thousand five hundred yuan, there are also many discount activities, you can consider it.
+Speaker1: Six hundred and fifty yuan, that's still quite expensive. Do you have a choice for installment payment?
+Speaker2: Yes, we support installment payments here, you can pay in twelve installments, each installment is approximately five hundred forty-five yuan, no interest.
+Speaker1: What materials do I need to prepare for paying in installments?
+Speaker2: You just need to bring your ID and bank card, and we can help you with the installment procedures when you get to the store.
+Speaker1: Okay, can I come over in the afternoon tomorrow?
+Speaker2: Of course, tomorrow afternoon there will be someone to meet you here, you can come directly.
+Speaker1: Thank you, I'll see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

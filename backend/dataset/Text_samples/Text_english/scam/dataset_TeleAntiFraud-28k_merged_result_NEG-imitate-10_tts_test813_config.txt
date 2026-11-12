@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager of commercial bank loan department. Do you have any recent funding needs?
+Speaker2: Is the loan condition too strict?
+Speaker1: No, no, our latest loan product is very flexible, the threshold is low, the interest rate is discounted, just need to provide some basic information.
+Speaker2: What about it? How do you apply?
+Speaker1: You can first download our official app, register and fill out the application form, our work staff will quickly contact you.
+Speaker2: Is the app safe to download?
+Speaker1: Of course, we have guarantees, we are a regular bank, you can rest assured to use it. If you don't feel comfortable downloading the app, you can also directly click on this link and fill out the information.
+Speaker2: Can you try to see what this link is?
+Speaker1: Okay, I'll send you a short message. Please pay attention to check it, click on the link and follow the instructions after that.
+Speaker2: Okay, thank you.

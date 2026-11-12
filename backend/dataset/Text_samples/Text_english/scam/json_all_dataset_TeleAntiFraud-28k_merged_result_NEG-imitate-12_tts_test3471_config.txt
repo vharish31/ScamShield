@@ -1,0 +1,10 @@
+Speaker1: Hello, this is John, the manager of XYZ Investment Company.
+Speaker2: Hello, who are you?
+Speaker1: I am a manager, I understand you have interest in investment, and I want to recommend a high return investment project to you.
+Speaker2: Oh, really? I'm really interested in investing.
+Speaker1: Great, we have a special project with a monthly return of 10%. Just download our app, register an account, and you can start investing.
+Speaker2: What's the name of this app that sounds good?
+Speaker1: You can download the "Wealth Express" app by searching for it in the app store.
+Speaker2: Okay, I'll download it later.
+Speaker1: Thank you very much, please contact me after downloading, I can guide you on how to operate.
+Speaker2: Okay, I will do it. Thank you, Zhang Jingni.

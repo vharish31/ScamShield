@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Ming, how about you recently?
+Speaker2: Hello, Xiaoming, I'm doing well, lately work has been busy, how about you?
+Speaker1: I'm not bad, I'm preparing a new project lately. It's quite interesting. Hey, do you have any free time this weekend?
+Speaker2: What do you have planned for the weekend?
+Speaker1: Do you want to go to the new restaurant with me? I heard it's really good, let's try it together.
+Speaker2: Great, I've heard that restaurant is really popular, when do you want to go?
+Speaker1: What's it like at 6:30 on Saturday night?
+Speaker2: Is it possible to go to that restaurant at 6:30 on Saturday night? Do we need to make a reservation in advance?
+Speaker1: Please let me know the number of people, and I'll help you book.
+Speaker2: Okay, two people, thank you.

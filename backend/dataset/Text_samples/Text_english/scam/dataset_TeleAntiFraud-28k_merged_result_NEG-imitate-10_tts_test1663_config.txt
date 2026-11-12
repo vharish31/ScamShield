@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Xiaojie?
+Speaker2: Yes, may I know who you are?
+Speaker1: Hi, I'm Zhang Xiao, a customer service representative from Huaxing Bank. We noticed that you've recently browsed some financial products on our website and wanted to know if you have any investment needs?
+Speaker2: "Oh, so I have a little bit of spare money, do you guys have any recommendations?"
+Speaker1: That's great, we recently launched a financial product with a high return rate, around 12% annualized, very safe and reliable.
+Speaker2: The sound is good, but I'm not familiar with these, how do I operate them?
+Speaker1: It's very simple. Just download our official app, register and you'll see detailed product info and instructions. Would you like me to send you a download link?
+Speaker2: Okay, you can send it to me, I'll take a look and then say.
+Speaker1: Okay, just a moment, I'll send it over to you now. By the way, to ensure your account's safety, please download the link immediately after receiving it and register with real information.
+Speaker2: Okay, thank you for your recommendation.

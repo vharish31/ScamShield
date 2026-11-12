@@ -1,0 +1,8 @@
+Speaker1: Hey, where are you?
+Speaker2: I'm still on the road, I'll be there in a moment.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Are you waiting for me at the door?
+Speaker1: Yes, it's at the door.
+Speaker2: Okay, I'll be there in about ten minutes.
+Speaker1: Okay, pay attention to safety on the road.
+Speaker2: Okay, don't worry.

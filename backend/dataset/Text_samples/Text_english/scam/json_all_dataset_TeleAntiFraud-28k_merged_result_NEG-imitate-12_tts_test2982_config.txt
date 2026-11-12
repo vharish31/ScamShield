@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm the customer manager of Commercial Bank, Li Xiaoming.
+Speaker2: Hello, do you have anything?
+Speaker1: We recently launched a low-interest loan product with an interest rate as low as 2.9%, perfect for customers like you.
+Speaker2: Oh, I received this message before, but I don't need a loan now.
+Speaker1: Is it true? You should consider it again, this product is really cheap, and the application process is very simple, just download our app and you can complete it in a few minutes.
+Speaker2: Do you want to download the app? Let me take a look first.
+Speaker1: Okay, I have a special link here. You can download our app directly by clicking the link. It's very convenient.
+Speaker2: Is that link safe?
+Speaker1: Absolutely safe, we are a regular bank, you can use it with peace of mind. Click on the link and follow the instructions, fill in some basic information, and we will quickly review it.
+Speaker2: Okay, let me try.
+Speaker1: Great, you can contact me anytime if you have any questions. This link is http://www.loanapp.com. Remember to open it on your mobile browser.
+Speaker2: Okay, thank you.

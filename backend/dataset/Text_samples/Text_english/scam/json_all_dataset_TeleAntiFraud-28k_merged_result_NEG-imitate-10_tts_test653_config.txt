@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am small Li, the client manager of Agricultural Bank. We have a great loan project here that can help you solve your cash flow problems. Have you recently had any cash needs?
+Speaker2: Oh, loan, I don't need it now, thank you.
+Speaker1: No problem, it's good to understand a little. Our loan interest rate is very low, and the approval speed is fast, and the procedures are simple. You can first download our APP, register, and see the specific information.
+Speaker2: Can you download the app? It's not very convenient. Can you directly tell me what conditions are needed?
+Speaker1: Of course, you just need to provide your identity card, bank card, and income proof, and the loan will be approved quickly after review. If you have any questions, you can directly add our customer service's WeChat, our WeChat number is A123456, and you can consult anytime.
+Speaker2: Wechat, then I'll consider it first.
+Speaker1: Okay, take some time to think about it. If you need anything, feel free to contact me anytime. By the way, we also have a special promotion. If you sign up and download the app now, you can enjoy an additional loan discount.
+Speaker2: Extra discount? I'll download and try it out.
+Speaker1: Great! After downloading, please follow the instructions. If you have any issues, feel free to contact our customer service via WeChat anytime. Best wishes for your success!
+Speaker2: Okay, thank you.

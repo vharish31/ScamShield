@@ -1,0 +1,12 @@
+Speaker1: Hello, are you the Ming family's housekeeping service company?
+Speaker2: Hello, this is Xiaoming's household service company. What can I help you with?
+Speaker1: Can you help me schedule a housekeeping service?
+Speaker2: Of course, what time do you want to make a reservation?
+Speaker1: Do you want to go out at 10 am on Saturday morning this weekend?
+Speaker2: Okay, Saturday morning at 10 am is available. What needs to be cleaned?
+Speaker1: The main is living room and two bedrooms, also need to clean windows.
+Speaker2: Understood, the cost of clean service is one hundred yuan per hour, and it is estimated to take three to four hours, do you confirm it?
+Speaker1: Okay, then let's do it this way. Do you need to pay a deposit?
+Speaker2: Yes, we need to pay a deposit of half, which is two hundred yuan, is that okay?
+Speaker1: Sure, I'll transfer money to you via WeChat in a few minutes.
+Speaker2: Okay, thank you for your trust and support, see you on Saturday!

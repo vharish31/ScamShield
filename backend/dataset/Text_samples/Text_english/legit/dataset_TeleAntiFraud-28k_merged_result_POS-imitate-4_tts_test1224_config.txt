@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you at the flower shop?
+Speaker2: Hello, do you have any fresh fruits in your store?
+Speaker1: Yes, we have fresh apples, bananas, oranges, and watermelons here.
+Speaker2: How much does one kilogram of apples cost?
+Speaker1: Apples are five cents a pound, and it's the fresh season now, the quality is great.
+Speaker2: Hey, I want to buy five kilograms, can you deliver it?
+Speaker1: Okay, please tell me the address, we can arrange delivery on this side.
+Speaker2: Okay, the address is Yánggōng xiǎojīng sān dān yī fèi sì zhōng liú rèn.
+Speaker1: Okay, we will arrange delivery quickly, approximately 30 minutes later.
+Speaker2: Okay, thank you, see you later.

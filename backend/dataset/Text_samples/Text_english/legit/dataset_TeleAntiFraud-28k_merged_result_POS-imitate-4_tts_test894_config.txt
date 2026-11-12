@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hi, how have you been lately?
+Speaker2: I'm good, thank you. What have you been up to lately?
+Speaker1: I've been busy preparing a project lately. How about we grab a meal together?
+Speaker2: Hey, I've been wanting to chat with someone lately. When do we meet again?
+Speaker1: How was your weekend? I saw a new restaurant with good reviews, let's try it out.
+Speaker2: Can we go on the weekend? Which day specifically?
+Speaker1: Can you go out at six o'clock on Saturday afternoon?
+Speaker2: Okay, I'll arrive at six o'clock on Saturday afternoon. What's the name of that restaurant?
+Speaker1: The restaurant is called "Savor Xuan", the address is 3 Happiness Road. Please remember to book a seat in advance.
+Speaker2: Okay, I will contact them in advance. Thank you, see you later.

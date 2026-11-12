@@ -1,0 +1,14 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you know of any apartments here suitable for two people?
+Speaker2: So, we have single rooms and suites here. Which one do you want?
+Speaker1: Can you tell me the price of the room?
+Speaker2: Rent for a suite is four thousand five hundred yuan per month, and water and electricity are separately charged.
+Speaker1: What facilities are there in that room?
+Speaker2: The room has a bed, wardrobe, and desk, as well as an independent bathroom and a shared kitchen that can be used.
+Speaker1: Can I go take a look? It sounds good.
+Speaker2: Sure sure, when do you have time, I'll arrange someone to take you to see.
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Tomorrow at three in the afternoon, okay, I noted it down. You leave a contact method, convenient for us to contact you.
+Speaker1: Okay, my phone number is 1338886666.
+Speaker2: Okay, 133888666, remember. See you tomorrow.
+Speaker1: See you tomorrow, thank you.

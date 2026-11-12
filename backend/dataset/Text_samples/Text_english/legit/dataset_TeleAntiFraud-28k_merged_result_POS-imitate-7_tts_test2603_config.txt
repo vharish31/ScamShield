@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the property manager of the community, have there been any leaky water issues in your home recently?
+Speaker2: Ah, hello, yes, recently I've discovered this problem.
+Speaker1: Okay, we will send a repairman to your door tomorrow, what time is convenient for you?
+Speaker2: Can we meet at three in the afternoon tomorrow?
+Speaker1: 3 o'clock, okay, we recorded it. What do we need to prepare?
+Speaker2: No need, I'll prepare myself, you guys come directly check, okay.
+Speaker1: Okay, we'll arrive at three o'clock in the afternoon tomorrow. If there are any special circumstances, we'll contact you in advance.
+Speaker2: Okay, thank you all, I'll see you tomorrow.
+Speaker1: No problem, feel free to contact us anytime if you have any questions, goodbye.
+Speaker2: Goodbye.

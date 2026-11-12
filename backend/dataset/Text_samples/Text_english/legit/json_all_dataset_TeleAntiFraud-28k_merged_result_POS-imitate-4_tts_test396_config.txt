@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, you good?
+Speaker1: I saw your job posting online and wanted to know more about it.
+Speaker2: Okay, what position are you interested in?
+Speaker1: Can you tell me if you have any job positions suitable for recent graduates?
+Speaker2: Yes, we have several positions suitable for graduates, such as sales assistant and marketing assistant. Which one are you more interested in?
+Speaker1: Can you specifically describe the responsibilities of a market assistant?
+Speaker2: Of course, the primary responsibilities of a market assistant include market research, planning activities, and assisting the market manager with daily tasks. Do you have any relevant internship experience?
+Speaker1: Yes, I interned at an advertising company during college and participated in several market research projects.
+Speaker2: Hello, your experience is very helpful to us. You can send your resume to our recruitment email, and we will arrange an interview as soon as possible.
+Speaker1: Okay, thank you for your help. I will send my resume over quickly.
+Speaker2: No problem, I'm looking forward to your resume, wish you all the best.

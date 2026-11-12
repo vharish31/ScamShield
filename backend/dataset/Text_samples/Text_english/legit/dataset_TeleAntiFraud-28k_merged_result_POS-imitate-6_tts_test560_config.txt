@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Have you decided to sell that house yet?
+Speaker2: Hey, are there any customers interested on your side?
+Speaker1: Yes, there's a customer who found the information quite interesting and wants to know more about the details.
+Speaker2: Okay, you can let him take a look, and we can discuss the price in detail.
+Speaker1: The customer hopes for a little discount on the price.
+Speaker2: I'll consider it, but I'll have to see the actual situation since the market isn't great right now.
+Speaker1: Okay, I'll have the customer prepare a bit, what time is it convenient to look at the house?
+Speaker2: How was your weekend? I had some free time on Saturday.
+Speaker1: Let's meet up on Saturday morning at 10am.
+Speaker2: Okay, let's meet up this weekend, please contact me when you arrive.
+Speaker1: Okay, see you then, thank you.
+Speaker2: No problem, goodbye.

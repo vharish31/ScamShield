@@ -1,0 +1,17 @@
+Speaker2: Hello, how are you?
+Speaker1: Is it possible to book domestic services here?
+Speaker2: Okay, what service would you like to book?
+Speaker1: I want to book a cleaning service, my home needs a big sweep.
+Speaker2: Okay, we provide comprehensive clean service, including kitchen, bathroom, bedroom and others.
+Speaker1: What is your service time?
+Speaker2: We provide flexible service time, you can choose morning or afternoon, service time is usually three to four hours.
+Speaker1: What's the price?
+Speaker2: Our cleaning service fee standard is 50 yuan per hour, with a 4-hour minimum order.
+Speaker1: Can I make a reservation for this weekend?
+Speaker2: Sure, this weekend we have some free time. What specific day do you want?
+Speaker1: Let's meet on Saturday morning.
+Speaker2: Okay, on Saturday morning, we will arrive on time. Do you need to prepare anything in advance?
+Speaker1: No need, you take good cleaning tools.
+Speaker2: Okay, we'll be ready for everything, see you later.
+Speaker1: Thank you, see you later.
+Speaker2: You're welcome, wish you a happy day.

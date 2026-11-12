@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I want to change my hairstyle recently, can you make an appointment for me?
+Speaker2: Hi, how are you? I'm little Li. Is it okay? What time do you want to make a reservation?
+Speaker1: Can I be there at 10 am on Saturday next week?
+Speaker2: Saturday at 10 am is okay.
+Speaker1: Great, I'll schedule this time.
+Speaker2: Okay, noted. Is this your first time here?
+Speaker1: Yes, my friend recommended this place, and he said the hair stylist techniques here are good.
+Speaker2: Thank you for your trust, we will definitely do our best to make you satisfied.
+Speaker1: I'll see you on Saturday, then.
+Speaker2: Okay, see you on Saturday, goodbye.

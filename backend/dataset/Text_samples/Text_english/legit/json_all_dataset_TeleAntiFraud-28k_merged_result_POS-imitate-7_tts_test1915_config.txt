@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little Zhang, recently I've been looking for a part-time job, I saw your company has job postings, want to know more about it.
+Speaker2: Hello, I am customer service Li, which position in our company are you interested in?
+Speaker1: I'm very interested in the marketing position, can you introduce the specific requirements of this position?
+Speaker2: Of course, this position mainly involves managing social media operations, which requires some writing ability with text and image processing skills, and it's best if there's relevant experience.
+Speaker1: How is the work schedule arranged?
+Speaker2: The work schedule is quite flexible, mainly arranged according to the project, and usually each week works about twenty hours left or right.
+Speaker1: What about the encounter part?
+Speaker2: We'll determine the compensation based on your performance. The basic salary plus project bonus will be discussed in detail.
+Speaker1: Okay, I understand, then when can I come for an interview?
+Speaker2: You can come over at 10 am tomorrow, and we'll have a detailed chat then.
+Speaker1: Okay, thank you for your patience in answering, I will arrive on time tomorrow.
+Speaker2: No problem, I'm looking forward to your arrival tomorrow, see you then.

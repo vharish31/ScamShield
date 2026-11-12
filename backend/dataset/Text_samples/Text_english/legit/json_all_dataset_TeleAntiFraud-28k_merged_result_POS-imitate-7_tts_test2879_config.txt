@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help with?
+Speaker1: Hey, I saw your store has an electric toothbrush on sale, can you tell me more about this product's features?
+Speaker2: Okay, this electric toothbrush is our store's best-selling product, it has multiple cleaning modes, suitable for different mouth needs, and also has intelligent timing function, ensuring that every time you brush your teeth is two minutes.
+Speaker1: How much does that electric toothbrush cost?
+Speaker2: This electric toothbrush is priced at 288 yuan, and now there's a small gift included when you buy it!
+Speaker1: Oh, there's a gift coming, what is this gift?
+Speaker2: The gifts are toothpaste and toothbrush, both are our selected brands, we hope you will like them.
+Speaker1: Okay, I'll think about it. If I decide to buy, do you guys support express delivery here?
+Speaker2: Of course, our courier company can deliver nationwide, and it usually takes two to three days to deliver after placing an order.
+Speaker1: Okay, thank you for your detailed introduction. I'll think it over before making a decision.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, we hope you like our products.

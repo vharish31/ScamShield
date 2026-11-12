@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I saw your apartment for rent in Five Eight City, want to know more?
+Speaker2: Hello, yes, we do have a single room for rent here, do you have any specific questions?
+Speaker1: Hey, can you tell me how much the rent for this room is and what facilities are available inside?
+Speaker2: The monthly rent is 1200 yuan, the room has a bed, desk and wardrobe, the bathroom is shared but very clean.
+Speaker1: The bathroom is shared, how should the washroom be arranged for use?
+Speaker2: The bathroom is shared by three people, but we have agreed to take turns cleaning it and keeping it clean, so there's no need to worry about hygiene issues.
+Speaker1: Sure, can I take a look at the room?
+Speaker2: Of course, you can choose this weekend to take a look, is it convenient for you?
+Speaker1: Is Saturday afternoon okay?
+Speaker2: Sure, can we meet at 3 PM on Saturday afternoon? I'll be there waiting for you.
+Speaker1: Okay, I will arrive at three o'clock on Saturday afternoon, thank you.
+Speaker2: No problem, feel free to contact me if you have any other questions, see you on Saturday.

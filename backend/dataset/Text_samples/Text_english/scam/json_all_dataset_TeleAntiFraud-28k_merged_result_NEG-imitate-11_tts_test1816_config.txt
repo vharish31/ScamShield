@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: I am the customer manager of the agricultural and commercial bank, Lee Huai. We recently launched a corporate loan service, which is very suitable for small and medium-sized enterprises, and the interest rate is very favorable. Do you have any interest in learning more about it?
+Speaker2: Hey, do you want a loan? I don't have this need right now.
+Speaker1: Okay, understood. However, our service is very flexible, you can first understand it, in case you need it in the future. This is our website link, you can click to understand it.
+Speaker2: What's the website link? How do I click on it?
+Speaker1: Just remember this link and input it in your phone browser. Alternatively, I can send you a text message with the link, just tap it and it's very convenient.
+Speaker2: Okay, send me a text message.
+Speaker1: Okay, just a moment, I'll send it to you right away. By the way, if you have any questions, feel free to add my WeChat and consult me anytime.
+Speaker2: WeChat? Okay then.

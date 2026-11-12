@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Hey, I am.
+Speaker1: Hello, I am the client manager of XX investment company, we noticed that you have been looking for investment opportunities recently and would like to know if you are interested in learning more about our latest investment project?
+Speaker2: Invest? What project?
+Speaker1: We have a high-yield investment project with an annual return of up to 20%, and the risk is very low. If you're interested, I can send you a link to the project introduction, where you can learn more in detail.
+Speaker2: Link? How do you send it to me?
+Speaker1: You can receive the link through WeChat. I will add you on WeChat and then send the link to you. Is that convenient?
+Speaker2: Wechat? Okay, then you add me, my Wechat is my phone number.
+Speaker1: Okay, I'll add you now. Additionally, if you have any questions, you can directly add our company's QQ. Our customer service is 24/7 online, and we can answer your questions anytime.
+Speaker2: Okay, thank you.

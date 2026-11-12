@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm a waiter at the small kitchen restaurant, we have a special activity this week, do you have any interest in learning more about it?
+Speaker2: Hello, what is the content of the activity?
+Speaker1: This activity mainly focuses on introducing several new dishes, and there's also a buy one get one discount, which is very suitable for trying with friends.
+Speaker2: What are the restaurant's business hours?
+Speaker1: Our restaurant is open from 10 am to 10 pm. The peak meal times are during lunch and dinner, so we recommend making reservations in advance.
+Speaker2: Can I reserve a spot for tonight?
+Speaker1: Of course, which evening do you want to make a reservation for?
+Speaker2: Is seven o'clock okay for this Friday night?
+Speaker1: Okay, I'll confirm the time and location for you at 7 pm on Friday. Just remember to bring your friend with you when you come.
+Speaker2: Okay, thank you for your help, see you later.

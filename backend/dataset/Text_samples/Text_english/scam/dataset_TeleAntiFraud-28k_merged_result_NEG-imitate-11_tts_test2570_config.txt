@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Xiao Zhang, this is the customer service representative of Tian An Kuai Di, your package was returned because the address was not detailed.
+Speaker2: Oh, really? How could my package be returned?
+Speaker1: It's like that, your address may be a bit unclear, we need you to confirm some information.
+Speaker2: How can I confirm?
+Speaker1: To make it convenient, you can click on our link, fill out the information, and we can rearrange the delivery.
+Speaker2: Link? Safe?
+Speaker1: Absolutely safe, this is our official link, you can relax now.
+Speaker2: Okay, let me try.
+Speaker1: Great, please fill out the information and we'll process it quickly. If you have any other issues, feel free to contact me anytime.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to inquire about your restaurant's reservation service, what time do you start business?
+Speaker2: Our restaurant is open from 11 am to 9 pm.
+Speaker1: What time would be most suitable to book a four-person seat?
+Speaker2: It's recommended to arrive 1-2 hours early for reserved seats.
+Speaker1: Okay, can I reserve a four-person seat for around 6:30?
+Speaker2: Of course, I will reserve it for you. What is your name and contact number?
+Speaker1: My name is Li Ming, phone number is 666666666.
+Speaker2: Okay, Mr. Li, I have reserved a four-person seat for you at six and a half.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a server at the happy restaurant. You reserved a table for tonight at six o'clock. Can you confirm if you will come?
+Speaker2: Hmm, I'm still considering, do you have any recommendations for dishes?
+Speaker1: Our restaurant's signboard menu has steamed cod, ginger and green onion, and stir-fried frog, all of which are highly rated by customers.
+Speaker2: How much does it cost to sound good?
+Speaker1: Steamed fish with clear broth is 60 yuan per portion, ginger and green onion is 18 yuan, stir-fried frog with dry sauce is 38 yuan, all are of sufficient quantity.
+Speaker2: Okay, I'll be there around 5:45, is that okay?
+Speaker1: Of course, we will save a spot for you, see you later.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome. I'm looking forward to your arrival. Goodbye.
+Speaker2: Goodbye.

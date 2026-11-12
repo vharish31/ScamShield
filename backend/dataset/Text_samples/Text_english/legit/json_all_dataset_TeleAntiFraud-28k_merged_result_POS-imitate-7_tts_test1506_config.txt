@@ -1,0 +1,10 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, I'm good, how are you?
+Speaker1: I'm good too, the weather has been pretty hot lately, how about you?
+Speaker2: Yes, here too, it's necessary to do good sun protection every day when going out.
+Speaker1: Hey, I recently want to buy a new phone, do you have any good recommendations?
+Speaker2: What price are you looking for? What is it for?
+Speaker1: The budget is approximately three thousand, mainly for internet and photography.
+Speaker2: You can take a look at this new released phone, the photo effect is particularly good, and the price-performance ratio is also very high.
+Speaker1: Can you provide specific information about this phone?
+Speaker2: Sure, I'll give you a link, you can check out the detailed parameters and user reviews.

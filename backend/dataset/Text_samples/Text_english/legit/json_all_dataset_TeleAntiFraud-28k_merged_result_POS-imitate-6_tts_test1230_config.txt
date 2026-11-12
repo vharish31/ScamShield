@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have a vegetarian set meal here?
+Speaker2: What kind of vegetable set meal would you like to know about here?
+Speaker1: What is the most popular one in terms of price and menu items?
+Speaker2: Our signature dish is the vegetable platter, priced at 38 yuan, which includes stir-fried vegetables, pickled cabbage, five-spice tofu, and is very popular.
+Speaker1: Sounds good, can I order half of this dish?
+Speaker2: Okay, the price for half is twenty yuan, the quantity is enough.
+Speaker1: Okay, I'll come over at six tonight to try it out.
+Speaker2: Okay, at six o'clock tonight, we will be ready for you, looking forward to your arrival.

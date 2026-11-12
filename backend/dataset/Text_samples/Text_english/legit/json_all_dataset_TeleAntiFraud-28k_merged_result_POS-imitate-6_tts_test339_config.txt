@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Ming, how about you recently?
+Speaker2: Hey, little Ming, I'm doing pretty good, thanks. How about you lately?
+Speaker1: I'm not bad, I just got a new job recently, it's pretty busy.
+Speaker2: Really? Congratulations! How's your new job going?
+Speaker1: No worries, it's quite challenging, but also quite rewarding. Hey, do you have any free time this weekend? Let's hang out.
+Speaker2: Weekend, I check my schedule, should be okay. Where do you want to go?
+Speaker1: Let's go try out this new restaurant that has good reviews.
+Speaker2: Great, I heard that restaurant is good, the environment is also not bad, let's go at around 7?
+Speaker1: Let's meet at six in the afternoon. It's still early, we won't be too rushed.
+Speaker2: Okay, I'll go find you at six o'clock.

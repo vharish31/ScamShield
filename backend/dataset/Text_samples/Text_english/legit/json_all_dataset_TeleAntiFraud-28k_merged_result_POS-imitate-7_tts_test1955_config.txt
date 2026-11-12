@@ -1,0 +1,12 @@
+Speaker1: Hello, how can I help you? Are there any issues with the pineapples you bought at our store?
+Speaker2: No problem, dragon fruit is quite delicious, thank you.
+Speaker1: Great, I'm glad to hear that you're satisfied. Do you have any suggestions for our service?
+Speaker2: The service is great, just a bit slow with delivery.
+Speaker1: Thank you very much for your feedback. We will improve our delivery speed as soon as possible.
+Speaker2: Hey, do you guys have any recent promotional activities?
+Speaker1: That's great, we have a buy two get one free activity this week, perfect for family gatherings or friend small parties.
+Speaker2: Can I enjoy this discount now if it sounds good?
+Speaker1: Of course, you can order now, we will immediately arrange it for you.
+Speaker2: Okay, I'll place the order. Thank you for your recommendation.
+Speaker1: No problem, we're waiting for your order, wish you happy shopping! Bye.
+Speaker2: Goodbye.

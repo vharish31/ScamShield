@@ -1,0 +1,11 @@
+Speaker1: Hello, this is JD customer service. Recently, we received user feedback that there may be issues with your order. Would you mind taking a look on your end?
+Speaker2: Uh, is there a problem with my order?
+Speaker1: Yes, according to our system, there is a possibility that your order may have been lost during delivery. To ensure your rights, we can process a refund for you.
+Speaker2: How do I handle a refund?
+Speaker1: To speed up the refund process, we need you to cooperate with us to complete some verification. First, please click on the link we sent and fill in the relevant information.
+Speaker2: Okay, I'll check my email later.
+Speaker1: Okay, the link will be sent to your phone via text message. Please pay attention to receive it and complete the operation promptly. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, I understand now, thank you.
+Speaker1: No problem, to ensure a smooth refund, you can also add my WeChat, some information communicated through WeChat is more convenient.
+Speaker2: Let's add each other on WeChat, it's more convenient that way.
+Speaker1: Okay, my WeChat number is the same as my phone number. You can add it now.

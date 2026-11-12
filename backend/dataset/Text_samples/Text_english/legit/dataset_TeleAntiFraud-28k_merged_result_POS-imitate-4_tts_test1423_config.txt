@@ -1,0 +1,14 @@
+Speaker1: Hello, how can I help you at the flower shop?
+Speaker2: Hi, how are you? I want to book a bouquet of flowers for my friend tomorrow.
+Speaker1: Okay, what type of flower do you want? We have a variety of options here, including roses, lilies, and lilacs.
+Speaker2: How many branches do I need to pick a red rose?
+Speaker1: What kind of red carnation would you like, with nine, eleven, or thirteen branches?
+Speaker2: How much is it for eleven?
+Speaker1: How long do you need to deliver 11 red roses, which cost 120 yuan?
+Speaker2: Can I send it to you around 10 am tomorrow morning?
+Speaker1: Is it okay if you leave the name of the person to send flowers and the wish message?
+Speaker2: Name: Xiǎomíng, fèngfù yǔ: shēngrì kuàilè, yǒu yuán chéng chéng.
+Speaker1: Okay, I will note it down for you. Is there anything else you need help with?
+Speaker2: No more, thank you.
+Speaker1: You're welcome, wishing your friend a happy birthday. If you need anything else, please contact us anytime. Goodbye.
+Speaker2: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? What's up? Did you encounter any problems?
+Speaker1: I turned around the corner of the restaurant I told you about before, but I couldn't find the exact location.
+Speaker2: Oh, you're at the new restaurant, right? It's just next to the big supermarket, you walk to the front of the supermarket, then turn left, walk fifty meters and you can see it.
+Speaker1: Okay, let me try to see, but your supermarket has several entrances, so which one should I enter from?
+Speaker2: Enter from the rightmost entrance, and you'll see the sign immediately upon entering, indicating the direction to the restaurant.
+Speaker1: I understand, so I should be able to find it quickly. Oh, what's the name of the menu at the restaurant you mentioned?
+Speaker2: Their signboard menu is beef noodle soup, highly recommended, and their pickled vegetables with cabbage are also very delicious.
+Speaker1: I'm starting to drool after listening to you. Thanks for your detailed guidance.
+Speaker2: No problem, I hope you enjoy your meal. If you have any questions, feel free to contact me anytime.

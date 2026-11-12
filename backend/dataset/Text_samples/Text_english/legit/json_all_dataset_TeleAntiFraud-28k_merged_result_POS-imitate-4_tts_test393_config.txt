@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your delivery service on this side, do you have a time limit for sending food?
+Speaker2: We provide delivery service from 11 am to 9 pm. You can place an order during this time period.
+Speaker1: If I order at 9:05 PM?
+Speaker2: If it's 9:05, we might not be able to take the order because we need time to prepare and deliver. It's recommended to place the order in advance to ensure timely delivery.
+Speaker1: Okay, what do you recommend dishes?
+Speaker2: We have several signature dishes here, such as spicy Sichuan hot pot, palace-style braised chicken and ginger-scallion stir-fried vegetables, all of which are very popular choices.
+Speaker1: Can I order now and pick up dinner after work tonight?
+Speaker2: Sure, you can choose self-pickup, which will also avoid delivery fees. Remember to select self-pickup time when placing your order.
+Speaker1: Okay, thank you for your help. I will place an order.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. Have a great day!

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Do you have any two-person suitable houses here?
+Speaker2: Yes, we have a one-room, one-suite apartment here that's quite suitable for two people.
+Speaker1: How much is the rent for that room per month?
+Speaker2: The monthly rent for a one-room, one-living-room apartment is 3,000 yuan, which includes water and electricity fees.
+Speaker1: Is it true that the environment around this community is good as they say online?
+Speaker2: Yes, the environment here is good, it's close to the park, and there are many convenience stores and restaurants around.
+Speaker1: That's great, I've been looking for work recently and I was wondering if there's a public transportation station near the house.
+Speaker2: Yes, if you turn left out of the door and walk for two minutes, you will reach a bus station that can take you directly to the city center.
+Speaker1: Can I go take a look at the house now? It sounds so convenient to hear.
+Speaker2: Okay, come over now, I'm waiting for you at the community door.

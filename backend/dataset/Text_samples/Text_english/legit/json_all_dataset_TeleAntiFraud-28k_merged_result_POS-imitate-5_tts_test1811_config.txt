@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have delivery service at your store?
+Speaker2: Yes, our store provides delivery service, what do you want to order?
+Speaker1: Can I order a beef noodle soup and a sweet and sour pork ribs, please?
+Speaker2: Okay, both beef noodle soup and sweet and sour pork ribs are available, do you need any drinks?
+Speaker1: Let's have a glass of iced red tea.
+Speaker2: Okay, it's 35 yuan in total. Where do you live? I'll give it to you.
+Speaker1: I live in Dongcheng Xiǎojī, specifically at Dongcheng Xiǎojī Sān hào lóu Èr dān yī hé sì zhèr liú.
+Speaker2: Okay, I have recorded your order. It will arrive approximately forty minutes later. If there are any changes, I will notify you in advance.

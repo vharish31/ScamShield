@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Is it Li first name?
+Speaker2: Yes, I just am
+Speaker1: I am a customer service representative for GreenSource Electronics, and I see that you have consulted the information of air purifiers on our website. Is it convenient for you to understand it in detail now?
+Speaker2: Sure, go ahead and say something.
+Speaker1: Okay, our latest air purifier uses HEPA high-efficiency filtering technology to effectively remove bacteria, viruses, and PM2.5 particles from the air, making it very suitable for family use.
+Speaker2: How much does it cost to sound good?
+Speaker1: The price of this air purifier is 2800 yuan, we are currently running a promotion, and you can enjoy a 90% discount when you buy.
+Speaker2: Can I get the discount now that I'm placing an order?
+Speaker1: Sure, we support nationwide next-day delivery service. After you place an order, we will arrange for shipping as soon as possible.
+Speaker2: Okay, I'll place an order and see how it goes, thank you for your detailed introduction.
+Speaker1: You're welcome. If you have any other questions, please feel free to consult us anytime. Have a happy life, goodbye!

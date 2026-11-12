@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Xiǎolín, recently I want to buy a new phone, I heard your store has new phones on the market, want to ask about it?
+Speaker2: Hello, Xiao Lin, I am handphone store customer service Li Xiao, very happy to serve you. We indeed just got a batch of new handphones, which one do you want to know about?
+Speaker1: Can you introduce me to the new flagship phone? I'm interested in it.
+Speaker2: Of course. Our new flagship machine configuration is very high, using the latest processor, the battery life is very strong, and the camera pixel has reached one million, which is very suitable for photography enthusiasts.
+Speaker1: How much does it cost?
+Speaker2: The flagship phone is priced at 4999 yuan, and our store currently has an activity where the first 100 customers who buy can enjoy a 90% discount.
+Speaker1: The 90% discount is great, but I'm a bit tight on cash lately. Do you guys have a service for installment payments?
+Speaker2: Yes, we support multiple payment options, up to 24 installments, each installment fee is very low, you can choose based on your situation.
+Speaker1: That's great, I'll consider paying in installments. By the way, what are your store's business hours?
+Speaker2: Our store's business hours are from 9am to 9pm, weekends are also open for normal business, you can choose a suitable time to come to the store for experience and shopping.

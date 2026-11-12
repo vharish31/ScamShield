@@ -1,0 +1,10 @@
+Speaker1: Hey, are you here yet?
+Speaker2: Hey, hello, I'm waiting for you at the red light.
+Speaker1: Where is the red light, I didn't see you there.
+Speaker2: I just passed the red light, so you might not have reached the red and green light yet.
+Speaker1: I think I'm almost there. If you see someone wearing a blue suit, that's me.
+Speaker2: Okay, I'll pay attention, are you wearing a blue suit?
+Speaker1: Okay, I'm wearing a blue suit, standing on the roadside waiting for you.
+Speaker2: Okay, I see you, I'll stop next to you.
+Speaker1: Okay, I see your car, you park steady, I get in later.
+Speaker2: Okay, I'm stopping now, you come slowly, pay attention to safety.

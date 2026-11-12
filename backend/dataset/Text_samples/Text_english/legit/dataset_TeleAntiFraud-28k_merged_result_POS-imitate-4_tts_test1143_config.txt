@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you still have a promotion on your washing machine at home?
+Speaker2: Hello, yes, our family's washing machine is still on sale, which model do you want to know about?
+Speaker1: What is the price of the one recommended on your website, which is double-tube and self-automatic?
+Speaker2: This washing machine was originally priced at 2500 yuan, now it's on sale for 2000 yuan, and includes a free in-home installation service.
+Speaker1: Can I enjoy this price now that it sounds good?
+Speaker2: Of course, as long as you place an order before midnight tonight, you can enjoy this discounted price.
+Speaker1: Okay, so I just placed an order. What's the estimated delivery time?
+Speaker2: In general, we can arrange delivery within two to three business days after ordering. The specific time will be confirmed with you after your order.
+Speaker1: I understand, thank you for your help, I'll place the order now.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a happy shopping!

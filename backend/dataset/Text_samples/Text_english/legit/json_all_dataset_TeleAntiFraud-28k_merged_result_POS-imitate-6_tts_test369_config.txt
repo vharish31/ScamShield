@@ -1,0 +1,9 @@
+Speaker2: Hello, who are you?
+Speaker1: Hey, I'm little Li, how's the hair salon you introduced me to last time?
+Speaker2: Oh, little Li, I went, not bad, environment good, master's handiwork also can.
+Speaker1: That's great, I plan to try it out this weekend too, do you remember which street it is?
+Speaker2: Right next to the subway station on Qingyuan Road, it's quite easy to find.
+Speaker1: Okay, then I'll go see what's going on over the weekend. Do you remember which number it is?
+Speaker2: It seems like it's 58th Street on the youth road, you can navigate there, you should be able to find it.
+Speaker1: Okay, thank you, see you this weekend.
+Speaker2: No problem, see you this weekend, be careful on the road.

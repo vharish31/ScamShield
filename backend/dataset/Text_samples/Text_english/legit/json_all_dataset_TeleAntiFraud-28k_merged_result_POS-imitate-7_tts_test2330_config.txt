@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you guys have any apples for MacBooks?
+Speaker2: Yes, Apple computers are currently in stock. Which model do you want to know about?
+Speaker1: The latest M series model, M2.
+Speaker2: Our store has stock of M series computers. The price is 9800 yuan. Now you can enjoy a 100 yuan discount when purchasing.
+Speaker1: Can you be a little cheaper?
+Speaker2: This price is already the lowest, but if you order now, we can send you an original mouse.
+Speaker1: Sure, can I add a WeChat?
+Speaker2: Sure, my WeChat number is the same as my phone number, 13500000000.
+Speaker1: Okay, I'll add one more, I'll get in touch with you later. Thank you.
+Speaker2: You're welcome, feel free to consult anytime, goodbye.

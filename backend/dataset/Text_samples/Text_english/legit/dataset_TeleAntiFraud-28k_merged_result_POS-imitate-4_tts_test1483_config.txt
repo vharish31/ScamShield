@@ -1,0 +1,12 @@
+Speaker1: Hey, are you free to talk?
+Speaker2: Hello, can I help you with anything?
+Speaker1: I want to inquire about your store's fried chicken set meal, I heard it's very delicious.
+Speaker2: Yeah, our fried chicken set meal is really popular, there's original flavor and spicy flavor, which one do you want to try?
+Speaker1: Can the spiciness be adjusted?
+Speaker2: Sure, our spicy chicken has three levels of spiciness: mild, medium, and spicy. You can choose based on your taste.
+Speaker1: What time is your business open?
+Speaker2: We open at 11 am in the morning and close at 10 pm at night. What time would be convenient for you to come?
+Speaker1: Can I come over this afternoon around five o'clock? Do I need to make a reservation in advance?
+Speaker2: No need, you can come directly, but if there are many people, maybe need to wait a little.
+Speaker1: Okay, thank you, I'll go over there around 5 pm.
+Speaker2: Okay, see you later, I hope you like our fried chicken.

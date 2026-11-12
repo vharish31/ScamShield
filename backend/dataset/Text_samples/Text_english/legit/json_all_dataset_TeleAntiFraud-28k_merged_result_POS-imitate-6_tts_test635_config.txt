@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm Li, the customer service at the nearby supermarket. I noticed you haven't been shopping here recently. Do you have any suggestions on how we can improve?
+Speaker2: Hey, how are you? Lately, I haven't been out much, mainly because work has been busy and I haven't had time to go shopping.
+Speaker1: That's right, we recently launched an online shopping service. You can place orders through our app and have them delivered straight to your door, very convenient.
+Speaker2: Is it really? It's still quite convenient, but I still don't know how to use it.
+Speaker1: No problem, I can give you a user guide, or if you have time, I can call you to guide you through the operation, you'll learn it quickly.
+Speaker2: Great, can you give me some instructions?
+Speaker1: Okay, I'll send it to you right away. By the way, we also have a new user discount promotion. You can enjoy a full discount on your first order.
+Speaker2: Great, let me take a look and see what we need to buy, just in time as we're running out of things at home.
+Speaker1: That's great! If you have any questions, please contact me anytime. I wish you a happy shopping!
+Speaker2: Okay, thank you, bye.

@@ -1,0 +1,14 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have any suitable part-time job positions here?
+Speaker2: What kind of part-time job are you looking for?
+Speaker1: I want to find a weekend job related to design.
+Speaker2: We have a part-time job that requires designing posters and promotional materials. Are you interested?
+Speaker1: Sure, can you specifically say about this job's requirements and benefits?
+Speaker2: Of course, first you need to have relevant design software skills, such as Photoshop and Illustrator, you work on weekends, each work session is four hours, and the salary is 150 yuan per session.
+Speaker1: Can you tell me what materials I need to provide?
+Speaker2: You need to provide a resume and some design samples, we can decide if you're suitable for this position based on your work.
+Speaker1: Okay, I'll prepare a bit, when can I submit it?
+Speaker2: You can send materials to our email at any time, and we will review them as soon as we receive them.
+Speaker1: Thanks for your help.
+Speaker2: No problem, wish you good luck, bye.
+Speaker1: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm little Li, I bought a piece of clothing in your store, but the size is a little small, can you tell me how to exchange or refund on this side?
+Speaker2: Hello, little Li, our return policy here is this: within 30 days of purchase, you can return the product without any reason. You can submit an application on the official website or handle it directly at the store.
+Speaker1: Okay, if I choose to ship it back, who will bear the shipping cost?
+Speaker2: If the reason for return is quality issues, the shipping cost will be borne by us; if the reason for return is personal reasons, the shipping cost will be borne by the customer.
+Speaker1: Understood, what information do I need to provide?
+Speaker2: Please provide the order number, payment receipt photo, and product photo to verify the situation.
+Speaker1: Okay, I'll handle it tonight, thank you for your help.
+Speaker2: No problem, feel free to contact us anytime if you have any questions. Have a great day!
+Speaker1: Okay, bye.
+Speaker2: Goodbye.

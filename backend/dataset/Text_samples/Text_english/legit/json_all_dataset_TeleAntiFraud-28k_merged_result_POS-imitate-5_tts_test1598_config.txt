@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Can I find Li Ming? Is he there?
+Speaker2: Hey, Li Ming went out, what can I help you tell him?
+Speaker1: Can you help him make a hair appointment for tomorrow? I don't know if you can connect with the hair salon on this side.
+Speaker2: Sure, I know a good hair salon nearby. I'll make an appointment for you.
+Speaker1: That's great, thank you.
+Speaker2: No problem, what time is the appointment scheduled for?
+Speaker1: Are you going out at three o'clock tomorrow afternoon?
+Speaker2: Three o'clock is fine, I'll arrange it now.
+Speaker1: Okay, can you help me?
+Speaker2: No problem, I'll tell Li Ming.

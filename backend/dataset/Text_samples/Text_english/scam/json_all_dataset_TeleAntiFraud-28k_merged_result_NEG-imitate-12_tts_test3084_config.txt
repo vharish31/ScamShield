@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I am the customer service manager of Huaxia Bank, recently we launched a loan with very low interest rate, do you have any recent need for cash flow?
+Speaker2: "Oh, this, I temporarily don't need."
+Speaker1: Okay, then you can add my WeChat, you can contact me later if you need anything, my WeChat is hxyh123456.
+Speaker2: Okay, I noted it down.
+Speaker1: Great, you're such a thoughtful person. By the way, we have a recent promotion, just download our app through my link and you can get a small gift, are you interested?
+Speaker2: Hmm, sounds good, how do I download it?
+Speaker1: You can download it directly by clicking on this link: https://hxyh.app/download. After downloading, remember to use my recommendation code to register. The recommendation code is HXYH123.
+Speaker2: Okay, I'll download it right away.

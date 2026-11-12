@@ -1,0 +1,10 @@
+Speaker1: Hey, are there any new models of cellphones in the market here?
+Speaker2: Hello, little Li, I am a customer service representative, we indeed just got a new phone, do you want to know specific information?
+Speaker1: Yes, I want to know the basic configuration and price of this phone.
+Speaker2: This phone uses the latest processor, has a six-inch full-screen, has eight plus one plus eight memory, has a forty-eight-megapixel camera, and costs three thousand five hundred yuan.
+Speaker1: Does this phone have any in stock?
+Speaker2: We currently have fresh products, if you're interested, you can place an order anytime.
+Speaker1: Okay, I also want to ask about the delivery time.
+Speaker2: If you place an order, we will ship it within 24 hours and it usually takes 2-3 days to arrive in most parts of China.
+Speaker1: That's great, thank you for your detailed answer, I decided to buy one.
+Speaker2: Thank you very much for your support. If you have any other questions, please feel free to consult anytime.

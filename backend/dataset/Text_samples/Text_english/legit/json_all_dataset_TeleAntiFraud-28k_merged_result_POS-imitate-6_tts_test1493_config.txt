@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you deliver food to South Mountain Park?
+Speaker2: Yes, South Mountain Park is within our delivery range.
+Speaker1: That's great, can I order a beef stir-fry and a sweet and sour pork ribs, please?
+Speaker2: Of course, both beef stir-fry and sweet and sour pork ribs are delicious. Do you want to have some drinks?
+Speaker1: Let's have a glass of iced red tea.
+Speaker2: Okay, it's 35 yuan, estimated to arrive at South Mountain Park in 40 minutes.
+Speaker1: Okay, I'll wait at the park gate at the designated time. Thank you!
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Enjoy your meal!

@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: I'm little Li, yesterday I rented a bike from your store, now I want to return it.
+Speaker2: Hello, little Li, we remember you here. Where are you now?
+Speaker1: I'm standing outside your store, but it seems like there's no one inside.
+Speaker2: Please put your bike in the designated parking area near the door, we will process it quickly.
+Speaker1: Okay, can I put it here? Won't there be any problems?
+Speaker2: No problem, don't worry. We will register your return information.
+Speaker1: I hope you can recognize the red bike I rented yesterday.
+Speaker2: Okay, we will confirm. If there are no other issues, you can leave first.
+Speaker1: Okay, thank you. Bye.
+Speaker2: Goodbye, wish you a happy day.

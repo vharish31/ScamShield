@@ -1,0 +1,10 @@
+Speaker1: Hello, you are welcome to the Peace Bank Credit Card Center. I am the manager, Zhang.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed you have recent spending records, do you need help with managing your cash flow? We can provide low-interest loan services.
+Speaker2: No need, thank you.
+Speaker1: Okay, but if you need anything, feel free to contact us. By the way, we have a new activity, just download our app to enjoy more discounts.
+Speaker2: What are the special benefits of downloading the app?
+Speaker1: Of course, after downloading the app, you can enjoy lower interest rates and exclusive customer service, which is very convenient.
+Speaker2: How do I download it?
+Speaker1: Very simple, just click this link, and you can download directly.
+Speaker2: Okay, let me try.

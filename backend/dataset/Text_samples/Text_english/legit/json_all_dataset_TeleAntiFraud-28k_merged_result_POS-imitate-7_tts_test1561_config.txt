@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, did the package arrive?
+Speaker1: Hey, are you there? Where are you?
+Speaker2: Can you help me send it over from the community gate?
+Speaker1: Sure, are you at the third floor?
+Speaker2: Yes, it's the third floor, there's a red mailbox at the door, just put it there.
+Speaker1: Okay, okay. I'll send it over right away.
+Speaker2: Thank you, please.
+Speaker1: No problem, just take a look when you have a minute.
+Speaker2: Okay, I understand, thank you.

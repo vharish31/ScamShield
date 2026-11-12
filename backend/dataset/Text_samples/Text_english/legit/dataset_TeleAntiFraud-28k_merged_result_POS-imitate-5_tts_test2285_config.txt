@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang. I saw there's a rental room in your community. Can you tell me more details?
+Speaker2: Hello, little Zhang, I am the landlord, this room is still rented, do you have any specific needs?
+Speaker1: How much is the rent for this room, and does it have air conditioning and internet?
+Speaker2: Rent is 800 yuan per month, room comes with air conditioning, internet can be handled by yourself.
+Speaker1: Is this room facing north? How's the lighting?
+Speaker2: The room is to the east, there will be some sunlight in the morning, it can be illuminated.
+Speaker1: How much is the property fee in your community?
+Speaker2: The property fee is indeed 50 yuan per month, but this fee includes the basic maintenance and cleaning services of the community.
+Speaker1: When is it convenient for me to see the house?
+Speaker2: You can come over at three in the afternoon tomorrow, I'll be waiting for you at home.

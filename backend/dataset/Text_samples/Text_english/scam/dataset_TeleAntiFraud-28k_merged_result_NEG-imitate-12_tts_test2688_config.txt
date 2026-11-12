@@ -1,0 +1,18 @@
+Speaker1: Hello, you are the manager of the China Construction Bank, right?
+Speaker2: Yes, hello.
+Speaker1: Mr. Li, we recently introduced a low-interest loan product on this side, which is very suitable for small and medium-sized enterprise owners. Are you interested?
+Speaker2: Hey, I recently need to turn over some cash, can you give me a detailed introduction?
+Speaker1: Of course. This loan product has a very low interest rate, only needs 5 cents, and the approval process is very fast, usually can be approved on the same day.
+Speaker2: What does it sound like? What procedures are needed?
+Speaker1: You just need to provide business license, ID and bank statement, we will approve after review on this side, then you can get the loan.
+Speaker2: Do I need to go to the bank?
+Speaker1: No need, just download our app, submit data through app, approved, loan directly deposited into your account.
+Speaker2: How do I download this app?
+Speaker1: You can download it through the link in the text message, or I can send you a QR code, you can scan it and download it.
+Speaker2: Okay, can you send me the 2D code?
+Speaker1: Okay, I'll send it right away. Add my WeChat, I'll note it down for future contact.
+Speaker2: Okay, I'll add you on WeChat.
+Speaker1: Okay, please add me on WeChat after you receive the QR code. Please let me know once you've added me so we can connect and process right away.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, wish you all the best, goodbye.
+Speaker2: Goodbye.

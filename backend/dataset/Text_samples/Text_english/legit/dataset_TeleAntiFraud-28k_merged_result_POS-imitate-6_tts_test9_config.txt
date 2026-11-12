@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? Can you tell me if there's a double room for two people here?
+Speaker2: Hello, yes, we have standard double rooms here, price is 350 yuan per night, included breakfast for two.
+Speaker1: If I stay three days, do you have any discounts?
+Speaker2: If you stay three days, we can provide a 90% discount, and also send you a free breakfast at the hotel.
+Speaker1: Does it sound good? Then do I need to book in advance?
+Speaker2: Yes, I recommend you book in advance, especially on weekends and holidays, rooms will be tight.
+Speaker1: Sure, can I book a room for this weekend?
+Speaker2: Sure, I can help you book it. Can you provide your name and contact information?
+Speaker1: My name is Zhang Ming, phone number is 13800138000.
+Speaker2: Okay, Mr. Zhang Ming, your reservation is complete. The double room for you has been reserved for next weekend. If there are any changes, we will contact you promptly.

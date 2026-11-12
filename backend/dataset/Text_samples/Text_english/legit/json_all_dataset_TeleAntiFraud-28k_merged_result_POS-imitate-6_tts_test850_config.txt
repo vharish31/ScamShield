@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you at the happiness community property center?
+Speaker2: Hello, recently my home's water heater has been dripping water, can you send someone to take a look?
+Speaker1: Is that okay? Can we arrange a maintenance technician to come over and check here? What time is most convenient?
+Speaker2: Can I come over from three to five in the afternoon?
+Speaker1: No problem, I'll arrange it now, the teacher will contact you to confirm the specific time.
+Speaker2: Okay, I'll wait for the teacher's phone call. There's another question, I've been having trouble finding a parking spot in the community recently, do you know if there's a solution?
+Speaker1: We have noticed this issue as well, and we are planning to add parking spaces while also considering implementing split-time parking management to better meet everyone's needs.
+Speaker2: That's it, then. Thank you.
+Speaker1: No problem, feel free to contact us anytime if you have any questions. We'll do our best to solve them. Goodbye.
+Speaker2: Okay, bye.

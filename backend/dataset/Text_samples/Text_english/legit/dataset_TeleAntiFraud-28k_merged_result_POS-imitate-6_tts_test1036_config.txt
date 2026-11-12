@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask if there's a new electric toothbrush in your place.
+Speaker2: Hello, do you want to know the specific information about our new electric toothbrush?
+Speaker1: Yes, I want to know its price and features.
+Speaker2: This electric toothbrush costs 388 yuan, it has three cleaning modes, namely clean, white and massage, and also has intelligent timing function, which makes it very convenient to use.
+Speaker1: How long does the battery of that last?
+Speaker2: This electric toothbrush can be used for about two weeks after being fully charged, and it takes approximately twelve hours to charge.
+Speaker1: Does the store have any goods now?
+Speaker2: The goods are currently available, but the stock is limited. If you're interested, you can place an early order.
+Speaker1: Okay, I'll place an order today. How fast can you ship it from your end?
+Speaker2: We usually ship within 24 hours after ordering, and most regions can receive it in 3-5 days.
+Speaker1: Okay, thank you for your detailed introduction, so I'll order now.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, wish you a happy shopping.

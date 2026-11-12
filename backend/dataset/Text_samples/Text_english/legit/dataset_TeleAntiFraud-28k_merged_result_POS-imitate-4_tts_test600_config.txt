@@ -1,0 +1,14 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Zhang, I saw your recruitment ad, want to know more
+Speaker2: Hello, little Zhang, are you interested in which position?
+Speaker1: I am interested in the position of assistant chef, can you tell me about the specific requirements and benefits?
+Speaker2: The position of assistant chef requires basic kitchen work experience. The trial period salary is 4,500 yuan, and the monthly salary after probation is 5,000 to 6,000 yuan, including meals.
+Speaker1: Hey, how long do you work?
+Speaker2: Work hours are eight hours a day, one day off a week, sometimes there are overtime hours, and overtime hours have extra pay.
+Speaker1: What materials do I need to prepare for the job application?
+Speaker2: You can prepare a personal resume and related kitchen work certificates, including health certificates if available.
+Speaker1: Okay, I will be ready. When can I come for the interview?
+Speaker2: You can choose 2:00 PM tomorrow, I will arrange an interview time for you.
+Speaker1: Okay, I'll arrive at two o'clock in the afternoon tomorrow. Thank you.
+Speaker2: No problem, I'm looking forward to your arrival, goodbye.
+Speaker1: Goodbye.

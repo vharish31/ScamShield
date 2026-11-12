@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Tmall customer service. We found that the lipstick you bought previously has quality issues. Now we can process a refund for you.
+Speaker2: Really? I didn't see your notice?
+Speaker1: That's it, we'll notify you via phone, for safety reasons, we suggest you download our official app to handle the refund process, ensure the safety of your funds.
+Speaker2: Download the app? How can I know if this app is real?
+Speaker1: Our app is searchable on all major app markets, and we currently have a special promotion. After downloading the app and logging in for the first time, you'll receive a 200 yuan discount coupon.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much for your cooperation. If you have any issues after downloading, please feel free to contact our customer service at any time, and we will promptly solve them for you.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you happy life, bye.
+Speaker2: Goodbye.

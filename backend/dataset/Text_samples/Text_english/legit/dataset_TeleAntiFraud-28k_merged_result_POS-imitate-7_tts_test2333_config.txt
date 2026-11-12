@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, can you help me look for some good recommendations?
+Speaker2: Hello, Xiaoming, I am the little king of the phone shop, of course I can. What kind of phone do you want, do you have any special requirements? For example, photography, battery life or game performance?
+Speaker1: Hey, I mainly use it for taking photos and occasionally playing games, with a budget of around three to four thousand.
+Speaker2: Okay, this budget can consider our store's latest products, the photo quality is excellent, the game performance is not bad, and there is now a discount promotion for purchasing, are you interested in learning more?
+Speaker1: What is the megapixel count of this phone's camera and the battery capacity?
+Speaker2: This phone's camera is 48 million pixels, the battery capacity is 4500 mAh, the endurance is very strong, and it can be used normally for a whole day without any problems.
+Speaker1: What promotional activities are there for this phone now?
+Speaker2: You can enjoy a 200 yuan discount when buying now, and you will also get free gifts, such as phone cases and screen protectors.
+Speaker1: Great, when can I come to the store to take a look?
+Speaker2: Can you come at around 3 PM tomorrow? I'll give you a detailed introduction of this phone when you arrive.

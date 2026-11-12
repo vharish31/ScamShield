@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Hey, it's me.
+Speaker1: Hello, I am the manager of Huaxing Bank, based on our records, it seems that you may have recently had a need for cash flow, would you like to know more about it? Have you considered borrowing recently?
+Speaker2: Uh, I don't have this plan yet.
+Speaker1: That's right, by the way, we currently have a special discount loan project with a very low interest rate, fast approval, no collateral required, are you interested in learning more?
+Speaker2: How do I apply?
+Speaker1: You can add my WeChat first, I will send you specific information, you can look at it later if you have any questions, we can further communicate.
+Speaker2: Wechat? I add you?
+Speaker1: Okay, my WeChat number is Xiaoming Loan Manager. Add me and I'll send you the data.
+Speaker2: Okay, I'll add you.

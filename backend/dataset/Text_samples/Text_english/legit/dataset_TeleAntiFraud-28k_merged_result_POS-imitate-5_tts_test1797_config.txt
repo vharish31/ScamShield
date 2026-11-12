@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Do you have a job opening at your home?
+Speaker2: Yes, we are hiring workers.
+Speaker1: What kind of job are you looking for?
+Speaker2: The main thing is mechanical processing, such as CNC programming and mold making these.
+Speaker1: Do you need welding?
+Speaker2: No welding is needed, mainly it's about the mold and machinery.
+Speaker1: How was the encounter?
+Speaker2: We need to look at your experience and skills specifically. Generally speaking, the monthly salary is usually between 5,000 to 8,000 yuan.
+Speaker1: Can I send you my resume first?
+Speaker2: Sure, send your resume to my WeChat, add me to WeChat, my number is the same as my phone number.

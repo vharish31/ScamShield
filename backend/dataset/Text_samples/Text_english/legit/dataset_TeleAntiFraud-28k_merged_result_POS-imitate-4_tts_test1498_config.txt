@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if this restaurant has a vegetarian set menu?
+Speaker2: Yes, we have various vegetable set meals here, you can choose according to your taste.
+Speaker1: How much does the set meal with vegetables cost?
+Speaker2: The price for a set meal with four vegetable dishes and one main course is 40 yuan per person.
+Speaker1: How about your restaurant opens at what time?
+Speaker2: Our restaurant opens at 10 am every day and closes at 10 pm.
+Speaker1: Okay, I plan to go to your restaurant for dinner this weekend. Do I need to reserve a seat in advance?
+Speaker2: I suggest booking in advance, especially on weekends, when it's busier. Please let me know the specific time, and I'll help you book.
+Speaker1: Can I reserve this Saturday afternoon at 2 PM?
+Speaker2: Okay, I've already booked it for you. See you then!

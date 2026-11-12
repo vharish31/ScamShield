@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Beijing Bank. Do you have any recent requirements for cash flow?
+Speaker2: Hello, I recently need some money, do you have any loan products?
+Speaker1: Yes, we have a loan with a very low interest rate, only 0.02%, and the application process is very convenient and fast.
+Speaker2: How do I apply for that which sounds good?
+Speaker1: You can first click on our website link, complete registration and data submission, and get approved for funding after review.
+Speaker2: Okay, what should I do to click on the link?
+Speaker1: Just add my WeChat, I'll send you a link via WeChat, it's safer that way.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: My WeChat number is beijingbankloan, add me, I'll send you a link right away.
+Speaker2: Okay, I'll add you.

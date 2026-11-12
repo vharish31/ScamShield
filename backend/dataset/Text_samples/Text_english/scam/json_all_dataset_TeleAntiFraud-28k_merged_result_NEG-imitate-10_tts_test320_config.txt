@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is Zhang from the credit card center of China Construction Bank. We noticed that you've been using your credit card less frequently recently. To thank you for your support of our bank, we've prepared a special gift for you. Would you be interested in learning more about it?
+Speaker2: Okay, tell me, what is the gift?
+Speaker1: We have prepared a three-month free trial of our new smartwatch for you. Simply click the link below to download our official app, register, and link your credit card to receive it for free.
+Speaker2: So, how would I know if this app is your bank's?
+Speaker1: You can rest assured that our app is officially certified, and you can directly query your bank account on the official bank website after downloading it. If you have any questions, you can contact our customer service at any time.
+Speaker2: Okay, I'll give it a try, thanks for your recommendation.
+Speaker1: No problem, if you encounter any issues during the use process, please feel free to contact me at any time. By the way, in order to ensure that you can successfully receive the gift, we need you to provide the last four digits of your credit card and its expiration date, is that okay?
+Speaker2: Okay, my credit card last four digits are six seven eight nine, effective period is 2025 year twelve month.
+Speaker1: Okay, I have recorded it down, you will receive a text message later with a verification code that you need to input into our app to complete the verification.
+Speaker2: Okay, I understand, thank you.

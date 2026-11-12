@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, did you buy something from us before?
+Speaker2: Uh, okay, what's up?
+Speaker1: We found that the products you bought had quality issues, the company decided to give you a full refund.
+Speaker2: Is it really? That's great, how do I refund?
+Speaker1: To quickly process, please click this link, input relevant information, and we will handle the refund.
+Speaker2: Okay, I'll click on it.
+Speaker1: Let's wait a minute, you add my WeChat first, I send you the link, this way is safer.
+Speaker2: Okay, I'll add you on WeChat.
+Speaker1: After you finish adding WeChat, please tell me one sound, we will immediately process your refund.
+Speaker2: Okay, I'll add up.

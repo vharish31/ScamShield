@@ -1,0 +1,10 @@
+Speaker2: Hello!
+Speaker1: Hello, I am the manager of the Agricultural and Commercial Bank, we have recently introduced a new financial product with very stable returns, would you like to know more?
+Speaker2: Oh, this sounds good, can you give a detailed explanation?
+Speaker1: Of course, this product's annual return rate can reach 10%, and the risk is very low. As long as you invest 10,000 yuan, you will have more than 1,000 yuan in return after one year, which is very cost-effective.
+Speaker2: What a good thing! Then I have to consider consider, how to operate?
+Speaker1: It's very simple. Just download our wealth management app, register and you can buy. I can give you a link, just click to download and enjoy new user discount.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you this link right away. If you have any issues after downloading, feel free to contact me anytime.
+Speaker2: Thank you, I'll send the link later.
+Speaker1: No problem, just a moment, I'll send it right away. Best wishes for your investment, goodbye.

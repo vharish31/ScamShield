@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service of the food square, you ordered food from us before, do you want to try our new special menu items?
+Speaker2: Hello, do you have any special dishes?
+Speaker1: We have newly introduced seafood pizza and new flavor sushi, the taste is amazing, would you like to try?
+Speaker2: Can you deliver to happiness road 108?
+Speaker1: Sure, we deliver to the entire city, you can place an order now, it will take about 30 minutes to arrive.
+Speaker2: That's great, I want a seafood pizza and two flavors of new sushi, and also a cup of mango ice cream.
+Speaker1: Okay, your order has been recorded. We will prepare it quickly. Do you need anything else?
+Speaker2: No more, thank you.
+Speaker1: No problem, if you are satisfied with our service, please give us a good review. Enjoy your meal, goodbye!
+Speaker2: Okay, bye!

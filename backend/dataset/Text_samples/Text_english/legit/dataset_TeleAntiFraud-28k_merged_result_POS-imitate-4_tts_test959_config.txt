@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: Where are you?
+Speaker1: I just got off the subway station, I'm walking to your house, about ten minutes left or right.
+Speaker2: Okay, I'll wait for you. Did you bring an umbrella? The weather forecast says there's a chance of rain today.
+Speaker1: Bring it, but the weather looks okay now, it shouldn't rain.
+Speaker2: Okay, got it. You just said you wanted to eat pizza, I ordered it ahead of time, it should be ready when we get there.
+Speaker1: That's great! Thank you! You're so kind.
+Speaker2: No problem, friend, you should be. Be careful on the road.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, your delivery is here, where are you?
+Speaker2: Hey, hello, I'm at the community door, can you bring it over?
+Speaker1: Okay, I'll come over now, wait for me a moment.
+Speaker2: Okay, hurry up, I'm a bit urgent.
+Speaker1: Knowing that, I will try my best to be quick. What's your phone number? In case I can't find you, I can contact you.
+Speaker2: My phone number is 13801380138, you arrived to give me a call.
+Speaker1: Okay, got it. I'll be there in about five minutes, just wait a bit.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Okay, thank you, see you later.
+Speaker2: Okay, see you later.

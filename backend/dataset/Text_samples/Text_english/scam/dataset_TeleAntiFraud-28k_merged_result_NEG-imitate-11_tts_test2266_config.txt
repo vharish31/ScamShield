@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Liu, the customer manager at the Chinese bank. How's the recent operation of your company in Chongqing?
+Speaker2: Can we do it again? What do you have in mind?
+Speaker1: That's right, we recently launched a special discount loan project. All you need is a business license to apply for a 50,000 loan, no collateral, fast approval, low interest rate.
+Speaker2: The sound is good, but I'm a bit worried about loans.
+Speaker1: I completely understand your concerns. This project is specifically designed for small and medium-sized enterprises, and we have a professional team to provide you with one-on-one service. You can first learn more about it, and if you're interested, you can click on the link we provide to learn more details.
+Speaker2: Link? How do you provide it to me?
+Speaker1: You can add my WeChat first, I'll send you the link through WeChat, it's more convenient this way.
+Speaker2: Okay, let me add you on WeChat.

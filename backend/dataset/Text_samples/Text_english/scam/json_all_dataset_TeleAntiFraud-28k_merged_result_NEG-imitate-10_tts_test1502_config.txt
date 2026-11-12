@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative at Taobao, with the employee number six three nine. We found that there was a problem with your order, and we need to handle it for you.
+Speaker2: What problem?
+Speaker1: Your order was lost in the shipping process, so we need to process a refund for you.
+Speaker2: How do I get a refund?
+Speaker1: You need to download our official refund app to complete the refund process.
+Speaker2: Okay, what's the name of the app?
+Speaker1: Download the APP called "Tourist Return", follow the instructions, and a guide will lead you through the refund process.
+Speaker2: Okay, I'll go download it now.

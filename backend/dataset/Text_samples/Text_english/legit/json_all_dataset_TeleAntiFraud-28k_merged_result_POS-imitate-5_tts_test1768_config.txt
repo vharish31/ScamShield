@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer service of the food delivery platform. You have recently ordered food from our platform. Now there is a promotion activity, and we want to know your opinion.
+Speaker2: Hey, great, do you guys have any discount activities?
+Speaker1: We have a new user discount of 50 yuan on our platform, but since you are already a long-time user of our platform, we have prepared a special discount for you, buy one hundred and get thirty off.
+Speaker2: Can I use this discount now that I heard it's good?
+Speaker1: Of course, you can place an order now, and you can select to use the discount coupon directly during the settlement process.
+Speaker2: What do you want to eat?
+Speaker1: Okay, our platform has many merchants, from Sichuan cuisine to Cantonese cuisine, from fast food to dessert, there should be everything you need, what do you find interesting?
+Speaker2: What do you recommend for a refreshing break lately?
+Speaker1: Our platform has a very popular vegetarian restaurant, their signature dish is artichoke salad and prime spring rolls, the reviews are very high, you can try it.
+Speaker2: The artichoke salad sounds good, I'll order it. Thank you for your recommendation.
+Speaker1: You're welcome. I hope you enjoy your meal. If you have any suggestions about our service, please feel free to tell me anytime.

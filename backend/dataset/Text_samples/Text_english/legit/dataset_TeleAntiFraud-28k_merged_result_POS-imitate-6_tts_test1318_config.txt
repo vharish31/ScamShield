@@ -1,0 +1,9 @@
+Speaker1: Hello, this is the Happy Garden Property Management, may I ask if you've had any issues recently?
+Speaker2: "Hey, how are you? I feel like there's a leak in the water pipes at home, do you know if the property management can fix it?"
+Speaker1: Of course, we can send a repairman to your door to take a look, what time is convenient for you?
+Speaker2: Can we meet at three in the afternoon tomorrow?
+Speaker1: Okay, tomorrow afternoon at three o'clock, we will be on time to pick up the master, please remember to leave the door.
+Speaker2: Alright, thank you, how can I confirm that the master is your person?
+Speaker1: We will give the master a work certificate with the property logo and his name on it. Just take a look at it later.
+Speaker2: I understand, so I'll come over tomorrow to meet the teacher, thank you for your help.
+Speaker1: No problem, please feel free to contact us anytime, wish you a happy life.

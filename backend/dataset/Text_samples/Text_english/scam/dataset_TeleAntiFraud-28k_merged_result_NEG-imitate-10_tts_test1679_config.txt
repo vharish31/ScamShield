@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello, what do you have?
+Speaker1: Hello, I am the customer manager of XX bank, we have a very good loan project, zero down payment, no collateral, low interest rate, fast payout, are you interested in learning more?
+Speaker2: Can I borrow some money? I've been having some trouble with my cash flow lately, could you give me some info?
+Speaker1: Great, just download our app, fill out some basic info, and get approved, and the money will immediately be in your account. Very convenient.
+Speaker2: Is this app safe? Will there be any risks?
+Speaker1: Of course, our app has passed multiple security checks and is officially released through authorized channels. You can use it with peace of mind.
+Speaker2: How do I download this app?
+Speaker1: You can directly click on the link I sent you or scan the QR code I sent you, and you can download it directly.
+Speaker2: Okay, let me try.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there?
+Speaker2: Hello, I'm here. What do you need?
+Speaker1: The delivery of the takeout order I just placed hasn't arrived yet.
+Speaker2: Are you on which platform? I can help you check.
+Speaker1: It's an order from the "fast food delivery" section, the order number is 123456.
+Speaker2: Okay, I'll check here. Hmm, your order is ready, it's on its way now, about ten minutes left.
+Speaker1: Okay, I'll just wait a little longer. Thank you.
+Speaker2: No problem, if you have other questions feel free to contact me, wish you enjoy your meal.
+Speaker1: Okay, bye.
+Speaker2: Goodbye.

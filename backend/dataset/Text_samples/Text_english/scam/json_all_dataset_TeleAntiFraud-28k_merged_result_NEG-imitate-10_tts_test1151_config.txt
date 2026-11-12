@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. Have you recently shopped at our bank recently?
+Speaker2: Hello, I haven't been shopping at your place recently.
+Speaker1: Oh, that's right, but our system here shows you have an unprocessed order, do you need my help to process it?
+Speaker2: Is this really true? How come I didn't know?
+Speaker1: You might not have noticed at the time, but that's okay. I can help you solve it. To confirm your identity, can you tell me your name and the last four digits of your ID?
+Speaker2: My name is Li Xiaoxi, the last four digits of my ID are 1234.
+Speaker1: Okay, Li Xiaoxia, thank you for your cooperation. We need you to click on this link to complete the order processing, link is: (phone call does not provide actual link, simulate conversation scene)
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact me anytime.
+Speaker2: Okay, thank you.

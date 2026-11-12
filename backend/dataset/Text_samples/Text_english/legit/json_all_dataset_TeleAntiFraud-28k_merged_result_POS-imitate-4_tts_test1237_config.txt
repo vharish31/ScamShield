@@ -1,0 +1,13 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, is this store open today?
+Speaker2: Business hours are from ten in the morning to ten in the evening.
+Speaker1: Do you have any special dishes?
+Speaker2: Yes, our store's signboard menu is red-braised pork and steamed fish, and many customers recommend it.
+Speaker1: Can I reserve a four-person private room?
+Speaker2: Okay, what time do you want to make a reservation?
+Speaker1: Are you leaving at six and a half in the evening?
+Speaker2: Okay, 6:30, the private room is reserved for you.
+Speaker1: Thanks, can I just come directly at the time?
+Speaker2: Okay, just come directly and we'll prepare everything for you.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later.

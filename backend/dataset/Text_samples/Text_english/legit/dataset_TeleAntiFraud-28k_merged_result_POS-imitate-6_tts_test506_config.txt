@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Sigh, hello, I'll find one of your customer service specialists
+Speaker1: Okay, what can I help you with?
+Speaker2: I bought a smartwatch from your store a few days ago, but now the strap is loose, and I want to consult on how to handle it.
+Speaker1: Hmm, this situation is okay, you can first check if the watchband is loose, if it's just loose, we have a video tutorial to teach you how to adjust it.
+Speaker2: Hmm, I'll take a look first, what if it's not good?
+Speaker1: If the adjustment is not good, you can take it to the nearest repair shop, or we can arrange for a courier to pick it up at your door and deliver it to you after the repair is done.
+Speaker2: Okay, I'll try it first, and if it still doesn't work, contact you.
+Speaker1: Okay, give it a try. If you have any questions, feel free to contact us. Do you need any other help?
+Speaker2: No more, thank you for your help.
+Speaker1: You're welcome, wish you a happy day.

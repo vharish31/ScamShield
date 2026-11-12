@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, I saw the job post you guys put up on the community group, I want to know more about the specific job details.
+Speaker2: Hello, little king, I am the recruiter, small zhang, very happy to get your call. Which position among our job postings are you interested in?
+Speaker1: I saw your administrative assistant position and want to know more about the job responsibilities and requirements.
+Speaker2: The administrative assistant is primarily responsible for managing the daily affairs of the office, organizing and archiving files, and assisting other departments with some administrative tasks. We hope the applicant has good communication skills and basic proficiency in office software operation.
+Speaker1: Does this job require frequent overtime?
+Speaker2: In general, our work hours are fixed, but there may be overtime occasionally, but it's not common. If there's an urgent project, there might be a need for overtime.
+Speaker1: Where is the location of the work?
+Speaker2: Our company is located in the blue sky building in the city center, which is convenient for transportation, and there are subway and bus stations nearby.
+Speaker1: Can I give you my resume? It sounds good.
+Speaker2: Of course, you can send your resume to our official email, we will reply to you within one workday after receiving it.

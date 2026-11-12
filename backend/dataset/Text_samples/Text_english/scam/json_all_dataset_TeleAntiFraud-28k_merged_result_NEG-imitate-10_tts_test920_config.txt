@@ -1,0 +1,14 @@
+Speaker1: Hello, this is the customer service representative of XX platform, you bought a product with quality issues on our platform before, do you need to handle return and refund, can you handle it easily?
+Speaker2: Okay, then what do I need to do?
+Speaker1: Just click on the link we provide, follow the instructions to complete the refund, we'll send it to you via text message, make sure to check it.
+Speaker2: Okay, I'll check my messages later.
+Speaker1: Okay, to ensure your funds are safe, please provide your bank card number and verification code so we can process quickly.
+Speaker2: This...no problem, I wait short message come then tell you.
+Speaker1: Okay, the information you provided is very important, we assure you it will only be used for this refund and will not be disclosed to any third party. Thank you for your cooperation.
+Speaker2: Okay, I know.
+Speaker1: Would you like to know more about our discount promotion?
+Speaker2: Can you tell me in detail what happened?
+Speaker1: Of course, you just need to download our platform's APP and register a new user to get a 100 yuan discount coupon, which is very cheap.
+Speaker2: Okay, I'll download it later.
+Speaker1: Okay, thank you very much for your cooperation. If you have any questions, please feel free to contact our customer service at any time. Goodbye.
+Speaker2: Goodbye.

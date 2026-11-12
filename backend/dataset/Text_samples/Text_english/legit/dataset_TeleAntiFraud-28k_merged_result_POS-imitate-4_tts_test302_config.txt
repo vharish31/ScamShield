@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I'd like to inquire about your household services, specifically cleaning services.
+Speaker2: Of course, our cleaning service includes daily cleaning, deep cleaning and moving in/out cleaning. Which one do you specifically need?
+Speaker1: I recently need to move, want to know more about the depth cleaning service before moving.
+Speaker2: Our deep cleaning service before moving includes cleaning every corner of the house, thoroughly cleaning the kitchen and bathrooms. Our service prices are based on the size of the house, approximately around five hundred yuan.
+Speaker1: How long do I need to book this price?
+Speaker2: In general, we can arrange personnel door-to-door service within three to five days. You can choose specific time, we will do our best to meet your needs.
+Speaker1: Okay, can I make a reservation for next Tuesday, please?
+Speaker2: We can meet on Thursday at 9 am at your place. If there are any changes, we will contact you in advance.
+Speaker1: Okay, thank you for your help, looking forward to your service.
+Speaker2: No problem, feel free to contact us anytime if you have any questions, wish you a smooth move.

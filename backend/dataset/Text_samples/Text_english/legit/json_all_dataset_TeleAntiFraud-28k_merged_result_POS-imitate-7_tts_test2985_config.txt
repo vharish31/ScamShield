@@ -1,0 +1,16 @@
+Speaker1: Hello, I want to ask if there are any discounts on new phones in your store?
+Speaker2: Hello, our new phone is now on sale with a 95% discount and a free gift.
+Speaker1: What is the gift?
+Speaker2: The gift is a high-quality pair of earphones and a phone case.
+Speaker1: What time can I get the product if I buy it now?
+Speaker2: If you place an order now, we can ship it to you tomorrow, usually within two to three days.
+Speaker1: Can I have the goods delivered directly to my home or do I need to go to the store and pick them up myself?
+Speaker2: You can choose to pick up at the store or have it delivered to your home, but if you choose delivery, you need to pay shipping fees.
+Speaker1: How much delivery fee do I need to pay for choosing express delivery home?
+Speaker2: Delivery fee for express to home is 30 yuan, if total price of phone you bought is over 3000 yuan, we can give you free express to home.
+Speaker1: Okay, since the total price is over three thousand yuan, I'll choose to have it delivered to my home.
+Speaker2: Okay, so I'll help you place an order. Please provide a delivery address and contact phone number, and we'll process it immediately.
+Speaker1: Okay, my address is Huayang Road No. 33, and my contact phone number is 13800138000.
+Speaker2: Okay, your order has been recorded. We will arrange for shipping as soon as possible. If there are any issues, we will contact you promptly.
+Speaker1: Thank you, then I'll wait for the phone call.
+Speaker2: You're welcome, thank you for your support, wish you a happy life, goodbye!

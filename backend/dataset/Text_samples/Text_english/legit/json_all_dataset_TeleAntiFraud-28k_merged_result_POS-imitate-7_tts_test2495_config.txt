@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask, do you have any vegetarian set meals here?
+Speaker2: Hello, do you want to know the specific contents of our vegetarian set meal?
+Speaker1: Okay, what are the menu items and how much do they cost?
+Speaker2: The vegetarian set meal includes a cold dish platter, a stir-fried vegetable dish, a vegetable soup, and a main dish, priced at 35 yuan.
+Speaker1: Can I reserve a seat for tomorrow's lunch at noon? It sounds good.
+Speaker2: Is it for one person or multiple people? Do you need to reserve several tables?
+Speaker1: Four of us can fit around one table.
+Speaker2: Okay, tomorrow at noon twelve, we have space here, you can come directly.
+Speaker1: Okay, thank you. And, do you have any recommendations for drinks?
+Speaker2: We have our own lemonade and red tea, both highly rated by customers, you can try them.
+Speaker1: I'll go for the iced red tea, thanks for your recommendation.
+Speaker2: Okay, see you tomorrow.

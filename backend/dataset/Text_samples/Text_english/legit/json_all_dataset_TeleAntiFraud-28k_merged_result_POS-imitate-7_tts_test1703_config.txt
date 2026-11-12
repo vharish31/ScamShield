@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I bought a cup from your store a few days ago, it leaked and I want to return it, can I?
+Speaker2: Hello, can I exchange or refund, please provide the purchase order number, we will check here.
+Speaker1: Okay, my order number is one two three four five six seven eight nine zero.
+Speaker2: Okay, I found it. This order meets the return conditions. You can send the cup back, and we'll process the refund when we receive it.
+Speaker1: Who will bear the shipping cost of the package that was sent back?
+Speaker2: If it's a quality issue with the product, we'll cover the shipping costs. You can choose to pay for express delivery or we can provide a free shipping label here.
+Speaker1: So I'll choose to have the package delivered to the post office, how should I provide the address and contact information to you guys?
+Speaker2: You can find the return/exchange address in the order details, send us the tracking number, we can help you track it.
+Speaker1: Okay, I understand. Thank you for your help.
+Speaker2: You're welcome. If you have any other questions, feel free to contact our customer service anytime. Have a great day!

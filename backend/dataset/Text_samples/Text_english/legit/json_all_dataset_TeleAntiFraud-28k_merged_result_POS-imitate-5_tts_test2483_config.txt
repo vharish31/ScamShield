@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer service representative you contacted about finding a room with the shell company.
+Speaker2: Hello,
+Speaker1: That's right, I have a customer who is very interested in your properties recently and wants to schedule a time to come and see them.
+Speaker2: Okay, sure, fine.
+Speaker1: Is it convenient for you guys tonight on Sunday?
+Speaker2: Good evening, it's okay, but they have to work in the daytime.
+Speaker1: Okay, I'll confirm the time for the evening of Thanksgiving with the customer.
+Speaker2: Okay, no problem.
+Speaker1: Is there anyone in the morning on weekends?
+Speaker2: On weekends, people should be around at around 10 am.
+Speaker1: Okay, I'll arrange for the customer to come over on Saturday morning.
+Speaker2: Okay, come over at the time.
+Speaker1: Okay, thank you for your cooperation, goodbye.
+Speaker2: No problem, goodbye.

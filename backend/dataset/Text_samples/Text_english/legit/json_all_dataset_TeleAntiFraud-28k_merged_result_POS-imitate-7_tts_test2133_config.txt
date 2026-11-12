@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you want to make a hair appointment?
+Speaker1: Yes, I want to book a weekend time to cut my hair.
+Speaker2: Okay, most of our weekend time is free, which day do you want to schedule?
+Speaker1: Is four o'clock on Saturday afternoon okay?
+Speaker2: Sure, there's a free hairdresser here at four o'clock on Saturday afternoon. You can book her.
+Speaker1: So, how is the technique of that hairdresser?
+Speaker2: This barber's technique is very good, he has been working here for more than five years, and many customers are his loyal customers.
+Speaker1: I'll book that hairdresser.
+Speaker2: Okay, I have already made a reservation for you, on Saturday at 4 pm. Remember to come to the store 10 minutes early.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later.

@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I reserved a spot for you, do you know if you can pick up your car now?
+Speaker2: Hello, is it okay, is your current location convenient?
+Speaker1: I'm in the park near the city center, but I don't know the exact pickup point of your car.
+Speaker2: Okay, you can exit the park through the south gate, walk straight along the road for about 500 meters, and you'll see a blue sign, which is our pickup point.
+Speaker1: Okay, I understand, can I park there?
+Speaker2: There are several parking lots on that side, you can park near the blue sign, it's more convenient.
+Speaker1: Do I need to bring any certificates when taking a car?
+Speaker2: Bring your ID and driver's license, we'll verify the information.
+Speaker1: Okay, I'll be there in about ten minutes, is that okay?
+Speaker2: Okay, I'm waiting for you here. If you can't find anyone, you can call me.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you later.

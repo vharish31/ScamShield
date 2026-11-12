@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm small Li, this is the customer service representative of the east city bank, your previous loan application has been approved, do you need to know more?
+Speaker2: Oh, really? That's great, I really need to circulate funds now.
+Speaker1: Yes, our interest rate here is very low, only 0.02, and the loan amount is quickly disbursed, no collateral, no guarantee.
+Speaker2: How do I apply? It sounds good.
+Speaker1: Okay, just download our bank's official app and follow the instructions to fill out the information, and you can complete the application.
+Speaker2: How do I download this app?
+Speaker1: You can search for our official app in the mobile app store by typing "Dongcheng Yinhang" (East China Bank). If you're not convenient, I can send you a link, just click on it to download directly.
+Speaker2: Okay, can you send me the link?
+Speaker1: Okay, just a moment, I'll send it to you soon. By the way, to ensure the safety of your account, you need to input a verification code after downloading it. This verification code I will send to you via text message.
+Speaker2: Okay, I'm waiting for your text message.

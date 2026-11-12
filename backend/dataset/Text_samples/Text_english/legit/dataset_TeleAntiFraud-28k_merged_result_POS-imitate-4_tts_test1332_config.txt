@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me? What's up?
+Speaker1: I am a waiter at the restaurant, did you come to dine at the 7 pm table you reserved earlier?
+Speaker2: Oh, I remember the appointment, but we might be late, around 7:30 or so.
+Speaker1: Okay, no problem, 7:30 for you. Do you have any special dietary requirements?
+Speaker2: We have a friend who can't eat spicy, the others can.
+Speaker1: Understood, we will pay special attention. Moreover, we have a special recommendation for beef and seafood platter today, are you interested to try?
+Speaker2: Sounds good, let's take a look at the menu later.
+Speaker1: Okay, the waiter will explain in detail later. Just pay attention to safety on the way, we'll meet later.
+Speaker2: Thank you, see you later.

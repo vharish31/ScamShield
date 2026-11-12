@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank, employee number 2025. The loan you applied for has been approved. Now we need you to cooperate with us to complete the final procedures.
+Speaker2: Hello, do you want me to go to the bank?
+Speaker1: No need, you just need to download our bank's official app, then register an account, complete real name authentication, and finally tell us the account information, we can then disburse the funds.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Okay, download the app and go to the homepage. Click on the "Quick Loan" button and enter the verification code 16868686 to see your loan amount.
+Speaker2: I downloaded and entered the verification code, but the message displayed requires me to first pay a one thousand yuan deposit.
+Speaker1: Once the loan is issued, the deposit will automatically be returned to your account. Simply transfer the money to account 1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+Speaker2: Okay, I'll transfer the money.
+Speaker1: Hello, please inform me as soon as you transfer the money, we will immediately process your loan application.
+Speaker2: The transfer has been made, the account number is correct.
+Speaker1: Okay, we have received your loan application and it is currently being processed. You will receive a text message notification soon. Thank you for your cooperation.

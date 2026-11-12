@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask if your restaurant has private rooms?
+Speaker2: Hello, yes, we have different sizes of rooms, do you need to book now?
+Speaker1: Yes, I plan to take my family out for dinner on the weekend and need to reserve a private room that can accommodate around ten people.
+Speaker2: Okay, we have a room that fits ten people, the weekend reservation is quite tight, which specific day do you want to book?
+Speaker1: Can I order this Saturday evening at six o'clock?
+Speaker2: Is it convenient for you to make a reservation for six o'clock on Saturday evening, but you need to pay a deposit in advance?
+Speaker1: How much is the deposit?
+Speaker2: The deposit is 200 yuan, which will be deducted from the total amount after the meal is finished.
+Speaker1: Okay, I'll pay the deposit tomorrow, what time do you open?
+Speaker2: We open the door at 10 am every morning. You can pay the deposit tomorrow if it's convenient for you.
+Speaker1: Okay, thank you, I'll go at eleven o'clock in the morning.
+Speaker2: Okay, no problem, see you later.

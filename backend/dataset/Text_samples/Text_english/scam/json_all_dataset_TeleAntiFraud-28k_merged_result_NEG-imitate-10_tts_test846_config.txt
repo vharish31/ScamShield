@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the AliExpress Finance Customer Service Center, I am customer service representative Zhang. Our system has detected that your credit is good, and we can provide you with a no-collateral loan at a very favorable interest rate. Would you be interested in learning more?
+Speaker2: Okay, can you understand a bit?
+Speaker1: Great, our latest loan product has a maximum loan amount of one hundred thousand yuan, an annual interest rate of only 2.5%, which is very suitable for capital rotation and large-scale consumption. Do you have any recent financial needs?
+Speaker2: I recently realized I need some loans, but I'm not very familiar with these loan products. Could you give me a detailed introduction?
+Speaker1: Of course. Our loan products are very flexible, you can choose the loan term and amount according to your needs. Moreover, we also provide a special service, that is, if you apply through our special link, you can enjoy an additional interest rate discount.
+Speaker2: How can I get that exclusive link that sounds good?
+Speaker1: You just need to click on the link in the text message I sent you to directly enter the application page. To ensure safety, I need to first confirm your identity information. Can you tell me your name and the last six digits of your ID?
+Speaker2: Okay, my name is Li Huai, the last six digits of my ID are 123456.
+Speaker1: Okay, I have confirmed your information. You will receive a text message with a unique link shortly. Please click on the link and follow the instructions to complete the application process. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

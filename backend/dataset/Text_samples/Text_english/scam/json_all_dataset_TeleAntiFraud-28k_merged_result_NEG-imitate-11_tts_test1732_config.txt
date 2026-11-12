@@ -1,0 +1,8 @@
+Speaker1: Hello, I am a credit officer at Hangzhou Bank. We reviewed your credit application and can approve you for a loan of 50,000 yuan.
+Speaker2: Really? I need a loan.
+Speaker1: Yes, but in order to ensure the safety of the funds, we need you to pay a deposit of one thousand yuan first, which will be returned to you after the loan is disbursed.
+Speaker2: What about payment then?
+Speaker1: You can click this link and follow the instructions.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact me anytime.
+Speaker2: Thank you, that I hang up the phone now.

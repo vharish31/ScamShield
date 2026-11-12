@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Is your restaurant open today?
+Speaker2: We are open from 10 am to 10 pm for business.
+Speaker1: What do you recommend?
+Speaker2: We have several menu boards here, such as spicy Sichuan hot pot, steamed fish with ginger and scallions, and stir-fried beef and rice, all of which are very popular.
+Speaker1: Okay, I'll go eat in a little while.
+Speaker2: Do you need to reserve seats in advance?
+Speaker1: Can four people meet at five o'clock in the afternoon?
+Speaker2: Sure, I'll reserve a four-person table for you. See you later.

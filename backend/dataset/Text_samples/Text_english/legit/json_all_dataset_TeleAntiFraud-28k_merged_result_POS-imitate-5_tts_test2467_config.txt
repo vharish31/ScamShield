@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I am little Li, do you have any good food recommendations there?
+Speaker1: Hello, little Li, we have several good restaurants here, what do you want to eat?
+Speaker2: What do you recommend for a light meal?
+Speaker1: There's a vegan restaurant here, the environment is good, the food is very clear, you can try it.
+Speaker2: Okay, how do we go to that restaurant?
+Speaker1: Starting from your location, walk along the middle mountain road, turn right at the third crossroads, and walk five hundred meters to reach the destination.
+Speaker2: Okay, thank you for your recommendation. I will check it out.
+Speaker1: No problem, I hope you like it. If you need any help, feel free to contact me anytime.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye, wish you enjoy your meal.

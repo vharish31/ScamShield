@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm here to pick up my scheduled delivery.
+Speaker2: Hello, when did you make the appointment, what is the delivery number?
+Speaker1: I am the one who made the appointment yesterday, the delivery number is one two three four five six seven eight nine zero.
+Speaker2: Okay, I'll check. Wait a minute.
+Speaker1: Okay.
+Speaker2: I found it, your package has arrived, you can pick it up directly.
+Speaker1: Great, what documents do I need to bring?
+Speaker2: No need, just provide the correct delivery number.
+Speaker1: Okay, I'll go now.
+Speaker2: Okay, we're waiting for you at the post office.

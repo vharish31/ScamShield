@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I just saw your store's activities and wanted to know more details. Is that okay?
+Speaker2: Hello, of course, I am the customer service representative here, what activities do you want to know about?
+Speaker1: What are the specifics of the "buy three get five" promotion?
+Speaker2: For this activity, when you spend over three hundred yuan in a single purchase, you can get a fifty yuan discount coupon, which can be used to offset the next purchase.
+Speaker1: Do coupons have an expiration date?
+Speaker2: Yes, the effective period of coupons is three months, starting from the day you get the coupons.
+Speaker1: If I buy something for 1000 yuan this time, how many coupons will I get?
+Speaker2: You can get two 50 yuan coupons for your 1000 yuan purchase.
+Speaker1: Okay, I plan to go see it again tonight, what time do you close the door?
+Speaker2: Our store's business hours are from 9am to 9pm tonight, you can come anytime.
+Speaker1: Okay, thank you for your answer, see you later.
+Speaker2: No problem, see you tonight, wish you happy shopping.

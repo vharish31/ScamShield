@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Zhang?
+Speaker2: Who are you?
+Speaker1: I am an AliCloud customer service representative. We have detected an unusual login on your account. There may be a risk of being hacked.
+Speaker2: Really? Then what do we do?
+Speaker1: To ensure the safety of your account, we need you to cooperate with identity verification.
+Speaker2: Okay, what do we need to do?
+Speaker1: Please click on the link we sent, enter your verification code, so we can confirm your identity.
+Speaker2: Okay, I'll check my emails in a moment.
+Speaker1: Please hurry, this link is limited time, expired soon.
+Speaker2: I know, thank you.

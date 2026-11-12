@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I want to consult your hair service
+Speaker2: Okay, we provide various hair services, including cutting, dyeing and straightening, which specific service do you want to know about?
+Speaker1: I want to know the price and time of haircut.
+Speaker2: The price of cutting hair is 50 yuan, approximately 30 to 40 minutes, depending on the complexity of the hairstyle.
+Speaker1: Do I need to make a reservation?
+Speaker2: I suggest you make a reservation, so we can ensure there's enough time to serve you.
+Speaker1: Okay, can I make a reservation for tomorrow afternoon at three o'clock?
+Speaker2: Can I reserve time for you at three o'clock tomorrow afternoon? Could you please provide your name and contact information?
+Speaker1: My name is Zhang Wei, phone number is 13800000000
+Speaker2: Okay, Mr. Zhang Wei, I have already booked a haircut appointment for you tomorrow at 3 pm, please contact us if there are any changes.

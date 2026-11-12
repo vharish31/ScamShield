@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I'm planning to move, can you tell me more about your moving service?
+Speaker2: Hello, Xiao Ming, I am Zhang from the moving company. I am very happy to serve you. What specific aspects do you want to know about?
+Speaker1: What is the cost of moving calculated and how much time do you need to book in advance?
+Speaker2: The moving cost is mainly calculated based on the quantity and distance of the items being moved, and you can provide a rough list of items and destination first, and we will give you a precise quote. It is usually recommended that you book at least a week in advance, so we can arrange the vehicle and personnel.
+Speaker1: Is there an additional fee if I need to add some items when moving on the same day?
+Speaker2: We will charge extra for temporarily added items based on the actual situation, but it won't be too high. You can rest assured.
+Speaker1: Understood, do you provide packaging services? If so, how do you calculate the cost?
+Speaker2: We provide packaging services, the cost is based on the quantity and complexity of the items. Generally speaking, the packaging service fee is calculated separately, you can choose whether to need this service or not.
+Speaker1: Okay, I think I need to move some stuff from my house, like furniture, appliances, and some books. Do I need to reserve several cars?
+Speaker2: Based on the situation you described, we recommend you book a medium-sized truck, which should be able to carry all your items. If there are any other special circumstances, we can adjust accordingly.
+Speaker1: Okay, I'll send you a list tomorrow, please give me a detailed quote.
+Speaker2: Okay, I'm waiting for your list. If you have any questions, feel free to contact me anytime. Have a great day!

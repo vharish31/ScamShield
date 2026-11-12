@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? This is some e-commerce platform customer service. Your recent shopping points on our platform are about to expire. Do you know?
+Speaker2: Uh, is that so? I still don't know, what happens when points expire?
+Speaker1: Yes, if you don't use these points before 12 am tonight, they will be cleared and you won't be able to use them anymore.
+Speaker2: That's too bad, how many points do I have?
+Speaker1: Your account currently has a total of 26,880 points, which is equivalent to being able to redeem nearly 4,000 yuan worth of goods.
+Speaker2: Wow, that's quite a lot, what can I buy with these points?
+Speaker1: You can choose any product on our platform, such as alcohol, electronic products, or appliances, and you can use points to redeem cash.
+Speaker2: Okay, now I'll go take a look. Uh, how do I check these points?
+Speaker1: You can view the points mall by clicking the link in the message I just sent you or through our app.
+Speaker2: Okay, thank you for your reminder. I'll check it out right away.

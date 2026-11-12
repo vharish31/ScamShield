@@ -1,0 +1,14 @@
+Speaker1: Hey, are you little king?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you arrange a housekeeping service for tomorrow morning at 9am in the city south flower garden?
+Speaker2: Is it okay, what time is good for us to meet in the morning tomorrow?
+Speaker1: Can we meet around nine o'clock?
+Speaker2: How long do I need to book the service time for 9:00 AM?
+Speaker1: Let's say three hours, mainly cleaning and wiping windows.
+Speaker2: Okay, three-hour service, cost is 240 yuan, need you pay advance deposit.
+Speaker1: How do I pay?
+Speaker2: You can pay through Wechat or Alipay, I'll send you a QR code.
+Speaker1: Okay, I'll take a look later. Also, will your staff bring cleaning tools?
+Speaker2: At the meeting, our staff will bring all the cleaning tools, you don't need to prepare.
+Speaker1: Great, just bother you guys. See you tomorrow.
+Speaker2: Okay, see you tomorrow, wish you happy life.

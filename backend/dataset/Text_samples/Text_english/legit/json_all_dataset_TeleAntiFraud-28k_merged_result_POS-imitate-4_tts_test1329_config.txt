@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm little Li, do you provide computer repair services here?
+Speaker2: Hello, little Li, we have provided computer repair services here, what specific problem have you encountered?
+Speaker1: My computer always shows a blue screen after booting up, restarting doesn't work either, I don't know what's going on.
+Speaker2: This situation may be a hardware failure or a system issue. You can bring your computer over, and we can check it out.
+Speaker1: Okay, where is your address? I have some free time in the afternoon, can I come over?
+Speaker2: Our store is on the third floor of the tech square in the city center. You came in the afternoon, we are quite flexible at this time.
+Speaker1: Is that okay? I'll probably arrive around 3:00, do I need to make a reservation in advance?
+Speaker2: No need to make an appointment, just come directly, our work hours are from 9 am to 7 pm.
+Speaker1: Okay, thank you, I'll see you in the afternoon.
+Speaker2: No problem, let's meet in the afternoon, I hope I can help you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Liu, the credit officer at Guotai Bank.
+Speaker2: Hello, what can I help you with?
+Speaker1: That's it, our system has identified you as having characteristics of high-quality customers, so we can provide you with a no-collateral loan service.
+Speaker2: I don't need a loan.
+Speaker1: If you need capital rotation in the future or expand your business, you can consider it. Can I add your WeChat? It's convenient to contact later.
+Speaker2: Adding WeChat is possible, but I currently don't have this need.
+Speaker1: Understand understand, then I first add you WeChat, if there's any need in the future, you can directly contact me. This loan product interest rate is very low, and the procedures are simple.
+Speaker2: Okay, then you can add first.
+Speaker1: Great, I'll add you. By the way, if your friend also needs capital, you can introduce them to me, we can provide the same service.
+Speaker2: Okay, I will consider it.

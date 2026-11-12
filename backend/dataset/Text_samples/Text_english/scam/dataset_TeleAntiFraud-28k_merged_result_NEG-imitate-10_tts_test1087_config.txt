@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm from many shopping websites customer service, your order has a problem, need to handle it quickly, otherwise it may affect your shopping experience.
+Speaker2: Is there really a problem?
+Speaker1: That's it, there was an exception with your order during the payment process, so you need to confirm your payment information again. You can click on the link we sent to complete the payment; the link has already been sent to your phone.
+Speaker2: Okay, I'll take a look.
+Speaker1: If you have any questions, feel free to contact me anytime. We've also prepared a small gift for affected users. Click on the link to complete payment, and you'll see the pickup method on the page.
+Speaker2: Okay, I'll handle it now.
+Speaker1: Okay, thank you for your cooperation. After completing the payment, if you have any issues, please feel free to contact me anytime. I hope this small gift brings you joy.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you happy life, bye.
+Speaker2: Goodbye.

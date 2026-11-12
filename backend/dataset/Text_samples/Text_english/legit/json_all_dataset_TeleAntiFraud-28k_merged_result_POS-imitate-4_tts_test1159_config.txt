@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you little Li?
+Speaker2: Yes, I am small Li, you are?
+Speaker1: I'm little Zhang, we attended that photography training together.
+Speaker2: Oh, I remember, little Zhang, how are you, what do you have?
+Speaker1: That's it, I just saw your camera on the second-hand platform and wanted to ask a few questions.
+Speaker2: Oh, that camera, when did you see it?
+Speaker1: I saw a good price this afternoon, so I wanted to ask about the camera's usage situation.
+Speaker2: I've been using this camera for over a year now, and the results are still pretty good, just a few small scratches, all the functions work great, if you're interested, you can come take a look.
+Speaker1: Can I come to your place tomorrow afternoon?
+Speaker2: Sure, can we go at three in the afternoon tomorrow?
+Speaker1: See you at 3 o'clock tomorrow.
+Speaker2: Okay, see you tomorrow.

@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you introduce me to the special set menu at your restaurant?
+Speaker2: Of course, our special set meal includes one appetizer, main dish and dessert, as well as a drink, priced at 80 yuan.
+Speaker1: Does this suit two people? It sounds good.
+Speaker2: This menu is better for one person to enjoy, but if there are two of you, we can appropriately increase the quantity.
+Speaker1: Okay, can I reserve a table for two people with a window view?
+Speaker2: Sure, what time would you like to make a reservation?
+Speaker1: Tomorrow evening at seven o'clock.
+Speaker2: Okay, tomorrow night at seven o'clock, at the window position, two people, I will arrange for you.
+Speaker1: Goodbye, thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.
+Speaker1: Goodbye.

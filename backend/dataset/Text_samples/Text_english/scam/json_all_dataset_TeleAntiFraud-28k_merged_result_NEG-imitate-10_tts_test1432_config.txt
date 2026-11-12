@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager at Commercial Bank, we have a loan product without collateral for high-quality customers, would you like to know if you have any recent financial needs?
+Speaker2: Hello, I currently don't have any financial needs, thank you.
+Speaker1: Okay, that's really too bad. But if you have any financial needs in the future, feel free to contact me anytime.
+Speaker2: Okay, thank you for your recommendation.
+Speaker1: Hey, we have a limited time promotion activity going on right now. If you're willing to join, you can enjoy a lower rate. Do you have time to take a look?
+Speaker2: The sound is good, but I'm not very convenient right now.
+Speaker1: No problem, I understand. However, if your mind changes, you can add my WeChat, contact me anytime, my WeChat number is the same as my phone number.
+Speaker2: Okay, I'll take note of your suggestions. Thank you for your advice.
+Speaker1: Thanks a lot for your cooperation. If you have any questions, feel free to contact me anytime. Have a nice day, bye.
+Speaker2: Goodbye.

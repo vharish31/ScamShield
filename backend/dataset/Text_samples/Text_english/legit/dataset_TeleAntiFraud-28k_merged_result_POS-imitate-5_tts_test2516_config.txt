@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Liu, want to know about your latest phone, do you have any in stock?
+Speaker2: Hello, little Liu, I am customer service Zhang, we have your said phone here, but the color and specific model need me to check, what color do you want?
+Speaker1: I want the blue one, it's the flagship version.
+Speaker2: Okay, please wait a moment, I'll check.
+Speaker1: Okay, thank you.
+Speaker2: Found it, the blue flagship version of the phone is currently in stock. What time is it convenient for you to pick it up?
+Speaker1: Can I come over tomorrow afternoon?
+Speaker2: Okay, tomorrow afternoon you can come between 3 and 5, we will be ready for you.
+Speaker1: Okay, I'll come over at four in the afternoon tomorrow. Thank you.
+Speaker2: No problem, see you tomorrow, wish you happy life.

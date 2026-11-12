@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the loan service center of the East China Bank, I am the customer service manager Li, we recently launched a very favorable credit loan project, do you want to know more about it?
+Speaker2: No longer needed, I don't need a loan now.
+Speaker1: Hmm, that's good. But this loan project is really cheap, the monthly interest rate is very low, and the approval speed is very fast, no collateral is needed, you only need to provide some basic information to get it.
+Speaker2: No need, thank you for your recommendation.
+Speaker1: That's really too bad. But if you need anything in the future, feel free to contact me anytime. I have a special app here that you can use to apply for a loan directly, it's very convenient.
+Speaker2: Okay, thank you. I will consider it.
+Speaker1: Okay, I'll send you a link, just click to download the app and register to see detailed loan information.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, here's the link: [read out link in phone call]. Just click on it and follow the instructions. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help.

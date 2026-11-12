@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service representative of China Construction Bank. Do you need our help to process your incomplete loan application?
+Speaker2: Oh, really? How come I remember not applying for a loan?
+Speaker1: It's possible that you accidentally clicked on our ad link, which automatically recorded your application information. But don't worry, we can help you complete the application, with a very favorable interest rate, no down payment, and fast loan approval.
+Speaker2: Can you help me solve this misunderstanding?
+Speaker1: Of course, but we need some basic information, such as your identity card number and bank card number, to verify your identity for you.
+Speaker2: Okay, what should I do now?
+Speaker1: Just click this link and follow the page instructions to input information, and we'll process it for you.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, after clicking the link, please enter the verification code, we will send it to you via text message.
+Speaker2: Okay, I understand. Thank you for your help.

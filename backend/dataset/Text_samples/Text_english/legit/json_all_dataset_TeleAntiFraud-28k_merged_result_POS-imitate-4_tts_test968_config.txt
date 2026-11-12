@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you, where are you?
+Speaker2: Hey, just got off the subway station, where are you?
+Speaker1: I was waiting for you at the bus station in front, did you see the bus station?
+Speaker2: I see, I'll just go over there.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Wait a minute, I'll be there soon.
+Speaker1: Hey, hurry up, I'm waiting for you here.
+Speaker2: Okay, I'll speed up.
+Speaker1: You arrived, I'm a bit cold.
+Speaker2: I'll call you right away.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, recently I've been considering moving, do you have any suitable housing options on your side?
+Speaker2: Hello, Xiao Ming, I am real estate agent Wang, there are several good properties here, do you have any specific requirements, such as price, area, location and so on?
+Speaker1: Hey, I hope the price doesn't exceed five thousand yuan per month, the area is roughly seventy to eighty square meters, and it's best if it's near the subway station for easy travel.
+Speaker2: Okay, based on your requirements, I have a few options here. One is a small community located in the city center, about a five-minute walk from the subway station, 70 square meters, monthly rent of 4,800 yuan, but it needs to be signed by the end of the week.
+Speaker1: Can I go to the scene and take a look?
+Speaker2: Of course, I have some free time tomorrow afternoon at two o'clock, can you come over?
+Speaker1: Let's meet at 2 pm tomorrow afternoon.
+Speaker2: Okay, tomorrow afternoon at two o'clock, I will be waiting for you at the community door. If there are any changes, please contact me in advance.
+Speaker1: No problem, I will definitely arrive on time, thank you, little king.
+Speaker2: No problem, this is my job, looking forward to seeing you tomorrow. Goodbye.

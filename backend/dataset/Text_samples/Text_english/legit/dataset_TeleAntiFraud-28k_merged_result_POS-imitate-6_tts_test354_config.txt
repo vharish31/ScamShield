@@ -1,0 +1,13 @@
+Speaker2: Hello, how can I help you?
+Speaker1: Hello, do you have any notebook computers suitable for students here?
+Speaker2: Yes, we have various models of student-specific notebook computers here. What specific configuration do you need?
+Speaker1: I mainly use it for online classes and homework, so it doesn't need to be too high-end, but it should be a bit lighter.
+Speaker2: Understood, we have a lightweight book here, priced between four thousand and five thousand yuan, very suitable for students, are you interested in learning more?
+Speaker1: Is the battery life of this computer good?
+Speaker2: This laptop's battery life is quite good, it can reach about 8 hours of normal use.
+Speaker1: Is there any goods now?
+Speaker2: The product is currently in stock. If you're interested, you can come to the store anytime or we can deliver it to you.
+Speaker1: Can I go to the store first and check it out? What's the address?
+Speaker2: Our store is located in the center of the electronic city, you can take the subway line three to the electronic city station, get off and turn right and walk straight for two hundred meters to reach us.
+Speaker1: Okay, thank you for your help. I'll go see it over the weekend.
+Speaker2: No problem, see you this weekend, wish you a happy weekend.

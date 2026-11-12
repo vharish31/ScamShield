@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently want to buy a new phone, I saw a new Huawei phone on your website, want to ask you a few questions.
+Speaker2: Hello, little Zhang, I am customer service Li, very happy to serve you. What information do you want to know about the new Huawei phone?
+Speaker1: Can you tell me the price of this phone and if there is any promotion going on now?
+Speaker2: The original price of this new Huawei phone is 3999 yuan, but there's a promotion now, so you can get a 300 yuan discount, the actual purchase price is 3699 yuan.
+Speaker1: If I order now, how long will it take to deliver?
+Speaker2: If you place an order now, we will ship it to you within 24 hours, usually it takes 3-5 days to arrive after shipping.
+Speaker1: Okay, can you give me a detailed explanation of the phone's repair policy?
+Speaker2: Of course. This phone provides one year of full national link insurance service. If any non-human problem occurs during use, it can be repaired for free. In addition, we also provide seven-day no-reason return and exchange service.
+Speaker1: That's great, thank you for your detailed introduction. I'm going to order now.
+Speaker2: Thank you very much for your support. I will handle your order well. If you have any other questions, please feel free to contact me. Have a happy shopping!

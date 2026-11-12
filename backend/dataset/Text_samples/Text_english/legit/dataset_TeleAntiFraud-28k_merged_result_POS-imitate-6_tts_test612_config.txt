@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the city library?
+Speaker2: Hello, yes, this is the city library, what can I help you with?
+Speaker1: Can you tell me about your borrowing process and opening hours?
+Speaker2: Of course. Our borrowing process is very simple. First, you need to apply for a borrowing card, then you can come and choose the books you want to borrow during the opening hours.
+Speaker1: What identification do I need to get a library card?
+Speaker2: You need to carry a valid identity document, such as an ID or passport, and a recent one-inch photo.
+Speaker1: What is the opening time?
+Speaker2: Our library is open from 9am to 5pm Monday through Friday, and from 10am to 4pm on weekends.
+Speaker1: Okay, I understand. If the book I want to borrow has already been borrowed out, can I reserve it?
+Speaker2: Okay, if the book has already been borrowed, you can either order it online from our website or come directly to the library to reserve it. We will notify you when the book is returned.

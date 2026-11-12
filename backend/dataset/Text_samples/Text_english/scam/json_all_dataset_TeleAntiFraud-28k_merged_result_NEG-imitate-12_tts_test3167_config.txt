@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of Jituan Kuaidi, your package was returned because the address was not detailed, please provide a detailed address to re-send it.
+Speaker2: Oh, like this, my address is…
+Speaker1: Okay, I have recorded your address. However, for the sake of ensuring the safety of the package, we need you to provide your identity card number for identity verification.
+Speaker2: Identity card number? Is this a common operation?
+Speaker1: Yes, this is our standard process to ensure that your package can be delivered accurately and without mistakes. Could you please provide the following?
+Speaker2: Okay, my ID number is...
+Speaker1: Okay, I have recorded it down. Additionally, could you provide a phone number for us to contact you?
+Speaker2: Sure, my phone number is...
+Speaker1: Thank you for your cooperation. We will reschedule delivery within 24 hours. To confirm your identity, we will send a verification code to your phone later, please pay attention to check and reply.
+Speaker2: Okay, I understand. Thank you.

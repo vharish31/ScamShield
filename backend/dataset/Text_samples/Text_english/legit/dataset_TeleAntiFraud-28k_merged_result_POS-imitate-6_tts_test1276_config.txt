@@ -1,0 +1,11 @@
+Speaker1: Hello, I am the customer service representative of Lechao Supermarket. Are you satisfied with the products you bought at our supermarket two days ago?
+Speaker2: Hey, great, thank you guys.
+Speaker1: Great, our supermarket is currently having a promotion activity. Would you like to know more about it?
+Speaker2: Is there any discount?
+Speaker1: We have a buy one get one free activity, and also a full hundred yuan gets fifty yuan coupon for shopping, you can use it next time you shop.
+Speaker2: Can I use this discount directly next time I come?
+Speaker1: Of course, you just need to show your shopping voucher or tell the cashier which activity you want to join at checkout.
+Speaker2: Okay, thank you for your introduction, I will pay attention.
+Speaker1: You're welcome, if you have any questions, please feel free to call us anytime, we hope you enjoy shopping at our supermarket.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

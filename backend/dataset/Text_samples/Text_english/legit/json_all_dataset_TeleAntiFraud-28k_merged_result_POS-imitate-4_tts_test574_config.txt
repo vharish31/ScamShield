@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask about your store's latest discount activities.
+Speaker2: Hello, what specific activities do you want to know more about?
+Speaker1: I saw that your store recently released new phones, I want to know if there are any discounts now.
+Speaker2: The new phone indeed has a discount activity, currently you can enjoy an eighty percent discount when buying, and also receive a gift.
+Speaker1: What are the gifts?
+Speaker2: The gift is a blue Bluetooth earphone, of high quality, very suitable for using with new phones.
+Speaker1: If I choose to pay in installments, can I still enjoy this discount?
+Speaker2: You can enjoy an eighty percent discount when paying in installments, but you can only choose one gift.
+Speaker1: Okay, I also want to know about your installment payment policy.
+Speaker2: We support multiple payment methods, including credit card installment plans, which are usually divided into twelve periods, with low monthly interest rates.
+Speaker1: Sounds good, I'll think about it, thanks for your answer.
+Speaker2: You're welcome, feel free to consult anytime if you have any questions, we hope our phone becomes your first choice.

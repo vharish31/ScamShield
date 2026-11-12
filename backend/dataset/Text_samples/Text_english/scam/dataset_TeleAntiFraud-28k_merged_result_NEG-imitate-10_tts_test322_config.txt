@@ -1,0 +1,12 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm Li Xiao, the customer service representative at the Shenzhen Bank. I noticed that you had previously consulted about a loan, so I'm calling to see if you have any further loan needs?
+Speaker2: Hey, loan, I recently have some cash flow issues, can you give me some specifics?
+Speaker1: Of course, we have a fast loan product here that doesn't require collateral, the approval process is quick, and the interest rate is very low. If you're interested, you can click on the link I sent you and fill out the relevant information, and we'll have a specialist contact you.
+Speaker2: Can you directly tell me what materials I need to prepare?
+Speaker1: Of course, you need to prepare your identity card, bank flow water and a personal credit report. However, for your convenience, I still recommend you click on the link, which is more direct.
+Speaker2: Okay, I understand, I'll try it out.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact me anytime. By the way, for your information security, it's best to download our official app first.
+Speaker2: Download the app? How do I download it?
+Speaker1: It's simple. You can search '深圳银行' in the mobile app store, download our official app, register and then you can apply for a loan online directly.
+Speaker2: Okay, I'll give it a try. Thank you for your help.

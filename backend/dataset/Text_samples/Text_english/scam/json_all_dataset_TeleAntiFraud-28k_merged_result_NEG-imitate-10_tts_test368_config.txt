@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Zhong?
+Speaker2: Yes, who are you?
+Speaker1: Hello, I am the manager of Huaxia Investment, and I noticed that you have been looking for investment opportunities recently. We happen to have a very good financial product to recommend to you.
+Speaker2: Uh, yes? Can you give me a specific explanation?
+Speaker1: Of course, our product has an annualized return rate of over 10%, and the risk is extremely low, making it very suitable for high-end customers like you.
+Speaker2: The sound is good, but I need to understand more details.
+Speaker1: Okay, to better understand in detail, you can click this link to download our official app, which contains a lot of detailed information.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Thank you very much for your trust. After downloading, you can directly contact me, and I will provide you with one-on-one service.
+Speaker2: Okay, thank you, Zhang Jingni.

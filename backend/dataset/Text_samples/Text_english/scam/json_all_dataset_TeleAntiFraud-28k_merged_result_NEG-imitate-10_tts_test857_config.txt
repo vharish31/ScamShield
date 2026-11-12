@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is Hangzhou bank customer service center, I is customer service manager Lee Huang.
+Speaker2: Hello, what do you have?
+Speaker1: Is that right, we noticed that your credit card limit hasn't been used, now we have a special promotion that can help you increase your credit card limit, are you interested in learning more?
+Speaker2: Increase quota? It sounds good, how to do it?
+Speaker1: It's very simple. Just click on the link to download our official app, fill out the relevant information, and once it's approved, your credit will automatically be upgraded.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, we are a regular bank, you can rest assured using us. If you're not convenient with downloading, you can directly provide your bank card number and ID number, our backend can directly help you operate.
+Speaker2: What should I download the app for? How do I download it?
+Speaker1: Okay, here's the download link: [link], download it and then register with your phone number. Follow the instructions after that. If you have any questions, feel free to contact me.
+Speaker2: Okay, I'll try it out. Thank you.

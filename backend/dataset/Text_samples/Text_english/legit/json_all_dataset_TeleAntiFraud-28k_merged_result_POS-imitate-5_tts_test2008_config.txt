@@ -1,0 +1,15 @@
+Speaker2: Hello, are you little Li?
+Speaker1: Yes, it's me, who are you?
+Speaker2: I'm Little King, remember? We ate dinner together last time.
+Speaker1: Oh, I remember now, hello hello.
+Speaker2: How have you been lately?
+Speaker1: Hello, just work is a bit busy. You?
+Speaker2: I'm the same, lately projects have been many, overtime and overtime pay.
+Speaker1: That's quite tiring. Do you have time on the weekend? Let's go have a tea together.
+Speaker2: Okay, I should have some free time this weekend. What time?
+Speaker1: Let's go to that old place at two o'clock, do you remember?
+Speaker2: Remember, we'll meet then.
+Speaker1: Okay, see you later.
+Speaker2: Hey, let's do this, see you this weekend.
+Speaker1: Okay, see you this weekend. Goodbye.
+Speaker2: Goodbye, see you again.

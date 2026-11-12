@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I found a phone on your website that I like, can I ask you a few questions?
+Speaker2: Hello, I am customer service Zhang, what can I help you with?
+Speaker1: What is the battery capacity of this phone?
+Speaker2: This phone's battery capacity is 4000mAh.
+Speaker1: How is its navigation ability?
+Speaker2: My navigation ability is very good, in normal use, I can use it all day.
+Speaker1: How is your after-sales service?
+Speaker2: We provide nationwide insurance, free maintenance for one year for non-human damage.
+Speaker1: Okay, I also want to know, if bought, how long can it be sent?
+Speaker2: In general, we ship within 24 hours after ordering, and depending on your location, it usually takes 2-3 days to arrive.

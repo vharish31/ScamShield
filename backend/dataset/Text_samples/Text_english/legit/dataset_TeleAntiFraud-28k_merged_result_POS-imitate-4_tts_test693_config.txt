@@ -1,0 +1,15 @@
+Speaker1: Hi, how are you? I'm the customer service of the point store, I see that you have a lot of points in your account, why haven't you used them before?
+Speaker2: Is that so? I'm not quite clear, is there this kind of points?
+Speaker1: Yes, the points accumulated when paying with a mobile phone can be used to exchange goods.
+Speaker2: What? I didn't receive any notification?
+Speaker1: It's possible you missed our text message reminder. Your points are expiring, would you consider using them?
+Speaker2: What happens when something expires?
+Speaker1: After expiration, points will be cleared and cannot be used again.
+Speaker2: What else can I exchange?
+Speaker1: You can exchange white wine gift box, famous brand four-piece set, high-definition TV, smartwatch etc.
+Speaker2: Listen well, what specific products do you have?
+Speaker1: Okay, you can log in to our point store to check. If you decide to exchange, I can help you save the remaining points and give you a gift package.
+Speaker2: What is the content of the after-sales gift?
+Speaker1: The after-sales gift package includes free return and exchange service, ensuring that you are satisfied with the items you exchange.
+Speaker2: Okay, I'll think about it, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wishing you a happy life.

@@ -1,0 +1,10 @@
+Speaker1: Hello, is this Zhang Zhong?
+Speaker2: Hello, I am. What's up?
+Speaker1: I am the manager of the Zhejiang Bank, and we have noticed that you have been actively participating in our loan business recently. We would like to provide you with a special service.
+Speaker2: What kind of service is it?
+Speaker1: We have a new low-interest loan project that doesn't require collateral, with fast approval speed, and it's perfect for your type of business.
+Speaker2: The sound is good, but I'm cautious about this type of project.
+Speaker1: I completely understand your concerns. Here's a personal link for you to check out the detailed information. If you have any questions, feel free to communicate anytime.
+Speaker2: Okay, I'll take a look. Is this link safe?
+Speaker1: Of course, this is our official link, very safe. You click, we will have a professional customer service team provide you with detailed consultation.
+Speaker2: Okay, let me try.

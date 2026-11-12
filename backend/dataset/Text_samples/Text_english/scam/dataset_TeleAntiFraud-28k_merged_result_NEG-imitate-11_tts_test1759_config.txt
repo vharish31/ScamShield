@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Hello, I am, can you tell me?
+Speaker1: Hey, Li Laoban, I'm the customer manager at Tianan Bank, and we noticed that your business at the Wanfang Market is doing well. So, we're recommending a special low-interest loan product designed for small businesses, with a maximum loan amount of 50,000, which can help you meet your capital needs for expanding your business.
+Speaker2: Hmm, is that so? It sounds good, I have indeed been considering expanding my business recently.
+Speaker1: Great, Mr. Li, this is exactly what we hope to hear. To make it easier for you to apply, you can click on the link I sent you, download our official app, register and fill in the relevant information, and we will quickly review it.
+Speaker2: How do I know you guys are the bank?
+Speaker1: Don't worry, Lee boss, we are a legitimate financial institution. You can verify our information on the Tianan Bank website. Additionally, you can add my WeChat, I'll answer your questions anytime.
+Speaker2: Okay, let me try.
+Speaker1: Great, I'll send you the link now. Please check it out. If you have any issues, feel free to contact me. I wish your business thrives.
+Speaker2: Thank you, goodbye.

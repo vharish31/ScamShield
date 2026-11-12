@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm small Li from the commercial bank's credit department. We have a great loan product here, are you interested in learning more about it?
+Speaker2: Let's borrow some money, my cash flow is still pretty good, but I'll listen.
+Speaker1: Great, this product is mainly designed for high-quality customers, with low interest rates and fast loan approval, all you need to provide is some basic information and we can quickly approve it for you.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: It's very simple. Just download our official app, register an account, fill in the relevant information, and submit it. We will then have a dedicated customer manager contact you for further guidance.
+Speaker2: Do you want to download the app? I'm not very familiar with these, is it safe?
+Speaker1: Absolutely safe, our app is certified by the government, you can search for commercial bank in the app store and download our official software, this way is more secure and reliable.
+Speaker2: Okay, I'll give it a try. If there are any issues, I'll contact you again.
+Speaker1: No problem, any questions can be called our customer service hotline at any time, we will provide 24-hour service support. Wish you all the best, goodbye.
+Speaker2: Thank you, goodbye.

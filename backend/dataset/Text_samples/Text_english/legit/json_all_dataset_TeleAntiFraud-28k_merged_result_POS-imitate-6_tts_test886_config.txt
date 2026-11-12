@@ -1,0 +1,10 @@
+Speaker1: Hey there!
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm Little Li, I need to find Little Wang for something
+Speaker2: Hey, little king, did he just go out? Is there anything I can tell you?
+Speaker1: Can you help me transfer this file to him?
+Speaker2: Sure, send me the files via email, I'll forward them to him once I receive them.
+Speaker1: Okay, thank you so much, my email is xiaoli123@email.net, please.
+Speaker2: No problem, I noted it down. Do you have other things?
+Speaker1: Never mind, just this matter, bother you now
+Speaker2: No problem, contact me anytime if you have anything. Goodbye.

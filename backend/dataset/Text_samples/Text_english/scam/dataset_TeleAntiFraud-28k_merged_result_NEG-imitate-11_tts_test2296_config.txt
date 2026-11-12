@@ -1,0 +1,11 @@
+Speaker1: Hello, is this Zhang Zhong?
+Speaker2: Yes, who are you?
+Speaker1: I am the manager of the Guangan Bank, and you are one of our big customers. I am specially recommending a financial product to you.
+Speaker2: Oh, really? I recently really want to invest in some financial products.
+Speaker1: Great, this product has a very high return on investment and low risk, it's perfect for you.
+Speaker2: What do I need to do?
+Speaker1: Just click this link to register our investment platform account and start investing.
+Speaker2: Okay, I'll take a look.
+Speaker1: Additionally, Zhang Zhōng, we currently have a limited-time promotion activity, where the first 100 registered users can receive additional rewards.
+Speaker2: I have to hurry up, thank you, Li Jing Manager.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes on your investment.

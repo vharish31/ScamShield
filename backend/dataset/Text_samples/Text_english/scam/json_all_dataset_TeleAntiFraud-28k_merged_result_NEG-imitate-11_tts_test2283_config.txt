@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural Bank. We have a new loan product with a maximum loan amount of 50,000 yuan. Have you recently had any financial needs?
+Speaker2: Oh, really? I really need some cash flow recently.
+Speaker1: Yes, this product is very suitable for you. However, in order to ensure your credit is good, we need you to pay a review fee first, which is three thousand yuan.
+Speaker2: Three thousand yuan? This cost is a bit high. Can we reduce it a little?
+Speaker1: This fee is fixed, but since you are our quality customer, I can help you apply for a discount of two thousand five hundred yuan.
+Speaker2: Okay, how do I pay this fee?
+Speaker1: You can pay through our exclusive link, I will send a link to your phone, you click the link and follow the instructions.
+Speaker2: Okay, I'll keep an eye on my phone.
+Speaker1: Okay, just a moment and you will receive the link. Moreover, we also have other discount policies, such as recommending friends to apply for loans can get a commission, do you have any interested friends?
+Speaker2: This sounds good, I'll consider it.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service center of the Bank of Communication for loan services. I am the customer service manager Zhang. We have a special promotion for our credit loan product. Are you interested in learning more?
+Speaker2: Hey, I'm a bit tight on my hands lately, do you guys have any conditions for this loan?
+Speaker1: Our loan products are very flexible, no collateral required, low interest rates, quick disbursement, just provide some basic personal information to apply.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: Great, just click on the link I send to you and fill out the relevant information.
+Speaker2: Okay, give me the link.
+Speaker1: Okay, what's your phone number? I'll send you a link via text message on this end.
+Speaker2: My phone number is 13712345678.
+Speaker1: Okay, please pay attention to checking your messages, click to complete the application as soon as you receive the link, and feel free to contact me if you have any issues.
+Speaker2: Okay, thank you for your help.

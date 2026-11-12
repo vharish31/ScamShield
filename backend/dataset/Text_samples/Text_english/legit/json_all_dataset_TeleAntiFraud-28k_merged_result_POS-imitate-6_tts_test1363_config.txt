@@ -1,0 +1,11 @@
+Speaker1: Hello, can you hear me? Hi, I'm the waiter at this restaurant, just the table you reserved for tonight at six thirty for your previous booking, would you like to confirm your reservation again?
+Speaker2: Oh, hello, I really booked it.
+Speaker1: Okay, did you book a table for four people?
+Speaker2: Yes, that's right.
+Speaker1: Do you have any special requirements for your seat? For example, a window seat or a quiet corner?
+Speaker2: It's best to sit by the window, so you can see the scenery outside.
+Speaker1: Okay, I will arrange a window seat for you. Do you have any special dietary requirements, such as not eating spicy or being vegetarian?
+Speaker2: My friend doesn't eat spicy, sorry to bother you.
+Speaker1: Okay, I will make a special note. Do you want to know about our special dishes in the restaurant beforehand?
+Speaker2: Okay, can you show it to me?
+Speaker1: Okay, I'll send this over to you now. Do you need any more help?

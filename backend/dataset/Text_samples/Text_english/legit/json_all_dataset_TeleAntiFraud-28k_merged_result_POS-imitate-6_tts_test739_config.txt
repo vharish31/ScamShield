@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Hi, I'm Zhang's friend. Do you know what he's been up to lately?
+Speaker2: Oh, little Zhang, he's been busy renovating his new home lately, quite busy.
+Speaker1: Is that so, that's great, I happen to have something I need him to help with, do you know if he's free this weekend?
+Speaker2: He should have some time off this weekend, but it's best to call him first to confirm.
+Speaker1: Okay, thank you, do you know his phone number?
+Speaker2: His phone number is 13801380138, you can directly contact him.
+Speaker1: Okay, thank you very much, I'll call him later.
+Speaker2: No problem, please contact me if you need further assistance.

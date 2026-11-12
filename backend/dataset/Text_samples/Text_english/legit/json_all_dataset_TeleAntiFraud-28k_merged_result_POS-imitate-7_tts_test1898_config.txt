@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a server from a restaurant, and I would like to know what feedback you have on your dining experience last time?
+Speaker2: Oh, hello, I think it's quite good, the food tastes great, the environment is also quite comfortable.
+Speaker1: Great, we're happy to hear that. What suggestions do you have for our service?
+Speaker2: The service is quite good, just a little slow with the food.
+Speaker1: Thank you very much for your valuable opinion. We will immediately improve. Next time you come, we will pay more attention to improving the speed of serving the upper dishes.
+Speaker2: Okay, thank you. Got it, do you have any special activities this weekend?
+Speaker1: Yes, we have special discount packages on weekends, and also free snacks and drinks.
+Speaker2: The sound is good, I might bring a friend along.
+Speaker1: That's great! Welcome anytime. If you confirm the time, please book in advance, we will prepare for you.
+Speaker2: Okay, I'll contact you later. Thank you for your service.

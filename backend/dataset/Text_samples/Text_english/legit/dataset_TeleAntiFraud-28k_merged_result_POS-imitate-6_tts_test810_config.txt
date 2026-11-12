@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to check if your store serves breakfast.
+Speaker2: Hello, we provide breakfast service here. What information do you want to know?
+Speaker1: What are the breakfast options and prices?
+Speaker2: Our breakfast options are quite diverse, with both Chinese and Western styles. Chinese options include tofu and oil sticks, small steamed buns, while Western styles include American and French breakfast. Prices range from 10 to 30 yuan.
+Speaker1: What are your business hours?
+Speaker2: Our breakfast time is from 6:30 am to 10 am. You can come anytime.
+Speaker1: How far in advance do I need to book a place?
+Speaker2: If you want a breakfast spot, it's best to book a day in advance, just in case.
+Speaker1: Okay, can I reserve a spot for 7 am on Saturday morning?
+Speaker2: Is it okay, do you need to book one seat or multiple seats?
+Speaker1: Reserving a seat is enough, thank you.
+Speaker2: Okay, your seven o'clock Saturday morning location has been reserved, see you then.

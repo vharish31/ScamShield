@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you? This is a new flavor restaurant. Is there anything I can help you with?
+Speaker2: Hello, can you tell me about your menu?
+Speaker1: We have several menu boards here, such as spicy Sichuan hot pot, steamed sea bass with ginger and scallions, and stir-fried chicken with mushrooms and peanuts, all of which are very popular.
+Speaker2: How much does it cost to sound good?
+Speaker1: Ma la xiāng gǎng chǎo shì liù shì bā yuán, qīng zhù hǎi huā yú shì jiǔ shì bā yuán, gōng bǎo jī dīng shì sì shì yuán.
+Speaker2: Okay, what are your business hours?
+Speaker1: Our restaurant business hours are from 10 am to 10 pm, on weekends they will be extended to 11 pm.
+Speaker2: Do I need to reserve a seat in advance if I plan to arrive at seven in the evening?
+Speaker1: I suggest you book in advance, especially on weekends, when it's busier. Can I help you book?
+Speaker2: Okay, let's reserve a four-person table, thank you.
+Speaker1: Okay, I have reserved a table for four people at seven o'clock tonight. Please bring your reservation phone when you arrive, so we can confirm.
+Speaker2: Okay, thank you for your help, see you later.
+Speaker1: You're welcome, I'm looking forward to your arrival, goodbye.

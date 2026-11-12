@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a tablet computer, can you recommend me one?
+Speaker2: Hello, Xiaoming, I have several tablet computers here, what are you mainly using them for?
+Speaker1: I mainly use the internet for online classes, occasionally watch movies, and play games.
+Speaker2: I recommend this new brand tablet, its screen display effect is excellent, battery life is long, suitable for long-term use.
+Speaker1: What is the price of this tablet?
+Speaker2: This tablet is priced at 3600 yuan, there's currently a discount promotion, you can get a protective case and a touch pen for free.
+Speaker1: Does this tablet have any in-stock now?
+Speaker2: Yes, now you can place an order, and we can ship it to you tomorrow.
+Speaker1: Okay, I'll place the order now, thank you for your recommendation.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, happy shopping!

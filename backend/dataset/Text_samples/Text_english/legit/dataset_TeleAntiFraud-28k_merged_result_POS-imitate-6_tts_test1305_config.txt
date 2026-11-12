@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I'm moving soon and I was wondering about your moving services.
+Speaker2: Hello, Xiao Ming, I am Zhang from the moving company's customer service, we provide comprehensive moving services, including packing, moving and new home arrangement, you can tell me your specific needs, I can give you a detailed quote.
+Speaker1: Okay, I have about three beds, a bookshelf, some furniture and some small items to move from the old house to the new house, which is about five kilometers away.
+Speaker2: Understood, based on your situation, we recommend a small truck and two movers, estimated time is half a day, total cost is six hundred yuan.
+Speaker1: How long is your service time?
+Speaker2: We usually provide service from 8 am to 6 pm. You can choose a convenient time for you.
+Speaker1: Can I choose Saturday morning at 10 am next week?
+Speaker2: Saturday morning at 10 am is fine, we will arrive on time. Please provide your contact info to confirm and remind.
+Speaker1: Okay, my phone number is one three four five six seven eight nine zero.
+Speaker2: Okay, we have recorded the time and place, we will meet on Saturday at 10 am. If there are any changes, we will contact you in advance. Have a nice day!

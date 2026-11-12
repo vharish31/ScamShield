@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to check your restaurant menu.
+Speaker2: Hello, I'm very happy to serve you. Do you have any special requirements for the dishes, such as taste preferences or allergies to certain ingredients?
+Speaker1: My friend likes spicy food, but I don't eat spicy, do you have any dishes that suit us?
+Speaker2: Yes, we have several dishes here that you can adjust the spiciness, such as steamed fish and spicy pot, you can choose not to put pepper or less pepper.
+Speaker1: How much do these menus cost?
+Speaker2: The price of steamed fish in water is 68 yuan, and the price of stir-fried fish with chili oil is 58 yuan.
+Speaker1: Okay, do we plan to go to your restaurant for dinner on the weekend and do we need to make a reservation in advance?
+Speaker2: It's usually crowded on weekends. I suggest you make a reservation in advance to ensure you have a seat. Could you please specify the time?
+Speaker1: Can we reserve a seat for six o'clock and a half on Saturday evening?
+Speaker2: Okay, the 6:30 PM spot on Saturday has been reserved for you. Please remember to bring your reservation information when you arrive.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: You're welcome. I'm looking forward to your arrival. Goodbye.

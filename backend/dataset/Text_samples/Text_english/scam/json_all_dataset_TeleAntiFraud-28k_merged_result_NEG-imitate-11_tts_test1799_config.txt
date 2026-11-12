@@ -1,0 +1,10 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, what do you have?
+Speaker1: I am a customer manager at Huaxing Bank, we noticed your credit record is excellent, we want to recommend a special loan service to you.
+Speaker2: Loan service?
+Speaker1: Yes, we have a low-interest credit loan with no collateral, fast approval, and is very suitable for you as a high-quality customer.
+Speaker2: The sound is good, but I can still manage my cash flow.
+Speaker1: That's great! But if you have any financial needs in the future, please contact us first. Moreover, as a token of our appreciation for our high-quality customers, we have a small reward. Just click on the link to register and you'll get a 100 yuan red packet.
+Speaker2: Is it really? Then how do I click on the link?
+Speaker1: It's very simple. I'll send you a text message with a link right away. Just click the link and follow the instructions to easily claim your red envelope.
+Speaker2: Okay, I'm waiting for a text message.

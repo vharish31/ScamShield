@@ -1,0 +1,14 @@
+Speaker1: Hey, are you free to talk now?
+Speaker2: Is there anything I can help you with?
+Speaker1: I am Li Wen from the Chinese banking industry. Recently, our bank introduced a special discounted loan product, very suitable for small business owners like you.
+Speaker2: No, I don't need a loan.
+Speaker1: Do you really need to consider it? This product has a low interest rate and simple procedures, no collateral is required and no proof of income is needed.
+Speaker2: The sound is good, but I really don't have any financial needs.
+Speaker1: That's really a pity, we have a product that yields great returns and has low risk, you can take a look.
+Speaker2: Can you give a detailed explanation of investing in wealth management?
+Speaker1: Of course, this product is jointly launched by our bank and a well-known investment institution, specifically designed for small business owners and individual entrepreneurs, you only need to invest a small amount of capital, and you can enjoy high returns.
+Speaker2: Listen sounds interesting, how can I join?
+Speaker1: Great, just click on the link I sent you, download our investment finance app, register and you can start investing.
+Speaker2: Okay, let me try.
+Speaker1: Great! You'll definitely be satisfied. If you have any questions, feel free to contact me anytime. My phone number is 010-12345678. Good luck with your investment! Bye!
+Speaker2: Thank you, goodbye.

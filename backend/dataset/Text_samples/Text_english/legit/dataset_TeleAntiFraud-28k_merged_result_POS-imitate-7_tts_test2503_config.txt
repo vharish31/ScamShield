@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at the Xiaoming restaurant?
+Speaker2: Hello, yes, this is Xiǎomíng rèstauràn.
+Speaker1: Are you open for business today?
+Speaker2: Business hours are from 10 am to 9 pm every day.
+Speaker1: What do you recommend?
+Speaker2: Our menu here has spicy Sichuan hot pot and steamed fish, many customers say it's delicious.
+Speaker1: Does it sound good? Then I plan to go tonight, do I need to book in advance?
+Speaker2: If you come between six and seven in the evening, it's recommended to book in advance, this time period is quite crowded.
+Speaker1: Okay, I'll reserve a four-person table for 6:30.
+Speaker2: Okay, I have already reserved for you. Just go to the front desk and give your name when you arrive.

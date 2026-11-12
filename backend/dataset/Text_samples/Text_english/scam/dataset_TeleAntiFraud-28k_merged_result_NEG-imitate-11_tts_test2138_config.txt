@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the manager of Guangfa Bank, I see your credit record is good, can provide you a low interest loan.
+Speaker2: "Oh, loan, I'm doing okay with cash flow right now, no need for the time being."
+Speaker1: That's great, but if you need anything in the future, feel free to contact us. By the way, are you interested in learning more about our latest financial product?
+Speaker2: Can you introduce me to some financial products that sound good?
+Speaker1: Of course, our financial product's annual return rate can reach 10%, and the risk is very low. You can add my WeChat, I will send you detailed information.
+Speaker2: Add WeChat, it's not convenient.
+Speaker1: Add me on WeChat, it's more convenient to communicate, if you have any questions, I can answer them anytime.
+Speaker2: Okay, give me your WeChat number, I'll add you.
+Speaker1: Great, my WeChat number is Lijin123456. Add me with a name, I'll recognize you.
+Speaker2: Okay, I'll add you soon.

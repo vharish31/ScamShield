@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is this King's restaurant?
+Speaker1: Yes, do you want to book a seat?
+Speaker2: Yes, I want to reserve a table for four people this weekend evening at seven o'clock.
+Speaker1: Okay, this weekend at seven o'clock, for four people, okay, I will record it for you.
+Speaker2: Okay, do we need to pay the deposit in advance?
+Speaker1: Please tell us the names of those who did not need to come as soon as you arrive.
+Speaker2: Okay, thank you, see you later.
+Speaker1: Okay, see you later, wish you a happy day.
+Speaker2: Thank you, goodbye.

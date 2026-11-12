@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I just bought a washing machine from your store, but I found a little problem, I want to consult a little.
+Speaker2: Hello, Little Wang, I am customer service Li, what questions do you have?
+Speaker1: Is it normal for this washing machine to make a very loud noise while in use?
+Speaker2: This situation is not normal, it might be due to incorrect installation or internal issues. If you're convenient, I can help you schedule a technician to come over and check it out.
+Speaker1: Okay, when can you come?
+Speaker2: Is 10am to 12pm a good time for the teacher to come?
+Speaker1: Can teacher bring tools tomorrow morning?
+Speaker2: Just bring all the tools you need to the meeting, you don't need to prepare anything.
+Speaker1: Okay, I'll wait for the teacher to come tomorrow. Thank you for your help.
+Speaker2: No problem, if you have other questions, please contact us anytime. Have a nice day, bye.

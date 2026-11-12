@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the customer service representative of Speedy Express, your package was returned because the address was not detailed, please provide detailed information to resend it.
+Speaker2: Really? Then what do we do?
+Speaker1: Please don't rush, just provide us with your detailed address and contact information, and we can rearrange delivery.
+Speaker2: Okay, my address is Shanghai City Pudong New District XX Road XX Number, phone is 138XXXX0000.
+Speaker1: Okay, I have recorded it down. To ensure your information is safe, we need you to verify your identity. Can you provide your ID number?
+Speaker2: Okay, my ID number is 110101199001010000.
+Speaker1: Thank you very much. The last step, to verify your identity, we need you to provide your bank card number. We will send a verification code to your phone, you just need to input the verification code to complete the verification.
+Speaker2: Okay, my credit card number is 6222081234567890.
+Speaker1: Okay, the verification code has been sent to your phone, please check.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you for your cooperation. Your package will be re-delivered soon. Is there anything else?

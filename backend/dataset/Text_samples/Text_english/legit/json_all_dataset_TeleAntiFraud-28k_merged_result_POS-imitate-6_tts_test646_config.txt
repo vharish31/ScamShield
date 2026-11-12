@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I booked your car maintenance service today, want to confirm the time?
+Speaker2: Hello, little Zhang, I am small Li from the car repair service center, is your appointment at 3 pm this afternoon?
+Speaker1: Okay, it's three in the afternoon, I just want to confirm the address, in case I can't find it.
+Speaker2: Okay, our address is Shanghai City Pudong District Tianjia Lu Wuhu Number Five, there's a clear signboard at the door, you can directly navigate there.
+Speaker1: Okay, I know, so I'll probably be there around 2:45, if I arrive early can I wait outside for a little while?
+Speaker2: Of course, if you arrive early, we will arrange it quickly, you don't need to be in a hurry.
+Speaker1: That's great, thank you for your help.
+Speaker2: No problem, please feel free to call us anytime if you have any questions, we will do our best to help you.
+Speaker1: Okay, thank you again, see you later.
+Speaker2: Okay, see you later, be safe on the way.

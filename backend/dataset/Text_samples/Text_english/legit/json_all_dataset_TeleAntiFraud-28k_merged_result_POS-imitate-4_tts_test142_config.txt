@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Have you eaten dinner yet?
+Speaker2: Not yet, just about to go eat. What do you want to eat?
+Speaker1: Let's go to that new hot pot restaurant and try it out.
+Speaker2: Great, have you heard anything about that store? Do you know the specific address?
+Speaker1: I'll check the specific address nearby the city center square and give it to you.
+Speaker2: Okay, thank you. What time did we go?
+Speaker1: 6:30 okay? Probably won't be too crowded.
+Speaker2: Okay, six thirty meet. On the road see.

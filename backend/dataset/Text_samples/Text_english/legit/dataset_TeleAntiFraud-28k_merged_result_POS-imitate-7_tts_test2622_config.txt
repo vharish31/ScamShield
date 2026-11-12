@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there?
+Speaker2: Hello, I'm here, what's up?
+Speaker1: I am the housekeeper you booked, coming to your home at 10 am today to clean, is that convenient for you?
+Speaker2: Okay, I'm right at home. Just ring the bell when you arrive.
+Speaker1: Okay, I arrived. Can I call you to confirm? Do we need to prepare some cleaning supplies?
+Speaker2: Have you all brought your cleaning supplies?
+Speaker1: We will bring all the necessary cleaning supplies, you don't need to prepare anything.
+Speaker2: That's great, thank you. See you later.
+Speaker1: No problem, see you at the time. If you have anything else to prepare in advance, feel free to contact me anytime.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I just arrived at your neighborhood, where are you?
+Speaker2: I'm still at home, just wait a minute, I'll be right out.
+Speaker1: Okay, I'm waiting for you at the community door. Remember to send me a message when you leave.
+Speaker2: Okay, I know, you wait a moment.
+Speaker1: Hey, remember to bring an umbrella when you come out, the weather forecast says there's a chance of rain today.
+Speaker2: Okay, thank you for reminding me, I'll be out in a bit.
+Speaker1: No problem, hurry up and come out, I'm waiting for you at the door.
+Speaker2: Okay, right away.
+Speaker1: Okay, I'll hang up first, see you later.
+Speaker2: Okay, see you later.

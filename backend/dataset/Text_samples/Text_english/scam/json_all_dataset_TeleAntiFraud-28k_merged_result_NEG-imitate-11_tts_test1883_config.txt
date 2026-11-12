@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Lee Huai?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for SF Express, one of your packages was accidentally lost during transportation, we need to verify some information to process your compensation.
+Speaker2: Is it true that my package was really lost?
+Speaker1: Yes, we are very sorry. In order to process quickly, we need you to provide your identity card number and bank card information, so that we can directly transfer the compensation money to your account.
+Speaker2: Okay, what do I need to do?
+Speaker1: Just click this link, fill in the relevant information, and we can process it for you.
+Speaker2: Link? How do I click?
+Speaker1: Add my WeChat first, I'll send you a link, it's more convenient this way.
+Speaker2: Okay, then I add you WeChat.
+Speaker1: Great, this is my WeChat number, add me.

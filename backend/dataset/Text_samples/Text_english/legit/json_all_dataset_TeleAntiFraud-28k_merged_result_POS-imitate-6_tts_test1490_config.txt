@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm at the door of some community, can you come over to pick me up?
+Speaker2: Okay, I'll be there soon. Where are you at the door?
+Speaker1: Can you see me at the east gate even though there are several doors around it?
+Speaker2: I see you, I'll meet you at the east gate second entrance, I'll come over now.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Open the navigation, see how far I am from you.
+Speaker1: Okay, I opened it. How long do you have left?
+Speaker2: About five minutes, don't rush.
+Speaker1: Okay, I'm waiting here. Thank you.
+Speaker2: No problem, I'm calling you now.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I am the customer manager of Huaxia Bank, Li Ming. Do you have any recent capital rotation needs?
+Speaker2: Oh, do you have any capital? I'm fine now, no special need.
+Speaker1: This way, we now have a new product, low interest rate, no down payment, quick approval, very convenient. You can consider it.
+Speaker2: How do I apply?
+Speaker1: Just download our app and fill out some basic info to quickly apply. I can send you a link, just click to download.
+Speaker2: Okay, give it to me.
+Speaker1: Okay, I'll send it to your phone right away. Do you have any issues with lost packages recently?
+Speaker2: Did you lose your package? No.
+Speaker1: That's it, then. But if you encounter this kind of situation, remember to contact our customer service, which can quickly handle compensation.
+Speaker2: I know, thank you for reminding.

@@ -1,0 +1,11 @@
+Speaker2: Hello
+Speaker1: Do you have a vegetarian set meal at this store?
+Speaker2: Yes, we have several vegetable set meals. Which one would you like to know about?
+Speaker1: How much does the cheapest vegetarian set meal cost?
+Speaker2: The cheapest vegetarian set meal is 35 yuan, including two dishes and a soup.
+Speaker1: Hey, what time do you guys start business today?
+Speaker2: We open business at 10 am and operate until 9 pm.
+Speaker1: Okay, I was at around noon yesterday, is the location good?
+Speaker2: The location is quite good, just in the city center's pedestrian street, if you can't find it, you can call me, I will give you directions.
+Speaker1: That's great, thank you for your help.
+Speaker2: Please welcome you.

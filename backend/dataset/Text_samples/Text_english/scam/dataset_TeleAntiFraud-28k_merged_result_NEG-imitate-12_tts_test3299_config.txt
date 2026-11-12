@@ -1,0 +1,10 @@
+Speaker1: Hello, you, this side is Taobao customer service center, I am customer service specialist small wang.
+Speaker2: Hello, what do you have?
+Speaker1: We found out that you recently had a pen order with issues, the delivery was lost, we need to handle a refund for you.
+Speaker2: Oh, really? How do I handle a refund?
+Speaker1: To prevent you from losing again, we need you to download our official app to handle this issue.
+Speaker2: Download the app? It's not very convenient.
+Speaker1: Don't worry, downloading the app is very simple, just click on the link, and you can quickly download it.
+Speaker2: Is that link safe?
+Speaker1: Absolutely safe, we are official customer service, link also official provided, you can safely click.
+Speaker2: Okay, let me try.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a customer service representative from JD Finance, your recent loan application on our platform has been approved, and now you need to handle some paperwork.
+Speaker2: Oh, really? That's great, I really need to turn over some cash recently
+Speaker1: Yes, we have a special app here that can help you quickly complete the loan procedures. Have you downloaded our app?
+Speaker2: Not yet, I haven't used your app before
+Speaker1: Would you mind downloading one of our apps? It's very convenient and can complete all loan procedures with just one click. Plus, you'll discover more financial products.
+Speaker2: Okay, I'll download it now and contact you after it's finished.
+Speaker1: Okay, after you download it, find the customer service in the app and input my work number 12345 to contact me directly, if you have any questions you can contact me anytime.
+Speaker2: Okay, thank you, I'll go download it now.

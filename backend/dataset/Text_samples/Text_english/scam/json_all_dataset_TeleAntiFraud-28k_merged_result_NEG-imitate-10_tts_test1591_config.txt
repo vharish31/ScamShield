@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Hello, I am small Li, this side is the happy buy electric shopping platform customer service, your previous purchase on our platform has quality issues, now we need to handle refund for you.
+Speaker2: Hey, okay, how do you guys want to refund?
+Speaker1: To ensure your funds are safe, we need you to download our official refund app, so you can track the refund progress in real-time. Is that convenient for you?
+Speaker2: Do you want to download the app? Is it really that good?
+Speaker1: Of course, this is a regular operation, many users complete refunds through this way. I will send you a download link, just click to download directly.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send it now. Please check the message after receiving it. After downloading, you can directly input your bank card information in the app, and the refund amount will be directly returned to your bank account.
+Speaker2: Okay, thank you for your help.

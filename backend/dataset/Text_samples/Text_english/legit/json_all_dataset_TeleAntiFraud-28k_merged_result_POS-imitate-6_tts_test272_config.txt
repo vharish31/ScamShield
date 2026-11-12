@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I want to ask, are your store open now?
+Speaker2: Hello, are there anything we can help you with at the store right now?
+Speaker1: I want to buy a suit, do you guys have a suitable one?
+Speaker2: Sure, we have various styles of clothing here. What type are you interested in?
+Speaker1: I want a warm coat that's suitable for autumn and winter, and preferably in a deep color.
+Speaker2: Okay, we have several black puffer jackets here, you can try them on in the store and see how they look.
+Speaker1: What is the address of your store?
+Speaker2: Our store is on the commercial street in the city center, the specific address is Guangming Road 100, is it convenient for you to come over?
+Speaker1: 100 Lighting Road, I know how to walk, thank you.
+Speaker2: No problem, feel free to come anytime. Is there anything you need to consult?

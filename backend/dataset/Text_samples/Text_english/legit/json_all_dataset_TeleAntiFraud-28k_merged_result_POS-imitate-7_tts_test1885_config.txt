@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am Zhang San, I want to consult your restaurant reservation service.
+Speaker2: Hello, Mr. Zhang Three, I am waiter Li Small, very happy to serve you. What day do you want to reserve a seat?
+Speaker1: Can I reserve a seat for 7 pm tomorrow night? Is there any availability?
+Speaker2: Can you check for me, please wait a moment. Okay, there are still available seats at seven o'clock tomorrow night, how many do you need to book?
+Speaker1: Can we reserve a window seat for four of us?
+Speaker2: The window side is also available, you can book it. Do you have any special requirements?
+Speaker1: There are no specific requirements, I just want to eat a meal at the window and enjoy the night view. By the way, do we have any vegetarian options on the menu?
+Speaker2: Our menu has a variety of vegetarian dishes that are very rich and can meet your needs. Can I reserve a four-person table by the window for tomorrow night at seven o'clock?
+Speaker1: Okay, thank you, Li.
+Speaker2: No problem, this is my job. See you tomorrow night at seven, wish you a happy dinner!

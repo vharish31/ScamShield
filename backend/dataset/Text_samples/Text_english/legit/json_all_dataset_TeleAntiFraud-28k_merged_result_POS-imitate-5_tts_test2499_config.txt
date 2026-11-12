@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you give me more details about this smartwatch in your store?
+Speaker2: Okay, this smartwatch comes equipped with the latest health monitoring features, supporting heart rate, blood pressure monitoring, and sleep quality analysis, very practical.
+Speaker1: How long does the battery of this watch last?
+Speaker2: This watch can last up to seven days with normal use, and if you turn on the power-saving mode, the battery life will be longer.
+Speaker1: Sounds good, can I go to your store now?
+Speaker2: Of course, our store's business hours are from 9am to 9pm, it's still early now, please feel free to come and experience it anytime.
+Speaker1: Okay, I'll be there in about half an hour. Will you still be open then?
+Speaker2: Of course, we will definitely wait for you here. If there is any information that needs to be understood in advance, please contact me anytime.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if your restaurant has a private room that can accommodate five people?
+Speaker2: Yes, we have different sized rooms that can accommodate five people.
+Speaker1: What about the price?
+Speaker2: The cost of the room varies depending on its size and duration, usually between 200 and 500.
+Speaker1: Okay, I plan to go this weekend. Do you need to make reservations in advance?
+Speaker2: Yes, to ensure a spot, we suggest you book in advance.
+Speaker1: How do I make a reservation?
+Speaker2: You can make an appointment through phone or our official website. The phone number is 0532668888.
+Speaker1: Okay, I'll contact you later to confirm the appointment, thank you.
+Speaker2: You're welcome, please feel free to contact us anytime if you have any questions, we're looking forward to your visit.

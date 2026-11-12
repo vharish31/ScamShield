@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service representative of Huaxia Bank. I see you have an incomplete loan application. Do you need to continue processing it?
+Speaker2: Have I applied before?
+Speaker1: Yes, you submitted an application on our bank's online platform before, but you haven't completed the subsequent operations yet. I can help you expedite the processing here, and the interest rate on the loan is currently very favorable.
+Speaker2: Okay, I really need to circulate some cash recently.
+Speaker1: Okay, to speed up the process, could you please provide some personal information such as your identity number and bank account?
+Speaker2: Okay, how can I provide?
+Speaker1: You can click on the link I sent you to enter our official website and fill out, it's safer that way.
+Speaker2: Okay, I'll click on it.
+Speaker1: Okay, click and follow the instructions on the page. If you have any questions, you can directly contact me. My phone number is 400123456.
+Speaker2: Okay, thank you.

@@ -1,0 +1,14 @@
+Speaker1: Hey, hello, I'm little Li, want to consult with you about renting a house.
+Speaker2: Hello, little Li, is the information you saw online?
+Speaker1: Yes, I see the house information you sent, it's a top floor with attic, right?
+Speaker2: Yes, that's a rooftop terrace, with a separate entrance door, very quiet to live in.
+Speaker1: Hey, how much is the rent for that house?
+Speaker2: Rent is one thousand four hundred yuan per month, including property fees, water, heating and electricity fees.
+Speaker1: Does the room have gas?
+Speaker2: No gas, cooking is with electricity.
+Speaker1: Is the electricity bill expensive?
+Speaker2: Hello, we use energy-efficient appliances, the electricity bill isn't too high.
+Speaker1: When can I go take a look at the house?
+Speaker2: Are you free now? I can arrange a time to take you to see.
+Speaker1: Can I have some time in the afternoon around two o'clock?
+Speaker2: Sure, let's meet at the small community door at 2 pm.

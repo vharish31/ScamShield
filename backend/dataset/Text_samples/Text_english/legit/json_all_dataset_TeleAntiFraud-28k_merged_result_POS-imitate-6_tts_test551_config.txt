@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how can I help you?
+Speaker1: I saw your repair service on the internet and wanted to know more about it.
+Speaker2: Okay, we provide electrical repair, pipeline clearing and other services. What specific help do you need?
+Speaker1: My washing machine at home broke down. Can you guys come and fix it?
+Speaker2: Sure, we have professional repairmen. Can you tell me your address?
+Speaker1: I live in Changping District, Tiantongliu Xiǎozhuāng Wǔhào Lóu Sān dān yī lǐng èr lǐng èr zhōngshì.
+Speaker2: Okay, I will record it down. Can you please schedule a meeting tomorrow morning at 10 am?
+Speaker1: Can you arrive at ten o'clock in the morning? Approximately how long will it take?
+Speaker2: We will leave 30 minutes before the scheduled time to ensure timely arrival.
+Speaker1: Okay, thank you. And how do you calculate repair costs?
+Speaker2: We charge based on the difficulty of repair and the cost of parts, and the specific fee will be explained by the master when he arrives.
+Speaker1: Understood, then I'll wait at home tomorrow. Thank you for your help.
+Speaker2: No problem, if you have other questions, feel free to contact us. See you tomorrow.

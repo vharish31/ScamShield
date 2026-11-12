@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Huaxia Bank customer service center. Are you Mr. Zhang?
+Speaker2: Uh, I am.
+Speaker1: Mr. Zhang, we noticed you are one of our high-quality customers, now I have a special promotion, you can enjoy a three-cent discount on low-interest loans.
+Speaker2: Really? I recently need to circulate some funds.
+Speaker1: Yes, just provide some basic information and we can quickly approve.
+Speaker2: What do I need to do?
+Speaker1: You just need to click this link and fill in the relevant information.
+Speaker2: Okay, I'll go operate.
+Speaker1: Great, Mr. Zhang, you can contact me anytime if you have any questions.
+Speaker2: Thank you, I will complete it as soon as possible.

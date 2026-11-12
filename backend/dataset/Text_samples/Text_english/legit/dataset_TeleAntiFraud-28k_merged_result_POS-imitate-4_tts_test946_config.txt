@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at the community door, but the access control won't let me in.
+Speaker2: Hello, can't you open the door?
+Speaker1: Yes, I clicked several times but there was no response.
+Speaker2: It's possible that the access control system has a problem, so don't get too anxious.
+Speaker1: What should I do now?
+Speaker2: You can first try to contact property management, see if they can remotely help you open it.
+Speaker1: What is the phone number for property management?
+Speaker2: The property management phone number is 88888888, try calling it.
+Speaker1: Okay, I'll go over there now, thank you.
+Speaker2: No problem, if you still can't solve it, contact me again.

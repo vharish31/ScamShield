@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I bought a humidifier from your store, now there's a problem, can you help me take a look?
+Speaker2: Hello, what problems have appeared with the humidifier? Can you describe it in detail?
+Speaker1: The sound is particularly loud when using a humidifier, and the humidification effect is not good.
+Speaker2: This situation may be due to low water level or clogged filter, you can first check the water box and filter.
+Speaker1: Okay, I'll take a look, what if it's still not working?
+Speaker2: If it's still not okay, you can bring a humidifier to our store, we'll check and fix it for you.
+Speaker1: What is the address and business hours of your store?
+Speaker2: Our store is on Lightning Road No. 3, business hours are from 9 am to 8 pm every day.
+Speaker1: Okay, I'll go over there in the afternoon tomorrow.
+Speaker2: Okay, see you tomorrow, hope I can help you.

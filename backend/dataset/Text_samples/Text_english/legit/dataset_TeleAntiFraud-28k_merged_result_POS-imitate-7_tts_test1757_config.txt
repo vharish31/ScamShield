@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at your store door, but I couldn't find the seventh door you mentioned, can you guide me a bit?
+Speaker2: Hey, hello, you come from the front door, straight walk, see the first courtyard, the seventh door is at the back of the courtyard.
+Speaker1: Oh, can you see the courtyard? You mean you walked from the entrance of the courtyard all the way to the seventh door?
+Speaker2: Yes, that's right. The seventh door is at the end of this road. It's easy to find.
+Speaker1: Okay, I'll be right back. Is there a specific time for the door to close here?
+Speaker2: We close business at nine o'clock here, you came too early, don't worry.
+Speaker1: Okay, I'll be there in about twenty minutes. Don't lock the door.
+Speaker2: Don't worry, we're still open at 20 minutes, come over now.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later.

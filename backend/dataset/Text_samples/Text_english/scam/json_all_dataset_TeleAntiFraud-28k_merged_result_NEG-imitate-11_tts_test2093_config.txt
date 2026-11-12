@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm small Li, this is the bank's customer service representative. You recently lost a package, we can handle the refund here.
+Speaker2: Really or not, I don't know?
+Speaker1: It's true, there might have been an issue with the delivery company during transportation, but don't worry, we can handle it here, just provide the order number.
+Speaker2: Okay, my order number is 123456.
+Speaker1: Okay, I have recorded the order number. To ensure a smooth refund, please provide a bank account.
+Speaker2: My credit card number is 6222081234567890, is that okay?
+Speaker1: Okay, we have recorded it. For safety reasons, you also need to provide a verification code. The verification code will be sent to your phone, tell me when you receive it.
+Speaker2: Okay, I received it. The verification code is 123456.
+Speaker1: Great, we have confirmed your information. Your refund will be in your account within 24 hours, please pay attention to check it. Moreover, to ensure the safety of your information, I recommend you download our bank's official app, which is more secure.
+Speaker2: Okay, I'll go download it now.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Hello, I am Li, the agricultural bank manager, are you available to talk now?
+Speaker2: Sure, you say.
+Speaker1: Okay, we recently introduced a special discounted credit loan with monthly interest as low as two cents, targeting customers with stable income. Have you recently had any financial needs?
+Speaker2: Hmm, this sounds good, I can understand a bit.
+Speaker1: Sure, I can add my WeChat to provide you with more detailed information. I have detailed information here.
+Speaker2: Sure, let's add it.
+Speaker1: Okay, my WeChat number is LX123456. Add me and I'll send you the info right away.
+Speaker2: Okay, I understand.

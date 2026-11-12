@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of China Southern Airlines, I am Li Xiao, can you confirm if you have recently received the short message from our bank?
+Speaker2: Text message? No, what content?
+Speaker1: Oh, that might be because your phone is set to block. We recently launched a special discounted financial product with high returns, are you interested in learning more?
+Speaker2: Wealth management? It sounds good, but I also have investments in other banks. What is your return rate?
+Speaker1: This product's annual return rate can reach 8.5%, and the risk is very low, making it very suitable for conservative investors. You just need to download our app and register an account to view detailed information.
+Speaker2: Do you want to download the app? What about its safety?
+Speaker1: Our app is certified by the Chinese government as a safe software, you can use it with confidence. Moreover, after downloading, you will have one-on-one professional investment advisor service, helping you choose the most suitable investment plan.
+Speaker2: Listen to it sounds very professional. Then how do I download this app?
+Speaker1: It's very simple. Just click on the link I sent, and you can download it directly. After downloading, please register an account and contact me, I can help you operate it.
+Speaker2: Okay, I'll try. Give me the link.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Zhang San, can you tell me about your haircut service?
+Speaker2: Hello, Mr. Zhang, I am small Li from the hair salon, our hair cutting service is very professional, do you have any special requirements?
+Speaker1: I've been pretty busy lately, I want to cut a simple and clean hairstyle, no fancy stuff.
+Speaker2: Okay, we have several masters here who are skilled in this style of haircut. When is it convenient for you to come over?
+Speaker1: Can I schedule an appointment for tomorrow afternoon at one o'clock?
+Speaker2: Okay, tomorrow at one o'clock in the afternoon, we will reserve a spot for you, remember to come on time.
+Speaker1: Okay, I'll see you tomorrow. By the way, do you have a parking spot at your place?
+Speaker2: Yes, there's a small parking lot behind our store, it's free to park, just park there when you come.
+Speaker1: Thanks for your help.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

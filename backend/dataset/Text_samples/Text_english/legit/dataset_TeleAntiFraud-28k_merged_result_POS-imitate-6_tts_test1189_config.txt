@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little Li, I want to order some takeout, are you guys still open?
+Speaker2: Hello, we are still open for business, can we order? What do you want to eat?
+Speaker1: I want to order a beef stir-fry and a sweet and sour pork rib, and a bottle of Coke.
+Speaker2: Okay, one portion of beef stir-fry, one piece of sweet and sour pork ribs, one bottle of Coke, that's 35 yuan in total.
+Speaker1: Okay, I'll pay with WeChat, sorry.
+Speaker2: Okay, we have received the WeChat payment. Your order will be delivered within 30 minutes.
+Speaker1: Okay, I live in Happiness Villa No. 2, Unit 1, please call me when you bring food.
+Speaker2: Okay, Happy Community Building 2, Unit 1, Phone Number?
+Speaker1: The phone number is 1312345.
+Speaker2: Okay, 1301234 is 5, send to within 30 minutes, pay attention to answering the phone.
+Speaker1: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Have you rented out this house yet?
+Speaker2: Are you interested in this house yet?
+Speaker1: Yes, that's very interesting. Can you give me a detailed introduction?
+Speaker2: Of course. This apartment is two rooms and one hall, located in the quiet area of the community, with good lighting. There are supermarkets and parks nearby, convenient for living.
+Speaker1: How much is the rent for this house?
+Speaker2: Rent is 3500 yuan per month, three months' deposit, electricity and water fees are separate.
+Speaker1: Can I go take a look at the room?
+Speaker2: Sure, what time works for you? I have time every afternoon this week.
+Speaker1: Can I meet you at two in the afternoon tomorrow?
+Speaker2: Okay, tomorrow afternoon at two o'clock, I will be waiting for you at the community door.

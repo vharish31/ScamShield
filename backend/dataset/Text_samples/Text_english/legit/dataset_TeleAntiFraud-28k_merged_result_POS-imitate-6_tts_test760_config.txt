@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help with?
+Speaker1: Do you have any winter coats here that are suitable for me?
+Speaker2: Yes, we have different styles of down jackets here. What color and size do you want?
+Speaker1: Do you have a black one in size M?
+Speaker2: We have black M-size down jackets in stock. You can come to the store to take a look or choose online shopping.
+Speaker1: When will my online purchase arrive?
+Speaker2: When buying online, we usually ship within two to three days after ordering, and there may be a slight delay depending on your location.
+Speaker1: If I bought something that doesn't fit, can I return or exchange it?
+Speaker2: Of course, we support seven-day no-reason return or exchange, as long as the product remains unchanged, it won't affect secondary sales.

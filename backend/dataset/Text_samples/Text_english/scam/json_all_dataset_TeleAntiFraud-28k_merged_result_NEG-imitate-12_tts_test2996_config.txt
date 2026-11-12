@@ -1,0 +1,12 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of Beijing Bank, Li.
+Speaker2: Hello, where are you from?
+Speaker1: I work at the Beijing Bank. I see from your previous loan records that you have borrowed from us before. We now have a new loan product that is very suitable for you.
+Speaker2: No, I don't need loan products.
+Speaker1: Don't rush to reject it, this product has low interest rates and quick approval, if you have any urgent need for cash flow now, it's perfect for you.
+Speaker2: What do I need to do?
+Speaker1: Just download our bank's official app, register an account, fill out some basic information, and we'll contact you after review.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Extremely safe, all our bank apps have been strictly reviewed, you can rest assured to download.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues after downloading, feel free to contact me anytime. Here's my WeChat number, add me.
+Speaker2: Okay, I'll add you.

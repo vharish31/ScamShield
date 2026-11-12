@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am a customer service representative from our delivery platform. Recently, there were some small issues with your orders on our platform. I want to confirm with you.
+Speaker2: Hello, do you have any questions?
+Speaker1: That's it, because the restaurant was busy, the delivery time for the beef stir-fry you ordered last night was delayed, we want to apologize to you.
+Speaker2: Oh, it was really late, but the delivery was still hot when it arrived, which was quite good.
+Speaker1: That's great! To make up for you, we're preparing to give you a 10-yuan discount coupon, which you can use directly next time you order food.
+Speaker2: Okay, thank you, next time we'll consider.
+Speaker1: You're welcome. If you have any other questions or want to give feedback, feel free to contact us anytime. Have a great day.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye, wish you well.

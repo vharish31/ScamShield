@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the manager of the personal loan department at Commercial Bank. Do you have any recent needs for capital rotation?
+Speaker2: Oh, hello, temporarily no need for this.
+Speaker1: Are you considering investing in finance? We have a high-yield financial product here that is very suitable.
+Speaker2: Invest in wealth management, it sounds good, what's the specifics?
+Speaker1: This is it, our financial product has an annual return rate of over 100%, and the risk is extremely low. All you need to do is download our app, register and you can start investing right away.
+Speaker2: Do you want to download the app? It sounds pretty convenient.
+Speaker1: Yes, after you download the app, I will send you an invitation code, enter the invitation code during registration to enjoy the new user's discount.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you a short message with a download link and an invitation code. If you have any questions after downloading, please contact me.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, Master.
+Speaker2: Hey, how are you?
+Speaker1: Where are you?
+Speaker2: Did you come out yet?
+Speaker1: I'm still at home, I'll be there in ten minutes.
+Speaker2: Okay, hurry up, I'll wait for you.
+Speaker1: Okay, I'll go downstairs now.
+Speaker2: Call me when you get out, I'll be waiting at the door.
+Speaker1: Okay, I know.
+Speaker2: Okay, pay attention to safety.

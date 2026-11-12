@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm little king, I want to consult your restaurant's vegetarian set menu
+Speaker2: Hello, I am restaurant server Li, we have many vegetarian set meals here, which one would you like to know about?
+Speaker1: What is your most popular vegetarian dish and how much does it cost?
+Speaker2: Our most popular vegetarian dish is stir-fried four season beans with mushrooms and rice, priced at 38 yuan, and we also have vegetable salad and fruit tea. Would you like to try it?
+Speaker1: What are your business hours?
+Speaker2: Our restaurant business hours are from 11 am to 9 pm, on weekends they will be extended to 10 pm.
+Speaker1: Okay, do I need to make reservations in advance for the weekend?
+Speaker2: It's quite crowded on weekends, so it's recommended to book in advance to ensure a seat. You can book up to two days in advance by calling.
+Speaker1: Okay, thank you for your help. I will book in advance.
+Speaker2: You're welcome, looking forward to your arrival, goodbye!

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: I'd like to inquire about your restaurant's signature dishes.
+Speaker2: Of course, our recommended special dishes here are roast duck, steamed fish and gong bao chicken, all of which are very popular.
+Speaker1: What flavor is that boiled fish?
+Speaker2: Steamed fish with spicy sauce is our signature dish here, spicy but not greasy, fresh and tender fish meat, very appetizing.
+Speaker1: Do you have a private room tonight?
+Speaker2: Yes, please let me know the reservation time and number of people for the private room in advance.
+Speaker1: Around six, two people.
+Speaker2: Okay, I booked a two-person room for you tonight at six o'clock. Is that okay?
+Speaker1: No problem, thank you.
+Speaker2: Please welcome you.

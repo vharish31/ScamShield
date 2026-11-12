@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I saw your restaurant reviews on Meituan are good, want to know more about your signature dishes
+Speaker2: Hello, our special dishes here include spicy hot pot, steamed fish and stir-fried frog, all very popular.
+Speaker1: How much do these menus cost?
+Speaker2: The spicy pot is 68 yuan, steamed fish is 78 yuan, stir-fried frog is 88 yuan.
+Speaker1: Can I reserve a spot around 7 pm tonight? It sounds good.
+Speaker2: Is it okay, do we need to reserve a few seats at seven o'clock here?
+Speaker1: Book two seats, at the time will be me and my friend
+Speaker2: Okay, I have booked two seats for you, see you at seven o'clock tonight.

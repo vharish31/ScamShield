@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I saw a store for short rent near you on Five Eight.
+Speaker2: Hey, okay, we're looking for a short-term rental person
+Speaker1: Hey, what's your current sales approximately?
+Speaker2: Currently, there are approximately 15,000 in revenue per month.
+Speaker1: Hey, how much is the rent for that house?
+Speaker2: Is 3,000 yuan per month a reasonable rent for you?
+Speaker1: Is there anything else in cost on your side?
+Speaker2: Except for water and electricity, everything else is taken care of, including property fees.
+Speaker1: Okay, I'll go take a look in a few days, will you be okay?
+Speaker2: Of course, you can come whenever it's convenient for you, just give me a call beforehand.

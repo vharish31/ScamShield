@@ -1,0 +1,10 @@
+Speaker1: Hello, is this Li Manager?
+Speaker2: Who are you?
+Speaker1: Hello, I am a small king in the construction of the bank's credit service center, and we have recently launched a special promotion activity for old customers. Do you have any interest in it?
+Speaker2: Oh, really? What specific discount is it?
+Speaker1: That's right, this activity is mainly for customers with good credit, who can provide low-interest loan services, and the procedures are very simple, if you're interested, you can click on the link I sent you and apply online.
+Speaker2: So, how can I confirm that it's true?
+Speaker1: You can directly enter our official website through the link, all information is transparent, and there are detailed terms and conditions, after you look at it, if you have any questions, you can contact me anytime, my phone number is 010-12345678.
+Speaker2: Okay, let's take a look.
+Speaker1: Great, I'll send you the link now. Just wait a minute and check it out after you receive it.
+Speaker2: Okay, thank you.

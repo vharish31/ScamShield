@@ -1,0 +1,10 @@
+Speaker1: Hey, are my packages here yet?
+Speaker2: Hello, your package has arrived, you can pick it up at the property center.
+Speaker1: Okay, can we go now?
+Speaker2: Yes, the property center is open now.
+Speaker1: Can I arrive in about ten minutes?
+Speaker2: Of course, we're waiting for you at the property center.
+Speaker1: Where is the property center?
+Speaker2: At the entrance of the small community, on the right side of the first building.
+Speaker1: Okay, I understand, thank you.
+Speaker2: No problem, please feel free to contact us anytime.

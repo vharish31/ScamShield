@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hi, I have reserved a table for you tonight at six o'clock. Just want to confirm.
+Speaker2: Okay, just a moment, I'll check.
+Speaker1: Okay, can you help me out?
+Speaker2: I found it, your 6 o'clock location has been reserved for you.
+Speaker1: Goodbye, thank you.
+Speaker2: No problem, there's something else, because today is Saturday, the restaurant people are more, recommend you come early.
+Speaker1: Okay, I will try to arrive early.
+Speaker2: Thank you very much, see you later.
+Speaker1: See you later, goodbye.
+Speaker2: Goodbye.

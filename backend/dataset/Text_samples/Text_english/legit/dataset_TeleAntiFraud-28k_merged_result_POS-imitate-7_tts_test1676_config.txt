@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hi, I'm little Li, I bought an electric rice cooker from your store a few days ago, could you please tell me how to book maintenance service?
+Speaker2: Hello, little Li, I am customer service Zhang, can you tell me your specific problem with the electric rice cooker?
+Speaker1: Just recently when I was cooking dinner, the heating wasn't even, and it would sometimes shut off.
+Speaker2: Understood, in this situation we can help you schedule repair. Can you please provide the purchase invoice and rice cooker model?
+Speaker1: Okay, I found the invoice. The model is BR-2008.
+Speaker2: Okay, I'll record it down. We'll arrange a technician to come to your home for a checkup tomorrow morning or afternoon, which is more convenient for you?
+Speaker1: Afternoon, I have something in the morning.
+Speaker2: Okay, let's meet at 2 pm. Will you need me to confirm again the day before?
+Speaker1: No need, I'll wait at home later, thank you for your help.
+Speaker2: No problem, feel free to contact us anytime. Have a happy life!

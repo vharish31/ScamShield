@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little king, can you confirm the haircut time we scheduled last time?
+Speaker2: Hello, Little Wang, is your haircut appointment tomorrow at 2 pm correct?
+Speaker1: Yes, it's tomorrow at two in the afternoon. I just got a text message reminder and want to confirm if there's still a spot.
+Speaker2: No problem, your appointment is still there, we will reserve this time slot for you.
+Speaker1: Okay, thank you. So, how long do I need to arrive beforehand?
+Speaker2: Please arrive ten minutes early, so we have enough time to prepare.
+Speaker1: What should I do if I need to change the time temporarily?
+Speaker2: If you need to change the time, please notify us at least two hours in advance, we will do our best to help you adjust.
+Speaker1: Okay, I noted it down. Also, I forgot to ask, who is the hairdresser?
+Speaker2: Your hairdresser is Li master, he has ten years of hairdressing experience, his technique is very good.
+Speaker1: Thanks for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

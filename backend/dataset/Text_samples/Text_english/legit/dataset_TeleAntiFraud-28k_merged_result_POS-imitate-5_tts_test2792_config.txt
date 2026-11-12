@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I reserved a spot for tomorrow at noon twelve in your side, wanna confirm?
+Speaker2: Hello, could you please ask for your name or reservation number? I'll check here.
+Speaker1: Okay, my name is Li Ming, reservation number is twelve three five four.
+Speaker2: Okay, Li Ming Xiāngshēng, I found your appointment, tomorrow at noon twelve, right?
+Speaker1: Yes, that's this time.
+Speaker2: Okay, your seat has been reserved. If there are any changes, please contact us in advance.
+Speaker1: Okay, thank you. Right, I heard there are special discounts on your side, can you introduce them?
+Speaker2: Of course, our special discounted menu this week is sweet and sour pork ribs and steamed fish, both very popular.
+Speaker1: Sounds good, I'll consider it. See you tomorrow.
+Speaker2: Okay, see you tomorrow, wish you enjoy your meal.

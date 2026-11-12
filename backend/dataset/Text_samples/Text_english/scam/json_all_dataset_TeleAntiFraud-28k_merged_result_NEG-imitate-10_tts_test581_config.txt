@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Xiao Zhang, this is XX Finance Company's customer service manager. Have you recently paid attention to investing in the stock market?
+Speaker2: Hello, I don't understand the stock market and haven't paid much attention to it.
+Speaker1: No problem, we have professional investment advisors here who can help you with high-yield investments. You just need to provide some basic information, and we can design an investment plan for you. Are you interested?
+Speaker2: The sound is good, but I'm not familiar with this kind of investment, how do I operate it?
+Speaker1: It's very simple. Just download our XX financial app, register an account, transfer your funds to our safe account, and our advisor will operate it for you, ensuring high returns.
+Speaker2: Is my money safe in a safe account?
+Speaker1: Absolutely safe, we are a legitimate financial company with professional teams to protect and guide you. You can start with a small investment to experience our services.
+Speaker2: Okay, I'll try. How do I download your app?
+Speaker1: Okay, just click this link to download our app. https://example.com/download
+Speaker2: Okay, I'll download it now. Thank you for your recommendation.

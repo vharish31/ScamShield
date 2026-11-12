@@ -1,0 +1,10 @@
+Speaker1: Hey, are there any apartments for rent on your side?
+Speaker2: Hello, do you want to see which of the recently rented ones?
+Speaker1: I want to see two-room apartments that are close to the subway station.
+Speaker2: There are a few apartments in a two-room, one-living-room flat, and some near the subway station. You can come take a look first.
+Speaker1: How much is the rent for that house?
+Speaker2: The monthly rent for each apartment adjacent to the subway station is three thousand two hundred yuan.
+Speaker1: Is it possible to lower the price a little?
+Speaker2: This is our best price, but if you sign for a year, we'll give you a month's rent.
+Speaker1: Can I come take a look at the house first before I pay a month's rent?
+Speaker2: Of course, whenever you're convenient, I'll arrange the time.

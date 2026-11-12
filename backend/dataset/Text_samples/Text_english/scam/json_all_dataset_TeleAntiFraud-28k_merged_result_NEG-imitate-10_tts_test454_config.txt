@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of Speed Loan, do you have any recent need for cash flow?
+Speaker2: Hello, I temporarily don't have this requirement.
+Speaker1: Okay, please consider that our loan interest rate is very low, and the approval is fast, no collateral is required.
+Speaker2: Is it really that good?
+Speaker1: Yes, you just need to provide your ID and bank card info, and we can quickly process it for you.
+Speaker2: What do I need to do?
+Speaker1: Just click this link, fill out some basic info, and our customer service manager will immediately contact you.
+Speaker2: Okay, let me try.
+Speaker1: Great! The link has been sent to your phone. Don't forget to check it.
+Speaker2: Okay, thank you.

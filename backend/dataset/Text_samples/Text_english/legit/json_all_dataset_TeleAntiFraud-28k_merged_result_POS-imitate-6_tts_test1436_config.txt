@@ -1,0 +1,10 @@
+Speaker1: Hi, are you at the table I reserved? Is it the window seat?
+Speaker2: Hello, yes, your reservation is by the window, you can see the scenery on the street.
+Speaker1: Great, my friend really likes sitting at the window. By the way, what are the special dishes at your store?
+Speaker2: Our store's signature dishes include red braised pork head, steamed fish with clear broth, and stir-fried frog with dried tofu, all of which are highly praised by customers.
+Speaker1: Everything sounds great, I'm ready to order a portion of everything. Also, what is your store's business hours?
+Speaker2: Our store's business hours are from 11 am to 10 pm, your reserved time is 6:30 pm, perfect.
+Speaker1: Okay, I'll probably arrive around six, can I come a little early?
+Speaker2: Of course, if you arrive early, we can prepare for you.
+Speaker1: Thank you, see you then.
+Speaker2: See you then, I'm looking forward to your arrival.

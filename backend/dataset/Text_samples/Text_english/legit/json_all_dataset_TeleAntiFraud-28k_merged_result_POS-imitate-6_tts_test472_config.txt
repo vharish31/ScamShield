@@ -1,0 +1,14 @@
+Speaker1: Hello, is this the city center car rental service?
+Speaker2: Hello, this is the city center car rental service. How can I help you?
+Speaker1: Can you tell me about your economy car, do you have automatic transmission?
+Speaker2: Yes, we have several economic cars that are automatic transmission, such as the Karola from Japan and the Corolla from Korea, what is your special preference for car type?
+Speaker1: I don't have any specific requirements for the car type, just want to know how much it costs to rent for a day?
+Speaker2: The daily rental fee for an economic automatic transmission car is 200 yuan, which includes 100 kilometers of mileage, and any additional mileage is charged at 2 yuan per kilometer.
+Speaker1: Does three days sound good? Is there any discount?
+Speaker2: For a three-day rental, we can provide a meal package for five hundred and fifty yuan, including three hundred kilometers of mileage, which is very cost-effective.
+Speaker1: Okay, let's book the three-day menu. What information do we need?
+Speaker2: Okay, I'll help you record. Please provide your name, phone number, ID number, and driver's license number.
+Speaker1: I am Zhang San, phone number is 134567890, ID card is 3401976010, driving license is 3401976010.
+Speaker2: Okay, Mr. Zhang, I have recorded your information. Your reservation is successful, and an electronic contract will be sent to your phone. Please pay attention to receive and sign it.
+Speaker1: Okay, thank you for your help, goodbye.
+Speaker2: You're welcome, wish you a happy journey, bye.

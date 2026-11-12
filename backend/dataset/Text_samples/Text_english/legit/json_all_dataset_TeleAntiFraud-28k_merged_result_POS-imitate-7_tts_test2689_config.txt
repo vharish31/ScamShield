@@ -1,0 +1,11 @@
+Speaker1: Hello, teacher.
+Speaker2: Hello, you.
+Speaker1: Are you interested in learning more about the job positions of delivery riders and packers on Meituan?
+Speaker2: Are you looking for a full-time position?
+Speaker1: Yes, are you considering the fruit and vegetable post or the daily commodities post for a full-time position?
+Speaker2: How much does a daily salary at a supermarket amount to?
+Speaker1: The minimum wage for a daily use goods store worker is six thousand five. It can be higher based on performance.
+Speaker2: What is the working hours?
+Speaker1: The work hours are from 4 pm to 10 pm, which is quite suitable for those who want to avoid rush hours in the morning and evening.
+Speaker2: Is there a class that night?
+Speaker1: The night shift is from 10 pm to 8 am the next day, and the salary will be a little higher.

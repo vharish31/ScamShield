@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, is that store still open? I'm nearby and want to buy something
+Speaker2: Let's go take a look, there's a promotion going on right now
+Speaker1: That's great, can you introduce me to your new watch?
+Speaker2: Of course, this watch is our latest style, using non-rust stainless steel straps, waterproof depth up to 50 meters, very suitable for daily wear.
+Speaker1: How much does it cost to sound good?
+Speaker2: This watch is priced at 999 yuan, and there is a 90% discount during the promotion period.
+Speaker1: Nine yuan, that's still quite cheap, I have time in the afternoon, can I go take a look?
+Speaker2: Of course, I'm here in the store right now, you can come over anytime.
+Speaker1: Okay, I'll go over there around three in the afternoon, see you then.
+Speaker2: Okay, see you later, I will prepare the watch for you.

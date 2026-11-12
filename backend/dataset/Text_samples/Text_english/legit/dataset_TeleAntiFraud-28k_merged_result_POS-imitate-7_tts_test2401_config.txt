@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the property manager of the community, do you need to make an appointment for water and electricity repairs in your home?
+Speaker2: Hello, can I see the time? Is it possible to meet tomorrow afternoon?
+Speaker1: Can we meet tomorrow afternoon around 2 or 3?
+Speaker2: How long will it take approximately, three o'clock?
+Speaker1: In general, repair time is not long, about one hour left or right.
+Speaker2: Okay, can you come over at 3 pm tomorrow? I'll be waiting at home.
+Speaker1: Okay, we will arrive on time. If there are any changes, I will contact you in advance.
+Speaker2: Okay, thank you, see you tomorrow.
+Speaker1: No problem, please feel free to contact us anytime if you have any questions. Goodbye.
+Speaker2: Goodbye.

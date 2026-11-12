@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: So, I am a customer service representative for quick delivery, and I want to know how your recent use of our service is going?
+Speaker2: Oh, I'm still pretty good. Recently, all the restaurants I ordered have been pretty on time, and the taste has been pretty good too.
+Speaker1: That's great, we always strive to provide the best service. So, do you have any suggestions or opinions about us?
+Speaker2: If we can add some healthy options, like less oily and less salty dishes, that would be great.
+Speaker1: Thank you very much for your suggestions. We will feedback to the relevant department. Also, have you tried our newly launched promotion recently?
+Speaker2: Not yet, I'm not very clear.
+Speaker1: You can check our app now for many discount activities, they are very cheap.
+Speaker2: Okay, I'll take a look, thank you for reminding me.
+Speaker1: You're welcome. If you have any questions, feel free to contact us anytime. We hope you continue to support our service.
+Speaker2: Okay, thank you, goodbye.
+Speaker1: Goodbye, wish you happy life.

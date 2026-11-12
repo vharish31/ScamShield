@@ -1,0 +1,10 @@
+Speaker1: Hello, you are welcome to the Agricultural Bank Credit Card Center. I am Lee, the manager.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed your recent credit card usage frequency is low, so we prepared a special gift for you to thank you for supporting us.
+Speaker2: What is the gift?
+Speaker1: This is a 500 yuan shopping voucher, but you need to complete a small task first.
+Speaker2: What task?
+Speaker1: It's simple, just complete a small survey on our exclusive link to immediately get this shopping voucher.
+Speaker2: Okay, how do I get this link?
+Speaker1: Just reply the verification code in the text message, we will send the link to your phone.
+Speaker2: Okay, I'll get back to you later. Thank you.

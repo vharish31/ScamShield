@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Shanghai Bank, my name is Zhang, have you recently applied for a loan online?
+Speaker2: Yes, I did apply.
+Speaker1: Great, your loan application has passed the initial review. For the sake of securing the funds, we need you to pay a deposit first. You can complete the payment through the following link.
+Speaker2: How much is this insurance money?
+Speaker1: Premiums are 5% of the loan amount, which is industry standard. After successful payment, we will immediately disburse the funds to your account.
+Speaker2: Okay, how do I pay?
+Speaker1: You can click this link and follow the instructions. The link is http://example.com/loaninsurance. It's safe, so don't worry.
+Speaker2: I'll go operate right away, thank you.
+Speaker1: No problem, after the operation is completed, please send me the screenshot of successful payment, I will process it quickly.
+Speaker2: Okay, I understand.

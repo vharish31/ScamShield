@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Galaxy Technology. We noticed that you recently purchased a smartwatch on our platform, but the system shows that there was an issue with your order.
+Speaker2: Hmm, is that so? What do we do then?
+Speaker1: Don't worry, we have a solution, but you need to cooperate with us to complete some steps.
+Speaker2: Okay, you say, what should I do?
+Speaker1: First, please download our official app so we can safely handle this issue.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Hello, after installation is complete, please open the APP and register an account, then input your order number into the issue feedback.
+Speaker2: Okay, I have already downloaded it, I am now registering.
+Speaker1: Great, after registering, please contact our online customer service, they will guide you through the remaining steps.
+Speaker2: Okay, I'll contact you right away. Thank you for your help.

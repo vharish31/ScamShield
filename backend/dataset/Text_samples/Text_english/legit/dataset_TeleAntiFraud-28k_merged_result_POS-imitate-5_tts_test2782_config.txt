@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I saw your house for rent on the internet and I want to know more details.
+Speaker2: Hello, yes, we do have a house for rent, which area are you interested in?
+Speaker1: I saw a one-room-one-apartment house near Shuoshan University online, and I want to know more about its specific situation.
+Speaker2: The one-room-one-apartment house near Shushan Xuetang has indeed been rented out. The house is equipped with a bed, sofa, and desk.
+Speaker1: What about air conditioning? I saw some comments saying some rooms don't have air conditioning.
+Speaker2: Yes, this house's air conditioning is in the living room, and the bedroom is without air conditioning. If you have special requirements for air conditioning, I can help you look at other properties here.
+Speaker1: I study at Shujing University on this side, it's pretty cold in the winter at night, if the bedroom doesn't have air conditioning, it might not be suitable for me.
+Speaker2: I understand your requirement, you want a room with air conditioning, specifically in the bedroom with air conditioning. I can help you look for other more suitable room sources.
+Speaker1: That's great! Can you help me look around? It's best if it's near the book mountain school, that's more convenient for me.
+Speaker2: Okay, I will quickly find suitable housing information for you. Please leave your contact information, and I will notify you immediately if I find any suitable housing.
+Speaker1: Okay, my phone number is 13812345678, thank you for your help.
+Speaker2: No problem, please leave your phone number after you hang up, I will contact you as soon as possible. If you have any other needs, you can contact me anytime. Have a happy life!

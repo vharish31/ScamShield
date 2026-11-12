@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I'd like to inquire about your appointment service.
+Speaker2: Of course, what service do you want to book?
+Speaker1: I want to make a hair appointment, preferably tomorrow morning
+Speaker2: Okay, tomorrow morning there are a few time slots available, from 9am to 10am. Which time do you think is suitable?
+Speaker1: Can I leave at 9?
+Speaker2: Can 9 am work? Then I'll book you a 9 am hair appointment. Do you need to provide your name and contact info?
+Speaker1: Please, my name is Li Ming, phone number is 13812367890
+Speaker2: Okay, Li Ming Xiāngshēng, your appointment has been successful. See you tomorrow at nine o'clock. If there are any changes, please notify us in advance.

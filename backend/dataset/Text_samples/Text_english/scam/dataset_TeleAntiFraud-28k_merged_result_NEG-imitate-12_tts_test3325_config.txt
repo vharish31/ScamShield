@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the global express customer service, your package has encountered a problem during transportation, please cooperate to handle it.
+Speaker2: What's the issue? How's my express?
+Speaker1: Your package was lost during transportation. To compensate you, we need you to provide some information to confirm your identity.
+Speaker2: What information do you need from me?
+Speaker1: Please provide your ID number and bank account, so we can process your compensation.
+Speaker2: How do you ensure the safety of such important information?
+Speaker1: Please rest assured, our system is very safe, your information will only be used for compensation processing, and will not be leaked to any third party.
+Speaker2: Can you give me a link to submit information online? I'm a bit worried.
+Speaker1: Of course, you can click this link (mentioned in the voice), to enter our official page and submit information.
+Speaker2: Okay, I'll give it a try. Thank you.

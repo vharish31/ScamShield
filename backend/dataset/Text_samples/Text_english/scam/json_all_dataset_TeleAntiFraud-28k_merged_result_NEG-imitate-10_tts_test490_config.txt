@@ -1,0 +1,12 @@
+Speaker1: Hello, are you there? I am the customer service of China Construction Bank Credit Center. You can hear me?
+Speaker2: Can you hear me? Hello, what's up?
+Speaker1: Hello, we noticed an unusual expense on your credit card and need you to cooperate with us for a simple investigation.
+Speaker2: Oh, really? I haven't used my credit card recently.
+Speaker1: Yes, in order to avoid any issues with your account, we need you to provide some information to verify your identity.
+Speaker2: Okay, what information do you need from me?
+Speaker1: Please provide the last six digits of your ID number and your recent purchase amount, so we can confirm your identity.
+Speaker2: I recently spent 125 yuan on a book.
+Speaker1: Okay, we have recorded your information. For the sake of ensuring your account security, we also need you to provide the last three digits on the back of your credit card.
+Speaker2: This is seven three four.
+Speaker1: Thank you for your cooperation. We have already solved the problem for you. If you have any questions, please feel free to call our customer service hotline anytime.
+Speaker2: Okay, thank you.

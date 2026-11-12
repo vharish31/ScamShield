@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at Happy Express?
+Speaker2: Hello, I want to check where my package is now?
+Speaker1: Okay, what is your delivery number?
+Speaker2: The number is twelve three four five six seven eight nine zero one.
+Speaker1: Just a moment, I'll look it up for you.
+Speaker2: Okay, thank you.
+Speaker1: Your package arrived at the delivery center yesterday, and it's estimated to be delivered to you this afternoon.
+Speaker2: That's great, thank you for your help.
+Speaker1: You're welcome. If you have any other questions, feel free to consult anytime.
+Speaker2: Okay, thank you again, goodbye.
+Speaker1: Goodbye, wish you a happy day.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: I'd like to inquire about your hairdressing services and book a time for tomorrow afternoon.
+Speaker2: Okay, we have some time slots available in the afternoon tomorrow. What specific time would you like to book?
+Speaker1: Can we meet around 3 o'clock?
+Speaker2: Three o'clock is fine, we can help you book here.
+Speaker1: Is it okay if I arrive early?
+Speaker2: No need, three o'clock is just in time, we will prepare ahead.
+Speaker1: Okay, thank you. Can you tell me the address?
+Speaker2: Of course, our store is located at No. 100 Happiness Road, adjacent to the park, easy to find.
+Speaker1: Okay, I understand, see you tomorrow.
+Speaker2: See you tomorrow, be careful on the road.

@@ -1,0 +1,21 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am small Li, have you recently purchased a product on our platform?
+Speaker2: Yes, what's the problem?
+Speaker1: We found some issues with your order on this side, please cooperate to handle them.
+Speaker2: What problem?
+Speaker1: Your order shows payment successful, but actually the money hasn't been deposited, we need you to provide some info to confirm.
+Speaker2: What should I do now?
+Speaker1: Please provide your bank card number and verification code, we can process it through the backend.
+Speaker2: Is it safe?
+Speaker1: Absolutely safe, we are a regular platform, and this operation is very common.
+Speaker2: Okay, how do I send you the verification code?
+Speaker1: You can call me and tell me, or there's a link here that you can click and follow the instructions.
+Speaker2: Link?
+Speaker1: Yes, the link will be sent to your phone, you click it and follow the instructions on the page, very simple.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, just a moment, I'll send you the link now.
+Speaker2: I received the text message and clicked on it.
+Speaker1: Okay, please follow the instructions on the page and enter the verification code, and we will handle it for you.
+Speaker2: Okay, let me try.
+Speaker1: If there are any issues during the process, feel free to contact me anytime.
+Speaker2: Thank you, I will pay attention.

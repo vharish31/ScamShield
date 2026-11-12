@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, can you hear me? Hello.
+Speaker1: I am a waiter at a certain restaurant, and I want to confirm your reservation for today at noon for the private room you made last night.
+Speaker2: Oh, yes, I remember I booked it.
+Speaker1: Great, we'll prepare in advance. Your reservation is for a four-person table, right?
+Speaker2: Yes, four people.
+Speaker1: Okay, we'll hold a spot for you at noon. Also, our restaurant just introduced some new signature dishes, would you like me to recommend one?
+Speaker2: Okay, recommend something to me.
+Speaker1: We recently had a new signboard menu, called Ma La Xiāng Hàng Kǎo, the ingredients inside were very fresh, the taste was great, many customers recommended it. There was also a steamed fish, the fish meat was fresh and tender, very suitable for friend gatherings.
+Speaker2: Let's order these two dishes when we hear it sounds good.
+Speaker1: Okay, we'll do our best to prepare better at the time. If there's anything else needed, feel free to contact me anytime.
+Speaker2: Okay, thank you, see you later.

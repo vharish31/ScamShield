@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can you please tell me your restaurant's business hours?
+Speaker2: Hello, our restaurant opens at 10 am every day and closes at 10 pm.
+Speaker1: Okay, can I go over at five in the afternoon today?
+Speaker2: Of course, at five o'clock, no need to make an appointment, just come directly.
+Speaker1: Do you have any recommendations for dishes?
+Speaker2: Our store's signboard menu has kung pao chicken, steamed fish, and also clear-steamed cod, all very popular.
+Speaker1: Sounds great, I'll give it a try today.
+Speaker2: Okay, welcome, hope you like our dishes.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are your store open today?
+Speaker2: Hello, is there anything I can help you with today at our store, which is open for normal business?
+Speaker1: I see you guys have a smartwatch, can you tell me the specific parameters and price?
+Speaker2: This smartwatch supports heart rate monitoring, step tracking, and sleep analysis, and costs 1,800 yuan.
+Speaker1: Does this watch have any in stock?
+Speaker2: This watch is currently in stock. If you're convenient, you can try it on in the store.
+Speaker1: Can I arrive around two in the afternoon?
+Speaker2: Two o'clock is fine, I'll leave my watch for you when the time comes, just come directly then.
+Speaker1: Okay, thank you, I'll see you in the afternoon.
+Speaker2: No problem, see you in the afternoon, be careful on the road.

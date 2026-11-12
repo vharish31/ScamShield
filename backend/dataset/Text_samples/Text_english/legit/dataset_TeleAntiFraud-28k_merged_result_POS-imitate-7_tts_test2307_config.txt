@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at your store door, can you check the location on Meituan?
+Speaker2: Hello, I'll take a look, just a moment.
+Speaker1: Okay, I see you, should I just walk straight in?
+Speaker2: Okay, you directly walk inside, see the second door on the left, we are there.
+Speaker1: Okay, I see, do you have parking spots here?
+Speaker2: Okay, come over, the parking lot is on the side.
+Speaker1: That's great, I'll just go over there.
+Speaker2: Okay, come over, we're waiting for you at the door.
+Speaker1: Okay, I'll be there soon, thank you.
+Speaker2: No problem, be careful on the road.

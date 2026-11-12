@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you? I recently want to buy a phone, can you help me check if your store has any suitable one?
+Speaker2: Hello, of course. What price are you looking for a phone?
+Speaker1: My budget is approximately three thousand.
+Speaker2: This phone at this price point has many options, do you value performance or photography more?
+Speaker1: I like to take photos, so if the camera function is good, I will like it even more.
+Speaker2: Understood. Based on your requirements, I recommend you take a look at this new phone model. Its camera pixel is extremely high, the photos it takes are vivid and clear, and the clarity is excellent.
+Speaker1: How long does the battery of this phone last?
+Speaker2: The battery capacity is four thousand milliampere-hours, and it can be used normally for a whole day without any problems. Moreover, it also supports fast charging, and the charging speed is very fast.
+Speaker1: When can I go to the store and take a look?
+Speaker2: Our store is open from nine in the morning to nine in the evening. You can choose a convenient time to come.
+Speaker1: Okay, can I go over at three in the afternoon tomorrow?
+Speaker2: Sure, see you tomorrow afternoon at three. I'll be ready with my phone.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

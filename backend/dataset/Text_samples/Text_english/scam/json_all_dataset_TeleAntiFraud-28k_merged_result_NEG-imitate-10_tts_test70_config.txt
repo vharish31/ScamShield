@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is Pacific Bank loan service center, I am manager Li Ming.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed that your small enterprise has recently had some difficulties with its cash flow, so we have specially prepared a no-collateral loan product for you with a low interest rate and fast approval.
+Speaker2: Hmm, this sounds good, but I'm not familiar with borrowing money.
+Speaker1: No problem, I'll explain it in detail. However, to help you quickly, please provide some basic information.
+Speaker2: What do I need to do?
+Speaker1: Please click on the link we send to you, fill in the relevant information, and we will immediately process it for you.
+Speaker2: Okay, I will pay attention to checking.
+Speaker1: Thank you for your cooperation. If you have any questions, please feel free to call our service hotline anytime.
+Speaker2: Okay, thank you.

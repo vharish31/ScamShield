@@ -1,0 +1,10 @@
+Speaker1: Hi, how do I schedule maintenance service for your air conditioning?
+Speaker2: Hello, I am customer service Zhang, you can tell me your specific problem with your air conditioner, we will arrange a maintenance technician to come to your home based on the situation.
+Speaker1: Is the air conditioner not working? When can it be repaired?
+Speaker2: Can you accept our arrangement to have the teacher come to your place within twenty-four hours after receiving your request?
+Speaker1: Can I arrange to come in the morning tomorrow at home?
+Speaker2: Okay, we will try to arrange for the teacher to come over in the morning before 10 am. Please pay attention to the phone.
+Speaker1: Okay, how do we calculate the cost?
+Speaker2: Our repair costs are based on the actual repair project, and the master will give you a quote after arriving at your home, and confirm it with you before proceeding with the repair.
+Speaker1: Got it, I'll come over tomorrow. Thank you!
+Speaker2: You're welcome, please feel free to contact us anytime if you have any questions. Have a happy life, goodbye!

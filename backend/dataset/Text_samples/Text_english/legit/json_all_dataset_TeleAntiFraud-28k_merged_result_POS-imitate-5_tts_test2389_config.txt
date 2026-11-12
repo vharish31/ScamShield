@@ -1,0 +1,8 @@
+Speaker1: Hi, how are you? This is the car rental platform, your car maintenance appointment has been successful, do you want to confirm the appointment time? Is tomorrow morning at 10 am convenient for you?
+Speaker2: Sure, I can make it tomorrow morning at ten. But I need to understand the specific details and costs of maintenance first.
+Speaker1: Okay, your vehicle maintenance includes changing the engine oil and oil filter, checking the brake system and tire condition, and the total cost is three hundred and fifty yuan.
+Speaker2: Can I take the car immediately after maintenance?
+Speaker1: Okay, maintenance will take about two to three hours. You can pick up the car after 3 pm.
+Speaker2: Okay, I'll arrive at ten o'clock in the morning.
+Speaker1: Hello, see you tomorrow. If you have any other needs, please contact us anytime. Wish you a happy day.
+Speaker2: Thank you, goodbye.

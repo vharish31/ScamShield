@@ -1,0 +1,10 @@
+Speaker1: Hey, are you here yet?
+Speaker2: Hey, how are you? I just got off the train, how about you?
+Speaker1: Are you out yet? I'm waiting for you outside the train station.
+Speaker2: Are you waiting for me outside?
+Speaker1: I'm standing at the right side of the exit door, next to a big billboard, you can see me when you come out.
+Speaker2: Okay, okay, I see it, I'll be there soon.
+Speaker1: Hey, you go to the right side, I'll wait here for you.
+Speaker2: Okay, I see it, I'll be there soon.
+Speaker1: Okay, I'm waiting for you here, be careful on the road.
+Speaker2: Thank you, be careful on the road.

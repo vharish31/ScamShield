@@ -1,0 +1,8 @@
+Speaker1: Hello, I'm in your neighborhood, looking for a place to eat, do you have any recommendations?
+Speaker2: Hello, there's a great little restaurant here with a good reputation, special dishes include fish and chicken with ginger and pepper, and the environment is quite nice.
+Speaker1: What's the way to go to that restaurant that sounds good?
+Speaker2: Starting from your current location, walk straight along this street for about 500 meters, then turn left at the second red and green light, and you'll be able to see after walking two hundred meters.
+Speaker1: Okay, do we need to make a reservation?
+Speaker2: There will be more people on weekends, so it's recommended to make a phone call in advance to reserve a seat.
+Speaker1: I'll call you later, thank you for your recommendation.
+Speaker2: You're welcome. I hope you have a pleasant dining experience. Goodbye.

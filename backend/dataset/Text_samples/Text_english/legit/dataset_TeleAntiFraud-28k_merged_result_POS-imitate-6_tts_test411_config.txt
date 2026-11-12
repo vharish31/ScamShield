@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, just saw your shop's phone number, want to ask about your yoga courses.
+Speaker2: Hello, Xiao Zhang, I am a customer service representative at the yoga studio. What would you like to know?
+Speaker1: Can you tell me the specific arrangement of your beginner courses and how much they cost?
+Speaker2: Our beginner course meets three times a week, each session lasting one hour, and includes learning basic postures and practicing breathing techniques.
+Speaker1: How about the price?
+Speaker2: The price for the beginner's course meal plan is six hundred yuan per month. If you continuously sign up for three months, we also have a discount.
+Speaker1: What is the three-month discount plan?
+Speaker2: The three-month meal plan is 1500 yuan, on average, each month only needs 500 yuan.
+Speaker1: Do I need to schedule class time when I sign up?
+Speaker2: Yes, after you sign up, you need to schedule the time for each weekly class, our class time is from 9 am to 8 pm, you can arrange it according to your own time.

@@ -1,0 +1,9 @@
+Speaker2: Hello, hello, hello
+Speaker1: Hello, I am a customer service representative from Commercial Bank, we noticed you recently have some loan needs, we have a special promotion loan project here that can help you solve your financial problems, are you interested in learning more?
+Speaker2: Okay, let me understand.
+Speaker1: Great, this loan project is very flexible, no collateral is required, the approval is very quick, you just need to provide some basic information, and we can handle it for you.
+Speaker2: What information do I need to provide?
+Speaker1: You just need to provide your identity card number and bank account information. We will also send a verification code to your phone, you tell us that code and we can process it.
+Speaker2: Okay, how do I operate it?
+Speaker1: Scan this QR code, follow the instructions, input your information, and we'll process it quickly.
+Speaker2: Okay, I'll scan right away.

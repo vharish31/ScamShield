@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you recommend anything from your bakery's cakes?
+Speaker2: The most popular here are chocolate mousse and strawberry milk cake, both very delicious.
+Speaker1: How much do these two kinds of cakes cost?
+Speaker2: Chocolate cake is 30 yuan per block, strawberry milk cake is 35 yuan per block.
+Speaker1: Okay, what are your business hours?
+Speaker2: We are open from 9 am to 9 pm every day.
+Speaker1: Can I buy in the afternoon around three o'clock?
+Speaker2: Of course, we will be ready for you at that time.
+Speaker1: Okay, thank you for your help.
+Speaker2: Please welcome you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have a vegetarian set menu at your restaurant?
+Speaker2: Yes, we have several vegetable set meals here that can satisfy different taste preferences.
+Speaker1: What is the price?
+Speaker2: The price of a set meal with three dishes and one soup is 35 yuan.
+Speaker1: How about you guys start your business at 9 o'clock?
+Speaker2: We open business from 11 am to 9 pm every day.
+Speaker1: Okay, can I reserve a seat for tomorrow at noon?
+Speaker2: Sure, I'll reserve a spot for you at noon tomorrow.

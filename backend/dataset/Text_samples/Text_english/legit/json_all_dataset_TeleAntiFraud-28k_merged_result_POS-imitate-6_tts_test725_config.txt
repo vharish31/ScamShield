@@ -1,0 +1,12 @@
+Speaker1: Hello, do you sell fresh fruits in your store?
+Speaker2: Hello, yes, we have apples, bananas, grapes and many other fresh fruits here.
+Speaker1: How much does a kilogram of pineapple cost in Portugal?
+Speaker2: Pineapple is currently 15 yuan per kilogram, very fresh.
+Speaker1: Okay, I want to buy three kilograms of apples, do you support delivery?
+Speaker2: We provide free delivery service within five kilometers.
+Speaker1: That's great, I live in Yánggāng xiǎojī, can I send it there?
+Speaker2: Yes, the sunshine village is within our delivery range.
+Speaker1: How long will it take you to send it?
+Speaker2: In general, we will deliver within one hour after ordering.
+Speaker1: Okay, when do I place an order at 3 pm this afternoon and approximately when will it arrive?
+Speaker2: If we order at three in the afternoon, we will deliver before four o'clock.

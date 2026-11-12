@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I saw on the internet that your pet store sells golden retrievers, I want to know more about it.
+Speaker2: Hello, yes, we have a golden retriever puppy here. What information are you looking for?
+Speaker1: What is the price and health condition of a golden retriever puppy?
+Speaker2: The price of a golden retriever puppy is between three thousand and four thousand, and each puppy has undergone a health check and has a health certificate.
+Speaker1: Do I need to make a reservation in advance if I want to buy something?
+Speaker2: Yes, we suggest you book in advance, so we can prepare everything for you.
+Speaker1: Okay, when can I pick it up?
+Speaker2: Would it be convenient for you to schedule this weekend, we'll be ready for all the paperwork.
+Speaker1: What do I need to prepare?
+Speaker2: We will provide pet cages, food bowls, toys, etc. on this side. You just need to bring your ID to handle the paperwork.
+Speaker1: Okay, I'll make a reservation for this weekend, thank you.
+Speaker2: Okay, see you later, wish you happy life.

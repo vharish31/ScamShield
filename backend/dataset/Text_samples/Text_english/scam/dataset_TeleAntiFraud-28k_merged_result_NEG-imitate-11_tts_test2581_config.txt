@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of Hangzhou Bank, Liu.
+Speaker2: Hello, do you have anything?
+Speaker1: Is that so? We recently launched a special discounted loan product with low threshold, quick disbursement, are you interested in learning more?
+Speaker2: Oh, I'm doing okay with the money flow, but you can give me a simple introduction.
+Speaker1: Okay, this product is mainly for small and medium-sized enterprise owners and individual entrepreneurs, with very low interest rates, and simple procedures.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: Just download our bank's official app and follow the instructions to proceed.
+Speaker2: Do you want to download the app? I feel it's not safe.
+Speaker1: Don't worry, our app is certified by the country as safe software, and now there's a new user welcome package you can get when downloading.
+Speaker2: Okay, I'll think about it.
+Speaker1: Okay, if you have any questions, feel free to contact me anytime. My phone number is 133123456. I hope our service can help you.

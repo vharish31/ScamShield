@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of speed through express, there is a small problem with one of your packages, please confirm.
+Speaker2: Is there a problem with my package?
+Speaker1: Yes, your package was accidentally damaged during transportation. We need you to provide some personal information to handle it further.
+Speaker2: What do I need to do?
+Speaker1: Please provide your ID number and bank account, so we can handle the refund matter.
+Speaker2: That's it, my ID number is...
+Speaker1: Okay, I noted it down. For safety reasons, we also need you to provide your bank account, so that we can ensure timely refund.
+Speaker2: My bank account number is...
+Speaker1: Thank you very much for your cooperation. We will process this issue as soon as possible, and you can also follow our official public account to get more related information.
+Speaker2: Okay, thank you.

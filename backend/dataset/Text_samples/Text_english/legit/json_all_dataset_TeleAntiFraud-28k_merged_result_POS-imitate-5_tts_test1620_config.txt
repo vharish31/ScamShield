@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm little Li, and I want to consult your repair service.
+Speaker2: Hello, I am the small Zhang from the repair center, what can I help you with?
+Speaker1: My fridge at home isn't working anymore, I want to schedule a repairman to come over and take a look.
+Speaker2: Sure, can you tell me your address and contact information?
+Speaker1: I live in Yánggāng xiǎojīng èr nián lóu sān dān yī, diànhuā shì yī sān wǔ bāo shì yīng yīng shí yīng yīng shí yīng yīng shí yīng yīng shí yīng yīng shí yīng yīng shí yīng yīng shí yīng yīng shí yīng yīng
+Speaker2: Okay, we will arrange for the teacher to come to your home between 9am and 10am tomorrow. Please keep your phone line open.
+Speaker1: Okay, thank you. Is there anything else I need to prepare?
+Speaker2: You don't need to prepare anything, master brings all the tools and spare parts, you can do it on the spot.
+Speaker1: What's the way to calculate the cost?
+Speaker2: Let's first check the issue. If it's just simple repair, the cost is 200 yuan. If we need to replace parts, the cost will be based on the price of the parts plus additional charge.
+Speaker1: Okay, let's talk later, thank you for your help.
+Speaker2: No problem, please feel free to contact us anytime, wish you a happy life.

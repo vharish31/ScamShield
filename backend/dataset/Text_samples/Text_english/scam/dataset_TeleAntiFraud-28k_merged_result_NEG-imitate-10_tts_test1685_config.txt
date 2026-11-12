@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer manager from the Shenzhen YinDa Bank, we noticed you recently have a funding need, can we provide you a loan of 50,000 to 300,000 without collateral, are you interested in learning more?
+Speaker2: Hmm, this is okay, but I'm a bit tight on my hands right now, I'm not sure if I can make the payment on time.
+Speaker1: No problem, our loan product is very flexible, and the repayment methods are also very diverse. You can choose to repay in installments, the pressure won't be too big. You just need to download our official app, fill in some basic information, and you're good to go.
+Speaker2: Okay, how do I download this app?
+Speaker1: Very simple, I send you a download link, you click the link to download directly.
+Speaker2: Okay, can you send me a link?
+Speaker1: Okay, I'll send it to you right away. Please pay attention to check the message. By the way, for the sake of ensuring your information security, you can first provide us with your identity card number, and we'll verify the information.
+Speaker2: Okay, my ID number is 123456789012345678.

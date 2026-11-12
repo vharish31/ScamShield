@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service of the Zhao Shang Yin Hang Bank. Your recent credit card usage with us has been very good. We want to give you a special discount.
+Speaker2: Hey, what discount?
+Speaker1: We have a special loan service, zero interest, zero fees, maximum amount of 30,000, are you interested in learning more?
+Speaker2: Is it really? It sounds good, I really need it.
+Speaker1: Great, just download our app, fill out some basic info, and get approved to receive payment right away.
+Speaker2: Where can I download the app?
+Speaker1: You can download it through this link. I will send the link to your phone. After downloading, follow the instructions.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, if you have any issues after downloading, feel free to contact me anytime. My phone number is 13812345678.
+Speaker2: Okay, thank you.

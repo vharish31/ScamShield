@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hello, I am Xiao Zhang from Huaxia Yinhang's Xinshui Bù, we have a new loan product recently, the credit limit is up to 30,000, the interest rate is very low, have you recently had any financial needs?
+Speaker2: Hey, what's special here?
+Speaker1: Of course, this product is specifically designed for high-quality customers, with quick approval and quick loan, only basic information is needed, if you're interested, you can first scan my QR code, which contains detailed information about our product.
+Speaker2: Okay, I'll take a quick look.
+Speaker1: Great, you can submit your information directly on the page after scanning it. If you have any questions, feel free to contact me anytime.
+Speaker2: Hey, I see the page, what documents do I need to provide for this loan?
+Speaker1: It's very simple. You just need to provide identity proof, work proof, and bank statement. After our review is approved, you can get the loan as soon as today.
+Speaker2: Let me try it out.

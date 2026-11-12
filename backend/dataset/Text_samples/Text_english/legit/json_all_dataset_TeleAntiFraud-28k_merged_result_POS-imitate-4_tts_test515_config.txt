@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Li?
+Speaker2: Hello, I am little Li, who are you?
+Speaker1: I'm little king, we agreed to meet at the library tomorrow morning at 10:01, remember?
+Speaker2: Okay, got it, I remember, tomorrow morning at ten o'clock, library meet.
+Speaker1: Okay, then shall we meet at the library entrance or directly enter and find a spot?
+Speaker2: Go straight in and find a spot, it's more convenient that way.
+Speaker1: Okay, see you tomorrow.
+Speaker2: Okay, see you tomorrow, be careful on the road.
+Speaker1: Thank you, you too, goodbye.
+Speaker2: Goodbye.

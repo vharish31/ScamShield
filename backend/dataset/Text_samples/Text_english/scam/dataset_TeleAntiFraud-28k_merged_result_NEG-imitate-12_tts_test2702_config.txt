@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Ali Finance customer service, you have applied for a fast loan on our platform before, now you can pay it off, do you have time?
+Speaker2: Oh, really? I did apply, but now it's not convenient. Can you first explain how to proceed?
+Speaker1: Okay, to ensure the safety of the funds, we need you to download an app called 'Safe Loan' first, and then complete the identity verification and loan process through this app.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can directly click on the link I sent you or search '安心贷' in the app store to download. After downloading, register and log in with the phone number you used to apply for the loan, and follow the instructions to operate.
+Speaker2: Okay, I'll go download it. Are there any other things to pay attention to?
+Speaker1: No longer available, if you have any issues after downloading, please contact our online customer service at any time. Additionally, to speed up the repayment process, you must first pay a small deposit as a security measure against fraudulent lending.
+Speaker2: Deposit? How much money?
+Speaker1: The down payment is 5% of the loan amount, and it will be automatically returned to your account after successful repayment. You can pay through bank transfer or PayPal.
+Speaker2: Okay, I understand, thank you.

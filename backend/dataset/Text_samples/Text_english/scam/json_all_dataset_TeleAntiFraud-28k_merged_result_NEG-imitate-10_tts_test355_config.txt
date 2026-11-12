@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you? I am a customer service representative from Sequent Wind Express. Regarding your recent order, we found there might be some issues, and we need to verify with you.
+Speaker2: Hello, which order is yours?
+Speaker1: Your order number is 234123, it's a package from Shanghai to Beijing, we found that this package may be damaged during transportation.
+Speaker2: Really? Then what do we do?
+Speaker1: To ensure your rights, we need to process your refund procedure, but you need to provide some necessary information.
+Speaker2: What information do you need from me?
+Speaker1: We need your name, phone number, and bank card number to process your refund.
+Speaker2: How can I confirm that you are a real express delivery customer?
+Speaker1: You can verify through our official customer service hotline, but to save your time, we can directly complete this process online.
+Speaker2: Okay, I trust you once, my bank card number is 622848001001001.
+Speaker1: Okay, we have recorded your information. To verify your identity, we will send a verification code to your phone, please pay attention to check it.
+Speaker2: Okay, I'll be right back.
+Speaker1: The verification code has been sent, please enter the verification code to complete the refund process.
+Speaker2: The verification code is six six six six.
+Speaker1: Thank you for your cooperation. Your refund will be credited to your account within three business days. If you have any issues, please feel free to contact us anytime.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I just ordered a book on your website, can you confirm my order status?
+Speaker2: Hello, could you please tell me your order number? I'll check it for you here.
+Speaker1: Okay, my order number is 1234567890.
+Speaker2: Okay, just a moment, I'll check.
+Speaker1: Okay.
+Speaker2: I found it, your order has already been shipped, and it's estimated to arrive tomorrow.
+Speaker1: Thanks for your help.
+Speaker2: No problem, are there any other issues?
+Speaker1: No more, thank you.
+Speaker2: Okay, wish you a happy day, bye.

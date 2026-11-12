@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am customer service representative Lee from Commercial Bank, we recently launched a new financial product with high returns, are you interested in learning more?
+Speaker2: Hello, all the money in my hand is invested, I don't have any extra money now.
+Speaker1: That's really too bad, but it's okay, if you need anything, you can contact me anytime, I also have a link here that you can use to learn more detailed information.
+Speaker2: Link? Okay, I'll take a look back.
+Speaker1: Thank you very much, this link is https://fakeproduct.com, please make sure to save it. Also, you can add my WeChat, feel free to find me anytime if you have any questions.
+Speaker2: Sure, can I add you on WeChat?
+Speaker1: Of course, my WeChat number is fakewechat123, you can add me, feel free to consult me anytime you have any questions.
+Speaker2: Okay, I will add your recommendation. Thank you for your recommendation.
+Speaker1: No problem, I hope our products can help you. If you have friends who need it, you can introduce it to them too.
+Speaker2: Okay, I will consider it. Thank you, goodbye.

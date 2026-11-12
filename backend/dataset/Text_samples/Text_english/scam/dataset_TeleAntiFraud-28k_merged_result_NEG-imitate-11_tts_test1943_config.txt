@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Wang Qiang?
+Speaker2: Yes, who are you?
+Speaker1: I am Li Ming, a customer service representative from Alipay. We found some unusual activity on your account and need you to cooperate with us for a security verification.
+Speaker2: Really? Then what should I do?
+Speaker1: For your account safety, we need you to log in to a special link to verify your identity.
+Speaker2: Okay, how should I log in?
+Speaker1: Just click this link and follow the on-page instructions to complete the task.
+Speaker2: Is that link safe?
+Speaker1: Of course, this is our internal exclusive link, absolutely safe.
+Speaker2: Okay, I'll go operate right away. Thank you for reminding me.

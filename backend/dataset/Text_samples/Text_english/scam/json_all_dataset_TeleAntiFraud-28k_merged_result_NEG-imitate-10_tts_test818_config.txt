@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Mr. Wang?
+Speaker2: Hey, what's up?
+Speaker1: Hello, I am the customer service manager of the commercial bank loan department. We recently introduced a new loan product without collateral and low interest rate, which is very suitable for friends with funding needs.
+Speaker2: No, it's not necessary.
+Speaker1: Okay, Mr. Wang, this opportunity is really good, and the application process is very simple. You just need to download our official app and fill out some basic information to complete the application.
+Speaker2: Download the app? How do you download it?
+Speaker1: It's very simple. Just click this link and you can download our official app directly.
+Speaker2: Link? How do I know this is the official link?
+Speaker1: Don't worry, Mr. Wang, we are a legitimate bank, this link is absolutely safe. You can trust it. If you're not convenient now, you can contact us later through my phone number, I will provide the link again.
+Speaker2: Okay, I'll try it out. Thank you.
+Speaker1: Okay, Mr. Wang, here's the link: (simulated link), just click it and you can download it. If you have any questions, feel free to contact me. Best of luck!

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Can you give me the weather forecast for this weekend?
+Speaker2: Hey, how are you? What's the weather forecast for this weekend? Which city are you from?
+Speaker1: I am from Wind City.
+Speaker2: Okay, the weather forecast for Wind City this weekend is clear, temperature between 15 to 25 degrees, perfect for outdoor activities.
+Speaker1: That's great, I plan to climb a mountain, if the weather is good, it will be even better.
+Speaker2: Hiking is a great choice, the weather forecast shows no rain, you can relax your plan.
+Speaker1: What do you recommend for a picnic in Wind City Park?
+Speaker2: The lake area at the edge of the Wind City Park is very suitable for picnics, and there is also a children's playground. If you bring children, they will be very happy.
+Speaker1: It sounds great, thank you for your advice.
+Speaker2: No problem, hope you have a great weekend. If you need any other help, feel free to ask me anytime.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is JD customer service, there's an issue with your order, please cooperate to handle it.
+Speaker2: What problem, how to handle after order placed?
+Speaker1: Your order has an exception in the payment stage. Please click on the link to reconfirm your payment information, otherwise the order will be cancelled.
+Speaker2: Okay, how do I operate it?
+Speaker1: Just click this link and follow the instructions.
+Speaker2: Send me the link.
+Speaker1: Okay, just a moment, I'll send it to you now. By the way, do you have any recent need for cash flow? We can provide low-interest loan services here.
+Speaker2: Loan? I'm not very familiar with it, how do I operate it?
+Speaker1: It's very simple. Just download our official app, register, and fill out the relevant information to quickly get loan approval.
+Speaker2: Okay, let me try it out.

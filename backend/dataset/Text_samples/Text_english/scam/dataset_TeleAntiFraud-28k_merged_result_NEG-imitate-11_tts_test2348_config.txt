@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of the construction bank loan center, Li Xiao, can I ask if you are Zhang Huang?
+Speaker2: Yes, hello, what do you have?
+Speaker1: Hello, we noticed you recently have a loan demand, I have a special good loan product here, can quickly put money, no deposit, no guarantee, interest rate is very favorable, are you interested in learning more?
+Speaker2: Oh, this sounds good, I really need some cash flow lately.
+Speaker1: Great, to make the application process easier for you, please download our official app first, which will allow you to complete the application quickly.
+Speaker2: Okay, how do I download it?
+Speaker1: You can scan the QR code I send you and download the app directly. After downloading, remember to register with your phone number and fill in personal information. I will assist you with the next steps on this end.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Thank you very much for your cooperation. If you encounter any issues during the download or application process, please feel free to contact me at any time.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently want to change my job, do you guys recruit people?
+Speaker2: Hello, I am small Li from the HR department, our company recently has a recruitment plan, which position are you interested in?
+Speaker1: Can you provide me with specific details about the requirements and benefits of the software development position in the technology department?
+Speaker2: Software development positions primarily involve designing, coding, and testing software, requiring at least two years of work experience, proficient in Java, Python, etc. programming languages. Salary is negotiated based on personal ability and experience.
+Speaker1: What is the interview process for that position?
+Speaker2: The interview process usually starts with a phone screening, followed by a technical interview, and finally a comprehensive interview. Once passed, we will arrange for onboarding training.
+Speaker1: Okay, what's the approximate time I can join the interview?
+Speaker2: You can send your resume to our email first, and we will review it quickly and arrange an interview. Generally, after the resume is approved, we will notify the interview time within a week.
+Speaker1: Okay, thank you for your patience in answering, I will send my resume over quickly.
+Speaker2: No problem, I'm looking forward to your resume. If you have any other questions, feel free to contact me anytime. Best wishes!

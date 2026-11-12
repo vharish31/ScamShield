@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I saw some new smartwatches in your store, wanna know more about them?
+Speaker2: Hello, there are many styles, which one do you want to know more about?
+Speaker1: What is the function of a watch with heart rate monitoring and sleep analysis?
+Speaker2: This smartwatch's heart rate monitoring is very accurate, and its sleep analysis can provide detailed reports, helping you better understand your health status.
+Speaker1: Is its battery life long?
+Speaker2: The battery life is approximately one week, and it doesn't need to be charged frequently when used normally.
+Speaker1: How much does this handband cost?
+Speaker2: This smartwatch costs 599 yuan, there's a discount activity now.
+Speaker1: Can I pay on delivery?
+Speaker2: Of course, we support cash on delivery. After you place your order, we will arrange for quick delivery.

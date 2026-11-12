@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Zhang San, I want to consult your computer repair service
+Speaker2: Hello, Zhang San, I am customer service representative Li Xiao, what aspects of computer repair service do you want to know?
+Speaker1: Can you repair my computer, which is from China?
+Speaker2: Sure, we provide comprehensive computer repair services, no matter the brand or purchase location, we can provide professional maintenance.
+Speaker1: That's great, my computer has been starting up really slowly lately, and sometimes it automatically restarts, can you guys solve this problem?
+Speaker2: Of course, it's possible that this is a system issue or hardware failure, and our technical team will conduct a detailed check and provide a solution.
+Speaker1: Do I need to make an appointment?
+Speaker2: Yes, to ensure the quality and efficiency of our service, we need you to book in advance. You can choose a convenient time, and we will arrive on time to serve you.
+Speaker1: Okay, can I meet you at around three in the afternoon tomorrow?
+Speaker2: Okay, tomorrow afternoon at three o'clock, we will arrive on time. Please prepare the computer that needs maintenance, we will see you then.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy day, goodbye.

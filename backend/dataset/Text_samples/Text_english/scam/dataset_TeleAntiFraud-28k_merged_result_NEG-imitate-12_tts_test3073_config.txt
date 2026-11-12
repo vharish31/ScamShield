@@ -1,0 +1,10 @@
+Speaker1: Hello, you are welcome to Peace Finance customer service. I am customer service representative Lee.
+Speaker2: Hello, what do you have?
+Speaker1: You previously applied for a loan on our platform, and now there's a promotion that can help lower your interest rate, saving you a lot of interest.
+Speaker2: Is it really? That's great, how do you operate it?
+Speaker1: Yes, but you need to download our latest app first, complete identity verification and operation through it.
+Speaker2: Okay, what's the name of the app?
+Speaker1: You can download the "Anxin Finance Assistant" app from the phone app store. After downloading, I will send you a verification code, which you can enter to enjoy the discount.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, let me know when you've finished downloading, and I'll send you the verification code right away.
+Speaker2: Okay, thank you for your help.

@@ -1,0 +1,14 @@
+Speaker1: Hello
+Speaker2: Hello, how are you?
+Speaker1: Good morning, I am the customer service representative of the wealth investment company, my name is Li, do you have any recent thoughts about making some investment in wealth management?
+Speaker2: Hmm, I recently have some spare cash, but I'm not very familiar with investing.
+Speaker1: No problem, I can help you. Our company recently has a very good project, with high returns and low risks, many customers have already made money.
+Speaker2: Is it true? What is the specifics of this project?
+Speaker1: This is a special stock investment plan, we have a professional team in charge of operation, you can rest assured. Just need to first invest a small amount of money, like five thousand yuan, to start.
+Speaker2: Five thousand yuan, how do I operate it?
+Speaker1: It's very simple. You can download our company's investment app, register an account, and invest through the app.
+Speaker2: Do you want to download the app? What is the name of this app?
+Speaker1: The name of the app is "Wealth Expressway". You can download it from the app store. After downloading, I will send you an invitation code. When registering, enter the invitation code to enjoy exclusive discounts.
+Speaker2: Okay, I'll try.
+Speaker1: Great! After you download, if you have any issues, feel free to contact me. My phone number is 13800138000. I wish you a happy investment!
+Speaker2: Okay, thank you.

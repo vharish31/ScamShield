@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently want to buy a new phone, I heard your store just got a new batch of new models, want to ask for some advice.
+Speaker2: Hey, hello, little Zhang, I am small Li from the store, yes, we just got a new batch of phones, do you have any specific needs?
+Speaker1: Hey, I mainly want to buy a camera with good photo effects and long battery life, with a budget of around three thousand.
+Speaker2: Okay, based on your requirements, we have a phone here with a very high price-to-value ratio, great camera quality, a large battery capacity, and a two-day battery life, priced at 2,999.
+Speaker1: Does this phone have any new stock?
+Speaker2: There are currently some in stock, but the quantity is limited. If you're interested, come early to pick them.
+Speaker1: Okay, I'm free this weekend, want to come to the store and take a look, are you guys open on weekends?
+Speaker2: Is the weekend business as usual? The business hours are from 9am to 9pm. What time is it convenient for you to come?
+Speaker1: Can I go to the store at three in the afternoon on Saturday?
+Speaker2: Sure, on Saturday at 3 PM, we'll wait for you at the store and give you a detailed introduction of this phone when you arrive.

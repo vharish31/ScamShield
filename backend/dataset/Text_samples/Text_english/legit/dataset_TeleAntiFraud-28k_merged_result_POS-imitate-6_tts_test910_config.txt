@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I saw a phone in your store, want to know more about it?
+Speaker2: Hello, I'm very happy to help you. Which phone model are you interested in?
+Speaker1: That's the latest flagship model of the brand you just launched, it's from the A series.
+Speaker2: Oh, that phone is our best-selling product in the store, its configuration is very high, and its camera function is particularly powerful.
+Speaker1: Hmm, I see the reviews online are good, but I don't know how much it costs.
+Speaker2: This phone's price is 3999 yuan, now there's an extra discount when buying.
+Speaker1: Is there any gift or discount coupon?
+Speaker2: Yes, when you buy now, you can get a phone case and screen protector film for free, and also a one hundred yuan discount coupon that you can use on your next purchase.
+Speaker1: Can I go to your store and take a look?
+Speaker2: Of course, our store is on the third floor of the electronic city in the city center, and our business hours are from 10 am to 9 pm.
+Speaker1: Okay, thank you for your help. I'll go see it over the weekend.
+Speaker2: You're welcome to come anytime, feel free to call if you have any questions. Goodbye!

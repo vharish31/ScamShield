@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, can you recommend a few brands for me?
+Speaker2: Hello, Xiaoming, of course you can. Do you have a budget? Also, which aspects of the phone do you value the most? Like battery life, camera or performance?
+Speaker1: My budget is roughly around three thousand, I like photography a lot and play games occasionally, so both battery life and photography are quite important.
+Speaker2: Okay, based on your requirements, I recommend you take a look at these few phones: Brand A's model one, this phone's camera is excellent, and Brand B's model two, this phone's battery life is great and it's very smooth when playing games.
+Speaker1: Can you tell me the prices and main configurations of these two phones?
+Speaker2: Brand A's model one is currently priced at 3,099 yuan, equipped with a 4,800,000-megapixel dual camera, a 4,000mAh large battery, suitable for photography and daily use. Brand B's model two is priced at 3,200 yuan, equipped with a 5,000mAh large battery, with strong performance, suitable for gaming.
+Speaker1: Do these two phones have stock? Can I go to the store to take a look?
+Speaker2: Yes, both of these phones are in stock. You can come to our store and check them out. Our store is located on the third floor of the electronic city in the city center. We also have a promotion this weekend, so you can come take a look.
+Speaker1: Okay, I have some free time this weekend, so I'll go to your store and take a look. Thank you for your recommendation!
+Speaker2: No problem, little Ming, I'm looking forward to your arrival. If you have any other questions, please contact me anytime. Have a great weekend!

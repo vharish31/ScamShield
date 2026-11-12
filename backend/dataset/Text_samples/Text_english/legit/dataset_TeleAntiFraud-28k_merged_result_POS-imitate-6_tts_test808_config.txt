@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? Can I ask if you're open today?
+Speaker2: Hello, we are open for business today as usual. The store opens at 9 am in the morning and closes at 9 pm in the evening.
+Speaker1: That's great, I recently want to buy a new phone, do you have new models here?
+Speaker2: Yes, we just got a new batch of phones, with several brands to choose from.
+Speaker1: What I care about the most is the price, how much is it?
+Speaker2: The price of new phones varies from thousands to tens of thousands, depending on the brand and model you choose.
+Speaker1: Can I try the machine tomorrow?
+Speaker2: Of course, coming over tomorrow at 9 am would be more convenient.
+Speaker1: I should arrive around three in the afternoon.
+Speaker2: Okay, I'll meet you at three in the afternoon tomorrow. If you need anything, I can reserve a spot for you.
+Speaker1: Okay, that's all I need from you.
+Speaker2: No problem, feel free to contact me anytime. See you tomorrow!

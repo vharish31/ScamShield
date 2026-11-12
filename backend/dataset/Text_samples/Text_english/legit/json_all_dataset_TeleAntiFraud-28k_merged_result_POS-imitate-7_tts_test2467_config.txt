@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: I saw a sofa in your store and wanted to ask about it
+Speaker2: Okay, which style are you asking about?
+Speaker1: That brown one with storage space.
+Speaker2: Oh, that style is our store's bestseller. What would you like to know?
+Speaker1: What is the size and price of this sofa?
+Speaker2: The dimensions of this sofa are 1.8 meters wide, 0.5 meters deep, and 0.8 meters high, and it costs 3,600 yuan.
+Speaker1: Is this size big enough for the living room?
+Speaker2: This size sofa is very suitable for the living room, both comfortable and spacious, and won't take up too much space.
+Speaker1: Are there any discount activities?
+Speaker2: You can enjoy a 90% discount when buying now, and you'll also get a free pair of our store's pillows.
+Speaker1: Sounds good, can I go over there this weekend?
+Speaker2: Of course, our stores are open normally on weekends. You can come directly.
+Speaker1: Okay, thank you, see you this weekend.
+Speaker2: No problem, see you this weekend, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Can you recommend a two-person dish here?
+Speaker2: Hello, we have various dishes to choose from here, for two people I recommend our double choice set menu which includes appetizer, main course and dessert, and you can also choose drinks.
+Speaker1: How much does this dish cost?
+Speaker2: The price for the two-person set menu is 288 yuan. If you're a first-time customer, we also have a new customer discount, which is a 90% discount.
+Speaker1: That's great, I plan to spend the weekend here, what are your weekend business hours?
+Speaker2: What time slot would you like to reserve for the weekend business hours, which are from 11 am to 10 pm?
+Speaker1: Can I make a reservation for 7 pm on Saturday evening?
+Speaker2: Sure, I have reserved a spot for you on Saturday evening at 7:00. Could you please provide your name and contact information?
+Speaker1: Okay, my name is Zhang, my phone number is 13800000000.
+Speaker2: Okay, Zhang Xiāngshēng, I have already reserved the double-choice set menu for you on Saturday evening at 7:00 p.m., see you then.

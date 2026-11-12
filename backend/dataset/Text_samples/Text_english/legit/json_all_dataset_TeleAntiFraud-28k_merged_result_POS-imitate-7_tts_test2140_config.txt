@@ -1,0 +1,11 @@
+Speaker1: Hello, I'm Li Xiao, our customer service representative.
+Speaker2: Hello, little Li, what can help me?
+Speaker1: Hey, I noticed you've been browsing outdoor sports equipment on our website recently. Do you know if you've encountered any issues or need any advice?
+Speaker2: Hmm, yes, I'm looking at a backpack for hiking, but I'm not sure if its size is suitable for long-term hiking use.
+Speaker1: Understood, this backpack style is quite popular here, its capacity is 55 liters, very suitable for long-term hiking and mountaineering.
+Speaker2: How is the waterproof performance of this bag?
+Speaker1: This bag is made of high-level waterproof materials, so even if it rains, you don't have to worry about the items inside getting wet. Moreover, we provide a one-year quality guarantee.
+Speaker2: Is there any stock of this bag at the moment?
+Speaker1: Let me check... Okay, this bag is currently in stock, and you can enjoy a 90% discount when purchasing it now.
+Speaker2: Then I placed the order, thank you for your help.
+Speaker1: You're welcome. If you have any other questions, feel free to contact me anytime. Have a great shopping!

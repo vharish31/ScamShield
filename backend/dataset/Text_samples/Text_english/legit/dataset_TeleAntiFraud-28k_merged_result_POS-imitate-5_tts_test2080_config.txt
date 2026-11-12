@@ -1,0 +1,8 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I'm at the address you sent, where are you?
+Speaker2: Hey, hello, I'm Xiao Huá, I just arrived at the crossroad, but the traffic here is a bit congested, I might need a while longer.
+Speaker1: Okay, pay attention to safety, I'm waiting for you at the crossroad, have you seen my call?
+Speaker2: Okay, I know, don't worry, I'm almost there.
+Speaker1: Hey, be careful while driving, I won't be able to stop for a while, hurry up as much as possible.
+Speaker2: Hey, I'll be there soon, don't worry, see you later.
+Speaker1: Okay, see you later.
+Speaker2: Hey, be careful on the road.

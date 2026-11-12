@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm the manager of Ningbo Bank, and we recently launched a new loan product. Would you be interested in learning more about it?
+Speaker2: Hello, can you tell me more about the loan product?
+Speaker1: This product is designed for small and medium-sized business owners, no collateral, fast approval, maximum loan amount of 50,000, very suitable for your type of business.
+Speaker2: Can you please provide me with a detailed explanation of the specific terms and interest rates?
+Speaker1: Of course, but for convenience, you can first download our bank's official app, which has detailed information, and you can also apply online directly.
+Speaker2: Okay, how do I download your app?
+Speaker1: It's very simple. You can download it by scanning the QR code I sent you or by clicking on the link I sent you.
+Speaker2: Okay, let me try to see.
+Speaker1: Great, feel free to contact me anytime if you have any questions, I'll help you solve them.
+Speaker2: Okay, thank you, Li manager.

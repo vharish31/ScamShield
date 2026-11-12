@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I am the customer service for happy delivery, your order has a problem
+Speaker2: What's the problem? What issue?
+Speaker1: Yes, your order cannot be delivered because some products are temporarily out of stock at the store.
+Speaker2: What should I do? I've been waiting for a long time.
+Speaker1: Can we cancel this part on our side, or choose other products? Is that okay with you?
+Speaker2: Then I'll choose again, do you have any recommendations?
+Speaker1: We have several new products here, such as spicy chicken drumsticks burger and farm vegetable salad, both are quite popular.
+Speaker2: I'll have a spicy chicken drumstick burger, or the same old meal.
+Speaker1: Okay, I have changed your order. It will arrive in 30 minutes. Please confirm your address.
+Speaker2: The address from last time is still fine, no need to change it.
+Speaker1: Okay, confirm no mistake, we will expedite delivery, if any issues contact us anytime.
+Speaker2: Okay, thank you, worked hard.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What can I help you with?
+Speaker1: Do you have any computers suitable for students in your store that I saw recommended online?
+Speaker2: Yes, we have many computer models suitable for students here. Which brand or model do you want to know about?
+Speaker1: I want a laptop with a high price-to-performance ratio, within a budget of about 5,000, mainly for online classes and document work.
+Speaker2: Understood, you can consider this XX brand notebook with a configuration that completely meets your needs, and there's currently a student discount.
+Speaker1: How long does this notebook's battery last? I sometimes need to bring my computer to the library.
+Speaker2: This notebook's battery life is very strong, approximately can be continuously used ten small hours left and right, very suitable for outside carrying use.
+Speaker1: That's great, I plan to visit your store this weekend, can I try it out?
+Speaker2: Of course, our store will be open normally on weekends, you can directly come to try it out. If it's convenient, you can call me in advance, I'll reserve a machine for you.
+Speaker1: Okay, I noted down your phone number. I will contact you ahead of time on the weekend. Thank you for your help!
+Speaker2: No problem, feel free to contact me anytime if you have any questions, see you this weekend!

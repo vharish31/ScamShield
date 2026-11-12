@@ -1,0 +1,15 @@
+Speaker1: Hello, are you Li boss?
+Speaker2: Who are you?
+Speaker1: I am a customer service representative for express delivery, recently you have a lost package, we are ready to compensate you.
+Speaker2: Oh, really?
+Speaker1: Yes, in order to quickly process, please provide your identity information and bank card number, we will directly transfer the compensation amount to your card.
+Speaker2: So, how can I know if you're a scammer?
+Speaker1: You can log in to our official website using this link. I'll send you a short message with the link, and you can log in using that link to see your delivery information.
+Speaker2: Okay, I got it, I'll take a look.
+Speaker1: Take a look, if you have any questions, feel free to contact me anytime, I can help you handle it here.
+Speaker2: This link looks pretty regular, so I'll give it a try.
+Speaker1: Okay, please input your information and we'll process it quickly. If you have any other issues, feel free to add my WeChat and get in touch anytime.
+Speaker2: Okay, let me add you on WeChat.
+Speaker1: Okay, my WeChat is Xiaoshu kuàn fù, jiān huì wǒ gē rú yòu fā yàn zhèng.
+Speaker2: Okay, I'll wait for you to verify.
+Speaker1: Okay, see you later.

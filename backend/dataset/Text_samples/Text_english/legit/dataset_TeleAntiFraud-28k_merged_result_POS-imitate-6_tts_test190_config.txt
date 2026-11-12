@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am small Zhang from city delivery, is this your delivery?
+Speaker2: Yes, it's mine, have you arrived?
+Speaker1: I arrived, I arrived, I just arrived at your community gate, can you come down and pick up a thing, okay?
+Speaker2: Okay, I'll be there in a few minutes.
+Speaker1: Okay, take it slow, don't rush, I'm waiting for you here.
+Speaker2: Thank you, you guys delivered the food very quickly.
+Speaker1: This is our work, we hope it brings you convenience.
+Speaker2: Okay, I'll go down now.

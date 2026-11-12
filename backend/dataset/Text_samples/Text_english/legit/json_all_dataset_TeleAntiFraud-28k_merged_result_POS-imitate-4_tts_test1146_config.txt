@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I saw your hair appointment on the internet, want to know more?
+Speaker2: Hello, Xiao Wang, I am the customer service staff at the store, what can I help you with?
+Speaker1: What is the price of the haircut and wash hair package at your store?
+Speaker2: The haircut and wash package is 50 yuan, and if you need additional care services like hair oil and scalp massage, you may have an additional 20 yuan.
+Speaker1: Okay, I roughly understand. Can I schedule an appointment for tomorrow afternoon at three o'clock?
+Speaker2: Tomorrow at three in the afternoon is okay, but this time slot has a lot of reservations, I will first reserve a spot for you, confirm your phone number, so we can contact you.
+Speaker1: Okay, my phone number is 333-333-3334, thank you.
+Speaker2: Okay, I've recorded it down. Tomorrow afternoon at three, we'll be ready ahead of time, and then we'll meet.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, see you tomorrow.

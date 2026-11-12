@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me?
+Speaker1: Hello, I am the customer service of the local supermarket, we saw that you haven't come shopping recently, so we gave you a special call.
+Speaker2: Hey, do you have any activities at the supermarket?
+Speaker1: Yes, we have a weekly anniversary activity this week, many products are on sale, and there are also full-price discount activities.
+Speaker2: Can I enjoy these discounts in the past?
+Speaker1: Of course, as long as you come today, you can enjoy an additional 95% discount with this phone call.
+Speaker2: What time does the supermarket close?
+Speaker1: Our supermarket business hours are from 8 am to 10 pm. What time is most convenient for you to come?
+Speaker2: Okay, I'll probably go around eight o'clock tonight.
+Speaker1: Okay, we'll meet at the supermarket later. I hope you can buy what you like.

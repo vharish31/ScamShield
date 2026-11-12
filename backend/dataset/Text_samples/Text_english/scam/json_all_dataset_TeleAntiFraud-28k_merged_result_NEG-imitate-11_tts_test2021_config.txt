@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural Bank. We have a special promotion for a loan recently, the interest rate is very low, and the process is very simple. Would you like to know more about it?
+Speaker2: Hey, loan, I recently have a bit of cash need. Can you give me a detailed explanation?
+Speaker1: Of course. Our loan products not only have low interest rates, but also quick approval, the same day apply, the same day disburse. You only need to provide identity card and income proof, okay.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Just click this link, fill out some basic info, and our staff will contact you ASAP.
+Speaker2: Okay, let me try.
+Speaker1: Great, here's the link [pretend to provide link], please click on it to fill out the information. If you have any questions, feel free to contact me anytime.
+Speaker2: What should I do next after filling it out?
+Speaker1: Great, after you fill out the form, our system will automatically review it, and if it's approved, a specialist will contact you to complete the loan process.
+Speaker2: Okay, thank you for your help.

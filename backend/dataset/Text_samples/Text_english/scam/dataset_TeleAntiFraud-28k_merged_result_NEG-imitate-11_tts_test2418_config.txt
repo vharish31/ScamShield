@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Agricultural Bank, I am customer manager Wang.
+Speaker2: Hello, what do you have?
+Speaker1: So, we see that you recently registered a tech company, and now we have a special discounted loan product for small businesses. Would you like to know if you have any funding needs?
+Speaker2: Oh, this is interesting. Can you tell me in detail?
+Speaker1: Of course, this loan product does not require collateral, interest rate is low, and the repayment speed is fast. If you are interested, you can click on the link I sent you to learn more about the product details.
+Speaker2: Okay, your voice sounds good, how do I get this link?
+Speaker1: Please wait for a moment, I will send you a message with a link. After you receive it, click on the link and follow the instructions.
+Speaker2: Okay, I'm waiting for your text message.
+Speaker1: Okay, the text message has been sent. Please check it. If you have any questions, feel free to contact me anytime. My phone number is 13700000000.
+Speaker2: Okay, thank you for your help. I will check it.

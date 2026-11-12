@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, can you hear me, say something.
+Speaker1: Hello, I am a customer service representative from an e-commerce platform. I would like to remind you that your shopping points on your account will expire at midnight tonight. You still have not used them, and these points can be redeemed for over three thousand nine hundred yuan in cash.
+Speaker2: Oh, really? That's too bad.
+Speaker1: Yes, if you don't use it on time, your points will be cleared. I have already sent you a text message for exchange, hurry up and take a look.
+Speaker2: Okay, I'll take a look. Which platform is this for points?
+Speaker1: This is our platform's points, your account has accumulated 26,800 points, which is equivalent to 4,000 yuan's products. Tonight before 12 o'clock use up, otherwise it will be zeroed.
+Speaker2: Okay, I understand, thank you for your reminder.
+Speaker1: No problem, hurry up to the mall and take a look, if you find anything you like, just exchange it directly.
+Speaker2: Okay, I will, thank you.

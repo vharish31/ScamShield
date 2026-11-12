@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li's hair salon?
+Speaker2: Hello, I am a hair salon for little Li, what can I help you with?
+Speaker1: Can I make an appointment to cut my hair short at 2 pm tomorrow?
+Speaker2: Sure, tomorrow at 2 PM we have a free slot, you can come directly over.
+Speaker1: How long do we need to arrive in advance?
+Speaker2: Arrive around ten minutes early, so you can rest a bit and get ready.
+Speaker1: Understood, and I want to cut a slightly shorter hairstyle, do you have any recommendations here?
+Speaker2: Based on your face shape, we recommend a short haircut style, very suitable for summer, fresh and fashionable. You can come to the store later, we can discuss the specific design in detail.
+Speaker1: That sounds good, so I'll relax now, thank you for your advice.
+Speaker2: No problem, we'll meet tomorrow, looking forward to serving you.

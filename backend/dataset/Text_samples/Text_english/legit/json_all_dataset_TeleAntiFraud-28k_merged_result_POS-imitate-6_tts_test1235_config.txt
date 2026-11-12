@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I saw your store's advertisement and wanted to know more about your new menu.
+Speaker2: Of course, we recently introduced several new dishes, including spicy Sichuan peppercorn chicken, steamed abalone and stir-fried three-string beans. Which one do you like?
+Speaker1: Can you tell me the price of spicy chicken?
+Speaker2: The price of spicy chicken is 38 yuan per portion, the portion size is sufficient, and it's suitable to share with friends.
+Speaker1: What time does your store open?
+Speaker2: Our store's business hours are from 10 am to 10 pm, with business during both lunchtime and evening.
+Speaker1: Okay, I plan to try this weekend. Do you accept reservation?
+Speaker2: Please confirm your reservation through phone or our WeChat public platform. Do you need me to send you a reservation link?
+Speaker1: Okay, can you please make a reservation for me at home tonight?
+Speaker2: Okay, please let me know when you make your reservation tonight so I can reserve a spot for you. I hope you enjoy your meal at our restaurant!
+Speaker1: Thank you, goodbye!
+Speaker2: Goodbye, welcome!

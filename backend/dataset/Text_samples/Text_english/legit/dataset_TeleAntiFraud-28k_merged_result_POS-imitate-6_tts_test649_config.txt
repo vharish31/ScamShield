@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Zhang, I bought a phone from your store, now there's a problem, I want to consult a little.
+Speaker2: Hello, Xiao Zhang, I am customer service Li Xiao, what specific problem did you encounter?
+Speaker1: I bought the new phone you guys released, but after using it for a few days, I found that the screen would sometimes automatically turn black.
+Speaker2: This situation sounds a bit abnormal, can you please tell me your order number and purchase date?
+Speaker1: Okay, my order number is 123456789, purchase date is last Saturday.
+Speaker2: Okay, I'll check. Hmm, found it. This kind of situation might be a software issue. I suggest you first try restarting your phone, see if the problem is solved.
+Speaker1: I tried it out, but it didn't work.
+Speaker2: Can we arrange for you to check the store and see if any hardware needs repair? What time is convenient for you to come?
+Speaker1: Can I come on Saturday morning?
+Speaker2: Okay, someone will meet you at our place at 10 am on Saturday morning. Remember to bring your phone and purchase receipt.
+Speaker1: Okay, thank you for your help, see you on Saturday.
+Speaker2: No problem, see you on Saturday, wish you all the best. Bye.

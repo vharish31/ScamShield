@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the property management of the Blue Lake community?
+Speaker2: Hello, yes, this is the Blue Lake Small Community Property Management, how can I help you?
+Speaker1: I just moved in and want to know the trash disposal time in the community.
+Speaker2: Alright, our community's trash disposal time is from 7am to 9am in the morning and from 6pm to 8pm in the evening, please pay attention to dispose of it on time.
+Speaker1: What should be done if the throwing time is missed?
+Speaker2: If you missed the throwing time, we suggest you come back and throw during the next throwing time, or contact the property and we will provide assistance based on the situation.
+Speaker1: Is there a mailbox in the community?
+Speaker2: Yes, there's a delivery box on the right side of the entrance to our community, you can pick up your package there.
+Speaker1: I know, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, feel free to contact us anytime. Wishing you a happy life.

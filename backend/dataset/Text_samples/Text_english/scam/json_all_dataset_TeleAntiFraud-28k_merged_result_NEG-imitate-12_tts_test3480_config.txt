@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm small Li, this is the customer service representative of the China Zheshan Bank, you have consulted our loan product before, now there is a special promotion activity, the interest rate is very low, do you have any recent need for cash flow?
+Speaker2: Hey, I've been feeling a bit tense lately, can you give me some specifics?
+Speaker1: Okay, this loan product has no collateral, no guarantee required, fast approval, and you can get the loan today. To ensure your information is safe, I need you to provide a verification code. I'll send it to your phone soon, please pay attention to check it.
+Speaker2: Okay, I'll be right back.
+Speaker1: Thank you for your cooperation. The verification code has been sent to your phone. Did you receive it?
+Speaker2: Did you receive it? Is it 123456?
+Speaker1: That's right, just this one. Please log in to our official website www.zhouzhoubank.com, enter the verification code, and then fill out the application form. Our staff will contact you as soon as possible.
+Speaker2: Okay, I'm going to operate now.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please call our customer service hotline 400-123-4567 at any time. Wish you a happy life. Goodbye.
+Speaker2: Thank you, goodbye.

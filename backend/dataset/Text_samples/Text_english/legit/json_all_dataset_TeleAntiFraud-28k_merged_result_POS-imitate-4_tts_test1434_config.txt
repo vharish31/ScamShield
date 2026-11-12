@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I saw on the internet that you guys have a new electric car, want to know more about it?
+Speaker2: Hello, I'm very happy to serve you. What aspect of new energy cars information are you interested in?
+Speaker1: What is the approximate range of this car model's continuation and how long does it take to charge?
+Speaker2: This new electric car has a range of approximately 400 miles, it can be charged to 80% in about an hour with fast charging, and it takes about 8 hours to charge with slow charging.
+Speaker1: Sounds good. How much does this car cost?
+Speaker2: This car's selling price is around twenty thousand, but we have a promotion now, so you can enjoy some discount.
+Speaker1: How much discount is there?
+Speaker2: The specific discount amount depends on the configuration you choose. You can discuss it in detail at the store or leave your contact information, and our sales representative will contact you.
+Speaker1: Okay, I'll add a WeChat first, then we can chat in detail later.
+Speaker2: Okay, this is my WeChat number, you add it, we can keep in touch anytime.

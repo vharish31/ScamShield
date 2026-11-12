@@ -1,0 +1,9 @@
+Speaker2: Hello, who are you?
+Speaker1: Hello, I'm little king, recently looking for design work, do you have any recommendations?
+Speaker2: Oh, little king, I'm doing design work here, but lately the company hasn't had any new job openings.
+Speaker1: So, what types of design does your company mainly focus on?
+Speaker2: We mainly do flat design and UI design, and occasionally get involved in some packaging design.
+Speaker1: That sounds great, I have two years of design experience from working at an advertising company.
+Speaker2: You can send me your resume, and if there's a suitable opportunity, I'll contact you.
+Speaker1: Okay, my email is xiaowang@example.com, thank you.
+Speaker2: No problem, I'm looking forward to your resume, wish you find a satisfying job soon.

@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Can you tell me if there are any rooms available in your children's house?
+Speaker2: There are still some vacancies in the children's room here.
+Speaker1: How about the children's room is on which floor?
+Speaker2: The children's room is on the third floor, the environment is good, and there is a special playground.
+Speaker1: Oh, that sounds great. I plan to take the kids there this weekend, do you agree?
+Speaker2: How about this weekend, what time is convenient for you?
+Speaker1: I should arrive around two in the afternoon.
+Speaker2: Okay, I'll be at the front desk waiting for you. If there are any changes, please call me in advance.
+Speaker1: Okay, thank you for your cooperation.
+Speaker2: No problem, we're looking forward to your arrival. Goodbye.
+Speaker1: Goodbye.

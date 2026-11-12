@@ -1,0 +1,10 @@
+Speaker1: Hey, did you arrive?
+Speaker2: I just arrived, and I've been waiting here already.
+Speaker1: Where are you?
+Speaker2: I'm at the small square downstairs, it's a bit hard to park here.
+Speaker1: Is there a parking lot nearby?
+Speaker2: Yes, if you walk straight from the square, you can turn a corner and find a parking lot.
+Speaker1: Okay, I'll go over there now. Wait for me a moment.
+Speaker2: No problem, I'm waiting for you here.
+Speaker1: Uh-huh, do you remember to bring an umbrella? The weather forecast says there's a chance of rain today.
+Speaker2: Okay, thank you for reminding me, I brought it with me.

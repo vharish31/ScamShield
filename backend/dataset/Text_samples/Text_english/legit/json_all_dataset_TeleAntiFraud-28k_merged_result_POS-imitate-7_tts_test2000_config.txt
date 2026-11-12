@@ -1,0 +1,10 @@
+Speaker1: Hey, are you small Li?
+Speaker2: Hello, little Zhang, I am little Li, what do you want to find me for?
+Speaker1: I have to travel tomorrow, could you tell me about the weather there?
+Speaker2: Tomorrow's weather forecast for this side is clear, temperature between 15 to 25 degrees, good for travel.
+Speaker1: That's great, I still plan to go to your West Lake Park and stroll around, if the weather is good it will be more convenient.
+Speaker2: West Lake Park is indeed a good choice, environment is beautiful, suitable for walking and taking photos.
+Speaker1: Do you know how to get to that famous face shop on your side? I want to try it out.
+Speaker2: Of course, after getting off the train station, walk straight along Changshan Road for about 500 meters, turn right at the first crossroad, and walk about 200 meters left and right to see that restaurant.
+Speaker1: Thanks for your help, Li.
+Speaker2: No problem, little Zhang, if there are any other things you need help with, please contact me anytime. Have a nice trip!

@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Zhang, want to consult your fitness course.
+Speaker2: Hello, little Zhang, I am the customer service staff here, what can I help you with?
+Speaker1: Can you tell me about your fitness programs and how much they cost?
+Speaker2: We have basic fitness courses, yoga courses and private courses here. The basic fitness courses cost 300 yuan per month, the yoga courses cost 400 yuan per month, and the private courses cost 500 yuan per session.
+Speaker1: What is the content of private lessons?
+Speaker2: Private lessons will be tailored to your body condition and fitness goals, including strength training, aerobic exercise, and stretching and relaxation.
+Speaker1: Sounds good, do I need to book a private lesson?
+Speaker2: Yes, private lessons require advance booking. You can choose a suitable time, and we will arrange an appropriate teacher for you.
+Speaker1: Okay, can I schedule a meeting for tomorrow afternoon at 3 PM?
+Speaker2: I have already reserved a time for you tomorrow at three in the afternoon at the fitness center. Please arrive ten minutes early. If you have any other questions, please contact me.
+Speaker1: Okay, thank you, bye.
+Speaker2: Please wait for your arrival, goodbye.

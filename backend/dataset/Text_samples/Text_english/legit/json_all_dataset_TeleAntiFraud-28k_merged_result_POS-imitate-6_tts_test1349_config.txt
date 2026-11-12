@@ -1,0 +1,10 @@
+Speaker1: Hey, is it convenient for you to talk now on your side?
+Speaker2: Sure, what's up?
+Speaker1: Can you tell me the specific location of the restaurant you recommended for me to eat at tonight?
+Speaker2: Of course, that restaurant is just next to the big square in the city center, you walk two hundred meters east from the subway station and you are there.
+Speaker1: Okay, I noted it down. Is the parking convenient on that side?
+Speaker2: The parking lot behind the restaurant is quite convenient, and it's free to park there after six in the evening.
+Speaker1: Is seven o'clock and a half okay? Do I need to make a reservation in advance?
+Speaker2: If you don't mind waiting, you can just go directly. However, it's usually crowded on weekends, so I suggest you call ahead and make a reservation.
+Speaker1: Okay, I'll call to make an appointment soon. Thank you, you really helped me a lot.
+Speaker2: No problem, I hope you enjoy your meal. Please feel free to contact me if you need any help.

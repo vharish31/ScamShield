@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer service center of the happy mall, are you zhang qiang?
+Speaker2: Yes, hello, what do you have?
+Speaker1: We noticed some issues with the products you recently purchased on our platform. To ensure your rights, we have specifically applied for a refund on your behalf. Please cooperate.
+Speaker2: Okay, what do I need to do?
+Speaker1: Please click on the link we sent, follow the instructions to complete the refund process.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, if you encounter any issues during the operation, you can contact our customer service at any time, and we will have a specialist answer for you.
+Speaker2: Thank you, I will pay attention.
+Speaker1: You're welcome, wish you happy life, bye.
+Speaker2: Goodbye.

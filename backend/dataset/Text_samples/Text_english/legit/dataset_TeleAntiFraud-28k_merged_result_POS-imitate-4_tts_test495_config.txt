@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I ordered a cake at your store. Can you confirm a few things about sending it?
+Speaker2: Hello, when did you take the exam?
+Speaker1: The single that was handed in at three o'clock this afternoon can be sent to tonight.
+Speaker2: Okay, let me check your order. What's your order number?
+Speaker1: Order number is 123456.
+Speaker2: Found it, your cake is estimated to be delivered around 7 pm tonight.
+Speaker1: If you arrive early at 7 o'clock, what should you do?
+Speaker2: We will do our best to deliver according to the time you specified, and if we arrive early, the delivery person will first contact you to confirm if it's convenient for you to receive.
+Speaker1: Okay, if I'm not home when it's time, can I leave it at the mailbox outside the community?
+Speaker2: Sure, but eggs are perishable food items, it's recommended that you arrange for people to receive them on site to ensure their freshness.
+Speaker1: I know, thank you for your reminder, I will be waiting at home around 7.
+Speaker2: Okay, thank you for your cooperation. Wish you a happy life. Please contact us if you have any questions.

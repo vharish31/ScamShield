@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the speed loan communication center, I am customer service manager Lee Huai.
+Speaker2: Hello, do you have anything?
+Speaker1: We noticed you have a good credit record, so we're offering you a low-interest loan with a monthly interest rate of only two cents, no collateral required, do you have any recent financial needs?
+Speaker2: Hmm, this loan sounds pretty good, how do I apply?
+Speaker1: It's very simple. Just download our app, register, fill out personal information, and we'll review your data quickly. You'll be able to get a loan soon.
+Speaker2: Is this app legit?
+Speaker1: Of course, our app is authenticated, you can directly search and download it in the app store.
+Speaker2: What information do I need to provide?
+Speaker1: You just need to provide your ID, bank card info, and some basic personal data. After approval, we will put the money in your account within 24 hours.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any questions, feel free to contact me anytime. My phone number is 12345678901. Best wishes for your application. Bye!

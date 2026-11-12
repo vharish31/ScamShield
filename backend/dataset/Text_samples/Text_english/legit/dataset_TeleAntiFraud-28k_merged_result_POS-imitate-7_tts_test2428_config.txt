@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's special dishes and how much they cost?
+Speaker2: Our restaurant special dishes include red braised pork, steamed fish and kung pao chicken, priced from 30 to 50 yuan, the value for money is still quite high.
+Speaker1: What are your business hours from what time to what time?
+Speaker2: We are open from 11 am to 9 pm during weekdays and extend to 10 pm on weekends.
+Speaker1: Can I make a reservation for dinner at your place around seven o'clock tomorrow night?
+Speaker2: Of course, do you need to reserve several seats?
+Speaker1: Two people, around seven o'clock.
+Speaker2: Okay, I have booked two seats for you, see you tomorrow night at seven.
+Speaker1: Thanks for your help.
+Speaker2: Please welcome, any questions feel free to contact us anytime.

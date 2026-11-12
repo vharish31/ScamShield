@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Zhang, I reserved a haircut time at your shop, want to confirm?
+Speaker2: Hello, little Zhang, I am the customer service clerk at the store, what time did you make your appointment?
+Speaker1: I have an appointment tomorrow at three in the afternoon.
+Speaker2: Okay, I'll check. Hmm, the appointment for tomorrow at three in the afternoon is already recorded in our system.
+Speaker1: That's great, I've been really busy lately, afraid I'll forget.
+Speaker2: Understand, if there are any changes, you can contact us at any time to change the appointment time.
+Speaker1: Okay, thank you. Got it, can you tell me specifically what activities are going on at your store recently?
+Speaker2: Yes, we recently had a member activity, on the member day, members can enjoy an eighty percent discount on haircuts at the store, and also receive a free small gift.
+Speaker1: Can I join this activity tomorrow when I go?
+Speaker2: Okay, as long as you tell us you're a member when you come tomorrow, you can enjoy the activity discount.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

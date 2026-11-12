@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service representative of Ping An Finance, I am Lee Ming, we recently launched a low-interest loan project for high-quality customers, do you have any funding needs?
+Speaker2: "Oh, I don't have any financial needs."
+Speaker1: Have you ever encountered difficulties with cash flow? For example, suddenly needing to pay a large amount of expenses, such as medical bills or family expenses?
+Speaker2: Yeah, this situation sometimes happens.
+Speaker1: I'll recommend a very convenient method to you. We have a special app that you can use to quickly apply for a loan, it's very convenient, and the approval speed is very fast.
+Speaker2: Really? Then how do I apply?
+Speaker1: Just download our app and fill out some basic info to complete the application. I can send you a link, just click to download directly.
+Speaker2: Okay, can you send me the link?
+Speaker1: Okay, I'll send you a text message right away, make sure you check it. Additionally, to ensure your loan application goes smoothly, I need you to provide some personal information, such as your name, ID number and bank account, this is very important to us.
+Speaker2: Understood, I will provide these information. Thank you for your help.

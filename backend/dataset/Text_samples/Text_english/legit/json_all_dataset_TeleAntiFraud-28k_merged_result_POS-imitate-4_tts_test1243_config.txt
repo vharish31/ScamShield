@@ -1,0 +1,9 @@
+Speaker1: Hello, I'm little Zhang, can you tell me how to make your roast duck?
+Speaker2: Hello, little Zhang, our roast duck is made with traditional Beijing roast duck method, first marinate with special seasoning, then hang it on the oven, the skin and meat are tender, very delicious.
+Speaker1: I can't help but want to eat after listening to you talk. Do you guys have roast duck today?
+Speaker2: Yes, our family always makes freshly roasted duck every day to ensure the taste.
+Speaker1: Sounds good, would you like to make a reservation for tonight at your restaurant?
+Speaker2: I suggest booking in advance, especially on weekends and holidays, there will be more customers. Can you tell me the number of guests and time please?
+Speaker1: Okay, I booked two people, around seven in the evening.
+Speaker2: Okay, Xiao Zhang, I have reserved two seats for you, at seven o'clock tonight, see you then.
+Speaker1: Thank you, see you later.

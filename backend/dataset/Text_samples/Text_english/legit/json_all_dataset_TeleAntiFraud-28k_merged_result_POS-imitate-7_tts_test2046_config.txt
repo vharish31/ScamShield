@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, hi, I'm wanting to book a haircut for tomorrow
+Speaker2: Okay, what time slot would you like to book?
+Speaker1: I want to make a reservation for 2:30 PM.
+Speaker2: Can we meet at 2:30 PM? What's your name?
+Speaker1: I am Li Ming
+Speaker2: Okay, Li Ming Xiāngshēng, yǐyòu chénggōng le, xiàngtiān xiàngwǔ liǎnbǎng, qǐng shuǐ xiàn fēi shí fèi, hěngme?
+Speaker1: Okay, okay. Thank you.
+Speaker2: No problem, see you tomorrow

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, I'm good, thank you.
+Speaker1: Hi, I'm the customer service of an e-commerce platform. I noticed you've recently browsed some electronic products. Do you need any help?
+Speaker2: Oh, that's it. I recently decided to buy a new phone.
+Speaker1: That's great, our platform has a promotion activity, many phones are directly dropped discounts. Do you have any brand or model preferences?
+Speaker2: I prefer Apple phones, but they're a bit expensive.
+Speaker1: The performance of the iPhone is indeed quite good, we have several models on promotion now, you can consider it. If you order now, there's still a chance to get an extra gift.
+Speaker2: Can you tell me specifically what discounts are available?
+Speaker1: Of course, you can input the discount code on our platform to see the specific discount. Alternatively, I can send you a link here directly to show all promotional information.
+Speaker2: Okay, send me the link, I'll take a look at the specifics.

@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Oh, I just got to the bus station, it's a bit far.
+Speaker1: Which bus station is that?
+Speaker2: That station near the park, do you remember?
+Speaker1: Remember, there's a small park behind that station.
+Speaker2: There.
+Speaker1: How long will you arrive?
+Speaker2: It should take about ten minutes.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Okay, be careful on the road, see you later.

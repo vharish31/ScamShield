@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw your restaurant job posting online, and I want to ask a few questions.
+Speaker2: Hello, yes, we are indeed hiring, what information do you want to know?
+Speaker1: Is the chef on top really?
+Speaker2: Oh, this one might be a bit slow on updates, we're currently hiring for kitchen help.
+Speaker1: Kitchen helper, do I still need to learn how to cook?
+Speaker2: No need, mainly help with washing, cutting, and chopping. Work is quite simple.
+Speaker1: So, what is the working hours like?
+Speaker2: Work hours are from 6 am to 2 pm, with one day off per week.
+Speaker1: Oh, this time is a bit early for me, I live in the west of the city, and I might be a bit late to work every day.
+Speaker2: That's right, if you live in the city west, it will be a bit inconvenient. We don't have any late shift jobs here temporarily.

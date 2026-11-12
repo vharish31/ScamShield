@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Wang Ming? I am the customer manager of Guangfa Bank, Li Xiaoling.
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm the customer manager at Guangfa Bank, we noticed you might have some recent cash flow needs, we have a special loan product that's perfect for you, would you like to know more about it?
+Speaker2: Hey, do you have a loan? I'm fine now, but can you give me more details?
+Speaker1: Of course, our loan products have no collateral, no guarantee, fast approval, and very low interest rates. If you're interested, you can click on the link I sent you or download our app, which will have detailed information.
+Speaker2: Link? Your app?
+Speaker1: Yes, I'm sending you a link now, you can click it to apply directly. It's very convenient. Do you have WeChat? I'll send it to you through WeChat.
+Speaker2: Okay, I'll add your WeChat.
+Speaker1: Great, my WeChat number is gfbank123, add me, I'll send you the link right away.
+Speaker2: Okay, thank you.

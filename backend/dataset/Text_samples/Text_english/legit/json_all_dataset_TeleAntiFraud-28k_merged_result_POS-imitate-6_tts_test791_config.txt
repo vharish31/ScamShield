@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me over there?
+Speaker2: Can you hear me? Hello, do you have anything to talk about?
+Speaker1: Can you tell me how your family's air conditioning repair service is charged?
+Speaker2: Hello, the specific cost of air conditioning repair service depends on the specific fault situation. Can you tell me the specific problem with your air conditioning?
+Speaker1: It's not cold anymore, but it's still not cold after half an hour.
+Speaker2: Understood, this situation may be due to insufficient refrigerant or other faults. We will check on site, the inspection fee is one hundred yuan, if it is confirmed that the refrigerant is insufficient, the additional cost of adding refrigerant will be calculated separately.
+Speaker1: Okay, when can you guys come?
+Speaker2: We usually provide door-to-door service within twenty-four hours after booking. Can you choose a convenient time?
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Tomorrow at three in the afternoon, our repairman will arrive on time. Remember to leave someone at home.
+Speaker1: Okay, thank you. See you tomorrow.
+Speaker2: Okay, see you tomorrow. If there are any other questions, feel free to contact.

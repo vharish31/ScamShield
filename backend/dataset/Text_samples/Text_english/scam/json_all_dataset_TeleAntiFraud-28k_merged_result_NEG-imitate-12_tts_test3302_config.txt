@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the agricultural bank's customer manager, Lee Huai.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we recently launched a special discounted loan product. You can enjoy the lowest interest rate of 0.02% if you purchase social security or public savings in Dongguan.
+Speaker2: The sound is good, but I don't need a loan now.
+Speaker1: Oh, that's how it is. But, if you're interested, you can first take a look. I can send you a link, which explains the loan conditions and process in detail.
+Speaker2: Okay, I can take a look.
+Speaker1: Great, I'll send it to you now. Additionally, if you have any other financial needs, such as investment in wealth management, you can learn more information through this link.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. By the way, you can also add my WeChat, which will be convenient for future communication.
+Speaker2: Okay, I will add your WeChat. Thank you.

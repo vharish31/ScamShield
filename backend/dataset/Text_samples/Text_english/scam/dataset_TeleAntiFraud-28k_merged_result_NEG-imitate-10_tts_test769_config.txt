@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the client manager of Agricultural and Commercial Bank, we recently launched a special promotion loan project, are you interested in learning more?
+Speaker2: Loan? I'm doing small business, isn't the bank's loan threshold too high?
+Speaker1: This is the case, our current loan project is specifically targeted at small micro enterprises, the threshold is very low, no collateral, interest is also very favorable. You can consider it.
+Speaker2: How do I apply? It sounds good.
+Speaker1: It's very simple. Just download our bank's exclusive app and follow the instructions. I can send you a download link, very convenient.
+Speaker2: Okay, I'll try. You send the link.
+Speaker1: Okay, just a moment, I'll send it over to you right away. Additionally, for safety reasons, you'll need to provide your ID number and bank account, so we can conduct identity verification.
+Speaker2: Okay, then I'll check the links later.
+Speaker1: Okay, please download the app and fill out the information after receiving the link. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

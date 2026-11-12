@@ -1,0 +1,9 @@
+Speaker1: Hello, I am Li, the waiter at the food square, did you know if you are still satisfied with our menu items?
+Speaker2: That's great, your service is very punctual.
+Speaker1: Great, thank you for your approval. By the way, we have new dishes to introduce next time you come, do you want to try them?
+Speaker2: What do you recommend?
+Speaker1: Our new seafood platter and beef burger are both very popular, you can try them.
+Speaker2: Okay, next time I'll definitely try it. What are your business hours?
+Speaker1: Our business hours are from 11 am to 10 pm every day, and they are extended to 11 pm on weekends.
+Speaker2: Okay, thank you for your information. See you later.
+Speaker1: No problem, see you later, wish you a happy day!

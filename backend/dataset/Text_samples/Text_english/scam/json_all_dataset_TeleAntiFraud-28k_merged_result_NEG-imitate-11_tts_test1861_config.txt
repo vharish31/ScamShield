@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of Agricultural and Commercial Bank, and I am calling to recommend a special loan product to you today.
+Speaker2: Loan products?
+Speaker1: Yes, our loan product interest rate is very low, only need 0.02, and the process is simple, approval is fast.
+Speaker2: Two yuan? It sounds good, but I'm a bit tight-handed right now.
+Speaker1: No problem, our loan product is perfect for helping you solve your cash flow problem. Just download our app, fill out some basic info, and you can quickly apply.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, after downloading the app, you can easily handle the loan procedures. If you don't want to download, I can send you a link, you can operate it directly in the browser.
+Speaker2: Okay, let me try.
+Speaker1: Great, I'll send the link to your phone right away. Just click the link and follow the instructions to complete the application.
+Speaker2: Okay, thank you.

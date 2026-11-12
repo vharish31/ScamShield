@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Happy Restaurant, I am server Zhang, you ordered a private room in our restaurant before, do you want to confirm if you will come to dine tonight?
+Speaker2: Hey, yes, I will come.
+Speaker1: Are there any dishes that you need us to prepare in advance?
+Speaker2: Hey, I want to reserve a beef stir-fry and a steamed fish.
+Speaker1: Okay, beef stir-fry and steamed fish, we will prepare them in advance. Is there anything else needed?
+Speaker2: Let's add another pickled cucumber.
+Speaker1: Okay, I noted down pickled cabbage too. Do you need to arrive early? We have free parking service here.
+Speaker2: I arrived around 7:30, the parking service was great, thank you.
+Speaker1: Okay, we'll be at the restaurant at 7:30. If there are any changes, please call us ahead of time.
+Speaker2: Okay, thank you, see you later.

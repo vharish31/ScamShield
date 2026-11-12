@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Liu, I want to consult your bike rental service in your store.
+Speaker2: Hello, little Liu, I am an employee of the store, what can I help you with?
+Speaker1: Can you tell me about your rental price and do you require a deposit?
+Speaker2: The rental price for self-bicycles here is five yuan per hour, and the deposit is two hundred yuan. However, the deposit will be fully refunded upon returning the bicycle.
+Speaker1: Uh, this way, if I want to rent a whole day, is there a discount on the price?
+Speaker2: Yes, the monthly rent is 50 yuan, and the deposit is 200 yuan.
+Speaker1: Okay, can I book a car in advance for tomorrow afternoon around 2 pm?
+Speaker2: Sure, you can call us before you arrive to confirm, we'll prepare bikes for you.
+Speaker1: Okay, I'll note it down and get in touch with you guys in advance tomorrow. Thank you for your help.
+Speaker2: No problem, if you have any other questions, please feel free to consult anytime. Wish you have a happy cycling experience.

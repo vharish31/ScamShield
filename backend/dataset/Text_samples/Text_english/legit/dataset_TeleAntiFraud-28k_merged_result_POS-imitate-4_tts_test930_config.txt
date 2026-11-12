@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Can you tell me what time your store closes?
+Speaker2: Can I help you with anything at our store, which closes at nine in the evening?
+Speaker1: Oh, that makes me feel better. My friend recommended your family's cake, I want to buy a slice and take it back home.
+Speaker2: Our cake is really popular, what flavor do you want?
+Speaker1: I want a chocolate flavor.
+Speaker2: Okay, we have chocolate cake here, what time are you coming to pick it up?
+Speaker1: Can I come around seven in the evening?
+Speaker2: Okay, come at around seven, we'll be ready for you.
+Speaker1: Okay, thank you. I'll come over at the time.
+Speaker2: Please wait for your arrival, goodbye.

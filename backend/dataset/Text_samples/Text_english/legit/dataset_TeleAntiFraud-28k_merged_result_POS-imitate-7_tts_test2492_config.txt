@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I saw your pet store online, and I want to ask about dog grooming issues.
+Speaker2: Hello, I'm very happy to provide you with service. Is it about specific services for dog grooming or do you want to schedule an appointment?
+Speaker1: Can you tell me about the projects in the beauty services that you provide?
+Speaker2: Our beauty services include bathing, trimming hair, filing nails, cleaning ears, and cleaning teeth. The service content may vary based on the breed and size of the dog.
+Speaker1: What about the price?
+Speaker2: The price varies depending on the service items and the size of the dog. For example, the basic grooming set for a small dog is around 200 yuan, for a medium dog it's around 250 yuan, and for a large dog it's around 300 yuan.
+Speaker1: I have a Labrador Retriever, a large breed dog. What time do we schedule the appointment?
+Speaker2: Okay, Labrador is a large dog. You can choose any workday at our store between 9am and 5pm. Which time slot would you like to book?
+Speaker1: Can I meet you at 10 am on Saturday morning?
+Speaker2: I can make an appointment for you on Saturday at 10 am. Please provide your contact information so we can confirm the appointment.
+Speaker1: My phone number is 13800138000, thank you.
+Speaker2: Okay, I have recorded your information. This Saturday at 10 am, we will meet at our pet store. If there are any changes, please contact us in advance. Thank you for your appointment, goodbye.

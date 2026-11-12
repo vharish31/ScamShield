@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw your store has a smartwatch, can you tell me more about it?
+Speaker2: Okay, this smartwatch can monitor heart rate, blood pressure, and sleep quality monitoring function. Which information do you want to know?
+Speaker1: How long does its battery last?
+Speaker2: This watch has a battery life of about seven days when used normally. If you frequently use GPS or other functions, it may be shorter.
+Speaker1: What is the price of that?
+Speaker2: The current price of this smartwatch is 999 yuan, and we now have a discount activity, buying can enjoy a 100 yuan discount.
+Speaker1: Sounds good, I'll think about it. Do you support cash on delivery?
+Speaker2: Of course, after you place an order, we will ship it to you within one workday, and you can verify the goods upon delivery before paying.

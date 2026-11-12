@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Liu, I ordered a cake at your store, said it would be delivered today, why hasn't it been delivered yet?
+Speaker2: Hello, little Liu, I am the customer service staff at the store, I'm sorry to cause you inconvenience, it's possible that there were some delivery issues. Can you tell me your specific address? I'll check the delivery situation.
+Speaker1: I am at 22 Happiness Road, Happiness Small Community, 3rd Floor, Unit 402, Room 402.
+Speaker2: Okay, I'll check. Hey, Liu Xiao, your cake is on delivery now, it's estimated to arrive in 20 minutes, can you accept it?
+Speaker1: Okay, but next time you guys be on time, today is my friend's birthday, cake is very important.
+Speaker2: I understand very well and I'm very sorry to have caused inconvenience to you and your friend. We will definitely pay attention and ensure timely delivery this time. Happy birthday to you and your friend!
+Speaker1: Thank you, and do you have birthday candles and birthday hats in your store?
+Speaker2: Yes, we provide free birthday candles and birthday hats, you can order them together with the cake.
+Speaker1: Then I ordered it together, remember to add it up for me.
+Speaker2: Okay, I have noted down for you that the birthday candles and birthday hat will be delivered with the cake. Thank you for your order, wish you a happy birthday to your friend!

@@ -1,0 +1,10 @@
+Speaker1: Hello, do you have any snowflake cars available for rent here?
+Speaker2: How long do you want to rent it for?
+Speaker1: About a week.
+Speaker2: Okay, do you need to pick up your car from our store?
+Speaker1: Yes, I plan to cross from the train station side.
+Speaker2: Okay, we have Wi-Fi near the train station. What time are you arriving?
+Speaker1: I'll arrive around three in the afternoon.
+Speaker2: Okay, you can come directly when you arrive, we will prepare the vehicle for you.
+Speaker1: Okay, can I come directly when I arrive?
+Speaker2: Okay, you can come directly when you arrive.

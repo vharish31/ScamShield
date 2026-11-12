@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: What do you recommend for a new phone?
+Speaker2: Of course, we have several popular phones here, such as the latest iPhone and Huawei, which are quite popular. Do you have any special requirements?
+Speaker1: I mainly use it for taking photos and watching videos. My budget is approximately around three thousand.
+Speaker2: You may consider this Huawei nova series, the camera performance is great and the price is within your budget.
+Speaker1: How long does the battery of this phone last?
+Speaker2: This phone's battery capacity is 4000mAh, it should be enough for daily use.
+Speaker1: Can I try it, do you guys have any fresh produce now?
+Speaker2: You can either come to the store directly to see the goods or I can deliver them to you.
+Speaker1: Can you send me the address so I can check it out at the store?
+Speaker2: Okay, our address is Shanghai City Xuhui District Xiuxi Road 100, when can you come?
+Speaker1: Can I go over there in the afternoon around two o'clock tomorrow?
+Speaker2: Okay, I'll wait for you at the store at 2 pm tomorrow.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

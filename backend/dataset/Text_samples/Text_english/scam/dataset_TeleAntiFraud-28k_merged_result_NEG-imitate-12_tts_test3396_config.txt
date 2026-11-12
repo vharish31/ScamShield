@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am Lee manager, this is the customer service center of Huashang Bank.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed that you recently applied for a loan at our bank, but it seems like the final review hasn't been completed yet.
+Speaker2: Oh, really? I did apply, but I haven't received any notifications yet.
+Speaker1: Okay, to speed up your loan approval process, we need some additional information from you.
+Speaker2: What information do you need?
+Speaker1: Please upload your identity information and bank flow data through the link we provide.
+Speaker2: Okay, now I'm going to upload.
+Speaker1: Thank you very much for your cooperation. After uploading, we will process it quickly. If you have any questions, please contact me directly.
+Speaker2: Okay, thank you, Li Jing Manager.

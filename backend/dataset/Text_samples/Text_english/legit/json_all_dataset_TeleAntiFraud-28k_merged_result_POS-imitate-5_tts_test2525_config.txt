@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you consulting about mobile phone repair?
+Speaker1: Yes, my phone screen is broken, can you ask about the repair cost and how long it will take?
+Speaker2: What kind of phone model is it?
+Speaker1: It's Xiaomi Mi 9.
+Speaker2: The cost of changing the screen on a Xiaomi Mi 9 is approximately 1,200 yuan and it takes about a day to complete, provided all parts are available.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: Yes, we need to make a reservation in advance, so we can ensure the parts are ready, and you won't have to wait for a long time.
+Speaker1: When can I come?
+Speaker2: What's the plan for tomorrow afternoon at 3 PM? We're pretty flexible here with time.
+Speaker1: Can I come directly at three in the afternoon tomorrow?
+Speaker2: Yes, you come directly at the time, we prepare in advance, when you come, we modify.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome. Feel free to contact us anytime if you have any questions. Have a happy life. Goodbye.
+Speaker1: Goodbye.

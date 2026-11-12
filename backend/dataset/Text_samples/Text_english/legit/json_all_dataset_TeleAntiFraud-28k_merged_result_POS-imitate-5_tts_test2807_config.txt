@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm waiting for you at the community door.
+Speaker2: Okay, I'm going now, are you at the south gate?
+Speaker1: Yes, the south gate is quite spacious, easy to find.
+Speaker2: I see the south gate, but there are many cars at the door, where are you?
+Speaker1: Walk a little to the left, there's a small garden there, I'll wait for you by the garden.
+Speaker2: Okay, I see it, is the shirt you're wearing blue?
+Speaker1: Okay, I'm wearing a blue shirt, hurry up.
+Speaker2: Okay, I'll go over there now, you wait for me a moment.
+Speaker1: Okay, be careful, pay attention to safety on the road.
+Speaker2: Thank you, I arrived, goodbye!

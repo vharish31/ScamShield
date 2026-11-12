@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Hey, just came out of the supermarket, where are you?
+Speaker2: I'm waiting for you at the park gate, hurry up and come over.
+Speaker1: Okay, I'll go over there now, you wait for me a moment.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Can you see the location I sent you?
+Speaker2: I saw him at the west gate of the park.
+Speaker1: I'll be there in about ten minutes, don't leave.
+Speaker2: Okay, I'm waiting for you here.

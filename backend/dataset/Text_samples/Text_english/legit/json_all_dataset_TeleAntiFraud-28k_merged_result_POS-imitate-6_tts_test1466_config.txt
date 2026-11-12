@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I made an appointment for a haircut on Saturday, can you confirm the time?
+Speaker2: Hello, little Zhang, I am the customer service of the hair salon, your appointment time is on Saturday afternoon at 3 pm, right?
+Speaker1: Yes, can I start earlier if I arrive early?
+Speaker2: Sure, if you arrive early, we will do our best to serve you early.
+Speaker1: That's great, I'll probably arrive at around 2:40, is that okay?
+Speaker2: Two forty is fine, just come directly when the time comes.
+Speaker1: Sure, do you have a minute to introduce me to the new hair oil at your store?
+Speaker2: Of course, our newly launched hair oil is extracted from natural plants, suitable for all hair types, and can effectively nourish the hair, improve dryness and split ends.
+Speaker1: That sounds good, my hair has been dry lately, can you add it to the service?
+Speaker2: Okay, we will add hair oil to your service at the specified time. We hope you will be satisfied.

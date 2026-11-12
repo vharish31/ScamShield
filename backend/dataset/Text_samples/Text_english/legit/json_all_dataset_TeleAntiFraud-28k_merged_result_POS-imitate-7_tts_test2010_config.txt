@@ -1,0 +1,12 @@
+Speaker1: Hello, do you have any new sports shoes?
+Speaker2: Hello, do you want what color and size of the new sports shoes we just got?
+Speaker1: I want black, size 42.
+Speaker2: Okay, black 42, I'll take a look at the inventory. Wait a minute.
+Speaker1: Okay, can you help me?
+Speaker2: Do you want to pay online for the black 42 size or try it on in store?
+Speaker1: Let's try on some clothes first when I arrive at the store.
+Speaker2: Okay, our store is on the commercial street in the city center, open from Monday to Sunday from 10 am to 9 pm, what time is convenient for you to come?
+Speaker1: Can I go over there around three in the afternoon tomorrow?
+Speaker2: Okay, tomorrow afternoon at three o'clock, I'll be waiting for you at the store.
+Speaker1: Okay, thank you. See you tomorrow.
+Speaker2: No problem, see you tomorrow.

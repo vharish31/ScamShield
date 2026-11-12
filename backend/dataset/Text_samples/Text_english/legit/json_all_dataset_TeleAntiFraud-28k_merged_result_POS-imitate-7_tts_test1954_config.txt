@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to consult your gym membership card.
+Speaker2: Hello, I'm very happy to serve you. Which kind of membership card would you like to know about?
+Speaker1: How much does that month card cost?
+Speaker2: The monthly fee for the gym is 288 yuan, which includes the use of all fitness facilities.
+Speaker1: Can I try it out once first?
+Speaker2: Of course, we provide a free trial lesson, when is it convenient for you to come?
+Speaker1: Can I be at three in the afternoon on Saturday this week?
+Speaker2: Okay, Saturday afternoon at three o'clock, we'll be waiting for you here.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: Please book a day in advance, so we can arrange the right coach for you.
+Speaker1: Okay, I'll contact you again on Friday to confirm.
+Speaker2: No problem, looking forward to your arrival. Goodbye!

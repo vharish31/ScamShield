@@ -1,0 +1,12 @@
+Speaker1: Hey, are you still hiring servers at the store?
+Speaker2: Hello, have you recently seen any job recruitment information here?
+Speaker1: I saw my dad's colleague last week at work, who said your store is hiring.
+Speaker2: Hmm, that information is still valid, you can try it.
+Speaker1: What do I need to bring?
+Speaker2: Bring your ID and resume.
+Speaker1: Okay, what are your working hours like?
+Speaker2: Our school has two shifts, the early shift is from 10 am to 7 pm, and the late shift is from 2 pm to 11 pm.
+Speaker1: When can I come for the interview?
+Speaker2: Come over at 2 pm tomorrow, our manager will arrange an interview.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

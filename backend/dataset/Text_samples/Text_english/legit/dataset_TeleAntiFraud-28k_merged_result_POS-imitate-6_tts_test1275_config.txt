@@ -1,0 +1,11 @@
+Speaker1: Hey, hi, I'm the city convenience store, the smartwatch you consulted before still has stock, are you still considering it?
+Speaker2: Hey, are you still considering, but I recently saw a new one, don't know if you guys have it?
+Speaker1: We have just launched a new model, it's the latest one, with stronger functionality and optimized appearance, which one do you like better?
+Speaker2: How much does the new one cost?
+Speaker1: The price of the new product is 2999 yuan, which is 500 yuan more expensive than the old product, but the performance has greatly improved, would you like to take a look?
+Speaker2: Hmm, are there any discounts on the old models?
+Speaker1: The old model is currently on sale, the original price is two thousand four hundred ninety-nine yuan, now only two thousand two hundred ninety-nine yuan, and you will also get a one-year maintenance service, what do you think?
+Speaker2: The extended warranty service sounds good, can I go to the store in two days and see if there's a better price?
+Speaker1: Sure, if you decide to buy, we can apply for some additional discounts. You can come try it out if you have some free time these few days.
+Speaker2: Okay, I'll take a few days off to go out, thank you.
+Speaker1: No problem, I'm looking forward to your arrival, feel free to contact me anytime if you have any questions.

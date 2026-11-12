@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me about your store's return and exchange policy?
+Speaker2: Of course, our return policy is that the product must be returned within seven days of receipt, with the original packaging intact and undamaged, and can be exchanged.
+Speaker1: What if the product has quality issues?
+Speaker2: If there are any quality issues, we will provide free replacement or refund processing after verification.
+Speaker1: Okay, what documents do I need to provide?
+Speaker2: Please provide purchase certificates, such as order numbers and product photos, to verify the situation.
+Speaker1: Understood, there's another question, who should bear the return shipping fee?
+Speaker2: If the return is due to product quality issues, we will bear the shipping costs; otherwise, you are responsible for the shipping costs.
+Speaker1: Okay, thank you for your answer. No problem.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Wishing you a happy life!

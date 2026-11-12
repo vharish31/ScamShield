@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank, have you recently applied for a loan with us?
+Speaker2: Hello, yes, I applied, but I haven't received any messages yet.
+Speaker1: Okay, I found it. Your application has been approved, but you need to pay a processing fee first, which will enable us to disburse the funds.
+Speaker2: How much money do I need to pay the fees?
+Speaker1: Yes, according to our regulations, you need to pay a processing fee of three thousand yuan in advance, which is to ensure the safety of the loan. You can pay through our official app.
+Speaker2: Official app? How do I know if this is real?
+Speaker1: You can search for our official app in the app store, it's called "Work Commerce Bank Loan Service", download it and you can transfer money directly, it's very safe.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact me anytime. My phone number is 4011010101. I wish your loan goes smoothly.
+Speaker2: Okay, thank you.

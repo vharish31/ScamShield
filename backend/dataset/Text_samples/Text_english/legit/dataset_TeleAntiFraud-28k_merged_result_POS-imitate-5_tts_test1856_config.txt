@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I assist you today? Have you placed an order on our platform before, and do you have any feedback on our service?
+Speaker2: Oh, your service is great, just a bit late last time when you delivered the food.
+Speaker1: Thank you very much for your feedback. We have strengthened our delivery personnel's scheduling. By the way, do you have any new takeout needs recently? We now have many promotional activities.
+Speaker2: Hey, I've been pretty busy lately, so I might need to order takeout. Do you have any recommendations?
+Speaker1: There are several highly rated restaurants on our platform, such as Lao Beijing Stir-Fry Noodles and Sichuan Xiaochao, with a variety of dishes and delicious flavors. You can try them out.
+Speaker2: Okay, I'll take a look. Right, do you guys have any discount activities?
+Speaker1: Yes, we now have activities with full fifty minus ten, full one hundred minus twenty, and new users can get a fifty-dollar big-amount discount coupon.
+Speaker2: That's a great deal, I'll use it next time I order food. Thank you for your recommendation.
+Speaker1: No problem, feel free to contact us anytime if you have any questions. Enjoy your meal, goodbye.
+Speaker2: Okay, bye.

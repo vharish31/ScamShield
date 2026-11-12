@@ -1,0 +1,10 @@
+Speaker1: Hey, did you arrive?
+Speaker2: Not yet, I'm at the subway station, probably need ten minutes.
+Speaker1: Okay, just be careful, don't hurry on the road.
+Speaker2: Okay, I know. You go first, give me a message when you arrive.
+Speaker1: Okay, just be careful on the road and call me when you arrive.
+Speaker2: Okay, you too, don't rush.
+Speaker1: Do you know how to walk to that coffee shop?
+Speaker2: I know, after getting off the subway station, walk to the right and you'll reach there after crossing two red lights.
+Speaker1: Okay, thank you.
+Speaker2: No problem, see you later.

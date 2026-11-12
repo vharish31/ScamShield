@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, can I help you with anything?
+Speaker1: Hi, I'm little Zhang. Can you tell me about your restaurant's special dishes and business hours?
+Speaker2: Hello, little Zhang. Our restaurant special dishes are red braised pork, steamed fish and handmade noodles. Our business hours are from 10 am to 10 pm.
+Speaker1: The sound is good, I want to reserve a window seat for around 7 pm tomorrow night.
+Speaker2: Okay, the window seat at seven o'clock tonight has been reserved for you. Just come directly when you arrive.
+Speaker1: Okay, thank you. Got it, do you have a parking spot to provide?
+Speaker2: Yes, our restaurant has a free parking lot next to it. You can directly drive over.
+Speaker1: Okay, I'll go there tomorrow. And do you provide delivery service?
+Speaker2: We indeed provide delivery service, you can place an order through our official website or delivery platform.
+Speaker1: I know, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

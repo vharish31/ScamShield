@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I saw a Huawei phone in your store. Can you give me a detailed introduction?
+Speaker2: Hello, this Huawei phone is quite popular here, it has an eight-core processor, a six-inch full-screen, eight-plus-twelve memory, and the photo effect is great.
+Speaker1: What is the price of this phone?
+Speaker2: This phone is currently priced at 2500 yuan, our store also has some promotional activities, you can buy a phone and also get a phone case and screen protector film.
+Speaker1: How is the battery life of this phone?
+Speaker2: This phone's battery capacity is 4000mAh, it can be used normally for a day without any problems, and if it is used lightly, it can reach two days.
+Speaker1: That's great, I need a phone with good battery life. Do you have any in stock now?
+Speaker2: Yes, we have fresh produce in the store now, you can come directly to pick it up, or choose to have it delivered by express.
+Speaker1: Can I directly come and pick it up? Where is your store location?
+Speaker2: Our store is located on the commercial street in the city center, specifically at number 108 on the commercial street. If you come, you can navigate to this address.
+Speaker1: Okay, I should be there in about half an hour. Are you guys still open at this point?
+Speaker2: Our store's business hours are from 9am to 9pm, you'll definitely be fine if you come half an hour later.

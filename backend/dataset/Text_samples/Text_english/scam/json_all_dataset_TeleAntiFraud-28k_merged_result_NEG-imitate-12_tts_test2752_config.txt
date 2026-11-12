@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao, the customer service representative for the same city express delivery.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we found out that you recently had a package lost in transit, to compensate for your loss, we need to handle the refund process for you.
+Speaker2: Is that so? How can it be handled then?
+Speaker1: Please provide your bank card number so that we can directly deposit the refund into your account.
+Speaker2: Okay, my card number is...
+Speaker1: Okay, we also need you to provide a verification code. This verification code is sent to your phone by our system to verify your identity.
+Speaker2: Okay, I received it. The verification code is...
+Speaker1: Thank you very much, we have already processed it, the refund will be in your account within 24 hours, please pay attention to check it.
+Speaker2: Okay, thank you.

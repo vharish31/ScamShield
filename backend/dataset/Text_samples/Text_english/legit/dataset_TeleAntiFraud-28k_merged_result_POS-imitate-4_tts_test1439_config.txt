@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang. I heard your restaurant's spicy stir-fry is really hot recently. Can you tell me your business hours?
+Speaker2: Hello, little Zhang, I am server Li, our restaurant business hours are from 10 am to 9 pm, on weekends it will be extended to 10 pm.
+Speaker1: That's great, I want to go eat around 7 pm tomorrow night. Do I need to make a reservation in advance?
+Speaker2: No reservation is needed, but it's crowded on weekends. You can call half an hour in advance to confirm the location.
+Speaker1: Okay, I'll call you at six thirty tomorrow to confirm. Also, do you have any special recommendations for the spicy stir-fry?
+Speaker2: Our restaurant specialties include beef dumplings, duck blood and tofu, all of which are must-haves for customers, with a very delicious taste.
+Speaker1: I'm so eager to try what you're saying. I'll see you tomorrow.
+Speaker2: Okay, little Zhang, see you tomorrow, welcome to come!
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye.

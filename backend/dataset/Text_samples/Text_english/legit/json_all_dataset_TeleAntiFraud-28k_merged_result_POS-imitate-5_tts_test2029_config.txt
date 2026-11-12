@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Hey, hi, I'm at home now, how are you?
+Speaker1: Hey, are you free to go out now? I want to invite you for dinner tonight.
+Speaker2: Sure, where do you want to eat?
+Speaker1: Let's check out this new restaurant that just opened, it's not bad.
+Speaker2: Where is that restaurant?
+Speaker1: Let's meet up at the square near the city center. I'll drive there to pick you up.
+Speaker2: That's great, what time will you pick me up?
+Speaker1: 6:30 is okay?
+Speaker2: Sure, I'll be at the community door at 6:30 to meet you.

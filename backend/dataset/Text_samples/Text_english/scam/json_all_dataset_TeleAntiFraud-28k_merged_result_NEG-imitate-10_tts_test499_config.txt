@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of construction bank, my name is zhang, you can call me small zhang.
+Speaker2: Hello, Small Zhang Manager.
+Speaker1: Our bank recently launched a special promotion for a low-interest loan project. All you need is a stable job to apply.
+Speaker2: Really? I really need some cash flow recently.
+Speaker1: Yes, this project is very suitable for you. You just need to provide some basic personal information, and we can proceed with the initial review.
+Speaker2: What materials do we need to prepare?
+Speaker1: You just need to provide your ID, salary slip, and bank statement. For convenience, you can directly click on the link I send you and fill in the relevant information.
+Speaker2: Okay, I'll click on the link.
+Speaker1: Okay, click on the link and follow the instructions. If you have any questions, feel free to contact me.
+Speaker2: Thank you, little Zhang manager.

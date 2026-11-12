@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm contacting you through the platform. I want to inquire about your car rental service.
+Speaker2: Hello, what information do you want to know about? Car type, price, or rental process?
+Speaker1: I'd like to know more about the price and car models, I plan to go on a self-driving weekend trip with my family.
+Speaker2: Okay, we have three types of cars here: economic, comfortable, and luxury. The prices are 200 yuan, 300 yuan, and 500 yuan per day.
+Speaker1: What are the comfortable car models? Can you give a detailed explanation?
+Speaker2: Comfortable car types mainly include sedans and SUVs. Sedans have family car models suitable for family travel, while SUVs are more suitable for outdoor travel with more space and higher comfort.
+Speaker1: I prefer SUVs, do you guys have any available cars?
+Speaker2: There are still a few SUVs available for booking. You can pick up the car directly this weekend.
+Speaker1: Do I need to pay the deposit in advance?
+Speaker2: Yes, you need to pay a deposit of 200 yuan to confirm the reservation successfully. You can complete the payment on the platform or at the store.

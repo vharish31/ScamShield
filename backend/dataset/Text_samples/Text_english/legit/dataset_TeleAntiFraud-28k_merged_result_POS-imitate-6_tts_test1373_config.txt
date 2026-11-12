@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I just moved, can you tell me about the delivery service here?
+Speaker2: Hello, the express service here is quite convenient, several major express companies have service points, do you have any specific needs?
+Speaker1: Is there any restriction on sending packages in the evening or on weekends?
+Speaker2: Usually, courier companies deliver in the evening between 7pm and 8pm. On weekends, most courier points are open, so you can just come over. However, it's best to call and confirm first.
+Speaker1: If I want to send some fragile items, such as ceramics, what should I pay attention to?
+Speaker2: For fragile items, it is recommended to choose specialized packaging services, which are usually provided at quick delivery points. This way, it is more secure. Additionally, remember to choose insurance services, so there is a guarantee in case of any issues.
+Speaker1: What is the approximate cost of postage?
+Speaker2: Postage is determined by the weight of the items and the destination, fragile items require special packaging and may be slightly more expensive. You can bring them over, we will weigh them on-site and give you a specific quote.
+Speaker1: Okay, when can I bring it over? What's the specific address?
+Speaker2: The address is Happiness Road 123, right next to Happiness Square, very easy to find.

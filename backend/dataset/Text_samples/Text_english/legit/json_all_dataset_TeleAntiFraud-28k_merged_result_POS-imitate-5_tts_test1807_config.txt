@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Lee Ming, the guy who bought a coffee machine at your store yesterday, it seems to have some problems, can I consult with you about it?
+Speaker2: Hello, Li Ming, I am customer service representative Xiao Wang, can you tell me specifically what the issue is?
+Speaker1: After starting the coffee machine, the water in the tank did not heat up, and the coffee could not be brewed.
+Speaker2: This situation may be due to the incorrect installation of the water tank or the failure of the heating element. You can first check if the water tank is installed correctly.
+Speaker1: I have already checked, the water tank is well-equipped.
+Speaker2: It might be a problem with the heating element. For your safety, we recommend bringing your coffee machine back to our store and let us check it out.
+Speaker1: Okay, when can I go over?
+Speaker2: Can you come over this afternoon? We can reserve a repair spot for you.
+Speaker1: Can we meet at four o'clock this afternoon?
+Speaker2: You can come to our store at 4 o'clock, the address is happiness road 100th number.

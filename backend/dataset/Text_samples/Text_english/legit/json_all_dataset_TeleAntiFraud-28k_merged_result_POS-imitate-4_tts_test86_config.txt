@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm little Li. Just now a customer consulted about BMW three series. Now I'm transferring the customer to you.
+Speaker2: Okay, thank you, I'll take the customer's phone call in a moment.
+Speaker1: Are you free now? The customer is a bit busy and might need to wait a bit, so they're asking if you have any free time.
+Speaker2: No problem, I have some time, wait for customer's phone call.
+Speaker1: Okay, I'll hang up first, and you can take over when the customer has some time.
+Speaker2: Okay, thank you.
+Speaker1: Got it, the customer asked about BMW 3 series maintenance policy, prepare some data.
+Speaker2: Okay, I will prepare the relevant data. Thank you for reminding me.
+Speaker1: Okay, keep your phone open, I'll take over when the customer has time.
+Speaker2: Okay, thank you, please you.

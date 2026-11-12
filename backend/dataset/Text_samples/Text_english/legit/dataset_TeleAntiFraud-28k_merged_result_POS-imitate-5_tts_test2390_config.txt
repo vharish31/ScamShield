@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I saw a house for rent on that rental house website, and I want to know more about it.
+Speaker2: Hello, yes, we do have a house for rent here, what information are you interested in?
+Speaker1: Can you tell me if the drainage system of this house is independent, and what is the general situation of the house?
+Speaker2: This house's drainage system is independent, and it won't mix with other households. The house is a one-room one-living-room, with good lighting and air conditioning and hot water heater.
+Speaker1: How much is the rent for this house? And how is the deposit calculated?
+Speaker2: Rent is 2500 yuan per month, and the deposit is two months' worth of rent, which is 5000 yuan.
+Speaker1: Okay, can I see the room?
+Speaker2: Okay, when do you have time to come see the house?
+Speaker1: Can I have some time in the afternoon around two o'clock tomorrow?
+Speaker2: Okay, I'll be at my house at 2 pm tomorrow. The address is XX road XX number.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

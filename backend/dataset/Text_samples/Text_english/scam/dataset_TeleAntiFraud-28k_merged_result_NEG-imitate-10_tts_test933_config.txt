@@ -1,0 +1,11 @@
+Speaker1: Hello, is this Shanghai Huaxin Science and Technology Co., Ltd.?
+Speaker2: Yes, where are you?
+Speaker1: Hello, I am the manager of the investment department at Tianhui Investment in Shenzhen, and we have a very good investment opportunity recently. Would you be interested in learning more?
+Speaker2: Invest opportunity? Can you give specific details?
+Speaker1: Of course, our current project is a high-tech project, and we predict that the annual return rate can reach 20%, which has great potential.
+Speaker2: Sounds good, but how to join in?
+Speaker1: It's very simple. Just download our official app, register an account, and then you can view detailed investment projects and make investments on our platform.
+Speaker2: Do you want to download the app? How do I know this is your official app?
+Speaker1: You can download it through our official website, or I can send you a download link directly, ensuring safety and reliability.
+Speaker2: Okay, I'll think about it. If I have any questions, how can I contact you guys?
+Speaker1: You can contact us through the customer service system in the app or directly call our customer service hotline. The phone number is 07558601100.

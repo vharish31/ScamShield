@@ -1,0 +1,15 @@
+Speaker1: Hello, I am the customer manager of the transportation bank, Li.
+Speaker2: Hello, Li Manager.
+Speaker1: We noticed you've been looking for loan opportunities lately. We have a product here that's perfect for you, no collateral, low interest rate, and fast disbursement.
+Speaker2: Really? I really need to turn over some cash recently.
+Speaker1: Yes, this product is very suitable for small and medium-sized enterprises. You can first download our app, register and fill in some basic information.
+Speaker2: Okay, download the app, it sounds good.
+Speaker1: Thank you very much for your cooperation. After downloading, you can see detailed information about the loan products on the app. If you have any questions, please feel free to contact me anytime.
+Speaker2: Okay, I will download it quickly.
+Speaker1: Additionally, to speed up the approval process, you need to pay a small fee for the service first.
+Speaker2: How much is the service fee?
+Speaker1: Just need 500 yuan, this will ensure your application is prioritized.
+Speaker2: Okay, how should I pay?
+Speaker1: You can pay directly through our app, or I can send you a payment link.
+Speaker2: Can you send me a payment link?
+Speaker1: Okay, I'll send it to you right away. Once the payment is successful, we'll immediately start processing your application.

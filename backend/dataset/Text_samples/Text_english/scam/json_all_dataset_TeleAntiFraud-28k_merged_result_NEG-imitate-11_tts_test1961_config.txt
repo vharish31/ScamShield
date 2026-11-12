@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm small Li, this is the customer service representative of China Mobile, we noticed your recent network usage has been abnormal, there might be a risk of being charged maliciously, do you want to know more?
+Speaker2: Hey, do you have this kind of thing?
+Speaker1: Yes, we found that some users were installed with additional services without their knowledge, resulting in additional costs. To prevent this situation, we recommend downloading our official safe check software, which is free to check and solve these problems.
+Speaker2: Do you want to download software?
+Speaker1: Yes, this software is specially designed for our users, ensuring your account safety. Simply click the link to download and install, then follow the instructions.
+Speaker2: Can you send me the link?
+Speaker1: Okay, just a moment, I'll send you the link via text message. Once you receive it, please download and install immediately.
+Speaker2: Okay, I'm waiting.
+Speaker1: Thank you for your cooperation. If you have any questions, please feel free to contact me at any time. I hope our service can help you solve your problems.
+Speaker2: Okay, thank you.

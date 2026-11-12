@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Liu?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative from Commercial Bank, we noticed that you have recently made a purchase on our platform, but due to logistics issues, your order may require a refund processing.
+Speaker2: Oh, really? Then what do we do?
+Speaker1: To ensure your rights, we need you to cooperate and complete some information verification. First, can you provide your name and phone number?
+Speaker2: My name is Liu Qiang, phone number is 13812345678.
+Speaker1: Okay, Liu Qiangshēng, the information is correct. Now, please click on the link we sent and fill out the refund application form, so we can process it quickly.
+Speaker2: Okay, I understand.
+Speaker1: Okay, the link has been sent to your phone. Please check it out. After you fill it out, we'll process it quickly. We estimate that the refund will be in your account within two hours.
+Speaker2: Okay, thank you.

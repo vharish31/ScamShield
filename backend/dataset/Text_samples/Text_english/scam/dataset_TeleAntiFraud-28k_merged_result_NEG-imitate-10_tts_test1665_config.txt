@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you?
+Speaker1: I am the customer manager of the Dongjing Bank, Li Xiaoling, there is a very good loan project that I recommend to you now, the interest rate is as low as 2.5%, and the approval and disbursement are both fast, do you have any recent financial needs?
+Speaker2: Can you give me a detailed explanation of how to get a capital rotation?
+Speaker1: Of course, as long as you provide some basic personal information, we can apply for you. For your convenience, I have a personal link here, just click on it to apply directly.
+Speaker2: How do I get this link?
+Speaker1: Please provide a valid phone number, and I will immediately send the link to your phone, and you can start applying after clicking the link.
+Speaker2: Okay, let me try. My phone number is 8888888888.
+Speaker1: Okay, wait a moment, the link has been sent to your phone, please click on it.
+Speaker2: Okay, I'll go right away.

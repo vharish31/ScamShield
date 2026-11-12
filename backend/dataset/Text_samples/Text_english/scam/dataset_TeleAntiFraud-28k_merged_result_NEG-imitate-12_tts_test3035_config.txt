@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Who are you?
+Speaker1: Hi, I'm a customer service representative at China Construction Bank Consumer Finance. We noticed that you've recently searched for loan information on our platform. Would you like to know if you have any loan needs?
+Speaker2: Loan? I'm currently in a good economic situation, so I don't have this plan yet.
+Speaker1: Okay, that's great. But we have a special discounted loan product here that only requires some basic information for quick approval.
+Speaker2: What is the interest rate on your account?
+Speaker1: Our annual interest rate is very low, and there are several repayment options for you to choose from. If you're interested, please fill out an application form, and we'll prepare detailed information for you on this side.
+Speaker2: Where is your application form?
+Speaker1: Just click on the link I sent you and you can fill it out online. It's very convenient and quick. And we guarantee your information is safe.
+Speaker2: Okay, let me try it out.

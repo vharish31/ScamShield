@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of some certain express company. Your package was accidentally lost during transportation, and we are very sorry for this.
+Speaker2: Oh, true or false, I just got a notification that my package has been shipped.
+Speaker1: Yes, we did encounter some problems, but to make up for you, we can apply for a compensation fund.
+Speaker2: How to handle the compensation money?
+Speaker1: It's simple, just click on the links we provide and fill out some personal information to complete the application.
+Speaker2: Can you guarantee that this link is safe?
+Speaker1: Of course, this link is officially provided by us and is absolutely safe and reliable. If you have any concerns, you can also confirm directly with our customer service through the phone.
+Speaker2: Okay, let me try.
+Speaker1: Great, here's the link. Click it and follow the instructions. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

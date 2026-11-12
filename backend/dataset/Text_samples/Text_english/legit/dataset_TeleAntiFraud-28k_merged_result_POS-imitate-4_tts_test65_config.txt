@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Ming?
+Speaker2: Hello, I am Xiaoming, what do you have?
+Speaker1: Hey, I'm little Zhang, you bought a phone from our store last week, now there are some after-sale issues that need to be handled.
+Speaker2: Oh, really? I remember buying a phone, but I'm using it well now and haven't found any problems.
+Speaker1: Is that so, we have a recent customer service activity, you can check and maintain for free, do you have time?
+Speaker2: That's great, can I come over in the afternoon tomorrow?
+Speaker1: Okay, tomorrow afternoon there will be fewer people at the store, what time do you think you'll come?
+Speaker2: 3 o'clock, right? That's convenient?
+Speaker1: 3 o'clock is fine, see you tomorrow, the address is the old place, remember to bring your phone and purchase certificate.
+Speaker2: Okay, thank you, see you tomorrow.

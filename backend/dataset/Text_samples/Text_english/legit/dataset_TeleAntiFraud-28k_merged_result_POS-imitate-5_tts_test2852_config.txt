@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm little king, want to ask about your restaurant vegetarian menu.
+Speaker2: Hello, little king, I'm very happy to serve you. Our restaurant has a lot of vegetarian dishes, do you have any special requirements?
+Speaker1: Do you know of any vegetarian set menu that can accommodate multiple people, priced around 100 yuan?
+Speaker2: We have a vegetarian banquet set for four to six people, including cold dishes, hot dishes, and soup, priced at exactly one hundred yuan.
+Speaker1: What dishes does this menu contain?
+Speaker2: This meal contains three cold dishes: stir-fried yellow cabbage, seaweed and bean sprouts, and stir-fried tofu; four hot dishes: steamed vegetables, stir-fried dried beans, mushroom and oil vegetable, and land three fresh; and a bowl of soup.
+Speaker1: Does this menu need to be reserved in advance?
+Speaker2: Yes, to ensure the freshness and quality of ingredients and dishes, it is recommended to order in advance one day.
+Speaker1: Okay, I'll book this menu, booking time for tomorrow at noon.
+Speaker2: Okay, I have reserved a vegetarian lunch set for you at noon tomorrow. Just come to the restaurant when it's time.

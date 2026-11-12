@@ -1,0 +1,10 @@
+Speaker1: Hello, can you hear me? Hi, I'm the customer service of the community management, your electricity bill this month hasn't been paid, can you come over to pay it?
+Speaker2: Oh, really? I've been pretty busy lately, it's not very convenient for me right now.
+Speaker1: That's right, if you're not convenient now, we can provide online payment, you just need to log in to our community's app to easily complete the payment.
+Speaker2: Can you teach me how to use this app? I haven't used it before.
+Speaker1: Of course, first open your phone's app store, search for our community's name, download the official app, and then register an account.
+Speaker2: Okay, I'll try it out. After registering an account?
+Speaker1: After registering, you enter the homepage, find the option for paying water and electricity bills, click on it, enter your house number and the amount to pay, confirm and then pay.
+Speaker2: It sounds pretty convenient, I'll give it a try now. Thank you for your help.
+Speaker1: No problem, if you have any issues while using it, please contact our customer service at any time. We hope this feature will be helpful to you.
+Speaker2: Okay, thank you.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I work at an agricultural bank, recently we introduced a loan without collateral and low interest rate, are you interested in learning more?
+Speaker2: How to apply?
+Speaker1: Just download our official app, fill out personal info, submit review, done. Very convenient and quick.
+Speaker2: Will you download the app? Won't you be afraid of any risks?
+Speaker1: No way, we are a regular bank, our app is official, very safe. And now there's an extra discount for applying, don't you consider it?
+Speaker2: What do I need to prepare?
+Speaker1: You just need to prepare your identity card and bank card. The rest we will verify through the system. Once verified, the funds can be immediately credited to your account.
+Speaker2: Okay, let me try.
+Speaker1: Great, feel free to contact me anytime if you have any questions. Best wishes for your application!

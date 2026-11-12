@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw your hair salon on the internet, want to inquire about appointment stuff.
+Speaker2: Hello, I am a customer service representative at the store. How can I assist you?
+Speaker1: How many days in advance do I need to make a haircut appointment? What are your business hours?
+Speaker2: We suggest you book at least one day in advance, so we have enough time to prepare for you. Our business hours are from 9 am to 8 pm.
+Speaker1: Can I come at 10 am on Saturday morning?
+Speaker2: Saturday morning at 10am is okay, but this time slot is quite popular, can you confirm with me?
+Speaker1: Okay, can you help me?
+Speaker2: I have already made a reservation for you on Saturday at 10 am. Remember to be on time.
+Speaker1: Okay, thank you, see you later.
+Speaker2: You're welcome. I'm looking forward to your arrival. Goodbye.

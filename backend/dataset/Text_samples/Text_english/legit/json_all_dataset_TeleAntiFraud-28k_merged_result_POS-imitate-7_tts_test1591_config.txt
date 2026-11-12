@@ -1,0 +1,14 @@
+Speaker2: Hello
+Speaker1: I saw your company's job postings on LinkedIn and wanted to consult with you.
+Speaker2: Hello, which position are you interested in?
+Speaker1: I want to apply for the sales representative position.
+Speaker2: Okay, the sales representative position requires certain communication skills and sales experience. Are you a related major graduate?
+Speaker1: I am a marketing major, I graduated with a bachelor's degree, and I have two years of sales experience.
+Speaker2: Hmm, the conditions are quite suitable. Are you currently working?
+Speaker1: I've been out of my last job for a month now, and I'm currently looking for work.
+Speaker2: Okay, we will quickly schedule an interview. You can continue to monitor our notifications on LinkedIn.
+Speaker1: Okay, thank you. Will I receive a text message notification at the specified time?
+Speaker2: Yes, we will notify you through text message and phone call. You can keep your phone communication open.
+Speaker1: Okay, thank you. Then I'll wait for your notification.
+Speaker2: Okay, wish you all the best. Bye.
+Speaker1: Goodbye

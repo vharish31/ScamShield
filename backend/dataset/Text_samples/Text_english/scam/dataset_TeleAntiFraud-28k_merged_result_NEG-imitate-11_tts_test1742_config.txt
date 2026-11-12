@@ -1,0 +1,12 @@
+Speaker1: Hello, you are the customer service representative of the Agricultural Bank of China, Tianhe Branch, named Zhang Huai.
+Speaker2: Hello, what do you have?
+Speaker1: We recently launched a special discounted loan product with an interest rate of only 2.3%, perfect for individuals and small businesses.
+Speaker2: Really? It sounds good, but I'm not very familiar with it.
+Speaker1: Yes, this product is very popular. To help you understand the details, I can send you a link. Click on the link to see the detailed information and application process.
+Speaker2: Okay, I can take a look.
+Speaker1: Okay, I'll send you a link via text message later. Additionally, for the sake of your information security, we need you to provide a verification code, which I'll send to your phone, and you can tell me once you receive it.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, the verification code has been sent, please check.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you, we have recorded it. Please click on the link and follow the instructions to complete the application. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help.

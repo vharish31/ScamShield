@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I just placed an order for a laptop at your store, can you confirm the order status?
+Speaker2: Hello, Xiao Ming, I am customer service king, can help you query order. Please provide order number or phone number.
+Speaker1: Okay, my phone number is 1381380138.
+Speaker2: Okay, I'll check. Hmm, your order has been processed, it's ready to ship.
+Speaker1: When will it arrive approximately?
+Speaker2: Based on the current logistics situation, we expect to deliver within three to five days.
+Speaker1: Okay, thank you. Is your after-sales service good?
+Speaker2: We provide a 7-day no-reason return or exchange service. If you have any issues, you can contact our customer service at any time, and we will quickly solve them for you.
+Speaker1: That's great, I feel much more relaxed now. Thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to contact us anytime. Have a happy life!

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have a vegetarian menu at this restaurant?
+Speaker2: Yes, our restaurant provides many vegetarian dishes, you can choose according to your taste.
+Speaker1: Great, I plan to have lunch at your restaurant tomorrow at noon. Do I need to make a reservation in advance?
+Speaker2: It's recommended to book in advance, especially on weekends or holidays, restaurants may be busy.
+Speaker1: Okay, I'll reserve two seats for two people, time is tomorrow at noon.
+Speaker2: Okay, I have reserved a two-person seat for you, the reservation time is tomorrow at noon. Do you have any other needs?
+Speaker1: No more, thank you for your help.
+Speaker2: You're welcome to come for dinner tomorrow.

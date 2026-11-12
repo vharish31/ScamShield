@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you still hire people at your store?
+Speaker2: We are currently short of manpower.
+Speaker1: How much is a monthly salary?
+Speaker2: A month's salary is three thousand, including food and housing.
+Speaker1: What are the conditions of the dormitory where you stay?
+Speaker2: The dormitory is a four-person room with separate bathrooms, very clean.
+Speaker1: Can I go for an interview tomorrow?
+Speaker2: Sure, come over at 9 am tomorrow morning, don't forget to bring your ID and resume.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow

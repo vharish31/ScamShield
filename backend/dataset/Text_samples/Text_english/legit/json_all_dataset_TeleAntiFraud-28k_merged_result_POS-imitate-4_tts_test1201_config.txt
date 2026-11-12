@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Have you arrived at the station yet?
+Speaker2: Hey, just got off, where are you waiting for me?
+Speaker1: I'm waiting for you at the door of the coffee shop on the left side of the exit, hurry up and come over.
+Speaker2: Okay, I'll go over there right away.
+Speaker1: Did you see it? There's a big billboard here with the name of a coffee shop written on it.
+Speaker2: I see, I'm walking towards that side now, it will take a few minutes to get there.
+Speaker1: Okay, be careful on the road, I'm waiting for you here.
+Speaker2: Okay, see you later.

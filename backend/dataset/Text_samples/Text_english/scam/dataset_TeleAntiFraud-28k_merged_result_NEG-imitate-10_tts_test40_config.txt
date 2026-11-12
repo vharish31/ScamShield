@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am Lee boss.
+Speaker2: Hello, Li Laoban, I am Xiao Wang, the new customer service staff.
+Speaker1: King, I recently bought some stuff from your platform and it hasn't arrived yet. Can you help me check?
+Speaker2: Okay, Li Laoban, could you please provide your order number? I'll look it up right away.
+Speaker1: The order number is 1029384756. Yes, I recently heard that you guys have a new financial project with good returns. Can you introduce it to me?
+Speaker2: Mr. Li, you are very shrewd and have a special high-yield investment project prepared for our premium customers. To ensure your information is secure, I'll add you on WeChat and send you the project details. Is that okay with you?
+Speaker1: Okay, my WeChat is 13578901234, add me.
+Speaker2: Okay, Li Laoban, I'll call you right away, the information will be sent to you quickly. Additionally, regarding your order, I checked and it's possible there was an issue with the logistics process, I have a link for you to click to check the latest logistics information.
+Speaker1: Is this link safe?
+Speaker2: Absolutely safe, Li Laoban, this is our internal query system, you can trust it to click.
+Speaker1: Okay, thank you for your help, little king.
+Speaker2: No problem, Li Laoban, please contact me if you have any questions, wish you a happy day.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I saw your company's job posting for programmers, can you tell me more about the specific requirements?
+Speaker2: Hello, little Zhang, I am recruiter Li, happy to get your call. Our programmer position requires proficiency in Java and Python, with project experience given priority.
+Speaker1: Oh, I understand, what is the salary range for that position?
+Speaker2: In terms of salary, we provide competitive compensation based on individual ability and experience, generally ranging from 10,000 to 15,000 yuan per month.
+Speaker1: What materials do I need to prepare in this way?
+Speaker2: You need to prepare a detailed resume that includes your educational background, project experience, and skill certificates, as well as any portfolios or GitHub links you may have.
+Speaker1: Okay, when can I have an interview?
+Speaker2: We will complete the initial review of your resume within a week after receiving it, and if it meets the requirements, we will quickly schedule an interview.
+Speaker1: I understand, so I will send my resume to you this afternoon, thank you for your patience in answering.
+Speaker2: No problem, I'm looking forward to receiving your resume. Best wishes, goodbye!

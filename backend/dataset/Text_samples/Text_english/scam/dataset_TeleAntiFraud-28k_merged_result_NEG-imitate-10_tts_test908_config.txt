@@ -1,0 +1,14 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of China Construction Bank, Zhang.
+Speaker2: Hello, little Zhang.
+Speaker1: I noticed you've been looking for investment opportunities lately. I can introduce you to a great investment platform.
+Speaker2: Investment platform? It sounds good, what platform?
+Speaker1: This is a special investment product designed exclusively for our bank VIP customers, with a very high return rate and is also very safe.
+Speaker2: Is it really? Then how do I join?
+Speaker1: Just download our exclusive app using my invitation code to start investing.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, this app is only available to our bank's VIP customers, very confidential.
+Speaker2: How do I download this app?
+Speaker1: You can directly click this link I gave you.
+Speaker2: Okay, I'll take a look.
+Speaker1: If you have any questions, feel free to contact me anytime. Invest early, reap early, seize the opportunity.
+Speaker2: Thank you, I will consider it.

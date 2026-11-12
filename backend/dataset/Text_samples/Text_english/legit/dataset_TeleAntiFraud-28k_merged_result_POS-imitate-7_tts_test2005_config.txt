@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I am Li Ming, I saw a sofa in your store last week and want to know more details.
+Speaker2: Hello, Li Ming. Which sofa did you like last time?
+Speaker1: That's the one with the white and blue stripes, with the footrest, priced at 5800 yuan.
+Speaker2: Oh, that sandalwood sofa is our bestseller. It's made of high-quality cotton fabric, very comfortable. There's currently a promotion going on, you can get a 95% discount when you buy it.
+Speaker1: Can I still enjoy this discount if I go to the store now?
+Speaker2: Of course, as long as you place an order today, you can enjoy this discount.
+Speaker1: Okay, I'll go now.
+Speaker2: Okay, our store is open from 9am to 9pm, welcome anytime.

@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am the manager of the credit department at Guangdian Bank.
+Speaker2: Hello, Zhang Manager.
+Speaker1: Your recent credit record at our bank is excellent. We have a loan product specifically designed for high-quality customers, with a high credit limit, low interest rate, and fast approval.
+Speaker2: Oh, really?
+Speaker1: Yes, you can apply quickly through our app, very convenient.
+Speaker2: How do I apply?
+Speaker1: Just download our app, register with your phone number, and fill out some basic info to see your credit limit.
+Speaker2: Where can I download the app?
+Speaker1: You can search '广深银行信贷' in the mobile app store and download our official app.
+Speaker2: Okay, I'll try.
+Speaker1: Okay, if you encounter any issues during the application process, feel free to contact me anytime. My phone number is 13812345678.

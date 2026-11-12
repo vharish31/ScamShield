@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Zhang, I need to talk to little Wang about something.
+Speaker2: Hello, little Zhang, I am little Wang, what do you have to do?
+Speaker1: Hey, I just moved to a new house, do you have any recommendations for good home service companies?
+Speaker2: Oh, I know a few good ones. What kind of service do you need specifically?
+Speaker1: I plan to thoroughly clean the house this weekend.
+Speaker2: You can try 'Jiā jǐng bǎo', their service is quite good and the price is reasonable.
+Speaker1: Okay, I'll contact them this weekend. Also, do you know how far in advance they need to book an appointment?
+Speaker2: Generally speaking, it's better to make an appointment two or three days in advance, especially on weekends, they might be busy.
+Speaker1: I understand, thank you for your advice, I'll call them today to schedule a meeting.
+Speaker2: No problem, I hope everything goes smoothly after you move, come to my house and sit down if you have time.
+Speaker1: I'm sure I'll bring you some small gifts later. Goodbye.
+Speaker2: Goodbye, have a nice weekend.

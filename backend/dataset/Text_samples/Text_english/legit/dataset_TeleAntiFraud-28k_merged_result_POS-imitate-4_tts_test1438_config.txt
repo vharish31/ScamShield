@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to consult your car hailing service.
+Speaker2: Hello, this is Huaxia Outing, how can I help you?
+Speaker1: What are the types of vehicles you all have?
+Speaker2: We have economic, comfortable, and business type cars here, you can choose according to your needs.
+Speaker1: How long do I need to book a comfortable type in advance?
+Speaker2: It's usually recommended to make an appointment one hour in advance to ensure the car arrives on time.
+Speaker1: Okay, can I make a reservation for three in the afternoon?
+Speaker2: Of course, I will help you book a reservation. Please tell me your departure location and destination.
+Speaker1: I left from Financial Street and went to Beijing Capital International Airport.
+Speaker2: Okay, I have recorded it down. Please keep the phone call clear, the driver will contact you before departure.

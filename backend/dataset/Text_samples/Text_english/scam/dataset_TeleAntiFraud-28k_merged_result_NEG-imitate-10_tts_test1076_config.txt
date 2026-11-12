@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Xiao Wang, and I am a customer service representative from some financial company.
+Speaker2: Hello, do you have anything?
+Speaker1: We noticed you've been looking for loan services recently. Our company can provide you with low interest loans, no collateral, fast approval.
+Speaker2: Really? I really need a penny right now.
+Speaker1: Yes, our loan service is very suitable for you. However, in order to ensure your credit, we need you to pay a small amount of deposit first.
+Speaker2: Deposit? Will this money be returned to me?
+Speaker1: Of course, this is our loan approval process, once the loan is approved, the deposit will be fully refunded to you.
+Speaker2: Okay, how do I pay this deposit?
+Speaker1: You can click on the link I sent you and follow the instructions to complete the payment.
+Speaker2: Okay, I'm going to operate now.

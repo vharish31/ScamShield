@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here China bank customer service center, I is customer service manager small Li.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we found some unusual activity on your account recently, which may have involved unsafe transactions. To ensure the safety of your funds, we need you to cooperate with a simple verification.
+Speaker2: What's true or false, how do I cooperate with verification?
+Speaker1: Just follow the link I send you and enter your bank card number and verification code after clicking it, so we can confirm your identity.
+Speaker2: How do I know this link is safe?
+Speaker1: Rest assured, we are a Chinese bank, our link is absolutely safe, and we will guide you all the way, ensuring no issues.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the link now. Please check it and let me know once you're done.
+Speaker2: Received, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, you are in Hangzhou Bank, I am the customer manager Lee Huai.
+Speaker2: Hello, what do you have?
+Speaker1: Is that right, we noticed you have a company under your name, do you currently have any funding circulation needs? We can provide no-collateral low-interest loans, very suitable for small and medium-sized enterprises.
+Speaker2: This, I currently don't have any requirements for this aspect.
+Speaker1: Hey, I know the current market environment is quite challenging for small businesses. But if your mind changes, you can contact us anytime. By the way, to help you better understand our loan products, I have a link here that you can click to download our app. It has a lot of detailed introductions inside.
+Speaker2: Okay, let's take a look.
+Speaker1: Great, thank you for your cooperation. If you have any issues during use, please feel free to contact me anytime, my phone number is 138xxxx5678.
+Speaker2: Okay, thank you.
+Speaker1: No problem, I hope our service can help you. Goodbye.
+Speaker2: Goodbye.

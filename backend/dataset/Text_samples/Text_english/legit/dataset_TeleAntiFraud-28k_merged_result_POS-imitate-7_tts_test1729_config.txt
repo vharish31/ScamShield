@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am the property manager of the community. I want to ask, did you forget to pay your water and electricity bill this month?
+Speaker2: Oh, is that so? I really forgot, how much is the electricity bill this month?
+Speaker1: This month's electricity bill is 110 yuan. You can pay it through Alipay or WeChat, or directly at the property management office.
+Speaker2: Okay, I understand, so I'll pay through WeChat, do I need you to confirm after payment?
+Speaker1: No need, after payment success, system will automatically update fee status, but if you have any problem, please contact us anytime.
+Speaker2: That's great, I'll pay now, thank you for reminding me.
+Speaker1: You're welcome. If you have any other places that need help, please feel free to contact us anytime. Wishing you a happy life.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

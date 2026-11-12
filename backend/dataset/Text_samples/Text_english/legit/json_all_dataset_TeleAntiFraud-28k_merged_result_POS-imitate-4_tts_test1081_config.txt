@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, is
+Speaker2: Hello, how can I help you?
+Speaker1: Can I ask if your store has any new summer clothing on sale?
+Speaker2: Sure, we just got a new batch, lots of styles to choose from, interested? Come take a look.
+Speaker1: That's great, I really want to buy a few new clothes. Where is your store?
+Speaker2: We are on the third floor of the city square, next to the food area, easy to find.
+Speaker1: Okay, I plan to go out and see something over the weekend. Also, what time will you be open on the weekend?
+Speaker2: Our weekend business hours are from 10am to 9pm. What time is most convenient for you to come?
+Speaker1: That's great, I'll choose a time to go. Thank you for your information.
+Speaker2: You're welcome. I'm looking forward to your arrival. If you have any other questions, please feel free to consult anytime.

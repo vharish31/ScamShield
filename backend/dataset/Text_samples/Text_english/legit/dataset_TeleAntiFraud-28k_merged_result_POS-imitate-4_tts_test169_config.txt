@@ -1,0 +1,11 @@
+Speaker1: Hello, can you hear me? I am the customer service of the community, want to inform you that our community's swimming pool is officially open today.
+Speaker2: Is it true? Do we need to make a reservation?
+Speaker1: Yes, in order to ensure everyone's experience, it is necessary to make a reservation in advance. You can tell me the time you want to reserve, and I will register it on this side.
+Speaker2: Okay, can I make a reservation for this weekend, on Saturday morning at 10 am?
+Speaker1: Okay, I have already made a reservation for you at 10 am on Saturday morning. Do you need a swimsuit?
+Speaker2: I need to bring my own swimsuit.
+Speaker1: Okay, the swimming pool entrance is in the east-southeast corner of the community. You can go directly in after you arrive. Just a reminder, please don't run around the pool edge and be careful.
+Speaker2: Okay, thank you for reminding me. By the way, I saw a new convenience store at the community door. How are the things inside?
+Speaker1: Oh, that convenience store is new, the stuff is quite comprehensive, and the prices are reasonable. If you need anything, you can go take a look.
+Speaker2: Okay, I have time to go take a look. Thank you for your information. See you this weekend.
+Speaker1: Okay, have a happy weekend!

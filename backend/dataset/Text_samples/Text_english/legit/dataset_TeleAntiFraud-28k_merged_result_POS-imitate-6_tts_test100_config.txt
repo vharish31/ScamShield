@@ -1,0 +1,10 @@
+Speaker1: Hey, are the outside deliveries at your store done yet?
+Speaker2: Hello, I am store owner Li, takeout is ready, delivery is arranged, approximately need 30 minutes, please wait patiently.
+Speaker1: Okay, I'll wait a minute. Right, do you guys have any discount activities in your store?
+Speaker2: Yes, you can get a ten-dollar discount if you order fifty dollars or more, a twenty-dollar discount if you order a hundred dollars or more, and some menu items are on sale.
+Speaker1: Great, I'll order some next time. By the way, what time does your store close?
+Speaker2: Our store is open every day until 10 pm, you can place an order at any time, we will process it promptly.
+Speaker1: Okay, thank you for your service, I hope delivery is smooth.
+Speaker2: You're welcome, thank you for your support, please feel free to contact us if you have any questions, enjoy your meal.
+Speaker1: Okay, bye.
+Speaker2: Goodbye.

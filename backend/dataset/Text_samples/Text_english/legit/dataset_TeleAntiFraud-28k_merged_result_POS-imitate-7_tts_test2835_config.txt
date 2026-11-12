@@ -1,0 +1,10 @@
+Speaker2: Hello, what can I help you with?
+Speaker1: Have you got any available time for a haircut recently?
+Speaker2: Of course, we have several hairdressers here, you can tell me your preferred style and approximate time, I will help you arrange.
+Speaker1: I want a more fashionable short haircut, preferably this weekend.
+Speaker2: Okay, our weekend appointment is quite tight, but I'll do my best to arrange it for you. Do you prefer Saturday or Sunday?
+Speaker1: Is Sunday morning okay?
+Speaker2: What time on Sunday morning is most convenient for you, between 9am, 10am and 11am?
+Speaker1: Ten o'clock is perfect.
+Speaker2: Okay, I have already booked a haircut for you on Sunday morning at 10 am. Please arrive ten minutes early, and if there are any changes, please contact me anytime.
+Speaker1: Okay, thank you for your help.

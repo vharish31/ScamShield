@@ -1,0 +1,8 @@
+Speaker1: Hello, I am supermarket customer service Zhang, I see you have some points in your account that haven't been used, tonight before midnight all points will be cleared, do you know?
+Speaker2: Okay, I know.
+Speaker1: These points can be exchanged for many good things, such as daily necessities, electronic products or food, you can consider what you want to exchange, I can help you operate.
+Speaker2: Okay, what do you have that's suitable?
+Speaker1: Okay, please tell me directly what you want to exchange, and I will help you operate it. Additionally, if you have any remaining points, I can help you apply for retention, so they won't be cleared zero.
+Speaker2: Great, let me take a look and see what's suitable.
+Speaker1: Okay, you can choose slowly, tell me when you're done.
+Speaker2: Okay, thank you.

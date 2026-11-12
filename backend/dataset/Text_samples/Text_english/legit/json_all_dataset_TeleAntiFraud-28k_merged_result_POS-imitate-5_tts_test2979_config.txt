@@ -1,0 +1,10 @@
+Speaker1: Hey, how's the beef noodle soup at your store?
+Speaker2: Hello, our beef noodle soup is very popular, the beef is cooked to perfection, the broth is very fresh and delicious, many customers have praised it.
+Speaker1: What's the price?
+Speaker2: How about a bowl of beef noodle soup for twenty yuan now that it's lunchtime?
+Speaker1: I'm getting hungry listening to you. Do you have outside food service?
+Speaker2: Yes, we have cooperation with several delivery platforms. You can place an order through these platforms or directly call us. Our phone number is 555-0000.
+Speaker1: Okay, I'll call you directly. How long will you be there?
+Speaker2: In general, we will deliver within 30 minutes after ordering, the specific time depends on your location and the order quantity.
+Speaker1: I'll probably be home in about half an hour waiting for your delivery.
+Speaker2: Okay, no problem, we will send it to you quickly, wish you a happy meal!

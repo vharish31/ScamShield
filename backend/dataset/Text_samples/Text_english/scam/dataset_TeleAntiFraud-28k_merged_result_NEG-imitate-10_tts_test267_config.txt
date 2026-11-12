@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the personal loan department of the Commercial Bank, we have recently introduced a new low-interest rate loan product, are you interested in learning more?
+Speaker2: Sure, I really need to turn over some cash recently, can you give me a detailed explanation?
+Speaker1: Okay, this product does not require collateral, the approval speed is fast, and the interest rate is very low. To better understand the details, you can first download our bank's official app, which has detailed introductions and application processes.
+Speaker2: Okay, I'll download it. What's the name of this app?
+Speaker1: The name of the app is "Working Quick Loan", you can find it by searching. After downloading, register and fill in the relevant information, we will have a specialist contact you.
+Speaker2: Okay, I'll download it right away. Are there any other things to pay attention to?
+Speaker1: No problem, after you download the app, if you encounter any issues, you can call our customer service hotline 400-123-4567 at any time, and we will answer promptly.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, please feel free to contact us anytime if you have any questions. Best wishes for your application.
+Speaker2: Thank you, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I want to consult your new store opening activities.
+Speaker2: Hello, little Zhang, I am customer service king, very happy to serve you. We have many promotional activities in our new store. Which information do you want to know?
+Speaker1: Do you have any discount activities, and are there any special promotions for new users?
+Speaker2: Yes, we have over 400 activities, new users can also get a 50 yuan discount when registering, and enjoy a 9 yuan discount on their first purchase.
+Speaker1: Is it possible to stack these discounts?
+Speaker2: Yes, the full-price activity and the new user discount coupon can be used together, but the 90% discount needs to be calculated after other discounts.
+Speaker1: Okay, then I plan to go to your store on the weekend, what are your business hours?
+Speaker2: Our store is open from 10 am to 10 pm, weekends are also normal business hours, you can come to the store at any time.
+Speaker1: Okay, thank you for your detailed answer. See you this weekend.
+Speaker2: No problem, see you this weekend, wish you a happy weekend.

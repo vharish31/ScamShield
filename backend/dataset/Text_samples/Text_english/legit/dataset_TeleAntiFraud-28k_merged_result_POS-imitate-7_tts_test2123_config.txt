@@ -1,0 +1,8 @@
+Speaker1: Hey, where are you?
+Speaker2: I just arrived at the crossroad, hurry over now.
+Speaker1: Okay, I'm going now. Have you seen that big billboard yet?
+Speaker2: See you there, wait for me under the billboard.
+Speaker1: Okay, I'll drive over, don't wander around.
+Speaker2: Okay, I'll wait for you here, be careful on the road.
+Speaker1: See you later.
+Speaker2: Be careful on the road.

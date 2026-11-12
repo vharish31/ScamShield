@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service center of China Construction Bank, I am the customer service manager Zhang, your loan application has passed the initial review, you can enjoy the low interest rate discount, do you want to know more?
+Speaker2: Uh, okay? I recently have a bit of a cash need, can you give me a detailed explanation?
+Speaker1: Of course, our loan product is very flexible, first interest, then principal, for two years, just need basic information and financial proof, can quickly loan.
+Speaker2: Listen well, what do I need to do?
+Speaker1: Just click this link, fill in the relevant information, and we'll quickly review and contact you.
+Speaker2: Okay, I'll click on the link now.
+Speaker1: Hello, in addition, to ensure your information safety, we need you to provide a verification code. We will send it to you via text message shortly.
+Speaker2: Okay, I'll wait for the text message.
+Speaker1: Thank you for your cooperation. The verification code has been sent. Please check and input it quickly.
+Speaker2: I got it, I'll input now.

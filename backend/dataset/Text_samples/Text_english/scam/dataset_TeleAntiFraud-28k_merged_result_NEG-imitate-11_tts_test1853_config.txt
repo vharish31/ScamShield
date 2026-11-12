@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am Li Xiao, the customer manager of Agricultural and Commercial Bank.
+Speaker2: Hey, hello hello.
+Speaker1: Do you have any recent funding needs? We have a great credit loan product with a low interest rate and quick approval.
+Speaker2: Uh, I actually need some money lately.
+Speaker1: That's great, I can help you apply. Just download our official app, fill out some basic info, and you'll be quickly approved.
+Speaker2: Download the app? How do you download it?
+Speaker1: You can click this link to directly download our app. The link is: http://example.com/app.
+Speaker2: Okay, let me try.
+Speaker1: Okay, download it and register immediately, fill out the information, and feel free to contact me if you have any questions.
+Speaker2: Okay, thank you.

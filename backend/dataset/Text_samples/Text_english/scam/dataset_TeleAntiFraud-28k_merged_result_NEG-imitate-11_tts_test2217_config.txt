@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm the customer manager of the construction bank, Wang. Have you been thinking about loan lately?
+Speaker2: Yes, I recently have a little bit of cash flow need, do you have any good loan products to recommend?
+Speaker1: Yes, we have a special loan product that is suitable for you, with quick approval and a high credit limit. You just need to download our official app, register and you will see the detailed information.
+Speaker2: Do you want to download the app? It sounds pretty convenient. What is the name of this app?
+Speaker1: You can download the "Financial Manager" app from the app store, register with your phone number after downloading, and I will send you a verification code, which you can input to quickly complete the registration.
+Speaker2: Okay, I'll go download it. What paperwork is needed for this loan?
+Speaker1: It's simple. Just prepare your ID and bank statement, upload to the app, and it's done. Once approved, we'll contact you to confirm loan details.
+Speaker2: Sounds good, I'll download it now. If I have any other questions, how can I contact you?
+Speaker1: You can contact me directly in the app or add my WeChat, my WeChat number is 13800000000, you can contact me anytime with any questions.
+Speaker2: Okay, thank you for your help. I added you on WeChat. I'll get in touch with you later if I have any questions.

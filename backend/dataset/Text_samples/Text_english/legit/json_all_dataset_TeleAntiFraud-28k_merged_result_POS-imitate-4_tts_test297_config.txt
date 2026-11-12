@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you inquire about whether there is a lunch set menu suitable for two people here?
+Speaker2: Yes, we have a two-person lunch set menu here, including two main dishes, one salad and two drinks, priced at 90 yuan.
+Speaker1: Sounds good. What are your business hours?
+Speaker2: Our business hours are from 10 am to 10 pm every day, and they will be extended to 11 pm on weekends.
+Speaker1: Okay, I plan to come at noon on Saturday. Do I need to make a reservation in advance?
+Speaker2: Please book in advance, so we can reserve a spot for you. You can call or use our WeChat public account to book.
+Speaker1: Okay, I noted it down. Is there a parking space provided here?
+Speaker2: Our restaurant has a public parking lot next door that provides free parking service as long as you spend over 100 yuan.
+Speaker1: Great, I'll see you on Saturday at noon. Thank you for your help!
+Speaker2: You're welcome! We're looking forward to your visit. If you have any other questions, please feel free to contact us. Goodbye!

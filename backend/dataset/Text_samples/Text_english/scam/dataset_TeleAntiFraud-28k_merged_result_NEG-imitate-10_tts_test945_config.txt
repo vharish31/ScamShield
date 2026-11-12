@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of the Agricultural Bank, Tianhe Branch. Your recent loan application with us has been approved. The loan amount is 20,000. You can pay it out immediately.
+Speaker2: Really? Great, I really need this money.
+Speaker1: Yes, but before we proceed with the loan, we need to confirm your personal information and loan purpose. Would you be able to cooperate with us now?
+Speaker2: Okay, you say, what information do you need from me?
+Speaker1: First, we need you to provide your identity card number and bank card number, and confirm the specific purpose of the loan, to avoid any misunderstandings, we need you to click on the link we send, to complete the information confirmation.
+Speaker2: Okay, I'll go operate.
+Speaker1: Please wait a moment. For your safety, the link will be sent to the phone number you registered with. Please pay attention to check it. After clicking the link, follow the instructions.
+Speaker2: I understand, I'll pick it up right away.
+Speaker1: Okay, if you have any questions, feel free to contact me anytime. My phone number is 13801380138. Once the information is confirmed, we will quickly arrange for the payment.
+Speaker2: Okay, thank you for your help.

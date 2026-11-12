@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer manager of the commercial bank, Lee Huai.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we have a recent excellent financial project with a yearly return of up to 10%, I think it's very suitable for you.
+Speaker2: Really? It sounds good, but I'm a bit worried about this kind of investment.
+Speaker1: It's completely understandable, but our project is extremely safe, and over a hundred people have participated, with all profits being extremely good.
+Speaker2: How can I participate?
+Speaker1: Great, just click on the link I sent you, register an account, and then you can start investing.
+Speaker2: Okay, let me try.
+Speaker1: Great! You're the best! If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, I will pay attention.

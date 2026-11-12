@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, find little li to call phone.
+Speaker2: Hello, little Wang, I am little Li's friend, he just went out, do you have anything?
+Speaker1: Hey, can you tell him that we have a meeting at the company conference room at 10 am tomorrow morning? Don't forget.
+Speaker2: Okay, I'll tell him, roughly what time can he come back?
+Speaker1: He said he might come back at around two in the afternoon, do you have his phone number? I'll just send him a message directly.
+Speaker2: Yes, his phone number is 00000000000.
+Speaker1: Okay, thank you, I'll send him a message, remind him.
+Speaker2: No problem, you can go, contact me later if there's anything.
+Speaker1: Okay, bye, thank you.
+Speaker2: Goodbye, be careful on the road.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiao Yang, I work for JD Finance customer service, we recently launched a special discount loan service, are you interested in learning more?
+Speaker2: Hello, loan service, I'm a bit tight right now, can you tell me about any discounts?
+Speaker1: This time's discount is very big. Just download our app and fill out some basic information to get the lowest 0.03 interest rate, no collateral or guarantee, and fast approval.
+Speaker2: What materials do I need to prepare?
+Speaker1: No need to prepare any materials, just download our app and follow the instructions. If you're convenient now, I can send you a download link.
+Speaker2: Okay, then give it to me.
+Speaker1: Okay, I'll send it to you now. Just make sure to check your phone message. If you have any issues after downloading, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Wish you a happy life. Goodbye.
+Speaker2: Goodbye.

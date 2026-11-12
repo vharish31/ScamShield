@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a waiter at the restaurant. You made a reservation for tonight's dinner at 4:00 PM, right?
+Speaker2: Okay, I'm the four o'clock appointment.
+Speaker1: Okay, our restaurant is on the third floor of the Light Square in the city center. You can come directly up when you arrive.
+Speaker2: Okay, I know that place, roughly how long will it take to get to the restaurant?
+Speaker1: If you leave now, you should arrive in about twenty minutes.
+Speaker2: I'll leave around 3:30, I should arrive on time.
+Speaker1: Hello, we will wait for you at the restaurant. Also, are you allergic to any food?
+Speaker2: I'm not allergic to any food, but I prefer vegetarian.
+Speaker1: Understood, we will prepare some vegetarian dishes for you. If you have any special requirements, please let me know anytime.
+Speaker2: Okay, thank you for your reminder, see you later.
+Speaker1: No need to thank you, see you later. Wish you a smooth journey.

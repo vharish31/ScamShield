@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative for an e-commerce platform. You have some points on your account that are about to expire. Would you mind listening?
+Speaker2: Okay, what's the score?
+Speaker1: That's the accumulated points you've earned while shopping on our platform, which is now over 15,000 points, and you can exchange them for a variety of products.
+Speaker2: Really? Then how did I miss it?
+Speaker1: Hey, you probably haven't checked yet, I already sent you a text message for exchange, pay attention to check it.
+Speaker2: Okay, I'll take a look.
+Speaker1: These points will be cleared at midnight tonight if not used before then, so remember to exchange them in time.
+Speaker2: What can I exchange for this product?
+Speaker1: The range of items that can be exchanged is very broad, such as electronic products, home appliances, and daily necessities. You can see them all when you enter the point store.
+Speaker2: Okay, thank you for your reminder. I will look into it quickly.

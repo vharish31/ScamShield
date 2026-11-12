@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I want to take my friend out for hot pot today, do you have any recommendations?
+Speaker2: We have a very popular spicy hot pot here, and the seafood hot pot is also quite good.
+Speaker1: How much does it cost to sound good?
+Speaker2: The sign for spicy pot is 90 yuan, the sign for seafood pot is 120 yuan, both contain various dishes.
+Speaker1: Okay, can I reserve a seat for tonight at seven o'clock?
+Speaker2: Is it okay? Do you need to reserve a few seats?
+Speaker1: Two.
+Speaker2: Okay, I have reserved two seats for you at seven o'clock tonight. Just come directly when the time comes.
+Speaker1: Okay, thank you.
+Speaker2: Please welcome you.

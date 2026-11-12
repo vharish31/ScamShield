@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager of an agricultural bank, Li, recently our bank has a particularly good financial product recommendation for you.
+Speaker2: Hmm, really? I recently really want to invest some money.
+Speaker1: Great, this financial product has a very high return on investment, the risk is very low, and the operation is also very simple, just download our bank's exclusive app, register and you can start buying it.
+Speaker2: Download the app? So troublesome?
+Speaker1: No problem, the operation is very simple, and there is a dedicated customer service to guide you, you only need a few minutes, and you can complete all the steps.
+Speaker2: What is the name of this app, and how do I download it?
+Speaker1: You can search '农行理财' in the mobile app store, download and install it, then I can send you a verification code to register with your phone number, which will help you enjoy more discounts.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you a verification code now. Please pay attention to check the message, and feel free to contact me if you have any questions.
+Speaker2: Okay, thank you for your recommendation.

@@ -1,0 +1,10 @@
+Speaker1: Hello, you, I am a customer service representative of China Post, Lee Huai.
+Speaker2: Hello, how are you?
+Speaker1: That's right, we detected that your package was lost during transportation, to compensate for your loss, we need to process a claim.
+Speaker2: Is it true or false? I didn't receive the notification.
+Speaker1: Our system recently upgraded, causing some notifications to be delayed in sending, which is a misunderstanding, we will quickly resolve.
+Speaker2: What do I need to do?
+Speaker1: To facilitate the claim process, please click on the link we send and fill out some basic information. We will process it quickly.
+Speaker2: Okay, I'm waiting for your links.
+Speaker1: Your phone number is the only one that our customer service system can reach you with information. We will send you a link via text message shortly, please pay attention to check it.
+Speaker2: Okay, I'm waiting for messages.

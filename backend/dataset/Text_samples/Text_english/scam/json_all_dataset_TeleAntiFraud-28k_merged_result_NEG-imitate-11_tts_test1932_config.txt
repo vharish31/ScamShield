@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of the Lecom Mall, are you Zhang Huai?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Lee, the customer service representative at Lecheng Mall. There are some issues with your order, and we need your help to solve them.
+Speaker2: What problem?
+Speaker1: Your order encountered an exception during payment, the system shows payment failed, but the funds may have already been deducted.
+Speaker2: What should we do?
+Speaker1: To ensure your rights, please log in to our dedicated processing page and perform the operation by clicking on this link.
+Speaker2: Okay, I'll take a look.
+Speaker1: Please handle it quickly, our link will expire in two hours. If there are any other issues, feel free to contact me anytime.
+Speaker2: I know, thank you.

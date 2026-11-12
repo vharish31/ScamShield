@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Zhang, recently your store's discount activity is quite attractive, want to know more about it
+Speaker2: Hello, little Zhang, I'm very happy to serve you. What kind of products are you interested in us?
+Speaker1: I'm really interested in your new outdoor gear, especially the hiking boots and backpack.
+Speaker2: Okay, we recently have a promotion for a mountain climbing shoe and a multi-functional backpack. The mountain climbing shoe originally costs six hundred eighty-eight yuan, now it's only five hundred eighty-eight yuan. The backpack originally costs four hundred ninety-nine yuan, now it's on sale for three hundred eighty-eight yuan.
+Speaker1: Wow, this discount is quite good, do you have the right size for mountain shoes?
+Speaker2: Of course, we have plenty of this mountain climbing shoe in stock, from size 40 to size 46, you can tell me your specific size, I'll check the inventory for you.
+Speaker1: I need 43 codes, if there are any, I want to go to the store today to take a look.
+Speaker2: Okay, we have new stock of 43-code mountain shoes in our store, you can try them on anytime. Our address is No. 108 Jingdong Dao, Jiangdu, and our business hours are from 10 am to 9 pm.
+Speaker1: Okay, I'll probably be there around 3 pm. See you then.
+Speaker2: Okay, three o'clock in the afternoon, we'll be waiting for you at the store. We hope you like our products. Bye!
+Speaker1: Thank you, goodbye!

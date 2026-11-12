@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Hello, I am the small property manager of the community, we noticed that your water and electricity bills have not been paid for two months, do you know?
+Speaker2: Oh, really? I didn't receive the notification.
+Speaker1: It's possible that your email is full, so you haven't seen it. If it's convenient, you can quickly go to the property management office to handle it, otherwise there may be a delay in payment.
+Speaker2: What should I bring with me when I go now?
+Speaker1: Please bring your ID and the latest electricity bill.
+Speaker2: Okay, I'll be right over.
+Speaker1: Okay, we're waiting for you in the property office.
+Speaker2: Thank you, see you later.

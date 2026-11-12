@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm on your website looking at a phone, want to ask a few questions.
+Speaker2: Hello, I'm very happy to serve you. Which phone model do you want to know about?
+Speaker1: That's the latest fashion recommended by your website, the photo looks pretty good.
+Speaker2: This product is our flagship, with a highly configured photo effect.
+Speaker1: How much does that phone cost?
+Speaker2: This phone is priced at 3800 yuan, and you can still enjoy a full discount when buying it now.
+Speaker1: Hey, what's the delivery time? When can it arrive?
+Speaker2: We usually ship orders two days after they are placed, and depending on your location, it should take approximately three to five days to arrive.
+Speaker1: Okay, which payment methods do you support?
+Speaker2: We support credit cards, debit cards, PayPal, and WeChat Pay. You can choose a convenient payment method.

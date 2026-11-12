@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What's up?
+Speaker1: Hey, I've been looking for a place to live lately. Do you have any suitable housing options on your side?
+Speaker2: Do you have any specific requirements for the house you want? For example, location, area, and price?
+Speaker1: I want to find a house with a price around one hundred thousand, preferably three bedrooms and one living room, near a subway station, with a good surrounding environment.
+Speaker2: I have several options for this condition here. Would it be convenient for you to come over tonight and take a look?
+Speaker1: Can we meet tonight around 7?
+Speaker2: I'm free around 7:30, is that convenient for you?
+Speaker1: 7:30, where specifically will we meet?
+Speaker2: Can we meet at the exit of the subway station and then go see the house together? How about it?
+Speaker1: Okay, meet at the subway station exit. Contact me then. Thank you.
+Speaker2: No problem, see you later, be careful on the road.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I am a customer service representative for a construction bank. Recently, we introduced a very affordable credit loan. Would you like to know if you have any financial needs?
+Speaker2: I recently need some cash flow, can you give me a detailed introduction?
+Speaker1: Of course. This credit loan has a very low interest rate, no collateral is required, and the approval process is very fast. If you're interested, you can click on the link I send you and fill out the relevant information, and our staff will quickly contact you.
+Speaker2: Okay, can you send me a link?
+Speaker1: Okay, I'll send it to you right away. Just to make sure your information is safe, you need to provide a verification code. The verification code will be sent to your phone, let me know when you get it, and I'll send you the link.
+Speaker2: Okay, I'll wait for the verification code.
+Speaker1: The verification code has been sent, please pay attention to check it.
+Speaker2: I received it. The verification code is 123654.
+Speaker1: Okay, the verification code is correct. I have already sent you a link, please check it. Click on the link and follow the instructions on the page.
+Speaker2: Okay, thank you.

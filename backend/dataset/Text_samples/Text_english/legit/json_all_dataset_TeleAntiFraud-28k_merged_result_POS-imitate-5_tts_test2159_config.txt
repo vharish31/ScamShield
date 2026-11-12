@@ -1,0 +1,7 @@
+Speaker1: Hey, hello, I'm a delivery guy, your food is here, it's at the small community door, is it convenient for you to come down?
+Speaker2: Hey, I'm in room 404, can you help me open the door? I'll be back in a minute.
+Speaker1: Okay, I'll go now, leave the door for you, remember to check it.
+Speaker2: Okay, hard work, thank you.
+Speaker1: No problem, please feel free to contact us anytime, wish you a happy meal.
+Speaker2: Okay, bye.
+Speaker1: Goodbye.

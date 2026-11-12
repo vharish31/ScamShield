@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Xiao Yang, this is the customer service representative of Huaxia Bank. Do you have any recent need for cash flow?
+Speaker2: Hello, I currently don't have this requirement.
+Speaker1: Oh, that's right. But now we have a special activity, applying for a loan can enjoy very low interest, and no collateral is required, only need to provide some basic personal information.
+Speaker2: That sounds good, but I still think it's unnecessary.
+Speaker1: I understand your concerns, but I can add my WeChat, so you can contact me anytime you need any financial help, and I can provide you with immediate assistance.
+Speaker2: Add WeChat and I won't use it anymore, thank you.
+Speaker1: Okay, I'll send you a link, you can take a look at the specific details of our activity first, no need to apply, just reference it.
+Speaker2: Okay, you can show it to me.
+Speaker1: Okay, just a moment, I'll send it to you now. And if you have any questions, feel free to contact me anytime. My phone number is 13123123123.
+Speaker2: Okay, thank you.

@@ -1,0 +1,11 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Hey, who are you?
+Speaker1: I am a customer service representative for JD.com, I see that you recently purchased a piece of clothing on our platform, unfortunately, this piece of clothing was lost during transportation. To compensate you, we are preparing to give you a double refund.
+Speaker2: Is that so? How can it be handled then?
+Speaker1: You need to first click on the link we sent you, complete some simple identity verification, so we can refund the money to your account.
+Speaker2: How do I know this link is safe?
+Speaker1: This link is our official link, absolutely safe. For your convenience, I can also directly send you a verification code, you just need to input the verification code to complete the verification directly.
+Speaker2: Okay, give it to me.
+Speaker1: Okay, wait a moment, the verification code has been sent to your phone. Tell me when you receive it, I will guide you to complete the operation.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Okay, please enter the verification code on the page linked in the text, click confirm, and the refund will be credited to your account within a few minutes.

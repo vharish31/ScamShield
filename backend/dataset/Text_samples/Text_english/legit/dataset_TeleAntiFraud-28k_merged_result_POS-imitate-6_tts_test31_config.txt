@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Are you sure you still need this luxury eight-seat car tomorrow morning at 10:00 AM?
+Speaker2: I need to confirm the reservation.
+Speaker1: Okay, to ensure your order, you need to make a deposit.
+Speaker2: Guarantee?
+Speaker1: Yes, it's a guarantee.
+Speaker2: I see only one option that requires a deposit of 10,000 yuan, and no other choices.
+Speaker1: If your credit score on ZhimaCredit reaches 700, you can use it for guarantee.
+Speaker2: I am over seven hundred points, but I haven't seen that option.
+Speaker1: Try searching our service on Alipay's mini app and you should see an option for JD credit guarantee.
+Speaker2: Okay, I'll try. Thank you.
+Speaker1: No problem, feel free to contact me if you have any questions.
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye.

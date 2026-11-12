@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is China Merchants Bank customer service, I is customer service specialist Zhang.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we noticed that you recently applied for a loan at our bank, but the final review steps haven't been completed yet.
+Speaker2: Oh, really? I didn't receive any notification?
+Speaker1: It's possible that your email was mistakenly identified as spam. To speed up the review process, I suggest you download our official app, which allows you to complete the review process online.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Of course, our app is officially certified, very safe. You can directly download it from the mobile app store by searching 'China Merchants Bank'.
+Speaker2: Okay, I'll try it out. What do I need to do after downloading it?
+Speaker1: After downloading, simply register and log in to complete the identity verification and loan approval steps as prompted. If you have any issues, feel free to contact our customer service at any time.
+Speaker2: Okay, thank you for your help.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, have you arrived?
+Speaker1: Are you there yet? I just got off the subway, where are you?
+Speaker2: I'm waiting for you here, just outside the left side of the coffee shop at the subway station exit.
+Speaker1: Okay, I see that coffee shop, let's go there now.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Okay, can you check out any good bookstores around here? I want to buy a few books.
+Speaker2: Bookstore! There's a big new China bookstore on the left in front. The books are all there.
+Speaker1: Okay, thank you, see you later.
+Speaker2: Hey, see you later. Be careful on the road.

@@ -1,0 +1,14 @@
+Speaker1: Hello
+Speaker2: Hey, how are you?
+Speaker1: Hello, I am the taxi driver for your wind car.
+Speaker2: Hello, okay.
+Speaker1: Are you sure you want to go?
+Speaker2: Yes, confirmed.
+Speaker1: Okay, could you confirm the order?
+Speaker2: Okay, confirmed.
+Speaker1: Could you please come at around 6:30 PM, ten minutes in advance?
+Speaker2: Okay, ten minutes in advance is fine.
+Speaker1: That's great, this way we can avoid traffic jam.
+Speaker2: Yeah, it's true, there are more cars on the road in the morning around seven o'clock.
+Speaker1: Okay, I'll be at your place around 6:30, I'll call you a few minutes before.
+Speaker2: Okay, I'll contact you later. Thank you.

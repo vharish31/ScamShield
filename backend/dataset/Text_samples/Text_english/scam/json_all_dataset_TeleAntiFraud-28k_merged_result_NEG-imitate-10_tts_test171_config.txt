@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hi, I'm little Zhang. Your package was accidentally lost during delivery. Now we need to process a refund. Can you conveniently add me on WeChat to handle it?
+Speaker2: Which delivery company is it?
+Speaker1: I am a customer service representative for Yuan Tong Kuai Di, have you recently received our SMS notification?
+Speaker2: I indeed received a text message stating that my package was lost.
+Speaker1: Okay, that's our notification. To quickly process the refund, I need you to provide your name and phone number, we will send the refund link via WeChat.
+Speaker2: Okay, my name is Li Huai, phone number is 1354678901.
+Speaker1: Okay, Li Huangshēng, I'll add you on WeChat now, and I'll send you the refund link later. Just click on the link to complete the refund process.
+Speaker2: Okay, thank you.

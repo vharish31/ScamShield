@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm Lee Ming, I called to inquire about your store yesterday.
+Speaker2: Hey, how are you? Do you need anything to help you?
+Speaker1: Can you please confirm the specific location of your store and the time of my appointment?
+Speaker2: Okay, our store is located on the second street of the east side of the central square, next to the big supermarket. Your appointment time is tomorrow at three in the afternoon, right?
+Speaker1: Okay, it's this time. I got off the bus station, how can I walk fastest to your store?
+Speaker2: After getting off the bus station, walk straight along the main road, see the second red light turn left, continue walking about 300 meters, our store is on your right hand side, there's a green sign.
+Speaker1: Okay, I understand. Do I need to call ahead and confirm after I arrive?
+Speaker2: No need, you just come directly, we will prepare in advance. But if you arrive early or have special circumstances, you can call us.
+Speaker1: I understand, your service is very reliable. Right, I have an appointment for a haircut and style, how long will it take?
+Speaker2: In general, cutting hair and making a style takes about an hour and a half. If the style is more complex, the time may be a little longer.
+Speaker1: Okay, thank you for your detailed answer. See you tomorrow.
+Speaker2: No problem, see you tomorrow, be careful on the road.

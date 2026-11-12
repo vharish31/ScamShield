@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I'm Lee Manager, this is the China Bank Loan Department, I saw you applied for a loan before but failed, now we have a special discount loan plan that can help you.
+Speaker2: Really? I applied several times before and didn't pass any of them.
+Speaker1: Yes, this time our conditions are very relaxed. As long as you provide some basic information, you can quickly approve.
+Speaker2: What do I need to do?
+Speaker1: Just click this link and fill out some basic info, and we can start reviewing.
+Speaker2: Link? How do you send it to me?
+Speaker1: Okay, I'll send you a text message right away, please pay attention to check it.
+Speaker2: Okay, I'm waiting.
+Speaker1: Alright, to ensure your information isn't leaked, this link can only be used once, so please fill it out quickly.
+Speaker2: I understand, thank you.

@@ -1,0 +1,14 @@
+Speaker1: Hey, hi, I'm little king, recently I want to change the new refrigerator at home, I saw your store has activities, I want to consult.
+Speaker2: Hello, little king, I am an electric city customer service representative, very happy to serve you. What information do you want to know about which refrigerator?
+Speaker1: Can you show me your current popular energy-efficient model? I heard it has a high price-performance ratio.
+Speaker2: Yes, our recent energy-efficient refrigerator is very popular. Not only is it energy-efficient, but the noise is low and the design is fashionable.
+Speaker1: How much does this refrigerator cost?
+Speaker2: The original price of this refrigerator is three thousand eight hundred yuan, but during the promotion period, you can enjoy an eighty percent discount, so the actual price you pay is three thousand forty yuan.
+Speaker1: Is the color of this refrigerator selectable?
+Speaker2: Yes, we currently have silver, black, and champagne gold colors for customers to choose from.
+Speaker1: Can you deliver beer to my door?
+Speaker2: Of course, we provide free door-to-door delivery service. Please tell me a delivery address and time when it's convenient for you, and we will arrange to send it.
+Speaker1: Okay, I'll order this champagne gold refrigerator for you. The address is happiness road one hundred twenty, and the time is tomorrow morning ten o'clock.
+Speaker2: Okay, your order has been recorded. In the morning at ten o'clock, we will deliver the refrigerator to Happiness Road 120. Is there anything else you need to consult?
+Speaker1: No more, thank you for your patience in answering, goodbye.
+Speaker2: You're welcome, very happy to serve you, wish you happy life, goodbye.

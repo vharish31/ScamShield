@@ -1,0 +1,8 @@
+Speaker2: Hello, where are you?
+Speaker1: Where are you at the park gate?
+Speaker2: I'm at work, getting ready to go to the office, wait for me a little while, I'll come over to you.
+Speaker1: Okay, hurry up, I'm waiting for you here.
+Speaker2: No problem, I'll be there in about twenty minutes, don't leave.
+Speaker1: Okay, I'm waiting for you here, be careful on the road.
+Speaker2: Okay, see you later.
+Speaker1: See you later.

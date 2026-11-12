@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Lee Huai?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm the customer manager at Commercial Bank, Zhang. We noticed that you might have some financial needs recently, so we wanted to know if you're interested in learning more about our new loan products?
+Speaker2: Can I borrow money? I'm a bit short right now, but I'm considering buying a new car, can you help me out?
+Speaker1: Of course, our loan products are very suitable for your situation. To make it easier for you to understand more information, I can give you a link, you can click on it to see the detailed loan plans and application process.
+Speaker2: Okay, that's bothering you now.
+Speaker1: Okay, just a moment, I'll send it now. You should receive a text message from us with a link, just click on it to proceed.
+Speaker2: Okay, I'll be right back.
+Speaker1: Additionally, to speed up the approval process, you need to provide some personal information, such as your identity card number and bank account number, which are all necessary steps.
+Speaker2: I understand, I will prepare these materials.

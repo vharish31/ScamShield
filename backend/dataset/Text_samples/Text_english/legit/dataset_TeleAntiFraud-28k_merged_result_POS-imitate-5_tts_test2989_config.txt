@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Xiaoming, I just booked a train ticket to Beijing on your website, but I seem to not receive the confirmation info.
+Speaker2: Hello, Xiao Ming, I am customer service Li Xiao. Can you tell me your booking information or phone number? So I can help you check.
+Speaker1: Okay, my phone number is 000-000-0000.
+Speaker2: Okay, I'll check over here. Please wait for a moment.
+Speaker1: Okay, thank you.
+Speaker2: I found it, your order has been successfully placed. It's possible that the confirmation message was mistakenly identified as spam. You can log in to our website to view the order details.
+Speaker1: How do I know my seat number and carriage number then?
+Speaker2: After logging into the website, you can see the seat and cabin number in the order details. If you're not convenient to go online, I can help you check and then send a text message to you.
+Speaker1: Can you help me check it out?
+Speaker2: Okay, your seat number is 34 in car 12. I'll send you a text message now.

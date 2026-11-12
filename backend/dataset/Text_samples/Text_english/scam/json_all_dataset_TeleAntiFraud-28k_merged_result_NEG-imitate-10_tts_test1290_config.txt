@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of Huaxia Bank, and we have a low-interest loan product that is very suitable for personal and small businesses. Would you be interested in learning more about it?
+Speaker2: Loan? I'm a bit short on cash right now, but I'll listen first.
+Speaker1: Great, our product interest rate is very low, only 0.5%, and the approval is fast, you can get the loan today. Just provide some basic personal information, and we can pre-review it for you.
+Speaker2: What do I need to do?
+Speaker1: Just click this link, fill out some basic info, and our customer manager will quickly contact you to complete the rest of the process.
+Speaker2: How can I confirm this is your bank's official link?
+Speaker1: You can rest assured, this is our official link, absolutely safe. To further enhance your trust, I can also send you a verification code, you can input the verification code directly after receiving it to jump to our official page.
+Speaker2: Okay, let me try.
+Speaker1: Great, the verification code has been sent to your phone. Please check it. After entering the verification code, you will be directed to our official page, where you will fill out the information. We will contact you as soon as possible.
+Speaker2: Okay, thank you.

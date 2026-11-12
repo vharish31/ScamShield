@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I want to come to your store tomorrow to do my hair, do you have any available time?
+Speaker2: Hello, little Li, I am the customer service at the store, we have several time slots available for booking tomorrow, 10 am and 2 pm, which time is more convenient for you?
+Speaker1: The afternoon sounded good, that's when I had time.
+Speaker2: Okay, I'll book an appointment for you at 2 pm. Do you need to prepare anything in advance?
+Speaker1: I just want to cut my hair short, clean and fresh.
+Speaker2: I understand, our hairdresser will design a hairstyle according to your face shape and requirements. Yes, are you coming to our store for the first time?
+Speaker1: Yes, first time.
+Speaker2: Our first-time customers can enjoy a 90% discount on our services. We also recommend that you arrive ten minutes early to the store to have ample time to communicate your needs.
+Speaker1: Okay, thank you for your reminder, I will arrive early next time.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. I look forward to serving you, see you tomorrow!

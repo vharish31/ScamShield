@@ -1,0 +1,10 @@
+Speaker1: Hey, are you in the tech park?
+Speaker2: Okay, what's up here?
+Speaker1: The delivery guy can't enter my food, your door lock is locked.
+Speaker2: Hey, tell the guard I'm here waiting for you.
+Speaker1: The guard is not there, I can't contact him.
+Speaker2: Okay, I'll go get it now, you wait a minute.
+Speaker1: Okay, give me a call when you arrive, I'll be waiting at the door.
+Speaker2: Okay, I'll go over there right away, don't worry.
+Speaker1: Thanks.
+Speaker2: No problem, see you later.

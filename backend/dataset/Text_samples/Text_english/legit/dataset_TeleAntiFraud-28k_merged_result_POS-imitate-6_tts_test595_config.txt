@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to check the hair appointment schedule for this week with you guys.
+Speaker2: Hello, I am the customer service representative of the hair salon. Can I help you with your inquiry? What time slot would you like to book?
+Speaker1: Can we meet at 10 am on Saturday morning this weekend?
+Speaker2: Let me check, just a moment. Okay, there's an opening at 10 am on Saturday morning. What service do you want to book, a regular haircut or something else?
+Speaker1: A regular haircut is enough, along with washing the head and blowing wind.
+Speaker2: Okay, a regular haircut includes washing and blow-drying, the service fee is 50 yuan. Do you need to book which hairdresser?
+Speaker1: I want to book an appointment with a hairdresser named Lee.
+Speaker2: Okay, Li teacher is available on Saturday morning at 10am. Can I book for you? Do you need to provide name and contact info?
+Speaker1: My name is Zhang Huá, phone number is 13801380138.
+Speaker2: Okay, Mr. Zhang Huang, your appointment has been successful. On Saturday at 10 am, Li Teacher will serve you. If there are any changes, we will notify you in advance.

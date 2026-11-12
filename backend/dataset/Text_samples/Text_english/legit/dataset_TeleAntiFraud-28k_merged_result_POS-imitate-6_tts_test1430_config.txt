@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer service of the food square, want to know if you have tried our new menu items recently?
+Speaker2: Hey, how are you? I haven't been out much lately, haven't noticed any new menu items.
+Speaker1: Oh, that's really too bad, we recently introduced several new special dishes, such as spicy and sour hot pot and seafood dumplings, the taste is very good.
+Speaker2: How are the prices of these dishes?
+Speaker1: The price is very reasonable, the spicy hot pot is 32 yuan, the seafood platter is a little more expensive, 58 yuan, but the portion is quite enough.
+Speaker2: The sound is good, I plan to try it this weekend, what are your weekend business hours?
+Speaker1: Our weekend business hours are from 10am to 10pm. You can come anytime.
+Speaker2: Okay, I'll probably go around 5 pm, do I need to book in advance?
+Speaker1: No need to book in advance, but if you want to ensure a place, you can call us half an hour before to confirm.
+Speaker2: Okay, thank you for your advice. See you this weekend!
+Speaker1: No problem, see you this weekend, wish you enjoy your meal!

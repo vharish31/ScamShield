@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything to talk about?
+Speaker1: Hey, did you say you wanted to move yesterday?
+Speaker2: Hey, I plan to move this weekend, do you have any free time?
+Speaker1: Can I help out if you have some free time?
+Speaker2: That's great, my new address is Happiness Villa 20th floor 3rd unit, do you know how to get there?
+Speaker1: Know a little, but still give me an address, I'm afraid I won't find it.
+Speaker2: Okay, I'll send it to you now. So, what time are you coming?
+Speaker1: Can I come at around 10 am?
+Speaker2: At ten o'clock, I had cleaned up quite a bit.

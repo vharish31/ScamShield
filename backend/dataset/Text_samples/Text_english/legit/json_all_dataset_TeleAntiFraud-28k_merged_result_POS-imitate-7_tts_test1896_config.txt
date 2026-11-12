@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have any new smartwatches here?
+Speaker2: Yes, we have the latest smartwatch here, which supports heart rate monitoring and sleep analysis functions, are you interested?
+Speaker1: How much does this watch cost?
+Speaker2: This smartwatch costs 1999 yuan, and you can enjoy a 95% discount when buying now.
+Speaker1: What is the discount for 9.5?
+Speaker2: The 9.5 discount can reduce 905 yuan, the actual payment is 1805 yuan.
+Speaker1: Is this watch in stock?
+Speaker2: Yes, we have fresh produce here, you can directly purchase them in the store or choose online payment and have them delivered to your home.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to check your restaurant's business hours.
+Speaker2: Hello, our restaurant opens at 10 am every day and closes at 10 pm.
+Speaker1: Hey, can I book a four-person private room for tomorrow?
+Speaker2: Can I make a reservation for you tomorrow at what time?
+Speaker1: About 5:30 in the afternoon.
+Speaker2: Okay, the 5:30 room is reserved for you. Do you have any special dietary requirements?
+Speaker1: One friend doesn't eat spicy, the others have no special requirements.
+Speaker2: Understood, we will pay special attention. Are there any other tasks that need help?
+Speaker1: No more, thank you.
+Speaker2: No problem, see you tomorrow.

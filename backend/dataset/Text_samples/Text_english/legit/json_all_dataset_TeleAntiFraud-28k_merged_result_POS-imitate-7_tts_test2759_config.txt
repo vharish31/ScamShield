@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I see you guys have a coffee machine in your store, can you tell me more about it?
+Speaker2: Okay, our coffee machine is imported, there are many colors and styles to choose from, which one do you want to know about?
+Speaker1: Can you give me the specific price and features of the black one?
+Speaker2: The black coffee machine is priced at 1,200 yuan, it has automatic roasting, brewing and cleaning functions, and is very suitable for family use.
+Speaker1: Does this coffee maker still have goods?
+Speaker2: We have stock now, so if you place an order today, we can arrange delivery tomorrow.
+Speaker1: Okay, I plan to buy a computer. Do you guys support cash on delivery?
+Speaker2: Of course, you can choose to pay on delivery or pay online for convenience and quickness.
+Speaker1: Then I will choose cash on delivery, when can it be delivered?
+Speaker2: In general, we will send it to you within two to three days after ordering, the specific time will depend on your location.
+Speaker1: Okay, thank you for your help. I'll place the order now.
+Speaker2: You're welcome. If you have other questions, feel free to consult anytime. Wishing you a happy life.

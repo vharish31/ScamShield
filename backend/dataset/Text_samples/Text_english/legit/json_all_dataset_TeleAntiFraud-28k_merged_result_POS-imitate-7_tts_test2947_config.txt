@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, are you still recruiting over there?
+Speaker1: Uh, okay, what position are you applying for?
+Speaker2: I want to know more about the front desk receptionist position.
+Speaker1: Okay, this position mainly involves greeting visitors, recording information, and basic office work.
+Speaker2: I have experience working as a front desk clerk at a previous company.
+Speaker1: That's good, this position requires certain communication and interpersonal skills, your previous experience will be a plus.
+Speaker2: Can I adapt to flexible work hours while doing other part-time jobs?
+Speaker1: Our work hours here are relatively fixed, usually from 9am to 6pm, with weekends off. However, we can consider the possibility of occasional shift changes.
+Speaker2: I'll give it a try first, thank you.
+Speaker1: Okay, welcome to the interview. Can you come to our company at 9 am tomorrow morning?
+Speaker2: Sure, I will arrive on time tomorrow.
+Speaker1: Okay, let's meet tomorrow at XX road XX number. Don't be late.
+Speaker2: Okay, okay, thank you, see you tomorrow.

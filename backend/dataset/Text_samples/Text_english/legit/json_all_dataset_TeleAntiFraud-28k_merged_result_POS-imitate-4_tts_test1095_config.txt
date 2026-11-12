@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask, do your restaurant have any vegetarian set meal?
+Speaker2: Hello, we have various vegetable set meals here, which one would you like to know more about?
+Speaker1: What is the most common kind, approximately how much does it cost?
+Speaker2: Our most economical vegetable set meal is 38 yuan, including four dishes, a soup, and unlimited rice with added.
+Speaker1: What time does your restaurant open?
+Speaker2: Our restaurant is open from 10 am to 10 pm every day. You can come anytime to have a meal.
+Speaker1: Okay, I'll probably arrive around six in the evening. Do I need to make a reservation in advance?
+Speaker2: No need to reserve, but if you want to sit at the window, please let us know in advance, we will reserve for you.
+Speaker1: Then I won't make a reservation anymore, I'll just go directly when the time comes.
+Speaker2: Okay, we'll wait for you here at the time, wish you a happy meal.

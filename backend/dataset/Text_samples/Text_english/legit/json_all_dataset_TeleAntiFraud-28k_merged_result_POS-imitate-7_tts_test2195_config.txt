@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me more about your delivery service, when do you start sending food?
+Speaker2: We start providing delivery service at 10 am and continue until 9 pm.
+Speaker1: How long will it take for my order to be delivered now?
+Speaker2: If you order now, you can probably get it in about forty minutes, but the exact delivery time will depend on the current shipping situation.
+Speaker1: How many days in advance do I need to place an order?
+Speaker2: I suggest you place your order one hour in advance to ensure you dine on time.
+Speaker1: If I have special requirements, like less spicy, is that okay?
+Speaker2: Of course, you can write your requirements clearly in the remark section when placing an order, and we will do our best to fulfill them.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, feel free to contact me if you have other issues. Enjoy your meal!

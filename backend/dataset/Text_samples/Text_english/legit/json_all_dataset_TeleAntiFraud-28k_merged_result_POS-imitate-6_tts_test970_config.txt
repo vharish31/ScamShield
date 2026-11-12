@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm Xiao Zhang, I want to consult your home service.
+Speaker2: Hello, little Zhang, I am customer service representative Li Xiao, very happy to serve you. What do you want to know about?
+Speaker1: Can you tell me more about your cleaning services, specifically which projects do you have?
+Speaker2: Our clean service package includes daily cleaning, deep cleaning, furniture polishing, and window cleaning, among others. You can choose different service projects based on your needs.
+Speaker1: What is the price like?
+Speaker2: Prices vary based on the service content and area. For example, daily cleaning is ten yuan per square meter, and deep cleaning is fifteen yuan per square meter. Please contact us to schedule an on-site evaluation.
+Speaker1: Oh, this way. How do you make a reservation?
+Speaker2: You can make an appointment through our official website or by phone. During the appointment, we will ask for your specific needs and arrange for a workman to come to your home for service.
+Speaker1: Okay, can I schedule an in-home appraisal for tomorrow?
+Speaker2: Of course, if it's convenient for you, can we send workmen to your door at 10 am tomorrow morning?
+Speaker1: I can leave at ten, so I'll wait at home until then.
+Speaker2: Okay, little Zhang, let's meet tomorrow. If there are any changes, you can contact us in advance. Wish you a happy life!

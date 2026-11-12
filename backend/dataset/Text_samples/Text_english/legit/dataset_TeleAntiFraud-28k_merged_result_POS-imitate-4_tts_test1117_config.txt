@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Zhang from Huatong Real Estate. You looked at our house last time, and now you want to confirm again. What's the most convenient time for you to come take a look?
+Speaker2: Hello, little Zhang, I may be uncomfortable at work today.
+Speaker1: Oh, in this way, when do you usually go to work? We can adjust based on your time.
+Speaker2: I usually finish work at six in the afternoon, but today I might have to work overtime until seven.
+Speaker1: Okay, can you come after finishing overtime? We can arrange for around 7:30 in the evening.
+Speaker2: 7:30 is okay, but I live a bit far away, so I might need to spend more time on the road.
+Speaker1: No problem, please pay attention to safety on your way, call me when you arrive, I will wait for you at the door.
+Speaker2: Okay, thank you for your arrangement, then we'll meet in the evening.
+Speaker1: Okay, see you later, be careful on the road.
+Speaker2: Okay, bye.

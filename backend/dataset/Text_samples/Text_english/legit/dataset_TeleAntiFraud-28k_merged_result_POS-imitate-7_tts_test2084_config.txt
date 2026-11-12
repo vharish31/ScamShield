@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how can I help you?
+Speaker1: I recently bought a piece of clothing from you guys, but the size seems to not fit well. Do you guys have a return policy?
+Speaker2: Yes, we have a return service here. You can exchange the product within 30 days after purchase by bringing the receipt and the item to the store.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: No need to book in advance, just come directly. However, it's better to avoid holidays and weekends, which will be more convenient.
+Speaker1: Okay, I'll go tomorrow. And what time do you close the door?
+Speaker2: Our business hours are from 9am to 9pm. You can choose a convenient time to come.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, feel free to consult anytime. I hope your trip goes smoothly. Goodbye!
+Speaker1: Goodbye!

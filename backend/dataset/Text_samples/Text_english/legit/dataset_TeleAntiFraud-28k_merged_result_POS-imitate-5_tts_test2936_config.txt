@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: Hey, what's up?
+Speaker1: Just bought some fruit, passing by your house, want to bring some up for you?
+Speaker2: Great, it's just that there aren't many fruits at home.
+Speaker1: Did you leave the door open at your house?
+Speaker2: I'll go open the door, you can knock when you arrive.
+Speaker1: Okay, I'll be there soon.
+Speaker2: Be careful on the road.
+Speaker1: No problem, see you later.
+Speaker2: See you later.

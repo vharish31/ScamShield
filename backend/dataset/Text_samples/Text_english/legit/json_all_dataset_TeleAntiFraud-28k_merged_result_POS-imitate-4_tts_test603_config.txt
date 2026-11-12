@@ -1,0 +1,17 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, can you hear me? Hello, what's up?
+Speaker1: Hello, I am little Li, you are little Zhang?
+Speaker2: Hi, I'm little Zhang, what's up?
+Speaker1: Our company recently introduced some new benefits policies, and we'd like to hear your thoughts on them.
+Speaker2: Okay, you say, I listen.
+Speaker1: We plan to add some employee benefits, such as gym membership cards and extra vacation days.
+Speaker2: The gym membership sounds great, especially since I just want to go.
+Speaker1: What do you have any special suggestions or expectations for this?
+Speaker2: If you can choose different fitness centers, it's better because everyone's geographical location and preferences are different.
+Speaker1: That's a good suggestion. I will feedback it to the company. Are there any other benefits you want to add?
+Speaker2: If we have regular team building activities like outdoor expansion or dinner, it will be better.
+Speaker1: This suggestion is also good, team building is indeed very important. Thank you for your feedback, I will record it in detail.
+Speaker2: No problem, I hope the company gets better and better.
+Speaker1: I'll definitely do it, thank you for your advice again. I'll contact you if I have other questions.
+Speaker2: Okay, let's keep in touch, bye.
+Speaker1: Goodbye.

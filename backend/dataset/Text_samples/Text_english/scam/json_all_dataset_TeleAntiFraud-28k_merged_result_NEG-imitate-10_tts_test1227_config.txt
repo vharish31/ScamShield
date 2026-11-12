@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of Agricultural and Commercial Bank, do you have any recent funding needs?
+Speaker2: Hello, Zhang Manager, I recently have a little need, but how can I operate specifically?
+Speaker1: Do you want to know about a special discounted loan product with an annual interest rate of only 0.3%, and a maximum loan amount of one hundred thousand yuan?
+Speaker2: How do I apply for it?
+Speaker1: It's very simple. Just download our app, fill out some basic information, and we'll have a specialist review it quickly. You'll be able to get the loan soon.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, our app is officially released through regular channels, you can rest assured. Just click this link to download directly.
+Speaker2: Okay, let me try.
+Speaker1: Great, download it and feel free to contact me anytime if you have any questions.
+Speaker2: Thank you, I will contact you.

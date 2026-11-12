@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Where are you?
+Speaker1: I'm at the bus station, it'll take about twenty minutes to get there.
+Speaker2: So far?
+Speaker1: Okay, I checked, it's about twenty kilometers.
+Speaker2: I'll be right back, just a minute.
+Speaker1: Okay, hurry up.
+Speaker2: Hey, be careful on the road.
+Speaker1: Thank you, I'll call you back when I arrive.
+Speaker2: Okay, be careful on the road.

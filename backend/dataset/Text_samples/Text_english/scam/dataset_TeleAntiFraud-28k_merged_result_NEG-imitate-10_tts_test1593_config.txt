@@ -1,0 +1,10 @@
+Speaker1: Hello, this is China Construction Bank. I am Xiao Wang, the credit manager. We have a special promotion for a loan product with a very low interest rate. Are you interested in learning more?
+Speaker2: I don't need a loan, thank you.
+Speaker1: Oh, that's right. But this opportunity is really rare, you just need to provide some personal information, and we can approve it for you, and it's free.
+Speaker2: I'm still not considering it, thank you.
+Speaker1: That's really too bad. But if you change your mind, you can add my WeChat, contact me anytime, my WeChat number is ZXBankLoan.
+Speaker2: Okay, thank you.
+Speaker1: No problem, I hope our service can help you. By the way, we have a new customer promotion activity recently, just scan the code through WeChat to get it, are you interested?
+Speaker2: Scan the code to get the reward? It sounds good, how do I join?
+Speaker1: Great! Just add my WeChat and I'll send you a QR code, scan it to join the activity.
+Speaker2: Okay, let's add each other on WeChat.

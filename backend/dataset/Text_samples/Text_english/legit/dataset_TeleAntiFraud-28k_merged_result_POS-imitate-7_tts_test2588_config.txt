@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me? I'm Xiaoming, your voice sounds a bit small.
+Speaker2: Can you hear me? My signal here is not good, you speak louder.
+Speaker1: Okay, do you have time today? Let's go shopping together.
+Speaker2: Want to go shopping? I have to go to the library today, but I have some time in the evening, can we eat dinner together?
+Speaker1: Okay, let's meet at that new hotpot restaurant. I heard it's good.
+Speaker2: Okay, I know that place. What time are you arriving?
+Speaker1: I arrived at six, you?
+Speaker2: I'm six too, so let's meet at the store door.
+Speaker1: Okay, see you then, be careful on the way.
+Speaker2: Okay, be careful on the road, see you later.

@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, can you hear me?
+Speaker1: I am a customer service representative for a food platform, and I saw that you ordered takeout from us yesterday. Would you like to know if you are satisfied with the service you received?
+Speaker2: No worries, it's just that the delivery time for the food is a bit late, everything else is fine.
+Speaker1: Thank you very much for your feedback. We will definitely try to optimize delivery time. Moreover, if you place another order, we can offer you some discounts, such as reducing delivery fees or giving you a small gift.
+Speaker2: That's good, I will pay attention next time I place an order.
+Speaker1: Great, by the way, our platform now has a new activity. As long as you place an order over five times within the next month, you'll get a 50 yuan discount coupon.
+Speaker2: That sounds good, I'll consider it.
+Speaker1: Thank you again for your support. If you have any questions or suggestions, please feel free to contact us anytime.
+Speaker2: Okay, thank you.

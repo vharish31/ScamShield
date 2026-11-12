@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have a vegetarian set menu at your restaurant?
+Speaker2: Yes, we have many vegetable dishes, you can choose according to your taste.
+Speaker1: What about the price?
+Speaker2: The prices of the vegetable set meals range from 30 to 50 yuan, depending on the specific content of your choice.
+Speaker1: Hey, can I reserve a spot for tonight at around seven o'clock?
+Speaker2: Of course, the 7 pm location has been reserved for you.
+Speaker1: Okay, thank you. By the way, I have a few friends coming, we'll probably need a slightly bigger table.
+Speaker2: No problem, we will prepare a table for four to six people for you.
+Speaker1: Okay, see you then.
+Speaker2: Okay, wait for your arrival. Bye!

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm here to deliver a package, how do you get home?
+Speaker2: Hey, hi, you come from the community gate, straight walk, to the first crossroad right turn, see the place with big trees, I live on the second floor of the building next to the big trees.
+Speaker1: Okay, I know, does that building have keycard access?
+Speaker2: Okay, you press the doorbell, I'll open the door for you.
+Speaker1: Okay, I'll be there in a few minutes.
+Speaker2: I'll wait for you. It should take about five minutes.
+Speaker1: Okay, I'll hurry up, can you wait a moment?
+Speaker2: No problem, be careful on the road.
+Speaker1: Thank you, I'll call you back when I arrive.
+Speaker2: Okay, I'll wait for your call.

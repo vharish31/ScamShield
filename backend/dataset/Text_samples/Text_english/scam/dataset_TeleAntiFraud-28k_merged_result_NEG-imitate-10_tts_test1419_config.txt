@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Liu Xiao, the customer service representative for China UnionPay.
+Speaker2: Hello, what do you have?
+Speaker1: That's it, our system detected an incomplete financial transfer transaction in our account, and we need your cooperation to handle it.
+Speaker2: Oh, really? Then what should I do?
+Speaker1: To ensure your financial safety, please click on a link to verify your identity information.
+Speaker2: Okay, what is the link?
+Speaker1: Please wait a moment, I'll send you a text message with a link. Just follow the instructions after clicking on it.
+Speaker2: Okay, I'll take a look later.
+Speaker1: To speed up processing, please operate now, we will lock your account here to prevent funds from being stolen.
+Speaker2: Okay, then I'll go operate right away.

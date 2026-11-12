@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, I ordered a phone online yesterday, can you tell me roughly when it will arrive?
+Speaker2: Hello, little Li, I am customer service Zhang, can you please provide me with your order number so I can help you query it?
+Speaker1: Okay, my order number is 1234567890.
+Speaker2: Okay, just a moment, I'll check for you. Hmm, your order is expected to be delivered tomorrow afternoon, is that convenient for you to receive?
+Speaker1: Tomorrow afternoon is okay, but it's best if you can deliver it to the company because there's no one at home.
+Speaker2: No problem, I can help you change the delivery address, please tell me the company's address.
+Speaker1: Okay, the company address is XX district XX road 123 number, XX building.
+Speaker2: Okay, I have already revised it for you. It will be delivered to your company tomorrow afternoon. Please pay attention to check it.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, feel free to contact us if you have other questions, wish you a happy life, goodbye!

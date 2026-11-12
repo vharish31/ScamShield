@@ -1,0 +1,8 @@
+Speaker1: Hey, how come my takeout hasn't arrived yet?
+Speaker2: Hello, I'm a delivery boy from the store, I just left the store, it should take about twenty minutes to get to your place.
+Speaker1: Okay, I'm waiting, remember to deliver to the community door.
+Speaker2: Okay, the community door is there, I know.
+Speaker1: Okay, there's a security booth at the door, you can call me when you arrive.
+Speaker2: Okay, I arrived. Please come down when I call.
+Speaker1: Okay, I understand, thank you.
+Speaker2: No problem, be careful on the road.

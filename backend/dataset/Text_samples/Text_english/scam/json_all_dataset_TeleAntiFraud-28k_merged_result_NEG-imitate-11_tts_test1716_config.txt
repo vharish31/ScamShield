@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Hey, who are you?
+Speaker1: I am a customer service representative for happy express, your package was returned because the address was not detailed, please confirm.
+Speaker2: Really? Then what do we do?
+Speaker1: Please don't rush, we have a solution now, but you need to download our latest express tracking app first, so you can check your package status anytime.
+Speaker2: Do you want to download the app? Yes, how do you download it?
+Speaker1: Okay, just click this link to download directly.
+Speaker2: Okay, I'll try.
+Speaker1: Great, please download and register after, then contact online customer service, we will help you handle this issue.
+Speaker2: Okay, I'll go do it now.

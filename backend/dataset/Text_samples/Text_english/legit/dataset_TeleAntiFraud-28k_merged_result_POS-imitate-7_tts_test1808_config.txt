@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I'd like to inquire about your appointment service on this side.
+Speaker2: Okay, what service do you want to book?
+Speaker1: I want to book a house cleaning service, there are some problems with the cleaning in my house
+Speaker2: Understood, can you tell me your specific address and convenient time please?
+Speaker1: My address is Happiness Villa, Unit 3, Room 402, convenient time is this Saturday afternoon 2:00 PM.
+Speaker2: Okay, I will arrange it for you. On Saturday at 2 pm, Happy Community, Building 3, Room 402, no problem, I will contact you half an hour in advance to confirm.
+Speaker1: Okay, thank you. By the way, my home has a cat that needs to be paid attention to during cleaning time.
+Speaker2: Understood, we will bring along pet-friendly cleaning supplies to ensure no harm to your pets.
+Speaker1: Thank you very much.
+Speaker2: No problem, if you have other needs, please contact us anytime. Have a nice day. Goodbye.
+Speaker1: Goodbye

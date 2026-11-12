@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative from an instant messaging company. We have noticed some unusual login activity on your account. Please cooperate to verify your identity information to prevent your account from being stolen.
+Speaker2: Is it true or false, why is my account abnormal?
+Speaker1: That's it, our system has detected that your account has been logged in from an unusual location. For the safety of your account, you need to provide some verification information.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your identity card number and bank card number for identity verification.
+Speaker2: This so important information I how can randomly tell you guys, you guys not will be cheater?
+Speaker1: We are a legitimate company and will never disclose your personal information. For your account's safety, please cooperate. If you're not comfortable with phone communication, you can click on our official link to verify.
+Speaker2: Okay, let me try. What is your link?
+Speaker1: Please wait a moment, I will send you a link, please click on the link and follow the instructions after receiving it.
+Speaker2: Okay, I'm waiting for your link.

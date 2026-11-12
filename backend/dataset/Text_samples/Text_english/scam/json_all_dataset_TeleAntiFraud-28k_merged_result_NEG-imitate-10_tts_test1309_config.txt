@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a customer service representative from Agricultural Bank, we have recently introduced a promotion policy for you, are you interested in learning more about it?
+Speaker2: Hey, do you guys have any promotions at the bank? I recently need it, can you tell me?
+Speaker1: We have a new financial product with stable returns, low risk, and is perfect for high-quality customers like you. If you're interested, please click on the link I send you to learn more details.
+Speaker2: Is this link safe? I've encountered fraud before.
+Speaker1: Don't worry, this link is our official link, absolutely safe. For your convenience, I'll send it directly to you, just click and follow the instructions.
+Speaker2: Okay, let me try.
+Speaker1: Great, I'll send it over now. Additionally, if you have any questions, feel free to contact me anytime, my phone number is 13812345678.
+Speaker2: Okay, thank you.

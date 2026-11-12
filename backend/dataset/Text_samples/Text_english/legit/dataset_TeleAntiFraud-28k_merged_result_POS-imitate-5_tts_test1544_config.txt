@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service of Meishikitianzhi, can you confirm if you'll still come on Saturday night?
+Speaker2: Oh, you're talking about food heaven, I'm a bit different here, maybe I'm a bit late.
+Speaker1: Okay, what time do you think you'll arrive? We open at seven in the evening and the latest time for accepting reservations is eight and a half.
+Speaker2: Can I arrive around eight o'clock?
+Speaker1: Sure, we'll reserve a seat for you until 8:00. However, if you're late, we might need to reschedule.
+Speaker2: Okay, I will do my best to be on time. Thank you for understanding.
+Speaker1: No problem, do you need to adjust the number of people for your reservation of four seats?
+Speaker2: The four of them remained unchanged.
+Speaker1: Okay, everything is fine now. See you at eight o'clock on Saturday night. I hope you have a great dining experience.
+Speaker2: Thank you, see you later.

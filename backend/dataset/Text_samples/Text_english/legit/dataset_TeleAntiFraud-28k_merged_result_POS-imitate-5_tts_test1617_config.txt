@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little Li, I just saw your fitness courses on your website, want to know more?
+Speaker2: Hello, little Li, I am the customer service king at the fitness center, very happy to serve you. What courses do you want to know about?
+Speaker1: I'd like to know more about the basics of yoga classes, including the price and class times.
+Speaker2: Alright, our fundamental yoga course starts every Monday, Wednesday, and Friday at 7 pm, each session lasts 90 minutes, and there are a total of 12 classes, with a course fee of 1,200 yuan.
+Speaker1: Hmm, this price sounds good, I've been busy lately and might not be able to come every time, will this affect the course progress?
+Speaker2: No problem, our course schedule is relatively flexible, you can adjust it according to your own time. If you can't come to a class, we can provide you with video courses to help you practice at home.
+Speaker1: That's great, I still want to know more about the discount policies of the membership card.
+Speaker2: We currently have a special promotion, if you choose to purchase a three-month membership card, you can enjoy an 85% discount. Additionally, the membership card also offers discounts on other courses.
+Speaker1: Okay, what should I do if I decide to register?
+Speaker2: If you decide to enroll, you can directly handle it at our front desk or pay online through our official website. After that, a staff member will contact you to confirm the class time.
+Speaker1: Okay, thank you for your detailed introduction. I will consider it.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. I hope you can join us and enjoy a healthy lifestyle. Goodbye!

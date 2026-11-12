@@ -1,0 +1,10 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, I am Xiaoming, I saw you consulted our store smartwatch before, are you still interested?
+Speaker2: Hmm, what about the functionality of that watch?
+Speaker1: This watch supports heart rate monitoring, sleep analysis, and message reminders, and can also be connected to a phone for payment, making it very suitable for daily use.
+Speaker2: What's the price?
+Speaker1: The original price is one thousand nine hundred ninety-nine yuan, now there's a promotion, as long as one thousand six hundred ninety-nine yuan.
+Speaker2: The sound is good, but I'm not convenient to buy now, can I pre-order?
+Speaker1: Of course, you can pay a hundred yuan deposit first and pick up the goods later when it's convenient for you.
+Speaker2: Okay, I'll come back to pick up next week.
+Speaker1: Okay, I'll reserve a room for you next week.

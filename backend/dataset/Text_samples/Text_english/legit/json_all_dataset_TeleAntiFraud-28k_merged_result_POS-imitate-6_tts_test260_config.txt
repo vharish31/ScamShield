@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, what can I help you with?
+Speaker1: I see you have a repair service, I want to know more about it, my home refrigerator broke down, want to know if you can come to repair it.
+Speaker2: Sure, we provide home appliance repair service. Can you tell me the specific problem and model of your refrigerator?
+Speaker1: This is a Haier double-door refrigerator. It hasn't been cold recently, and I don't know which part is broken.
+Speaker2: Okay, in this situation we usually send the master up first to check and then give the repair plan and cost.
+Speaker1: Do I need to make an appointment for a routine checkup at the door?
+Speaker2: Yes, it's necessary to make an appointment in advance, you can choose a convenient time, we will do our best to be on time.
+Speaker1: Can I have some time in the afternoon tomorrow around three o'clock?
+Speaker2: Okay, let's schedule tomorrow afternoon at 3 pm. The teacher will arrive on time. If there are any other issues, feel free to contact me anytime.

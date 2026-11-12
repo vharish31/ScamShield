@@ -1,0 +1,11 @@
+Speaker2: Hey, how are you? What's up?
+Speaker1: Hey, I recently wanted to buy some electronic products, and I saw your smartwatches in your store, so I wanted to know more about the details.
+Speaker2: Okay, our store's best-selling product is the smartwatch, which has all the functions, can make calls, send messages, and monitor health data. What specific needs do you have?
+Speaker1: The main purpose is to monitor heart rate and sleep quality, occasionally check messages.
+Speaker2: This watch is very suitable for you, it has professional heart rate monitoring function, and can automatically track sleep patterns, helping you better understand your health status.
+Speaker1: What's the price? It sounds good.
+Speaker2: This watch costs 2800 yuan, now there's a sale, buying gets an extra discount.
+Speaker1: How much cheaper can I buy during the activity period?
+Speaker2: During the activity, you can enjoy a 90% discount, which is 2520 yuan.
+Speaker1: Sounds good to me, I'll think about it and get back to you if needed.
+Speaker2: Okay, feel free to consult or purchase anytime, we hope our products can help you, goodbye.

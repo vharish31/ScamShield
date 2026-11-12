@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, hi, is it like this, yesterday I rented a car, but it seems like I dropped something in the car, can you help me check it out?
+Speaker1: Okay, could you please tell me the car license plate number and car model? I'll check on this end.
+Speaker2: Okay, the license plate number is Qing A12345, the car model is Volkswagen Passat.
+Speaker1: Okay, I'll check.
+Speaker2: Okay, can you help me?
+Speaker1: Checked, this car has not been rented by anyone else yet, and nothing related to what you mentioned was found in the car.
+Speaker2: Oh, that's it, maybe it fell on another place.
+Speaker1: Yes, you can look again carefully, if you find anything later, remember to tell me.
+Speaker2: Okay, thank you, I will look again.
+Speaker1: No problem, feel free to contact me anytime if you have any questions.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

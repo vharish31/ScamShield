@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the manager of the loan department at China Construction Bank, we have a new loan product with a special discount, are you interested in learning more?
+Speaker2: Uh, loan? I recently have a bit of cash flow that needs to be addressed.
+Speaker1: Great, this loan product is perfect for you. However, to ensure your information is accurate and error-free, I need you to provide some personal information, including your ID number, bank card number, and verification code.
+Speaker2: Okay, I provide you with. Identity card number is one two three four five six seven eight nine zero one two three four five, bank card number is six seven eight nine zero one two three four five six seven eight nine zero one two three, verification code is four five six seven eight.
+Speaker1: Thank you for your cooperation. I have recorded everything on my end. To complete the final review, please click on this link to download our official app and follow the instructions.
+Speaker2: Okay, I'll go download it now.
+Speaker1: After downloading, please enter the verification code "four five six seven eight" in the app to ensure the loan is successfully issued. If you have any questions, please contact me at any time.
+Speaker2: I understand, thank you, Zhang Jingni. I will complete it quickly.
+Speaker1: No problem, wish you all the best. If you have any questions, feel free to contact me anytime. Goodbye.
+Speaker2: Okay, bye.

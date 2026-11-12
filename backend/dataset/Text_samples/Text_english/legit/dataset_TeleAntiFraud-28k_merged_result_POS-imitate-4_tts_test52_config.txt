@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any backpacks suitable for outdoor travel here?
+Speaker2: Yes, we have several brands here that are quite suitable for outdoor activities. Which one do you want to know about?
+Speaker1: Have you heard of the brand called "Shānxiān kǎnzhù" online?
+Speaker2: There are different series of mountain exploration here, such as lightweight ones suitable for short-term travel and strong endurance ones suitable for long-term outdoor exploration.
+Speaker1: If I want a longer trip, which series should I choose?
+Speaker2: For long-term travel, I recommend you choose the durable series, which is not only durable but also has a large capacity, allowing you to carry more equipment.
+Speaker1: What is the price of this series?
+Speaker2: The prices for the Strong Endurance series range from 200 to 500 yuan, with specific details depending on the style and configuration you choose.

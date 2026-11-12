@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Lin first teacher?
+Speaker2: Hey, who are you?
+Speaker1: Hello, I am the client manager of the Commercial Bank, and we noticed that you may have recently had a need for capital rotation. We can provide unsecured loans here, do you have any recent needs related to capital?
+Speaker2: Oh, I don't need this aspect at the moment, thank you.
+Speaker1: Okay, but if you need anything, you can add my WeChat, feel free to consult anytime, this is my WeChat number: 1234567890.
+Speaker2: Okay, I will consider it.
+Speaker1: Additionally, we have a special promotion here, if you apply for a loan through our app, you can enjoy a month of zero interest, are you interested in learning more?
+Speaker2: This one sounds good, how do I download this app?
+Speaker1: It's very simple. You can download our app through this link: http://www.loanapp.com. After downloading, register and fill out the information, and you'll see your loan amount.
+Speaker2: Okay, let me try.

@@ -1,0 +1,12 @@
+Speaker1: Hello, I am Xiaoling, today I want to consult your delivery service
+Speaker2: Hello, I am the little king of the delivery service platform, what can I help you with?
+Speaker1: I'd like to know more about your delivery range. I live in the Happy Small Community in Dongcheng District.
+Speaker2: Our happy community is within our delivery range, you can relax when ordering
+Speaker1: Is it possible to deliver after 10 pm if I order in the evening?
+Speaker2: Okay, our platform's delivery time is at 11 pm tonight, but there might be a slight delay.
+Speaker1: Okay, I'm still worried it's too late and no one will send. By the way, if I want to order hot pot, do you have any ingredients to provide?
+Speaker2: Yes, we have special fire pot food sets on our platform, you can directly select
+Speaker1: Great, now I can relax. And how is the delivery fee collected?
+Speaker2: Delivery fees are calculated based on distance and order amount. You can place an order first, and the system will automatically calculate the specific cost.
+Speaker1: Okay, I understand. Thank you for your help, little king.
+Speaker2: No problem, feel free to contact me if you have other questions, enjoy your meal!

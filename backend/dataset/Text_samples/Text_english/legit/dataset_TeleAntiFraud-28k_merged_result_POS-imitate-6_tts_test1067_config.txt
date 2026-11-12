@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you? I recently came across a house I like, do you have any suitable housing options here?
+Speaker2: Hello, do you have a specific area in mind for looking at houses?
+Speaker1: I want to see the city center, best if it's near the park.
+Speaker2: Okay, there are several options for apartments near the park in the city center, one is a two-bedroom one-unit, and the other is a three-bedroom one-unit. What's your preference?
+Speaker1: Hey, can you give me a detailed introduction of two-room one-hall apartments?
+Speaker2: Of course, this two-bedroom apartment is located on the north side of the city center park, with an area of about 80 square meters, modern decor, excellent lighting, and comes with all furniture, just a five-minute walk to the park.
+Speaker1: How about the price?
+Speaker2: The monthly rent for this apartment is 6500 yuan, which includes property fees and internet fees. If you decide to rent it, you need to pay two months' deposit.
+Speaker1: Hmm, the price is reasonable, can we schedule a time to check out the house?
+Speaker2: Of course, what time is convenient for you?
+Speaker1: Is it okay to meet at 10 am on Saturday morning this week?
+Speaker2: I'll be at the property at 10 am on Saturday morning.
+Speaker1: Okay, see you at 10 am on Saturday. Thank you for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival. If you have any other questions, please feel free to contact me anytime.

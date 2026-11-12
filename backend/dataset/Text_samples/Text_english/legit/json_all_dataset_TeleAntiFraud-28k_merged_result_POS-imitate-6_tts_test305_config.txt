@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang. My company computer has some problems recently. Do you have any recommendations for a new computer in your store?
+Speaker2: Hello, little Zhang, we have many brands of computers here, what specific configuration do you need?
+Speaker1: The main use is for office work, occasionally play games, the budget is roughly around 10,000 yuan.
+Speaker2: I recommend a notebook that has good balance in configuration, good performance, and is suitable for both work and leisure use, and its price is within your budget.
+Speaker1: How long does the battery of this computer last?
+Speaker2: This laptop's battery life is approximately 8 hours, which can meet your daily usage needs.
+Speaker1: That's great, I plan to go to your store tomorrow afternoon around 3 pm.
+Speaker2: Okay, tomorrow afternoon at three o'clock I will be here waiting for you, and I will prepare your favorite products in advance.
+Speaker1: Thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a smooth journey.

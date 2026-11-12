@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What's up?
+Speaker1: That, I bought a phone case at your store yesterday, but I found some problems today.
+Speaker2: Okay, what's the problem? Can you tell me specifically what situation it is?
+Speaker1: The phone case has a small crack on the edge, I think it's a quality issue.
+Speaker2: I'm so sorry to bring you an unpleasant shopping experience.
+Speaker1: Can this phone case be returned or exchanged?
+Speaker2: Of course, you can bring up your shopping receipt and any problematic phone case to our store, and we will handle the return or exchange for you.
+Speaker1: Okay, I'll go there when I have time tomorrow.
+Speaker2: Okay, see you tomorrow. If you have any questions, feel free to contact us anytime.

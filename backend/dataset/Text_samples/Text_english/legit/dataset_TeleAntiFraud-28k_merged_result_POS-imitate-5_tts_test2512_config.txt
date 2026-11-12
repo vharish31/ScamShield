@@ -1,0 +1,10 @@
+Speaker1: Hey, are your store still open?
+Speaker2: Hello, are you still working? Is there anything I can help you with?
+Speaker1: I want to reserve a spot, around seven in the evening.
+Speaker2: Okay, what time is seven o'clock position for reservation?
+Speaker1: Four of us.
+Speaker2: Okay, the four positions have been reserved for you. Do you need the window position?
+Speaker1: If possible, we would like to sit by the window.
+Speaker2: Understood, the position by the window has also been arranged, do you have any other things that need to be notified in advance?
+Speaker1: Is there anything on the menu that we should be particularly careful about for our friend who is allergic to seafood?
+Speaker2: The menu will have special marks for seafood dishes. Please pay attention to them later, and we will remind the kitchen to be careful.

@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am the manager of Agricultural and Commercial Bank.
+Speaker2: Hello, Li Manager, what do you have?
+Speaker1: That's right, we recently launched a new financial product with high returns and low risk. Would you be interested in learning more about it?
+Speaker2: Hmm, that sounds good, what are the specifics of your financial products?
+Speaker1: This wealth management product is specially designed by our bank for customers, with an annual yield of up to 10%, and it's guaranteed, very safe.
+Speaker2: A 10% return is indeed very attractive. But how do I know it's true?
+Speaker1: You can first invest a small amount of money, try it out. We have a specialized financial account here, you can directly operate it online.
+Speaker2: Online operation? How do I operate then?
+Speaker1: You can download our mobile app and register to see this financial product. If you don't want to download, I can send you a link, just click on it to register.
+Speaker2: Okay, let me try. You give me the link.
+Speaker1: Okay, just wait a moment, I'll send the link to your phone. Once you get it, just click on it and follow the instructions.

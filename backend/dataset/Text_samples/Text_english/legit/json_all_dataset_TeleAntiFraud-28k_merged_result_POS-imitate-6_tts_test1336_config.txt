@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I saw a washing machine in your store that I'm interested in, can you give me some specific information about it?
+Speaker2: Hello, I'm very happy to serve you. What kind of washing machine are you interested in?
+Speaker1: Can you tell me the model and price of the best-selling mini washing machine in your store?
+Speaker2: Of course, our best-selling mini washing machine model is XW-120, priced at 2500 yuan.
+Speaker1: What are the features of this washing machine? Is it suitable for small households?
+Speaker2: This washing machine is very suitable for small households, it has a compact size, high cleaning efficiency, full functionality, and water-saving features.
+Speaker1: Can you deliver and install immediately if I order now?
+Speaker2: Okay, we will arrange for delivery and installation within 24 hours after you place your order.
+Speaker1: Okay, I'll place an order now. Also, do you have a warranty for after-sales service?
+Speaker2: Yes, we provide a one-year warranty service. If you encounter any issues, you can contact us anytime.
+Speaker1: Thanks for your detailed answer. Bye.
+Speaker2: You're welcome, hope you have a nice shopping, bye.

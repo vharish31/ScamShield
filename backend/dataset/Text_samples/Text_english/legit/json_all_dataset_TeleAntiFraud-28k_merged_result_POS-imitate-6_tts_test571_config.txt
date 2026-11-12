@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Can I drive you to your restaurant?
+Speaker2: Hello, how are you? Of course, we have a designated parking spot, you can call us when you arrive, we'll send someone to pick you up.
+Speaker1: Okay, I'll probably be there in twenty minutes. Can you reserve a window seat for me?
+Speaker2: No problem, the window seat has been reserved for you, just tell our server the name of the dish when it's time to order.
+Speaker1: What's the name of the dish?
+Speaker2: You can use your name or the last four digits of your phone number, so we can verify.
+Speaker1: Okay, I'll use the last four digits of my phone number, which is 1380.
+Speaker2: 1380, okay, we have recorded it, see you later.
+Speaker1: Okay, thank you, I'll hang up, see you later.
+Speaker2: Okay, be careful on the road, see you later.

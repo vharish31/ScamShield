@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, just ordered some takeout from your store, want to confirm.
+Speaker2: Hello, little Li, I am a waiter at the store, what is your order number?
+Speaker1: Have you looked up my order number 123456 yet?
+Speaker2: Okay, I'll check, just a moment. I found it, your order has already been packaged, the delivery man is on his way.
+Speaker1: How long will it take to get there?
+Speaker2: According to the current road conditions, it should take approximately 20 minutes to arrive.
+Speaker1: Okay, I'm waiting at home. By the way, I noted not to put chili peppers, remember to remind your hand.
+Speaker2: Don't worry, your notes have been recorded, and your hand will pay attention to them.
+Speaker1: Thank you so much, you guys worked so hard.
+Speaker2: No problem, this is what we should do, remember to enjoy the meal when it arrives, if you have any issues please contact us.

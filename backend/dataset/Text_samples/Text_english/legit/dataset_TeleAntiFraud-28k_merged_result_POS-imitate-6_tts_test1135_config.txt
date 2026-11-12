@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me? What's up?
+Speaker1: Hi, I'm the customer service of the food delivery platform. I noticed that you've been placing a lot of orders on our platform recently. Would you like to share your thoughts on our services and menu?
+Speaker2: That's good, the delivery is also fast, but sometimes the food can get cold.
+Speaker1: Thank you very much for your feedback. We will report this situation to the delivery team to avoid it happening again.
+Speaker2: Okay, then thank you.
+Speaker1: Additionally, our platform currently has a new user referral activity. If you recommend a friend to use our services, both of you will receive a 30 yuan discount coupon.
+Speaker2: This activity sounds great, I have a few friends who often order takeout, I can recommend it to them.
+Speaker1: Great, you can send recommendation links to your friends directly through our platform's sharing feature. Very convenient.
+Speaker2: Okay, I'll give it a try, thank you for the introduction.
+Speaker1: You're welcome! If you have any other questions or need help, feel free to contact us anytime. Have a happy life!
+Speaker2: Thank you, goodbye.

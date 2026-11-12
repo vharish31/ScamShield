@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang. Do you have any new phone models here?
+Speaker2: Hello, little Zhang, we have some new phones here, which specific information do you want to know about?
+Speaker1: Can you tell me detailed information and price of the blue X series phone I recently looked at?
+Speaker2: The blue X series phone is our best-selling here, with all functions, 5G, dual camera, large battery. The current promotion price is three thousand eight hundred yuan.
+Speaker1: Can I buy it now? It sounds good.
+Speaker2: Sure, we have fresh produce here, you can come anytime.
+Speaker1: Great, I'll go now. Where can I find your store?
+Speaker2: Our store is on the third floor of the electronics market in the city center. You arrived at the electronics market. The elevator directly goes up to the third floor. Our store is on the left side of the second door face.
+Speaker1: Okay, I understand, thank you for your help, see you later.
+Speaker2: No problem, see you in a while, welcome to come.

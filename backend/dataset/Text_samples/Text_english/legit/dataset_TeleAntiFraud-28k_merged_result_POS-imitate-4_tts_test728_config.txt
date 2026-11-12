@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm little Zhang, we arranged to meet today, where are you?
+Speaker2: Hey, little Zhang, I'm at the coffee shop, come over quickly, I'm waiting for you here.
+Speaker1: Okay, I'm going there now, what's the name of that coffee shop?
+Speaker2: Is that the "Time and Space Coffee Shop" across from the park, do you remember?
+Speaker1: Remember remember, I just passed, about ten minutes ago.
+Speaker2: Okay, I'm waiting for you here, be careful on the road.
+Speaker1: Thank you, see you later.
+Speaker2: See you later.

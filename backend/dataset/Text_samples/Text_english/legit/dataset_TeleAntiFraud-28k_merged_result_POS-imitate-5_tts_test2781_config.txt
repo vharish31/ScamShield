@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can I ask if your takeout service is still normal?
+Speaker2: Normal, normal, you can still enjoy an eighty percent discount if you order now.
+Speaker1: That's great, I want to order a beef stir-fry and a sweet and sour pork ribs.
+Speaker2: Okay, beef stir-fry and sweet and sour pork ribs, one portion, no problem.
+Speaker1: How long will it take you to send it over there?
+Speaker2: In general, it takes about thirty minutes to arrive.
+Speaker1: Okay, I live in the Yangguang Huanjuan Xiǎojī, can you call me a notification when you come over?
+Speaker2: Of course, we will call you fifteen minutes in advance.
+Speaker1: Thank you, I'll wait for your message.
+Speaker2: Okay, wish you enjoy your meal, bye.

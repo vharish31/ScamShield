@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, can you help me take a look?
+Speaker2: Hello, of course, what brand do you want? What's your budget roughly?
+Speaker1: I want an apple, roughly within a budget of 10,000.
+Speaker2: Okay, the new iPhone 14 Pro is approximately this price. Which color do you want?
+Speaker1: I like the deep space gray one, how's the battery life of this phone?
+Speaker2: The gray color of the deep space is very classic, the battery life of iPhone 14 Pro is very good, and it has no problem with normal use for a whole day.
+Speaker1: That's great, I'm still worried about the battery not being durable. Is this phone in stock now?
+Speaker2: Yes, we have fresh produce in the store, you can come anytime to pick.
+Speaker1: Okay, I'll be able to arrive around 3 pm tomorrow afternoon.
+Speaker2: Okay, tomorrow afternoon at three o'clock, we'll wait for you at the store.

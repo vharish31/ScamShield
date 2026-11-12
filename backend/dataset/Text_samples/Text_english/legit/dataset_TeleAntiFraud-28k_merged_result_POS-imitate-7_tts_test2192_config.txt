@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Can you tell me what the menu is at your restaurant?
+Speaker2: Our restaurant's signboard menu is red braised pork and steamed fish, many people recommend these two dishes.
+Speaker1: How much does that sound good for?
+Speaker2: Red braised pork is 35 yuan per portion, steamed fish is priced differently based on size, between 50 to 80 yuan.
+Speaker1: Okay, what are your business hours?
+Speaker2: Our restaurant business hours are from 10 am to 10 pm, on weekends they will be extended to 11 pm.
+Speaker1: Do I need to make reservations in advance for going out on Sunday night this week?
+Speaker2: It's usually more crowded on Sundays at night. It's recommended to book in advance to ensure a seat.
+Speaker1: Okay, can I reserve a four-person seat for Sunday evening at 7:00 PM?
+Speaker2: Sure, I'll book a four-person table for you on Sunday evening at 7pm. Do you have any special requests?
+Speaker1: No need, thank you.
+Speaker2: Okay, see you then, welcome to come.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of Guangdian Tongxin Communications Company. We have detected a quality issue with the phone you recently purchased on our platform and need to process a refund for you.
+Speaker2: Wow, really?
+Speaker1: Yes, to confirm your information, please provide your purchase order number and payment bank card number.
+Speaker2: Okay, the order number is one two three four five, the bank card number is six two two two zero eight eight eight eight eight eight eight eight eight.
+Speaker1: Thank you for your help. To speed up the processing speed, please click on the link in the text message we sent you, and complete the refund verification.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Please wait a moment, in order to ensure the safety of the funds, we need you to provide a verification code, the verification code will be sent to your phone.
+Speaker2: Okay, I received it. The verification code is 1234.
+Speaker1: Thank you very much, we have already processed your refund application, the money will be returned to your account within one to three working days.
+Speaker2: Thanks for your help.

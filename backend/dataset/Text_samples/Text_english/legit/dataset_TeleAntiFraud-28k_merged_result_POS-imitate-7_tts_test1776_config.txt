@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I made a massage appointment for you guys yesterday, want to confirm the time?
+Speaker2: Hello, Xiao Ming, I am Xiao Zhang, responsible for appointment service. Is your appointment at 3 pm today?
+Speaker1: Yes, it's three o'clock this afternoon.
+Speaker2: Okay, I have recorded your appointment. Please remember to arrive ten minutes early, we will prepare for you.
+Speaker1: Okay, what is your specific address?
+Speaker2: We are on the third floor of the city square, next to the subway station exit.
+Speaker1: Okay, I know. That's my contact phone number is eight eight six six two two four four, if there's any change, you can contact this number.
+Speaker2: Okay, we have recorded your contact information. If there are any changes, we will notify you promptly.
+Speaker1: Thank you, I'll see you in the afternoon.
+Speaker2: Okay, see you in the afternoon. Wish you a happy day.

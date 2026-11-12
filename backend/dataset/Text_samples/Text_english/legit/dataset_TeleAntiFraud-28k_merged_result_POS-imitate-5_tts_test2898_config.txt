@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I am Li Ming, I consulted the fitness course last time at your store.
+Speaker2: Oh, Li Ming, I remember you, you were quite interested in our one-on-one private lessons at that time.
+Speaker1: Hey, I recently decided to start working out, could you guys tell me your current class schedule?
+Speaker2: We currently have courses in the morning, afternoon, and evening, you can choose a suitable time.
+Speaker1: When can I start classes?
+Speaker2: You can first try a free course to see if it's suitable, and we'll arrange it formally if you agree.
+Speaker1: When can I come to try it out?
+Speaker2: Do you have any free time tomorrow afternoon at four o'clock? I can help you book a coach.
+Speaker1: Can I go directly to your place at four o'clock tomorrow?
+Speaker2: Okay, come over and we'll be ready in advance.

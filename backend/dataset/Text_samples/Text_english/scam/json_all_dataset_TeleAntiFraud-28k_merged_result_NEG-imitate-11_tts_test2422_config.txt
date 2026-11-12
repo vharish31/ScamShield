@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, from speedy express, you have a package that needs to be processed.
+Speaker2: Uh, is that so? What issues did my package have?
+Speaker1: Your package was lost during transportation, we now need you to cooperate for compensation.
+Speaker2: What should I do now?
+Speaker1: Please provide some basic information, including your name, phone number, and ID number, and download our claims app so we can process it.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can click on the link I sent you, download our claim-specific app, and follow the instructions to operate it.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Okay, download it and log in immediately to fill out the relevant information. We will process your claim request within 24 hours.
+Speaker2: Thank you, I'll download it now.

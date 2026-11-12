@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about the signature dishes of your restaurant?
+Speaker2: Our family's signature dishes include spicy Sichuan hot pot, steamed fish with ginger and scallions, and golden fried chicken, all of which are very popular.
+Speaker1: What is your business hours?
+Speaker2: We open the door at 10 am every morning and close it at 10 pm every night. Welcome you anytime.
+Speaker1: Okay, I plan to come over at seven o'clock tomorrow night. Do I need to make a reservation in advance?
+Speaker2: I suggest you book in advance, especially on weekends when there are many customers. Can I help you book?
+Speaker1: Okay, let's reserve the 7 pm spot for tomorrow night.
+Speaker2: Okay, I have booked it for you. See you later!

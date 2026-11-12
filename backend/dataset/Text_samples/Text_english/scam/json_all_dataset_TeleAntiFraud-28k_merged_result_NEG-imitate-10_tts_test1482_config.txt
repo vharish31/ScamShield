@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, JD customer service specialist, here's a notice about the recent purchase of your product.
+Speaker2: Hello, I have recently been shopping on JD, how about you?
+Speaker1: We found that there might be some issues with your order, to ensure your rights, we need you to cooperate with us to complete a simple verification.
+Speaker2: Okay, what do I need to do?
+Speaker1: It's very simple. Just click on the link we send to you, enter your order number and verification code, and we'll be able to help you solve this problem.
+Speaker2: Okay, can you send me a text message? I'm not convenient for a phone call right now.
+Speaker1: Sure, but to solve the problem more quickly, I suggest you complete the verification directly through the phone. This way we can immediately help you handle it.
+Speaker2: Okay, let me try.
+Speaker1: Okay, just a moment, I'll send you the link right away. Please keep the phone line open, we might need further verification.
+Speaker2: Okay, I'll wait for you.

@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you have a four-meter truck here?
+Speaker2: Yes, do you need to rent?
+Speaker1: Yes, I want to rent a room for a month, how much is it?
+Speaker2: How much do you think it costs to rent a 4.2 meter cargo truck for a month? Do you need to know more about the other services?
+Speaker1: Does the rent include oil fees and toll fees?
+Speaker2: Rent does not include gas and toll fees, you need to pay these fees yourself.
+Speaker1: What documents do I need to provide?
+Speaker2: You need to provide your ID and driving license, and we also need to collect a certain deposit.
+Speaker1: How much is the deposit?
+Speaker2: The deposit is 10,000 yuan. If the car is not damaged at the end of the rental, the deposit will be fully refunded.
+Speaker1: Okay, then I'll go take a look at the car tomorrow.
+Speaker2: Okay, see you tomorrow, remember to bring your ID and driver's license when you come.

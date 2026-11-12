@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you looking for our store location?
+Speaker1: Yes, I am at the subway station exit, can you tell me how to walk?
+Speaker2: Which exit are you at now? Our store is on the right side of the second exit, just walk straight for two hundred meters left and right, you will see a red sign.
+Speaker1: Okay, I'll be out in a minute. How long will it take to get there?
+Speaker2: Walking is about fifteen minutes, if you take a car, you should be there in five minutes.
+Speaker1: I'll take a taxi, time is a bit tight.
+Speaker2: Okay, tell the driver to go to the red color sign at the right side of the second exit when you take a taxi. The driver should know that.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, be careful on the road, talk again when we meet.

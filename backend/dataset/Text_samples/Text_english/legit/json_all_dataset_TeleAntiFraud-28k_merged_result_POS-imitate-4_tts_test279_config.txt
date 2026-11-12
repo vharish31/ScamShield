@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: I found your home cleaning service online and wanted to know more about it.
+Speaker2: Okay, we provide cleaning, moving, and maid services. Which one do you specifically need?
+Speaker1: I want to find a nanny to help with household chores, the kind that comes once a week
+Speaker2: Sure, we have a professional housekeeper who can provide regular in-home services. Can you specify which services you need?
+Speaker1: The main thing is to clean, wash clothes, and cook food.
+Speaker2: Understood, all these service contents can be included. You can choose to pay by the hour or choose a monthly subscription, which one is more suitable for you?
+Speaker1: Can you specifically say the price of monthly service?
+Speaker2: Of course, the price for package monthly service is determined based on specific needs and service time. If you need Auntie to come for five hours every week, you would need about 200 yuan per month.
+Speaker1: Does it sound good? Then do I need to make a reservation in advance?
+Speaker2: Yes, to ensure Aunt can arrive on time, we suggest booking in advance a week. You can book through our website or phone.
+Speaker1: Okay, I'll think about it. Thank you for your help.
+Speaker2: No problem, feel free to contact us anytime if you have any questions. We hope our service can be of help to you.

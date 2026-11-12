@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of Haigou Mall, have you recently purchased a product on our platform?
+Speaker2: Okay, what now?
+Speaker1: We found some issues with your order, please work with us to resolve them.
+Speaker2: What problem?
+Speaker1: Your order has been mistakenly marked for a refund, but the product has already been shipped. To avoid unnecessary trouble, please click on the link to confirm your order status.
+Speaker2: Okay, what should I do?
+Speaker1: Just click on this link and follow the instructions on the page. The link is: http://fakeurl.com/orderconfirm
+Speaker2: Okay, I'll handle it now.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact our customer service at any time.
+Speaker2: Okay, thank you.

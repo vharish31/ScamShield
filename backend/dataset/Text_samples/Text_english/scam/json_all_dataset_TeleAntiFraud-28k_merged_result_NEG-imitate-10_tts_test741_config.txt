@@ -1,0 +1,11 @@
+Speaker1: Hello, are you free to talk now? I'm Zhang, the customer manager at China Construction Bank.
+Speaker2: Hey, say something.
+Speaker1: Is that so? Recently our bank introduced a new financial product with a very high return rate. Would you like to know more about it?
+Speaker2: I don't understand finance, is your product safe?
+Speaker1: Absolutely safe, this product is exclusively launched by the bank and is managed by a professional team, with low risk.
+Speaker2: How do I operate it?
+Speaker1: It's very simple. Just click this link to download our exclusive app, and follow the instructions to buy it.
+Speaker2: Am I afraid that the operation of the APP is too complex?
+Speaker1: No problem, feel free to contact me if you have any questions after downloading. I'll help you solve them.
+Speaker2: Okay, let me try.
+Speaker1: Hello, please try it and let me know if you have any questions. Good luck with your investment!

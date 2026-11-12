@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any suitable part-time jobs here?
+Speaker2: Yes, we have various part-time job opportunities here, such as salespeople and activity assistants. When do you have free time?
+Speaker1: I have time every afternoon this week.
+Speaker2: That's great, I can recommend some suitable jobs for you. Do you have any specific location requirements?
+Speaker1: It's best to be in the city center, where transportation is convenient.
+Speaker2: Okay, I will find some part-time jobs in the city center for you. What's your contact information?
+Speaker1: My phone number is 000000000, you can send a text message or call me.
+Speaker2: Okay, I will reply to you quickly, thank you.

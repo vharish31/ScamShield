@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have any two-person dishes here?
+Speaker2: Hello, we have several dishes here that are suitable for two people, such as the couple's set, which includes two main dishes, one salad and two drinks, priced at 250 yuan.
+Speaker1: Can I choose the main dish of this menu that sounds good?
+Speaker2: Sure, we have beef, fish and chicken that you can choose from, you can pick based on your taste.
+Speaker1: Sure, can I make an early reservation?
+Speaker2: Of course, can you please tell me your name and contact information? We will make a reservation record for you.
+Speaker1: I am Li Huai, my phone number is 1381236789.
+Speaker2: Okay, Li Xiāngshēng, your information is recorded now, the appointment time is tomorrow evening at seven o'clock, remember to be on time.
+Speaker1: Okay, thank you, see you later.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm the delivery guy you ordered from, I'm here now, where are you?
+Speaker2: Hello, I'm on the 5th floor, which door did you arrive at?
+Speaker1: You should be able to see the big sign at the south gate that says 'Welcome' in English.
+Speaker2: Okay, I know, just a moment, I'll be right down.
+Speaker1: Okay, hurry down, the wind outside is a bit big.
+Speaker2: Okay, I'll be quick.
+Speaker1: When you come down, remember to bring cash, I don't have any money to lend.
+Speaker2: No problem, I brought enough cash.
+Speaker1: Okay, wait for you to come down.
+Speaker2: Okay, I'll go down now.

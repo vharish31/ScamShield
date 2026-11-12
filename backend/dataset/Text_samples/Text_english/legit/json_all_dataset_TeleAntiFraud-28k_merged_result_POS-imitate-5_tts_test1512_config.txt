@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service of Meituan Waimai, have you ordered food from our platform recently?
+Speaker2: What's up?
+Speaker1: We found out you gave a negative review for your recent order. We want to know the specific details and see how we can help you resolve the issue.
+Speaker2: Oh, that delivery was particularly slow, waited for over an hour, the food was cold.
+Speaker1: I'm very sorry to bring you a bad experience, we usually deliver within 30 minutes. Can you tell me which specific order is yours?
+Speaker2: Just yesterday, you guys were still on the big platform, how was the service so bad?
+Speaker1: I apologize again, there were some special circumstances last Friday, our delivery person may have encountered traffic congestion. To compensate for your loss, we can give you a free meal, how about it?
+Speaker2: Okay, but next time definitely send faster.
+Speaker1: Definitely, we will strengthen the training of our delivery staff, to ensure that such a situation does not happen again. Your free meal voucher will be sent to your account later, you can use it anytime.
+Speaker2: Okay, thank you.

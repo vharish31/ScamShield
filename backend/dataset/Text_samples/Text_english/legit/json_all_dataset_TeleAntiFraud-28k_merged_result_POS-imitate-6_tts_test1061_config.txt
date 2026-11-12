@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you?
+Speaker2: Sigh, hello.
+Speaker1: I'm Xiaoming, I want to go to your store for dinner tonight, do you have a place?
+Speaker2: Hey, hello little Ming, I am a waiter at the restaurant, what time would you like to reserve a seat?
+Speaker1: Seven o'clock or so, two people
+Speaker2: Okay, 7:00 am for two people, we can reserve this side for you. Do you have any special seat requirements?
+Speaker1: It's best to sit by the window, so you can see the scenery outside.
+Speaker2: Okay, I'll reserve a special spot for you by the window. What's your contact info?
+Speaker1: My phone number is 1345678900, convenient for contact later.
+Speaker2: Okay, I've noted it down. We'll call you ahead to confirm beforehand. See you later!
+Speaker1: Goodbye, see you later, thank you.

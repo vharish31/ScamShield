@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the property management customer service of the community, we are currently conducting an annual check of the water and electricity facilities on this side, would you like to know how your water and electricity usage situation is?
+Speaker2: Hey, hi, everything at my home is pretty normal with water and electricity, I haven't found any issues.
+Speaker1: That's great, to ensure the safety of your home, we hope to arrange a time for a door check, what time is convenient for you?
+Speaker2: Hey, how was your weekend?
+Speaker1: What time segments during the weekend are more convenient for you, morning or afternoon?
+Speaker2: Can I come in the afternoon around several o'clock?
+Speaker1: 3-5 PM, our staff will come to your house to check, you can wait at home.
+Speaker2: Okay, then I'll be waiting at home when the time comes.
+Speaker1: Okay, thank you for your cooperation. If you have any questions, please feel free to contact us anytime. Have a happy life, goodbye.
+Speaker2: Okay, thank you, bye.

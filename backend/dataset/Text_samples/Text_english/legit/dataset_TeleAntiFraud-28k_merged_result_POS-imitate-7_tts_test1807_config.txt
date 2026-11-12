@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I saw your job post on your website and I'm interested in learning more about it.
+Speaker2: Hello, I am a customer service representative. Can you tell me which position information you would like to know?
+Speaker1: Can you tell me more about the front desk receptionist job, specifically what is required?
+Speaker2: The front desk is primarily responsible for welcoming visitors, answering their inquiries, and handling some routine administrative tasks.
+Speaker1: Does this job require work experience?
+Speaker2: We prefer candidates with relevant work experience for this position, but if your communication skills and adaptability are both strong, we will also consider.
+Speaker1: What time is it to go to work?
+Speaker2: The work hours are from 9 am to 6 pm, with a one-hour lunch break in the middle.
+Speaker1: The job sounds good, I've worked front desk before, so I should be able to handle this position.
+Speaker2: That's great, you can send your resume to our email, we will arrange an interview as soon as possible.
+Speaker1: Okay, thank you for your help. I will send my resume over quickly.
+Speaker2: No problem, I'm looking forward to your resume, wish you all the best.

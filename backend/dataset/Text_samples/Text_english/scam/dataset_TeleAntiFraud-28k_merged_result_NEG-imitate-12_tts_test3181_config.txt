@@ -1,0 +1,14 @@
+Speaker1: Hello, are you Li first name?
+Speaker2: Yes, hello.
+Speaker1: This is the Speedy Express customer service representative. We found that there was a problem with your package during transportation.
+Speaker2: Oh, really? What happened to my package?
+Speaker1: There might have been a mistake with your package, to ensure your rights we need you to cooperate and do a small verification.
+Speaker2: What do I need to do?
+Speaker1: Please provide your name and phone number first, and then we will send a verification code to your phone, you just need to tell us this verification code, and we can help you handle this problem.
+Speaker2: Okay, my name is Li Ming, my phone number is 13755558888.
+Speaker1: Okay, Li Ming Xiāngshēng, we have already sent the verification code, please pay attention to check it.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you for your cooperation. We have already recorded your information. To further confirm your identity, please click on the link we sent, follow the instructions on the page, which won't take up too much of your time.
+Speaker2: Okay, I'll go operate now. Thank you for your help.
+Speaker1: No problem, if you have any issues during the operation, please feel free to contact us at any time. Have a happy life, goodbye.
+Speaker2: Goodbye.

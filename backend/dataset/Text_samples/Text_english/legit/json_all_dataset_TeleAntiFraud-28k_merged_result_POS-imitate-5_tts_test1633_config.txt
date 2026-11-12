@@ -1,0 +1,13 @@
+Speaker1: Hello, how can I help you at the flower shop?
+Speaker2: Hi, how are you? I want to book a family cleaning service, do you provide this service?
+Speaker1: We have professional housekeeping staff who can provide comprehensive family cleaning services. What is the size of your home?
+Speaker2: My house is about 120 square meters.
+Speaker1: Okay, for a 120 square meter service, we recommend booking a half-day service time, with a fee of 300 yuan. Do you think it's suitable?
+Speaker2: What time can you schedule the in-home service?
+Speaker1: We have a time slot every day this week, you can choose a convenient time.
+Speaker2: I'll choose this Saturday morning.
+Speaker1: Okay, we noted down. The staff will arrive between 9am and 10am on Saturday morning. You can wait at home until then.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No thanks, is there anything else you need to consult?
+Speaker2: I'm not available right now, but if you have any questions, I'll get back to you. Goodbye.
+Speaker1: Okay, looking forward to serving you again, goodbye.

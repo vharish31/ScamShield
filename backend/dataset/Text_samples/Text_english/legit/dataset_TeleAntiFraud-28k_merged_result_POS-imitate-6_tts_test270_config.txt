@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Ming, and you're little Red?
+Speaker2: Yes, Xiaoming, hello, long time no see, how have you been lately?
+Speaker1: Hi, how have you been lately?
+Speaker2: I'm busy with projects lately, a bit stressed.
+Speaker1: That's quite difficult, what problem did you encounter with the project?
+Speaker2: Well, the main thing is that time is tight, tasks are heavy, and team communication needs to be strengthened.
+Speaker1: Okay, then you should adjust your status carefully and communicate more with team members.
+Speaker2: Thank you for your advice. I'll give it a try. By the way, have you been to a new place recently? How was it?
+Speaker1: Yes, I went to a small town, the scenery was very beautiful, the air was also very good, I felt relaxed a lot.
+Speaker2: That sounds great, I'll find time to relax next time.

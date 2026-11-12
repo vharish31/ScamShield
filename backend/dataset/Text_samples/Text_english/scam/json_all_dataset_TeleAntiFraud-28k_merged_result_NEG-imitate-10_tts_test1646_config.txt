@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm small Li, this is the customer service representative of China Xing Technology, you bought a smartwatch on our platform before, we found that you had some problems during the recent use, do you need help?
+Speaker2: Hello, there is a problem with my watch, can you help me solve it?
+Speaker1: Of course, to better assist you in solving your problem, I need you to provide your purchase order number and your current phone number, so we can register and process it for you.
+Speaker2: Okay, order number is one two three four five six seven, phone number is one three four five six seven eight nine zero.
+Speaker1: Thank you for your cooperation. We have recorded your request on our end. To process your issue more quickly, I suggest you download our company's official app, where you can check the processing progress in real-time and also take advantage of more promotional activities.
+Speaker2: What is the name of this app, and how do I download it?
+Speaker1: You can download "Chinese Assistant" from the app store on your phone by searching for it, or I have a link here that you can click to download it directly, which is more convenient and quick.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much for your support. If you have any questions during the use process, please feel free to contact me at any time. My WeChat number is 134567890, which is convenient for you to consult anytime.
+Speaker2: Okay, thank you for your help.

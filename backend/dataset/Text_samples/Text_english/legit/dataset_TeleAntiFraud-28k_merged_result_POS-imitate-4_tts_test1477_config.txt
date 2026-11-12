@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the small Li's fast food store?
+Speaker2: Hello, yes, can I help with anything?
+Speaker1: Can you deliver two portions of beef and pork ribs with sweet and sour sauce to our office?
+Speaker2: Sure, can you tell me your specific address and contact phone number?
+Speaker1: What is the delivery time for the package at 23 Happiness Road Tech Building, phone number 12345678910?
+Speaker2: We usually deliver within 30 minutes after receiving the order. Your address will take approximately 40 minutes.
+Speaker1: Okay, how much trouble are you guys in? Do you need to pay in advance?
+Speaker2: No, you can choose cash on delivery. We support cash and mobile payment.
+Speaker1: Great, I'll wait for you to send the food. Thank you!
+Speaker2: No problem, thank you for your order, wish you enjoy your meal!

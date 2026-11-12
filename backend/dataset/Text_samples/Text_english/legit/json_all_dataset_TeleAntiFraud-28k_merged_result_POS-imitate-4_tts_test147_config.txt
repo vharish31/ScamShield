@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, the clothes I bought from your store had some issues, I want to consult the return/exchange policy.
+Speaker2: Hello, little Zhang, I am customer service Li, can help you solve this problem. What specific problem did you encounter?
+Speaker1: Is the color of the clothes I received different from the one displayed on the website? Can I exchange it for another color?
+Speaker2: Sure, we support seven-day no-reason return or exchange. You can first send the clothes back to us, and then choose your favorite color to exchange for a new one.
+Speaker1: Who will bear the postage of the mail sent back?
+Speaker2: If the issue is with product quality, we will cover the shipping fees; if it's because you don't like it personally, you'll have to handle your own shipping fees.
+Speaker1: Understood, then what do I need to do?
+Speaker2: You can log in to our website, apply for refund or exchange in the order details, fill in the relevant information and submit. After our review is approved, we will provide the return address and notes.
+Speaker1: Okay, thank you for your help. I will follow the steps you said to operate.
+Speaker2: You're welcome. If you have any other questions, feel free to consult anytime. Wish you a happy life. Bye!

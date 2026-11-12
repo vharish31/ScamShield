@@ -1,0 +1,12 @@
+Speaker1: Is this Ming's house?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm small red, small ming's friend. Recently, I want to change my living place, do you have any suitable housing on your side?
+Speaker2: Hey, friend of little Ming, wait a minute, I'll check if there's anything suitable.
+Speaker1: Okay, thank you.
+Speaker2: What kind of house do you want? What is your rental budget?
+Speaker1: It's best to rent a single room, with rent no more than 3,000 yuan per month.
+Speaker2: Okay, I have a few options here, we can go take a look tomorrow morning.
+Speaker1: Is ten in the morning convenient tomorrow?
+Speaker2: Sure, meet at the door of the small community at 10 o'clock.
+Speaker1: Okay, see you later.
+Speaker2: Bye.

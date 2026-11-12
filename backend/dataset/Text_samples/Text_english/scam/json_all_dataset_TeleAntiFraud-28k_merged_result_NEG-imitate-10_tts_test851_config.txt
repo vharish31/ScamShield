@@ -1,0 +1,11 @@
+Speaker1: Hey, are you Zhang Wei?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Li Xiao from the Commercial Bank's Credit Department. We have a new loan product with a very low interest rate. Would you like to know more about it?
+Speaker2: Hey, a loan, I'm good for now, but you can introduce it, who knows if it'll be useful later.
+Speaker1: Okay, this loan product has no collateral, no guarantee, just need to provide identity card and bank card info, after approval, you can get the loan immediately.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Just click on this link, fill in the relevant information, and we will have a dedicated workperson contact you to guide you through the next steps.
+Speaker2: Okay, let me try.
+Speaker1: Okay, click on this link and don't close the page. Follow the instructions. If you encounter any problems, feel free to contact our customer service at any time.
+Speaker2: I understand, thank you for your recommendation.
+Speaker1: No problem, I hope our service can help you. If you have any other questions, please contact me anytime. I wish you a happy life.

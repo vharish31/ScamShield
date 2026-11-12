@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I made a haircut appointment with you guys yesterday, but today I found out the time wasn't right.
+Speaker2: Okay, I'll check your appointment information. What's your name and what time is your appointment?
+Speaker1: My name is Wang Ping, the appointment time is this afternoon at three o'clock.
+Speaker2: Found it, Wang Ping First, your appointment is at 3 pm today. What time do you want to change it to?
+Speaker1: Can we change to 10 am tomorrow morning?
+Speaker2: Can I change it to tomorrow morning at 10am?
+Speaker1: Okay, thank you.
+Speaker2: No problem, feel free to contact us anytime if you have any questions. See you tomorrow!

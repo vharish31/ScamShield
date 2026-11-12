@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm interested in your taxi service.
+Speaker2: Okay, you say, what help do you need?
+Speaker1: Do you have a car from People's Square to the airport?
+Speaker2: So, do we have a car now, how long can we leave?
+Speaker1: Can I leave around half an hour from now?
+Speaker2: Sure, I'll arrange a car for you, it will take about twenty minutes to reach People's Square.
+Speaker1: Okay, what's the approximate cost?
+Speaker2: The taxi fare from People's Square to the airport is approximately 120 yuan.
+Speaker1: Okay, do I need to pay in advance?
+Speaker2: You can pay in advance or pay after getting on the car, it's up to you.
+Speaker1: I'll pay after getting on the car, thank you.
+Speaker2: Okay, I'll arrange it this way. If you have any questions, please contact me. Be careful on the road.
+Speaker1: Okay, thank you, bye.
+Speaker2: Goodbye.

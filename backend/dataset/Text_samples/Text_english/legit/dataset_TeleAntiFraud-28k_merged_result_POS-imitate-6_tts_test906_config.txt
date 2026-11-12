@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the property management service of the community, and I want to ask you why your water and electricity bills for this month haven't been paid yet?
+Speaker2: Hi, property customer service, I recently went on business trip and forgot to pay.
+Speaker1: You can pay online through our WeChat public account, it's very convenient.
+Speaker2: Okay, I'll try. Also, how's the water pipe issue I reported last time?
+Speaker1: The maintenance technician has already fixed it. He went to your house last weekend to handle it.
+Speaker2: Great, thank you. So, what's the business activity for this month?
+Speaker1: Hey, this month we have a community health lecture and a children's painting competition, if you're interested you can join.
+Speaker2: The sound is good, I will go take a look. Also, my friend is coming to see me recently, do I need to apply for parking in advance if necessary?
+Speaker1: Yes, to ensure there is a parking spot, it's recommended to apply for a temporary parking spot in advance at the property management office or through the phone.
+Speaker2: Okay, thank you for your help. I will handle it in advance.
+Speaker1: No problem, please feel free to contact us anytime if you need help.

@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I am a customer service representative for the public car, have you contacted my colleague about the car accident before?
+Speaker2: Oh, yes, we took a photo.
+Speaker1: Have all the photos been taken?
+Speaker2: Okay, everyone.
+Speaker1: Do you need to repair your car?
+Speaker2: I looked around, it seems like there are no big problems.
+Speaker1: Is the other car serious?
+Speaker2: It's not serious, just a little rough.
+Speaker1: Okay, we'll handle the next steps here. Do you have my colleague's WeChat?
+Speaker2: He added me, but I didn't see him add me.
+Speaker1: I'll say it again to him, so he adds you.
+Speaker2: Okay, thank you.
+Speaker1: No problem, please wait for a moment, we will handle it quickly on this side.

@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am little Li, this side is the happy flower shop customer service.
+Speaker2: Hey, how are you?
+Speaker1: Want to know about the new flower bunches and discount activities that just arrived at our store?
+Speaker2: Thanks, no need.
+Speaker1: Is it time to buy flowers, or do you not need them yet?
+Speaker2: "Hmm, lately there's nothing special I need."
+Speaker1: Okay, if you need anything, remember to contact us.
+Speaker2: Okay, thank you.
+Speaker1: We also recently introduced a custom service, which is very popular.
+Speaker2: Oh, it sounds good, I'll take a look if I have time.
+Speaker1: That's great, if you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome. Have a nice day. Bye.
+Speaker2: Goodbye.

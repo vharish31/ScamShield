@@ -1,0 +1,10 @@
+Speaker1: Hey, how come the delivery hasn't arrived yet?
+Speaker2: Hello, I'm the delivery boy, I see your order is ready, it's on the way, approximately 15 minutes left, can be delivered.
+Speaker1: Okay, please hurry up as much as possible, I'm waiting urgently on this side.
+Speaker2: No problem, I will do my best to hurry up, I will pay attention to safety on the road.
+Speaker1: Please be careful on the road, thank you.
+Speaker2: No problem, you can contact me anytime with any questions, my phone number is 4012356.
+Speaker1: Okay, I know, thank you.
+Speaker2: No thanks, see you later.
+Speaker1: Okay, bye.
+Speaker2: Goodbye.

@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? We are Ele.me, is it convenient for you to order recently?
+Speaker2: Hey, how are you? Do you have any recommendations?
+Speaker1: We recently had an activity, buy for 50 yuan and get 10 yuan off, and new users get extra discount on their first order.
+Speaker2: Listen well, I take a look to see if there's anything I want to eat.
+Speaker1: Sure, our menu has various flavor dishes, such as Sichuan, Cantonese, and home-style, do you have any preference?
+Speaker2: What are some recommendations for clean and light food recently?
+Speaker1: Clear and simple, we have clear steamed fish, white stir-fried shrimp, scallions and white pepper, all of which are very popular.
+Speaker2: Let's try steaming fish with ginger and green onions.
+Speaker1: Okay, these two dishes are really suitable for a clear and light taste. Do you need me to help you order?
+Speaker2: Okay, can you help me?
+Speaker1: No problem, I'll place the order for you now. It will arrive in about half an hour, do you need to make any notes?
+Speaker2: No need, thank you.

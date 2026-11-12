@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm the customer who bought a washing machine at your store yesterday.
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: The washing machine I bought is missing a drain hose. Can you guys send me one?
+Speaker2: We're missing one drainpipe. This problem we've encountered before, maybe it was overlooked during warehouse packing.
+Speaker1: Yes, I searched for half an hour and couldn't find it, it's really not there.
+Speaker2: I'm so sorry to have caused you inconvenience, can I send you a replacement immediately?
+Speaker1: That's great, can you send it over quickly, because I want to use it tomorrow.
+Speaker2: Understood, I will mark urgent handling, can send it out today.
+Speaker1: Okay, I'll wait for your good news now, thank you for your help.
+Speaker2: No problem, feel free to contact us if you have any other questions.
+Speaker1: Okay, thank you again. Goodbye.
+Speaker2: Goodbye.

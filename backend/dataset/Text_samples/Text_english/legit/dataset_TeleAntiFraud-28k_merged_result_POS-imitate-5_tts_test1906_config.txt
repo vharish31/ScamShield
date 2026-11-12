@@ -1,0 +1,12 @@
+Speaker1: Hello, are you the person who has reserved a four-person table for tonight at six o'clock in the food square?
+Speaker2: Yes, it's my appointment, what's the problem?
+Speaker1: No no, we just want to confirm, because today is your scheduled date, we're afraid you might forget.
+Speaker2: Okay, I understand, thank you for reminding me, we will arrive on time tonight.
+Speaker1: Okay, do you have any special dietary requirements that we should know about in advance? For example, do you have any food allergies?
+Speaker2: We have a friend who's allergic to seafood, the others are okay.
+Speaker1: Understood, we will pay special attention when ordering, to ensure that no seafood dishes are included.
+Speaker2: Thank you so much, please help me.
+Speaker1: No problem, this is what we should do. Do you have any other things you need help with?
+Speaker2: I'm not available now, thank you. Let's meet in the evening.
+Speaker1: Good evening, wish you enjoy your dinner. Goodbye.
+Speaker2: Goodbye.

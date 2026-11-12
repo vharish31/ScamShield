@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me more about your fitness programs? Do you have yoga classes here?
+Speaker2: Yes, we have yoga classes here every week on Monday, Wednesday, and Friday evenings from 7 to 8 pm.
+Speaker1: Is this course required to be reserved?
+Speaker2: Yes, to ensure that each student has enough space and guidance, we recommend booking in advance.
+Speaker1: Can I schedule a yoga class for this Friday?
+Speaker2: Sure, I'll help you book a yoga class this Friday. Please provide your name and contact information.
+Speaker1: Okay, my name is Lin Xiaoxiang, my phone number is 1312312312.
+Speaker2: Okay, Xiao Lin, I have already reserved a yoga class for you this Friday. Remember to bring your yoga mat.
+Speaker1: Okay, thank you. Then I see you on Thursday.
+Speaker2: Okay, see you on Friday. Wish you have a happy yoga experience.

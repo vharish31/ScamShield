@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Lee Manager, this is Huaxia Bank, your company's business license can be processed here for a large-scale loan, which can solve your financial problems. Are you interested in learning more?
+Speaker2: Hey, loan, I've been having some trouble with cash flow lately, can you give me some specifics?
+Speaker1: Of course, this loan product is specifically designed for enterprises, no collateral, low interest rate, and the fastest loan approval on the same day. However, in order to complete the loan application, you need to first download our bank's exclusive app and fill in some necessary information.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, our app is certified by the government, and after downloading, you will have professional customer service guide you through the application process. You only need to provide some basic information, very simple.
+Speaker2: Okay, I'll try.
+Speaker1: Great, you can search for 'Huaxia Bank Loan' in the app store and download our app. After downloading, enter the invitation code 123456, and a specialist will contact you.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Okay, feel free to contact me anytime if you have any questions. Wish your loan goes smoothly. Bye!
+Speaker2: Thank you, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, did you go to the hospital?
+Speaker2: I just arrived, there are so many people at the registration desk, hurry up and come over.
+Speaker1: Okay, I'll be there soon. Do you know which department I want to see?
+Speaker2: You are the scheduled respiratory doctor. Remember to bring your ID and health insurance card.
+Speaker1: Okay, I'll leave now, I'll be there in about ten minutes.
+Speaker2: Okay, I'm waiting for you here. It's hard to find my way around in the hospital. I'll help you find your way.
+Speaker1: Great, thank you. Oh, do you have any cash?
+Speaker2: Bring it, you can use both to register and buy medicine. If you're urgent, I can help you first register.
+Speaker1: Great, can you hurry up and go over there quickly?
+Speaker2: No problem, just be careful on the road. Call me when you arrive.

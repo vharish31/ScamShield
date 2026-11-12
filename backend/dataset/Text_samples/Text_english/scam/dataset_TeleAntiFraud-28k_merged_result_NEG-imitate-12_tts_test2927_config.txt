@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm the customer manager of the Guangzhou Yuehai Bank Tianhe Branch, Li Huai.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, our bank recently introduced a new loan product with zero interest and zero down payment. If you have any funding needs, you might want to take a look.
+Speaker2: Oh, this sounds good, but I don't have any cash needs lately.
+Speaker1: That's really too bad. But if you need anything in the future, you can add my WeChat, feel free to contact me anytime.
+Speaker2: Add me on WeChat, okay, tell me your WeChat number.
+Speaker1: Add me on WeChat with the username LHBankManager, feel free to contact me anytime in the future.
+Speaker2: Okay, I'll add you. Are there any other things?
+Speaker1: No longer, thank you for your cooperation, any questions can be contacted through WeChat.
+Speaker2: Okay, thank you, goodbye.

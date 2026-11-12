@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Mr. Wang?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for SF Express, we found that one of your packages was accidentally lost during transportation.
+Speaker2: Is it true or false? What can be done?
+Speaker1: We are very sorry to have caused you inconvenience. To make it up to you, we are prepared to give you a compensation payment.
+Speaker2: That's great, how can I compensate?
+Speaker1: Just click our link, fill out your personal info, and we'll directly deposit the compensation money into your account.
+Speaker2: Link? How do I know this is true?
+Speaker1: You can rest assured, we are a legitimate company, and the link is our official website. For your convenience, I have a link here that you can directly send to you via phone.
+Speaker2: Okay, send it over.
+Speaker1: Okay, please wait for a moment, I will send it over right away. Please click on the link and follow the instructions. If you have any questions, feel free to contact me anytime.

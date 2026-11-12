@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm the customer service at the food square, you booked a birthday party place with us before, do you still need it?
+Speaker2: Ah, hello, yes, I remember I booked it, but what's the specific time coming?
+Speaker1: The reservation is for this Saturday afternoon from 3 to 5, which is two hours.
+Speaker2: Okay, I remember, that day there shouldn't be any problems.
+Speaker1: Great, we'll prepare everything in advance on this side, you just need to bring the birthday cake and guests.
+Speaker2: Okay, I'll prepare the cake myself. You guys can take care of the rest.
+Speaker1: No problem, we will ensure everything goes smoothly. Additionally, if there are any special requirements, such as music or decorations, please let me know in advance.
+Speaker2: That's great, I think I might need some balloon decorations and music playback equipment. Do you guys have that on your side?
+Speaker1: Of course, we have a professional layout team that can provide you with various decoration services. Music playback devices are also included.
+Speaker2: Great, let's settle it that way, thank you for your help.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Happy birthday party!

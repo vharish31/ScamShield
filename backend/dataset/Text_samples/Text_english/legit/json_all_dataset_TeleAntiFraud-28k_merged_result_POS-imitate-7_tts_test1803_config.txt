@@ -1,0 +1,10 @@
+Speaker1: Hey, is it little king?
+Speaker2: Yes, who are you?
+Speaker1: Hey, it's me Li Xiao, how have you been lately?
+Speaker2: Hey, little Li, I'm doing pretty good. How about you? What have you been up to lately?
+Speaker1: I just switched jobs, now I'm working as a product manager at a tech company, it's pretty busy.
+Speaker2: Wow, not bad at all. How do you adapt?
+Speaker1: Hi, it took some getting used to at first, but I'm getting better now. Do you have any free time? Let's find a time to hang out together.
+Speaker2: Hey, I'm free this Sunday, what do you want to do?
+Speaker1: Can I go on Sunday? Do you have any good places to recommend?
+Speaker2: There's a new restaurant that's not bad, we can give it a try.

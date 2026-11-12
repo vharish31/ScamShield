@@ -1,0 +1,14 @@
+Speaker1: Hey, are you Zhang Ming?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer manager at Huatai Bank. Recently we launched a special discount loan product. Would you be interested in learning more?
+Speaker2: Loan? I don't need it now, thank you.
+Speaker1: Oh, that's good. Can you add a WeChat? Sometimes the bank has some internal discount information, I can notify you first.
+Speaker2: Do you want to add me on WeChat? It's not good, I usually don't add people I don't know.
+Speaker1: Okay, I understand your concerns. Would you be interested in learning more about our products? If not, please let me know and I won't bother you.
+Speaker2: Okay, tell me.
+Speaker1: This loan product has a very low interest rate, and the approval process is fast. No collateral is required. If you have any future funding needs, please feel free to contact us at any time.
+Speaker2: It sounds good, but I still think it's unnecessary.
+Speaker1: Okay, then you can see this way, I add you WeChat, later you need to contact me, convenient and quick.
+Speaker2: Okay, then I'll add you on WeChat.
+Speaker1: Great, here's my WeChat QR code, scan it.
+Speaker2: Okay, I scanned it.

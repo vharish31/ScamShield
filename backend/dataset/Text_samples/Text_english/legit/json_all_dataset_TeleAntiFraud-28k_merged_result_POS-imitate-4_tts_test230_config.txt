@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I want to know more about your hairdressing service.
+Speaker2: Hello, Xiao Ming, I am the customer service clerk at the store, what can I help you with?
+Speaker1: How much does it cost to cut your hair on this side?
+Speaker2: The prices for haircuts here vary depending on the stylist, with regular stylists charging 30 yuan and senior stylists charging 50 yuan.
+Speaker1: How many days in advance do I need to book a senior stylist if I want to make an appointment?
+Speaker2: A senior stylist's appointment usually needs to be made one to two days in advance, especially on weekends, when it can be a bit more tense.
+Speaker1: Okay, can I reserve this Saturday afternoon at 2 pm?
+Speaker2: Sure, there's an available time slot on Saturday afternoon at 2 pm, I can help you book it.
+Speaker1: Great, thank you! And how early do I need to arrive?
+Speaker2: I suggest you arrive ten minutes early, so you can relax a bit before cutting your hair.

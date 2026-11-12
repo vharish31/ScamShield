@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Li? This is the customer service representative from Dongjing Bank.
+Speaker2: Yes, hello, what do you have?
+Speaker1: Mr. Li, we found some unusual spending records on your credit card, please cooperate with us to verify, to ensure the safety of your account.
+Speaker2: What should I do, I haven't used my credit card recently.
+Speaker1: To ensure your account is safe, we need you to provide some info, including your ID number and bank reserve phone number, so we can verify.
+Speaker2: Okay, how should I say it to you?
+Speaker1: You can click this link and fill out the relevant information, our system will automatically verify.
+Speaker2: Okay, I'll go operate.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact us anytime.
+Speaker2: Okay, thank you.

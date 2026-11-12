@@ -1,0 +1,12 @@
+Speaker2: Hello, how can I help you?
+Speaker1: Hello, do you have any restaurant recommendations for two people here?
+Speaker2: Of course, what type of restaurant do you want? For example, Chinese, Western, or seafood?
+Speaker1: Hey, do you have any special recommendations for trying different things?
+Speaker2: Have you heard of a new fusion restaurant that combines Chinese and Western elements, with a great environment?
+Speaker1: What is the address of that restaurant that sounds so good?
+Speaker2: The restaurant is located on the third floor of the city square, named "Flavor Exploration", you can directly search it on the navigation.
+Speaker1: What are the business hours of this restaurant?
+Speaker2: This restaurant's business hours are from 10 am to 10 pm, on weekends they are slightly later, until 11 pm.
+Speaker1: I understand, thank you for your recommendation, we'll try it out this weekend.
+Speaker2: You're welcome, I hope you enjoy your meal. If you have any questions, please feel free to contact us anytime. Goodbye.
+Speaker1: Okay, bye.

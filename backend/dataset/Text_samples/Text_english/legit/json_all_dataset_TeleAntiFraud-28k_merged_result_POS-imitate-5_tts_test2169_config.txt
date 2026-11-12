@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, how are you? Can you hear me? Is there anything going on?
+Speaker1: Hi, I'm a customer service representative for some food delivery platform, I noticed that you've been ordering food from us quite frequently recently, would you like to share your feedback or suggestions about our service?
+Speaker2: Hmm, I think your service is pretty good, and the delivery speed is fast too. There's nothing particularly special about it.
+Speaker1: Thank you for your confirmation. We will continue to strive. By the way, have you recently encountered any particularly satisfied or dissatisfied delivery personnel?
+Speaker2: No special dissatisfaction, there's a delivery guy with a very good attitude, and the delivery was very fast.
+Speaker1: That's great, do you have his name or number? We can praise him.
+Speaker2: I see, his name is Li Shi Mao, work number is one two three four five.
+Speaker1: Okay, we noted it down and will feedback to the relevant department. Are there any other things that need help?
+Speaker2: Thank you for your service.

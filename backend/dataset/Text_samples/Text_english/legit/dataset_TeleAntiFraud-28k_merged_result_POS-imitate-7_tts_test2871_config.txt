@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm the property manager of the community, can I ask if you've had any issues with water, electricity or repairs recently?
+Speaker2: Hello, I haven't encountered any problems recently. However, there was a leak in the water pipe at home last week, which has been fixed by someone.
+Speaker1: Okay, that's great. If you encounter similar issues in the future, you can directly contact us, and we will arrange for a staff member to come to your door as soon as possible.
+Speaker2: Okay, thank you. By the way, can you tell me the recent garbage cleaning situation in the community?
+Speaker1: In terms of garbage cleaning, we have already increased the number of cleaning personnel and cleaning times, to ensure the cleanliness of the community environment. If you find any garbage pile-up situation, please inform us immediately.
+Speaker2: That's great, I really feel the garbage has decreased lately, and the environment is cleaner.
+Speaker1: That's great, we'll continue to strive to provide a comfortable living environment for everyone. Are there any other areas that need help?
+Speaker2: I'm not available right now, I have something to do and I'll get back to you later. Thank you.
+Speaker1: Okay, feel free to contact us anytime if you have any questions. Have a nice life, bye.
+Speaker2: Goodbye.

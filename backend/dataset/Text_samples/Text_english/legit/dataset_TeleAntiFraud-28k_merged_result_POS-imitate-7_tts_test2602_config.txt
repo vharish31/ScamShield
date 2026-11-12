@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the food delivery platform. Did your previous order arrive?
+Speaker2: Hello, still not there, I'm waiting here.
+Speaker1: I'm very sorry, we checked and it looks like there was some traffic congestion.
+Speaker2: How long does it need?
+Speaker1: We estimate that it will take approximately twenty minutes, we will urge the delivery man to speed up.
+Speaker2: Okay, I'll wait a moment.
+Speaker1: Thank you very much for your understanding and support. If you have any other questions, please feel free to contact us anytime.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, I hope you enjoy your meal.
+Speaker2: Thank you, goodbye.

@@ -1,0 +1,11 @@
+Speaker1: Hey, are you a fast food store?
+Speaker2: Hello, this is a fast food restaurant. Is there anything I can help you with?
+Speaker1: Hey, what's your menu sign?
+Speaker2: Our store's signboard menu has spicy Sichuan hot pot and sweet and sour ribs, very popular.
+Speaker1: Can I reserve a spicy ribs dish?
+Speaker2: Of course, do you need to place an order now?
+Speaker1: Yes, I want a spicy ribs and a vegetable salad.
+Speaker2: Okay, one spicy soy sauce pork ribs and one vegetable salad, do you need delivery service?
+Speaker1: Can you send it to my address near Tianqiandongmen?
+Speaker2: Okay, approximately 30 minutes from now, you can place your order, and we will prepare it quickly.
+Speaker1: Okay, thank you.

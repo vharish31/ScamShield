@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have any apartments suitable for two people here?
+Speaker2: Yes, we have one bedroom and one living room, as well as two bedrooms and one living room. What specifically do you need?
+Speaker1: It's best if it's a two-room apartment, near the subway station.
+Speaker2: Okay, we have a two-bedroom apartment here, right next to the three-line metro station, very convenient for transportation.
+Speaker1: How much is the rent for this apartment?
+Speaker2: Rent is three thousand five hundred yuan per month, including property fees and internet fees.
+Speaker1: Can I take a look at the house?
+Speaker2: Of course, when is it convenient for you?
+Speaker1: I have some free time on Sunday afternoon at two o'clock.
+Speaker2: Okay, let's meet at the door of the apartment building at 2 pm on Sunday afternoon.
+Speaker1: Okay, see you Sunday afternoon at 2pm, thank you.
+Speaker2: No problem, see you later.

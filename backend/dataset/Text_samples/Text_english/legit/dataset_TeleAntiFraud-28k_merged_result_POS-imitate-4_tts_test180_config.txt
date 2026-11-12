@@ -1,0 +1,9 @@
+Speaker2: Hey, how are you?
+Speaker1: I just saw a phone on your website, can you tell me more about it?
+Speaker2: Okay, which phone do you see?
+Speaker1: That's the new silver smartphone, I don't remember the model number.
+Speaker2: Oh, you're talking about our latest silver smartphone, this phone has a high configuration, with a large memory and a high-resolution camera.
+Speaker1: How much does this phone cost?
+Speaker2: This phone is priced at 3500 yuan, there's a discount promotion now, you can get a phone case and stickers for free
+Speaker1: How long does this promotion last?
+Speaker2: This discount activity is valid this month. If you're interested, please place your order quickly.

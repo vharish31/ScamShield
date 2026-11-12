@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am an agricultural bank manager, Li manager.
+Speaker2: Hello, Li Manager.
+Speaker1: We noticed some unusual activity on your bank account recently. It's possible that someone stole your information.
+Speaker2: Really? Then what do we do?
+Speaker1: To ensure your financial safety, we need some information to verify your identity.
+Speaker2: Okay, what information do you need from me?
+Speaker1: Please tell me your ID number and bank card number, we need to verify them.
+Speaker2: My ID number is 123456789012345678, my bank card number is 62220212345678901234.
+Speaker1: Okay, we have recorded it. There's another issue, we need you to provide a verification code, we will send it to your bound phone.
+Speaker2: Okay, I'll tell you once I receive the verification code.
+Speaker1: Okay, we will send the verification code quickly. Please don't tell anyone else, otherwise the information will be leaked.

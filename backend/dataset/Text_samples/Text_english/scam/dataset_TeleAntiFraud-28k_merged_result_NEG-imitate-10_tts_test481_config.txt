@@ -1,0 +1,8 @@
+Speaker1: Hi, how are you? I'm Ningbo Bank's customer manager Li, our bank recently launched a new loan product with interest rates as low as 2.8%, do you have any recent financial needs?
+Speaker2: Hello, temporarily no need for this.
+Speaker1: Okay, understood. But this product is really great, review is quick, and the loan is approved today. Add a WeChat, you can contact me anytime in the future if needed, my WeChat is LxM123456.
+Speaker2: Okay, then I'll add one more.
+Speaker1: Okay, after you send me a "hello", I'll send you detailed information over here.
+Speaker2: Okay, I understand.
+Speaker1: Okay, let's keep in touch via WeChat. You can contact me anytime if you have any questions. Have a happy life, bye.
+Speaker2: Thank you, goodbye.

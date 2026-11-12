@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, which bank are you from?
+Speaker1: Hello, I'm from Jiangcheng Yinhang's customer service, how are you? We have a very discounted loan product, would you like to know more about it?
+Speaker2: Loan, I currently don't have a need.
+Speaker1: Is that true? This product has zero down payment, zero guarantee, low interest rate, and flexible repayment. If you're interested, you can add my WeChat and I'll send you detailed information.
+Speaker2: Wechat? How do I add you?
+Speaker1: If it's convenient for you, please add this WeChat number: jiancheng yinhang xiao zhù, our team here is professional and can provide you with one-on-one service.
+Speaker2: Okay, let me think about it before I add you.
+Speaker1: Okay, feel free to reach out if you have any questions. My phone number is 13123456 and you can also add me on WeChat for instant answers.
+Speaker2: Okay, thank you.

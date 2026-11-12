@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Can you tell me if this store has any red sports shoes?
+Speaker2: Yes, we have many red running shoes in different styles and sizes here.
+Speaker1: Okay, can I go take a look?
+Speaker2: Of course, our store is open now, welcome you to come try on.
+Speaker1: Where is your store located?
+Speaker2: Our store is on the third floor of the building in the center of the city, with a specific address of 100 Happiness Road.
+Speaker1: Okay, I know the location now, how long will it take me to get to your store?
+Speaker2: If you leave now, you should arrive in about twenty to thirty minutes.
+Speaker1: Okay, I'll leave right away, thank you.
+Speaker2: No problem, see you later.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm the property manager of the community, there's something I want to confirm with you.
+Speaker2: Hello, what's up?
+Speaker1: It seems like your water faucet has a little leak, we found out just now during our inspection.
+Speaker2: Oh, how serious is that? I've been out of town lately, not at home.
+Speaker1: Hello, but if not handled promptly, it may cause water damage. What time is convenient for you, we can come over and take a look?
+Speaker2: Can I come over on Saturday afternoon at 2 PM this weekend?
+Speaker1: Okay, let's meet at 2 pm on Saturday afternoon. I'll be there on time when you arrive.
+Speaker2: Alright, thank you all, you've been too much trouble.
+Speaker1: No problem, this is what we should do. Be careful on your way back, see you later.
+Speaker2: Okay, see you later.

@@ -1,0 +1,10 @@
+Speaker1: Hello, you.
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you recommend some outdoor activities that are suitable for summer and help cool down?
+Speaker2: Of course, now is the best time to go to the mountains for a summer vacation. You can go to the nearby Qingyunshan, which has cool streams and beautiful scenery.
+Speaker1: Does it sound good? Do we need to make a reservation in advance?
+Speaker2: No reservation is needed, but if you plan to go, it's recommended to leave early, there are more people on weekends.
+Speaker1: What time is it best to leave?
+Speaker2: It's best to leave around 8 o'clock in the morning to avoid rush hour and enjoy the coolness of the morning.
+Speaker1: Okay, thank you for your advice. I will consider this time to go.
+Speaker2: No problem, hope you have a great weekend! If you have any other questions, feel free to consult anytime.

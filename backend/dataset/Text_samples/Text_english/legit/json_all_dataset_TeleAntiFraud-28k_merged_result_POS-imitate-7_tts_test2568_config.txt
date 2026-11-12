@@ -1,0 +1,10 @@
+Speaker1: Hey, are you going to the airport?
+Speaker2: Hey, hello, yes, I want to go to the airport.
+Speaker1: Okay, can you confirm the order? I'll come over right away to pick you up.
+Speaker2: Okay, I confirm. How long will you be able to arrive?
+Speaker1: I'll contact you about twenty minutes in advance.
+Speaker2: Okay, I'm waiting for you at the door.
+Speaker1: Okay, be careful, I'll call you when I arrive.
+Speaker2: Okay, thank you.
+Speaker1: No problem, be careful on the road.
+Speaker2: Okay, bye.

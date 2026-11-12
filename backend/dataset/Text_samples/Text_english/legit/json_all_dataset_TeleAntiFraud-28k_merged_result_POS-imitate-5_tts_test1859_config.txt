@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm the customer service of the food square, do you want to know more about our new menu items?
+Speaker2: Hello, new dish? What is it specifically?
+Speaker1: We recently introduced several new flavor stir-fry dishes, as well as special small hot pot, do you like spicy food?
+Speaker2: I can still, sometimes eat spicy.
+Speaker1: That's great! Our spicy stir-fry and hot pot are both very popular, you can try them.
+Speaker2: That sounds good, I can go take a look. What are your business hours?
+Speaker1: What are your business hours, from 11am to 10pm? What time do you find most convenient?
+Speaker2: I usually finish work late, so I might have to stay up until around 7 pm.
+Speaker1: At seven o'clock, people will be slightly less, not in line.
+Speaker2: Okay, I'll come over at around seven in the evening. Thank you for your recommendation.
+Speaker1: No problem, looking forward to your arrival, see you later.

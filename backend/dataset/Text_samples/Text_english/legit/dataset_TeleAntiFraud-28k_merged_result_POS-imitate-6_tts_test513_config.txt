@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Is there housekeeping services on this side?
+Speaker2: Yes, we provide various household services, including cleaning, moving, and repair.
+Speaker1: What does the cleaning service include specifically?
+Speaker2: Our cleaning services include daily cleaning, deep cleaning, window cleaning and more. You can choose the appropriate service based on your needs.
+Speaker1: What is the price like?
+Speaker2: The price varies depending on the service content and size of the area. Generally, it is calculated per square meter. Please tell me your specific needs, and I will give you a precise quote.
+Speaker1: Okay, my house is about 100 square meters, needs a deep cleaning once.
+Speaker2: Okay, a clear and concise conversation, a one hundred and twenty square meter area would roughly cost six hundred yuan.
+Speaker1: This price is acceptable. When can you come?
+Speaker2: We usually need to make an appointment one day in advance. You can choose a convenient time.
+Speaker1: Can we schedule this weekend? How about Saturday morning?
+Speaker2: Saturday morning is okay, we will contact you in advance to confirm the specific time.
+Speaker1: Okay, thank you. See you later.
+Speaker2: Okay, see you later. Bye.

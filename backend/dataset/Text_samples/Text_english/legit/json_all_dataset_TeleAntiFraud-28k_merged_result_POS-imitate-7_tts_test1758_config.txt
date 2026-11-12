@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you little Zhang?
+Speaker1: Yes, I am small Zhang, you are?
+Speaker2: I'm the delivery guy, your package arrived, can you come down and pick it up?
+Speaker1: Okay, I'm at home, you put it in the property office.
+Speaker2: Okay, I'll send it to the property office, you come quickly to pick it up.
+Speaker1: Okay, thank you.
+Speaker2: No problem, come over when it's convenient for you to pick up.
+Speaker1: Okay, I understand, thank you.
+Speaker2: Okay, I'll hang up.

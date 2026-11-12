@@ -1,0 +1,10 @@
+Speaker1: Hello, are you a 4S store for Volkswagen cars?
+Speaker2: Hello, yes, what can I help you with?
+Speaker1: I did maintenance on your car last week, but it seems like I forgot to take back my car key.
+Speaker2: Okay, can you provide your license plate number? We'll check here.
+Speaker1: My license plate number is Jing A 180000.
+Speaker2: Okay, I'll check. Hmm, found it, your car key is indeed here with us.
+Speaker1: When can I pick it up?
+Speaker2: You can come to pick up between 9am and 10am tomorrow morning, we will have someone in charge during this time period.
+Speaker1: Okay, I'll come at nine o'clock in the morning. Thank you!
+Speaker2: No problem, see you tomorrow!

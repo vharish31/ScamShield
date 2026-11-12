@@ -1,0 +1,12 @@
+Speaker1: Hello, you are in the AliExpress customer service center, I am customer service representative Li.
+Speaker2: Hello, what do you have?
+Speaker1: You bought a product from our platform before, but due to logistics issues, we need to process a refund for you.
+Speaker2: Oh, really? How do I handle a refund?
+Speaker1: To facilitate processing, please download our specialized app first and follow the instructions.
+Speaker2: Okay, I download the app.
+Speaker1: After downloading, enter the verification code 16666, then click confirm.
+Speaker2: Okay, I inputted it.
+Speaker1: Okay, please provide your bank card number and verification code. We will directly deposit the refund onto your card.
+Speaker2: Okay, my bank card number is 12345, verification code is 1234.
+Speaker1: Thank you for your cooperation. The refund will be credited to your account within one hour. If you have any issues, please feel free to contact me anytime.
+Speaker2: Okay, thank you.

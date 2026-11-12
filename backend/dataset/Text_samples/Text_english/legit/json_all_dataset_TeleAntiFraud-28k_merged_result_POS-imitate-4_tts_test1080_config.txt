@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm the last user number 1123, can you tell me how to get there?
+Speaker2: Hello, are you coming to our store? Our store is on the third floor of West City Square, just walk straight out of the subway station and turn right at the second red light to get there.
+Speaker1: Get off the subway station and walk straight, turn right at the second red and green light, and then?
+Speaker2: Okay, turn right after that and keep walking straight, you'll see a big billboard, and our store is next to it.
+Speaker1: How long will it take for me to arrive?
+Speaker2: It takes about fifteen minutes to walk from the subway station, but it might take a little longer during rush hour.
+Speaker1: I'll probably arrive in about half an hour. Do you have someone to meet me on your side?
+Speaker2: Okay, you can go directly to the third floor after you arrive, and we will have someone to welcome you.
+Speaker1: Okay, thank you for your help. I'll see you later.
+Speaker2: No problem, be careful on the road, see you later.

@@ -1,0 +1,12 @@
+Speaker1: Hello, you are the Zhang Xiǎojīn, right? This is the Technology Information Service Center in Tiānhéqū, how can I help you?
+Speaker2: Hello, I am Zhang Xiao Jie.
+Speaker1: Zhang Xiǎojīn, wǒ shì Lǐ jīnglǐ, wǒmen zhèbiān jiē dào gànggè shuō nǐ de gèrén xìngxìng fèi yǐngfēi lǐ yòngyòng shì yǐngyòng.
+Speaker2: Really? I recently received a lot of strange information.
+Speaker1: Yes, to ensure the safety of your assets, we need you to cooperate with us in a simple security verification.
+Speaker2: Okay, what should I do?
+Speaker1: First, download our official 'safe verification' app to ensure your information is safe.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, this is specifically designed for our customers. After downloading, you just need to follow the instructions and input your personal information, and we will verify it.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Thank you very much for your cooperation. After downloading is complete, please follow the instructions in the app. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you Li Jing Manager, I'll go download now.

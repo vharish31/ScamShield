@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am the customer service of the city convenience store, how was your experience using the juicer you bought from us last week?
+Speaker2: Hmm, quite good, quite convenient.
+Speaker1: That's fine, our blender has a one-year warranty period. If you encounter any issues while using it, please feel free to contact us anytime.
+Speaker2: Okay, thank you.
+Speaker1: Hey, I heard you might need some kitchen stuff recently, our supermarket has some promotions going on, want to check it out?
+Speaker2: Can you tell me about the promotions?
+Speaker1: Buy any kitchen cutlery set now and enjoy an 80% discount, plus get a free beautiful cutting board.
+Speaker2: The sound is good, I really need a new cutting board lately.
+Speaker1: That's great, you can directly pick up from our supermarket or place an order through our official website, we will deliver it quickly.
+Speaker2: Okay, I plan to go to your supermarket on the weekend, thank you for your recommendation.
+Speaker1: No problem, I'm looking forward to your arrival, wish you a happy weekend, bye.
+Speaker2: Goodbye.

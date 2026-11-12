@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? This is somebao customer service center. Your order has a problem. We need to handle it. Is it convenient for you?
+Speaker2: Uh, is that so? What's the issue with my order?
+Speaker1: That's right, your purchased product was lost during transportation, to compensate you, we need to process a refund, but you need to click on a link first to confirm your information.
+Speaker2: Okay, how do I click on a link?
+Speaker1: Just open the link in the text message and follow the instructions. It's very simple.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, if there are any issues during the process, please feel free to contact us anytime. Wish you a happy life. Bye.
+Speaker2: Thank you, goodbye.

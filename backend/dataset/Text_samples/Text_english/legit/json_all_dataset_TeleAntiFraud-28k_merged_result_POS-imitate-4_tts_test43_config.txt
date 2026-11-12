@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, do you have any recommendations on your side?
+Speaker2: Hello, Xiaoming, we have many phones here. What features do you mainly focus on? Is it photography, or strong battery life?
+Speaker1: I mainly want to use it for gaming, so the processor should be good, and the battery life should be long too.
+Speaker2: Understood, you can consider our latest X game phone, it has the latest processor and a large battery, very suitable for playing games.
+Speaker1: How much does this phone cost?
+Speaker2: This phone is currently on sale for 3299 yuan. If you order now, you can also enjoy additional discounts.
+Speaker1: Hmm, I'll think about it. Yeah, do you support installment payments?
+Speaker2: "Okay, we have various installment payment options, you can choose the one that suits you best."
+Speaker1: What is the interest rate for the installment payment plan?
+Speaker2: The interest rate for installment payments varies depending on the payment platform, but most platforms have low interest rates. You can choose the option with the lowest interest rate.

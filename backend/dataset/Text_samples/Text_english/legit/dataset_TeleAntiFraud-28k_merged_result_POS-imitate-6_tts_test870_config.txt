@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: I saw your rental info on 58.com and wanted to know more.
+Speaker2: Okay, which property did you see?
+Speaker1: Can I take you to see that 800 yuan per month apartment?
+Speaker2: Sure, can you come over now?
+Speaker1: I'll be there in about half an hour, at the same address in the Qianxin district, right?
+Speaker2: Yes, trust zone, no problem, I'll wait for you.
+Speaker1: Okay, I'll go over there in a while. Thank you.
+Speaker2: No problem, see you later.

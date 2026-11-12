@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service representative of the community property management, want to ask if your water and electricity bills have been paid off?
+Speaker2: Hello, not yet, I've been busy lately, forgot to handle it.
+Speaker1: Sure, you can pay through our property service platform or directly at the property office.
+Speaker2: Okay, I'll go to the property management office tomorrow to pay the rent.
+Speaker1: Okay, I'll come over tomorrow. Can I help you with anything else?
+Speaker2: Can you check how the garbage classification in the community has been recently?
+Speaker1: Our community's garbage classification is quite good, each building has a designated garbage classification collection point, and there is a dedicated person checking every day.
+Speaker2: That's good, I also want to pay more attention, do a good job of garbage classification.
+Speaker1: Yes, waste sorting is very important for the environment. Thank you for your support. There are other issues you can contact us anytime.
+Speaker2: Okay, thank you for your reminder, I'll get back to you.

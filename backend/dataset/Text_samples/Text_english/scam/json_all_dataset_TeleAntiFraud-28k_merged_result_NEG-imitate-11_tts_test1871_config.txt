@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Welcome to our happy shopping mall customer service. You had some issues with the products you bought from us before, and now you need a refund. Is that convenient for you?
+Speaker2: Oh, really? How do I handle a refund?
+Speaker1: To ensure your account safety, we need you to verify your identity information first. Please provide your name and the phone number you used to purchase.
+Speaker2: Okay, my name is Li Ming, my phone number is 13812345678.
+Speaker1: Okay, Li Ming Xiāngshēng, the information is now verified. To quickly process this refund, please click on the link we send to you and fill out the relevant information.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, please wait for a moment, our system will immediately send a link to your phone, please pay attention to check it.
+Speaker2: I got it, I'm filling it out.
+Speaker1: Okay, if you have any questions, you can contact our customer service at any time. After processing, we will quickly refund the amount to your account.
+Speaker2: Thank you, now I can relax.

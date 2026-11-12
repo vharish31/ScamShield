@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your store has any new sports shoes?
+Speaker2: Hello, we have the latest sports shoe series here. Which style would you like to know about?
+Speaker1: Can you introduce me to the simple style, white or black?
+Speaker2: Of course, we recently launched a simple black and white color running shoe with a sporty style, which has been very popular. What do you need to know, price or anything else?
+Speaker1: How much does it cost? And does this shoe have stock now?
+Speaker2: This sports shoe costs 299 yuan, it's in stock now, you can come try it on anytime.
+Speaker1: Okay, I'll probably be done by late afternoon. What time will you guys be off?
+Speaker2: Our store's business hours are from 10 am to 9 pm. You can come in the afternoon and it's completely fine. Please come whenever you're convenient.
+Speaker1: Great, I'll be there around four o'clock, see you then.
+Speaker2: Okay, we'll meet you at the store at four o'clock. See you then.

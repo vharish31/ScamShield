@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the manager of the Commercial Bank of China, we recently introduced a new loan product with a low interest rate and fast approval, are you interested in learning more?
+Speaker2: Hey, I'm actually in need of some cash right now, can you give me a detailed explanation?
+Speaker1: Of course, this loan product is very suitable for users who currently have a funding need in the market, and we can provide unsecured, unguaranteed loan services, and the interest rate is very favorable. You only need to provide some basic personal information, and we can quickly approve you.
+Speaker2: What should I do now that it sounds good?
+Speaker1: It's simple, just click on the link I send you and fill out the application form, and we'll have a dedicated customer service representative serve you.
+Speaker2: Okay, let me try.
+Speaker1: Great, here's the link [http://fakeurl.com], just click on it and follow the instructions. If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, I will process it quickly.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Xiaojie?
+Speaker2: Yes, who are you?
+Speaker1: I am a small Zhang from the personal loan department of the Commercial Bank, we recently launched a low-interest loan product, very suitable for your needs.
+Speaker2: "Uh, I don't need a loan right now."
+Speaker1: I understand your concerns, but this product's interest rate is very low, and the approval is quick, and the credit limit is high. You may want to consider it, and you never know if you'll need it later.
+Speaker2: How can I learn more information?
+Speaker1: You can click on the link I sent you, download our app, register and then you'll see detailed information.
+Speaker2: Okay, let me try.
+Speaker1: Great, you can contact me if you have any issues after downloading. My phone number is 13800138000.
+Speaker2: Thank you, I will contact you.

@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Zhang, I just saw a rice cooker on your website, I want to know more about it.
+Speaker2: Hello, little Zhang, I am customer service Li, what can I help you with?
+Speaker1: Hey, I see on your website that you have a multi-functional electric rice cooker, right? It can cook rice, stew meat, and steam vegetables, right?
+Speaker2: Yes, this electric rice cooker has a very complete set of functions. Not only can it cook rice, but it can also stew meat and steam vegetables, making it very suitable for family use.
+Speaker1: Does it have a reservation function, I sometimes work late at night and want to make a reservation in advance, so I can eat a hot meal at home.
+Speaker2: Yes, this electric rice cooker comes with a reservation function, up to 24 hours in advance, very convenient.
+Speaker1: How much does that electric rice cooker cost?
+Speaker2: The original price of this electric rice cooker is 599 yuan, but there's a promotion now, the promotion price is 499 yuan.
+Speaker1: Can you deliver it today if I order it now?
+Speaker2: If you place an order now, we will process it quickly, usually same city delivery can be delivered within two days.
+Speaker1: Okay, I'll place the order now, thank you for your answer.
+Speaker2: You're welcome. If you have any other questions, feel free to consult anytime. Have a happy shopping!

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm near your store, but I can't find it, can you help me find it?
+Speaker2: Hello, where are you now?
+Speaker1: I'm standing near the big market, but I can't find your store's entrance.
+Speaker2: Hey, have you found the small alley next to the market? Our store is at the end of the alley, there's a blue sign.
+Speaker1: Found it, found it, thank you, then I'll go over there right away.
+Speaker2: Okay, come over, we're waiting for you in the store.
+Speaker1: What time does your store close?
+Speaker2: We usually close the door at nine o'clock in the evening, you're coming too early now, don't worry.
+Speaker1: Okay, I'll go now, thank you for your help.
+Speaker2: No problem, be careful on the road, see you again.

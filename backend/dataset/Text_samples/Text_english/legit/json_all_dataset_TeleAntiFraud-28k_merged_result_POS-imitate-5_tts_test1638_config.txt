@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, taxi service?
+Speaker2: Hello, yes, I need to book a car.
+Speaker1: Okay, where are you specifically located now?
+Speaker2: I'm in a small park near my home, which is probably called City Green Zone Park.
+Speaker1: City Green Zone Park, okay, I check. Your destination is where?
+Speaker2: I want to go to the Yangguang Square in the city center.
+Speaker1: Sun Square, okay. Approximately need fifteen minutes car journey. You hope what time start journey?
+Speaker2: Okay, let's meet in about twenty minutes.
+Speaker1: Okay, I'll arrange a car for you. The car will arrive, and I'll call you to confirm.
+Speaker2: Okay, thank you.

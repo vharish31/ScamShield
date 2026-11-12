@@ -1,0 +1,10 @@
+Speaker1: Hey, are your restaurant still open?
+Speaker2: Hello, our restaurant is still open for business, is there anything we can help you with?
+Speaker1: Can you tell me about your signature dishes and how much they cost?
+Speaker2: Our restaurant specialties include red braised pork, steamed fish and kung pao chicken, prices are very reasonable, around thirty to fifty yuan per dish.
+Speaker1: Can I reserve a four-person seat for tomorrow night at six o'clock?
+Speaker2: Sure, I'll make a reservation for four people at six o'clock in the evening tomorrow. Is it necessary for you to provide your contact information for confirmation?
+Speaker1: Okay, my phone number is 138-138-1380, can you confirm it?
+Speaker2: Okay, I have recorded your reservation information. Tomorrow night at six o'clock, for four people, contact number is 13801380138.
+Speaker1: Thank you, see you later.
+Speaker2: No problem, see you later, welcome!

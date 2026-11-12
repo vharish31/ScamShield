@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, do you have any problems with your air conditioner at home recently?
+Speaker2: Hello, little Li, the air conditioner is currently okay, no problems found.
+Speaker1: That's great, I'm the property maintenance person in your community, the weather has changed a lot lately, I'll check it out and prevent any potential issues.
+Speaker2: That's good, but I'm not at home right now, I can only go back in the evening.
+Speaker1: No problem, I'll come over at six o'clock or so, is that convenient for you?
+Speaker2: You should be able to come at six o'clock.
+Speaker1: Okay, I'll arrive at six o'clock precisely, will you open the door?
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, this is my job. If you have any questions, please contact me anytime.
+Speaker2: Okay, see you later.

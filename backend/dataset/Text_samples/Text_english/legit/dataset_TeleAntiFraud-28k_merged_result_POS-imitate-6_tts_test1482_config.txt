@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm looking for a new tea house, do you know how to get there?
+Speaker2: Hey, Flower Tea House? Do you know your current location?
+Speaker1: I am now on the side of the Square of Light.
+Speaker2: Okay, from Light Square, walk straight for about 200 meters left and right, see the first crossroad on the right, then walk straight to the bottom.
+Speaker1: Is there a clear sign at the crossroads?
+Speaker2: Yes, there's a big billboard at the corner of the intersection, which reads 'City Green Zone', you won't miss it.
+Speaker1: Okay, thank you, then how do I recognize the tea house at the door?
+Speaker2: The door of the tea house is wooden, and there's a big wooden sign hanging above it that says "Flower Flower Tea House," very visible.
+Speaker1: Okay, when can I arrive approximately?
+Speaker2: If you leave now, you should arrive in about ten minutes. Be careful on the road!

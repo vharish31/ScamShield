@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Hey, I'm waiting for you at the third exit of the mall.
+Speaker1: Is the third exit near the big screen?
+Speaker2: Yes, that's the big screen next to it, easy to find.
+Speaker1: Okay, I'll be there in about fifteen minutes, you can wait for me there for a bit.
+Speaker2: No problem, I have plenty of time here, you come slowly.
+Speaker1: That's great, I'll be quick, there might be some traffic on the way.
+Speaker2: No problem, I understand, pay attention to safety on the road.
+Speaker1: Okay, I'm calling you now.
+Speaker2: Okay, be careful on the road, see you later.

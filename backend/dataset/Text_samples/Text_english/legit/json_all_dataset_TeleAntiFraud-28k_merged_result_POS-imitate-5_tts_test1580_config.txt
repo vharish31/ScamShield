@@ -1,0 +1,10 @@
+Speaker1: Hello, what kind of pizza flavors does your family have?
+Speaker2: Hello, we have classic Italian, seafood royal, Hawaiian breeze, vegetarian, etc. many flavors here, which one do you want to try?
+Speaker1: Do you have any discounts on seafood now?
+Speaker2: Yes, now you can order the seafood deluxe pizza and enjoy the buy one get one small pizza discount, it's very cost-effective.
+Speaker1: That sounds good, can I have half a portion?
+Speaker2: Of course, we have half, whole, and various other sizes for you to choose from here.
+Speaker1: I'll have half a seafood deluxe and a small Coke.
+Speaker2: Okay, your order is half a seafood royal pizza and a small Coke, which is 45 yuan in total.
+Speaker1: Okay, I'll pay with Alipay. How long will it take to arrive?
+Speaker2: We'll deliver within 30 minutes. Remember to keep the phone line open.

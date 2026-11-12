@@ -1,0 +1,11 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, I'm little Li, recently I want to buy a house, I see you guys selling, want to consult a little
+Speaker2: Hello, little Li, I am small Zhang, a real estate agent. What can I help you with?
+Speaker1: Can you give me a discount on your 60,000 RMB house?
+Speaker2: Is it okay, can we lower the price by a little bit more, to fifty-seven thousand?
+Speaker1: Fifty-seven thousand is still a bit high. Can it be lowered a bit, like fifty-five thousand?
+Speaker2: Fifty-five thousand dollars is a bit difficult, but we can reduce it to fifty-six thousand, how about it?
+Speaker1: I can consider 56,000 words, but I need to understand the surrounding house price situation first.
+Speaker2: Okay, the prices around here are roughly the same, 56,000 is a reasonable option. You can consider it.
+Speaker1: Then I'll think about it, if I decide to buy it, I'll contact you.
+Speaker2: Okay, feel free to contact me anytime, I'm happy to help with any questions you have.

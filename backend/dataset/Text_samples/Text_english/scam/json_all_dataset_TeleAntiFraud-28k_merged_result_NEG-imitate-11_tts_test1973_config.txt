@@ -1,0 +1,10 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm from Eastman Bank's customer service, you may have a more suitable package for the credit card you applied for previously, are you interested in learning more about it?
+Speaker2: Is there any discount?
+Speaker1: That's right, we currently have a special promotion, if you apply through our exclusive link, you can enjoy zero interest installment payments, and also receive extra bonus points reward.
+Speaker2: How do I apply?
+Speaker1: Great, just click this link to apply directly: http://example.com.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you have any questions, feel free to contact me anytime. By the way, to process your application faster, could you please provide your ID number and bank account?
+Speaker2: Yes, my ID number is 123456789012345678, and my bank account is 6222081234567890123.

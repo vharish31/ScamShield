@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at Xiaoming's restaurant? Are you looking to reserve a table or inquire about menu items?
+Speaker2: Hello, could you tell me about your signature dishes and their prices?
+Speaker1: There are several menu boards here, such as spicy pot-sticker, steamed fish, and stir-fried frog, the prices are between 50 to 100 yuan.
+Speaker2: What is your business hours?
+Speaker1: We open at 11am every morning and close at 10pm every night, we have business during both lunch and dinner hours.
+Speaker2: Okay, I want to reserve a place for two people on Saturday evening at around 7 pm.
+Speaker1: Okay, Saturday at 7 pm, for two people, already reserved for you. Do you need to leave a name or phone number?
+Speaker2: No need, just say the reservation directly when the time comes. Also, do you have a free parking spot at your place?
+Speaker1: Our restaurant has a small parking lot next door that provides free parking service, but the parking spots are limited, so it's recommended to come early.
+Speaker2: Okay, thank you for your help, see you on Saturday.
+Speaker1: No thanks, see you on Saturday, wish you enjoy your meal!

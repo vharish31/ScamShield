@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from a courier company. Your package has arrived.
+Speaker2: Okay, thank you. Can I go now?
+Speaker1: Sure, you can pick up your package directly at our express office. If you're not convenient, we can deliver it to your home.
+Speaker2: I'll just go get it myself, it'll be faster that way.
+Speaker1: Okay, the delivery point is on the north side of East Street, you walk left from the metro station for about five minutes to get there.
+Speaker2: Okay, I understand. What do I need to bring with me?
+Speaker1: Please bring your ID, we'll verify the information and then package it for you.
+Speaker2: Okay, I understand, thank you for your help.
+Speaker1: No problem, feel free to contact me if you have any questions. Best wishes for your journey.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

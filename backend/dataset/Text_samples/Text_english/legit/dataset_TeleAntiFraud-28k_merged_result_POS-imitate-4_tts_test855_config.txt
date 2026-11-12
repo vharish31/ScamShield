@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you provide delivery service here?
+Speaker2: Yes, we provide delivery service. What information do you want to know?
+Speaker1: Can you give me a look at your menu?
+Speaker2: Of course, can you leave your phone number? I can send you the menu link via text message.
+Speaker1: Okay, my phone number is 000-000-0000.
+Speaker2: Okay, I will send it to you soon. What time do you want to order dinner?
+Speaker1: Let's meet around six in the evening.
+Speaker2: Okay, time confirmed. Anything else I need to pay attention to?
+Speaker1: No more, thank you.
+Speaker2: Please welcome you.

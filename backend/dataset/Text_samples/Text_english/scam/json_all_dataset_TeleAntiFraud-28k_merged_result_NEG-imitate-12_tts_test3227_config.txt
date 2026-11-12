@@ -1,0 +1,10 @@
+Speaker1: Hey, Chen Zhong?
+Speaker2: Hey, who are you?
+Speaker1: I am a customer manager at one of the big banks, recently we launched a new loan product with a low interest rate and quick approval, would you like to know more about it?
+Speaker2: Uh, loan, I recently have a bit of cash flow problems.
+Speaker1: Great, this product is perfect for you. You can download our app first, register and then check the detailed information.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, our app is officially released through the channel, you can rest assured. After registration, you can also apply for a free small amount loan trial.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you have any issues after downloading, feel free to contact me anytime. My phone number is 4008654321.
+Speaker2: Okay, thank you.

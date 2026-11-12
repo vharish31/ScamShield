@@ -1,0 +1,9 @@
+Speaker2: Hello!
+Speaker1: What time do your store open?
+Speaker2: Our store opens at 10 am and closes at 9 pm.
+Speaker1: Do you guys have any new phone cases today?
+Speaker2: Yes, we have a lot of phone case types here, what material do you want?
+Speaker1: What's the price of plastic?
+Speaker2: A plastic phone case usually costs around twenty yuan.
+Speaker1: Okay, I'll go take a look in a little while.
+Speaker2: Okay, come straight to the store when you arrive, we're easy to find here.

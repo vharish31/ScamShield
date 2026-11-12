@@ -1,0 +1,8 @@
+Speaker1: Hello, this is the customer service of speed selling, your order has a problem, please cooperate to handle it.
+Speaker2: What problem?
+Speaker1: Your order has been mistakenly marked as an exception. Please click on the link we've sent to confirm.
+Speaker2: How to confirm?
+Speaker1: Just click on the link and follow the instructions on the page.
+Speaker2: Okay, I'll handle it right away.
+Speaker1: Okay, let me know once you're done.
+Speaker2: Okay, thank you.

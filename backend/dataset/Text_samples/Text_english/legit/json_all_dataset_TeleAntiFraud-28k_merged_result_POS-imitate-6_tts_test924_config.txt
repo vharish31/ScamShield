@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me?
+Speaker1: I am a customer service representative for an e-commerce company. You have a purchase credit on your account that will expire tonight at midnight. Have you used these credits yet?
+Speaker2: Yes, I didn't notice.
+Speaker1: These points can be redeemed for nearly 4,000 yuan of cash, if you don't exchange them, they will all be cleared. I have already sent you a message, you can open it to take a look.
+Speaker2: Okay, I'll take a look right away.
+Speaker1: These points are accumulated from your regular shopping, which can be used to buy a variety of products, such as liquor, supermarket, mobile phones, electronics, and home appliances.
+Speaker2: What should I do with these points?
+Speaker1: You can order products directly on our platform by selecting them with points.
+Speaker2: Okay, thank you for your reminder.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I'll look for little Zhang
+Speaker1: Little Zhang, did he just go out? Is there anything wrong?
+Speaker2: Hey, that's it, I called him yesterday to set up a meeting today, but he didn't get back to me, do you want to confirm if he still remembers?
+Speaker1: Hey, he should remember that he said he'd come back this afternoon, so when do you arrive?
+Speaker2: Can I arrive around 3 o'clock?
+Speaker1: Three o'clock is fine, he should have come back by then, just come directly.
+Speaker2: Okay, is that the same address as last time?
+Speaker1: Yes, do you remember the road to the address from last time?
+Speaker2: Remember remember, thank you, then see you later.
+Speaker1: See you later, be careful on the road.

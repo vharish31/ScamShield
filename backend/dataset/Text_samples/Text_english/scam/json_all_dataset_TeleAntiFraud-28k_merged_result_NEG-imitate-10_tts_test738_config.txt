@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, currently working at Guangdian Yinhang Bank, I have a special financial product that's perfect for you, are you interested in learning more?
+Speaker2: Hello, I'm pretty busy at work, so I don't pay much attention to these things.
+Speaker1: This product is particularly good, the return is extremely high, and the risk is very low, absolutely worth a look. Just download our official app, register an account to start experiencing it.
+Speaker2: Have you downloaded the app? I haven't heard of your app before.
+Speaker1: This is a newly launched product that is very safe, many users have already started using it. You can first download and try it out, and if you have any questions, you can contact me anytime.
+Speaker2: How do I download it?
+Speaker1: Very simple, I send you a link, you click this link and you can download directly.
+Speaker2: Okay, let me try.
+Speaker1: Great, please download it and register afterwards, then I can give you a detailed introduction of this product.
+Speaker2: Okay, I'll download it and contact you later.

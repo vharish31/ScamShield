@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: What's up?
+Speaker1: Do you know of any good restaurants near your house?
+Speaker2: Hey, I know a new place that's not bad on taste, what type do you want to eat?
+Speaker1: I just want to eat something simple, like noodles or small stir-fry.
+Speaker2: That restaurant has great noodles and small fried dishes. I'll send you the address, come over.
+Speaker1: Okay, I'll leave in a little while. Can you tell me the specific location of your house?
+Speaker2: Of course, I live in Xīn yuè xiǎo quān sān hào lóu, nǐ dào le gè wǒ dǎ yī huā, wǒ xià lóu jiē nǐ.
+Speaker1: Okay, be careful on the road, see you later.
+Speaker2: Okay, see you later.

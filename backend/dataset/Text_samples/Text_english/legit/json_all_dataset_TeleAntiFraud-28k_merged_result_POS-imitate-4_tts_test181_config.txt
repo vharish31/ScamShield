@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform, you have consulted our delivery platform's delivery rider position before, can we have a chat now?
+Speaker2: Okay, I'm here, I just want to know more about your cycling job requirements.
+Speaker1: Okay, our delivery rider position mainly involves delivering food, needs to be proficient in riding a motorcycle or electric vehicle, and has basic navigation skills.
+Speaker2: So, do you have any requirements for age?
+Speaker1: We have certain requirements for age, if there is experience, one can consider fifty years old or younger, but if it's a newcomer, the maximum age limit is forty-five.
+Speaker2: Oh, that's like that, then I might not be in this situation.
+Speaker1: Yes, safety is very important to us, especially for cyclists, age and experience are important factors to ensure safety.
+Speaker2: What should I keep in mind if I recommend someone for a job?
+Speaker1: If you have someone in mind to recommend, you can first understand their age and cycling experience. If they meet the requirements, you can directly submit an application through our platform.
+Speaker2: Okay, thank you for your answer. I will think about it.
+Speaker1: You're welcome. If you have other questions, feel free to consult anytime. Have a nice day!
+Speaker2: Thank you, goodbye.

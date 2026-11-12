@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang. Our company wants to reserve a meeting room for tomorrow.
+Speaker2: Hello, little Zhang, I am front desk Li, what time slot do you want to book?
+Speaker1: Can I be there from 10 am to 12 pm?
+Speaker2: Okay, this time slot is free.
+Speaker1: Great, we're a team of five, so we need to prepare some tea and paper towels.
+Speaker2: Okay, I will prepare in advance. Is there anything else you need help with?
+Speaker1: No need, thank you. If there's any change, I'll contact you again.
+Speaker2: Okay, feel free to contact me anytime. I wish your meeting goes smoothly.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye.

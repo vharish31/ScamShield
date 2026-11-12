@@ -1,0 +1,14 @@
+Speaker1: Hey, hi, I saw on the internet that your store has new coffee machines, I want to ask about it.
+Speaker2: Hello, yes, we have recently added several new coffee machines to our store. Do you have any specific requirements?
+Speaker1: Hmm, I want a simple to operate coffee with good taste, within a budget of around one thousand yuan.
+Speaker2: I understand, we have an automatic coffee machine here that is easy to operate, and the coffee it makes has a great taste, and the price is just right for your budget.
+Speaker1: What special features does this coffee machine have that sounds so good?
+Speaker2: This coffee maker has a pre-set strength adjustment function for coffee concentration, allowing for personal preference adjustments. It also has an automatic cleaning function, making it very convenient to use.
+Speaker1: Great, what colors does this coffee machine come in?
+Speaker2: There are three colors: black, silver, and red. You can choose based on your preference.
+Speaker1: I want to choose silver. Do you have any in stock now?
+Speaker2: The silver is currently in stock, you can directly buy it in the store or choose to have us deliver it to your door.
+Speaker1: What's the address of your store? I plan to visit it tomorrow.
+Speaker2: Okay, we are located at No. 100, Guangming Road, get off at Guangming Station on Line 2 of the metro and turn right to reach us.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a smooth journey.

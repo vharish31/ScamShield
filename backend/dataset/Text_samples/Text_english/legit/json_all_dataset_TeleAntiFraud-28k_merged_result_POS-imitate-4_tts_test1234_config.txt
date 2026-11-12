@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm Xiao Ming, recently I plan to renovate my house, want to consult your company's service content.
+Speaker2: Hello, Xiao Ming, I am decoration company customer service representative Zhang Xiao, very happy to serve you. We provide one-stop decoration service from design to construction. What specific content do you want to know?
+Speaker1: Can you provide me with some information on your quote and construction timeline, as well as any recommendations regarding materials?
+Speaker2: We provide various decoration options based on different decoration styles and customer needs. The price of our basic decoration package is approximately between 500 to 800 yuan per square meter, while our high-end custom decoration is priced according to the actual situation. Our construction period is generally around 40 to 60 days, with specific timeframes depending on the workload. In terms of materials, we use eco-friendly materials to ensure the indoor air quality after decoration.
+Speaker1: Can I schedule a meeting with the designer at the site to discuss the design?
+Speaker2: Of course, we have a professional design team, you can book a designer to come to your home service. We usually arrange a home consultation within two to three days after booking, and provide design solutions based on your needs.
+Speaker1: Okay, what information do I need to provide?
+Speaker2: Please tell us your specific requirements, such as decoration style, budget range, special requirements, etc. If you have a house floor plan, please bring it along.
+Speaker1: Understood, can I schedule an appointment for 2 PM tomorrow afternoon?
+Speaker2: Sure, I'll book an appointment for you tomorrow at 2 pm. The designer will arrive on time. If there are any changes, we'll notify you in advance. What's your phone number?
+Speaker1: My phone number is 000-000-0000.
+Speaker2: Okay, Xiaoming, we have recorded everything. See you tomorrow at 2 pm. If you have any other questions, please call anytime. We hope our service meets your expectations.

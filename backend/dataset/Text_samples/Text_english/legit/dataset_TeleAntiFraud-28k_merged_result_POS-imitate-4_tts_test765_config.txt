@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Zhang, yesterday I reserved a bike at your store, can I pick it up today?
+Speaker2: Hello, little Zhang, yesterday there was a customer who booked a bike, I check your order information.
+Speaker1: Okay, can you help me?
+Speaker2: Found it, your bike is ready, you can pick it up anytime.
+Speaker1: Can I go around three in the afternoon?
+Speaker2: Of course, we'll wait for you at the store at three in the afternoon.
+Speaker1: Okay, thank you, then I will just go directly when the time comes.
+Speaker2: No problem, just come directly. If there are other issues, feel free to contact me anytime.
+Speaker1: Okay, thank you. Then we meet in the afternoon.
+Speaker2: Okay, see you in the afternoon.

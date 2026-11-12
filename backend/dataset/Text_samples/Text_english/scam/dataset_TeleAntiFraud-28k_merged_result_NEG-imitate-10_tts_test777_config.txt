@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? I am the manager of the loan department at Commercial Bank. We have a low interest loan product that you can take a look at.
+Speaker2: Is this loan for real?
+Speaker1: Yes, this is a regular bank product. You just need to provide some basic information to quickly review it.
+Speaker2: What do I need to do?
+Speaker1: Just click this link, fill out the application form, and we'll quickly review it.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the link later, please fill it out as soon as possible, feel free to contact me if you have any questions.
+Speaker2: Okay, thank you.

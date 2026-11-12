@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello,
+Speaker1: Hello, this is the customer service of the Tianxianbaobao toy store. You previously consulted with us about our remote-controlled car, and now we have new stock. Would you be interested in it?
+Speaker2: Hey, is that car? I remember it looked pretty good before, do you have any discounts now?
+Speaker1: Yes, now you can enjoy a 90% discount when buying, and also receive a free car model sticker.
+Speaker2: Can I place an order now that it sounds good?
+Speaker1: Of course, you can place an order now, and we will immediately arrange for shipping.
+Speaker2: Okay, I'll place the order. By the way, how long does your goods usually take to arrive?
+Speaker1: In general, we will send out after ordering on the second day, usually within three to five days we can arrive.
+Speaker2: Thanks for your service, it's really great to have a client like you.
+Speaker1: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy life!

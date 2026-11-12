@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang, I want to know your restaurant's business hours.
+Speaker2: Hello, little Zhang, our restaurant is open from 10 am to 10 pm every day. Is there anything we can help you with?
+Speaker1: Hey, do you guys provide room service, because I want to have dinner with my family this weekend.
+Speaker2: We provide room service, but need to be reserved a day in advance. How many people are there?
+Speaker1: Do you have a room that can accommodate about ten people?
+Speaker2: Yes, we have a room that can accommodate twelve people, the environment is very suitable for family gatherings. You can choose this one.
+Speaker1: Can I make a reservation for this weekend's evening at 7:00 PM?
+Speaker2: Of course, I have already reserved this time for you. Do you need to pay the deposit now?
+Speaker1: Do you need a deposit? What if you suddenly have an event and can't come?
+Speaker2: If you can't come on time, please inform us one day in advance, and we will fully refund your deposit. If you cancel on the day, your deposit won't be refunded.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Li Xiaoling, how about you recently?
+Speaker2: Hey, I'm good, thanks. You?
+Speaker1: I'm good too. Have you heard that you recently changed jobs? How's it going?
+Speaker2: Yes, I'm still adapting to a new environment. It's good, I learned a lot of new things.
+Speaker1: That's great, sometimes changing environment can really help you learn a lot. Hey, do you have time this weekend? Want to go out for a meal together?
+Speaker2: Great, I have some free time this week. Where should we eat?
+Speaker1: Do you want to try the new Xi'an restaurant that's famous for its delicious noodles?
+Speaker2: Okay, I haven't been there yet. What time do we meet?
+Speaker1: Shall we meet at the restaurant at six and a half?
+Speaker2: Okay, no problem. I'll see you later.

@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: Hello, I am a customer service representative from some e-commerce platform. Regarding the expiration of your shopping points on your account, do you know?
+Speaker2: Is the points expired? Can you give a specific explanation?
+Speaker1: Of course. Your account currently has 26,888 points, which can be used to purchase goods worth nearly 4,000 yuan in cash on our platform. However, if they are not used by 12 am tonight, they will be cleared.
+Speaker2: Oh, that's right, I didn't pay attention to it before. So how do I use these points now?
+Speaker1: Just open the message we sent you, click on the link to enter our mall, select the products you like, and then choose to pay with points during checkout.
+Speaker2: Okay, what can these points buy?
+Speaker1: You can use points to exchange various products, such as cigarettes, groceries, phones, electronics, and home appliances. Many products can be directly exchanged or deducted with points.
+Speaker2: Sounds good, I'll take a look. Thanks for the reminder.
+Speaker1: You're welcome. If you have any issues while using it, please feel free to contact me anytime. Have a great shopping!

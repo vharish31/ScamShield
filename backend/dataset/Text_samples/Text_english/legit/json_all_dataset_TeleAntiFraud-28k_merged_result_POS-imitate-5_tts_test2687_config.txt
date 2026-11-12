@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I just placed an order for takeout, but I didn't see you call to confirm the address.
+Speaker2: Hello, little Zhang, I arrived at your location, but the doorbell of the unit didn't respond, maybe you didn't hear it.
+Speaker1: Oh, maybe I was just in the shower, I didn't hear you. Wait a minute, I'll be right down to open the door.
+Speaker2: Okay, but the elevator here needs a password, the password is four digits six wells key.
+Speaker1: Okay, I understand, thank you. Now I'm coming down.
+Speaker2: No problem, remember to bring some money when you come down, in case you need to change it.
+Speaker1: Okay, I will be ready, please wait a moment.
+Speaker2: No problem, I'm waiting for you here.
+Speaker1: Then I'll come down, there might be a bit of a slow pace on the road, don't worry.
+Speaker2: Okay, safety first, no rush.

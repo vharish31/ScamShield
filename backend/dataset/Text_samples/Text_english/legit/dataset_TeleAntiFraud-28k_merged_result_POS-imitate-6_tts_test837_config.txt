@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, we're neighbors, remember?
+Speaker2: Hey, how have you been lately, little king? Of course I remember.
+Speaker1: Okay, just recently there are some small issues at home, want you to take a look?
+Speaker2: No problem, tell me, what's the problem?
+Speaker1: It seems like there's a leak in the water pipe at home, I tried to fix it myself, but it didn't seem to work.
+Speaker2: Well, we should handle leaked water information quickly, otherwise it will become more troublesome when time passes.
+Speaker1: Sure, I think the same way. Do you mind coming over to take a look?
+Speaker2: Sure, I have some free time this afternoon around 3 pm, I can come to your place.
+Speaker1: Okay, I'll meet you at three o'clock, thank you so much.
+Speaker2: Don't be angry, neighbors should help each other, see you later.

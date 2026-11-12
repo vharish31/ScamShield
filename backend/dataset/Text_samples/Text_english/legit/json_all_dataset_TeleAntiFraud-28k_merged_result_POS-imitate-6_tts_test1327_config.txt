@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the Happy Restaurant, I am the hostess, you have reserved a private room with us before, now you want to confirm, is that okay?
+Speaker2: Hey, hello, is it okay, I just want to confirm if there were any issues with the reservation from the other day?
+Speaker1: No problem, your reservation was successful. The room is number ten, the time is tomorrow evening at six o'clock, right?
+Speaker2: Yes, tomorrow evening at six o'clock, I want to take my family there, how many people can sit in that VIP room?
+Speaker1: The room number 10 can accommodate 10 to 12 people, which is very suitable for family gatherings. Moreover, if you have any special dietary requirements, please inform us in advance.
+Speaker2: That's great, my parents are getting old, maybe they need a quieter environment, is the room quieter?
+Speaker1: Yes, our private dining rooms all have independent air conditioning and sound systems, and the soundproofing effect is very good, very suitable for elderly people to dine.
+Speaker2: That's great, now I feel relieved. How early do we need to arrive tomorrow?
+Speaker1: You can arrive at around 5:30, our service staff will be ready in advance. If there's anything that needs to be prepared in advance, you can contact us anytime.
+Speaker2: Okay, thank you for your reminder, see you tomorrow.
+Speaker1: See you tomorrow, wish you enjoy your meal. Bye.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, you good?
+Speaker1: Are you Li's tutor?
+Speaker2: Yes, I am. Are you the parents of little Li?
+Speaker1: Okay, I am. I want to know about small Li's learning situation this week.
+Speaker2: Okay, little Li showed good performance this week. All assignments were completed on time. However, math still has some difficult problems that require more practice.
+Speaker1: That's great, thank you for your feedback. How does he arrange his daily study time?
+Speaker2: We are usually from four to six in the afternoon, during this time he is more energetic.
+Speaker1: I understand, thank you. What would you do to help him if you encountered difficulties?
+Speaker2: I will first let him try to solve the problem on his own, then give him appropriate hints, to ensure he understands and masters the solution method.
+Speaker1: This way is really good. Are there any other aspects that need me to cooperate with?
+Speaker2: You can encourage him to do more practice problems, especially math problems, which is very helpful for improving grades.
+Speaker1: Okay, I will pay attention. Thank you for your help again.
+Speaker2: No problem, let's work together.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hi, I'm little Li, recently I've been considering buying a new TV, do you have any recommendations on your side?
+Speaker2: Hello, little Li, I am the little king of the city of electricity, recently we have a very popular 43-inch intelligent TV here, with complete functions and high price-performance, would you like to know more?
+Speaker1: Hmm, I also considered a 43-inch TV, what specific features does this TV have?
+Speaker2: This TV supports high-definition playback, has multiple built-in video platforms, and smart home control functionality, allowing you to directly control smart home devices using voice commands.
+Speaker1: How about the price?
+Speaker2: The current promotion price is three thousand five hundred yuan, and also includes a year of member services, which is very cost-effective.
+Speaker1: Can I go to your store and take a look?
+Speaker2: Of course, our store is in the central electronics square of the city, when do you have time to come over?
+Speaker1: Can I go around two in the afternoon on Saturday or Sunday?
+Speaker2: No problem, I'll be at the store at the designated time to wait for you. If there are any issues, please contact me anytime.
+Speaker1: Okay, thank you, see you this weekend.
+Speaker2: No problem, see you this weekend.

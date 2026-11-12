@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm little Li, this is Shenzhen Bank, we can see you have a loan need, can provide you a 20,000 RMB low interest loan.
+Speaker2: How can I contact the bank?
+Speaker1: We contacted you through your information and found you to be a perfect match for our high-quality customer standards. Simply click on the link and fill out some basic information to complete the application.
+Speaker2: How do I send that link to you?
+Speaker1: Okay, I will send you a link via text message. Just click on the link and follow the instructions.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Alright, to ensure your information is safe, we may need you to provide some verification codes during the review process, so make sure to check your messages.
+Speaker2: Okay, I understand.
+Speaker1: To speed up the review process, it's best to complete the form within half an hour, so we can release the funds as soon as possible.
+Speaker2: Okay, thank you.

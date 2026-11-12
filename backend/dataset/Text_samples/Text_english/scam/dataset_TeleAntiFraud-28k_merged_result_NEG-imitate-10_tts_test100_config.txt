@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the national express customer service hotline, I am customer service representative Li.
+Speaker2: Hello, do you have anything?
+Speaker1: Your package was lost during transportation, we have already applied for compensation, could you please provide your bank card number so we can quickly handle the compensation matter?
+Speaker2: Really? Thank you so much.
+Speaker1: No problem, this is what we should do. To speed up the reimbursement process, could you please provide us with your bank card number and verification code? We will directly transfer the reimbursement amount to your account.
+Speaker2: Okay, my bank card number is 6228480000000000, verification code is 152464.
+Speaker1: Okay, I have recorded the information. To confirm your information, please click on this link for identity verification. The link will be sent to you via text message shortly.
+Speaker2: Okay, I'll check my messages in a moment.
+Speaker1: Okay, thank you for your cooperation. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

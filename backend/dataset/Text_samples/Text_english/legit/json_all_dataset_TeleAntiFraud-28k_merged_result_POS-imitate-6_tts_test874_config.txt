@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I am small Zhang from community service center, what can I help you with?
+Speaker1: Hello, I want to consult the express delivery query service here.
+Speaker2: Of course, which delivery company are you sending your package to?
+Speaker1: Can I still track the package if I forgot the delivery number?
+Speaker2: If you remember the sender's name or phone number, you can help us query.
+Speaker1: Okay, the sender is me, the phone number is 333-3334-4444.
+Speaker2: Okay, I'll help you look it up. Just a moment.
+Speaker1: Okay, thank you.
+Speaker2: I found it, your package was delivered yesterday at 5 pm, the delivery person is Li Xiao.
+Speaker1: Little Li is my roommate, that's great, thank you for your help.
+Speaker2: No problem, feel free to contact us anytime if you have other questions.

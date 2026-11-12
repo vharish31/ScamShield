@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I'm Xiaoming, yesterday I reserved a private room at your restaurant for tomorrow, can you confirm the time?
+Speaker2: Hello, Xiaoming, what time did you order the private room?
+Speaker1: It's 5:30 PM tomorrow.
+Speaker2: Okay, I'll check. Hmm, the private room for tomorrow at 5:30 PM has been reserved for you.
+Speaker1: Great, thank you. Right, we have ten people, do we need to prepare enough cutlery and chairs?
+Speaker2: No problem, we will prepare plates and chairs according to your number of people. Are there any other special arrangements needed?
+Speaker1: No need, thank you. Another question, we want to try some special dishes, can you recommend a few?
+Speaker2: Of course. Our signature dishes include steamed sea bass, red braised pork belly and scallops with ginger and green onion, all of which are highly praised by our customers.
+Speaker1: Let's try steaming sea bass and stir-frying lion's head meatballs. We can order other dishes later.
+Speaker2: Okay, I've noted it down. See you at five and a half tomorrow, wish you all a happy meal.
+Speaker1: Thank you, goodbye.

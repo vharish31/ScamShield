@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, your friend Li asked me to call you and say you've been looking for work lately, right?
+Speaker2: Yes, yes, I have been looking for new job opportunities recently.
+Speaker1: That's great, I have a good part-time job opportunity here. It's data annotation, flexible time, good income. Are you interested?
+Speaker2: What's the specifics of it?
+Speaker1: That's it, we need a lot of data annotators for our project, you just need to work on your computer at home, three to four hours a day, and you can earn over two thousand dollars a month.
+Speaker2: How do I join?
+Speaker1: Just download our company's app, register an account, follow the instructions to complete some basic tasks, and you can start working.
+Speaker2: Okay, what is the name of this app?
+Speaker1: This app is called "Quick Earn", you can search and download it in the mobile app store, remember to use this invitation code: 1234567, so you can get the new user reward.
+Speaker2: Okay, I'll download it right away, thank you for your recommendation.

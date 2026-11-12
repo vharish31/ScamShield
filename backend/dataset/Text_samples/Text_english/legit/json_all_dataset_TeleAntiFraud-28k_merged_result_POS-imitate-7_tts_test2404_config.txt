@@ -1,0 +1,13 @@
+Speaker1: Hey, how are you? Your package arrived, would it be convenient for you to come pick it up?
+Speaker2: Hey, I'm a bit busy right now, can you help me put it in the property center?
+Speaker1: Sure, the property center is at the left side of the small community door, you can come to get it when it's convenient for you.
+Speaker2: Okay, thank you. There's another thing, I recently want to buy a new smartwatch, do you know which brand is better?
+Speaker1: Smartwatch, I think both Xiaomi and Huawei are quite good, with all the functions and high value for money.
+Speaker2: Oh, I heard that the battery life of Huawei's smartwatch is long, and Xiaomi's is lightweight and beautiful, do you know if you've used it?
+Speaker1: I used smallmi before, it's really lightweight, but huawei's battery life is really good, what do you value more now?
+Speaker2: I might prefer Huawei because I don't like frequent charging.
+Speaker1: That's great, Huawei's smartwatch also has health monitoring functions, suitable for frequent exercisers.
+Speaker2: Great, I'm just checking my fitness data now, thanks for your suggestion!
+Speaker1: No problem, pick the right bracelet, exercise will be more energetic. If there are other things to help, please contact me anytime.
+Speaker2: Okay, thank you again, goodbye!
+Speaker1: Goodbye, wish you happy life!

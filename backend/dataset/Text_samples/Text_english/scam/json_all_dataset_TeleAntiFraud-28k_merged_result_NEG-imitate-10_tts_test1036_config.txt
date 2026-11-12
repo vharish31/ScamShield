@@ -1,0 +1,14 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you little king?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for FedEx, do you have a package that needs to be confirmed for delivery?
+Speaker2: Okay, where is my delivery?
+Speaker1: Your package was lost during transportation, but we have already applied for compensation.
+Speaker2: How to apply for compensation?
+Speaker1: Just click this link and follow the instructions to complete the compensation application.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Please wait, to ensure your information is safe, you need to first download our official app, so you can safely handle compensation matters.
+Speaker2: What is the name of the app?
+Speaker1: Open the app called "Speed Delivery Assistant". Enter your delivery number and start applying.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you all the best.

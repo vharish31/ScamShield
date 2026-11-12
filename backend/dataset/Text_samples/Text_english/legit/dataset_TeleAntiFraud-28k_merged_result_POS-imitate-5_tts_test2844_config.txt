@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Who are you?
+Speaker2: I'm at home, I'm about to leave.
+Speaker1: How long?
+Speaker2: Okay, five minutes.
+Speaker1: If you exceed five minutes, I will cancel it.
+Speaker2: No cancel, I out door now.
+Speaker1: I'll wait for you, there are still forty seconds.
+Speaker2: I'm leaving now, don't worry.
+Speaker1: If you didn't come, I would have called again.
+Speaker2: Okay, I'll hurry up.
+Speaker1: Okay, then I'll wait for you.

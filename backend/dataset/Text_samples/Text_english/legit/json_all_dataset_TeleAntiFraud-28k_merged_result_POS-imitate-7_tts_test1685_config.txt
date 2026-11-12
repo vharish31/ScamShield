@@ -1,0 +1,10 @@
+Speaker1: Hey, are you a city restaurant?
+Speaker2: Hello, welcome to the city's food restaurant, I am server Zhang, what can I help you with?
+Speaker1: Can you tell me about your signature dishes and their prices?
+Speaker2: Our restaurant special dishes include roast duck, steamed fish with clear broth and spicy ginger, and stir-fried with ginger. Roast duck is 80 yuan per portion, steamed fish with clear broth is priced differently based on size between 100 to 150 yuan, and stir-fried with ginger is 70 yuan per portion.
+Speaker1: What are your business hours?
+Speaker2: Our restaurant business hours are from 11 am to 10 pm every day, and on weekends they are extended to 11 pm.
+Speaker1: If I want to book a place now, what time would be around the best?
+Speaker2: I suggest you come between 6:30 and 7:00 for your reservation, there are fewer people during this time, and the environment is relatively quiet.
+Speaker1: Okay, I'll reserve a four-person spot, around 7 o'clock.
+Speaker2: Okay, I have already reserved a table for you. Please inform the hostess of your name when you arrive, and a hostess will greet you. Enjoy your meal!

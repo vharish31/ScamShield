@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am an AliCloud customer service representative. We have noticed some unusual login activity on your account recently. To ensure the safety of your account, we recommend that you take action immediately.
+Speaker2: Wow, really? I haven't used my computer in a while.
+Speaker1: Yes, in order to confirm that you are the real operator, we need you to provide some basic information, such as your name and registered mobile phone number.
+Speaker2: I am Li Huai, my phone number is 134567890.
+Speaker1: Okay, Lee Huang. We found your information. To further verify, please click on the link we sent and install our official safety verification software.
+Speaker2: Okay, I'm waiting.
+Speaker1: Okay, just a moment, I'll send you the link now. After installation, please follow the instructions, and feel free to contact me if you have any issues.
+Speaker2: Okay, thank you.

@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how can I get to your house from here?
+Speaker1: Turn right from the front corner, then walk straight to the third red light, and then turn left, you can see my house.
+Speaker2: Okay, which floor is your apartment on?
+Speaker1: Our house is the blue-colored building with the number eight on it. You can see the convenience store downstairs if you look at the right place.
+Speaker2: Okay, I'll be there soon, you wait for me at home.
+Speaker1: Okay, I'll wait for you at home, be careful on the road.
+Speaker2: Thank you, see you later.

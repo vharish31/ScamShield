@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Who?
+Speaker1: I am little Li, yesterday I made an appointment for today's housekeeping service
+Speaker2: Hello, little Li, we have recorded your appointment, is it at 10 am in the morning?
+Speaker1: Okay, but I have something now, maybe it's a little late, can I?
+Speaker2: Okay, we will adjust the time, you can contact me directly when you arrive.
+Speaker1: Okay, thank you. Is there anything special I need to pay attention to with the cat at home?
+Speaker2: We'll let the aunt with pet-sitting experience come to your house. She'll be especially careful not to scare your cat. Do you need to prepare some cat food and water?
+Speaker1: That's great, I'll prepare the cat food and water for you, thank you for your timely service.
+Speaker2: No problem, this is what we should do. You can contact me if you have any questions after you get home. I wish you a happy day.
+Speaker1: Okay, thank you, bye.
+Speaker2: Goodbye.

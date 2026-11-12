@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Can you recommend a good repairman in your area? My washing machine is broken.
+Speaker2: Yes, we can provide on-site repair services here, where is your home located?
+Speaker1: Can I come quickly in the New Light Garden community?
+Speaker2: Okay, I'll register the information first. What time is convenient for you, we can arrange the teacher to come over.
+Speaker1: It's best if I spend the afternoon today at home.
+Speaker2: Okay, I'll arrange for the teacher to come to your house around 3 pm this afternoon. Is that okay?
+Speaker1: Okay, I'll wait for the teacher to come home.
+Speaker2: Okay, remember the teacher's phone number. If there are any changes, he will contact you in advance.
+Speaker1: Okay, thank you. What is the teacher's phone number?
+Speaker2: The master's phone number is 555-4444, you can directly contact the master if you have any questions.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, goodbye.

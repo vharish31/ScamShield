@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: I'm at the community door, come over quickly.
+Speaker1: Okay, I just got on the bus and arrived quickly.
+Speaker2: Where are you standing?
+Speaker1: I stood at that station in the library, then walked south for a few minutes.
+Speaker2: Okay, just walk a little further and turn right at the first crossroad you see.
+Speaker1: Okay, turn right after that?
+Speaker2: Turn right after the first traffic light, then turn left at the second one and you'll see the community.
+Speaker1: Understood, approximately how long is it left?
+Speaker2: Your speed, it's about ten minutes or so to get there.

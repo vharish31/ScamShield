@@ -1,0 +1,11 @@
+Speaker1: Hello, where are you?
+Speaker2: Hello, I'm from the Happy Community, I heard there's a second-hand piano in your place, do you still have it?
+Speaker1: When would you like to come take a look?
+Speaker2: Can I come at around 10 am tomorrow morning?
+Speaker1: Okay, tomorrow morning at 10 am, I will be waiting for you at the store.
+Speaker2: How much does a piano cost?
+Speaker1: The price of the piano is three thousand five hundred yuan. You can have a look first, and we'll talk about the price if you're satisfied.
+Speaker2: How is the piano? Is there any damage?
+Speaker1: The piano maintenance is very good, both the appearance and sound color are well maintained, you can rest assured.
+Speaker2: I'll come over at 10 am tomorrow to check the specifics.
+Speaker1: Okay, see you tomorrow.

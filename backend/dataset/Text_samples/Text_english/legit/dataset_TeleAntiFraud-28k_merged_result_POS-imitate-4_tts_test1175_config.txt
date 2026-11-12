@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I ordered a takeout from your store, why haven't you delivered it yet?
+Speaker2: Hello, Xiaoming, I'm a delivery boy, now I'm on the road, it'll take about ten minutes or so, just wait a minute or two.
+Speaker1: Okay, can you guys hurry up? I have something urgent on this side.
+Speaker2: I'll do my best, I'll speed up on the road, but also ensure safety, just be patient a little longer.
+Speaker1: Okay, thank you. By the way, do you have any vegetables there? My friend doesn't eat meat.
+Speaker2: Yes, we have many vegetable options to choose from, such as stir-fried three-vegetable, steamed vegetables, you can make a note in the order.
+Speaker1: Can I order a vegetable stir-fry with three slices for my friend, please confirm the order?
+Speaker2: Okay, I have added stir-fried three strands to the order. Please confirm the order information. If everything is okay, I will leave.
+Speaker1: Okay, I confirm. Hmm, no problem, thank you.
+Speaker2: Okay, I will send it quickly, please pay attention to check it.

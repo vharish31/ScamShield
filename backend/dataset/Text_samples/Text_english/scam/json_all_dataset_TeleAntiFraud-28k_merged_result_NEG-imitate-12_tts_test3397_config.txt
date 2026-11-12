@@ -1,0 +1,10 @@
+Speaker1: Hello, this is JD customer service, I am customer service representative Li Xiao, there is an important message that needs to be notified to you.
+Speaker2: Hello, I am Zhang Huai, what do you have?
+Speaker1: John, there are quality issues with the products you recently bought on our platform. We are ready to process a refund for you.
+Speaker2: Is it really? That's great! How do I handle a refund?
+Speaker1: To ensure your funds are safe, we need you to download a refund-only app first, then use it to handle refund matters.
+Speaker2: Okay, what is the name of this app? How do I download it?
+Speaker1: You can download the app called "Anxiety Retreat" from the app store on your phone, register with your phone number after downloading, and follow the instructions to use it.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Okay, after downloading, if you have any issues, feel free to contact me anytime. My phone number is 13812345678.
+Speaker2: Okay, thank you for your help.

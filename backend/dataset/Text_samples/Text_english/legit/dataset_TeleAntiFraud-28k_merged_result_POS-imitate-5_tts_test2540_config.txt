@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm Xiaoming, and I'd like to inquire about your restaurant's situation.
+Speaker2: Hello, Xiao Ming, I am waiter Xiao Wang, what can I help you with?
+Speaker1: What are the business hours of your restaurant?
+Speaker2: Our restaurant is open from 10 am to 10 pm without any break in between.
+Speaker1: I want to reserve a four-person seat, around 7 pm.
+Speaker2: Okay, the 7 o'clock four-person table has been reserved for you. Do you need to inform your name in advance?
+Speaker1: Call little Ming now.
+Speaker2: Okay, Mr. Xiaoming, we will wait for you at the door at the designated time.
+Speaker1: Do you have any recommendations for dishes?
+Speaker2: Our restaurant special dishes include gong bao chicken, qing zheng yu, and xiāng huā xī lán huā, all very popular.
+Speaker1: It sounds good, I'll try it later. Thank you for your help.
+Speaker2: You're welcome, little Ming, we're looking forward to your arrival. If you have any other questions, please feel free to contact us anytime.

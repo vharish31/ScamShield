@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I want to ask about your restaurant's special dishes.
+Speaker2: Hello, Xiaoming, what can I help you with? Our special dishes include red braised pork, steamed fish with ginger and scallions, and spicy and sour hot pot, all of which are very popular with our customers.
+Speaker1: How much do these dishes cost?
+Speaker2: Red braised pork is 35 yuan per portion, steamed fish is priced differently based on size between 50 to 80 yuan, and spicy pot-stewed chicken is 40 yuan per portion.
+Speaker1: Okay, I want to reserve a table for four people, around seven o'clock in the evening.
+Speaker2: Okay, your four-person table has been reserved for you at seven o'clock tonight. Do you have any other needs?
+Speaker1: Can you tell me about any discount activities?
+Speaker2: Of course, we have an activity. Any customer who reserves a table of four or more people can enjoy a 90% discount.
+Speaker1: Great, let's just enjoy the discount directly when the time comes.
+Speaker2: Yes, please tell the server your name and time when you arrive, and we will be ready for you.

@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: What do you recommend for a new phone?
+Speaker2: What do you usually use your phone for? Like playing games, watching videos or work?
+Speaker1: The main thing is to watch videos and occasionally play games, the battery life should be better.
+Speaker2: You may consider this brand's flagship phone, it has a large battery capacity and the screen display effect is excellent.
+Speaker1: What is the approximate price of this phone?
+Speaker2: This phone is currently on sale for 3500 yuan, and also comes with a free pair of headphones.
+Speaker1: Can you deliver it quickly to me since I'm currently abroad?
+Speaker2: Of course, we support all national express, postal delivery to home.
+Speaker1: Then I placed an order, how is your after-sales service?
+Speaker2: Our after-sales service is very good, nationwide warranty, you can contact us anytime if there are any problems.
+Speaker1: Okay, thank you for your recommendation, I'll place an order now.
+Speaker2: No problem, feel free to contact me if you have any other questions. Have a great shopping!

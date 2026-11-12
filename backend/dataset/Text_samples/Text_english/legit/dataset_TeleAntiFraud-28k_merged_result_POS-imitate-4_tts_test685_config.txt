@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if there's a two-person dish available here?
+Speaker2: Yes, we have a romantic dinner set for two, including appetizers, main courses, and desserts, which is very suitable for two people to enjoy.
+Speaker1: How much does this dish cost?
+Speaker2: The price of this menu is 288 yuan, including two glasses of fine wine.
+Speaker1: Hey, what are the business hours of your restaurant?
+Speaker2: Our restaurant business hours are from 11 am to 9 pm every day, and on weekends they are extended to 10 pm.
+Speaker1: Sure, can I reserve a seat for 7 pm tomorrow evening?
+Speaker2: Of course, I can help you book a seat for tomorrow night at 7 pm. Please arrive ten minutes early.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

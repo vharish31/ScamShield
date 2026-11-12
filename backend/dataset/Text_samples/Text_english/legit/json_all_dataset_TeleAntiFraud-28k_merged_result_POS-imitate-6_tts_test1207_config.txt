@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: I came from the bookstore, I saw you bought books from us before, do you have any suggestions for our service?
+Speaker2: Oh, hi, I think your book categories are quite a lot, your service attitude is very good, just sometimes the price of the book is a bit expensive.
+Speaker1: Thank you for your feedback. We will consider adjusting our pricing strategy. By the way, have you read any good books lately?
+Speaker2: I recently read "The Ordinary World," and I think it's well-written. I recommend it to you.
+Speaker1: Okay, I'll remember. Our bookstore has some new books on the shelf lately. You have time to come take a look.
+Speaker2: Okay, I'll go take a look. Thank you for reminding me.
+Speaker1: No problem, if you have any other needs, please feel free to contact me anytime. Have a happy life!
+Speaker2: Thank you, you too, goodbye.
+Speaker1: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from the courier company. Your package has arrived at a nearby delivery point. Would you be convenient to come and pick it up?
+Speaker2: Hello, I'm outside now, I might be late.
+Speaker1: Okay, when can you come? We close at six in the evening here.
+Speaker2: Can I arrive at five and a half before?
+Speaker1: Okay, you can come at 5:30, please bring your ID, you need to present your ID to pick it up.
+Speaker2: Okay, I know now, thank you for reminding.
+Speaker1: No problem, is there anything else you need help with?
+Speaker2: No more, thank you.
+Speaker1: Okay, wish you a happy day, bye.
+Speaker2: Goodbye.

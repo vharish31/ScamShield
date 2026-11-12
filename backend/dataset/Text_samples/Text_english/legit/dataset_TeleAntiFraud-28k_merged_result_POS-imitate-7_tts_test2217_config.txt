@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, your recent order needs to be updated with a new address, can you help me out for a sec?
+Speaker2: Hello, little Zhang, can I, where am I now?
+Speaker1: Can you change it to Huajiang Xiangzi, my friend's house, I went there today?
+Speaker2: Can I go to Huajing Xiāngqū? What is the specific address?
+Speaker1: Hua Jing Xiāo Quān Ér Yī Hào Mén, Sān Hào Lóu Ér Yī Dìán Yī Zhōu Ér Lǐ.
+Speaker2: Okay, I've made the changes here, I should be able to send it over tomorrow afternoon.
+Speaker1: Can you call me when you arrive tomorrow afternoon?
+Speaker2: Okay, we will contact you before delivering goods. Is there anything else you need help with?
+Speaker1: No more, thank you for your help, worked hard.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, wish you a happy day.

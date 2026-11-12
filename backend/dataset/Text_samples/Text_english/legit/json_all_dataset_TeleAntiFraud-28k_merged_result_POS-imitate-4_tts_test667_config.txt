@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the food square, you have made a reservation for dinner with us before, want to confirm your reservation information?
+Speaker2: Hello, I am the person who made a reservation for dinner tonight at six o'clock.
+Speaker1: Yes, your reserved time is at six o'clock. Do you have any special requirements, such as a window seat or a child's chair?
+Speaker2: If there's a spot by the window, that's best, kids like to see the scenery outside.
+Speaker1: Okay, I will arrange a window seat for you. Additionally, we have a discount promotion here, guests who book dinner can enjoy a 90% discount, do you want to take advantage of it?
+Speaker2: That's great, I can save some money now.
+Speaker1: No problem, when you come at the scheduled time, please say so, we will prepare everything for you.
+Speaker2: Okay, thank you for your help, see you later.
+Speaker1: You're welcome, looking forward to your arrival, wish you a happy day.
+Speaker2: You too, goodbye.

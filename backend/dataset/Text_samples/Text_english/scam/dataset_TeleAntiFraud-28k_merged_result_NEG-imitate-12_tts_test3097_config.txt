@@ -1,0 +1,10 @@
+Speaker1: Hello, I am a customer service representative from Huaxing Bank. Recently, there have been some abnormalities in the business you handled at our branch. We need your cooperation to do some verification.
+Speaker2: What is the exception?
+Speaker1: It appears that there are some suspicious transactions in your account. To prevent any financial loss, we need you to provide some information.
+Speaker2: What information do you need?
+Speaker1: Please provide your bank card number and verification code, so we can proceed with the next step of verification.
+Speaker2: Okay, my bank card number is 62586765, verification code is 3692.
+Speaker1: Thank you for your cooperation. We are currently processing your issue. Additionally, we have a high-yield investment project that you might be interested in learning more about.
+Speaker2: Are you interested, can you tell me more details?
+Speaker1: Of course, to make it easier for you to understand, you can click on this link, or download our app, which has detailed investment information inside.
+Speaker2: Okay, I'll go download it now.

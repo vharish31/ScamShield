@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, do you have a two-bedroom apartment for rent here?
+Speaker2: Yes, we have a two-bedroom apartment here, and the location is great too.
+Speaker1: How much is the rent for that house?
+Speaker2: Rent is one thousand eight hundred yuan per month, with a three-month deposit.
+Speaker1: Hmm, sounds good. Does this house have WiFi?
+Speaker2: Yes, the internet speed is very fast, and the monthly internet fee is 50 yuan.
+Speaker1: Okay, can I go take a look on site?
+Speaker2: Of course, we welcome you to come look at the house anytime. What time is convenient for you?
+Speaker1: Can I have two o'clock in the afternoon tomorrow?
+Speaker2: Tomorrow at 2 PM is fine, I'll be there waiting for you.
+Speaker1: Okay, see you tomorrow. Thank you for your help.
+Speaker2: No problem, see you tomorrow.

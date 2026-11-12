@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hello, I am the customer manager of the construction bank, Lee. Recently, our bank has launched a special promotion loan project, which can provide you with 30,000 yuan of emergency funds. Have you considered needing funds recently?
+Speaker2: Hmm, this sounds good, I really need to turn over some cash lately.
+Speaker1: Great, this project is perfect for you. To make it easier for you to handle, can you add me on WeChat? I can send you detailed information, and you can contact me anytime if you have any questions.
+Speaker2: Okay, let's add each other on WeChat.
+Speaker1: Thank you, my WeChat number is abc123456. After you add me, I will send you the relevant information. Moreover, to speed up the approval process, you need to download our bank's exclusive app. I will send you a link, and you can download it after filling in the relevant information.
+Speaker2: Okay, I'll add you on WeChat and download the app.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please contact me anytime. Wish you a happy life. Goodbye.
+Speaker2: Okay, bye.

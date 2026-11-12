@@ -1,0 +1,16 @@
+Speaker1: Hello
+Speaker2: Hey, how are you? Are you guys looking for part-time jobs?
+Speaker1: Yeah, sure
+Speaker2: Do you need a person right now?
+Speaker1: "Ugh, it's the same as before"
+Speaker2: What are the requirements?
+Speaker1: We mainly look at attitude and emotion, age and gender are not limited
+Speaker2: Hey, can I bring a friend to interview on Saturday?
+Speaker1: Saturday is okay, but we are busy in the afternoon on Saturday. Can you come at 9 am?
+Speaker2: What time is nine in the morning? Where shall we meet?
+Speaker1: Wait for me at the door of our shop, it's on the south side of the commercial street, near the bus station.
+Speaker2: Okay, I'll note down the address.
+Speaker1: Meet me at the business street south side, near the bus station. I'll send you a text reminder later.
+Speaker2: Okay, thank you.
+Speaker1: No problem, see you on Saturday.
+Speaker2: Bye.

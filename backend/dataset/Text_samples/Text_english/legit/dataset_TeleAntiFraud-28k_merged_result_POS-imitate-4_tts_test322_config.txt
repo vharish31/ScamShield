@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? Can you tell me if there is a pick-up service here?
+Speaker2: Hello, we provide delivery service here, where do you need it?
+Speaker1: How much money do I need to get to the Yangguang Jiudian in the city center from the train station?
+Speaker2: From the train station to the city center's sunshine hotel, it's about 50 yuan, the exact price is displayed on the platform.
+Speaker1: Okay, do you have a luxury car type?
+Speaker2: Yes, we have luxury cars like BMW and Mercedes, the prices are slightly higher, you can check the specific details on the platform.
+Speaker1: How long will it take for me to get a BMW that I booked?
+Speaker2: Book a BMW, estimate 20 minutes to reach the train station.
+Speaker1: Okay, I'll book it now.
+Speaker2: Okay, you can book it on the platform, I have reserved a car for you here.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, who are you looking for?
+Speaker1: I'm little Li, I need to find little Wang for something.
+Speaker2: Oh, little Li, hello hello, little Wang is beside him, he just took a phone call, wait a minute he.
+Speaker1: Okay, can you tell him I'll call him later?
+Speaker2: Okay, no problem, I will tell him.
+Speaker1: Hey, by the way, how's the weather on your side lately?
+Speaker2: The weather here is quite good. These days have been clear skies, and the temperature is quite comfortable.
+Speaker1: That's good, we've been raining lately, it's inconvenient to go out.
+Speaker2: Yes, it's really inconvenient to go out on a rainy day, remember to bring an umbrella.
+Speaker1: Okay, okay, thank you for reminding me. That little king called me back and I'll contact you again.
+Speaker2: Okay, contact me if you have anything else, be careful on the road.
+Speaker1: Okay, bye.
+Speaker2: Goodbye.

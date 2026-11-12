@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Zong?
+Speaker2: Who are you?
+Speaker1: Good morning, Mr. Li. I am the client manager of China Construction Bank. The loan you applied for has been approved.
+Speaker2: Oh, really? That's great, I really need to turn over some cash recently.
+Speaker1: Yes, Lee boss, we can provide you with a no-collateral, low-interest loan service here. Just click on the link to download our official app, fill in the relevant information, and you can quickly get the loan.
+Speaker2: Great, I'll download it now.
+Speaker1: Hello, Li boss, after downloading, please enter the invitation code 123456 in the app, so you can enjoy more discounted rates.
+Speaker2: Okay, I understand.
+Speaker1: Li zhōng, wǒlei qǐnggǎo nián huò yǒu yīng yàng nián huò yǒu yīng yàng, zhège yìng yàng yàng yàng yǐng yàng yàng yàng yǐng yàng yàng yàng yàng yàng yàng yàng yàng yàng yàng yàng yàng yàng yàng yàng
+Speaker2: Okay, I received it. The verification code is 8899.

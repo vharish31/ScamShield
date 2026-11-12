@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you still hire pilots here?
+Speaker2: We are currently looking for several drivers.
+Speaker1: What conditions are needed?
+Speaker2: You need to have a driver's license, at least two years of driving experience, and no major traffic accident records.
+Speaker1: What about the salary and benefits?
+Speaker2: A basic salary plus commission is around 10,000 RMB per month.
+Speaker1: How is work time arranged?
+Speaker2: Generally, it's from eight in the morning to six in the evening, with two hours of rest time in between.
+Speaker1: Do you need a ride?
+Speaker2: No need for company to provide car, but you need to be responsible for daily maintenance and repair.
+Speaker1: When can I come for an interview?
+Speaker2: You can come to the company for an interview tomorrow at 10 am. The address is on X road, number X.

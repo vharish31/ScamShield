@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm little Zhang, I want to consult your pet boarding service in your place.
+Speaker2: Hello, little Zhang, we provide pet boarding services here, what information do you want to know?
+Speaker1: What are your fee standards and boarding environment like?
+Speaker2: Our daily fee standard here is 50 yuan, which includes basic feeding and cleaning services. For the environment of pet care, we have a special pet room, ensuring the comfort and safety of pets.
+Speaker1: If your pet has special needs, such as needing to be fed medication at specific times, can you provide this type of service?
+Speaker2: Yes, we provide special care services, such as feeding medicine and grooming, which may have an additional fee.
+Speaker1: Okay, when can I bring my pet over for boarding?
+Speaker2: You can choose any convenient time, it's best to book in advance a day, so we can prepare well for you.
+Speaker1: Okay, can I bring my pet over next Tuesday?
+Speaker2: No problem, next Tuesday at 9am to 10am you can come.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you later, wish you a happy day!

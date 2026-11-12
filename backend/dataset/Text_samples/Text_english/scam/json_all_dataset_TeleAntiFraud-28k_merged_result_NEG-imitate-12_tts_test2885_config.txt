@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a customer service representative at Huaxian Bank, named Zhang.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, our bank recently introduced a special discounted credit loan, and seeing your credit record is excellent, we specifically reserved a 40,000 yuan backup fund for you.
+Speaker2: No, I don't need a loan.
+Speaker1: Yeah, I also have a few customers on WeChat who encountered the same situation. You can add me on WeChat to learn more.
+Speaker2: Let's add each other on WeChat.
+Speaker1: Great, my WeChat is Huayuan Kefu Xiǎozhāng, add me and I'll send you a detailed document.
+Speaker2: Okay, I understand.
+Speaker1: Additionally, by applying for a loan through our app, you can enjoy an extra interest rate discount.
+Speaker2: What is the name of your app?
+Speaker1: You can download our app called "Huaxian Jinrong" from the app store.
+Speaker2: Okay, let me try.

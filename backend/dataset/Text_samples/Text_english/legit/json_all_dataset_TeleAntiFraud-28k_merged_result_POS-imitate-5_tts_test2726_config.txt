@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you, where are you?
+Speaker2: Hey, I'm at home, you?
+Speaker1: I'm at work today, overtime, a bit busy.
+Speaker2: Ugh, working hard, be careful of your body with overtime.
+Speaker1: Thank you, I will pay attention. How have you been recently?
+Speaker2: No worries, I've been busy preparing a project lately.
+Speaker1: How is the project progressing? Do you need help?
+Speaker2: It's going pretty well, thank you for your concern, almost there.
+Speaker1: Okay, let's have a meal together when you have some time.
+Speaker2: Great, let's go eat something good once you finish your overtime.

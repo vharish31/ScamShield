@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I found a dishwasher on your website that I'm interested in, can you tell me more about it?
+Speaker2: Hello, welcome to consult our products. I am customer service Zhang. What information do you want to know about the washing machine?
+Speaker1: What is the capacity, power consumption, and price of this dishwasher?
+Speaker2: This dishwasher has a capacity of twelve sets of dishes, consumes approximately one kilowatt of electricity, and is very suitable for family use. The current selling price is three thousand five hundred yuan.
+Speaker1: What colors are available for this dishwasher?
+Speaker2: We provide white and silver two colors, you can choose according to your preference.
+Speaker1: Do you have any fresh white goods now?
+Speaker2: The white color option is currently in stock, you can place your order with confidence.
+Speaker1: How long will it take for the item to be delivered if I buy it?
+Speaker2: If you place an order, we will arrange delivery within 24 hours, usually within 3-5 days.
+Speaker1: Okay, thank you for your detailed answer. I will consider it.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Wish you a happy life. Bye.

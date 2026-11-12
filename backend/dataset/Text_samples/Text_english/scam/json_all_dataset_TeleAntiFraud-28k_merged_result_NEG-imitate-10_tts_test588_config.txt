@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Wang?
+Speaker2: Yes, hello, what's up?
+Speaker1: Hello, I am the manager of the credit department at Huaxia Bank, we noticed that your credit record in our bank is very good, now we have a special promotion loan project, which can provide you with a no-collateral fast loan with a high loan amount of up to one hundred thousand yuan, and the interest rate is also very low, are you interested in learning more?
+Speaker2: "Loan, I can manage the cash flow now, no need for the time being."
+Speaker1: Understood, Mr. Wang, in fact, this loan project is not only for capital circulation, but also for investment in finance, we have a professional investment advisory team, can help you realize wealth increase, are you interested in learning more?
+Speaker2: Invest in wealth management, this sounds good, but I'm not familiar with it.
+Speaker1: No problem, Mr. Wang, I can send you some information about our bank investment products. You can take a look first, and if you're interested, we can communicate further.
+Speaker2: Okay, I can receive the information, but I need to take a look first.
+Speaker1: Okay, Professor Wang, I will send you the materials now. Additionally, would it be convenient for you to add my WeChat? My WeChat number is the same as my phone number, 1381380138, add a friend, you can directly consult me if you have any questions in the future.
+Speaker2: Okay, let me add you on WeChat then.

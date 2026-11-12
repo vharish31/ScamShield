@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, I just moved to your neighborhood, I'm not familiar with this place, can you help me?
+Speaker2: Hello, of course, what do you need to know?
+Speaker1: Can you tell me where the nearest supermarket is and if there are any good restaurant recommendations nearby?
+Speaker2: At the supermarket, just walk straight along this road and turn left at the third crossroad to get there. At the restaurant, I recommend you try Li Jia's noodle shop. Their noodles are really delicious.
+Speaker1: Great, thank you for your recommendation. Where is Lee's restaurant?
+Speaker2: Li Jǐ miàng guǎn zhì zài chóu shì de kànmiàn, fēicháng shì yǐng, nǐ kěn dé néng zhǎo dào.
+Speaker1: That's very convenient. Is there any good activity or exhibition recently?
+Speaker2: There's a handicraft exhibition in the city center's cultural square this weekend. It's quite interesting, you should check it out.
+Speaker1: Sounds good, I'll check it out. Thanks for your detailed answer, really helped me out a lot.
+Speaker2: No problem, feel free to contact me anytime if you need help, I hope you enjoy your life here.

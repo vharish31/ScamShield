@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Do you have any hot pot with vegetables here?
+Speaker2: Hello, we have provided vegetable hot pot here, what information do you want to know?
+Speaker1: What is the price of vegetable hot pot and what are the main ingredients?
+Speaker2: The price of hot pot with vegetables is 68 yuan per person, the main ingredients are tofu, various vegetables, mushrooms and seaweed.
+Speaker1: Does anyone have a place now?
+Speaker2: There are still some places, but it's recommended to book in advance to ensure a seat.
+Speaker1: Can I reserve a table for six tonight at six o'clock?
+Speaker2: Of course, I can help you make a reservation. What's your name?
+Speaker1: I am Li Ming.
+Speaker2: Okay, Li Ming, your appointment has been successful. See you at six tonight.

@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, can you hear me? What's up?
+Speaker1: Hello, I am the customer service of the food square, want to know if you are satisfied with the food you ordered last time in our place?
+Speaker2: Oh, it's okay, it's just that the delivery time is a bit long.
+Speaker1: Thank you very much for your feedback. We will improve delivery time as soon as possible. By the way, we have a promotion activity here, do you want to know more about it?
+Speaker2: Okay, tell me.
+Speaker1: We are currently having a spring sale. If you place an order of over one hundred yuan, you will receive an eighty percent discount, and you will also have the chance to get our restaurant's membership card, which will give you more discounts.
+Speaker2: Listen well, how to join in?
+Speaker1: It's simple. Just order through our official app and use the coupon to get this discount.
+Speaker2: Okay, I'll try it later. Thank you.
+Speaker1: You're welcome. Feel free to contact me anytime if you have any questions. Enjoy your meal!

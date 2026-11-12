@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to know more about your pet boarding service.
+Speaker2: Hello, I'm very happy to serve you. Our pet boarding service is very comprehensive. What information do you want to know?
+Speaker1: Can you tell me about your foster environment and how much it costs?
+Speaker2: Our boarding environment is very safe and comfortable, with a special air conditioning system and clean facilities, ensuring the health of the pets. The cost for small pets is 30 yuan per day, and for large pets it's 50 yuan per day.
+Speaker1: How do you solve the feeding problem of that pet?
+Speaker2: We can provide professional pet food, and we can also provide services based on your pet's eating habits. Of course, if you have special food requirements, you can bring them yourself.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: Yes, to ensure there is enough space and time to take care of your pet, we recommend you book in advance. You can contact us through phone or WeChat.
+Speaker1: What are your business hours?
+Speaker2: Our business hours are from 8 am to 6 pm every day, including weekends and holidays.
+Speaker1: Okay, thank you for your patience in answering, I will consider it.
+Speaker2: You're welcome, please feel free to consult us anytime if you have any questions, we hope our service can make your pet feel comfortable.

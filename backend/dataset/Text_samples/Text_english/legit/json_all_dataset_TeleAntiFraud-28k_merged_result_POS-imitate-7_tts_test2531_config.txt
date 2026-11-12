@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me more about your hair appointment service?
+Speaker2: Of course, we provide appointment service, what time do you want to make an appointment?
+Speaker1: Can I make a reservation for 3 PM on Saturday this week?
+Speaker2: The 3 pm appointment on Saturday is confirmed. Please provide a contact method to confirm the appointment.
+Speaker1: Okay, my phone number is 13866688888.
+Speaker2: 1386688888, okay, I have recorded it down here, appointment successful.
+Speaker1: Thank you, and by the way, can you tell me the address of your place?
+Speaker2: Our store is located at 100 Happiness Road, adjacent to the Peace Park, and is just a five-minute walk from the Happiness Station on the second line of the subway, which is right outside the station.
+Speaker1: Okay, thank you, see you later.
+Speaker2: See you later, wish you a happy day.

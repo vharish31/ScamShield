@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the Agricultural and Commercial Bank, we have a new loan product, do you want to know more about it and consult?
+Speaker2: Hello, do you have loan products? I have enough money at the moment, so I don't need a loan.
+Speaker1: Oh, that's it. But this product is very flexible, and the interest rate is very low, so if you have a sudden need for cash, you can use it anytime.
+Speaker2: The sound is good, but I don't understand these. How do you operate it?
+Speaker1: It's very simple. Just download our app, register and submit some basic information. We'll review it within a workday. If approved, the money will be directly deposited into your account.
+Speaker2: Do you want to download the app? How do I know if this app is real?
+Speaker1: We are a legitimate financial institution, you can rest assured. If you're not sure, you can first add my WeChat, I'll send you the download link of the app, it's more convenient.
+Speaker2: Okay, let me add your WeChat, you send me the link.
+Speaker1: Great, my WeChat number is 123456789. Add me and I'll send you a message first. Also, if you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help.

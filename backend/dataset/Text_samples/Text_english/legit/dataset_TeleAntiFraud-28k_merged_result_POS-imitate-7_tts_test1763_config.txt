@@ -1,0 +1,10 @@
+Speaker1: Hey, how come my takeout hasn't arrived yet?
+Speaker2: Hello, I am a delivery person, your food has arrived at your downstairs, is it convenient for you to come down now?
+Speaker1: I see your location info, you're still on the road?
+Speaker2: Hey, it's possible that I just updated my location while moving, but actually I've already arrived. Can you come confirm it?
+Speaker1: Okay, I'll go down now.
+Speaker2: Okay, please wait a moment, I'm at the entrance of the building downstairs.
+Speaker1: I came down, where are you?
+Speaker2: Can you see me in the yellow uniform at the entrance of the building?
+Speaker1: I see you, I'm walking towards you now.
+Speaker2: Okay, I'm here waiting for you, all the food is kept warm for you.

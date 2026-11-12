@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I am the customer service at the Beauty Salon, I see that you have an appointment on Friday at 10 am next week, do you confirm if it's convenient for you?
+Speaker2: Next Friday at 10 am? Sure, no problem.
+Speaker1: Okay, we'll hold this time for you. Do you need any other services, such as hair dyeing or styling?
+Speaker2: I don't need it now, so I'll cut my hair short.
+Speaker1: Understood, we will prepare for you. Are you a first-time customer at our hair salon?
+Speaker2: Yes, first time.
+Speaker1: Welcome to our store, we have a first-time customer discount of 90% off.
+Speaker2: That's great, thank you.
+Speaker1: No problem, feel free to contact us anytime. See you later!
+Speaker2: Okay, see you later. Thank you!

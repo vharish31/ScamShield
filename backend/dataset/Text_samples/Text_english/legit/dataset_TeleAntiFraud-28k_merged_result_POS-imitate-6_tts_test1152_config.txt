@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I couldn't find a ride-hailing car at the mall, can you help me out?
+Speaker2: Hello, where are you in the mall?
+Speaker1: I am in Xingguang Square.
+Speaker2: Get on the Didi car at the Star Square, near the third exit, you can see it from there.
+Speaker1: Is the first floor underground?
+Speaker2: Yes, just the underground level, there are signs there, you follow the signs to find it.
+Speaker1: Okay, I'll try to find it. If I can't, I'll contact you.
+Speaker2: Okay, no problem, if you can't find it, just give me a call, I'll confirm again.
+Speaker1: Thank you, I'll go look around first.
+Speaker2: No problem, please tell me when you find it. Goodbye.
+Speaker1: Okay, bye.

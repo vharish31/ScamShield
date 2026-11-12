@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the small Ming's water and electricity repair service, you have an appointment today to check the power line, right?
+Speaker2: Oh, hello, yes, I remember I made an appointment. When can you guys arrive?
+Speaker1: Do you think it's convenient for us to arrive in about half an hour?
+Speaker2: Sure, I'll wait for you.
+Speaker1: Okay, to save time, can you first understand which areas of your home's electrical circuits have problems?
+Speaker2: The kitchen chair sometimes jumps, the living room lamp sometimes flashes.
+Speaker1: Understood, we will bring along necessary tools and spares, and try to solve problems as quickly as possible.
+Speaker2: Okay, I'll wait for you guys at home later.
+Speaker1: Okay, we'll pay attention to safety on the road and hurry up as much as possible to get there. If there are any changes, we'll contact you in advance.
+Speaker2: Okay, thank you.

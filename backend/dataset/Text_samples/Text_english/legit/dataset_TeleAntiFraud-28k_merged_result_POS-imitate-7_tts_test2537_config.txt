@@ -1,0 +1,10 @@
+Speaker1: Hi, how's it going? Can you tell me what your business hours are?
+Speaker2: Hello, we are open from 9 am to 9 pm, no rest on weekends.
+Speaker1: Hey, that's great! I want to fix my bike today. Do you guys know if you can fix it?
+Speaker2: Sure, we provide bike repair services here, you can come anytime.
+Speaker1: That's great, I'll probably come around three in the afternoon, can I?
+Speaker2: You can park your car at the door when you arrive, and we will handle it.
+Speaker1: Okay, do I still need to make a reservation?
+Speaker2: No need to book in advance, just come directly and we'll arrange staff to check.
+Speaker1: I'm relieved now, thank you for your help, see you later.
+Speaker2: No problem, see you in the afternoon, wish you a happy day.

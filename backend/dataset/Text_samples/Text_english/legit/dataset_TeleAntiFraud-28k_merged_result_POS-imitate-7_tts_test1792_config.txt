@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask about your restaurant's special dishes.
+Speaker2: Hello, our restaurant special dishes include spicy and sour hot pot, steamed fish and beef stir-fry, all of which are popular among customers.
+Speaker1: How much do these menus cost?
+Speaker2: The spicy pot is 68 yuan, steamed fish is 78 yuan, stir-fried beef and rice is 48 yuan.
+Speaker1: What is the restaurant's business hours?
+Speaker2: Our restaurant business hours are from 11 am to 10 pm every day, and on weekends they are extended to 11 pm.
+Speaker1: Do I need to reserve a seat for six o'clock tomorrow night?
+Speaker2: Tomorrow evening at six o'clock there will probably be more people, I suggest you book in advance, I can help you book a four-person table.
+Speaker1: Okay, let's reserve a four-person table.
+Speaker2: Okay, I have reserved a table for four people at six o'clock in the evening for you tomorrow. Please come to the front desk and say your reservation when you arrive.
+Speaker1: Thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you enjoy your meal.

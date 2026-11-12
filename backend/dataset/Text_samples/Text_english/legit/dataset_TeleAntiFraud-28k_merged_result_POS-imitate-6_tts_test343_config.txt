@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Is this a new coffee shop on this side?
+Speaker2: Yes, we are just starting our business, welcome to try our special coffee.
+Speaker1: Do you have any recommended drinks?
+Speaker2: Our signboard here is "Huǒ Táng Mǎ Qǐ Lóu", and "Nóng Chá Nǎo Tiě", both of which are very popular.
+Speaker1: Okay, I plan to go out this weekend. Are you open on Sunday?
+Speaker2: On Sunday we are open for business from 10 am to 10 pm.
+Speaker1: Great, I'll probably arrive at three in the afternoon. Do I need to reserve a spot?
+Speaker2: No need to reserve, but weekends are usually crowded, you can come a little earlier, it's easier to find a seat.

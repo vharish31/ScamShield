@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the waiter at Xiao Ming restaurant. You reserved a seat for tonight at six o'clock, can you confirm again?
+Speaker2: Oh, hello, yes, correct, six o'clock.
+Speaker1: Okay, so how much time do you think you'll arrive?
+Speaker2: I might be late, around six thirty.
+Speaker1: 6:30, okay, we'll hold a spot for you here. Do you have any special dietary requirements?
+Speaker2: No specific requirements, just want to eat something simple.
+Speaker1: Understood, we have some clear dishes here, such as steamed fish and vegetable salad, you can consider.
+Speaker2: Okay, let's order these at the time. Also, do you have any free parking spots?
+Speaker1: Yes, there is a free parking lot next to our restaurant, you can park directly there.
+Speaker2: Thanks for your help, see you later.
+Speaker1: You're welcome, nice to meet you, see you later.

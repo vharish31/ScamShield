@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? This is the credit card center of China Construction Bank in the cloud, have you recently used our credit card?
+Speaker2: Hello, I don't use it often, what do you need?
+Speaker1: That's right, we noticed some unusual spending in your recent records, maybe you encountered some unnecessary trouble.
+Speaker2: Really? Then what do we do?
+Speaker1: To ensure the safety of your account, we need you to cooperate with a simple identity verification.
+Speaker2: Okay, what do you need me to do?
+Speaker1: Please provide the last four digits of your ID number and the amount of your recent transaction, we will verify and process immediately after.
+Speaker2: The last four digits of my ID number are 6789, and my recent purchase was 120 yuan.
+Speaker1: Okay, thank you for your cooperation. We will process it quickly on our end. Additionally, we have a new point exchange activity, you can get double points.
+Speaker2: What's so good about it, how to join?
+Speaker1: Just click this link and follow the instructions to join.
+Speaker2: Okay, I'll try.

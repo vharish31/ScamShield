@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Guangzhou Bank. We have a special promotion for our credit loan here, with monthly interest rate of only 0.02 yuan. Do you have any recent need for cash flow?
+Speaker2: Hello, I currently don't have any cash flow needs.
+Speaker1: Oh, that's it. If your mind changes, you can contact me anytime, this is my contact number, one two three four five six seven eight nine zero. Moreover, have you recently encountered any shortage of funds, such as investing or buying big-ticket items?
+Speaker2: Investing is not there, but I really want to buy a new computer recently.
+Speaker1: That's great, our loan is perfect for this situation. You can first download our bank app, which has a quick application channel, very convenient.
+Speaker2: Do you want to download the app? It sounds pretty convenient.
+Speaker1: Yes, it's very convenient. You just need to provide some basic information, and we will have a specialist review it, and you can get the loan as soon as today.
+Speaker2: How do I download this app?
+Speaker1: You can directly search our bank name in the mobile app store and download the official app. If you're not convenient, I can send you a link, just click to download.
+Speaker2: Can you send me a link?

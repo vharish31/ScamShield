@@ -1,0 +1,9 @@
+Speaker2: Hello!
+Speaker1: Where are you?
+Speaker2: Are you here yet? I'm waiting for you at the entrance of the community.
+Speaker1: Just got off the subway station, still looking for the address you gave me, can you be more specific?
+Speaker2: Okay, you get off the subway station and walk to the right, turn left at the first red and green light, and walk straight for 500 meters to reach the community entrance.
+Speaker1: Okay, I know, I'll go right away.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Wait a minute, I just arrived to call you.
+Speaker2: Okay, be careful on the road, I'll wait for you.

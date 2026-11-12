@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Hello, I'm little Li, I ordered a table of food at your store, can you confirm the time?
+Speaker2: Okay, which day did you order for?
+Speaker1: It's Saturday night at six o'clock this weekend.
+Speaker2: Okay, let me check. Right, how many seats did you order?
+Speaker1: I booked six seats.
+Speaker2: I found it, Saturday evening at six o'clock, six seats, already reserved for you.
+Speaker1: Goodbye, thank you.
+Speaker2: No problem, if you have anything else that needs help, please contact us anytime. Have a great weekend!

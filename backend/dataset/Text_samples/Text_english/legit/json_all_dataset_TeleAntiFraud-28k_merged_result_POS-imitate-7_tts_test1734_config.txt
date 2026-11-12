@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you recommend any dishes at your restaurant?
+Speaker2: Our restaurant's signboard menu has spicy crab and steamed fish, and many people say it's very good.
+Speaker1: How much do these menu items cost?
+Speaker2: Lobster is 288 yuan per portion, steamed fish is priced differently based on size, ranging from 150 to 200 yuan.
+Speaker1: Sure, can I reserve a seat for tomorrow evening at six o'clock?
+Speaker2: Of course, I'll reserve the 6:00 PM spot for you tonight. How many people will be with you?
+Speaker1: We are two people.
+Speaker2: Okay, two seats have been reserved for you, see you tomorrow night at six.

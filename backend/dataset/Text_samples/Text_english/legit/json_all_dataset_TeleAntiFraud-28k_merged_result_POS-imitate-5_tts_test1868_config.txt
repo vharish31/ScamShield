@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, do you guys have any space left over there?
+Speaker2: Hello little Li, I am customer service Zhang, we have several different service projects, which one do you want to know about?
+Speaker1: I'd like to know more about your fitness program, recently I've started working out my body.
+Speaker2: Okay, our fitness program is very popular, with options like yoga, Pilates, and aerobics. Which one are you most interested in?
+Speaker1: Can you give me more information about yoga courses? I'm really interested in it.
+Speaker2: Of course. Our yoga classes are every Monday, Wednesday, and Friday evenings at 7pm, and each class lasts about an hour. Yoga classes are suitable for people of all ages and can help relax the mind and body, improve flexibility and balance.
+Speaker1: How do I sign up if it sounds good?
+Speaker2: You can directly sign up at our front desk or through our official website online. If you decide to sign up now, I can reserve a spot for you.
+Speaker1: Let me first go to your store to check the environment and try out the course at the same time.
+Speaker2: It's a great choice. You can call ahead to confirm, so we can make sure someone is there to greet you. We're looking forward to your arrival!

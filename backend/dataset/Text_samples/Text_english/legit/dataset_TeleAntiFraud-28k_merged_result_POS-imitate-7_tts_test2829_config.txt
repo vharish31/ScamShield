@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a waiter at some restaurant, can you confirm if you will come to our restaurant tonight?
+Speaker2: Okay, I remember, tonight at seven o'clock, right?
+Speaker1: Yes, it's 7:00, we have reserved a spot for you.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, if you have any other requirements, such as specific food requirements or need a baby chair, please let me know in advance.
+Speaker2: No specific requirements at the moment, thank you for reminding me.
+Speaker1: Okay, let's meet tonight, I hope you have a happy dinner.
+Speaker2: Thank you, goodbye.

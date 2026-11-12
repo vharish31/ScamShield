@@ -1,0 +1,11 @@
+Speaker2: Hello
+Speaker1: Hello, I am the manager of the Agricultural and Commercial Bank, we have a very good loan product, do you have any funding needs?
+Speaker2: Loan? I don't have this plan now.
+Speaker1: Oh, this way. Do you know if you've heard about our recent financial plan? The returns are stable, the risks are low.
+Speaker2: Finance? I don't understand much, how to operate?
+Speaker1: It's simple, just download our bank's official app, register and you'll see detailed info, and you can directly operate purchases.
+Speaker2: Is the app safe to download?
+Speaker1: Of course we're safe, we're a regular bank, so don't worry. And there's a new user package for downloading now, it's quite a good deal.
+Speaker2: Okay, let me try.
+Speaker1: Great, I'll send you the link now. Just follow the instructions and you're good to go. If you have any questions, feel free to contact me.
+Speaker2: Okay, thank you.

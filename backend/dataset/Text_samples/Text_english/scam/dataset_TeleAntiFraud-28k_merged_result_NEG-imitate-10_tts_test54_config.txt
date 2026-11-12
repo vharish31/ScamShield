@@ -1,0 +1,10 @@
+Speaker1: Hello, you, I am a customer service representative of construction bank, small zhang.
+Speaker2: Hello, do you have anything?
+Speaker1: Based on our bank's appraisal, you are eligible to apply for a 30,000 RMB personal consumption loan with a very favorable interest rate.
+Speaker2: Really? I really need to turn over some cash recently.
+Speaker1: Yes, we can provide a quick approval, and disburse the funds today. However, in order to confirm your identity, you need to click on this link and fill out some information.
+Speaker2: How do I know this link is safe?
+Speaker1: This link is our bank's official link, absolutely safe. You can rest assured, our bank's reputation is not to be doubted.
+Speaker2: Let me take a look first.
+Speaker1: Okay, click the link and follow the instructions, I'll review it in the background.
+Speaker2: Okay, thank you.

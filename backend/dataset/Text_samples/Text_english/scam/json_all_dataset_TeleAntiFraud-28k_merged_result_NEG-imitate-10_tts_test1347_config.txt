@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Ming?
+Speaker2: Yes, hello, who are you?
+Speaker1: Hi, I'm Zhang, the customer manager at Commercial Bank, we recently launched a special discounted loan service with an annual interest rate as low as 0.3%, do you have any financial needs?
+Speaker2: Oh, my current financial situation is still quite good, I don't have any need for a loan at the moment.
+Speaker1: Okay, that's great. But if you need anything in the future, feel free to contact us. By the way, we have a recent activity. Just download our app, register and complete a simple task to get a 100 yuan cash red packet.
+Speaker2: Is it really? It sounds good, how do I register?
+Speaker1: Great, just click on this link to download the app, the operation is very simple, after registering, find '新手任务' in the activity center on the first page and follow the instructions to complete it.
+Speaker2: Okay, I'll give it a try. Thank you for your recommendation.
+Speaker1: No problem, feel free to contact me for any questions, wish you good luck!
+Speaker2: Thank you, goodbye.

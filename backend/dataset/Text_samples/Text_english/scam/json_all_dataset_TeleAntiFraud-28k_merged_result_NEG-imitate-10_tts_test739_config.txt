@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm small Li from the personal loan department of Commercial Bank. We have a special low-interest loan product that might be suitable for you. Have you recently had any financial needs?
+Speaker2: Hello, I currently don't have a need for a loan.
+Speaker1: Oh, that's fine, it doesn't matter. If you need anything, you can contact me anytime. By the way, I have a link here, you can click to learn more about our products, very convenient.
+Speaker2: Link? How do I know this is safe?
+Speaker1: Don't worry, this is the official link, absolutely safe. You can see detailed loan introduction and application process after clicking, very convenient.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues after clicking, feel free to contact me anytime. My phone number is 12345678901. Additionally, if you think this product is good, recommend it to your friends.
+Speaker2: Okay, I'll take a look. Thank you for your recommendation.
+Speaker1: No problem, feel free to ask me anything. By the way, if you decide to apply, please add my WeChat, it's more convenient to communicate. My WeChat number is abc123456.
+Speaker2: Okay, I will consider it. Thank you.

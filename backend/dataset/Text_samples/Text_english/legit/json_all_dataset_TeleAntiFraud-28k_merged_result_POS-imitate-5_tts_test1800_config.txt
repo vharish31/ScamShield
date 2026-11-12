@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you? I am customer service from some food delivery, have you looked at our recruitment information on the platform?
+Speaker2: Hey, yeah, I saw the info about your foreign delivery guys online.
+Speaker1: Yes, we have this position here. Do you have time to chat now?
+Speaker2: Sure, I have time now.
+Speaker1: Okay, first of all, thank you for your interest in our company. We mainly do Meituan Expedited Delivery. Do you have any relevant work experience?
+Speaker2: I haven't done any work in this area before, but I'm willing to learn.
+Speaker1: No problem, our company will provide corresponding training. Are you planning to do full-time or part-time?
+Speaker2: I'm currently looking for a part-time job and have some free time after 8:00 PM.
+Speaker1: Understood, we do have night shift positions here, the time is from 8pm to 2am. Is this time slot suitable for you?
+Speaker2: This time works, I have some time after nine o'clock in the evening.
+Speaker1: Okay, you can first download our crowdsource app, register and then start taking orders, it's very simple to operate.
+Speaker2: Okay, I'll go download it. Thank you for your help!
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Have a great day!

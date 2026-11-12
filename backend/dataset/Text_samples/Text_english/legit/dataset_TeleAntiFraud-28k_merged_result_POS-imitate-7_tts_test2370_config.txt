@@ -1,0 +1,10 @@
+Speaker2: Hello
+Speaker1: Hello, I am customer service Li from the point store, see you have a lot of points in your account that have not been used, do you know?
+Speaker2: Oh, really?
+Speaker1: Yes, your account has 23,000 points, which are all from your regular spending, you can exchange them for many good things.
+Speaker2: What can I change?
+Speaker1: You can exchange gift boxes of white wine, brand-name four-piece sets, high-definition TVs, and smartwatches for cash using points directly.
+Speaker2: The sound is good, but I don't have time to pick now.
+Speaker1: No problem, you can tell me now what you're interested in, I'll help you choose, and then give you a link.
+Speaker2: Okay, can you help me look for something suitable?
+Speaker1: Okay, I'll look it up for you, just a moment.

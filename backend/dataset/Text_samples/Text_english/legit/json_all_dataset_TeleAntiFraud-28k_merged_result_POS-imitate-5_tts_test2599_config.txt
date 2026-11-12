@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Is it possible to make a haircut appointment here?
+Speaker2: Yes, we can make a haircut appointment here. What time do you want to make an appointment?
+Speaker1: Can I go at 2 pm tomorrow afternoon?
+Speaker2: What kind of service do you need to book for tomorrow at 2 PM?
+Speaker1: Do you have these services here to cut short hair and play with bangs?
+Speaker2: Yes, we provide various hair services here, including haircuts and hair extensions, you can enjoy these services directly tomorrow.
+Speaker1: How long do I need to arrive in advance?
+Speaker2: Please arrive fifteen minutes early, so we can ensure we have enough time to provide you with service.
+Speaker1: Okay, I'll arrive at one o'clock forty-five on the afternoon of tomorrow. Thank you.
+Speaker2: No problem, I'm looking forward to your arrival tomorrow, see you then.

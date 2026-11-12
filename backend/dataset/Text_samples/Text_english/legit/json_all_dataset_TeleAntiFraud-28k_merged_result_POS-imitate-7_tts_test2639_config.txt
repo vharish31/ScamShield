@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me?
+Speaker1: I am the customer service of the e-commerce platform. Your shopping points will be cleared at midnight tonight, and you haven't redeemed them yet.
+Speaker2: Oh, really? How did I miss that?
+Speaker1: Yes, you have 26,800 points in your account, which can be redeemed for over 3,900 yuan in cash.
+Speaker2: What should I do to exchange it?
+Speaker1: I have already sent you a free exchange SMS, you can check it and buy a lot of products, such as liquor, supermarket, phone, etc.
+Speaker2: Okay, I'll go take a look right away. Thank you for reminding me.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Hurry up and exchange it before it's too late.
+Speaker2: Okay, thank you, bye.

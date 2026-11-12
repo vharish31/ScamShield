@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Laoban?
+Speaker2: Yes, who are you?
+Speaker1: Hello, I am a customer service representative from Jing Jin Finance, we noticed some fluctuations in your recent investments on our platform, and we would like to provide you with one-on-one financial consulting services to help you better manage your assets.
+Speaker2: Oh, this way, I've been losing money lately, can you guys help me?
+Speaker1: Of course, we have a professional financial advisory team, and we have helped many clients successfully recover losses in the past. To better serve you, please download our latest app, through which we can provide more detailed investment advice.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Our app has passed the national information security certification and offers more discount services after download. You can download it by scanning the QR code I send you.
+Speaker2: Okay, let me try.
+Speaker1: Great, I'll send you the 2D code link right away. Additionally, to ensure your account is safe, you'll need to provide a verification code. The verification code will be sent to the phone number you registered with, please pay attention to check it.
+Speaker2: Okay, I'm waiting.

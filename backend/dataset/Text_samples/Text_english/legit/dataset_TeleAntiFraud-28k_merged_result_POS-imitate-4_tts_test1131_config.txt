@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm the customer service at the food square, you ordered food from us before, do you want to ask me about our restaurant service and menu?
+Speaker2: Hello, it's okay, just a bit long to wait that day.
+Speaker1: I'm very sorry for keeping you waiting for so long, our peak season is indeed a bit slow. But, as a token of appreciation for your patience, we would like to offer you a free dessert, how about it?
+Speaker2: Can I use these free sweets next time I go?
+Speaker1: Of course, you can pick up next time just by showing your phone number. Is there anything else I can help with?
+Speaker2: Do you have seafood dishes at your home? My friend wants to eat seafood.
+Speaker1: We have seafood hotplate, steamed large crab with ginger and scallops, both are highly rated by customers, you can try them.
+Speaker2: The recommendations sound great, I'll consider them next time. Thank you.
+Speaker1: You're welcome. I hope you and your friend can come enjoy our food next time. If you have any other questions, please feel free to call anytime.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye, I look forward to your next visit.

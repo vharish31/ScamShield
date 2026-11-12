@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I saw a new phone on your website, want to know more about it?
+Speaker2: Hello, Xiao Ming, I am customer service king, very happy to serve you. Which phone do you want to know about?
+Speaker1: That's the one recommended on your homepage, it looks pretty good.
+Speaker2: That's the latest flagship phone with very high configuration and excellent camera performance. What specific information do you want to know?
+Speaker1: Look at the price and delivery time.
+Speaker2: This phone costs 3999 yuan, if you order now, we will ship in 3 business days.
+Speaker1: Okay, do you guys have any goods?
+Speaker2: The current inventory is sufficient, you can buy with confidence.
+Speaker1: What do I need to do to place an order?
+Speaker2: You can register an account on our website, then select your preferred phone, add it to your cart, and finally settle the bill. If you need help, you can contact me anytime.

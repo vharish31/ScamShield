@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is Bank of China customer service center, I am customer service manager Lee Huang.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we've noticed some unusual transactions on your credit card recently, for your financial safety, we need you to cooperate with a simple identity verification.
+Speaker2: Oh, so that's how it is, then what do I need to do now?
+Speaker1: It's very simple. Just click on the link I sent you, fill out some basic information, and we'll verify your identity.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, here's the link: https://example.com/verify, please handle it quickly to avoid affecting your credit record.
+Speaker2: Okay, I'll handle it now. Thank you for reminding me.
+Speaker1: No problem, if you have any questions, feel free to contact me anytime. By the way, we also have a high-yield investment and financial product, if you're interested, you can take a look.
+Speaker2: Invest in financial products? Can you tell me more?

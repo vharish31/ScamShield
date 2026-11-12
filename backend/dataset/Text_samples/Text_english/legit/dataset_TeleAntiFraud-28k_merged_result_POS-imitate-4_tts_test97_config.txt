@@ -1,0 +1,12 @@
+Speaker1: Hey, are you little king?
+Speaker2: Hey, little Li, it's me, what's up?
+Speaker1: Hey, I want to consult your store's opening service, I recently want to open a savings account.
+Speaker2: Okay, no problem. Our account opening process here is very simple. Just bring your ID and a one-inch photo.
+Speaker1: How much money is needed for the initial deposit when opening an account?
+Speaker2: The minimum initial deposit amount for opening an account is one hundred yuan, and you can withdraw it at any time after.
+Speaker1: Do I need to make an appointment to open an account?
+Speaker2: No need to make an appointment. You can come directly. However, if you have time, you can call me first to confirm the availability of the counter, so you can save waiting time.
+Speaker1: Okay, can I go at three in the afternoon?
+Speaker2: Three o'clock is fine, please come and say find me when you arrive, I will help you handle it.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you later, be careful on the road.

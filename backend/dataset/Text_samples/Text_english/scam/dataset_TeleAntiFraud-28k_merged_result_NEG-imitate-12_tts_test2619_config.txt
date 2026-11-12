@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of Agricultural and Commercial Bank, you can call me Zhang manager.
+Speaker2: Hello, Zhang Manager, what can I help you with?
+Speaker1: We have a great loan product here, no collateral required, and fast approval. The maximum loan amount is up to 50,000. Have you recently had any financial needs?
+Speaker2: Hey, I'm a bit short on cash lately, can you give me a detailed explanation?
+Speaker1: Of course. Just provide some basic information and we will immediately review it. To simplify the process, you can download our bank's official app, which has detailed application steps.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, you can find the loan application entrance on the homepage after downloading. If you encounter any problems, feel free to contact me anytime. My phone number is 13800138000.
+Speaker2: Thank you, Zhang Jīngnǐ, I will operate quickly.
+Speaker1: No problem, wish you a successful application. If you need further assistance, please contact me anytime. Goodbye!
+Speaker2: Goodbye, Zhang Manager.

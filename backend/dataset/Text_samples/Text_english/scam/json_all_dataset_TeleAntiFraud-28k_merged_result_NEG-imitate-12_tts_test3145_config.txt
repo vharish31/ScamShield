@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao, the customer manager at the Shenzhen Bank.
+Speaker2: Hello, do you have anything?
+Speaker1: We recently launched a special discount loan project with a very low interest rate. You might want to consider it.
+Speaker2: Oh, I can still circulate my funds, so I don't need a loan right now.
+Speaker1: That's really a pity, this project is so hard to get, and the application process is so simple, just download our app and fill out some basic information.
+Speaker2: Download the app? Is it safe?
+Speaker1: Of course, we are a regular bank, you can trust us to use. To help you understand more information, I can send you a link, there's detailed introduction inside.
+Speaker2: Okay, then send a link.
+Speaker1: Okay, I'll send it to you soon. After you receive it, follow the instructions, and feel free to contact me if you have any questions.
+Speaker2: Okay, thank you.

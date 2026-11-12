@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the customer manager of the Dongcheng Bank, we recently have a loan activity with a low interest rate, do you need to know more about it?
+Speaker2: Loan, I'm doing okay with cash flow right now, but it's good to listen too.
+Speaker1: Great, this activity is particularly suitable for small and medium-sized enterprise owners. You can download our app, register and then see detailed loan information.
+Speaker2: Is the app safe to download?
+Speaker1: Of course, our app is available in all major app markets. After you download it, input my recommendation code to enjoy additional discounts.
+Speaker2: Recommendation code? You give me, I try try see.
+Speaker1: Okay, my recommendation code is 888888. Download it and enter this code. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, let me try.
+Speaker1: Great, download it and register quickly after, the spots are limited, first come first served.
+Speaker2: Okay, thank you.

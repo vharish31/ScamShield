@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Li Xiao, the Bank of China customer service center. There's an important matter that needs to be confirmed with you.
+Speaker2: Hello, what's up?
+Speaker1: We found some unusual transactions on your bank card recently. To ensure your financial safety, we need you to cooperate.
+Speaker2: Really? Then what do I do?
+Speaker1: Firstly, don't be anxious, we can confirm your information through a safe link, this link is very safe, you can trust it.
+Speaker2: Okay, how do I click on this link?
+Speaker1: Just use your phone to open this link, enter your bank card number and verification code, and we can confirm it.
+Speaker2: Okay, I'll go order now.
+Speaker1: Okay, just open it and follow the instructions after, if you have any questions you can contact me anytime.
+Speaker2: Thank you, I'll go operate now.

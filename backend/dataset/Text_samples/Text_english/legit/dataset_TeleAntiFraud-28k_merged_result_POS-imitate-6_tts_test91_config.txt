@@ -1,0 +1,9 @@
+Speaker1: Hello, how can I help you at the Yánggōu chǎnchǎng?
+Speaker2: Hello, I want to reserve a seat, tonight at seven o'clock or so, for two people.
+Speaker1: Okay, do you need a spot by the window?
+Speaker2: If possible, the best place is by the window.
+Speaker1: Okay, I've reserved a window seat for you. Just call your name when you arrive.
+Speaker2: Okay, my name is Zhang Wei.
+Speaker1: Okay, Mr. Zhang, please come on time. You can contact us anytime if you have any issues.
+Speaker2: Thank you, I will arrive on time. Goodbye.
+Speaker1: Goodbye, I'm looking forward to your arrival.

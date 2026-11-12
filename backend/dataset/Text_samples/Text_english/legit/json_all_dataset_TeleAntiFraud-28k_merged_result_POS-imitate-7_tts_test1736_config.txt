@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I'm near the national supermarket, can you come pick me up?
+Speaker2: Hello, little Li, where are you, can you locate me, where am I looking for you?
+Speaker1: Okay, I'm at the entrance of the China Link supermarket, can you see me?
+Speaker2: I look, I look, oh, I see, I see, just at the door of the Guangliang supermarket, I'll go over there.
+Speaker1: Okay, I'm here waiting for you, it'll probably take a few minutes?
+Speaker2: Traffic here is not congested, it's about five minutes away, don't worry.
+Speaker1: Okay, thank you, I'm waiting for you here.
+Speaker2: No need to thank you, be careful on the road, I'll be there soon.
+Speaker1: Okay, pay attention to safety on the road.
+Speaker2: Okay, see you later.

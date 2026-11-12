@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the Dongjing Bank, Li, and you have a loan that needs to be confirmed at our bank. Do you need to know more about it?
+Speaker2: Hello, I don't have any loans, what's going on?
+Speaker1: That's it. Your company's qualifications are excellent, we have provided you with a 20,000 no-collateral loan, which has been approved, all you need to do is click on the link to confirm, and the loan will be directly transferred to your account.
+Speaker2: Is this really true? I haven't heard of it before.
+Speaker1: Please click on this link, enter your identity card number and bank reserve phone number to complete the confirmation for our bank's latest policy, which aims to help small and medium-sized enterprises solve their cash flow problems.
+Speaker2: How can I confirm that it's true?
+Speaker1: You can directly call our bank's customer service hotline to verify, the phone number is 400102304, this is the official phone, you can rest assured.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact me anytime. I hope our service can meet your satisfaction.
+Speaker2: Thank you, I will contact your customer service to confirm.

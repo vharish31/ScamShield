@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Uh, hello
+Speaker1: I am the scheduled maintenance at 8:00.
+Speaker2: 8:00 is okay? Yeah, sure
+Speaker1: That's great, I might be a little late by a few minutes.
+Speaker2: No worries, we can leave before 8:20.
+Speaker1: Okay, okay. Then I will try to arrive early.
+Speaker2: Okay, you arrived, you can directly enter, we will prepare everything.
+Speaker1: How long does maintenance usually take?
+Speaker2: The small grooming takes about forty minutes.
+Speaker1: Okay, I'll arrive at eight o'clock on time.
+Speaker2: Okay, eight o'clock meeting, welcome to arrive.

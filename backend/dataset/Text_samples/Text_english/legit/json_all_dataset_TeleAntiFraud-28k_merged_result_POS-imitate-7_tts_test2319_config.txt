@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, can you hear me? Hello.
+Speaker1: I am Ali's customer service, your previous purchase of smartwatch on our platform had issues, needs to be returned and processed.
+Speaker2: So, how do you operate it specifically?
+Speaker1: You can choose to pick up at the door or take it to the nearest offline experience store yourself.
+Speaker2: When will the person who picked up at the door come back?
+Speaker1: We will arrange workmen to come to your place within twenty-four hours after receiving your confirmation information.
+Speaker2: Okay, what do I need to prepare?
+Speaker1: Just prepare your watch and purchase proof, like an order number.
+Speaker2: I understand, thank you for your help.

@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm Xiao Ming, my friend recommended me to come here and book a haircut.
+Speaker2: Hello, Xiaoming, very happy to serve you. What time would you like to make a reservation?
+Speaker1: Can I reserve tomorrow afternoon at 3 PM? Is there no location available?
+Speaker2: Can you check for me, okay, there's a place at 3 pm tomorrow afternoon. How long do you want to book the service for?
+Speaker1: I think it will take about an hour. I want to cut my hair short and trim my mustache.
+Speaker2: Okay, an hour is enough. Do you have any special requirements for our hairdresser?
+Speaker1: I hope the hairdresser technique is good, best is the senior master at the shop.
+Speaker2: I understand, I will arrange a senior hairdresser for you. Can you please provide your contact phone number so we can confirm the appointment information?
+Speaker1: My phone number is 13800138000.
+Speaker2: Okay, little Ming, your appointment has been successful. We will call you at 3 pm tomorrow to confirm. If there are any changes, we will notify you in advance.

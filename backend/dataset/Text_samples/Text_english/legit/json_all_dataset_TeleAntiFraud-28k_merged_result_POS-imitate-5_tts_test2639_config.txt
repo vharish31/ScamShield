@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm small Li from the community management, want to confirm the repair time tomorrow with you.
+Speaker2: Hello, little Li, tomorrow I'll be at home all day, you can come anytime.
+Speaker1: Okay, can I come at around 9am?
+Speaker2: Sure, nine o'clock is perfect, I was convenient at that time.
+Speaker1: What do I need to prepare in advance for you at nine o'clock tomorrow?
+Speaker2: No problem, just bring the tool over and I'll take a look.
+Speaker1: Okay, let me confirm with you before I come over tomorrow, is your apartment 3-12 right?
+Speaker2: Okay, 3rd floor 12th floor, just come straight up when the time comes.
+Speaker1: Okay, see you tomorrow.
+Speaker2: See you tomorrow, thank you.

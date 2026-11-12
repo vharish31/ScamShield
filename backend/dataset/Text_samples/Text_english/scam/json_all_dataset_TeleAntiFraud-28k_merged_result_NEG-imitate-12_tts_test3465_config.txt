@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Blue Sky Express customer service center.
+Speaker2: Hello, do you have anything?
+Speaker1: We found your package that was lost during transportation. Now we can process a refund for you.
+Speaker2: Is it really? Then how do I apply for a refund?
+Speaker1: To facilitate a refund, please first download our latest refund processing app.
+Speaker2: Do you want to download the app? Okay, how do I download it?
+Speaker1: You can download the app by scanning the QR code I send, then follow the instructions after downloading.
+Speaker2: Okay, I'll check my phone later, can you send the QR code over?
+Speaker1: Okay, I'll send it to your phone right away. Additionally, to verify your identity, please provide the last four digits of your phone number.
+Speaker2: Okay, my phone number ends with 1234.

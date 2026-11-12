@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, want to make an appointment with you guys for a haircut.
+Speaker2: Hello, Little Wang, I am the customer service staff of the hair salon, very happy to serve you. What time would you like to make an appointment?
+Speaker1: Can I make a reservation for this weekend, at 3 PM on Saturday?
+Speaker2: Can you check if there's an available slot on Saturday afternoon at 3 PM for me to book?
+Speaker1: Great, I'll book this time. By the way, my hair is quite long, do you know any good haircutters?
+Speaker2: We have a senior hair stylist named Li Master in our store who is very skilled at cutting long and short hair styles. I can book him for you.
+Speaker1: Great, let's book Li Si Fu. And, how much does a haircut cost?
+Speaker2: Based on your requirements, the cost of shortening your hair is approximately 200 yuan. If you need additional styling services, there may be additional costs.
+Speaker1: Okay, I understand. See you on Saturday.
+Speaker2: Okay, see you on Saturday at 3 pm. Have a happy life, bye!

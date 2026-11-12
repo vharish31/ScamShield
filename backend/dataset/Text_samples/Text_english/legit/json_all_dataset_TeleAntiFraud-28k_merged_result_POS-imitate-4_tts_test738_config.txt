@@ -1,0 +1,12 @@
+Speaker1: Hey, are you guys able to rent bikes there?
+Speaker2: Hello, okay, we have various types of bicycles for rent here.
+Speaker1: How much would it cost to rent for a week?
+Speaker2: If you return the bike within a week, you will get back your deposit of 100 yuan.
+Speaker1: How do I withdraw my deposit? Do I need to bring any documents?
+Speaker2: When withdrawing a deposit, you need to bring your ID and deposit receipt. We will verify and then return it.
+Speaker1: Okay, can I go over there tomorrow?
+Speaker2: Okay, what time are you coming tomorrow?
+Speaker1: Let's meet around 2:30 in the afternoon.
+Speaker2: No problem, come over, we'll prepare a bike for you here.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

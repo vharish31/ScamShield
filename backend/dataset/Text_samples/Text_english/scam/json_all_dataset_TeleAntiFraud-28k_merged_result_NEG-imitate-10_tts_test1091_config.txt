@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Liu Ming?
+Speaker2: Hey, it's me, you?
+Speaker1: I am a customer service representative for Taobao, you may have issues with the products you recently purchased on our platform and need to process a refund, is that convenient for you?
+Speaker2: Oh, really? What do we do then?
+Speaker1: Don't worry, to ensure your funds are safe, we need you to download a verification software that can quickly handle this issue.
+Speaker2: Do you want to download software? Which software?
+Speaker1: Yes, this software is called Safe Payment. After you download it, we can guide you through the refund process using the software.
+Speaker2: Okay, how do I download it?
+Speaker1: Just click on this link to download directly.
+Speaker2: Okay, I'll go download it now.

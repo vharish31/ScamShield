@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer manager at a Chinese bank, we noticed you recently did business with us, there is now a special discounted loan project available that can provide you with a credit limit of 50,000 yuan, are you interested in learning more?
+Speaker2: Is it really? How to apply?
+Speaker1: Great, just download our bank's official app, then click 'loan zone' on the homepage and follow the instructions to apply. To speed up the approval process, prepare your ID and bank statement.
+Speaker2: Okay, what is the name of this app?
+Speaker1: The name of the app is "Zhōngyín dànkùn bǎo", you can search and download it in the app store, after downloading remember to use this recommendation code: ABC123, so you can enjoy faster approval service.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Hello, if you have any issues after downloading, please feel free to contact me anytime. My phone number is 13700000000. I wish you a successful application!
+Speaker2: Thank you, I will contact you.

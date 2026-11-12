@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I want to reserve a table for two people tomorrow night.
+Speaker2: Okay, which restaurant would you like to reserve?
+Speaker1: Do you guys have a private room?
+Speaker2: Yes, we have several private rooms, do you need a big one?
+Speaker1: No need, two people, a normal room is enough.
+Speaker2: Okay, what time is it tomorrow night?
+Speaker1: Seven o'clock.
+Speaker2: Okay, I have already reserved for you. Just come to the front desk and give your name when you arrive.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, hope you enjoy your meal. Bye!

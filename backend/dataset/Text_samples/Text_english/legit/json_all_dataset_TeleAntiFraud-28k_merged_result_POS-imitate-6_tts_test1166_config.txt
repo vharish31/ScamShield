@@ -1,0 +1,12 @@
+Speaker1: Hey, are you guys renting that house on the fifth floor?
+Speaker2: Hello, yes, we do have a house for rent, which area are you interested in?
+Speaker1: I'm looking at the house on the south side of Lake Hu, close to the subway station, convenient for work.
+Speaker2: The houses on the south side of the lake are indeed close to the subway station, about a ten-minute walk.
+Speaker1: How much is the rent for that house?
+Speaker2: Rent is three thousand five hundred yuan per month, with a one-time deposit of three thousand yuan.
+Speaker1: How is the electricity bill calculated?
+Speaker2: Electricity bills are calculated based on actual usage and settled monthly.
+Speaker1: Can I take a look at the house?
+Speaker2: Of course, when do you have time?
+Speaker1: Can we meet at two in the afternoon tomorrow?
+Speaker2: Tomorrow at 2 PM is fine, I'll be waiting for you at the community door.

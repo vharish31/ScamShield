@@ -1,0 +1,10 @@
+Speaker1: Hey, are your restaurant still open?
+Speaker2: Hello, our restaurant is still open, and we'll close in forty minutes.
+Speaker1: Okay, I'll be there in about twenty minutes. Do you guys have a place?
+Speaker2: Yes, are you a group of people? Do you need to reserve a place?
+Speaker1: We are four people, could you please reserve a window seat?
+Speaker2: Okay, I have reserved a four-person window seat for you. You can come in directly when you arrive.
+Speaker1: That's great, thank you very much.
+Speaker2: You're welcome.
+Speaker1: Hey, I heard you guys have special dishes, can you recommend one?
+Speaker2: Our menu here has red braised pork and steamed fish, very popular, you can try.

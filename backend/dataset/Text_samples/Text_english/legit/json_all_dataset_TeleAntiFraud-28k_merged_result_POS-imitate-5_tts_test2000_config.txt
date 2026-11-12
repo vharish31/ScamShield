@@ -1,0 +1,11 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, I'm good, you?
+Speaker1: How have you been lately?
+Speaker2: Hello, just work is a bit busy. How about you?
+Speaker1: I too, but today I plan to rest a bit and go for a walk.
+Speaker2: What do you want to do now?
+Speaker1: Still haven't decided, maybe go to the park or bookstore. Do you have any recommendations?
+Speaker2: If you like quiet places, you can go to the new cultural street, there are several good bookstores and coffee shops on that side.
+Speaker1: Great idea! Thank you for your suggestion! I'll go take a look there in a little while.
+Speaker2: No problem, I hope you have fun. Contact me later if you have time.
+Speaker1: Okay, you take care of yourself too. Bye!

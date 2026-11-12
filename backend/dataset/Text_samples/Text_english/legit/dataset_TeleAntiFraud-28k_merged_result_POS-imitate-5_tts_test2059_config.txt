@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service of an e-commerce platform. Your account balance is about to expire, do you know?
+Speaker2: Did my points expire? How come I didn't notice?
+Speaker1: That's it, your account has a batch of points that must be used before midnight tonight, otherwise they will be cleared.
+Speaker2: Oh, in this way, then what can I do with these points?
+Speaker1: You can use points to exchange products on the platform, such as electronic products and home appliances, and also deduct some cash.
+Speaker2: How do I exchange it?
+Speaker1: After logging into your account, enter the point mall, select your favorite products, and click on exchange to complete the transaction.
+Speaker2: Okay, I'll try it right away.
+Speaker1: Okay, feel free to contact me anytime if you have any questions.
+Speaker2: Thank you for your reminder. I am truly grateful.

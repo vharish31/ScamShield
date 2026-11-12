@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service manager of some bank, you have consulted with us about loan matters before, now we have a low interest loan project which is very suitable for you, are you interested in learning more?
+Speaker2: Oh, that's right, I did consult before, but recently my hands are full, and I don't have a need for a loan at the moment.
+Speaker1: That's great, but I have an opportunity on my side. As long as you apply through our customized app, you can enjoy lower interest rates and faster approval process, which is very convenient. Would you like to download and try it?
+Speaker2: Do you want to download the app? It sounds good, what's the name of the app, is it safe?
+Speaker1: Don't worry, our app is very safe, called "some some loan", you can scan my QR code to download it or directly click my link, very convenient.
+Speaker2: Okay, how do I get this link or QR code?
+Speaker1: Okay, I'll send you a link via text message right away. Just click on it to download, and feel free to contact me if you encounter any issues during the process.
+Speaker2: Okay, thank you for your help. I will pay attention to checking my messages.
+Speaker1: No thanks, this is my job. If you have any other questions or download and don't know how to operate, you can contact me anytime. Have a nice use!
+Speaker2: Okay, thank you, bye.

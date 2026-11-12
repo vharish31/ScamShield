@@ -1,0 +1,11 @@
+Speaker1: Hello, I am a customer service representative from Taobao, I noticed you have recently browsed some electronic products on our website, do you have any intention to purchase?
+Speaker2: Hmm, I'm looking at a notebook computer, but I'm not familiar with the configuration.
+Speaker1: Can you specify which model you are interested in? I can provide you with detailed information.
+Speaker2: That's the one with the linked thinking small new series.
+Speaker1: Good, the LinkWish Xiao Xiǎn series is a very cost-effective choice, it has a 10th generation Intel Core i5 processor, with an eight-core graphics card, making it suitable for daily office work and light gaming use.
+Speaker2: How long is its navigation time?
+Speaker1: This laptop's battery life is very strong, it can be used for about ten hours after charging, which is enough to meet the needs of a whole day.
+Speaker2: How much does it cost?
+Speaker1: Currently, the price of this computer on our website is five thousand nine hundred ninety-nine yuan, and there is also a full discount activity, so the actual payment will be more affordable.
+Speaker2: Okay, I'll think about it, thanks for your detailed explanation.
+Speaker1: You're welcome. If you have any more questions, please feel free to consult. I hope you find a satisfactory product.

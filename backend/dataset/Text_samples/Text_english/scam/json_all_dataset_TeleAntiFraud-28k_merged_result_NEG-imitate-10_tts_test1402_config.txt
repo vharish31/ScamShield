@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of XX bank, you can call me Li manager.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed that you recently have some capital rotation needs, we have a special loan product designed for small and medium enterprises, which can provide up to one hundred thousand yuan without collateral, and the procedures are very simple.
+Speaker2: Oh, that's right, I really need it.
+Speaker1: Great, to better understand more information, you can first download our XX loan app, which has detailed introductions, and you can also apply online directly.
+Speaker2: Is this app safe?
+Speaker1: Of course, we are a regular bank development, absolutely safe. After downloading, you can also enjoy some new user discounts.
+Speaker2: Okay, let me try.
+Speaker1: Great! You can contact me anytime if you have any questions. My contact number is 13800138000. Best wishes!
+Speaker2: Thank you, goodbye.

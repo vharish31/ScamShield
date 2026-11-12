@@ -1,0 +1,8 @@
+Speaker1: Hello, is this my call, are you Li teacher?
+Speaker2: Yes, it's me. Hello, where are you?
+Speaker1: Can you come pick me up at Tiananmen Square? I'm ready to go to the National Library.
+Speaker2: Okay, I'll be right there, where are you waiting for me at the exit?
+Speaker1: I arrived at the north exit, and someone called me.
+Speaker2: Okay, I'll be there in about ten minutes. Please pay attention to the license plate number of the blue sedan, which is 京A12345.
+Speaker1: Okay, I understand, thank you teacher.
+Speaker2: No problem, be careful on the road, see you later.

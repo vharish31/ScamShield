@@ -1,0 +1,9 @@
+Speaker2: Thank you. Hey, how are you?
+Speaker1: Hello, I am the customer service representative of the food delivery platform, I see that you often order food from our platform, today do you have any suggestions about our service?
+Speaker2: Ah, very good, thank you, the service is very fast, the food is also very delicious.
+Speaker1: That's great, thank you for your support. We recently introduced some new dishes, such as spicy stir-fry and fried chicken drumsticks, would you like to try them?
+Speaker2: Okay, let's try again.
+Speaker1: Okay, if you have any questions or need help, feel free to contact us. Enjoy your meal!
+Speaker2: Okay, thank you.
+Speaker1: Additionally, we have a new user referral activity. If you recommend a friend to order food, both of you will get discount coupons.
+Speaker2: This is great, I will recommend it to my friends.

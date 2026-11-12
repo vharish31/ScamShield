@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your restaurant has a vegetarian set meal?
+Speaker2: Hello, we have a vegetarian set meal here, priced at 30 yuan per person, which includes three dishes, a soup, and a small sweet dessert.
+Speaker1: How about your restaurant starts business at what time?
+Speaker2: Our restaurant is open from 10 am to 9 pm.
+Speaker1: Okay, I plan to come in the afternoon around two o'clock. Do I need to make an appointment in advance?
+Speaker2: If you can determine the time, please make an early reservation, so we can prepare a quiet place for you.
+Speaker1: I'll reserve a table for two people, around 2:00 PM.
+Speaker2: Okay, I have made a reservation for you, two guests, at two o'clock sharp. Please go directly to the front desk to check in when you arrive.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later. I hope you have a pleasant dining experience.

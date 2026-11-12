@@ -1,0 +1,9 @@
+Speaker2: Hey, who are you looking for?
+Speaker1: Can you find Zhang Ming? He lives here?
+Speaker2: Who are you?
+Speaker1: I am his friend, we agreed to meet today.
+Speaker2: Okay, I understand. Zhang Ming is not at home now, he went to the supermarket, he should come back soon.
+Speaker1: Can you tell him in one sentence?
+Speaker2: Sure, I'll call him later.
+Speaker1: Goodbye, thank you.
+Speaker2: No problem, if you're feeling impatient, you can directly contact me.

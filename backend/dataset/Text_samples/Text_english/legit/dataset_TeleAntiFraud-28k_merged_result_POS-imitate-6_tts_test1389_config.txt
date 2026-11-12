@@ -1,0 +1,8 @@
+Speaker1: Hey, are you at home?
+Speaker2: What's up?
+Speaker1: I'll come over in a little while, what specific unit is your apartment in?
+Speaker2: It's building 4, unit 3B, do you remember?
+Speaker1: Okay, four buildings, three floors, B room, I know.
+Speaker2: Okay, when you call me, I'll go downstairs to meet you.
+Speaker1: Okay, see you later.
+Speaker2: See you soon, be careful on the road.

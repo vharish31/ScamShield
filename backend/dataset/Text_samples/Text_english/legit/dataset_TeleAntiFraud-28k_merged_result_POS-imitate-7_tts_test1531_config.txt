@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? This is the Happy Restaurant. Your four-person table is ready for you now. Are you coming?
+Speaker2: Okay, we'll leave soon, about ten minutes away.
+Speaker1: Okay, we're waiting for you here. The restaurant address is Happiness Road 100th No., please call to confirm once you arrive.
+Speaker2: Happiness Road 100, okay, I understand.
+Speaker1: Okay, someone will greet you when you arrive later. Enjoy your meal.
+Speaker2: Thank you, let's meet again later.
+Speaker1: Please slow down, pay attention to safety on the road, see you later.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I'm the customer service monkey at the point reward store, saw you have a lot of points without redeeming, want to remind you a little.
+Speaker2: Oh, really? I didn't notice it.
+Speaker1: Yes, points can be used to exchange products, such as white wine gift boxes or smartwatches, which are directly deducted from cash.
+Speaker2: How can I check my score?
+Speaker1: You can log in to our website or app and enter the personal center to view. Now your account has over 26,000 points.
+Speaker2: So many, how do I exchange them?
+Speaker1: You can select your favorite products, click on exchange, and then follow the instructions to complete the transaction.
+Speaker2: Okay, thank you for your reminder, I'll try it later.

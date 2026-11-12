@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I saw a washing machine on your website, and I want to know more about its details.
+Speaker2: Hello, I'm very happy to serve you. Which washing machine do you like?
+Speaker1: That's the white large capacity one, I don't remember the model number.
+Speaker2: Okay, your statement should be our latest large-capacity washing machine. This machine has a large capacity and is suitable for family use.
+Speaker1: What is its price?
+Speaker2: The price of this washing machine is 4500 yuan, and you can enjoy a 90% discount when buying now.
+Speaker1: How much is it after a discount of 9?
+Speaker2: The price after a 90% discount is 405 yuan.
+Speaker1: Can this price be a little cheaper?
+Speaker2: This is our promotional price already, it can't be cheaper. But if you choose cash on delivery, you can still enjoy a 50 yuan discount.
+Speaker1: Okay, I'll think about it. How long is the warranty on your washing machine?
+Speaker2: Our washing machine provides three-year warranty service, any non-human damage can be repaired for free.

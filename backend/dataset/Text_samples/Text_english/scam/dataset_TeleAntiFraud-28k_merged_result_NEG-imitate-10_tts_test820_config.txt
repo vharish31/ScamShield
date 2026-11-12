@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am Lee Wen from Xinghui Investment Company. Recently, our company launched a high-yield investment project. Would you be interested in learning more about it?
+Speaker2: Sure, what's the project?
+Speaker1: This is a one-year fixed-income investment with an annual yield of 12%, very stable, no risk. You just need to register an account on our website to start investing.
+Speaker2: Listen good, how register?
+Speaker1: It's very simple. I send you a link, you click on it and follow the instructions to enter. Additionally, to ensure the safety of your funds, you need to first deposit a certain amount of money as a guarantee, there's no limit on the amount, the main purpose is to activate your account.
+Speaker2: Okay, how should I pay this deposit?
+Speaker1: You can pay through bank card transfer method, I will provide you with a safe bank account, just transfer and you're done. After transfer, remember to send me the transfer receipt, I will process immediately on this end.
+Speaker2: Okay, I will process it quickly.

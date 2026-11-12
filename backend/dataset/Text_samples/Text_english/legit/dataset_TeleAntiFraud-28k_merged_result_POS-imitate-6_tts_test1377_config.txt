@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: How have you been lately?
+Speaker2: Hey, I'm pretty good, just a bit busy with work. How about you?
+Speaker1: I'm tired lately, I've been looking at houses.
+Speaker2: Look at the house, have you found a suitable one yet?
+Speaker1: Alright, there are a few that I think are pretty good, but the prices are a bit high.
+Speaker2: Yes, the house prices are really expensive now. Do you consider taking a loan?
+Speaker1: Considered, but first need to check bank loan policy.
+Speaker2: Hmm, this is very important. You can consult several banks and compare them.
+Speaker1: Hey, I plan to visit several banks this weekend to ask questions.
+Speaker2: Great idea, I hope you can find a suitable loan plan.
+Speaker1: Thank you, let's do this way first, I have to go to the bank now.
+Speaker2: Okay, you busy, have space later chat.
+Speaker1: Okay, bye.
+Speaker2: Goodbye.

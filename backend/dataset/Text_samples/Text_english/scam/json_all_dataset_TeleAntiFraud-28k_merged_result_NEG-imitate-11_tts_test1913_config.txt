@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Zhang, the credit manager at Agricultural Bank. We have a great opportunity for customers in Dongguan who have social security or public savings to apply for a low-interest loan with an interest rate of only two cents. Do you have any recent financial needs?
+Speaker2: Hello, I temporarily have no need.
+Speaker1: Oh, that's right. This loan is actually very cost-effective, and if you have any cash flow needs, you can consider it anytime. Moreover, we also have a special app that can help you easily check the loan progress anytime.
+Speaker2: APP? That sounds pretty convenient.
+Speaker1: Yes, it's very convenient. You can scan the QR code I send you to download the app, register and enjoy many discount activities.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you download it, if you encounter any issues, please feel free to contact me anytime. Additionally, you will need to provide some personal information, such as your identity card number and bank account, for us to review.
+Speaker2: Okay, I understand.
+Speaker1: Thank you very much for your cooperation. After the review is approved, we will pay you quickly. If you have any questions, please feel free to contact me at any time. I wish you a happy life.
+Speaker2: Thank you, goodbye.

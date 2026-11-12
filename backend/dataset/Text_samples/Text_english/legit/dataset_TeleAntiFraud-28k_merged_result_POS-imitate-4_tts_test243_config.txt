@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I just ordered a piece of clothing on your website, but I didn't see the order information, can you help me check it out?
+Speaker2: Hello, little Zhang, I am customer service Li, can you please tell me your phone number, I will help you check.
+Speaker1: Okay, my phone number is 131234567.
+Speaker2: Okay, wait a minute, I'll check... I found it, your order number is one two three four five six seven, you bought a blue men's T-shirt.
+Speaker1: When will this item be shipped?
+Speaker2: We will arrange delivery within 24 hours after order confirmation. Typically, you will receive the product within 3 to 5 working days.
+Speaker1: What should I do if I don't receive it by then?
+Speaker2: If you don't receive the product within the estimated time, you can contact our customer service at any time, and we will help you query the logistics information. If there is indeed a problem, we will quickly solve it for you.
+Speaker1: Can I have an invoice?
+Speaker2: Of course, you can select electronic invoice on the order details page, or contact our customer service after receiving the order, we will help you handle it.

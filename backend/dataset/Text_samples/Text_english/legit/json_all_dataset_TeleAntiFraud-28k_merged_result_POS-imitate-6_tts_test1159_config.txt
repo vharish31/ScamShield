@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have a vegetarian set meal at your store?
+Speaker2: Yes, we have many vegetable set meals. Which one do you want to know about?
+Speaker1: What is the price of that vegetable dish?
+Speaker2: The price of the double-course vegetarian set meal is 35 yuan, including two signature vegetable dishes and a bowl of soup.
+Speaker1: Does your business open now?
+Speaker2: We are open from 10 am to 9 pm, and we are currently in the middle of business hours.
+Speaker1: Can I go there in about half an hour?
+Speaker2: Okay, we'll hold a seat for you, see you in half an hour.
+Speaker1: Okay, thank you.
+Speaker2: No problem, see you later.

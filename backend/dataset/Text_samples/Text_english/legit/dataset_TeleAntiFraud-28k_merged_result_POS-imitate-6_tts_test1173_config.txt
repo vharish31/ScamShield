@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm the customer service at Xiaoming Bookstore. You bought a novel from us last time, and we have a new one on the shelf that you might like. Would you like to know more about it?
+Speaker2: Hey, what book is it?
+Speaker1: It's a new science fiction novel called "Starry Navigation," written by Zhang Wei. Many readers say it's written really well, with tight plots and rich imagination.
+Speaker2: How much does this book cost?
+Speaker1: The original price is thirty yuan, but we now have a promotion activity, buying this book can enjoy an eighty percent discount, only twenty-four yuan.
+Speaker2: Okay, how do I buy it?
+Speaker1: You can directly come to our bookstore or order through our official website, we provide door-to-door delivery service.
+Speaker2: Okay, I'll think about it, thanks for your recommendation.
+Speaker1: You're welcome, if you have any questions, please feel free to contact us anytime, wish you a happy day.
+Speaker2: Thank you, goodbye.
+Speaker1: Goodbye.

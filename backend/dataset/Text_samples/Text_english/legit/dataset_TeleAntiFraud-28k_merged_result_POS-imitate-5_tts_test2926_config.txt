@@ -1,0 +1,10 @@
+Speaker1: Hello, you.
+Speaker2: Hello, I'm Xiaoming, I'm here to do my hair.
+Speaker1: Okay, Xiaoming, is your appointment today afternoon?
+Speaker2: Yes, three o'clock in the afternoon.
+Speaker1: Okay, Xiaoming, have you arrived at the store yet?
+Speaker2: Just arrived, still at the door.
+Speaker1: Okay, you come in, I'll arrange your seat right away.
+Speaker2: Okay, thank you.
+Speaker1: No problem, what would you like to drink first?
+Speaker2: Let's have a cup of water, thank you.

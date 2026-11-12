@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I see there's a housekeeping service over here, I want to know more about it.
+Speaker2: Of course, we provide daily cleaning, maid service, elderly care and other household services. Which one do you specifically need?
+Speaker1: Can I find a weekly cleaning service that is available two times a week?
+Speaker2: Sure, we have many options for dishes, a weekly two-time cleaning service, each lasting three hours, do you think it's suitable?
+Speaker1: Can it be extended to four hours from three hours?
+Speaker2: Sure, we also have a four-hour service, the price will be a little higher, can you tell me the specific amount?
+Speaker1: Okay, how much money is it?
+Speaker2: Four-hour cleaning service, twice a week, one month's fee is six hundred yuan.
+Speaker1: Is there any discount if I pay 1800 yuan for three months?
+Speaker2: There's a discount for one-time payment of three months' fees. You can enjoy a 95% discount.

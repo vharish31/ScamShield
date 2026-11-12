@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hi, this is the customer service of the community management, I just want to confirm the water and electricity repair appointment next Monday with you, do you have any space on your side?
+Speaker2: When is it on Monday next week?
+Speaker1: Our master will probably arrive around 10 am, if there are any time changes, we will notify you in advance.
+Speaker2: Okay, I'll wait at home until the repairman arrives. Do I need to open the door for the repairman?
+Speaker1: Yes, the master will call you first to confirm before you open the door. If there are any issues, you can contact me anytime.
+Speaker2: Okay, thank you. How long will maintenance take approximately?
+Speaker1: In general, if it's a simple water and electricity repair, it usually takes about an hour and a half. If the issue is more complicated, it might take longer.
+Speaker2: Understood, so I will leave enough time. If there are other things that need preparation, please let me know in advance.
+Speaker1: Okay, if you need anything from me, I will contact you a day in advance to confirm. Thank you for your cooperation. Wish you a happy life.
+Speaker2: Thank you, goodbye.

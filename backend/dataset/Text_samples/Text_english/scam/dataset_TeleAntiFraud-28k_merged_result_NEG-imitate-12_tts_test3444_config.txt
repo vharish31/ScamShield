@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm customer service representative Zhang from Commercial Bank. Your loan application has been approved. You need to handle the follow-up procedures.
+Speaker2: Oh, really? That's great, I really need to turn over some cash recently.
+Speaker1: Yes, to speed up the loan disbursement process, you need to first download our official app, enter the verification code, and then follow the instructions to complete it quickly.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Please click on this link to verify your identity for the sake of ensuring your information security.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, after verification is passed, remember to complete the final steps in the app. If there are any issues, feel free to contact me anytime.
+Speaker2: Thank you, little Zhang. I'll go do it now.
+Speaker1: No problem, wish you good luck with the operation.
+Speaker2: Okay, bye.

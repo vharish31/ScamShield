@@ -1,0 +1,9 @@
+Speaker2: Hello, do you have vegetarian options at your restaurant?
+Speaker1: Yes, we have many kinds of vegetables here, such as stir-fried vegetables, stir-fried bean sprouts, stir-fried mushrooms, and stir-fried bell peppers.
+Speaker2: Great, can I reserve a four-person booth for tonight at 7 pm?
+Speaker1: Okay, your 7:00 PM room has been reserved for you. Do you need to prepare half an hour in advance?
+Speaker2: Okay, we might arrive a little early, around six thirty.
+Speaker1: No problem, we'll be ready at six and a half. By the way, do you have any special dietary requirements? Like avoiding spicy or being allergic to anything?
+Speaker2: One friend can't eat spicy, the others have no special requirements.
+Speaker1: Got it, we'll pay attention. See you at six thirty tonight, wish you a happy dinner!
+Speaker2: Thank you, goodbye!

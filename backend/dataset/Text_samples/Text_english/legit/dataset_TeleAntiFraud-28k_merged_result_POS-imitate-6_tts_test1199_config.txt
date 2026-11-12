@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, I saw your restaurant reviews are pretty good, I want to know more about your signature dishes.
+Speaker2: Hmm, our restaurant's signature dishes include spicy Sichuan hotpot, ginger and green onion with oysters, and steamed fish with ginger, all of which are very popular.
+Speaker1: What are your business hours?
+Speaker2: We open from 11am to 10pm every day, and on weekends we extend to 11pm.
+Speaker1: Sure, can I reserve a seat for tomorrow evening at 7 pm?
+Speaker2: Is it okay? Do you need to make a reservation for several people?
+Speaker1: Four people hope to arrange a quiet spot.
+Speaker2: Okay, I have reserved a four-person seat for you at seven o'clock tomorrow night. We will do our best to arrange a quiet location. Do you have any other special requirements?
+Speaker1: No more, thank you.
+Speaker2: Please welcome you.

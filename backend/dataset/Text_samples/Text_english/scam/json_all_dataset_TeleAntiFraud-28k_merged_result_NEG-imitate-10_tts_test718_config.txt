@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am the customer manager of the construction bank. My name is Zhang Huai. Based on your consumption records, we have prepared a credit loan of 20,000 yuan for you, with a very low interest rate. Do you need to convert funds recently?
+Speaker2: Hello, I recently don't have any financial needs, thank you.
+Speaker1: Oh, that's really too bad. If you need anything in the future, feel free to contact me anytime, or add my WeChat, I can send you detailed info.
+Speaker2: Add WeChat and I won't use it. If you need me, I will actively contact you through the bank.
+Speaker1: Okay, here's a special link for you to check out detailed loan information and other promotional activities. Would you mind taking a look?
+Speaker2: I still didn't look, thank you.
+Speaker1: That's really too bad. But if you have any financial needs, this link will always be effective, and you can check it anytime.
+Speaker2: Okay, thank you for your reminder.
+Speaker1: No problem, I have another special app on this side that you can download to enjoy lower rates, and there are other financial products that you may consider.
+Speaker2: I'm still not very interested, thank you.
+Speaker1: Okay, I won't disturb you anymore. If you have any questions, feel free to contact me anytime. Have a happy life. Bye.
+Speaker2: Goodbye.

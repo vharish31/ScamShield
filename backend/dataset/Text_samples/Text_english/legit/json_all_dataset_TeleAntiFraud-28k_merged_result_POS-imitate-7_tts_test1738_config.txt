@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the Meituan Waimai customer service, your order will be delivered soon, please confirm your address is Huacejiajun xiǎozhuāng?
+Speaker2: Hey, hello, right, it's Huacejiajun xiǎozhuāng, but I might be late to get there.
+Speaker1: Okay, what time do you think you'll arrive? Our delivery time is within 30 minutes.
+Speaker2: Will I be late if it takes me about forty minutes to get there?
+Speaker1: If the delivery takes more than 30 minutes, the delivery person may contact you to confirm if you want to continue waiting. You can call the delivery person ahead of time to explain the situation.
+Speaker2: Okay, how do I contact the delivery guy? Can I see his phone number on the order?
+Speaker1: Yes, you can check the contact information of the delivery person in the order details. If you can't find it, you can also contact us through our customer service hotline.
+Speaker2: Okay, thank you. There's another question. I ordered a spicy flavor, but I can't eat spicy, can I adjust it a little?
+Speaker1: Sure, you can add a note to remind the merchant not to add too much spice. But the order has already been submitted, do you need me to contact the merchant to confirm it?
+Speaker2: Can you help me confirm it, please? Thank you.
+Speaker1: Okay, I will contact the seller immediately to process it for you. If there are any changes, we will notify you promptly.

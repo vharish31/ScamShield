@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: I saw a rice cooker on your website and wanted to know more about it
+Speaker2: Okay, this electric rice cooker is our store's best-selling product, with all functions and simple operation. What specific information do you want to know about it?
+Speaker1: Can you tell me its price and if it's in stock?
+Speaker2: The price of this electric rice cooker is three hundred ninety-nine yuan, there's enough stock, you can place an order immediately.
+Speaker1: When will the delivery time be approximately?
+Speaker2: If it's within the city, we can deliver it the next day after ordering in the morning. If it's outside the city, it might take three to five days.
+Speaker1: Okay, I'll think about it, thank you for your patience in answering.
+Speaker2: You're welcome, feel free to consult anytime if you have any questions, wish you a happy life!

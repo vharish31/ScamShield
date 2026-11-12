@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. There may be issues with your recent online purchases, and we need to process a refund. Do you have time?
+Speaker2: What's the problem when you have time?
+Speaker1: The makeup product you recently bought on Taobao has been reported to have quality issues by the seller, and we need to process a refund for you. To ensure safety, please provide your bank account information so we can process the refund.
+Speaker2: Okay, how can I provide information?
+Speaker1: You can click on the link we send, fill in the relevant information, and we will process your refund after review.
+Speaker2: Link? How do I know this is safe?
+Speaker1: This link is our official link, absolutely safe. If you're not sure, you can provide some info first, and we'll verify it right away.
+Speaker2: Okay, I'll try.
+Speaker1: Great, you will receive a text message with a link shortly, please complete the information quickly, and if you have any questions, you can contact our customer service anytime.
+Speaker2: Okay, thank you.

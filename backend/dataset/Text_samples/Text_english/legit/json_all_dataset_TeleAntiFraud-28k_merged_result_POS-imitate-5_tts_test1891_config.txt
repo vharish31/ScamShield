@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am the waiter of this restaurant, you reserved a 6:30 pm table tonight, right?
+Speaker2: Yeah, I reserved it.
+Speaker1: Okay, do you have a few people to dine with?
+Speaker2: We are about five people.
+Speaker1: Okay, there are five of you, I have already reserved a quiet spot for you by the window.
+Speaker2: Great, thank you for your arrangement.
+Speaker1: No problem, by the way, do you have any special dishes you want to eat? Tell me in advance, I can help you prepare.
+Speaker2: Yes, I want to try your store's signboard dish and that spicy chicken.
+Speaker1: Okay, I will make sure the chef prepares fresh food. Also, if you have any special requirements, such as a preference for the taste of the food, please let me know.
+Speaker2: Okay, we have a friend who can't eat spicy, please keep an eye on him later.
+Speaker1: No problem, we will pay attention. See you at six and a half tonight, I hope you have a pleasant dining experience.
+Speaker2: Okay, thank you, then we'll see each other in the evening.

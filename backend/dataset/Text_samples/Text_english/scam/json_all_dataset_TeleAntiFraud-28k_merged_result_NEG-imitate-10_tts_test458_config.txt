@@ -1,0 +1,18 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, you are?
+Speaker1: I am the Li manager of the Hui Jin investment, specializing in high-end client financial consulting.
+Speaker2: Hey, how are you?
+Speaker1: We noticed some recent large bank transactions from you. Do you have any need for investment in financial planning?
+Speaker2: Invest in wealth management? I don't understand well, can you give a specific explanation?
+Speaker1: Of course. We have a product here that is particularly suitable for high-end customers like you, with stable returns, low risk, and simple operation.
+Speaker2: What are the specific steps to do it?
+Speaker1: Just download our Jing Jin Li Cai APP, register and complete real name authentication to start investing.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, we are a regular investment platform with professional risk control team to ensure. You can try small amount investment first, experience it.
+Speaker2: What information do I need to provide?
+Speaker1: Just need your ID and bank card info for identity verification and money management.
+Speaker2: Okay, let me try.
+Speaker1: Great, I'll send you a download link now. Just click on the link to download the app directly.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes on your investment!
+Speaker2: Okay, bye.

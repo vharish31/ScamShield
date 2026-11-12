@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm little Zhang, I want to know about the health card management situation in your family.
+Speaker2: Hello, I am small Li, the customer service specialist at the fitness center. How may I assist you?
+Speaker1: Can you tell me how much your year cards cost and if there are any discount policies?
+Speaker2: Our current year card price is two thousand five hundred yuan, if you sign up now, you can enjoy a nine-discount discount, and there's a gift too.
+Speaker1: What are the gifts?
+Speaker2: The gift is a set of sports towels and a bottle of sports drink, very suitable for fitness use.
+Speaker1: What documents do I need to bring when applying for a year card?
+Speaker2: You just need to bring your ID and recent 1-inch photo. If convenient, you can directly come to our front desk to handle it.
+Speaker1: Okay, I have some free time this weekend. I plan to go out and take a look. Do you guys have to work this weekend too?
+Speaker2: Yes, we are open for business on weekends too. You are welcome to come anytime. If you have any questions, you can call us in advance.
+Speaker1: Okay, thank you for your help. See you this weekend.
+Speaker2: No problem, see you this weekend, wish you a happy weekend.

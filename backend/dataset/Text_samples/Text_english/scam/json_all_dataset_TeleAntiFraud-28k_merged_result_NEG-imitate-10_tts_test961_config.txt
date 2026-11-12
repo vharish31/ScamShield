@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Jing Xin Platform. Recently, you purchased a product from our platform and encountered a quality issue. We are now ready to process a refund for you.
+Speaker2: Oh, really? That's great, I've been feeling unsatisfied lately.
+Speaker1: Yes, in order to ensure your rights, we need you to provide us with your order number and bank account number. We will refund the amount to your account within one working day.
+Speaker2: Okay, my order number is XXXXXX, my bank card number is XXXXXX.
+Speaker1: Thank you for your cooperation. We also need you to provide a verification code. This verification code will be sent to your phone via text message. Please inform me immediately once you receive it.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the text message has been sent, please check.
+Speaker2: I received it, the verification code is XXXX.
+Speaker1: Thank you for your cooperation. We have already processed your refund request. We estimate that the funds will be returned to your account within one workday.
+Speaker2: Okay, thank you. If there are any more questions, I'll contact you again.

@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you? I am Lee Xiaoxiao, a customer service representative at the China Bank. Recently, we received feedback that your package may have been misoperated. We need to confirm with you.
+Speaker2: Is there a problem with my package?
+Speaker1: Hey, based on our records, there might have been an issue with your delivery during transportation. To ensure your rights, we need you to cooperate with us to do some identity verification.
+Speaker2: Okay, what do I need to do?
+Speaker1: Please provide your name and contact info, we'll generate a verification code and send it to you, just let us know once you receive it and we'll help you with the issue.
+Speaker2: Okay, my name is Xiaoming, my phone number is 13800138000.
+Speaker1: Okay, Mr. Xiaoming, please wait a moment, I will generate the verification code for you now.
+Speaker2: Okay, I'll be right back.
+Speaker1: Have you received the verification code sent to your phone yet?
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you very much, the verification code you provided has been successfully verified. In order to further confirm your identity, we need you to provide your bank card number so that we can process your express issue.
+Speaker2: What does this have to do with my delivery?
+Speaker1: This is because we need to ensure that it's you personally handling this issue, and if the package is lost or damaged, we can refund you directly through your bank card.
+Speaker2: Okay, my credit card number is 6222080000000000000.
+Speaker1: Okay, we have recorded your package issue and will handle it quickly. Thank you for your cooperation. If you have any other questions, please call our customer service hotline anytime.
+Speaker2: Okay, thank you.

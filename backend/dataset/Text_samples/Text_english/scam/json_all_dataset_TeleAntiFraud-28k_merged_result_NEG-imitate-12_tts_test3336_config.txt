@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Zhang Xiao, this is the Huayu Financial Services Center.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we found out during the customer data review that you are eligible to apply for our special loan service with a loan amount of up to 39,000, no collateral or guarantee required, and very low interest rates.
+Speaker2: Is it really? It sounds good.
+Speaker1: Of course, this service is very suitable for you as a high-quality customer. However, in order to ensure the safety of information, we need you to first download our official app and complete the identity verification through the app.
+Speaker2: Okay, how do I download this app?
+Speaker1: It's very simple. You can download it through the link I send you via text message, or I can guide you step by step via phone.
+Speaker2: Can you tell me how to operate it? I'm afraid the SMS link is not safe.
+Speaker1: Okay, I'll add you on WeChat first, then send you a QR code through WeChat, you just need to scan it to download.
+Speaker2: Okay, let me add you on WeChat.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Hi, I'm the customer service for food delivery, I saw that you ordered food from our platform before, do you have any suggestions or opinions about our service?
+Speaker2: Oh, your service is pretty good, just sometimes the delivery time for food is a bit longer.
+Speaker1: Thank you very much for your feedback. We will convey your opinions to the relevant department and strive to improve delivery efficiency.
+Speaker2: Okay, I hope you guys get better.
+Speaker1: Thank you again for your support. If you need any help, please contact us anytime.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome! Have a happy life! Bye!
+Speaker2: Goodbye!

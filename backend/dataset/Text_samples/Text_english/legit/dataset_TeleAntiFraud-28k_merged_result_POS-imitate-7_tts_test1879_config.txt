@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Hey, I'm at the park nearby, you?
+Speaker1: I'm at home, getting ready to go out for a stroll, do you have time tonight?
+Speaker2: What are your plans for tonight?
+Speaker1: Let's go to the new restaurant and give it a try, it's supposed to be great.
+Speaker2: Great, I heard it too. Let's try it together. How long ago?
+Speaker1: What's up at 6?
+Speaker2: Sure, six o'clock. Please tell me the restaurant address beforehand, I'll navigate there.
+Speaker1: Okay, the address is Happiness Road 33rd Number, remember to leave early, don't be late.
+Speaker2: Don't worry, I won't be late, see you at six.

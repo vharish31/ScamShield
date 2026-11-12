@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, do you have any more people to hire over there?
+Speaker2: Hey, are you the person who consulted about that position before?
+Speaker1: Yes, that's the sales assistant position, I didn't have time to interview before.
+Speaker2: Hey, that position is still open, when do you have time to come for an interview?
+Speaker1: Can I see you tomorrow afternoon?
+Speaker2: Can we meet at three in the afternoon tomorrow? We'll arrange an interview here.
+Speaker1: Okay, no problem, tomorrow afternoon three o'clock, I will arrive on time.
+Speaker2: Remember to bring your resume and ID when you come.
+Speaker1: Okay, thank you, I will definitely bring it. Goodbye.
+Speaker2: Okay, bye, see you tomorrow.

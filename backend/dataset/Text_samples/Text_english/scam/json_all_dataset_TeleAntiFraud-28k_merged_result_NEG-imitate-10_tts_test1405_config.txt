@@ -1,0 +1,14 @@
+Speaker1: Hello, is this Zhang Zhong?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Li, the customer manager at Huaxia Bank. We noticed some unusual activity on your account recently, so we need to verify it.
+Speaker2: Is there anything unusual?
+Speaker1: It appears that there are several unclear transactions on your account, we suspect it may be fraud, for your safety we need you to cooperate with us to confirm.
+Speaker2: What do I need to do?
+Speaker1: Please provide your bank card number and verification code, so we can lock your account and ensure your funds are safe.
+Speaker2: Okay, my bank card number is 1234567890123456, and the verification code is 123456.
+Speaker1: Thank you very much for your cooperation. We will immediately process it. By the way, we also have a high-yield investment project. Are you interested?
+Speaker2: Investment? What specific content are you referring to?
+Speaker1: This is an internally recommended high-yield financial product with a yearly return rate of up to 15%, suitable for both capital safety and appreciation. You can first invest 5,000 yuan to try it out.
+Speaker2: Sounds good, I'll think about it.
+Speaker1: Okay, you can add my WeChat, we can communicate further. My WeChat number is abc123456.
+Speaker2: Okay, I'll add you on WeChat. Thank you.

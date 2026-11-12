@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how can I help you?
+Speaker1: Can you tell me what time your hair salon is open?
+Speaker2: We are open from 9 am to 8 pm during weekdays and weekends.
+Speaker1: Do you have an appointment for a haircut this afternoon?
+Speaker2: Yes, making a reservation can avoid waiting in line, how many points do you want to reserve?
+Speaker1: Are we going at two o'clock?
+Speaker2: Two o'clock is fine, I'll book an appointment for you, just come directly to me when the time comes.
+Speaker1: Okay, thank you. Got it, do you have shampoo and conditioner there?
+Speaker2: Yes, we will use high-quality cleaning products here to ensure a comfortable customer experience.
+Speaker1: That's great, I'll go there tomorrow.
+Speaker2: Okay, I'm looking forward to your arrival, see you tomorrow.

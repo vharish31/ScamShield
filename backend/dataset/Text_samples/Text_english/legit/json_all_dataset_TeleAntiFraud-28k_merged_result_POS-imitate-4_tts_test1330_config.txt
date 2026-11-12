@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the supermarket you ordered from, the snack you ordered is temporarily out of stock.
+Speaker2: What do we do now there's no goods?
+Speaker1: Can we try a different flavor? We have the original here, the price is the same, the taste is almost the same.
+Speaker2: Can it be original?
+Speaker1: Sure, the original flavor is quite good, do you want to try it?
+Speaker2: Okay, let's switch to the original flavor.
+Speaker1: Okay, we'll arrange delivery for you of the original version.
+Speaker2: Thank you, okay, approximately how long will it arrive?
+Speaker1: About thirty minutes, the same address as last time?
+Speaker2: Yes, still the previous address.

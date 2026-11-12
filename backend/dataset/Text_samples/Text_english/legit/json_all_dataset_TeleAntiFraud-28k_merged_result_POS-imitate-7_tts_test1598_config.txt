@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I see some new phones in your store, want to know more about them?
+Speaker2: Okay, we have several new phones out, what aspect of information are you interested in?
+Speaker1: I mainly want to check the price and features, and also if there are any discount activities now.
+Speaker2: This new phone is currently priced at 3999 yuan, it comes equipped with the latest processor, the camera produces excellent photos, and it has a large battery. Currently, when purchasing, we have a promotion: buy three thousand and get two hundred off, and also receive a phone case.
+Speaker1: What color options are available for that phone?
+Speaker2: Currently, there are three colors available for you to choose from: black, white, and blue.
+Speaker1: Do you have any blue ones in stock?
+Speaker2: The blue ones are still in stock. If you decide to buy, we can prepare immediately.
+Speaker1: Okay, can I come over in the afternoon to pick up, please?
+Speaker2: Of course, we are open from three to six in the afternoon. You can come anytime during that period.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to consult your hairdressing service.
+Speaker2: Hello, this is a happy hair salon. What can I help you with?
+Speaker1: Can you tell me more about the hairdressing services on your side, including what's included?
+Speaker2: We have basic haircut, hairstyle design, hair washing and hair care services here. The set menu price is 200 yuan.
+Speaker1: How much would it cost if only basic trimming was done?
+Speaker2: The price of basic editing is one hundred yuan.
+Speaker1: Okay, when can I make a reservation?
+Speaker2: Can we reserve tomorrow afternoon at three o'clock? Is this time slot available?
+Speaker1: Okay, I'll come over at three o'clock tomorrow.
+Speaker2: Okay, see you tomorrow. Remember to come ten minutes early, we'll be ready early too.

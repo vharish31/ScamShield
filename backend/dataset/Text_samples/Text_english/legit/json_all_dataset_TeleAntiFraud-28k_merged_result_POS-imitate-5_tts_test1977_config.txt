@@ -1,0 +1,10 @@
+Speaker1: Hey, how have you been lately?
+Speaker2: Hello, I'm doing well, how about you lately?
+Speaker1: I'm doing well, lately my work has been pretty busy. How's the weather on your side?
+Speaker2: The weather here is quite good, just a bit hot. How about there?
+Speaker1: I feel a little hot, but it's okay. Do you have any free time this weekend? Let's go hiking together.
+Speaker2: I just had some free time on the weekend, let's go hiking and listen to the mountain sounds, it's perfect for a little exercise for the body.
+Speaker1: Great, let's leave early on Saturday morning at 8am, I'll pick you up.
+Speaker2: Okay, see you at eight o'clock on Saturday morning. Just be careful on your way there, call me when you arrive.
+Speaker1: Okay, no problem. Then we see each other on Saturday, goodbye.
+Speaker2: See you on Saturday, goodbye.

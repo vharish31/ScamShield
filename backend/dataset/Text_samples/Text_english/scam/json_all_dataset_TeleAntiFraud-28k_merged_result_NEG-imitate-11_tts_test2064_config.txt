@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am your delivery customer service representative. There is an important package for you here that needs your confirmation.
+Speaker2: Okay, you say, how to confirm?
+Speaker1: To ensure the safety of your package, please click on a link and enter your personal information for verification.
+Speaker2: Why don't you directly tell me the package information?
+Speaker1: Because this is the company's rule, to ensure customer privacy and security, it is necessary to go through this step.
+Speaker2: How do I know this link is safe?
+Speaker1: We are a legitimate express company, and the link is official. You can rest assured. If you're not sure, you can directly come to our company to confirm.
+Speaker2: Okay, let me try.
+Speaker1: Okay, the link has been sent to your phone. Please act quickly, and feel free to contact me if you have any questions.
+Speaker2: Okay, thank you.

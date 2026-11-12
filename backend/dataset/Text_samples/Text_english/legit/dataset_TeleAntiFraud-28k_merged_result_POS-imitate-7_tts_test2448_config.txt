@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, are you the haircut appointment for tomorrow morning at 10am?
+Speaker1: Yes, it's my appointment, can I just go directly tomorrow?
+Speaker2: Sure, we need to be ready about ten minutes in advance. Can you come at around 9:50?
+Speaker1: Okay, I'll try to go early.
+Speaker2: Okay, what else do we need to prepare before we meet at the front desk?
+Speaker1: I want to cut my hair short, clean and fresh.
+Speaker2: I understand, our hairdresser will design an appropriate hairstyle based on your face shape and requirements.
+Speaker1: That's great, thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival, see you tomorrow.
+Speaker1: Okay, see you tomorrow, goodbye.
+Speaker2: Goodbye.

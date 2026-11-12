@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, what's up with my takeout not being delivered yet?
+Speaker2: Hello, little Wang, your takeout has been delivered. It might be because of the traffic on the road, it's a little late.
+Speaker1: How long will it take? I'm getting impatient.
+Speaker2: We estimate it will take approximately twenty minutes, please be patient a little longer, we will deliver it to you as soon as possible.
+Speaker1: Okay, I'll wait a moment. If you don't come, how can I contact you?
+Speaker2: You can directly call our customer service hotline or leave a message in our app, and we will handle it first.
+Speaker1: Okay, thank you for your patience in answering, I hope next time it can be quicker.
+Speaker2: I'm so sorry to have caused you inconvenience. We will do our best to improve. Enjoy your meal!
+Speaker1: Okay, thank you.
+Speaker2: No problem, feel free to contact us anytime. Goodbye!

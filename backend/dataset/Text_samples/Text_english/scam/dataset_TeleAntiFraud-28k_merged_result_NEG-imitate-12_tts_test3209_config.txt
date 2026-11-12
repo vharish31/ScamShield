@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hi, I'm Li Xiao, currently working at China Construction Bank. I have a loan product that I think would be very suitable for you. Would you be interested in learning more about it?
+Speaker2: Loan? I have enough funds now, so I don't need a loan.
+Speaker1: That's right, but our products are not limited to just cash flow management, we also offer financial investment services, which can help you increase your wealth.
+Speaker2: Investing in wealth management sounds good, what specifically is it?
+Speaker1: There's a highly safe investment platform on our side with high returns and very low risks. All you need to do is download our app, register and you can start investing right away.
+Speaker2: Download the app? How do you download it?
+Speaker1: Very simple, I can send you a link, you click the link and you can download directly.
+Speaker2: Okay, let me try.

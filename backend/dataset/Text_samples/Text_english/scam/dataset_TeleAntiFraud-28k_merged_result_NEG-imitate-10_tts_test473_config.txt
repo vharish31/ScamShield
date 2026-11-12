@@ -1,0 +1,10 @@
+Speaker1: Hello, I am Lee Huai, the customer manager of China Construction Bank.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we recently launched a new loan product with a low interest rate, fast approval, and it's perfect for customers like you.
+Speaker2: I don't really need a loan.
+Speaker1: Oh, that's how it is. But this product is really cheap, if you're interested in learning more, you can add my WeChat, I'll give you a detailed introduction.
+Speaker2: Add me on WeChat?
+Speaker1: Yes, add my WeChat, I can send product info to you.
+Speaker2: Okay, I'll add you on WeChat.
+Speaker1: Great, my WeChat is LH123456, add me and I'll send the info right away.
+Speaker2: Okay, I understand.

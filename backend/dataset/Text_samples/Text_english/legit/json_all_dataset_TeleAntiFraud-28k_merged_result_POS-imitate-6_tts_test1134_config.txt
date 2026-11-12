@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any new phones on the market here?
+Speaker2: Hey, we just got a batch of new phones recently. Which one do you want to know more about?
+Speaker1: I want to see the latest iPhone, how much does it cost?
+Speaker2: We have the latest iPhone here, it costs six hundred and eighty dollars.
+Speaker1: Is there any discount activity on this price?
+Speaker2: We currently have a promotion, buy this phone and get a 100 yuan discount.
+Speaker1: If I order now, when can I get my phone?
+Speaker2: If you order now, we will ship within 24 hours and usually arrive in 3 days.
+Speaker1: Okay, so I just placed an order.
+Speaker2: Okay, I will help you with the order. Do you need help with anything else?

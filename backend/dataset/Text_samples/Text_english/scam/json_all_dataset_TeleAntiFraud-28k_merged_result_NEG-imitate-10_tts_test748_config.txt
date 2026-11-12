@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Zhang Huaman?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative at JD Finance, we noticed your good credit, so we recommend a low interest loan service for you, no collateral required, fast approval.
+Speaker2: Uh, I've been having some trouble with cash flow lately, can you give me a detailed explanation?
+Speaker1: Of course, first you need to download our official app, then register an account, and we will evaluate your credit and give you a loan amount.
+Speaker2: Download the app, it sounds so legitimate, but how can I be sure it's not a scam?
+Speaker1: We are a legitimate financial institution that you can download through the app store without any issues. Moreover, we will provide a verification code to ensure that it is you operating.
+Speaker2: Okay, then I'll try it out. What should I do if I need more information?
+Speaker1: You just need to upload your identity card photo and bank card info in the app, and once approved, the funds will be directly deposited into your account.
+Speaker2: I'll download the app now, thanks for your recommendation.

@@ -1,0 +1,11 @@
+Speaker1: Hello, I am Lee Manager from Huaxia Bank, we noticed you have been looking for loan information recently, that's why we called you.
+Speaker2: Oh, is that so? I really have this requirement
+Speaker1: Great, we have a special discounted loan plan here, no collateral required, low interest rate, fast approval, perfect for your current situation.
+Speaker2: Listen well, what do I need to do?
+Speaker1: It's very simple. Just download our official app, fill out some basic information, and our professional staff will review it.
+Speaker2: Do you want to download the app? Is it in the app store?
+Speaker1: Yes, but to ensure information security, I can send you a link, just click on the link to download, more secure and faster.
+Speaker2: Can you send me the link? I think I'll just go to the app store myself, it's safer that way
+Speaker1: Hello, just be careful, there are many fake apps out there. Please download the safest one through the link I provide. I'll send you a verification code, just enter it directly, and you can be sure you're downloading our official app.
+Speaker2: Okay, let me try it out.
+Speaker1: Okay, please wait for a moment, the verification code has been sent to your phone. Please input it as soon as you receive it, we're waiting to serve you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you open?
+Speaker2: Hello, how can I help you? Our store is currently open for business.
+Speaker1: Can I ask you about your new phone case?
+Speaker2: Of course, our new phone case is specifically designed for the latest phone model, the quality is excellent, which phone model are you interested in?
+Speaker1: How much is that transparent one with patterns on top?
+Speaker2: This phone case is 55 yuan, and now there's a small gift included when you buy it!
+Speaker1: Can you try it on the spot?
+Speaker2: Sure, you can come anytime and we have professional staff here to help you debug.
+Speaker1: Okay, I'll come over later, thank you.
+Speaker2: Okay, welcome you, I will prepare for you later. Bye.

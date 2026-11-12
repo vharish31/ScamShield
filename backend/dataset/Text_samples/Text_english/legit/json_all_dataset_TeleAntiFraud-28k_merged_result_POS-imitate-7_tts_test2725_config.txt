@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, the customer service at this store. The dress you were looking at in our store is in stock now. Would you mind coming to take a look?
+Speaker2: Hey, hi, little Li, I'm little Zhang, I'm a bit busy now, can you give me specific information about the wind jacket?
+Speaker1: Of course, this jacket is this year's new model, it comes in black and cardigan colors, and it costs 580 yuan, now there's a 90% discount when you buy it.
+Speaker2: 580 yuan, nine-discounted price is 522 yuan, this price is still reasonable.
+Speaker1: Yes, and we currently have a promotion of 50% off when you spend over 500 yuan. If you buy, the actual payment amount will be less.
+Speaker2: Okay, let me think about it. What are your store's business hours?
+Speaker1: Our store is open from 10 am to 9 pm, weekends too, you're welcome to come anytime.
+Speaker2: Okay, I'll go take a look this weekend, thanks for your recommendation.
+Speaker1: No problem, I'm looking forward to your arrival. If you have any questions, please call me anytime. I wish you a happy life. Goodbye.
+Speaker2: Okay, bye.

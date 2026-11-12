@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Where are you? How come I didn't see you?
+Speaker2: I'm standing next to this white big building, haven't you seen?
+Speaker1: Oh, I see you, just a moment, I'll be there soon.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Did you see that blue car? That's the one I'm driving.
+Speaker2: I see you, I'll be there soon.
+Speaker1: Okay, be careful, pay attention to safety on the road.
+Speaker2: I know, you too. See you later.

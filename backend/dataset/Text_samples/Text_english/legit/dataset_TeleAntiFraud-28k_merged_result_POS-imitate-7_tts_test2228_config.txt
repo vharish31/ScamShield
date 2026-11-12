@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang, I want to consult your restaurant menu.
+Speaker2: Hello, I am server Li, what can I help you with?
+Speaker1: Do you have any recommended dishes?
+Speaker2: We have several menu items here, such as spicy Szechuan, steamed fish with ginger and scallions, and stir-fried chicken with mushrooms, all of which are very popular.
+Speaker1: Can you tell me the specific price of the gong bao chicken?
+Speaker2: The price of palace chicken wings is 38 yuan. If you dine in the restaurant, you can also enjoy a 95% discount.
+Speaker1: That's great! I plan to have lunch at your restaurant tomorrow at noon. Do I need to make a reservation in advance?
+Speaker2: It's recommended to book in advance, especially during peak meal times in the afternoon and evening, to ensure there's a seat.
+Speaker1: Okay, I booked two seats for two people, around noon twelve o'clock.
+Speaker2: Okay, I have already reserved for you. Please go to the front desk and give your name when you arrive. We are looking forward to your visit!

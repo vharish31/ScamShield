@@ -1,0 +1,12 @@
+Speaker1: Hey, are you Liu boss?
+Speaker2: Who are you?
+Speaker1: Mr. Liu, hello, I am the manager of the China Bank, I see your store is doing well, do you have any need for capital rotation?
+Speaker2: I have enough money now, so I don't need it temporarily.
+Speaker1: That's great, but Liu old boss, do you know? Now many bosses will choose to save some funds before business peak periods, just in case.
+Speaker2: What are some good loan products that you recommend?
+Speaker1: Of course, we have a loan product specifically designed for small businesses, with loan amounts ranging from 50,000 to 500,000, fast approval, and fast disbursement, which is very suitable for you as a boss.
+Speaker2: How do I apply for it?
+Speaker1: You just need to download our official app, fill out the relevant information, upload the necessary files, and you can apply online.
+Speaker2: Do you want to download the app? Sure, I'll try it out.
+Speaker1: Okay, Liu Laoban, the name of the APP is 'Zhōng Yín Dàn', if you have any questions after downloading it, you can contact me anytime, my phone number is 12345678910.
+Speaker2: Okay, thank you, Li Jing Manager, I will contact you.

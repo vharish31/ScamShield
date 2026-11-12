@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm here to deliver food.
+Speaker2: Hello, did my takeout arrive?
+Speaker1: Okay, I arrived. Where are you? I delivered the takeout to you.
+Speaker2: Come over to the east gate of the community.
+Speaker1: Which is the east gate?
+Speaker2: You called me when you were near the door of the supermarket.
+Speaker1: Okay, I'll be there soon, you wait for my call.
+Speaker2: Okay, I'll wait for your call, thank you.
+Speaker1: No problem, this is my job, see you later.
+Speaker2: Okay, see you later.

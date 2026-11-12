@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li Xiaojie?
+Speaker2: Hello, who are you?
+Speaker1: I am a customer service representative at Commercial Bank, employee number 1234. We noticed that you have been inactive on your account recently, and we want to know if you have any requirements for capital circulation.
+Speaker2: No, we don't have this requirement at the moment.
+Speaker1: Are you interested in any investment and financial products from our bank? We have some high-yield investment products recently that are suitable for conservative investors.
+Speaker2: Investing in wealth management sounds good, can you introduce me to it?
+Speaker1: Of course, to better serve you, you can first click this link to download our latest financial app, so you can more clearly understand our products.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, please register and bind your bank card after downloading, so you can easily check and operate it anytime. If you have any questions, feel free to contact me anytime, my work number is 1234.
+Speaker2: Okay, thank you for your help.

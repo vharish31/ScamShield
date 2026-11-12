@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, can you hear me over there?
+Speaker2: I can hear your voice clearly on the other side.
+Speaker1: Great, can you confirm with me your haircut appointment time from last week, is it tomorrow at 3 PM?
+Speaker2: Yes, it's three o'clock tomorrow.
+Speaker1: Okay, you can come directly tomorrow. Right, did you have any specific ideas for a new hairstyle last time you mentioned it?
+Speaker2: I want to cut my hair short, not too long, but not too short either, I just feel cleaner that way.
+Speaker1: I understand, we have several styles that suit you, you can take a look later, or you can directly tell me your preferred style, we will help you design.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, see you tomorrow. If there are any changes, please call me in advance.
+Speaker2: Okay, thank you, see you tomorrow.

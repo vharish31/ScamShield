@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, this is Huaxing Bank, I am customer service representative Zhang, recently we introduced a special loan plan for small business owners, are you interested in learning more?
+Speaker2: Loan? I haven't considered this.
+Speaker1: This is the case, our this time's loan plan is very favorable, interest rate low to 0.3%, and approval is quick, disbursement also quick, very suitable for capital circulation.
+Speaker2: The sound is good, but I'm not familiar with these.
+Speaker1: No problem, I can give you a detailed introduction. For convenience, I can add your WeChat, then send you the materials, how about it?
+Speaker2: Adding WeChat is also possible, but do you really have no issues with this loan?
+Speaker1: No problem at all, we are a regular bank, all processes are very regular. As long as you have the relevant materials, you can complete the application quickly.
+Speaker2: Okay, add me on WeChat, I'll take a look at the data and then we'll talk.
+Speaker1: Okay, I'll add you on WeChat now. After you add me back, I'll send you detailed info, feel free to contact me anytime if you have any questions.

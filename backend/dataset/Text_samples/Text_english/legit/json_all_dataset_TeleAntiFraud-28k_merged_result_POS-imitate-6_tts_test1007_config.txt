@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little king?
+Speaker2: Hello, who are you?
+Speaker1: Hey, I'm little Li, your college classmate, how have you been lately?
+Speaker2: Hello, just work is a bit busy. You?
+Speaker1: I'm pretty much the same, recently I've been preparing to switch jobs, saw your previous job posting, wanted to know more.
+Speaker2: Hey, that job posting information, actually our company recently had several job positions open, which field are you interested in?
+Speaker1: I'm particularly interested in software development within the field of technology.
+Speaker2: We have a software development position here. You can send your resume to me, and I'll take a look.
+Speaker1: Okay, my resume is in my email, I'll send it to you right away.
+Speaker2: Okay, I'll get back to you after I receive the email.

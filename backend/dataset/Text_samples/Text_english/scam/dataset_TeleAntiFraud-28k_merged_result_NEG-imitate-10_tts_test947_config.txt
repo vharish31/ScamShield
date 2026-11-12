@@ -1,0 +1,10 @@
+Speaker1: Hello, are you in need of any recent cash flow requirements?
+Speaker2: Hello, I currently don't have any needs in this area.
+Speaker1: Hmm, that's okay. But our latest loan product has a very low interest rate, quick approval, no collateral required. You might want to consider it.
+Speaker2: Really? It sounds pretty good.
+Speaker1: Yes, it's very convenient. You just need to download our app, fill out some basic information, and we'll quickly review it.
+Speaker2: Do you want to download the app? What is the name of the app?
+Speaker1: You can download the app named "Quick Loan" from the app store.
+Speaker2: Okay, let me try. Do I need to pay attention to anything else?
+Speaker1: You just need to prepare your ID and bank card, fill out the information and we will contact you to confirm the details.
+Speaker2: I understand, thank you.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Can I consult your restaurant's special dishes, please?
+Speaker2: Of course, our recommended special dishes here are spicy and sour hot pot, steamed fish with clear broth and stir-fried frog, all of which are very popular.
+Speaker1: How much do these dishes cost?
+Speaker2: The spicy pot is 60 yuan, the steamed fish is 80 yuan, and the dry pot is 70 yuan.
+Speaker1: Okay, what are your business hours?
+Speaker2: Our restaurant opens at 10 am every day and closes at 10 pm.
+Speaker1: Do I need to reserve a seat if I want to go now?
+Speaker2: There aren't many people around at the moment, so you can come directly. But if you come later, it's recommended to book in advance to avoid waiting.
+Speaker1: Okay, thank you for your help.
+Speaker2: Please welcome you.

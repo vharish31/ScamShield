@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here Beijing bank customer service center, I is customer service specialist little Li.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed you've been active lately at our bank, and we have a special promotion activity we'd like to invite you to join.
+Speaker2: What discount activity?
+Speaker1: We have a new investment financial product with a yearly return rate of 15%, and it's guaranteed, very safe.
+Speaker2: Listen sounds good, how to join?
+Speaker1: It's very simple. Just click on the link we send to you, download our exclusive app, and register an account to start investing.
+Speaker2: Is this link safe?
+Speaker1: Absolutely safe, this is our bank's official link, you can use it with confidence. To ensure safety, we will also send a verification code to your phone, you just need to input the verification code to complete the registration.
+Speaker2: Okay, let me try.

@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I saw a two-bedroom, one-unit apartment in Five Eight City, and I want to know more about it.
+Speaker2: Hello, yes, we do have a two-bedroom apartment for rent.
+Speaker1: Which street is this house on?
+Speaker2: The apartment is located on Happiness Road, No. 32, with convenient transportation, and there's a subway station nearby.
+Speaker1: How many floors is this house? Which direction does it face?
+Speaker2: This apartment is on the 6th floor, has an elevator, faces south, has good lighting, and has an open view.
+Speaker1: How much is the rent?
+Speaker2: Rent is one thousand eight hundred yuan per month, three months' deposit.
+Speaker1: Can you lower the price a little?
+Speaker2: This price is already our cheapest price, because the location of the house is good, the facilities are complete, so the rent is slightly high.
+Speaker1: So, when can I go see the house?
+Speaker2: Can we meet at 3 PM tomorrow afternoon? I will prepare everything in advance for you.

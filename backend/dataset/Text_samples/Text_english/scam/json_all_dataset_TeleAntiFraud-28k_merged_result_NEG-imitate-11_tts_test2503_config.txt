@@ -1,0 +1,8 @@
+Speaker1: Hello, I am the manager of the credit department of Shanghai Bank. For our high-quality customers, we have a special discounted savings product with an annual interest rate of only 0.3%. Would you be interested in learning more?
+Speaker2: I recently need to circulate some funds, can you give me a detailed explanation?
+Speaker1: Of course, this emergency savings product is very suitable for short-term financial needs, with interest-only payments and flexible repayment options. You just need to download our bank's official app, complete the registration and you can apply for it.
+Speaker2: Do you want to download the app? I'm afraid it's not safe.
+Speaker1: You can rest assured that we are a legitimate bank and our app is the official channel. It's very safe. If you're not convenient to download, I can send you a link, you can click directly to access our application page.
+Speaker2: Okay, then send me a link.
+Speaker1: Okay, I'll send it to you now. Please make sure to open it in a safe network environment to avoid personal information leakage.
+Speaker2: Okay, thank you.

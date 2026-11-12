@@ -1,0 +1,10 @@
+Speaker1: Hey, are there any haircut appointments over there?
+Speaker2: Hello, yes, we have a haircut appointment service here, what time would you like to book?
+Speaker1: Do you have any free time on Saturday afternoon?
+Speaker2: Can I have a slot during 3-4 pm on Saturday afternoon?
+Speaker1: 3 to 4 can do it, I just set this time period.
+Speaker2: Okay, I have already booked a haircut for you on Saturday afternoon from 3 to 4. Please arrive ten minutes early.
+Speaker1: Okay, thank you. Got it, do you have any parking spots there?
+Speaker2: Yes, we have a small parking lot behind the store, which is free to park.
+Speaker1: That's great, I'll drive over there on Saturday.
+Speaker2: Okay, see you on Saturday, wish you a happy day!

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me more about your fitness program? Do you offer private coaching services on your side?
+Speaker2: Yes, our personal trainer service is very popular, and we can customize a workout plan based on your body condition and fitness goals.
+Speaker1: Does it sound good? Then do I need to make a reservation in advance?
+Speaker2: Yes, to ensure that I can provide you with the best service, I recommend that you make an appointment in advance. You can tell me a convenient time, and I will arrange it for you.
+Speaker1: Okay, can I come at 3 PM on Friday next week?
+Speaker2: I can make an appointment for you on Friday at 3 pm. Please remember to bring your sports equipment.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome! We're looking forward to your arrival. If you have any questions, please contact us anytime. Goodbye!

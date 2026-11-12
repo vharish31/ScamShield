@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, I am the customer service manager of an agricultural bank, we recently introduced a new loan service with a low interest rate and fast approval, do you have any recent financing needs for cash flow?
+Speaker2: No, we don't have this requirement at the moment.
+Speaker1: That's fine, but if you need anything, feel free to contact me anytime. By the way, we have a new investment financial product that has recently had a good return, would you like to know more about it?
+Speaker2: Can you give a detailed explanation of investing in wealth management?
+Speaker1: Of course. This financial product is a joint venture between our bank and a well-known investment platform, with a current annual yield of 10%, and the risk is low, making it a very valuable investment.
+Speaker2: Sounds good, but how can I believe you?
+Speaker1: You can first register on our bank's official app to experience our services. After registration, I will send you a personalized investment link, which you can use to directly purchase financial products through it.
+Speaker2: Okay, let me try.
+Speaker1: Great! You're a wise choice. I'll send you the registration link right away. If you have any questions, feel free to contact me. Best of luck with your investment!

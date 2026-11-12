@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the agricultural bank's customer manager, Li Ming.
+Speaker2: Hello, what do you have?
+Speaker1: Is this so, we have a new bank investment project that has a very high return, would you like to know more about it?
+Speaker2: Sure, let me know.
+Speaker1: Great, for convenience, you can first download our bank's official app. I'll send you a link, just click on it to download directly.
+Speaker2: Okay, I'm waiting for your link.
+Speaker1: Okay, just a moment, I'll send it to you now. By the way, have you recently encountered any issues with cash flow?
+Speaker2: Hello, temporarily no.
+Speaker1: That's great. But, if you need it in the future, we also have very convenient loan services here, with low interest rates, simple procedures, and quick disbursement.
+Speaker2: That sounds good, I'll consider it.

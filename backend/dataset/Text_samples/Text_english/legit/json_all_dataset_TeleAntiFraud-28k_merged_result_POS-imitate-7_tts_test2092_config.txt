@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a customer service representative at the new Jia Le supermarket, and I would like to ask if you are satisfied with the fruit you recently purchased at our supermarket?
+Speaker2: Oh, it's good, the fruit is very fresh.
+Speaker1: That's great, we highly value customer feedback.
+Speaker2: Have you sold that imported blueberry at the supermarket?
+Speaker1: Yes, our supermarket has imported blueberries, but they are a bit expensive.
+Speaker2: How much does a box cost?
+Speaker1: The price of imported blueberries is sixty yuan per box.
+Speaker2: Okay, next time I'll buy some.
+Speaker1: Okay, welcome anytime. If you have other places that need help, you can contact us anytime.
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye, wish you happy life.

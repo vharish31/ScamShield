@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service center of AliExpress, there was a problem with your recent order on our platform, we need to handle it.
+Speaker2: Oh, is that so? What's the issue?
+Speaker1: Your package was lost during transportation, so we need to process a refund for you.
+Speaker2: Okay, what do I need to do now?
+Speaker1: First, you need to click on the link I sent you and then follow the instructions, so we can process your refund.
+Speaker2: Okay, I'll go operate.
+Speaker1: Please provide your bank card number so that we can directly transfer the refund to your account.
+Speaker2: Okay, my bank card number is 6228480044016001.
+Speaker1: Okay, I have recorded the steps. There's one more step, you need to provide the verification code you received, so we can confirm your identity.
+Speaker2: Okay, I received the verification code, it's three six nine two five eight.

@@ -1,0 +1,12 @@
+Speaker1: Hey, hello hello
+Speaker2: Hey, how are you? Do you want to consult me about the new community's house?
+Speaker1: Yes, I saw your ad and want to know more details.
+Speaker2: Okay, this is a new development community, the environment is quite good, what specific aspects do you want to know about?
+Speaker1: The main is price and decoration.
+Speaker2: We have several house types, prices ranging from 1,200 to 1,800 yuan, with precision decoration, and you can directly move in with your luggage.
+Speaker1: What are the property fees? Are they included in the rent?
+Speaker2: The property fee is calculated separately, around one hundred yuan per month.
+Speaker1: That's it, the rent plus property fees are a bit over my budget.
+Speaker2: Understood, you can consider our other house types, prices are slightly lower.
+Speaker1: Okay, I'll think about it again, thank you.
+Speaker2: No problem, please feel free to contact me anytime, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Ping An Bank, Zhang Huai. We have a special credit loan product that has a monthly interest rate as low as 0.005%, no collateral, fast loan, are you interested in learning more?
+Speaker2: Uh, I'm a bit tight-handed right now, can you give me more details?
+Speaker1: Of course, this loan product is very suitable for you. To quickly process it, please download our official app, submit some basic information, and get approved. Once approved, the funds will be quickly deposited into your account.
+Speaker2: Sure, can I trust your app?
+Speaker1: Absolutely, our app is strictly certified for security. After downloading, you can enjoy more financial services. If you're not convenient to download now, I can send you a link, just click on the link to directly jump to the download page, very convenient.
+Speaker2: Okay, give me the link.
+Speaker1: Okay, I'll send the link to your phone. Please check it and download it as soon as you receive it. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, I hope our service can help you. If you have other questions or need more help, feel free to add my WeChat, my WeChat is my phone number, so you can easily contact me anytime.
+Speaker2: Okay, I will pay attention. Thank you for your help.

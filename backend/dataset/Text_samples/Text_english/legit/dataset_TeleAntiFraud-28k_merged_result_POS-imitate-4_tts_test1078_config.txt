@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your store has any red sports shoes?
+Speaker2: Hello, yes, we have many kinds of color running shoes here, red ones too. What size do you want?
+Speaker1: I want 42.
+Speaker2: Okay, we have stock of red-colored running shoes with code 42 here. Would you like to try them on?
+Speaker1: I'll be there around four in the afternoon.
+Speaker2: Okay, no problem. We meet at four in the afternoon. The store address is Guangming Road 108, remember to bring your ID, because this place is currently doing identity verification shopping.
+Speaker1: Okay, I will arrive on time. Also, do your stores support credit card payment?
+Speaker2: We support various payment methods here, including credit cards, WeChat Pay, and Alipay.
+Speaker1: Okay, now I can relax. Thank you for your help.
+Speaker2: No problem, feel free to contact me anytime. See you later.

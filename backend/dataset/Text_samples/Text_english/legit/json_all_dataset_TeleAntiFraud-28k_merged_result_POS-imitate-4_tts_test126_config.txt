@@ -1,0 +1,9 @@
+Speaker1: Hey, are your delivery guys here yet?
+Speaker2: Hello, little Li, takeout hasn't been seen, is it wrong location?
+Speaker1: No problem, I sent it according to the order address, please check the door number again.
+Speaker2: Okay, I'll go take a look, won't I be at the doorstep?
+Speaker1: Okay, maybe it's on the doorstep, have a look to see if it's there.
+Speaker2: Found it, left it at the door, really thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you a happy meal.
+Speaker2: Okay, thank you, goodbye.
+Speaker1: Goodbye.

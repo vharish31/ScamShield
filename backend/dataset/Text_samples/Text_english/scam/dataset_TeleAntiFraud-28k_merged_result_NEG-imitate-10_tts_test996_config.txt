@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Ming?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm JD customer service Li, we found that the phone you recently bought on our platform might have quality issues, so we need to handle it for you.
+Speaker2: Oh, really? Then what do we do?
+Speaker1: To ensure your rights, we need you to provide the following order number and bank card information so we can process your refund.
+Speaker2: Okay, my order number is 123456789, my bank card number is 6222 0800 1234 5678.
+Speaker1: Okay, we have recorded the information. To speed up the refund process, please click on this link and fill out the necessary information.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, after you finish operating, we will process it quickly. If there are any issues, you can contact me anytime.
+Speaker2: Okay, thank you for your help.

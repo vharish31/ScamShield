@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? I am the customer manager of the Agricultural Bank, Tianhe Branch. We have a special promotion for loans here. Would you like to know if you have any funding needs?
+Speaker2: Hello, I currently don't have any financial needs.
+Speaker1: Oh, that's right. But this activity is very cheap, the interest rate is very low, and the approval is very fast. If you need it, you can add a WeChat, and you can directly contact me later if you need it.
+Speaker2: Okay, let me add you on WeChat.
+Speaker1: Great, my WeChat number is a123456789. Add your name as a remark.
+Speaker2: Okay, I understand.
+Speaker1: Thank you, feel free to contact me anytime if you have any questions, I'll get back to you as soon as possible.
+Speaker2: Okay, thank you.

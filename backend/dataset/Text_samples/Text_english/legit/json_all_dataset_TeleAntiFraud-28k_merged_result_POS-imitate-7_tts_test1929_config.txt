@@ -1,0 +1,14 @@
+Speaker1: Hello, this is the Starry Medicine Shop.
+Speaker2: Hello, how are you?
+Speaker1: The vitamin C pills you ordered online are out of stock here.
+Speaker2: Oh, what do we do now?
+Speaker1: We can provide other brand vitamin C tablets with similar price and effect.
+Speaker2: Is the brand different, will the effect be the same?
+Speaker1: The effects are mostly the same, the main difference is the brand and the price difference on top.
+Speaker2: Sure, can you recommend one?
+Speaker1: Of course, we have a gold brand of vitamin C tablets that are very affordable and many customers have reported good results.
+Speaker2: How much does this one cost?
+Speaker1: This gold-colored health vitamin C pill, each bottle contains sixty pills, and sells for fifty yuan.
+Speaker2: Okay, I'll order this one.
+Speaker1: Okay, I'll handle it for you. I estimate it can be delivered within two days.
+Speaker2: Thank you, please.

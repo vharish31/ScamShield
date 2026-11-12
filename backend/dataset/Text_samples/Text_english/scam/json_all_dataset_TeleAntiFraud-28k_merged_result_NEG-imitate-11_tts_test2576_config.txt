@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the manager of the commercial bank, and we have a high-interest, low-interest loan product for individuals. Do you have any recent need for capital rotation?
+Speaker2: Loan? I don't need money right now.
+Speaker1: Hey, I understand, now many customers only consider taking loans when they encounter emergencies. Okay, I can give you a link, you can click on it to download our official app, which allows you to apply for loans and check out more financial products.
+Speaker2: Official app? It should be quite safe.
+Speaker1: Yes, it's very safe and easy to use, with fast approval speed. You just need to provide some basic info, and we'll quickly approve.
+Speaker2: Okay, send me the link.
+Speaker1: Okay, just a moment, I'll send it to you now. Remember to check it after you receive it.
+Speaker2: Okay, I'm waiting for your link.
+Speaker1: Okay, thank you again for your cooperation. If you have any questions, please contact me anytime. Wish you a happy life. Bye!
+Speaker2: Goodbye.

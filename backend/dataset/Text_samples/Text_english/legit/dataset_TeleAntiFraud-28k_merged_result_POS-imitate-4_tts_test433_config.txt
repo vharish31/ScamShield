@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I saw on your website that you have a smartwatch, I want to know more about this smartwatch.
+Speaker2: Hello, little Zhang, I'm very happy to serve you. This smartwatch has many functions such as health monitoring, message reminders, and exercise tracking, which makes it very suitable for daily use.
+Speaker1: How long does the battery of this watch last approximately?
+Speaker2: This watch's battery life is usually around one week when used normally. If you frequently use GPS or heart rate monitoring functions, it may be slightly shorter.
+Speaker1: How much does it cost to sound good?
+Speaker2: This smartwatch costs 2800 yuan, and you can now buy it with a 100 yuan discount.
+Speaker1: Hey, does this watch have a waterproof function?
+Speaker2: Yes, this watch is waterproof up to 50 meters. It's fine for daily hand washing and rain, but it's not recommended to wear it while deep water swimming or diving.
+Speaker1: Okay, then I'll consider it. If I buy it, what's the approximate delivery time?
+Speaker2: If you place an order, we will ship it to you within 24 hours, and in general, most areas in China can receive the goods within 3 to 5 days.

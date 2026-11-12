@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I ordered a birthday cake at your store, can you tell me what time it will be delivered?
+Speaker2: Hello, are you a single at 9 o'clock?
+Speaker1: I am the afternoon two o'clock delivery, at that time your customer service said tonight eight o'clock before sending.
+Speaker2: Okay, I'll check your order. Just a moment. You wait, it's here now, we'll deliver it to you before seven and a half in the evening.
+Speaker1: Is there anything special I need to pay attention to when writing characters on a cake?
+Speaker2: What is written on your cake? We will pay special attention to it.
+Speaker1: Can the font be a little bigger and the color a little brighter? I want to write "生日快乐，小明" (Happy Birthday, Xiaoming).
+Speaker2: No problem, we will make it according to your requirements. We will use a large font and choose a fresh color to make sure it looks good.
+Speaker1: That's great, thank you. And one more thing, if the cake arrived early, can we put it on the doorstep first?
+Speaker2: Okay, we will call you to confirm when we arrive, if no one answers, we will follow your instructions and leave at the door.
+Speaker1: Okay, thank you, please you.
+Speaker2: No problem, this is what we should do. Happy birthday to your friend.

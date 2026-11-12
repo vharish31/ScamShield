@@ -1,0 +1,11 @@
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Hello, I want to know more about your yoga courses.
+Speaker2: Of course, our yoga courses are divided into beginner, intermediate and advanced levels, suitable for different levels of students.
+Speaker1: How is the arrangement of the beginner's course?
+Speaker2: Our intermediate course meets every Monday, Wednesday, and Friday from 5 to 6 p.m., focusing on teaching basic yoga postures and breathing techniques.
+Speaker1: How much is the monthly fee?
+Speaker2: The fee for a beginner's course for one month is five hundred yuan. If you choose a three-month package, there will be a certain discount.
+Speaker1: Okay, I want to try a month first.
+Speaker2: Okay, you can go to the front desk to handle the paperwork, or you can directly book through our small program.
+Speaker1: Okay, thank you, I will consider it.
+Speaker2: You're welcome, feel free to ask any questions anytime. Have a happy life, bye!

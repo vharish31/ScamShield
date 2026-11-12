@@ -1,0 +1,10 @@
+Speaker1: Hello, this is JD customer service, you recently had an issue with an order, we can assist you with that.
+Speaker2: Oh, really? What's the problem with me buying some stuff recently?
+Speaker1: Your order has been lost during delivery, so we need to process a refund to compensate for your loss.
+Speaker2: That's really terrible, how do you handle it?
+Speaker1: To make it easier for you to process quickly, you can click on the link we send and fill out the relevant information. We will process your refund within 24 hours.
+Speaker2: How do I know this link is safe?
+Speaker1: Our link is an official channel sent, you can trust it to click. If you don't trust it, you can also directly download our official APP, through APP to handle.
+Speaker2: I'll download the app, it's safer that way.
+Speaker1: Okay, after you download the app, you can contact our online customer service, who will guide you through the next steps.
+Speaker2: Okay, thank you for your help.

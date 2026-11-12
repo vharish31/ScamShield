@@ -1,0 +1,13 @@
+Speaker1: Hello, nice to meet you, I'm Li Xiao, the manager of Agricultural Bank.
+Speaker2: Hello, Tan Jingni, what do you have?
+Speaker1: That's right, our bank recently introduced a promotional policy for customers who have purchased social security in Dongguan. They can apply for a low-interest credit loan. Do you need to convert funds recently?
+Speaker2: Thanks, not needed now.
+Speaker1: Okay, let me introduce you to another service. We also have an investment project with a very observable return and low risk, are you interested?
+Speaker2: Invest in wealth management? It sounds good, can you give specific details?
+Speaker1: Of course. This project is a cooperation between us and a well-known investment company. They have a professional team for investment management, and you only need to invest capital to get stable returns.
+Speaker2: How can I participate?
+Speaker1: It's very simple. Just download our app, register an account, and follow the instructions to complete the operation. Additionally, we have a limited-time promotion. The first 100 registered users will receive an extra reward.
+Speaker2: Do you want to download the app? What is the name of the app?
+Speaker1: The name of the app is "Wealth Express", you can search and download it in the app store on your phone. After downloading, remember to use the invitation code: ABCD1234, so you can also get an extra reward.
+Speaker2: Okay, I'll give it a try. Thank you for your recommendation.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best of luck with your investment!

@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Chen. I recently want to buy a new phone. Can you recommend some brands for me?
+Speaker2: Hello, little Chen, I am the customer service king of the electronic city, of course, you can. What do you mainly use your phone for? For example, surfing the internet, playing games, or taking photos?
+Speaker1: I mainly use it to watch videos, occasionally play games, and taking photos is quite important.
+Speaker2: Understood, then I recommend you take a look at this new brand smartphone, its camera is excellent, and its battery life is also very long.
+Speaker1: How much does this phone cost?
+Speaker2: This phone is currently priced at 3500 yuan, and we have a promotion here, buy one and get a phone case and stickers for free.
+Speaker1: The sound is good, but I'm a bit tight-handed right now, can I pay in installments?
+Speaker2: Sure, we have a monthly installment service here, you can choose to pay in twelve installments, each installment is three hundred yuan.
+Speaker1: When can I go to the store and take a look?
+Speaker2: Could you come at 3 PM tomorrow? I can give you a detailed introduction of this phone.
+Speaker1: Okay, thank you for your help. See you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you have a nice day.

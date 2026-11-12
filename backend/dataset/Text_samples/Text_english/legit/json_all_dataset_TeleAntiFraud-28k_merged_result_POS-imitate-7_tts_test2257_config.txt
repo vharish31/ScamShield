@@ -1,0 +1,13 @@
+Speaker1: How have you been lately?
+Speaker2: Hi, how have you been lately?
+Speaker1: Sure, no problem, how about we have a meal together sometime?
+Speaker2: Good, which restaurant?
+Speaker1: Let's go to that new restaurant. The environment is good.
+Speaker2: What's the name of that new one?
+Speaker1: I know the restaurant called "Flavor Avenue" is on the side of the city center.
+Speaker2: Okay, when do we go over the weekend?
+Speaker1: What's the plan for Saturday night at 6pm?
+Speaker2: Okay, I'll go early, don't be late.
+Speaker1: Don't worry, I won't do it, see you later.
+Speaker2: See you later, bye.
+Speaker1: Okay, hang up.

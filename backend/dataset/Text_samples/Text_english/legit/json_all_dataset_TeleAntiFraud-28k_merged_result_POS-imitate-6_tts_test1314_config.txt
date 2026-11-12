@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently want to change my house, do you guys have some housing sources here?
+Speaker2: Hello, yes, we have several suites here, what specific information do you want to know about?
+Speaker1: Can you tell me about the size, location, and price of this house?
+Speaker2: This apartment is 120 square meters, located in the city center, and costs 6,500 yuan per square meter.
+Speaker1: Hmm, this price sounds reasonable, is the house decorated?
+Speaker2: Yes, the house is fully decorated, all furniture is complete, and it can be directly moved in.
+Speaker1: When can I come see the house?
+Speaker2: You can choose either 3 pm tomorrow or 10 am the day after, both times are fine.
+Speaker1: Then I'll choose tomorrow afternoon three o'clock, then you'll be bothered.
+Speaker2: Okay, tomorrow afternoon at three o'clock, I will be here waiting for you, remember to bring your ID.

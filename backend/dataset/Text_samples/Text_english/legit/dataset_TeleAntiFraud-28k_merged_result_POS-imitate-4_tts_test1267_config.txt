@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm on the second floor, why haven't you seen your car yet?
+Speaker2: Please wait for a moment, I've arrived. The road is congested, are you waiting under the rain shelter?
+Speaker1: Yes, I'm under the rain shelter, there are quite a few people here.
+Speaker2: Good, did you see the blue car in front? That's mine.
+Speaker1: Blue car? There are too many cars here, I can't see.
+Speaker2: Then, you walk to the right a little, I go to the third point, there are fewer cars on that side.
+Speaker1: Okay, I'm walking to the right. Which direction is the third point?
+Speaker2: Walk to the right and you'll see the airport sign when you get there.
+Speaker1: Okay, I see it, I'll be there soon.
+Speaker2: Okay, I'll wait for you here. Be careful on the road.

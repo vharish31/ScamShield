@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm your delivery guy, your delivery is here, where are you?
+Speaker2: Hey, hello, I'm waiting for you at the company gate, come over quickly.
+Speaker1: Okay, I'll be right back, just wait for a minute or two, it should take about two or three minutes.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Okay, are you confirming the order for two bowls of steamed rice and one bowl of spicy bean sprouts?
+Speaker2: Yes, that's right, exactly this one.
+Speaker1: Okay, I'll go now, pay attention to your phone, I arrived to call you.
+Speaker2: Okay, thank you.
+Speaker1: No problem, be careful on the road, goodbye.
+Speaker2: Okay, bye.

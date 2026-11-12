@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Are you little Liu?
+Speaker2: Yes, I am small Liu, you are?
+Speaker1: I am a waiter at the happy restaurant, you ordered food from us before, today you want to ask if we have any free time this weekend, we can prepare a family gathering for you.
+Speaker2: Family gathering this weekend, we really have time, do you have any recommendations for dishes?
+Speaker1: Our family feast set includes ten portions of main course, soup and dessert, perfect for family gatherings.
+Speaker2: How much does it cost to sound good?
+Speaker1: The family feast set meal is five hundred yuan, if you need to add dishes, we will calculate it separately according to your selected dishes.
+Speaker2: Let's reserve this menu, the time is Saturday evening at six o'clock.
+Speaker1: Okay, on Saturday evening at 6 pm, we will reserve a spot for you. If you have any other needs, please feel free to contact us anytime.
+Speaker2: Okay, thank you, see you later.
+Speaker1: See you later, wish you a happy day.

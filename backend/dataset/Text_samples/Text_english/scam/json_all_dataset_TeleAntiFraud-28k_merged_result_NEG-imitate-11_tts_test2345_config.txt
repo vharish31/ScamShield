@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from the Huazheng Electronic Mall, we found some small issues with the smartwatch you recently bought from us, do you mind helping us handle it?
+Speaker2: Oh, really? Then what do we do now?
+Speaker1: That's it, we have prepared a special solution for you. Just download our newly launched after-sales service app, register through the app, and then contact our online customer service, who will guide you to solve this problem.
+Speaker2: Okay, let's download and try it out. What's the name of this app?
+Speaker1: You can download the app called "Speed Modify" by searching for it in the app store on your phone. After downloading, please log in with your registered phone number so we can process it.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Thank you very much for your cooperation. If you encounter any problems during downloading or using, please call our customer service hotline at any time, and we will serve you with all our sincerity.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome! Have a nice day! Bye!
+Speaker2: Goodbye.

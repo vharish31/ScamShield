@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm here to pick up the appointment car. Do you have Korutz?
+Speaker2: Hello, what time is your appointment? We need to confirm in advance here.
+Speaker1: I am scheduled to meet with you at 2:00 PM today through your app.
+Speaker2: Okay, I'll check over here. Please wait for a moment.
+Speaker1: Okay, thank you.
+Speaker2: Found it, your Corvette is there, but the car is outside now, it will take about fifteen minutes to come back.
+Speaker1: Okay, I can accept it in fifteen minutes.
+Speaker2: Okay, you can wait in our rest area, which has free WiFi and drinks.
+Speaker1: Okay, I'll go to the rest area now. Thank you for your service.
+Speaker2: No problem, feel free to come find me anytime if you have any questions. I hope you have a pleasant wait here.

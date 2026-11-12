@@ -1,0 +1,12 @@
+Speaker1: Hey, are you free to talk over there?
+Speaker2: Hello, can I help you with anything now?
+Speaker1: Can you check if there are any goods left in your computer?
+Speaker2: What specific model are you interested in?
+Speaker1: That's the same notebook I saw before, with a configuration of eight cores.
+Speaker2: Do you want to know more details about the notebook or just place an order?
+Speaker1: I'd like to know more about the specifics, like price and delivery time.
+Speaker2: Okay, this notebook costs 5800 yuan, if you order now, it's estimated to arrive in three days.
+Speaker1: If I place an order today, can you guarantee delivery within three days?
+Speaker2: Okay, we promise to deliver to your home within seventy-two hours after placing the order.
+Speaker1: Okay, so I just placed an order.
+Speaker2: Okay, you can place an order directly through our website or by phone, and feel free to contact us anytime if you have any questions.

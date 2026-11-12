@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Can you check my electricity bill for this month? I think I didn't pay last month, but do I still owe money now?
+Speaker2: Okay, I'll help you look it up. Just a moment.
+Speaker1: Okay, thank you.
+Speaker2: Found it, you didn't pay electricity last month, now you owe 158 yuan.
+Speaker1: Can I trade now?
+Speaker2: You can pay through our online platform or come to our business hall.
+Speaker1: How do I operate an online platform?
+Speaker2: You can log into your account on our official website or mobile app, select the electricity bill payment option, and follow the instructions to complete the payment.
+Speaker1: Okay, I'll try. Will there be a notification after I finish?
+Speaker2: The meeting, after the fee is paid successfully, the system will automatically send a text message or email notification.

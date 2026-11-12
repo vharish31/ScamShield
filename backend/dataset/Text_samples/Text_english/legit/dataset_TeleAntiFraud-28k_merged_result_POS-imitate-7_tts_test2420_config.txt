@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative for an e-commerce platform. You have a purchase credit that is about to expire on your account, it will clear out at midnight tonight. Have you used it yet?
+Speaker2: Oh, really? I really forgot to look. Can you help me check specifically how many points I got?
+Speaker1: Okay, just a moment, I'll check. Hmm, you have 26,800 points on your account, which is roughly enough to redeem 4,000 yuan worth of goods.
+Speaker2: So many, I'll quickly check what can be exchanged.
+Speaker1: Yes, I have already sent you a text message with exchange options. You can check it out, there are many products to choose from, such as alcohol and daily items.
+Speaker2: Okay, I'll go take a look. Where are these points from?
+Speaker1: These points are the accumulated points you earned while shopping on our platform. Every time you shop, you will receive bonus points, which can be used to deduct the price of your next purchase.
+Speaker2: That's how it was, so I had to hurry up and use it. Thank you for reminding me.
+Speaker1: No problem, feel free to contact me if you have any questions. Have a great shopping trip.
+Speaker2: Okay, thank you. Bye.

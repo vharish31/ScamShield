@@ -1,0 +1,10 @@
+Speaker1: Hello, this is DHL Express, I am customer service representative Lee, your package was lost during transportation, we are very sorry.
+Speaker2: Well, what do we do now?
+Speaker1: To compensate you, we are preparing to give you a penalty payment, please provide your bank account number, we will directly transfer it to you.
+Speaker2: How can you ensure that this isn't a scam?
+Speaker1: We are a legitimate company and absolutely will not scam. For convenience, you can click on our official website link, which has detailed operation instructions.
+Speaker2: Can you give me a phone number so I can call and confirm directly?
+Speaker1: Okay, this is our official customer service hotline, 4001234567, you can directly dial to confirm. Additionally, to speed up the compensation process, you can first click on the link, input the verification code, we will immediately process.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much for your cooperation. Please click on the link, and feel free to contact me anytime if you have any questions.
+Speaker2: Okay, I'll handle it right away. Thank you.

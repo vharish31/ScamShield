@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, I want to consult your restaurant reservation service.
+Speaker2: Hello, I am a waiter at the restaurant. What can I help you with?
+Speaker1: Can I reserve a four-person seat for Saturday evening at 7 pm?
+Speaker2: Sure, Saturday evening at 7pm, for four people, no problem. Do we need to pay a deposit in advance?
+Speaker1: Do you need to pay a deposit? How much?
+Speaker2: To ensure your seat, we usually take a 50 yuan deposit per person, which will be refunded after the meal is over, deducted from the total amount.
+Speaker1: Okay, how should I pay?
+Speaker2: You can pay the deposit through our official website or WeChat public account. It's very convenient.
+Speaker1: Understood, thank you for your help, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little Li, I'm quite interested in your fitness meal plan, can you give me a detailed introduction?
+Speaker2: Hello, little Li, I am the customer service of the fitness center, of course, it's possible. We currently have two meal plans, one is the basic fitness meal plan, which includes the use of the fitness room all day, and the other is the high-level meal plan, which includes the content of the basic meal plan plus one-on-one guidance from a personal trainer.
+Speaker1: How much does this private coach's guidance cost?
+Speaker2: The monthly fee for the high-level set menu is 500 yuan, which includes two private coaching sessions per week. If you choose the quarterly or yearly set menu, there are additional discounts.
+Speaker1: What should I do if I want to try it out first?
+Speaker2: You can directly sign up at our front desk or through our official website online. If you decide now, I can help you online book.
+Speaker1: Okay, I want to make an online appointment. What information do I need to provide?
+Speaker2: Please provide your name, contact information, and the type of meal you would like to order. If you have any health issues or special fitness requirements, please let us know in advance.
+Speaker1: I'm Li Xiaoling, my phone number is 13801380138, I want to book a high-level set menu.
+Speaker2: Okay, little Li, I have already booked a private lesson for you at the fitness center tomorrow morning at 9 am. Our personal trainer will be waiting for you at the front desk.
+Speaker1: Okay, thank you, little Zhang, see you later.
+Speaker2: No problem, little Li, see you later, wish you healthy and happy.

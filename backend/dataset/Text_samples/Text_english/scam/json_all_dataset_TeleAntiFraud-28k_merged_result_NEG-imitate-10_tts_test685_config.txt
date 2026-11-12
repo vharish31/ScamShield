@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am Li, the manager of the Agricultural Bank's branch office in the river, and we noticed that you have been looking for low-interest loans recently.
+Speaker2: Uh, is that so, I really have some cash needs
+Speaker1: Great, we have a loan product specifically designed for businesses here, no collateral, quick approval, and an extremely competitive interest rate.
+Speaker2: How do I apply?
+Speaker1: It's very simple. Just download our official app, register an account, and submit the application materials. We will have a specialist review them.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Absolutely safe, our app has passed multiple security certifications, you can rest assured to use it. And now there's an extra discount for applying.
+Speaker2: Let's give it a try.
+Speaker1: Okay, I'll send you a download link. Just click it to download directly. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you.

@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you? I am an Alipay customer service representative. I noticed some unusual activity on your account. To ensure your financial safety, we need you to cooperate with us.
+Speaker2: What unusual activity?
+Speaker1: That's it, we found out that there are illegal substances trying to steal your account and make large-scale transfers, in order to prevent your assets from being lost, we need you to provide a verification code, so that we can lock your account.
+Speaker2: How do I know you're a real Alipay customer service?
+Speaker1: You can verify my identity by calling the official customer service hotline of Alipay, but please do it quickly as your account is currently very unsafe.
+Speaker2: Okay, what do I need to do?
+Speaker1: First, please provide the verification code you received, then we can complete the identity verification by phone, and finally lock your account.
+Speaker2: I just got a text message with a verification code of 666666.
+Speaker1: Okay, I'm verifying now, please wait. Okay, verification passed, your account is now safe, but we recommend installing our security protection software to further secure your account.
+Speaker2: Security software?
+Speaker1: Just click on the link to download our official safe software, install it and it will automatically detect account risks, preventing such events from happening again.
+Speaker2: Okay, I clicked on the link. What should I do next?
+Speaker1: Good, download and install the software according to the page instructions. After installation is complete, remember to restart your phone to ensure the software runs properly.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you have any questions, please contact me anytime, I am customer service representative Wang Xiao'er. Have a nice day, bye.
+Speaker2: Goodbye.

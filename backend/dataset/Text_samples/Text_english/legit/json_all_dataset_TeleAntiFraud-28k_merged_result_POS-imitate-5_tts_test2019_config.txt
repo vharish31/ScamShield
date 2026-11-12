@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can I reserve a table at a restaurant for tonight at seven o'clock?
+Speaker2: Of course, you are several people?
+Speaker1: We are four people.
+Speaker2: Okay, four seats have been reserved for you. Do you need any special services, such as children's seats or non-smoking areas?
+Speaker1: We want a quiet corner, preferably with a view of the outside scenery.
+Speaker2: Okay, we will arrange a quiet corner by the window for you. Could you please confirm your contact number so we can confirm the reservation?
+Speaker1: My phone number is 888-888-8888.
+Speaker2: Okay, eight eight eight eight eight eight eight eight, we have already recorded down the phone number. In the evening, you can directly call the phone number, we will prepare a place for you.
+Speaker1: Thanks for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival. I wish you a happy day!

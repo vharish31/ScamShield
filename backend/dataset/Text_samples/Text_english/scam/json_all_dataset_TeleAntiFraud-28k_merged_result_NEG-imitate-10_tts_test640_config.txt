@@ -1,0 +1,10 @@
+Speaker1: Hello, you are welcome to the middle center of customer service, I am customer service king.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we found some unusual activity on your account, so we need you to cooperate with us for further verification.
+Speaker2: Oh, really? Then what do I need to do?
+Speaker1: For your account safety, we need you to provide the following identity card number and bank reserve phone number, so we can conduct identity verification.
+Speaker2: Okay, my ID number is 333333333333333333, my phone number is 13333333333.
+Speaker1: Thank you for your cooperation. We also need you to provide your bank account password to ensure it's you operating.
+Speaker2: This...this isn't good, password is private.
+Speaker1: Don't worry, we are middle-road customer service, the operation is completely safe, just need you to provide the last six digits of your password, this way can ensure your privacy.
+Speaker2: Okay, then I trust you, my password is 123456.

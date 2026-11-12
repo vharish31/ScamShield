@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any electric cars for rent here?
+Speaker2: Yes, we have various types of electric cars for rent here. Which car types are you interested in?
+Speaker1: I want to rent a stilts board, mainly for daily travel.
+Speaker2: Okay, do we have helmets and chargers for our electric scooters here?
+Speaker1: It's safer to have a helmet and a charger.
+Speaker2: We provide helmets and chargers here, all electric vehicles are fully charged.
+Speaker1: Great, I plan to pick up my car in the afternoon, what time do you open the door?
+Speaker2: We are open from 9 am to 7 pm in the morning, and there are no issues with picking up the car in the afternoon.
+Speaker1: Okay, can I go around 3 o'clock?
+Speaker2: Of course, you can add our WeChat before coming, for easy contact.
+Speaker1: Okay, what's your WeChat number?
+Speaker2: WeChat is 59595959, add me and put a note down to pick up the car.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, see you later.

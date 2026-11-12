@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there? Can you see me from the north gate?
+Speaker2: Hello, I see a person wearing blue clothes, is it you?
+Speaker1: Yes, it's me. Can you come over and pick me up? It's not good to drive here.
+Speaker2: Okay, I'll be right over. Do you have any obvious landmarks nearby?
+Speaker1: Yes, there's a big billboard here that says "Happy Supermarket".
+Speaker2: Okay, I see that billboard, let's go soon.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: It'll take about five minutes. Just pay attention, my car is white.
+Speaker1: Okay, I see it. You came a little late, it's a bit messy here.
+Speaker2: I know, be careful a little, it arrived quickly.

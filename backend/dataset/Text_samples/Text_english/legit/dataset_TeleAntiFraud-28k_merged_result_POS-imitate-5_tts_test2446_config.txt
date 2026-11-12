@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Lee Huai, I recently want to buy a laptop, do you guys have any recommendations?
+Speaker2: Hello, Lee Huang, I am an electronic city customer service representative. We have various brand notebook computers here. Do you prefer a specific brand, or do you have any specific functional requirements?
+Speaker1: I mainly use it for work and occasionally play games, with a budget of around six thousand.
+Speaker2: With a budget of around six thousand yuan, I recommend you take a look at this HP laptop. It has stable performance and a reasonable price, making it ideal for both office work and light gaming.
+Speaker1: What are the specifications of this computer?
+Speaker2: This HP laptop comes equipped with an Intel Core i5 10th generation processor, 8GB of memory, 256GB of solid-state storage, and a dedicated graphics card, making it fully capable of meeting your needs.
+Speaker1: Is there any discount promotion for this computer that sounds good?
+Speaker2: You can enjoy a discount and also get a free notebook computer and mouse with this purchase, it's a great deal.
+Speaker1: Okay, when can I come to the store to take a look?
+Speaker2: You can come to the store in the afternoon tomorrow, I will prepare in advance, you can come directly.

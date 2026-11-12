@@ -1,0 +1,10 @@
+Speaker1: Hi, are you there? I'm small Liu, the customer service of the community property, want to know if you have made a water and electricity repair appointment?
+Speaker2: No appointment, anything wrong at home lately? Do you need an appointment?
+Speaker1: Hey, this way, we have a regular check service here that's free and can do some basic checks on your home's water and electricity, ensuring safety.
+Speaker2: That sounds pretty good, can I make a reservation?
+Speaker1: Okay, I'll book a reservation for you, what time works best for you?
+Speaker2: This Friday afternoon around 3 PM.
+Speaker1: Okay, on Friday afternoon at three o'clock, I'll record it. The repairman will arrive on time, remember to wait at home.
+Speaker2: Okay, thank you, please you.
+Speaker1: No problem, feel free to contact us anytime if you have any questions. Wishing you a happy life.
+Speaker2: Okay, bye.

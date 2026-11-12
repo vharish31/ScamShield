@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hey, have the new products come out at your store recently?
+Speaker2: Hey, little Zhang, the new products have been on the market for a week now, mainly summer new releases. Do you have anything special you want to know about it?
+Speaker1: Sure, can you introduce me to the sunscreen shirts you launched this time?
+Speaker2: Of course. This time's sunscreen shirt comes in three colors: light blue, pink, and white, all made of light materials, perfect for summer wear, and all have good sunscreen effect.
+Speaker1: How much does it cost to sound good?
+Speaker2: The prices are divided into two categories: the blue and pink ones cost 299 yuan, and the white ones cost 399 yuan, because the materials are slightly different.
+Speaker1: Do you have any activities at the store now?
+Speaker2: Yes, for the past two weeks, if you buy any sunscreen clothing in the store, you can enjoy a 90% discount and also get a small gift, which is quite cost-effective.
+Speaker1: That's great, I'm planning to go out and take a look around on the weekend, are you open on Sunday?
+Speaker2: Of course, we are open on weekends from 10 am to 9 pm. You can come anytime.
+Speaker1: Okay, thank you for your introduction, see you this weekend.
+Speaker2: No problem, see you this weekend, wish you have a happy shopping experience.

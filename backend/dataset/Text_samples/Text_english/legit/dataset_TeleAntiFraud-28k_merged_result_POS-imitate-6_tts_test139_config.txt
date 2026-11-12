@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I just saw your takeout, I'm considering ordering, can I ask a few questions?
+Speaker2: Hello, I am small Zhang from the delivery platform, what can I help you with?
+Speaker1: What ingredients are in your restaurant's fried rice?
+Speaker2: Our fried rice with our signboard contains chicken eggs, ham, green beans and carrots, as well as our secret seasoning, and is very popular with customers.
+Speaker1: I'm really curious to try it out after listening to you. What's the delivery time for you guys?
+Speaker2: In general, we take about 35 minutes from order to delivery, but the exact time may vary depending on your location.
+Speaker1: Okay, I'll order a signboard fried rice and a bottle of ice red tea, can you calculate the total cost?
+Speaker2: Okay, a one-page menu is 20 yuan, a bottle of ice red tea is 5 yuan, the total is 25 yuan.
+Speaker1: Okay, I confirm the order, you guys hurry up and send it over, I'm so eager to eat it.
+Speaker2: Okay, your order has been confirmed. We will deliver it to you quickly. Enjoy your meal!

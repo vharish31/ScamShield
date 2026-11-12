@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you have any out-rental houses in your community?
+Speaker2: Yes, what kind of house do you want to rent?
+Speaker1: A one-room one-living-room apartment with a kitchen, around one thousand yuan.
+Speaker2: Hey, we have a few houses like this here, do you want to take a look?
+Speaker1: Good, what time is convenient?
+Speaker2: Can we meet at three in the afternoon?
+Speaker1: Okay, what's your phone number for three o'clock in the afternoon?
+Speaker2: My phone number is 1358674901, you call me at that time.
+Speaker1: Okay, I'll remember that, see you later.
+Speaker2: Okay, see you in the afternoon.

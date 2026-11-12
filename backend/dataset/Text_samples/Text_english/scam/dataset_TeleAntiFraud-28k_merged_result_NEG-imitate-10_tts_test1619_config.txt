@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the personal loan department at China Construction Bank. I am responsible for personal loan business. Recently, our bank introduced a low interest loan product. Do you have any need for capital rotation?
+Speaker2: Hey, I'm a bit short on cash lately, can you give me some specifics?
+Speaker1: Of course, this product is very suitable for small and medium-sized enterprises and individuals. There is no collateral, the approval is fast, you only need to provide some basic personal information and income proof. If you are interested, you can first download our bank's App, I will help you register.
+Speaker2: Do you need to register before downloading the app?
+Speaker1: Yes, the registration process is very simple, it only takes a few minutes. First, download the App, I will guide you through the registration, this way you can quickly understand your loan amount.
+Speaker2: Okay, let me try.
+Speaker1: Great, download the App first, I'll wait for your message. Any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you encounter any issues during the process, feel free to find me to solve them. Additionally, to speed up the approval process, please prepare your identity card and income proof, and let me know once you're ready, I'll help you expedite the process.
+Speaker2: Okay, I'll get ready now.

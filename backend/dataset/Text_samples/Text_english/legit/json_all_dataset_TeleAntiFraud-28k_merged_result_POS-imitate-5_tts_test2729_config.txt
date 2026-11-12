@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative for a food delivery platform. You have booked a delivery service for today at noon. Can you confirm your address is Haiping Road 100th?
+Speaker2: Hello, yes, the address is correct, but I might be late, can you please wait for me?
+Speaker1: Okay, when can you arrive approximately?
+Speaker2: I can get there roughly about one point left right.
+Speaker1: Okay, I'll adjust the delivery to 1:00 PM. Is there anything else you need me to help with?
+Speaker2: Sure, can you confirm again the dishes, two portions of red braised pork and one portion of sour and spicy fish, right?
+Speaker1: That's correct, your order is two portions of red meat and one portion of sour fish, do you need to add any drinks or snacks?
+Speaker2: No more, these are enough, thank you.
+Speaker1: Okay, I have confirmed your order. It will be delivered to No. 100, Haiping Road at 1 pm this afternoon. If you have any other needs, please feel free to contact us. We wish you a happy meal.
+Speaker2: Thank you, goodbye.

@@ -1,0 +1,14 @@
+Speaker1: Hey, are you delivery from my family?
+Speaker2: Yes, hello, what can I help you with?
+Speaker1: I want to order an outside delivery, how long will you send the food?
+Speaker2: We usually deliver within 30 minutes after ordering, but the specific time may be adjusted based on the order quantity.
+Speaker1: Okay, I want to order a beef stir-fry and a sweet and sour pork ribs, can I add some sour vegetables?
+Speaker2: Okay, beef stir-fry and sweet and sour pork ribs, add pickled vegetables, okay, recorded.
+Speaker1: Do you have any discount coupons?
+Speaker2: Yes, first-time customers can enjoy a 5 yuan discount, and there's also a "full fifty yuan minus ten yuan" activity.
+Speaker1: That's great, I have exactly 50 yuan, I can discount 10 yuan.
+Speaker2: Yes, exactly. Can you please tell me your address?
+Speaker1: My address is Happiness Villa No. 3, Unit 4.
+Speaker2: Okay, I've recorded your order. We'll deliver it in about 30 minutes. Is there anything else you need help with?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, hope you enjoy your meal, bye.

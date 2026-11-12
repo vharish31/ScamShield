@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: I'm nearby, do you guys have any available space?
+Speaker2: Yes, you can directly arrange seats now.
+Speaker1: That's great, I'll be there in about twenty minutes.
+Speaker2: Okay, no problem, we'll meet here in twenty minutes.
+Speaker1: Do you have any recommendations for dishes?
+Speaker2: Our store's signboard menu is red-braised pork and steamed fish, both very popular
+Speaker1: Listen well, then try it out.
+Speaker2: Okay, wait for me, then I'll introduce the menu in detail to you.

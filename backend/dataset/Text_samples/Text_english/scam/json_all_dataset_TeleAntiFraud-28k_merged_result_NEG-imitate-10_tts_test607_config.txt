@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm Li Xiao, this is the customer service representative for XX Express.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, your package was returned because the address was not detailed, you need to provide a new address and contact information so we can re-ship it.
+Speaker2: What should I do, this package is very important to me.
+Speaker1: Please don't rush, I can help you handle it here, but I need you to provide some information to verify the identity.
+Speaker2: Okay, what information do you need from me?
+Speaker1: Please provide your ID number and bank card number, we will handle it quickly and you can re-ship soon.
+Speaker2: Identity card number and bank card number? Will there be any risk?
+Speaker1: Don't worry, we are a legitimate company, absolutely safe. To ensure your package arrives smoothly, please cooperate.
+Speaker2: Okay, I trust you. My ID number is 123456789012345678, my bank card number is 622208123456789012.
+Speaker1: Okay, thank you for your cooperation. We will process it quickly on this end. Additionally, you can download our app on our website to easily check your package status anytime.
+Speaker2: Okay, I will download it. Thank you for your help.

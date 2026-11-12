@@ -1,0 +1,9 @@
+Speaker1: Hello, how can I help you at the convenience store?
+Speaker2: Hello, can you confirm if the bread I ordered has arrived yet?
+Speaker1: Okay, what kind of bread did you order?
+Speaker2: Do you have that one with all the almonds?
+Speaker1: Do you want to come and get the whole wheat almond bread here?
+Speaker2: I'll be there in about half an hour. Can you hold on for me?
+Speaker1: No problem, I'll leave them for you, just come directly and take them when you arrive.
+Speaker2: Okay, thank you, I'll see you later.
+Speaker1: Okay, see you later.

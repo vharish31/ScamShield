@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you still hire people there?
+Speaker2: What position are you interested in applying for?
+Speaker1: I saw a warehouse manager on a job website.
+Speaker2: Is this job still open? How old are you, do you have relevant work experience?
+Speaker1: Thirty-five years old, with two years of experience managing warehouses.
+Speaker2: Okay, we need the warehouse manager to be in charge of managing the in and out of goods, and sometimes assist with moving.
+Speaker1: What is the working hours for this job?
+Speaker2: Work hours are from 8 am to 5 pm, with a one-hour lunch break in the middle.
+Speaker1: What is the salary and benefits for this position?
+Speaker2: Salary is 4,500 yuan per month, plus performance bonus, plus five insurances and one gold.
+Speaker1: How do I apply?
+Speaker2: You can send your resume to our email address, and we will contact you as soon as we receive it to arrange an interview.
+Speaker1: Okay, thank you for your patience in answering, I'll send my resume now.
+Speaker2: No problem, I'm looking forward to your resume, wish you all the best.

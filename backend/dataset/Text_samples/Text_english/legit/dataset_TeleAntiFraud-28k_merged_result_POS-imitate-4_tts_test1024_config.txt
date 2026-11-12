@@ -1,0 +1,9 @@
+Speaker2: Hello, this is Qingyun restaurant, what can I help you with?
+Speaker1: I'd like to reserve a private room for about four people, at 6:30 PM tonight.
+Speaker2: Okay, your four-person private room is reserved for six thirty in the evening. We can hold it here, but we need your contact information to confirm.
+Speaker1: Okay, my phone number is 13813801380.
+Speaker2: Okay, we have recorded your information. Welcome to Qingyun Restaurant at 6:30 pm tonight.
+Speaker1: Do you have any recommendations for dishes?
+Speaker2: Our family's signboard menu has green cloud roast duck, clear steamed sea bass fish and ginger white flower, all very popular, would you like to try?
+Speaker1: Let's try the Qingyun kǎo jī first, and we can talk about the others later.
+Speaker2: Okay, we will prepare the roast duck in advance for you. If you have any other needs, please feel free to call. Have a nice day, goodbye.

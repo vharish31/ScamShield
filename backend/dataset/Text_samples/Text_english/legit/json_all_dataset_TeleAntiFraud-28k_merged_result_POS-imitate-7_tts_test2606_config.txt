@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me more about your electric car parts?
+Speaker2: Our electric car package includes the vehicle itself and the charger, but does not currently provide helmets.
+Speaker1: Is that car charged?
+Speaker2: Vehicles usually maintain a charge of 60-70%, which can meet most usage requirements.
+Speaker1: Okay, what should I do if I want to take the car?
+Speaker2: You can add my WeChat first, tell me the location you want to pick up the car, I will check if there is electricity there.
+Speaker1: Okay, my WeChat is 301, you add it down.
+Speaker2: Okay, I'll add you. After we add WeChat, we'll discuss the specifics of picking up the car.

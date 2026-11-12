@@ -1,0 +1,10 @@
+Speaker1: Hello, can you hear me? I'm a loan officer at the Central Information Bank in Luohu District. Have you recently had any financial needs?
+Speaker2: Hello, where are you from?
+Speaker1: I work at China Construction Bank, we have a recent low interest loan campaign with a high loan amount and quick disbursement, would you like to know more?
+Speaker2: Oh, how do you apply for this?
+Speaker1: It's simple, just download our app and fill out some basic info to apply.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, we are a regular bank, you can trust us. After downloading, directly register and click the loan application button on the homepage. If you have any questions, you can contact us anytime.
+Speaker2: Okay, let me try.
+Speaker1: Great, let me know when you download the app, I can guide you through the application.
+Speaker2: Okay, thank you.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: You forgot me, didn't you?
+Speaker2: Little Li, really, recently work too busy, almost not recognize.
+Speaker1: Haha, nothing, I'm not looking at your friend circle to see what you've been busy with lately, right? How's it going?
+Speaker2: Well, it's okay, it's just a bit stressful, but it's good, the team cooperation is great.
+Speaker1: Okay, got it. Do you have time this weekend? Let's go eat together.
+Speaker2: Weekend, let me check my schedule, should be no problem, have you booked the venue yet?
+Speaker1: Not yet, do you have any recommendations? I'm not very picky when it comes to food.
+Speaker2: Let's go to the new hotpot restaurant. I heard the taste is good.
+Speaker1: Okay, let's settle it that way. See you this weekend!

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a server at the Flower Flower Restaurant. You previously reserved a seat at our restaurant for tonight at 6:30. Do you still need it?
+Speaker2: Oh, I need to, I was just busy, almost forgot.
+Speaker1: Okay, I'll keep it for you. Do you need any special services or dishes?
+Speaker2: Hey, my friend is a vegetarian, do you have any special vegetarian dishes to recommend?
+Speaker1: Of course, we have very popular stir-fried four seasons beans, mushroom soup and fungus stir-fried rice, all of which are very delicious.
+Speaker2: That's great, let's order a mushroom soup and a stir-fried dish with mushrooms when we get there.
+Speaker1: Okay, I have taken note. Moreover, our restaurant has a special activity today, spend over 500 yuan and get free dessert, what do you think?
+Speaker2: Sounds good, let's give it a try. Are there any recommended main dishes?
+Speaker1: Our recommended main dishes are honey-glazed salmon, beef and roast duck, all of which are very popular.
+Speaker2: Let's have a steamed three-course fish and a roast duck.

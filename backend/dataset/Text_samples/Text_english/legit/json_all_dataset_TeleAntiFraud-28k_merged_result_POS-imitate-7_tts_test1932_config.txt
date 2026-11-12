@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, this is the bookstore, you consulted our bookstore's new book delivery situation before, do you know if you are convenient now?
+Speaker2: Hey, convenient, you say, have any new books arrived yet?
+Speaker1: That's right, our latest batch of literature class books have arrived, including classics like "One Hundred Years of Solitude" and "The Silent Forest", as well as the latest release "The Gift of Time".
+Speaker2: Hmm, "The Gift of Time" sounds interesting, who wrote it?
+Speaker1: This is a new work by author Lin Xiuling, the evaluation is very good, if you are interested, I can reserve a copy for you.
+Speaker2: Okay, I have some free time tomorrow afternoon, can I go pick up a few things?
+Speaker1: Okay, our bookstore is open until six in the afternoon. You can come anytime.
+Speaker2: Okay, thank you, I'll go over there at 3 pm tomorrow.
+Speaker1: Okay, no problem, just come to the front desk when the time comes, I will prepare for you.
+Speaker2: Okay, thank you, see you tomorrow.
+Speaker1: See you tomorrow, be careful on the road.

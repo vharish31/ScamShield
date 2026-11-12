@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Laoban?
+Speaker2: Who are you?
+Speaker1: Are you in need of any funds recently from Dongguan Bank?
+Speaker2: No, but how about your loan service?
+Speaker1: Our loan process here is simple, interest rates are low, and disbursement is quick, making it ideal for business owners. You can take a look first, and if you're interested, feel free to add my WeChat and consult anytime.
+Speaker2: Wechat? How do I add you?
+Speaker1: You can search my name on WeChat, add me as a friend, or I can send you my QR code directly to your phone, convenient?
+Speaker2: Okay, then send it over.
+Speaker1: Okay, just a moment, I'll send it to you now. But, in order to confirm your identity, I need you to first provide a verification code. I'll send you a text message, you just tell me after you receive it.
+Speaker2: Okay, I'm waiting.

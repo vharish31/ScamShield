@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I can't find the way out of the subway station, can you help me?
+Speaker2: Hello, which exit are you at, I'm waiting for you here.
+Speaker1: I'm at the third exit, but there are many detours here, it's not clear how to walk.
+Speaker2: Okay, walk straight along the main road, turn left at the first red light, and keep going until you see me.
+Speaker1: Okay, I saw the red light, now I turned left.
+Speaker2: Hey, you keep walking forward, I'm waiting here, see you.
+Speaker1: I saw it too, thank you for your help, otherwise I might have been stuck here for a long time.
+Speaker2: No problem, this side is a bit complicated. Next time you can directly contact me.
+Speaker1: Okay, I'll remember next time, you're really annoying today.
+Speaker2: No problem, helping you is what should be done, be careful on the road.

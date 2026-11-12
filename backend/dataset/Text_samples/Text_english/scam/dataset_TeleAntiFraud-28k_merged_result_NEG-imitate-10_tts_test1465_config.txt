@@ -1,0 +1,15 @@
+Speaker1: Hi, this is small Li from Taobao customer service center. There might be some issues with the products you recently bought on our platform, and we need to handle them for you.
+Speaker2: Oh, really? What happened?
+Speaker1: We detected quality issues with the products you purchased, and we are preparing to process a refund for your protection.
+Speaker2: Great, how do we handle it?
+Speaker1: To quickly process, I need you to provide the following bank card information used during purchase so that we can refund the money to your account.
+Speaker2: Okay, I understand.
+Speaker1: You're a good person, but to ensure the safety of your information, I need you to provide a verification code. We'll send it to your phone.
+Speaker2: Okay, I'll check my phone later.
+Speaker1: Thank you for your cooperation. The verification code has been sent to your phone. Please pay attention to check it.
+Speaker2: I got it. The verification code is a six-digit number, right?
+Speaker1: Okay, it's a six-digit number. You can tell me the verification code, and I'll handle the refund for you.
+Speaker2: Okay, the verification code is one two three four five six.
+Speaker1: Thank you very much, we will process your refund request as soon as possible. If you have any other issues, please feel free to contact us anytime.
+Speaker2: Okay, thank you for your help.
+Speaker1: You're welcome, wish you happy life, bye.

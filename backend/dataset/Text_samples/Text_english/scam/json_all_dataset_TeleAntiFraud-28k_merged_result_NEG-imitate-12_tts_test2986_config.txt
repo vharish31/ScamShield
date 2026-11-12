@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm the loan manager at Commercial Bank, can I call you Lee Huay?
+Speaker2: Sure, who are you?
+Speaker1: I am a loan manager at a commercial bank. I have a special loan product that is suitable for you, no collateral, low interest rate, quick disbursement, do you have any recent funding needs?
+Speaker2: I don't need a loan at the moment, thank you.
+Speaker1: Hmm, that's okay, but you might want to consider it too, this loan product is really suitable for temporary rotation, and we have a special app that's really easy to use.
+Speaker2: What is the name of this app?
+Speaker1: You can download the app called "Working Microloan" in the app store, register and fill out the information after downloading, and you can get the loan immediately after approval.
+Speaker2: What information do I need to provide?
+Speaker1: You just need to provide your ID, bank card, and phone number. It's very simple. If you download now, I can help you expedite the process.
+Speaker2: Okay, let me try.

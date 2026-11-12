@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you? I am a customer service representative from JD.com. You recently purchased a product from our platform and it was lost due to shipping issues. We are now ready to process a refund for you. Is that convenient for you?
+Speaker1: Uh, how do I operate for a refund?
+Speaker2: To make it convenient and quick, I will send you a link. Just click on the link and follow the instructions to quickly process the refund.
+Speaker1: Link? Safe?
+Speaker2: Absolutely safe, this is our internal exclusive link, you can click it with confidence.
+Speaker1: Okay, I'll check the links in a moment.
+Speaker2: Okay, I'll send it right away. Additionally, to ensure a smooth refund, you may need to provide your bank card number and verification code.
+Speaker1: Bank card number and verification code?
+Speaker2: Yes, that's how we can transfer the funds to your account.

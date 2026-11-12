@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Li?
+Speaker2: Hey, how are you? I'm little Li, what's up?
+Speaker1: I looked at the specific configuration and price of the phone I saw at your store yesterday.
+Speaker2: Okay, that phone is our bestseller, it has an eight-core processor, sixty-four gigabytes of RAM, and costs three thousand two hundred yuan.
+Speaker1: Hey, like this, do you guys have any goods in your store now?
+Speaker2: Yes, we have enough stock in the store now, you can come over anytime to pick.
+Speaker1: Can I go at around three in the afternoon?
+Speaker2: Okay, three o'clock, I will keep a phone for you here, just come directly.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later, be careful on the road.

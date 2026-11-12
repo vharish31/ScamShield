@@ -1,0 +1,13 @@
+Speaker1: Hey, hi, I saw your pet grooming service on that website, I want to know more about it.
+Speaker2: Hello, I'm very happy to serve you. We provide pet grooming and beauty services, including bathing, grooming, and nail trimming. What kind of pet does your family have?
+Speaker1: My dog is a golden retriever.
+Speaker2: The golden retriever is very cute and suitable for beauty. We have a set meal here that includes bathing, grooming, nail trimming, ear cleaning, and it's all three hundred yuan.
+Speaker1: Can I make a reservation?
+Speaker2: Yes, to ensure the quality of our service, we suggest booking in advance. What time is convenient for you?
+Speaker1: Is this weekend okay?
+Speaker2: Do we have any free time this weekend? Which day is most convenient?
+Speaker1: Is it okay to meet at 10 am on Saturday morning?
+Speaker2: Okay, on Saturday at 10 am, we will be ready for you. Also, I need your contact information to confirm the appointment.
+Speaker1: Okay, my phone number is 138123456.
+Speaker2: Okay, I have recorded it. See you at the pet grooming center at 10 am on Saturday morning. Goodbye.
+Speaker1: Okay, thank you, bye.

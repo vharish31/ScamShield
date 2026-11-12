@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Hi, I'm little Li, can you tell me about your takeout service?
+Speaker2: Hey, little Li, our store's takeout service is pretty good. What do you want to know?
+Speaker1: What regions do you usually send, and how long does it take to send food?
+Speaker2: We mainly send to the city center area, and also send to the small communities around it. The delivery time for the food is usually between 30 minutes after ordering and one hour.
+Speaker1: What do you recommend dishes?
+Speaker2: Our store's signboard menu is spicy Sichuan hotpot and sour fish, many people like it.
+Speaker1: Sounds good, I'll place an order to try. Oh, do you support online payment?
+Speaker2: Okay, we can pay through Alipay, Wechat Pay, or cash on delivery.

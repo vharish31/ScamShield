@@ -1,0 +1,8 @@
+Speaker1: Hey, hi, I'm Zhang from Zhilian Zhaoyou, we had a meeting scheduled for 9:30am today, do you know how you're preparing on your end?
+Speaker2: Hello, I'm little king, I'm almost ready, just my family has a little thing, maybe I'll be late a little.
+Speaker1: Understood, Mr. Xiao Wang, what time do you roughly arrive? We will do our best to adjust the time for you here.
+Speaker2: Can we arrive at 10:30?
+Speaker1: Okay, you can arrive at 10:30, the address is still the old place, XX road XX number, remember to bring your ID and resume.
+Speaker2: Okay, thank you for reminding me, I will arrive on time.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Have a safe journey. Goodbye.
+Speaker2: Okay, slow down on the road. See you.

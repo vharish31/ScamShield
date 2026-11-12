@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I am small Zhang, I contacted your company before, consulted about electronic products once, now I want to know more about your latest tablet computer.
+Speaker2: Hey, little Zhang, I remember you, our latest tablet computer is online now, what aspects are you mainly concerned about?
+Speaker1: I want to know the battery life and running speed of this tablet, as well as the price.
+Speaker2: Okay, this tablet comes with a high-performance processor, runs very fast, can smoothly handle daily office and entertainment needs. The battery life is about ten hours after charging. The current promotion price is three thousand five hundred yuan.
+Speaker1: The sound is good, but this price is a little higher than other brands on the market, do you have any discount activities?
+Speaker2: Yes, if you place an order now, you can enjoy a 100 yuan discount, and you will also receive a 200 yuan value protective suit as a gift.
+Speaker1: How soon can you deliver it if I order now?
+Speaker2: If you place an order now, we can ship it tomorrow, usually within three to five days it arrives.
+Speaker1: Okay, I'll think it over and decide if I want to buy it. Thank you for your detailed explanation.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. I hope our product gives you a satisfying experience. Goodbye!
+Speaker1: Goodbye, thank you.

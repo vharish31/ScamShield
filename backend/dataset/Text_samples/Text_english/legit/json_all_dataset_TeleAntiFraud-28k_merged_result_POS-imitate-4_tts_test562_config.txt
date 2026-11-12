@@ -1,0 +1,11 @@
+Speaker1: Hello, how was your dining experience at our restaurant last time?
+Speaker2: Hello, little Li, it's still okay, quite good.
+Speaker1: Great, thank you for your confirmation. We recently introduced several new dishes, do you have any interest in trying them?
+Speaker2: What's so good about new food?
+Speaker1: We have newly introduced our signature dishes: roasted duck with a brand, steamed stone bass with a special flavor, and spicy small crab with a unique taste, all carefully prepared by our chefs.
+Speaker2: Can I reserve a spot? Everyone sounds so hungry.
+Speaker1: Of course, when do you plan to come? We start business at six in the evening on weekdays, and weekends may be a bit tight with reservations.
+Speaker2: I want to come at seven o'clock on Saturday night with two people.
+Speaker1: Okay, Saturday night at seven, two people. Already reserved for you, please check in at the front desk when you arrive.
+Speaker2: Okay, thank you little Li, see you later.
+Speaker1: You're welcome, I'm looking forward to your arrival. See you later!

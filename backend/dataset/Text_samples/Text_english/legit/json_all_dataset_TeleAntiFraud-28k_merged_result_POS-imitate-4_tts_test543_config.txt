@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I'm little beauty, we're restaurant's customer service.
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: Have you noticed that you previously ate at our restaurant and gave feedback that the food tasted good? Would you like to inquire if you want to try our new menu?
+Speaker2: What are the new dishes on the new menu?
+Speaker1: We have newly introduced lobster with chili, ginger and steamed pork ribs, as well as new sweet treats such as dragon fruit mousse and lychee thousand-layer cake.
+Speaker2: The sound is great, I want to try the spicy crab and the pineapple mango dessert.
+Speaker1: Okay, I'll book a two-person seat for you. What time do you plan to come?
+Speaker2: How was your weekend?
+Speaker1: Which day of this weekend? We have space both Saturday and Sunday evening.
+Speaker2: Let's go out on Saturday night.
+Speaker1: Okay, I'll reserve the seat for you on Saturday evening, looking forward to your arrival.

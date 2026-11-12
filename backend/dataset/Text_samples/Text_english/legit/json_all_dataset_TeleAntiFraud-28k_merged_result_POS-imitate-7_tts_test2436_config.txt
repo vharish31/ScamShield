@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service of Xiaomei, did you recently buy a dress from our store? How do you feel wearing it?
+Speaker2: Hello, you look great, just a little small, I plan to go to the store tomorrow to buy a bigger size.
+Speaker1: Oh, that's great! If you want to exchange, you can directly come to our store, bring the purchase receipt, and we will handle it for you.
+Speaker2: Okay, can I go there in the afternoon tomorrow around three o'clock?
+Speaker1: Of course, our store is open from 9 am to 9 pm every day. Exactly at 3 pm tomorrow, you can come, and I will reserve a change window for you.
+Speaker2: Thank you so much, I will definitely arrive on time tomorrow.
+Speaker1: No problem, this is what we should do. If you have any other places that need help, you can contact us anytime.
+Speaker2: Okay, see you tomorrow.
+Speaker1: See you tomorrow, wish you a happy day.
+Speaker2: You too, goodbye.

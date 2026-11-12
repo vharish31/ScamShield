@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: Can you tell me more about your recent promotions, especially for electronic products?
+Speaker2: Hey, we recently had a promotion for electronic products, like smartphones and tablets had different discounts. Which one do you want to know more about specifically?
+Speaker1: I'm really interested in your new tablet computer. Can you give me a detailed introduction?
+Speaker2: Of course. Our new tablet computer uses the latest processor, runs fast, has a long battery life, and is very suitable for daily use and entertainment. It's currently on special promotion, and you'll get a bonus item with your purchase.
+Speaker1: The sound is good, can you tell me the specific price and promotion activities content?
+Speaker2: This tablet computer originally costs 3500 yuan, now the promotional price is 3000 yuan, and a 500 yuan worth of earphones and protective cover are also included in the purchase.
+Speaker1: Great, can you tell me approximately how long your delivery time would be if I bought it?
+Speaker2: If it's within the city, we promise to deliver within 24 hours. If it's outside the city, it usually takes 2-3 days.
+Speaker1: Okay, what payment methods do you have?
+Speaker2: We support multiple payment methods, including credit cards, Alipay, WeChat Pay, etc. You can choose the most convenient way to pay.

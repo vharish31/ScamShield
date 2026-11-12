@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of Meituan Waimai, your order is ready now, the driver is on the road, about 10 minutes left to arrive, where are you waiting?
+Speaker2: Oh, hello, I'm just waiting at the door of the community, then I'll wait a little longer.
+Speaker1: Okay, the driver will call you after arriving to confirm, and you can contact me anytime if you have any issues.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, by the way, we have a new user promotion activity today, if you haven't used it yet, you can use this discount code: MEIWOULAI, enjoy your first discount.
+Speaker2: Oh, this is pretty good. I'll try it next time.
+Speaker1: Okay, I'm glad you like it. If you have any other questions or need help, feel free to contact us anytime.
+Speaker2: Okay, thank you for your service.
+Speaker1: You're welcome, wish you enjoy your meal, bye!
+Speaker2: Goodbye.

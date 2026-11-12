@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me more about your hairdressing service? Do you have any available appointments now?
+Speaker2: Yes, we can make a reservation here. What time slot would you like to reserve?
+Speaker1: What's up this weekend?
+Speaker2: What time slot from 10am to 2pm is suitable for you this weekend?
+Speaker1: 2 pm is okay, I'll note down the address.
+Speaker2: Okay, our address is Happiness Road 33rd Number. Remember to arrive ten minutes early.
+Speaker1: Okay, thank you. What do we need to prepare in advance for a haircut?
+Speaker2: No need to prepare specially, just keep relaxed when coming, if there's any special need, you can tell us beforehand.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you later, wish you a happy day.

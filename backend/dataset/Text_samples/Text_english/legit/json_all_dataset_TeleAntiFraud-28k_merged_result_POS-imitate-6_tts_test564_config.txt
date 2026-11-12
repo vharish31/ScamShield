@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me about the signature dishes of your restaurant?
+Speaker2: Our restaurant specialties include red braised pork, steamed fish with clear broth, and spicy stir-fried with ginger and chili, all of which are very popular dishes.
+Speaker1: How much do these menu items cost?
+Speaker2: Red braised pork is 35 yuan, steamed fish is 45 yuan, spicy and fragrant pot is 50 yuan.
+Speaker1: Okay, I want to book a four-person room tonight at 7 pm?
+Speaker2: Is it okay? The 7 o'clock room has been reserved for you. Do you need to arrive early?
+Speaker1: No need, we arrive on time. Moreover, do your restaurant provide free parking?
+Speaker2: Yes, our restaurant provides a free parking lot, you can directly park your car behind the restaurant.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you later, wish you enjoy your meal!

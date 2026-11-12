@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Qiang?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer manager at a commercial bank, I have a special loan product here with very low interest rate, would you like to know more about it?
+Speaker2: "Oh, I don't need a loan now."
+Speaker1: This is the case, our this product not only low interest, but also approval fast, no need deposit, especially suitable for your this kind have temporary cash need situation.
+Speaker2: How do I apply for that which sounds good?
+Speaker1: Just download our bank's official app, register an account, and follow the instructions to proceed.
+Speaker2: Okay, what is the name of this app?
+Speaker1: You can download the app named "Work Yuan Rong E-Link" from the phone app market.
+Speaker2: Okay, I'll go download it now.

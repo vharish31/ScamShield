@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiao Ming, I have an appointment at your shop tomorrow for a haircut, can you confirm the time?
+Speaker2: Hello, Xiao Ming, I am the customer service representative of the hair salon, is your appointment time tomorrow at 3 pm?
+Speaker1: Is it this time? I confirm if there are any changes?
+Speaker2: Okay, let me check. Hmm, your appointment is still there, tomorrow afternoon three o'clock, no change.
+Speaker1: That's great, I'm still worried about changes.
+Speaker2: No problem, we will be ready according to the agreed time on this side, you can come directly when the time comes.
+Speaker1: What should I do if I'm late?
+Speaker2: If you're late, please let us know as soon as possible so we can try to save you a spot. However, time adjustments may affect the arrangement of our later customers, so please try not to be late.
+Speaker1: I understand, thank you for your reminder, I will arrive on time.
+Speaker2: No problem, you can contact us anytime if you have any questions. See you tomorrow!

@@ -1,0 +1,12 @@
+Speaker1: Hello!
+Speaker2: Hello
+Speaker1: Hello, I am small Zhang from Longjiang Yinhang, we recently launched a low interest loan product, can provide you with 50,000 credit limit, are you interested in learning more?
+Speaker2: How much interest?
+Speaker1: The interest rate is very low, monthly interest only needs two cents, for example, ten thousand blocks each month only need to repay two hundred yuan interest, very cost-effective.
+Speaker2: No need for now.
+Speaker1: Would it be convenient for you to add a WeChat? I can send you detailed product information to take a look.
+Speaker2: Why do you guys always call me? I don't need it.
+Speaker1: This is our work, to make more people understand our quality service. But since you don't need it now, I can add you on WeChat, so you can contact us anytime you need in the future.
+Speaker2: Okay, then tell me your WeChat number.
+Speaker1: My WeChat number is zhangsan123, add me, you can contact me anytime you need.
+Speaker2: Okay, I will consider it, thank you.

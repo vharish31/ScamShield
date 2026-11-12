@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm Lee Ming, the guy who looked at the phone in your store a few days ago. I want to know more about it.
+Speaker2: Hello, Li Ming, I am customer service Zhang, what specific information do you want to know about which phone?
+Speaker1: That's the blue X20 model phone.
+Speaker2: This phone model is still in stock at our store, the blue one is very popular. What aspects would you like to know about it?
+Speaker1: What is the battery life of this phone?
+Speaker2: The X20 phone comes with a large battery, which can support more than a day of use in normal conditions. If used lightly, it can also last two days with one charge.
+Speaker1: Does this phone support fast charging?
+Speaker2: Supportive, this phone comes with fast charging technology, charging speed is very fast, can charge the phone with a large amount of electricity in a short time.
+Speaker1: Okay, can you tell me if there's any discount activity if I buy now?
+Speaker2: Yes, you can enjoy a discount when buying this phone now, and you'll also get a free phone case and screen protector, it's a great deal.
+Speaker1: That's great, I plan to go take a look tomorrow.
+Speaker2: Welcome very much, our store starts business tomorrow morning at nine o'clock, what time is convenient for you to come?

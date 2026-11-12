@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Xiao Zhang, the customer service representative of the quick loan company. Have you contacted us before to consult about a loan, and do you have any needs related to funding now?
+Speaker2: Hey, I'm a bit short on cash right now, can I ask for some advice?
+Speaker1: Of course, our company can provide no-collateral, fast-approval, same-day loan services. Apply today, get approved today, perfect for emergency cash needs.
+Speaker2: What are the specific steps to do it?
+Speaker1: It's very simple. Just click on the link we send to you, fill out some basic information, and our staff will quickly contact you to complete the remaining procedures.
+Speaker2: Okay, how do I get this link?
+Speaker1: Please provide a phone number, and we'll immediately send you a text message with a link. Just follow the instructions.
+Speaker2: Sure, my phone number is 1352323232, can you send me a message?
+Speaker1: Okay, your phone number has been recorded. A text message will be sent to your phone shortly, please pay attention to check it. Are there any other questions?
+Speaker2: No more, thank you.

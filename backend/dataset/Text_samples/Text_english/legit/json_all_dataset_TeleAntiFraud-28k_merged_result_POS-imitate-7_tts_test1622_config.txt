@@ -1,0 +1,8 @@
+Speaker1: Your takeout has arrived, but because of the traffic on the road, it might have cooled down a bit.
+Speaker2: How do you eat?
+Speaker1: You can heat it up in the microwave, this way the taste will be better.
+Speaker2: Do I still have to heat myself up? Isn't ordering takeout just for convenience?
+Speaker1: Yes, I understand your inconvenience, but this is a special situation, the road is indeed congested.
+Speaker2: Okay, let me try.
+Speaker1: Thank you for your understanding. I hope you enjoy your meal.
+Speaker2: Okay, goodnight.

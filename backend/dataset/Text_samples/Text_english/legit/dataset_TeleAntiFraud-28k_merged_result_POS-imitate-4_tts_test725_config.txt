@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, just passed by your house on the road, saw your house door was open, wanted to ask if you're at home?
+Speaker2: Oh, hello, little Zhang, I'm at home, I might have forgotten to lock the door, thank you for reminding me.
+Speaker1: No problem, are you alone at home? Do you need me to bring you something?
+Speaker2: No need, I'll go out in a while, if you have time, let's go buy some food together?
+Speaker1: Great, I'm also thinking of going to buy some food, do you have a good food market nearby?
+Speaker2: Yes, just turn left at the second road intersection in front, walk 200 meters and you'll be there, the menu options are quite diverse.
+Speaker1: Great, I'll be there in about ten minutes.
+Speaker2: Okay, be careful on the road, I'll wait for you.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

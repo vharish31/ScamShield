@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I saw your store's ad on the internet, and I want to ask about the latest styles at Yaxin.
+Speaker2: Hello, I am a customer service representative for Toyota, what can I help you with?
+Speaker1: I want to know more about the latest Yatong car model, specifically the configuration and price.
+Speaker2: Our latest Yaxing car model has various configurations, the lowest configuration price is around 13,500, and there will be a certain discount for purchasing it in full.
+Speaker1: If it's a monthly payment plan, how much is the initial payment and the monthly installment?
+Speaker2: When purchasing on installment, the initial payment is usually around 30%, which is approximately 4,000 yuan. The monthly payment varies depending on the selected installment period, typically ranging from 2,000 to 3,000 yuan.
+Speaker1: Hey, what do you have going on in your store right now in terms of promotions?
+Speaker2: Our store is currently running a spring promotion campaign. If you purchase a car within this month, you can enjoy an additional three thousand yuan cash discount.
+Speaker1: If I have an old car to replace it?
+Speaker2: If you have an old car to replace, we will have a professional appraiser assess its value, based on the car's condition and year, you can deduct up to a certain amount of the purchase price of a new car.
+Speaker1: Okay, thank you for your detailed answer. I will consider it.
+Speaker2: You're welcome! If you have any questions, please feel free to contact us anytime! Have a happy life!

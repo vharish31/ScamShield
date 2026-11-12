@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: I saw your job postings on the recruitment website, are you looking for maintenance workers?
+Speaker2: Yes, we are in maintenance and repair work, mainly responsible for the daily maintenance and repair of electrical equipment.
+Speaker1: Do you need an electrician's certificate?
+Speaker2: Yes, you need an electrician's license and some maintenance experience.
+Speaker1: What is the working hours?
+Speaker2: Work hours are from 9 am to 6 pm, with one day off per week.
+Speaker1: How was the encounter?
+Speaker2: The base salary plus commission, the base salary is three thousand five, the commission is defined based on the number and quality of repairs.
+Speaker1: Okay, when can I come for the interview?
+Speaker2: You can come at 10 am tomorrow, remember to bring your electrician's license and ID.
+Speaker1: Okay, I understand, thank you.
+Speaker2: No problem, see you later.

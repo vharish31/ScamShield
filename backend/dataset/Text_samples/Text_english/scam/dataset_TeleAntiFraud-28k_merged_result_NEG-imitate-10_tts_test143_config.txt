@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Manager, of the Commercial Bank Credit Department.
+Speaker2: Hello, do you have anything to talk about?
+Speaker1: Have you heard about our new discounted loan product? The interest rate is low, and the approval process is fast.
+Speaker2: I recently have some cash flow needs, can you explain in detail?
+Speaker1: Of course, you just need to provide some basic information, and we can quickly evaluate your loan amount. For convenience, you can first download our bank's official app and fill out the application form.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Absolutely safe, our bank's app has been strictly tested for security, you can rest assured to use it. After downloading, you can directly fill out the information on the app, if there are any problems, please contact me anytime.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you download it, remember to register an account with your phone number and then fill out the loan application form. If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you for your help. I will handle it quickly.

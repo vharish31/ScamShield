@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, today I need to go to your company for an interview, how can I find the entrance?
+Speaker2: Hello, little Zhang, I am little Li, in charge of welcoming. Where are you?
+Speaker1: I'm at the door of the building, but the door is locked, am I walking the wrong way?
+Speaker2: You're not walking wrong, you're walking along the right side of the small road, you'll see a side door, I'll go down and open it for you.
+Speaker1: Okay, I see it, is that the side door?
+Speaker2: Yes, that's here. I'll be right down.
+Speaker1: Thank you, little Li, please.
+Speaker2: No problem, this is my job. After you arrive, go straight to the third floor, the interview room is in the conference room.
+Speaker1: Okay, I noted it down, thank you for your help.
+Speaker2: No problem, wish you a successful interview!

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager of commercial bank, Li, have you any need for capital rotation recently?
+Speaker2: Hello, temporarily not available, thank you.
+Speaker1: Okay, I have a special discounted credit loan project here with low monthly interest, simple procedures, quick disbursement, no collateral required, would you consider it?
+Speaker2: The sound is good, but I'm not very clear, how does this loan work specifically?
+Speaker1: It's very simple. Just download our bank's official app, fill out personal information, submit review, and once approved, you can quickly loan.
+Speaker2: Where can I download this app?
+Speaker1: You can download it through this link. I send you a link, just click it to download.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you have any issues after downloading, feel free to contact me anytime. My phone number is 13812345678.
+Speaker2: Thank you, I'll give it a try.

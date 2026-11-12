@@ -1,0 +1,10 @@
+Speaker1: Hello, I am Lee Huai, there is a problem with your delivery, I am the delivery customer service representative, please cooperate to handle it.
+Speaker2: What's the issue? My express?
+Speaker1: Your package was lost during transportation, we need you to provide some information to handle compensation.
+Speaker2: Okay, what information do you need?
+Speaker1: We need your name, phone number, and bank account number so that we can directly transfer the compensation money to your account.
+Speaker2: How long will I receive compensation after providing information?
+Speaker1: In general, we complete our work within a workday, but to speed up the process, you can click this link to download our official app, and submitting information through the app is faster.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great! After downloading, please follow the instructions. If you have any issues, feel free to contact me anytime.
+Speaker2: Thank you, I will process it quickly.

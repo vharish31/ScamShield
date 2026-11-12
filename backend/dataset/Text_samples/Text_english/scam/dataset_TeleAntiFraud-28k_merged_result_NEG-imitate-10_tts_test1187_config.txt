@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of Huaxia Bank, Zhang.
+Speaker2: Hello, do you have anything?
+Speaker1: Is this so, our bank now has a very good loan project, interest rate very low, want to know more?
+Speaker2: I need a loan, but I'm not sure if I need a loan.
+Speaker1: No problem, understanding a little is fine, this loan product is very suitable for capital rotation, and the approval is particularly fast.
+Speaker2: So I have to think, but how do you know my information?
+Speaker1: Our bank has a specialized customer information management system, so we have your contact information because you have done business with us before.
+Speaker2: So, how can I confirm that you are a real bank employee?
+Speaker1: You can verify through our official customer service hotline, which is 4006666666. To help you understand our loan products better, I can send you a link, which you can click to see detailed information.
+Speaker2: Okay, let's take a look.

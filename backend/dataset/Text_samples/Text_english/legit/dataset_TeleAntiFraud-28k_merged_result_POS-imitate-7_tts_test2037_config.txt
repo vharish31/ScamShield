@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform. Your lunch order is ready. It will be delivered to you in about thirty minutes.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact us anytime if you have any questions.
+Speaker2: Did you confirm that the order has no spicy notes?
+Speaker1: Hey, I checked and your order does have a note saying no spicy, it's been confirmed with the vendor, they will prepare it according to your request.
+Speaker2: Okay, I forgot to take notes before, and it was so spicy that I had to drink water.
+Speaker1: We understand your requirements, this time there will be no mistakes. Are there any other needs for assistance?
+Speaker2: Thanks for reminding me, I'm out of stock right now.
+Speaker1: Okay, wish you enjoy your meal, bye!
+Speaker2: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of Tao Tao Mall, there is a small problem with the recent products you bought in our mall, please cooperate with us to handle it.
+Speaker2: What problem?
+Speaker1: Due to shipping reasons, your product may have been slightly damaged. We need you to confirm if you're willing to exchange it.
+Speaker2: Okay, how do we exchange goods?
+Speaker1: Thank you very much for your cooperation. You can click on the link we sent and fill out the exchange application, and we will process it quickly.
+Speaker2: Okay, let's take a look.
+Speaker1: Okay, this link is very safe. Click and you just need to fill in your order number and contact info, our customer service will immediately contact you.
+Speaker2: Okay, I'll try.
+Speaker1: Thank you for your cooperation. We will provide you with a free express service as a token of appreciation. We hope you continue to pay attention to our mall.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I just bought a piece of clothing at your store, but the size seems to be off.
+Speaker2: Hello, does the clothing size not fit? Could you please specify which piece of clothing and size do not match, so we can help you?
+Speaker1: Yes, that's the blue jacket I bought, it's a medium size, but I feel a bit tight.
+Speaker2: I understand, our blue jacket size small is quite fit, you can choose big one, it should be more suitable. We support seven days no reason return, you conveniently can come store exchange, or we also can arrange fast delivery to your door.
+Speaker1: Can I pick up my package at the door? Then do I need to pay postage?
+Speaker2: No need to pay for return shipping fees, we will bear the cost. Just pack the clothes and invoice together and we'll arrange for a courier to pick them up at your door.
+Speaker1: That's great, can you help me arrange something tomorrow at home?
+Speaker2: Of course, I will record your information and arrange for a courier to deliver it to you tomorrow morning. Is your address and phone number still the same?
+Speaker1: Yes, it's the same address and phone number as last time, thank you.
+Speaker2: Okay, I have recorded it and will notify you if there are any changes. Thank you for your cooperation. Wish you a happy life.

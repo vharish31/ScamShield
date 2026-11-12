@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, your car maintenance appointment, let's confirm the time here.
+Speaker2: Hello, little Li, I take a look at my schedule, this Saturday should be possible.
+Speaker1: Is it possible to be there from 9am to 10am on Saturday?
+Speaker2: 9 to 10 is okay, no problem.
+Speaker1: Okay, I'll make a reservation for you at 9:00. Remember to bring your car maintenance manual.
+Speaker2: Okay, I'll bring the maintenance manual with me, thank you.
+Speaker1: No problem, is there anything else you need help with?
+Speaker2: No problem, everything is going smoothly.
+Speaker1: Okay, see you on Saturday, be careful on the road.
+Speaker2: Okay, thank you, bye.

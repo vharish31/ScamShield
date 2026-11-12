@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural Bank. Recently, our bank introduced a special discounted financial product. Are you interested in learning more about it?
+Speaker2: Hey, financial products, I recently wanted to know more about them, how's your return?
+Speaker1: This product's annual return rate can reach 10%, and the risk is extremely low, absolutely reliable.
+Speaker2: This high return sounds good, but I've met scammers before, are these for real?
+Speaker1: Of course, we are a regular bank and will never deceive our customers. To better understand our product details, you can first download our official app, which has many detailed introductions and user reviews.
+Speaker2: Do you download the app? Is it safe? I'm afraid of personal information leakage.
+Speaker1: Our bank's app is very safe, all information is encrypted processed, you can rest assured to use it. After downloading, we can also provide one-on-one consulting service through the app.
+Speaker2: Okay, let me try. You give me a link, I directly click download.
+Speaker1: Okay, just a moment, I'll send the link to your phone. Remember to download it and enter the code ABCD1234, you'll enjoy more discounts.
+Speaker2: Okay, thank you for your recommendation. I will download it quickly.

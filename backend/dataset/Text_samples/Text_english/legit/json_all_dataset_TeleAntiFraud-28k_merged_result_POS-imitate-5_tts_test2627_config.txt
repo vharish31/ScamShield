@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, do you have anything?
+Speaker1: I am a customer service representative for a food delivery platform, you previously ordered takeout from us, and now there is a promotion activity that I want to notify you about.
+Speaker2: Hey, is there any discount activity?
+Speaker1: We have a new user recommendation activity now. If you recommend a new user to register, both of us can get a 50 yuan discount.
+Speaker2: How can I participate in this activity?
+Speaker1: Just enter my page in our App, click on recommend friends, then share your recommendation link and that's it.
+Speaker2: Okay, I know. Right, can the delivery time for my last order be shortened?
+Speaker1: I'm very sorry to have caused you inconvenience. We will strengthen our delivery staff training to improve delivery efficiency. If a similar issue arises in the future, please contact customer service, and we will prioritize handling it.
+Speaker2: Okay, thank you for your answer. I will contact you again if I need help.

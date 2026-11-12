@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Beijing Bank loan department. We recently introduced low interest loans. Do you have any recent funding needs?
+Speaker2: Really? I really need a capital rotation recently.
+Speaker1: Yes, our interest rate for this loan is very favorable, and the process is simple, no collateral is required. I can send you a link, you click on the link and fill out the information, and after our review is approved, we can quickly disburse the funds.
+Speaker2: How can I confirm this link is safe?
+Speaker1: Don't worry, we are a legitimate bank, our link is absolutely safe. Just click on the link, fill in your personal information and loan requirements, and we will review and approve them within one workday.
+Speaker2: Okay, let me try.
+Speaker1: Great, I'll send it to you right away. Additionally, to speed up the review process, please provide a verification code. I'll send it to you via text message, so please pay attention to check it.
+Speaker2: Okay, I will pay attention to checking my messages.
+Speaker1: Okay, the verification code will be sent to your phone soon. Please enter it within 10 minutes, otherwise it will expire. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

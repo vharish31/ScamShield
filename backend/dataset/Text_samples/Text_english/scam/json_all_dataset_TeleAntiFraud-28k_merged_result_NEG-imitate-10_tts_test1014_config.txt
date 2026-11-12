@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of Agricultural and Commercial Bank, do you have any need for recent capital rotation?
+Speaker2: Hello, temporarily no need for this.
+Speaker1: Okay, if there's a need in the future, you can consider our bank's quick loan service. Just provide some basic information, and it can be quickly approved. The interest rate is also very favorable.
+Speaker2: The sound is good, but I don't have this plan now.
+Speaker1: Understood, if there's a need in the future, you can directly contact me, my phone number is 555-888-8888. Additionally, we have a dedicated service app where you can easily apply, very convenient.
+Speaker2: Okay, I will consider it. What is the name of your app?
+Speaker1: Our app is called "Farm and Merchant Quick Loan", you can search and download it in the app store, and feel free to contact me if you have any questions.
+Speaker2: Okay, thank you for your recommendation. I will take a look.
+Speaker1: No problem, if you need anything, please contact me anytime. Wish you happy life, bye.
+Speaker2: Goodbye, thank you.

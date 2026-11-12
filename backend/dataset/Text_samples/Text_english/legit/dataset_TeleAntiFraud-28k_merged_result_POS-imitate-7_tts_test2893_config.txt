@@ -1,0 +1,10 @@
+Speaker1: Hey, is that your call?
+Speaker2: Hey, did you find the place?
+Speaker1: Not yet, I just arrived at this crossroad, not quite clear how to walk.
+Speaker2: Walk straight ahead, turn left at the second red and green light, and keep going until you reach the bottom, we'll be waiting for you there.
+Speaker1: Okay, I'll leave right away, it should take about ten minutes or so.
+Speaker2: Okay, no rush, be careful on the road.
+Speaker1: Can you drive to pick me up?
+Speaker2: Okay, I'll drive to pick you up, call me when you arrive.
+Speaker1: Okay, I'll call you once I arrive.
+Speaker2: Okay, be careful on the road, we'll meet again later.

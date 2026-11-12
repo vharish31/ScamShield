@@ -1,0 +1,10 @@
+Speaker1: Hey, have you eaten yet?
+Speaker2: Well, not yet, I'm planning to go out and eat something. What about you?
+Speaker1: I just finished eating, my company has an overtime today, I'll order takeout.
+Speaker2: Ugh, overtime again, worked hard. I'm going to that new noodle place to try it out, heard it's good.
+Speaker1: Wonton shop sounds good, I'll try it next time. How's the weather on your side?
+Speaker2: Hmm, today's weather is quite good, but it might be a bit chilly in the evening, how about your side?
+Speaker1: It's okay here, just a bit windy, need to wear more when going out.
+Speaker2: Hey, be careful not to get cold, don't freeze up. By the way, do you have any free time this weekend? Let's go hiking together.
+Speaker1: Weekend, should have time, but need to check weather, if good, then go.
+Speaker2: Okay, check the weather forecast again in the morning before we decide.

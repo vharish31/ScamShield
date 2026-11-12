@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to inquire about your restaurant's menu and prices.
+Speaker2: Of course, we have many menu options here, such as our signature beef noodle soup, priced at 30 yuan, and our seafood fried rice, priced at 40 yuan.
+Speaker1: What are your business hours?
+Speaker2: We open for breakfast at 11 am and close at 9 pm for business.
+Speaker1: Do I need to make a reservation in advance if I plan to come at noon tomorrow?
+Speaker2: If possible, it's best to book in advance to ensure there's a seat.
+Speaker1: Sure, can I reserve a four-person table?
+Speaker2: No problem, I helped you remember, tomorrow at noon twelve, four people table.
+Speaker1: Thank you, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

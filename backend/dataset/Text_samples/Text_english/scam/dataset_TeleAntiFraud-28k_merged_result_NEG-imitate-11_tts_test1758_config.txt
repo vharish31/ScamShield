@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm Lee, the customer manager at Huatai Bank, responsible for loan business.
+Speaker2: Hello, what do you have?
+Speaker1: Our bank recently launched a special discount loan project with no collateral, low interest rate, fast approval, and is very suitable for friends who need to quickly turn over funds.
+Speaker2: Oh, my current financial situation is still quite good, so I don't need a loan at the moment.
+Speaker1: That's great. But if you have any financial needs in the future, you can directly contact me, I can provide you with professional consulting and services.
+Speaker2: Okay, thank you for your advice.
+Speaker1: No problem, can I add a WeChat to make it easier for you to contact me anytime? I have detailed information that I can send to you.
+Speaker2: Sure, add me, my WeChat is my phone number.
+Speaker1: Okay, I'll add you. If you have any questions later, you can directly contact me, and I will reply to you quickly.
+Speaker2: Okay, thank you.

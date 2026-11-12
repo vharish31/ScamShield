@@ -1,0 +1,15 @@
+Speaker1: Hello, you, I am AliExpress global speed selling customer service small Li.
+Speaker2: Hello, do you have anything?
+Speaker1: Have you noticed any recent purchases you've made on our platform? Are you interested in our new products?
+Speaker2: Oh, I'm not familiar with your new product.
+Speaker1: That's great! We have a very popular new product that can improve your quality of life. You can click on this link for more information.
+Speaker2: Link? How do I click?
+Speaker1: Just input http://example.com/newproduct on your phone and you'll directly enter our new product page.
+Speaker2: Is this really not a problem?
+Speaker1: Of course, our platform is very safe, you can rest assured to use it. If you encounter any problem, please feel free to contact me anytime.
+Speaker2: Okay, let me try.
+Speaker1: Great! You'll definitely like it. Moreover, if you have any questions about our products or need more help, feel free to add my WeChat and contact me anytime.
+Speaker2: WeChat?
+Speaker1: Okay, my WeChat number is example123, adding it will make communication more convenient.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, wish you happy life, bye.

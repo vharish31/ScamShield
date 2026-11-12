@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Li Xiao, are you Zhang Nu?
+Speaker2: Hello, I am.
+Speaker1: Ms. Zhang, this is the customer service representative from JD Finance, we noticed that the products you bought on JD may have quality issues, now we are handling this issue and need your cooperation.
+Speaker2: Okay, what do I need to do now?
+Speaker1: Just click this link, fill out the relevant information, and we can handle your refund issues.
+Speaker2: Is this link safe?
+Speaker1: Absolutely safe, all our JD Finance links are encrypted multiple times, you can rest assured to click.
+Speaker2: How do I know that's true?
+Speaker1: You can check out our customer service phone number, which will display the official information of JD Finance. Additionally, if you have any questions, you can directly add my WeChat, and we can communicate anytime.
+Speaker2: Okay, let me try.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Zong?
+Speaker2: Yes, who are you?
+Speaker1: I am the customer manager of Huaxia Bank, Zhang Manager. We learned from your company's recent business expansion needs through the information, and we are calling to recommend a loan service specifically designed for enterprise mass customization to you.
+Speaker2: Uh, is that so? What's the specifics?
+Speaker1: If your enterprise meets certain conditions, such as having been in normal operation for at least two years and having a stable source of income, we can provide you with a no-collateral loan at a discounted interest rate, with quick disbursement.
+Speaker2: It sounds good, but how can I know if you guys are scammers?
+Speaker1: Can you understand my concern? To prove our sincerity, you can first click on the link we provide, and check the bank's official website information and related loan product introductions.
+Speaker2: Okay, I'll take a look. What's your link?
+Speaker1: Okay, I'll send this link to your phone right away. Please pay attention to check it and open it in your browser.
+Speaker2: Okay, I'll be right back.

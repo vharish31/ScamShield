@@ -1,0 +1,10 @@
+Speaker1: Hello, you are welcome to East China Bank Tianhe Branch, I am customer manager Li.
+Speaker2: Hello, do you have anything?
+Speaker1: We contacted before, there was a specific product for merchants, now there's a new policy, interest is lower, credit is higher.
+Speaker2: Uh, is that so? What's the specifics?
+Speaker1: That's it. As long as you have a fixed business location, we can give you a loan of 50,000 yuan with an interest rate of 0.03%.
+Speaker2: How do I apply for it?
+Speaker1: It's simple, just click our link, fill out some basic info, and we'll arrange for a specialist to contact you.
+Speaker2: Can I trust you guys?
+Speaker1: Of course, we are a regular bank, all operations are safe. You can first click this link to see specific information.
+Speaker2: Let me try it out.

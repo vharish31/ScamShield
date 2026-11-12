@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me? Who are you?
+Speaker1: Hi, I'm the property management service of the community, we saw your water and electricity repair order, want to confirm the time with you?
+Speaker2: Oh, is that so? Then when can you guys come?
+Speaker1: Can we come between 9am and 11am tomorrow morning?
+Speaker2: Okay, I was at home at that time.
+Speaker1: Okay, let's meet tomorrow, if there are any changes, I will notify you in advance.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact us anytime. Goodbye!
+Speaker2: Goodbye!

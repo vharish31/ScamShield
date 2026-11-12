@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the e-commerce platform. Your shopping points will be cleared at midnight tonight if you don't use them before then. You haven't redeemed them yet, this is a discount of 4,000 yuan.
+Speaker2: Oh, is that so? I didn't notice, can I still exchange now?
+Speaker1: Of course, I just sent you a free exchange SMS, you should open it quickly, there are many products to choose from, such as liquor, supermarket, phone, etc.
+Speaker2: Okay, I'll take a look. How do these points come?
+Speaker1: These points are the ones you earned by shopping on our platform and got as a reward when you recharged, many users have already used them to buy a lot of products and save a lot of money, so you haven't moved yet.
+Speaker2: Originally, I looked at what suitable products there were.
+Speaker1: You have 26,800 points on your account, which can be exchanged for a 4,000 yuan product. You must use them up by 12 am tonight, otherwise they will be cleared.
+Speaker2: I understand, thank you for reminding me, I will handle it quickly.
+Speaker1: No problem, if you have any questions, please contact me anytime, hope you enjoy shopping!
+Speaker2: Okay, thank you, bye.

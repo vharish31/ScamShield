@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li Wenbo?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative at JD Finance, Li Wenbo, did you recently apply for a loan on our platform?
+Speaker2: Didn't I apply for a loan?
+Speaker1: Oh, that's right, I do have your application record here. Would you like to know more about our no-collateral, quick-loan service?
+Speaker2: I really need a capital rotation, but how to apply?
+Speaker1: Hello, Professor Li Wenbo, just click on this link and fill in the relevant information, and we will quickly review your data.
+Speaker2: Link? I didn't receive it.
+Speaker1: "Hey, it might be an issue with our system, I'll send you a text message, just pay attention to check it out, there'll be a link in it."
+Speaker2: Okay, I'll wait for a text message.

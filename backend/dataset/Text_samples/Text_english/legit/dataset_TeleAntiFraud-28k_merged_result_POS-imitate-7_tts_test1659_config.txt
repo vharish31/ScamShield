@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any new sports shoes here?
+Speaker2: Okay, we just got a new batch. What color do you want?
+Speaker1: Can I see the picture?
+Speaker2: Okay, just a moment, I'll send it to you now.
+Speaker1: Okay, thank you.
+Speaker2: No problem, this is the picture, please check it. What do you think?
+Speaker1: Great, can you tell me how much it costs?
+Speaker2: The price of this sports shoe is 450 yuan, and now there is a 90% discount when buying.
+Speaker1: Can I order now?
+Speaker2: Of course, I can help you with that. Please provide your address information.

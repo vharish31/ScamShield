@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, this is Huaxia Bank. I saw you applied for a loan with us before, and now we have a new low-interest loan product, the loan amount is 30,000, do you have any recent funding needs?
+Speaker2: "Hmm, I can handle it now, but if there's a lower interest rate, I might consider it."
+Speaker1: That's great, that's our advantage. To verify your information, I need you to provide your ID number and bank card number, we'll review it in the background.
+Speaker2: Okay, my ID number is 123456789012345678, and my bank card number is 62220812345678901234.
+Speaker1: Thank you for your cooperation. We will process it quickly. Additionally, to ensure your financial safety, please click on the link we send to complete identity verification. This link will be sent to your phone immediately.
+Speaker2: Okay, I'll check my phone later.
+Speaker1: There's one more thing, since this is our bank's internal trial project, you need to download our exclusive app, so we can better serve you.
+Speaker2: Okay, what should I do after downloading it?
+Speaker1: After downloading the app, register and log in with your phone number. Then, on the first page, click on "Loan Application" and follow the instructions. If you have any questions, feel free to contact me anytime. My phone number is 13812345678.
+Speaker2: Okay, thank you for your help. I will handle it quickly.

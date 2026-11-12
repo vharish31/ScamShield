@@ -1,0 +1,10 @@
+Speaker1: Hello, you are Li Ming, a customer service representative from Guangfa Bank. Your credit record looks good. We can provide you with a low-interest loan.
+Speaker2: Hello, I don't need a loan.
+Speaker1: Okay, I understand that you currently have no requirements. However, our loan products are very flexible, so if you have any future funding needs, feel free to contact us anytime.
+Speaker2: Okay, thank you.
+Speaker1: Additionally, we have a special promotion, just download our app and register to enjoy more services. Are you interested in learning more?
+Speaker2: Do you want to download the app?
+Speaker1: Yes, our app is very convenient, you can quickly apply for a loan, check the loan progress, and also enjoy more financial products.
+Speaker2: How do I download it?
+Speaker1: It's very simple. You can click on the link I sent, and directly download our official app.
+Speaker2: Okay, I'll try.

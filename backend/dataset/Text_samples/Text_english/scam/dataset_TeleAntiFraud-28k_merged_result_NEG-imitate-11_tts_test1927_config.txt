@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the JD customer service center, I am customer service representative Lee Huai, you recently purchased a phone on our platform and have a quality issue, we plan to process a refund for you.
+Speaker2: Really? That's great, I'm really worried about this issue.
+Speaker1: Yes, in order to ensure your rights, we need you to provide us with your purchase order number and your current phone number, so we can verify the information.
+Speaker2: Okay, my order number is 20230401123456, my phone number is 13812345678.
+Speaker1: Okay, we have recorded your information. Please click on this link and fill out the refund application form, we will process it quickly.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Thank you for your cooperation. If you have any questions, please directly contact me. My phone number is 4001234567.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, wish you happy life, bye.
+Speaker2: Goodbye.

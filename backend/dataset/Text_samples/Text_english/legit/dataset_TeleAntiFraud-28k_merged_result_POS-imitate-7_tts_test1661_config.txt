@@ -1,0 +1,12 @@
+Speaker1: Hello, are you here to consult about finding a room with little king?
+Speaker2: Hi, what can I help you with?
+Speaker1: Can you tell me the specific location of your housing?
+Speaker2: On Happiness Road No. 3, near the park, the surrounding environment is quite good.
+Speaker1: Are there any facilities nearby, such as supermarkets or hospitals?
+Speaker2: Yes, there's a big supermarket next door and several hospitals, life is very convenient.
+Speaker1: How much is the rent for the room?
+Speaker2: One thousand five hundred yuan per month, including water and electricity fees.
+Speaker1: How do you calculate the deposit?
+Speaker2: The deposit is one month's rent, and if the house is not damaged upon checkout, it can be fully returned.
+Speaker1: Can we chat in detail on WeChat?
+Speaker2: Sure, send me your WeChat, I'll add you.

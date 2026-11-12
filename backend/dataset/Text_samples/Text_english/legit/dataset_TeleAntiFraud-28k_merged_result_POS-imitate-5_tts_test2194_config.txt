@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your appointment service.
+Speaker2: Hello, I'm very happy to serve you. What aspect of the reservation service would you like to know about?
+Speaker1: Can I make a weekend haircut appointment?
+Speaker2: Of course, our haircut service time on weekends is from 10 am to 7 pm. What time slot would you like to book?
+Speaker1: I hope to make a reservation for 3 pm on Saturday.
+Speaker2: Okay, the time slot on Saturday afternoon at three o'clock exists. Could you please provide your name and contact information?
+Speaker1: My name is Zhang Wei, phone number is 134567890.
+Speaker2: Okay, Mr. Zhang Wei, we have already reserved a haircut for you on Saturday afternoon at 3 pm. Please arrive ten minutes early.
+Speaker1: Okay, thank you for your reminder. What else do I need to prepare in advance?
+Speaker2: No need to prepare anything special, just arrive on time. If you have special hair requirements, please inform me in advance, we will do our best to meet your needs.
+Speaker1: Okay, that's all I need. Thank you for your help.
+Speaker2: You're welcome, please feel free to contact us if you have any questions. We're looking forward to your visit, goodbye!

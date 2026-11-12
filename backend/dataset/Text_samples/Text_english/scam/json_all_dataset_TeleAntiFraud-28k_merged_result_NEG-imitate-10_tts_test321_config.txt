@@ -1,0 +1,10 @@
+Speaker1: Hello, I am Lee Manager, this is Shenzhen Bank, based on your qualifications, we have a loan product that is very suitable for you, can be quickly approved, no collateral, low interest rate, are you interested in learning more?
+Speaker2: Hello, Li Manager, I recently have some capital rotation needs, can you give me detailed introduction?
+Speaker1: Of course, you just need to provide some basic personal information, and we can open a personal loan account for you. Moreover, we have a special promotion, just click on this link to apply directly.
+Speaker2: Okay, how do I click this link? I'm not very familiar with these operations.
+Speaker1: Don't worry, I will guide you. Open your phone browser, input this website: www.szbank-loan.com, and follow the page instructions to proceed.
+Speaker2: Okay, let me try.
+Speaker1: Hello, if you have any issues during the operation process, please feel free to contact me at any time. Moreover, for your account safety, we recommend downloading our official app, which makes it more convenient to manage your loan.
+Speaker2: Okay, I will download it. Do I need to provide any more information?
+Speaker1: You just need to provide your ID, business license, and bank statement. If all the information is complete, we can complete the approval as soon as possible on the same day.
+Speaker2: I understand, thank you for your help, Li manager.

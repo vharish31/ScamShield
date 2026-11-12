@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Ming, do you guys still hire people?
+Speaker2: Hello, Xiaoming, we are currently short-staffed, are you coming for an interview?
+Speaker1: Yes, I saw your job information, and I want to know more about the specific work content.
+Speaker2: Okay, we mainly do delivery for takeout, the work hours are quite flexible, do you have any relevant experience?
+Speaker1: I used to do some things on other platforms, mainly Meituan.
+Speaker2: That's great, what time is it convenient for you to come for an interview?
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Sure, come to our store at 3 pm tomorrow directly and find me there.
+Speaker1: Okay, is the address on Wanda Street?
+Speaker2: Yes, just in the back street of Wanda, you arrived to call me.

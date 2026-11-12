@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you have any restaurant recommendations for two people here?
+Speaker2: Of course, what type of cuisine do you want to eat?
+Speaker1: We want to eat Sichuan cuisine, spicy a little.
+Speaker2: Okay, there's a Sichuan cuisine restaurant nearby called Lao Wei Xuan, the taste is great, and the environment is not bad.
+Speaker1: Do you know the business hours of the spicy restaurant?
+Speaker2: The business hours of the spicy restaurant are from 11 am to 10 pm. You should be fine now that you've passed that time.
+Speaker1: Okay, thank you. Do you need to make an appointment?
+Speaker2: They need to make reservations when their family is more crowded on weekends. Today is a workday, so you can directly go there, and there should be a place.
+Speaker1: Okay, let's just go directly, thank you for your recommendation.
+Speaker2: No problem, I hope you enjoy your meal. Goodbye!

@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little Zhang, can you help me carry something today?
+Speaker2: Hey, little Zhang, of course you can, what do you need?
+Speaker1: Can you bring me two cups of coffee to the company?
+Speaker2: Sure, do you know which coffee shop has good coffee?
+Speaker1: There's a coffee shop nearby called "Coffee Time Memory", their latte is particularly good.
+Speaker2: Okay, do you want to add sugar or milk?
+Speaker1: Add sugar, I like a little sweet.
+Speaker2: Okay, noted. What time do you want it sent to?
+Speaker1: It's best if I can be there by 11:30, I'm a bit urgent.
+Speaker2: No problem, I will deliver on time, pay attention to safety on the road.
+Speaker1: Thank you, you really helped a lot.

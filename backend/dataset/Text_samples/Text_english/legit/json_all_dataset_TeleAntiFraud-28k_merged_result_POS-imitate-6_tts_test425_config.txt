@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I am a customer service representative for the Touzi Pig platform. You previously booked a housekeeping service on our platform, but for some reason, the service was not completed successfully.
+Speaker2: Oh, what happened?
+Speaker1: That's it. The housekeeper couldn't reach us because of an emergency, so we couldn't complete the service.
+Speaker2: What should we do now?
+Speaker1: We are very sorry for the inconvenience we have caused you, now you can reschedule a service for you or choose a refund, which one is more convenient for you?
+Speaker2: Let's reschedule it, but I need to check my schedule this week first.
+Speaker1: Okay, can you tell me your free time this week?
+Speaker2: I should have some time on Thursday afternoon, around 3 to 5 PM.
+Speaker1: Okay, can I help you book a service from 3 pm to 5 pm on Tuesday? Are there any other things you need?
+Speaker2: No more, thank you for your help.
+Speaker1: You're welcome. If you have any questions later, feel free to contact our customer service anytime. Goodbye.
+Speaker2: Goodbye.

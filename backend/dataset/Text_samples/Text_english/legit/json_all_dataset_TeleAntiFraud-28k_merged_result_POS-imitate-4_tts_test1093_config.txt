@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, this is the happy restaurant, right? You ordered food here before, right?
+Speaker2: Hey, yes, hello, little Li, what's up?
+Speaker1: So, our restaurant recently introduced several new dishes, do you want to try them?
+Speaker2: What are the new dishes that sound good?
+Speaker1: We have newly introduced spicy chicken with Sichuan peppercorns, steamed cod with ginger and scallions, and fragrant basil with garlic, all of which taste great.
+Speaker2: The spicy chicken sounds good, the flavor of the chicken I ordered last time was very good.
+Speaker1: That's great, spicy chicken is our new signature dish, you can try it.
+Speaker2: Okay, let's have a spicy Sichuan chicken, and then a ginger and lemongrass dish.
+Speaker1: Okay, I will process your order quickly. It will be delivered in about 30 minutes. Do you need anything else?
+Speaker2: No more, just these, thank you.

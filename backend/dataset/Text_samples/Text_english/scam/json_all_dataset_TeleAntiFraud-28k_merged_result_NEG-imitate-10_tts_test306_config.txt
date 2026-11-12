@@ -1,0 +1,18 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Hey, it's me, who are you?
+Speaker1: I am a customer service representative at Commercial Bank, and we need to complete some paperwork on your previously applied loan.
+Speaker2: Uh, is that so? What do we need to do now?
+Speaker1: Okay, please verify your personal information and then complete the final confirmation on our app.
+Speaker2: How do I operate a small program?
+Speaker1: Open WeChat, search for "工商银行贷款确认", you'll see a red avatar small program, click to enter.
+Speaker2: Okay, I'll try.
+Speaker1: Okay, after entering the small program, click continue to go forward, then log in your account, enter your phone number and verification code.
+Speaker2: Okay, let's try.
+Speaker1: After logging in, you will see a confirmation page for the loan, click confirm, and then follow the instructions.
+Speaker2: Okay, I see it, do you need to input your bank card number?
+Speaker1: Yes, enter your bank card number, then enter the verification code, confirm no mistakes and click submit.
+Speaker2: Okay, I submitted it.
+Speaker1: Okay, after submission we will quickly review, and if approved, the loan will be directly credited to your card.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have other questions, my work number is 9786.
+Speaker2: Okay, I understand.

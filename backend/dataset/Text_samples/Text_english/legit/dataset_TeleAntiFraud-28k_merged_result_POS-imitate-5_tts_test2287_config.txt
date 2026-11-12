@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there? Did you find that place?
+Speaker2: Hey, hello, I just arrived, but I can't find the entrance, can you tell me again?
+Speaker1: Okay, did you see the big billboard in front?
+Speaker2: Can you see it? It's that big and obvious one?
+Speaker1: Okay, if you walk to the left of the billboard, you will see a small door, which is the entrance.
+Speaker2: Okay, I'll go take a look, thank you.
+Speaker1: No problem, if you have any more questions, give me a call.
+Speaker2: Okay, okay. I arrived. Contact me again.
+Speaker1: Be careful on the road, goodbye.
+Speaker2: Goodbye.

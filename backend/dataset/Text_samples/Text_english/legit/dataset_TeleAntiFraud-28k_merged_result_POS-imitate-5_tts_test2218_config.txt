@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help with?
+Speaker1: Hey, I see a Huawei phone over there. Can you give me a detailed introduction?
+Speaker2: Of course. This Huawei phone is the latest model, the configuration is very high, the camera pixel is also very good, it's very suitable for taking photos and video calls.
+Speaker1: What is the price?
+Speaker2: This phone costs 3800 yuan, there's a full discount activity now.
+Speaker1: Is there a warranty service?
+Speaker2: Yes, we provide a one-year warranty service, any quality issues can be repaired for free.
+Speaker1: How long will it take to deliver if I buy online?
+Speaker2: In general, after placing an order, it will be delivered within two days. If the location is remote, there may be a delay of one to two days.
+Speaker1: Great, I'm within your delivery range.
+Speaker2: You don't need to worry anymore, we will arrange delivery as soon as you place an order.

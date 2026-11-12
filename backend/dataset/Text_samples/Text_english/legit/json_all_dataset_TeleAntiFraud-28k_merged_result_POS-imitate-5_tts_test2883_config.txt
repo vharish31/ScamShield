@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how have you been lately?
+Speaker1: Hello, how have you been lately?
+Speaker2: I agree, but it's okay, the weather has been good lately, I plan to go out and play on the weekend.
+Speaker1: Great idea! The weather forecast says it will be clear this weekend, perfect for outdoor activities.
+Speaker2: Do you have any recommendations for places?
+Speaker1: You can go to the Peach Blossom Town in the Amusement Park, the peach blossoms are open there, the scenery is very beautiful.
+Speaker2: Does the traffic there sound good?
+Speaker1: Convenient, you can directly take the bus, also take a taxi, about half an hour's journey.
+Speaker2: That's great, I plan to go to the park on Saturday morning. Do you have time to go with me?
+Speaker1: I have something to do on Saturday morning. Is it okay if we meet at the door of Tao Hua Zhen at 2 pm on Saturday afternoon?
+Speaker2: Okay, let's meet at two in the afternoon, bring the camera, take some photos.
+Speaker1: Okay, no problem, see you later.

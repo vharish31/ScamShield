@@ -1,0 +1,10 @@
+Speaker1: Hello, is this Zhang Wei?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative from Commercial Bank, I have a great loan product to introduce to you, the monthly interest rate is very low, only 2.5%, do you have any recent cash flow needs?
+Speaker2: Oh, really? I really need some money lately.
+Speaker1: Great, our product is very suitable for you. However, in order to speed up the approval process, we need you to provide some personal information, including your identity card number and bank account information.
+Speaker2: So, how can I know if you guys are real?
+Speaker1: We are a legitimate bank, you can rest assured. If you're not convenient to communicate via phone, you can add my WeChat, I'll send you our official documents.
+Speaker2: Okay, let me add you on WeChat.
+Speaker1: Okay, my WeChat is 13812345678, add me after and I'll send you relevant info.
+Speaker2: Okay, I'll add you soon.

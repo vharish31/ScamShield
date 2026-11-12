@@ -1,0 +1,10 @@
+Speaker1: Hello, I am small Li, from Huaxin Technology, our company specializes in providing consulting and sales services for the latest technology products.
+Speaker2: Hello, what can I help you with?
+Speaker1: We recently launched a very popular smartwatch that not only monitors your health status but also has many other practical functions.
+Speaker2: That sounds good, but I already have one.
+Speaker1: This smartwatch has a special feature, it can connect to a specific app, this app can help you better manage your health data, and also participate in our health challenge activities, win prizes.
+Speaker2: Really? Then how can I participate?
+Speaker1: It's very simple. Just click on the link we send you, download our app, register and buy the wristband, and you can start enjoying our services.
+Speaker2: Okay, I'll think about it.
+Speaker1: Okay, I'll send you the link now. Please check it out as soon as you receive it. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me? I'm the customer service of an e-commerce platform. Your accumulated shopping points on your account will be cleared at midnight tonight. What are you still doing without spending them?
+Speaker2: Really? I still don't know what's going on. Can you help me use these points?
+Speaker1: You can enter the exchange page by clicking on the link sent by us through SMS, select your favorite products, and use your points to redeem cash.
+Speaker2: Can I see how much cash I can deduct specifically?
+Speaker1: Of course, after you enter the exchange page, the specific amount of discount that can be redeemed with your points will be displayed below each product.
+Speaker2: Okay, I'll go take a look now. Thanks for the reminder.
+Speaker1: No problem, please exchange quickly to avoid missing out. If you have any other issues, feel free to contact us.
+Speaker2: Okay, I understand. Thank you.
+Speaker1: You're welcome! Have a nice shopping trip. Bye!
+Speaker2: Goodbye!

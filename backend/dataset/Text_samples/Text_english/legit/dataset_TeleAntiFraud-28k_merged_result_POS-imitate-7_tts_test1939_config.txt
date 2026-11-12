@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you, what do you have to do?
+Speaker1: Can you please tell me your restaurant's business hours?
+Speaker2: Of course, our restaurant opens at 10 am in the morning and closes at 10 pm in the evening. On weekends, we extend our business hours to 11 pm. Do you need to reserve a seat?
+Speaker1: Okay, I want to reserve a seat for two people at 7:30 PM tomorrow night.
+Speaker2: Okay, tomorrow at 7:30 PM, two people, reservation successful! Do you have any special dietary requirements, such as being vegetarian or having an allergy to certain foods?
+Speaker1: No particular requirements, but my friend likes spicy, do you have spicy food recommendations?
+Speaker2: We have several spicy signboards, such as ma la xiāng gǎo and shuǐ niú ròu, both very popular, we recommend you can try.
+Speaker1: The sound is good, let's try it out later. Also, do you provide free parking service?
+Speaker2: Yes, there is a small parking lot behind the restaurant, which is free for customers to use. If you can't find a parking spot when you arrive, please contact the staff, and we will assist you.
+Speaker1: Goodbye, see you tomorrow. Thank you for your help.
+Speaker2: You're welcome, see you tomorrow, looking forward to your arrival!

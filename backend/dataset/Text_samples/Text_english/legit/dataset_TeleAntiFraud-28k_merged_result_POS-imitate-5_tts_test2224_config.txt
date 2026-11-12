@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you still hiring servers at your store?
+Speaker2: Yes, we are currently recruiting servers, are you interested in this position?
+Speaker1: Hmm, that's quite interesting. How many people did you recruit?
+Speaker2: We plan to hire three people for this occasion, mainly responsible for greeting guests and serving food.
+Speaker1: What is the working hours like?
+Speaker2: Work hours are from 8am to 9pm, with a break in between, details can be discussed.
+Speaker1: Do you have any arrangements for lodging?
+Speaker2: We provide accommodation, usually two people per room, the living conditions are not bad.
+Speaker1: Okay, can I go to the interview tomorrow?
+Speaker2: Can you, what time is convenient for you tomorrow?
+Speaker1: I can go at 2 pm.
+Speaker2: Okay, see you tomorrow at 2 pm, remember to bring your ID.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

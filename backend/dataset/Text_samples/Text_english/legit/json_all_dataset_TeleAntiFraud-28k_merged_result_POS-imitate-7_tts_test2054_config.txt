@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I saw your job posting for customer service specialist on 58.com and am interested in learning more.
+Speaker2: Hello, yes, we are recruiting customer service staff, are you applying for this position?
+Speaker1: Yes, I want to know more about the specific requirements and work content of this position
+Speaker2: Okay, our customer service representatives mainly handle customer inquiries, process customer issues, record customer needs and feedback, and require good communication skills and patience.
+Speaker1: Does this job require work experience?
+Speaker2: We welcome applicants with relevant work experience, but if you are a graduating student, we will also consider, as long as you are willing to learn and work hard.
+Speaker1: Alright, what are your working hours and salary conditions like?
+Speaker2: We implement a shift system, working eight hours a day and rotating shifts once a week, with a base salary of four thousand yuan and performance-based bonuses, resulting in an average monthly income of five thousand yuan or more.
+Speaker1: Do you have any training to provide?
+Speaker2: Yes, we will provide a one-week onboarding training for new employees to help you quickly familiarize yourself with the workflow and company culture.
+Speaker1: Okay, thank you for your detailed introduction. I will consider it and decide if I want to come for an interview.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, looking forward to your joining.

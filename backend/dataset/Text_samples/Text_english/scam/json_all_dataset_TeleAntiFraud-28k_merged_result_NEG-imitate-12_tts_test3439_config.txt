@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Wei?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative of the express company, my number is one two three four, we have your package here, but due to some issues, we need you to cooperate and handle it a little.
+Speaker2: What problem?
+Speaker1: Your package was damaged during transportation. We need your bank account to reimburse the cost.
+Speaker2: Okay, what do I need to do?
+Speaker1: To speed up processing, please click on the link we sent you and fill out the relevant information. We will process your compensation claim quickly.
+Speaker2: Okay, I'll handle it later.
+Speaker1: Okay, thank you for your cooperation. If you have any questions, please call our customer service at any time. The number is 4001023456. Thank you again, wish you a happy life.
+Speaker2: Thank you, goodbye.

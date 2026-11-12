@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask, do you have that kind of small steamer basket there?
+Speaker2: Yes, our small buns here are very popular.
+Speaker1: Are you open now?
+Speaker2: We are currently open for business, our business hours are from 8 am to 9 pm.
+Speaker1: Okay, can I reserve a spot for four people?
+Speaker2: Of course, what time would you like to book?
+Speaker1: About two in the afternoon.
+Speaker2: Okay, I have reserved a 2 pm spot for you. Remember to be on time.
+Speaker1: Okay, thank you. Can I order directly at the time?
+Speaker2: You can come directly to order after you arrive, our waiter will serve you.

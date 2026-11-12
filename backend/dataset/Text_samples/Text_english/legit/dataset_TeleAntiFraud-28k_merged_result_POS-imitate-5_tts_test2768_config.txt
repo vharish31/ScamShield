@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: How have you been lately?
+Speaker2: Okay, just work is a bit busy. You?
+Speaker1: Yeah, I've got a lot of projects lately.
+Speaker2: How is your project progressing?
+Speaker1: It's still going smoothly, but the pressure is a bit big.
+Speaker2: Understand, this kind of time definitely should take care of yourself.
+Speaker1: Thank you for your concern, I will pay attention.
+Speaker2: Hey, wanna hang out and relax together sometimes?
+Speaker1: Great idea, how was your weekend?
+Speaker2: What do you want to do this weekend?
+Speaker1: Have you heard that a new coffee shop has opened? The environment is great, let's go try it out?
+Speaker2: Great, I've heard about that coffee shop too. Let's go try it out.
+Speaker1: Okay, that's settled. See you this weekend.
+Speaker2: Okay, see you this weekend, contact me then.

@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Liu?
+Speaker2: Hello, I am.
+Speaker1: I am a customer service manager at Agricultural Bank, we noticed your company recently has some cash flow needs, we have a loan product that is very suitable for you with a low interest rate.
+Speaker2: Oh, really? I'm really a bit tight-handed right now.
+Speaker1: Yes, this loan product is very suitable for you, and the application process is very simple, just need you to provide some basic information.
+Speaker2: How do I apply?
+Speaker1: You can click on the link I send to you, download our official app, and then follow the instructions to complete the application quickly.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you have any issues during the operation, feel free to contact me anytime.
+Speaker2: Thank you, I will contact you.
+Speaker1: You're welcome, wish your business prosperity, goodbye.
+Speaker2: Goodbye.

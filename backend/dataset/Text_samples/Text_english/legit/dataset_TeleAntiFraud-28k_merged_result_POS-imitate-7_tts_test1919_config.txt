@@ -1,0 +1,9 @@
+Speaker2: Hey, how are you?
+Speaker1: Did you arrive? I didn't see you at the subway station.
+Speaker2: I just arrived, there might be a slight deviation in the location, please wait for me a moment, I'll look for you.
+Speaker1: Okay, come over here, I can see you.
+Speaker2: Oh, I see you, you are on the right side of the subway entrance, right?
+Speaker1: Yes, just on the right, there are more people, be careful.
+Speaker2: Okay, I'll be careful, I'll be there soon.
+Speaker1: You arrived, I'm waiting for your call.
+Speaker2: Okay, see you later.

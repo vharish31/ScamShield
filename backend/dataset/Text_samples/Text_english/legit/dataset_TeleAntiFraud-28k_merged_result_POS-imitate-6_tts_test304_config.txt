@@ -1,0 +1,10 @@
+Speaker1: Hey, how come the stuff I bought at your store hasn't arrived yet?
+Speaker2: Hello, I am a customer service representative. Can I help you with a query? Could you please provide an order number?
+Speaker1: Okay, the order number is 123456789.
+Speaker2: Okay, I'll check... Your order has already been shipped, and it's estimated to arrive tomorrow afternoon.
+Speaker1: That's great, thank you. By the way, do you have any activities in your store recently?
+Speaker2: Yes, we are currently conducting a full-reduction activity, buy 200 and get 50 off, and some products are on sale for 80% off. You can come take a look.
+Speaker1: The sound is good, I'll go shopping later. There's another question, what's your return policy?
+Speaker2: Our return policy is seven-day no-reason return, products must be kept in original packaging, does not affect secondary sales.
+Speaker1: Okay, thank you for your patience in answering, I feel more relaxed now.
+Speaker2: You're welcome, feel free to ask any questions anytime. Have a great shopping!

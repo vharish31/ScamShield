@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Are you Liu Xiaolong? Did a colleague just say they wanted to contact you, and have you received the phone call yet?
+Speaker2: Oh, I got it, it's about that repair thing, right?
+Speaker1: Okay, okay, that's this matter, did you take good photos on your side?
+Speaker2: Hmm, all good now, seems like no big issue.
+Speaker1: Okay, we'll register it first on this side, and if there's any further check needed, we'll notify you.
+Speaker2: How long after registering will there be a result?
+Speaker1: In general, we will complete the initial check within three workdays and then contact you.
+Speaker2: I understand, thank you for your help.
+Speaker1: No problem, if you have other questions, feel free to call this number to contact us anytime.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

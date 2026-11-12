@@ -1,0 +1,9 @@
+Speaker2: Hello, are you there?
+Speaker1: Hey, are you at home? I just arrived at the community gate, can you come down to pick me up?
+Speaker2: Okay, I'll come down right away. Wait for me a moment.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: You're wearing something warm, it's a bit cold today.
+Speaker1: Okay, you also wear some more.
+Speaker2: Okay, I'll be there in a while.
+Speaker1: Be careful on the road.
+Speaker2: Okay, see you later.

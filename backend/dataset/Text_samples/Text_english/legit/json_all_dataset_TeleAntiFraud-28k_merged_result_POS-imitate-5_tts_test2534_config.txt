@@ -1,0 +1,12 @@
+Speaker1: Hello, are you happy little chef? Do you have a reservation?
+Speaker2: Hello, I haven't reserved yet, can you tell me about your room situation?
+Speaker1: Okay, we have different sized rooms here that can accommodate 4 to 20 people for a banquet, what size do you need?
+Speaker2: We are six people, planning to have a weekend feast.
+Speaker1: Okay, a six-person conversation is perfect for our small private room, the environment is very comfortable.
+Speaker2: What's the price?
+Speaker1: The room fee is 200 yuan, but if you spend over 1000 yuan, the room fee will be waived.
+Speaker2: What time do we arrive?
+Speaker1: Would six thirty be convenient for you? There aren't many people here at that time, so you can have a better dining experience.
+Speaker2: Okay, let's set six and a half, thank you.
+Speaker1: Okay, I'll book it for you now. Just say your name when you arrive.
+Speaker2: Okay, thank you, see you later.

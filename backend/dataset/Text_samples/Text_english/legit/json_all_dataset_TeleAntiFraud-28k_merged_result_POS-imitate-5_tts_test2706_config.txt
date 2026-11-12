@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, yesterday I saw a phone on your website that I liked, I want to know more about the specifics.
+Speaker2: Hello, little king, I am customer service representative little Li, very happy to serve you. What specific phone do you want to know about?
+Speaker1: That's the new blue version, I saw on the web that you guys have it in stock.
+Speaker2: Yes, we do have the blue version of this phone, and our current stock is still quite sufficient. What information about this phone would you like to know?
+Speaker1: What is its price and delivery time? Approximately how long will it take to arrive?
+Speaker2: This phone costs 3500 yuan, if you order now, we will arrange delivery within 24 hours, usually it takes 2-3 days to arrive.
+Speaker1: If I order today, when can I receive it?
+Speaker2: If you place an order today, we will arrange for shipping tomorrow morning and estimate delivery for tomorrow or the day after tomorrow.
+Speaker1: Okay, I'll place an order today. Also, do you have a price guarantee service? If the price drops, what should I do?
+Speaker2: We provide a 30-day price guarantee service. If the product you bought drops in price within 30 days, you can contact our customer service to apply for a price difference refund.

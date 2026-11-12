@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: I want to consult your repair service here, my washing machine is broken.
+Speaker2: Okay, we can provide washing machine repair service here. Can you tell me specifically what the problem is?
+Speaker1: The main thing is not to drain water, it feels like it's blocked.
+Speaker2: Understood, in this situation we usually send a repairman over to check it out, which takes about half an hour or so.
+Speaker1: When is it convenient for you to come over, Master?
+Speaker2: Is it convenient for you to be there from 10 am to 12 pm tomorrow?
+Speaker1: Okay, I've been at home all this time.
+Speaker2: Okay, so our master will arrive on time at your home, please leave your address and contact information.
+Speaker1: My home address is Happiness Villa No. 3, Unit 2, Room 401, Phone: 13500000000.
+Speaker2: Okay, I have recorded it. If there are any changes, we will contact you in advance.
+Speaker1: Thank you, I'll wait for you master.
+Speaker2: You're welcome. Feel free to contact us anytime if you have any questions. Goodbye.
+Speaker1: Goodbye.

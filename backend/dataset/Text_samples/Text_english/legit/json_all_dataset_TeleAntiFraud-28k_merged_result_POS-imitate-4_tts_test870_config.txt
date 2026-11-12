@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What can I help you with?
+Speaker1: Can your restaurant have a vegetarian menu?
+Speaker2: Yes, we have a special vegetarian menu here with many options. Would you like to take a look?
+Speaker1: Sure, can you introduce yourself?
+Speaker2: Of course. We have vegetarian salads, vegetarian pizzas, and also vegetarian spring rolls, all of which are very popular.
+Speaker1: Sounds good, are you open for business today?
+Speaker2: Yes, we are open today. Our business hours are from 11 am to 9 pm.
+Speaker1: Okay, I'll probably be there around six in the evening. Do I need to make a reservation in advance?
+Speaker2: If you're convenient, please book in advance. This way we can confirm a place.
+Speaker1: Okay, I'll reserve a two-person seat, thank you.
+Speaker2: Okay, I have booked it for you, see you later.

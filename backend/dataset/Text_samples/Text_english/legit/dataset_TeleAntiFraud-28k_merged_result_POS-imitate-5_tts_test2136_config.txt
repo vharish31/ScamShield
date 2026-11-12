@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your delivery service and what time it usually arrives?
+Speaker2: Of course, our delivery time is usually between thirty minutes and an hour after placing the order, depending on your location and the order quantity.
+Speaker1: How long will it take for my order to be delivered from the happy community?
+Speaker2: The estimated delivery time for the happy community is around 45 minutes, but there might be some traffic on the road, so we'll do our best to deliver it as soon as possible.
+Speaker1: Okay, now I'm placing an order.
+Speaker2: Okay, you can place an order through our app or tell me what you want to order and I can help you place it.
+Speaker1: I want to order a beef stir-fry and a sweet and sour pork ribs, and a glass of iced tea.
+Speaker2: Okay, your order has been recorded. The total is 35 yuan. We will prepare it quickly. What is your contact number so we can have the delivery person contact you?
+Speaker1: My phone number is 1381236567.
+Speaker2: Okay, 1381236567, we will notify the delivery guy and contact you immediately, approximately 45 minutes later it will arrive at the Happy Village community. If you have any questions, you can contact us anytime.

@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, where are you?
+Speaker1: Stand near the exit of the subway station, you come from that side, then walk straight, turn left at the second crossroad, and you're there.
+Speaker2: Okay, I'll leave right away, should be there in a few minutes?
+Speaker1: It'll take about ten minutes to drive, but if there's a red light, it might take a little longer.
+Speaker2: Understood, my road condition is okay, I should arrive on time.
+Speaker1: Okay, I'll wait for you here, call me when you arrive.
+Speaker2: Okay, pay attention to safety on the road.
+Speaker1: You too, be careful on the road.

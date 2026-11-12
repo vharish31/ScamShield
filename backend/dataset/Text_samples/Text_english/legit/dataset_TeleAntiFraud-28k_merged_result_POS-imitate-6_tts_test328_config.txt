@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me how many rooms and apartments are in the house you posted on 58?
+Speaker2: It's a one-room one-hall apartment, 70 square meters, with good lighting.
+Speaker1: How much is the rent?
+Speaker2: Rent is one thousand two hundred yuan per month, three months' deposit.
+Speaker1: Is it possible to pay monthly?
+Speaker2: The monthly fee requires an additional payment of 100 yuan for management fees.
+Speaker1: Is there any furniture in that house?
+Speaker2: The house is fully decorated, equipped with basic furniture, including a bed, sofa and dining table.
+Speaker1: Can I go take a look at the house?
+Speaker2: Of course, can you come over at 10 am on Saturday this week?
+Speaker1: Okay, Saturday morning at 10 am, I will definitely arrive.
+Speaker2: Okay, see you later.

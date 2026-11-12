@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a loan officer from XX bank. We noticed that you have previously inquired about credit loan information.
+Speaker2: Is it?
+Speaker1: Yes, we have a special discount loan project now, the interest is very low, only need 0.02, no need for any collateral, are you interested in learning more?
+Speaker2: How do I apply?
+Speaker1: Great, just download our bank's official app and register an account. The application process is very simple and quick to complete.
+Speaker2: What information do I need to provide?
+Speaker1: Just provide your identity card information and some basic personal data, it's very convenient. If you download now, you can also enjoy additional discounts.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, after downloading, if you have any issues, feel free to contact me anytime. My phone number is 13800138000.
+Speaker2: Okay, thank you.

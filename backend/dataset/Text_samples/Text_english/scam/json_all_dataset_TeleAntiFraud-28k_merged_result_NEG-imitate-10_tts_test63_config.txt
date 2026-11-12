@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Xiao Zhang, the customer service at the East China Bank. We noticed that your credit card limit hasn't been used up. You might want to consider increasing your credit limit.
+Speaker2: Increase credit limit? How to increase?
+Speaker1: That's it, we have a special activity, just provide some personal information, and once approved, you can immediately increase your credit limit.
+Speaker2: What personal information do I need to provide?
+Speaker1: Our main concern is your identity card number, phone number, and bank account information, so we can confirm your identity.
+Speaker2: Is there an official website or app for this?
+Speaker1: Of course, you can click on the link I sent you and download our official app, it's very convenient to operate.
+Speaker2: Okay, let me try.
+Speaker1: Great, you can contact me anytime after downloading, and I'll help you with the relevant issues.
+Speaker2: Thank you, little Zhang.

@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to consult your family's delivery service.
+Speaker2: Hello, how can I help you?
+Speaker1: What is your delivery time?
+Speaker2: We usually deliver within 30 minutes to an hour after ordering, but the specific time may vary depending on the order quantity and weather conditions.
+Speaker1: How many days in advance do I need to place an order?
+Speaker2: I suggest you place your order one hour in advance to ensure timely delivery.
+Speaker1: If I want to expedite it?
+Speaker2: Please note that we will prioritize urgent matters as much as possible, but we cannot guarantee a complete solution.
+Speaker1: Understood, what payment methods do you support?
+Speaker2: We support WeChat Pay, Alipay and bank card payments. You can choose the convenient payment method.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, feel free to contact us anytime. Enjoy your meal!

@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm Xiaoming, how have you been recently?
+Speaker2: I'm good, Xiaoming, how about you? What have you been up to lately?
+Speaker1: I'm still busy with projects, lately I've been feeling a bit tired. What about you, have you had any new fresh things lately?
+Speaker2: Hello, I'm preparing a proposal for a new project. It's quite challenging. How's your project going?
+Speaker1: The progress is still going smoothly, but the tasks are a bit too many, and I have to work overtime every day. How is your proposal prepared on your side?
+Speaker2: The proposal is basically done, just waiting for the leader to review it last. How late do you have to work? Don't forget to take care of your body.
+Speaker1: Hey, usually it's around 10:30 pm. Thanks for your concern, you too!
+Speaker2: Let's do it! Do you have any free time this weekend? Let's go hiking together and relax a bit.
+Speaker1: The weekend sounds good, I should have some time off, so let's just decide, relax a bit.

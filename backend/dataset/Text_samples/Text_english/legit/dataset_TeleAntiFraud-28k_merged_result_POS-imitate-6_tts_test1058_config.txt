@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm little Zhang, I'm at the community door, how can I get to your house?
+Speaker2: Hello, walk straight along this road, turn left at the first red and green light, and then keep going until you reach the end, which is my apartment complex.
+Speaker1: Okay, what is your apartment number?
+Speaker2: Our apartment is number twelve. After you come in, just keep walking straight ahead until you reach the inside, then turn right.
+Speaker1: Okay, what is the number of that door?
+Speaker2: The house number is one two three.
+Speaker1: Okay, I know, so how long will it take me to get there?
+Speaker2: You drove for about ten minutes.
+Speaker1: Okay, I'll leave now and call you.
+Speaker2: Okay, be careful on the road, I'll call you later.

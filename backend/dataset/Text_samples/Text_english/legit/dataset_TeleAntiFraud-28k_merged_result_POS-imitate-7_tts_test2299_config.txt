@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: Hi, I'm little Li. We talked about that new phone last time, do you still want to know more about it?
+Speaker2: Hmm, okay, that phone I'm quite interested in, mainly because I want to know more about its navigation ability and camera performance.
+Speaker1: Okay, this phone comes with a 4500mAh large battery, which can easily reach two days of use with one charge. The camera is 48 million pixels on the back, and supports ultra-wide and macro photography.
+Speaker2: How much does it cost to sound good?
+Speaker1: This phone is currently on sale, the original price is three thousand eight hundred yuan, now only three thousand five hundred yuan.
+Speaker2: Hmm, the price is still okay. Do you guys have goods?
+Speaker1: We have enough stock of goods. If you place an order now, we can also give you a phone case and a protective film.
+Speaker2: Okay, I'll place the order now. When can you deliver it?
+Speaker1: Our delivery service will arrive tomorrow afternoon.
+Speaker2: Okay, let's do it this way. Thank you for your detailed introduction.
+Speaker1: You're welcome. If you have any questions, feel free to consult anytime. Wish you a happy life. Bye.
+Speaker2: Goodbye.

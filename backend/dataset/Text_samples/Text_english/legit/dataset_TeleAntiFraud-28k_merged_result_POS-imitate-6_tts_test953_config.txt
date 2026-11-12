@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, our fruit store just got a new batch of imported fruits, want to try some?
+Speaker2: Hey, little king, imported fruits? What kinds do you have?
+Speaker1: There are freshly imported kiwifruit from New Zealand, cherries from Chile, and durian from Thailand.
+Speaker2: How are the prices of these fruits?
+Speaker1: The price is very reasonable, for example, a carrot, now there is a special discount price of 40 yuan per kilogram.
+Speaker2: Forty yuan for a kilogram, that's worth considering.
+Speaker1: Sure, if you're interested, you can come to the store and take a look, or I can send it over to you.
+Speaker2: Let me go take a look first, where is the store?
+Speaker1: The store is at 100 Happiness Road, getting off the subway line 3 at Happiness Station is just there.
+Speaker2: Okay, I'll check it out this weekend, thanks for your recommendation.

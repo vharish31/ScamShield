@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hi, I'm a small Zhang living nearby. Do you have any available rooms for rent here?
+Speaker2: Hello, little Zhang. We really have several rooms for rent here, what do you specifically need?
+Speaker1: I need a short-term rental for a month, not too expensive, with an independent bathroom.
+Speaker2: Okay, we have a one-room apartment here, rent is 1500 yuan per month, with an independent bathroom, do you think it's suitable?
+Speaker1: Can I take a look at the room?
+Speaker2: Of course, when do you have time to come see the house?
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Sure, tomorrow afternoon at three o'clock, we'll meet at the door.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

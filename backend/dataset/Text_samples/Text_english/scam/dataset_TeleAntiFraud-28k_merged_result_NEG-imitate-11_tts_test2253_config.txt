@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm Lee Huai, this is the loan department of China Construction Bank.
+Speaker2: Hello, who are you?
+Speaker1: I am the Li Huajiang manager of China Xing Bank, we have a special low-interest loan product here that is very suitable for small business owners, are you interested in learning more?
+Speaker2: Oh, a loan, I'm a bit tight right now, but I can listen.
+Speaker1: Great, this product is very suitable for your situation, and the procedures are very simple, just provide some basic information.
+Speaker2: What information is needed?
+Speaker1: Please provide your ID, business license, and recent bank statements. We will have a specialist review your documents.
+Speaker2: The sound is good, but I'm not convenient to go out lately.
+Speaker1: This is not an issue. We have an online review channel, you can submit materials through our app, very convenient.
+Speaker2: APP? How to download?
+Speaker1: You can scan the QR code I send you or click on this link, it's very safe and convenient.
+Speaker2: Okay, let me try.

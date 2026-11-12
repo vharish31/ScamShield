@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm a resident of the community, and I want to ask if the property management can help me with my water pipe issue?
+Speaker2: Hello, of course, which building and which unit is your home?
+Speaker1: I live in apartment 2, unit 3, room 402.
+Speaker2: Okay, I'll note it down. Can you tell me your home phone number, so we can stay in touch?
+Speaker1: My home phone number is 6789123.
+Speaker2: Okay, 67890123, I noted it down. We will quickly arrange for a repairman to come over and check it.
+Speaker1: When will you arrive approximately?
+Speaker2: In general, we will arrange a maintenance technician to come to your home within two hours. We will call you in advance to confirm the time.
+Speaker1: Okay, that's all for you.
+Speaker2: No problem, this is what we should do. If there are any other issues, please feel free to contact us anytime.

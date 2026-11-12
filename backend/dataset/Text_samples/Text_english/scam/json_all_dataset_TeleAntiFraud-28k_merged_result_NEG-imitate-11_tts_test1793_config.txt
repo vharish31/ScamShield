@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you with Sequoia Express?
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we found out that your package may have been damaged during transportation, to protect your rights, we can apply for a full refund.
+Speaker2: Really? That's great, I recently had a package that I haven't received yet.
+Speaker1: Okay, to process the refund, I need you to provide me with your name, phone number, and bank card number, so that we can transfer the refund to your card.
+Speaker2: Okay, my name is Li Ming, my phone number is 13812345678, my bank card number is 6222 0801 2345 6789.
+Speaker1: Okay, Li Ming Xiāngshēng, I have already recorded your information. For security purposes, you need to input your phone verification code once. I will send a text message to the number you provided.
+Speaker2: Okay, I'm waiting.
+Speaker1: Okay, the verification code has been sent. Please check it. After you enter the verification code, we will immediately process your refund.
+Speaker2: Okay, I received it. The verification code is 123456.

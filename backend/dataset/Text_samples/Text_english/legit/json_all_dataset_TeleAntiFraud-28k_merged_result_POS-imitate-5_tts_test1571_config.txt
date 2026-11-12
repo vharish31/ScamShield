@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at the station exit yet?
+Speaker2: I arrived, I'm waiting for you at the big supermarket entrance.
+Speaker1: Is that the supermarket? I saw an eternal supermarket, is it there?
+Speaker2: Turn right at the first red light when you come out of the supermarket and walk to the left.
+Speaker1: Okay, I'll go that way, the road is a bit tough, wait for me a moment.
+Speaker2: No problem, I'm waiting here for you, be careful on the road.
+Speaker1: You're welcome, I'll probably need about ten minutes, why don't you find a place to rest for a bit first?
+Speaker2: Okay, take your time, I'm waiting for you at the supermarket entrance.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

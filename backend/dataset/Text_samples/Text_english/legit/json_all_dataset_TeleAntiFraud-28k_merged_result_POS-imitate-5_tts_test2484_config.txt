@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, can I ask about your store's business hours?
+Speaker2: Hello, little Li, our store opens at nine in the morning and closes at ten at night, no rest in between.
+Speaker1: Do you have delivery service?
+Speaker2: Yes, we can order through delivery platforms or directly call to reserve.
+Speaker1: Okay, what is the menu at this location?
+Speaker2: Our store's signboard menu is spicy pot and red braised pork, many customers have ordered, the evaluation is very good.
+Speaker1: Sounds good, can I make a reservation for Saturday at your store to eat?
+Speaker2: It's usually more crowded on Saturdays. It's recommended to make a reservation in advance to ensure a seat.
+Speaker1: Okay, can I reserve two people for Saturday evening at 7 pm?
+Speaker2: Okay, I have successfully reserved for you, on Saturday evening at 7 pm, see you then.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I saw a phone on your website that I'm interested in learning more about.
+Speaker2: Hello, I'm very happy to serve you. Which phone model are you looking for?
+Speaker1: That's the one you recommended on your homepage, black, looks like it has four cameras.
+Speaker2: Oh, you're talking about our new smartphone, black version, with four rear cameras. This phone's camera is excellent, very suitable for photography enthusiasts.
+Speaker1: What is the price of this phone?
+Speaker2: This phone is priced at 3500 yuan, there's currently a promotion, you can enjoy a 100 yuan discount.
+Speaker1: Hey, does this phone have any in stock, I plan to buy one recently.
+Speaker2: Yes, this phone is currently in stock, and we will ship it to you within twenty-four hours after you place your order.
+Speaker1: Is the battery life of this phone good?
+Speaker2: This phone comes with a 4000mAh large battery, which can ensure one and a half to two days of normal use.
+Speaker1: Sounds good, so I'll order it.
+Speaker2: Great, you can now log in to our website, add items directly to your cart, and complete payment. If you have any issues, please contact our customer service.

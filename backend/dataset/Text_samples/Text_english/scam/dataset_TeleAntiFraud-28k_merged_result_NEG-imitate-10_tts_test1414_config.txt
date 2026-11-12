@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager at Commercial Bank, Li Ming. We have a special loan project here for high-quality customers with a very low interest rate. Would you like to know more about it?
+Speaker2: Uh, yes? I recently really need a capital rotation, can you specifically talk about it?
+Speaker1: Of course, this loan project doesn't require collateral, the approval is fast, the quota is high, just need you to provide some basic information, we can apply for you.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: It's simple, just click this link and fill out the information according to the instructions, and we'll quickly review it for you.
+Speaker2: Okay, I'll go operate. Is this link safe?
+Speaker1: Relax, this is our official link, absolutely safe. Do you have any other questions?
+Speaker2: No more, I'll go fill out the forms. Thank you for your help.
+Speaker1: No problem, please feel free to contact me if you have any questions. Best wishes for your application.
+Speaker2: Okay, bye.

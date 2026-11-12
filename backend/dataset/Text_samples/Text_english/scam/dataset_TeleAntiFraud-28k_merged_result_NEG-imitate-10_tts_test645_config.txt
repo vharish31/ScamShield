@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, I work at a company that specializes in financial services, we have a really good investment project with great returns, are you interested in learning more?
+Speaker2: Hello, I'm not interested right now, thank you.
+Speaker1: Hey, don't rush to reject it yet, this project is really good, you can see, just need to invest a little bit of money first, like five thousand, to get a high return, and the risk is very low, our company has many customers who have already made money, you really don't want to try it?
+Speaker2: However, I am not familiar with this kind of investment, afraid of being scammed.
+Speaker1: You can rest assured, our company is legally registered and you can check our information on the commercial website. I also have our customer service phone number here, you can contact me anytime if you have any questions.
+Speaker2: And I'll first understand it.
+Speaker1: Great, I'll send you a link now, you can click on it to see the detailed investment plan and customer reviews, as well as our contact information. If you think it's suitable, just contact us directly. How about it?
+Speaker2: Okay, I'll take a look.
+Speaker1: Great, you're such a wise person, I believe you'll make the right choices. The link has already been sent, please check it and let me know if there are any issues. My phone number is 1331231231. Goodbye!
+Speaker2: Okay, thank you, bye.

@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I'm little king, JD customer service representative. You recently bought a product on our platform with quality issues and need a refund.
+Speaker2: Is it true or false?
+Speaker1: You really need to download our special refund processing app to quickly handle it.
+Speaker2: Can I get a refund directly from the website if I download the app?
+Speaker1: This website currently has some technical issues. We recommend downloading the app, which will allow you to process refunds more quickly and also enjoy some additional discounts.
+Speaker2: How do I download this app?
+Speaker1: You can download it through this link: [link]. After downloading, please follow the instructions. If you have any problems, please contact me anytime.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much for your cooperation. If you encounter any problems during downloading or using, please feel free to contact me at any time. Have a happy life!

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Happy Restaurant. You reserved a table for tonight at 7 pm. Do you still need to keep it?
+Speaker2: Hello, yes, we need it, but it might be a little late, around 7:30 or so.
+Speaker1: Okay, no problem, we will keep the reserved ones for you. What special services do you need us to prepare for you?
+Speaker2: No special service required, we just come to eat a meal, relax for a bit.
+Speaker1: Do you have any special requirements for the dishes, such as spiciness or taste?
+Speaker2: No need to adjust the spiciness, but there's one thing to remind, we have a friend who doesn't eat seafood.
+Speaker1: Okay, we will pay special attention to this one. Your reserved table is by the window, you can see the outside night view, I hope you like it.
+Speaker2: It sounds good, we're really looking forward to it. Thank you for reminding us.
+Speaker1: You're welcome. If you have any other needs, please contact us anytime. Have a nice dinner.
+Speaker2: Okay, thank you, bye.

@@ -1,0 +1,11 @@
+Speaker1: Hi, I'm small Li, this is XX express company's customer service, you have a package returned because of address issue, need to confirm new delivery address.
+Speaker2: Oh, really? I did some shopping recently, I might have written the address wrong.
+Speaker1: Okay, to ensure that your package arrives smoothly, I need you to provide some information, including your name, phone and new delivery address.
+Speaker2: Okay, my name is Zhang San, my phone number is 13512345678, my new address is XX city XX district XX road 123 number.
+Speaker1: Thank you for your cooperation, Mr. Zhang. In order to confirm your identity, I need you to provide a verification code. We will send it to your phone later, please pay attention to check it.
+Speaker2: Okay, I'll be right back.
+Speaker1: Please wait, the verification code has been sent to your phone, please check and tell me the verification code.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Okay, the verification code has been successfully verified. To ensure that your package can be quickly re-shipped, we recommend downloading our official app to query shipping information.
+Speaker2: Okay, I download the app.
+Speaker1: Thank you very much for your cooperation. You can download our official app directly through this link: [link]. If you have any questions, please feel free to contact our customer service at any time. Goodbye!

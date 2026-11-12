@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Can you send it to the community on the other side?
+Speaker2: Okay, I'll do my best to send it to the floor below your apartment.
+Speaker1: Okay, thank you. How long will it take to arrive?
+Speaker2: The restaurant is still preparing the meal, and it's estimated to be delivered in 30 minutes.
+Speaker1: Okay, just a moment.
+Speaker2: Hey, wait for my call, I'll contact you when I arrive.
+Speaker1: Okay, okay, can you please?
+Speaker2: No problem, feel free to contact me anytime.

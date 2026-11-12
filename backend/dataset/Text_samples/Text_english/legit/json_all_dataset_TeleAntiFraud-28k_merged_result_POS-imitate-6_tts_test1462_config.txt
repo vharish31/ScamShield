@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, recently I want to buy a new phone, can you help me take a look?
+Speaker2: Hello, little Zhang, of course you can, what specific needs do you have? For example, brand, price range, or special features?
+Speaker1: I want a product with a high price-to-value ratio, preferably a domestic brand, priced between 2,000 and 3,000 yuan.
+Speaker2: Okay, there are quite a few options in this price range, such as Xiaomi, Huawei, and OPPO. What do you mainly use your phone for?
+Speaker1: I mainly use the internet to watch videos and play games occasionally.
+Speaker2: I recommend you check out the Xiaomi Redmi Note series. The phones in this series have good performance and long battery life, making them suitable for your needs.
+Speaker1: The camera on that phone sounds good. I sometimes take photos too.
+Speaker2: The camera configuration of the redmi Note series is quite good, the rear camera has 48 million pixels, and the photos taken are very clear, and the color reproduction is very natural.
+Speaker1: That's great, I plan to go shopping this weekend. Thank you for your recommendation!
+Speaker2: No problem, I hope you can find a satisfying phone in the store. If you have any other questions, feel free to contact me. Have a great weekend!

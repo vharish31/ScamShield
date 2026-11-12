@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little Li, were you on our platform before buying a product?
+Speaker2: Hey, yes, what's the issue?
+Speaker1: Oh, that's right, our system shows you have a better version of the product you bought, with stronger features and a better price.
+Speaker2: Oh, really? How do you buy it?
+Speaker1: Yes, just click this link and follow the instructions.
+Speaker2: Okay, I'll go operate.
+Speaker1: Please provide your bank card number and verification code to ensure your account safety. We will verify your identity.
+Speaker2: Okay, my bank card number is 6259001, I'll check my verification code on my phone later.
+Speaker1: Okay, did you receive the verification code?
+Speaker2: I got it, it's six six six six.
+Speaker1: Thank you, we will process your order quickly, if there are any issues, please feel free to contact me anytime.

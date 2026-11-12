@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, I recently bought a smartwatch from your store, but the charger seems to have issues, can you help me get a new one?
+Speaker2: Hello, little king, can you tell me the specific date and order number of your purchase? So I can handle it on this end.
+Speaker1: Okay, I bought it on March 3rd, the order number is 1234567.
+Speaker2: Okay, I found your order information. Do you want us to directly send the new charger to you, or do you want to come to the store and pick it up yourself?
+Speaker1: I'm not very convenient to go out, so if possible, just send it directly to me.
+Speaker2: No problem, I will arrange for you to send a new charger. Is your address still the one you left last time you bought it?
+Speaker1: Yes, that address.
+Speaker2: Okay, I will handle it for you. I estimate that you will receive the new charger within three to five working days. If there are any issues, we will contact you promptly.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Wish you a happy life. Bye.

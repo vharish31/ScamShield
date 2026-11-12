@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you? This is the customer service representative of Shanghai Bank. Have you recently received a call from our bank?
+Speaker2: Is there anything?
+Speaker1: That's right, our bank recently introduced a special discounted loan product that's perfect for high-quality customers like you.
+Speaker2: Hey, do you want a loan? I don't have any cash needs right now.
+Speaker1: This is a very flexible loan with low daily interest and simple procedures, only requiring basic personal information.
+Speaker2: The sound is good, but I don't need it now.
+Speaker1: That's really a pity, but if you need anything, you can download our bank's official app, which has many discount activities.
+Speaker2: Okay, I will take a look.
+Speaker1: Hello, just scan this QR code to directly download our app.
+Speaker2: QR code? How to get it?
+Speaker1: You can add my WeChat, I'll send you the QR code.
+Speaker2: Wechat? Really?
+Speaker1: Of course, this way is more convenient. My WeChat is shbank123, you add it next.
+Speaker2: Okay, I'll add you.

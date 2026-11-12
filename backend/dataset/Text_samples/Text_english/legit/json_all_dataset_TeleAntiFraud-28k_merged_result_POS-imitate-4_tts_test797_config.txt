@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I'm little Liu, what's wrong with your air conditioner? Do you need maintenance?
+Speaker2: Hello, little Liu, is it true that the air conditioner isn't cold these past two days? Can you come take a look?
+Speaker1: Okay, we'll have the master come over in the morning around nine o'clock, is this time convenient for you?
+Speaker2: Can I be at nine o'clock? But I have a meeting at nine and a half, can I be a little earlier?
+Speaker1: Sure, we'll try to arrive at eight o'clock and a half, so we won't delay your time.
+Speaker2: That's great, thank you. By the way, what tools do you need to bring when you visit the master?
+Speaker1: Master will bring all the necessary tools, you don't need to prepare anything, just make sure the air conditioner can be powered on.
+Speaker2: Okay, I'll wait for you guys tomorrow. Also, how much does the repair cost approximately?
+Speaker1: The cost will depend on the specific issue. The initial check is free. If you need to replace parts, we will confirm the cost with you first.
+Speaker2: Got it, okay then, see you tomorrow.
+Speaker1: Okay, see you tomorrow. If you have any questions, feel free to contact us anytime.

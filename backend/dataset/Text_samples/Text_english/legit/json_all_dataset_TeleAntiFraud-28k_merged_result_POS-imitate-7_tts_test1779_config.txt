@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the Little Ming family?
+Speaker2: Hello, I am Xiaoming, who are you?
+Speaker1: Hey, little Ming, I'm your classmate Li Xiao, how have you been lately?
+Speaker2: Great, are you preparing for your end-of-term exams too?
+Speaker1: I'm fine, I have a headache too, when do you have time, let's go to the library and review together?
+Speaker2: Great, I have some free time tomorrow afternoon at three o'clock, is that convenient for you?
+Speaker1: Sure, let's meet at the library tomorrow, remember to bring your study materials.
+Speaker2: Okay, I will be ready. You too. See you tomorrow!
+Speaker1: See you tomorrow, be careful on the road, see you again!
+Speaker2: Goodbye, be careful on the road.

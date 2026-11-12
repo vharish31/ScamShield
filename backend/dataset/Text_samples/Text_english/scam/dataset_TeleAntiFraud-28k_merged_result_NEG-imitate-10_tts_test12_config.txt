@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Zong?
+Speaker2: Hello, who are you?
+Speaker1: Mr. Li, I am the client manager of the China Bank, and our system shows that you have a tech company under your name. We now have a very favorable startup loan project, and you can apply for a 30,000 loan. Are you interested in learning more?
+Speaker2: Hey, loan, I recently have a bit of a cash need, can you give me a specific?
+Speaker1: Of course. This loan project has a very low interest rate, and the approval speed is fast, no collateral is required. If you are interested, you can click this link to download our APP, fill out the application materials, and we will quickly review it for you.
+Speaker2: Download the app? Is it safe?
+Speaker1: Absolutely safe, we are the official app of China Bank, you can download it with peace of mind. After downloading, you can also enjoy more discounts and convenient services.
+Speaker2: Okay, let me try. How do I send this link to you?
+Speaker1: Okay, I'll send you a short message right away. Please pay attention to your phone messages. Additionally, to ensure your information is secure, you'll need to enter a verification code when downloading the app. This code will be sent to you via text message.
+Speaker2: Okay, I'll wait for the text message. Thank you for your help.

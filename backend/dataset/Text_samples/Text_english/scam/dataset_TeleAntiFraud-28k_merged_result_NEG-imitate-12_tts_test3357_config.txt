@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service representative of Bank of China, I remember you applied for a loan here before, do you know how your recent financial situation is?
+Speaker2: Oh, hello, I haven't applied for a loan yet.
+Speaker1: That's great, we recently launched a special discount loan project with a very low interest rate, fast approval speed, and no collateral required. If you have any funding needs, you can consider it.
+Speaker2: The sound is good, but I'm fine for now, I don't need a loan temporarily.
+Speaker1: Okay, I understand your idea. You can add my WeChat, if you need anything later, you can directly contact me, convenient and quick.
+Speaker2: Do you want to add me on WeChat? It's not good, since we don't know each other.
+Speaker1: Don't worry, we are a legitimate bank. Adding WeChat is just for convenience so you can consult us later. After you add WeChat, I can also introduce you to some loan details and promotions.
+Speaker2: Okay, let me add you on WeChat.
+Speaker1: Okay, my WeChat is pabankloan. Tell me once you add it, I will send you the data.
+Speaker2: Okay, I'll add you on WeChat.

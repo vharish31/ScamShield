@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to ask if your restaurant has a vegetarian menu?
+Speaker2: Hello, yes, we have many vegetarian dishes here, which one are you interested in?
+Speaker1: What is the name of your signature dish?
+Speaker2: Our signboard vegetarian dish is very popular, with mushrooms, green bean sprouts, and carrots inside.
+Speaker1: How long is your restaurant open?
+Speaker2: Our restaurant business hours are from 11 am to 9 pm, on weekends they will be extended to 10 pm.
+Speaker1: Okay, can I reserve a seat in advance for tomorrow night at six o'clock?
+Speaker2: To ensure there's a seat, I suggest you book in advance. Can I help you book a four-person table?
+Speaker1: Okay, let's reserve a four-person table.
+Speaker2: Okay, I have already reserved a table for four people at six o'clock tonight for you. If you have any other needs, please contact us anytime.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later, wish you have a happy day.

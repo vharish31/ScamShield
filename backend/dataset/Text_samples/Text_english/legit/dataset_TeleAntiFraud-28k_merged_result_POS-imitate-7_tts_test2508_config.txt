@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, can you tell me about your restaurant's special dishes?
+Speaker2: Hello, Xiao Ming, I am the waiter at the restaurant, Wang Xiao, our most popular dishes here are red braised pork and steamed fish, especially recommended.
+Speaker1: What's the price?
+Speaker2: Red braised pork is 38 yuan per portion, steamed fish is priced differently based on size, between 45 to 65 yuan.
+Speaker1: Okay, what are your business hours from what time to what time?
+Speaker2: Our restaurant business hours are from 10 am to 10 pm, on weekends they will be extended to 11 pm.
+Speaker1: Can I reserve a window seat for six o'clock in the evening tomorrow?
+Speaker2: Of course, I will reserve a window seat for you. Do you need two seats?
+Speaker1: Thank you, thank you.
+Speaker2: No problem, six o'clock in the evening, two seats, by the window, noted it down. See you then.

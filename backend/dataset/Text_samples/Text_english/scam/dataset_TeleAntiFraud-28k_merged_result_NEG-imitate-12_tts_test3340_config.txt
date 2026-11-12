@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the online customer service for our bank's website. Recently, you purchased some products on our platform and there were some issues. We need you to cooperate and handle it together.
+Speaker2: What problem?
+Speaker1: Your order shows that the product was damaged during shipping. To avoid affecting your use, we need to process a refund for you.
+Speaker2: How do I handle a refund?
+Speaker1: To make it convenient and quick to process, you can click on the link we send to you, fill in the relevant information, and we will process your refund application immediately.
+Speaker2: Okay, how do I receive the link?
+Speaker1: We will send the link via text message to your phone, please pay attention to check it.
+Speaker2: Okay, I'll be right back.
+Speaker1: Okay, after receiving the link, please quickly click and fill out the information. If you encounter any issues, feel free to contact us at any time.
+Speaker2: Okay, thank you.

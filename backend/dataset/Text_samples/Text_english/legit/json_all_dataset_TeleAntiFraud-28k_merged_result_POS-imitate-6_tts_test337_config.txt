@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Can you guys tell me if your restaurant has any reserved seats around seven o'clock tonight?
+Speaker2: Would you like to reserve some seats?
+Speaker1: The best place for two people is by the window.
+Speaker2: Okay, the window seat has been reserved for you. Remember to bring your appointment information with you.
+Speaker1: Okay, what are some special dishes you recommend at your restaurant?
+Speaker2: On our side, the menu has spicy Sichuan hot pot and steamed sea bass, both are highly praised by customers.
+Speaker1: Sounds good, let's try it later. Is there a free parking provided?
+Speaker2: Our restaurant has a cooperative parking lot, where you can park for free for two hours with a receipt.
+Speaker1: Goodbye, thank you for your help, see you later.
+Speaker2: No problem, see you tonight, wish you enjoy your dinner.

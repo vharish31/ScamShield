@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you inquire if there are any private rooms here suitable for two people?
+Speaker2: Yes, we have many private rooms here. When are you ready to come?
+Speaker1: I'll probably be out this weekend, around six thirty on Saturday night.
+Speaker2: Okay, Saturday at 6:30 PM, I can help you book. Do you need to pay a deposit in advance?
+Speaker1: Do you need to pay a deposit?
+Speaker2: To ensure your position, we suggest paying a 50 yuan deposit in advance, which can be deducted from your bill upon completion of your meal.
+Speaker1: Okay, I agree to pay the deposit.
+Speaker2: Okay, I'll arrange it. Please provide a contact method to confirm the reservation.
+Speaker1: Okay, my phone number is 1312367890.
+Speaker2: Okay, I have recorded it down. On Saturday evening at 6:30, we welcome you here.

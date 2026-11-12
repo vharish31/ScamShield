@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, want to ask about your coffee here, heard your hand-pulled coffee is pretty good.
+Speaker2: Hello, Xiao Ming, yes, our hand-pulled coffee has been very popular among customers, which one do you want to know more about?
+Speaker1: Hey, I prefer foods with a higher acidity level. Do you have any recommendations?
+Speaker2: For customers who like high acidity, we recommend Kenyan AA, this coffee has a high acidity, strong fruit aroma, and is very suitable for your taste.
+Speaker1: How much does this coffee cost?
+Speaker2: The price of coffee in Kenya is 35 yuan per cup, if it's your first time trying, we can send you a small cup of free tasting.
+Speaker1: Okay, I want to try. What are your weekend business hours?
+Speaker2: Our weekend business hours are from 9am to 10pm. What time would you come to be convenient?
+Speaker1: Can I go to the park at around 3 pm on Saturday afternoon?
+Speaker2: Of course, on Saturday at 3 pm, we'll be waiting for you here. I hope you'll like our coffee.

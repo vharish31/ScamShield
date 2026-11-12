@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am an agribank customer manager, Xiao Zhang.
+Speaker2: Hello, do you have anything?
+Speaker1: We noticed that you recently have a discounted loan amount in our bank's loan application record.
+Speaker2: Really? That's good.
+Speaker1: Yes, but this discount amount is limited time, you need to confirm quickly.
+Speaker2: How to confirm?
+Speaker1: You can click on the link in the text message we send you and fill out the relevant information to complete the application.
+Speaker2: Okay, I'll take a look at the text message.
+Speaker1: Please wait a moment, I'll send it over now.
+Speaker2: I got the text message, so I'm going to fill it out now.
+Speaker1: Okay, feel free to contact me anytime if you have any questions.

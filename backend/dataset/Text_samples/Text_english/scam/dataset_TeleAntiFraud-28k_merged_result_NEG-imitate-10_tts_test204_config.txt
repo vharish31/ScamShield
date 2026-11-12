@@ -1,0 +1,10 @@
+Speaker1: Hey, are you here?
+Speaker2: Hello, is it you? Who are you?
+Speaker1: Hi, I'm Li Xiao, the customer service representative for online shopping issues on this side. Have you recently had any shopping experience on our cooperation platform?
+Speaker2: Oh, is that so? What's up?
+Speaker1: That's right, we found that there might be a little issue with your order, so we need you to cooperate with us to complete a verification process.
+Speaker2: What problem? Do I need to do anything?
+Speaker1: There might have been a mistake with your order, to ensure your rights we need you to download a safe verification app and confirm your identity info through it.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Very safe, this is the official platform provided safety tool, I send you a link, you follow the instructions to download and install it.
+Speaker2: Okay, I'll try.

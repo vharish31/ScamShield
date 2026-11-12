@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is Tian An Yin Bank customer service center, I is customer service specialist Zhou.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed some unusual activity on your account recently. To ensure the safety of your funds, we need you to cooperate and do some verification.
+Speaker2: Uh, what specifically do I need to do?
+Speaker1: Firstly, could you provide us with the last four digits of your bank card and the amount of your recent transaction, so we can verify the information.
+Speaker2: Okay, my bank card last four digits are three six one two, the recent transaction was buying a book, the amount was forty nine yuan.
+Speaker1: Okay, information confirmed. Next, to ensure your account is secure, we need you to download a verification software that can help us monitor your account in real-time.
+Speaker2: Is this software safe? Where can it be downloaded?
+Speaker1: Very safe, you can download it through this link, I send you a text message, you receive it and click on the link to download directly.
+Speaker2: Okay, I'll download it now, thank you for your help.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the boss?
+Speaker2: Hey, who are you, what's up?
+Speaker1: Hello, nice to meet you, I am the customer manager of Huaxia Bank, Li Ming. We noticed that you have been looking for new investment opportunities recently, and I would like to recommend our bank's latest financial product to you.
+Speaker2: Can you tell me more information about this financial product?
+Speaker1: Of course, this product has a very high return on investment and extremely low risk, making it perfect for successful people like you. If you're interested, you can click on the link I sent you and download our exclusive app, which will provide you with detailed information.
+Speaker2: Okay, I'll think about it. But I'm not convenient to go online now, can you send me a short message?
+Speaker1: No problem, I will send you a text message with the download link right away. If you have any questions, you can directly contact me. My phone number is 13513513513.
+Speaker2: Thank you, I will take a look.
+Speaker1: No problem, I'm looking forward to your reply. Wish you a happy life and a successful investment!
+Speaker2: Okay, bye.

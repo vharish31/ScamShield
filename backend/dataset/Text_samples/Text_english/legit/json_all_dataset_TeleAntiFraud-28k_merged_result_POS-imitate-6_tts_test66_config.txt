@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm Lee Huai, I saw a phone in your store yesterday that I'm interested in learning more about.
+Speaker2: Hello, Lee Huang, I am customer service Zhang, very happy to serve you. Which phone model did you like yesterday?
+Speaker1: That's the black one, model V10.
+Speaker2: Okay, V10 black color, this phone is our store's hot-selling product. What information do you want to know about it?
+Speaker1: I want to know its battery life and camera pixel.
+Speaker2: This phone's battery capacity is 4000mAh, which can last 1.5 to 2 days of normal use. The front-facing camera is 1600 million pixels, and the rear-facing camera is a 4800 million + 800 million pixel dual combination, which produces excellent photo effects.
+Speaker1: Does the price include any discounts at the moment?
+Speaker2: Buy the black V10 now and enjoy a discount of 300 yuan, as well as a free protective case and sticker service.
+Speaker1: Okay, I plan to go to the store tomorrow around 2 pm.
+Speaker2: Okay, tomorrow at 2 pm we'll be waiting for you at the store. If you need any help, feel free to contact me anytime. Have a great day!
+Speaker1: Thank you, goodbye.
+Speaker2: See you, looking forward to your arrival.

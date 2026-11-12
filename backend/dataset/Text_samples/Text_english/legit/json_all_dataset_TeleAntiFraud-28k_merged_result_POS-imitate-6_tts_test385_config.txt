@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to consult your car hailing service.
+Speaker2: Hello, this is the fast car ride platform, what can I help you with?
+Speaker1: How much does it cost from Tiananmen Square to Beijing Capital Airport?
+Speaker2: From Tiananmen Square to Beijing Capital Airport, it's approximately 150 yuan. The exact cost will vary depending on road conditions and waiting time.
+Speaker1: Okay, when can I book a car?
+Speaker2: You can book through our app, usually the driver will pick up within 15 minutes after booking.
+Speaker1: If you encounter a traffic jam on the road, will the cost increase?
+Speaker2: If you encounter a traffic jam, the waiting time will be charged by the minute, but we will do our best to reduce any extra costs, ensuring your trip goes smoothly.
+Speaker1: Okay, thank you for your answer.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a nice trip!

@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer service representative of China Construction Bank, I am Li Ming.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed your credit record is excellent, so I want to recommend a special loan service to you, which can quickly disburse funds and has a very low interest rate.
+Speaker2: Oh, really? I really need some cash flow recently.
+Speaker1: Okay, but in order to confirm your identity and qualifications, I need you to provide some personal information, including your ID number and bank account.
+Speaker2: How do I know you guys are legitimate?
+Speaker1: You can scan the QR code I send you to download our official app, which has detailed information and customer reviews. You can also submit information directly through the app.
+Speaker2: How do I know this QR code is safe?
+Speaker1: We are a legitimate financial institution. Our two-dimensional code link has been verified for safety. If you're not comfortable, you can first download the app and check out our service introduction.
+Speaker2: Okay, let me try.

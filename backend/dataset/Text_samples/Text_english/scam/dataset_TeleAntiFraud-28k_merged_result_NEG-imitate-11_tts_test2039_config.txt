@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Shenzhen Development Bank, I am your customer manager Zhang.
+Speaker2: Hello, you.
+Speaker1: Have you noticed that you've been looking for investment opportunities lately? We have a great investment financial product with an annual return rate of 12%, would you be interested in learning more?
+Speaker2: Is it really that high of a return?
+Speaker1: Yes, this product is very popular, but the number of spots is limited. If you're interested, you can add me on WeChat first, and I'll give you a detailed introduction.
+Speaker2: Okay, can we add WeChat?
+Speaker1: Great, my WeChat number is abcdef123456. Add me after and I'll send you detailed info.
+Speaker2: Okay, I'll add you soon.
+Speaker1: Okay, please add me later and remember to note it down, I'll be here.
+Speaker2: Okay, I understand.

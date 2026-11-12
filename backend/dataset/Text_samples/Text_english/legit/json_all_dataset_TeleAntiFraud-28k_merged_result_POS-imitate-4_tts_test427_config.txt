@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I just arrived at your store, but I can't find the entrance, can you help me guide me?
+Speaker2: Hello, Xiao Ming, I am waiter Xiao Wang, you stand at the door of the store, in front of you there is a glass door, on the side there is a red sign, you see it?
+Speaker1: I see it, but the door is locked, how can I get in?
+Speaker2: That door should be automatic, you just need to get closer a little, it should automatically open. If it still doesn't open, just wait a moment, I'll be right there to help you.
+Speaker1: Okay, I'll try again.
+Speaker2: Okay, you try, I'm waiting here for you.
+Speaker1: Thank you for opening it!
+Speaker2: No problem, come in, someone will take you to your seat.
+Speaker1: Okay, thank you for your service.
+Speaker2: No problem, welcome to come, hope you enjoy your meal.

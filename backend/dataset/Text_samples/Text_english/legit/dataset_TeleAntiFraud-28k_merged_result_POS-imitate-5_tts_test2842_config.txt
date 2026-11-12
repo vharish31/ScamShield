@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Zhang Ming, I want to check the haircut appointment on your side.
+Speaker2: Hello, Zhang Ming, I am the little king of the beauty salon, what can I help you with?
+Speaker1: Can I make an appointment for a haircut tomorrow afternoon at four o'clock? Is it convenient for you guys?
+Speaker2: Tomorrow at four in the afternoon is okay, we don't have any conflicts on this side.
+Speaker1: Great, I'll clarify tomorrow afternoon at four o'clock.
+Speaker2: Okay, Zhang Ming, we have reserved time for you at four o'clock in the afternoon tomorrow.
+Speaker1: I want to cut my hair short, not too long, clean and clear.
+Speaker2: I understand, we will design a suitable hairstyle based on your needs.
+Speaker1: Thank you so much, and by the way, what's the way to go on your side?
+Speaker2: We are on Changming Street No. 3 in the city center. You can take the metro line 1 to Changming Station and get off, then walk 500 meters to reach the destination.
+Speaker1: Okay, I understand, thank you for your help.
+Speaker2: No problem, Zhang Ming, I'm looking forward to your arrival. If you have any questions, please contact me anytime.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Shenzhen Bank Loan Service Center, I am customer service representative Li.
+Speaker2: Hello, do you have any loan services?
+Speaker1: Yes, we currently have a special discount loan project. Just provide some basic personal information to quickly obtain the loan.
+Speaker2: Sounds good, but I was scammed by some lenders before, are you guys for real?
+Speaker1: Don't worry, we are a legitimate bank institution, and we will never put you at any risk. If you're interested, you can click on the link I sent you and fill out the information.
+Speaker2: How do I know this link is safe?
+Speaker1: This link is our official link, very safe. You can also directly download our official app, operation more convenient.
+Speaker2: How do I download your app?
+Speaker1: It's very simple. Just click on the link I send you and you can directly download our official app. If you have any issues after downloading, you can contact me, I'm always online.
+Speaker2: Okay, let me try.

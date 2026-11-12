@@ -1,0 +1,12 @@
+Speaker1: Hey, are you little Zhang?
+Speaker2: Hey, it's me, you?
+Speaker1: Hi, I'm small Li, the smartwatch you bought from our platform recently had an unusual order, our customer service found out, need you to cooperate to handle it.
+Speaker2: Oh, really or not, I don't know how.
+Speaker1: It's true, there might be an issue with the system, for your account safety, please download our latest official app to verify your identity.
+Speaker2: Download the app? How do you download it?
+Speaker1: It's very simple. Just scan this QR code with your phone and you can download it directly.
+Speaker2: Okay, let me try.
+Speaker1: Alright, download and install it, then log in with your phone number and email address you registered with, and follow the instructions.
+Speaker2: Okay, I'll operate right away.
+Speaker1: Great, if you have any questions, feel free to contact me anytime. My phone number is 13800000000.
+Speaker2: Okay, thank you.

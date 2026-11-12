@@ -1,0 +1,10 @@
+Speaker1: Hello, are you at home? I'm delivering food.
+Speaker2: Hello, are you downstairs yet?
+Speaker1: Yes, I arrived, but the door downstairs seems unopenable.
+Speaker2: "Hey, try clicking the button on the left side."
+Speaker1: Okay, I found it, but it seems like it's still not working.
+Speaker2: You go first, walk along the left side of the road, there's a staircase you can directly climb up.
+Speaker1: Okay, I see the stairs, thank you.
+Speaker2: No problem, you can knock directly on the door after you come in.
+Speaker1: Okay, I went up.
+Speaker2: Okay, I'll wait for you.

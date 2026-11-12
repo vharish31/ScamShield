@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Wei?
+Speaker2: Yes, who are you?
+Speaker1: Hello, I am the manager of the personal loan department at Commercial Bank, have you recently had any financial needs? We have a loan product here without collateral and low interest rate, which is very suitable for you.
+Speaker2: Really? I really need some money recently.
+Speaker1: Yes, this product is very suitable for you. In order to facilitate your application, please first download our official app and fill out some basic information.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can search '工银贷' in the mobile app store, download and install it, then register and log in with your phone number, and fill out the information.
+Speaker2: Okay, I'm going to download now.
+Speaker1: Hello, after downloading and installing, if you have any issues, please feel free to contact me anytime. My phone number is 13800138000.
+Speaker2: Okay, thank you Zhang Jīngnǐ, I will handle it quickly.

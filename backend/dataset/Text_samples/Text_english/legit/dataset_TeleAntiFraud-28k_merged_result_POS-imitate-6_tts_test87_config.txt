@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, want to consult your shop's reservation service.
+Speaker2: Hello, Xiao Wang, I am customer service Li, what can I help you with?
+Speaker1: Can I make an appointment for a haircut? Do you know the latest schedule for appointments on this side?
+Speaker2: Okay, I'll check. What date do you want to make a reservation for?
+Speaker1: It's best if it's this weekend, either Saturday or Sunday.
+Speaker2: Okay, let me take a look. There are still some available time slots on Saturday, at 10 am, 2 pm and 4 pm. Sunday is quite packed.
+Speaker1: I'll still choose Saturday afternoon at two o'clock.
+Speaker2: Okay, the weekend appointment was successful. Remember to bring your ID at two o'clock on Saturday. Is there anything else you need help with?
+Speaker1: No more, thank you for your help.
+Speaker2: No problem, please feel free to contact us anytime. Wishing you a happy day.

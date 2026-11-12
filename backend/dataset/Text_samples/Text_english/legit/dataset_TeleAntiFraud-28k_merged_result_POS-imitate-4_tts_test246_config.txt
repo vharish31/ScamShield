@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the small Zhang from the community property management, want to confirm with you, is your heating not open yet?
+Speaker2: Hmm, yes, my home's heating isn't here yet, is there a problem?
+Speaker1: Let me check over here, maybe your gate is closed, I'll go take a look, is there anyone at home in your house?
+Speaker2: Okay, I'm at home now, come over.
+Speaker1: Okay, I'll be there in about ten minutes. You can wait for me at home first.
+Speaker2: Okay, I'm waiting.
+Speaker1: Hey, by the way, have you paid your electricity bill recently?
+Speaker2: Electricity bill, I paid last month, should be enough right?
+Speaker1: Okay, if you have any questions, I'll be here to help you again.
+Speaker2: Okay, let's talk again after you come over, thank you.

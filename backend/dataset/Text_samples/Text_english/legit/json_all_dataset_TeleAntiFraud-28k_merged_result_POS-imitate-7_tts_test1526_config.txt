@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, I want to order takeout.
+Speaker2: Hello, Little Li, this is the delicious Xiào Wèi Xuān wài, what do you need to order?
+Speaker1: Do you have a palace spicy chicken and a sour spicy soup?
+Speaker2: Yes, kung pao chicken and spicy sour soup are our signature dishes. Do you need to add any small dishes or drinks?
+Speaker1: Let's have another bowl of rice and a glass of iced red tea.
+Speaker2: Okay, kung pao chicken, sour and spicy soup, a bowl of rice and a cup of ice red tea, all for 35 yuan. How long do you need to deliver it?
+Speaker1: I'll send it around six tonight. The address is Tian An Xiao Quan Er Er Nú Er Sān Dān Yī Sì Xīn Zhòng.
+Speaker2: Okay, you can relax, we will deliver on time. Is there anything else we can help with?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, hope you enjoy your meal, bye.

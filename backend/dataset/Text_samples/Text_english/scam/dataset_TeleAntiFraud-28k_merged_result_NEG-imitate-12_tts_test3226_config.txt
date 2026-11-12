@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am an loan officer at Anxin Bank, do you have any recent funding needs?
+Speaker2: Hello, currently no need, thank you.
+Speaker1: Okay, but our loan interest rate is very favorable, and the procedures are simple. If you're interested, you can take a look first.
+Speaker2: How do you know?
+Speaker1: You can click on the link we sent you, which explains the loan process and interest rate in detail.
+Speaker2: Is the link safe?
+Speaker1: Of course, we are a regular bank and there will be no issues.
+Speaker2: Let me try and see.
+Speaker1: Okay, after you click on the link, we will arrange a dedicated customer service representative to guide you through the application process.
+Speaker2: Okay, thank you.

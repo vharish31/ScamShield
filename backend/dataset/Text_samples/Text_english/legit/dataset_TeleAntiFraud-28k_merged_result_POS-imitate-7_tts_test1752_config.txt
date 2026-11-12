@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, I want to ask if your restaurant has any available seats?
+Speaker2: Hello, I am a waiter at the restaurant, we have a seat here, how long will it take you to come?
+Speaker1: Two people around seven in the evening.
+Speaker2: Okay, 7:00, two people, no problem. Do you have any special dishes you want to eat?
+Speaker1: We want to try your signature dishes, like red braised pork and steamed fish.
+Speaker2: Okay, both our spicy pork and steamed fish are very popular, you can relax a bit.
+Speaker1: That's great, thank you for your recommendation. Do we need to book it?
+Speaker2: I suggest you book in advance, it'll be convenient for us to prepare for you. Can you tell me your phone number?
+Speaker1: Okay, my phone number is 138123456, I'll be on time.
+Speaker2: Alright, 1381233456, we have recorded it down. We are looking forward to your arrival. Bye!

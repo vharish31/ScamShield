@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I saw on your website that you sell second-hand bicycles, I want to know more about it
+Speaker2: Hello, Xiaoming, yes, we have second-hand bicycles for sale here. Do you have any specific requirements, such as brand, price range, or condition?
+Speaker1: I want to find a car priced between 500 and 1000, preferably a mountain car, but not too old.
+Speaker2: Okay, we have a Mercedes Benz mountain car here, priced at 800 yuan, the car condition is not bad, and the maintenance is very good.
+Speaker1: Can I take a look at the car?
+Speaker2: Of course, when do you have time to come over?
+Speaker1: Can I have some time around four in the afternoon tomorrow?
+Speaker2: Tomorrow at four in the afternoon is okay, our store address is market center Guangming road 123 number, see you later details.
+Speaker1: Okay, I'll arrive on time tomorrow, thank you.
+Speaker2: No problem, I'm looking forward to your arrival, be careful on the road.

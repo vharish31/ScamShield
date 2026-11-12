@@ -1,0 +1,9 @@
+Speaker1: Hey, are you ordering takeout from our store?
+Speaker2: Yes, I just ordered takeout from your store, should it arrive soon?
+Speaker1: Okay, your order is ready now. It should take about fifteen minutes to deliver.
+Speaker2: Sure, I should be home in about ten minutes. Can you wait for me a little?
+Speaker1: Of course, you can give us a message once you arrive, we will ensure timely delivery of the takeout.
+Speaker2: That's great, thank you. By the way, do you have any utensils in your store?
+Speaker1: Yes, if you need utensils, you can mention it in the order note, and we will deliver them together.
+Speaker2: Okay, I noted it down. I will make a note of it next time I place an order. Thank you for your service.
+Speaker1: You're welcome, we're always here to serve you, hope you enjoy your meal.

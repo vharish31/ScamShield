@@ -1,0 +1,10 @@
+Speaker1: Hello, this is XX express, I am customer service representative Li, you recently lost a package, we are ready to compensate you.
+Speaker2: Really? That's great, how much?
+Speaker1: To confirm your identity, we need you to provide us with your phone number and bank account number. We will directly transfer the compensation money to your bank account.
+Speaker2: Okay, my phone number is 13512345678, my bank card number is 62220812345678901234.
+Speaker1: Okay, we have recorded down the information. To ensure your information is secure, we need you to provide a verification code, which we will send to your phone.
+Speaker2: Okay, I'll be right back.
+Speaker1: The verification code has been sent to your phone, please check.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Okay, we have confirmed your information. The compensation will be in your account within 24 hours. There's just one small issue. To speed up the processing, please click on this link for identity verification.
+Speaker2: Okay, I'll go click now.

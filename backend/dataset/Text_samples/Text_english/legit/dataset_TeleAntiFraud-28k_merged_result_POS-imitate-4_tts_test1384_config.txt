@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you?
+Speaker1: Can you tell me if there are two entrances here?
+Speaker2: Yes, there is one on the main road and one in the small alley.
+Speaker1: How can I determine which entrance is correct?
+Speaker2: If you see a big sign on the main road that says our store name, then you're on the right track.
+Speaker1: Uh, this way, where's the entrance to that little alley?
+Speaker2: The entrance to the small alley is quite hidden, but there will be a red light on the door, which is particularly noticeable at night.
+Speaker1: Okay, I understand, thank you for your help.
+Speaker2: No problem, feel free to contact me anytime if you have other issues.

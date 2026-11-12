@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm small Li, this is the customer service representative of Shanghai Bank, we noticed you have recently had a need for cash flow, so we specially recommend a low interest loan product to you.
+Speaker2: Uh, okay? I'm actually a bit short on cash lately, can you give me a detailed explanation?
+Speaker1: Of course. This product is specifically designed for high-quality customers, no deposit required, quick approval, and very favorable interest rates. As long as you provide some basic personal information, we can apply for you.
+Speaker2: What information do I need to provide?
+Speaker1: Just need your ID number, bank card number and contact address. To simplify the process, you can click on the link I sent you and fill in the relevant information.
+Speaker2: How do I know this link is safe?
+Speaker1: We are a legitimate bank institution, and our link has been certified for security. You can rest assured to fill in, and if you have any questions, you can contact us anytime.
+Speaker2: Okay, let me try.
+Speaker1: Great, please fill out and I'll process it quickly. If you have any questions, feel free to call me anytime.
+Speaker2: Okay, thank you.

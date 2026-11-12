@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm Xiaoming, recently I've decided to buy a new phone, I saw your store has activities, want to ask you a few questions.
+Speaker2: Hello, Xiao Ming, I am the customer service representative of the mobile phone store, Zhang. What questions can I help you with?
+Speaker1: What models are you currently promoting?
+Speaker2: We are currently promoting the latest smartphone models with various color and configuration options, as well as limited time discounts.
+Speaker1: How long does the battery of this phone last?
+Speaker2: This phone's battery capacity is 4000mAh, it can reach 1.5 to 2 days of normal use.
+Speaker1: Hey, do you guys have any discount activities now?
+Speaker2: When purchasing now, in addition to price discounts, we also give a gift of an original phone case and metal skin, as well as one year of extended warranty service.
+Speaker1: Great, when can I come to the store to take a look?
+Speaker2: Our business hours are from 9am to 9pm. You can come at any convenient time.
+Speaker1: Okay, can I go over there in the afternoon around three o'clock tomorrow?
+Speaker2: Of course, tomorrow afternoon at three o'clock, I will be waiting for you at the store.

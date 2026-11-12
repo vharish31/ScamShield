@@ -1,0 +1,12 @@
+Speaker1: Hello, are you the property management of Minghu Xiangqu?
+Speaker2: Hello, this is Minghu Lake Community Property Management, how can I help you?
+Speaker1: Have your home's air conditioner broken down recently? Do you have any repair services available here?
+Speaker2: We have a cooperative repair service here, can help you schedule. What's your convenient time?
+Speaker1: It's best if someone is at my house tomorrow afternoon.
+Speaker2: Okay, I will arrange the repairman to come to your house tomorrow afternoon at three o'clock. Remember to keep the phone line open, the repairman will call you in advance.
+Speaker1: Okay, thank you. By the way, I recently found that the parking spots in the community are getting increasingly tight, do you guys have any solutions?
+Speaker2: We have already considered this issue, and we plan to add temporary parking spaces on the south side of the community next month, which should help alleviate the parking problem.
+Speaker1: That's great, thank you for your consideration.
+Speaker2: No problem, we have always been striving to provide better service to our clients. If there are any other issues, please feel free to contact us anytime.
+Speaker1: Okay, thank you again, goodbye.
+Speaker2: Goodbye, wish you happy life.

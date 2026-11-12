@@ -1,0 +1,10 @@
+Speaker1: Hey, how come my takeout hasn't arrived yet?
+Speaker2: Hello, the delivery boy is on the road, he might be a little delayed due to the road conditions, please wait a moment longer.
+Speaker1: I'm standing at the company gate, and they said the delivery boy couldn't find this place.
+Speaker2: Please give me the specific address and nearby landmarks, I will help the delivery guy navigate.
+Speaker1: Okay, I am at City Building A, near the exit of the public transportation station.
+Speaker2: I understand, I'm sending a message to the delivery guy now, directing him to the public transportation station.
+Speaker1: Okay, thank you, can you please?
+Speaker2: No problem, just wait a minute, the delivery guy should be here soon.
+Speaker1: Okay, can you please, thank you.
+Speaker2: No problem, just let me know if there's anything else you need help with anytime.

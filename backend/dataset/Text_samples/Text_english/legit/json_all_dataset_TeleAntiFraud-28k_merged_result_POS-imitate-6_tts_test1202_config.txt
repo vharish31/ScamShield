@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, do you guys have any ice cream left and any goods?
+Speaker2: Hello, little Li, do you still have ice cream? Although it's been selling well these days, which flavor do you want?
+Speaker1: I want to buy two of each chocolate and strawberry flavored.
+Speaker2: Okay, chocolate and strawberry ice cream flavor each cost 20 yuan, which is 40 yuan in total. When do you come to pick it up?
+Speaker1: Will I be there in about half an hour? Can you open the door?
+Speaker2: We're open until 10 pm, just half an hour from now we'll open the door. You can come directly to me.
+Speaker1: Okay, thank you. Alright, can you help me leave a note, I'm worried I'll be late and there won't be any goods.
+Speaker2: No problem, I'll leave you a note. Remember to call me back to confirm when you come, that way it's safer.
+Speaker1: Okay, I'll contact you when I arrive. Thank you!
+Speaker2: No problem, I'm looking forward to your arrival. Goodbye!

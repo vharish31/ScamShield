@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of Huaxing Bank, based on our records, you may have recently encountered some issues with cash flow, we have a very suitable loan plan for you here, which can provide you with a 20,000 no-collateral loan, are you interested in learning more?
+Speaker2: Hello, Li Manager, I have recently been under some financial pressure. Can you give me specific details about this loan?
+Speaker1: Of course, this loan is very suitable for small business owners, no collateral is required, the approval process is very fast, as long as you provide some basic information, we can arrange it for you.
+Speaker2: What do I need to do to make it sound good?
+Speaker1: First, you need to download our bank's exclusive app, submit some necessary data through the app, and we will quickly review it.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, our app is officially certified, you can rest assured using it. After downloading, any issues can be contacted to me, I will help you solve them.
+Speaker2: Okay, let me try.
+Speaker1: Great, I'll send you the download link now. Just follow the link to download it. If you have any questions, feel free to contact me.
+Speaker2: Thank you, I will process it quickly.

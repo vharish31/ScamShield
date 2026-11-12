@@ -1,0 +1,11 @@
+Speaker1: Hello, you.
+Speaker2: Hello, are you little Li?
+Speaker1: Yes, I am, who are you?
+Speaker2: I'm little Zhang, remember? The one we ate dinner together last time.
+Speaker1: Oh, I remember now, hello hello. What's up?
+Speaker2: So, I recently moved, do you know of any good housekeeping services in your area?
+Speaker1: There's a good place called 'Good Helper Family' here. The service is good and the price is reasonable.
+Speaker2: Can you help me find the contact information for that family?
+Speaker1: Know, their phone number is 4008686868, you can call over to inquire.
+Speaker2: Thanks for your help, I'll call them later.
+Speaker1: No problem, feel free to contact me anytime, wish you a smooth move.

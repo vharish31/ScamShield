@@ -1,0 +1,8 @@
+Speaker1: Hey, are you the delivery guy?
+Speaker2: Yes, did the delivery arrive?
+Speaker1: Are you at the location yet?
+Speaker2: I'm on Happiness Road, on the right side of the sloping road, number 35A door.
+Speaker1: Okay, I see the place, can you come down and get it?
+Speaker2: Sure, I'll come right away.
+Speaker1: Okay, I'm waiting for you here, be careful.
+Speaker2: You too.

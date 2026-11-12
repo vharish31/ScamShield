@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw your job post on the internet, want to know more about it?
+Speaker2: Hello, yes, we are indeed hiring part-time, do you have any time to come for an interview?
+Speaker1: What time works for you on Tuesday and Thursday of this week?
+Speaker2: What time works best for you on Thursday morning at 10am and Friday afternoon at 3pm?
+Speaker1: Then I'll choose Friday afternoon at three o'clock, how do I get there?
+Speaker2: Okay, the address is Wanda Square, fourth floor. You can take the escalator to the fourth floor after arriving at Wanda. Our office is on the east side of the fourth floor.
+Speaker1: Okay, I arrive at three o'clock on Thursday afternoon. Do I need to bring any materials?
+Speaker2: Bring your ID and resume, we'll meet later.
+Speaker1: Okay, thank you for your answer, see you later.
+Speaker2: No problem, see you later, wish you a smooth journey.

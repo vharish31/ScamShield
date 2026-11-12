@@ -1,0 +1,14 @@
+Speaker1: Hey, hello, I'm little Li, I saw the washing machine in your store two days ago, I want to know more about it
+Speaker2: Hello, I am customer service Zhang, what can I help you with?
+Speaker1: Is that washing machine fully automatic?
+Speaker2: Yes, it's a fully automatic washing machine, easy and convenient to operate.
+Speaker1: What is its efficiency level?
+Speaker2: This washing machine's energy efficiency level is one, very power-saving.
+Speaker1: Is it dry-clean only?
+Speaker2: This washing machine does not have a drying function, but we have a model with a drying function. Do you understand?
+Speaker1: No need for now, by the way, how loud is the noise of this washing machine?
+Speaker2: This washing machine's noise control is very good, the noise during operation is between 40 and 50 decibels, it won't affect your rest.
+Speaker1: Are there any promotional activities going on now?
+Speaker2: Currently we have over a thousand activities, and also gifts, such as laundry detergent and sun drying racks.
+Speaker1: Sounds good, I'll check out your store tomorrow, thanks for the detailed introduction.
+Speaker2: You're welcome, I'm looking forward to your visit. If you have any other questions, feel free to contact me anytime.

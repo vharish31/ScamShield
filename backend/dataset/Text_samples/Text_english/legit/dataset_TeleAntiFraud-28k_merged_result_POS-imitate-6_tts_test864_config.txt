@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the garden restaurant, do you want to reserve a seat?
+Speaker2: Yes, I want to book a double room for tonight at 7 pm.
+Speaker1: Is there a specific seat you would like? Perhaps by the window or in a quiet corner?
+Speaker2: If possible, I would like to sit near the window.
+Speaker1: No problem, the window seat has been reserved for you. Do you have a membership card?
+Speaker2: Is it true that the first time you book you can get a 90% discount?
+Speaker1: Yes, first-time reservations can indeed enjoy a 90% discount. Just show your reservation information when you arrive.
+Speaker2: That's great, thank you. By the way, does your restaurant provide free parking service?
+Speaker1: Yes, our restaurant has a free parking lot behind it, you can directly park there.
+Speaker2: Okay, thank you for your help. See you later.
+Speaker1: Okay, see you later, wish you enjoy your dinner, bye.

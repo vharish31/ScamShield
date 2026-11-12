@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Hey, can you deliver food to our company?
+Speaker2: Of course, we have covered most of the areas, where is your company's address?
+Speaker1: Our company is in the New Bridge Building, the third floor, elevator six.
+Speaker2: Okay, I understand. New Bridge Apartment Sixth Floor, in general, we will arrive within 30 minutes.
+Speaker1: That's great, can I order a beef stir-fry and a tomato egg soup, please?
+Speaker2: Sure, beef and eggplant stir-fry and tomato soup, I will note it down for you, do you need any other dishes?
+Speaker1: I'm out of rice now, remember to add more rice for me okay.
+Speaker2: Okay, I'll add more rice, I've recorded your order, it will be delivered to New Bridge Building Sixth Floor in about thirty minutes, do you have anything else to specify?
+Speaker1: No more, thank you.
+Speaker2: No problem, if you have any other needs, please contact me anytime, enjoy your meal, goodbye.
+Speaker1: Okay, bye.

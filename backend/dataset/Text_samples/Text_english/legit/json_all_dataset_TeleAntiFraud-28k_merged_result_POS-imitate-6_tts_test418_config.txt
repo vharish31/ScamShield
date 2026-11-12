@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm small Li, I'm calling to inquire about the reservation service process at your store.
+Speaker2: Hello, you, little Li, I am a customer service representative, you can call me little Wang. What can I help you with?
+Speaker1: Hey, I recently want to make a hair appointment, but I don't know your booking process well.
+Speaker2: Okay, making a hair appointment is very simple. You can choose your favorite hairstylist and time on our website or app, then submit the appointment.
+Speaker1: Uh, in this case, if I have something urgent and can't come, can I cancel the appointment?
+Speaker2: Of course, if you need to cancel the appointment, it's best to notify us two hours in advance, so we can avoid the cancellation fee.
+Speaker1: What should I pay attention to when I make my appointment?
+Speaker2: Please choose a convenient time for your appointment and confirm your personal information, such as your name and contact information, so that we can better serve you.
+Speaker1: I understand, thank you for your patience in answering.
+Speaker2: You're welcome. If you have any other questions, feel free to consult anytime. Have a nice day!

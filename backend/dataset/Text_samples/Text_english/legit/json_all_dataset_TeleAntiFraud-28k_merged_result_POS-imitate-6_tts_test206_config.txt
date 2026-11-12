@@ -1,0 +1,11 @@
+Speaker1: Hey, are you looking for community activity information?
+Speaker2: Hey, do you know if there are any activities in the community this weekend?
+Speaker1: Yes, there's a health lecture in the community this weekend, and a parent-child reading activity.
+Speaker2: When does the health lecture start?
+Speaker1: The health lecture starts at 9 am on Saturday at the community center's multi-function hall.
+Speaker2: Do I need to sign up in advance?
+Speaker1: Yes, to ensure seats, we suggest booking in advance. You can sign up through the community's WeChat public account or directly at the community service center.
+Speaker2: What about the reading activity for children?
+Speaker1: The reading activity for parents and children starts at 2 pm on Sunday at the community center. This activity requires advance registration.
+Speaker2: Okay, thank you, I will consider joining.
+Speaker1: No problem, feel free to contact us if you have any questions. Have a great weekend!

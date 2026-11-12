@@ -1,0 +1,16 @@
+Speaker1: Hello, nice to meet you, I am Li, the manager of construction bank.
+Speaker2: Hello, say something.
+Speaker1: We noticed that your recent spending records at our bank show that you may have a need for cash flow.
+Speaker2: Oh, I don't have this requirement.
+Speaker1: Okay, but if you have a need for capital in the future, you can consider our loan service, the interest rate is very favorable.
+Speaker2: Okay.
+Speaker1: By the way, we recently introduced a new investment financial product with stable returns and low risk. Would you be interested in learning more about it?
+Speaker2: Invest in wealth management? Can you give a specific explanation?
+Speaker1: Of course, this product is specifically designed for customers like you who have idle funds. You can click on the link we sent you to learn more details.
+Speaker2: Send me a link to take a look.
+Speaker1: Okay, I will immediately send it to your phone. Moreover, if you have any questions, you can directly add my WeChat, anytime consult.
+Speaker2: What's your WeChat number?
+Speaker1: My WeChat number is the same as my phone number, 1372345678.
+Speaker2: Okay, I'll add you.
+Speaker1: Thank you, any questions can be contacted anytime. Goodbye.
+Speaker2: Okay, bye.

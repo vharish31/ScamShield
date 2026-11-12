@@ -1,0 +1,10 @@
+Speaker1: Hello, I am small Li, want order one tomorrow noon twelve point position, can?
+Speaker2: Hello, Small Li, can we book for you here, how many positions do you need to book?
+Speaker1: Okay, can you reserve four seats, do you have any window seats?
+Speaker2: Okay, there's a spot by the window too. Do you have any special dietary requirements?
+Speaker1: No, it's just that I want to find a quiet place to talk about things.
+Speaker2: Understood, we will arrange a quiet corner for you, can you see this way?
+Speaker1: Sure, can I come directly tomorrow?
+Speaker2: Yes, you can come directly at noon tomorrow, we will be ready for you.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

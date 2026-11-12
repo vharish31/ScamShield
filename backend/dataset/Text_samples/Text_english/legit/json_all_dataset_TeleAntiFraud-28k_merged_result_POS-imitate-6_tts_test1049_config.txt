@@ -1,0 +1,10 @@
+Speaker1: Hey, are you available to pick me up now?
+Speaker2: Hello, already departed, approximately 17 minutes to arrive.
+Speaker1: Okay, I'm waiting for you at the intersection of XX Road and XX Road.
+Speaker2: I know, you're standing at a visible spot on the road, I've arrived to call you.
+Speaker1: Okay, I see your car. Is it blue?
+Speaker2: Yes, the license plate number is one two three.
+Speaker1: Okay, I'll go out now.
+Speaker2: Okay, pay attention to safety on the road.
+Speaker1: You're welcome, please be careful too.
+Speaker2: Okay, see you on the road.

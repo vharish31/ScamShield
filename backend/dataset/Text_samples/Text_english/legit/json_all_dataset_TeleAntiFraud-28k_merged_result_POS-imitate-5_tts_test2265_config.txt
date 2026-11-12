@@ -1,0 +1,13 @@
+Speaker1: Hey, how are you? I found a phone on your website that I like and want to ask some questions about.
+Speaker2: Hello, I'm very happy to serve you, which phone do you prefer?
+Speaker1: Do you still have that black Huawei Mate 50?
+Speaker2: How about you come pick up this phone when it's in stock?
+Speaker1: Do you guys have to work on weekends?
+Speaker2: We are open every day of the week, what time is most convenient for you to come this weekend?
+Speaker1: That's great, I plan to go to the weekend on Saturday afternoon, around 3 pm.
+Speaker2: Okay, on Saturday at 3 pm, I will prepare your phone. Do you need to book in advance?
+Speaker1: If possible, I'll book it in advance, just in case there's no stock later.
+Speaker2: No problem, I will handle the reservation procedures right away. Do you need to leave contact information?
+Speaker1: Please, my phone number is 888888888.
+Speaker2: Okay, I have recorded your information. See you on Saturday at 3 pm.
+Speaker1: Okay, thank you, see you on Saturday!

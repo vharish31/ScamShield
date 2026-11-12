@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to inquire about your restaurant's reservation service.
+Speaker2: Of course, what do you want to know?
+Speaker1: I plan to reserve a seat on Saturday night, do you know what time your business starts?
+Speaker2: We started business at 5 pm on Saturday night. It's best to reserve a spot in advance if you want to order.
+Speaker1: Okay, I'll reserve two seats for us, around 7 pm.
+Speaker2: Okay, I have booked two seats for you at 7 pm on Saturday night. Please come ten minutes early if you have any special requirements.
+Speaker1: Okay, thank you. So, do you have any recommendations for dishes?
+Speaker2: Our restaurant special dishes include steamed sea bass and stir-fried frog, both highly praised by customers, you can try them.
+Speaker1: Sounds good, I'll order it later. Thank you for your help.
+Speaker2: You're welcome. I'm looking forward to your visit. If you have any other questions, feel free to contact me anytime.

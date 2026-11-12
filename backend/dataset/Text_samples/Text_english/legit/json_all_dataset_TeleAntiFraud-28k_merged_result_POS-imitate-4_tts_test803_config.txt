@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service at the food square, you ordered food from us before, now there's a promotion and I want to ask you about it.
+Speaker2: Hey, how are you? What discount activities do you have?
+Speaker1: That's right, we now have a meal, originally priced at 188 yuan, now on sale for 128 yuan, and also include a free dessert.
+Speaker2: What does this menu include?
+Speaker1: This meal includes one signature beef noodle soup, one vegetable salad, one chicken wing, and one dessert, which can be either custard or red bean soup.
+Speaker2: How long will it take for the food to be delivered?
+Speaker1: If you order now, you can get it in about forty minutes.
+Speaker2: Okay, I want this menu, send me a strawberry cheesecake.
+Speaker1: Okay, I have placed an order for you. Your order number is 1234567. A delivery person will contact you soon to confirm the specific address.
+Speaker2: Okay, thank you.

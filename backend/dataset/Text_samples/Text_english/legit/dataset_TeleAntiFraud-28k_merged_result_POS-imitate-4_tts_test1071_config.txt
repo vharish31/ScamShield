@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I want to consult your delivery service.
+Speaker2: Hello, Xiao Ming, I am Waimai Kefu Xiao Zhang, what can I help you with?
+Speaker1: What is your approximate delivery time?
+Speaker2: We usually deliver within 30 minutes after receiving the order, but there might be a delay during peak hours.
+Speaker1: If I need to specify something, like not putting chili peppers, can I?
+Speaker2: Of course, you can write special requirements in the remark section when you place your order.
+Speaker1: What's the way to know the delivery progress after placing an order?
+Speaker2: After placing an order, you can track the delivery driver's location and estimated arrival time through our app.
+Speaker1: What should I do if there are issues with the order, such as sending the wrong thing or not sending enough?
+Speaker2: You can contact our customer service immediately, and we will process your order issue as soon as possible to ensure a solution.
+Speaker1: Okay, I'm placing my order now. Do I need to prepare anything in advance?
+Speaker2: After placing an order, please be ready to pay and wait for the delivery person to arrive. If you have a fixed pickup location, please inform us in advance.

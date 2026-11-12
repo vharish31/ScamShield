@@ -1,0 +1,13 @@
+Speaker1: Hi, how are you? I'm little Li, I have an appointment for a haircut at your store tomorrow at three in the afternoon, can you confirm it's still valid?
+Speaker2: Hey, hello, little Li, I'll check over here. You're the one who made a reservation for tomorrow afternoon at three o'clock, right? I'll take a look at the system.
+Speaker1: Yes, it's tomorrow at three in the afternoon.
+Speaker2: Okay, I found it, your appointment is still valid within the effective period, tomorrow afternoon three o'clock, no problem.
+Speaker1: Can I go directly tomorrow?
+Speaker2: Yes, you can come directly tomorrow and a professional hairdresser will serve you at that time.
+Speaker1: Okay, thank you. So, I recently want to change my hairstyle, do you have any recommendations?
+Speaker2: Of course, we have several popular hairstyles here, such as classic short hair, trendy side-swept bangs, and this year's popular layered hair, do you have any special preferences?
+Speaker1: I want something that looks more energetic, not too long.
+Speaker2: Understood, then I will recommend our classic short hair to you, this hairstyle is very suitable for customers who want a clear image.
+Speaker1: That sounds good, I'll give this classic short hair a try.
+Speaker2: Okay, see you tomorrow, we'll meet later.
+Speaker1: Okay, thank you, see you tomorrow.

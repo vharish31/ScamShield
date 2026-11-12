@@ -1,0 +1,12 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Hey, I'm Lee boss, who are you?
+Speaker1: Hello, I am a loan officer at Weichang Bank, we noticed your company recently has a need for cash flow, so we called to see if you have any intention of taking out a loan.
+Speaker2: Uh, yeah, I'm having some issues with cash flow right now, can you give me more info on loans?
+Speaker1: Of course, we can provide you with a loan service without collateral and low interest rate, with a maximum amount of 50,000, fast approval, and the funds can be credited to your account within the day.
+Speaker2: The sound is good, but I'm not familiar with these loan processes.
+Speaker1: No problem, you just need to provide some basic company information and identity information, and we will handle the rest of the procedures. To ensure the safety of your information, you can first click on the link we provide and fill out some basic information.
+Speaker2: Okay, how do I get this link?
+Speaker1: Which method do you find more convenient: scanning the QR code I send you directly or receiving a link via text message?
+Speaker2: Let's use text message, I'll fill out the link as soon as I get it.
+Speaker1: Okay, I'll send you a text message right away. Please pay attention to check it and complete it as soon as you receive it. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help.

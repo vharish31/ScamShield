@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I can't find the address you gave me at the subway station.
+Speaker2: Hello, which subway exit are you at? I'm at B exit, and you?
+Speaker1: I'm at C exit, all around here are tall buildings, I can't find the small road you said.
+Speaker2: Okay, after you exit from C, walk to the right, you will see a small alley, and walk to the end of it.
+Speaker1: How do I know when I've reached the bottom?
+Speaker2: You will see a small alley, written on top 'Happy Small Lane', that's it.
+Speaker1: Understood, so roughly how long will it take?
+Speaker2: It's about a ten-minute walk, just take it slow and don't rush.
+Speaker1: Okay, thank you for your patience in guiding me, I'm off now.
+Speaker2: No problem, come give me a call, I'm waiting for you there.

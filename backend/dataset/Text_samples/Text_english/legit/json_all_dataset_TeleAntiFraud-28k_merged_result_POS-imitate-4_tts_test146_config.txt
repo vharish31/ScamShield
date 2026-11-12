@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: I saw a house in Five Eight City that I liked and wanted to know more about.
+Speaker2: Okay, how long do you want to rent it for?
+Speaker1: Can I take you to see the house for about a year?
+Speaker2: Sure, can you come over now?
+Speaker1: I'll be there in about half an hour, can you give me the address later?
+Speaker2: Okay, the address is Xiǎngfú xiǎngquān sān dòu yī lóu, dào shíhuònǐ dàole le dǎihuān.
+Speaker1: Okay, thank you, I will contact you later.
+Speaker2: No problem, see you later.

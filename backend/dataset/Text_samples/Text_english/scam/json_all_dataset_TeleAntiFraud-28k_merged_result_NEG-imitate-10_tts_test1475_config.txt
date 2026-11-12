@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am small Liu, this is the customer service center of Huatai Bank.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, our bank recently introduced a new loan product, no collateral, quick approval, very suitable for small and medium-sized enterprises. Have you recently had any cash flow needs?
+Speaker2: "Hmm, this sounds good, but I don't have a need for it right now."
+Speaker1: Okay, this product is very popular, but the budget is limited. If you consider it and want to contact us, please do so anytime. Can you add a WeChat? It's convenient for future contact.
+Speaker2: Add me on WeChat, can you send it to me?
+Speaker1: Okay, here's my WeChat number: htbankwx, add me. Moreover, we also have a dedicated customer manager, you can directly contact him for more details.
+Speaker2: Okay, I added it. Is there anything else you need me to do?
+Speaker1: After you added WeChat, you can download our bank's mobile app, which has some special promotional activities, and you can get a new user gift package after registering.
+Speaker2: Okay, I'll give it a try. Thank you for your recommendation.

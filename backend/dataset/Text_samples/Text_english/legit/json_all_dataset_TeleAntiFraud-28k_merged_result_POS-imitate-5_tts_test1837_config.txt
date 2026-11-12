@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I saw on your website that you have an electric car, and I want to know more about the details.
+Speaker2: Hey, okay, what kind of electric car are you interested in?
+Speaker1: That small city bike-sharing service looks pretty convenient.
+Speaker2: That car is very popular, it's suitable for short-distance city travel, and its range is about 250 kilometers.
+Speaker1: Oh, can we continue navigation, how long does it take to charge?
+Speaker2: Filling up an electric car takes about four hours, and in quick charging mode, it can be charged to 80% in half an hour.
+Speaker1: Is there a test drive service?
+Speaker2: Yes, you can book a test drive to experience the performance and comfort of this car.
+Speaker1: Okay, I plan to test drive on the weekend, do you guys have business on the weekend?
+Speaker2: Of course, weekends are our business hours, you can make an appointment in advance, we will prepare a test drive car for you.
+Speaker1: Great, can I schedule a test drive on Saturday morning at 10 am?
+Speaker2: Okay, I have made a reservation for you on Saturday morning at 10 am. Remember to be on time.
+Speaker1: Okay, thank you, see you on Saturday.
+Speaker2: No problem, I'm looking forward to your arrival, wish you have a good day.

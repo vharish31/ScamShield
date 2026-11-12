@@ -1,0 +1,12 @@
+Speaker1: Hi, I'm little Zhang, I want to consult your hair appointment service.
+Speaker2: Hello, little Zhang, I am the customer service representative here, what can I help you with?
+Speaker1: Can I make a weekend hair appointment? Are you open on weekends?
+Speaker2: We are open on weekends, our usual business hours are from 9am to 7pm.
+Speaker1: Can I make a reservation for 10 am on Saturday morning?
+Speaker2: Is it okay? Do you need me to help you schedule a reservation for 10 am on Saturday morning?
+Speaker1: Okay, can you help me make a reservation?
+Speaker2: Okay, I have already booked a 10 am appointment for you on Saturday morning. Please arrive ten minutes early to avoid missing the appointment.
+Speaker1: Okay, thank you for your help. Also, do you have shampoo and conditioner there?
+Speaker2: Yes, we provide a full suite of cleaning and grooming services here, using brand products.
+Speaker1: Great, thank you for your answer. See you on Saturday.
+Speaker2: No problem, see you on Saturday, wish you have a great weekend!

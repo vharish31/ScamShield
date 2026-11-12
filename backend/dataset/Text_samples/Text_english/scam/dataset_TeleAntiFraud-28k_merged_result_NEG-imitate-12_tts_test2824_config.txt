@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of Shenzhen Bank. Recently we have a very low interest rate credit loan activity, only 0.02 yuan, do you have any recent funds needed?
+Speaker2: Hello, I'm little king, I recently need a penny, but I'm not very familiar with loans.
+Speaker1: King Wen, this loan is very simple. Just provide some basic information, and we can quickly approve. Plus, we offer free loan consultation. Just click the link, download our app, and you'll get detailed information.
+Speaker2: Okay, what information do I need to provide?
+Speaker1: You just need to provide your identity card number, phone number and some basic personal information. For your convenience, I will send you a link. Click on the link and download our app. Inside the app, you will find detailed instructions.
+Speaker2: Okay, I received it. So I can just download the app directly?
+Speaker1: Okay, after downloading the app, follow the instructions, fill out the information, submit the application, and we will review it within one workday. If approved, the funds will be directly deposited into your account.
+Speaker2: What fees do I need to pay?
+Speaker1: No need, we are zero handling fee, zero guarantee, just pass the audit, then quickly release the loan.
+Speaker2: Okay, let me try.

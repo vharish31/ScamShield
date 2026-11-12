@@ -1,0 +1,12 @@
+Speaker1: Hey, are there any available seats?
+Speaker2: Hello, what service are you looking to consult?
+Speaker1: I'd like to know more about your massage service, lately my shoulders have been uncomfortable.
+Speaker2: Yes, we do provide massage services here, which can help alleviate shoulder discomfort. Do you know specifically what time you want to book?
+Speaker1: Best is tomorrow afternoon, three to five o'clock.
+Speaker2: The time slot tomorrow is available, but it needs to be reserved in advance. What's your name?
+Speaker1: I am Li Ming.
+Speaker2: Okay, Li Ming Xiāngshēng, I'll register your information here. Can you provide your contact information?
+Speaker1: My phone number is 13812345678.
+Speaker2: Okay, I have already booked a massage appointment for you tomorrow at 3 pm. Don't forget to bring your ID. Is there anything else I can help you with?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Have a great day!

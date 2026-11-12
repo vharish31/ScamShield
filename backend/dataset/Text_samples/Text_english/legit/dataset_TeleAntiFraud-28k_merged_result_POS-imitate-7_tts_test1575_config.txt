@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm confirming my dinner reservation at your store.
+Speaker2: Hello, I am a waiter at the restaurant, what is your reservation name?
+Speaker1: I am Li Ming.
+Speaker2: Okay, Li Ming Xiāngshēng, let's check. Found it, your reservation is for tonight at six o'clock for a couple's dinner, right?
+Speaker1: Sure, can we arrive at 5:30 earlier?
+Speaker2: Okay, 5:30 is also fine, we'll be ready for you here.
+Speaker1: That's great, there's just one more thing, I hope to prioritize booking a private room if available when I made the reservation.
+Speaker2: Okay, we will do our best to arrange a quiet private room for you. Please arrive ten minutes in advance so we can prepare.
+Speaker1: Okay, thank you. Is there a parking lot at your store?
+Speaker2: Yes, there's a small parking lot behind our store. You can park for free.
+Speaker1: That's great, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Enjoy your meal!

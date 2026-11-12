@@ -1,0 +1,13 @@
+Speaker1: Hello, I am the customer service representative for Xiaobao Car, I couldn't make the appointment last time we spoke. Do you have any free time these days?
+Speaker2: Ugh, I have some stuff going on at home lately, it's a bit inconvenient.
+Speaker1: Hey, what's going on at your place? Do you need help?
+Speaker2: The child is sick, needs attention.
+Speaker1: That's it, that kid needs to take good care of himself, I hope he wakes up soon.
+Speaker2: Thank you, I hope the child gets well soon.
+Speaker1: How about I schedule a time for you first, and if you can't make it, how do we reschedule?
+Speaker2: Yeah, that's okay too, but I'm really not feeling like going out right now.
+Speaker1: Okay, take care of your home affairs first, and then get in touch with me when you have time.
+Speaker2: Okay, thank you for understanding.
+Speaker1: No problem, please call anytime if needed, wish your child a speedy recovery.
+Speaker2: Thank you, goodbye.
+Speaker1: Goodbye.

@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? I am a customer service representative from some e-commerce platform. You have a large amount of shopping points on your account, which will be cleared at midnight tonight. Have you used them yet?
+Speaker2: Oh, really? I didn't notice that.
+Speaker1: That's it. You have accumulated 20,000 points on your account, which can be redeemed for over 3,900 yuan in cash. If you don't redeem them, these points will be cleared.
+Speaker2: Really? Then how do I exchange it?
+Speaker1: I have already sent you a free exchange SMS, after receiving the SMS, click on the link to enter our mall, select your favorite products, and use your points to deduct cash.
+Speaker2: Okay, I'll go take a look right away. Thank you for reminding me.
+Speaker1: No problem, hurry up to exchange it, don't miss it. What else do you need help with, feel free to contact me anytime.
+Speaker2: Okay, I will. Thank you again.

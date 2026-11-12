@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the person who has an appointment at the city beauty salon on Tuesday afternoon at 2 pm?
+Speaker2: Ah, okay, it's my appointment, hello.
+Speaker1: Okay, your appointment time is confirmed, we will prepare in advance on this end.
+Speaker2: That's great, my skin condition has been bad lately, I hope it improves.
+Speaker1: Understood, we will customize a skincare plan based on your skin condition. Do you need to prepare anything in advance?
+Speaker2: Do I need to prepare anything?
+Speaker1: We'll prepare everything we need here. You just need to come on time.
+Speaker2: Okay, then I will arrive on Tuesday at two in the afternoon on time.
+Speaker1: Thank you very much, we are looking forward to your arrival. If you have any questions, please feel free to contact us anytime.
+Speaker2: Okay, thank you, bye.

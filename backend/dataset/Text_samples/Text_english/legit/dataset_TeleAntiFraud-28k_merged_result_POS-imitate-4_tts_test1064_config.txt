@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the property service of the community, I want to inform you that the water supply pipe in the community needs maintenance, there may be a temporary water cut-off situation.
+Speaker2: Uh, like this, what time will the water stop flowing?
+Speaker1: According to our arrangement, the estimated time for the water shutdown is from 9 am to 4 pm tomorrow, and we will complete the repair work as quickly as possible to minimize the impact on everyone.
+Speaker2: Okay, I'll prepare some water in advance. Are there any other things to pay attention to?
+Speaker1: Yes, there may be some noise during the repair period, please make noise isolation measures in advance. Also, after restoring water supply, the initial water quality may be turbid, it is recommended to wait a while before using it.
+Speaker2: I understand, thank you for your reminder.
+Speaker1: No problem, if you have any other questions, please feel free to contact property, we will do our best to help you solve them.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome! Have a nice day! Bye!
+Speaker2: Goodbye!

@@ -1,0 +1,11 @@
+Speaker2: Hello, are you Li Ming?
+Speaker1: Yes, who are you?
+Speaker2: I am the property management of the community, I want to confirm with you about the parking lot situation.
+Speaker1: Okay, what questions do you have?
+Speaker2: Have you noticed any changes in parking spots recently?
+Speaker1: No, I've always been staying in the original parking spot.
+Speaker2: Okay, because several neighbors reported that someone was using their parking spot.
+Speaker1: Okay, I'll pay attention next time I park to avoid this situation.
+Speaker2: Thank you for your cooperation. If you have any questions, please feel free to contact us anytime.
+Speaker1: Okay, thank you, bye.
+Speaker2: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Lee Ming. I made an appointment for your hair salon. Can you confirm the time?
+Speaker2: Hello, Li Ming, I am Xiao Wang, what time is your appointment?
+Speaker1: Can you confirm my appointment at 3 PM?
+Speaker2: Okay, let me check. Hmm, your appointment time is 3 pm, this time is available, no problem.
+Speaker1: Okay, can I just go directly there when the time comes?
+Speaker2: Yes, you can come directly, we will prepare for you.
+Speaker1: That's great, thank you for your confirmation.
+Speaker2: No problem, feel free to contact us if you have any other questions.
+Speaker1: Okay, see you later.
+Speaker2: See you later, be careful on the road.

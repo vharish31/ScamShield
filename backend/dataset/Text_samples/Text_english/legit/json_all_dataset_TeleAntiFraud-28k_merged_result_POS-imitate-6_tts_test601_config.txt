@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I saw your restaurant on Meituan with special dishes, and I wanted to know more about it.
+Speaker2: Okay, our restaurant's signature dishes are red braised pork, steamed fish and gong bao chicken, all very popular.
+Speaker1: How much do these menus cost?
+Speaker2: Red braised pork is 35 yuan per portion, steamed fish is 45 yuan per portion, and gong bao chicken is 25 yuan per portion.
+Speaker1: The sound is good, I plan to go out for dinner tonight, when do you guys start business?
+Speaker2: We open business at 10 am and continue until 10 pm. Dinner time is from 5 pm to 9 pm.
+Speaker1: Okay, I'll probably arrive around 7 pm, can I reserve a seat in advance?
+Speaker2: Of course, do you need to reserve several seats?

@@ -1,0 +1,10 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, I am a waiter at a nearby restaurant, did you have any feedback on the service and food from your dinner at our restaurant last night?
+Speaker2: Oh, the service is great, just the food is a bit salty.
+Speaker1: Thank you very much for your feedback. We will improve. How about giving you a discount next time you come?
+Speaker2: That's great, we'll come again next time.
+Speaker1: Okay, we're waiting for your arrival. By the way, we recently introduced a new signature dish, you can try it next time.
+Speaker2: It sounds good, let's give it a try.
+Speaker1: Great, what needs to be reserved can be told to me in advance.
+Speaker2: Okay, thank you for your reminder. Bye.
+Speaker1: Goodbye, looking forward to the next meeting.

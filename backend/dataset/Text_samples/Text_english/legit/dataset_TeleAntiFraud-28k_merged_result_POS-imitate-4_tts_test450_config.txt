@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, hello
+Speaker1: Can I consult your return and exchange policy?
+Speaker2: Hey, our return policy for exchange is that you can exchange products within seven days, even if it's not affecting the second-hand sale situation.
+Speaker1: What do I need to do?
+Speaker2: You can log in to our official website, submit a return/exchange application in the personal center, fill in the relevant information, and we will process it quickly.
+Speaker1: Okay, how long will it take to process it?
+Speaker2: In general, we will review and complete the application within three business days after receiving it, and notify you to send the product back if it is approved.
+Speaker1: Who is responsible for the shipping fee of the package sent back?
+Speaker2: If the issue is with product quality, we will cover the shipping costs; if the return is unreasonable, you are responsible for the shipping fees.

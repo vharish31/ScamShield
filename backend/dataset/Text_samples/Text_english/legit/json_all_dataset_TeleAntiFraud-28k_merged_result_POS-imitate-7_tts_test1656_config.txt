@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, want to ask about your restaurant's special dishes
+Speaker2: Hello, little Zhang, I am server Li, we have many special dishes here, such as spicy pot, steamed fish, and beef noodle soup, which one do you want to know about?
+Speaker1: The spicy smell of the wok is quite good, can you spicy it up?
+Speaker2: Sure, we have three spicy options: mild, medium, and spicy, you can choose based on your taste.
+Speaker1: Can I try the spicy one, and what time does your restaurant close at night?
+Speaker2: The spicy Sichuan hot pot is very suitable for friends who like spicy food, our business hours are from 10 am to 10 pm, after 10 pm we stop taking orders, at 10:30 pm we officially close.
+Speaker1: Okay, should I book in advance for eight o'clock tonight?
+Speaker2: If you come at 8 o'clock, I suggest you book in advance because there will be more people on weekends, booking can ensure you have a seat.
+Speaker1: Okay, please reserve two seats for two people, thank you.
+Speaker2: Okay, I have booked two seats for you, see you at eight tonight. Looking forward to your arrival, goodbye!

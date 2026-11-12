@@ -1,0 +1,9 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, do you have anything to talk about?
+Speaker1: I am a waiter at a certain restaurant, you dined at our restaurant yesterday, but accidentally dropped a black bag containing some documents and a wallet.
+Speaker2: Oh, really? Thank you so much, I was still worried about not being able to find it.
+Speaker1: No problem, this is what we should do. We have already taken care of it for you, when is it convenient for you to pick it up?
+Speaker2: Can I go at three in the afternoon?
+Speaker1: Okay, we are open until 9 pm tonight. Please tell the front desk clerk when you arrive, and we will give you your package.
+Speaker2: Okay, thank you for your help, see you in the afternoon.
+Speaker1: No thanks, see you in the afternoon.

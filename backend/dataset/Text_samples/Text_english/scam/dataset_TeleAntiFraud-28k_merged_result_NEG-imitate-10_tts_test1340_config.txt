@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm Zhang from the Agricultural Bank's Investment Department.
+Speaker2: Hey, who are you?
+Speaker1: I work at an agricultural bank. We have a particularly good investment opportunity here with a very high return rate. Are you interested in learning more about it?
+Speaker2: Invest? I recently have some spare cash, can you tell me more about it?
+Speaker1: Okay, this is a new project introduced by our bank, guaranteed return, risk is very low. You can try investing a small amount of money first.
+Speaker2: How do I operate it?
+Speaker1: You can download our bank app or click on the link I sent you, register and then you can see this project.
+Speaker2: Link? You send it to me.
+Speaker1: Okay, wait a minute, I will send you a short message. Once you receive it, click on the link and enter the verification code to register.
+Speaker2: Okay, verification code?
+Speaker1: Yes, verification codes are to ensure the safety of your account. Just follow the instructions.
+Speaker2: Okay, I'll take a look.

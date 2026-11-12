@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: I'm a credit officer from China Merchants Bank. You can call me Li Xiao. We have a great credit loan project here. Would you like to know more about it?
+Speaker2: Loan? I'm not using it now.
+Speaker1: Hmm, that's right. But our interest rate is low, and the approval is quick, no collateral required, it's a good choice if there's an emergency in the future.
+Speaker2: How do I apply?
+Speaker1: Click this link to download our official app, register and fill in the relevant information to apply.
+Speaker2: Is the app safe to download?
+Speaker1: Of course, our app is officially certified, very safe. Now download also has newbie gift, don't miss it.
+Speaker2: Okay, let me try.
+Speaker1: Great, feel free to contact me anytime if you have any questions. This is my WeChat, just add me for easy communication in the future.

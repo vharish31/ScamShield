@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Hey, it's me, you're good.
+Speaker1: Mr. Li, I am Zhang Ming, the loan manager of Agricultural and Commercial Bank, we recently launched a very favorable loan project, do you have any funding needs?
+Speaker2: Uh, loan, I recently have a bit of cash flow that needs to be addressed.
+Speaker1: Great, our loan project is perfect for you. The interest rate is low, the approval is fast, and there's no need for collateral. All you need to do is download our app, fill out some basic info, and quickly apply for a loan.
+Speaker2: Do you want to download the app? How do I know this app is safe?
+Speaker1: You can rest assured that our app is officially certified and absolutely safe. You can download it through this link. I guarantee that as long as you follow the steps, you'll quickly get your loan.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues after downloading, feel free to contact me anytime. This is my WeChat: (simulate conversation scene, no actual WeChat provided). I'll help you with everything.
+Speaker2: Okay, thank you. I'll go download it now.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I just placed an order for a car wash service, I see you guys haven't confirmed yet, want to check the order status?
+Speaker2: Hello, little Zhang, please wait a moment, I'll check for you here. Hey, I found it, your order has been confirmed, it's estimated to arrive around 10 am.
+Speaker1: How long will the driver arrive?
+Speaker2: According to the current situation, approximately forty minutes from now will arrive at the address you provided.
+Speaker1: What do I need to prepare 40 minutes in advance?
+Speaker2: No need, you just need to ensure the vehicle can move, we will bring all the necessary tools.
+Speaker1: Understood, if the weather is bad, like rain, will there be an impact?
+Speaker2: If it rains, we'll first contact you to see if we need to reschedule. However, in general, light rain doesn't affect our service.
+Speaker1: Okay, I'll wait for your message. Thank you for your help.
+Speaker2: You're welcome, please feel free to contact us anytime if you have any questions. We look forward to serving you, goodbye.

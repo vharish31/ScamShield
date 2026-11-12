@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a loan officer at East Ningbo Bank. Do you have any recent funding needs?
+Speaker2: Hello, I currently don't have any financial needs.
+Speaker1: Oh, that's right. We have a special loan offer on our end that's perfect for you, with very low monthly interest, only requiring two cents.
+Speaker2: Two cents? This interest rate is indeed very low, but I'm still not very interested.
+Speaker1: Understand your concerns, but this loan product is very flexible, and the application process is very simple. You just need to download our app, fill out some basic information, and you can quickly get approval.
+Speaker2: Do you want to download the app? What is the name of your app?
+Speaker1: Our app is called "Dongjing Yilai," you can search and download it in the app store. After downloading, you will also get a 100 yuan cash red packet.
+Speaker2: A hundred yuan red envelope sounds good, let me try.
+Speaker1: Great, download it and register immediately, fill out the information, I'll guide you through the whole process. If you have any questions, contact me.
+Speaker2: Okay, thank you for your recommendation. I'll give it a try.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: I'm Little Wang, you previously booked our haircut service at our shop, tomorrow afternoon at three o'clock, remember to come.
+Speaker2: Okay, I remember. I will arrive on time tomorrow.
+Speaker1: Okay, see you tomorrow, what needs can be told in advance?
+Speaker2: I want a short haircut, not too complicated, just clean and clear.
+Speaker1: Understood, we will be ready, see you tomorrow.
+Speaker2: Thank you, see you tomorrow
+Speaker1: You're welcome, serving every customer is our responsibility, wish you a happy day today.
+Speaker2: You too, goodbye

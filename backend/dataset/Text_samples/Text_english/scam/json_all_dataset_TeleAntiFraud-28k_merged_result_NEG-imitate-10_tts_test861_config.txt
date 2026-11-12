@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the Agricultural Bank, we recently introduced a low interest loan product, do you need it?
+Speaker2: Hello, loan? I don't need it now, thank you.
+Speaker1: Okay, that works too. But you should add WeChat, so you can contact me directly whenever you need and also enjoy some internal discounts.
+Speaker2: WeChat? What do you want to add WeChat for?
+Speaker1: After adding me on WeChat, I can provide you with the latest loan product information and offer you free financial consulting.
+Speaker2: Okay, you can add me on WeChat.
+Speaker1: Great, my WeChat number is agric123456. Add me as a friend and remember to put down the name afterwards.
+Speaker2: Okay, I'll add you.
+Speaker1: Thank you very much, feel free to contact me anytime if you have any questions, I'll answer as soon as possible. Goodbye!
+Speaker2: Goodbye.

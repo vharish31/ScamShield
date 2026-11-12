@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Are you free on this side, Li?
+Speaker2: What do you do when you have time?
+Speaker1: Can you come over in the morning to help me move?
+Speaker2: Tomorrow morning? I check my schedule, should be no problem.
+Speaker1: Great, what shall we do at nine o'clock?
+Speaker2: 9:00 is okay, but we need to check the weather. If it rains, we may need to postpone.
+Speaker1: Hmm, the weather forecast says it won't rain, but just in case, let's prepare some rain gear.
+Speaker2: Okay, let's set it down like this, we'll meet at nine o'clock.

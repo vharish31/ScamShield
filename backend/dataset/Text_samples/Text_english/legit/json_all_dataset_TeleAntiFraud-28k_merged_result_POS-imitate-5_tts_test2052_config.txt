@@ -1,0 +1,18 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Hey, I saw you guys have home cleaning services online, want to know more about it?
+Speaker2: Okay, we provide clean, moving, home appliance repair, etc. services. What specific service do you need?
+Speaker1: How long can I schedule a family cleaning appointment?
+Speaker2: What date do you want to reserve two to three days in advance?
+Speaker1: Is this Saturday okay?
+Speaker2: Is Saturday morning or afternoon okay?
+Speaker1: What time do we start in the afternoon?
+Speaker2: Can we meet at two in the afternoon?
+Speaker1: How long will it take for two o'clock?
+Speaker2: Based on the size of your home and the scope of cleaning needed, it will take approximately three to four hours.
+Speaker1: Okay, how do we calculate the cost?
+Speaker2: Our fee standard is one hundred yuan per hour, four hours is four hundred yuan.
+Speaker1: Do I need to pay in advance?
+Speaker2: You can choose to pay the deposit in advance or pay upon completion of service on-site.
+Speaker1: Okay, I'll choose on-site payment.
+Speaker2: Okay, we will arrive at two o'clock on Saturday afternoon. If there are any changes, we will contact you in advance.

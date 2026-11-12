@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the city convenience service, do you need to book housekeeping service recently?
+Speaker2: Hey, I'm pretty busy at home lately and need someone to help clean up.
+Speaker1: Okay, we provide professional housekeeping services here, including daily cleaning and appliance cleaning, you can choose weekly service or one-time service.
+Speaker2: How do you charge for one-time services?
+Speaker1: One-time cleaning services are priced differently based on the size of the house and the level of difficulty. Our staff will come to your home for an on-site evaluation and provide you with an accurate quote.
+Speaker2: Do I need to make an appointment in advance?
+Speaker1: Yes, I suggest you make an appointment two days in advance, so we can arrange the appropriate time for the door-to-door service.
+Speaker2: Okay, can you come over and evaluate it next afternoon?
+Speaker1: Okay, we'll send workers over tomorrow at 2 pm. Just wait for us at home.
+Speaker2: Okay, thank you, see you tomorrow.
+Speaker1: No problem, see you tomorrow, goodbye.

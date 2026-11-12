@@ -1,0 +1,18 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello, how are you?
+Speaker1: How have you been lately?
+Speaker2: Good, you?
+Speaker1: I'm not bad, lately my work has been pretty busy.
+Speaker2: What do you want to do?
+Speaker1: I work in sales at a company, recently there's a big project.
+Speaker2: That sounds pretty good, keep going.
+Speaker1: Thanks, do you have any plans lately?
+Speaker2: I want to go on vacation, but I haven't decided where to go yet.
+Speaker1: You can consider going to the beach, relax your mind.
+Speaker2: Great idea, thank you for your suggestion.
+Speaker1: No problem, let's go eat dinner together sometimes.
+Speaker2: Okay, let's set a time.
+Speaker1: Okay, I'll contact you later.
+Speaker2: Okay, so that's how we've settled it.
+Speaker1: Okay, bye.
+Speaker2: Goodbye.

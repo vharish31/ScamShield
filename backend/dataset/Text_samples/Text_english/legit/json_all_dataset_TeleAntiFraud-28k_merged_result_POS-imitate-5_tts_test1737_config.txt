@@ -1,0 +1,13 @@
+Speaker1: Hey, hello, I saw a washing machine on your website, and I want to know more about its details.
+Speaker2: Hello, I'm very happy to serve you. Which washing machine are you interested in?
+Speaker1: What is the cleaning power and electricity consumption of the model called "Clear Wind Eight"?
+Speaker2: The Clever 8 Washing Machine is a very popular product, it has strong cleaning ability and can handle various stains. Moreover, it is highly efficient, consumes less energy, and on average, the electricity consumption per wash cycle is around 0.6 degrees.
+Speaker1: Does it have a lot of noise?
+Speaker2: This washing machine uses advanced silent technology, the noise during operation is very small, around 52 decibels, almost no impact on your daily life.
+Speaker1: Great, I'm still worried about noise issues when using it at home. Hey, is this washing machine currently on sale?
+Speaker2: We are currently conducting an autumn promotion, buying the Clear Wind Eight Number washing machine can enjoy a 90% discount, and there are also gifts sent as a bonus, very cheap.
+Speaker1: When can I place an order?
+Speaker2: You can place your order now, we will arrange delivery within 24 hours after your order and estimate delivery to your home within 3 to 5 days.
+Speaker1: Okay, thank you for your detailed introduction. I'm going to place an order now.
+Speaker2: You're welcome. If you have any more questions, please feel free to consult anytime. Have a nice shopping, bye!
+Speaker1: Okay, bye!

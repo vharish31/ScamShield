@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm little Zhang. I saw your home service on your website and I want to know more details.
+Speaker2: Hello, little Zhang, I am customer service Li, very happy to serve you. What aspect of home service do you want to know about?
+Speaker1: I want to know more about deep cleaning services, specifically the contents and prices.
+Speaker2: Okay, our deep cleaning service includes thorough cleaning of the kitchen and bathroom, dusting and wiping down furniture and floors. The price will vary based on the size of the room and the level of cleaning required. For a typical three-bedroom, one-living room apartment, the price is usually around three hundred to four hundred yuan.
+Speaker1: This way, how long will it take to finish it?
+Speaker2: For a two-room, one-hall apartment with a clear depth, we usually need three to four hours. If your home doesn't have any special messy situations, the time may be shorter.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: Yes, to ensure that we can provide service on time, we suggest you book at least two days in advance. Can you tell me a suitable time?
+Speaker1: How about this weekend? Can I come at 9am on Saturday morning?
+Speaker2: On Saturday morning at 9:00, I can arrange it for you. If there are any changes, we will contact you in advance. Just a reminder, when we provide door-to-door service, please be present to confirm the service content and scope.
+Speaker1: Okay, I understand. Thank you for your service. See you this weekend.
+Speaker2: You're too polite, see you this weekend. Wish you happy life, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from a food delivery platform. I wanted to confirm with you that there was an issue with your recent order.
+Speaker2: Hello, what's the problem?
+Speaker1: The restaurant you ordered from is temporarily too busy to take orders, the waiting time may be longer, do you want to continue waiting or cancel the order?
+Speaker2: Let's take a look at other families, this one is really slow.
+Speaker1: Okay, I can cancel this order for you, you can choose another restaurant and place a new order.
+Speaker2: I'm sorry, I'm going to choose someone else.
+Speaker1: No problem, feel free to contact me anytime during the ordering process if you have any issues.
+Speaker2: Okay, thank you for your help.
+Speaker1: You're welcome, wish you enjoy your meal, bye!
+Speaker2: Goodbye!

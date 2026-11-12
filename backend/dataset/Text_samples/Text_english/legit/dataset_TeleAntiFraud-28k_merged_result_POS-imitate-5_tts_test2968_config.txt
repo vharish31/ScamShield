@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm your older brother, I want to see you today, I'm at your street now, which street is your house on?
+Speaker2: Hey, older brother, wait for me a sec, I'm coming right down to meet you.
+Speaker1: Okay, I'm waiting for you at the community door.
+Speaker2: Please find a place to stop for a moment, I'll be right down.
+Speaker1: Okay, hurry down now, I'm waiting for you here.
+Speaker2: Okay, I'll go down now.
+Speaker1: You arrived to call me.
+Speaker2: Okay, you can relax, I'll call you as soon as I arrive.

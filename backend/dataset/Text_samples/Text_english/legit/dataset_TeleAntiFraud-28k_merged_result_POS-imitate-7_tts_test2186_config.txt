@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm the little king of the beauty salon, you booked an appointment for tomorrow afternoon at three o'clock, right?
+Speaker2: Yes, I made a reservation, but I might be late tomorrow, can it be adjusted to four o'clock?
+Speaker1: Okay, 4 o'clock is fine, you can come in directly when you arrive.
+Speaker2: Okay, I'll come at four o'clock. And I want to cut my hair short, do you have any recommendations?
+Speaker1: Based on your face shape, I think Korean short hair suits you well, looking clean and chic, also very fashionable.
+Speaker2: I'm also quite excited after listening to what you said, so let's follow your instructions.
+Speaker1: Okay, see you tomorrow.
+Speaker2: See you tomorrow, thank you.

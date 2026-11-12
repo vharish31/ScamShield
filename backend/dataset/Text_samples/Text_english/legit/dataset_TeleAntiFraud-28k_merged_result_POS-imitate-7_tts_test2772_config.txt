@@ -1,0 +1,10 @@
+Speaker1: Hey, what time did you arrive at the company today?
+Speaker2: I should arrive around 9:30, there's a bit of traffic on the way.
+Speaker1: Okay, I'll wait for you to arrive before starting today's meeting.
+Speaker2: Okay, thank you for your understanding. Right, yesterday you said about that project document, I finished it, sent it to the company for you.
+Speaker1: Great, I happen to have a client report to deliver today.
+Speaker2: No problem, this document should help you. Moreover, let's have lunch together at noon, I will treat you.
+Speaker1: Great, what do you want to eat for lunch?
+Speaker2: What type of do you like to eat? Breakfast or dinner?
+Speaker1: Okay, I recently want to eat something clean and simple, you take care of it.
+Speaker2: Okay, let's go eat sushi at noon, I'll reserve a spot.

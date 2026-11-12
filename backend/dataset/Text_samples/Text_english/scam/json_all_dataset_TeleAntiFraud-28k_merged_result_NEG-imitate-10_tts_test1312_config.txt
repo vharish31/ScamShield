@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am a customer manager at Ming Sheng Bank, and we have a customized loan plan for you that can solve your financial problems. Are you interested in learning more?
+Speaker2: Hey, I recently need some money, can you give me a specific amount?
+Speaker1: Okay, we provide a loan without collateral and low interest rate. You just need to provide some basic information, and the money will be in your account within the day. To make it easier for you to apply, you can download our bank's official app, and I'll send you a download link.
+Speaker2: Okay, how do I download this app?
+Speaker1: Just click this link to download our app, then register an account and fill in the relevant information, and I'll assist you with the application on this end.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, if you have any issues after downloading, feel free to contact me anytime. I'll send you the link right away.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you a successful application.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you advise me if there are any light and breathable clothing suitable for summer here?
+Speaker2: Yes, we have a lightweight windbreaker here that's perfect for summer travel.
+Speaker1: What color is this suit?
+Speaker2: We have black, blue, and light gray, all of which are quite versatile colors.
+Speaker1: The gray color sounds good, how is the material of this suit?
+Speaker2: This suit is made of lightweight and breathable polyester fabric, which feels soft in hand and comfortable in touch, and is very suitable for wearing in summer.
+Speaker1: How much is it?
+Speaker2: This light gray suit costs 258 yuan, and we currently have a full 300 yuan discount activity.
+Speaker1: If I buy it now, how long will it take to deliver?
+Speaker2: We usually ship within 24 hours after ordering, depending on your location, it usually takes 3-5 days to deliver.

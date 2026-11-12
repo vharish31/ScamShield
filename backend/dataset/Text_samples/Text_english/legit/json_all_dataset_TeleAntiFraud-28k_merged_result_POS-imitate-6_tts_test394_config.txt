@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from the supermarket. We have noticed that you have a large amount of unused points in your account.
+Speaker2: Oh, points? I didn't notice.
+Speaker1: Yes, the points in your account can be used to exchange various products, such as daily necessities, electronic products, and food.
+Speaker2: Really? Then how did I not receive the notification?
+Speaker1: It's possible that you didn't pay attention to our latest news, but now that you know, it's not too late, the points will be cleared at twelve o'clock tonight.
+Speaker2: So urgent? Then what should I do?
+Speaker1: You can log in to our official website or open our app, enter our point mall, select the products you want, and then use points to exchange them.
+Speaker2: Okay, let me try.
+Speaker1: If you encounter any issues during the operation, please contact our customer service at any time, we will provide you with assistance.
+Speaker2: Thank you for your reminder. I will handle it quickly.

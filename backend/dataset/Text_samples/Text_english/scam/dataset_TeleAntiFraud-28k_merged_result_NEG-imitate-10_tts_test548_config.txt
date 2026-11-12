@@ -1,0 +1,8 @@
+Speaker1: Hello, this is Richlis Bank's customer service representative Little Wang, disturbed.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we noticed some unusual activity on your account recently, to ensure the safety of your funds, we need you to cooperate with us to perform a simple verification.
+Speaker2: Really? Then what do I need to do?
+Speaker1: Firstly, can you tell me your full name and ID number?
+Speaker2: My name is Zhang San, my ID number is 123456789012345678.
+Speaker1: Okay, Professor Zhang, please click on the link in the text message we sent you to access our verification page.
+Speaker2: Okay, I'll check my messages now.

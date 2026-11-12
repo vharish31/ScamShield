@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can you recommend a new phone for me recently?
+Speaker2: Of course, what do you usually do with your phone?
+Speaker1: Mainly I surf the net, watch videos, occasionally play games.
+Speaker2: I suggest you choose a phone with a good battery life, a clear screen, and a new phone on the market with good configuration and high value for money.
+Speaker1: What is the price of this phone?
+Speaker2: This phone's price is approximately 2500 yuan, and there's a 100 yuan discount now.
+Speaker1: How does the camera effect of that sound?
+Speaker2: The camera has four million pixels, the photos are vibrant, and the details are very clear.
+Speaker1: Okay, I'll think about it, if I decide to buy, can you help me place an order later?
+Speaker2: No problem, feel free to come anytime.

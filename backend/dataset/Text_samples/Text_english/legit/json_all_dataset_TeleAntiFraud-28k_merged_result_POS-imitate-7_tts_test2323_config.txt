@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service at Happy Supermarket. You have some unused points on your loyalty card that you bought last week at our supermarket. They will expire tonight at midnight.
+Speaker2: Oh, really? I completely forgot, can you help me check how many specific points I have left?
+Speaker1: Okay, just a moment, I'll check. Hmm, your account has 3,500 points, which can be used to exchange many products, such as daily necessities, food, and small appliances.
+Speaker2: That's great, I've always wanted an electric kettle. Do you have one in the supermarket?
+Speaker1: Yes, our supermarket has various brand electric kettles, and there's a promotion right now where you can exchange one with a few points and some cash.
+Speaker2: What should I do now?
+Speaker1: You can log in to our supermarket member center, find the points mall, select the electric kettle you want, and then follow the instructions to operate it.
+Speaker2: Okay, I'll go operate now, thanks for your reminder.
+Speaker1: No problem, if you encounter any issues during the process, feel free to contact me anytime. I hope you have a smooth exchange, goodbye!
+Speaker2: Okay, bye!

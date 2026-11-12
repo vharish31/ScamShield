@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm Zhang, the customer service representative for the point store. I see that your account has no points to redeem or use. Tonight at midnight, all points will expire and be cleared. Do you know?
+Speaker2: Oh, really? I didn't notice, how did these points come?
+Speaker1: These points are the ones you accumulated by using your phone to pay for purchases. You now have over 30,000 member points in your account, which you can directly exchange for products in the mall. For example, you can exchange white wine gift boxes, famous brand four-piece suits, high-definition TVs, and smartwatches for electronic products using your points.
+Speaker2: Oh, like this, then I'll take a look and see what good stuff I can exchange.
+Speaker1: Okay, I'll recommend some popular products to you. Moreover, as a token of appreciation for your continuous support, if you exchange products today, I will help you apply for a special privilege. The remaining balance of your points will be retained in your account, and you will also receive an additional gift package with free return service.
+Speaker2: Listen well, what suits me?
+Speaker1: Okay, you can check on our points mall website, or I can recommend a few for you directly.
+Speaker2: Can you recommend a few brands for me? I'm not convenient to go online here.
+Speaker1: Okay, I recommend this smartwatch to you. It has health monitoring, message reminders, and many other functions. It's very practical. Also, this high-definition TV has clear picture quality and is suitable for family entertainment.
+Speaker2: The smartwatch sounds good, I'll take a look at the specific model and features.
+Speaker1: This new smartwatch supports heart rate monitoring, blood pressure measurement, and can connect to your phone to view messages. Very convenient. If you're interested, I can exchange it for you now.
+Speaker2: Okay, can you help me exchange this smartwatch?

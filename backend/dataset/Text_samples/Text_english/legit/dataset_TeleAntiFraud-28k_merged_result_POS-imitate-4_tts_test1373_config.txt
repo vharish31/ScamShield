@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, how are you? I'm little king, have you recently been interested in the smartwatch on our website?
+Speaker2: Uh, okay, I want to know more about this watch's functions and price.
+Speaker1: This watch has health monitoring, message reminders, and payment functions, priced at 2999 yuan, and there's a discount promotion going on right now, so if you buy it now, you can get a 200 yuan discount.
+Speaker2: Oh, it sounds good, how long is the battery life of this watch?
+Speaker1: The estimated navigation time for this watch is around four to five days, depending on usage.
+Speaker2: Okay, can you provide door installation service at home?
+Speaker1: We currently provide nationwide express delivery services. If you need professional installation guidance, you can check the tutorial online or contact our customer service for remote guidance.
+Speaker2: If I buy something and find out there's a problem, do you guys have a return service?
+Speaker1: Of course, we provide a one-year free warranty service. If you have any questions, you can directly contact our customer service. We will solve them for you.
+Speaker2: Okay, thank you for your detailed introduction. I'll think it over before making a decision.
+Speaker1: No problem, please feel free to contact me anytime if you have any questions. I hope our watches can be helpful to you in your daily life.

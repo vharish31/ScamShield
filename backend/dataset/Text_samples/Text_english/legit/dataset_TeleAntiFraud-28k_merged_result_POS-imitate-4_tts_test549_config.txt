@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, where are you?
+Speaker1: Where are you at the fourth exit of the mall?
+Speaker2: Have you seen the pickup point for Didi at the third exit?
+Speaker1: Do you see the sign here that says the pick-up point for Didi is on B level?
+Speaker2: Can you see it? That should be over there, but there are so many people here, are you sure it's here?
+Speaker1: It should be so, there are several parking spots here, it should be the pick-up point for ride-hailing.
+Speaker2: Okay, I'm coming over now. Wait for me a minute, I'm almost there.
+Speaker1: Okay, I'll wait for you here. Call me when you arrive.
+Speaker2: Okay, see you later. Thanks.
+Speaker1: No problem, see you later.

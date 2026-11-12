@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am Zhang, the waiter at the food street restaurant. Are you Li first name, who ate at our restaurant last week?
+Speaker2: Yes, I am, what do you have in mind?
+Speaker1: We received some feedback from you about the restaurant, thank you very much. As a token of our appreciation for your support, we would like to invite you to come again for a free lunch.
+Speaker2: Is it really? That's great, but I'm not sure if I had time that day.
+Speaker1: You can choose a convenient time, we can reserve a seat for you.
+Speaker2: Okay, let me see how this weekend goes.
+Speaker1: Which weekend is more convenient, Saturday or Sunday?
+Speaker2: Sunday should be possible, around one in the afternoon.
+Speaker1: Okay, so we'll reserve a spot for you at two o'clock on Sunday afternoon, looking forward to your arrival.
+Speaker2: Thank you, see you on Sunday.

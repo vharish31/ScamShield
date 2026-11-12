@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the property manager of the community, and I want to confirm the repair time for your water and electricity.
+Speaker2: Hello, is three in the afternoon your reserved time?
+Speaker1: Okay, we will arrive at three o'clock on time. Do we need to prepare anything in advance?
+Speaker2: Just some tools at home, like screwdrivers and pliers, the others should not be needed.
+Speaker1: Okay, we will bring the necessary tools. If we need anything else, we will communicate with you.
+Speaker2: Okay, let's meet at three o'clock today.
+Speaker1: Okay, if there are any changes we'll contact you beforehand, do you have anyone at home?
+Speaker2: Yes, I will be there.
+Speaker1: Okay, we'll arrive on time. If there are any issues, feel free to contact us anytime.
+Speaker2: Okay, thank you, bye.
+Speaker1: No problem, goodbye.

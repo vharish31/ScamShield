@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm the customer manager of Huaxia Bank, Zhang. We have a new loan policy recently, the interest rate is very low, and the approval is fast. Do you want to know more about it?
+Speaker2: Hello, little Zhang, I am Li Ming, can this loan solve my cash flow problem?
+Speaker1: Of course, as long as you have a business license, we can provide up to 30,000 yuan in financial support. Just fill out some basic information, and we can quickly approve it.
+Speaker2: Listen well, what do I need to do?
+Speaker1: It's very simple. Just click this link, fill out your personal and business info, and we'll start reviewing right away.
+Speaker2: How do I know this link is safe?
+Speaker1: This link is provided by our official Huaxia Bank, absolutely safe. For your safety, you can also directly download our official app, which is more convenient.
+Speaker2: What should I do after downloading the app?
+Speaker1: After downloading the app, you can find the loan application entrance on the homepage and fill out the information according to the prompt. After submitting, we will quickly review it. If you have any questions, you can contact me anytime.
+Speaker2: Okay, I'll download it now. Thank you for your help.

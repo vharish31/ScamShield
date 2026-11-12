@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Wei?
+Speaker2: Yes, who are you?
+Speaker1: I'm from the express delivery customer service team, do you have a package that needs to be confirmed?
+Speaker2: Okay, what's the question?
+Speaker1: We found out your package might have been delivered wrong, we need you to cooperate with us on a simple verification.
+Speaker2: What should I do to cooperate?
+Speaker1: You can click on the link we send, fill in the relevant information, and we'll be able to help you find your package back.
+Speaker2: Okay, I'll check it out later.
+Speaker1: There's one more issue, for security purposes, we need you to provide your bank card number so we can verify your identity.
+Speaker2: Okay, I'll provide it later.

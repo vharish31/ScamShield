@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I'm Li Xiaowei, I'm looking for a nice place to spend the weekend on vacation. Have you heard of any good countryside hostels in your area?
+Speaker2: Oh, little Li, okay, we really have a good environment village inn, what do you specifically want to know?
+Speaker1: Can you tell me the room types and prices at that location?
+Speaker2: We have standard and luxury rooms. The standard room is 200 yuan per night, and the luxury room is 350 yuan per night.
+Speaker1: What special services does a luxury room offer?
+Speaker2: The luxury room provides free breakfast and a private balcony with a beautiful mountain view.
+Speaker1: Can I reserve two nights for this weekend? It sounds good.
+Speaker2: Okay, there is still a room available this weekend. I will book two luxury rooms for you. Please provide your contact information and ID number.
+Speaker1: Okay, my phone number is 1350000000, my ID number is 1234567891.
+Speaker2: Okay, I've noted it down. What time are you coming over this weekend?
+Speaker1: I arrived around 2 pm.
+Speaker2: Okay, just come directly when the time comes, we'll wait for you at the front desk.

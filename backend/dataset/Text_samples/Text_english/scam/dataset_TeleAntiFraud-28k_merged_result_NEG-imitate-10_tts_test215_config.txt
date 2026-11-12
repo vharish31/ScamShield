@@ -1,0 +1,14 @@
+Speaker1: Hello, are you Li first name?
+Speaker2: Yes, you are?
+Speaker1: I am a customer manager at Agricultural Bank, and there's a great loan project I want to recommend to you.
+Speaker2: Loan? I don't need it now.
+Speaker1: Mr. Li, this loan project has a very low interest rate, and the procedures are very simple, no collateral is required, and the review is quick.
+Speaker2: Is it really that good?
+Speaker1: Yes, there's also a special discount promotion now for applying, you can download our app, register and then see the detailed information.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, after downloading the app, you can see detailed information and apply online directly, which is very convenient.
+Speaker2: How do I know this app is yours?
+Speaker1: You can scan the QR code I send you, this QR code is specifically made for our project, absolutely safe.
+Speaker2: Okay, let me try.
+Speaker1: Great, I'll send the QR code to your phone now. Scan it and follow the instructions after.
+Speaker2: Thank you, I will try.

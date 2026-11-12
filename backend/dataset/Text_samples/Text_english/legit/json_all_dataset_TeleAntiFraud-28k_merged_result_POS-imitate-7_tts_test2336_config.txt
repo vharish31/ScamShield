@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently want to buy a phone, I see your store has many phones, I want to consult.
+Speaker2: Hello, I'm Little Li from the Phone City, how can I help you?
+Speaker1: I want to buy a phone with a high price-to-value ratio, my budget is around 2000, do you have any recommendations?
+Speaker2: This price point has a few high value-for-money options, such as the latest Xiaomi and Huawei, which are both great choices.
+Speaker1: What are the differences between these two?
+Speaker2: The battery life of small mi is longer, and the pixel of the honor camera is higher. You can choose according to your needs.
+Speaker1: Do both of these phones have in-stock?
+Speaker2: All products are in stock, you can come anytime to pick.
+Speaker1: Okay, can I go around three in the afternoon?
+Speaker2: Of course, I'll wait for you at the store. If you have any other questions, feel free to contact me anytime.

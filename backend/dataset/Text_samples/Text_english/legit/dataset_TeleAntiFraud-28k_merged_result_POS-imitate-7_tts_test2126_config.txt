@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, hello, your car arrived.
+Speaker1: Okay, I'll come down right away.
+Speaker2: Okay, pay attention to safety.
+Speaker1: Thank you, I came out, did you see me?
+Speaker2: I see you, just walk a little to the right, I'll wait for you here.
+Speaker1: Okay, I see it.
+Speaker2: Let's get in the car, sit down firmly.
+Speaker1: Okay, thank you.
+Speaker2: No problem, let's go.

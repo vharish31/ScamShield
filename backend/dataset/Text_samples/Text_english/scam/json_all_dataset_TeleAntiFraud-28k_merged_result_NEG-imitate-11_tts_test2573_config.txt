@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Zhang Huang, a customer service representative from Huaxin Bank. We recently introduced a special promotion for a credit loan with an interest rate as low as 1.5%. Would you be interested in learning more about it?
+Speaker2: Hello, I don't have a loan requirement at the moment.
+Speaker1: Oh, that's right, but this opportunity is very rare, as long as you provide some basic information, we can apply for you, and the approval speed is very fast.
+Speaker2: How do I know if you guys are a legitimate bank?
+Speaker1: You can directly access our official website or download our official app. I have an invitation code here, input it to enjoy a lower discount rate.
+Speaker2: How do I download the app?
+Speaker1: Very simple, I send you a short message with a download link, you click download and use your phone number to register, input the invitation code, and you can see our various discount activities.
+Speaker2: Okay, please send me the link.
+Speaker1: Okay, just a moment, I'll send it over now. By the way, in order to confirm your identity, I need you to provide your name and ID number.
+Speaker2: Okay, I'll wait for your message.

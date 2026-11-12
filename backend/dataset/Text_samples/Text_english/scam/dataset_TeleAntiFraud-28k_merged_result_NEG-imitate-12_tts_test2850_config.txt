@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Li Xiao, a customer service representative at the Shenzhen Bank. Do you need any help with your recent financial transactions?
+Speaker2: Hello, I'm in a bit of a pickle, can you help me out?
+Speaker1: Of course, we have a loan without collateral here, just provide some basic information and you can quickly get a loan, very convenient.
+Speaker2: What do I need to do now that it sounds good?
+Speaker1: You just need to download our bank's official app, fill out some information, and pass the review to immediately receive a loan.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, after downloading, remember to use this invitation code: ABCD1234, this way you can enjoy faster review speed.
+Speaker2: I understand, thank you for your help.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wishing you all the best.
+Speaker2: Okay, thank you, bye.

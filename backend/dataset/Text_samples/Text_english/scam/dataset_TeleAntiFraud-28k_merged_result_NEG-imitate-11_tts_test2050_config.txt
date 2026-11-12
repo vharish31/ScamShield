@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm small Zhang, I work for some certain bank as a customer service specialist. We recently launched a very affordable loan product, do you have any recent need for cash flow?
+Speaker2: Hey, loan, I've been having some trouble with cash flow lately, can you tell me more about your loan products?
+Speaker1: This loan product is very flexible, no collateral, quick approval, low interest rate, maximum loan amount of 50,000, very suitable for customers like you. As long as you have stable income and good credit record, you can apply.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: Okay, to simplify the application process, you can first scan the QR code I send to you, download our loan app, and then fill out the relevant information. We will quickly review it for you.
+Speaker2: Okay, I scanned the QR code, downloaded the app, what do I need to do next?
+Speaker1: After downloading the app, register an account first, then click on "apply for loan" on the homepage, fill in your personal information and loan requirements, and submit. We will have a specialist review it. To speed up the review process, you can pay a small amount of review fee upfront, which will be refunded to you after the loan is approved.
+Speaker2: Okay, what is the review fee?
+Speaker1: The review fee is 300 yuan. You need to pay through the app first, and we will start reviewing immediately after payment is successful. It usually takes 24 hours to complete.
+Speaker2: Understood, I'll go pay now. Thank you for your help.

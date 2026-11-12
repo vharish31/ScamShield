@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm at Beijing North Station, I can't catch the train, what should I do?
+Speaker2: Hello, please wait for a moment, I'll check if there are any available vehicles nearby.
+Speaker1: Okay, there are a lot of people here, can you hurry up?
+Speaker2: Understood, I will arrange it quickly, you first wait in a safe place.
+Speaker1: Okay, I'm waiting at the exit, you can call me when you arrive.
+Speaker2: Okay, I'll be there in about ten minutes or so. Let you know when I arrive.
+Speaker1: Okay, I've been working hard, I'll call you.
+Speaker2: Don't worry, I'll get there quickly, be careful on the road.
+Speaker1: Thank you, be careful on the road too.
+Speaker2: Okay, see you later.

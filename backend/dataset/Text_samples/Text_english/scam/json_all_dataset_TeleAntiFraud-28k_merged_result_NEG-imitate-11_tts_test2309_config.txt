@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little king?
+Speaker2: Hello, I'm little king, who are you?
+Speaker1: I am a customer manager at China Construction Bank, Li Manager. Recently we launched a low-interest loan product with a very favorable interest rate. Would you like to know if you have any funding needs?
+Speaker2: "Oh, I don't have this requirement at the moment."
+Speaker1: That's too bad. But if you have any financial needs, feel free to contact me anytime. By the way, we also have a financial investment product with great returns, you might want to check it out.
+Speaker2: Invest in wealth management? It sounds good, can you give me a detailed introduction?
+Speaker1: Of course. This financial product is our bank's star product, with an annual yield rate of up to 10%, and it's very safe. You can download our app, register, and then see the detailed information.
+Speaker2: Where can I download the app?
+Speaker1: You can search 'Zhongxin Touzi' on the mobile app store and download our official app. After registering, I can also give you some discount coupons to help you better manage your finances.
+Speaker2: Okay, I'll give it a try. Thank you for your recommendation.

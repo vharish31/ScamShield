@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me? Who are you?
+Speaker1: Do you remember that you said you wanted to come to my house to play last time? I'm Li Xiao.
+Speaker2: Oh, do you remember? Where do you live in the community?
+Speaker1: I live in Greenview Garden, right in the city center.
+Speaker2: I know the Green Scenery Garden, but I'm not clear on how to walk around specifically.
+Speaker1: I'll meet you at the door when you arrive.
+Speaker2: Okay, I'll arrive around 3 pm, is that convenient for you?
+Speaker1: Three o'clock is fine, I'm right at home.
+Speaker2: Okay, see you in the afternoon!

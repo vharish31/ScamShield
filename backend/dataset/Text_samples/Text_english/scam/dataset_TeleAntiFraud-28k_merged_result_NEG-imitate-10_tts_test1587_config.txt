@@ -1,0 +1,10 @@
+Speaker1: Hello, this is JD customer service, your package was accidentally lost during transportation, we can handle compensation, is that convenient for you?
+Speaker2: Oh, my delivery was lost? What should I do now?
+Speaker1: Please don't rush, we have a fast compensation process, you need to provide us with your order number and delivery information, we will handle it on this end.
+Speaker2: Okay, my order number is 123456789, and the delivery information is the same address I filled out before.
+Speaker1: Okay, we have recorded everything. To process your compensation more quickly, please click on a link and fill out some necessary information.
+Speaker2: How do I click on a link?
+Speaker1: You can access the link by scanning the QR code with WeChat, or I can send you a short message with the link, just click on it.
+Speaker2: Okay, let's send a text message.
+Speaker1: Okay, the message will be sent to your phone later, please pay attention to check it. Moreover, we also have a JD customer service app, you can download it to handle these issues more conveniently.
+Speaker2: Okay, thank you, I download the app.

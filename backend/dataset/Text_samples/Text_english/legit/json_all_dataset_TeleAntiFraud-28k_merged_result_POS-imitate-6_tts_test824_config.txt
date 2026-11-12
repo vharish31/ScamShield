@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, who are you?
+Speaker1: Hi, I'm a customer service representative for Happy Buy. I see that you've recently browsed a lot of products on our platform but haven't placed an order yet. Is there anything I can help you with?
+Speaker2: Hey, is it like this, I'm still considering, what's your return policy like?
+Speaker1: Our platform's return and exchange policy is very flexible. Within seven days of receiving the product, you can return it without reason. Within fifteen days, you can exchange it.
+Speaker2: Okay, now I can relax. Do you guys have any promotional activities now?
+Speaker1: Yes, we are currently conducting the spring promotion, some products are on sale at 50% off, and there are also buy one get one free activities, it's very cheap.
+Speaker2: Sounds good, let me take a look and see what's suitable. Okay, what's your delivery time approximately?
+Speaker1: Orders are usually shipped within 24 hours after purchase, and delivery times vary depending on the location, typically within 1-3 days.
+Speaker2: Okay, I'll just go take a look first, and contact you if there are any issues.
+Speaker1: Okay, feel free to consult anytime, hope you have a great shopping experience, bye.
+Speaker2: Goodbye.

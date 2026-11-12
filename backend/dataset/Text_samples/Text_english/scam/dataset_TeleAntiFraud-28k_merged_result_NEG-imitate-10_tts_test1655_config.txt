@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the JD customer service center, I am customer service representative Li.
+Speaker2: Hello, do you have anything?
+Speaker1: We found out that you recently bought a product on our platform and it's possible that the package was lost due to shipping issues.
+Speaker2: Really? Then what do we do now?
+Speaker1: Don't worry, we can handle your refund. To ensure your information is safe, you need to download our official app to complete the refund process.
+Speaker2: Okay, how do I download it?
+Speaker1: You can directly click on the link I sent you and download our official app. After downloading, follow the instructions to complete the refund.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Alright, after downloading is finished, remember to add my customer service WeChat, I'll guide you through the next steps.
+Speaker2: Okay, thank you for your help.

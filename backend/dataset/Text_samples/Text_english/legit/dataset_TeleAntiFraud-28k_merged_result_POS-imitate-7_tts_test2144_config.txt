@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can you tell me if there are any new phone models here?
+Speaker2: Okay, what brand and model do you want?
+Speaker1: Have you guys seen the new Huawei phone?
+Speaker2: What specific Huawei phone models are you interested in here?
+Speaker1: That's the latest one from the Huawei Mate sixty series.
+Speaker2: We have Huawei Mate 60 series in stock here, you can come try it out.
+Speaker1: How much does this phone cost?
+Speaker2: The price of the Huawei Mate 60 series is 5800 yuan, and there is currently a discount promotion for purchasing.
+Speaker1: Are there any discount activities?
+Speaker2: Buy Huawei Mate 60 series now and get a 200 yuan discount, plus a phone case.
+Speaker1: When can I come?
+Speaker2: You can come over at 10 am tomorrow, I'll leave a room for you.
+Speaker1: Okay, thank you.
+Speaker2: No problem, see you tomorrow.

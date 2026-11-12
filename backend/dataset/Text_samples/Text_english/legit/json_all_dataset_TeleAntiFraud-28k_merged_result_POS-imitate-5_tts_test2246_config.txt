@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I'm the customer service representative for the food delivery platform, did you order our spicy pot from us last time? How was it?
+Speaker2: Hello, it's quite delicious, quite spicy.
+Speaker1: That's great, we recently introduced several new non-spicy dishes, don't know if you're interested in trying them out?
+Speaker2: Can you try, do you have any recommendations?
+Speaker1: We have a dish of steamed fish with ginger and scallions, fresh and delicious, and also have ginger and scallions, clean and refreshing, both very popular.
+Speaker2: Sounds good, I can try next time. Oh, do you guys have any discount activities now?
+Speaker1: There's a promotion now, buy one get 20 off, and new customers can enjoy a 50% discount on their first order.
+Speaker2: That's a great deal, I'll invite some friends next time. Thank you for your recommendation.
+Speaker1: No problem, I hope you like it. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye, wish you a happy day.

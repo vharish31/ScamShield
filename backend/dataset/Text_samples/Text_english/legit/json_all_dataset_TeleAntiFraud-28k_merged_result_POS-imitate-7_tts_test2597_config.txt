@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Did you see that you had previously browsed fitness courses on our website? Are you interested in fitness?
+Speaker2: Yes, recently I want to start working out my body, do you have any recommendations for courses?
+Speaker1: Do you prefer our basic fitness courses or our specialized courses for weight loss and sculpting?
+Speaker2: I mainly want to lose weight, I hope to slim down a bit.
+Speaker1: Our weight loss sculpting course is very suitable for you, every week three times, each time one and a half hours, guided by professional coaches.
+Speaker2: How do you calculate the cost?
+Speaker1: A one-class fee is one hundred yuan, and if you choose a monthly card, it will be more cost-effective.
+Speaker2: Okay, if I decide to do a monthly card, how can I contact you guys?
+Speaker1: You can directly book on our website or add my WeChat, contact me anytime.
+Speaker2: Okay, I'll add you on WeChat, we'll discuss in detail later. Thank you.
+Speaker1: You're welcome anytime, feel free to consult, wishing you a happy life. Goodbye.

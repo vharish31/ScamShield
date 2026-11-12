@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here AliBaba customer service center, I is customer service specialist Zhang.
+Speaker2: Hey, how are you?
+Speaker1: We detected an unusual login on your account. To ensure the safety of your account, we need you to cooperate with identity verification.
+Speaker2: Really? Then what do I do?
+Speaker1: Please click on this link, enter your personal information and verification code to confirm that it's you operating.
+Speaker2: Can't I directly operate on the platform?
+Speaker1: This link is our specifically designated safety verification entrance, directly operating on the platform may not be secure enough, for the safety of your account, we recommend you follow our instructions.
+Speaker2: Okay, I'll try.
+Speaker1: Okay, after you complete the verification, our system will automatically process it for you. If you have any issues, feel free to contact me anytime.
+Speaker2: Thank you.

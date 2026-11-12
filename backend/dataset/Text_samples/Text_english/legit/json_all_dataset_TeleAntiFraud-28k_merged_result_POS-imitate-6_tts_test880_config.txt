@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, I want to consult your restaurant reservation service.
+Speaker2: Hello, little Li, welcome to consult, I am service staff Zhang. What can help you?
+Speaker1: Can you tell me about your signature dishes and their prices and portion sizes?
+Speaker2: Our restaurant special dishes include red braised pork, steamed fish and scallion green onion. Red braised pork is 48 yuan per portion, steamed fish is 60 to 100 yuan depending on size, and scallion green onion is 18 yuan. Portions are generous and suitable for sharing by 3 to 4 people.
+Speaker1: The sound is good, can you tell me what time your restaurant is open?
+Speaker2: Our restaurant business hours are from 11 am to 9 pm every day, and on weekends they are extended to 10 pm.
+Speaker1: Okay, can I make a reservation for six and a half tonight at your restaurant?
+Speaker2: Of course, little Li, do you want to reserve seats for several people? Are there any other special requirements?
+Speaker1: There are four of us, no special requirements, just hoping the location isn't too noisy.
+Speaker2: Okay, I have reserved four seats for you, located near the window, the environment is quite quiet. See you at six and a half tonight, looking forward to your arrival.

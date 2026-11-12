@@ -1,0 +1,12 @@
+Speaker1: Hi, I'm small Li, want to consult your hair appointment service on this side.
+Speaker2: Hello, Mr. Li, I am the customer service of the hair salon, what can I help you with?
+Speaker1: Can I make a Saturday afternoon hair appointment? Is that convenient for you guys?
+Speaker2: Saturday afternoon is fine, what specific time do you want to schedule? We can schedule the latest until 6 pm on our end.
+Speaker1: Can I make a reservation at 3 o'clock?
+Speaker2: Can 3 o'clock work? But there are many customers at 3 o'clock, do you need a haircut or other services?
+Speaker1: Cut hair, add a wash head.
+Speaker2: Okay, cut your hair and wash your head, I will record it down for you. Can you please provide your name and contact information?
+Speaker1: My name is Xiao Li, phone number is 13800138000.
+Speaker2: Okay, Mr. Li, I have recorded your appointment information. On Saturday at 3 pm, we will call you fifteen minutes in advance to remind you, is that okay?
+Speaker1: Okay, this arrangement is great, thank you.
+Speaker2: No problem, see you on Saturday. If you have any questions, you can contact us anytime. Have a nice day!

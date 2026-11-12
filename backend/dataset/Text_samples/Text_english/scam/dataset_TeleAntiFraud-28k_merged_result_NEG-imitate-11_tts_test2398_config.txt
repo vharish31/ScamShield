@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the customer service center. Your order has a small problem, please cooperate to handle it.
+Speaker2: What problem?
+Speaker1: We need to process a refund for your order because it was lost during delivery.
+Speaker2: How do you handle it?
+Speaker1: Please click on the link we sent to you and follow the instructions.
+Speaker2: Okay, I received it. Now I'm going to operate.
+Speaker1: Okay, if you have any issues during the operation, please contact our customer service at any time.
+Speaker2: How long do I need to wait for a refund after the operation is completed?
+Speaker1: In general, refunds are processed within 24 hours and will be credited to your account. If there is a delay, it may be due to bank processing issues, so don't worry.
+Speaker2: Okay, thank you for your help.
+Speaker1: You're welcome, wish you happy life, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you available to talk now?
+Speaker2: Sure, you say, what do you have?
+Speaker1: I just saw a new book in your bookstore and wanted to buy it, but I'm not sure if it's suitable for me. Can you help me check it out?
+Speaker2: Of course, you can tell me, which type of book is it?
+Speaker1: This is a book about ancient Chinese history, which says there are many valuable historical data and pictures.
+Speaker2: The book sounds pretty good, if you're interested in history, it should be very suitable for you.
+Speaker1: I'm really interested in history, but I'm afraid the content is too specialized and I can't understand it.
+Speaker2: You can first look at the book's introduction or table of contents. These books usually have a basic introduction suitable for different levels of readers.
+Speaker1: I'll go to the bookstore for a while, thank you.
+Speaker2: No problem, I hope you can find some interesting books.

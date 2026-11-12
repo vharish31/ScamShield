@@ -1,0 +1,10 @@
+Speaker1: Hello, I saw your shop rental information, and I want to know more about the details.
+Speaker2: Hello, do you have a specific requirement for renting a shop?
+Speaker1: I'm looking for a place to open a small restaurant, about 50 square meters, preferably near the business area.
+Speaker2: There are several places here that are pretty good for opening a restaurant, and the crowd flow is also manageable.
+Speaker1: What is the approximate rent?
+Speaker2: Rent prices vary between 5,000 to 8,000 yuan per month based on location.
+Speaker1: Can I take a look at the store first?
+Speaker2: Of course, when do you have time to come over and look?
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Okay, let's meet at the store at 3:30 PM tomorrow.

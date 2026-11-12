@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, how about you recently?
+Speaker2: Hey, little Zhang, I'm doing pretty good, thanks. How about you?
+Speaker1: I'm good too, just been pretty busy with work lately. Oh, how's that restaurant you mentioned last time?
+Speaker2: That restaurant is really good, the environment and service are both very good, and the food is very delicious.
+Speaker1: Sounds good, wanna grab a bite to eat this weekend?
+Speaker2: Yeah, that restaurant is crowded on weekends, so we should make a reservation in advance.
+Speaker1: I'll call now to book a time, how convenient for you?
+Speaker2: I have some free time in the afternoon between four and six.
+Speaker1: Okay, I'll reserve a 5:30 seat, see you then.
+Speaker2: Okay, meet at 5:30, hang up first, contact later.

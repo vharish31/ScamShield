@@ -1,0 +1,10 @@
+Speaker1: Hey, are there any dumplings at your house today?
+Speaker2: Hey, hello, sorry, dumplings with pork filling are sold out today, how about pork and chive dumplings?
+Speaker1: How much does a meat dumpling cost per portion at your home?
+Speaker2: Meat dumplings are twelve yuan per portion, ten pieces per portion.
+Speaker1: Okay, I'll have one pork dumpling and one sour fish, deliver to my home.
+Speaker2: Okay, what is your home address?
+Speaker1: The address is Happiness Villa No. 3, Unit 2, 602.
+Speaker2: Okay, I have your home address down, about thirty minutes from now I'll deliver it, can I?
+Speaker1: Okay, thank you.
+Speaker2: You're welcome. If you need to contact us at any time, we wish you a happy meal.

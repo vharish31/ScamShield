@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can I consult your restaurant's vegetarian menu, please?
+Speaker2: Of course, we have many delicious vegetarian dishes here, such as stir-fried four seasons vegetables, mushroom and oil, and stir-fried three silk, are you interested?
+Speaker1: Hmm, sounds good, what are the prices of these dishes approximately?
+Speaker2: The prices of the dishes are between 30 and 50 yuan, if you like them, we can also recommend some special dishes.
+Speaker1: Okay, can you tell me what your restaurant's business hours are?
+Speaker2: Our restaurant business hours are from 10 am to 10 pm every day, including holidays.
+Speaker1: Is that good? I plan to go on the weekend. Do I need to book the location in advance?
+Speaker2: We suggest you book in advance, especially on weekends, it will be more crowded. You can tell me the specific time, I can help you book.
+Speaker1: Okay, I want to reserve this Saturday 6pm location for two people.
+Speaker2: Okay, I have reserved a 6:00 PM spot on Saturday for two people. Please arrive on time. If there are any changes, please contact us.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival. Goodbye!
+Speaker1: Goodbye!

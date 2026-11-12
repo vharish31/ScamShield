@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the Agricultural and Commercial Bank, based on your business license, we can provide you with a loan of 40,000 yuan for your enterprise, no collateral is required, only credit review is needed, do you have any need for cash flow?
+Speaker2: I have a need, but my previous loan application was rejected, so I don't know if this time will be successful.
+Speaker1: No problem, this time we have a special policy. Just provide some basic information and we can quickly approve. Would you be convenient to add a WeChat? We can communicate further through WeChat.
+Speaker2: Sure, let me add you on WeChat.
+Speaker1: Okay, my WeChat number is abcdef123456. After you add me, I will send you detailed information table and loan process.
+Speaker2: Okay, I'll add you soon.
+Speaker1: Okay, I'll add you later and get back to you quickly. Also, if you have urgent financial needs, you can click on the link I sent you and fill out some basic information, we'll review it quickly.
+Speaker2: Okay, I understand.
+Speaker1: Okay, I'll send you the link first. If you have any questions, feel free to contact me. Best wishes for your business. Goodbye.
+Speaker2: Thank you, goodbye.

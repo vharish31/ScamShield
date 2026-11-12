@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for JD Finance, and you recently had an issue with an order on our platform that needs to be addressed.
+Speaker2: What problem?
+Speaker1: Your order was mistakenly processed as a installment payment, and you need to provide your bank card information to handle the refund.
+Speaker2: Is it true or false?
+Speaker1: You can log in to your JD account to view order details. To process quickly, please provide your bank card number and verification code.
+Speaker2: How do I know you're a real customer service?
+Speaker1: You can directly call the official JD customer service hotline to confirm, but to save time, we can handle it first, which is faster.
+Speaker2: Okay, how do I give you my bank card information?
+Speaker1: You can click this link, follow the instructions, enter your bank card number and verification code, and we will process immediately.
+Speaker2: Okay, I'll try.

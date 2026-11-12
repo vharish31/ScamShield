@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the XX Bank Loan Service Center, I am the customer service manager Li Huang. We noticed that you may be one of our high-quality customers, and you can enjoy special loan services. Do you know?
+Speaker2: Uh, is that so? What specifically is it?
+Speaker1: Yes, we have a product specifically designed for small and medium-sized enterprises that offers quick loans with no collateral, a maximum loan amount of one hundred thousand yuan, and a very competitive interest rate. Would you like to know more about it?
+Speaker2: The sound is good, but I don't understand these, how to apply?
+Speaker1: It's very simple. Just click our link, fill out some basic information, and get approved for quick funding. Can you send me your phone number so I can send you the link?
+Speaker2: Okay, my phone number is 13712345678.
+Speaker1: Thank you for your cooperation. I will now send you the link. Please click on it immediately after receiving it and follow the instructions to complete the application.
+Speaker2: Okay, let's meet later and check.
+Speaker1: Okay, in addition, to ensure safety, you may need to download our official app to complete verification. This app is available in all major app stores, and you can see the verification entrance on the homepage after downloading.
+Speaker2: I understand, I will handle it quickly.
+Speaker1: Great, if you have any questions, please call our customer service hotline 4001234567 at any time. We will provide you with assistance. Best wishes!

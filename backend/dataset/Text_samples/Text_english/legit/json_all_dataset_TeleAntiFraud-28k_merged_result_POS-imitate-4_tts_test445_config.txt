@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, recently I bought some stuff from your store and there were some problems, I want to consult how to handle it.
+Speaker2: Hello, I am customer service Zhang, very happy to serve you, what specific problem did you encounter?
+Speaker1: That air purifier I bought a few days ago, the noise was particularly loud after using it for a few days, I couldn't sleep at night.
+Speaker2: Okay, I'm really sorry to have caused you any inconvenience. Could you please tell me the specific date and product model you want to buy?
+Speaker1: I bought it last week, the model is blue sky clear wind A02.
+Speaker2: Okay, I'll check your order. Hmm, I found it. In this case, you can choose to return or exchange, and we can provide you with door-to-door service.
+Speaker1: If you choose to exchange, how long will it take to complete?
+Speaker2: We will arrange for a workman to pick up the new product within three working days after you confirm the exchange, and we will replace it as soon as possible.
+Speaker1: Okay, I'll choose to exchange it. I hope it goes smoothly this time.
+Speaker2: I guarantee you won't be disappointed. Please provide your contact information and address, and we'll arrange to handle it quickly.

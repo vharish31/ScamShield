@@ -1,0 +1,12 @@
+Speaker1: Hello, this is the customer service of SF Express, your package was lost during transportation, we deeply apologize.
+Speaker2: Oh, really? Then what do we do?
+Speaker1: To compensate you, we are preparing a refund, but we need you to cooperate with us to complete a simple procedure.
+Speaker2: Okay, what do I need to do?
+Speaker1: Just click on the link we send to you, fill out the relevant information according to the instructions, and we will quickly process your refund application.
+Speaker2: Link? Is it safe?
+Speaker1: Of course, this is our official link. You can operate it with confidence.
+Speaker2: Okay, let me try.
+Speaker1: Okay, you will receive the link shortly, please check it promptly and handle it.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome. If you have any issues during the operation, please feel free to contact us at any time. Have a nice life, goodbye.
+Speaker2: Goodbye.

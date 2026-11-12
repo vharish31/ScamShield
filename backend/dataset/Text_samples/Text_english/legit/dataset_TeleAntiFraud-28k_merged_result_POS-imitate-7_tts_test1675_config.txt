@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Lee Ming. I placed an order with you guys yesterday. Can you confirm the shipping status?
+Speaker2: Hello, Li Ming, I am customer service Zhang, can I help you with a query? Can you tell me the order number?
+Speaker1: Okay, my order number is 202304123456.
+Speaker2: Okay, just a moment, I'll check. ... I've found it, your order has been shipped, and we estimate it will arrive tomorrow.
+Speaker1: That's great, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, feel free to contact us anytime.
+Speaker1: Okay, there's another issue. Why isn't there a small gift attached to the order?
+Speaker2: Regarding the small gift you mentioned, there might have been a system error. I will help you resend it, and it should arrive within three days.
+Speaker1: That's great, thank you very much!
+Speaker2: No thanks, this is what we should do. If you have any issues with the delivery, please feel free to contact us anytime.

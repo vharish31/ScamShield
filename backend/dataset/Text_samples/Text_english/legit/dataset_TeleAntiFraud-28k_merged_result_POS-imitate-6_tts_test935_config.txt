@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from a courier company. You have a package that will be delivered to you today.
+Speaker2: Hey, how about I come home and wait at home at what time?
+Speaker1: According to the logistics information, your package will be delivered between 2 pm and 5 pm.
+Speaker2: Can I change the delivery time to another day since I won't be home during this time period?
+Speaker1: Is it okay? Which day do you want to change to?
+Speaker2: Let's change it to tomorrow afternoon, I have time tomorrow.
+Speaker1: Okay, can I change this time period to tomorrow afternoon from two to five o'clock? Is this convenient for you?
+Speaker2: This time slot works, thank you.
+Speaker1: No problem, if there are any changes, we will contact you in advance. See you tomorrow.
+Speaker2: Okay, see you tomorrow.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the person who made a haircut appointment online yesterday.
+Speaker2: Hello, I am a customer service representative. What can I help you with?
+Speaker1: Can you confirm my appointment time for tomorrow afternoon at three o'clock?
+Speaker2: Please wait, I'll check. Okay, your appointment time is indeed tomorrow afternoon three o'clock.
+Speaker1: Great, can you tell me the specific location of the hair salon?
+Speaker2: Our address is in the Lightning Tower on the third floor in the city center. Do you know how to get there?
+Speaker1: I roughly know, but I'm still scared of not being able to find it, can you tell me a more detailed route?
+Speaker2: Of course. From your side, walk straight along the Guangming Road, turn right at the second crossroad, and then you will see the Guangming Building, we are on the third floor.
+Speaker1: Okay, I understand, thank you for your help.
+Speaker2: No problem, if you have any other questions, please feel free to contact me anytime. Have a nice day!

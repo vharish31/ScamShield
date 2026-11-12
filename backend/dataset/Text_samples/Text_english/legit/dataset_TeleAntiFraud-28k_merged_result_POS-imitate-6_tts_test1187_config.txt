@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you going?
+Speaker2: I'm on the street you told me, but I can't find the place you said.
+Speaker1: Hey, wait a minute, I'll be right there to pick you up.
+Speaker2: Okay, I'm waiting for you here. How long will it take you to arrive?
+Speaker1: Ten minutes or so, the road is congested. You first find a place to stop, don't turn around randomly.
+Speaker2: Okay, I found a parking lot and parked down.
+Speaker1: Okay, copy this address and I'll send you location.
+Speaker2: Okay, I'm waiting for your location.
+Speaker1: It's already passed, take a look.
+Speaker2: Got it, I'm going now. Thanks, see you later!

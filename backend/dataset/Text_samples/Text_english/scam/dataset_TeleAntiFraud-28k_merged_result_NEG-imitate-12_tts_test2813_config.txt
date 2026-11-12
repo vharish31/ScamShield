@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from XX bank. We have noticed that your credit card has overdue unpaid balance, so we need to handle it.
+Speaker2: Really? How come I don't know?
+Speaker1: It's possible that you didn't see our previous message, to avoid affecting your credit record, we now need you to provide some information to confirm your identity.
+Speaker2: What information do I need to provide?
+Speaker1: Please confirm your identity card number, the last four digits of your bank card number, and the recent transaction amount you received. After receiving the verification code, please inform me, and I will help you solve the problem.
+Speaker2: Okay, I'll look it up right away.
+Speaker1: Okay, just tell me as soon as you find it.
+Speaker2: I found it, the last four digits of the card number are 1234, and the recent transaction amount is 567 yuan.
+Speaker1: Okay, I have recorded it. Wait, I will send you a verification code, tell me after you receive it.
+Speaker2: I received it, the verification code is seven seven eight eight.
+Speaker1: Okay, I have confirmed your information, the issue has been resolved, thank you for your cooperation.

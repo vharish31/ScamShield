@@ -1,0 +1,8 @@
+Speaker1: Can you tell me how much rent is for that house?
+Speaker2: Rent is three thousand five hundred yuan per month, including water and electricity.
+Speaker1: Hmm, sounds good, but I'm a bit tight on my hands right now, can you make it a little cheaper?
+Speaker2: Okay, if you can sign a one-year contract, I can give you a hundred less every month.
+Speaker1: That's good, but I need to check the house first before deciding.
+Speaker2: Okay, when can you come see the house?
+Speaker1: What's the plan for tomorrow afternoon at four o'clock?
+Speaker2: Sure, let's meet at the community door at 4 pm tomorrow.

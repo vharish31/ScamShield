@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask about your family's massage service. I heard it's great, right?
+Speaker2: Hello, yes, our massage service is very popular, what time would you like to book?
+Speaker1: Do you have any free time tomorrow afternoon?
+Speaker2: Is three to five in the afternoon a convenient time for you?
+Speaker1: How long do I need to arrive three hours before?
+Speaker2: We suggest you arrive fifteen minutes early, so you can relax a bit before receiving the service.
+Speaker1: Okay, I'll arrive at three o'clock on time. Also, my friend wants to come, can we make a reservation together?
+Speaker2: Of course, the two of you can enjoy the service together. Can I help you book a double massage for tomorrow at three in the afternoon?
+Speaker1: Goodbye, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

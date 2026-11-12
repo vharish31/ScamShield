@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, can you hear me? Who are you?
+Speaker1: Hey, I'm little Ming. Let's chat about the new project today, shall we?
+Speaker2: Oh, Xiaoming, I remember now, today there's really something going on, how about we reschedule?
+Speaker1: Okay, when do you have time?
+Speaker2: What's the plan for tomorrow afternoon at three o'clock?
+Speaker1: What time is it tomorrow afternoon? Where shall we meet?
+Speaker2: Let's go to Starbucks, the environment there is not bad.
+Speaker1: Okay, let's meet at Starbucks tomorrow.
+Speaker2: See you tomorrow, be careful on the road.

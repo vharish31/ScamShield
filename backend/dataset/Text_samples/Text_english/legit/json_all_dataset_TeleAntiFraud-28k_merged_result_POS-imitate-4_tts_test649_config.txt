@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little Li, I saw a nice electric car in your store that suits me well, want to know more about it?
+Speaker2: Hello, Small Li, which electric car is it?
+Speaker1: That's the month with a rent of 249, it looks pretty simple.
+Speaker2: Yes, that style is our simple style, suitable for daily use, very convenient.
+Speaker1: How is the range of this electric car?
+Speaker2: This electric car's range is approximately 50 miles, enough for daily commute use.
+Speaker1: Uh, if you need to change the battery, do you need to pay extra?
+Speaker2: Yes, changing the battery costs 16 yuan, but the battery's lifespan is usually around one year.
+Speaker1: Sure, can I try driving on the weekend?
+Speaker2: Of course, our store is open on weekends, you can come anytime.
+Speaker1: Okay, thank you for your help, see you this weekend.
+Speaker2: No problem, see you this weekend, wish you have a nice day.

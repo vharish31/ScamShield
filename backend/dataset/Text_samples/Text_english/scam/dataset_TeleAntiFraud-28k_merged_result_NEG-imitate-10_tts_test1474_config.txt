@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am from the channel department of Guangfa Bank. Recently we have launched a special discounted loan product, no collateral, quick approval, low interest rate. Are you interested in learning more?
+Speaker2: Hey, loan, I recently have a bit of a cash need, can you give me some specifics?
+Speaker1: Of course, our loan products are very suitable for customers who have short-term cash needs. You just need to provide some basic information, and we can apply for a loan for you. Do you have a smartphone? You can download our APP, which is very convenient to use.
+Speaker2: Do I have a smartphone, but will downloading apps have any risks?
+Speaker1: No way, our bank's app is very safe and easy to use. It only takes a few minutes to complete the application. If you don't want to download, you can click this link and apply online.
+Speaker2: I'll just directly download the app, it's more convenient for later use.
+Speaker1: Okay, open your phone's app store, search for '广发银行贷款', download and install it. After installation, you can use your phone number to register and fill in the relevant information. We will have a specialist review it.
+Speaker2: Okay, I'll download it later.
+Speaker1: Great! If you encounter any issues during the process, feel free to contact me anytime. My phone number is 40016889999. Best of luck with your application!
+Speaker2: Okay, thank you for your help. I will contact you. Goodbye.
+Speaker1: No problem, goodbye!

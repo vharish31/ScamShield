@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm the customer service at the food square. Do you have any thoughts about dining here recently?
+Speaker2: Hey, how are you? I haven't been out to eat recently, do you have any recommendations?
+Speaker1: We just opened a new restaurant here that specializes in healthy light food, it's very popular, would you like to try it out?
+Speaker2: What time does the business open?
+Speaker1: This restaurant is open from 10 am to 10 pm, you can come at any time, very convenient.
+Speaker2: That's great, I plan to go out with my friend this weekend and then decide later whether to try it.
+Speaker1: It's great, there might be more people on weekends, so I suggest you book in advance, that way you can save time waiting in line.
+Speaker2: Okay, I'll call ahead to make a reservation. Also, does your friend have any vegetarian options?
+Speaker1: Of course, we have a special vegetarian menu there, with a variety of dishes, to ensure that your friend's taste is satisfied.
+Speaker2: That's great, thank you for your recommendation and advice, see you later!
+Speaker1: No problem, looking forward to your arrival, wish you a happy weekend!

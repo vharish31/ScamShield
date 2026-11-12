@@ -1,0 +1,10 @@
+Speaker1: Hey, how have you been lately?
+Speaker2: Hey, how are you? Just busy with work. How about you?
+Speaker1: I'm sorry, I'm busy lately. Do you have any free time this weekend?
+Speaker2: Do you have any plans?
+Speaker1: Let's go to the new restaurant and try it out, I heard it's pretty good.
+Speaker2: Sounds good, I heard their beef is great, so let's meet up on Saturday afternoon.
+Speaker1: Okay, let's meet at the restaurant door at one o'clock on Saturday afternoon.
+Speaker2: Okay, see you on Saturday, contact me then.
+Speaker1: See you later, be careful on the way.
+Speaker2: Thank you, you too, goodbye.

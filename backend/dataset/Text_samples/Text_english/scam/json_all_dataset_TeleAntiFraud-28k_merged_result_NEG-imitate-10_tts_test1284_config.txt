@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of sequoia express, did you lose a package and need us to handle it?
+Speaker2: Hello, I recently didn't receive a package, what happened?
+Speaker1: That's right, your package was lost during transportation, so we need you to provide your bank card information so we can give you a refund.
+Speaker2: Refund? Do I need to provide my bank card number and verification code?
+Speaker1: Okay, you need to provide bank card number and verification code, we will refund within ten minutes to your account.
+Speaker2: Okay, that's my bank card number is six two two two zero eight zero zero zero zero zero zero0, verification code is one two three four.
+Speaker1: Thank you very much, we have recorded it and will process it later. Moreover, to ensure the safety of your package, we recommend downloading our official app, which allows you to track the real-time status of your package.
+Speaker2: Okay, how do I download your app?
+Speaker1: You can scan this QR code or click this link to download our official app.
+Speaker2: Okay, I'll download it right away. Thank you for your help.

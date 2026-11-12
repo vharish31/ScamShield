@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm Xiao Wang, recently looking for a new job, saw your company has job openings for engineers, want to know more details.
+Speaker2: Hello, little Wang, I am small Li from the human resources department, very happy to provide help to you. Which position are you interested in?
+Speaker1: I am interested in the position of software development engineer and want to know the specific requirements for this position.
+Speaker2: Software development engineers are responsible for designing and developing software, requiring good programming foundations, proficiency in Java or Python, and some project experience.
+Speaker1: Sounds good to me based on my experience and project involvement. What's the salary and benefits like for this position?
+Speaker2: Based on your experience and ability, our salary range is approximately between 8,000 to 12,200, and we can discuss the specifics during the interview.
+Speaker1: Okay, what is the general process for an interview?
+Speaker2: The interview process usually starts with a phone screening, followed by a technical interview, and finally an HR interview. The entire process usually takes about a week.
+Speaker1: I understand, I also want to know more about the company's work environment and team situation.
+Speaker2: Our company values teamwork, the work environment is relaxed and enjoyable, and all team members are very friendly. If you're interested, you can come to the company for a visit first.
+Speaker1: Can I come observe when it sounds good?
+Speaker2: You can choose between 3pm on Tuesday or Thursday afternoon, both times I'm free, I can take you on a tour.

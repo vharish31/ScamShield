@@ -1,0 +1,10 @@
+Speaker1: Hey, are you the yellow boss?
+Speaker2: Who are you?
+Speaker1: Hi, I'm Li Xiao from the Commercial Bank's Credit Department. Recently, we launched a new loan product specifically designed for business friends. Would you be interested in learning more about it?
+Speaker2: Can I borrow some money? I recently need some cash flow, can you give me a detailed explanation?
+Speaker1: Okay, this loan product does not require collateral, approval is fast, the limit is high, and it's very suitable for your situation. Would you like to first download our app, fill out some basic information, and I can quickly review it for you?
+Speaker2: Can I download the app? This sounds a bit tedious, can't I just talk about it directly on the phone?
+Speaker1: Oh, that's how it is, because we need some basic data to evaluate your credit situation, it's not convenient to operate on the phone. But applying through the app is particularly convenient, only takes a few minutes.
+Speaker2: Okay, I'll try it out. What's the name of this app?
+Speaker1: Our app is called "Speed Loan Jewel", you can search and download it in the app store. After downloading, enter the referral code 123456, so I can quickly process it for you.
+Speaker2: Okay, I'll download it right away.

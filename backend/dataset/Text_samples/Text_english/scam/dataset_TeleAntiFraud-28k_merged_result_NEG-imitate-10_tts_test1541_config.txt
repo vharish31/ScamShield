@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Wang?
+Speaker2: Hey, how are you? Can you tell me who you are?
+Speaker1: Hi, I'm Liu, the customer manager at Commercial Bank, we recently launched a no collateral loan product with a very competitive interest rate. Would you be interested in learning more about it?
+Speaker2: Uh, I'm a bit tight on cash right now, I really need to turn over some funds, can you give me a detailed explanation?
+Speaker1: Of course, this loan product is very suitable for you, no need for collateral, the application process is also very simple. You just need to download our official app, fill in some basic information, submit the loan application and that's it.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Absolutely safe, our app is officially certified, you can download it with peace of mind. For your convenience, I can send you a download link, are you ready to receive a short message now?
+Speaker2: Sure, you can.
+Speaker1: Okay, I'll send it to you now. There might be a delay of a few minutes before you receive the text message, so please pay attention to it. If you have any issues after downloading it, feel free to contact me anytime.
+Speaker2: Okay, thank you.

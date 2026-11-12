@@ -1,0 +1,13 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Yes, who are you?
+Speaker1: I am a small Zhang from the Commercial Bank of China, the bank has just launched a new loan project, specifically for small and medium-sized enterprises, no collateral, low interest rate, can solve your cash flow problem.
+Speaker2: "Ugh, I'm not interested in loans."
+Speaker1: That's really too bad, this loan project is really suitable for you. You just need to provide some basic information, and we can quickly approve it.
+Speaker2: No need, thank you.
+Speaker1: Are you sure? This project is quite difficult and many people are applying. If you're convenient, you can add my WeChat and I'll give you a detailed introduction.
+Speaker2: I already have WeChat, no need to add new friends.
+Speaker1: Okay, you can scan this QR code to directly enter our loan application page, very convenient.
+Speaker2: QR code? How do I know if this is safe?
+Speaker1: Don't worry, this is our official link, absolutely safe. You can first check the page to understand the specific information, and if you have any questions, you can contact me anytime.
+Speaker2: Okay, let me try.
+Speaker1: Great, thank you for your trust. If you have any issues during the application process, please feel free to contact me anytime, I will help you answer. Best wishes!

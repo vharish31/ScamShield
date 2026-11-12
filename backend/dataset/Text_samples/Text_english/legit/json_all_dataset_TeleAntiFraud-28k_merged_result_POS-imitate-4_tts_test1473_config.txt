@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you? Is there anything I can help you with?
+Speaker1: I found a computer on your website that I like and want to know more about the details.
+Speaker2: Okay, that computer is our best-selling product. Do you have any specific questions?
+Speaker1: What is the configuration of this computer? How much does it cost?
+Speaker2: This computer configuration is good, it comes with the latest processor, 16GB memory, 500GB SSD, and costs 6999 yuan.
+Speaker1: The sound is good, but I'm a bit tight on hand right now, do you have a service for installment payments?
+Speaker2: Yes, we support multiple payment options, such as three, six, or twelve periods. Specifically, you can choose based on your needs.
+Speaker1: How do you calculate interest for the installment payment plan?
+Speaker2: Our third-party payment platform provides interest-free installment services. If you choose three or six periods, it's completely interest-free.

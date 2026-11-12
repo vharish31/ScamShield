@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of the Pipipang Mall, there is a little problem with your order, please cooperate to handle it.
+Speaker2: Hey, what's up?
+Speaker1: Your order shows as unpaid, possibly due to system error, but actually the payment has been received, to ensure your rights we need your assistance to confirm.
+Speaker2: How can I confirm?
+Speaker1: Just click on the link we sent, follow the steps above, and you'll be done with the confirmation.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, the link will be sent to your phone shortly. Please pay attention to check it. If you encounter any issues during the process, feel free to contact our online customer service anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, thank you for your cooperation, wish you happy life.
+Speaker2: Goodbye.

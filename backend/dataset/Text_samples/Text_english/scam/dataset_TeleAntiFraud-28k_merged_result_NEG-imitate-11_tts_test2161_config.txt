@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm little Zhang, we are the customer service of the China Southern Bank, there is a special discount loan service that we want to recommend to you.
+Speaker2: Hello, can you lend me some money? I'm in a bit of a tight spot right now, can you help me out?
+Speaker1: Of course, our this time's loan service is specially designed for customers with capital needs, interest rate is extremely discounted, and the approval speed is fast, apply today, get the money today.
+Speaker2: Really? What materials do I need to prepare?
+Speaker1: It's very simple. You just need to provide a copy of your ID and bank card. After we approve on our end, we'll send you a link to your phone, and you can complete the identity verification by clicking the link to sign the contract.
+Speaker2: Link? Is it safe?
+Speaker1: Absolutely safe, we are a regular bank, link is our official website, you can trust clicking.
+Speaker2: Okay, then I'll wait for your link.
+Speaker1: Okay, we will send the link to your phone as soon as possible. Additionally, to speed up the approval process, you can prepare copies of your identity card and bank card in advance.
+Speaker2: I understand, thank you for your help.

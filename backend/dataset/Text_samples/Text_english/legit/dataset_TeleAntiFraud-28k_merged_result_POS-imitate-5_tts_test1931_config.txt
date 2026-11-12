@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a waiter at a restaurant, I just wanted to confirm if you still want to come for the dinner you reserved with us earlier.
+Speaker2: Hello, I am the one who made the reservation, I should be there tonight.
+Speaker1: Okay, our restaurant opens at six and a half in the evening, what time do you think you'll arrive?
+Speaker2: I'll arrive around seven.
+Speaker1: Okay, we'll keep it for you until seven o'clock. You can come directly at that time.
+Speaker2: Okay, I noted it down, thank you for reminding me.
+Speaker1: No problem, is there anything else you need help with? Like menu recommendations or special requests?
+Speaker2: Do you have any recommendations for dishes?
+Speaker1: Our menu here has red braised pork, steamed fish and handmade noodles, all very popular, you can try them.
+Speaker2: Let's try red steak and clear steamed fish. Thank you for your advice.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm Little Wang, living in building 18, are you delivering food?
+Speaker2: Okay, your delivery has arrived downstairs, come down to get it.
+Speaker1: Okay, I'll be right down, just a moment.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: The wind is a bit strong here, could you keep an eye on it for me, I might be late going downstairs.
+Speaker2: No problem, take it slow, don't rush.
+Speaker1: Thank you, I'll go now.
+Speaker2: No problem, be careful, see you.

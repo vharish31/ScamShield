@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the property manager of the community, I want to confirm the water and electricity repair appointment for your home, is it convenient for you?
+Speaker2: Hey, how's it going? What time do you guys plan to come over and fix it?
+Speaker1: What time will you be at home tomorrow morning around 10 am?
+Speaker2: Tomorrow at 10 am, okay, I'm at home, you guys come directly knocking on the door.
+Speaker1: Okay, can you wait for us at home at the designated time? If there are any changes, I will contact you in advance.
+Speaker2: Okay, can you take a look at the route when you come over? It's been jumping red lights lately.
+Speaker1: No problem, we will carefully check tomorrow, ensure safety.
+Speaker2: That's great, thank you, sorry.
+Speaker1: No problem, this is our work. Any questions, please contact us anytime.
+Speaker2: Okay, see you tomorrow.

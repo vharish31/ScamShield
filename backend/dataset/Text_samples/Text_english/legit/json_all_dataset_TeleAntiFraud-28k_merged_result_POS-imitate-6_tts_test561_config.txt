@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm the customer service little monkey for the e-commerce platform. Did you know you have a lot of points in your account that haven't been redeemed?
+Speaker2: Oh, points? I haven't been paying attention, what can I exchange them for?
+Speaker1: These points can be directly deducted for cash, used to purchase products on our platform, such as electronic products or home appliances.
+Speaker2: What's the way to check my score?
+Speaker1: You can check it in our app or directly tell me your account, I can help you query.
+Speaker2: Okay, my account is 13812345678, can you check it for me?
+Speaker1: Okay, just a moment. You have 26,800 points in your account, which can be redeemed for about 3,999 yuan in cash.
+Speaker2: So many? Then how can I use these points to buy things?
+Speaker1: You can select your favorite products in our points mall and directly use points to deduct cash for purchase.
+Speaker2: I'll go take a look now, thank you for reminding me.
+Speaker1: No problem, feel free to contact me if you have any questions. Have a great shopping trip, bye!

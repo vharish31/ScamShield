@@ -1,0 +1,14 @@
+Speaker2: Hello
+Speaker1: Do you have any beginner yoga classes here?
+Speaker2: Yes, we have a special yoga course designed for beginners here, which can help you gradually adapt to the yoga style.
+Speaker1: What is the schedule for that course?
+Speaker2: Generally, it's from 10 am to 11:30 am on Monday, Wednesday, and Friday mornings, and from 4 pm to 5:30 pm in the afternoon.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: Yes, to ensure there's a place, I suggest you call ahead and make a reservation a day in advance.
+Speaker1: How much does it cost?
+Speaker2: A single class costs 80 yuan, but if you buy a monthly card it's more economical, the monthly card costs 1,200 yuan and is unlimited.
+Speaker1: The monthly card sounds good, I'll consider it. Oh, do you have a yoga mat here?
+Speaker2: Yes, we provide yoga mats here, but if you have your own yoga mats, you can bring them.
+Speaker1: Okay, thank you for your detailed answer.
+Speaker2: You're welcome, feel free to consult anytime, we're looking forward to your joining. Goodbye.
+Speaker1: Goodbye

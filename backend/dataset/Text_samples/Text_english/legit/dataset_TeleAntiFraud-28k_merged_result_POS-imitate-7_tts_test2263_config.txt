@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, recently I want to buy a new phone, do you have any recommendations in your store?
+Speaker2: Hello, little Zhang, I'm very happy to help you. What kind of phone are you looking for? Like main camera, game performance, or battery life?
+Speaker1: I have requirements for both photography and game performance. I hope to find a balance point.
+Speaker2: Understood, we have a new phone on the market here that takes great photos and has excellent game performance. Are you interested in learning more?
+Speaker1: Is this phone's price how much?
+Speaker2: This phone is priced at 3500 yuan, and now you can buy it with a member discount of 3300 yuan.
+Speaker1: Sounds good, but I'm not near your store right now, do you support online shopping?
+Speaker2: Of course, you can place an order through our official website or mobile app, and we provide nationwide delivery service.
+Speaker1: That's great, I'll go to the official website and contact you if I decide to buy it.
+Speaker2: Okay, feel free to contact us if you have any questions. Have a great shopping experience!

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Zhang San, I saw you guys are hiring software engineers, can you tell me more about the specific requirements for this position?
+Speaker2: Hello, Zhang San, this position requires a programming foundation, being proficient in at least one programming language, such as Java or Python, and having some understanding of databases.
+Speaker1: Do you have any requirements for work experience?
+Speaker2: We don't have strict requirements for work experience. Graduates can also apply, as long as you have strong technical skills and learning ability.
+Speaker1: Okay, what is the interview process like?
+Speaker2: First, there will be a resume screening. After that, there will be a phone interview, which is mainly about technical questions. Finally, there will be an in-person interview, which includes both technical and department manager interviews.
+Speaker1: What materials do I need to prepare?
+Speaker2: You need to prepare a detailed resume that includes your educational background, project experience, and technical skills. If you have a portfolio or GitHub link, you can also attach them.
+Speaker1: Okay, thank you for your answer. I will quickly prepare materials to submit.
+Speaker2: No problem, feel free to contact us anytime if you have any questions, wish you a successful application.

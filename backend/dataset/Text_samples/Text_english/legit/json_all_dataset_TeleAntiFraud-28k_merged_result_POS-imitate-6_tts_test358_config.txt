@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your restaurant has a vegetarian set meal?
+Speaker2: Hello, we have a vegetarian set meal here, you can choose from options such as stir-fried vegetables, mushrooms, tofu, all of which are quite popular.
+Speaker1: Okay, what are your business hours?
+Speaker2: Our restaurant business hours are from 11 am to 9 pm every day, and on weekends they are extended to 10 pm.
+Speaker1: Can I reserve a window seat around 7 pm tonight?
+Speaker2: Of course, is your reservation for two people?
+Speaker1: Yes, two people.
+Speaker2: Okay, I have reserved a window seat for you at 7:00, just come directly when it's time.
+Speaker1: Thank you, I'll come directly when the time comes.
+Speaker2: You're welcome, looking forward to your arrival, goodbye!

@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm Lee Ming, the customer manager of Commercial Bank, and we recently launched a special discount loan product. Are you interested in learning more about it?
+Speaker2: Hello, do you have loan products? I can handle the cash flow now, but I'll listen too.
+Speaker1: Great! This product is perfect for friends with small budgets. Just download our official app, fill out some basic information, and you can quickly get approved. The fastest you can get the loan is today.
+Speaker2: What's the name of this app that sounds good?
+Speaker1: You can download the app named "Quick Loan Through" by searching for it on the app store or by clicking on the link I send you.
+Speaker2: Okay, send the link, I'll try to take a look.
+Speaker1: Okay, just a moment, I'll send it to you right away. By the way, remember to input the referral code L87654 when registering, so you can enjoy more discounts.
+Speaker2: Understood, thank you for reminding.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. I hope you enjoy and wish you a happy, smooth life.
+Speaker2: Okay, thank you, bye.

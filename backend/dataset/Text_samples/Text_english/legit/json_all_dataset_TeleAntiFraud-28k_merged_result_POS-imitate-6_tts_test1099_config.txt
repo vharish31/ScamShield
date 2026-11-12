@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw your restaurant menu, do you have a vegetarian set meal?
+Speaker2: Yes, we have several different vegetable set meals, you can choose five dishes and one soup or seven dishes and one soup.
+Speaker1: How much does a bowl of five dishes cost?
+Speaker2: The price of the 5-course meal is 35 yuan, very cheap.
+Speaker1: Okay, it sounds good. What time does your restaurant open?
+Speaker2: We open at 11 am and close at 9 pm.
+Speaker1: Do I need to make a reservation in advance if I plan to come at noon tomorrow?
+Speaker2: If you're sure you're coming, it's best to book in advance, so you can be sure of a place.
+Speaker1: Okay, I'll book it. Tomorrow at noon, book a table for two.
+Speaker2: Okay, I have already booked for you. Tomorrow at noon twelve, two people's seats. See you then!
+Speaker1: Thank you, see you later!

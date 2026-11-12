@@ -1,0 +1,10 @@
+Speaker1: Hello, I am from the loan department of the China Construction Bank, we have a special low-interest loan product that may interest you, would you like to know more?
+Speaker2: Hello, what loan products?
+Speaker1: This product is specifically designed for high-quality customers, with a very low interest rate, and a simple and quick application process. Just download our app, fill out some basic information, and you can apply.
+Speaker2: Is that so? What is the name of your app?
+Speaker1: Our app is called "Union Quick Loan", you can download it from the app store on your phone by searching for this name. After downloading, remember to use the invitation code: 123456, to enjoy more discounts.
+Speaker2: Okay, now I'm going to download.
+Speaker1: Great! After downloading and installing, remember to fill out the information and apply for a loan on the first time, and if there are any problems, you can call our customer service hotline 400-123-4567 at any time.
+Speaker2: Okay, I noted down your recommendation. Thank you.
+Speaker1: You're welcome! I wish your application to be successful. If you need help, please contact us anytime. Goodbye!
+Speaker2: Goodbye, thank you!

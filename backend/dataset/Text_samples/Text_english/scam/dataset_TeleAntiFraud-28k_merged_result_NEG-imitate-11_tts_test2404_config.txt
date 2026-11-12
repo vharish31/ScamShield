@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm small Zhang, this is the China bank loan center, responsible for loan business.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we have a great new loan project with low interest, quick down payment, perfect for your business.
+Speaker2: How much interest is there?
+Speaker1: The interest rate is very low, only 0.02, and no collateral is required. After approval, the loan will be disbursed on the same day.
+Speaker2: How do I apply for it?
+Speaker1: Just click on this link and fill out the relevant information.
+Speaker2: Link? How do I give it to you?
+Speaker1: I can send you a short message here, after you receive it, click on the link and follow the instructions to apply.
+Speaker2: Okay, send me a text message.
+Speaker1: Okay, just a moment, I'll send it to you now. Remember to click the link after receiving it, this discount is limited.
+Speaker2: Okay, thank you.

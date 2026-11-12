@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the community property, I just want to remind you that your property fee has expired, please pay it as soon as possible, otherwise there will be a late fee.
+Speaker2: Oh, really? I've been busy lately and forgot about this. So how do I pay?
+Speaker1: You can directly pay at the property management office or through our online platform using Alipay or Wechat Pay, which is very convenient.
+Speaker2: Online payment sounds good, do I need to register an account?
+Speaker1: No need for anything else, just input your door number and phone number to pay directly.
+Speaker2: Okay, I'll go operate now, thanks for your reminder.
+Speaker1: No problem, please feel free to contact us if you encounter any issues during the operation process.
+Speaker2: Okay, I will pay attention. Moreover, recently the garbage disposal in the community seems to be not timely, sometimes the smell is very big.
+Speaker1: Thank you for your feedback. We will immediately send a cleaning person to handle it, and we will strengthen our management in this area in the future, giving everyone a cleaner living environment.
+Speaker2: Okay, thank you for your hard work.

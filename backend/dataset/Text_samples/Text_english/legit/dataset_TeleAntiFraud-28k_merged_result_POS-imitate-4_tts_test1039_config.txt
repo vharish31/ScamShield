@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, this is the happy food square, do you want to consult your special dishes?
+Speaker2: Hey, how are you, do you have any recommendations for dishes?
+Speaker1: Our menu here has spicy Szechuan and steamed sea bass, both very popular.
+Speaker2: What are your business hours?
+Speaker1: What time is most convenient for you to come between 10am and 10:30pm?
+Speaker2: Do I need to make a reservation in advance if I plan to arrive at seven o'clock tonight?
+Speaker1: Of course, can you book a few seats for your group?
+Speaker2: Two people need a spot by the window.
+Speaker1: Okay, I'll reserve a window seat for two for you tonight!
+Speaker2: Okay, thank you, see you later!

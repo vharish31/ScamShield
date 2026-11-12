@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little Zhang, I want to bring my family to your store to do some haircuts on Saturday, can I make an appointment first to see your schedule and find a convenient time?
+Speaker2: Hello, little Zhang, I am small Li from the hair salon, very happy to serve you. What time will you come?
+Speaker1: Do you have any space in the afternoon between two and four o'clock?
+Speaker2: Can we meet at 2 o'clock? We have some space at that time. How many hours of service time do you need?
+Speaker1: It should be two people, each person probably needs about an hour, the main thing is to cut a hairstyle and then do some grooming.
+Speaker2: Understood, the two of them will need about three hours in total, no problem, we can schedule it. Do you need to pay a deposit in advance?
+Speaker1: Do you need to pay a deposit? If so, how do you pay it?
+Speaker2: To confirm your appointment, we usually take a 30 yuan deposit, you can pay through WeChat, I'll send you a payment code.
+Speaker1: Okay, can you send me a payment code? I'll pay right away. Also, how much notice do I need to give if I need to cancel the appointment temporarily?
+Speaker2: After receiving the deposit, I will confirm the information with you. If you need to cancel or change the time, please notify us at least one day in advance so that we can provide service to other customers.
+Speaker1: Okay, I'll note it down and give you a heads up a day in advance. Thank you for your help. See you on Saturday.
+Speaker2: You're welcome, see you on Saturday, looking forward to serving you. Wishing you a happy day!

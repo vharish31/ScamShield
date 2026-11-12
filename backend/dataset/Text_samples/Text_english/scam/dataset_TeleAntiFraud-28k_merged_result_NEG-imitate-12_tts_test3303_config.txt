@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service representative of sequoia express, your package was lost during transportation, we can now process compensation, have you recently received our message?
+Speaker2: What if there is no compensation?
+Speaker1: Oh, for your convenience, we have specially prepared a compensation link for you. Just click on the link and fill out the relevant information to complete the compensation application.
+Speaker2: Okay, how do I click on a link?
+Speaker1: Just reply with the number in the text message, and we'll send you a message with a link. Click the link and follow the instructions.
+Speaker2: Okay, I'll wait for a short message.
+Speaker1: Okay, the text message will be sent to your phone soon. Please pay attention to receive it. To ensure safety, please don't forward this message to others.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you encounter any issues during the operation, please feel free to contact us at any time. Have a happy life, goodbye.
+Speaker2: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me?
+Speaker1: Hello, I am a customer service representative for a food delivery platform, and I want to confirm your order status.
+Speaker2: Okay, you say.
+Speaker1: Are you having a chicken fried rice and a cup of bubble tea at one o'clock in the afternoon today?
+Speaker2: Yes, that's right.
+Speaker1: Your order is ready, estimated delivery in 30 minutes to your specified address.
+Speaker2: Okay, I understand.
+Speaker1: If you have any questions, you can contact our customer service at any time, and we will quickly solve the problem for you.
+Speaker2: Okay, thank you.

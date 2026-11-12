@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the branch manager of Agricultural and Commercial Bank, responsible for loan business.
+Speaker2: Hello, Wang Manager, what can I help you with?
+Speaker1: Have you recently had a need for funds? We can provide low-interest loans here, no collateral required, quick payout.
+Speaker2: Oh, really? I really need some cash flow.
+Speaker1: Great, just download our bank's official app, fill out some basic info, and you can apply.
+Speaker2: Where can I download the app?
+Speaker1: Scan this QR code with your phone to download our app directly, very convenient.
+Speaker2: Okay, let me try.
+Speaker1: After downloading, please fill in real information, and we will have a specialist review it. If there are any issues, please feel free to contact me at any time.
+Speaker2: Okay, thank you, Wang Jingni.

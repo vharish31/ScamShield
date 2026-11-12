@@ -1,0 +1,14 @@
+Speaker2: Hello
+Speaker1: Hello, I am the customer service girl of the fresh supermarket, how are the fruits you bought from us recently?
+Speaker2: Oh, great, thank you.
+Speaker1: Would that be okay? We have a fruit platter promotion at the supermarket right now. Would you like to know more about it?
+Speaker2: Hmm, the fruit skewers sound delicious, what kind of fruit are they?
+Speaker1: This time's pizza has apples, oranges, grapes, and strange fruit, all freshly picked.
+Speaker2: What's the price?
+Speaker1: The price is very discounted. The original price of the hundred and twenty yuan pinpan is now eighty yuan.
+Speaker2: Listen to it sounds cheap, then how do I order?
+Speaker1: Can you place an order on our app or let me help you book directly, which do you find more convenient?
+Speaker2: I'll order it myself, it's more convenient.
+Speaker1: Okay, I'll send you a discount code. Just input it when you place your order to enjoy the discount.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if there are any other places that need help, please contact me anytime. Wish you a happy life!

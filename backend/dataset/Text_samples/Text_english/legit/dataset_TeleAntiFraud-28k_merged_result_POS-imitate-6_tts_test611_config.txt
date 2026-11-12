@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I am a consultant for household services in the new century, do you have any recent need for household services?
+Speaker2: Oh, you guys are from the new century household, I'm a bit interested, mainly because I want to find someone to help me clean.
+Speaker1: Okay, our service staff here are very professional, can you have them come to your door regularly for cleaning, how many times a week do you want them?
+Speaker2: Let's do it once a week, best is on weekends.
+Speaker1: Let's discuss the specific time schedule for the weekend, as the demand is quite high on weekends, but I'll do my best to coordinate with you.
+Speaker2: Okay, can you help me?
+Speaker1: No problem, are there any other needs, like washing clothes or cooking food?
+Speaker2: No need for now, just clean up the house and keep it dry and neat.
+Speaker1: Understood, I will record your requirements and get in touch with you later through a dedicated customer service representative to confirm the specific time and details.
+Speaker2: Okay, thank you for your service, looking forward to working together.
+Speaker1: Thank you very much for your trust. If you have any questions, please contact us anytime. Goodbye!
+Speaker2: Goodbye, can I bother you again?

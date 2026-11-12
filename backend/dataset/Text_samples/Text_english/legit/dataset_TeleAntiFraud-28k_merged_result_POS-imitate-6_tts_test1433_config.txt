@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I ordered a piece of clothing on your platform, but I haven't received it yet.
+Speaker2: Hello, little Li, I am customer service Zhang, please tell me your order number, I will check it for you here.
+Speaker1: Okay, my order number is one two three four five six seven eight nine.
+Speaker2: Okay, I found it. Your order is already in transit and is expected to arrive tomorrow afternoon.
+Speaker1: That's great, but I might not be at home tomorrow, can you guys adjust the delivery time for me?
+Speaker2: Sure, I'll make a note for you to arrange for delivery in the early morning tomorrow.
+Speaker1: Thank you so much, what if I'm not at home when it happens?
+Speaker2: You can contact the delivery person to see if they can put the package in the delivery box or have a neighbor help sign for it.
+Speaker1: Okay, now I can relax, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy life.

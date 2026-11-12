@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service manager of the commercial bank, the loan application review you submitted to our bank has been approved, and we need to confirm some information with you.
+Speaker2: Okay, you say.
+Speaker1: To ensure the safety of the funds, I need you to provide a verification code. We will send it to the phone number you have reserved, please pay attention to receive it.
+Speaker2: Okay, I'm waiting.
+Speaker1: Okay, the verification code has been sent. Please enter the verification code so we can continue processing your loan application.
+Speaker2: The verification code is 123456.
+Speaker1: Thank you for your cooperation. We need you to download our official app to better manage your loan information. You can download it through this link: [link].
+Speaker2: Okay, I'll go download it now.
+Speaker1: Thank you very much for your support. If you have any questions, please feel free to contact us anytime through the app. Have a happy life.
+Speaker2: Thank you, goodbye.

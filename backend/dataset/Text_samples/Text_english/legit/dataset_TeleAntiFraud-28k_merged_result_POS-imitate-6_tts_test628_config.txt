@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, I'm near your store, I want to ask about your delivery service.
+Speaker2: Hello, Mr. Li, I am the store clerk Zhang, what can I help you with?
+Speaker1: Do you have any vegetarian set meals, and what is today's special dish?
+Speaker2: We have a vegetarian set meal here, priced at 30 yuan, including one main dish, one side dish and one bowl of soup. Today's special dish is garlic mushroom, very fresh, would you like to try it?
+Speaker1: Okay, I want to order a vegetarian set meal and a bowl of ginger and broccoli, can you deliver it to this address?
+Speaker2: Sure, please provide me with the specific address and contact information, and we will arrange it as soon as possible.
+Speaker1: The address is Happiness Villa No. 5, Unit 1, Floor 1, Phone No. 13500000000.
+Speaker2: Okay, I have recorded your address and phone number. It will arrive in about half an hour. Is that okay with you?
+Speaker1: Sure, thank you.
+Speaker2: You're welcome. If you have any other needs, please contact us anytime. Enjoy your meal. Goodbye!

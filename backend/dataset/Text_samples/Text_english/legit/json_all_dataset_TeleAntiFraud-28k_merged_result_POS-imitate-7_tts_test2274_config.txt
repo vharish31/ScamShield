@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiao Zhang, I want to inquire about your haircut appointment service.
+Speaker2: Hello, Xiao Zhang, I am the barber at the hair salon, Xiao Li, what can I help you with?
+Speaker1: Can you tell me when you have a free spot, I plan to cut my hair this weekend.
+Speaker2: What time on Saturday morning or afternoon would you like to meet up during the weekend?
+Speaker1: I want to choose 2:00 PM, but I don't know how long it will take to finish at your place.
+Speaker2: In general, cutting and washing hair with blow-dry usually takes about an hour, but the specific time may vary slightly.
+Speaker1: Okay, I'll come at two in the afternoon. Right, do you have any hair care products there?
+Speaker2: Yes, we have various brands of hair care products and shampoos here. If you need any, you can choose some to take away after cutting your hair.
+Speaker1: Okay, thank you for your patience in answering, see you this weekend.
+Speaker2: No problem, I'm looking forward to your arrival, see you this weekend, be careful on the road.

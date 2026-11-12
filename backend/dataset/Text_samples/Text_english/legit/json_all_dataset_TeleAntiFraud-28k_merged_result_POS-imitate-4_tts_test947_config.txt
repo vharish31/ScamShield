@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me more about the fees for household services on your side?
+Speaker2: Our home cleaning services have different packages, such as daily cleaning and deep cleaning, you can choose according to your needs. The specific price can be calculated based on the area, how many square meters is your home approximately?
+Speaker1: My house is about one hundred twenty square meters.
+Speaker2: A 120 square meter room usually costs around 150 yuan per cleaning, but the depth cleaning will be priced according to the actual situation, but not more than 200 yuan.
+Speaker1: If I book a weekly cleaning appointment, will there be a discount?
+Speaker2: Yes, if you choose a weekly service, we can provide a free deep cleaning service every month, and at the same time, you can enjoy a 90% discount on a single price.
+Speaker1: Listen well, then how do I make a reservation?
+Speaker2: You can directly book through our small program, or leave your contact information, we will arrange a staff member to contact you, confirm the specific time.

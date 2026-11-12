@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, recently I saw a phone in your store that I like, can you ask if there's any stock left?
+Speaker2: Hello, Xiao Ming, I am the small Zhang in the store, that phone model is currently in stock at our store, would you come over to pick it up?
+Speaker1: Sure, can you give me the specific configuration and price of this phone in detail?
+Speaker2: This is the flagship phone of the year, with a high-performance Snapdragon processor and 12GB + 256GB memory combination, priced at RMB 3999.
+Speaker1: The sound is good, I also want to know a little more, do you have any discount activities in your store?
+Speaker2: Yes, recently you can enjoy a full discount when buying this phone, and there's also a chance to get a free original earphone with it.
+Speaker1: That's great, I plan to come over this weekend, are you open on Sunday?
+Speaker2: We are open on weekends, you can come anytime, if you have a specific time, I can reserve it for you.
+Speaker1: I plan to come at 3 pm on Sunday afternoon. Could you please reserve a spot for me?
+Speaker2: Okay, I have reserved a spot for you on Sunday afternoon at 3 PM. Be careful on the way there.

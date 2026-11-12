@@ -1,0 +1,10 @@
+Speaker1: Hello, have you recently bought a pair of sports shoes on JD?
+Speaker2: Okay, what now?
+Speaker1: I am a customer service representative for somebao, we found an issue with your order and need to give you a refund.
+Speaker2: Is that so? How do you handle it?
+Speaker1: To ensure a smooth refund, please first scan this QR code and download our official app.
+Speaker2: Okay, I'll download it now.
+Speaker1: After downloading is finished, please open the APP, click on the customer service icon in the bottom right corner, and input the verification code 123456.
+Speaker2: Okay, I'll operate right away.
+Speaker1: After you enter the verification code, we will immediately process your refund request. Your refund will be credited to your account within 24 hours.
+Speaker2: Okay, thank you.

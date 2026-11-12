@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: I am a customer service representative for the point store, I saw that you have a lot of points in your account that haven't been redeemed yet, I just wanted to remind you
+Speaker2: Oh, really?
+Speaker1: Yes, these points will expire soon. They will be cleared at midnight if not used before then.
+Speaker2: What should I do, I still don't know this thing
+Speaker1: Points can be directly deducted for cash, and can be exchanged for many products, such as white wine gift boxes, brand four-piece suits, high-definition TVs, and smartwatches.
+Speaker2: Is it really?
+Speaker1: Of course, you have more than 26,000 points in your account, quite a lot.
+Speaker2: I had better hurry and take a look.
+Speaker1: Okay, after you select the products, I can help you apply for a special privilege. The remaining balance of your points will not be cleared, and you will also receive an additional after-sale gift package, and enjoy free return and exchange services.
+Speaker2: That's great, thank you for your reminder and help.

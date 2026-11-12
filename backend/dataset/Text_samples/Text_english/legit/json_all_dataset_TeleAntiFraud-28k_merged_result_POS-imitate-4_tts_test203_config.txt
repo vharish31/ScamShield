@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I'm Xiǎolín, I made an appointment for your haircut service before, can you confirm the time?
+Speaker2: Hello, Xiao Lin, I am the little king of the hair salon, is your appointment time tomorrow at 3:30 PM?
+Speaker1: Okay, it's tomorrow at 3:30 PM, right?
+Speaker2: We have reserved a spot for you here, just come on time.
+Speaker1: Okay, I'll probably arrive at your store at around 3:20, a little early, don't be late.
+Speaker2: Okay, no problem, you can come early, just come directly at the time.
+Speaker1: Great, thank you for your confirmation, see you tomorrow.
+Speaker2: No problem, see you tomorrow, be careful on the road.

@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me clearly? Hello, what can I help you with?
+Speaker1: Hey, I'm Xiaoming, recently I've been considering buying a new phone, do you have any recommendations on your side?
+Speaker2: Hey, Xiao Ming, I'm the small Zhang at the phone shop, we have a new phone on the market lately, the performance is amazing, the price is also very high, are you interested in learning more?
+Speaker1: What are the main features of this phone that sounds good?
+Speaker2: This phone is equipped with the latest processor, runs fast, has a strong battery life, and also has a high-resolution camera, making it very suitable for users who love to take photos.
+Speaker1: What's the price?
+Speaker2: Our prices are currently on promotion. The original price of three thousand eight hundred yuan is now three thousand five hundred yuan, and you can still enjoy half a year of maintenance service.
+Speaker1: It's quite reasonable, but I still need to consider it a bit, since it's a big thing.
+Speaker2: No problem, take your time to consider, if you decide to buy, feel free to contact me, I'll reserve a machine for you.

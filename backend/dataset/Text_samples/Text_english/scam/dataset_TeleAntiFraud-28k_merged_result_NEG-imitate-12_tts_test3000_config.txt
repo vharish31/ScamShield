@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am the agricultural bank's customer manager Zhang, and I have a special loan discount that I want to recommend to you.
+Speaker2: Hello, I'm not very interested.
+Speaker1: Understand, we now have a loan without collateral, monthly interest is very low, approval is fast, no need to run to the bank, directly apply online.
+Speaker2: So, how do I apply?
+Speaker1: It's very simple. Just click on the link I gave you and fill out the relevant information.
+Speaker2: Okay, give me the link.
+Speaker1: Okay, just a moment, I'll send it to you right away. By the way, for security reasons, you need to input a verification code when filling out information. The verification code will be sent to your phone.
+Speaker2: I received the verification code and filled it out.
+Speaker1: Okay, please input your bank card number again, so we can quickly review your information.
+Speaker2: Okay, I inputted it.
+Speaker1: Thank you for your cooperation. We will process your application as soon as possible. If you have any questions, please add my WeChat and contact me anytime.

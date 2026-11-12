@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little Zhang, can you talk over there?
+Speaker2: Hello, little Zhang, I'm here. What do you have?
+Speaker1: That's right, I saw you mentioned earlier in the group that you needed a tutor, and I just happen to know someone who would be a good fit.
+Speaker2: Oh, really? That's great. Can you introduce yourself?
+Speaker1: Of course, her name is Xiao Lizi, she is a student at Shifan Daxue, majoring in English Education, with one year of teaching experience.
+Speaker2: So, how is her English level?
+Speaker1: She speaks English fluently and has participated in multiple English speech contests, earning good rankings.
+Speaker2: That's pretty good, my kid needs to improve his English speaking. How do you charge?
+Speaker1: Generally, it costs 100 yuan per hour, which is considered reasonable in the market.
+Speaker2: Okay, I'll think about it and get back to you if there's any news. Thanks.
+Speaker1: No problem, please consider contacting me anytime. I hope we work together soon. Goodbye.

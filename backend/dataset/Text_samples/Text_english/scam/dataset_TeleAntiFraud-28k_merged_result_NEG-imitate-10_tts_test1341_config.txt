@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm the customer manager of Dongjing Bank, Zhang.
+Speaker2: Hello, Zhang Manager, what do you have?
+Speaker1: That's right, we noticed you might have some financial needs recently, we have a special low-interest loan product designed for local entrepreneurs.
+Speaker2: Hmm, okay? I'm a bit interested in loans, can you give me some info?
+Speaker1: Great, this loan product has a low interest rate and a fast approval speed, no collateral required. I can send you a link, you click on the link and fill out some basic information, and we can quickly assess your loan amount.
+Speaker2: Link? How do I know this is safe?
+Speaker1: We are a legitimate bank with a very secure link. Your information will be strictly protected. If you don't want to apply through the link, you can download our official app and I will guide you on how to operate it.
+Speaker2: I'm still not very confident, what's the name of your app?
+Speaker1: Our official app is called "Dongjing Yinhang" and you can download it from the app store. After downloading, I can guide you through the application process via phone, so you can rest assured.
+Speaker2: Okay, let me try.

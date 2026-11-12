@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hello, I am a customer service representative from Guangfa Bank, Li Ming. Recently we have a special promotion for a loan product with a very low interest rate. Do you have any recent need for cash flow?
+Speaker2: "Oh, I don't have this requirement at the moment."
+Speaker1: Okay, but this opportunity is quite rare. If you consider it carefully, you can contact me anytime. Have you ever encountered a situation where you were short of funds?
+Speaker2: Sometimes I have some problems, but I usually solve them myself.
+Speaker1: That's great, our loan product is very flexible, you can repay at any time, and there are no fees for early repayment. If you're interested, you can add my WeChat, I can provide consultation anytime.
+Speaker2: What's your WeChat number?
+Speaker1: My WeChat is LiuMing123, add me, what questions can I help you with directly?
+Speaker2: Okay, I will consider it.

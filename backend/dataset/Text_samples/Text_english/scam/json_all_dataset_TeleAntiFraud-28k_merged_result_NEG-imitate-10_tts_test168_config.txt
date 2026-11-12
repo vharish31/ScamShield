@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a delivery customer service representative. You have a package that needs to be confirmed for delivery.
+Speaker2: Hello, I recently had a package that didn't arrive, what happened?
+Speaker1: There was a problem with your package during transportation, we need you to cooperate and handle it.
+Speaker2: What do I need to do?
+Speaker1: Please click on the link to confirm receipt, to ensure your package arrives safely.
+Speaker2: Okay, I'll go handle it. What's the link?
+Speaker1: Please wait, I'll send it to you soon. Please confirm that you're operating on your phone, it's safer that way.
+Speaker2: Okay, I received it.
+Speaker1: After clicking on the link, follow the instructions, enter your personal information and verification code, and you can successfully complete the receipt after that.
+Speaker2: I understand, thank you.

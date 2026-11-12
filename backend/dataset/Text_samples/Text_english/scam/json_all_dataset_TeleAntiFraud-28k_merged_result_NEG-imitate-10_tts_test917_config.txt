@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am Lee Ming, the customer manager of Agricultural and Commercial Bank.
+Speaker2: Hello, Li Manager, what can I help with?
+Speaker1: We noticed you've been looking for ways to manage cash flow lately, we have a loan product specifically designed for small business owners.
+Speaker2: Hey, this one I'm really interested in, can you give me a detailed explanation?
+Speaker1: Of course. This product is called "Quick Loan", no collateral required, fast approval, low interest rate.
+Speaker2: How do I apply?
+Speaker1: You can download our 'farmer loan' app first, fill in some basic information, we will quickly review.
+Speaker2: Okay, I'll go download it. Do you need anything else to prepare?
+Speaker1: After downloading, submit your identity card information and business license copy in the app, and we will arrange for a specialist to contact you.
+Speaker2: I understand, thank you for your detailed introduction, I will process it quickly.

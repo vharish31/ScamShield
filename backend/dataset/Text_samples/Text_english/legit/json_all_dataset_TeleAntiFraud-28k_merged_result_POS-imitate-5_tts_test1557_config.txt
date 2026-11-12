@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer service monkey of the point store, I see that you have a lot of points in your account, you don't know that these points can be exchanged for goods, tonight will be cleared zero
+Speaker2: Oh, really? I haven't noticed yet
+Speaker1: Yes, your points can be directly redeemed for cash, such as white wine gift boxes, famous brand four-piece suits, high-definition TVs, and smartwatches.
+Speaker2: Okay, let me see what can be exchanged.
+Speaker1: Okay, you can first select your favorite products, I will help you apply for a special privilege, the remaining points after exchange can be kept, and you will also receive a gift package after the sale.
+Speaker2: That's great, thank you.
+Speaker1: No problem, grab time and pick carefully, must complete exchange by 12 before
+Speaker2: Okay, I'll go shopping now, thank you for reminding me.

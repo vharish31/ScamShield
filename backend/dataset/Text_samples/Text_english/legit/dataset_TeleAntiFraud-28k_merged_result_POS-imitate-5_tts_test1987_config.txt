@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I bought a hot water kettle from your store before, now there's a problem, can I exchange it?
+Speaker2: Hello, can you please specify what the issue is?
+Speaker1: Sometimes the heating system will trip during heating, I suspect there's a problem with the line.
+Speaker2: What time did you buy it, do you have a receipt for shopping?
+Speaker1: I bought it last month, the receipt is still there.
+Speaker2: Okay, based on our return policy, if your product is damaged by non-human factors within a month, you can apply for a refund. Please send the purchase receipt and the damaged product together, and we will handle it on this end.
+Speaker1: Who will bear the shipping cost of the package that was sent back?
+Speaker2: If it's a quality issue, we'll cover the shipping. You can send it back via express, just make sure to select the insurance service.
+Speaker1: Okay, after I send it out from here, how long will you guys be able to handle it?
+Speaker2: In general, we complete the inspection and processing of products within three workdays after receiving them, and notify you of the result via text message or phone call.
+Speaker1: Okay, thank you for your help. I will send it back as soon as possible.
+Speaker2: No problem, if you have any other questions, please contact us anytime. Wish you a happy life.

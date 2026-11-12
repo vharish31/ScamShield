@@ -1,0 +1,14 @@
+Speaker1: Hey, hi, I'm little Zhang, recently I want to buy a new TV for my family, I saw your store has promotion activities, want to know more.
+Speaker2: Hello, little Zhang, I am little Li, there is indeed a TV promotion activity on this side, do you have any specific needs? For example, size, brand or function?
+Speaker1: I plan to buy a 55-inch smart TV that can install some common apps.
+Speaker2: Okay, we have several 55-inch smart TVs here, such as Xiaomi and Huawei, which are currently quite popular. Can you take a look at these brands and see if you have any particular preferences?
+Speaker1: I prefer small rice, I heard it's good to use.
+Speaker2: The small mi is really popular, the operation interface is very friendly. We have this small mi TV, not only can it install common apps, but it also has high-definition images and good sound effects.
+Speaker1: What is the price of this TV?
+Speaker2: This TV was originally priced at 4999 yuan, now it's on sale for 4299 yuan, and it also comes with a free TV stand and a one-month VIP membership.
+Speaker1: This price is good, I want to know more about delivery and installation issues.
+Speaker2: Okay, we provide free delivery and installation service. Just tell me a convenient time, and our workmen will come to your door for service.
+Speaker1: That's great, I have some free time this weekend, can we schedule for Saturday morning?
+Speaker2: On Saturday morning, I will book an appointment for you in the system. A workperson will contact you to confirm the specific time.
+Speaker1: Okay, thank you for your help, see you on Saturday.
+Speaker2: No problem, see you on Saturday, wish you a happy day.

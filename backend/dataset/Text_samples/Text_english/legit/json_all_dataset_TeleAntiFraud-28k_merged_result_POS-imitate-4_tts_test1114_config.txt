@@ -1,0 +1,10 @@
+Speaker1: Hello, this is little Li, I want to consult your restaurant's special dishes.
+Speaker2: Hello, I am little Zhang, very happy to serve you. Our restaurant's special dishes are red braised pork, steamed fish and gong bao chicken, which one do you like?
+Speaker1: What's the taste of red meat?
+Speaker2: Our shop's signature dish is red braised pork, made with five-spice pork, a unique cooking process that results in tender, flavorful, and not greasy meat with a sweet and savory taste, highly popular.
+Speaker1: How much does that dish cost?
+Speaker2: The price of red braised pork is 48 yuan per portion. If you need to make a reservation, please let me know your reservation time.
+Speaker1: Okay, I want to reserve a table for four people, time is tomorrow evening at 6:30.
+Speaker2: Okay, your 6:30 PM dinner reservation for four people has been confirmed. Please arrive ten minutes early to allow us to prepare for you.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

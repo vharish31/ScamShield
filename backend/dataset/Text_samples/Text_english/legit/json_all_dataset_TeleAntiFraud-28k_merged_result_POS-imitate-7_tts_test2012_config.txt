@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Are you a server at that coffee shop?
+Speaker2: Yes, I am the barista here. What can I help you with?
+Speaker1: Do you have any breakfast set menu with vegetables?
+Speaker2: Yes, we have a vegetarian three-course meal and soybean soup, and we can also pair it with fruit salad.
+Speaker1: How much is it?
+Speaker2: The early morning set meal is 30 yuan, including a cup of soy milk.
+Speaker1: What time do you start your business?
+Speaker2: We open at seven in the morning, you can come anytime.
+Speaker1: Okay, I'll come at eight o'clock in the morning tomorrow.
+Speaker2: Okay, see you tomorrow. I hope you like our breakfast.

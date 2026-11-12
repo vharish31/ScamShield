@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm small beauty's customer service, you recently bought a piece of clothing on our platform and want to know more about your usage situation.
+Speaker2: Hello, the clothes I bought are pretty good, just a little problem.
+Speaker1: Can you specify what the problem is? We can help you solve it here.
+Speaker2: The clothes size is a bit small, it feels tight when wearing.
+Speaker1: Thank you very much for your feedback. Due to individual body differences, sizes may vary slightly. We provide a 7-day no-reason return service, so you can consider exchanging a size.
+Speaker2: Do I have to pay for shipping when exchanging goods?
+Speaker1: No need to pay for shipping fees of returned goods. Just submit swap request on our app, we will send you new size.
+Speaker2: Okay, I'll submit the application tonight.
+Speaker1: Okay, feel free to contact us anytime if you have any questions. We hope you're satisfied.
+Speaker2: Thank you, the service was great.

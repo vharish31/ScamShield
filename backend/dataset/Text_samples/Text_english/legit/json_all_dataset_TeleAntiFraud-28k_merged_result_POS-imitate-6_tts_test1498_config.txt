@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what do you have?
+Speaker1: Have you got any recommendations for a suitable laptop in your store recently?
+Speaker2: Of course, what specific configuration are you looking for? What's your budget approximately?
+Speaker1: I mainly use it for work and occasionally play games, with a budget of around six thousand.
+Speaker2: That's right, we have a great notebook in our store with good configuration, stable performance, and a price that fits your budget. Would you like to take a look?
+Speaker1: How long does the battery last on this notebook?
+Speaker2: This notebook's battery life is approximately 8 hours, which can meet your daily usage requirements.
+Speaker1: That's great, I'm quite interested in this notebook. Do you have any fresh stock in your store now?
+Speaker2: Yes, there are fresh products now. If you are convenient, you can come to the store to take a look, or you can directly order online.
+Speaker1: I have some free time this weekend, I plan to go shopping. Are your stores open on weekends too?
+Speaker2: We are open on weekends too. You can come anytime. If you need, I can reserve a machine for you.

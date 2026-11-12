@@ -1,0 +1,13 @@
+Speaker1: Hello, can you hear my voice?
+Speaker2: Hello, can you hear me? What can I help you with?
+Speaker1: I am a server at a local restaurant you've dined at before, and we have new menu items out now. Would you be interested in checking them out?
+Speaker2: Hey, really? Do you have any new dishes?
+Speaker1: We have recently introduced several seafood dishes, such as steamed sea bass, scallops with ginger, and special grilled shrimp, all made with fresh ingredients of the day.
+Speaker2: That steamed sea bass sounds really good.
+Speaker1: Sounds good, how about you consider coming to our restaurant this weekend and trying out our special weekend discount?
+Speaker2: What are the weekend discounts?
+Speaker1: Weekend diners can enjoy a 90% discount if they spend over 200 yuan, and also have a chance to get our carefully prepared small gifts.
+Speaker2: Okay, I'll give it a try this weekend. Thank you for your recommendation.
+Speaker1: No problem, I'm looking forward to your arrival. If you need to reserve a place, please call me in advance.
+Speaker2: Okay, I will contact you in advance. Goodbye.
+Speaker1: Goodbye, wish you have a nice day.

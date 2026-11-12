@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang, this is JD customer service, you recently bought some products on our platform and have issues, we need to process a refund for you.
+Speaker2: Really? I bought a phone case a few days ago and it had some problems.
+Speaker1: Okay, we have confirmed that in order to ensure your rights, you need to download our refund processing software, so we can handle your refund more easily.
+Speaker2: Okay, how do I download it?
+Speaker1: Open the mobile app store, search for "JD refund assistant", download and install, then input your order number and phone number to start the refund process.
+Speaker2: Okay, I'm going to download now.
+Speaker1: Okay, after downloading and installing, if there are any issues, you can contact me anytime, my phone number is 000-000-0000.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you all the best, bye.
+Speaker2: Goodbye.

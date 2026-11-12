@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little king, just added your WeChat, saw you have furniture installation service, can help me take a look?
+Speaker2: Hello, Little Wang, I am customer service Li, can you please tell me what kind of furniture you need to install?
+Speaker1: I bought a new wardrobe, but my family members said it was too difficult to assemble, so I wanted to hire a professional to help.
+Speaker2: Okay, we can provide professional furniture installation services here. What time is convenient for you, let's schedule a time?
+Speaker1: Is this weekend okay? Best is Saturday morning, I have time then.
+Speaker2: Saturday morning is fine, we usually provide service from 9am to 12pm. What specific time works for you?
+Speaker1: Let's meet at ten o'clock, I had some free time in the morning yesterday.
+Speaker2: Okay, so we agree to meet on Saturday morning at 10am at the address you provided earlier?
+Speaker1: That's the address, sorry to bother you.
+Speaker2: No problem, we will arrive on time. If there are any changes, we will contact you in advance. See you on Saturday!

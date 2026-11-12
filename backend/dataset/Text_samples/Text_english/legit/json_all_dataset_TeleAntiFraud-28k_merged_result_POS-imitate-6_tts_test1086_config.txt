@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at the parking lot now?
+Speaker2: Hello, yes, I am at the entrance of the parking lot.
+Speaker1: Okay, I'm on the second floor, can you come over here easily?
+Speaker2: Okay, I'll go to the second floor.
+Speaker1: I'm waiting for you at the staircase.
+Speaker2: Okay, I'm here.
+Speaker1: What color are you wearing? I'm good at finding you.
+Speaker2: I am wearing a blue shirt.
+Speaker1: I see you, you walk this way, I wait here for you.
+Speaker2: Okay, I'll come over now.

@@ -1,0 +1,11 @@
+Speaker1: Hello, is this Xiaoming restaurant?
+Speaker2: Hello, yes, this is Xiaoming restaurant, what can I help you with?
+Speaker1: Can I reserve a four-person seat at noon tomorrow? Is there any other available seats?
+Speaker2: Can you check if there's still a four-person seat available at noon tomorrow? Do you need to reserve it?
+Speaker1: Can you help me book a room for tonight?
+Speaker2: Of course, to confirm your reservation, I need your name and contact number.
+Speaker1: Okay, my name is Li Huai, phone number is 1345678900.
+Speaker2: Okay, Mr. Li Huang, your reservation has been successful. Tomorrow at noon twelve, four-person seat, we will reserve for you.
+Speaker1: Thanks for your help.
+Speaker2: You're welcome. If you have other needs, please contact us anytime. Have a nice day, goodbye!
+Speaker1: Okay, bye!

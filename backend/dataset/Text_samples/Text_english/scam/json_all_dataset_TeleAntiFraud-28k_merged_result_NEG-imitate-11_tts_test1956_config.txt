@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Little Wang, this is the XX Market Supervision Management Bureau.
+Speaker2: Hello, do you have anything?
+Speaker1: Hey, that's right, we just got a notification that your store may have involved some illegal operations, and we need you to cooperate with us for an investigation.
+Speaker2: Breaking rules? How come I don't know?
+Speaker1: That's it, we found out that you may have some recent transactions that don't comply with the rules, to ensure your rights, we need you to provide some information.
+Speaker2: What information do you need from me?
+Speaker1: Please provide us with copies of your identity card and shop business license, as well as the recent transaction records. You can send them to me via WeChat.
+Speaker2: Wechat? How do I know you are a real market supervision management bureau person?
+Speaker1: You can find my information on our official website or directly add my WeChat, I will send you my work certificate. To avoid delaying your business, I hope you can cooperate quickly.
+Speaker2: Okay, let me add you on WeChat.

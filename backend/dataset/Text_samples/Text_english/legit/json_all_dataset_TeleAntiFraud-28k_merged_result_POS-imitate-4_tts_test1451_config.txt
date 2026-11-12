@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you recommend a good hairdresser here?
+Speaker2: Of course, we have several very experienced hairdressers here. Which one would you like to book?
+Speaker1: Can you recommend someone to me?
+Speaker2: Okay, I recommend a hairdresser named Xiao Li. Her skills are great, and many customers are very satisfied.
+Speaker1: Great, can I make a reservation for a later time? When do you have any free time?
+Speaker2: Can you choose the time slot from 3 pm to 5 pm tomorrow afternoon for me to check?
+Speaker1: Can I choose three points? Do I need to arrive early?
+Speaker2: No need, arrive ten minutes early, so we can do some preparation work first.

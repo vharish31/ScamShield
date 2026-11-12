@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Lee Huai?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for SF Express, you have a package because of incomplete information, you need to confirm some information.
+Speaker2: Okay, what do you need to confirm?
+Speaker1: To confirm your identity, I need your ID number and your recent order number, so I can help you process.
+Speaker2: My ID number is... My order number is...
+Speaker1: Okay, I have recorded it down. To ensure the safety of your package, please click on the link we send and input these information, so we can continue processing.
+Speaker2: Okay, I'll handle it later.
+Speaker1: Okay, please handle it quickly. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

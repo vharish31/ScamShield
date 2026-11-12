@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you? I'm from the courier company. Your package has arrived. Would it be convenient for you to come down and pick it up?
+Speaker1: Okay, I'll go down now. What time do you close the door?
+Speaker2: Let's close the door at six o'clock, hurry up time.
+Speaker1: Okay, I'll be there in 15 minutes. Are you at the east gate of the community?
+Speaker2: Okay, East Gate, you arrived, I will call you, I will find your package.
+Speaker1: Okay, I arrived to call you, thank you.
+Speaker2: No problem, what do you need to contact me urgently? Be careful on the road.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

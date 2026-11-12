@@ -1,0 +1,10 @@
+Speaker1: Hey, how do I get to the nearest subway station?
+Speaker2: Hello, where are you?
+Speaker1: I am in Huayang Square.
+Speaker2: From Huayang Square, you can first turn left and walk to the first crossroad, then turn right and walk straight for about 500 meters, and you'll see a big advertisement board. The bus station is next to the advertisement board.
+Speaker1: Okay, thank you. How long will it take?
+Speaker2: It will take about ten minutes, if you walk a little faster, you can arrive in seven or eight minutes.
+Speaker1: I understand, thank you so much.
+Speaker2: No problem, feel free to ask me any questions anytime.
+Speaker1: Okay, I'll hang up first, bye.
+Speaker2: Okay, bye. Be careful on the road.

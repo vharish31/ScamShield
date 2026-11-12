@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the commercial bank manager Li.
+Speaker2: Hello, what can I help you with?
+Speaker1: We recently launched a special discounted loan product with low interest rates, low down payment, and fast approval. It's perfect for your friend who needs money.
+Speaker2: The sound is good, but I'm not familiar with this type of product.
+Speaker1: No problem, I can give you a detailed introduction. However, for convenience, you can first download our official app, so we can do it online, more convenient.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you download it, open the APP and click on the 'Quick Loan' on the homepage, then follow the instructions, and you can complete the application quickly.
+Speaker2: What is the way to obtain the verification code for input?
+Speaker1: The verification code will be sent to your phone, just follow the instructions to input it. Of course, for security reasons, we also need you to provide some personal information, such as your identity card number and bank account.
+Speaker2: Okay, let me try it out.

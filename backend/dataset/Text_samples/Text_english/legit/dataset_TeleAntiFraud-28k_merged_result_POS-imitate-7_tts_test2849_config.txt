@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you? Can you tell me if there are any job opportunities on your side that suit me?
+Speaker2: Hello, have you done any type of work before?
+Speaker1: I used to work as a cashier in a supermarket and also helped sort the shelves.
+Speaker2: That's great, we have a warehouse manager position here, are you interested in learning more about it?
+Speaker1: Sure, what does this work mainly require?
+Speaker2: The main responsibility is to sort and organize the items in the warehouse, including classification, shelving, and recording inventory, the working hours are relatively fixed, early morning and evening shifts alternate.
+Speaker1: Can I adapt to the warehouse job even though I don't have experience?
+Speaker2: Don't worry, we will provide the corresponding training, as long as you are willing to learn, you will be able to handle it quickly.
+Speaker1: Is it possible to start working right after the training?
+Speaker2: Yes, there will be a simple exam after the training ends. Passing it means you can officially start working.
+Speaker1: When can I attend the training?
+Speaker2: You can come to our company at 9 am tomorrow morning. The address is city road 100. After arriving, find the front desk to register.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, be careful on the road.

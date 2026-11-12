@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a waiter at some restaurant, did you order that food?
+Speaker2: Yes, it's mine.
+Speaker1: Okay, but I'm sorry, because the delivery boy was too rushed when delivering your food, one bottle of mineral water was missing from your order, can we compensate you with three yuan, is that okay?
+Speaker2: Sure, thank you.
+Speaker1: Can I add you on WeChat and give you three yuan? Do you agree to add me on WeChat?
+Speaker2: Okay, I agree.
+Speaker1: Okay, your WeChat is this phone number?
+Speaker2: Yes, that's this number
+Speaker1: Okay, I'll add you now, later transfer money to you, and apologize again for this negligence.
+Speaker2: No problem, thank you for your handling

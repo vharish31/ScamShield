@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you? What do you need me for?
+Speaker2: Hello, I want to inquire about your fitness programs on this side.
+Speaker1: Okay, we have various fitness programs here, including yoga, aerobics, and strength training. Which aspect are you interested in?
+Speaker2: I want to know more about yoga courses, what types are there, and how much do they cost?
+Speaker1: Our yoga courses are divided into beginner, intermediate and advanced levels. The beginner courses are suitable for beginners, while the intermediate and advanced courses are suitable for those with some foundation. The beginner courses cost six hundred yuan per month, the intermediate courses cost eight hundred yuan per month, and the advanced courses cost one thousand yuan per month.
+Speaker2: Do you have any experience courses if I just want to try once?
+Speaker1: Yes, we provide free trial classes, you can first try one to see if it suits you.
+Speaker2: The sound is good, I plan to try it out this weekend, what are your weekend class schedules like?
+Speaker1: The weekend courses are at 10am and 3pm. You can choose based on your time.
+Speaker2: Do I need to make an appointment in advance for the course on Sunday morning at 10 o'clock?
+Speaker1: Yes, in order to ensure the quality of experience, we need you to book in advance. You can book through our website or by phone.
+Speaker2: Okay, I understand, thank you.
+Speaker1: You're welcome, please feel free to contact us if you have any questions. We wish you a pleasant experience. Goodbye.
+Speaker2: Goodbye.

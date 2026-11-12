@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm looking for car park seven in your neighborhood.
+Speaker2: Hello, are you looking for parking spot seven?
+Speaker1: Yeah, I just cycled around for several laps and didn't see anything.
+Speaker2: Parking space 7 is in the backyard of the parking lot. Walk straight from the entrance, then turn left, you will see a garden.
+Speaker1: Is it in the backyard?
+Speaker2: Yes, the last car park is at the back of the courtyard.
+Speaker1: I understand, I'll go over there right away.
+Speaker2: Okay, there's a signpost at the parking lot, just follow it and you'll be fine.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, feel free to contact me anytime.

@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm the user of the smartwatch you sold me yesterday.
+Speaker2: Hello, do you have any questions?
+Speaker1: I found out yesterday that the screen of my watch was a little problematic, it would sometimes automatically turn off.
+Speaker2: Okay, don't get too anxious, this situation might be due to low battery or system settings issue.
+Speaker1: I'm fully charged, but it's still not working, and I also checked the settings, everything is fine.
+Speaker2: You can try restarting your watch sometimes, restarting can sometimes solve temporary problems.
+Speaker1: I have restarted many times, but there is no improvement.
+Speaker2: Okay, if it's convenient for you, you can bring your watch to our store, and we can take a look at the specific issues.
+Speaker1: When can I go over?
+Speaker2: You can come over in the morning around 10 o'clock, there aren't many people here at this time, so we can quickly help you handle it.
+Speaker1: Okay, thank you, I'll come over at 10 am tomorrow.
+Speaker2: Okay, see you tomorrow, be careful on the road.

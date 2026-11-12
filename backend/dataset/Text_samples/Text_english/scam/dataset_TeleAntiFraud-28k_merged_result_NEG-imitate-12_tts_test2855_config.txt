@@ -1,0 +1,10 @@
+Speaker1: Hello, you, this is happy express, I am customer service small wang.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we found out that one of your packages was lost during transportation. To compensate you, we need you to provide us with your bank card number so that we can transfer the compensation money to you.
+Speaker2: Really? What should I do, I need money recently.
+Speaker1: Don't worry, our company will process it quickly. But for security reasons, we need you to click this link and fill out the relevant information first.
+Speaker2: How do I know this link is safe?
+Speaker1: We are a legitimate express company, you can rest assured. Click on the link and you will see our official website, which has detailed explanations.
+Speaker2: Okay, let me try.
+Speaker1: Great, you're really a good person. Click on the link and feel free to contact me anytime if you have any questions.
+Speaker2: Okay, thank you.

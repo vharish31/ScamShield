@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask about your restaurant menu, do you have any recommended dishes?
+Speaker2: Hello, our family's signboard menu has kung pao chicken, steamed fish and sour fish, all very popular.
+Speaker1: How much does it cost to boil fish in water?
+Speaker2: Steaming fish is 68 yuan per portion.
+Speaker1: Do you know if there are any available seats now? I want to reserve a two-person table.
+Speaker2: Do you want to reserve what time for the available space?
+Speaker1: Can I leave at seven o'clock?
+Speaker2: Okay, I have already reserved a spot for you. Just remember to come ten minutes early.
+Speaker1: Okay, thank you. Is it possible to park here?
+Speaker2: Sure, there's a free parking lot next to the restaurant.
+Speaker1: Okay, I'll just drive directly there. Thank you for your help. Bye.
+Speaker2: You're welcome.

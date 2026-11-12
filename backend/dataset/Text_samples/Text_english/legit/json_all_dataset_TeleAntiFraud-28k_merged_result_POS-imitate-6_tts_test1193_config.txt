@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, where are you?
+Speaker1: Have you arrived at the station exit yet?
+Speaker2: Yes, I just arrived, but there are so many cars here, I can't see you.
+Speaker1: I'll wait here for a moment, you go ahead.
+Speaker2: Okay, I see you, the red dress you're wearing is very recognizable.
+Speaker1: Okay, I'll go over there now. Do you have a suitcase in your hand?
+Speaker2: Yes, it's a pink suitcase.
+Speaker1: Okay, I see you, let's walk forward.
+Speaker2: Okay, this side has fewer cars.

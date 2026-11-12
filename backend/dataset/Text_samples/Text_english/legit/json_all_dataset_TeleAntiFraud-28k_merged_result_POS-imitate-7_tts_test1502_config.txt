@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, hello, so, yesterday I rented a car from your store, today I want to know about the status of the car rental.
+Speaker1: Okay, what kind of car did you rent?
+Speaker2: It's a blue Ford Mustang.
+Speaker1: Okay, I'll check. Hmm, your car is back already, right?
+Speaker2: Yes, but I forgot to take down a small bag from the car when I was driving.
+Speaker1: Okay, I'll take a look. Just a moment, I'm checking the car.
+Speaker2: Okay, can you help me?
+Speaker1: I have already checked, there is no small bag on the car as you said.
+Speaker2: It's possible that I misremembered, it's possible it's in another place.
+Speaker1: Okay, take another look. Let me know if you find it.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, feel free to contact me anytime. Goodbye.
+Speaker2: Goodbye.

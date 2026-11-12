@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer service of the food square, your reserved seat is still available.
+Speaker2: Okay, I'll leave now.
+Speaker1: Okay, what time do you think you'll arrive? We can confirm again here.
+Speaker2: I roughly estimate that I'll arrive in about forty minutes.
+Speaker1: Okay, we still have the reserved spot for you forty minutes later.
+Speaker2: Do you have children's meals? I'll bring my kid along.
+Speaker1: Yes, we have special children's meals and children's chairs.
+Speaker2: That's great, my child loves to eat your fried chicken pieces the most.
+Speaker1: Don't worry, fried chicken blocks are our signature dish, and all our friends love it.
+Speaker2: Okay, let's settle it, we'll meet in forty minutes.
+Speaker1: Okay, see you in forty minutes, see you then.

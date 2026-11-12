@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, this is happy fast food, what can I help you with?
+Speaker2: Hello, I want to know more about your menu, especially your special dishes.
+Speaker1: Okay, our special dishes here include spicy Sichuan hot pot, sour fish with vinegar and our popular beef stir-fry.
+Speaker2: How much do these dishes cost?
+Speaker1: The spicy pot is thirty yuan, the sour fish is forty yuan, the beef stir-fry is twenty-five yuan.
+Speaker2: Can I order a fish with vinegar and a beef stir-fry and have them delivered to the square near Tiananmen?
+Speaker1: Sure, we provide delivery service. Please tell me your detailed address and contact phone number.
+Speaker2: The address is Tiananmen Square East Side, the contact phone is 13500000000.
+Speaker1: Okay, your order has been recorded. It will be delivered in about thirty minutes. Is there anything else you need?
+Speaker2: No more, thank you.

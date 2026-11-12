@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm small Zhang, this is China e-commerce customer service, your order seems to have some issues, do you need me to help you handle it?
+Speaker2: Uh, okay, my order has issues, can you help me solve them?
+Speaker1: Of course, in order to better assist you, I need you to provide me with your order number and your bank card number, so we can verify the information.
+Speaker2: Okay, order number is one two three four five six seven eight nine zero, bank card number is one two three four five six seven eight nine zero one two three four five six seven eight nine zero one two
+Speaker1: Okay, I'll check. Ah, I found it. But, the system shows you need to download our latest version app to complete this refund operation.
+Speaker2: How do I download this app?
+Speaker1: You can click on this link, or I can send you a QR code directly, you just need to scan it and you can download it.
+Speaker2: Okay, I'll wait for you to send the QR code.
+Speaker1: Okay, just a moment, I'll send it to you right away. By the way, for safety reasons, you may need to provide a short message verification code. I'll send you a text message, let me know once you receive it.
+Speaker2: Okay, I understand.

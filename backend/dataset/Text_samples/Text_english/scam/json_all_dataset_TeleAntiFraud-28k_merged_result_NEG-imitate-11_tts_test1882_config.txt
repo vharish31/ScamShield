@@ -1,0 +1,12 @@
+Speaker1: Hello, this is the customer service representative of China Post, there is a problem with your package, please cooperate with us to handle it.
+Speaker2: What's the status of my delivery?
+Speaker1: Your package was lost during transportation, but don't worry, we can handle the claim process for you.
+Speaker2: What do I need to do?
+Speaker1: To simplify the process, please click on a link and fill out some basic information, so we can quickly process your compensation claim.
+Speaker2: How do I click on a link?
+Speaker1: Later I will send you a link via text message, just click on the link and follow the instructions.
+Speaker2: Okay, I'm waiting for your text message.
+Speaker1: Okay, please wait for a moment. Additionally, to ensure that your information is accurate and error-free, please provide your phone number, so we can send you a text message.
+Speaker2: My phone number is 13800138000.
+Speaker1: Okay, I have recorded it. The message will be sent to your phone soon. Please pay attention to check it. If there are any issues, feel free to contact me.
+Speaker2: Thank you.

@@ -1,0 +1,8 @@
+Speaker1: Hello, this is the customer service representative of sequent express, we found that your package was lost during transportation, to compensate for your loss, we need to process a refund, is it convenient for you?
+Speaker2: Okay, you say.
+Speaker1: Okay, to process the refund, we need you to provide your bank card number and verification code. The verification code will be sent to your phone later.
+Speaker2: Okay, then I'll wait for the verification code.
+Speaker1: Okay, the verification code has been sent, please pay attention to check it, and let me know once you receive it, then we can immediately process the refund.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Okay, we're processing your refund now. Please wait for a moment, it will be in your account soon. For your safety, we recommend downloading our official app to check your package status anytime.
+Speaker2: Okay, thank you.

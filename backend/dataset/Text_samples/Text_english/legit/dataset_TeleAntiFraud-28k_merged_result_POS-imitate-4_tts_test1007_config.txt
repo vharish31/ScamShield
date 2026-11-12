@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm the customer service at the food square, you ordered food from us before, do you want to know your satisfaction with our menu?
+Speaker2: Hey, how are you, can I still? It's pretty good.
+Speaker1: Would it be convenient for you to try our newly launched dishes again when you have some time?
+Speaker2: What are the new menu items? Do you have any recommendations?
+Speaker1: We recently introduced seafood pizza and spicy beef, both of which have been well received by customers.
+Speaker2: That sounds good, so I tried it over the weekend.
+Speaker1: Okay, for the weekend, can you call ahead to reserve, so when you arrive you can directly use the meal.
+Speaker2: Okay, I will call ahead. What's your phone number?
+Speaker1: Our takeout hotline is 555-0000, you can directly dial this number.
+Speaker2: Okay, thank you. See you this weekend.
+Speaker1: See you this weekend! I hope you'll like our new menu items. Bye!

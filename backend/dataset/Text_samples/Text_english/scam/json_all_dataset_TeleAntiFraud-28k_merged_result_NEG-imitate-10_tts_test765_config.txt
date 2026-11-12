@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is speed buy express customer service center, I is customer service specialist Lee Huang.
+Speaker2: Hey, how are you? What's up?
+Speaker1: Oh, that's how it is, we found out your package was accidentally lost during transportation, to compensate for your loss, we need to process a refund for you.
+Speaker2: Is that so? How can it be handled then?
+Speaker1: I'm very sorry to have caused you inconvenience. In order to quickly process your compensation, could you please provide your bank account number and verification code so that we can directly transfer the refund to your account?
+Speaker2: Okay, what do I need to do?
+Speaker1: Just follow the instructions in the link and fill in the relevant information, and our system will automatically process it.
+Speaker2: Link? How do I get this link?
+Speaker1: Please wait a moment, I will send the link via text message to your phone. Once received, please click on the operation immediately.
+Speaker2: Okay, I'll wait for a text message.

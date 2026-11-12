@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service of Bank of China, I am Zhang Huai, have you received any information about our bank loans recently?
+Speaker2: Hello, I received it, but I'm not considering a loan now.
+Speaker1: Ah, I understand. But our interest rate for this loan is very favorable, only 0.03, and the paperwork is easy, no collateral required.
+Speaker2: Can you give me specific conditions?
+Speaker1: Of course, for your convenience, I have a link here that you can click to see the detailed loan plans.
+Speaker2: Okay, let me try.
+Speaker1: The link has been sent to your phone. Please check it. Additionally, to speed up the approval process, please fill out some personal information, such as your ID number and bank card number.
+Speaker2: Okay, I understand.
+Speaker1: Okay, if you have any issues during the operation, feel free to contact me directly.
+Speaker2: Thank you, I will pay attention.

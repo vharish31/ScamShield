@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hi, I'm Little King, can you tell me how to make a haircut appointment?
+Speaker2: Hello, little king, we can directly make a haircut appointment by calling here, or we can make a haircut appointment on our public account, which one is more convenient for you?
+Speaker1: Can you give me a link to your public account booking operation?
+Speaker2: Okay, just a moment, I'll send it to you right away.
+Speaker1: Okay, thank you, I want to cut my hair tonight, do you have time?
+Speaker2: Please wait a moment while I check. There are still several time slots available for booking tonight, between 7 and 8:30 or 8:30 and 9:30. Which time slot do you prefer?
+Speaker1: I can arrive between 7 and 8, so I'll choose this time slot.
+Speaker2: Okay, I have already made a reservation for you at seven o'clock to eight o'clock. Remember to come ten minutes early, we are happy to serve you.
+Speaker1: Okay, thank you. See you later.
+Speaker2: See you later, wish you a happy day.

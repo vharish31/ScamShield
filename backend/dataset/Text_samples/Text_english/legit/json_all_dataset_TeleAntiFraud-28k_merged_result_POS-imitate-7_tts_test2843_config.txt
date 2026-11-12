@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you recommend some takeout for me?
+Speaker2: Of course, where are you?
+Speaker1: I can go anywhere in Tiananmen.
+Speaker2: In Tiananmen District, there's a store called "Lao Beijing Zhao Jiang Mian" that has a good reputation, and also there's a popular restaurant on the food street that serves Sichuan cuisine.
+Speaker1: What do you think tastes better, the one that sounds good or the other?
+Speaker2: What kind of taste do you prefer? If you like fried noodles, go to Lao Beijing fried noodles; if you like spicy Sichuan cuisine, choose Sichuan small chef.
+Speaker1: Can I try the Cantonese cuisine here? Do you have any recommendations for dishes?
+Speaker2: The water-cooked beef and palace-vegetable chicken wings from the Sichuan chef are very famous, you can try them.
+Speaker1: Okay, I'll order these two dishes. How long will they be delivered?
+Speaker2: Typically, it takes about thirty minutes. If you order now, I will help you write a quick delivery note in the remarks.

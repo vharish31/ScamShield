@@ -1,0 +1,12 @@
+Speaker1: Hello, this is somebao customer service specialist Li, calling because we found a major issue with the product you recently purchased, and we need your cooperation to handle it.
+Speaker2: What's the issue?
+Speaker1: We're sorry to inform you that your product was damaged during shipping. We need you to cooperate with us in the process of returning and refunding.
+Speaker2: Okay, how can I cooperate?
+Speaker1: Please click on this link and fill out the relevant information, we will process your refund quickly.
+Speaker2: Link? How do I click?
+Speaker1: You can use your phone to scan the QR code I send to you, it's more convenient and quick.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the QR code right away. Just follow the instructions.
+Speaker2: How do I know this QR code is real?
+Speaker1: You can rest assured, we are somebao official customer service, you can call somebao customer service anytime to verify.
+Speaker2: Okay, let me try it out.

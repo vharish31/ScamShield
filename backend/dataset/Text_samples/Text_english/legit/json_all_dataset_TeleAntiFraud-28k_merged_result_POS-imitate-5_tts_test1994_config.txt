@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, what are you going to eat tonight?
+Speaker2: Hey, little king, haven't thought about it yet, do you have any suggestions?
+Speaker1: Have you heard about the new hotpot restaurant that just opened? It's supposed to be pretty good. Want to give it a try?
+Speaker2: The food at this restaurant sounds good, but I'm not very good at eating spicy, how is the cuisine here?
+Speaker1: This store has many flavor options to choose from, the non-spicy ones are also very delicious, and there are also special sauces to match.
+Speaker2: Great, I'll check the location now, do you know roughly what time the door opens?
+Speaker1: I checked, they started business at 5 pm, how did we pass by around 6 pm?
+Speaker2: Okay, I'll leave half an hour earlier, should be fine. Do I need to make an appointment in advance?
+Speaker1: This store is very crowded, it's best to make a reservation in advance, I can help you make a reservation.
+Speaker2: Thanks, little king.

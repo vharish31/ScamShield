@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Ele.me.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, you ordered a takeout from our platform before, and now the delivery person has arrived at your address.
+Speaker2: Oh, I haven't heard the knock yet.
+Speaker1: It might be that someone rang the doorbell with their hand, you can go take a look at the door if it's convenient.
+Speaker2: Okay, I'll go take a look.
+Speaker1: Okay, please contact our customer service if you have any questions.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, I hope you enjoy your meal.
+Speaker2: Okay, bye.

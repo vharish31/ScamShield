@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there? I'm at the front of the fruit store, can you see me?
+Speaker2: Hey, haven't seen you yet, are you opening double flash?
+Speaker1: Yes, I parked my double flashlight in front of the fruit store.
+Speaker2: Okay, I'll be there soon, you wait for a minute or two.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: You can also look at the other side, I might come from there.
+Speaker1: Okay, I'll take a look at the other side.
+Speaker2: Okay, I'll go now, don't worry.
+Speaker1: Okay, be careful on the road.
+Speaker2: Thank you, see you later.

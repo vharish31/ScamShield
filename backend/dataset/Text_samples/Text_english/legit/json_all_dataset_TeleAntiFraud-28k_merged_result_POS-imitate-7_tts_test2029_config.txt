@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: I'm the one who bought books online. I just placed an order and it seems like there was a little problem. I want to consult it.
+Speaker2: Okay, please wait a moment, I'll check your order status.
+Speaker1: Okay, thank you.
+Speaker2: Found it, your order encountered a payment failure issue, needs to be repaid.
+Speaker1: Can I still enjoy the discount if I pay again?
+Speaker2: Yes, the discount code is still valid if it is used again within the effective period.
+Speaker1: Okay, I'll go operate right away.
+Speaker2: Okay, if you have any other questions, please contact our customer service anytime.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, hope you have a nice shopping.

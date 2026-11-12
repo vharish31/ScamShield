@@ -1,0 +1,9 @@
+Speaker2: Hello, which one?
+Speaker1: Hello, this is the Ping An Finance Center. I am your exclusive customer manager, Li. Recently we have launched a special loan service customized for enterprises, no collateral, low interest rate, very suitable for your type of entrepreneur. Are you interested in learning more?
+Speaker2: No need, I'm rich now.
+Speaker1: That's great, that's really good. But, if you have any financial needs in the future, you can contact us anytime. By the way, we recently have a special promotion, if you download our official app, you will get a new user 100 yuan cash red packet, it's very cheap. Are you interested to download and try it?
+Speaker2: What are the benefits of downloading the app?
+Speaker1: Of course, besides the new user red envelopes, our app also has many exclusive financial products with higher returns than the market, and the operation is convenient, you can always check your account information anytime.
+Speaker2: Listen good, how download?
+Speaker1: Great! Just click on this link to download our official app directly. https://example.com/download
+Speaker2: Okay, I'll give it a try. Thank you for your recommendation.

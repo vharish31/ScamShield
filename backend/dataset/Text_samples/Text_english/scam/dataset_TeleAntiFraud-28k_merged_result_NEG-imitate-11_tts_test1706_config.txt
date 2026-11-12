@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Zhang Qiang?
+Speaker2: Hello, I'm Zhang Qiang.
+Speaker1: Hello, this is the happy shopping customer service center. Your order has a problem, please cooperate to handle it.
+Speaker2: What problem?
+Speaker1: Your order was lost during delivery, we are now processing a refund.
+Speaker2: How do I get a refund?
+Speaker1: To ensure your information and funds are safe, we need you to download our official app to complete the refund process through it.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, this way we can process your issue faster, there are detailed instructions in the app.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please add my WeChat and consult me, my WeChat number is happybuy123, I hope we can solve this problem smoothly.
+Speaker2: Okay, I'll add you on WeChat.

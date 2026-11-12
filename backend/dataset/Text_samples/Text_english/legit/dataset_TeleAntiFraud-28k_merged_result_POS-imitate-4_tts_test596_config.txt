@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am a customer service representative from the courier company. Your package has arrived at a nearby delivery point. When is it convenient for you to pick it up?
+Speaker2: Hello, I'm at home, but I need to go out for a bit, can I go pick something up at four o'clock in the afternoon?
+Speaker1: Okay, there will be someone on duty here in the afternoon at four o'clock. You can come over then. Do you need me to keep it until tomorrow?
+Speaker2: If possible, it would be great if you could leave it for tomorrow morning, I'll arrive early tomorrow.
+Speaker1: Okay, no problem, we will help you save until tomorrow morning. Remember to bring your ID, so we can verify the information.
+Speaker2: Okay, thank you, I will bring it tomorrow.
+Speaker1: No problem, feel free to contact us if you have any other questions. Have a nice day.
+Speaker2: Thank you, you guys worked hard too. Bye!
+Speaker1: Goodbye!

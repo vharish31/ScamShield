@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I was wondering if there are any short-term rentals here suitable for two people?
+Speaker2: Hello, are you ready to rent for how long?
+Speaker1: We'll be here for about a month or so on a short-term business trip.
+Speaker2: We have several options for a one-month short-term rental here. Do you have any specific requirements for the room, such as no kitchen or internet?
+Speaker1: It's best if there's a kitchen, so we can cook our own meals, and the internet should be good too because we have some work-related things to deal with.
+Speaker2: Understood, we do have such a room on this side, the rent is four thousand five hundred yuan per month, the deposit is one thousand five hundred yuan, can you see?
+Speaker1: Can both rent and deposit be accepted? Then do I need to pay in advance?
+Speaker2: Yes, you need to pay the first month's rent and deposit in advance. We can provide Alipay or WeChat payment.
+Speaker1: Okay, when do you want to sign the contract? What's the specific address?
+Speaker2: Okay, the address is XX road XX number XX building, we'll meet tomorrow.

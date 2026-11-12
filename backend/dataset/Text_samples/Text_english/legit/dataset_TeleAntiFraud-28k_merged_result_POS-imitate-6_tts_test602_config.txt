@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, hello, I'm little king, recently I've been looking for a phone repair place, heard here you can fix it.
+Speaker2: Yes, we can use our phones here. What specific issue do you have?
+Speaker1: My phone screen is cracked. Can you give me an estimate of how much it would cost to repair it?
+Speaker2: If your screen is cracked, the repair cost is usually between 300 and 500, depending on the phone model. Can you bring it over for me to take a look first?
+Speaker1: Okay, what is your working hours here?
+Speaker2: Our work hours here are from 9am to 6pm. You can come at a convenient time.
+Speaker1: Can I go at 2 pm tomorrow afternoon?
+Speaker2: Okay, tomorrow afternoon at two o'clock, I will be waiting for you here.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

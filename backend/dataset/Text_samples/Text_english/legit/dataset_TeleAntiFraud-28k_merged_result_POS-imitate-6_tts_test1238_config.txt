@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative for a food delivery platform. Did your order arrive yesterday?
+Speaker2: Oh, hello, it arrived, but the food is a bit cold.
+Speaker1: I'm very sorry to have given you an unpleasant experience, it might have been due to the longer delivery time.
+Speaker2: Yeah, that's true.
+Speaker1: Can we help you with something, like giving you some discounts next time you order?
+Speaker2: Okay, next time I place an order, remind me of any discounts.
+Speaker1: Of course, we will note in your account, and automatically apply discount next time you order.
+Speaker2: Okay, thank you for your service.
+Speaker1: You're welcome. Your satisfaction is our motivation. If you have other questions, please contact us anytime.
+Speaker2: Okay, thank you, bye.

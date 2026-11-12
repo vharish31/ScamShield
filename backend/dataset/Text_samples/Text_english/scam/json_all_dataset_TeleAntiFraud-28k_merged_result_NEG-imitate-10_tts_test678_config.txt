@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural and Commercial Bank. We have detected that your store has recently had a cash need. We can provide you with a no collateral loan service, with a low interest rate and quick approval. You may want to consider it.
+Speaker2: Hello, I recently have some financial pressure, can you give me detailed information about this loan?
+Speaker1: Okay, the maximum loan amount is one hundred thousand yuan, the annual interest rate is only 0.4%, and only basic business license and identity proof are required to quickly apply.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Just click this link, fill out some basic info, and our customer manager will contact you for further review.
+Speaker2: Okay, how do I click on this link?
+Speaker1: You can scan this QR code with WeChat or directly enter this link in the browser. I can send you the specific link via text message, and you will receive it.
+Speaker2: What information do I need to provide after receiving the text message?
+Speaker1: You need to provide your name, ID number, phone number, and basic shop information. These information are only for qualification audit.
+Speaker2: Okay, I understand now, thank you.

@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I'm a server at the happy restaurant, did you know your weekend reservation is still valid?
+Speaker2: Yes, I remember that it's seven o'clock on Saturday night this week.
+Speaker1: Yes, the window seat you reserved is available, do you need to keep it?
+Speaker2: We need to, this weekend we're having a family gathering, just at your place to eat.
+Speaker1: Okay, I'll confirm for you. Uh, I've reserved it for you, Saturday evening at seven, by the window, a total of four seats.
+Speaker2: Great, thank you. By the way, we might have two more people, can we add seats?
+Speaker1: Okay, you can come directly at the time, we will adjust for you.
+Speaker2: Okay, can we just go directly when the time comes?
+Speaker1: Yes, you can come directly, and if there are any changes, you can contact us in advance.
+Speaker2: Okay, thank you for your service, see you on Saturday.
+Speaker1: See you on Saturday, wish you a happy day.

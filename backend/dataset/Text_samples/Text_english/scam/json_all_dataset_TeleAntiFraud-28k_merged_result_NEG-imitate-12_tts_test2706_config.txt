@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm the bank's customer manager, Lee Huai.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed you might have recently had a need for cash flow, we have a special loan product designed for business owners with high limits, fast approval, and it's very convenient.
+Speaker2: I don't need a loan at the moment.
+Speaker1: Okay, but if you're interested, you can first take a look, our product is very competitive. I can send you a link, it has detailed information on the loan process and application conditions.
+Speaker2: Okay, let's take a look.
+Speaker1: Great, I'll send it to you right away. Additionally, if you have any questions, you can directly contact us through this link's customer service function, and we will quickly answer you.
+Speaker2: Okay, thank you.
+Speaker1: No problem, I hope our service can help you. If you have any questions, please contact me anytime. Best wishes for your success!
+Speaker2: Okay, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Is it me, you?
+Speaker1: I am the manager of the Agricultural and Commercial Bank, we noticed your company recently has business expansion needs, can we provide a loan without collateral, interest rate is low, are you interested?
+Speaker2: "Hmm, this is pretty good, but how can I confirm you're real?"
+Speaker1: Please understand your concerns, you can first call our bank customer service hotline 400-123-4567 to confirm my identity.
+Speaker2: Okay, I'll check it out.
+Speaker1: Okay, confirm after you and then call me back, my number is 138-0000-0000.
+Speaker2: Confirmed, you are really Zhang manager.
+Speaker1: Great, let's continue. To make it easier for you to apply for a loan online, I have a link here that you can quickly fill out the information, the link is http://loan.example.com.
+Speaker2: Okay, I'll click on it.

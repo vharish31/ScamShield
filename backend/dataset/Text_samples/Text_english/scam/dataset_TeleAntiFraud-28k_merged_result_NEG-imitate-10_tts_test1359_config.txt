@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Liu?
+Speaker2: Hello, who are you?
+Speaker1: Hello, this is the small Zhang from the Huaxia Bank Credit Department. We noticed your credit record is excellent, and we would like to offer you a low-interest loan service.
+Speaker2: No, I don't need a loan right now.
+Speaker1: Understand understand, but, in case there's a need for funds in the future, consider us here. Add a WeChat, convenient to contact anytime.
+Speaker2: Add WeChat? This is not good, I need to consider consider.
+Speaker1: No problem, we are doing this for your convenience too. Add a WeChat, no loan, no problem, we can also provide other financial consulting services.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: Great, my WeChat number is qianyuan123, add me and I have some reference materials on this side.
+Speaker2: Okay, let me try.

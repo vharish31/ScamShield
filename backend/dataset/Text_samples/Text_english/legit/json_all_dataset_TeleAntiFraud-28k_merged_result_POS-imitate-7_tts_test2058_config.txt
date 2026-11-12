@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, who are you looking for?
+Speaker1: Hi, I'm new to the neighborhood. Do you have any good restaurant recommendations here?
+Speaker2: Hey, there's a restaurant called "Food Paradise" over here, it's not bad, you can give it a try.
+Speaker1: Food Paradise, it sounds good, what kind of food does it mainly make?
+Speaker2: The main dishes are Sichuan cuisine, with a very authentic flavor, especially their spicy stir-fry and steamed fish, which are very popular.
+Speaker1: How much does it cost for one person? It sounds really good when you listen to it.
+Speaker2: On average, people spend around 50 to 100, not too expensive.
+Speaker1: Okay, thank you for your recommendation. I'm planning to try it out this weekend.
+Speaker2: You won't regret it if you go there on the weekend and have fun.
+Speaker1: You're welcome, you too. Goodbye!
+Speaker2: Goodbye!

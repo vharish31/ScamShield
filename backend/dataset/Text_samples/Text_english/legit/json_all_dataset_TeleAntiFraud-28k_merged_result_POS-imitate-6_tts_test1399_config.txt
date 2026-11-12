@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I have an appointment for a haircut at your store, can you confirm it?
+Speaker2: Hello, Xiaoming, what is your appointment time?
+Speaker1: I have an appointment tomorrow at three in the afternoon.
+Speaker2: Okay, I'll check. Hmm, the appointment for tomorrow at three in the afternoon is already recorded, yes, that's right.
+Speaker1: Okay, I'll arrive on time tomorrow.
+Speaker2: Okay, we'll see each other tomorrow. If there are any changes, please contact us in advance.
+Speaker1: Okay, thank you. Is there a parking place at your location?
+Speaker2: Yes, we have a free parking lot behind the store. You can park there directly when you come.
+Speaker1: That's great, thank you for your help.
+Speaker2: You're welcome, feel free to ask any questions anytime. See you tomorrow!

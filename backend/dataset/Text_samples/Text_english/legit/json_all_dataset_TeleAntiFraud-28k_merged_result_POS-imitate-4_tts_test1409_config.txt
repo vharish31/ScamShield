@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Do you have something to talk about?
+Speaker1: So, I have a movie ticket here. I originally invited a friend to come with me, but something urgent came up and they couldn't make it. Would you be interested in going with me?
+Speaker2: Movie ticket, what movie?
+Speaker1: It's a new sci-fi movie that's just come out, and I heard the special effects are really good.
+Speaker2: Oh, that's great, I've been wanting to see it lately too. What time does it start?
+Speaker1: By seven thirty, we'll arrive.
+Speaker2: Okay, I'll leave in a little while. When will we meet again?
+Speaker1: Let's meet at the movie theater at 6:50.
+Speaker2: Okay, see you later.

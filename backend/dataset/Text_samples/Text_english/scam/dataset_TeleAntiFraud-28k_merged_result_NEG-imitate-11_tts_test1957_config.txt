@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I work at the bank. There's a low-interest loan you can apply for on this side. Would you like to know more?
+Speaker2: I don't need a loan, thank you.
+Speaker1: Do you really not need it? There are additional discounts now when applying, such as gifts and possible reduction of some fees.
+Speaker2: How did you get my information?
+Speaker1: We have cooperation with several institutions, information exchange is normal. However, you can rest assured, we will not disclose your personal information.
+Speaker2: I'm not very trusting of you guys.
+Speaker1: Okay, add my WeChat, I'll send some info, you check it out and decide.
+Speaker2: Do you want to add me on WeChat? It's not good, I'll just check online first.
+Speaker1: Okay, you can check first, and if you have any questions, feel free to contact me anytime. Here's my WeChat, feel free to add it if it's convenient.
+Speaker2: Okay, I'll think about it.

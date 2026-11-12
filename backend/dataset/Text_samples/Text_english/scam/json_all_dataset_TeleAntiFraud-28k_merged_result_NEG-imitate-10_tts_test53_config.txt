@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is Shenzhen Bank. I am customer service manager Li. Your loan application has been approved. Do you need to know more?
+Speaker2: Oh, really? I actually need some money recently.
+Speaker1: Yes, we have approved a 20,000 yuan line of credit for you, the interest rate is very low, the approval process is very fast, just need you to provide some basic information, we can quickly disburse the funds.
+Speaker2: What do I need to do?
+Speaker1: Just click on the link we send to you and fill out the necessary information, and we can immediately process it for you.
+Speaker2: Okay, I'll go operate later.
+Speaker1: Okay, here's the link: [fake link]. Click it and follow the instructions. If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, I'll go do it later.
+Speaker1: You're welcome, wish you all the best, feel free to contact me anytime if you have any questions. Bye.
+Speaker2: Goodbye.

@@ -1,0 +1,9 @@
+Speaker2: Hey, how are you?
+Speaker1: Do you have any scheduled appointments for tomorrow here?
+Speaker2: Yes, what service would you like to book?
+Speaker1: I want to make a hair appointment, check the time schedule.
+Speaker2: Okay, for the haircut, do you prefer the morning from 9 to 11 or the afternoon from 2 to 5?
+Speaker1: Can I come at 9:30 in the morning?
+Speaker2: Okay, 9:30 is fine. Are you a new customer?
+Speaker1: Yes, first time here
+Speaker2: Okay, please provide a contact method to confirm the appointment.

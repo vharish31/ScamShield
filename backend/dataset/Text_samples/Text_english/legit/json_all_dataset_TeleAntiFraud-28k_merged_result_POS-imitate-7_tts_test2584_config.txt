@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service representative of the platform. Can you confirm if there are any issues with the products you just ordered?
+Speaker2: Hello, which order are you referring to?
+Speaker1: Yes, you bought a phone and a tablet in the morning, right?
+Speaker2: Yes, these are the two products.
+Speaker1: We found that the inventory of laptops is insufficient, it may be necessary to delay delivery, can you see?
+Speaker2: How long are you delayed?
+Speaker1: It usually takes 3 to 5 days. If possible, we will arrange shipping as soon as possible.
+Speaker2: When will that phone arrive?
+Speaker1: The phone will be shipped tomorrow, and it will arrive later.
+Speaker2: Okay, let's take a look together after my laptop arrives.

@@ -1,0 +1,12 @@
+Speaker1: Hey, are you guys selling electronic products?
+Speaker2: Hello, yes, we mainly sell various electronic products here. What can we help you with?
+Speaker1: Do you have any recommended phone models here for a newbie?
+Speaker2: Of course, we have many popular phones here. You can tell me your budget and needs, and I can recommend a few for you.
+Speaker1: I'm estimating around three thousand yuan, I want a bit more travel time, and the photo quality is not bad.
+Speaker2: Okay, based on your needs, I recommend you take a look at our new phones, this phone has a large battery, the camera quality is excellent, and the price is within your budget.
+Speaker1: Is this phone in stock?
+Speaker2: You can come to the store now to see the in-stock items or place an order online, and we offer fast delivery.
+Speaker1: What is the address of your store?
+Speaker2: Our store is on the third floor of the electronic mall in the city center. You walked five hundred meters straight from the subway station to get here.
+Speaker1: Okay, I'll be there in about half an hour. See you then.
+Speaker2: Okay, see you later, I'll be waiting for you at the store.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Why hasn't my delivery arrived yet? I've already finished work.
+Speaker2: Uh, I look, I look
+Speaker1: Look, I've been waiting for a long time.
+Speaker2: Okay, okay, I'll check
+Speaker1: I can't wait forever, I still have things to do.
+Speaker2: Okay, I'll check it out right away, you can take a look at your order, it shows a few minutes left.
+Speaker1: The order shows two minutes left.
+Speaker2: Okay, just wait for two more minutes, if it's not there yet, call me again, I'll help you handle it on this end.
+Speaker1: Okay, I'll wait for two more minutes. If it's not there yet, I'll contact you again.
+Speaker2: Okay, thank you for your understanding. If you have any questions, please contact me anytime.
+Speaker1: Goodbye, see you later.
+Speaker2: Okay, bye.

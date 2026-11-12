@@ -1,0 +1,9 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I reserved a spot for you at your store at six o'clock tonight.
+Speaker2: Hello, Xiao Ming, I am server Zhang, your reserved seats are ready. How many people are there?
+Speaker1: What are some special dishes at your store that we, a group of four people, would recommend?
+Speaker2: Our signature dishes include spicy Szechuan hot pot and steamed sea bass with ginger, both very popular. You can try them.
+Speaker1: Okay, let's order these two dishes. Also, we have a friend who might be late, can you wait a moment?
+Speaker2: Of course, we will save your spot, the latest you can wait for your friend is 6:30 PM tonight.
+Speaker1: Okay, now you don't have to worry. We'll meet later.
+Speaker2: Okay, we're waiting for your arrival. Please feel free to contact us anytime. Goodbye.
+Speaker1: Okay, thank you, bye.

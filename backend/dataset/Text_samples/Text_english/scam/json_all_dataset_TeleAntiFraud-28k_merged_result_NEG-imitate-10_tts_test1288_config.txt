@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am somebao customer service, you recently bought electronic products from our platform and there were quality issues, we are ready to handle return and refund for you.
+Speaker2: Really? That's great, I'm ready to contact you now.
+Speaker1: Yes, to quickly process, you need to first download our official refund app, so you can quickly complete the refund process.
+Speaker2: Okay, how do I download?
+Speaker1: You can search for "some certain refund assistant" in the mobile app store, download and install it, and I will send you a verification code, which you can input to quickly process the refund.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Okay, just a moment, I'll send you the verification code right away.
+Speaker2: Okay, I'm waiting for your verification code.
+Speaker1: The verification code has been sent to your phone. Please check it. After installing the app, enter the verification code and follow the instructions.
+Speaker2: Okay, thank you for your help.

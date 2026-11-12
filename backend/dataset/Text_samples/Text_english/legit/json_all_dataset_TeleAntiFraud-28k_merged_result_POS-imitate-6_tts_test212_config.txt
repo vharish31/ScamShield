@@ -1,0 +1,10 @@
+Speaker1: Hello, are you going to reserve dinner tonight at the Happy Restaurant?
+Speaker2: Hey, yes, I want to book a room, do you guys have any rooms available now?
+Speaker1: Okay, do we have some places, what time will you arrive?
+Speaker2: Let's meet around seven in the evening.
+Speaker1: Okay, seven o'clock, how many people?
+Speaker2: Just the two of us.
+Speaker1: Okay, two people, seven o'clock, we will reserve a place for you. Do you need to pre-order the window seat?
+Speaker2: If possible, we want to sit by the window so we can see the outside scenery.
+Speaker1: No problem, the window seat has been reserved for you. Do you have any special dietary requirements, such as foods you dislike or allergens?
+Speaker2: No specifics, thank you for your reminder.

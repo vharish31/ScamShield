@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here happy bank customer center, I is customer service manager little Li.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed that you've been inactive in our bank account recently, as a reward for our long-time customers, we have specially prepared a discount activity for you.
+Speaker2: What activity is it?
+Speaker1: We have a high-yield investment project with an annual return rate of up to 20%, and the risk is very low.
+Speaker2: Listen sounds good, but how to join in?
+Speaker1: You just need to download our bank's official app, register and complete real name authentication, then you can participate in investment.
+Speaker2: How can I determine if this is an official app?
+Speaker1: You can rest assured, our app is available in all major app stores, you can directly search for "Happy Bank" to download. For your safety, we recommend downloading it directly from the app store.
+Speaker2: Okay, I'll give it a try. Thank you.

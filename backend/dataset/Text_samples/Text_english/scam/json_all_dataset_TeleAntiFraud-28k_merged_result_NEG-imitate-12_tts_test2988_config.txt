@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao, this is the customer service representative of JD Finance.
+Speaker2: Hello, what do you have?
+Speaker1: This is the case, our system detected that you have overdue records on your JD white card, please handle it quickly, otherwise it may affect your credit record.
+Speaker2: Oh, really? I've been busy lately and forgot.
+Speaker1: Yes, don't worry, I can help you solve this problem. Please provide your bank card number and verification code, we will handle it on this end.
+Speaker2: Okay, how can I provide?
+Speaker1: You can click on the link I sent you and fill in the relevant information, and we will process immediately.
+Speaker2: Okay, I'll handle it right away.
+Speaker1: Okay, click on the link and follow the instructions. If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, I'll go handle it now.

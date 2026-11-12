@@ -1,0 +1,9 @@
+Speaker2: Hello, is this the Xiaoming family?
+Speaker1: Yes, who are you?
+Speaker2: I'm from the courier company, there's a package that needs you to sign for it, can you come out and pick it up?
+Speaker1: I'm a bit busy right now, I should be free in about twenty minutes, can I wait for you a bit?
+Speaker2: Sure, I'll wait for you at the door of your community, you can call me if you have anything.
+Speaker1: Okay, thank you. I'll call you when I arrive.
+Speaker2: Okay, see you later.
+Speaker1: Bye.
+Speaker2: Goodbye.

@@ -1,0 +1,13 @@
+Speaker1: Hey, how are you? I'm little king, what do you want?
+Speaker2: Hello, little Wang, I am little Li, want to consult your household service.
+Speaker1: Okay, little Li, what specific aspects of the service do you want to know about?
+Speaker2: I'd like to know more about your deep cleaning service.
+Speaker1: Our deep cleaning service includes cleaning the kitchen, bathroom, windows and all angles, the service time can be scheduled as needed, and the cost is based on the size of the house and the difficulty of cleaning.
+Speaker2: What is your service time like?
+Speaker1: We usually provide service from 9am to 6pm, weekends also included. You can choose an appropriate time slot.
+Speaker2: How much does it cost approximately?
+Speaker1: In general, the cleaning fee for a house with a depth of up to 100 square meters is 200 yuan, and for every additional 10 square meters, an additional 50 yuan is charged.
+Speaker2: Okay, can I schedule an appointment for next Monday?
+Speaker1: Sure, next Monday I have some free time, I will arrange a experienced cleaner for you, do you have any other needs?
+Speaker2: Thanks for your patience, I'll get back to you soon.
+Speaker1: No problem, see you later, wish you a happy day.

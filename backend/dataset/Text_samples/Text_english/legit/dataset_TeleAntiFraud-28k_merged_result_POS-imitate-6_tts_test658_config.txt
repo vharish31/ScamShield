@@ -1,0 +1,12 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, I'm doing well, how about you lately?
+Speaker1: I'm fine, I've been busy lately with work. Do you have time tonight?
+Speaker2: What's up?
+Speaker1: Let's go eat at a new restaurant that just opened, I heard it's pretty good.
+Speaker2: What's the name of that restaurant?
+Speaker1: Have you heard of the name "Flower Jasmine Spatula"?
+Speaker2: Have you never heard of it? But it sounds good, where is the address?
+Speaker1: I'm sending you a location right now on Freedom Road.
+Speaker2: Okay, thank you. What time?
+Speaker1: Let's meet at six o'clock, how about it?
+Speaker2: Okay, see you then.

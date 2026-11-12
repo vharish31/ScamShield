@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiao Chen, I recently want to renovate my home, I heard your place has good decoration services, can you introduce me?
+Speaker2: Hello, I am small Li from the decoration company. I am very happy to provide you with service. We provide one-stop decoration service from design to construction, including interior design, water and electricity renovation, wall surface processing and so on. Are you looking for a complete renovation or just a partial one?
+Speaker1: I want to renovate the living room and bedroom.
+Speaker2: Okay, our designer will provide a design plan based on your needs while also considering cost control to ensure both aesthetics and functionality.
+Speaker1: How long will it take to hear it?
+Speaker2: In general, this kind of engineering project usually takes about four weeks, but the actual time may vary depending on the on-site situation and construction progress.
+Speaker1: How much do you think the budget will be?
+Speaker2: For the budget, we will quote based on your design scheme and materials, generally speaking, this type of decoration project budget is around ten thousand yuan. Of course, the specific price still depends on the final design scheme.
+Speaker1: Okay, I roughly understand, can you first give me a preliminary design plan and quote?
+Speaker2: Of course, I will have our designer prepare it quickly for you, no later than tomorrow afternoon. Is that okay with you?

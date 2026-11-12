@@ -1,0 +1,13 @@
+Speaker1: Hi, how are you? I'm little Li, and I want to consult your delivery service on this side.
+Speaker2: Hello, little Li. I am a delivery customer service representative. What can I help you with?
+Speaker1: Can you tell me your delivery time and the latest order time?
+Speaker2: We usually start taking orders from 7am and stop at 10pm, the delivery time is usually 30 minutes to an hour after the order is placed.
+Speaker1: Can I still get it delivered if I order at 9:30 PM?
+Speaker2: At 9:30, most areas can still be delivered to, but it depends on the specific delivery situation at the time.
+Speaker1: Okay, do you have any recommendations for dishes?
+Speaker2: We have several popular dishes here, such as spicy Sichuan hotpot, sour and spicy fish in vinegar, and braised chicken with mushrooms, all of which are very popular with customers.
+Speaker1: Sounds good, let me try it out. Also, what's the registration and ordering process for your App?
+Speaker2: Registering is easy, just download our app, use your phone number to register an account, and then you can browse the menu and place orders. If you have any questions, feel free to contact our customer service anytime.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome! I hope you enjoy your meal. If you have any other questions, feel free to ask anytime. Goodbye!
+Speaker1: Goodbye!

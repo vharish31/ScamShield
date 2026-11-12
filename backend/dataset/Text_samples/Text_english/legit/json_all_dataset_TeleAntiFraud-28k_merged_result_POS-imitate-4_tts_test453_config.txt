@@ -1,0 +1,11 @@
+Speaker1: Hello, this is Xiaoming's phone. Xiaoming is not convenient to answer the phone now. Can you help with anything?
+Speaker2: Hello, I am Xiao Huang, Xiao Ming said he wanted to go to the movie with me before, but now we can't contact him, do you know when he's available?
+Speaker1: Hey, little Huahua, little Ming has a meeting this afternoon, it might be late, do you think six o'clock in the evening is a good time to call him?
+Speaker2: Okay, I'll call him at six o'clock tonight. Thank you for your help.
+Speaker1: No problem, if you have any urgent matters, you can directly contact me, I can help you convey.
+Speaker2: Okay, thank you so much, what do you want me to contact you about?
+Speaker1: No problem, you can relax, we are good friends, mutual help is appropriate.
+Speaker2: Hmm, I think it's great that I can become friends with little Ming. So, I won't disturb you now, let's contact little Ming later in the evening.
+Speaker1: Okay, contact him tonight if he's free earlier, I'll call you back if he is.
+Speaker2: Okay, then please ask you again, goodbye.
+Speaker1: Goodbye, wish you a happy day.

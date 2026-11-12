@@ -1,0 +1,18 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I see an intelligent watch here, want to know more details?
+Speaker2: Okay, this smartwatch is our latest product, which supports health monitoring, message reminders, and waterproof function.
+Speaker1: How much does this watch cost?
+Speaker2: This smartwatch costs 999 yuan.
+Speaker1: Does this price include tax?
+Speaker2: The price in the bag is the final selling price, no extra tax fees needed.
+Speaker1: What colors are available for this watch?
+Speaker2: There are three color options: black, silver, and ruby gold.
+Speaker1: How long does the battery of this watch last?
+Speaker2: In normal use, the battery life is approximately five days.
+Speaker1: That sounds good, I want to buy one.
+Speaker2: Okay, you can buy through our official website or our offline stores. Do you need me to provide links or addresses?
+Speaker1: Please provide me with an official website link.
+Speaker2: Okay, I'll send you the link via text message later. Are there any other questions?
+Speaker1: Thanks for your help. I'm sorry, I don't have it right now.
+Speaker2: You're welcome. If you have any questions later, please feel free to contact us anytime. Have a happy life!

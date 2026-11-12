@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm little Li, I want to consult your delivery service.
+Speaker2: Hello, I am delivery boy Zhang, how can I help you?
+Speaker1: Do you have a vegetarian set meal at your home?
+Speaker2: Yes, we have many vegetable set meals, including stir-fried three-vegetable, mapo tofu, etc. Which one do you want?
+Speaker1: How much does a plate of three slices of shuai cost?
+Speaker2: Stir-fried three strands of hair is 20 yuan per portion, you can directly order on our app.
+Speaker1: How long do I need to wait?
+Speaker2: Typically, it takes about 30 to 40 minutes from placing an order to delivery. The specific time may vary due to traffic conditions.
+Speaker1: Will you call me to confirm after I place the order?
+Speaker2: If the order information is unclear or there are special circumstances, we will contact you to confirm. You can rest assured when placing your order.
+Speaker1: Okay, thank you for your patience in answering, I'll place the order now.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, enjoy your meal!

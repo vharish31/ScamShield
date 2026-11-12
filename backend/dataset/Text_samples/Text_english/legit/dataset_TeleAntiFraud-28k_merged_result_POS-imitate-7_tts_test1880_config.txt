@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the one who reserved your haircut for tomorrow.
+Speaker2: Hello, I am the customer service of the hair salon. What can I help you with?
+Speaker1: Can you confirm the time of tomorrow's appointment at 3:30 PM?
+Speaker2: Yes, the appointment time is tomorrow at 3:30 PM. Please come a little earlier, we are ready for you.
+Speaker1: Okay, there's another question. I recently dyed my hair and I want to ask if you guys have any hair care products that are suitable for my hair color?
+Speaker2: We have a variety of hair care products here, including hair oils suitable for different hair colors and shampoos, you can try them out when you come and then decide whether to buy them.
+Speaker1: That's great, I'll come on time tomorrow. By the way, I forgot to tell you earlier, I want a shorter hairstyle.
+Speaker2: Understood, you can directly communicate your needs to our stylist tomorrow when you arrive, and we will do our best to meet your requirements.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you all the best.

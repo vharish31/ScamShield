@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the agricultural bank's customer manager, Li Ming.
+Speaker2: Hello, do you have anything?
+Speaker1: We have a special promotion here, which can provide you with low-interest loans, monthly interest only 2 cents, no collateral required, and the approval is very fast.
+Speaker2: Oh, really? I actually have a bit of a cash need recently.
+Speaker1: Yes, this is a great opportunity. Just provide some basic information, and we can quickly approve.
+Speaker2: What do I need to do?
+Speaker1: Just click this link, fill in the relevant information, and we'll process immediately.
+Speaker2: Okay, let me try.
+Speaker1: Great, please click on the link and we will review it quickly. If there are any issues, feel free to contact me anytime.
+Speaker2: Thank you, I will pay attention.

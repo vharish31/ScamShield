@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I just placed an order for takeout, can you confirm the order status?
+Speaker2: Hello, I am a customer service representative for a food delivery platform. Can you please tell me your order number?
+Speaker1: My order number is 2358.
+Speaker2: Okay, let me check. Where are you, can you tell me?
+Speaker1: I'm at the Huajiang small community on Tian'an Road.
+Speaker2: Okay, I found your order. Your takeout is already being prepared, estimated delivery in 30 minutes.
+Speaker1: Can you hurry up a little? I'm a bit urgent.
+Speaker2: We will do our best to encourage the merchants to speed up, but considering the current order volume and traffic conditions, there may be some difficulties.
+Speaker1: Okay, thank you for your help, I hope to send it early.
+Speaker2: We will do our best, and if there are any changes, we will notify you promptly. Thank you for your understanding and support.

@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Li, I looked at your store's sofa two days ago and want to know more about it in detail.
+Speaker2: Hello, I am store clerk Zhang, what can I help you with?
+Speaker1: Can you tell me about the color and material options for this sofa?
+Speaker2: This sofa comes in three colors: deep blue, gray, and beige. The material options are genuine leather and imitation leather.
+Speaker1: What is the size of this sofa?
+Speaker2: This sofa's standard size is 2 meters long, 1 meter wide, and 0.8 meters high. Of course, we also provide customization services.
+Speaker1: Okay, what is the price of this sofa?
+Speaker2: The price of this sofa varies depending on the material and color, generally ranging from 3,000 to 6,000.
+Speaker1: Can I leave one for you first? I'm bringing my family over the weekend to take a look
+Speaker2: Of course, I will keep the ones you want me to. How about coming over at a few points on the weekend?
+Speaker1: Can we meet at two o'clock on Saturday afternoon?
+Speaker2: Sure, let's meet this weekend. If there are any other issues, feel free to contact me anytime.
+Speaker1: Okay, thank you for your help, see you this weekend.
+Speaker2: No problem, see you this weekend.

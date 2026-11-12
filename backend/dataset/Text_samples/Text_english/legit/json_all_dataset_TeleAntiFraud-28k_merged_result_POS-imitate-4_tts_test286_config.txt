@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a city express delivery service staff, do you have a package that needs to be confirmed the delivery address, okay?
+Speaker2: Hello, okay, I'm at home now, can you tell me the information about the delivery?
+Speaker1: Okay, your order number is a six-digit number, starting from one to six, the package is from a faraway city, and it's estimated to arrive this afternoon, do you need to change the delivery address?
+Speaker2: No changes needed, I'm at home today, can deliver directly to the original address.
+Speaker1: Okay, I'll arrange delivery according to the original address, estimated delivery time is between 2 and 4 pm, just wait at home for a while.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, if you have any questions, please contact me anytime, my phone number is 13801380138.
+Speaker2: Okay, I will pay attention to listening, thank you for your service.
+Speaker1: You're welcome, wish you have a nice day, bye.
+Speaker2: Goodbye.

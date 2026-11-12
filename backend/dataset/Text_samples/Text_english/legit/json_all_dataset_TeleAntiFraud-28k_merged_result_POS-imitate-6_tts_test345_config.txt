@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm here to deliver food, but your door lock didn't respond.
+Speaker2: Okay, you wait on the first floor for a minute, I'll check it out.
+Speaker1: Okay, I'm waiting for you, I'm at the negative one floor elevator door.
+Speaker2: You're on the first floor, I'll go down right away.
+Speaker1: Hey, I'm waiting for you here.
+Speaker2: Please wait a moment, I'll check if the door lock is broken.
+Speaker1: Okay, I'm waiting for you, the door control is really unresponsive.
+Speaker2: I came down, where are you?
+Speaker1: I saw it at the negative one floor elevator hall.
+Speaker2: Okay, I'll be there soon.

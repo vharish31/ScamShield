@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I want to ask if your restaurant has any reserved seats?
+Speaker2: Hello, do you want to make a reservation for how many people?
+Speaker1: Two people, tomorrow evening at seven o'clock.
+Speaker2: Okay, tomorrow evening at seven o'clock, two people's positions, we reserve for you, do you have any special requirements?
+Speaker1: Okay, my friend doesn't eat spicy, please arrange some mild dishes.
+Speaker2: Understood, we will prepare some clear dishes for you, do you need to recommend anything else?
+Speaker1: Can you recommend a few signature dishes, but please make sure they're not spicy.
+Speaker2: Okay, we have clear steamed fish with scallions, ginger and white pepper, all of which are very popular non-spicy dishes here.
+Speaker1: That sounds good, just these few dishes, thank you.
+Speaker2: Okay, I have recorded it down for you. See you tomorrow.
+Speaker1: See you tomorrow, thank you.

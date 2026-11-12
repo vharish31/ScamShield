@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Zhang, I saw a small single room for rent on your website, right?
+Speaker2: Yes, the small single room is for rent, are you interested?
+Speaker1: Hey, I have a friend who might need it, I want to know more about the situation first.
+Speaker2: Okay, this small room is newly renovated, all appliances are there, located in the city center, convenient transportation.
+Speaker1: How much is the rent?
+Speaker2: Rent is 2000 yuan per month, deposit is one month's rent paid in advance, and water and electricity are separate charges.
+Speaker1: Hey, can I take a look at the room?
+Speaker2: Of course, whenever you're convenient, I'll arrange it here.
+Speaker1: How was your weekend?
+Speaker2: Can I this weekend? Specific time?
+Speaker1: Can we meet at three in the afternoon?
+Speaker2: Okay, I will prepare in advance at three o'clock in the afternoon.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I saw a phone in your store before, I want to ask more about it.
+Speaker2: Hello, little Li, I am customer service Zhang, what can I help you with?
+Speaker1: I see that your store has a new phone model, do you still have it in stock?
+Speaker2: Yes, we have this phone in stock at our store, available in black and white, which color do you want?
+Speaker1: I like white color, how is the battery life of this phone?
+Speaker2: This phone's battery capacity is 4000mAh, which can be used for a whole day under normal use. If you are a heavy user, you may need to charge it at night.
+Speaker1: How much does that phone cost?
+Speaker2: This phone costs 3500 yuan, and you can enjoy one year of warranty service when you buy it now.
+Speaker1: Okay, I'll think about it and get back to you if I decide to buy.
+Speaker2: Okay, little Li, if you have any questions, please feel free to consult me anytime, looking forward to your next visit.

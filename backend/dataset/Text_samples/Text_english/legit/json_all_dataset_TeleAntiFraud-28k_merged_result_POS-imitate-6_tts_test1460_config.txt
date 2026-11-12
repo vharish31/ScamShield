@@ -1,0 +1,12 @@
+Speaker1: Hello, are you the small Li fruit store?
+Speaker2: Hello, this is Xiao Li's fruit store. Is there anything I can help you with?
+Speaker1: How much is a pound of imported grapes in your store?
+Speaker2: Imported pineapples are currently thirty yuan per kilogram, freshly delivered, and of high quality.
+Speaker1: Can I reserve some for tomorrow afternoon?
+Speaker2: Okay, how many kilograms did you book?
+Speaker1: Please reserve 5 kilograms for me, could you be bothered?
+Speaker2: Okay, I have already reserved it for you. You can pick it up tomorrow afternoon.
+Speaker1: Thank you, can I come directly to the store door when the time comes?
+Speaker2: Okay, I'll put the pineapple on the store door when the time comes, you can take it directly when you arrive.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, goodbye.

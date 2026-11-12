@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm Zhang, a loan officer at the construction bank. Recently, our bank has launched a very favorable loan project with a very low interest rate. Would you like to know more about your needs in this regard?
+Speaker2: Uh, loan, I'm a bit short on cash right now, but I've been in this situation before, how much can you provide?
+Speaker1: Based on your credit situation, we can provide a loan amount of up to one hundred thousand yuan, and the approval process is very fast, usually within the day it will be credited to your account.
+Speaker2: That's so fast, it sounds good, but I don't understand these processes, what do I need to do?
+Speaker1: It's very simple. Just download our bank's official app, fill out some basic information, and submit the loan application.
+Speaker2: Do you download the app? Is it safe? I'm afraid of personal information leakage.
+Speaker1: Our bank's app is very safe, and it's a regular channel, so there will be no problems. You can use it with confidence.
+Speaker2: Okay, I'll try. What's the name of your app?
+Speaker1: Our app's name is '建行贷款通', you can search and download it in the app store, remember to use my recommendation code to register after downloading, you can also get extra discounts.
+Speaker2: Okay, thank you for your recommendation. I will download and try it out soon.

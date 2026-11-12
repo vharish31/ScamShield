@@ -1,0 +1,10 @@
+Speaker1: Hello, is this Zhang Laoban?
+Speaker2: Yes, you are?
+Speaker1: I am the customer manager of the commercial bank, Li. We recently launched a special discount loan product with a very low interest rate. Would you like to know more about it?
+Speaker2: Uh, I recently have a bit of a cash need, can you give me a detailed explanation?
+Speaker1: Okay, this loan product has an annual interest rate of only 0.03%, no collateral is required, and the approval and disbursement are both quick. You can download our bank's official app, register, and apply in a few minutes to find out the result.
+Speaker2: Listen well, how can I download your app?
+Speaker1: You can search '工商银行' in the mobile app store and download our official app. After downloading and registering, you can apply for a loan by filling out the relevant information.
+Speaker2: Okay, I'll try it out. Are there any other things to pay attention to?
+Speaker1: There's nothing else to pay special attention to, just make sure the information you fill out is accurate and error-free. If you have any questions, feel free to contact me anytime. My phone number is 13812345678.
+Speaker2: Okay, thank you for your help.

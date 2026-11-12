@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you? I am a customer service representative for local housekeeping services. Did you previously consult with us about our cleaning services, and do you need them now?
+Speaker2: Hey, hi, I'm the person you consulted with before, but now my family is a bit busy, can you check if there are any free slots this weekend to schedule staff?
+Speaker1: Okay, we have several experienced cleaners available for you this weekend. Do you want them to arrive at a specific time?
+Speaker2: It's best to wake up around 9 am in the morning, so you have more time during the day.
+Speaker1: What will it take for the service to be done at 9:00? Our standard is 150 yuan per hour.
+Speaker2: It'll probably take four hours, mainly cleaning and organizing some things.
+Speaker1: Okay, that's six hundred yuan, we will confirm your address and contact info with the cleaner in advance.
+Speaker2: Okay, my address is Xiàngfú xiǎojīng sān dān yī yìng sì zhōng liú rù, diànhuā yī shì yīng shì yīng shì yīng shì yīng shì yīng shì yīng shì yīng shì yīng shì yīng shì yīng shì yīng shì yīng shì yīng shì yīng shì yī
+Speaker1: Okay, I have recorded your information. We will arrive on time. Is there anything else you need me to help with?
+Speaker2: No more, thank you for your service, see you on the weekend.

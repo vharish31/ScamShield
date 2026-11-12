@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Wei?
+Speaker2: Yes, who are you?
+Speaker1: I am the manager of Huaxia Bank, I saw that you applied for a credit card with us before, but you never activated it.
+Speaker2: Is that so? I don't remember applying.
+Speaker1: It's possible that you forgot, but no worries, there's a special promotion now, just activate this card and use it once within the next month to get a 500 yuan cashback.
+Speaker2: Is it really? It sounds good.
+Speaker1: Of course, this is our promotional activity. However, in order to ensure the accuracy and completeness of your information, I need you to provide the last six digits of your ID number and your phone number, so that I can verify your information.
+Speaker2: Okay, my ID card last six digits are 123456, my phone number is 13800138000.
+Speaker1: Okay, the information is now verified. Please click on this link to complete some simple operations and activate your credit card.
+Speaker2: Okay, I'll go operate right away.

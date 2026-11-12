@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Shanghai Bank. Li, there is a special loan product that suits your low-interest loan. The monthly interest rate is only 0.005%, and the repayment is within two years. Would you like to know more?
+Speaker2: Hello, I can still circulate funds, no need for a loan.
+Speaker1: That's great, but if there's ever a need for funds in the future, you can contact me anytime. Add me on WeChat for easy communication later.
+Speaker2: I won't use WeChat anymore, if there's a need, I'll contact the bank myself.
+Speaker1: Okay, I'll send you a link, you can check out the product info first, and then decide if you're interested.
+Speaker2: I don't need to use links anymore, I can just search online directly.
+Speaker1: Thank you so much, if you have any questions or need help, please call me anytime, my phone number is 13000000000.
+Speaker2: Okay, thank you, I will consider it.
+Speaker1: That's great! I hope our cooperation can go smoothly. Wish you a happy day.
+Speaker2: I wish you a happy day, goodbye.

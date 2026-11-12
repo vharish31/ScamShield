@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to consult your delivery service.
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me your delivery time? Approximately how long will it take to arrive?
+Speaker2: In general, we can deliver within 30 minutes after receiving the order, but the specific time may vary depending on the order volume and weather conditions.
+Speaker1: Okay, if I order now, when can I expect to receive it?
+Speaker2: What is your current address? I can help you estimate it.
+Speaker1: I am at 28 Happiness Road.
+Speaker2: The delivery of the package at 28 Happiness Road will be around 1 hour.
+Speaker1: Okay, I placed the order. If it's not delivered within an hour, can I contact you?
+Speaker2: Of course, after you place an order, you will receive an order number. If you have any issues, please feel free to contact us at any time, and we will promptly handle them.

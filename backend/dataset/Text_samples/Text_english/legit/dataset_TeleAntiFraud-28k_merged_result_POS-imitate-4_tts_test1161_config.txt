@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at Tiananmen Square, don't know how to go to the National Museum, can you give me some directions?
+Speaker2: Hello, if you walk east from Tiananmen Square, you will see a wide street, and keep walking along it, you will see the entrance of the National Museum.
+Speaker1: Oh, how far are you going? How long will it take?
+Speaker2: It takes about ten minutes to walk, the road is not far, walking is quite good.
+Speaker1: Is there a red and green light on that road?
+Speaker2: Yes, after crossing the first red light, I walked a little further and arrived.
+Speaker1: Okay, thank you for your help. I'm off now.
+Speaker2: No problem, pay attention to safety on the road, if you have any questions when you arrive at the museum, you can ask me again.
+Speaker1: Okay, thank you again, goodbye!
+Speaker2: Goodbye, wish you enjoy the tour!

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: What's up?
+Speaker1: I just came back from the supermarket, bought a lot of stuff, I remembered you wanted that flavoring last time, so I brought you a bottle.
+Speaker2: Really? Great, I'm thinking about it now.
+Speaker1: Can I send it over to you now?
+Speaker2: Come on, let's go, I'm at home.
+Speaker1: Is the small park near your house still under construction? I saw it surrounded last time I passed by.
+Speaker2: The construction is still going on, but it won't affect your route to my house.
+Speaker1: Okay, I think I'll be there in ten minutes.
+Speaker2: Okay, I'll wait for you. Be careful on the road.

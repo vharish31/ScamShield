@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I have an appointment at your shop at 2 pm this afternoon, have you arrived?
+Speaker2: Hello, little Zhang, I am store clerk Li, have you arrived? Please tell me your location, I'm happy to help you confirm.
+Speaker1: I just arrived at the coffee shop across from your store, I'll come in later.
+Speaker2: Okay, you can come in directly once you arrive, we've already prepared for you.
+Speaker1: Can I go over there in a little while? Do you have free Wi-Fi here?
+Speaker2: Yes, we provide free Wi-Fi. The password is 12345678. You can ask the front desk for it after you come in.
+Speaker1: Okay, thank you. How long will it take for a haircut and wash?
+Speaker2: Typically, cutting hair and washing head take around one hour, but the specific time may be adjusted according to the actual situation.
+Speaker1: Okay, I understand. If I have an urgent matter that requires me to leave early, can I notify you in advance?
+Speaker2: Of course, if there are any special circumstances, please let us know, we will do our best to accommodate your arrangements.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, can you tell me if there are any parking spots left in your community?
+Speaker2: Hello, Xiao Ming, I am the property manager of the community, we currently have several vacant spaces, how long do you want to rent for?
+Speaker1: How do I calculate the rent for one year?
+Speaker2: The annual rent is 3600 yuan, and you can get a 100 yuan discount if you pay it all at once.
+Speaker1: Can I see the parking spot location?
+Speaker2: Of course, can you come over now and take a look?
+Speaker1: Can I have that time around three in the afternoon?
+Speaker2: Okay, I'll wait for you at three o'clock.
+Speaker1: Okay, see you then.
+Speaker2: Okay, see you later, be careful.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of Macrograph Technology Company, I am Li Xiao.
+Speaker2: Hello, what do you have?
+Speaker1: That's it, we noticed some unusual transactions on your account in our platform, to ensure the safety of your account, we need you to cooperate.
+Speaker2: Oh, really? Is there anything I need to do?
+Speaker1: Yes, first you need to click on the link we sent you, there's a safe verification page inside, you need to fill out some information.
+Speaker2: Okay, I'll go check my mail right away.
+Speaker1: Hello, please check the following, and then operate according to the instructions. Additionally, for the sake of ensuring your account's safety, we also need you to provide your bank card number and verification code.
+Speaker2: Okay, I understand.
+Speaker1: Great, you're the best. If you have any questions, feel free to contact our customer service anytime.
+Speaker2: Okay, thank you for your help.

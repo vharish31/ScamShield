@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me more about your delivery service? Do you have any recommended dishes here?
+Speaker2: Our menu here has spicy crab and gong bao chicken, both very popular with customers.
+Speaker1: How much does palace chicken wings cost?
+Speaker2: The price of the palace chicken wing is 35 yuan per portion, and if you order now, you can enjoy a 90% discount.
+Speaker1: Okay, I'll make a palace-style chicken stir-fry, how long will it take you to send it over?
+Speaker2: Based on your address, it will take approximately 30 minutes to deliver.
+Speaker1: I live in Happiness Village, address is Happiness Road 999, remember to send it over.
+Speaker2: Okay, happy road 99, we will arrive on time, do we need anything else?
+Speaker1: No longer available, thank you.
+Speaker2: Okay, thank you for your order, enjoy your meal!

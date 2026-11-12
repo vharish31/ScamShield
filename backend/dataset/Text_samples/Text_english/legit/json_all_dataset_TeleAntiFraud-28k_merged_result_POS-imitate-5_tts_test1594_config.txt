@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at building five, can't find your store.
+Speaker2: Hello, go out of building 5, walk to the right, see the first red and green light, then turn left.
+Speaker1: Okay, the road ahead is wide after turning left, should I walk straight?
+Speaker2: Okay, walk straight for about two hundred meters, you will see a bus stop sign, then turn right after passing the sign.
+Speaker1: I saw the bus station sign, should I continue walking after turning right?
+Speaker2: Yes, following the green belt, about 50 meters, you will see a yellow signboard, that's our store.
+Speaker1: Okay, I saw the yellow sign, thank you for your help.
+Speaker2: No problem, welcome to come. Is there anything else you need help with?
+Speaker1: No more, I'll just go in. Goodbye.
+Speaker2: Goodbye, wish you enjoy your meal.

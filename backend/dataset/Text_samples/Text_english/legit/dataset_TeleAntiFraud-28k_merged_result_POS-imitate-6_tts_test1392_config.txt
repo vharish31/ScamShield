@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the property manager of your community, your electricity bill for this month is not paid yet, can you come over now to handle it?
+Speaker2: Okay, I'm pretty busy with work this week, how about we go out this weekend?
+Speaker1: Can we go on the weekend? Which day specifically?
+Speaker2: How was your Saturday morning?
+Speaker1: Can you come from 9am to 11am on Saturday morning?
+Speaker2: Sure, I had some time then.
+Speaker1: Okay, on Saturday morning from 9 to 11, we'll meet at the property management office. Don't forget to bring your ID and property certificate.
+Speaker2: Okay, I will bring it along. Thank you.
+Speaker1: No problem, feel free to contact us anytime, goodbye.
+Speaker2: Goodbye

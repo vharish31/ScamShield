@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Lee Huai, I bought a piece of clothing from your store, now I found some issues, I want to consult about return or exchange.
+Speaker2: Hello, Lee Huai, I am customer service Zhang, very happy to serve you. What problem did you encounter?
+Speaker1: Is the collar of the clothes a little deformed? Can I exchange or withdraw?
+Speaker2: According to our return policy, if the product has a quality issue, you can apply for a return or exchange within seven days of purchase.
+Speaker1: What do I need to do?
+Speaker2: You can send us the photos of the products first, we will review them. If they pass the review, you can send the products back to us, and we will process the refund for you after we receive them.
+Speaker1: Okay, do I need to pay postage?
+Speaker2: If the return is due to product quality issues, we will bear the shipping fees. Please rest assured.
+Speaker1: That's great, I'll send the photos to you soon. Thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Wishing you a happy life.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Can you confirm if your store is still open? I saw online that it closes at 10 pm.
+Speaker2: Yes, we really close the door at ten o'clock. You can come now.
+Speaker1: Okay, I'll be there in about twenty minutes. Is there a location?
+Speaker2: Yes, we have enough space here, you should come over without any problems.
+Speaker1: Great, I'll book a table for two.
+Speaker2: Okay, I've already made the reservation for you. Just come directly when you arrive.
+Speaker1: Okay, thank you. What do you recommend for dishes?
+Speaker2: Our menu here has spicy Sichuan hot pot and steamed fish, both very popular.
+Speaker1: Sounds good, I'll try it later. Thank you for your recommendation.
+Speaker2: No problem, I'm looking forward to your arrival. What do you need to tell me immediately?

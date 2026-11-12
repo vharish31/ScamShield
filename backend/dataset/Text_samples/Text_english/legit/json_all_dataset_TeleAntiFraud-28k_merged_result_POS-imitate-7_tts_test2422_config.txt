@@ -1,0 +1,14 @@
+Speaker1: Hi, how are you? I'm little cloud, the intelligent customer service. I see you've recently browsed some kitchenware on our website. Would you like me to introduce them to you?
+Speaker2: Sure, I want to take a look at the kitchenware sets and see if there's anything suitable for my kitchen.
+Speaker1: Okay, we have three different material sets of cookware, namely non-stick, cast iron and stainless steel. Do you have any specific requirements for the material?
+Speaker2: I want a non-stick pan that is easy to clean.
+Speaker1: Understood, our non-stick cookware set currently has five sets and seven sets, with five sets containing one frying pan, one pot, and three spatulas.
+Speaker2: What else is included in a seven-piece suit?
+Speaker1: A seven-piece set is based on a five-piece set and adds two different-sized deep pots, making it more suitable for family use.
+Speaker2: How much does a seven-piece suit cost?
+Speaker1: The original price of a seven-piece suit is eight hundred ninety-nine yuan, now it's on sale, discounted eighty percent, the discounted price is seven hundred eighteen yuan.
+Speaker2: Sounds good, but I'm not sure yet, need to think about it.
+Speaker1: No problem, you can add it to the shopping cart and consider it for a while before placing an order. If you decide to buy, you can contact me to get the 50 yuan discount coupon for new users.
+Speaker2: Okay, thank you for your introduction, I will consider it.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Wish you a happy life. Bye!
+Speaker2: Goodbye!

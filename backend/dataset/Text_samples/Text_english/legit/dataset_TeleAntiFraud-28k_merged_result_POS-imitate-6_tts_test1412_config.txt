@@ -1,0 +1,10 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, I'm doing well, how about you lately?
+Speaker1: I'm not bad, it's just my work has been busy lately. Hey, do you have any free time this weekend?
+Speaker2: What do you have planned for the weekend?
+Speaker1: So, I heard there's a new restaurant that's not bad, do you want to go try it together?
+Speaker2: Great, I heard that too. Let's meet at what time?
+Speaker1: What are we doing at six in the afternoon?
+Speaker2: Sure, I'll arrive on time. Where is that restaurant?
+Speaker1: The restaurant is near the city center square, I'll give you the specific address later.
+Speaker2: Okay, thank you. See you this weekend!

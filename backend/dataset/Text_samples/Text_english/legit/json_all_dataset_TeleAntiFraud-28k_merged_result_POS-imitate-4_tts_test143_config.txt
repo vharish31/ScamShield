@@ -1,0 +1,10 @@
+Speaker1: Hello, I want to reserve a seat for 6 pm tomorrow evening.
+Speaker2: Hello, which restaurant did you book a seat at?
+Speaker1: That newly opened blue-toned western restaurant.
+Speaker2: Okay, blue and white western restaurant, tomorrow night at six o'clock. How many seats do you need to book?
+Speaker1: Two.
+Speaker2: Okay, two of you. Do you have any special requirements, like sitting by the window?
+Speaker1: If there's a spot by the window, that'd be great.
+Speaker2: Okay, I will do my best to arrange a window seat for you. Could you please tell me your name and contact information?
+Speaker1: My name is Li Ming, phone number is 13123456.
+Speaker2: Okay, Mr. Li Ming, your reservation is now complete. Tomorrow night at six, blue and white Western restaurant, two people, window seats. If there are any changes, we will contact you in advance. Enjoy your meal!

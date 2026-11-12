@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Did you come out yet?
+Speaker1: Which door? There are several doors here, I can't find you.
+Speaker2: That's the main entrance, with the guard booth.
+Speaker1: Okay, I'll be right back, just wait for me a minute.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Can you see me? I'm wearing a blue jacket.
+Speaker2: I see you, you're walking this way, I'm here.
+Speaker1: Okay, I'll go over there.
+Speaker2: Be careful on the road.

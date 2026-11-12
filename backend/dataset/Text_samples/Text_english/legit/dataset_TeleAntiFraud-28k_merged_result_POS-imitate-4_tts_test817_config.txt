@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I'm at the mall entrance, how can't you find the entrance?
+Speaker2: Hello, little Wang, don't be in a hurry, take a look to see if you are at the south gate, the south gate is not open.
+Speaker1: Uh, how do I walk from North Gate?
+Speaker2: Take the road north, keep walking straight until you see the first red and green light, then turn right and you'll arrive at the entrance.
+Speaker1: Okay, I understand now, thank you.
+Speaker2: No problem, you can contact me anytime if you have other questions.
+Speaker1: Okay, I arrived. I'll call you back to confirm.
+Speaker2: Okay, if you arrive quickly, please contact me. I'm waiting for you at the entrance.
+Speaker1: Okay, I understand, thank you.
+Speaker2: No thanks, see you later.

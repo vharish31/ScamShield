@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer manager of Xingyue Bank, Li Huai.
+Speaker2: Hello, what do you have?
+Speaker1: Hey, we noticed you've been having some trouble with credit cards lately, want to check if you need a loan?
+Speaker2: Loan? I'm currently in a good financial situation, so I don't need it now.
+Speaker1: That's great! But if you have any financial needs, we have very favorable loan policies, which can provide you with low-interest, no-collateral loans.
+Speaker2: Low interest no collateral? It sounds good, how to apply?
+Speaker1: It's very simple. You can click on the link I send you, download our official app, fill out the application, and get approved for a quick payout after the review.
+Speaker2: Is the official app safe? Is this link safe?
+Speaker1: Of course, this is our official link, very safe, you can contact me directly after downloading, I will guide you through the entire application process.
+Speaker2: Okay, let me try.

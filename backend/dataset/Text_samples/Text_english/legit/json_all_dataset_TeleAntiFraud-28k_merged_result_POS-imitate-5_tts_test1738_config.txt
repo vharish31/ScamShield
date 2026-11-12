@@ -1,0 +1,10 @@
+Speaker1: Hello, are you a courier company?
+Speaker2: Hello, yes, this is the express delivery customer service, what can I help you with?
+Speaker1: Can you check if my package has been delivered yet?
+Speaker2: Is your package number so and so?
+Speaker1: My delivery number is 12345678901234567890.
+Speaker2: Okay, I'll check. Just wait a moment.
+Speaker1: Okay, thank you.
+Speaker2: I found it, your package is indeed marked as received, it might have been received at the property or the front desk, would you mind going there to check?
+Speaker1: Okay, I'll take a look. If I can't find it, can I contact you guys again?
+Speaker2: Of course, if you can't find it, just contact us, we'll handle it further.

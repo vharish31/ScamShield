@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the loan department of Bank of China, I am Lee Manager.
+Speaker2: Hello, do you have anything?
+Speaker1: Is that right, we noticed you've been searching for loan information online recently, so we wanted to know if you have any loan needs?
+Speaker2: I recently had some issues with cash flow, can you give me specifics?
+Speaker1: Of course, we have a high-quality loan product that is interest-free, no collateral or guarantee, with a very low interest rate, and a very fast approval speed.
+Speaker2: How do I apply for it?
+Speaker1: It's very simple. Just click this link to download our official app, register and fill out the relevant information, and you'll complete the application.
+Speaker2: Okay, I understand, how do I send this link to you?
+Speaker1: Just a moment, I'll send you the link via text message. Please pay attention to check it out once you receive it, and download it quickly.
+Speaker2: Okay, thank you.

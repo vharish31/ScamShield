@@ -1,0 +1,11 @@
+Speaker1: Hello, you are Mr. Zhang? I am Lee, an employee of Huatai Bank's customer service.
+Speaker2: Hello, I'm Zhang, what's up?
+Speaker1: Mr. Zhang, we noticed that you recently have a need for capital rotation, our bank has a product without collateral and low interest rate for enterprise loans, would you like to know more?
+Speaker2: Okay, what are your loan conditions?
+Speaker1: Mr. Zhang, our loan products are very flexible. Just provide some basic company information, and we can quickly approve and disburse funds. As long as you provide company financial reports and credit proof, the loan amount can be from 10,000 to 100,000.
+Speaker2: Sounds good, but how do you actually operate it?
+Speaker1: It's very simple, Mr. Zhang. You can first download our bank's official app, then submit a loan application through the app, fill in the relevant information, upload the necessary files, and our review team will process it quickly.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, Mr. Zhang, our bank's APP is certified by the government, very safe and reliable. You can also view loan progress, manage accounts through this APP, very convenient.
+Speaker2: Okay, I will consider it, thank you.
+Speaker1: No problem, Mr. Zhang, if you have any questions, please feel free to contact me anytime. My phone number is 13800138000. I hope our service can help you. Best wishes for your business. Goodbye.

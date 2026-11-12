@@ -1,0 +1,10 @@
+Speaker1: Hello, are your restaurant open for business?
+Speaker2: Hello, our restaurant is currently open for business, what can we help you with?
+Speaker1: Can you tell me about your special dishes?
+Speaker2: Our signature dishes here include red braised pork, steamed fish and kung pao chicken, all of which are very popular.
+Speaker1: What is the price of the palace chicken drumming?
+Speaker2: The price of Gong Bao chicken is 35 yuan per portion.
+Speaker1: What time is generally good to go?
+Speaker2: Our restaurant business hours are from 11 am to 9 pm. You can choose a convenient time to come.
+Speaker1: Can I go at around 5 in the afternoon?
+Speaker2: Of course, at 5 o'clock, we will be ready for you.

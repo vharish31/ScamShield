@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm Xiaoming, my family just opened a new coffee shop, and we want to invite you to try our new coffee.
+Speaker2: Hello, Xiaoming, what's the location of the new coffee shop that sounds so good?
+Speaker1: Do you know that place near the bright square in the city center?
+Speaker2: I know, just across from the big shopping mall.
+Speaker1: Okay, that's the place, the environment is not bad, there are still new business promotions, when do you have time to come?
+Speaker2: What time do you open on weekends?
+Speaker1: You can come anytime between 9am and 10pm.
+Speaker2: Should I go out at around 3 pm on Saturday afternoon?
+Speaker1: It's unlikely, the weekend afternoon crowd is relatively stable, you come at the right time to find a quiet spot to slowly savor.
+Speaker2: Okay, Saturday afternoon at 3:30, I will arrive on time, thank you for inviting me.
+Speaker1: No problem, see you later, I hope you like it.

@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do your restaurant have any special dishes?
+Speaker2: Our restaurant specialties include red braised pork, steamed fish and spicy Sichuan hotpot, all of which are very popular with customers.
+Speaker1: How much does it cost to listen?
+Speaker2: Red braised pork is 35 yuan per portion, steamed fish is priced differently based on size from 50 yuan to 80 yuan, and spicy and sour pot is 45 yuan per pot.
+Speaker1: Okay, I want to reserve a four-person seat, around seven o'clock in the evening.
+Speaker2: Okay, the four-person table has been reserved for you. Please come at seven o'clock tonight.
+Speaker1: Okay, can I just come directly when the time comes?
+Speaker2: Yes, you can come directly, we will prepare in advance. If there are any changes, you can call ahead.
+Speaker1: Okay, thank you. See you then.
+Speaker2: No problem, see you later. I hope you have a pleasant dining experience.

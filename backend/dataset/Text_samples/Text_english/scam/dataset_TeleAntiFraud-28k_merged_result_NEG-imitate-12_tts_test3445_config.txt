@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm small Liu, this is some bank loan service center.
+Speaker2: Hello, what do you have?
+Speaker1: Have you recently had any need for capital rotation? We have low-interest loan products here that would be suitable for you.
+Speaker2: "Oh, I currently don't have this requirement."
+Speaker1: That's really too bad, but if you have any needs in the future, you can contact me anytime. For convenience, can I add your WeChat?
+Speaker2: Add WeChat, I'll think it over myself.
+Speaker1: Okay, I understand your concerns. However, to help you better understand our product, I can send you a link, you can check it out when you have some time.
+Speaker2: I don't really want to link up, but I'll calculate it anyway.
+Speaker1: That's really too bad, but if you change your mind, you can call this phone number to contact us anytime. This is my business card, and there's my contact information on it.
+Speaker2: Okay, thank you, I will consider it.

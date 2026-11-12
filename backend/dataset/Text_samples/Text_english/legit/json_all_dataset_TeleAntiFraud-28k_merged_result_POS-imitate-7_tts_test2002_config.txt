@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Where are you?
+Speaker2: I'm waiting for you at the community door, hurry up and come over.
+Speaker1: I see a bus station sign, is it southbound?
+Speaker2: Yes, walking along this road southward, turning right at the crossroads, you can see the small community's main entrance.
+Speaker1: Okay, I'll be there soon, you better leave first.
+Speaker2: Hey, I'm waiting for you here, be careful on the road.
+Speaker1: Thank you, you too, see you later.
+Speaker2: See you later.

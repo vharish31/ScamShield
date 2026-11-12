@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear clearly on your side?
+Speaker2: Can you hear me clearly on your side?
+Speaker1: I'm pretty clear too. How have you been lately?
+Speaker2: Hello, just work is a bit busy. You?
+Speaker1: I've been busy lately, but it's okay, just a bit tired.
+Speaker2: Have you had time to rest lately? Don't get too tired.
+Speaker1: Hey, I know. Right, you mentioned that new restaurant last time, I want to try it out this weekend, do you know how to make a reservation?
+Speaker2: Sure, the restaurant is called "Flavor Journey", you can book it on their official website or call directly.
+Speaker1: Okay, thank you. What is their phone number?
+Speaker2: The phone number is 0215866799, remember to call ahead, they are very busy on weekends.
+Speaker1: Okay, I will book in advance. Thank you for your recommendation!

@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Are you here yet? I'm standing next to that old bookstore.
+Speaker1: I'm still on the road, just passed that big supermarket, probably still need ten minutes.
+Speaker2: Okay, I'm waiting for you here. Can you see the bookstore sign?
+Speaker1: I see, I see, the bookstore sign is very visible.
+Speaker2: Okay, I'm standing at the bookstore door, you can see me once you come over.
+Speaker1: Okay, I'm here now, wait for me a moment.
+Speaker2: No problem, just be careful on the road.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

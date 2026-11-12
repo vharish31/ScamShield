@@ -1,0 +1,10 @@
+Speaker1: Hello, I found your website and am interested in your yoga classes.
+Speaker2: Hello, I'm very happy to consult our yoga courses. Are you attending our course for the first time?
+Speaker1: Yes, I am interested in yoga, can you tell me about your course schedule and fees?
+Speaker2: Our yoga classes are divided into beginner, intermediate, and advanced levels. Each level's class is scheduled three times a week, on Monday, Wednesday, and Friday evenings at 7:00 p.m. The fees are 500 yuan for the beginner class, 700 yuan for the intermediate class, and 900 yuan for the advanced class.
+Speaker1: What does the initial class mainly focus on learning?
+Speaker2: In the beginner class, the teacher teaches the basic postures and breathing techniques to help students establish a solid foundation of yoga, improve body flexibility and balance.
+Speaker1: Okay, I'm considering joining the beginner class. If I sign up now, are there any discount activities?
+Speaker2: Sign up for the beginner class now and get a one-month discount of 400 yuan, plus a free yoga mat.
+Speaker1: Okay, I'll sign up. What information do I need to provide?
+Speaker2: Please provide your name, contact information, and ID number, we will process your registration procedures.

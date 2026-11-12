@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, want to know your store's business hours?
+Speaker2: Hello, I am a waiter at the store. We are open from 9 am to 10 pm without any breaks in between.
+Speaker1: That's great, I'll be there around 3 pm this afternoon, I want to reserve a window seat.
+Speaker2: Is that okay? Three o'clock window position is reserved for you, how many seats do you need to book?
+Speaker1: Two people, I and a friend of two.
+Speaker2: Okay, the two window seats have been reserved for you. Just come directly when the time comes.
+Speaker1: Okay, thank you. So, do you have any special dishes to recommend at your store?
+Speaker2: Our menu has red braised pork, steamed fish, and gong bao chicken, all very popular. You can try them.
+Speaker1: Let's try these when we hear them sound good.
+Speaker2: Okay, we're waiting for your arrival. If you need further assistance, please contact us anytime.

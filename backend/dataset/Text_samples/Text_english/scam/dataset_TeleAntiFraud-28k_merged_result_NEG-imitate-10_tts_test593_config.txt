@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you? I am your personal customer manager, named Zhang Huai, at the Guangzhou Bank Customer Service Center.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed you've had some issues with your credit card recently, so we've set up a special customer service channel just for you to help you solve them.
+Speaker2: Oh, really? That's great.
+Speaker1: Yes, but in order to ensure the safety of the information, you need to provide the following identity verification information, including your identity card number and the last three digits of your credit card on the back.
+Speaker2: So, how do I know you're really from Guangzhou Bank?
+Speaker1: You can check your work number through our customer service hotline or directly on our bank's official website. Your work number is 8245.
+Speaker2: Okay, I'll check and get back to you later.
+Speaker1: Okay, please call me whenever you're convenient, I'm here all day waiting for you.
+Speaker2: Okay, thank you.

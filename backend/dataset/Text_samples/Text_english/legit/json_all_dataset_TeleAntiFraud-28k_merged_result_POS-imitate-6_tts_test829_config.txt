@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I ordered a piece of clothing at your store yesterday, can you tell me when it will be delivered?
+Speaker2: Hello, Little Wang, your ordered products have been shipped, and we estimate they will arrive tomorrow afternoon. Is this time convenient for you?
+Speaker1: Okay, I'll wait for you at home tomorrow. By the way, can you pay attention to whether the style and color of the clothes I bought online match the pictures?
+Speaker2: No problem, we will confirm the product information again to ensure there are no mistakes before issuing. If any issues arise, we will contact you immediately.
+Speaker1: Okay, thank you for your service. And if you're not satisfied after receiving it, can you exchange it?
+Speaker2: Of course, we support seven-day no-reason return or exchange, as long as the product does not affect secondary sales.
+Speaker1: Then I will be reassured, I will contact you when there are problems.
+Speaker2: Okay, feel free to contact us anytime if you have any questions. Wishing you a happy life.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye.

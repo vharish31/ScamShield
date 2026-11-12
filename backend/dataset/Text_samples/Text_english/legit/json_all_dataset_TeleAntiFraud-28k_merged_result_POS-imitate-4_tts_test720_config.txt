@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at the community gate yet?
+Speaker2: Just arrived, where are you waiting for me at the door?
+Speaker1: I'm waiting at the north gate, but I can't see your car.
+Speaker2: You are at the south gate, I am on this side.
+Speaker1: Hey, I forgot to adjust my position, can you come to the north gate?
+Speaker2: Sure, just wait a moment, I'll be right there.
+Speaker1: Okay, thank you, I'm waiting for you at the north gate.
+Speaker2: No problem, pay attention to safety on the road.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

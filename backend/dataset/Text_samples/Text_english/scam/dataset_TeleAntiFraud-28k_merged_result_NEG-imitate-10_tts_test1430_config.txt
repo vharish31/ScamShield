@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the manager of Agricultural and Commercial Bank, I have a new loan product to recommend to you, do you have any recent financial needs?
+Speaker2: Loan? I'm pretty tight on cash right now, but I don't really understand these products.
+Speaker1: No problem, our loan products are very suitable for short-term cash flow, low interest rate, and quick disbursement. You only need to provide some basic information to quickly apply.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Scan the QR code I send you, download our app, fill out the info, apply and it will process automatically.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Extremely safe, our app has passed strict security tests, you can rest assured to use it.
+Speaker2: Okay, let me try.
+Speaker1: Great! Scan the QR code and let me know if you have any issues. Best of luck with your application!

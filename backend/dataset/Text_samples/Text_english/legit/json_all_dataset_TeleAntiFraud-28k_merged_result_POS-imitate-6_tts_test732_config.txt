@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm little Zhang, I want to find little Li, is he living here?
+Speaker2: Hey, it's little Zhang, little Li is there, he's gone now, do you have anything?
+Speaker1: Yes, I made plans with little Li to go to the library this afternoon, but I don't have his phone number. Can you relay it to him for me?
+Speaker2: Sure, wait a minute, I'll send him a message.
+Speaker1: Okay, thank you, please you.
+Speaker2: No problem, I'll give it to him right away, what time are you going to the library?
+Speaker1: I plan to arrive at around four o'clock. If he comes early, I can take a spot first.
+Speaker2: No problem, I told him, just find him directly at the library when you arrive.

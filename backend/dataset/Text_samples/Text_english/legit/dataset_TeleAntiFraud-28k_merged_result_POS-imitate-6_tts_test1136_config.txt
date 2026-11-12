@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I saw a new smartwatch on your website, want to know more about it?
+Speaker2: Hello, Xiao Ming, I am customer service representative Xiao Wang, very happy to serve you. What information do you want to know about this smartwatch?
+Speaker1: What are the features and price of this watch?
+Speaker2: This smartwatch supports heart rate monitoring, sleep analysis, multiple exercise modes, and can connect to a phone to receive notifications. The current promotion price is 2999 yuan.
+Speaker1: Wow, 2999 yuan sounds good. Is this the official price on the website, or do you guys have any discounts here?
+Speaker2: The price on our website is the official price, but we have a member-exclusive discount here. If you're our member, you can enjoy a 9% discount, bringing the price down to 2799 yuan.
+Speaker1: Do I need to become a member to enjoy this discount? What are the conditions for becoming a member?
+Speaker2: Yes, you can enjoy this discount by becoming a member. Registering as a member is very simple. You just need to fill out basic information on our website and complete the registration.
+Speaker1: Okay, I'll register as a member today. What about the delivery time for this watch?
+Speaker2: We will ship your order within 24 hours after purchase, usually it takes 3-5 working days to arrive.

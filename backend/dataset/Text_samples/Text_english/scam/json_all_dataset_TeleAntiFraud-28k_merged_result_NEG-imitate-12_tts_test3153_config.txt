@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, you say.
+Speaker1: Hello, I am a customer service representative from the courier company, we found that your package was lost during transportation, now you can process a refund.
+Speaker2: Is it really that bad? How do I get a refund?
+Speaker1: To ensure a smooth refund process, please provide us with your bank card number and verification code. We will directly deposit the refund into your account.
+Speaker2: Okay, my bank card number is 6228480000000000000.
+Speaker1: Okay, I have recorded it down. Now I will send a verification code to your phone, please check and tell me the verification code.
+Speaker2: Okay, I received it. The verification code is 123456.
+Speaker1: Thank you, we have already handled it. The refund will be credited to your account within 24 hours. To prevent such incidents from happening again, you can download our official app, which allows you to check package updates in real-time.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, after downloading the app, register an account, fill in the invitation code 'eight eight eight eight', and you can also get a new user discount coupon.
+Speaker2: Okay, I will go download it.

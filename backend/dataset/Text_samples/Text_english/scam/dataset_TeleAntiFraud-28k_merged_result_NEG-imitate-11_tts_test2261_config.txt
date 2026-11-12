@@ -1,0 +1,15 @@
+Speaker1: Hello, I am Lee Huai, an AliExpress customer service representative, we noticed some important information needs to be verified with you regarding your recent shopping experience on our platform.
+Speaker2: Okay, you say.
+Speaker1: We found an anomaly in one of your orders, to ensure your rights we need you to cooperate with a simple identity verification.
+Speaker2: How to verify?
+Speaker1: It's simple. I'll send a text message with a verification code to the phone number you registered, please tell me the verification code.
+Speaker2: Okay, wait for the text message.
+Speaker1: Okay, the text message has been sent, please pay attention to check it.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you, the verification code is correct. To further confirm your identity, please tell me the name of the recent product you purchased.
+Speaker2: I recently bought a phone.
+Speaker1: Okay, the information is consistent. As a compensation for your inconvenience, we have decided to send you a 500 yuan shopping voucher, but you need to click on the link to redeem it.
+Speaker2: Okay, I agree to click on the link to receive.
+Speaker1: Thank you very much for your cooperation. The link has been sent to your phone. Please click to enter and receive. If you have any problems, please feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, hope you have a nice shopping trip, bye.

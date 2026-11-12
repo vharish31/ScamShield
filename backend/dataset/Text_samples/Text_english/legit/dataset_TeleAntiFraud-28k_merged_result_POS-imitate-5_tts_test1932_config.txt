@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Lee Ming, I want to come to your restaurant for lunch today, do you have any seats?
+Speaker2: Hello, Li teacher, thank you for your call, we have a few spots left, when do you arrive?
+Speaker1: Can two people come at around 12:30?
+Speaker2: Of course, we will save your spot. Do you have any special dishes you want to try?
+Speaker1: Have you heard of the menu at your restaurant? The spicy sweet and sour pork ribs are very delicious, I want to try it. Are there any other recommendations?
+Speaker2: Our signature dish is definitely sweet and sour pork ribs. Moreover, our steamed fish with ginger and green onions is also very popular. You can try it.
+Speaker1: Okay, let's order these dishes. By the way, do you have any free parking spots there?
+Speaker2: Our restaurant has a public parking lot next door that is free to park, but the parking spots are limited, so we recommend coming early.
+Speaker1: Okay, thank you for your advice, see you later.
+Speaker2: Okay, see you later, wish you enjoy your meal.

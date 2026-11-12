@@ -1,0 +1,10 @@
+Speaker1: Hey, are you the car that I called?
+Speaker2: It's me.
+Speaker1: I'm at the community door now, come out.
+Speaker2: Okay, I'll come down right away. Wait for me a moment.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: I see you, let's meet at the door.
+Speaker1: Okay, just waiting for you here.
+Speaker2: I'll go now, you wait for a moment.
+Speaker1: Okay, slow down.
+Speaker2: Thank you, I'll be there soon.

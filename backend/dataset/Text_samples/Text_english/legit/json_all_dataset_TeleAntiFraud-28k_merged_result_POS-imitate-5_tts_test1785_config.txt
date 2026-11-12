@@ -1,0 +1,10 @@
+Speaker1: Hey, how come the food I ordered at your store hasn't been delivered yet?
+Speaker2: Hello, I am a delivery person, there might be a little problem with your order, it's being processed.
+Speaker1: What's the problem? I've been waiting for quite a while now.
+Speaker2: Sorry, due to recent high order volume, our riders may have some delay. I'll contact you right away to get the specifics.
+Speaker1: Okay, thank you. How long will it take to deliver?
+Speaker2: Can you wait for about twenty minutes? I'll do my best to encourage them.
+Speaker1: Okay, I'll wait for the delivery within 20 minutes. If it doesn't arrive, I might have to cancel the order.
+Speaker2: I understand your situation, I will quickly contact the rider to ensure your food arrives on time. Again, I apologize for any inconvenience caused.
+Speaker1: Well, I'll just wait a moment longer, hoping this time will be on time.
+Speaker2: We will do our best, thank you for your understanding and support. I will notify you when the food arrives.

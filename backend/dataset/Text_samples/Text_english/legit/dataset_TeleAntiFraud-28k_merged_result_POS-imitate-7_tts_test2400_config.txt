@@ -1,0 +1,9 @@
+Speaker1: Hello, I'm at the train station. Can you come pick me up?
+Speaker2: Okay, I'm leaving now. You find a place and wait for me, about ten minutes.
+Speaker1: Okay, I'm waiting for you at the exit gate. There are a lot of people here, did you see them?
+Speaker2: I see you, you're wearing blue clothes, right?
+Speaker1: What kind of car did you open?
+Speaker2: I opened a white small car, license plate number is Jing A12345, did you see the car?
+Speaker1: I see you, I'll be right there, just wait for me a moment.
+Speaker2: Okay, be careful, I'm waiting for you here.
+Speaker1: Okay, I arrived quickly, thank you.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you sell that kind of portable charger in your store?
+Speaker2: Yes, we have various models of portable chargers here. Which one do you want?
+Speaker1: I want a big one that can charge my phone several times.
+Speaker2: We have a one thousand yuan charging bank that can charge a phone three to four times, quite popular.
+Speaker1: How much does this power bank cost?
+Speaker2: This power bank costs 199 yuan, and if you buy it now, you can enjoy a 10 yuan discount.
+Speaker1: Does this power bank have stock?
+Speaker2: Yes, the current inventory is sufficient. You can directly purchase it, or I can deliver it to you quickly.
+Speaker1: I have time tomorrow, can come over to pick up.
+Speaker2: Okay, when is a convenient time for you to come tomorrow? I'll leave it here for you.
+Speaker1: Can I go at 2 pm tomorrow afternoon?
+Speaker2: No problem, tomorrow afternoon two o'clock, I'm waiting for you at the store.

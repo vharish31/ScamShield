@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service at the food square, can I ask if you have any space to come here for dinner tonight?
+Speaker2: Hey, do you have any recommendations for dishes?
+Speaker1: We have a special roast duck here, as well as fresh seafood, both of which are very popular.
+Speaker2: How much does it cost to sound good?
+Speaker1: The price of roast duck is 288 yuan per duck, seafood is priced according to type and weight.
+Speaker2: What time would be about right for me to arrive?
+Speaker1: We suggest you come at six, this time slot has fewer people, the environment will be more comfortable.
+Speaker2: Okay, do I need to make a reservation in advance if I arrive at six o'clock?
+Speaker1: If you confirm the time, you can book in advance, so we can prepare the place for you.
+Speaker2: I booked a two-person table, thank you.

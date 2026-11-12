@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, who are you? Can you hear me?
+Speaker1: I am the customer service person at the food square, just to inform you that you won a 200 yuan discount coupon in our last food festival, but you haven't come to pick it up yet.
+Speaker2: Really? I don't remember attending such activities?
+Speaker1: That's right, last week when you were eating in our food square, you participated in our lottery activity, and you won, this discount coupon can be used to offset any store's consumption.
+Speaker2: So, how do I receive the award?
+Speaker1: You can directly go to our food square customer service center to pick up, bring your receipt and ID with you.
+Speaker2: When can I go?
+Speaker1: Our customer service center is open from 10 am to 9 pm every day. You can come anytime during this period.
+Speaker2: Okay, thank you for your notice, I will take some time to pick it up.

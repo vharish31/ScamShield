@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the hospital customer service, can you confirm the time for the appointment you made last week?
+Speaker2: Hey, what time did you book?
+Speaker1: I'll reserve the 9:00 AM slot on Friday for your appointment if it's convenient for you.
+Speaker2: This time works, but I need to confirm my schedule, just a moment.
+Speaker1: Okay, confirm after you and then call me back. Remember to come empty stomach for the physical exam today.
+Speaker2: Okay, I know, what documents do I need to bring for the physical examination?
+Speaker1: Remember to bring your ID and appointment SMS, this way you can speed up the registration process.
+Speaker2: Okay, thank you for your reminder, I will arrive on time.
+Speaker1: No problem, see you on Friday, wish you all the best.
+Speaker2: Thank you, goodbye.

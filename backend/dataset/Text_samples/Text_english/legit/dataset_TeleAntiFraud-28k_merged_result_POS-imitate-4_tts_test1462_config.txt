@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: I work for the community property management, there are some recent delivery issues that need to be confirmed with you
+Speaker2: Okay, you say.
+Speaker1: Recently we found out that you haven't picked up your package on time a few times, which has caused the package room to be full.
+Speaker2: Oh, that's right, I've been pretty busy lately, sometimes I really forget.
+Speaker1: Understood, if you're convenient, can you set up an automatic notification? This way you won't miss it.
+Speaker2: Sure, I'll try to set it up.
+Speaker1: Okay, in addition, if the express box is full, you can contact our front desk, we will help you temporarily store
+Speaker2: That's great, thank you for your reminder, I will pay attention to it in the future.
+Speaker1: No problem, feel free to contact us anytime, wish you a happy life.
+Speaker2: Thank you, you also worked hard, goodbye

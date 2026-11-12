@@ -1,0 +1,8 @@
+Speaker1: Can you make an appointment for a haircut tomorrow on that side?
+Speaker2: Sure, what time do you want to make a reservation?
+Speaker1: Can we meet at two in the afternoon?
+Speaker2: 2 pm is okay, but please arrive half an hour early for registration.
+Speaker1: Okay, I'll go a little earlier. And I'm coming for the first time, do I need to bring anything?
+Speaker2: You don't need to bring anything, we provide all the necessary items here. Just come on time and you're good to go.
+Speaker1: Goodbye, I'll see you tomorrow.
+Speaker2: See you tomorrow, be careful on the road.

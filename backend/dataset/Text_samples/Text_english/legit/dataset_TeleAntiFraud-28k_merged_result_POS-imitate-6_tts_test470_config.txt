@@ -1,0 +1,12 @@
+Speaker1: Hello, this is the Happy Wash Car Platform, your car maintenance service has been successfully booked, would you like to confirm the time and location of your appointment?
+Speaker2: Hello, my appointment is tomorrow afternoon at three o'clock, the location is Xiàngfú lù de Xiàngfú xǐchǎngzhōngxīn.
+Speaker1: Okay, your information is correct. Do you need us to prepare anything in advance?
+Speaker2: How much does the car washing and waxing service cost here?
+Speaker1: The car washing and waxing service is 80 yuan, and our side provides high-quality car wax that can effectively protect the car paint.
+Speaker2: Can I just go directly tomorrow?
+Speaker1: Okay, you can come directly tomorrow, our staff will prepare everything in advance.
+Speaker2: Okay, thank you. Have you guys got a car cover service?
+Speaker1: We provide car wax replacement service on this side, the price for full car wax replacement is six hundred yuan, if you are interested, you can book an appointment.
+Speaker2: I'll think it over and contact you to schedule an appointment if I decide to change my car cover.
+Speaker1: Okay, you can contact us anytime, thank you for your support, wish you a happy life, goodbye.
+Speaker2: Okay, bye.

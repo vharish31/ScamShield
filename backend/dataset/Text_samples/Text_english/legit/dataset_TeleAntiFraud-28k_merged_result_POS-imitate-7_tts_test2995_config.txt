@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, this is Xiao Wang's hair salon.
+Speaker2: Hello, can I make an appointment for tomorrow afternoon to get a haircut?
+Speaker1: Is it okay, what time is it convenient for you?
+Speaker2: I have some free time around three in the afternoon.
+Speaker1: Okay, 3 pm, we can arrange it here.
+Speaker2: How is the handwork of that master?
+Speaker1: Our masters here have many years of experience, you can rest assured.
+Speaker2: Okay, so I'll set three points.
+Speaker1: Okay, please come at exactly 3 pm tomorrow.
+Speaker2: Okay, thank you.
+Speaker1: No problem, see you tomorrow.

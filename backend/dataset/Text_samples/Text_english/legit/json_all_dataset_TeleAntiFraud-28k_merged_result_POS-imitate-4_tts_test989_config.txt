@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to know what the discount menu is today?
+Speaker2: Hello, today's special deal is steamed fish, very cheap, want to try?
+Speaker1: How much does the red-steamed fish cost?
+Speaker2: The price of red-hot fish is 50 yuan, and you can enjoy a 9-discount now.
+Speaker1: Okay, can I reserve a table for two people tonight at seven o'clock?
+Speaker2: Okay, your 7:00 am location has been reserved. Just come directly at that time.
+Speaker1: Is there a parking spot at your store?
+Speaker2: Yes, we have a parking lot behind our store, which is free for customers to use.
+Speaker1: That's really convenient, thank you for your help.
+Speaker2: Please wait for your arrival, feel free to contact us if you need anything else.

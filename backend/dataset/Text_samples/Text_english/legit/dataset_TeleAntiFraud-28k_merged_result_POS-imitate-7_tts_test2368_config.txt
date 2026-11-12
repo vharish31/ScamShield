@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw your hair salon on the internet, want to make an appointment.
+Speaker2: Hello, I'm very happy to serve you. What time would you like to make a reservation?
+Speaker1: Do you have any free time this weekend?
+Speaker2: Okay, let me check. We have a few time slots available this weekend, 10am on Saturday and 2pm on Sunday, 9am on Sunday. Which one is convenient for you?
+Speaker1: Can I come at 9am on Sunday?
+Speaker2: Can I book a service at 9am on Sunday morning? There are still available spots.
+Speaker1: I want to cut short my hair and then do a simple hairstyle.
+Speaker2: Okay, the short hair and molding cost 120 yuan. After the appointment is successful, we will send you a confirmation text message. Please bring your phone with you.
+Speaker1: Okay, thank you. Can I just come directly at the time?
+Speaker2: Yes, you can come directly at the designated time, we will prepare in advance. If there are any changes, please contact us in advance. Have a happy life!

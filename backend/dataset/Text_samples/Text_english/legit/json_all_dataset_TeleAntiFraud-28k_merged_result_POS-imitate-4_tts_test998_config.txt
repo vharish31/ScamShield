@@ -1,0 +1,13 @@
+Speaker1: Hello
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me how your family's air conditioning repair service is charged?
+Speaker2: Our air conditioning repair service here charges based on the complexity of the issue. Simple issues usually cost around one hundred yuan, while complex issues may require three hundred to five hundred yuan.
+Speaker1: If you need door-to-door service?
+Speaker2: Upon delivery, there will be an additional fifty yuan for the door fee.
+Speaker1: How long do you usually arrive at the door?
+Speaker2: We usually arrange door-to-door service within twenty-four hours after receiving the order.
+Speaker1: Can you arrange it for me tomorrow morning?
+Speaker2: Okay, we will arrange for the teacher to come over at around nine in the morning tomorrow.
+Speaker1: Okay, I'll note it down, tomorrow morning at nine o'clock, thank you.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, goodbye.
+Speaker1: Goodbye

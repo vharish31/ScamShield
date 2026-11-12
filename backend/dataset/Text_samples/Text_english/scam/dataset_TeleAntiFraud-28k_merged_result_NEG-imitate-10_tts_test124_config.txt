@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm the loan manager of Huaxing Bank, Li.
+Speaker2: Hello, Li Manager.
+Speaker1: Have you noticed that your company may have recently had a need for capital rotation? We have a very affordable loan plan here, with monthly interest of zero point five percent, no collateral required, fast approval, would you like to know more?
+Speaker2: The sound is good, but I'm not very convenient right now. Can you send me a link? I'll look at it later.
+Speaker1: Of course, but we need to open this link on a computer, do you have a computer?
+Speaker2: Yes, I can use a computer.
+Speaker1: Great, I'll send you a link now. Just click on it and follow the instructions on the page to apply.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Additionally, for safety, you need to download our official app, so you can ensure your personal information is not leaked.
+Speaker2: Okay, I understand.

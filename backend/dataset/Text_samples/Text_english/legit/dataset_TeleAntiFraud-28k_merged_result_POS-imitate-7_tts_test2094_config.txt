@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to ask you about delivery to apartment 4F.
+Speaker2: Hello, it's for the fifth floor.
+Speaker1: Hey, can you bring me the five-unit book from the small dormitory?
+Speaker2: Okay, but the small house on that side is a bit far, maybe we have to wait a little longer.
+Speaker1: Okay, I'll wait a minute. By the way, I forgot to add chili sauce when I placed my order, can you help me add some?
+Speaker2: No problem, I'll take note and give you extra spicy sauce.
+Speaker1: Great, thank you. Okay, about how long will it take to arrive?
+Speaker2: About thirty minutes, because now there are so many people, maybe a little late.
+Speaker1: Okay, I roughly know the time, thank you.
+Speaker2: No problem, there are other people who need to contact me anytime, wish you enjoy your meal.

@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Hello, I'm little Li, I saw from the internet that you're interested in our traditional Chinese medicine and health course, would you have time to attend our free trial class?
+Speaker2: Hey, hi, I've been pretty busy lately, but I'm really into this course.
+Speaker1: That's great! Our course schedule is very flexible, you can adjust it according to your time. Do you think Tuesday or Thursday is more convenient for you this week?
+Speaker2: Can we start around 2 PM on Wednesday?
+Speaker1: Okay, we have two time slots, one is 2 pm and the other is 4 pm. Which one is more convenient for you?
+Speaker2: Four o'clock, that's when I should finish the work on my hands.
+Speaker1: Okay, so let's meet on Thursday afternoon at four o'clock, the address is Zhōngxiān jīngkǎng lù yī bǎi liù bān, do you need me to send you a text reminder?
+Speaker2: Okay, can you please give me your phone number? It's 13916524896.
+Speaker1: Okay, I will send you detailed information. See you later!
+Speaker2: Okay, thank you, goodbye.
+Speaker1: Goodbye, wish you all the best.

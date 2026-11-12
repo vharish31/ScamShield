@@ -1,0 +1,10 @@
+Speaker1: Hey, are you still waiting for the bus?
+Speaker2: Hey, okay, I'm waiting at the exit of the subway station.
+Speaker1: Okay, I'm there now, you see the blue small car with license plate number 123456 is mine.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No need to thank you, how much money do you have on your side, I will give you cash after I arrive.
+Speaker2: Okay, no problem, I'll wait for you to arrive before paying.
+Speaker1: Hmm, this way is more convenient, I can settle my bill earlier.
+Speaker2: Understood, I'll confirm the price later when I get in the car.
+Speaker1: Okay, the road is a bit congested, we might have to wait a little longer.
+Speaker2: No problem, safety first, be careful on the road.

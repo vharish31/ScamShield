@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Happy Restaurant, I am the waiter, do you want to know more about our restaurant information?
+Speaker2: Hello, do you have a private room in your restaurant that can accommodate a family of four for a dinner party?
+Speaker1: Yes, we have several different sized rooms here, suitable for family dinners. What time are you coming?
+Speaker2: This weekend, Saturday night at six o'clock.
+Speaker1: Okay, on Saturday evening at 6 pm, I have reserved a four-person private room for you. Do you need to pre-order specific dishes?
+Speaker2: Yes, I want to reserve your menu, and there are several seafood options.
+Speaker1: Okay, we have both the banner menu and seafood. I will prepare your order in advance. Is there anything else you need me to help with?
+Speaker2: No more, thank you for your help.
+Speaker1: No problem, you can contact us anytime if you have any questions. See you on Saturday!
+Speaker2: Okay, see you on Saturday. Thank you!

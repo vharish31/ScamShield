@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I'm the customer service representative at the happy mall, I see your order looks like it has some issues, can you help me handle it?
+Speaker2: Oh, is that so? What's the issue?
+Speaker1: That's right, your order shows successful payment, but the system encountered an error, causing the product to possibly not ship normally.
+Speaker2: What should we do?
+Speaker1: To ensure your rights, we need you to cooperate with us in a simple verification. Once verified, we will immediately process your order, ensuring you receive the product smoothly.
+Speaker2: How to verify?
+Speaker1: You need to click on the link we sent you, fill out some personal information, including your bank card number and verification code, so that we can confirm your identity.
+Speaker2: Is this safe?
+Speaker1: Extremely safe, we are a regular mall, all information will be encrypted processed, absolutely confidential. Click on the link, you can also see our official statement.
+Speaker2: Okay, let me try.

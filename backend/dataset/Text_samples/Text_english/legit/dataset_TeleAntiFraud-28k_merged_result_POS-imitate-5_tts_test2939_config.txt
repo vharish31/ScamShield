@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm Little Wang, I need to find Little Li a bit.
+Speaker2: Little Wang, hello, little Li went to a meeting, do you have anything to say to me?
+Speaker1: Can you ask Li little if he has arranged any team activities for this weekend?
+Speaker2: Hey, the activity time is on Saturday morning at 9am, the location is the city park, everyone will gather at the park entrance.
+Speaker1: Okay, I noted it down. What do we need to bring for the activity?
+Speaker2: Bring some water and snacks, wear comfortable sports shoes, the weather forecast says there's a chance of rain, it's best to bring an umbrella.
+Speaker1: Okay, thank you, I will be ready.
+Speaker2: No problem, if you have other questions, feel free to contact me anytime.
+Speaker1: Okay, bye.
+Speaker2: See you, weekend.

@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, how are you? Can you hear me? What's up?
+Speaker1: Hey, that's right, I'm the customer service for a home cleaning service platform. You previously booked a cleaning service for this Saturday morning at 9am. Can you confirm if you still need it?
+Speaker2: Uh, is this how it is, I forgot, there might be something on Saturday, can it be changed to Sunday?
+Speaker1: Is it okay, on Sunday, either 9am or 3pm, which time is more convenient for you?
+Speaker2: Sunday at 9am should be fine.
+Speaker1: Okay, I've adjusted your appointment to Sunday morning at 9am. Don't forget to leave the door early.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact us if you have any other needs.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I'm little Ming
+Speaker2: Hey, little Ming, hello, I am little Huang
+Speaker1: How have you been lately, Little Huang?
+Speaker2: Okay, just work is a bit busy. You?
+Speaker1: I'm also, recently preparing a project, quite nervous.
+Speaker2: Can you help me listen?
+Speaker1: Thank you, if you're really busy, I'll contact you.
+Speaker2: No problem, feel free to find me anytime. By the way, do you have any free time this weekend? Would you like to go hiking together?
+Speaker1: That sounds nice, hiking up a mountain is great, perfect to relax a bit.
+Speaker2: So let's meet at the park entrance at 9 am on Saturday morning.
+Speaker1: Okay, let's go.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Beijing Bank. We have a great loan product here, no collateral required, and the interest rate is very low. Have you recently had any financial needs?
+Speaker2: I don't need anything, thank you.
+Speaker1: Sure, can I add your WeChat? So we can contact each other in the future when needed, for convenience.
+Speaker2: Okay, let's add a WeChat.
+Speaker1: Great, my WeChat number is beijingbank123, add me and I have some loan product info to send you.
+Speaker2: Okay, I'll add you.
+Speaker1: Great, after you add me on WeChat, just let me know, and I'll send you the materials right away.
+Speaker2: Okay, I understand.
+Speaker1: That's great, the documents contain detailed information on the loan process and interest rates, you can ask me any questions anytime.
+Speaker2: Okay, thank you.

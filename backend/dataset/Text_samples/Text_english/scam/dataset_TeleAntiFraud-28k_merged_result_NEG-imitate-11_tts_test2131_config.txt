@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Li Ming, the customer service representative of Jin Yi Bao. We noticed that you have recently made a purchase on our platform. Would you like to know if there are any issues?
+Speaker2: Oh, really? I didn't notice any issues, what company are you guys from?
+Speaker1: We are Jinyi Bao, a professional online shopping platform. If you are not satisfied with your recent purchase, we can handle return and refund for you, very convenient.
+Speaker2: Well, how do you handle it?
+Speaker1: To quickly process your return request, please click this link and fill out the relevant information. We will handle it promptly.
+Speaker2: Link? How do I know this is safe?
+Speaker1: You can rest assured that our link is very safe, and all you need to do is fill out some basic information to complete the refund process, which is very simple.
+Speaker2: Okay, let me try.
+Speaker1: Great, you can contact us anytime if you have any questions, wish you a happy life.
+Speaker2: Thank you, goodbye.

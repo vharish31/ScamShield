@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have any hot water bottles in your store?
+Speaker2: Do you want what kind of insulated water bottle here?
+Speaker1: I want a blue colored container with a capacity of about 500 milliliters.
+Speaker2: Okay, we have a blue insulated mug here with a capacity of 500 milliliters. Would you like to know more about it?
+Speaker1: How much does this water bottle cost?
+Speaker2: This water bottle costs 120 yuan, and we are currently having a promotion in our store. You can enjoy a 90% discount when you buy this water bottle.
+Speaker1: That's great, but I won't be able to come until tomorrow, will your store be open tomorrow?
+Speaker2: Of course, our store is open from nine in the morning to nine in the evening every day. You can come over anytime tomorrow.
+Speaker1: Okay, I'll come over in the afternoon around three o'clock, thank you.
+Speaker2: No problem, see you tomorrow, looking forward to your arrival.

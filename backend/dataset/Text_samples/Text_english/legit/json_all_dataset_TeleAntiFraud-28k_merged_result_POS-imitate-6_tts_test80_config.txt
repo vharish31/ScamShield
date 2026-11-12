@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Are you here at the community door yet?
+Speaker1: Just arrived at the subway station, probably need about ten minutes.
+Speaker2: Okay, you arrived to call me.
+Speaker1: Okay, I'll go first to find you.
+Speaker2: Okay, be careful on the road.
+Speaker1: Is it raining on your side?
+Speaker2: Remember to bring an umbrella when you go out.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

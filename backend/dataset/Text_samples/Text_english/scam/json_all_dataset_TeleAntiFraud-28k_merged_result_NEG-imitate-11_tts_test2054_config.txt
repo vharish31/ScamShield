@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager of a commercial bank, recently we launched a special discount loan product, do you have any interest in learning more about it?
+Speaker2: What are your loan products?
+Speaker1: Yes, this product has no collateral, low interest rate, fast approval, and is very suitable for short-term financial circulation. If you need it, I can introduce it in detail.
+Speaker2: What conditions do you need?
+Speaker1: The conditions are simple. As long as you have a stable income source and good credit records, you can apply. In order to better serve you, we need you to provide some personal information, such as your identity number and bank account number.
+Speaker2: How to provide?
+Speaker1: You can download our bank's official app, upload documents through the app, or click on the link I sent you, and fill out the documents online.
+Speaker2: Link?
+Speaker1: Yes, there are detailed application procedures in the link, which is very convenient and quick. I will send it to you now, you can receive it and click on the link after receiving it, and follow the instructions to operate it.
+Speaker2: Okay, I'll take a look later.

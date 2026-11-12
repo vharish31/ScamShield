@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I saw your job posting for part-time delivery driver, can you give me more details?
+Speaker2: Hello, little Zhang, I am the manager in charge of recruitment, Lee. I am very happy that you are interested in our work. Which time period are you interested in working?
+Speaker1: I'd like to know more about the work hours and salary benefits.
+Speaker2: Our work hours here are from 9am to 6pm every day, and we have one day off per week. Salary is based on a fixed amount plus commission. The fixed amount is 2000 yuan, and each package of express delivery earns a commission of 2 yuan.
+Speaker1: If I need to take a leave because of personal matters, how is my salary calculated?
+Speaker2: I couldn't take the day off because there was no pay, but the delivery I completed beforehand still paid out.
+Speaker1: What documents do I need to provide?
+Speaker2: You need to provide identity card and health proof, if you have a driving license it's better, so we can deliver to a larger area.
+Speaker1: What do I need to bring to the interview when I have a driver's license?
+Speaker2: Bring your ID, driver's license, and health certificate, we'll take a look at your information later and schedule a test.

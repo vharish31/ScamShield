@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at Xiaoming Restaurant?
+Speaker2: Hello, can I reserve a seat for tomorrow evening at six o'clock?
+Speaker1: Of course, who are you?
+Speaker2: We are four.
+Speaker1: Okay, the four-person seats, tomorrow evening at six o'clock, no problem. Do you have any special requirements, such as sitting near the window or a quiet private room?
+Speaker2: If there's a spot by the window, the view is great.
+Speaker1: I understand, I will do my best to arrange a seat for you near the window. Could you please provide your name and contact information so we can confirm the reservation information?
+Speaker2: My name is Xiao Huá, phone number is 13800138000.
+Speaker1: Okay, Mr. Xiao Hu, your reservation information has been recorded. Tomorrow evening at six o'clock, Xiao Ming Restaurant, four people, near the window. We will prepare in advance for you.
+Speaker2: Thank you, see you later.
+Speaker1: You're welcome. I'm looking forward to your arrival. Goodbye.

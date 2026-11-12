@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm the manager of China Merchants Bank, I see that the loan application of 30,000 yuan you submitted to our bank has been approved, you can consider whether you need to withdraw the funds.
+Speaker2: Hello, Li Manager, I recently have some capital needs, can you specifically say the conditions of this loan?
+Speaker1: Of course, the annual interest rate for this loan is three percent, the repayment method is flexible, you can choose equal monthly payments or first interest, then principal, and the approval process is fast, usually completed within one workday.
+Speaker2: The sound is good, but I'm not familiar with this process. Do I need to prepare any materials?
+Speaker1: Please provide the company's basic information, such as business license and financial reports, you can send them to my email or add me on WeChat, I can guide you in detail.
+Speaker2: How can I confirm that you are an employee of China Merchants Bank?
+Speaker1: You can log into the official website of China Construction Bank and verify my identity through the employee query function. Alternatively, you can add me on WeChat and I will send you a photo of my work ID to confirm.
+Speaker2: Okay, let me add you on WeChat so we can communicate easily later.
+Speaker1: Great, my WeChat is zhonghai_bank_li. Add me and we'll chat in detail later. Have a good day! Bye!
+Speaker2: Okay, thank you, bye!

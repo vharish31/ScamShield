@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service king at the supermarket. Do you have any issues with the products you bought from us before?
+Speaker2: Hello, yes, I bought an electric water heater, but it couldn't heat up normally two days after use.
+Speaker1: I'm very sorry to have caused you inconvenience, can you tell me your order number?
+Speaker2: Okay, my order number is one two three four six.
+Speaker1: Okay, I found it, this batch of electric water heater has quality issues, we will process refund for you.
+Speaker2: Great, what do I need to do?
+Speaker1: Please send the electric kettle with issues back to our return address, which is 100 Huaxing Road, Xuhui District, Shanghai. After sending, please provide the shipping number used for sending, and we will process the exchange for you upon receipt.
+Speaker2: Okay, I understand, thank you for your help.
+Speaker1: You're welcome. If you have any other questions, please feel free to contact us anytime. We wish you a happy life.
+Speaker2: Okay, bye.

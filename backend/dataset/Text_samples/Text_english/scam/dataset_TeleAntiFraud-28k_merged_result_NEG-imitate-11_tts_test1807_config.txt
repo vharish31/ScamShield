@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am small Li from the recruitment center of the Bank of Commerce, do you have any recent capital circulation needs?
+Speaker2: Hello, there is no such requirement at the moment.
+Speaker1: Okay, but if you need anything, we have a special discounted loan project here with no collateral, low interest rate, no credit check, and quick disbursement.
+Speaker2: Really? Then how do I apply?
+Speaker1: You can first download our official app, then register an account, fill in the relevant information, and we will quickly review it.
+Speaker2: Do you want to download the app? I'm afraid it's not safe.
+Speaker1: Don't worry, our app is legitimate and there will be no problems. If you're concerned, you can click on this link and fill out the information.
+Speaker2: Can you give me a phone number so I can call and ask directly?
+Speaker1: Of course, this is our customer service phone number: 400-123-4567, you can directly dial. Moreover, to speed up the review process, you can also add my WeChat, I will guide you to operate.
+Speaker2: Okay, let me try. What's your WeChat number?
+Speaker1: My WeChat number is: zhaoying123, add me, I will guide you in detail.

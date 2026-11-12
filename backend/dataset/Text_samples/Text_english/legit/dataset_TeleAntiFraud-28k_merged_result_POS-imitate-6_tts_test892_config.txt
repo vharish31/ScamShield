@@ -1,0 +1,12 @@
+Speaker1: Hello, I am little Li, the customer service at the food square. I see you ordered food from us before, do you have any new dishes you want to try recently?
+Speaker2: Hey, I recently want to try your new introduced Cantonese cuisine series.
+Speaker1: Okay, our new Cantonese cuisine series is very popular, especially the spicy and sour hot pot and boiled beef, do you want to try it?
+Speaker2: The two dishes sound good, I want to try both of them.
+Speaker1: Great, I'll order a spicy hot pot and a steamed beef for you. Is there anything else you need to add?
+Speaker2: Let's have another cucumber salad, it's said to be refreshing.
+Speaker1: Okay, I also recorded a recipe for spicy cucumber. How many points do you want to send it to?
+Speaker2: 5:30 PM approximately.
+Speaker1: Okay, 5:30 delivery. Anything else you need me to help with?
+Speaker2: Thank you for your service.
+Speaker1: You're welcome! We're looking forward to your dining experience. Please feel free to contact us if you have any questions. Goodbye!
+Speaker2: Okay, bye.

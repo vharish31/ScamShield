@@ -1,0 +1,10 @@
+Speaker1: Hey, are you open yet?
+Speaker2: Hello, our store is now open. What can we help you with?
+Speaker1: Can you introduce me to your coffee machine?
+Speaker2: Of course, we have several different types of coffee machines here, from small household ones to large commercial ones. What do you mainly want to use them for?
+Speaker1: It's mainly for family use, but sometimes friends come to the house to play.
+Speaker2: I recommend this practical model for you. It's easy to use and has all the features you need. The price is also very reasonable, making it perfect for family use.
+Speaker1: How much does this coffee machine cost?
+Speaker2: This coffee machine costs 1980 yuan, and now it's also free with a set of coffee beans when you buy it.
+Speaker1: Can I try it out first?
+Speaker2: We support seven-day no-reason return or exchange here. You can try it out first and then return it without condition if you're not satisfied.

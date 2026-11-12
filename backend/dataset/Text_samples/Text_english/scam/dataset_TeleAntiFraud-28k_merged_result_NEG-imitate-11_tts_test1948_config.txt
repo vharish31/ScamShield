@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhao Laoban?
+Speaker2: Yes, hello.
+Speaker1: Zhao Laoban, I am Zhang, the customer service representative of speed lending finance, we have a very good loan product here, the loan amount is high, the interest rate is low, the approval is fast, do you know if you have any recent funding needs?
+Speaker2: I recently need some money.
+Speaker1: Okay, I can explain it to you first. You can download our app, register and fill in the relevant information, and we will review it quickly.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Great, remember to input the referral code ABCD1234 when registering, so you can enjoy extra discounts.
+Speaker2: Okay, I understand.
+Speaker1: After approval, if there are any issues, you can directly contact me, my WeChat is zhangxiaokefu, feel free to consult anytime.
+Speaker2: Okay, thank you for your help.

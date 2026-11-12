@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any winter coats here that would fit me?
+Speaker2: Yes, we have many long and short coats here. Which one do you want?
+Speaker1: Long-term, the best is wool fabric.
+Speaker2: Okay, we have some woolen coats, very warm. What's your color preference?
+Speaker1: Black is more durable.
+Speaker2: We have black long sleeve woolen coat in stock, priced at six hundred and eighty yuan. You can try it on in the store.
+Speaker1: Can I come now?
+Speaker2: Of course, we are open now. The store is at 108 Happiness Road. Welcome!

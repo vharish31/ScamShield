@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Wang Ming? I am a customer service representative at the construction of the Bank of China Credit Center.
+Speaker2: Yes, what do you want to talk to me about?
+Speaker1: We noticed that your business license may have expired, which will affect your normal business activities.
+Speaker2: What business license? I completely don't know.
+Speaker1: The name of your business license is Wang Ming Shi Market, located at the forty-sixth position of the Jin Yuan Yuan De Zhu Xiang Stone Market in the Gold Mountain Garden.
+Speaker2: When was this business license obtained? I have no impression at all.
+Speaker1: This business license was registered with your ID card several years ago, at the time it was handled uniformly in the market.
+Speaker2: How should we handle this business license since the market has been closed for several years?
+Speaker1: You need to handle it quickly, otherwise you may incur a fine. We can provide a convenient way to handle it, just download our official app and follow the instructions.
+Speaker2: Download the app? How do you operate it?
+Speaker1: Scan this QR code, download our app, register and follow the instructions, and you can easily solve this problem.
+Speaker2: Okay, let me try.

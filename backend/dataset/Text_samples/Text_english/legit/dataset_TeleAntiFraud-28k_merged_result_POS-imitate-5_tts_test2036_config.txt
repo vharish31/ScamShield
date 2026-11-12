@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you going?
+Speaker2: We're almost there, just got off the subway, need to walk a few more minutes.
+Speaker1: Okay, I'm waiting for you at the bookstore door.
+Speaker2: I remember the bookstore, wait for me a moment.
+Speaker1: Hey, hurry up, there are a lot of people here.
+Speaker2: I understand, I'll try to hurry up.
+Speaker1: Remember to bring an umbrella today, it might rain.
+Speaker2: Let's go with an umbrella, okay, I'll check the weather forecast.
+Speaker1: Okay, I checked the book you want and it should be in stock.
+Speaker2: Great, let's go eat something after I finish the book.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. There have been some unusual activities in your account recently, which need to be handled immediately.
+Speaker2: Hey, really? What's the issue?
+Speaker1: That's it, we suspect your account may have been stolen, for safety reasons, we need you to provide the latest verification code, we will send you a text message.
+Speaker2: Okay, I'm waiting for a text message now.
+Speaker1: Okay, the text message has been sent out, please check it and tell me the verification code.
+Speaker2: I received it. The verification code is 1234.
+Speaker1: Thank you for your cooperation, we have already processed it, your account is now very safe.
+Speaker2: That's great, thank you.
+Speaker1: No problem, by the way, we have a new investment product for wealth management with high returns. If you're interested, you can click on the link I sent you to check the details.
+Speaker2: Okay, let me take a look.

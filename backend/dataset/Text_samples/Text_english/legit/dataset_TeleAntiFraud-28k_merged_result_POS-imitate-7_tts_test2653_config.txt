@@ -1,0 +1,16 @@
+Speaker1: Hey, hello, I'm little king, yesterday I contacted your store.
+Speaker2: Hello, Little Wang, what can I help you with?
+Speaker1: Do you still have the smartwatch in your store?
+Speaker2: What is the model of the smartwatch? We have several styles here.
+Speaker1: That black strap, silver watch face.
+Speaker2: Okay, let me check. Hmm, this watch still has stock, do you want to know the specific price and features?
+Speaker1: How much is it? And does this watch have waterproof?
+Speaker2: This watch costs 2500 yuan and has waterproof functionality, which can be used during hand washing or light rain, but it's not recommended to wear it while swimming or diving.
+Speaker1: Okay, how long does the battery of this watch last?
+Speaker2: This watch's battery life is approximately one week, and it doesn't need frequent charging when used normally.
+Speaker1: The sound is good, I want to buy a piece, do you support cash on delivery?
+Speaker2: Our store supports cash on delivery, you can choose this payment method. Additionally, you can enjoy seven-day no-reason return or exchange service when purchasing.
+Speaker1: Okay, I'll place the order now. How long will it take to deliver?
+Speaker2: In general, we will arrange delivery within two to three days after ordering, but the specific delivery time depends on the logistics situation.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Have a happy life!

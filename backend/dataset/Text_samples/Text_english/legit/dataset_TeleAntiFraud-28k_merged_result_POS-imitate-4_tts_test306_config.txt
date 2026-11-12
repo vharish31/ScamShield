@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm Xiaoming, I have an appointment with you guys at the hair salon today, can you confirm the time?
+Speaker2: Hello, Xiaoming, is your appointment at 3 pm this afternoon?
+Speaker1: Okay, three o'clock in the afternoon.
+Speaker2: Okay, we have reserved a spot for you here. How far are you from our store now?
+Speaker1: Okay, it's about a twenty-minute drive.
+Speaker2: That's great, please come 10 minutes in advance. If you encounter any problems on the road, please contact us anytime.
+Speaker1: Okay, thank you. Can I come directly at the time?
+Speaker2: Yes, please come directly, we will wait for you at the door.
+Speaker1: Okay, thank you, see you later.
+Speaker2: Okay, see you later, be safe on the way.

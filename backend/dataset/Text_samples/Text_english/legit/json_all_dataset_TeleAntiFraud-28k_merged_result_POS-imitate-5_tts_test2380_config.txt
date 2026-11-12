@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, just moved to this community, want to know how the delivery service here works?
+Speaker2: Hello, little Zhang, the express delivery service is quite good, there are several express points here, which express company do you use more often?
+Speaker1: I usually use SF Express and Yunda more, don't know how far this side's delivery points are.
+Speaker2: SF and YT are both here, both on the left side of the small community door, walking over takes about 5 minutes, quite convenient.
+Speaker1: That's great, I have a package to send, can I go there to send it?
+Speaker2: Of course, they are open from 9 am to 7 pm every day, including weekends.
+Speaker1: Okay, thank you for your information. I'll go mail it tomorrow.
+Speaker2: No problem, if you have any other needs for help, feel free to ask me anytime.
+Speaker1: Thanks, I'll hang up first, bye.
+Speaker2: Okay, bye, wish you a happy day.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm small Li, this is the customer service representative of Huaxing Science and Technology Company. We noticed that you recently purchased a phone online, but our system shows that there may be an issue with your order, and we need to assist you in handling it. Are you available now?
+Speaker2: Hey, I recently bought a new phone, is there anything wrong with it?
+Speaker1: It seems that your order may have been mistakenly operated, causing you to miss out on the discount you should have received. To make up for your loss, we need you to complete a simple process, which won't take up too much of your time.
+Speaker2: What should we do?
+Speaker1: Just click on the link we send to you and follow the instructions to complete the process, which will confirm your information and ensure that we can refund the discount to you.
+Speaker2: Okay, let me try it out.
+Speaker1: Okay, I'll send you the link now. Please pay attention to check it. Also, for your account safety, we may need you to provide a verification code, which will be sent to the phone number you used when purchasing.
+Speaker2: Okay, I'm waiting.
+Speaker1: Okay, the verification code has been sent successfully. Please pay attention to check it and reply to us as soon as possible so that we can process your issue promptly.
+Speaker2: I received it and entered the verification code.

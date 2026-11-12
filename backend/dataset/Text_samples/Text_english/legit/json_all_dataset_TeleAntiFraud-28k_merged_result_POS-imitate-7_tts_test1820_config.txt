@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, recently I want to buy a new phone, do you have any recommendations?
+Speaker2: Hello little king, recently there are many new machines on the market, do you have any budget and special requirements? For example, do you want to buy a good camera or a strong navigation ability?
+Speaker1: My budget is roughly around three thousand, mainly for daily use, and it's best for photography.
+Speaker2: Check out the latest X brand Y model for the new budget. The camera function is particularly strong, and the battery is durable.
+Speaker1: Is this phone model in stock now?
+Speaker2: Yes, there are fresh products in the store, you can come directly to try.
+Speaker1: Can I just go take a look?
+Speaker2: Of course, when do you have time to come over?
+Speaker1: Can I go over there in the afternoon around three o'clock?
+Speaker2: Of course, I'll wait for you at the store later.

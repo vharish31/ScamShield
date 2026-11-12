@@ -1,0 +1,9 @@
+Speaker1: Hello, I am Liu Xiao, this is the customer service representative of XX Bank. We noticed that you have recently had a financial need. Our bank currently has a special promotion for a credit loan with an interest rate of only 0.02% per month. Are you interested?
+Speaker2: Oh, really? I really need some cash flow recently.
+Speaker1: Yes, this loan product is very suitable for you. However, in order to confirm your identity, I need you to provide some personal information, including your ID number and bank card number.
+Speaker2: Okay, how can I provide this information?
+Speaker1: You can click this link and fill out the relevant information, we will review it quickly.
+Speaker2: Link? How do I know this is safe?
+Speaker1: Don't worry, this is our official link, very safe. You can try clicking it first to see the page content, if you have any questions, you can contact me anytime.
+Speaker2: Okay, let me try.
+Speaker1: Okay, click and follow the instructions on the page. If you have any questions, let me know. Best of luck!

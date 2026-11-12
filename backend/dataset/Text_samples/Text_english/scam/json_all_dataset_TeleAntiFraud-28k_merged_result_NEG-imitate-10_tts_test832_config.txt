@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Huaxia Bank. Recently, we have introduced a special loan service. Do you have any need for capital rotation?
+Speaker2: Hello, temporarily no need for this.
+Speaker1: Oh, this way. Do you know if you've recently encountered any financial tight spots, like investing, buying a house, or something urgent?
+Speaker2: Hello, I haven't encountered this situation yet.
+Speaker1: Okay, I can still introduce our services to you. Our loan services are very flexible, no collateral, no guarantee, fast approval, if you need it in the future, please contact us anytime.
+Speaker2: Thank you for your introduction. I will consider it.
+Speaker1: Great, if you have any questions or need more information, you can click on this link to enter our official website for detailed information.
+Speaker2: Okay, I'll go take a look.
+Speaker1: Another small suggestion, you can download our app, there are more discounts and services on it, and you can apply for a loan directly on it, very convenient.
+Speaker2: Okay, thank you for your recommendation. I will download and take a look.

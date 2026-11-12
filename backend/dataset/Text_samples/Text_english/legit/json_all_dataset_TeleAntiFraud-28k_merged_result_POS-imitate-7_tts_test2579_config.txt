@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service of the food platform, you ordered a dinner before on our platform, do you want to confirm your order information?
+Speaker2: Hello, I did order, can you tell me the details of the order?
+Speaker1: Of course, your reservation is at the Tianxiangxuan restaurant in the city center, the reservation time is tonight at seven o'clock, and you ordered the standard double person set menu.
+Speaker2: Yes, I remember. I want to confirm one more time, what dishes are included in this menu?
+Speaker1: This meal includes four main dishes, one soup, one dessert, and two drinks. The specific dishes are steamed cod, spicy chicken, ginger and green onion, and red braised pork, the soup is old fire chicken soup, and the dessert is pineapple custard.
+Speaker2: Does it sound good? Then do I need to arrive at the restaurant early?
+Speaker1: I suggest you arrive ten minutes early, so you can have enough time to relax and enjoy a good dining experience.
+Speaker2: Okay, thank you for your reminder. Is it necessary to bring the confirmation SMS of the reservation?
+Speaker1: No need, just report your name and reservation time, we can find your reservation info. But bring along confirmation SMS is safer.
+Speaker2: Understood, thank you for your help, see you later.

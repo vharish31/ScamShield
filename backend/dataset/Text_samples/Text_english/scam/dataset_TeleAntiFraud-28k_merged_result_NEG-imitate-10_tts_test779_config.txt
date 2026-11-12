@@ -1,0 +1,12 @@
+Speaker1: Hello, this is the customer service representative from Shanghai Bank, I am Lee Wen, we noticed some unusual activity on your account recently, please verify your information to ensure account safety.
+Speaker2: Okay, you say, how are you?
+Speaker1: We found out someone tried to transfer money from your account, to ensure the safety of your funds, we need you to provide the last four digits of your bank card and the amount of your recent transaction.
+Speaker2: Oh, that's it, my bank card last four digits are six seven seven eight, the recent one transaction amount is one hundred twenty yuan.
+Speaker1: Okay, I have recorded it. We also need you to provide your bank reserve phone number so we can send a verification code to confirm it's you.
+Speaker2: Okay, my reserved phone number is 01385678901.
+Speaker1: Okay, the verification code has been sent to your phone, please check and tell me the verification code, so we can confirm our identity.
+Speaker2: The verification code is 3692.
+Speaker1: Thank you for your cooperation. The verification code is correct. Your account has been confirmed safe. We recommend you install our bank's new version of security protection app to prevent such events from happening again.
+Speaker2: Okay, how do I download this app?
+Speaker1: It's simple, just click the link I sent you and you can directly download and install it.
+Speaker2: Okay, I'll try.

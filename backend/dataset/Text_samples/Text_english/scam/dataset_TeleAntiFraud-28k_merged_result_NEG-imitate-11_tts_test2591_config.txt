@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm small Li, your store operation consultant.
+Speaker2: Hello, little Li.
+Speaker1: I noticed your store management has been slack lately, what problems have you encountered?
+Speaker2: Ugh, lately home has been busy, no time for management.
+Speaker1: That's right, I have a suggestion for you. You can try our new feature, which can help you automate store management and save a lot of time.
+Speaker2: What's the new feature? How does it work?
+Speaker1: Our new intelligent management system is now available. Just download our app, register an account, and you can achieve automatic management, it's very convenient.
+Speaker2: Download the app? How do you download it?
+Speaker1: You can search 'smart store management' on your phone app store and download our official app. After registering, you can use it.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you encounter any issues while using it, feel free to contact me anytime. I wish your business thrives. Bye.
+Speaker2: Thank you, goodbye.

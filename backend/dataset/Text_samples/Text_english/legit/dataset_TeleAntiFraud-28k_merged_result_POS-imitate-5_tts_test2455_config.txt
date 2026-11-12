@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Lee Ming, want to know more about your home service?
+Speaker2: Hello, Li Ming, I am customer service representative Xiao Wang, very happy to serve you. What aspects of home service do you want to know about?
+Speaker1: Can you tell me more about your clock point service, specifically how do you charge?
+Speaker2: Our fee standard for clock point work service is 50 yuan per hour, and if the reserved time is longer than four hours, you can enjoy a certain discount.
+Speaker1: What discounts will there be if I make a reservation for three times on Tuesday?
+Speaker2: If you have three scheduled appointments in a week where each service time exceeds four hours, we can offer a discount of 45 yuan per hour.
+Speaker1: Listen well, then how do I make a reservation?
+Speaker2: You can make an appointment through our official website or mobile app, or directly call our service hotline, and a specific customer service person will help you arrange it.
+Speaker1: Okay, would you like to book a service starting next week? Is it possible to book now?
+Speaker2: Of course, we will arrange an appropriate service personnel for you as soon as possible based on your needs. If you have a specific time, please let me know, and I can record it for you.

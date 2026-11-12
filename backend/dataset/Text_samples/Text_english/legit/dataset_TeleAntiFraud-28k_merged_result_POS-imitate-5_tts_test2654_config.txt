@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me your delivery service hours? When do you start sending food?
+Speaker2: We started sending food at 11 am and continued until 9 pm.
+Speaker1: How long will it take for my order to be delivered?
+Speaker2: If you order food now, it will be delivered in about thirty minutes.
+Speaker1: Okay, I want to order a palace chicken and a spicy and sour soup, and a rice.
+Speaker2: Good, Kung Pao Chicken, Sour and Spicy Soup and a portion of rice, all for 35 yuan.
+Speaker1: Okay, I confirm, the address is Jingming Road 108, the phone number is 13800138008.
+Speaker2: Okay, the address is confirmed, we will quickly deliver the food to you.

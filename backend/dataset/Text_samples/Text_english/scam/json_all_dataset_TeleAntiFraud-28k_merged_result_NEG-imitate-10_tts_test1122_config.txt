@@ -1,0 +1,10 @@
+Speaker1: Hello, I am small Li, from the express delivery company, your package was returned because the address was not detailed, please confirm the address again.
+Speaker2: Oh, is that so? Then what should I do now?
+Speaker1: Just click this link and fill out your detailed address again.
+Speaker2: Is this safe, that link?
+Speaker1: Of course, we are a legitimate express company, and the link is official, so you can relax.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, after the operation is completed, we will reschedule delivery within 24 hours. If there are any issues, please contact our online customer service at any time.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, wish you happy life, bye.
+Speaker2: Goodbye.

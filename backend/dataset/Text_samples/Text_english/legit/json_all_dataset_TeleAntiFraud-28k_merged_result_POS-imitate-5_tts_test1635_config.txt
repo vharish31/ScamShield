@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, hi, I just checked, my train should arrive at 2:30 PM
+Speaker2: Okay, I roughly know, don't rush, I'm also on the road.
+Speaker1: Hey, where are you?
+Speaker2: I just left the company, it should take about half an hour to get there.
+Speaker1: Okay, I won't rush out now, you can call me when you arrive.
+Speaker2: Okay, no problem, just contact me when you arrive, don't worry.
+Speaker1: Thanks, be careful on the road
+Speaker2: Okay, you too, see you later.

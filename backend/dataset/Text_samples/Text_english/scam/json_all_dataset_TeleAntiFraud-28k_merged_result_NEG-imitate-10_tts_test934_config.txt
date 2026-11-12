@@ -1,0 +1,12 @@
+Speaker1: Hello, is this Zhang Wei's phone?
+Speaker2: Yes, who are you?
+Speaker1: Hi, Zhang Wei, I'm small Li, I'm from speedy finance, we recently launched a special discounted loan product, do you have any interest in learning more?
+Speaker2: Loan? I don't need it now, thank you.
+Speaker1: Hey, Zhang Wei, now that you understand it, there's no harm in knowing a little more, right? Our product is really suitable for you, you just need to provide some basic information, and we can customize a loan plan for you.
+Speaker2: What are the specific steps to operate?
+Speaker1: It's very simple. Just download our app, fill out some basic information, and we'll have a dedicated workperson contact you for a detailed consultation.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Of course, our app is very safe, and there's a new user welcome package for downloading now, are you interested in trying it out?
+Speaker2: Okay, let me try.
+Speaker1: Great, the name of this app is "Speedy Finance", you can search and download it in the app store, after downloading please input the invitation code: ABCD1234, you can enjoy extra discounts too.
+Speaker2: Okay, thank you.

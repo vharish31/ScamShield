@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of Hui Tong Bank, Li Manager.
+Speaker2: Hello, Li Manager.
+Speaker1: We noticed you recently registered our service, congratulations, you have been selected as our premium customer.
+Speaker2: Is it really? What are the benefits?
+Speaker1: Of course, we have a special activity that can provide you with a no-collateral loan of up to 50,000 yuan, with an extremely favorable interest rate.
+Speaker2: The sound is good, but I'm new to this, I don't know how to operate it specifically.
+Speaker1: It's simple. Just download our bank's official app, submit some basic info, and get approved to receive the loan immediately after review.
+Speaker2: What materials do I need to prepare before it sounds convenient?
+Speaker1: Please provide copies of your identity card, bank card, and business license. Once all the documents are complete, we will complete the review within two business days.
+Speaker2: Okay, now I'm going to download the app.
+Speaker1: Great! If you encounter any issues during the download process, feel free to contact me anytime. Best wishes!

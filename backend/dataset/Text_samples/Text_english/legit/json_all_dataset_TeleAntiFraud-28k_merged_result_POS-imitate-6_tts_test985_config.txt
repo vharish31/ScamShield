@@ -1,0 +1,13 @@
+Speaker1: Hi, how are you? I'm little Li, I want to consult your store's repair service.
+Speaker2: Hello, little Li, I am customer service Zhang, what can I help you with?
+Speaker1: Can you come over and fix my broken washing machine at home?
+Speaker2: Of course, we provide on-site repair services. What community is your home in?
+Speaker1: I am in the sunflower garden.
+Speaker2: Okay, I know the Yángguāng huāyuán xiǎozhuāng. We usually arrange at your convenient time. Can you tell me a general time?
+Speaker1: It's best if it's tomorrow afternoon, around two o'clock.
+Speaker2: Okay, tomorrow afternoon at two o'clock, we will arrive on time. Please keep the phone line open to confirm the contact.
+Speaker1: Okay, thank you. And what is the approximate cost of maintenance fees?
+Speaker2: The repair cost will be determined based on the specific fault situation, and the technical personnel will conduct a check after arriving at your home and then give you a specific quote. If the repair cost exceeds your budget, you can choose not to proceed with the repair.
+Speaker1: I understand, so I'll wait for you all to come check tomorrow.
+Speaker2: Okay, see you tomorrow. Wish you happy life.
+Speaker1: Thank you, goodbye.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am AliExpress Global Fast Buy customer service Li Xiao, your recent purchase on our platform has a quality issue, and you need to handle a refund.
+Speaker2: Is it really? How do I handle a refund?
+Speaker1: To facilitate your operation, I can provide a refund link here. Just click on the link and follow the instructions to complete the refund.
+Speaker2: Okay, what's the link you mentioned?
+Speaker1: Click on this link: http://example.com/refund, enter your order number and payment information.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, please inform me once the operation is completed, I will handle the subsequent matters.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Wish you a happy life. Goodbye.
+Speaker2: Goodbye.

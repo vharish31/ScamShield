@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little king, I saw your cake in the store looks pretty good, want to ask about the price and taste.
+Speaker2: Hello, Mr. Wang, I am Li, the waiter at the store, our cakes are very popular, there are many flavors, such as chocolate, strawberry, matcha, etc.
+Speaker1: How much does one of your chocolate cake cost?
+Speaker2: A chocolate cake costs 45 yuan, but if it's a birthday cake, the price will be a little higher.
+Speaker1: What are your business hours?
+Speaker2: We open at 8am every morning and close at 10pm every night. We also operate normally on weekends and holidays.
+Speaker1: Okay, can I order a chocolate cake for tomorrow afternoon at three o'clock?
+Speaker2: Is it okay, do you need to pay the deposit in advance?
+Speaker1: Do you need to pay a deposit?
+Speaker2: To ensure your cake is ready on time, we recommend paying a deposit of 50 yuan.
+Speaker1: Okay, let me pay the deposit tomorrow.
+Speaker2: Okay, see you tomorrow, wish you all the best.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Your takeout is here, where are you now?
+Speaker2: Hey, the access control is pretty strict at the company. Can you help me get down to the ground floor?
+Speaker1: Okay, but the security guard can only deliver food to the doorstep, not upstairs.
+Speaker2: You're bothering me, I'll just go get it.
+Speaker1: Okay, I'm waiting for you at the company gate, hurry up and come down.
+Speaker2: Okay, I'll be down in five minutes.
+Speaker1: Okay, hurry up, I'll wait for you.
+Speaker2: I know, thank you.
+Speaker1: No problem, wait for you to come down.
+Speaker2: Goodbye.

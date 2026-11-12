@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiao Zhang, I want to inquire about your haircut appointment service.
+Speaker2: Hello, little Zhang, I am customer service Li, what can I help you with?
+Speaker1: Can I make an appointment for 2 PM tomorrow at the hair salon?
+Speaker2: Sure, we have a spot at two in the afternoon tomorrow. Do you need any special services, like haircut or hair wash?
+Speaker1: I want a simple trim, no washing my head.
+Speaker2: Okay, I've simplified it. No need to wash your head, I've already noted it down for you. Can I leave your contact info down, please?
+Speaker1: Sure, my phone number is 1381234567.
+Speaker2: Okay, 138123345, already recorded. Tomorrow afternoon 2 pm, remember to be on time.
+Speaker1: Okay, thank you for your reminder, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you have a good day.

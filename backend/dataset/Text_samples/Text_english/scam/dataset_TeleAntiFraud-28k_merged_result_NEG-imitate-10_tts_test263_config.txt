@@ -1,0 +1,10 @@
+Speaker1: Hello, is this Zhang Wei?
+Speaker2: Yes, who are you?
+Speaker1: Hello, I am a customer service representative from JD Finance, we have a special loan discount promotion with a very low interest rate, are you interested in learning more?
+Speaker2: Can we trust your loan?
+Speaker1: Very reliable, we are a regular financial institution, this activity is to help more people solve their financial needs. Just download our app, fill out the relevant information, and you can quickly apply for a loan.
+Speaker2: Download the app, is your app safe?
+Speaker1: Of course, our app has passed strict review, so you can use it with peace of mind. And now there's an extra discount for applying.
+Speaker2: How do I download it?
+Speaker1: You can download it through this link or scan the QR code, it's very convenient. After downloading, follow the instructions to apply for a loan.
+Speaker2: Okay, I'll give it a try. Thanks.

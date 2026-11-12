@@ -1,0 +1,10 @@
+Speaker1: Hello, you there, this is Li, the customer manager at Huaxia Bank.
+Speaker2: Hello, what do you have?
+Speaker1: Is that so? We have a new loan product with a very low interest rate and fast approval. Would you be interested in learning more?
+Speaker2: Can you give me a loan? I have a little bit of cash need recently, can you tell me more about it?
+Speaker1: Of course. This product is specifically designed for small and medium-sized enterprises and individual entrepreneurs, with no collateral or guarantee, maximum loan amount of one hundred thousand yuan, interest rate as low as 0.4%.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: It's very simple. Just download our official app, fill out some basic information, upload your identity card, and you'll be approved and able to withdraw immediately after.
+Speaker2: Can you give me a link to download the app?
+Speaker1: Okay, just a moment, I'll send it over now. For your convenience, I've also prepared an operation guide, take a look and you should understand it well.
+Speaker2: Okay, I'm waiting for your link.

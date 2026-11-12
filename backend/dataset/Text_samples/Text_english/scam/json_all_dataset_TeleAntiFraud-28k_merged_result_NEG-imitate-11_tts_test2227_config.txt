@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of the global shopping mall, I am Lee Ming, you recently bought a product on our platform, but we found that there was a problem with your order, and we need you to cooperate to handle it.
+Speaker2: Really? I did buy some stuff recently, but I haven't heard the question you're asking.
+Speaker1: It's like that, your order may be due to a system error, we need you to provide some information to verify your identity, so we can handle this issue for you.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your name, phone number, and bank card number, so we can quickly solve this problem for you.
+Speaker2: Okay, okay, my name is Zhang Wei, my phone number is 13800138000.
+Speaker1: Okay, Mr. Zhang, thank you for your cooperation. We also need you to provide your bank account number so that we can directly refund the money to your account.
+Speaker2: My credit card number is 6222 0800 0000 0000.
+Speaker1: Thank you very much, we have already recorded your information, and a workperson will contact you shortly to handle the refund issue. Additionally, to speed up the processing, we suggest you click on the following link to verify your information, link is: [fake link].
+Speaker2: Okay, I'll click the link right away.

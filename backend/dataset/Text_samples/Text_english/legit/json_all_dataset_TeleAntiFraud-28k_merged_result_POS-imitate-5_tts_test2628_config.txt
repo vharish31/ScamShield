@@ -1,0 +1,10 @@
+Speaker1: Hey, do you have time tonight?
+Speaker2: What's up?
+Speaker1: Want to go to that new hotpot restaurant and try it out, you want to come along?
+Speaker2: Sounds good, what time are we going?
+Speaker1: 6:30, how are you?
+Speaker2: Okay, let's meet there.
+Speaker1: Do you know the address?
+Speaker2: Unclear, you send me address, I navigate over there.
+Speaker1: Okay, I send you WeChat.
+Speaker2: Okay, see you later!

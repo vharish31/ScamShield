@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I want to go to your bookstore this weekend and buy some books, can you tell me the specific location of your bookstore?
+Speaker2: Hello, Xiao Ming, our bookstore is located next to the cultural square in the city center, close to the subway station, and transportation is very convenient.
+Speaker1: What's the name of the subway station?
+Speaker2: You're at the cultural center station. After you get off, walk straight, cross the red light, turn right at the first corner, and our bookstore is the first one on the right.
+Speaker1: Okay, I know, so what are your bookstore's business hours?
+Speaker2: Our bookstore's business hours are from 9 am to 9 pm, and on weekends they are extended to 10 pm.
+Speaker1: That's great, I can go for a walk in the evening. By the way, do you have any new book recommendations?
+Speaker2: We recently released a batch of new books in the literature category, as well as some popular books in the technology and life categories. You can take a look.
+Speaker1: Sounds great, I'll definitely check it out. Thanks for your help, see you this weekend!
+Speaker2: No problem, see you this weekend, wish you happy shopping!

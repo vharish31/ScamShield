@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the security guard of the community, did you just call to order food?
+Speaker2: Yes, I just ordered food, but they said it couldn't be delivered to my apartment, what's going on?
+Speaker1: That's it, our community has a rule that no delivery can enter after 12 am, it's to reduce disturbance.
+Speaker2: What should I do now? I live in room 1906 and I'm lying in bed and can't get up to go downstairs.
+Speaker1: Okay, I can deliver your takeout to the security room downstairs, and you can pick it up whenever you're convenient.
+Speaker2: Okay, but I'm wearing pajamas right now, it's really inconvenient to go out, can you please deliver it to my room door?
+Speaker1: This is not allowed, we have a rule that you can't enter the resident rooms, but I will do my best to help you get to the security room on the ground floor, you can wear a coat and pick it up there.
+Speaker2: Okay, I'll hurry down as much as I can, thank you for your help.
+Speaker1: No problem, hurry down quickly, I will inform the delivery man to send the food to the security room.
+Speaker2: Okay, thank you, see you later.

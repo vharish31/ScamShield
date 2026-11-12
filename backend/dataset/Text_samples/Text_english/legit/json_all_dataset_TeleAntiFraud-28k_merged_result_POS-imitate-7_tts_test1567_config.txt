@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you help me consult your delivery service?
+Speaker2: Of course, what do you want to know?
+Speaker1: What dishes do you all have?
+Speaker2: We have various cuisines, including Sichuan, Cantonese, and home-style, do you have any special preferences?
+Speaker1: I like Sichuan cuisine, do you have any recommendations?
+Speaker2: We have spicy Sichuan hotpot, steamed pork slices, and Kung Pao chicken, all of which are very popular Sichuan cuisine. You can try them.
+Speaker1: How much does it cost to sound good?
+Speaker2: The prices are very reasonable. The three-yuan ma la xiang gong is thirty-five yuan, the four-yuan shuǐ chǎo ròu piàn is forty yuan, and the three-yuan gōng bǎo jī dīng is thirty yuan.
+Speaker1: Okay, I want to order a spicy Sichuan hotpot and a palace vegetable chicken dish.
+Speaker2: Okay, we'll deliver it to you within thirty minutes after you place your order.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, if you have other needs you can contact us anytime. Goodbye!

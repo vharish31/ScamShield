@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from a courier company. Your package has arrived. Please confirm your delivery address.
+Speaker2: Okay, my delivery address is No. 33, Century Park Road, Pudong New District, Shanghai.
+Speaker1: Okay, address confirmed. Do you choose pickup or do we arrange delivery to your door?
+Speaker2: Can you deliver the package to my door at 4 pm this afternoon if it's convenient?
+Speaker1: Okay, we will arrange to send you over at 4 pm this afternoon. Could you please provide your phone number so we can contact you?
+Speaker2: My phone number is 13800000000.
+Speaker1: Okay, we have recorded it down. The courier will contact you later, please keep your phone line open.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact us if you have any other questions. Have a happy life!
+Speaker2: Thank you, goodbye.

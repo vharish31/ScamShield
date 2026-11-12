@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Meituan's customer service, it seems you recently placed an order on our platform but encountered some issues. Can I help you with that?
+Speaker2: Hey, hello, yes, I really encountered a problem, my order has not been delivered yet.
+Speaker1: Okay, can you tell me your order number? So I can check the specific situation.
+Speaker2: Okay, my order number is 23450.
+Speaker1: Okay, I found out. Your order is delayed because the delivery driver encountered traffic congestion on the way, so it's a little late.
+Speaker2: What time will my order arrive now?
+Speaker1: Based on the current traffic situation, your order should arrive in approximately half an hour, can you see?
+Speaker2: Okay, just a moment.
+Speaker1: Thank you very much for your understanding. If you have any other questions, please feel free to contact us anytime.
+Speaker2: Okay, thank you for your help.

@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you? I am a waiter at the food square, are you looking to reserve a private room in our restaurant?
+Speaker2: Yes, I want to make a reservation for Saturday night, do you have a place?
+Speaker1: Yes, there are more people on Saturday night, do you need to reserve several places?
+Speaker2: We have six people, need a quiet place.
+Speaker1: Okay, we have a six-person private room, the environment is quite quiet, suitable for a banquet. Do you have any special preferences for the menu?
+Speaker2: Can you recommend anything from your signature dishes?
+Speaker1: Our menu has steamed sea bass, stir-fried frog and ginger-fried shrimp, all very popular. Do you need to prepare in advance?
+Speaker2: Okay, let's have these all come in one portion, and also let's have a few more vegetables.
+Speaker1: Okay, I will prepare for you. Right, do you need us to provide drinks and alcohol?
+Speaker2: We brought a few bottles of wine, can you help us prepare some fruit juice and mineral water?
+Speaker1: No problem, these will be ready for you. Moreover, on Saturday evening at six o'clock we will have a discount activity, and you can enjoy a nine-discount if you come half an hour in advance.
+Speaker2: Great, let's aim to arrive at six o'clock. Thank you for your arrangement.
+Speaker1: You're welcome! I'm looking forward to your arrival. If you need to contact me at any time, goodbye!

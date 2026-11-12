@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: That, I consulted with you guys last time, about the air conditioner repair
+Speaker2: Hi, are you the customer who consulted air conditioning repair last time? What can I help you with?
+Speaker1: Hi, can you confirm how much it would cost to repair my air conditioner if it's not working properly?
+Speaker2: This needs to be checked first by knocking on the door to see what the specific issue is. Generally speaking, if it's a small issue, like cleaning or chlorination, the cost is around 200 yuan. If it's a big issue, like needing to replace parts, the cost may be higher, around 500 to 1000 yuan.
+Speaker1: Oh, that's it. If you need to replace parts, can you provide maintenance service?
+Speaker2: Yes, we provide repair service after replacement parts, the repair period is usually six months to one year, specific to the replacement parts.
+Speaker1: Okay, can I schedule a house inspection time, approximately when can it be arranged?
+Speaker2: Can we schedule for tomorrow afternoon? Is that okay with you? If it's tomorrow morning, we might have to wait until the next day.
+Speaker1: Can I come at around 2 PM tomorrow?
+Speaker2: We will send a repairman to your home at 2 pm tomorrow afternoon. Please wait at home.
+Speaker1: Okay, thank you. What do I need to prepare in advance?
+Speaker2: You don't need to prepare anything, just keep the air conditioning power off and we'll handle the rest.
+Speaker1: Okay, I understand. Thank you for your help. See you tomorrow.
+Speaker2: No problem, see you tomorrow. Wish you a happy day.

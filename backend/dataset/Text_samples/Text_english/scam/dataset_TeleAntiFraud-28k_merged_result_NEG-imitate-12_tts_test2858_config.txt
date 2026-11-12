@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, what do you have in mind?
+Speaker1: Mr. Zhang, I am the client manager of Huaxia Trust, we recently launched a special discounted financial project with very high returns, better than the market, are you interested in learning more?
+Speaker2: Investment project? I recently want to invest some, can you tell me more?
+Speaker1: Okay, Mr. Zhang, this project is mainly operated through a specialized app, which is very convenient and quick. You can first download our official app, and I will give you a download link. You can download it at your convenience.
+Speaker2: Download the app? Is it safe?
+Speaker1: Absolutely safe, Mr. Zhang, we are a regular institution, this app is specifically developed for this project, after downloading, I will guide you on how to operate.
+Speaker2: Okay, give me the link.
+Speaker1: Okay, Mr. Zhang, please wait a moment, I will send it to you now. However, to ensure the safety of your account, you need to first provide a verification code, which will be sent to your phone, you just need to tell me, I will complete the verification.
+Speaker2: Okay, I'm waiting for the verification code.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Do you have any seats left at your restaurant?
+Speaker2: Yes, you?
+Speaker1: We four people want to reserve a private room.
+Speaker2: Okay, do we have a meeting room? What time period do you want?
+Speaker1: Can we meet at seven o'clock in the evening?
+Speaker2: Okay, 7:00, I will reserve for you.
+Speaker1: What is the recommended dish from the menu that we have reserved?
+Speaker2: We have several menu signs, such as red braised pork, steamed fish with ginger and scallions, and spicy stir-fried chicken, all of which are very popular.
+Speaker1: Let's first order these few, and then come for some green vegetables and soup.
+Speaker2: Okay, your reservation has been recorded. Seven o'clock, four people, several dishes of hot pot with green onions and soup.
+Speaker1: Okay, thank you, let's meet later.
+Speaker2: See you then, welcome to come.

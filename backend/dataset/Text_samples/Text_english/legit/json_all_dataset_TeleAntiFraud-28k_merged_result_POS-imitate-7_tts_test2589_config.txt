@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how was your day today?
+Speaker1: Hello, just a little busy. How about you?
+Speaker2: I just came back from the supermarket, bought some daily necessities.
+Speaker1: Is the stuff at the supermarket expensive or not? I plan to go shopping there tomorrow too.
+Speaker2: The price is okay, there are some promotional activities, quite cheap.
+Speaker1: Great, I'll go take a look too.
+Speaker2: Sure, let's give it a try. By the way, the weather has been changing quite a bit lately, so remember to bring an umbrella when you go out.
+Speaker1: Okay, thank you for reminding me. Do you have time tonight? Want to go have dinner together?
+Speaker2: Sure, do you have any recommendations for a place?

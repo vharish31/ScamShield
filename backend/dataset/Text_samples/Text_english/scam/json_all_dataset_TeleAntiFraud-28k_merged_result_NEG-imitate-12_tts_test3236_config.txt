@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm a customer service representative for Small Loans, we noticed you may have recently had a need for cash flow, would it be convenient for you to learn more about our low interest loan services?
+Speaker2: Hey, I'm a bit stressed out lately, what are your loan conditions?
+Speaker1: Our loan service is very simple and quick, just need to provide some basic personal information to get approval quickly. Moreover, we don't need any collateral, approval through, funds will be in 24 hours account.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: It's very simple. Just click this link, fill out personal information, and submit the application.
+Speaker2: Okay, I'll try it out. Is this link safe?
+Speaker1: Absolutely safe, we are a legitimate financial institution, ensuring your information is safe.
+Speaker2: Then I'll relax, I'll apply now. Thank you.
+Speaker1: No problem, if you have any questions, please contact me anytime. Best wishes for your application. Goodbye.
+Speaker2: Okay, bye.

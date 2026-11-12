@@ -1,0 +1,14 @@
+Speaker1: Hey, are you little Li?
+Speaker2: Hello, it's me, what do you have?
+Speaker1: I heard your bike rental service is doing well, I want to know more about it.
+Speaker2: Yes, we provide bike rental service, many types of bikes, how long do you want to rent?
+Speaker1: What's the price for renting for a week?
+Speaker2: A week's rental, 25 yuan per day, total 175 yuan.
+Speaker1: Do you need a deposit?
+Speaker2: The deposit is three hundred yuan, and the car will be returned based on its condition when you return it.
+Speaker1: Can I book now?
+Speaker2: Of course, when do you come to pick up the car?
+Speaker1: Can I meet you at 10 am tomorrow morning?
+Speaker2: Okay, I'll wait for you at this place at 10 am tomorrow.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: Hey, see you tomorrow, be careful on the road.

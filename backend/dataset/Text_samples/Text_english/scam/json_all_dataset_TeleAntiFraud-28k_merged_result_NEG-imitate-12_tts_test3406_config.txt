@@ -1,0 +1,13 @@
+Speaker2: Hello, who are you?
+Speaker1: Hello, nice to meet you, I am small Li, this side is Alipay customer service.
+Speaker2: Hey, how are you? What's up?
+Speaker1: That's it, we found an unusual transaction on your account, so you need to cooperate and handle it.
+Speaker2: Is it true or false? I haven't used Alipay recently.
+Speaker1: That's how it is, in order to avoid your account being frozen, we need you to provide some information and follow our instructions.
+Speaker2: What should I do now?
+Speaker1: First, click the link I sent you, log into your Alipay account, and then follow the instructions on the page.
+Speaker2: Okay, I'll try.
+Speaker1: Okay, you first open the link, I wait for your message.
+Speaker2: What should I do next after the link has been opened?
+Speaker1: Please enter your bank card number and verification code according to the page instructions, and we can solve the problem for you.
+Speaker2: Okay, I'll try.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Do you have any scheduled appointments for tomorrow?
+Speaker2: What service would you like to book?
+Speaker1: I want to make an appointment for a haircut, to get a short haircut.
+Speaker2: Okay, we have several experienced hair stylists here. Do you have a special preference?
+Speaker1: I don't have any specific preferences, just recommend something to me.
+Speaker2: Okay, I'll arrange a good technical hairdresser for you, 10 am tomorrow morning is convenient?
+Speaker1: Can we meet at 10 o'clock? Where is the address?
+Speaker2: Our address is Happiness Road 100, remember to come on time.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

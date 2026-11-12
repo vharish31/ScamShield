@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service representative of Huaxia Bank. We noticed that you recently have a financial need, and we would like to recommend a low-interest loan product to you, which can solve your urgent problem. Do you have time to take a look?
+Speaker2: Okay, you say, I have a little time now.
+Speaker1: Great, this loan product has no collateral, no guarantee, and the fastest disbursement is on the same day. You only need to provide some basic personal information to apply.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Just click on this link, fill out the application form, and our staff will review it immediately. If approved, a specialist will contact you to handle the next steps.
+Speaker2: Okay, I'll click on the link now.
+Speaker1: Great, the link has been sent to your phone. Please check it out. Also, for the sake of information security, we'll need you to provide a verification code during the review process. This code will be sent to your phone, so please make sure to check it.
+Speaker2: Okay, I understand.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact us at any time. We hope we can help you.
+Speaker2: Thank you, I will pay attention.

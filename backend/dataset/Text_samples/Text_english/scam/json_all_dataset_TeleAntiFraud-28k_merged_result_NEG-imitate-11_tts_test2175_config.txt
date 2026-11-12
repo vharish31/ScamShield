@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. The credit card you applied for in our bank has been approved. Now we need some information from you to complete the activation process.
+Speaker2: Uh, in this way, then what information do I need to provide?
+Speaker1: Please provide your ID number and the verification code you received, and we'll quickly activate your account.
+Speaker2: Okay, my ID number is... and my short message verification code is...
+Speaker1: Thank you for your cooperation. The verification was successful. For your account's safety, we recommend downloading our latest official app, which offers more services.
+Speaker2: How do I download your app?
+Speaker1: You can directly click on the link I sent you, follow the instructions to download it, very convenient.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Hello, if you have any questions, please feel free to contact our customer service at any time. Have a nice life, goodbye.
+Speaker2: Thank you, goodbye.

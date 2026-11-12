@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What can I help you with?
+Speaker1: Can you introduce me to the new earphones in your store?
+Speaker2: Of course, this headphone is the latest version of blue tooth 5.0, the sound quality is clear, the battery life is long, and it also has a main dynamic noise-cancelling function, which is very suitable for daily use.
+Speaker1: How much does it cost to sound good?
+Speaker2: This headphone costs 399 yuan, and there's a one-month free trial period when you buy it now. If you're not satisfied, you can return it without any reason.
+Speaker1: Hmm, would you consider providing a door-to-door delivery service?
+Speaker2: Yes, we provide express delivery services throughout China, usually within two to three days after ordering.
+Speaker1: Okay, I decided to buy it, can you help me place an order?
+Speaker2: Okay, I can help you place an order. Please provide a delivery address and contact phone number.
+Speaker1: Okay, the address is Tiananmen Square 1#, the contact phone is 13300000000.
+Speaker2: Okay, your order has been successfully created. We will arrange for shipping as soon as possible. Is there anything else you need help with?
+Speaker1: No more, thank you for your help, goodbye.
+Speaker2: You're welcome, I hope you enjoy it, goodbye.

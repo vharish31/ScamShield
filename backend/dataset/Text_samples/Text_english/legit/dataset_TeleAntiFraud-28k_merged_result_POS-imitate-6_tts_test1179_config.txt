@@ -1,0 +1,14 @@
+Speaker1: Hello, how can I help you with the food delivery here?
+Speaker2: Hey, hello, I want to order some takeout, can you deliver it over?
+Speaker1: Of course, which restaurant do you want to order takeout from?
+Speaker2: Do you know of a restaurant that serves old Beijing fried sauce noodles?
+Speaker1: Yes, the North Beijing stir-fry sauce noodles is one of our platform cooperative merchants. Do you need me to help you place an order?
+Speaker2: Okay, can you help me? I want a fried sauce noodle, a stir-fried dish with adjusted seasoning, and a bottle of ice red tea.
+Speaker1: Okay, I have recorded your order. Where is your delivery address?
+Speaker2: The address is Happiness Villa No. 3, Building 2, Unit 402.
+Speaker1: Okay, happy community three number building two single unit four zero two room. What is your contact phone number, so we can contact the delivery man.
+Speaker2: My phone number is 13800138000.
+Speaker1: Okay, your order has been successfully submitted. It's estimated to arrive in about 40 minutes. If there are any issues, our delivery person will contact you in advance.
+Speaker2: Okay, thank you. Then I'll wait for your call.
+Speaker1: You're welcome, hope you enjoy your meal. Bye.
+Speaker2: Goodbye.

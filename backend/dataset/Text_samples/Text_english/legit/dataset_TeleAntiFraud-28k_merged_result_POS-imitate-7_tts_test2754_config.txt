@@ -1,0 +1,10 @@
+Speaker1: Hello, are you consulting our takeout service at this store?
+Speaker2: Hey, how are you? I'm interested in learning more about your takeout service. Do you have any recommendations for dishes?
+Speaker1: We have several menu boards here, such as spicy hot pot, sour fish, and special small fry, all very popular.
+Speaker2: Oh, how do you make sour fish with spicy peppers?
+Speaker1: Sour fish is made with fresh grass carp and homemade vinegar marinade, with a sour, spicy, fresh aroma. However, the spiciness can be adjusted, and it's not spicy if you prefer.
+Speaker2: I want one non-spicy sour fish and one stir-fried four season beans.
+Speaker1: Okay, your order has been recorded. One non-spicy sour and spicy fish, and one dry-fried four seasons beans. Do you need anything else?
+Speaker2: No more, just these. Okay, I live in Happiness Small Community No. 2, Building No. 3, Unit 4, 001. How long will it take to send them?
+Speaker1: Happy community talk, about 30 minutes, if encounter traffic jam, may have slight delay.
+Speaker2: Okay, I'll wait for your call. Thank you!

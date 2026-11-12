@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Zhang from Huaxia Bank. We currently have a great loan project, no collateral, low interest rate, fast approval, are you interested in learning more?
+Speaker2: Loan, I don't need it now, not interested.
+Speaker1: Oh, that's great. Can you add a WeChat? So you can contact me later if you need, very convenient.
+Speaker2: Add WeChat and forget it, what's up, just call directly.
+Speaker1: Okay, okay. Here's a link for you, take a look and see if there's anything suitable for you on it. It's a detailed introduction to our loan project.
+Speaker2: Link? Okay, you say say see, roughly what conditions?
+Speaker1: Hmm, this loan project has an extremely low interest rate, only 0.3%, and the approval is very fast, the fastest is the same day, no need for any collateral.
+Speaker2: Sounds good, but I don't need it now. Leave your contact info, I'll get in touch when I need it.
+Speaker1: Okay, my phone number is 13500000000. Please feel free to contact me anytime. If you don't need to, I won't disturb you. Thank you.
+Speaker2: Goodbye.

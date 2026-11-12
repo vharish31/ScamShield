@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, recently I want to rent a house, I saw your house info on the net, want to consult with you.
+Speaker2: Hello, little Zhang, I am the landlord, what can I help you with?
+Speaker1: Hello, can you see my house? It's a two-room apartment, and the monthly rent is 8,000 yuan, right?
+Speaker2: Yes, two-room apartment, fully furnished, monthly rent of 8,000 yuan, deposit of one month, three months' advance.
+Speaker1: That's great, I recently moved my work location to Dongcheng District, is your house convenient for transportation?
+Speaker2: It's very convenient. The house is next to the subway station, about a five-minute walk, and there are many bus routes nearby.
+Speaker1: Great, I plan to check out the house this weekend, when do you have time?
+Speaker2: Weekend I have all time, you can choose a time slot, morning nine to twelve, afternoon two to five.
+Speaker1: Can I choose 10 am in the morning?
+Speaker2: Okay, ten o'clock meet, I will be at home waiting for you, remember to bring your ID.

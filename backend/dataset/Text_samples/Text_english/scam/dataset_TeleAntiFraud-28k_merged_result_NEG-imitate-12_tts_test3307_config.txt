@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Finance Safety Service Center, I am Li Manager.
+Speaker2: Hello, Li Manager, what can I help you with?
+Speaker1: We recently conducted a financial security investigation and found that your account may have a leak risk.
+Speaker2: Really? What should we do?
+Speaker1: To ensure your funds are safe, we need you to cooperate with us for a security verification.
+Speaker2: Okay, what should I do?
+Speaker1: You can click on the links we send to you and follow the instructions.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, feel free to contact me anytime during the operation if you have any questions.
+Speaker2: Thank you, I will pay attention.

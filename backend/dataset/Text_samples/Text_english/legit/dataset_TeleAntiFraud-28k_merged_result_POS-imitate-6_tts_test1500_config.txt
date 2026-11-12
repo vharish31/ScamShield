@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Ming, are you there?
+Speaker2: Hello, Xiaoming, I'm here, what's up?
+Speaker1: I just ordered a piece of clothing from your website, but it seems like I entered the wrong address.
+Speaker2: Can you give me the order number, I'll check it here.
+Speaker1: Okay, the order number is one two three four five six seven eight nine zero.
+Speaker2: Okay, I found it. Your order is today's, the address is wrong, right?
+Speaker1: I originally intended to send it to my home, but accidentally put the company's address instead.
+Speaker2: Understood, in this situation we can help you change your address. Please provide the correct address.
+Speaker1: Okay, the correct address is XX city XX district XX road XX number.
+Speaker2: Okay, I have already revised it for you. If there are any issues, we will contact you promptly.

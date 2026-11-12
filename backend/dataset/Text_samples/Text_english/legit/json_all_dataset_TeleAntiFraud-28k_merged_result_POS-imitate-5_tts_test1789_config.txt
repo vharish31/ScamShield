@@ -1,0 +1,9 @@
+Speaker2: Hey, is it you?
+Speaker1: Where are you?
+Speaker2: I'm at the train station, ready to go play with you guys.
+Speaker1: Okay, do you know how to come?
+Speaker2: I know some, but I'm not very clear, can you come to me?
+Speaker1: Okay, which exit do you want to meet at?
+Speaker2: I can see a clock place from the third exit.
+Speaker1: Okay, I'll be there in twenty minutes, you wait a moment.
+Speaker2: Okay, thank you, be careful on the road.

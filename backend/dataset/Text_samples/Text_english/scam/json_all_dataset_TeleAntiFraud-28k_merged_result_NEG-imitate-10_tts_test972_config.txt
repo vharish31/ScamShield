@@ -1,0 +1,10 @@
+Speaker1: Hello, I am Li Xiao from AYUN Technology, our company recently launched a new investment financial app designed for high-end customers, with an observable high return rate, would you like to know more?
+Speaker2: Invest in finance? I recently really want to know some information about this aspect.
+Speaker1: Great, this app is our company's star product, and many users have already gained significant profits through it. You can first download and try it out, and I have an invitation code here that can help you unlock the VIP membership and enjoy more services.
+Speaker2: Listen good, how download?
+Speaker1: It's very simple. Just scan the QR code I send you with your phone and you can directly download and install it. After installation, remember to input the invitation code. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, let me try.
+Speaker1: Great, I believe you will be satisfied. By the way, to ensure your funds are safe, I suggest you first top up 1,000 yuan for a trial, which will allow you to better experience our service.
+Speaker2: Recharge? I'm concerned about safety issues.
+Speaker1: Our company places great importance on user security, and all transactions are conducted through third-party payment platforms, ensuring absolute safety and reliability. You can try it first, and if you have any dissatisfaction, please contact us for refund at any time.
+Speaker2: Okay, let me try.

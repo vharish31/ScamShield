@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Alipay customer service center.
+Speaker2: Hello, who are you?
+Speaker1: I am small Li, customer service specialist. We noticed some unusual activity on your account recently, to ensure your financial safety, we need you to cooperate with us to complete a one-time identity verification.
+Speaker2: Really? Then what do I need to do?
+Speaker1: Just click on the link we sent you and fill out some basic info to confirm your identity.
+Speaker2: Okay, I'll check my email in a moment.
+Speaker1: Okay, we will send immediately. Additionally, as a token of appreciation for your cooperation, we have also prepared a small gift for you. Click on the link to redeem it.
+Speaker2: That's great, thank you.
+Speaker1: You're welcome, please feel free to contact us if you have any questions. Thank you for your cooperation, wish you a happy life!
+Speaker2: Okay, thank you. Bye.

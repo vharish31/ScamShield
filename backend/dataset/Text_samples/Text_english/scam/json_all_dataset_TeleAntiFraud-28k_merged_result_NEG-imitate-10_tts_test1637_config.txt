@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. Do you have any recent loan needs with us?
+Speaker2: No need, thank you.
+Speaker1: That's really too bad, but we recently introduced a loan product with very low interest rates and simple procedures, are you interested in learning more about it?
+Speaker2: Hey, I do have some cash flow needs, what's specifically your loan product?
+Speaker1: Great, just download our official app, fill out some basic info, and you'll quickly get approved, it's very convenient.
+Speaker2: Do you download the app? Is there any guarantee of safety?
+Speaker1: Of course, our app has undergone strict safety testing, so you can use it with peace of mind. However, to speed up the approval process, you can also submit some information through this link first.
+Speaker2: Okay, let me try. How do I get this link?
+Speaker1: Please wait for a moment, I will send you a message with a link and instructions on how to download the app, just follow the prompts.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Hi there, I'm your friend Ming, are you at home?
+Speaker2: Hey, little Ming, I'm at home. What's up?
+Speaker1: Do you have any free time on weekends? Want to go to the park together and play?
+Speaker2: Weekend, I check schedule, should be okay. Park side nice, scenery good.
+Speaker1: Sounds good, shall we meet at the park entrance at 10 am on Saturday?
+Speaker2: Okay, ten o'clock meeting. Let's go to that side of the lake and walk around, hear that a new coffee shop has opened over there.
+Speaker1: Sounds good, let's go try it out. See you on Saturday!
+Speaker2: Okay, see you on Saturday! Be careful on the road.

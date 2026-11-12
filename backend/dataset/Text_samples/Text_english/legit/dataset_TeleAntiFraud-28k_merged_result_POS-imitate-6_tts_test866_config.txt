@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to consult your repair service.
+Speaker2: Hello, I am a customer service representative. Is there anything I can help you with?
+Speaker1: Can you guys come over and check my fridge at home? It's not working.
+Speaker2: Sure, we provide on-site repair services. Can you please tell me the specific address and contact information?
+Speaker1: Okay, I live at 33 Happiness Road, my phone number is 133123456.
+Speaker2: Okay, Happiness Road No. 33, we recorded it. We estimate that the teacher can come to check the house around 10 am tomorrow morning.
+Speaker1: I was exactly at home at ten o'clock in the morning tomorrow.
+Speaker2: Okay, let's set a time. If there are any changes, we will contact you in advance.
+Speaker1: Okay, thank you.
+Speaker2: No problem, if you have any other questions, please contact us anytime. Wish you a happy life.

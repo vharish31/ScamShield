@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am Lee manager, this side is commercial bank customer service center.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed you've been doing business at our bank recently, and we wanted to know if you're satisfied with our services.
+Speaker2: Sure, there's nothing special about it.
+Speaker1: That's great! As a token of appreciation for your support, we have a special promotion. You can scan the code to download our latest app, which has more discounts waiting for you.
+Speaker2: Is it really? How do I get this QR code?
+Speaker1: It's very simple. Just open WeChat, add our customer service WeChat, and the customer service will send you a QR code.
+Speaker2: Okay, let me try.
+Speaker1: Great! After adding successfully, the customer service will immediately send you a 2D code. Moreover, we also have a limited-time promotion. As long as you complete registration and recharge one thousand yuan on the app, you can get a hundred yuan cash red packet.
+Speaker2: Listen well, I'll add it right away.

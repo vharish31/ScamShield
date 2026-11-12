@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Are you at home?
+Speaker2: Is there anything going on?
+Speaker1: Can you check if there are any problems with the drainage in your house?
+Speaker2: Canal? No problem, everything is normal.
+Speaker1: That's great, I've been looking for a place to rent recently, have you heard that there's a vacancy here?
+Speaker2: Yes, we have a one-bedroom apartment for rent here, the conditions are not bad.
+Speaker1: Can I see it?
+Speaker2: Of course, when do you have time?
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Tomorrow at three in the afternoon is fine, the address is Happiness Road 23rd number, remember to bring your ID when you come.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

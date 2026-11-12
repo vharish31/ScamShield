@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you? I'm little king, I saw your store has a smartwatch, can you introduce it to me?
+Speaker2: Hello, nice to meet you, Mr. Wang, I am customer service Li, this smartwatch supports heart rate monitoring, sleep analysis, and multiple exercise modes, very practical.
+Speaker1: How long does the battery last?
+Speaker2: This watch can be used continuously for about seven days after being fully charged. If you turn on the power-saving mode, you can use it for a longer time.
+Speaker1: Okay, what is its price?
+Speaker2: This smartwatch costs 2800 yuan, there's a discount activity now.
+Speaker1: "Wow, two thousand eight hundred yuan, I think it's a bit expensive, do you have any cheaper style options?"
+Speaker2: Yes, we also have some entry-level styles, priced around 1500 yuan, with quite a comprehensive range of functions. Would you like to take a look?
+Speaker1: Sure, what do you think of this watch's appearance?
+Speaker2: This watch has a simple and spacious appearance, with black and silver color options, and is very suitable for daily wear.
+Speaker1: Is this watch currently in stock?
+Speaker2: Yes, we currently have in stock. If you place an order now, we can arrange delivery tomorrow.
+Speaker1: That's great, I'll order this one, thank you for your detailed introduction.
+Speaker2: You're welcome! If you have any other questions, feel free to contact me anytime. Have a great shopping! Bye!

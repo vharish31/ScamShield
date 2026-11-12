@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to know more about the signature dishes of your restaurant.
+Speaker2: Hello, welcome to call for consultation. Our restaurant has many special dishes, such as our signature roast duck, steamed fish with clear broth and our homemade beef.
+Speaker1: The food sounds great, especially the steamed sea bass, can you tell me how much this dish costs?
+Speaker2: The price of steamed sea bass is 120 yuan per portion, which is very popular.
+Speaker1: What are your business hours?
+Speaker2: Our restaurant business hours are from 11 am to 10 pm every day, and on weekends they are extended to 11 pm.
+Speaker1: How many days in advance do I need to book a window seat?
+Speaker2: To ensure you have a satisfying dining experience, we recommend booking a window seat at least one day in advance.
+Speaker1: Understood, can I reserve a four-person spot for tomorrow night at seven o'clock?
+Speaker2: Of course, I have already reserved a four-person table for you at seven o'clock tomorrow night, by the window. Please remember to bring the reservation information to the restaurant. We look forward to your arrival!

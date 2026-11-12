@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I recently want to buy a new computer, can you recommend some brands for me?
+Speaker2: Hello, of course. What are you mainly using it for? Is it for work or gaming?
+Speaker1: The main purpose is for work, occasionally play games.
+Speaker2: Okay, let me recommend a few laptops that have good performance and are balanced in price. The first one is Lenovo's ThinkPad X1 Carbon series, which has a great value for money, and the second one is Dell's Inspiron series, which is great for work.
+Speaker1: What are the approximate prices of these two computers?
+Speaker2: The prices of the Dell Inspiron series are slightly higher, around six to eight thousand. The prices of the Lenovo ThinkPad X1 Carbon series are roughly between four to six thousand.
+Speaker1: Can these two computers meet my requirements for processing images and videos on my computer?
+Speaker2: Both of these computers come equipped with good graphics cards, so they should be able to handle basic image processing and video editing without any issues. If you have higher requirements, you may want to consider configuring a higher version.
+Speaker1: Okay, thank you for your recommendation. I will consider it.
+Speaker2: No problem, if you have any more questions, feel free to contact me anytime. I hope you can find a satisfactory computer.

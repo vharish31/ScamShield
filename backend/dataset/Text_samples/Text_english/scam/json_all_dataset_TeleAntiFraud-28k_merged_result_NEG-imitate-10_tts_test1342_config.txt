@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service center, I am customer service manager Li, do you have any recent needs for financial products?
+Speaker2: Hello, I don't have any needs, thank you.
+Speaker1: That's really a pity, we have a high-yield product with a return rate of up to 15%, and it's also guaranteed to be capital-preserved and interest-bearing. Would you consider it?
+Speaker2: 15%? It sounds tempting, but how do you operate it?
+Speaker1: It's very simple. Just click this link to download our wealth management app, register and you can buy after that.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Absolutely safe, we are a regular bank. You can trust us. After successful registration, you will have a one-on-one guide from a customer service specialist.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the link on my phone. Just click it and follow the instructions.
+Speaker2: Okay, thank you.

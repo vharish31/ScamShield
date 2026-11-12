@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hi, I'm little Li, I contacted you before, do you think your house is still visible today?
+Speaker2: Okay, what time is convenient for you today?
+Speaker1: Can I come at 10 am?
+Speaker2: I can leave at ten, but I have to go out and do errands in the morning, so I might not be back until eleven and a half.
+Speaker1: Can you go between 11:30 and 12:00?
+Speaker2: Okay, let's meet at 11:30.
+Speaker1: Okay, I'll arrive at eleven and a half. Is there still a down payment on the house?
+Speaker2: There's about two thousand yuan left.
+Speaker1: Okay, I can handle the tail end. Let's meet tomorrow.
+Speaker2: Okay, see you tomorrow.

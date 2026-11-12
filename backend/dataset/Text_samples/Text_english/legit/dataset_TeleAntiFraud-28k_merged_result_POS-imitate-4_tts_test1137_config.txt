@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to inquire about your hairdressing appointment service.
+Speaker2: Hello, I am a customer service representative. Can I help you schedule an appointment? What time slot do you want to schedule?
+Speaker1: Can I make a reservation for this Saturday afternoon at 3 PM?
+Speaker2: Okay, Saturday afternoon at three o'clock, we still have some space.
+Speaker1: Great, what information do I need to provide?
+Speaker2: Please provide a phone number, so we can confirm the appointment and reminder service.
+Speaker1: Okay, my phone number is 13800138000.
+Speaker2: Received, your appointment has been successfully confirmed. Saturday afternoon at three o'clock, please arrive fifteen minutes in advance.
+Speaker1: Okay, thank you for your help. And, I want to know how much does haircut service cost?
+Speaker2: The cost of hairdressing services is 60 yuan. If you need additional styling services, the cost will be different.
+Speaker1: Understood, thank you. See you on Saturday.
+Speaker2: See you on Saturday, wish you a happy day.

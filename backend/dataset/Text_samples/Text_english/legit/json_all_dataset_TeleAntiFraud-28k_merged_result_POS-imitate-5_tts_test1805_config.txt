@@ -1,0 +1,8 @@
+Speaker1: Hey, where are you?
+Speaker2: I'm already at the subway station, but I haven't seen you.
+Speaker1: Just out of the subway station, on the east side, can you see me?
+Speaker2: I see your location, but it seems like you are on the road, which exit of this subway station are you at?
+Speaker1: Yes, it's the east exit of this subway station. If you walk east a little, you should be able to see me.
+Speaker2: Okay, I see it, are you wearing black clothes?
+Speaker1: Okay, I'm wearing black clothes, hurry up and come over.
+Speaker2: Let's go now, wait for me a moment.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how come my milk tea hasn't arrived yet?
+Speaker2: Hello, can you please provide the order number?
+Speaker1: Okay, the order number is one two three four five six seven eight nine zero.
+Speaker2: Thank you for your patience. Your order has been delivered to the courier. It might be a little late due to traffic on the road.
+Speaker1: What time will we arrive approximately?
+Speaker2: Based on the current situation, it's approximately fifteen minutes left.
+Speaker1: Okay, I'll wait a moment, thank you.
+Speaker2: You're welcome. If you have any other questions, feel free to contact us anytime. Have a nice day.
+Speaker1: Okay, thank you, bye.
+Speaker2: Goodbye.

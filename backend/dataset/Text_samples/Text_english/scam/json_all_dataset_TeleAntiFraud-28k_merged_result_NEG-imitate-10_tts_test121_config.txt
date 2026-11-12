@@ -1,0 +1,10 @@
+Speaker1: Hello, I am Liu, the customer manager of Commercial Bank, do you have any recent capital needs?
+Speaker2: Hello, currently no need, thank you.
+Speaker1: Okay, I have a no-collateral loan project with low interest and quick repayment. You can consider it.
+Speaker2: Oh, this sounds good, can you give a detailed introduction?
+Speaker1: Of course, you just need to download our app, register an account, fill out some basic information, and we can quickly approve.
+Speaker2: Is the app safe to download?
+Speaker1: Our app is officially certified and very safe, you can use it with peace of mind. There's currently a new user discount, the first 100 users can enjoy a lower rate.
+Speaker2: Okay, let me try.
+Speaker1: Great! Just scan this QR code to download the app directly.
+Speaker2: Okay, I'll download it right away.

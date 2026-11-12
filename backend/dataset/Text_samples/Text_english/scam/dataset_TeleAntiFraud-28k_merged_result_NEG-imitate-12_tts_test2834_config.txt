@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Little King from Quick Bank, we have a great new financial product that we recommend for you, are you interested in learning more?
+Speaker2: Hello, I recently have some spare money, want to invest and take a look, how are your products?
+Speaker1: Hello, this product we guarantee the return rate is far above the market average, and the risk is extremely low. To help you understand the details, you can click on the link I sent you, which will introduce the advantages of the product in detail.
+Speaker2: Okay, I'll take a look.
+Speaker1: Alright, in order to ensure safety, I need you to provide your bank card number, so we can directly set up a personal finance account for you.
+Speaker2: Okay, then I'll tell you my card number.
+Speaker1: Great, you're really quick. Just one more step, to verify your identity, can you tell me the last three digits of your card and its expiration date?
+Speaker2: Okay, the last three digits of the card are 123, and the expiration date is next month.
+Speaker1: All set. Everything is ready. Click on the link and follow the instructions to start experiencing our financial products. If you have any questions, feel free to contact me.
+Speaker2: Okay, thank you for your help. I'll go operate now.

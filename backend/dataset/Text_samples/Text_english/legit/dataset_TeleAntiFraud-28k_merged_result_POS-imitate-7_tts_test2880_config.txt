@@ -1,0 +1,10 @@
+Speaker2: Hello, are you the delivery boy?
+Speaker1: Yes, your dinner has been delivered to the door of your community.
+Speaker2: Okay, I'll go down and get it right away.
+Speaker1: Okay, I'm waiting for you here. I'm standing at the left side of the door.
+Speaker2: I see you, wait a moment.
+Speaker1: Okay, no rush.
+Speaker2: Is this my meal?
+Speaker1: Okay, confirm the order information, and sign it off if it's correct.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, I hope you enjoy your meal.

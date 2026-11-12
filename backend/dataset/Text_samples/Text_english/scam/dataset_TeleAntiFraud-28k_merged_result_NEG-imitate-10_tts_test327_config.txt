@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Who are you?
+Speaker1: I am a customer manager at China Construction Bank, Small Wang, we have a loan product that is very suitable for you, do you know if you are interested in learning more?
+Speaker2: Loan? I don't need it now.
+Speaker1: This is how it is, our this time's activity is very discounted, the threshold is low, the interest is also low, and the repayment speed is fast, you only need to provide some basic information, we can for you pre-approve.
+Speaker2: How do I operate it?
+Speaker1: Just click on the link I sent to you, fill in the relevant information, and our staff will quickly get in touch with you.
+Speaker2: Can you send the link?
+Speaker1: Yes, please wait a moment, I will send it to you soon.
+Speaker2: Okay, I'll be right back.

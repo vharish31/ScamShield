@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Can you see the Walmart on this side?
+Speaker1: Can you tell me where you are?
+Speaker2: Are you at the parking lot outside the supermarket?
+Speaker1: I can see my location at the Guangliang supermarket, but it seems there's no parking lot here.
+Speaker2: Walk a little further, the parking lot is behind the supermarket, there are a few cars parked on the side.
+Speaker1: Okay, let me take a look again.
+Speaker2: Okay, walk forward and look for the small road that turns off behind the supermarket, the parking lot is there.
+Speaker1: Found it, I see the parking lot, are you at the entrance waiting for me?
+Speaker2: Okay, I'm waiting for you at the entrance. See you later.

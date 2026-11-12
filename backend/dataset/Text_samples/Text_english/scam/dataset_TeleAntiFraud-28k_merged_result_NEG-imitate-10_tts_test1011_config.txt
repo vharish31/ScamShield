@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am a customer service representative at the Agricultural and Commercial Bank's Yunnan branch. We have a special loan project with a low interest rate that may interest you. Would you like to know more about it?
+Speaker2: Hello, I am Zhang Wei, I recently need cash flow, what are the details of your loan projects?
+Speaker1: Hello, our loan project is very flexible, no collateral is required, approval speed is fast, and you can get the loan on the same day. To apply for a loan, you need to first download our app, register and submit some personal information.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Absolutely safe, Zhang Wei, our app is officially certified, you can download it from the app store by searching 'farmer's bank loan'. After downloading, select the 'quick loan' service, fill in the relevant information to apply.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you encounter any issues or have any questions during the download process, feel free to contact me anytime. My phone number is 0871-1234567.
+Speaker2: Okay, thank you, I will process it quickly.
+Speaker1: You're welcome. I wish you all the best. If you need help, please feel free to consult anytime.

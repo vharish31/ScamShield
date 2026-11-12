@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I want to inquire about your restaurant's reservation service.
+Speaker2: Hello, I am a waiter at the restaurant. What can I help you with?
+Speaker1: Can you tell me if your restaurant has any available seats at noon tomorrow?
+Speaker2: Okay, I'll check. Wait a minute, do you have any other positions at noon on the 12th?
+Speaker1: Two people.
+Speaker2: Okay, there are two available seats for two people, do you need me to book them for you?
+Speaker1: Could you please make a reservation for me?
+Speaker2: Okay, can you leave your contact information? If there are any changes, we can notify you promptly.
+Speaker1: Okay, my phone number is 1381380138.
+Speaker2: Okay, I have recorded it. The reservation for two people at noon tomorrow was successful. See you then.
+Speaker1: Okay, thank you, see you later.

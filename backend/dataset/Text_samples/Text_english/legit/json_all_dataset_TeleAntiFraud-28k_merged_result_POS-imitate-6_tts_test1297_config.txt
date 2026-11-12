@@ -1,0 +1,10 @@
+Speaker1: Hello, delivery.
+Speaker2: Hey, hello, I live in building three, could you please deliver to the back door of building three?
+Speaker1: What should I do after the back door of the third floor?
+Speaker2: From the big gate of the community, walk straight to the bottom, then turn left, you will see a row of buildings, the third building is on the right.
+Speaker1: Okay, I noted it down. So how much time can I send it to?
+Speaker2: Please hurry up, I have a meeting later.
+Speaker1: I understand, I will send it quickly, please leave your phone number, I will call you when it arrives.
+Speaker2: Okay, my phone number is 1381380138.
+Speaker1: Okay, 138013800, noted, you wait me a minute.
+Speaker2: Okay, thank you, be careful on the road.

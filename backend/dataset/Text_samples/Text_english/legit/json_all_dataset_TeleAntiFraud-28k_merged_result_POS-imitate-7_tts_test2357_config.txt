@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your restaurant has a vegetarian set meal?
+Speaker2: Hello, we have a vegetarian set meal here, which one would you like to know more about?
+Speaker1: Do you have any recommendations for vegetables?
+Speaker2: Our recommended vegetable dishes include stir-fried four season beans, steamed southern vegetables and mushroom soup, all of which are popular among customers.
+Speaker1: How much does the set meal with vegetables cost?
+Speaker2: The price of the vegetable set meal is 50 yuan per person, including one soup and one dish. If you need to add more dishes, each additional dish is 10 yuan.
+Speaker1: Understood, so what time do you think would be better to go over?
+Speaker2: Our restaurant business hours are from 11 am to 9 pm. We recommend you make a reservation half an hour in advance so we can prepare for you.
+Speaker1: Okay, can I make a reservation for 1:30 PM?
+Speaker2: Okay, I have reserved a 1:30 PM spot for you, see you then.

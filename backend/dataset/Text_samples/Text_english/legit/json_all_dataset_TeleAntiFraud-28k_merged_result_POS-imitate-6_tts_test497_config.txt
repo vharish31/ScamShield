@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little Zhang, just missed a call, sorry.
+Speaker2: No problem, hello, little Zhang.
+Speaker1: My friend recommended me to come to your house to take a look at the decoration, is it good?
+Speaker2: Yes, we have different decor styles of houses here. What specific style do you want to see?
+Speaker1: I want a house that's around 3,000 RMB, preferably already decorated and ready to move into.
+Speaker2: Okay, I understand. Around three thousand, nicely decorated, a few apartments match your requirements, but one has just been rented out.
+Speaker1: Is there any other choice?
+Speaker2: There's another one, a little more expensive, 3200 yuan, the decoration is very good, and it's brand new.
+Speaker1: Can you introduce me to the detailed information of this house, such as its location and size?
+Speaker2: Okay, this apartment is located in the city garden small community, one room one apartment, approximately 60 square meters, good geographical location, convenient transportation.
+Speaker1: Can I go take a look? It sounds good.
+Speaker2: Of course, when do you have time? I can arrange a time to take you to see the house.

@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the manager of the customer service department at Tiancheng Bank, Zhang Manager. We have a very affordable loan service here. Would you like to know more about it?
+Speaker2: Loan? I don't need a loan right now.
+Speaker1: That's really a pity, this loan service is specifically designed for high-quality customers, with high credit limits and low interest rates, it's very suitable for your needs.
+Speaker2: Sounds good, but I don't need it now.
+Speaker1: If your mind changes, feel free to contact us anytime. By the way, we recently have a promotion, just download our app to get a free credit evaluation.
+Speaker2: Do you want to download the app? Is this app safe?
+Speaker1: Of course, our app is officially certified and very safe. After downloading, you can also enjoy more financial services and discounts.
+Speaker2: Okay, let me try.
+Speaker1: Great! Just click on this link to download our app directly. Link: [not provided here]
+Speaker2: Okay, thank you.

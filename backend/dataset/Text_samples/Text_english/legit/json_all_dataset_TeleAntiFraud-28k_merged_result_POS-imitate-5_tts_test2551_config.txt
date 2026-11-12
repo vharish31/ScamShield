@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, have you arrived?
+Speaker1: Hey, the delivery is here, you can take it now, it's a bit dark here, not easy to find, just at your location.
+Speaker2: Where are you going?
+Speaker1: You are at door eight of building number eight.
+Speaker2: Okay, I'll be right down, just wait for me a minute.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Can you see me?
+Speaker1: Can you see? Are you the one wearing black clothes?
+Speaker2: Yes, it's me.

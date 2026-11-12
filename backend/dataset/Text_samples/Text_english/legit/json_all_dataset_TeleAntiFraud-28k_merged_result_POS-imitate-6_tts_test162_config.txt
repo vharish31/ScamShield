@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any new sports shoes here?
+Speaker2: Yes, we recently bought a new batch of sports shoes, with many colors and styles, do you have any special requirements?
+Speaker1: I want a pair of running shoes that are lightweight and have shock absorption.
+Speaker2: Do you have any requirements for the shoe size?
+Speaker1: I usually wear size 42.
+Speaker2: Okay, we have new stock in size 42 here, you can try it on and see if it fits.
+Speaker1: Where is your store's address?
+Speaker2: Our store is located at No. 108 in the commercial street of the city center, you can take the metro line 2 to the Guangming Road station, and walk for five minutes after getting off to reach us.

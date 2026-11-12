@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am the Meituan Waimai customer service, want to know how your recent use of our service is going?
+Speaker2: Still can, quite convenient.
+Speaker1: Is that okay? Do you have any suggestions or feedback for our service?
+Speaker2: Sometimes delivery time is a bit long, especially after ten o'clock at night.
+Speaker1: We have indeed received some feedback, we will feedback to the relevant department for optimization.
+Speaker2: Okay, I hope we can improve.
+Speaker1: Do you have any other questions? Are there any promotional activities you're interested in?
+Speaker2: Can you tell me about the activities, I'll take a look.
+Speaker1: Okay, we have a new activity for first-time users who spend over 50 and get 20 off. You can check it out.
+Speaker2: Okay, thank you for your recommendation.
+Speaker1: You're welcome. If you have any questions or need help, feel free to contact me anytime. Have a nice life, bye.
+Speaker2: Goodbye.

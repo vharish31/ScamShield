@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is Happy Food and Drink, what do you need to consult?
+Speaker2: Hello, I took a look at your menu, could you tell me what your signature dish is?
+Speaker1: We have several menu signs here, such as red braised pork, steamed fish with ginger and scallions, and stir-fried tofu, all of which are very popular.
+Speaker2: How do you make your red meat?
+Speaker1: We use five-spice pork, first boil water to make it fragrant, then slowly stew it with our secret sauce, the meat is soft and tender, the taste is amazing.
+Speaker2: Sounds good. What are your business hours?
+Speaker1: We open the door at 10 am every morning and close at 10 pm every night. You are welcome to visit during our business hours at any time.
+Speaker2: Okay, I want to reserve a two-person seat, around 7 pm tonight.
+Speaker1: Okay, I have reserved a table for two for you tonight at seven o'clock. Please be on time.
+Speaker2: Thank you, see you later.

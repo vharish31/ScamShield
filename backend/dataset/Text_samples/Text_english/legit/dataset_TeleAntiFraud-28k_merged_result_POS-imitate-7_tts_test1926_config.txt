@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am Li, the waiter at Qingyun Restaurant. I saw that you left a package at our restaurant after dining yesterday, and you haven't come to claim it yet. Do you need us to keep it or deliver it directly to you?
+Speaker2: Oh, really? I really lost a bag, there are some important things inside. Can you help me keep it for a while?
+Speaker1: We usually keep your bag for a week, but since you have important items in it, we can specially keep it for a longer time. If you're convenient, you can also tell us your address, and we can send your bag to you via express.
+Speaker2: That's great, I've been pretty busy lately, I might not have time to go. Can you help me send it over?
+Speaker1: Of course, can you provide a delivery address and contact information?
+Speaker2: Okay, my address is Shanghai City Pudong New District XX Road XX Number, phone is 13812345678.
+Speaker1: Okay, I will record it down, we will arrange for express delivery as soon as possible. We estimate it will arrive within two days, please check upon receipt.
+Speaker2: Okay, thank you so much for your help! I'm really grateful!

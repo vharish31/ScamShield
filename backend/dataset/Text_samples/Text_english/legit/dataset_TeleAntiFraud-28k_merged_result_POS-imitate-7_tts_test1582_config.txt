@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I ordered an outside delivery at your store, can you help me confirm it?
+Speaker2: Hello, what dish did you order? Do I need to check the order?
+Speaker1: I ordered a signboard fried rice and also ordered a few small dishes. The order number is one two three four five six seven.
+Speaker2: Okay, I'll check. Wait a minute, I'll take a look at your order here.
+Speaker1: Okay, I've been waiting for more than ten minutes. What's up with the delivery guy?
+Speaker2: Your takeout is ready, the delivery guy is on his way, it will take about ten minutes to arrive.
+Speaker1: Okay, thank you. Got it, I just moved, this address is new, can you confirm it for me?
+Speaker2: No problem, you recite the address, I check it.
+Speaker1: Address is happiness road one hundred eighty eight number, sunshine flower garden three number floor two single two room.
+Speaker2: Okay, the address is confirmed correct, the delivery boy will arrive on time. If there are any issues, we will contact you promptly.

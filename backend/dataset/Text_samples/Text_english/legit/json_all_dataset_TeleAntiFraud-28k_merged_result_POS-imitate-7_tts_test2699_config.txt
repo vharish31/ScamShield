@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I saw you posted a job recruitment notice for car repairers on WeChat.
+Speaker2: Yes, we are recruiting car workers
+Speaker1: I want to know more about the specific job duties and salary package.
+Speaker2: The main responsibility is to maintain the Fengtian series of vehicles, including line inspection and basic maintenance, the salary is the base plus commission, the base is three thousand, and the commission is based on the number and quality of repairs.
+Speaker1: What kind of qualification certificates do I need?
+Speaker2: It's best to have relevant technical certification, but we also have training. If you have some car repair experience, you can also participate.
+Speaker1: I used to work on domestic cars, I don't know if I can adapt.
+Speaker2: Sure, we have a lot of Ford cars here, so it should be fine for a while. When do you have time to come for an interview?
+Speaker1: Can we meet at two in the afternoon tomorrow?
+Speaker2: Sure, tomorrow at 2 pm, remember to bring your identity card and related documents. The address is XX road XX number. Once you arrive, just find me.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow

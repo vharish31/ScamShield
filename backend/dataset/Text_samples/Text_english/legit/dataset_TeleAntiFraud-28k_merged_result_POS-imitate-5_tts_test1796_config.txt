@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I want to make an appointment for tomorrow's haircut service, do you know what time you open?
+Speaker2: Hello, what time slot would you like to reserve for our store, which opens at nine in the morning?
+Speaker1: Can I make a reservation for 10 o'clock?
+Speaker2: Can I come at 10 o'clock? What kind of hairstyle do you need? Let me know in advance so we can prepare.
+Speaker1: I want to cut a short hair, clean and refreshing, suitable for summer.
+Speaker2: Okay, we have recorded your requirements. Professional hairdressers will serve you later.
+Speaker1: Is there shampoo and conditioner available there?
+Speaker2: Yes, we provide various high-quality shampoos and conditioners here for you to choose from based on your needs.
+Speaker1: That's great, thank you for your help.
+Speaker2: No problem, if you have any other needs, feel free to contact us anytime. See you tomorrow!

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your restaurant has private rooms?
+Speaker2: Hello, yes, we have different sizes of rooms, how many people are you?
+Speaker1: We are about twelve people, we want to have a dinner gathering this weekend.
+Speaker2: Okay, for twelve people, our large meeting room can meet the requirements. What time would you like to reserve?
+Speaker1: Is five in the afternoon a good time? Do you know if this time has any space?
+Speaker2: 5 o'clock is still available, I can book for you. Could you provide your name and contact information please?
+Speaker1: My name is Zhang Ming, phone number is 13800000000.
+Speaker2: Okay, Mr. Zhang Ming, I have recorded your information. The big banquet room is reserved for you at 5 pm. Please come to the restaurant directly at that time. If there are any changes, please contact me in advance.
+Speaker1: Okay, thank you. Do you have any recommendations for dishes?
+Speaker2: Our restaurant's signboard menu has red braised pork, steamed sea bass with ginger and scallions, and stir-fried mushrooms with garlic, all of which are quite popular, you can try them.

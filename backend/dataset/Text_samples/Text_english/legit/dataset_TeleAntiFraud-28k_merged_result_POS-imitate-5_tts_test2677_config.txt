@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? Do you have any good hair salon recommendations here?
+Speaker2: Hello, do you have a minute? We have a few good hair salons here, do you want a men's or women's style?
+Speaker1: The lady's best is an environmentally friendly one.
+Speaker2: Okay, I recommend you go to "Mei Li Shi Guang," this store has a nice environment and the service is very convenient.
+Speaker1: How far are you from here?
+Speaker2: Where are you? I can help you check the distance.
+Speaker1: I am near Tiananmen Square.
+Speaker2: From Tiananmen Square to 'Meilishi' takes about 15 minutes by car or metro.
+Speaker1: How can I take the subway conveniently?
+Speaker2: You can take the subway line 1 to Wangfuqiang station and get off, then walk about 500 meters to reach there.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, feel free to contact me if you have any other questions, wish you all the best.

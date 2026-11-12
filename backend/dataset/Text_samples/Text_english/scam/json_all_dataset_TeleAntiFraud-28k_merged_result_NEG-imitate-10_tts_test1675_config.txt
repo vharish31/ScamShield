@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hello, I am a customer service representative at the Agricultural Bank of China, Tianhe Branch. We recently launched a high-yield investment and wealth management product. Are you interested in learning more?
+Speaker2: Invest in wealth management? It sounds good, can you tell me more details?
+Speaker1: Of course, our product's annual return rate can reach 10%, and the risk is very low. To give you a more detailed understanding, you can add my WeChat, and I will send you detailed introduction materials.
+Speaker2: WeChat? This way isn't good, I don't like adding strangers on WeChat.
+Speaker1: Understand your concerns, but this way is more convenient for communication. If you're not comfortable adding WeChat, we can communicate in detail through phone, or you can click this link to directly view the product introduction.
+Speaker2: Link? Okay, I'll try.
+Speaker1: Okay, the link has been sent to your phone. Please check it out. Remember to open it in a browser, not the one on your phone.
+Speaker2: I got the text message, so I opened it up to take a look.

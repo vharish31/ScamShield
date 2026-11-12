@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm Liu, the customer service from the delivery platform. Your points on our platform are about to expire. If you don't exchange them before 12 am tonight, they will be cleared.
+Speaker2: Really? How come I don't know?
+Speaker1: Yes, we have already sent you a reminder SMS. These points can be exchanged for many discount coupons, such as discount coupons, shipping fee coupons, etc.
+Speaker2: Oh, like that. Then how do I check my points?
+Speaker1: You can see your score details by clicking on the 'My' button in the bottom right corner of our App and then selecting 'Score Center'.
+Speaker2: Okay, let me try.
+Speaker1: You have 5,000 points now, you can exchange a 50-yuan discount coupon or choose other discounts.
+Speaker2: How do I exchange it?
+Speaker1: Please select the coupon you want to exchange in the points center, click 'immediately exchange', and then follow the instructions.
+Speaker2: Okay, thank you for your reminder.

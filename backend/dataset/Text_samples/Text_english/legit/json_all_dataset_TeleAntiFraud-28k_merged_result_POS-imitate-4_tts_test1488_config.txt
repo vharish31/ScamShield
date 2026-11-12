@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the food square, did you book a dinner with us before?
+Speaker2: Okay, I reserved a seat for seven o'clock tonight.
+Speaker1: Okay, we have reserved a seat for you. Do you have any special requirements for the seat, such as sitting by the window or in a quiet corner?
+Speaker2: It's best if we're quiet a bit, we're here to celebrate a birthday.
+Speaker1: Understood, we will arrange a quiet corner for you. Additionally, we have a birthday special menu, are you interested?
+Speaker2: Are there any special discounts?
+Speaker1: Yes, the special birthday set meal not only includes selected delicious food, but also gifts a free glass of red wine and a small birthday cake.
+Speaker2: Let's try this special dish that sounds good.
+Speaker1: Great, please inform the front desk in advance when you arrive, we will prepare for you. Is there anything else you need help with?
+Speaker2: Thank you for your service.

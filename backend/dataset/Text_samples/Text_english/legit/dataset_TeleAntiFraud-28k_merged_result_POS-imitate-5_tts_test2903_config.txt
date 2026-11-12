@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I just saw your store's promotional information, and I want to know more about the details.
+Speaker2: Hello, Xiao Ming, I am customer service representative Zhang, very happy to serve you. Which product are you interested in?
+Speaker1: Can you tell me about your new smartwatch? How long does its battery last?
+Speaker2: This smartwatch's battery life is approximately seven days, under normal use, it can be used for about a week after fully charged.
+Speaker1: What motion modes does this watch support?
+Speaker2: This watch supports multiple exercise modes, including running, cycling, swimming, and yoga, and is very suitable for daily exercise.
+Speaker1: How much does that watch cost?
+Speaker2: The promotional price for this smartwatch is 999 yuan, and you can now enjoy a free one-year maintenance service when you buy it.
+Speaker1: Can I enjoy this discount now when I place an order?
+Speaker2: Of course, you can place an order now to enjoy this discount. If you have any other questions, feel free to contact me anytime.

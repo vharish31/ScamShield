@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm little Zhang, I want to consult your home repair service.
+Speaker2: Hello, little Zhang, I am customer service Li, very happy to serve you. What maintenance service do you need to know?
+Speaker1: My fridge has been making strange noises lately. Can you tell me about the repair process and approximate cost?
+Speaker2: Understood, the strange noise coming from the refrigerator may be an issue with the compressor. We can first send a professional repairman to check it out and give you a detailed maintenance plan and cost estimate after the initial diagnosis.
+Speaker1: Okay, what about what time can we schedule an in-home checkup?
+Speaker2: When do you have a convenient time?
+Speaker1: Is it okay on Sunday afternoon?
+Speaker2: I can arrange it on Sunday afternoon. The repairman will arrive at your home at 3 pm on Sunday. Please keep the phone line open.
+Speaker1: Okay, thank you for your help, see you Sunday afternoon.
+Speaker2: No problem, if you have other questions, please contact us anytime. Have a nice day.

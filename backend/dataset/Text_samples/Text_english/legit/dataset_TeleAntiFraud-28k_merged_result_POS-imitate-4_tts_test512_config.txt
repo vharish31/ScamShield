@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you? This is Green Leaf Home Service Company, I am customer service representative Li Xiao, you recently consulted cleaning service on our website, do you have any specific requirements?
+Speaker2: Hello, I see that you provide deep and clear services, I want to know more about the specific content of this service.
+Speaker1: Okay, our deep cleaning service includes kitchen oil smoke cleaner, bathroom disinfection, window cleaning, and more, especially suitable for families who have not been cleaned for a long time.
+Speaker2: How is the service time arranged?
+Speaker1: We provide flexible service time, you can choose morning or afternoon, usually service time is three hours, if your home is big, we can extend service time.
+Speaker2: How do you calculate the price?
+Speaker1: Our fee standard is one hundred yuan per hour, with a three-hour minimum order, and overtime is calculated at fifty yuan per half-hour.
+Speaker2: When can I make a reservation?
+Speaker1: Please let me know your desired service date directly, and I will arrange it for you.
+Speaker2: What are you doing on Saturday morning next week?
+Speaker1: I will schedule a meeting for you on Saturday morning. The staff will contact you beforehand to confirm the specific location and time.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy life, goodbye.

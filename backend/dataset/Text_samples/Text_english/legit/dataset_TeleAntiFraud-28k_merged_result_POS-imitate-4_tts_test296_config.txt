@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is a beautiful restaurant. You have a reservation for a table of four tonight at seven o'clock. Do you need to confirm if you still need to reserve?
+Speaker2: Yeah, we're still going tonight.
+Speaker1: Okay, would you like our private room or an open table?
+Speaker2: We want a quiet environment, so let's choose a private room.
+Speaker1: Okay, we have reserved a private room for you. Do you need to arrive early? We provide free parking service.
+Speaker2: We should arrive around six thirty, parking service will be used up, thank you.
+Speaker1: No problem, our waiter will welcome you at the door at the designated time. Do you need any further assistance?
+Speaker2: I don't have it now, if you have it, I will contact you again.
+Speaker1: Okay, please pay attention to safety on your way, we welcome you here.
+Speaker2: Okay, thank you, bye.

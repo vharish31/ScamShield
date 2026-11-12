@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the loan service department of China Construction Bank, I am Li Manager.
+Speaker2: Hello, Li Manager, what do you have?
+Speaker1: This is the case, our bank now has a special loan promotion for high-quality customers, no collateral required, quick loan, interest rate is particularly low.
+Speaker2: Oh, this sounds good, but I've been rejected for loans before.
+Speaker1: No problem, this activity is very relaxed, just provide some basic personal information, and we can pre-approve you.
+Speaker2: How do I apply?
+Speaker1: Scan this QR code to download our official loan app, fill out some basic info and you're good to go.
+Speaker2: QR code? How do I get it?
+Speaker1: Okay, to make it easier for you to operate, I can add your WeChat, then I'll send you the QR code, you can scan it to download directly.
+Speaker2: Okay, let me add you on WeChat.

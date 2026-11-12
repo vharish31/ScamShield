@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm a customer service representative from Huaxing Liqi. We noticed you've been recently interested in investing in finance. Would you like to know more about our high-yield investment products?
+Speaker2: I'm not really interested, thank you.
+Speaker1: Understood, our product is designed by a professional team with low risk and high return, and there's currently a newbie discount promotion.
+Speaker2: I'm not really into it, thanks for your good intentions.
+Speaker1: That's really too bad. But if you change your mind, you can add my WeChat, you can consult anytime.
+Speaker2: I don't add WeChat, thank you.
+Speaker1: That way, I'll send you a link, you can check out our product introduction on your own, and if you're interested, feel free to contact me anytime.
+Speaker2: I don't click on unfamiliar links, thank you.
+Speaker1: Okay, if you have any investment-related questions in the future, feel free to contact me anytime. Have a happy life, bye.
+Speaker2: Goodbye.

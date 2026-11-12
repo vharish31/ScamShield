@@ -1,0 +1,10 @@
+Speaker1: Hey, are the flowers I ordered at your store delivered yet?
+Speaker2: Hello, how are you? Your order has been processed, we estimate it will be delivered this afternoon.
+Speaker1: Okay, when you deliver it, please sign for me, I'm not at home today.
+Speaker2: Okay, you can relax, we will let the delivery man help you sign for it.
+Speaker1: That's great, really bothersome for you guys.
+Speaker2: No problem, it's our duty to serve you. Is there anything else you need help with?
+Speaker1: Thank you for your service.
+Speaker2: Okay, wish you a happy day. Please contact us if you have any other needs.
+Speaker1: Okay, thank you, bye.
+Speaker2: Goodbye, goodbye.

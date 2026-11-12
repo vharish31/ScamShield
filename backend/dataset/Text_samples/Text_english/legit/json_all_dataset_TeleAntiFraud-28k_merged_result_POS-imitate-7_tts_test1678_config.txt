@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I ordered food at your store, why hasn't it been delivered yet?
+Speaker2: Hello, Xiaoming, I am the customer service of the delivery platform, can you tell me your order number?
+Speaker1: Okay, my order number is one two three four five six seven.
+Speaker2: Okay, I'll check and let you know. Hey, your order is being delivered, it's estimated to arrive in about twenty minutes.
+Speaker1: Twenty minutes? That will be a bit late, I have a meeting here starting right away.
+Speaker2: I'm very sorry for the inconvenience I've caused you. Your location is quite far away, and it's rush hour now, so the traffic is congested.
+Speaker1: What can we do to send it quickly?
+Speaker2: I will immediately contact the delivery person to see if they can speed up the delivery. At the same time, we will also apply for a small gift as compensation for you, hoping you will be satisfied.
+Speaker1: Okay, thank you for your help, I'll wait a moment.
+Speaker2: Okay, we will process it quickly. If there are any changes, I will notify you immediately. Thank you for your understanding and support.

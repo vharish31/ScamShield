@@ -1,0 +1,10 @@
+Speaker1: Hello, you, I am the manager of Agricultural and Commercial Bank, call you.
+Speaker2: Hello, Zhang Manager.
+Speaker1: We noticed your company has recently been expanding business, you might need some financial support.
+Speaker2: Yes, we really need some money.
+Speaker1: We have a loan product specifically designed for small micro enterprises, no collateral, quick loan, you can consider it.
+Speaker2: The sound is good, but I need to know more information.
+Speaker1: Okay, to better understand detailed information, you can scan our sent QR code to download our app, which contains a lot of detailed loan information and application process.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the QR code right away. By the way, if you have any questions, you can directly contact me on WeChat. My WeChat number is abclight123.
+Speaker2: Okay, thank you, Zhang Jingni.

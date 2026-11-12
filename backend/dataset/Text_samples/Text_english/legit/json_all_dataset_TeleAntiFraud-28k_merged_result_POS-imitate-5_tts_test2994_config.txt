@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Just arrived home, you too?
+Speaker1: I'm at the supermarket, ready to buy some stuff, do you want me to bring you some of anything?
+Speaker2: Sure, can you bring me some paper towels and some fruits?
+Speaker1: Okay, what kind of fruit do you want?
+Speaker2: Apple and banana, both come a little.
+Speaker1: Okay, I understand. Is there anything else needed?
+Speaker2: No longer available, thank you.
+Speaker1: No problem, I'll take you back in a while.
+Speaker2: Okay, can you wait a minute?

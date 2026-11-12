@@ -1,0 +1,12 @@
+Speaker1: Hey, how have you been lately?
+Speaker2: Hello, I'm good, you?
+Speaker1: I'm doing well too, I've been busy lately, how's your work going?
+Speaker2: We can still do it, but the project schedule is a bit tight, but we are still within the control range.
+Speaker1: Okay, have you heard that the weather will change next week? How is the weather on your side?
+Speaker2: It's pretty good here, just the morning and evening temperature differences are big, remember to wear some clothes when you go out.
+Speaker1: Hey, thanks for the reminder. I plan to go to a place tomorrow, can you help me with the route?
+Speaker2: Of course, where do you plan to go?
+Speaker1: How do I walk to the library in the south of the city from my home?
+Speaker2: You can take the subway to the city center first, then transfer to the bus, which is faster.
+Speaker1: Okay, thank you, do you have time to come to my house and play?
+Speaker2: Okay, I'll definitely go when I have time.

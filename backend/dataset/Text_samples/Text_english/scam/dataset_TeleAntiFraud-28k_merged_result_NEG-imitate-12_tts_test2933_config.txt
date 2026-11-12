@@ -1,0 +1,10 @@
+Speaker1: Hi, you're good, I'm Lee manager, this is Huayang bank, your previous loan application has been approved, you can pay now.
+Speaker2: Li jīnglǐ, shì de ma? Tiāo hǎo le, wǒ zhèng xūyào zhè bǐ qiān.
+Speaker1: Yes, but in order to ensure the safety of your account, you need to pay a deposit first, and then we will transfer the full amount of the loan to your account.
+Speaker2: Deposit? How much money?
+Speaker1: Just need two thousand yuan, that's the industry standard, I guarantee this is the last step, then you can get the full amount of the loan.
+Speaker2: How do I pay?
+Speaker1: You need to complete payment through our official app, I can give you a download link, very safe.
+Speaker2: Okay, I'll wait for the link.
+Speaker1: Please wait, I will send it to you now, please download and complete the payment as soon as you receive it, so your loan can be successfully credited to your account.
+Speaker2: I understand, thank you, Li manager.

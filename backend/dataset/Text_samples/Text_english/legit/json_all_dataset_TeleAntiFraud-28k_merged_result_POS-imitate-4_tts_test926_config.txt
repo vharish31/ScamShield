@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Do you have any parking spots here?
+Speaker2: Hello, there is a parking lot here, but it may be tight on weekends.
+Speaker1: Should there be a parking spot around 3:30 PM this afternoon?
+Speaker2: It should be fine, there should still be parking spots during this time period.
+Speaker1: Okay, where should I stop when I arrive to compare?
+Speaker2: You can stay in the area near the entrance, it's more convenient there.
+Speaker1: Okay, thank you. Do I need to reserve a parking spot in advance?
+Speaker2: No need, just come directly and stop. If there's a special situation, we'll notify you.
+Speaker1: Okay, I'll just come directly when the time comes. Thank you for your help!
+Speaker2: No problem, feel free to contact me anytime if you have any questions. Best wishes on your journey!

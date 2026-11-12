@@ -1,0 +1,9 @@
+Speaker2: Hey, how are you?
+Speaker1: Did you go to work?
+Speaker2: Just finished work, where are you?
+Speaker1: I'm waiting for you at the company gate, hurry up and come over.
+Speaker2: Okay, I'll be there soon. Have you seen the bus station yet? I'll wait for you at the bus station.
+Speaker1: I see, I'll just go over there.
+Speaker2: Are you driving? What is your license plate number?
+Speaker1: The license plate is Jing A 88888888.
+Speaker2: Okay, I see your car, wait a minute.

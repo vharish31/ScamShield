@@ -1,0 +1,8 @@
+Speaker1: Hey, are you here yet? I'm at New Century Square.
+Speaker2: Hi, I just got off the subway station, I'm walking towards the square, it'll probably take me five minutes.
+Speaker1: Okay, I'm waiting for you here. Remember to bring an umbrella, the weather forecast says there's a chance of rain today.
+Speaker2: Oh no, almost forgot, thanks for reminding, I'm going back now to get it.
+Speaker1: No problem, hurry up, I'm waiting for you here.
+Speaker2: Okay, come back soon, see you later.
+Speaker1: See you soon, be careful on the road.
+Speaker2: You know, you are too.

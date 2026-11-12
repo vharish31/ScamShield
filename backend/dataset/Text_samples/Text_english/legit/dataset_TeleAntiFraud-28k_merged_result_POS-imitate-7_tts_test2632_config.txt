@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to inquire about your restaurant reservation service.
+Speaker2: Hello, I'm very happy to serve you. What can I help you with?
+Speaker1: I want to reserve a place for about four people tomorrow night at seven o'clock.
+Speaker2: Okay, tomorrow evening at seven o'clock, four people's seats. Do you have any special seating requirements, such as by the window or in a private room?
+Speaker1: If there's a window edge spot, otherwise a closet is fine.
+Speaker2: Okay, I'll do my best to arrange the window side for you. Can you please confirm your name and contact information to confirm the reservation?
+Speaker1: My name is Zhang Wei, phone number is 15188888888.
+Speaker2: Okay, Mr. Zhang Wei, I have recorded it down. Tomorrow evening at seven, four people, window side position, we will prepare it for you.
+Speaker1: Okay, thank you. By the way, do you have any special dish recommendations?
+Speaker2: Our restaurant special dishes include gong bao chicken, qing zheng yu, and xiāng huā xī lán huā, all very popular. You can try them.
+Speaker1: That sounds great, I'll consider it. Thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to contact us anytime. Have a nice day, goodbye.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hello, I am Xiao Zhang from Guangdaisheng Bank, responsible for loan business. We recently launched a no collateral small loan with quick disbursement and low interest rate. Do you have any recent need for cash flow?
+Speaker2: How do I apply for a loan from your company recently?
+Speaker1: Great, the operation is very simple. Just download our official app, fill out some basic information, and get approved to quickly receive a loan.
+Speaker2: How do I download this app?
+Speaker1: You can download it by scanning the QR code I gave you, it's safe and there's no risk.
+Speaker2: How do I get this QR code?
+Speaker1: I'll send you a link via text message right away, you can see the QR code after clicking on it. Could you please provide your phone number so I can send you a text message?
+Speaker2: My phone number is 13800138000.
+Speaker1: Okay, you will receive a text message on your phone soon. Once you get it, please download the app and complete the loan application as soon as possible. If you have any questions, feel free to contact me anytime. Have a happy life, goodbye!

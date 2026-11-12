@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Zhang, I'm the customer service representative for XX express, we found that one of your packages was lost during transportation, to compensate you, we need you to cooperate with us to go through a return and refund process, is that okay with you?
+Speaker2: Oh, really? Then what do we do now?
+Speaker1: Is it like that? In order to ensure your rights, we need you to first download our official refund app, so you can quickly handle your refund application. Do you have a phone on you?
+Speaker2: How do I download it?
+Speaker1: Okay, open your phone's app store, search for the official XX express app, download and install it, and I'll send you a verification code. Enter the verification code to complete the refund.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Okay, download and install it first, then I'll send you the verification code, make sure to check it.
+Speaker2: Okay, I'm waiting for your verification code.
+Speaker1: Okay, just a moment, I'll send it right away.
+Speaker2: Okay, I'm waiting.

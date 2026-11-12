@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer manager of Agricultural and Commercial Bank, Lee Huai.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed that your company may recently need some cash flow, we have a special loan product designed for businesses, with low interest rates, and fast approval.
+Speaker2: Oh, really? I really need some money.
+Speaker1: That's great! To better understand detailed information, you can click on the link we provided you, which contains a detailed introduction to our loan products.
+Speaker2: Okay, I'll take a look.
+Speaker1: Additionally, to speed up the approval process, please download our official app and fill out some basic information.
+Speaker2: Download the app? Is it safe?
+Speaker1: Extremely safe, we are a regular bank, absolutely no problems. Moreover, through the APP application, you can enjoy additional interest rate discounts.
+Speaker2: Okay, let me try.

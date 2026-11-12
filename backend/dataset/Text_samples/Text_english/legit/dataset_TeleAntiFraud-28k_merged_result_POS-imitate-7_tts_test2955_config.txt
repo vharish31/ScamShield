@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you there?
+Speaker1: What do you have in mind?
+Speaker2: Can you tell me if there is any delivery service here?
+Speaker1: Yes, our takeout service here is from 8 am to 10 pm. What do you want to order?
+Speaker2: I want to order a beef stir-fry and a sweet and sour pork ribs, do you have any drinks here?
+Speaker1: Yes, we have Coca-Cola, Sprite, and orange juice here. Which one do you want?
+Speaker2: Can you bring me an orange juice, please?
+Speaker1: Okay, one portion of beef stir-fry, one portion of sweet and sour pork ribs and one bottle of orange juice, the total is 50 yuan, when do you want to send it to?
+Speaker2: Can I send it over in about an hour?
+Speaker1: Okay, I will arrange for the deliveryman to arrive on time. Is there anything else you need me to help with?
+Speaker2: No more, thank you.
+Speaker1: You're welcome, we're looking forward to your arrival, wish you a happy meal. Goodbye.

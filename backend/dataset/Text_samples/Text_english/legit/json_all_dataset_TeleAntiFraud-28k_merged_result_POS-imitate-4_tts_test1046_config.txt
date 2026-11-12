@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Do you have any new restaurant server positions available on this side?
+Speaker2: Yes, we are currently hiring servers.
+Speaker1: What is the work schedule like?
+Speaker2: This side is two classes reversed, morning class from early morning nine o'clock to afternoon five o'clock, evening class from afternoon five o'clock to evening twelve o'clock.
+Speaker1: So, how about the salary and benefits?
+Speaker2: The base salary is three thousand yuan per month, plus commission and full attendance bonus, if you do well, you can have four thousand to five thousand yuan per month.
+Speaker1: Can I still hear it? Then what materials do I need to prepare?
+Speaker2: Bring your ID and health certificate when you go for an interview.
+Speaker1: Okay, thank you for your answer. I will go to the interview quickly.
+Speaker2: No problem, I'm looking forward to your arrival, wish you a successful interview.

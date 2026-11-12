@@ -1,0 +1,10 @@
+Speaker1: Hey, did you arrive at the company yet?
+Speaker2: Just got off the subway station, walking to the company.
+Speaker1: Okay, let's hurry up, we have a meeting at nine.
+Speaker2: I know, I'll try my best to hurry. There are many cars on the road, so it might take a few more minutes.
+Speaker1: No worries, just pay attention to safety on the road.
+Speaker2: Okay, thank you. Right, did you send me the meeting materials via email?
+Speaker1: Please check it over.
+Speaker2: Received it, thank you.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

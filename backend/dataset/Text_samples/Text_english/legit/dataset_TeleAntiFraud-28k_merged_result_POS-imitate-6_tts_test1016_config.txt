@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? This is Xiaoming's delivery, your food is ready, we estimate it will take fifteen minutes to deliver, is that okay?
+Speaker2: Sure, fifteen minutes is fine.
+Speaker1: Okay, what's your address at Happiness Villa, Building 3, Unit 2, 402?
+Speaker2: Yes, that's right.
+Speaker1: Okay, see you in fifteen minutes, call me if there's anything.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, hope you enjoy your meal, bye.
+Speaker2: Goodbye.

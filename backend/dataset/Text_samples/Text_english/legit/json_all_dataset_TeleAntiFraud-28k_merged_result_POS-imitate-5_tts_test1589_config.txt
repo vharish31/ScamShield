@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can you tell me more about your yoga courses? Are you still offering them?
+Speaker2: Hello, our yoga courses are always open here, which time segment are you interested in?
+Speaker1: Can you tell me about the evening's course schedule? How long is it?
+Speaker2: The yoga classes start at 7 pm every Wednesday, Friday, and Sunday and last until 8:30 pm.
+Speaker1: What is the fee situation like?
+Speaker2: Our yoga classes are monthly paid, 400 yuan per month, unlimited attendance.
+Speaker1: The sound is good, I plan to try it first and see if it fits.
+Speaker2: Okay, the trial class is free, you can choose to try it on Thursday this week, please make a reservation in advance.
+Speaker1: Okay, I'll schedule my classes for this week on Wednesday, see you then.
+Speaker2: Okay, see you later. If you have any questions, feel free to contact me anytime. Have a great day.

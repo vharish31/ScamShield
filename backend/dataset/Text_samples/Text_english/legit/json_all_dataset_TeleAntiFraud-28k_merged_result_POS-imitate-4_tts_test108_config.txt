@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me talk?
+Speaker2: Hello, can you hear me? What's up?
+Speaker1: I am the customer service at the food square, can you confirm your dinner reservation time?
+Speaker2: Okay, I made a reservation for tonight at seven o'clock, right?
+Speaker1: Yes, you reserved a 7 o'clock spot, how many people?
+Speaker2: Four people.
+Speaker1: Okay, we have reserved a spot for you. Do you have any other special requests?
+Speaker2: It's best to have a quiet corner, kids are too noisy.
+Speaker1: Understood, we will arrange a relatively quiet area. Additionally, do we need to prepare baby chairs and children's utensils?
+Speaker2: Thank you for reminding me.

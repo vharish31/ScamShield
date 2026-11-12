@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me more about the household services on your side, specifically what projects do you have?
+Speaker2: We offer daily cleaning, laundry, and cooking services, as well as professional maid services, to suit your needs.
+Speaker1: What is your service time like?
+Speaker2: Our service time is very flexible, you can book by the hour or choose long-term service, specifically you can arrange according to your needs.
+Speaker1: I plan to book a long-term cleaning service, about once a week, is that okay with you guys?
+Speaker2: Of course, we are very happy to provide such a service for you. What is your specific address?
+Speaker1: I am in Happiness Village, specifically at Happiness Village Building 3, Unit 202.
+Speaker2: Okay, I understand. So, what day of the week would be most suitable for us to provide service?
+Speaker1: It's best if it's on Saturday at 10 am.
+Speaker2: Okay, we have recorded the time and location for the weekly cleaning service. It's every Saturday morning from 10am to 10am at Happy Community Building Three, Unit 2, Second Floor. If there are any changes, we will notify you in advance.

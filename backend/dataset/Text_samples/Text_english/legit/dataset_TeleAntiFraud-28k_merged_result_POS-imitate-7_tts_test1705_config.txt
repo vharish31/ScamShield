@@ -1,0 +1,14 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me?
+Speaker1: Hey, that's right, I'm a waiter from the Flower Flower Restaurant, you reserved a seat for tonight at seven o'clock, right?
+Speaker2: Yes, it's my appointment.
+Speaker1: Okay, can you confirm that you have reserved a four-person place, right?
+Speaker2: Yes, it's four people.
+Speaker1: Okay, do you have any specific dishes you want?
+Speaker2: Do you have any recommendations?
+Speaker1: Our recent signature dishes include steamed dumplings with pork and chives, and spicy stir-fried lamb's head, both of which have received high praise from customers. You may want to consider them.
+Speaker2: Okay, let's order these two dishes and also your signature dish.
+Speaker1: Okay, our flower flower beef is very popular. I'll remember that for you, just prepare it for you later.
+Speaker2: Okay, thank you. Just one more thing, we might be late by about 7:30 or so.
+Speaker1: No problem, please take your time, we will save your spot. See you later.
+Speaker2: Okay, see you later, thank you.

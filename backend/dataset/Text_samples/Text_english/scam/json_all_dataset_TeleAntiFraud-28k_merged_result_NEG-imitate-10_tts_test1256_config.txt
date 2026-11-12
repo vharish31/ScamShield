@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager at Shanghai Bank. Do you have any recent capital rotation needs?
+Speaker2: Hello, I don't have any cash flow needs, thank you.
+Speaker1: That's right, we recently launched a very affordable loan product with a low interest rate and simple procedures, would you consider it?
+Speaker2: Hmm, this sounds good, but I'm still not sure.
+Speaker1: I understand your concerns, our bank's reputation is very good, you can rest assured. If you're interested, you can first download our app, register and then check out the detailed information.
+Speaker2: Download the app? How do you download it?
+Speaker1: It's simple. Just click on the link I send you, download our app, register and you'll see detailed product information.
+Speaker2: Okay, let me try.
+Speaker1: Okay, your phone number is 13812345678? I'll send you a link right away.
+Speaker2: Okay, thank you.

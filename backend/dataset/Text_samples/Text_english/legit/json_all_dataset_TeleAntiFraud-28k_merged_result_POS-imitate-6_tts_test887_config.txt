@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Xiaoming, can you tell me the service hours of your store?
+Speaker2: Hello, Xiaoming, what can I help you with during our store's service hours from 9am to 9pm?
+Speaker1: Hey, I see you guys offer door installation service, can you tell me more about the specific process?
+Speaker2: Of course, before installing our service at your door, we need to schedule a suitable time, and our staff will arrive at the scheduled time to install it. Please prepare the installation location and related tools beforehand.
+Speaker1: How do I make a reservation?
+Speaker2: You can directly book through our official website or phone, or book through my WeChat public account, very convenient.
+Speaker1: What should I do if there are issues during the installation process?
+Speaker2: All of our employees undergo specialized training, and we take great care to avoid any issues during the installation process. If any problems arise, we will immediately solve them for you, so you have nothing to worry about.
+Speaker1: Now I can relax, thank you for your answer.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Wishing you a happy day.

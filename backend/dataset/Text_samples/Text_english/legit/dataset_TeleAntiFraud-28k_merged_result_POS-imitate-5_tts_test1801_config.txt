@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang
+Speaker2: Hello, little Zhang, I am customer service Li, what can I help you with?
+Speaker1: Can you tell me about your store's return and exchange policy?
+Speaker2: Our store's return policy is that within seven days of purchase, the product must be unopened and not affect resale, and it can be processed for a refund or exchange.
+Speaker1: If the product has issues, like quality issues?
+Speaker2: If it's a quality issue, we accept returns and exchanges unconditionally and will process them quickly.
+Speaker1: Okay, what about customized products?
+Speaker2: Since custom products are made according to customer specifications, we do not support returns or exchanges. However, in the event of a quality issue, we provide free repair service.
+Speaker1: Understood, thank you for your detailed answer, little Li.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy life, goodbye.

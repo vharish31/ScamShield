@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Zhang worker?
+Speaker2: Hey, I am. Who are you?
+Speaker1: I am the manager of Huatian Yinhang, our bank recently introduced a low-interest loan for the engineering industry. Are you interested in learning more?
+Speaker2: What are the conditions for this loan?
+Speaker1: The conditions are simple. As long as your company has had stable income in the past year and no negative credit records, you can apply. The interest rate is as low as 3.6%, and the approval speed is fast, with the fastest being the same day for loan disbursement.
+Speaker2: What materials do I need to prepare?
+Speaker1: You need to prepare copies of the company's business license, the latest financial report for the past year, and personal identification documents. However, to speed up the approval process, you can first download our app, which has detailed instructions and an application form on it.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, after downloading the app, you can directly submit an application on it, and our dedicated customer service team will handle it, it's very convenient.
+Speaker2: Okay, I'll wait and then download. Thank you, Li Manager.
+Speaker1: No problem, feel free to contact me for any questions. Best wishes. Goodbye.
+Speaker2: Goodbye.

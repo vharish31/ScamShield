@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little king, I saw the new phone in your store, want to know more about it.
+Speaker2: Hello, little king, I am customer service little Li, what phone do you want to know about?
+Speaker1: What's the configuration of the gold one in your advertisement?
+Speaker2: This is our latest flagship phone, equipped with the latest processor, large memory and storage space, perfect for users who love high-performance phones.
+Speaker1: What is the price?
+Speaker2: This phone costs 4999 yuan, there's a discount now.
+Speaker1: What is the content of the discount activity?
+Speaker2: Buying this phone comes with a free one-year warranty service and a chance to get a blue tooth earphone.
+Speaker1: Sounds good, I'll consider it. Yes, do you support installment payments?
+Speaker2: We support multiple installment payment options, you can choose installment payment to reduce the pressure of one-time payment.
+Speaker1: That's great, I'll consider it, thank you for your detailed introduction.
+Speaker2: You're welcome, please feel free to consult us anytime if you have any questions, we hope you can find satisfactory products here.

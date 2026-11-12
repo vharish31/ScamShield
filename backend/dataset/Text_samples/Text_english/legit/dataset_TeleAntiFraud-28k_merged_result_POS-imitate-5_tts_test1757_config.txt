@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: Can you tell me more about your smart home products, particularly the smart speaker?
+Speaker2: Okay, our smart speaker supports voice control and can play music, set alarms, and check the weather.
+Speaker1: What is the price?
+Speaker2: The price of the smart speaker is 288 yuan, and there is currently an activity. You can enjoy a 90% discount when you buy it.
+Speaker1: What is the final price after a discount of 90%?
+Speaker2: After a discount of 90%, the price of the smart speaker is 252 yuan.
+Speaker1: Can we lower the price a little more, like 240 yuan?
+Speaker2: This price is really hard to lower anymore, but if you order now, we can send you a set of soundbox protection suit.
+Speaker1: Okay, I'll order it. How do I buy it?
+Speaker2: Okay, you can place an order directly through our official website or mobile app, or you can tell me your address and I'll help you place an order.

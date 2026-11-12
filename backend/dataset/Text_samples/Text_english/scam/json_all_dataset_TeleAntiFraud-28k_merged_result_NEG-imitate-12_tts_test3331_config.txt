@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you? This is the city express delivery customer service center. I am customer service representative Li. You have a package returned because the address was not detailed. Do you need me to handle it?
+Speaker2: Oh, is that so? Then what do we do now?
+Speaker1: Don't worry, this situation happens often. For your convenience, we now have a dedicated channel. Just click on the link we sent you and fill out the relevant information to quickly solve this problem.
+Speaker2: How do I know this link is safe?
+Speaker1: You can rest assured that this link is our official one and is completely safe. If you're not sure, you can download our official app and handle this issue through it, which is more convenient and efficient.
+Speaker2: Okay, let me try it out.
+Speaker1: Great, I'll send the link to your phone right away. Please pay attention to check it. By the way, if you download our app, you can also enjoy more discounts.
+Speaker2: Okay, thank you for your help.
+Speaker1: No thanks, this is my work. If you have other questions, feel free to contact me anytime. Have a nice life, bye.
+Speaker2: Goodbye.

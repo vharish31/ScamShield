@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm nearby, where are you?
+Speaker2: Hey, I just got to the library, where are you?
+Speaker1: Can you see me at the north door of the library?
+Speaker2: Can you see that you're wearing a blue shirt?
+Speaker1: Okay, blue suit, hurry up, let's go to the third floor to find information.
+Speaker2: Okay, I'll be there soon.
+Speaker1: Have you found the information for that project yet?
+Speaker2: We found some, but we need more information. Let's look around together.
+Speaker1: Okay, let's split up and act, then gather here later.
+Speaker2: Okay, see you later.

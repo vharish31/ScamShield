@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm the customer service of Meituan Waimai, have you ordered food from our platform recently?
+Speaker2: Hey, have you ordered it several times?
+Speaker1: That's right, we've noticed that you've had some issues with your recent orders, and we'd like to hear your thoughts and suggestions about our service.
+Speaker2: The issue isn't big, it's just that sometimes delivery time is a bit long.
+Speaker1: Hey, thanks a lot for your feedback. We're also working hard to improve delivery efficiency. By the way, have you noticed any of our recent promotional activities?
+Speaker2: What are some good activities to focus on?
+Speaker1: Yes, we have a new user first order discount of 20 yuan, and also have full discount coupons to redeem.
+Speaker2: That sounds good, I can try it next time I order food.
+Speaker1: Okay, you can see these activities on our app's homepage and click to redeem the discount coupon.
+Speaker2: Okay, thank you for your reminder.
+Speaker1: No problem, if you have any more questions, please contact our customer service at any time. Have a nice life, bye!
+Speaker2: Okay, bye.

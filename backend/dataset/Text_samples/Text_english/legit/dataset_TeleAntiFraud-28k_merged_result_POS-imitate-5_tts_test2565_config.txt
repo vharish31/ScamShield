@@ -1,0 +1,10 @@
+Speaker2: Hey, have you eaten?
+Speaker1: Are you still there?
+Speaker2: What do you want to eat today after finishing your meal?
+Speaker1: Do you want to eat hotpot?
+Speaker2: Sure, I know a new hot pot restaurant that tastes great, want to give it a try?
+Speaker1: Good idea, where is that store?
+Speaker2: Right in the city center, next to the big mall, do you know?
+Speaker1: I'll go find you later.
+Speaker2: Okay, I'll be waiting for you there, it should take about twenty minutes.
+Speaker1: Okay, be careful on the road.

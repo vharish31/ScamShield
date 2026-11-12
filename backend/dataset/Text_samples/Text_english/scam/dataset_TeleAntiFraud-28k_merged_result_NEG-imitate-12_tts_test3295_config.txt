@@ -1,0 +1,15 @@
+Speaker1: Hello, nice to meet you, I am Li Xiao, the customer manager of Agricultural and Commercial Bank.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, our bank currently has a very attractive loan project with a maximum loan amount of up to 30,000 yuan, which is very suitable for your business needs.
+Speaker2: Oh, I'm currently flush with cash, so I don't need a loan right now.
+Speaker1: That's right, this project is quite difficult to get, but the interest rate is very favorable, you can consider it, or you can contact me later if you need it.
+Speaker2: Okay, thank you for your advice.
+Speaker1: Hey, we have a new financial product with a very observable return, are you interested in learning more about it?
+Speaker2: How big are the risks of financial products?
+Speaker1: The risk is very low, and there's a specialized team managing it. You can take a look first, I have a link here. Just click on it to see the detailed information.
+Speaker2: Link? How do I click?
+Speaker1: Scan this QR code with your phone and you'll be taken directly to our financial products introduction page.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any questions, feel free to contact me anytime. This QR code is like this... (describe the shape and location of the QR code)
+Speaker2: Okay, thank you for your recommendation. I will take a closer look.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you a successful investment!

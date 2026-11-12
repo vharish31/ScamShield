@@ -1,0 +1,15 @@
+Speaker1: Hello, are you Li Ming?
+Speaker2: Who are you?
+Speaker1: I am the customer service manager of Huaxia Bank, named Zhang. We have a new financial product with high returns. Would you like to know more about it?
+Speaker2: Hmm, that sounds good, what product is it?
+Speaker1: This is a financial product specifically designed for our premium customers, with an annual return rate of up to 10%, and very low risk.
+Speaker2: Is it really that good?
+Speaker1: Of course, all our bank products undergo strict review. However, this product has a certain purchase threshold, which requires you to first complete a simple identity verification.
+Speaker2: How do I operate identity verification?
+Speaker1: It's very simple. Just click this link and fill out the relevant information as instructed.
+Speaker2: Okay, let me try.
+Speaker1: Okay, this link is: http://fakeurl.com/verify. Click it and you'll see a verification page where you can fill in your name, ID number, and phone number.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, after you finish operating, I will receive a notification, and then we can further communicate. If there are any issues, you can contact me anytime, my WeChat is: 13800138000.
+Speaker2: Okay, thank you.
+Speaker1: No problem, looking forward to working with you. Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I bought a piece of clothing from your store before and there's a little problem with it, can you help me out a bit?
+Speaker2: Hello, little Zhang, I am customer service Li, what is the situation with the clothes issue you mentioned, can you describe it in detail?
+Speaker1: The collar of the shirt is a little off, it looks like it's not well made.
+Speaker2: I'm so sorry to hear that you encountered this problem. We can provide you with free repair service, or if you're willing, we can also give you a new one.
+Speaker1: Well, let me change into a new one then, sorry to bother you.
+Speaker2: Okay, no problem. You can bring your purchase receipt directly to our store to exchange. If convenient, please tell me your order number, I can handle it here.
+Speaker1: My order number is 123456789, can you check it for me?
+Speaker2: Okay, just a moment, I'll check. Hmm, found it, your order information is now showing on the system. We'll quickly process the exchange for you.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, this is what we should do. If there are any other issues, please feel free to contact us anytime. Have a nice day!

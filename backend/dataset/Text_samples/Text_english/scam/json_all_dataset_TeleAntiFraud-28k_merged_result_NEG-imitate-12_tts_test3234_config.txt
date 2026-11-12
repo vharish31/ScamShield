@@ -1,0 +1,10 @@
+Speaker1: Hello!
+Speaker2: Hello
+Speaker1: Hello, this is Ping An Bank, I am your customer manager Li Xiaoli, recently we have a special promotion for our financial product with an annual return of up to 100%, are you interested in learning more?
+Speaker2: Is there such a good thing?
+Speaker1: Yes, this product is specifically designed for our high-end customers. It's perfect for you as an experienced investor. To ensure safety, I recommend downloading our bank's official app first, which will make it easier for you to check product details.
+Speaker2: Download the app? Is it really safe?
+Speaker1: Of course, all our bank apps are strictly authenticated for security. Just scan this QR code to download directly.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you download it, remember to register an account, then you can contact me and I'll give you a detailed introduction of this product.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of the speed purchase network, I am small Li, your order has some problems, you need to cooperate to handle it.
+Speaker2: What problem?
+Speaker1: Your order was lost during delivery, to compensate you, we need your bank card information to refund.
+Speaker2: Is it really? How can I get a refund?
+Speaker1: Please click on the link we sent, fill out the relevant information, and we will process the refund quickly.
+Speaker2: Okay, I'll take a look at the link in a moment.
+Speaker1: Okay, the link has been sent to your phone. Please check it.
+Speaker2: I got it, I'll go fill it out now.
+Speaker1: Thank you very much for your cooperation. Once you fill it out, we'll process it within a workday.
+Speaker2: Okay, thank you.

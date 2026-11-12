@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of Huaxin Bank, Lee. Recently, our bank has a very good wealth management product. Would you like to know more about it?
+Speaker2: What are financial products?
+Speaker1: This is a high-yield investment project with an annual return rate of up to 10%, and the risk is very low, making it very suitable for you as a high-quality customer.
+Speaker2: The sound is good, but I'm not familiar with this kind of investment.
+Speaker1: No problem, I have a detailed introduction here, you can take a look. Just click on this link to see detailed information.
+Speaker2: Okay, I'll take a look.
+Speaker1: Great, this link will directly guide you to our investment platform, you can register an account, it's very simple to operate.
+Speaker2: What information is needed to register an account?
+Speaker1: Just need your name, phone number, and ID number to register, then you can start investing.
+Speaker2: Okay, let me try.

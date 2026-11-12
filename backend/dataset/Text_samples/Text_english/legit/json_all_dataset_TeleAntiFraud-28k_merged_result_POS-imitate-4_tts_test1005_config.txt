@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, are you little Zhang?
+Speaker1: Yes, it's me, have you arrived?
+Speaker2: I just arrived, I'm at the subway station exit now, where are you?
+Speaker1: I'm standing at the bookstore door, you come out and walk to the left, see the first red and green light turn right, and then you'll see it.
+Speaker2: Okay, I understand, roughly how long will it take?
+Speaker1: Five minutes, hurry up, I'll wait for you.
+Speaker2: Okay, I'll go over there right away.
+Speaker1: Be careful on the road, don't get impatient.
+Speaker2: Thank you, see you later.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Li Xiao, I am the customer manager of Agricultural and Commercial Bank.
+Speaker2: Hello, little Li, what do you have?
+Speaker1: You are Zhang Laoban, we have a special good loan project, no collateral, quick loan, very suitable for your enterprise.
+Speaker2: Is it really? It sounds good.
+Speaker1: Okay, but you need to download our app, register and fill out some basic information, and then our staff will contact you.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, our app is officially certified, you can relax now.
+Speaker2: Okay, let me try.
+Speaker1: Great, after downloading, give me a call back, I'll guide you.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a server from some restaurant. You made a reservation for tonight at six o'clock. Do you still need it?
+Speaker2: Hey, hello, yes, I'm going out tonight.
+Speaker1: Okay, let me confirm a few things. How many seats do you need to prepare?
+Speaker2: Two.
+Speaker1: Okay, I will arrange the seats for the two of you next to the window, the environment is quite quiet, how do you feel about it?
+Speaker2: The spot by the window is quite good, thank you.
+Speaker1: No problem, by the way, tonight we have a special seafood set menu, would you like to make a reservation in advance?
+Speaker2: What are the specific contents of the seafood set meal that sounds good?
+Speaker1: The seafood set meal includes steamed sea bass, scallops with ginger, shrimp dumplings, a small vegetable dish, and two drinks, all for 288 yuan.
+Speaker2: Okay, we book this seafood set meal.

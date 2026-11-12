@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a waiter at Xiǎo Qiáo Rènchǎn, you ordered a table at our restaurant yesterday, but you didn't come, do you want to confirm the reason?
+Speaker2: Oh, hello, there was something at home yesterday, so I didn't go, I forgot to notify you guys in advance.
+Speaker1: Understood, if there are similar situations in the future, please inform us in advance, we can adjust the schedule in time.
+Speaker2: Okay, I understand, thank you for your understanding.
+Speaker1: You're welcome, our restaurant has introduced new menu items this week, if you're interested you can try them.
+Speaker2: What are some recommended dishes to try?
+Speaker1: Our signature dishes include steamed cod with ginger and green onions, which are highly praised by customers, you can try them.
+Speaker2: Next time I'll bring some to try.
+Speaker1: Great, the waiter will recommend more good dishes to you later.
+Speaker2: Okay, thank you, see you later.
+Speaker1: Okay, I'm waiting for your arrival, goodbye.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer service monkey of the point store, we see your account has member points, how come you never used them before?
+Speaker2: What points?
+Speaker1: All these points are the ones you accumulated by paying with your phone to buy things. I checked and you now have over 26,000 member points in your account, which can be directly exchanged in the mall for items like a set of four famous brand white wine gift boxes, high-definition TVs, smartwatches and other electronic products that can be directly exchanged for cash using your points.
+Speaker2: Really? Then how did I not receive the notification?
+Speaker1: It's possible that your message was mistaken for spam. To avoid wasting these points, you can now choose your favorite product, and I'll help you exchange it.
+Speaker2: Okay, do you have any recommendations?
+Speaker1: Recently, a popular smartwatch with a fashionable appearance and health monitoring functions has been well received. It's very practical. If you're interested, I can help you apply for a special discount.
+Speaker2: Listen well, then take a look.

@@ -1,0 +1,8 @@
+Speaker1: Hey, did you arrive?
+Speaker2: Just now, I just left my house and am now at the subway station.
+Speaker1: Hey, come over quickly, I'm waiting for you at the library door.
+Speaker2: Okay, I probably have about ten minutes left.
+Speaker1: Okay, you arrived to call me, I'm waiting here for you.
+Speaker2: Okay, see you later.
+Speaker1: See you soon, be careful on the road.
+Speaker2: I know, be careful on the road.

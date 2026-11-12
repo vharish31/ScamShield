@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your hair service here.
+Speaker2: Hello, I'm very happy to serve you. We provide various hair services here, including cutting, dyeing, and straightening. What specific needs do you have?
+Speaker1: I want to cut my hair short, but I don't know how much it costs.
+Speaker2: The price for short haircuts is 80 yuan. If you need additional services such as washing and drying, we will charge an additional 20 yuan.
+Speaker1: Okay, when can I come over?
+Speaker2: You can come between 3pm and 5pm today, this time slot has relatively low traffic.
+Speaker1: Can I come at 3:30?
+Speaker2: Okay, 3:30 is fine. Please arrive 10 minutes early, we'll be ready for you.
+Speaker1: Okay, thank you. So how do I contact you now?
+Speaker2: You can call us directly after you arrive. Our phone number is 0123456789, and we will arrange someone to pick you up.
+Speaker1: Okay, thank you. I'll see you at 3:30.
+Speaker2: Okay, 3:30. Wish you a happy day.

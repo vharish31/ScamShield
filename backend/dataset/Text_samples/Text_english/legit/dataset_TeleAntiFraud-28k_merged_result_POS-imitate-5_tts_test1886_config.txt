@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: Hello, I am the customer service of the food square, do you want to confirm if you need to change the delivery time for the birthday cake you ordered before?
+Speaker2: Uh, okay, I did order a cake, but can you change it to be delivered tomorrow at four in the afternoon, because there's something going on at home today.
+Speaker1: Tomorrow at four in the afternoon is fine, I will help you adjust your order. Also, do we need to confirm the cake style and flavor again?
+Speaker2: The style is the one in the previous picture, the taste is chocolate, right? Can the top decoration on the cake be changed to pink?
+Speaker1: Okay, we have pink decorations on the candelabras here. Is there anything else that needs special mention?
+Speaker2: No more, just these. Thank you.
+Speaker1: No problem, please contact us if you have any questions. The cake will be delivered on time, wish you a happy birthday.
+Speaker2: Thank you, goodbye.

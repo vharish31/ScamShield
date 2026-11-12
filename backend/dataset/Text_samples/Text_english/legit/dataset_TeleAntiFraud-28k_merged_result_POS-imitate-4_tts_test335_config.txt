@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help with?
+Speaker1: Can you tell me about your restaurant's special dishes?
+Speaker2: There are recruitment posters for beef noodles and spicy pot, both very popular here.
+Speaker1: How much does beef noodle soup cost?
+Speaker2: The price of beef noodles is 30 yuan per portion.
+Speaker1: I reserved a beef noodle soup and a spicy Sichuan hot pot.
+Speaker2: Okay, I'll order a beef noodle soup and a spicy hot pot, do you need me to leave my contact information?
+Speaker1: Please, my phone number is 13801380138
+Speaker2: Okay, your order has been recorded. A staff member will contact you to confirm shortly.

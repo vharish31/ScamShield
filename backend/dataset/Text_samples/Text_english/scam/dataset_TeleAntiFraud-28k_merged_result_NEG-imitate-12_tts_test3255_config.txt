@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Yes, who are you?
+Speaker1: Hello, I am the manager of a fast loan company. We noticed that you have recently been looking for some financial support. Our company can provide you with a loan of up to 50,000 yuan, with a very low interest rate.
+Speaker2: Oh, really? I really need some money recently.
+Speaker1: Yes, our loan program is very simple. Just provide some basic personal information and copy of business license. You only need to download our app, fill out the relevant information, and the loan will be quickly deposited into your account.
+Speaker2: Do you want to download the app? It sounds very convenient.
+Speaker1: Yes, our app is both safe and easy to use. You can scan this QR code to download it.
+Speaker2: Okay, let me try.
+Speaker1: Great, please let me know if you have any issues after downloading. Also, we need you to provide a verification code, which will be sent to your phone after you fill out the information.
+Speaker2: Okay, I understand.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from JD.com. Recently, you purchased a product on our platform that had quality issues, and we will process a refund for you.
+Speaker2: Really? That's great, I've been waiting for your processing.
+Speaker1: Yes, to speed up the refund process, you need to click on the link we sent, fill out the relevant information.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Please ensure you're using a mobile browser, it's safer. Click and follow the instructions.
+Speaker2: Okay, I'm going now.
+Speaker1: Okay, if you have any questions, feel free to contact me anytime. The customer service phone number is 12345678901. Thank you for your cooperation.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you happy life, bye.
+Speaker2: Goodbye.

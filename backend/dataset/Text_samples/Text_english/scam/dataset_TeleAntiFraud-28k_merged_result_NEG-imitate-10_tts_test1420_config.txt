@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I assist you today? I see you have applied for a loan on our platform before, do you have any recent funding needs?
+Speaker2: Uh, is that so? I really need it, can you be specific?
+Speaker1: Of course, we recently launched a no-collateral loan project with low interest rates, quick disbursement, and only requires basic information. Just provide us with that and we'll quickly process it for you.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your identity card number, mobile phone number, and a verification code. We will review it in the background.
+Speaker2: Okay, how do I submit these information?
+Speaker1: You can click this link, we have already prepared the application page for you.
+Speaker2: Link? How do I receive?
+Speaker1: You can follow our WeChat public account. We will send you a link through WeChat, and you can fill out the information by clicking on the link.
+Speaker2: Okay, I'll follow.
+Speaker1: Okay, please reply "apply for loan" after following, we will process it quickly. Any questions can be contacted anytime.

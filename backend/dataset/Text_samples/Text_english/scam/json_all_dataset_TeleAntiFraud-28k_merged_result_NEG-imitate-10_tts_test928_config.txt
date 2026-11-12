@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I called you before, did you forget?
+Speaker2: Hey, how are you? I can't remember well, what do you want to find me for?
+Speaker1: Is that so? We have just launched a new investment financial product with very high returns and very safe, are you interested?
+Speaker2: Invest in wealth management? I've never done it before, not very familiar.
+Speaker1: No problem, this product is very simple, just need you to invest one million yuan, you can get one hundred thousand yuan every day.
+Speaker2: Is this so high of a return? Won't there be any problems?
+Speaker1: No problem at all, our company is a legally registered enterprise approved by the country, you just need to download our app, register an account, and you can start investing right away.
+Speaker2: Do you want to download the app? Yes, what is the name of the app?
+Speaker1: Our app is called "Wealth Express". You can download it directly from the app store on your phone by searching for "Wealth Express". After downloading, I will send you a registration link. Click on the link to register.
+Speaker2: Okay, let me try.

@@ -1,0 +1,8 @@
+Speaker1: Hey, where are you now?
+Speaker2: Just arrived at the subway station, you too?
+Speaker1: I'm over here at the library, come over and find me, we'll meet at the library door.
+Speaker2: Okay, I'll be there in about ten minutes.
+Speaker1: Okay, be careful on the road, I'll wait for you at the library door.
+Speaker2: Okay, it won't take long on the road, you can first find a place to sit on that side.
+Speaker1: Okay, hurry up and come over, I'll wait for you to eat dinner together.
+Speaker2: Okay, I'll speed up, see you later.

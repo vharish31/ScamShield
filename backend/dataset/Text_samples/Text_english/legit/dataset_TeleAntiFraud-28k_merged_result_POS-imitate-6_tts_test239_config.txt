@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, do you have any suitable ones in your store?
+Speaker2: Hello, Xiaoming, welcome to our mobile phone store. What brand of phone do you want to buy?
+Speaker1: I want to buy a new Huawei phone, the latest release, I heard the performance is great.
+Speaker2: The new Huawei is really good. Which model are you interested in? We have several models here with different prices and features.
+Speaker1: Is the Huawei Mate 50 Pro model available online?
+Speaker2: Do you want to know the specific configuration and price of the Huawei Mate 50 Pro here?
+Speaker1: Yes, I'm very interested in its configuration and price.
+Speaker2: Okay, the configuration of the Huawei Mate 50 Pro is as follows: it is equipped with Kirin 9000S processor, 12GB memory, 256GB storage space, and supports 5G network. As for the price, our store's current selling price is six thousand nine hundred ninety-nine yuan.
+Speaker1: This price sounds reasonable. What color options are available for this model?
+Speaker2: What color of the Huawei Mate 50 Pro do you prefer, black, white or blue?

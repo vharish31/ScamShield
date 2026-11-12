@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I reserved shoe repair service at your store a few days ago, can you confirm the time?
+Speaker2: Hello, little Zhang, I am the customer service clerk at the store, which day did you order?
+Speaker1: Is it three o'clock in the afternoon on Saturday? I just checked my schedule for tomorrow and I might have something to do in the afternoon. Could you change it to two o'clock?
+Speaker2: Okay, the time adjustment is fine, I will help you change to 2 pm.
+Speaker1: Great, thank you. Another question, the shoes I repaired are made of leather, I'm worried they'll be affected by rain, what's the weather like in your area this weekend?
+Speaker2: It's sunny here today, but the weather is unpredictable, so it's a good idea to bring an umbrella just in case.
+Speaker1: Okay, I will pay attention. Yes, I mentioned before that the shoes I fixed needed oil preservation, does this service have an additional fee?
+Speaker2: Oil change is included in repair costs and does not require additional payment.
+Speaker1: That's great, thank you for your help, see you on Saturday.
+Speaker2: See you on Saturday, be careful on the road.

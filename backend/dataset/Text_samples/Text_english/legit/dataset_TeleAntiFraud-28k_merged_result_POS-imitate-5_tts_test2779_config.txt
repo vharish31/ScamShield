@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm a server at the food square, your reserved dinner spot is still available, do you know if you're coming now?
+Speaker2: Hello, I'm still on the road, probably need twenty minutes to arrive.
+Speaker1: Okay, I'll stay here for a while longer, then I'll go straight to the front desk and give them your name.
+Speaker2: Okay, thank you for your understanding.
+Speaker1: No problem, the weather forecast says it might rain today, don't forget to bring an umbrella.
+Speaker2: Okay, I will pay attention.
+Speaker1: The new dishes we just introduced are highly rated, you can give it a try.
+Speaker2: I'll ask my friend's opinion later.
+Speaker1: Okay, please let me know if you need any help anytime.
+Speaker2: Okay, thank you for your service, see you later.

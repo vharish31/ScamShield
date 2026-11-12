@@ -1,0 +1,11 @@
+Speaker1: Hello, are there air conditioning repair services available on this side?
+Speaker2: Hello, do you need air conditioning repair service? Do you need to make an appointment?
+Speaker1: Yes, my home's air conditioner has been malfunctioning recently, and I want to schedule a repair.
+Speaker2: Okay, can you tell me your address please?
+Speaker1: I live in the second floor, apartment 402, of the Flower Garden community, building number 2.
+Speaker2: Okay, Flower Garden Apartment Building No. 2, Unit 3, Apartment 402, we recorded it down.
+Speaker1: When will you guys come?
+Speaker2: Can we arrive between 9am and 11am tomorrow morning?
+Speaker1: Sure, can you guys please?
+Speaker2: No problem, if there are any changes we will contact you in advance. Goodbye.
+Speaker1: Okay, thank you, bye.

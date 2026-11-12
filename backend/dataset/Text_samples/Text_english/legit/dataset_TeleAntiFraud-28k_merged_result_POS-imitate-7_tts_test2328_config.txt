@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: What's the matter with my homework from yesterday not being done yet?
+Speaker2: Please wait a moment, I'll check your order. Can you tell me your phone number when you placed the order?
+Speaker1: Okay, it's one three five seven nine zero one.
+Speaker2: Let me check... I found it, your order shows it's already on delivery, estimated delivery today afternoon.
+Speaker1: That's great, thank you. Is there another question? I need to apply for an invoice, how?
+Speaker2: No problem, you can select invoice in order details, fill in relevant information, submit and we will process within five business days.
+Speaker1: Okay, I understand. Thank you for your help!
+Speaker2: No problem, if you have any other questions, please contact us anytime. Have a happy life!

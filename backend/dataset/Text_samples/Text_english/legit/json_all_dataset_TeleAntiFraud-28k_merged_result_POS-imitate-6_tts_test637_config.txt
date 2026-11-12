@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm a new user, can you tell me about your return policy?
+Speaker2: Hello, I'm very happy to serve you. Our store's return policy is that within seven days of purchase, you can apply for a no-reason return if the product is unused and in its original packaging.
+Speaker1: What should be done if the product has a problem, such as a quality problem?
+Speaker2: If the issue is with the product quality, you can contact us anytime and provide relevant photos or videos, and we will handle it quickly.
+Speaker1: Okay, if there's a return, who will pay the shipping fee?
+Speaker2: If the reason for return is due to product quality issues, we will bear the shipping costs. If the return is unreasonable, you will have to bear the shipping costs yourself.
+Speaker1: What is the process for applying for a refund or exchange?
+Speaker2: You can click on the "Apply for Return/Exchange" button on the order details page, fill in the relevant information and submit it, and our customer service will contact you quickly to process it.
+Speaker1: Okay, thank you for your detailed answer. I understand now.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Wish you a happy life. Bye.

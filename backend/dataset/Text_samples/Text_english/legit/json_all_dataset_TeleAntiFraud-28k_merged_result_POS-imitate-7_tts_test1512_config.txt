@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I want to consult your fitness programs.
+Speaker2: Hello, I am the customer service of the fitness center. I am very happy to serve you. What courses do you want to know about?
+Speaker1: Have you guys recently taken any group exercise classes, like yoga or Pilates?
+Speaker2: We have yoga and Pilates group classes here every Monday, Wednesday, and Friday evenings at 7pm. You can choose any day to attend.
+Speaker1: How much do these courses cost?
+Speaker2: The group course fee is 500 yuan per month, and if you choose a single trial, it's 80 yuan per time.
+Speaker1: I want to try it first and see if it suits me.
+Speaker2: Okay, you can schedule any class this week, I'll arrange it for you.
+Speaker1: Let's schedule the Pula course for this Thursday.
+Speaker2: Okay, I have reserved the 7 pm Pullum class for you on this Thursday evening. Please be on time.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a nice life, goodbye!

@@ -1,0 +1,8 @@
+Speaker1: Hello, is this Mr. Zhang?
+Speaker2: Hey, I'm Zhang.
+Speaker1: Hello, I am the customer manager Li of Huaxia Bank, we have a good loan product to recommend to you, the interest rate is now very low, and the approval is very fast, do you have any recent financial needs?
+Speaker2: "Oh, no need at the moment."
+Speaker1: Okay, let me explain first, we have many promotional activities for this product, if you're interested, you can directly contact me, I'll add a WeChat to make it easier to contact later, how about it?
+Speaker2: Sure, can we add WeChat?
+Speaker1: Great, I'll add you now. My name is Li, my WeChat is HuaXiaLoan123. If you have any questions, please contact me anytime. I wish your business thrives and your wealth flourishes. Bye.
+Speaker2: Okay, thank you, goodbye.

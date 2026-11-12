@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you little Li?
+Speaker1: Yes, it's me. What do you want to talk to me about?
+Speaker2: I am the small clerk at the neighborhood convenience store. Your previously ordered fruits have arrived. What time is convenient for you to pick them up?
+Speaker1: Okay, I'll be there in about half an hour.
+Speaker2: Okay, I'll leave it here for you. Which door did you come from?
+Speaker1: I came from the north gate, that side is convenient for transportation.
+Speaker2: You can turn right from the main road at the north gate and walk straight to the bottom.
+Speaker1: Okay, I understand. Thank you.
+Speaker2: No problem, see you later.

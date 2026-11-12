@@ -1,0 +1,13 @@
+Speaker1: Hey, hi, I'm little Liu, from the credit center of the commercial bank, we have a really good activity recently, do you have any interest in learning more about it?
+Speaker2: What activity?
+Speaker1: This activity is exclusively for high-quality customers and offers a discount on interest-free installment purchases. Additionally, applying now will also give you an extra chance to win an Apple phone.
+Speaker2: Really? Then how can I participate?
+Speaker1: It's simple, just provide your personal information and I can register you.
+Speaker2: Okay, what information do I need to provide?
+Speaker1: Please provide your name, ID number, and phone number. Additionally, to ensure your rights, we need you to provide a verification code. I will send you a text message with the code, please tell me the code when you receive it.
+Speaker2: Okay, let's go.
+Speaker1: Okay, wait a minute, I've already sent it over, you can check it now.
+Speaker2: Received, verification code is one two three six five.
+Speaker1: Okay, one two three six five, I have already recorded it. Next, to complete the registration, you need to click on the link I gave you and fill in some basic information.
+Speaker2: Okay, I'll wait for your link.
+Speaker1: Okay, I'll send it to you now. Just remember to open it with your phone browser.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I saw your apartment rental info in your community, want to know more details?
+Speaker2: Hello, little Zhang, I am the landlord, you can call me old Wang. What can I help you with?
+Speaker1: Can you tell me if your room is a single room or a shared room?
+Speaker2: Do you prefer single rooms or shared rooms here?
+Speaker1: I might need a roommate, we three girls live together.
+Speaker2: Okay, we have a three-bedroom, one-living-room apartment here that's perfect for the three of you girls to share.
+Speaker1: How much is the rent for that house? And how do you calculate the water and electricity fees?
+Speaker2: The monthly rent for the room is 3,000 yuan, and the water and electricity fees are calculated based on actual usage.
+Speaker1: Can we take a look at the house?
+Speaker2: Of course, when is it convenient for you? I can arrange a time for you to see the house.

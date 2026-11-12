@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service center. I am the customer service manager, Zhang. Recently, we received some user feedback saying that the products purchased on our platform had quality issues and needed to be returned for a refund. Have you recently purchased anything on our platform?
+Speaker2: Uh, really? I bought a piece of clothing a few days ago, and I feel the quality isn't good. Can I return it for a refund?
+Speaker1: Sure, to facilitate processing, could you please provide me with your order number and purchase time bank card information so that we can verify your identity and order status?
+Speaker2: Okay, my order number is one two three four five six seven eight nine zero, my bank card number is six two two zero zero eight six two two zero zero eight six.
+Speaker1: Okay, I have recorded it down. To speed up the refund process, we need you to download our exclusive app, which can process your refund more quickly. You can click on this link to download: [fake link]
+Speaker2: Okay, I'll download it right away. What do I need to do after downloading?
+Speaker1: After downloading, open the APP and enter your order number and bank card information according to the instructions. We will process your refund quickly. If you have any questions, please feel free to contact me anytime.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, wish you all the best. If you have any other questions, feel free to contact us. Goodbye.
+Speaker2: Goodbye.

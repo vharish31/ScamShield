@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm Li Xiao, I recently saw your store is hiring, I want to know more about it
+Speaker2: Hey, little Li, we really have part-time job information here. When are you free to come take a look?
+Speaker1: Can I meet you tomorrow afternoon?
+Speaker2: Sure, tomorrow afternoon at three o'clock, we'll be at the store on Lightning Road No. 108, come over.
+Speaker1: Okay, what do I need to prepare for tomorrow at 3 pm?
+Speaker2: No need to prepare anything, just come and talk about specific work content and time arrangement.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: See you tomorrow, be careful on the road.

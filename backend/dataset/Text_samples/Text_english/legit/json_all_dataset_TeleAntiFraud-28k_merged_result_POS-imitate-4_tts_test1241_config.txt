@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm here to inquire about your car rental service.
+Speaker2: Hello, I am a customer service representative of a car rental company. How can I help you?
+Speaker1: Where do I need to go to pick up a rental car?
+Speaker2: We have several pick-up points. You can choose the one closest to you. For example, we have service points at both the airport and the city center.
+Speaker1: Oh, that's great! I plan to pick up a car from Taiping Airport. Do I need to make a reservation in advance?
+Speaker2: Yes, I recommend you book in advance online, so you can be sure that the car will be ready when you arrive.
+Speaker1: Okay, what information do I need to provide?
+Speaker2: You need to provide a valid driving license and identity proof, and also fill out some basic information such as contact details and pick-up time for the car.
+Speaker1: What should I do if I encounter problems while using it?
+Speaker2: You can call our customer service anytime, we will help you solve any problem quickly.
+Speaker1: Okay, thank you for your detailed answer. I will consider it.
+Speaker2: No problem, feel free to ask any questions anytime, wish you a happy car rental experience.

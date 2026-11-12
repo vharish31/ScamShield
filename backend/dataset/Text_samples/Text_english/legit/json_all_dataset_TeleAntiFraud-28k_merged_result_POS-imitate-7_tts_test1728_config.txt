@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, how are you?
+Speaker2: Are you looking for a house?
+Speaker1: Yes, I see you have a house for rent, want to know more?
+Speaker2: Okay, this apartment has two bedrooms and a living room, comes with all furniture, very suitable.
+Speaker1: What about the price?
+Speaker2: The monthly rent is three thousand two hundred yuan, with a deposit of three months.
+Speaker1: Can I take a look at the room?
+Speaker2: Okay, when is it convenient for you?
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: You can come directly at 3 pm tomorrow afternoon.
+Speaker1: Okay, what's the address for three o'clock tomorrow?
+Speaker2: Arrived at 1 Zhongming Lu Yī zhè bān hào, dào le dǎ yī huān gē wǒ.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: See you tomorrow.

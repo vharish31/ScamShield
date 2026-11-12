@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I'm in building three, can you find me?
+Speaker2: Hey, how are you? I'm at building one, which direction is building three?
+Speaker1: Exit from the first building, walk straight, turn right at the second crossroad, and you'll see the third building.
+Speaker2: Okay, turn right at the second intersection, how long will it take me to get there?
+Speaker1: Let's walk for five minutes, you can call me when you arrive, I'll know you're there.
+Speaker2: Okay, I should be there in about ten minutes. Contact me then.
+Speaker1: Okay, let's wait for your phone call, see you.
+Speaker2: Okay, pay attention to safety on the road.

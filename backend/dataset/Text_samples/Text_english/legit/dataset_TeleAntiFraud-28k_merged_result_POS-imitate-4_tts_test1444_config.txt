@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me?
+Speaker1: I am a customer service representative for an e-commerce platform. I see that you have a lot of shopping points on your account that are about to expire. They will be cleared at midnight tonight. Have you used them yet?
+Speaker2: Oh, is that so? I haven't been using my phone much lately, so maybe I haven't seen any messages. What can I exchange my points for?
+Speaker1: Points can be exchanged for many products, such as electronic products, daily necessities, and discounts. Do you need anything?
+Speaker2: Can I use my points to buy a new phone?
+Speaker1: Sure, you can use points to redeem some cash, and you have enough points to buy a phone. You can log in to the platform whenever it's convenient for you.
+Speaker2: Okay, I'll go back and check later. And how do you get points?
+Speaker1: Points are accumulated through everyday shopping and participating in activities. The platform rewards corresponding points for every purchase.
+Speaker2: I understand, thank you for your reminder.

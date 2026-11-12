@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am loan officer Zhang Wei from Beijing Xingyue Bank. Have you applied for a loan at our bank before?
+Speaker2: Hello, I haven't applied.
+Speaker1: That's really great, we have a special discount loan project here, no collateral required, low interest rate, fast disbursement, perfect for your high-quality customer needs.
+Speaker2: The sound is good, but I have enough money now, so I don't need a loan.
+Speaker1: That's great! But this opportunity is very rare. If you need it in the future, you can contact me anytime. I have a special app here that you can apply for, it's very convenient.
+Speaker2: Okay, thank you for your recommendation, I will consider it.
+Speaker1: No problem, okay, if you're free right now, you can help me out by clicking on a link and completing a task for me, which will be beneficial for both of us.
+Speaker2: Click the link? What task is it?
+Speaker1: Just sign up and fill out some basic information, and I'll complete today's task, and you'll get a small gift too, it's a win-win situation.
+Speaker2: Okay, I'll give it a try, but won't it involve any costs?
+Speaker1: Of course not, you can relax now, this is just a simple registration, no fees.
+Speaker2: Okay, I'll try.

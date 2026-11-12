@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative for Meishikitianri. I see that you have ordered food from our platform before, and you want to know more about your satisfaction with our service.
+Speaker2: Hello, the service is great, just sometimes the delivery time for food is a bit long.
+Speaker1: Thank you very much for your feedback. We will convey your opinions to the relevant department and strive to improve our delivery speed. By the way, have you tried our new winter promotion set menu recently?
+Speaker2: Have you tried it before, do you have any recommendations?
+Speaker1: We recently introduced a winter warming set meal, which includes a bowl of hot and spicy lamb soup, a selection of stir-fried dishes, and a cup of hot drink, perfect for cold weather.
+Speaker2: How much does it cost to listen?
+Speaker1: The original price is sixty yuan, but now we have an activity, only forty yuan can enjoy the full discount.
+Speaker2: That's quite reasonable, I'll try it next time I order food.
+Speaker1: Great, we're looking forward to your return. If you have any questions or need help, please contact our customer service anytime.
+Speaker2: Okay, thank you.

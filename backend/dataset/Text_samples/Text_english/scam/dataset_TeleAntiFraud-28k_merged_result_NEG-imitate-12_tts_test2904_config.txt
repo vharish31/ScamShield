@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Tiancheng Technology Limited's customer service representative, I am Li Wen.
+Speaker2: Hello, what do you have?
+Speaker1: That's it, we detected some unusual activity on your account, so we need you to cooperate with us for a security verification.
+Speaker2: Really? Then what should I do?
+Speaker1: Please don't worry, we have a special safety verification link here. Just click on this link and follow the instructions.
+Speaker2: How do I click on a link?
+Speaker1: You can open your phone messages, we will send you a link via text message, click on the link and follow the instructions on the page.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the message has been sent. Please check your phone. For your account's safety, please complete the verification process quickly.
+Speaker2: Okay, I'll go check in. Thank you.

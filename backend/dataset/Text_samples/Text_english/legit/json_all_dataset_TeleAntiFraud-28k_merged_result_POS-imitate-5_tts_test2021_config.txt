@@ -1,0 +1,12 @@
+Speaker1: Hey, are you little Zhang?
+Speaker2: Hey, it's me, Xiao Zhang, how are you, what's up?
+Speaker1: I found some issues with the phone I bought at your store yesterday. Can I exchange or refund it?
+Speaker2: Hey, you can directly come to the store and find me, let's see what's going on.
+Speaker1: Okay, I have some free time this afternoon, around 3 pm, I should be able to get to your store.
+Speaker2: Okay, no problem, I'll wait for you at the store later.
+Speaker1: That's great, thank you.
+Speaker2: No problem, this is what we should do.
+Speaker1: Where is your store located?
+Speaker2: Our store is at the intersection of Guangming Road and Xingfu Street, easy to find.
+Speaker1: Okay, I know, see you later.
+Speaker2: Okay, see you later.

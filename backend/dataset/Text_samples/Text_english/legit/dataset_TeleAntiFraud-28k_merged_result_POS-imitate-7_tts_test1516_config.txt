@@ -1,0 +1,9 @@
+Speaker2: Hello, where are you?
+Speaker1: I am in the Financial Center, but your location shows you are in Financial Square. How come?
+Speaker2: The Financial Square and the Financial Building are different places. The Financial Square is opposite the Financial Building.
+Speaker1: Oh, like this, then how do I go?
+Speaker2: Walk straight down this street, turn left after the traffic light, and you'll see Wealth Square.
+Speaker1: Okay, I'll be there in a few minutes.
+Speaker2: It will take about ten minutes, be careful on the road.
+Speaker1: Okay, thank you for your reminder, see you later.
+Speaker2: See you later, be careful on the road.

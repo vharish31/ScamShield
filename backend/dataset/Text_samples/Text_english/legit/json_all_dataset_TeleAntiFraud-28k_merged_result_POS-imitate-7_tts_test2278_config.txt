@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I'm little Li, yesterday you said in the group you wanted to move, I have a moving company, the price is quite reasonable.
+Speaker2: Oh, little Li, remember. What is the name of that moving company?
+Speaker1: Call 'Sequent Heart Moving Company', they are very professional, I found them last time when I moved.
+Speaker2: Okay, let me understand. What services can they provide?
+Speaker1: They can provide packaging, moving, disassembling furniture and other services, and there are various types of vehicles to choose from, suitable for different sizes of moving needs.
+Speaker2: What's the logic behind their quote?
+Speaker1: The price is determined by the distance and the number of items being moved. You can check it on their official website or call them directly for more accurate information.
+Speaker2: Okay, thank you for your recommendation. I will contact them.
+Speaker1: No problem, help if needed, good luck with moving!

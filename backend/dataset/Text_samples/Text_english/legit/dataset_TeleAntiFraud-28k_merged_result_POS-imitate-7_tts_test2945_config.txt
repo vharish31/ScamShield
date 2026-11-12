@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your hairdressing service.
+Speaker2: Hello, I'm very happy to serve you. We have various hair services here, including cutting, dyeing, and straightening. Which one would you like to know more about?
+Speaker1: I want to cut my hair short, but I don't know how much it costs.
+Speaker2: The price for short haircuts is eighty yuan. If additional styling services are needed, there might be some extra costs.
+Speaker1: Okay, when can I make a reservation?
+Speaker2: We are open from 10 am to 8 pm every day here. You can choose a convenient time.
+Speaker1: Can I make a reservation for this Saturday afternoon at 2 PM?
+Speaker2: I'll reserve this time slot for you on Saturday afternoon at 2 PM. Please bring your phone so we can stay in touch.
+Speaker1: Okay, thank you. Is there anything else, how early do I need to arrive?
+Speaker2: I suggest you arrive ten minutes early, so you can take a rest first and be well-prepared mentally.
+Speaker1: Okay, thank you for your advice, see you later.
+Speaker2: See you later, wish you a happy day.

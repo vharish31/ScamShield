@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have a self-service bike rental service here?
+Speaker2: Yes, we have various types of bicycles available for rent here.
+Speaker1: Do you have an electric self-propelled bicycle?
+Speaker2: Yes, electric bicycles are also very popular.
+Speaker1: How much is the daily rental fee for an electric bicycle?
+Speaker2: The daily rental fee for an electric bicycle is 50 yuan.
+Speaker1: If I want to rent for a week, are there any discounts?
+Speaker2: Rent a phone for a week and enjoy a 90% discount.
+Speaker1: Okay, I want to go mountain biking on weekends. Are your electric bicycles suitable for mountain roads?
+Speaker2: Good, our electric bicycle performance is good, suitable for various road conditions.
+Speaker1: Okay, can I come and pick up the car on Saturday?
+Speaker2: Of course, our business hours here are from 9am to 6pm on Saturday, you can come anytime to pick up your car.
+Speaker1: Okay, thank you for your help, see you on Saturday.
+Speaker2: No problem, see you on Saturday, wish you have a nice bike ride.

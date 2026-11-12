@@ -1,0 +1,12 @@
+Speaker1: Hey, how have you been lately?
+Speaker2: Hey, how are you? What have you been up to lately?
+Speaker1: I've been busy looking for a house recently, saw your housing info, want to know more.
+Speaker2: Uh, yes? What specific apartment in which community do you want to know about?
+Speaker1: Can you tell me about the two rooms in the Yangguang Huayuan, how much does it cost?
+Speaker2: The two-room apartment in the garden with sunlight is currently priced at around six thousand, and the specific price depends on the floor and decoration of the house.
+Speaker1: Six thousand, a little over my budget. Do you have a little cheaper?
+Speaker2: If the budget is limited, you can check out the nearby Happy Community, where the two-bedroom price is around five thousand.
+Speaker1: Happy community, sounds good, how are the houses there?
+Speaker2: The environment in the happy community is good, the transportation is convenient, all the facilities around are complete, it's a good choice.
+Speaker1: Okay, can I go see it this weekend?
+Speaker2: Of course, I have time on weekends, let's schedule a time to go see something together.

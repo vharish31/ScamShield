@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Li, recently looking for a job, have you heard of any suitable positions here?
+Speaker2: Yes, we have several job vacancies here. Do you have any special skills or work experience?
+Speaker1: Have you guys got any customer service positions? I used to do some customer service work and I'm pretty good at communicating with people.
+Speaker2: Yes, we need a customer service specialist here, mainly responsible for answering customer phone calls and handling some daily consultations and complaints.
+Speaker1: How is the work schedule arranged for this position?
+Speaker2: Work hours are from 9 am to 6 pm, with a one-hour lunch break in the middle, and weekends are double rest days.
+Speaker1: How about the benefits? Do you have five-insurance-one-golden?
+Speaker2: The probation period is three months, the monthly salary is 3,500 yuan, after probation ends the monthly salary is 4,000 yuan, the company provides five insurance and one gold, and there is an annual bonus.
+Speaker1: Can I come for an interview when it sounds good?
+Speaker2: It's convenient for you to come to our company for an interview tomorrow morning at 9:00. The address is XX road XX number. Don't forget to bring your resume.
+Speaker1: Okay, thank you for the invitation, see you tomorrow.
+Speaker2: No problem, looking forward to meeting you, see you tomorrow.

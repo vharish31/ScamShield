@@ -1,0 +1,11 @@
+Speaker1: Hey, are you Li Ming?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm Zhang Xiao, currently working at a consulting company that specializes in investments. Recently, we launched a high-yield investment project. Would you be interested in learning more about it?
+Speaker2: Uh, I'm not familiar with this kind of investment, can I trust your project?
+Speaker1: Very reliable, all our projects are strictly screened, and our customers' feedback is also very good. You can add my WeChat, I will give you detailed introduction, you see how it is?
+Speaker2: Let's just not add WeChat yet, you can directly talk to me here.
+Speaker1: Okay, let me briefly introduce our project. Our annual return rate can reach over 20%, and the risk is very low. All you need to do is register and invest through our app to start earning immediately.
+Speaker2: This return is so high? It sounds good, but I'm still a little worried about the safety issue.
+Speaker1: Don't worry at all, our company's financial management is completely transparent, and all transactions are monitored by a third party. If you're interested, you can first register an account with me, try a small investment, and see the results.
+Speaker2: Can I try it? Please send me the registration link.
+Speaker1: Okay, I'll send it to you now. After you register, feel free to contact me if you have any questions, and I'll help you solve them quickly.

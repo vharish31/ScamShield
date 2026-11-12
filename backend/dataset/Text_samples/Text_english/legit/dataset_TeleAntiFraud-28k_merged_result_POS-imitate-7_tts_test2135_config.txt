@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a waiter at Xiaoming Restaurant. You ordered a table at our restaurant before, right? Are you coming tonight at six o'clock?
+Speaker2: Yeah, it's mine.
+Speaker1: Okay, we have reserved a spot for you. Do you need to arrive early?
+Speaker2: I'll arrive around 5:30.
+Speaker1: Okay, 5:30 we're ready for you. Do you have any special needs, like food allergies?
+Speaker2: No, but I prefer quiet places, can you arrange me near the window?
+Speaker1: Of course, we will arrange a quiet, window-facing spot for you.
+Speaker2: That's great, thank you.
+Speaker1: You're welcome. If you have any other needs, please contact us anytime. Have a nice meal today!
+Speaker2: Okay, thank you, bye.

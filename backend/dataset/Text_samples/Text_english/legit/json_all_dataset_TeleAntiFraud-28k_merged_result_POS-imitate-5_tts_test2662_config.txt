@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there? I'm at the subway station exit, can you see me?
+Speaker2: Hello, I'm here, can you see the card I'm holding up?
+Speaker1: What does it say on the card?
+Speaker2: Please come over, the sign on the board says 'Reception Service'.
+Speaker1: Okay, I'll go over there right away.
+Speaker2: Okay, I'm waiting for you here, be careful.
+Speaker1: Thank you, it will take me about five minutes to walk to your side.
+Speaker2: No worries, I have plenty of time here, you can come slowly.
+Speaker1: Okay, I'll go find you.
+Speaker2: Okay, I'm waiting for you at the exit, pay attention to the signs.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the food square. Can you confirm your arrival time for the dinner you reserved earlier?
+Speaker2: Hello, I should arrive around six thirty.
+Speaker1: Okay, is it for a six-person table that you reserved?
+Speaker2: Six people.
+Speaker1: Okay, we'll hold your reservation until 7:00 p.m. If you don't arrive by then, your reservation may be cancelled.
+Speaker2: Okay, I understand, thank you for reminding me, we will definitely arrive on time.
+Speaker1: Could you please inform us in advance if you have any special requirements for food, such as preparing children's cutlery or being allergic to certain food materials?
+Speaker2: There's a little friend who needs children's cutlery. Otherwise, there are no special requirements.
+Speaker1: Okay, we will be ready. Moreover, we have some special dishes here, you can take a look beforehand, it will be faster to order after you get there.
+Speaker2: Okay, thank you for your advice. I'll check the official website later.

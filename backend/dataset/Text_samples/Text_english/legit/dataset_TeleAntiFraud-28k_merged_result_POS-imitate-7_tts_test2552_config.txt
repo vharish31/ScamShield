@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hi, I'm a customer service representative for Yuju Fangyuan, and I noticed you've been looking at the properties on our website for Yangguang Huayuan. Would you be available to chat now?
+Speaker2: Sure, I'm at home, you can talk.
+Speaker1: Great, the villa in the flower garden has two bedrooms and a living room, beautifully decorated, fully furnished, the monthly rent is three thousand five hundred yuan, is it suitable for you?
+Speaker2: The price is acceptable, but I still want to know more about the traffic situation around here.
+Speaker1: This community has very convenient transportation. There's a subway station nearby, many bus lines, and it's easy to travel. If you need to, I can help you schedule an on-site viewing. What time is convenient for you?
+Speaker2: Can I meet you at four o'clock on Thursday afternoon next week?
+Speaker1: Okay, I noted it down. Next Tuesday at four in the afternoon, we won't meet. Are there any other questions I can help you with?
+Speaker2: Thank you for your service. Goodbye.
+Speaker1: Please wait for your arrival, goodbye.

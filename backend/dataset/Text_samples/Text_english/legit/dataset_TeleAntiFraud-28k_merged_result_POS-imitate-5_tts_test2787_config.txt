@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your delivery service.
+Speaker2: Hello, I'm very happy to serve you. What information do you want to know?
+Speaker1: Can you tell me your delivery range and approximately how long it takes to deliver?
+Speaker2: Our current delivery range is the city center area, including the first street to the fifth street, usually it takes about 30 minutes to 45 minutes from ordering to delivery.
+Speaker1: What should I do if I want to order food?
+Speaker2: You can place an order through our mobile app or website, select your favorite dishes, fill in your delivery address and contact information, submit the order, and our delivery staff will quickly deliver it to you.
+Speaker1: What should I do if I need to cancel or change my order?
+Speaker2: If you need to modify or cancel an order, please contact our customer service as soon as possible, we will process it before it's shipped.
+Speaker1: Understood, is there another question? What payment methods do you support?
+Speaker2: We support multiple payment methods, including credit cards, debit cards, Alipay, and WeChat Pay, you can choose according to your convenience.
+Speaker1: Okay, thank you for your detailed answer. I will consider ordering food.
+Speaker2: You're welcome, feel free to ask any questions anytime, enjoy your meal!

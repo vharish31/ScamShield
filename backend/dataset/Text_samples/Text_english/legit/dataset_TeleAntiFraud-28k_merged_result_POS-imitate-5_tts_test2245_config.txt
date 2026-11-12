@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? Do you have five-grain duck claws at home today?
+Speaker2: Hey, hello, Five-Grain Duck Claw sold out today, want to try something else?
+Speaker1: Do chickens have feet?
+Speaker2: How many pieces of chicken feet are there?
+Speaker1: Do you have any other recommendations?
+Speaker2: You can try our new roasted chicken wings, they are quite popular.
+Speaker1: Okay, let's make a roast chicken wing.
+Speaker2: Okay, one roasted chicken wing, two roasted chicken legs, and anything else needed?
+Speaker1: For now, these are enough.
+Speaker2: Okay, your order has been recorded. It will arrive in about 30 minutes. Are there any other issues?
+Speaker1: No more, thank you.

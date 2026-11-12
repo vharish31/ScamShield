@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Zhang, the customer manager of some bank, responsible for enterprise loan business. Do you have time to talk now?
+Speaker2: Hey, is there anything you need right now?
+Speaker1: Is that so, our bank recently introduced a low-interest loan service for small and medium-sized enterprises? Do you have any needs in this regard?
+Speaker2: Low interest loan? It sounds good, but I'm not familiar with these.
+Speaker1: No problem, I can give you a detailed introduction. This service is very suitable for small and medium-sized enterprises, the application process is quite simple, if you're interested, you can click on the link I sent you, which has detailed information about the loan.
+Speaker2: Link? I don't see it.
+Speaker1: Okay, it might be a problem with my phone, so I'll send you a text message with a link and my contact info. Just pay attention and check it out.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, there's one more thing. To speed up the approval process, you can provide some basic information first, such as business license and identity proof, which can save a lot of time.
+Speaker2: Okay, I will prepare a moment.

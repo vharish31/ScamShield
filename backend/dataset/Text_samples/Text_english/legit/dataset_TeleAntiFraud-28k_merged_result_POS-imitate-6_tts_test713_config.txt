@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, do you know if this store is still open?
+Speaker2: Hello, are we open now and when do you plan to come?
+Speaker1: I'll be there in about half an hour. Do you have any special recommendations?
+Speaker2: Yes, our store's signboard menu is xiāngxiāng xiè and qīngzhù yú, both very popular.
+Speaker1: Sounds good, I'll just order these two dishes directly.
+Speaker2: Okay, we'll be ready for you at the designated time. Do you need to reserve a location?
+Speaker1: Two people, leaning against the window.
+Speaker2: Okay, I have already reserved it for you. Just tell the server when you arrive.
+Speaker1: Okay, thank you. I'll see you in half an hour.
+Speaker2: No problem, see you in half an hour, welcome.

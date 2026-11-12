@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service of Zhihui Payment. I am Lee Wen. Have you used our service recently?
+Speaker2: Oh, Zhìhùi fāi yòu? Wǒ hǎo xiàng méi yòu xiàng.
+Speaker1: Is that so? We recently launched a promotion offering interest-free loans. Are you interested in learning more?
+Speaker2: No interest loan? Real or fake?
+Speaker1: Just download our app and register to enjoy this benefit.
+Speaker2: Download the app? How do you download it?
+Speaker1: You can download it directly by clicking this link.
+Speaker2: Link? Okay, let me try.
+Speaker1: Okay, the link has been sent to your phone. Please check it out.
+Speaker2: Okay, thank you.

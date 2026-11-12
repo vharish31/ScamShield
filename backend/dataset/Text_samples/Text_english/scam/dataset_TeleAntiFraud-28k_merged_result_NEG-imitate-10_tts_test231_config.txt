@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li Xiaoxiao?
+Speaker2: Yes, hello, what do you have?
+Speaker1: I am the customer manager of the Dongjing Bank in Longxing town. We noticed that your recent business situation at the Longxing town gold processing factory is going well. Would you like to know more about our newly launched loan service?
+Speaker2: Hey, what are the advantages of your loan service?
+Speaker1: Our loan service has no collateral, low interest rate, and fast approval. It's perfect for small businesses like yours. If you're interested, you can click on the link I send you and download our app for more details.
+Speaker2: Okay, I can try. Is this app safe?
+Speaker1: Absolutely safe, we are a regular bank, our APP has passed strict security tests. If you have any issues after downloading, you can contact us anytime.
+Speaker2: Then let's try and see.
+Speaker1: Great! After you download it, remember to register and fill out the application materials. If you have any questions, feel free to contact me anytime. I wish your business continues to thrive. Goodbye!
+Speaker2: Okay, thank you, bye.

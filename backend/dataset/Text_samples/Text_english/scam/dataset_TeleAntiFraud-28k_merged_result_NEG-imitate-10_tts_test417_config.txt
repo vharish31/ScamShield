@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service manager of the commercial bank, we recently launched a special discount loan project, do you know if you are interested in learning more?
+Speaker2: Hey, loan project, I'm pretty tight on cash right now, are you saying the interest rate on this loan is low?
+Speaker1: Yes, our this time's loan interest rate is only 0.03%, and the approval speed is fast, you can withdraw the money anytime.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: It's very simple. Just download our official app, register an account, follow the instructions to fill out the information, and you can submit a loan application.
+Speaker2: How do I know this is your official app if I download it?
+Speaker1: You can download it through our official website, or scan this QR code with your phone for a more convenient and quick way.
+Speaker2: Okay, let me try it out.
+Speaker1: Okay, I'll send you a QR code, just wait a moment.
+Speaker2: Okay, I'll wait for you.

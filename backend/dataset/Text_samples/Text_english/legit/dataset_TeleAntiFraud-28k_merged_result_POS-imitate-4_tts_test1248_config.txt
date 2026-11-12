@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can you please tell me your restaurant's business hours?
+Speaker2: Our restaurant is open from 10 am to 10 pm without any breaks in between.
+Speaker1: Okay, do you have any special dishes?
+Speaker2: We have a signboard for roast duck, steamed fish and spicy pot, all very popular here.
+Speaker1: Does it sound good? I plan to go at noon tomorrow. Do I need to book in advance?
+Speaker2: It's recommended to book in advance, especially on weekends and holidays, as it's usually crowded.
+Speaker1: Okay, I'll reserve a four-person table.
+Speaker2: Okay, I have reserved a four-person table for you at noon tomorrow. Just come directly when it's time.
+Speaker1: Thanks for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival. Goodbye!

@@ -1,0 +1,10 @@
+Speaker1: Hello, you.
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you recommend some weekend travel spots here?
+Speaker2: Of course, do you prefer natural scenery or historical and cultural sites?
+Speaker1: The best place is one that combines natural scenery and historical culture.
+Speaker2: I recommend you to go to the ancient town for sightseeing, there you will not only enjoy the beautiful scenery, but also many historical buildings and cultural activities.
+Speaker1: How should I walk in the ancient town when it sounds good?
+Speaker2: You can take the bus number one from here to the ancient town station, and then there will be a signpost to the ancient town after getting off the bus.
+Speaker1: Okay, thank you for your advice.
+Speaker2: You're welcome, wish you a pleasant journey. If you have any other questions, feel free to consult anytime.

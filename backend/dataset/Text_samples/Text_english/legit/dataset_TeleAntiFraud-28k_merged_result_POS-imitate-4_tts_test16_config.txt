@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to check if there are any morning activities here.
+Speaker2: Hello, we have several morning activities here, such as yoga class and swimming class, which one do you want to know about?
+Speaker1: How is the yoga class, what time is it?
+Speaker2: Yoga class is from 6:30 to 7:30 in the morning, led by an experienced teacher, very suitable for morning relaxation of the mind and body.
+Speaker1: How much does it cost?
+Speaker2: A single experience is 50 yuan, but if you buy a monthly card, it's more discounted, only 300 yuan for a month.
+Speaker1: Can I try it out first? It sounds good.
+Speaker2: Of course, you can come directly to experience it at six o'clock in the morning tomorrow.
+Speaker1: Okay, thank you for your recommendation. I will arrive on time.
+Speaker2: You're welcome! You're here now, you'll definitely have a different experience. See you tomorrow!

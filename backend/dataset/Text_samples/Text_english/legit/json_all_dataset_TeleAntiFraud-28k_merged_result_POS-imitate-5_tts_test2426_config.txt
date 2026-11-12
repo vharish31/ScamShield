@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, I saw your house yesterday, I want to know more about the details.
+Speaker2: Hello, little Li, I am the landlord, you can call me old Wang. What aspects of information do you want to know?
+Speaker1: How much is the rent for the house, and is it possible to rent it for a short period?
+Speaker2: Rent is 3500 yuan per month, and it's possible to rent for a shorter period, but the minimum is three months.
+Speaker1: Okay, how is the water electricity fee calculated?
+Speaker2: Water and electricity fees are calculated based on actual usage, water fees are three yuan per ton, and electricity fees are six yuan per degree.
+Speaker1: Do you know about the surroundings of that house? Is the transportation convenient?
+Speaker2: The environment around the house is great, it's close to the park, transportation is convenient, the bus station is right at the community door and the subway station is a ten-minute walk away.
+Speaker1: I'm quite interested in this house after listening to you talk about it. If it's convenient, I'd like to schedule a time to see it.
+Speaker2: Sure, how about this weekend? Is ten in the morning on Saturday convenient for you?

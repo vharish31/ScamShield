@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you check if your store has beef noodle soup?
+Speaker2: Yes, we have beef noodle soup, chicken noodle soup, and pork noodle soup here. Which one do you want?
+Speaker1: How much does beef noodle soup cost?
+Speaker2: The price of beef noodles is 25 yuan, now there is a 9 yuan discount.
+Speaker1: Okay, can I order a bowl and have it delivered to my home at six tonight?
+Speaker2: Okay, we will deliver to your home before six o'clock.
+Speaker1: My address is Happiness Villa No. 3, Unit 2, 402, Phone: 13801380138.
+Speaker2: Okay, I have recorded it down. It will be delivered at six o'clock. Is there anything else needed?
+Speaker1: No more, thank you.
+Speaker2: No problem, I'm looking forward to your arrival. Goodbye!

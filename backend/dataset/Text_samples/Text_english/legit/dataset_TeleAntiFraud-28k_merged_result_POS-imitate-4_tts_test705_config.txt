@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, my friend recommended me to your hair salon, I want to make an appointment for tomorrow afternoon's haircut.
+Speaker2: Hello, little Zhang, I am the customer service representative here, very happy to serve you. What time is convenient for you?
+Speaker1: I had some free time in the afternoon around three o'clock, do you have any free time on your side at that time?
+Speaker2: Can I help you make a reservation at 3 o'clock? There is a place here for you.
+Speaker1: Okay, can you help me make a reservation? By the way, my hair is a bit long, maybe I need a little more time, is that okay with you?
+Speaker2: No problem, our haircut time here is usually arranged according to personal situations, so you don't need to worry about time issues.
+Speaker1: That's great, thank you for your help.
+Speaker2: No problem, your appointment has been arranged for you. See you tomorrow at 3 pm. If there are any changes, please contact us in advance.
+Speaker1: Okay, I will arrive on time. Thank you again, goodbye.
+Speaker2: Goodbye, wish you a happy day.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, this is the happy restaurant. What can I help you with?
+Speaker1: Hey, what are your special dishes?
+Speaker2: Our signature dishes here include red braised pork belly, steamed fish with ginger and scallions, and spicy stir-fried chicken with peanuts, all very popular.
+Speaker1: Sounds good, are you still open for business today?
+Speaker2: We open shop every day from 10 am to 10 pm.
+Speaker1: Okay, I want to reserve a four-person booth, around 7 pm.
+Speaker2: Okay, the 7 pm private room has been reserved for you. Could you please confirm your name and contact information?
+Speaker1: My name is Li Ming, phone number is 13800138000.
+Speaker2: Okay, Li Ming Xiāngshēng, your reservation has been recorded. Please arrive ten minutes in advance if there are any changes. We wish you a happy meal!

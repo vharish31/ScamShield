@@ -1,0 +1,9 @@
+Speaker2: Hello, I am the small property manager of the community, your recent electricity bill is a bit abnormal, it's possible that you need to check the power line.
+Speaker1: Hmm, is that so? I recently feel like the appliances at home are a bit off.
+Speaker2: Okay, let's arrange an electrician to come over and check the wiring.
+Speaker1: Okay, can you help me arrange it, what time is convenient for you?
+Speaker2: Can I come over at around 10 am tomorrow morning? Are you at home at that time?
+Speaker1: Okay, I should have been at home then.
+Speaker2: Okay, I'll register it, the teacher will be on time tomorrow morning at 10 am. If you have any questions, please contact me anytime.
+Speaker1: Okay, thank you, little Zhang, please.
+Speaker2: No problem, this is what we should do. If you have any questions, please contact us, wish you happy life.

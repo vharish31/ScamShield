@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li Ming?
+Speaker2: Hello, I am.
+Speaker1: Hello, I am the customer manager of Huaxia Bank, Zhang Huai. We noticed that you may have had some issues with using credit cards recently, so we are calling you specifically.
+Speaker2: Oh, really? I haven't used my credit card recently.
+Speaker1: That's right, we found out that your credit card has some overdue payments, if not handled promptly, it may affect your credit record.
+Speaker2: What should I do then?
+Speaker1: It's very simple. You can first click on the link in the text message we sent, log into our official platform, and then follow the instructions to solve the problem.
+Speaker2: Okay, I'll take a look at my phone messages right away.
+Speaker1: Okay, the text message has been sent. Moreover, if you have any questions, you can call our customer service anytime, and our customer service representative will help you.
+Speaker2: Thank you, I'll handle it now.

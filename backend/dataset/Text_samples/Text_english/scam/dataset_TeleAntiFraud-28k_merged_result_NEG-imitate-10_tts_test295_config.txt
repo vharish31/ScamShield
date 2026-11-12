@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of Dongjing Bank, Xiaozhang.
+Speaker2: Hello, do you have anything?
+Speaker1: Have you heard about the new interest-free loan offered by the bank? The interest rate is very favorable.
+Speaker2: "Okay, no need for now, thank you."
+Speaker1: That's really too bad. But if you need anything in the future, you can add my WeChat, feel free to contact me anytime.
+Speaker2: Add WeChat? That's not very convenient.
+Speaker1: No problem, adding a WeChat won't waste your time, and we can communicate anytime, very convenient.
+Speaker2: Okay, let me add you on WeChat.
+Speaker1: Great, my WeChat number is DongGuanLoan123, add me.
+Speaker2: Okay, I'll add you.

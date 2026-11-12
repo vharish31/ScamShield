@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am Zhang, a loan advisor at East Wind Bank. Recently, we have launched a low-interest loan service for car owners. Would you be interested in learning more about it?
+Speaker2: Hello, I currently don't have a loan need.
+Speaker1: Hey, I understand. But our service doesn't require any deposit, and the approval process is very fast. If you have any cash flow needs, you can contact us anytime.
+Speaker2: What are the specific steps to do it?
+Speaker1: It's very simple. You can first scan the QR code I send you via text message, download our official app, fill out some basic information, and get approved quickly for a loan.
+Speaker2: What materials do I need to prepare?
+Speaker1: Please provide photos of your driver's license and ID, and we'll contact you after reviewing the information.
+Speaker2: Okay, I'll give it a try, thank you.
+Speaker1: You're welcome! If you have any issues during the operation, please feel free to contact us anytime. We wish you a happy use!

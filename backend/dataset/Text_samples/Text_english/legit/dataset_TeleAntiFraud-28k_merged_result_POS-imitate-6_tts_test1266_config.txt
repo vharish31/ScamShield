@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what do you have?
+Speaker1: Can you come down and get my package at the community door?
+Speaker2: Okay, just a moment, I'll be right down.
+Speaker1: Thank you, please.
+Speaker2: No problem, standing at the door waiting for me is it?
+Speaker1: Okay, I see you, just at the door.
+Speaker2: Hey, where did you put the package?
+Speaker1: There's a big box next to the mailbox at the door.
+Speaker2: Okay, I found it, let's go back.

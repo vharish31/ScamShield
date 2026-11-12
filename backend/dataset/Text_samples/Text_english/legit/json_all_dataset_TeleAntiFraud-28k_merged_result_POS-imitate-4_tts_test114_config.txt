@@ -1,0 +1,15 @@
+Speaker1: Hi, how are you? I bought a phone at your store. Can you tell me if there's any warranty service?
+Speaker2: Hello, can you help me look up something? Can you tell me the purchase date and model of your phone?
+Speaker1: Okay, I bought a phone last year in December, model is OnePlus 9.
+Speaker2: One plus nine, okay, I'll check it out. Please wait.
+Speaker1: Okay, thank you.
+Speaker2: Found it. Your phone warranty is one year from the date of purchase. Your warranty period has passed, but we have some paid repair services here that you may want to know about.
+Speaker1: This phone has some issues now, the screen is a bit blurry, I don't know if it's because the warranty period has expired, so can't get it repaired for free?
+Speaker2: Yes, if the screen is damaged and not within the warranty, you need to pay for the repair yourself. But, we can provide a discount, if you choose to repair here, you can enjoy an eighty percent discount.
+Speaker1: Eighty percent off, huh? That makes me think twice. How long will it take to fix it here?
+Speaker2: In general, repair time is three to five work days, depending on the difficulty of the project. You can come first, we'll do a preliminary check and then give you a specific repair time and cost.
+Speaker1: Okay, can I come over in the afternoon tomorrow?
+Speaker2: Okay, tomorrow afternoon there will be someone here, you can just come directly. Do you need to make an appointment?
+Speaker1: No need, I'll just go directly.
+Speaker2: Okay, see you tomorrow. I hope we can help you. Bye.
+Speaker1: Goodbye.

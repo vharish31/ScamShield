@@ -1,0 +1,14 @@
+Speaker1: Hello, are you Liu?
+Speaker2: Hey, you talk.
+Speaker1: Hello, I am a customer service representative from JD Finance, based on your purchase history, we found that you recently bought several products, and now there is a special promotion, which can provide you with interest-free installment service, are you interested in knowing more?
+Speaker2: Hey, how does this quarterly service work?
+Speaker1: It's very simple. Just click on the link we send to you, register an account, and then select the products you want to purchase on a installment plan, and you can enjoy interest-free installment services.
+Speaker2: Is the link safe?
+Speaker1: Absolutely safe, this is our official link, you can use it with confidence. To ensure your information is safe, we also provide multiple protection measures.
+Speaker2: Okay, I'll try.
+Speaker1: Okay, please wait a moment, I'll send you the link right away. And if you have any questions, feel free to add my WeChat and contact me anytime.
+Speaker2: Okay, how do I add you on WeChat?
+Speaker1: My WeChat number is jdfinance123, add me and feel free to consult anytime.
+Speaker2: Okay, I added it.
+Speaker1: Okay, if you need to contact me anytime, see you later.
+Speaker2: Goodbye.

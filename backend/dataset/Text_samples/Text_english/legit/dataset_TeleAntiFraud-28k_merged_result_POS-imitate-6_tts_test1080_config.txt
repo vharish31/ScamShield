@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I want to consult your delivery service.
+Speaker2: Of course, I am the delivery boy in this area. What can I help you with?
+Speaker1: Can you recommend some restaurants where we can dine?
+Speaker2: There are many restaurants we cooperate with, such as Sichuan flavor, old Beijing stir-fry noodles, and that pot noodle, which kind of cuisine do you want to eat?
+Speaker1: Can you recommend any Cantonese cuisine?
+Speaker2: Have you tried the water-cooked pork slices and the spicy stir-fried chicken wings at the Sichuan Flavor Restaurant?
+Speaker1: How much does it cost to sound good?
+Speaker2: The steamed pork ribs are 35 yuan, the spicy chicken wings are 28 yuan, and the portions are very generous.
+Speaker1: Okay, I decided to order, how long will it take to deliver?
+Speaker2: What's the delivery time for ordering food now? What's the address?
+Speaker1: The address is 66 Happiness Road, Unit 402, Room 402, Happiness Villa
+Speaker2: Okay, your order has been recorded. It will be delivered in about forty minutes. Please provide a phone number so we can contact you.
+Speaker1: Okay, the phone number is 583166668.
+Speaker2: Okay, 583166, room 402, sent to around 40 minutes, any questions can contact me anytime, wish you enjoy your meal!

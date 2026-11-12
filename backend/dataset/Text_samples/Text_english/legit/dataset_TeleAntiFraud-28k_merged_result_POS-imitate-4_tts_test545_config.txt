@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, I heard your store has many new models.
+Speaker2: Hello, Xiao Ming, welcome to our store. We do have a lot of new phones here. Do you have any specific requirements, such as brand, price range or features?
+Speaker1: I want to know more about the recent popular phones, especially those with good camera quality, within a budget of around 3,000.
+Speaker2: Okay, within this budget range, we have several phones with great camera effects, such as Xiaobai Xing 10 and Lǜgāng V6. Would you have time to go to the store and take a look?
+Speaker1: Can you be at the store at around three in the afternoon today?
+Speaker2: I'm here at the store waiting for you, we can have a detailed chat when you arrive, and take a look at which phone model is best for you.
+Speaker1: Okay, see you then, thank you.
+Speaker2: No problem, looking forward to meeting you, wish you a happy day.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye.

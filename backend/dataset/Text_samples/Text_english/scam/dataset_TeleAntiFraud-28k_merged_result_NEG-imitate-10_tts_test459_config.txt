@@ -1,0 +1,12 @@
+Speaker1: Hello, nice to meet you, I am the general manager of Agricultural and Commercial Bank.
+Speaker2: Hello, Wang Manager.
+Speaker1: Have you heard about the new loan product recently introduced by our bank? It has a very low interest rate, quick approval, and you might be interested in learning more about it.
+Speaker2: Can I borrow some money? I recently have a little bit of cash need, could you give me some details?
+Speaker1: Of course. This loan product is particularly suitable for customers like you. You just need to provide some basic personal information, and we can quickly approve it.
+Speaker2: What information do I need to provide?
+Speaker1: It's very simple. Just provide your identity card number, phone number, and bank flow water. To speed up the approval process, you can first scan the QR code I give you and fill in the relevant information.
+Speaker2: Can you please tell me the specific loan amount and interest rate before scanning the QR code?
+Speaker1: Of course. Based on your credit situation, we can provide a maximum loan amount of 200,000 yuan, with an annual interest rate of only 4.5%. However, in order to confirm your qualification, we still need you to first fill out some basic information.
+Speaker2: Okay, how do I get this QR code?
+Speaker1: Please wait for a moment, I will send the QR code to your phone via text message. Once received, please quickly scan it and fill out the information.
+Speaker2: Okay, I'm waiting for your text message.

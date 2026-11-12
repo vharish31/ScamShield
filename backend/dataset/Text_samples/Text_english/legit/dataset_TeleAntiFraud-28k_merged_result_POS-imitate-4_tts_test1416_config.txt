@@ -1,0 +1,10 @@
+Speaker1: Hey, how have you been lately?
+Speaker2: Hey, how are you? What have you been up to lately?
+Speaker1: No worries, it's just the project is a bit tight, but I can handle it.
+Speaker2: Okay, got it. Do you have time this weekend? Let's go hiking together.
+Speaker1: Good, I haven't gone out to relax in a while.
+Speaker2: So, that's settled. We'll meet at eight o'clock on Saturday morning at the foot of the mountain.
+Speaker1: Okay, so I will get up early on Saturday morning, won't be late.
+Speaker2: Okay, be careful on the road, see you later.
+Speaker1: Okay, see you later, bye.
+Speaker2: Bye.

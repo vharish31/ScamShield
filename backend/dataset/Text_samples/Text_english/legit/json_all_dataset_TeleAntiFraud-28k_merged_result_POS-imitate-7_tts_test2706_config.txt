@@ -1,0 +1,9 @@
+Speaker2: Hey, what's up?
+Speaker1: Can you please tell me your restaurant's business hours and whether it's possible to reserve a seat?
+Speaker2: Of course, our restaurant is open from 10 am to 10 pm every day. You can reserve a seat, please tell me the number of people and time.
+Speaker1: Okay, I'll reserve tonight at seven for four people.
+Speaker2: Okay, the reservation for four people at seven o'clock tonight has been made for you. Please remember to arrive on time.
+Speaker1: Hey, I know, do you have any recommendations for dishes?
+Speaker2: We have several popular menu items here, such as red braised pork, steamed fish with ginger and scallions, and spicy stir-fried chicken, you can try them.
+Speaker1: It sounds great, let's give it a try. Thank you for your recommendation.
+Speaker2: You're welcome! I hope you enjoy your meal at our restaurant today. See you tomorrow!

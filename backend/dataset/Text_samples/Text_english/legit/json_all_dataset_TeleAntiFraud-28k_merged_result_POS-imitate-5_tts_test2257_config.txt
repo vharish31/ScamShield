@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a waiter at some restaurant, you reserved a seat for tonight at six o'clock, remember to be on time.
+Speaker2: Okay, okay, I remember, six o'clock on time.
+Speaker1: That's great, you reserved the window view, can see the scenery, hope you like it.
+Speaker2: Thanks for your reminder. It sounds good.
+Speaker1: No problem, by the way, we have a special discount today. Spend over 500 yuan and get a 90% discount.
+Speaker2: Really? That's great, I can order a few more dishes.
+Speaker1: Yes, you can take a look at our menu beforehand and choose the dishes you like.
+Speaker2: Okay, I'm going online to check now.
+Speaker1: Hey, check the menu and let me know if there's anything unclear, you can call me anytime.
+Speaker2: Okay, thank you for your help, see you later.

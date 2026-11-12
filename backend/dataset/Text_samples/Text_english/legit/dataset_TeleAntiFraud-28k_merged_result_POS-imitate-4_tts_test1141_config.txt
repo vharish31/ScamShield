@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little cloud, the intelligent customer service, our system shows you have an unused shopping credit, it expires tonight at twelve o'clock.
+Speaker2: Oh, really? I don't know how.
+Speaker1: We already sent you a reminder text message earlier, you might have missed it. These points can be redeemed for 400 yuan cash, it's a great deal.
+Speaker2: Uh, like this, can I still use it now?
+Speaker1: Of course, as long as you log in to our website now and select your favorite products for exchange, you can enjoy the discount of cashback with your accumulated points.
+Speaker2: What products can be exchanged with points?
+Speaker1: There are many types of products, such as electronic products, household items, and fashion clothing. There are also some limited-time discount products, such as new phones and smartwatches.
+Speaker2: Okay, I'll take a look. Thank you for reminding me.
+Speaker1: No problem, if you have any issues during the exchange process, feel free to contact me anytime. Have a great shopping!
+Speaker2: Okay, I understand, thank you.

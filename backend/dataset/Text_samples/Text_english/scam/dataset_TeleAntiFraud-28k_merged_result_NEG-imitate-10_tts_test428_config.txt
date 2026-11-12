@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm small Li, from Speedy Express customer service, you recently had a package that hasn't been delivered, we found out after checking that it might have been misoperated.
+Speaker2: Oh, really? Then what do we do now?
+Speaker1: That's it! To make up for you, we have a special promotion, just download our official app and get a 100 yuan shopping voucher.
+Speaker2: Do you want to download the app? It sounds good, how do you download it?
+Speaker1: Very simple, I'll send you a link to your phone right away, you just click the link and you can download it directly.
+Speaker2: Okay, I'll take a look in a moment.
+Speaker1: Okay, wait a moment, the link has been successfully sent, please check your message. After downloading, remember to use the exclusive discount code SDKG to immediately redeem the shopping voucher.
+Speaker2: Okay, I see it, I'm going to download it now.
+Speaker1: Great, if you have any questions, feel free to contact me anytime. Have a nice day, bye.
+Speaker2: Thank you, goodbye.

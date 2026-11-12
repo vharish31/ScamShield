@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I want to reserve a seat for two people at noon tomorrow.
+Speaker2: Okay, your reservation is for two people, time is tomorrow at noon, right?
+Speaker1: Yes, that's this time.
+Speaker2: Do you need to reserve a specific room or can you just take any place?
+Speaker1: Anywhere is fine as long as it's quiet.
+Speaker2: Okay, I will arrange a quiet place for you. What's your name?
+Speaker1: I am named Zhang Ming.
+Speaker2: Okay, Mr. Zhang, your reservation was successful. Tomorrow at noon twelve, we'll meet at the restaurant.

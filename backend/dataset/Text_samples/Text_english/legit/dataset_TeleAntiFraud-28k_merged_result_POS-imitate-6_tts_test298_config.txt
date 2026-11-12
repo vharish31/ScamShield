@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? I am the property manager of your community, your electricity and water bill for this month is not paid yet, can you come over and pay it?
+Speaker2: Okay, I've been busy lately, I forgot, so can I go out this afternoon?
+Speaker1: Sure, come over in the afternoon. Our work hours here are from 8:30 am to 5:30 pm. You can come whenever you're convenient.
+Speaker2: Okay, I should have gone around 3:00, finished paying the water and electricity bills and checked the last month's bill.
+Speaker1: Okay, no problem, I'll be ready when you come, and if you have any questions, you can ask me directly.
+Speaker2: Okay, thank you. I'll see you in the afternoon.
+Speaker1: Hey, afternoon meeting, remember to bring your ID and the previous bill when you come, for verification of information.
+Speaker2: Okay, I know, see you later.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you? I am the waiter of this restaurant, do you want to change the time of your previous dinner reservation?
+Speaker2: Hey, I'm here, I take a look, what's the scheduled time at six and a half in the evening?
+Speaker1: Yes, that's this time. But because there's a temporary meeting today, it might be a bit late.
+Speaker2: Can it be changed to 7 o'clock?
+Speaker1: Okay, 7:00 is fine, I'll adjust your reservation time.
+Speaker2: Okay, thank you. Just one more thing, we'll bring two more people today, six people in total, do we need to adjust the table?
+Speaker1: No problem, for six people, I'll check if there are any available tables. Okay, what special dishes do you want to eat? I can inform the kitchen in advance.
+Speaker2: Can you recommend a few special dishes?
+Speaker1: We have roasted duck with signs and steamed fish, as well as self-made cold dishes, all of which are very popular here.
+Speaker2: Let's try roasting duck and steaming fish with ginger and scallions, and let's also have some cold dishes.
+Speaker1: Okay, I'll remember. I'll directly pick up these dishes later. Are there any other things you need help with?
+Speaker2: Thanks for your help. I'm out of stock for now.
+Speaker1: No problem, feel free to call me anytime, wish you a happy day.
+Speaker2: Okay, bye.

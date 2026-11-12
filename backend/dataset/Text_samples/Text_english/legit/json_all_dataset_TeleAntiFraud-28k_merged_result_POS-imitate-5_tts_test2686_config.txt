@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can I make an appointment for your hairdressing service?
+Speaker2: Of course, we provide booking service here, what time do you want to book?
+Speaker1: Can I see you on Saturday at four in the afternoon?
+Speaker2: Let me check, okay, there's an opening at 4 pm on Saturday afternoon, you can book it for me.
+Speaker1: How long do I need to arrive in advance?
+Speaker2: I suggest you arrive fifteen minutes early, so you can have time to fill out some necessary information.
+Speaker1: What do I need to prepare for my first time coming?
+Speaker2: You just need to bring your ID, and we'll take care of everything else for you.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, looking forward to your arrival, goodbye!

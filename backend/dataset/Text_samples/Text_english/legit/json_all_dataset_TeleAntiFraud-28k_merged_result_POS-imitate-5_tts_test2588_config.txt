@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little king, I saw your store's advertisement, want to know what your special dishes are?
+Speaker2: Hello, little Wang, I'm so happy to serve you. Our store specialties are red braised pork head and steamed fish, both very popular, you can try them.
+Speaker1: Sounds good. What are your business hours?
+Speaker2: We are open from 11 am to 9 pm every day. You can come anytime.
+Speaker1: Okay, do I need to reserve a seat in advance for the weekend?
+Speaker2: There will be more people on weekends, so it's recommended to book in advance to ensure a spot. What specific time slot do you need to book?
+Speaker1: I want to reserve a table for two at noon on Saturday.
+Speaker2: Okay, your two-person spot is reserved for Saturday at noon. Just come directly at that time.
+Speaker1: Thank you, and also, do you have parking spaces in your store?
+Speaker2: Yes, we have a small parking lot behind the store. It's free to park. However, there are limited parking spots, so it's best to come early.
+Speaker1: Okay, thank you for your help, see you on Saturday.
+Speaker2: You're welcome, see you on Saturday, wish you have a nice dining experience. Bye!

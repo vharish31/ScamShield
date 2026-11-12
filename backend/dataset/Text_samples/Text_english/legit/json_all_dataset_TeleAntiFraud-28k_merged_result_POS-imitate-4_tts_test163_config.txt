@@ -1,0 +1,11 @@
+Speaker2: Hello, how can I help you?
+Speaker1: Hello, I want to consult your hair service.
+Speaker2: Of course, we provide various hair services, including cutting, dyeing, and straightening, what specific aspect of service are you interested in?
+Speaker1: I mainly want to cut my hair, don't know how much it costs on your side?
+Speaker2: The price of haircuts varies depending on the hairstyle and difficulty, usually between 150 to 300 yuan, you can check it out, our hairdresser will give you a recommendation based on your needs.
+Speaker1: Okay, do I need to make a reservation?
+Speaker2: I suggest you book in advance, so you can save waiting time. You can tell me a convenient time, I'll help you book.
+Speaker1: Can I meet you at two in the afternoon tomorrow?
+Speaker2: Tomorrow at 2 PM is fine, I've already made a reservation for you, just come directly at that time.
+Speaker1: Okay, thank you.
+Speaker2: No problem, I'm looking forward to your arrival, goodbye.

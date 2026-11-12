@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Zhongxing, you recently purchased a product on our platform and encountered an issue, we need to process a refund for you.
+Speaker2: Really? That's quite annoying.
+Speaker1: Yes, don't worry, we will handle it quickly. For safety reasons, you need to download our official app first, confirm your identity information through the app.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, download it and log in to the homepage's 'Customer Service Center', enter the verification code 123456, we'll process it immediately.
+Speaker2: I understand, I'll operate right away.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact me at any time. Also, for easy communication in the future, you can add my WeChat, my WeChat number is zhangsan123.
+Speaker2: Okay, I'll add one more.
+Speaker1: Thank you very much, I will process your application as soon as possible. After handling the refund, we will also give you a small compensation, as an apology for the inconvenience this time.
+Speaker2: Thank you so much.

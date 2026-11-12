@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: I bought the electric water heater from your store yesterday, and there's a problem with it today.
+Speaker2: Oh no, I'm so sorry, what's the specific issue?
+Speaker1: It's slow to heat up during heating time, and it feels a bit like a short circuit.
+Speaker2: In this situation, you can rest assured, we can first check it out, if it's indeed a quality issue, we can help you replace it.
+Speaker1: Okay, how can I send the jug over to you guys?
+Speaker2: You can directly pick up from our store, or if you're not convenient, we can send someone to your door to pick up.
+Speaker1: Do you have anyone in your store this afternoon?
+Speaker2: Yes, our store business hours are from 9 am to 6 pm, you can come in the afternoon.
+Speaker1: Okay, I'll go over there around three in the afternoon.
+Speaker2: Okay, three o'clock, we'll wait for you. If you have any questions, feel free to call me anytime.
+Speaker1: Bye, thank you, see you later.
+Speaker2: No problem, goodbye.

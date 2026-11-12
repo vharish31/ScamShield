@@ -1,0 +1,9 @@
+Speaker1: Hello, are you booking a seat at our restaurant?
+Speaker2: Yes, can I reserve a four-person table for tomorrow night at seven o'clock?
+Speaker1: Okay, tomorrow at seven o'clock, four people table, no problem. Do you need to order any special dishes?
+Speaker2: We want to order a beef stir-fry and a steamed fish.
+Speaker1: Okay, I have reserved beef stir-fry and steamed fish for you. Do you need to order any other dishes?
+Speaker2: No need for now, thank you. Oh, do you have any free parking spots?
+Speaker1: Yes, there is a free parking lot next to our restaurant, you can park directly there.
+Speaker2: Okay, thank you for your help, see you later.
+Speaker1: No problem, see you tomorrow evening, wish you enjoy your dinner!

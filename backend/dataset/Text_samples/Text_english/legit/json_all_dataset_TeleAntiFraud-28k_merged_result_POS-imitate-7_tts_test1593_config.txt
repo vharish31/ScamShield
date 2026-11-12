@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your car service.
+Speaker2: Hello, this is a taxi service platform. What can I help you with?
+Speaker1: How much does it cost to get from the train station to the city center buildings?
+Speaker2: From the train station to the city center building, based on the current road conditions, the estimated cost is around 50 yuan.
+Speaker1: When can I book a car?
+Speaker2: You can book an appointment immediately through our app, usually a car will arrive within 15 minutes.
+Speaker1: Is there a choice for that car model?
+Speaker2: We offer various car models, including economy, comfort and business, you can choose the appropriate car type when booking.
+Speaker1: Will the driver contact me if I choose a comfortable type?
+Speaker2: The driver will contact you after receiving the order to confirm the specific pick-up location and time.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, wish you a happy journey, bye.

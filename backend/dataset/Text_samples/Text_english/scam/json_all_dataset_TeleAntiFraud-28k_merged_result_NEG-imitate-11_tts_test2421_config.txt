@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank, employee number eight five two. On this end, there is a refund that needs to be picked up.
+Speaker2: Refund? I didn't buy anything that needs a refund.
+Speaker1: That's right, the products you bought from our cooperative store in your previous cooperation with us had quality issues, so the store owner requested a refund for you. To facilitate you, we provided a refund link, which you can click to directly operate.
+Speaker2: Uh, how do I pick it up?
+Speaker1: It's very simple. Just click this link to enter the refund page, input your bank card number and verification code, and the refund will be directly credited to your card.
+Speaker2: Okay, let me try. Give me the link.
+Speaker1: Okay, I'll send it to you right away. Additionally, to ensure the safety of your account, we also need you to provide some personal information, such as your name and ID number, so that we can safely return the funds to you.
+Speaker2: Okay, I'll take a look at the link and then provide you with this information.
+Speaker1: Great! The link has been sent to your phone. Please check it out. If you have any issues, feel free to contact me.
+Speaker2: Okay, thank you.

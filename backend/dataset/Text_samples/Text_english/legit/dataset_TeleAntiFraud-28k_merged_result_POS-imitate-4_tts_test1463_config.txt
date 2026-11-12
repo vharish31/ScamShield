@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I saw your ad for a chef and wanted to know more details.
+Speaker2: Hello, yes, we are indeed recruiting a chef, are you convenient to discuss now?
+Speaker1: Hey, can you tell me the specific work hours and salary expectations now?
+Speaker2: Of course, our work hours here are eight hours a day, one day off a week, and the salary and benefits are between five thousand to six thousand a month, including meals and housing.
+Speaker1: What materials do I need to prepare?
+Speaker2: You need to prepare a resume and relevant chef certificates, if you have work experience, it's best to provide proof.
+Speaker1: Okay, I probably have some free time tomorrow, can we talk face to face then?
+Speaker2: Okay, we will have someone to receive you from 10 am to 4 pm tomorrow. Please choose a convenient time to come.
+Speaker1: Can I go at 2 pm tomorrow afternoon?
+Speaker2: Sure, tomorrow afternoon at two o'clock, we'll wait for you at the company.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

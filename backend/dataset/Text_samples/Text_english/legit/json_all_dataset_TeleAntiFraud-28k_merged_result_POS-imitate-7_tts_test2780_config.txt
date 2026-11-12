@@ -1,0 +1,12 @@
+Speaker1: Hey, are there any masks and supplies left in your store?
+Speaker2: Hello, do you need a regular medical mask or an N95 mask?
+Speaker1: I want to buy N95s, the ones used by the elderly at home.
+Speaker2: Okay, N95 masks are available here, each box contains ten, and they cost fifty-five yuan.
+Speaker1: Do I need to buy three boxes, do you support express delivery there?
+Speaker2: Sure, we can send it through express delivery, usually it arrives within three days.
+Speaker1: Is it possible to return the goods if there are issues after receiving them?
+Speaker2: Sure, if the product has any issues, we accept a 7-day no-questions-asked return.
+Speaker1: Great, I feel much better now. So, I'll place an order now. When will you ship it?
+Speaker2: After you place an order, we will arrange delivery within twenty-four hours.
+Speaker1: Okay, thank you for your patience in answering.
+Speaker2: You're welcome, feel free to consult anytime if you have any questions. Wishing you a happy life, goodbye!

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your hair service.
+Speaker2: Hello, welcome to the fashion salon, I am customer service Li, what can I help you with?
+Speaker1: Do I need to make an appointment to cut my long hair?
+Speaker2: For quality service, we recommend that you book in advance.
+Speaker1: When can I make a reservation?
+Speaker2: You can make an appointment with us through our phone or WeChat public account. It's usually recommended to book in advance one to two days beforehand.
+Speaker1: Okay, can I schedule an appointment for tomorrow afternoon?
+Speaker2: Is there still a time slot available for tomorrow afternoon? How many points would you like to reserve?
+Speaker1: Can we meet around 3 o'clock?
+Speaker2: 3 o'clock is fine, I have booked an appointment for you tomorrow afternoon at 3 o'clock, please arrive ten minutes early.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome. If you have other questions, feel free to consult anytime. Wish you a happy life. Bye.

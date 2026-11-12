@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm little Li, I made an appointment for a shave service at your store, can you confirm the time?
+Speaker2: Hello, little Li, I am customer service king Wang, what time did you book?
+Speaker1: I have an appointment tomorrow at 3 PM, I don't know if there's a location yet.
+Speaker2: Can I check if there's still a spot available at 3 PM tomorrow afternoon?
+Speaker1: Great, what is the name of the special service you mentioned before I saw it online?
+Speaker2: Is the facial massage you mentioned our specialty?
+Speaker1: Is it that one, I want to add one, do I need to pay extra?
+Speaker2: Yes, the special face massage needs an additional 20 yuan, can you see?
+Speaker1: Sure, I've been feeling a lot of pressure at work lately, so it's nice to take a break.
+Speaker2: Okay, your appointment includes a special facial massage. Tomorrow at 3 pm, we'll wait for you at the store. Be careful on the road.
+Speaker1: Thank you, see you later.

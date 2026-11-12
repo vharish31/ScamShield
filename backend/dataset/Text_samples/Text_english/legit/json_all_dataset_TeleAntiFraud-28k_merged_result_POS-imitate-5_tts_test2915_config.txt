@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of an e-commerce platform. You have an unused shopping credit on your account that will expire at midnight tonight.
+Speaker2: Can you tell me how many points I have?
+Speaker1: You have accumulated 23,500 points on your account, which can be redeemed for 3,500 yuan in cash.
+Speaker2: So many, I almost forgot. How do I use these points?
+Speaker1: You can exchange products such as electronic products and home appliances using points through our platform.
+Speaker2: Okay, now I'll go take a look at what suitable products are available.
+Speaker1: Okay, you received a link in the text message, click on the link to directly enter the exchange page.
+Speaker2: Got it, I'll check right away. Thanks for the reminder!
+Speaker1: No problem, if you have any other questions, feel free to contact me. Have a nice shopping!
+Speaker2: Okay, thank you, bye.

@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you? I am the waiter from the happy restaurant you called this morning.
+Speaker2: Hello
+Speaker1: Hey, did you reserve a private room for ten people at our restaurant?
+Speaker2: Yes, indeed.
+Speaker1: Do you need to reserve for this weekend?
+Speaker2: Hey, we have some important activities this weekend, maybe we need to.
+Speaker1: Okay, I'll reserve this for you. Can you tell me the specific time later?
+Speaker2: Sure, this weekend from 2pm to 5pm.
+Speaker1: Okay, from two to five in the afternoon, I have recorded it. Also, do you need to pre-order a few small dishes and big dishes this time?
+Speaker2: About ten, we can discuss the specific menu later.
+Speaker1: Okay, I will confirm the menu one day in advance before the meeting, can you accept it?
+Speaker2: Sure, thank you.
+Speaker1: No problem, if you have any other needs, feel free to contact me anytime. Have a nice day!
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

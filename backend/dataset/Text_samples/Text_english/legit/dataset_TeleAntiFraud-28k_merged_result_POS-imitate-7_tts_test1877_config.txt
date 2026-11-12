@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you? This is Xiaoming's delivery.
+Speaker2: Hello, I want to order takeout, do you have any recommended dishes here?
+Speaker1: There are many menu boards here, such as Kung Pao Chicken, Fish and Noodles, and Spicy Basil and Oil Pot, all of which are very popular.
+Speaker2: I'll have a palace spicy chicken dish and a rice dish.
+Speaker1: Okay, one portion of palace chicken and one portion of rice, do you need anything else?
+Speaker2: No more, just these. Okay, how long will you be able to send them over there?
+Speaker1: In general, we will deliver within 30 minutes after ordering, but there may be a delay during peak hours.
+Speaker2: What's the best time to place an order?
+Speaker1: If you want to receive your meal at noon, it's recommended to place your order forty minutes in advance.
+Speaker2: Okay, I'll order around 11:00. Thank you!
+Speaker1: No problem, feel free to contact us anytime if you have any questions. Enjoy your meal!

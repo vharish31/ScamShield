@@ -1,0 +1,10 @@
+Speaker1: Hi, are there any haircuts available for booking here?
+Speaker2: Hello, yes, this is a hair salon, you can make an appointment.
+Speaker1: Can I meet you at three thirty tomorrow afternoon?
+Speaker2: Can you show me tomorrow's schedule at 3:30 PM?
+Speaker1: How long do I need to arrive at the store?
+Speaker2: Please arrive about ten minutes early, so we have time to prepare for you.
+Speaker1: Got it, I'll take note. Okay, do I need to bring anything special?
+Speaker2: No need to bring anything special, all equipment is here, just come on time and you're good to go.
+Speaker1: Okay, thank you. See you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

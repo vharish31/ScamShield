@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of sequent express, do you have a package that needs to be confirmed for delivery, can you please listen to it for a moment?
+Speaker2: Okay, you say, what do you have any events?
+Speaker1: Our system shows that your package was lost during transportation. Now we need to process a refund, can you provide your bank card information?
+Speaker2: What the hell happened to my lost package?
+Speaker1: I'm very sorry for the inconvenience caused to you, we have confirmed the situation and it is true that there was a problem during transportation. To compensate you, we need you to provide your bank card information so that we can quickly process the refund.
+Speaker2: So, how can I provide?
+Speaker1: You can click on the link we send to you and fill out the relevant information online, and we will process it quickly.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, the link has been sent to your phone, please click to process it quickly. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

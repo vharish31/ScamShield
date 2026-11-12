@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to know more about your coffee machine in the store, I recently want to buy one for home use.
+Speaker2: We have several coffee machines here, with different prices and functions. What do you mainly want to use them for?
+Speaker1: I mainly want to make coffee at home by myself, and occasionally invite friends over.
+Speaker2: I recommend you check out our automatic coffee machine. It's easy to use and you can adjust the strength. It's great for family use.
+Speaker1: How much does this coffee machine cost?
+Speaker2: This coffee machine is priced at 3500 yuan, and now there's a small gift included with purchase.
+Speaker1: Sure, I want to know more about the maintenance policy.
+Speaker2: We provide a one-year free warranty service. If you encounter any issues during use, please contact us at any time.

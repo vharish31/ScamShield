@@ -1,0 +1,9 @@
+Speaker1: Hey, hello, I'm little king, I'm at your community door, can't find your house, can you give me some directions?
+Speaker2: Hello, little king, walk straight along this road, turn right at the second crossroad, and keep going until the end, the last building on the left is it.
+Speaker1: Okay, how long will it take for me to arrive?
+Speaker2: About ten minutes, be careful on the road.
+Speaker1: Okay, thank you, I'm leaving now.
+Speaker2: No problem, be careful on the road, arrived to give me a message.
+Speaker1: Okay, I will.
+Speaker2: Okay, let's meet at the appointed time.
+Speaker1: See you later.

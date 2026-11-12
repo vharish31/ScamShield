@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the speedy express customer service, there's a package of yours that was returned because the address was not detailed, you need to provide a detailed delivery address.
+Speaker2: Oh, really? Why did my package get cancelled?
+Speaker1: It's possible that the address is unclear, or the phone contact is unavailable, for safety reasons, I need you to confirm your identity information.
+Speaker2: Okay, how do I confirm?
+Speaker1: You can click on the link in the text message we sent, fill in the relevant information, and we will quickly resend it.
+Speaker2: Okay, I'll check my messages later.
+Speaker1: Okay, the message will be sent to your phone later, and we have a promotion coming up where you can get a free 200-yuan insulated mug by paying just 10 yuan in shipping fees. Are you interested?
+Speaker2: Really? That's great, I want one.
+Speaker1: Great, just click on the link in the text message, follow the instructions, and any questions can be asked at any time.
+Speaker2: Okay, thank you.

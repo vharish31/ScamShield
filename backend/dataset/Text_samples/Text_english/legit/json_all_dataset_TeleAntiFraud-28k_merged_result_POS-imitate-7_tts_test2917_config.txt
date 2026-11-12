@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what do you have?
+Speaker1: I am the customer service at the food square, you previously booked dinner with us, want to confirm your booking information?
+Speaker2: Oh, I remember now, is it seven o'clock tonight?
+Speaker1: Yes, it's seven o'clock tonight, we reserved a table for four people.
+Speaker2: No problem, we definitely arrive on time.
+Speaker1: Okay, just a reminder, if we're more than fifteen minutes late for the reservation, we might reschedule the seats.
+Speaker2: Understood, we will arrive on time, thank you for reminding us.
+Speaker1: No problem, see you later.
+Speaker2: Okay, see you later.

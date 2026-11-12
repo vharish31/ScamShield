@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? I am the property manager of the community, I want to confirm with you the water and electricity repair appointment, can it be two o'clock this afternoon?
+Speaker2: Hey, how are you? Can I change our meeting to tomorrow morning?
+Speaker1: Okay, what time is convenient for you in the morning tomorrow?
+Speaker2: Can I leave at nine?
+Speaker1: 9 am is fine, let's meet up at 9 am tomorrow morning. Also, there's some construction going on in the neighborhood recently, please be careful when entering and exiting.
+Speaker2: Okay, I will pay attention, thank you for reminding me.
+Speaker1: No problem, please feel free to contact us anytime if you have any questions. Goodbye.
+Speaker2: Goodbye.

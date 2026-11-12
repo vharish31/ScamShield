@@ -1,0 +1,11 @@
+Speaker1: Hello, I am a customer service representative from JD.com. You recently purchased a product on our platform with a quality issue, and you need to process a refund.
+Speaker2: Really? I didn't receive the notification.
+Speaker1: It might be a system delay, now it can be processed. For your safety, we need you to download a security verification software to complete the operation.
+Speaker2: Would you like to download the software? It won't have any problems, right?
+Speaker1: Don't worry, this is the officially recommended software, many users are using it. Only after downloading, we can verify your identity and complete the refund.
+Speaker2: Okay, then what should I do?
+Speaker1: Just click this link to download our official software, then follow the instructions.
+Speaker2: After I download it?
+Speaker1: After downloading, open the software, enter the verification code we provided, and our customer service will guide you through the refund process online.
+Speaker2: I understand, I'll go download now.
+Speaker1: Okay, thank you for your cooperation. If you have any questions, please contact me. Have a happy life.

@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Can you check what movies are playing at the cinema recently?
+Speaker2: Of course, where are you from?
+Speaker1: I am in Xiangjiang city.
+Speaker2: Shanghai, I'll check. What type of movie do you want to see?
+Speaker1: I like to watch sci-fi movies.
+Speaker2: Okay, there's a new sci-fi movie in New Jiang called "Star Crossed Journey", are you interested?
+Speaker1: Star Crossed? How does it sound? What's the ticket price?
+Speaker2: An adult ticket is usually 80 yuan per piece, while a student ticket is usually 60 yuan per piece.
+Speaker1: What was the process of going to the cinema like in the past?
+Speaker2: Starting from your current location, walk straight along Guangming Dajie for 1.5 kilometers until you reach the third crossroad, then continue walking for 500 meters and you will arrive at the New Jiangshan City Film Theater.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, hope you enjoy the movie, bye!

@@ -1,0 +1,14 @@
+Speaker1: Hey, are you little Li?
+Speaker2: Yes, hello, are you the little king of the haircut appointment?
+Speaker1: Okay, I just want to confirm the appointment time for tomorrow.
+Speaker2: Okay, your appointment time is tomorrow afternoon three o'clock, right?
+Speaker1: Yes, it's tomorrow at three in the afternoon.
+Speaker2: No problem, we will serve you at exactly three o'clock tomorrow.
+Speaker1: Okay, what if I arrived early?
+Speaker2: If you arrive early, we will do our best to arrange for you to enjoy our services early.
+Speaker1: That's great, thank you.
+Speaker2: No problem, what do you need to prepare in advance, like special hair style requirements, you can tell me now.
+Speaker1: I want to cut my hair short, not too short, just a little bit.
+Speaker2: Okay, I understand, we will design according to your requirements.
+Speaker1: Okay, can you bother me now?
+Speaker2: No problem, see you tomorrow.

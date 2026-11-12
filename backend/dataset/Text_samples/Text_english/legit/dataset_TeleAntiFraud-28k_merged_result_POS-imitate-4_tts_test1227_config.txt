@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm little Zhang, I want to consult your car wash service.
+Speaker2: Hello, little Zhang, I am small Li from the car wash center, what can I help you with?
+Speaker1: Can you introduce me to the good car wash package here?
+Speaker2: Of course, we have three kinds of car wash packages here: basic, advanced, and luxury. The basic package includes exterior cleaning and costs 50 yuan; the advanced package includes exterior cleaning, interior vacuuming, and glass cleaning and costs 100 yuan; and the luxury package includes all the contents of the advanced package plus waxing and interior disinfection and costs 150 yuan.
+Speaker1: How long do I need to book if I choose the high-level car wash?
+Speaker2: What time is convenient for you to make a reservation for a high-level car wash, which usually takes about an hour?
+Speaker1: Can we meet at three in the afternoon tomorrow?
+Speaker2: Can I book for you tomorrow at three in the afternoon? Please provide your license plate number.
+Speaker1: My license plate number is Jing A12345.
+Speaker2: Okay, Beijing A12345, tomorrow afternoon three o'clock, high-level car wash service booking successful. Come directly by car at that time.
+Speaker1: That's great, thank you for your help.
+Speaker2: No problem, please feel free to contact us if you have any questions. Have a nice trip, goodbye.

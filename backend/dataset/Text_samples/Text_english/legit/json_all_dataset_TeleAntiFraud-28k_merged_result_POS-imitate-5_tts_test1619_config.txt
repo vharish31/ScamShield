@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Do you have a spicy stir-fry here?
+Speaker2: Yes, we have hot pot here, and many other small snacks. What do you want to eat?
+Speaker1: How do you guys calculate the cost of your spicy stir-fry? By the string or by the portion?
+Speaker2: Our stir-fry is priced per string, you can choose your favorite ingredients, one string one dollar.
+Speaker1: Okay, can I have ten pieces with some spicy peppers?
+Speaker2: Sure, you can add chili peppers for free, do you want to add some soup, we have sour and pepper soup here.
+Speaker1: Let's have a sour fish soup, it sounds good.
+Speaker2: Okay, one bowl of sour and spicy fish soup, ten strings of spicy stir-fried, do you need anything else?
+Speaker1: When will you close the door?
+Speaker2: We close business at ten o'clock at night, you're coming too early now, you can slowly eat.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later.

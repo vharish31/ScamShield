@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I'm little king, see your rental info on website, want to know more.
+Speaker2: Hey, little king, we really have a house for rent, what information are you looking for?
+Speaker1: Do you guys have a two-bedroom apartment with a balcony?
+Speaker2: Yes, we have a two-bedroom, one-living-room apartment. The balcony can be used to sunbathe clothes and cultivate some flowers and plants, and the view is very good.
+Speaker1: How much is the rent?
+Speaker2: The rent for this apartment is 3500 yuan per month, with a deposit of three months.
+Speaker1: Can we go take a look at the house this weekend?
+Speaker2: Is it okay, what time is convenient for you this weekend?
+Speaker1: Can I have two o'clock on Saturday afternoon?
+Speaker2: Okay, Saturday afternoon at 2 pm, I'll be here waiting for you, remember to bring your ID.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you on Saturday.

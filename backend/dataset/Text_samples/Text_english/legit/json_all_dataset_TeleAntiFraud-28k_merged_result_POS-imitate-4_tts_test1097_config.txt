@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, just ordered a car from your platform, want to confirm pickup location.
+Speaker2: Hello, Xiao Ming, I am customer service representative Zhang. Where did you order the car from?
+Speaker1: I'm in Shanghai, the pickup location is a parking lot in Xuhui District.
+Speaker2: Okay, what is the specific parking lot in Xuhui District? Can you give me a detailed address?
+Speaker1: The parking lot is at No. 35, Jiangchuan Road, Xiangkou District, Beijing.
+Speaker2: Okay, I checked and your pickup location is indeed at Xiāngkùqū jīngchǎng jiāngchǎng lù sānshìng wǔ zhòngchǎng. What time do you plan to pick up your car?
+Speaker1: I plan to pick up my car at 3 pm tomorrow afternoon.
+Speaker2: Okay, tomorrow afternoon at three o'clock, we will prepare the vehicle for you. Do you need to arrive at the parking lot a few minutes early?
+Speaker1: No need, I arrived on time.
+Speaker2: Okay, noted. If you have any questions, feel free to contact our customer service hotline anytime. Have a nice trip!

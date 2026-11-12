@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the client manager of the Agricultural Bank's Tianhe Branch, and we have a new financial product that's been doing really well lately. Would you like to know more about it?
+Speaker2: Hello, I'm little Zhang, regarding financial products, I'm recently a bit interested, can you simply introduce it?
+Speaker1: Okay, this product is specifically designed for our high-quality customers, with an annual return rate of over 10%, it's extremely cost-effective. Moreover, we have a dedicated app that you can download to view detailed information, as well as personalized one-on-one customer service.
+Speaker2: Listen well, what's the name of this app, how do I download it?
+Speaker1: You can download the "Wealth Link" app from the mobile app store by searching for "Wealth Link". After downloading, register with your phone number and use the verification code to log in. Then you can see detailed product information.
+Speaker2: Okay, I'll download it right away. But, what materials do I need to prepare?
+Speaker1: You just need to prepare your ID and bank card for registration. If you have any questions, you can contact me anytime, my phone number is 13800138000.
+Speaker2: Okay, thank you for your help. I will contact you soon.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes for your investment! Goodbye!
+Speaker2: Goodbye!

@@ -1,0 +1,12 @@
+Speaker1: Hi, I'm small Li, I looked at your website's information, I want to consult your massage service.
+Speaker2: Hello, I am the little king of the massage center, what can I help you with?
+Speaker1: Can you tell me about your full body massage service and how much it costs?
+Speaker2: Our full body massage service has different time packages, a one hour package is 300 yuan, and a half hour package is 455 yuan.
+Speaker1: How many days in advance should I make a reservation if I have one?
+Speaker2: We suggest booking at least one day in advance to ensure there's enough time.
+Speaker1: Sure, can I make an appointment for three o'clock in the afternoon tomorrow?
+Speaker2: Tomorrow at three in the afternoon is okay, I will help you book. What's your contact info?
+Speaker1: Will I be notified after a successful appointment? My phone number is 13800138000.
+Speaker2: Okay, after the appointment is successful, we will notify you via text message. Are there any other matters that need consultation?
+Speaker1: No more, thank you for your help, goodbye.
+Speaker2: No problem, I'm looking forward to your arrival, goodbye.

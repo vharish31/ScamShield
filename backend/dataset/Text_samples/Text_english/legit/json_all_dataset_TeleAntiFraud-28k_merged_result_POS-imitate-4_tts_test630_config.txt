@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, I bought a phone case in your mall, but I haven't received it yet, can you help me check it out?
+Speaker2: Hello, little Li, I am customer service Zhang, can you please provide me with the order number?
+Speaker1: Okay, my order number is one two three four five six seven eight nine.
+Speaker2: Okay, I'll check over here, please wait a moment.
+Speaker1: Okay, thank you.
+Speaker2: Found it, your order has been shipped, the logistics company is SF Express, estimated delivery in three days.
+Speaker1: What about the delivery information? Why haven't I received it yet?
+Speaker2: There might be a slight delay in updating the logistics information, you can log in to our platform now and go to the order details page to check the latest logistics status.
+Speaker1: Okay, I'll check right away. Thank you for your help.
+Speaker2: No problem, if you have any other questions, feel free to contact me anytime. Have a happy life!

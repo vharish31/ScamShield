@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Xiao Wang, I just booked a massage service on your website, can you confirm the time and address of the appointment?
+Speaker2: Hello, Little Wang, can your appointment time be tomorrow at 3 pm?
+Speaker1: Yes, it's tomorrow at three in the afternoon.
+Speaker2: Okay, the appointment address is at the Happy Spa on Happiness Road 100, please arrive ten minutes early.
+Speaker1: Okay, I remember. Do you need to bring anything?
+Speaker2: You don't need to bring anything, we'll provide all necessary items here. If you have any special requirements, please let us know in advance.
+Speaker1: Then I can relax. Right, is your place good for the first time?
+Speaker2: It's very convenient. You can enter from the west of Happiness Road, walk straight for 500 meters, and there's a blue sign on the right, which is our store.
+Speaker1: Okay, thank you for your detailed instructions. See you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy experience.

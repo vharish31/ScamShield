@@ -1,0 +1,12 @@
+Speaker1: Hello, you are Lee Ming? This is the Tmall customer service center.
+Speaker2: Yes, hello, what do you have?
+Speaker1: We found out that the product you bought from our Taobao mall had quality issues, so we need to process a refund for you.
+Speaker2: Oh, really? How do I handle a refund?
+Speaker1: To quickly process, you need to download our special refund processing app, so you can complete the refund process more quickly.
+Speaker2: Okay, how do I download this app?
+Speaker1: Just click this link and follow the instructions to download and install.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Okay, after downloading and installing, you will receive a verification code, enter the verification code to complete the refund operation.
+Speaker2: Thank you, I downloaded the contact information.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Wish you a happy life, goodbye.
+Speaker2: Goodbye.

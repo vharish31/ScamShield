@@ -1,0 +1,12 @@
+Speaker1: Hello, how can I help you at Bawei Tang restaurant?
+Speaker2: Hello, can I reserve a seat at noon tomorrow?
+Speaker1: Sure, you guys?
+Speaker2: Five.
+Speaker1: Okay, five of you, tomorrow at noon twelve, we have reserved seats for you here. Do you need to order in advance?
+Speaker2: Hmm, I want to order your family's signature dishes, red braised pork and steamed fish, and also the pickled vegetables.
+Speaker1: Okay, I have recorded all these dishes. Do you need any other dishes or drinks?
+Speaker2: Let's do it this way for now, and we'll add more later based on the situation.
+Speaker1: Okay, do you need to contact us anytime? And do you know the specific location of our restaurant?
+Speaker2: Yes, at the corner of Lightning Street.
+Speaker1: Yes, it's at the corner of Jingming Street, very easy to find. See you tomorrow, wish you a happy day.
+Speaker2: Okay, thank you, bye.

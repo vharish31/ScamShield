@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Xiao Zhang, and I'd like to inquire about your household services.
+Speaker2: Hello, Xiao Zhang, I am customer service representative Xiao Li, what specific service do you want to consult?
+Speaker1: I'd like to know more about your cleaning service, particularly window cleaning.
+Speaker2: We provide professional window cleaning services, including high-rise building glass cleaning, with costs calculated based on area, approximately ten yuan per square meter.
+Speaker1: Do I need to clean 20 square meters and do I need to make an appointment?
+Speaker2: Please choose a convenient time, we usually provide service from 9am to 5pm on weekdays.
+Speaker1: Can I choose this Friday morning at 10am?
+Speaker2: I can help you make an appointment on Friday at 10 am. Someone will contact you beforehand to confirm the specific location.
+Speaker1: Okay, thank you for your help. See you on Friday.
+Speaker2: No problem, see you on Friday, wish you a happy day.

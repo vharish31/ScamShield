@@ -1,0 +1,10 @@
+Speaker1: Hello, I just ordered food online, but I might have written the address wrong, can you confirm it for me?
+Speaker2: Hello, no problem, can you tell me your order number?
+Speaker1: Okay, my order number is 23456789.
+Speaker2: Okay, I'll check... Hmm, your order is delivered to Happiness Small Community 12th Floor 3rd Unit 402 Room, right?
+Speaker1: It should be the 42nd floor, I live on the 42nd floor.
+Speaker2: Okay, I'll make the changes, apartment 42, unit 3, room 402, right?
+Speaker1: Okay, thank you. And what time will my takeout arrive?
+Speaker2: Alright, your delivery is estimated to arrive in 30 minutes.
+Speaker1: Okay, I'll wait at the front door. Can you call me if there are any changes?
+Speaker2: Of course, your contact number is five five five four four three three two two one, we will keep in touch. Thank you for your cooperation, wish you a happy meal.

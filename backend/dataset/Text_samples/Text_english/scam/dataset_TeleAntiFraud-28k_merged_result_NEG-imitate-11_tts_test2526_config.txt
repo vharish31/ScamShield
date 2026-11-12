@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of China Construction Bank, Wang manager.
+Speaker2: Hello, what do you have?
+Speaker1: Is that so? We noticed your credit status is very good, so we specifically called to recommend a high-limit credit card to you, are you interested in learning more?
+Speaker2: "Uh, I don't need a credit card right now."
+Speaker1: That's really a pity, this credit card not only has a high credit limit, but also many discount activities. If you change your mind, you can click on the link I sent you and apply online.
+Speaker2: Okay, what is the link you mentioned?
+Speaker1: Please wait, I will send it to you soon. You just need to click on the link and fill out some basic information to complete the application.
+Speaker2: Okay, I'll take a look in a moment.
+Speaker1: Okay, the link has been sent to your phone. If you encounter any issues during the process, feel free to contact me.
+Speaker2: Thank you, I will pay attention.

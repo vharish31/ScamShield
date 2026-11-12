@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Yes, I am.
+Speaker1: Hello, I am a customer service representative from HuaXia Bank, we recently introduced a new loan product, no collateral, quick approval, do you have any recent funding needs?
+Speaker2: No, not at the moment.
+Speaker1: Okay, that's fine. But, if you have any capital needs, you can contact us anytime. By the way, can you add a WeChat? It's convenient for you to consult anytime.
+Speaker2: Sure.
+Speaker1: Great, I added you, take a look later, we also have a high-yield investment financial product, are you interested in learning more?
+Speaker2: Is there interest, how to know?
+Speaker1: You can click on the link I sent you to learn more about this product in detail, and you can also directly download our app, register and enjoy more discounts.
+Speaker2: Okay, I'll take a look.

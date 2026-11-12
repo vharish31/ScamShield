@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, do you guys have bike rental service over there?
+Speaker2: Yes, we have bike rentals here. How long do you want to rent it for?
+Speaker1: How much would it cost to rent for a day?
+Speaker2: The daily rent is thirty yuan, the deposit is two hundred yuan, and it will be returned upon the end of use.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: I suggest you make a reservation in advance, so we can prepare bikes for you.
+Speaker1: Can I make a reservation for tomorrow morning at 10 o'clock?
+Speaker2: Okay, you can come at 10 am tomorrow morning. Remember to bring your ID.
+Speaker1: Okay, I noted it down. Thank you. And how do I walk from the train station?
+Speaker2: After getting off the train station, walk straight along the main road for about five minutes, you will see a bus station, take the fifth bus to the terminal station and get off, we are just beside the terminal station.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, be careful on the road.

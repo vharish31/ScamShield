@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am the customer service from Hong Kong flavor. The five ice creams you ordered before are only three left here now. Do you want to change the flavor or get a refund?
+Speaker2: Can I change to another flavor? Do you have any other flavors?
+Speaker1: Do we still have strawberries, raspberries, and chocolate flavor ones? Which one would you like to switch to?
+Speaker2: Then let's switch to the flavor of dragon fruit.
+Speaker1: Okay, we'll quickly prepare the lime flavor ice cream for you. Do you need help with anything else?
+Speaker2: No more, thank you.
+Speaker1: No problem, feel free to contact us anytime if you have any questions. Have a great day!
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye.

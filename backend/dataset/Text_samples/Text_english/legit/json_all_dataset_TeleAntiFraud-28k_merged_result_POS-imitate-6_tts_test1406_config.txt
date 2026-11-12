@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I saw a smartwatch on your website and want to know more about its specific information.
+Speaker2: Okay, please wait a moment. I'll check for you. This smartwatch is our new product on the market, it supports heart rate monitoring, sleep analysis, step count and other functions.
+Speaker1: How much does that watch cost?
+Speaker2: This smartwatch costs 999 yuan, and we now have a promotion. Buy it and enjoy one year of free maintenance service.
+Speaker1: Can I choose cash on delivery?
+Speaker2: Okay, we support cash on delivery. You can choose this payment method when placing your order.
+Speaker1: Okay, I'll place the order now. How long will it take to deliver?
+Speaker2: In general, after placing an order, it will arrive within three to five days. However, if the location is remote, there may be a slight delay.
+Speaker1: I understand, thank you for your help.
+Speaker2: You're welcome! If you have any other questions, please feel free to contact our customer service. Have a great shopping!

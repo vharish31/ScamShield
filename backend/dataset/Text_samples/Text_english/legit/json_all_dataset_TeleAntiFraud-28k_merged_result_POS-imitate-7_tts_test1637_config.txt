@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: I am the customer service of the e-commerce platform. I see that you have a lot of unused shopping points on your account. They will be cleared at midnight tonight.
+Speaker2: Really? Then I lose a lot.
+Speaker1: Yes, these points can be redeemed for a lot of cash, you hurry log in account check available points and exchange options please.
+Speaker2: Okay, I'll go take a look now. Are there any other products that can be exchanged with points?
+Speaker1: Many products are available, such as electronic products, daily necessities, and even some discount coupons can be redeemed.
+Speaker2: That's great, I recently wanted to buy a new phone.
+Speaker1: Well, you can take a look, maybe there's something suitable.
+Speaker2: Okay, thank you for your reminder. I will handle it quickly.
+Speaker1: You're welcome, feel free to contact me anytime if you have any questions. I hope you enjoy shopping!

@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you? I want to consult your takeout service here.
+Speaker2: Hello, I'm very happy to serve you. What can I help you with?
+Speaker1: Can you tell me if you have a vegetarian set meal, and if so, how much does it cost?
+Speaker2: We have various vegetarian set meals here, priced between 20 and 30 yuan, you can choose your own preferred dishes.
+Speaker1: Okay, I want a 20 yuan vegetarian set meal, how long will it take to deliver?
+Speaker2: In general, we arrive within thirty minutes. If it's rush hour, there might be a slight delay.
+Speaker1: Okay, so now I'm placing an order, how long will it take to deliver?
+Speaker2: If you place an order now, it will be delivered in about thirty minutes.
+Speaker1: Okay, I placed the order. Do I need to pay the delivery fee too?
+Speaker2: Yes, the delivery fee is currently five yuan. If you are a first-time customer, we have a new user discount, and the delivery fee can be waived.
+Speaker1: That's great, it's my first order, so I don't have to pay delivery fee.
+Speaker2: Okay, your first order will enjoy free shipping service. Please confirm your address, we will arrange delivery immediately.
+Speaker1: Okay, the address is Tian'an Xiǎoquān shí er shí zhōng lóu sān dān yī xīng sì zhè rè shì.
+Speaker2: Okay, the address has been confirmed. Your order has been submitted, and we will deliver it to you as soon as possible. Thank you for your purchase, and we wish you a happy meal!
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye, welcome back again.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? This is the customer service center. I am customer service representative Zhang. Have you recently encountered any shopping or delivery issues?
+Speaker2: No, I didn't buy anything.
+Speaker1: Hey, like this, have you recently received any express delivery?
+Speaker2: I received it, but there are no issues.
+Speaker1: Great, I have a special discount here that can enhance your shopping experience. Are you interested in learning more?
+Speaker2: What discount?
+Speaker1: We have a new shopping platform, now you can register to enjoy many discounts, such as free shipping on the first order and extra reward points.
+Speaker2: Is it really? How to register?
+Speaker1: It's simple, just click this link and follow the instructions.
+Speaker2: Okay, let me try.
+Speaker1: Okay, this link is http://example.com. Click on it, then fill out some basic information, and you can start enjoying the discount.
+Speaker2: Thank you, I'll go operate now.

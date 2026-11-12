@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of the construction bank. Recently, our bank has launched a special promotion for a low-interest credit loan, with an interest rate of only 0.02. Do you have any financial needs?
+Speaker2: Thanks for your recommendation, I don't need a loan right now as I don't have any cash needs.
+Speaker1: Okay, but consider adding my WeChat if you need to, you can contact me anytime, my WeChat number is China Construction Bank Assistant.
+Speaker2: Wechat? Is it safe?
+Speaker1: Of course, all our bank services are strictly reviewed, and now that I have added WeChat, I can answer your questions anytime and also provide you with some detailed loan information.
+Speaker2: Okay, let me add you on WeChat, but I'm really not in need of money right now.
+Speaker1: Okay, thank you so much. After adding WeChat, I will also send you some financial knowledge to help you better manage your finances.
+Speaker2: Okay, thank you for your recommendation.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you a happy life, goodbye.
+Speaker2: Goodbye.

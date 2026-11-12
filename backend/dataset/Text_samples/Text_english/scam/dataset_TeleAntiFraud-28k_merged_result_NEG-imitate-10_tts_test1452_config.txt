@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Zhang Huai, the customer manager at Beijing Zhong Xing Bank. According to our bank records, there may be unusual activity on your account, so we need you to cooperate and verify it.
+Speaker2: What situation?
+Speaker1: That's it, we detected some suspicious transactions, to ensure your funds are safe, you need to provide us with your latest identity verification information.
+Speaker2: How do I know you're a real bank employee?
+Speaker1: You can check my work number on our bank's official website or directly call our bank's customer service, they will help you verify my identity.
+Speaker2: Okay, I'll check.
+Speaker1: Okay, tell me the result when you finish searching, I'm waiting here.
+Speaker2: I found your information.
+Speaker1: Okay, for safety reasons, we need you to provide your identity card number and bank card number so we can proceed with the next step of verification.
+Speaker2: Okay, my ID number is 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111

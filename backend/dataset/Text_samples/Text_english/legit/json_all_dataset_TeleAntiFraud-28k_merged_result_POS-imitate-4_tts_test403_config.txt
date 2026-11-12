@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, can you come out to eat with me tomorrow?
+Speaker2: Hello, little Zhang, can I, what's a good place?
+Speaker1: There's a new hot pot restaurant that's supposed to be good, I want to give it a try.
+Speaker2: Okay, what time did you go?
+Speaker1: What's six o'clock like?
+Speaker2: 6 o'clock is okay, let's determine the positions of two people.
+Speaker1: Okay, I'll call the restaurant and make a reservation right away.
+Speaker2: Okay, tell me your seat number.
+Speaker1: No problem, I'll tell you after we confirm. Okay, remember to wear thick clothes tomorrow, it's windy outside.
+Speaker2: Okay, thank you for reminding me, see you tomorrow.

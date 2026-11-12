@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiao Ming, I saw a Huawei phone on your website, I want to know more about it.
+Speaker2: Hello, Xiao Ming, I am customer service representative Zhang, very happy to serve you. Which Huawei phone do you want to know about?
+Speaker1: That's the latest model, it's Nova 10.
+Speaker2: Okay, our new phone is the Nova 10. It comes with a high-performance processor, a large battery, and a great camera, making it perfect for photography enthusiasts.
+Speaker1: How much does that phone cost?
+Speaker2: The price of Nova 10 is three thousand five hundred yuan, there is now a discount promotion, you can enjoy a hundred yuan direct reduction.
+Speaker1: Uh, when I place an order now, when will it arrive?
+Speaker2: If you place an order now, we will ship it to you within 24 hours, usually it takes 2-3 days to arrive after shipping.
+Speaker1: Okay, now I'll place an order.
+Speaker2: Okay, you can place an order directly on our website. If you have any questions, please contact our customer service. Enjoy your shopping!

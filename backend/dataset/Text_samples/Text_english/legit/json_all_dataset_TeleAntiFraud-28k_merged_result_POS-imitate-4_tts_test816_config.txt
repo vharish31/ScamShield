@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, I've been considering buying a new car lately, I heard there are many styles here, want to consult?
+Speaker2: Hello, little Li, I am little Wang, very happy to help you. We have many car types here, do you have any special requirements, such as budget or favorite brand?
+Speaker1: I plan to budget around 20,000, I prefer Chinese brands, mainly for home use, occasionally for work.
+Speaker2: I understand, there are several Chinese car brands that are very suitable for family use here, such as Hongqi and Jilin, with high value for money.
+Speaker1: The red flag and the jili are both interesting, I have seen some on the internet before, the design of the red flag is quite good, but I am also quite interested in the popularity of jili.
+Speaker2: The design of the red flag is quite unique, and the value-for-money of the Giuli is high, and the reputation is not bad. I don't know which one you prefer.
+Speaker1: I might prefer the Giuli, I heard its fuel consumption is low and the configuration is quite complete.
+Speaker2: Yes, the fuel consumption of the Giuli car model is very well controlled, and the configuration is very complete. If you have time, you can come to our store to experience the real car and see how it is.
+Speaker1: Do you know if you guys are open on Sunday this weekend?
+Speaker2: We're open on Sunday, you can come directly, I'll prepare a car type introduction and test drive for you.

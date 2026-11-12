@@ -1,0 +1,10 @@
+Speaker1: Hello, you are at China Construction Bank, I am customer manager Li.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed you are one of our bank's high-quality customers, and now we have a special loan project to recommend to you.
+Speaker2: Loan? I don't have any plans for this at the moment.
+Speaker1: This loan project is very favorable, no collateral, fast approval, low interest rate.
+Speaker2: How do I apply for it? It sounds good.
+Speaker1: It's simple, just click on the link I send you and fill out some basic info, and we'll quickly process it.
+Speaker2: Can you provide a link? How can I know if this link is safe?
+Speaker1: We are a legitimate bank, you can rest assured, this link directly connects to our official system.
+Speaker2: Okay, let me try.

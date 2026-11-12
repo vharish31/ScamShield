@@ -1,0 +1,13 @@
+Speaker1: Hey, are you free to talk over there?
+Speaker2: Hey, it's pretty convenient now, what's up?
+Speaker1: I am a staff member at the cinema, there is a new screening of the movie "Time Travelers" that you previously inquired about, are you interested?
+Speaker2: Hey, this movie sounds good, what's the specific time for the screening?
+Speaker1: What time do you prefer between 7:30 tonight and 8:00 tomorrow night?
+Speaker2: What's the schedule for eight o'clock tonight?
+Speaker1: What time is the performance tonight at eight o'clock, and how many tickets do you want to buy?
+Speaker2: Let's go together, my friend and I.
+Speaker1: Okay, two movie tickets, a total of 166 yuan, would you like to pick them up at the theater or have us mail them to you?
+Speaker2: Let's go to the movie theater and buy tickets, and take a look at other movies that are showing.
+Speaker1: Okay, remember to bring your ID when you come tomorrow, and verify the information when picking up your ticket.
+Speaker2: Okay, thank you, see you later.
+Speaker1: No problem, see you later, wish you enjoy the movie.

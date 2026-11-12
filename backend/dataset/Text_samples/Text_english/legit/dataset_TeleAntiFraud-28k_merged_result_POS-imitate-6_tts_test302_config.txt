@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the community management, recently we received some feedback, saying that the water pressure in the community is a little unstable, do you know how your family's situation is?
+Speaker2: Hello, I'm fine, haven't paid much attention to this issue.
+Speaker1: That's great, but in order to ensure that all residents can use it normally, we still want to do some checks. When is it convenient for you? Our maintenance master can go to your home and take a look?
+Speaker2: Okay, whenever you guys come is fine.
+Speaker1: Okay, can we schedule for tomorrow morning around 10 am?
+Speaker2: Okay, ten o'clock is fine.
+Speaker1: It's inconvenient for you to wait at home for a while, but we will arrive on time. If there are any changes, we will contact you in advance.
+Speaker2: Okay, thank you.
+Speaker1: No problem, this is what we should do. If there are other issues, please contact us anytime. Goodbye.
+Speaker2: Goodbye.

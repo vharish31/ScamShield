@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? This is the food square, you ordered food from us before, now you want to confirm if you are satisfied with our service and food?
+Speaker2: Hey, how are you? Is there anything else I can help you with? No special opinions.
+Speaker1: That's great, we recently introduced several new dishes, don't know if you're interested in trying them out?
+Speaker2: Sure, do you have any recommendations?
+Speaker1: Our new spicy hot pot and barbecue fish are very popular, as highly praised by customers.
+Speaker2: How much does it cost to sound good?
+Speaker1: The spicy pot-stove is 68 yuan, the signboard says grilled fish according to size, there are 80 yuan and 120 yuan two kinds.
+Speaker2: Okay, let's try it next time.
+Speaker1: Welcome very much, if you have time, you can call ahead to reserve, avoid queue.
+Speaker2: Okay, thank you for your reminder. I will contact you later.

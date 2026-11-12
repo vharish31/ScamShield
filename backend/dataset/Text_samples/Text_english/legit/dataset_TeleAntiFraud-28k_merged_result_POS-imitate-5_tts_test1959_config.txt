@@ -1,0 +1,16 @@
+Speaker1: Hey, where are you?
+Speaker2: I'm right here next to this location.
+Speaker1: Yes, there's no one around here.
+Speaker2: Where are you? Did you find the mall?
+Speaker1: I saw a clinic.
+Speaker2: That clinic, I'm just standing next to it.
+Speaker1: Strange, I didn't see you.
+Speaker2: I am at the convenience store.
+Speaker1: Convenience store? I saw a private restaurant.
+Speaker2: Private dining room? I can't see any time difference people here.
+Speaker1: "Maybe I got lost, can you send me your location?"
+Speaker2: Okay, I'm waiting for your location.
+Speaker1: Found it, I'm walking towards you now.
+Speaker2: Okay, I'm waiting for you at the convenience store entrance.
+Speaker1: Hurry up, could you please wait for a moment?
+Speaker2: No problem, I'm here.

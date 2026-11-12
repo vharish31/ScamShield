@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural Bank, my name is Lee Huai, we noticed that you recently filled out a loan application on our website.
+Speaker2: Oh, really? I really have this plan.
+Speaker1: Yes, we have various loan products, including low-interest personal consumer loans. I can introduce them to you in detail.
+Speaker2: Okay, I really need some money recently, can you tell me more?
+Speaker1: Of course. First, I need to confirm your personal information. What is the last six digits of your ID number?
+Speaker2: I see, it's 123456.
+Speaker1: Okay, information matching. We have a special loan product, with a low interest rate and fast repayment, all you need to do is download our bank's official app and fill out some basic information.
+Speaker2: Do you want to download the app? Is it the official one?
+Speaker1: Yes, this is our official channel, very safe. I can send you a download link here, just click on the link to download directly.
+Speaker2: Okay, I'll download it later.

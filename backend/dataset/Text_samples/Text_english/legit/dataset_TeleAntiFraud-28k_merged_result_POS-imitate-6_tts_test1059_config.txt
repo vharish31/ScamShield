@@ -1,0 +1,10 @@
+Speaker1: Hi there, I'm little Zhang, can you ask if your store still has that small blue car for rent?
+Speaker2: Hello, how many cars do you have now, Blue Car? When do you plan to rent them?
+Speaker1: Can I borrow a car for about half an hour later?
+Speaker2: Sure, I'll reserve a car for you. Just come to the front desk when you arrive.
+Speaker1: Okay, thank you. By the way, the car I rented yesterday seemed to have no electricity, can I exchange it for another one?
+Speaker2: Of course, after you come back, we'll give you a fully charged car.
+Speaker1: Do I need to cancel my rental record from yesterday?
+Speaker2: No need, I will handle it here, you arrived, just switch cars directly.
+Speaker1: Okay, I'll see you in half an hour.
+Speaker2: Okay, see you in half an hour. Be careful on the road.

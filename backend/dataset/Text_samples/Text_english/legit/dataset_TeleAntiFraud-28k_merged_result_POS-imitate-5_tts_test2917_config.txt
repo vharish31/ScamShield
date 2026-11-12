@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I'm little Li, yesterday I saw that massage chair in your store, today I want to know more about it in detail.
+Speaker2: Oh, little Li, remember you. What aspect of information were you trying to understand with that massage chair?
+Speaker1: Do you have a timer function and can the massage strength be adjusted?
+Speaker2: Yes, this massage chair not only has a timer function, but the massage strength can also be adjusted according to personal preference, very convenient.
+Speaker1: Are there any discounts on the price?
+Speaker2: It's the promotion period now, buy and enjoy a 90% discount, and receive a free in-home installation service.
+Speaker1: Sounds good, I plan to spend the weekend watching, are you guys open on weekends?
+Speaker2: Of course, weekend business hours are from 9am to 9pm, you can come anytime.
+Speaker1: Okay, I'll go to your place on Saturday morning and meet you then.
+Speaker2: Okay, see you on Saturday, welcome to come.

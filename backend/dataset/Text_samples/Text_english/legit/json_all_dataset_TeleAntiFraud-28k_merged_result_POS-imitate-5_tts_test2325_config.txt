@@ -1,0 +1,10 @@
+Speaker1: Hello, I am small Li, I am near your store, I want to consult your family's menu
+Speaker2: Hello, little Li, I am little Wang, our family's cuisine types are many, which one do you want to know about?
+Speaker1: Can you tell me more about your family's double person set menu, what's the price and what's included?
+Speaker2: Our family's double person set meal has two options, one is seafood set meal which includes seafood platter, fish soup and dessert, priced at 180 yuan; the other is home-style set meal which includes red braised pork, steamed fish and fruit platter, priced at 150 yuan.
+Speaker1: Do you have any discount activities at your home now?
+Speaker2: Yes, it's lunchtime now, we offer a 90% discount on all dishes, and also give away a free bottle of drink.
+Speaker1: Can you tell me what time I can arrive for the family dinner?
+Speaker2: If you're booking now, we'll deliver in 45 minutes, so you can prepare your utensils in advance.
+Speaker1: Okay, thank you for your service, I will be ready soon.
+Speaker2: You're welcome, feel free to contact us anytime if you need anything, enjoy your meal!

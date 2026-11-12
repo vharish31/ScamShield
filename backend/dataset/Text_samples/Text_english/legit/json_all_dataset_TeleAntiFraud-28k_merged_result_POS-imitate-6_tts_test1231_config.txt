@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I want to ask about your restaurant's special dishes.
+Speaker2: Hello, Xiao Ming, I am server Zhang, our restaurant special dishes include red braised pork, steamed fish and kung pao chicken, all of which are very popular with customers.
+Speaker1: Oh, it sounds good. How much do these dishes cost?
+Speaker2: Red braised pork costs 38 yuan per portion, steamed fish is priced differently based on size, ranging from 50 to 80 yuan, and palm-braised chicken is 25 yuan.
+Speaker1: Sure, can I reserve a four-person booth for tonight at six o'clock?
+Speaker2: Sure, I can help you book a table at six o'clock tonight at the restaurant. Do you need me to record your phone number?
+Speaker1: Okay, my phone number is 131234567.
+Speaker2: Okay, 1301234567, I have recorded it down. Do you have any other questions?
+Speaker1: No more, thank you for your help, see you later.
+Speaker2: No problem, see you later, wish you enjoy your meal.

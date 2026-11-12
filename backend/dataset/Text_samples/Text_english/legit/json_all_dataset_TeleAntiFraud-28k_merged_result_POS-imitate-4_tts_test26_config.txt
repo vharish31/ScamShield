@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Hi, I'm little Li, I want to consult your fitness programs
+Speaker2: Hello, I am the customer service at the fitness center, you can call me little Zhang. What courses do you want to know more about?
+Speaker1: Can you tell me about your yoga courses and if there have been any recent discount activities?
+Speaker2: Our Yoga classes have beginner and advanced classes on Tuesdays and Thursdays, and on Wednesdays and Fridays. There's a new member activity happening lately, and the first 20 people to sign up get an 80% discount.
+Speaker1: If I sign up now, can I get this discount?
+Speaker2: Of course, you can sign up at any time to enjoy this discount.
+Speaker1: What do I need to prepare?
+Speaker2: You just need to bring your ID and a 1-inch photo to the front desk to get a member card.
+Speaker1: Okay, thank you for your answer. I plan to come over tomorrow.
+Speaker2: No problem, we'll meet tomorrow, you can call before to confirm, to avoid long queue time.

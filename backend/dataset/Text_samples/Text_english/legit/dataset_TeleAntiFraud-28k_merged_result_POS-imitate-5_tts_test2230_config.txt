@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's special dishes?
+Speaker2: We have many special dishes here, such as red braised pork, steamed fish with ginger and scallions, and stir-fried mushroom chicken, all of which are very popular.
+Speaker1: The sound is good, I want to reserve a seat, about five people left and right
+Speaker2: Okay, can you tell me the specific time?
+Speaker1: We plan to go out at around six thirty in the evening.
+Speaker2: Okay, your 6:30 location has been reserved. Can you please confirm your name and contact number?
+Speaker1: My name is Li Ming, phone number is 8888888888
+Speaker2: Okay, Li Ming Xiāngshēng, we have already reserved a seat for you at six thirty in the evening. Just sign your name when you arrive. Is there anything else we can help you with?
+Speaker1: No more, thank you for your help.
+Speaker2: You're welcome, hope you enjoy your meal, bye!

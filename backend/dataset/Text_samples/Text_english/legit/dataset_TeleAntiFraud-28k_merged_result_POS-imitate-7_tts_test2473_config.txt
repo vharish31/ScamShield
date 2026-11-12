@@ -1,0 +1,9 @@
+Speaker1: Hey, where are you going?
+Speaker2: Just arrived at the subway station, you too?
+Speaker1: I'm downstairs at your house, hurry down.
+Speaker2: Okay, I'll get off the bus soon.
+Speaker1: After getting off the bus, turn left and walk straight to the end, you'll see me.
+Speaker2: I know, my phone is out of power, I'll be back in a while.
+Speaker1: Okay, don't rush, be careful on the road.
+Speaker2: Thank you, see you later.
+Speaker1: See you later.

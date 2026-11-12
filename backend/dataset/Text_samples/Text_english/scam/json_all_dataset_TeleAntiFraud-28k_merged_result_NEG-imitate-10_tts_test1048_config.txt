@@ -1,0 +1,9 @@
+Speaker1: Hello, I am a customer service representative from Commercial Bank, we have a special discount loan project, do you have any recent funding needs?
+Speaker2: I don't have any funding needs at the moment, but can you give me a detailed explanation of this project?
+Speaker1: Of course, this project is specifically designed for high-quality customers, with interest rates as low as 0.3%, flexible repayment options, and quick approval speeds. If you're interested, you can click on the link I sent you to learn more details.
+Speaker2: How do I know this link is safe?
+Speaker1: All links on our commercial bank website have been authenticated for safety, so you can click with confidence. If you're not convenient, you can also directly download our official app, which also has detailed explanations.
+Speaker2: What should I do after downloading the app?
+Speaker1: After downloading the app, you can directly register and log in, then on the homepage find our discount loan projects, fill out the relevant information and submit the application. If you have any questions, you can contact our customer service at any time.
+Speaker2: Okay, let me try. Thank you.
+Speaker1: You're welcome. Feel free to contact me anytime if you have any questions. Have a nice day.

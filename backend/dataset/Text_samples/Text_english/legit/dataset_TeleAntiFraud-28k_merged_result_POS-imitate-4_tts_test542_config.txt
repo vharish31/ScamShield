@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, can you tell me if your restaurant has any available seats? We're a group of about five people coming to eat.
+Speaker2: Hello, Xiao Ming, I am server Wang, we have a space here, when are you coming?
+Speaker1: We should arrive around 4:30, but we don't know if there will be a place at that time?
+Speaker2: Quarter to four is usually fine, our guests usually finish eating and rest for a bit in the shop afterwards, you can book in advance to be more secure.
+Speaker1: Great, let's book 4:30 then, but we might be a little late, is that okay?
+Speaker2: Of course, your reserved time can be slightly later, we keep the position for you.
+Speaker1: Thank you very much, we may arrive around six, if we arrive earlier, we will call you in advance.
+Speaker2: Okay, please contact us anytime, we will prepare everything for you. Also, do you need to reserve a specific type of seat? Like a window seat?
+Speaker1: If there's a spot by the window, that's best, we like to enjoy the scenery outside.
+Speaker2: Okay, I will arrange a window seat for you. I hope you and your friends have a pleasant dining experience. Goodbye!

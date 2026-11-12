@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hi, I'm the customer service staff at the supermarket. The mouse bedding you bought a few days ago is out of stock here.
+Speaker2: Is there any alternative product now?
+Speaker1: We can provide wood chips as a substitute, but you need to supplement the difference.
+Speaker2: How much money do we need to supplement the wood chips?
+Speaker1: Can you see that the price of wood chips is nineteen yuan per bag?
+Speaker2: Is it okay, do I need to reorder?
+Speaker1: If it's convenient for you, please reorder to make it easier, or you can directly come to the store to make up the difference and exchange.
+Speaker2: Okay, do you have a mouse-filled duvet?
+Speaker1: Mice are sold here for eight yuan, you can place an order together.

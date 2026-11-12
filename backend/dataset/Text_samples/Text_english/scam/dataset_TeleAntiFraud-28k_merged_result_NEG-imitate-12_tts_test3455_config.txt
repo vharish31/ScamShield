@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you?
+Speaker1: Hello, I am from Huaxin Bank's credit department. Recently we have launched a new loan product, no collateral, fast approval, low interest rate, very suitable for cash flow.
+Speaker2: "Hmm, that sounds good, but I don't need a loan right now."
+Speaker1: That's right, we currently have a promotion going on, if you're interested, you can add my WeChat first, I have some detailed info to send you, take a look and see if it fits.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: My WeChat number is 67345678, add me on WeChat and I will send you the data.
+Speaker2: I understand, I will add yours.
+Speaker1: Okay, let me know as soon as you add it, I will send you the information quickly. Besides loans, we also have some financial products information, if you are interested in finance, you can also take a look.
+Speaker2: The sound of wealth management is not bad, I will take a look. Thank you.

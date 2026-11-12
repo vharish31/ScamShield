@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm small Li, this is XX bank's customer service representative. The loan you applied for in our bank has been approved. Do you need to know more about it?
+Speaker2: Oh, really? That's great, I really need to turn over some cash recently.
+Speaker1: Yes, we can provide you with a loan without collateral, low interest rate, just need some basic information, can quickly disburse funds.
+Speaker2: What do I need to do now?
+Speaker1: Just click this link, fill in the relevant information, and follow the instructions after that.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact me anytime. My phone number is 13812345678.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, wish you a smooth operation, goodbye.
+Speaker2: Goodbye.

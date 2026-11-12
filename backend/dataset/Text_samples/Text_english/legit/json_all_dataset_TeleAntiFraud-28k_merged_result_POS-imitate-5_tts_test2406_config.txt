@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm Li Ming, I made a reservation for housekeeping services at your place before, can you confirm the time?
+Speaker2: Hello, Li Ming, I am a customer service representative from the housekeeping service center. What time did you schedule your appointment?
+Speaker1: I have an appointment tomorrow at 10 am. I don't know if there are any issues.
+Speaker2: Okay, let me check... Yes, tomorrow morning at 10 am we have staff that can come to your home to serve you.
+Speaker1: That's great, the content of the service is clean and organized, right?
+Speaker2: Yes, cleaning and organizing services are included. If there are other needs, such as washing clothes or changing bedding, please inform me in advance.
+Speaker1: Then I'll add an extra laundry service.
+Speaker2: Okay, the laundry service has been arranged. It should take about two to three hours. The specific time will depend on the on-site situation.
+Speaker1: Okay, I understand. How do you calculate the cost?
+Speaker2: The base fee for cleaning and organizing is 200 yuan, and the additional fee for washing clothes is 50 yuan, which totals 250 yuan.
+Speaker1: I understand, so I'll be at home waiting for you guys tomorrow. Thank you for your help.
+Speaker2: No problem, feel free to contact us anytime if you have any questions. See you tomorrow!

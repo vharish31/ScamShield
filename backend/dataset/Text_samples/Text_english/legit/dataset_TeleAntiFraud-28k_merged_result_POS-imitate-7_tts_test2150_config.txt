@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm looking for a new coffee shop that's just opened, I heard it's on the corner of the street, can you help me with the directions?
+Speaker2: Hey, hello, the new coffee shop, from your current location, walk straight to the first crossroad and turn right, then walk two hundred meters left and right to reach it.
+Speaker1: What should I look for as a flag?
+Speaker2: You can see a big red sign with the name of the coffee shop written on it, and there's a painting of a coffee cup on it, so it should be easy to find.
+Speaker1: Okay, then where should I walk from? I'm coming from the subway station.
+Speaker2: Get off the subway station, walk straight ahead until you see the second exit, turn right after exiting from that exit, and you'll be walking towards the big road.
+Speaker1: How long will it take me to walk over there?
+Speaker2: If you walk, it will take about fifteen minutes, but if you take a taxi, you can arrive in five minutes.
+Speaker1: Okay, thank you, I decided to walk over there and enjoy the morning air.
+Speaker2: No problem, be careful on the road, hope you have a good day.

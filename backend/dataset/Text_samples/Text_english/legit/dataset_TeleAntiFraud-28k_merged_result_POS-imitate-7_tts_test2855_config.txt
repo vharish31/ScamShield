@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, are your rooms in the North China apartment still rented out?
+Speaker2: Still renting
+Speaker1: How much is the rent for this house now?
+Speaker2: The current rent is 3,000 yuan per month, without furniture. If furniture is included, it's 3,500 yuan.
+Speaker1: Hey, I have a customer who wants to see a house, can we set a time?
+Speaker2: Can you come at what time is convenient for you?
+Speaker1: Are you going out this weekend?
+Speaker2: Can we go on the weekend? Is it on Saturday or Sunday?
+Speaker1: Is Sunday morning okay?
+Speaker2: What time did you arrive on Sunday morning?
+Speaker1: Are you leaving at nine?
+Speaker2: 9 o'clock is fine, just come directly.
+Speaker1: Okay, thank you, see you later.
+Speaker2: See you later.

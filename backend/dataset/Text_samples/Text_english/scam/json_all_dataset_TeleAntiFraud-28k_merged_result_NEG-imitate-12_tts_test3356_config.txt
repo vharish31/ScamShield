@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, this side is XX investment company, recently there's a high return investment project, want to know more about it?
+Speaker2: Hello, high return? It sounds good, what project is it?
+Speaker1: This is a new blockchain investment project with stable returns and low risk. It has recently attracted many customers. Are you interested in learning more?
+Speaker2: Oh, this way, I have a little bit of spare money lately, can you tell me more details?
+Speaker1: Okay, great, for safety reasons, I need you to provide me with your identity card number and bank card number, we will create an account for you in the system.
+Speaker2: Oh, like this, then how do I know this project is reliable?
+Speaker1: Our company is certified by the government, so it is absolutely reliable. Moreover, for your convenience, you just need to download our app, and all operations can be completed on the app, which is very convenient.
+Speaker2: Download the app? How do you download it?
+Speaker1: You can search 'XX investment' on your phone app store and download our official app. After installation, you will have detailed instructions. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, I'll give it a try, thank you for your recommendation.

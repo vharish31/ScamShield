@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Lee Huai?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for express delivery, Li Huai, your package was accidentally lost during transportation, we are ready to give you a refund, please provide your bank card number.
+Speaker2: Is it really? That's too troublesome, how do I get a refund?
+Speaker1: To make it convenient, you can click on the link we give you and follow the instructions, then you can quickly complete the refund.
+Speaker2: Okay, I'll go check the links later.
+Speaker1: Okay, the link will be sent to your phone later, please pay attention to check it, if there's any problem you can contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, this is my job, please handle it quickly, wish you happy life.
+Speaker2: Okay, bye.

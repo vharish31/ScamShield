@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, this is the online customer service of China Construction Bank, I am customer service representative Li Xiao, we recently launched a special promotion activity, are you interested in learning more?
+Speaker2: What activity?
+Speaker1: Do you want to know more about our special investment project that promises an annual return of 10%, with very low risk?
+Speaker2: Listen well, how to join in?
+Speaker1: Great, you just need to download our special software, I have a download link here, I'll send it to you via text message later, you download and complete registration, then tell me your account info, and I can help you operate.
+Speaker2: Okay, I'm waiting for your text message.
+Speaker1: Okay, please wait for a moment, I'll send it to you right away. Moreover, for safety reasons, we suggest you directly add my private WeChat, so we can communicate more conveniently.
+Speaker2: Okay, send me your WeChat.

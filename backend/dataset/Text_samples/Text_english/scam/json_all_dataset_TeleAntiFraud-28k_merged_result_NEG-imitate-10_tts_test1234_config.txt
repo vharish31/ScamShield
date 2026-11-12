@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Sure, you say.
+Speaker1: Hey, I'm a customer service representative from Commercial Bank, we noticed you had a loan record with us before, now we can offer you an additional 30,000 credit line.
+Speaker2: Is it really? How do you operate?
+Speaker1: Yes, this is a special opportunity. Just click on the link we send to you and fill out some basic information to complete the application.
+Speaker2: Link? How do I give it to you?
+Speaker1: I can directly send you a link through text message. Just provide your phone number, and we'll send it right away.
+Speaker2: Okay, my phone number is 13800138000.
+Speaker1: Okay, 13800138000, we will send you the link right away. By the way, if you have any questions, you can add my WeChat, my name is Lee Huai, my WeChat number is also my phone number.
+Speaker2: Okay, I'm waiting.

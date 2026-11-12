@@ -1,0 +1,15 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, I'm Xiao Wang, I just passed by your store, saw the advertisement on the door, I want to ask about it.
+Speaker2: Hey, hello, little king, yes, we are really hiring new employees.
+Speaker1: What kind of positions are you mainly recruiting for?
+Speaker2: The main tasks of cashiers and store clerks are to greet customers, ring up sales, and stock merchandise on shelves.
+Speaker1: What is the working hours for this job?
+Speaker2: We implement two shifts, the early shift is from 9 am to 5 pm, and the late shift is from 3 pm to 10 pm.
+Speaker1: What about the salary and benefits?
+Speaker2: Base salary plus commission, base salary is 3,000 yuan per month, commission is defined based on sales revenue.
+Speaker1: What materials do I need to prepare for the interview?
+Speaker2: Please bring your ID and resume, we can first get a simple understanding of your basic situation.
+Speaker1: Okay, can I come for an interview at three in the afternoon tomorrow?
+Speaker2: Sure, tomorrow afternoon at three o'clock, we meet at the store.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: See you tomorrow, goodbye.

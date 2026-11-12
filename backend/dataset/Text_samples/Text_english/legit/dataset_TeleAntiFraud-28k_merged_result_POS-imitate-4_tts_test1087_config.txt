@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you?
+Speaker1: Are you at the exit of the subway station?
+Speaker2: Yes, I am at the subway station exit, but it seems a bit stuffy here.
+Speaker1: You can walk forward a little to see if there's any uncongested place.
+Speaker2: Okay, let me try.
+Speaker1: Where are you going?
+Speaker2: I want to go to the library, but I'm not sure about the route.
+Speaker1: You can walk along the main road in the library and then turn right at the second crossroad.
+Speaker2: Okay, thank you.

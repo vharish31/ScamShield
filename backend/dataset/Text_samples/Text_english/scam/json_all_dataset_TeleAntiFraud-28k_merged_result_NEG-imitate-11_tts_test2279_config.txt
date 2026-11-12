@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am Lee Ming from Huaxia Bank. Recently we launched a low interest loan product. Do you have any funding needs?
+Speaker2: Thanks, no need.
+Speaker1: Don't you need to consider it? This loan product has a very low interest rate, and the approval speed is fast, no collateral is required.
+Speaker2: No need, thank you.
+Speaker1: Okay, but if you need anything in the future, you can add my WeChat, feel free to contact me anytime.
+Speaker2: Add WeChat and I won't use it anymore, thank you.
+Speaker1: Okay, I'll send you a text message with a link. You can click on it to learn more when you need to.
+Speaker2: No longer needed, really, thank you.
+Speaker1: Okay, I won't disturb you anymore. You can contact me anytime. Bye.
+Speaker2: Bye.

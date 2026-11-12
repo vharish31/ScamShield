@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Li, the manager from Guangan Bank. We noticed you've been looking for loan services lately. I can provide you with a convenient service that offers no collateral and quick loans. Do you have any needs in this regard?
+Speaker2: Can you give me a specific explanation of how I can get a cash flow right now?
+Speaker1: Of course, I can provide you with a loan of thirty thousand yuan, with an extremely low interest rate, for only two yuan. However, in order to ensure safety, we need you to pay a fee first, which is a processing fee for the loan, and this fee will be deducted from the loan amount. Do you agree?
+Speaker2: How much is the handling fee?
+Speaker1: The closing fee is 0.5% of the loan amount, which is 6,000 yuan. This fee is not refundable, but will be deducted from the loan amount upon successful loan approval.
+Speaker2: How do I pay this fee?
+Speaker1: Just click on the link I sent you, fill in the relevant information and complete the payment, it's very simple.
+Speaker2: Okay, I'll try. You send me a link.
+Speaker1: Okay, just a moment, I will immediately send you the link. Please complete the operation within half an hour to avoid missing the offer.
+Speaker2: Okay, I understand now, thank you.

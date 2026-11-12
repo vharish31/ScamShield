@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer service representative of the Commercial Bank, Zhang Manager.
+Speaker2: Hello, what's up?
+Speaker1: That's right, we noticed some recent changes in your loan records at our bank, and we wanted to check if you have any new funding needs. We can offer you interest rates as low as two cents.
+Speaker2: Two yuan? It sounds good, but I already have a loan.
+Speaker1: I understand your concerns, but our loan products are very flexible, you can repay early at any time, and there's no penalty for early repayment.
+Speaker2: So, I really need some capital rotation, how do I apply?
+Speaker1: Great! To simplify the application process, you can scan the QR code on the screen to download our exclusive app, and submit the application through the app. We will quickly review it.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Thank you very much for your cooperation. If you have any questions, you can directly contact us in the app. Wish you a happy life. Goodbye.
+Speaker2: Thank you, goodbye.

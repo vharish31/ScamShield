@@ -1,0 +1,10 @@
+Speaker1: Hi, it's me, little Li, the customer service at the food square. Just a reminder, your accumulated consumption points at our place will expire tonight at twelve o'clock.
+Speaker2: Oh, really? I don't know how I missed it.
+Speaker1: Yes, you accumulated over ten thousand points in our store, which can be exchanged for many discount coupons and gifts.
+Speaker2: What can I exchange these points for?
+Speaker1: You can exchange a 50 yuan meal voucher, a 50 yuan shopping voucher, or some small gifts, such as a thermos flask or kitchenware.
+Speaker2: Listen well, then how do I exchange it?
+Speaker1: You can operate in our WeChat mini-program, open the mini-program, click on the points mall, select the gift you want, and then click on exchange to complete the transaction.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you encounter any issues during the operation, please contact our customer service at any time, we will help you solve them.
+Speaker2: Okay, thank you for your reminder. I will handle it quickly.

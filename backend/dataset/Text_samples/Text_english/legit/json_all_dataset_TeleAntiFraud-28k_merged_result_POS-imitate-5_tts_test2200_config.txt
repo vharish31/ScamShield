@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: Are you at home?
+Speaker1: Shall we go together to pick some fruits? I'm outside and planning to buy some watermelon.
+Speaker2: Okay, I'm bored at home, where are you waiting for me?
+Speaker1: I'm at the supermarket door, hurry up and come over.
+Speaker2: Okay, I'll leave right away. Can you check if there are any new apples?
+Speaker1: Okay, let's see. Alright, what do you want to eat for dinner?
+Speaker2: Okay, you decide, I'll be back later to talk.
+Speaker1: Let's go, what good food do you have, come quickly.
+Speaker2: Okay, see you later.

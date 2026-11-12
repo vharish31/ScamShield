@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker2: Hey, you say
+Speaker1: I want to consult your delivery service here.
+Speaker2: Okay, what information are you looking for?
+Speaker1: What's the latest time you can deliver food?
+Speaker2: Our latest delivery time for dinner is 10 pm. If you have any special requirements, we can try to coordinate.
+Speaker1: That's great, I'm working late until nine tonight, can I order food?
+Speaker2: Of course, you can place an order in advance, we will deliver it to your convenient time.
+Speaker1: Okay, can I place an order at eight o'clock and have it delivered at nine and a half?
+Speaker2: Okay, we will deliver on time. Please pay attention to answering the phone.

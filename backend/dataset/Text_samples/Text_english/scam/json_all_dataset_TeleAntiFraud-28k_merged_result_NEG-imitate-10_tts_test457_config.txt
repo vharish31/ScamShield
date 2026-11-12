@@ -1,0 +1,12 @@
+Speaker1: Hello, you good, here is JD customer service center, I is customer service specialist Li.
+Speaker2: Hello, what do you have?
+Speaker1: It seems that there are some issues with the products you recently purchased on our platform, and we need to handle them for you.
+Speaker2: What's the issue?
+Speaker1: Your order number starts with 12345, and there may have been damage to the products during transportation. We suggest you process a refund.
+Speaker2: Okay, how do I get a refund?
+Speaker1: To facilitate your operation, we have provided a dedicated refund link for you. You can click on this link and follow the instructions to proceed.
+Speaker2: Link? How do you send it to me?
+Speaker1: You can add my WeChat, I can directly send the link to you through WeChat, which is more convenient.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: My WeChat number is JDCustomService123. Add me and I'll send the link right away.
+Speaker2: Okay, I'll add you soon.

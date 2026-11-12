@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I'm Lee Ming, from the customer service department of China Construction Bank.
+Speaker2: Hello, what can I help you with?
+Speaker1: We noticed that you may have recently had a need for cash flow, so we are providing you with a low-interest loan of 2.5%.
+Speaker2: Really? Then how do I apply?
+Speaker1: It's very simple. Just scan the code we provide, download our official app, and follow the instructions.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, we are a regular financial institution, all operations are under supervision. Moreover, to ensure your information safety, we need you to provide a verification code, I will send you a short message later.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the verification code has been sent to your phone. Please check it. After entering the verification code, you can successfully apply for a loan.
+Speaker2: I received the verification code, I'm going to download the app right away.

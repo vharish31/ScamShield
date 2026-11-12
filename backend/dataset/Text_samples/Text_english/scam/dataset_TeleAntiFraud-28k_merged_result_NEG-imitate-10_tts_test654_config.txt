@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the city commercial bank customer service center. I am customer service representative Wang. Recently, there have been some unusual activities in your account with us. We need you to cooperate to verify them. Are you available now?
+Speaker2: Hey, really? I haven't used this account recently, can you check and see if there's anything unusual?
+Speaker1: That's it, we detected a large amount of money transfer request, possibly due to your account information being leaked. For your account safety, we recommend you immediately log in to our official website for identity verification.
+Speaker2: How do I log in?
+Speaker1: You can click the link I'll send you later to enter the verification page. It's safe, don't worry, just follow the instructions on the page.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, I'll send you the link right away. If you have any questions, feel free to call our customer service anytime, we'll help you.
+Speaker2: Thank you, I will pay attention.
+Speaker1: You're welcome, we always provide the best service to you. If you have any questions, please contact us anytime. Have a happy life, goodbye.
+Speaker2: Goodbye.

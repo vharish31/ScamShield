@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw a smartwatch on your website and wanted to know more about its specifics.
+Speaker2: Okay, our smartwatch has health monitoring, step count tracking, and heart rate monitoring features, very practical.
+Speaker1: How long does the battery of this watch last?
+Speaker2: This watch's battery life is approximately five days, and it can be used for a long time after one charge.
+Speaker1: How much does it cost to sound good?
+Speaker2: This smartwatch is priced at 980 yuan, and there's a limited-time discount promotion now.
+Speaker1: Do you have a warranty service?
+Speaker2: Yes, we provide a one-year warranty service, any issues can contact us, we will quickly solve them for you.
+Speaker1: Okay, thank you for your detailed introduction. I will consider it.
+Speaker2: No problem, feel free to ask any questions anytime. Have a great day!

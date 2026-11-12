@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I just booked a train ticket to Beijing on your website. Can you confirm the order information?
+Speaker2: Hello, I am a customer service representative. Could you please tell me your order number? I will check it for you.
+Speaker1: Order number is one two three four five six seven eight nine, please you.
+Speaker2: Okay, I found it. Your order status is paid, the train number is G123, the departure time is tomorrow morning at eight o'clock, from Shanghai Xuhui Bridge Station.
+Speaker1: How early do I need to arrive at the station?
+Speaker2: I suggest you arrive at the station at least half an hour in advance to avoid missing the train.
+Speaker1: Okay, thank you for your reminder. Is it okay to eat food on a car?
+Speaker2: Of course, but please keep the car clean and don't shout loudly.
+Speaker1: I understand. What should I do if I feel uncomfortable while in the car?
+Speaker2: Each carriage has a steward, you can help yourself anytime you feel uncomfortable.
+Speaker1: Okay, thank you for your help. I wish you happy work.
+Speaker2: You're welcome, wish you a pleasant journey, goodbye.

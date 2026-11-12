@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, this is the happy finance service center, I am your personal customer manager, Wang.
+Speaker2: Hello, are you talking about the bank?
+Speaker1: Yes, we provide professional financial services, such as no-collateral loans, fast approval. Do you have any recent funding needs?
+Speaker2: Oh, I take a look, lately it's really tight.
+Speaker1: Great, we have a special opportunity here. Just download our app, register and fill out some basic information, and you can quickly apply.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, our app is available in all major app stores and we have already helped many customers solve their financial problems, so you can completely relax.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you download the app, remember to check the box to agree to our service terms and then fill out your personal information. If you have any issues, feel free to call our customer service hotline anytime.
+Speaker2: Okay, thank you.

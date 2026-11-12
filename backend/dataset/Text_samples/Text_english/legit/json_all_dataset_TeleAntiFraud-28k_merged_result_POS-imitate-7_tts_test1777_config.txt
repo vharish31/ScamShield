@@ -1,0 +1,14 @@
+Speaker1: Hello, are you at the Qingyun Hotel?
+Speaker2: Hello, this is the Qingyun Hotel. How can I help you?
+Speaker1: I plan to stay at your hotel for one night this weekend and inquire about the room price and type.
+Speaker2: Of course. Our hotel has standard rooms, business rooms, and luxury suites. The standard room is 288 yuan per night, the business room is 388 yuan, and the luxury suite is 688 yuan.
+Speaker1: Is there a bathtub in the business office?
+Speaker2: The business center has shower facilities. If you need a bathtub, you can consider booking a luxury suite.
+Speaker1: Is breakfast included in the suite?
+Speaker2: Yes, the reservation for the luxury suite includes breakfast for two.
+Speaker1: Okay, I decided to book a luxury suite for one night, can you reserve it for me?
+Speaker2: Of course, in order to reserve a room, I need your name and contact information.
+Speaker1: My name is Li Ming, phone number is 13801380138.
+Speaker2: Okay, Mr. Li, I have already booked a luxury suite for you on Saturday night. Do you have any other needs?
+Speaker1: No more, thank you for your help, see you this weekend.
+Speaker2: No problem, wish you a happy weekend, we meet on Saturday.

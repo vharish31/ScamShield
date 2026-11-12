@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Qingyun restaurant, do you have any takeout order to confirm?
+Speaker2: Hello, I am Zhang Huai, my order is delivered to Tiansheng Xiǎoquān.
+Speaker1: Okay, Mr. Zhang Huang, your order is ready. It will be delivered to Tiancheng Small Community in about 30 minutes.
+Speaker2: Okay, thank you, when can I pay approximately?
+Speaker1: You can choose to pay the delivery man upon arrival or to pay online.
+Speaker2: I'll choose online payment, it's more convenient.
+Speaker1: Okay, you can find the order in our app and pay by clicking on it.
+Speaker2: Okay, I understand. Can I contact you if there are any issues?
+Speaker1: Of course, our customer service phone is 400-123-4567, please welcome your call anytime.
+Speaker2: Okay, thank you, I'll pay later.

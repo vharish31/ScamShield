@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Liu, can you tell me what special dishes your restaurant has?
+Speaker2: Hello, little Liu, welcome to the phone. Our restaurant's special dishes include Kung Pao Chicken, Steamed Fish and Beijing Roast Duck, all of which are very popular.
+Speaker1: How are the prices of these dishes?
+Speaker2: The price of palace chicken is 38 yuan, the price of steamed fish is 68 yuan, Beijing roast duck is a little more expensive, 120 yuan per duck.
+Speaker1: Okay, I also want to know your business hours.
+Speaker2: Our restaurant business hours are from 10 am to 10 pm, on weekends they will be extended to 11 pm.
+Speaker1: Do I need to make reservations in advance for trying out with friends on the weekend?
+Speaker2: It's recommended to book in advance, especially on weekends, when there are more customers, booking can ensure a place.
+Speaker1: Okay, I want to reserve a four-person private room, time is this Saturday evening at 7 o'clock, can I?
+Speaker2: Okay, your four-person private room for Saturday night at 7pm has been reserved for you. Remember to bring your reservation information.

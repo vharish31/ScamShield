@@ -1,0 +1,15 @@
+Speaker1: Hi, how are you? I'm small Li, the smartwatch you bought on our website has a scratch on the screen, can we handle it here?
+Speaker2: Yes, there are scratches on the screen, which affects its usage.
+Speaker1: I saw the photo you sent, it's quite obvious.
+Speaker2: If I can't solve this problem, I might have to consider returning it.
+Speaker1: In this way, I suggest first checking if other functions are normal, if it doesn't affect use, we can provide free screen protection service.
+Speaker2: Other functions are fine, but the screen scratches affect mood.
+Speaker1: Understand your feelings, how about we arrange a free screen replacement service on our end? What do you think?
+Speaker2: You can change the screen for free, but you have to ensure the quality, don't let this problem happen again.
+Speaker1: Don't worry, we will pay special attention this time. When do you want to come to change the screen service?
+Speaker2: Can I have some time off next Friday?
+Speaker1: What time would you like to meet on Friday next week?
+Speaker2: Let's meet at two o'clock in the afternoon.
+Speaker1: Okay, next Friday at 2 PM, we will be ready and waiting for you. If there are any changes, we will contact you in advance.
+Speaker2: Okay, thank you, let's meet on Friday.
+Speaker1: No problem, see you on Friday, goodbye.

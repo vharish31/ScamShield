@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you? I want to ask about your family's air conditioning repair service.
+Speaker2: Hello, we provide air conditioning repair service here. What specific information do you want to know?
+Speaker1: Can you come over and check my air conditioner?
+Speaker2: Sure, we provide on-site repair services. Can you provide an address and contact information?
+Speaker1: I live in the Sunlight Apartment, the phone number is 134567890.
+Speaker2: Okay, Yánggāng xiǎojī, wǒ jǐngxiào liè dài. Wǒmen yīgèn huì yào yào huì shīshū xiào shì, nǐ kàn míngtiān shàngwǔ shí shí yīgèn huì shīshū xiào shì?
+Speaker1: Can I come at 10 am tomorrow? What time will the teacher arrive?
+Speaker2: Typically, the master arrives at the appointed time minus half an hour, which is around 9:30.
+Speaker1: Okay, when do I come back? Is maintenance on the front door charged by the number of times or by the hour?
+Speaker2: We charge by the time, simple check does not take any fee, if you need to change parts, we will calculate the fee according to the cost of the parts plus the service fee.
+Speaker1: I understand, so I'll come to your teacher's house tomorrow.
+Speaker2: Okay, so we'll agree to meet tomorrow morning at 10am. If there are any changes, we'll contact you in advance. Do you have any other questions?
+Speaker1: No more, thank you.
+Speaker2: You're welcome. Have a nice day. Bye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi there! I'm the customer service representative for the point store. I see you have a lot of points in your account that haven't been used yet. Tonight at midnight all your points will be cleared. Do you know?
+Speaker2: Really? I didn't know points could be redeemed for cash?
+Speaker1: Yes, points can be directly deducted from cash, your account currently has over 26,000 points, which can be exchanged for many good things, such as white wine gift boxes, famous brand suits, high-definition TVs, and smartwatches.
+Speaker2: That's great, I recently want to change my smartwatch, can you tell me how to exchange it?
+Speaker1: Of course, you just need to log in to our point store, select your favorite smartwatch, and then use points to redeem cash.
+Speaker2: Okay, I'll log in and check. If I use up all my points, what happens then?
+Speaker1: If you don't use up all your points, I can give you a special privilege here, the remaining points will be kept in your account, and we will also send you a free after-sale gift, enjoy free return and exchange service.
+Speaker2: That's great, I'll go exchange it now. Thank you for reminding me, I didn't know points were so valuable.
+Speaker1: No problem, this is my job. If you have any issues during the exchange process, please feel free to contact me anytime. Best wishes for a smooth exchange!
+Speaker2: Okay, thank you for your help. I will contact you. Goodbye!

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker1: Are you Li Ming?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm the customer service representative for Tianjing Electronics. I saw your resume. Would you like to chat for a moment now?
+Speaker2: I'm a bit busy now, but we can chat, you can start.
+Speaker1: Are you interested in learning more about our recruitment for an embedded software development engineer?
+Speaker2: Embedded software engineer? Sure, I'm considering changing jobs.
+Speaker1: Great, this position mainly focuses on controller development, and the compensation and benefits are quite good.
+Speaker2: Can I add you on WeChat? It's more convenient to communicate this way.
+Speaker1: Of course, my phone number is my WeChat number, add me.
+Speaker2: Okay, I'll call you soon, let's chat later.

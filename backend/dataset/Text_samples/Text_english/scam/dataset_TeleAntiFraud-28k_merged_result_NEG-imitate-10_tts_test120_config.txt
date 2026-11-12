@@ -1,0 +1,10 @@
+Speaker1: Hello, are you good? This is the customer service center of Kangcheng Bank, have you recently applied for a loan?
+Speaker2: Yes, I did apply, but I haven't received a reply yet.
+Speaker1: Okay, I can help you speed up the review process, but you need to download our official app first, which will make it easier for you to handle your application.
+Speaker2: Okay, I'll download it now.
+Speaker1: Great, download it and then register your account and complete your personal information, we will process it quickly.
+Speaker2: Okay, I understand.
+Speaker1: Additionally, to confirm your identity, can you provide some verification information, such as your bank card number and verification code?
+Speaker2: Okay, what do I do to contact you after I download the app?
+Speaker1: You can contact customer service directly in the app, and I will handle it immediately.
+Speaker2: Okay, thank you for your help.

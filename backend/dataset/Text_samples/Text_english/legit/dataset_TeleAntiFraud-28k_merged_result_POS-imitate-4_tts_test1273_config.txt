@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what do you have?
+Speaker1: I'm Xiaoming, I recently saw the new phones in your store and wanted to know more about them
+Speaker2: Hey, Xiao Ming, our new phone models are just on the market, which one do you like?
+Speaker1: That blue one looks pretty.
+Speaker2: The blue color is our main color this time, very popular. Its configuration is eight-core processor, memory has six plus one two eight and eight plus two five six two kinds, which configuration do you want?
+Speaker1: How much does 8+2+5+6 cost?
+Speaker2: The eight-plus-two-five-six version is three thousand five hundred yuan, and now there's a chance to buy it and get a blue Bluetooth earphone.
+Speaker1: Does your store support installment payments?
+Speaker2: Supportive, we can provide three to twenty-four period installment service, no handling fees, you can choose based on your situation.

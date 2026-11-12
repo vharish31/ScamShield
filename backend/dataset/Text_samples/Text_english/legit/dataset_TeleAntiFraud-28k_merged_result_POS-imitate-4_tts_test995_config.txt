@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there? I just got off the subway, ready to go to your company to sign the contract.
+Speaker2: Hey, hello, I'm here. After you get off the subway station, walk to the right, see the first red and green light, then turn left, and then walk straight to the end, which is our company.
+Speaker1: Okay, I see the red light, and then turn left, is it walking towards the big building with glass doors?
+Speaker2: Yes, that's the building. After you entered the big door, you directly sat on the elevator to the tenth floor, my office is just on the right side of the elevator exit.
+Speaker1: I understand, my phone is almost out of battery, I might not be able to reach you on the road.
+Speaker2: No problem, you arrived, just come directly. I'm waiting for you here.
+Speaker1: Okay, there's about ten minutes left.
+Speaker2: Okay, pay attention to safety on the road.
+Speaker1: Thank you, I'll call you back when I arrive.
+Speaker2: Okay, wait for your message.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Do you have the latest blue tooth earphone at home?
+Speaker2: Hey, do you want to know the specific price and features of the new Bluetooth earphones we have in stock here?
+Speaker1: Yes, I want to know if there are any discount activities for the things I'm buying.
+Speaker2: The official selling price of this blue Bluetooth earphone is 399 yuan, and currently we have a promotion. If you buy it, you will get a pair of earplugs and a portable bag for free.
+Speaker1: Hey, that price with the bonus sounds pretty good, I'm thinking of buying one, do you guys have any in stock here?
+Speaker2: If you decide to buy now, I can reserve a machine for you.
+Speaker1: Okay, I'll go to the store on the weekend and try it out.
+Speaker2: Okay, I'll be waiting for you at the store on the weekend. If you have any questions, feel free to contact me anytime.
+Speaker1: Thank you, see you this weekend.
+Speaker2: No problem, see you this weekend.

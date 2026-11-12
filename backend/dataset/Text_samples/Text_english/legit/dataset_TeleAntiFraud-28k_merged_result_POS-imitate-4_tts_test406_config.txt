@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am from the small Ming household service company, do you have any recent household service needs?
+Speaker2: Hello, I recently want to find a housekeeping service, can you help me clean my house?
+Speaker1: Great, our company provides comprehensive household services, including daily cleaning and deep cleaning. What specific aspect of the service are you interested in?
+Speaker2: What is the fee for daily cleaning?
+Speaker1: Our daily cleaning service is charged based on the number of rooms, usually one bedroom is 200 yuan per time, two bedrooms is 300 yuan per time, three bedrooms and above is 400 yuan per time.
+Speaker2: How do you arrange your service time?
+Speaker1: The service time is very flexible, you can choose from 9am to 12pm or 1pm to 5pm, according to your time arrange a suitable time slot.
+Speaker2: Do I need to make an appointment in advance?
+Speaker1: Yes, to ensure service quality, we suggest you book in advance. Can you give me a rough time now?
+Speaker2: Okay, I plan to make an appointment for service on Friday at 2 PM next week.
+Speaker1: Okay, I have already scheduled a service for you on Friday at 2 PM next week. Our staff will arrive on time. If you have any other requirements, please feel free to contact me.
+Speaker2: Okay, thank you for your help.

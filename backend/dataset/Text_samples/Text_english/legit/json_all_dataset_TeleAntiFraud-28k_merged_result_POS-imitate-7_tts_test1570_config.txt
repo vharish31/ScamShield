@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm looking for your customer service representative. I have a question I'd like to consult.
+Speaker2: Hello, I am customer service representative Li, what can I help you with?
+Speaker1: Can you help me check the status of my smartwatch order on your website that I placed a few days ago?
+Speaker2: Okay, can you tell me your order number? So I can help you query.
+Speaker1: Order number is 20230405123456.
+Speaker2: Okay, just a moment, I'll check for you. ... According to the system, your order is already in transit, and is expected to arrive in three days.
+Speaker1: Where should I look for logistics information?
+Speaker2: You can search for the latest logistics information on our website by inputting your order number, or you can download our logistics tracking app and input your order number to view the latest logistics information.
+Speaker1: Okay, thank you for your help. I'll check it out now.
+Speaker2: You're welcome. If you have any other questions, please feel free to contact us anytime. Have a happy life!

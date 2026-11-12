@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm at your store ordering food, can you confirm my order situation?
+Speaker2: Hello, I am customer service Li, what is your order number?
+Speaker1: My order number is one two three four five six seven.
+Speaker2: Okay, I'll check. Hmm, your order has been confirmed, estimated delivery in 30 minutes.
+Speaker1: Okay, thank you. Is there a vegetarian dumpling dish at your store?
+Speaker2: Yes, we have many vegetable dumplings, which flavor would you like?
+Speaker1: I want to try some Sichuan flavor, it's supposed to be spicy.
+Speaker2: The spicy dishes on the Sichuan cuisine are quite spicy, suitable for customers who like spicy food. Do you need to order now?
+Speaker1: Yes, I am placing an order now.
+Speaker2: Okay, your Sichuan flavor dish has been successfully ordered. We will deliver it to you as soon as it's ready.

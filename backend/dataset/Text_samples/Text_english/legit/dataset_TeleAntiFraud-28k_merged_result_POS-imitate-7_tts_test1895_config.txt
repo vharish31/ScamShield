@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, can you hear clearly?
+Speaker1: Can you say, what do you have any events?
+Speaker2: Can you tell me if there's a dinner set here suitable for two people?
+Speaker1: Sure, we have several options for our double person set menu here. Which one would you like to see? We have seafood set, beef set, and vegetarian set.
+Speaker2: What does the beef and broccoli dish specifically include?
+Speaker1: The beef and broccoli set meal comes with two portions of selected beef, a Caesar salad, a cream mushroom soup, and a bottle of red wine.
+Speaker2: How much does this dish cost?
+Speaker1: This meal costs 288 yuan and is very suitable for couples or friends to enjoy.
+Speaker2: Okay, can I reserve this menu for tomorrow night at six o'clock?
+Speaker1: Sure, I'll reserve a seat for you at six o'clock tomorrow night. Do you need any other services?
+Speaker2: No longer available, thank you.
+Speaker1: Okay, thank you for your reservation. We look forward to your visit. Goodbye.
+Speaker2: Goodbye.

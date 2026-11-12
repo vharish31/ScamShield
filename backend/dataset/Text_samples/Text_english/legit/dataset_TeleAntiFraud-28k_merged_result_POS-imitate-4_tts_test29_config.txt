@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I'm little Zhang, you had problems with the clothes you bought from our store last time, I'll take a look and see how to solve them.
+Speaker2: Hey, little Zhang, remember remember, come over, I have a few questions to ask.
+Speaker1: Okay, I'm at the community door now, can you come down to pick me up?
+Speaker2: Sure, I'll go downstairs, you wait for me.
+Speaker1: Okay, I'll stop the car here and wait for you.
+Speaker2: Okay, I'll go down now.
+Speaker1: Okay, I brought new clothes over, you can try them on.
+Speaker2: Thank you so much, I'll go down now.

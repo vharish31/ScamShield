@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your restaurant service.
+Speaker2: Hello, I'm very happy to serve you. What information do you want to know?
+Speaker1: Do you have a vegetarian set meal at your home?
+Speaker2: Yes, we have several vegetable set meals here for you to choose from based on your taste.
+Speaker1: What is the price?
+Speaker2: The prices of the vegetable set meal range from 30 to 60 yuan, depending on your chosen dishes.
+Speaker1: What's the latest time your family can accept takeout?
+Speaker2: Our latest order cutoff time is 9pm, but we recommend you place your order one hour in advance to ensure timely delivery.
+Speaker1: If I live on the road near the river, how long will it take to send it?
+Speaker2: The journey from the southern part of Jiangnan Road usually takes around 30 minutes, but the specific time depends on the current traffic situation.
+Speaker1: Okay, thank you for your patience in answering.
+Speaker2: You're welcome. If you have any other questions, feel free to contact us anytime. Enjoy your meal!

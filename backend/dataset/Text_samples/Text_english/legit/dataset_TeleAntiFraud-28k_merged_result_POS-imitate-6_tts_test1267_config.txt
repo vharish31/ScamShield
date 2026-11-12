@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Li?
+Speaker2: Yes, hello, you?
+Speaker1: Hi, I'm new neighbor Zhang, just moved in, want to say hi to you.
+Speaker2: Hey, welcome welcome, little Zhang's family in which building?
+Speaker1: Right in front of you, building three, unit four, two.
+Speaker2: Can you come to my house and sit for a while?
+Speaker1: Okay, thank you. Got it, do you have pets at home?
+Speaker2: Yes, I have a cat, named small gray.
+Speaker1: I want to get a kitten too.
+Speaker2: Yes, there's a little gray dog that comes to your house to play.

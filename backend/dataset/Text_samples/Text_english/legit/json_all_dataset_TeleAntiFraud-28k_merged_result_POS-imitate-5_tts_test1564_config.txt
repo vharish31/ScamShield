@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I came across your pet boarding service on the internet and am interested in learning more.
+Speaker2: Hello, I'm very happy to serve you. Our pet boarding service provides a safe and comfortable environment, as well as professional caretakers. What information would you like to know?
+Speaker1: What is the price for boarding, and how do you ensure the safety of the pets?
+Speaker2: Our boarding fees vary based on the size of the pet and the length of stay. Small pets are fifty yuan a day, large pets are seventy yuan a day. Safety-wise, we have twenty-four hour surveillance and professional pet caretakers.
+Speaker1: What would you do if your pet got sick?
+Speaker2: We will immediately contact the pet owner and take the pet to the cooperating pet hospital for treatment based on the situation.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: Yes, to ensure there is suitable accommodation, we recommend you book in advance. You can book directly through our website or call to book.
+Speaker1: Okay, thank you for your patience in answering. I plan to bring my pet to board next month for a week, I will call in advance to book.
+Speaker2: Okay, we'll confirm the specific time and pet information on the phone later. I'm looking forward to your arrival, wish you a happy life.

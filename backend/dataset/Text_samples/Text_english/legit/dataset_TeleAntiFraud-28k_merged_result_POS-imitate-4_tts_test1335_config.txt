@@ -1,0 +1,9 @@
+Speaker1: Hi, how are you? I'm the customer service for food delivery, you've been ordering a lot from our platform recently, do you have any suggestions for our service?
+Speaker2: Hey, how are you, huh, I think your menu options are quite a lot, just sometimes delivery is a bit slow.
+Speaker1: Thank you very much for your feedback. We will do our best to improve delivery speed. By the way, we have recently introduced some new dishes, such as spicy hot pot and roast duck.
+Speaker2: Oh, that sounds good, I can give it a try next time.
+Speaker1: Okay, if you have any questions or need help, please contact our customer service at any time. By the way, we have a promotion going on right now. Spend over 100 yuan and get 20 yuan off, it's really cheap.
+Speaker2: That's great, I happen to want to order takeout tonight, let's give it a try.
+Speaker1: Great! You can directly order your favorite dishes on our App. If you encounter any problems, please let me know. Enjoy your meal!
+Speaker2: Thank you, I will. Goodbye.
+Speaker1: No problem, feel free to contact us anytime. Goodbye.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me more about your household services, specifically which projects do you offer?
+Speaker2: We provide clean, moving, repair and other services. You can specifically say which one you need, I can give you detailed introduction.
+Speaker1: Hey, how do you pay for the clean service specifically?
+Speaker2: The price of cleaning services is determined based on the size of the room and the items that need to be cleaned, usually starting at 100 yuan, and the specific price needs to be determined on-site after an evaluation.
+Speaker1: So, what's the size of your home, when can you book the service?
+Speaker2: Sure, we have some free time this week, would it be convenient for you to meet on Saturday morning?
+Speaker1: Can I come at 9am on Saturday morning?
+Speaker2: We will contact you at around 9 am to confirm once.
+Speaker1: Okay, then I'll wait for your call.
+Speaker2: Okay, see you later. Thank you for your trust, wish you a happy day.

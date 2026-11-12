@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Zhang Qiang?
+Speaker2: Yes, who are you?
+Speaker1: I am the customer service manager at China Construction Bank, my name is Liu. We noticed that you may have recently had a need for cash flow, would you be interested in learning more about our low interest loan services?
+Speaker2: Hey, I recently need some cash flow. What's your loan service like?
+Speaker1: Our service is very convenient, you can directly apply through our official app without deposit, quick approval, and you can get the loan on the same day.
+Speaker2: The sound is good, but I don't have your app yet.
+Speaker1: That's great, I can send you a download link for the app. Just click the link to download it and follow the instructions to complete the application.
+Speaker2: Okay, how do I receive this link?
+Speaker1: I will send you the application process via text message. Please pay attention to check it out. If you have any issues during the application process, feel free to contact me anytime.
+Speaker2: Okay, let's meet later. Thank you.

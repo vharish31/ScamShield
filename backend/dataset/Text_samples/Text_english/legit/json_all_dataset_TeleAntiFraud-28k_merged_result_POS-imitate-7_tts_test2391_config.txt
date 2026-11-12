@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm at the third exit, why haven't you shown up yet?
+Speaker2: I just got off the subway, the signal might be bad, the location is a bit delayed, I'll be out in a moment.
+Speaker1: Okay, you go out and walk north, turn right at the first crossroads, I'll be waiting here.
+Speaker2: Okay, there's about two minutes left, don't rush.
+Speaker1: Okay, I'm waiting for you here, be careful.
+Speaker2: Thank you, I will be careful, I'll be there soon.
+Speaker1: I see you, over here, over there!
+Speaker2: I see you, just wait a moment, I'll be right there soon.
+Speaker1: Okay, hurry up.
+Speaker2: Okay, here we are.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: At home? How are you?
+Speaker1: I just came back from the supermarket, bought some fruit, brought some for you.
+Speaker2: Really? That's great! Thank you!
+Speaker1: How have you been lately? Is work still going smoothly?
+Speaker2: Okay, just a little busy. You? What's new lately?
+Speaker1: I recently enrolled in an online course to learn a new skill.
+Speaker2: What course are you studying?
+Speaker1: I want to learn more about programming, specifically Python.
+Speaker2: That's great, Python is really hot right now, learning it definitely comes in handy. Keep going!

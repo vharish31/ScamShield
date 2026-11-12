@@ -1,0 +1,14 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, I want to consult your hair service
+Speaker2: Okay, we provide various hair services here, including cutting, dyeing, and straightening. Which one do you want to know more about?
+Speaker1: My hair has grown really fast recently, I want to cut it short, do you have any recommendations for hairstyles here?
+Speaker2: Of course, we have several popular short haircuts here, such as Korean short hair, clean and simple board cut, and slightly layered short hair, what style do you prefer when you're busy at work?
+Speaker1: I'm pretty busy at work, I want to cut a simple and neat one, but not too much, with a little hierarchy, it sounds good when you listen to it.
+Speaker2: Okay, a short hair with some layers would suit you well, it's simple to maintain but still fashionable. We usually need to book an appointment here a day in advance. What time is convenient for you?
+Speaker1: Can I hang out on Saturday afternoon this weekend?
+Speaker2: Saturday afternoon, from 2 to 6 PM, we have an available time slot. What specific time slot do you want to book?
+Speaker1: Let's make it 3 o'clock.
+Speaker2: Okay, I have already booked a haircut for you on Saturday at 3 pm. Just come directly at that time. Do you need anything else?
+Speaker1: No more, thank you.
+Speaker2: No problem, I'm looking forward to your arrival, goodbye.
+Speaker1: Goodbye.

@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Mr. Jiang?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for Sunning Easy Buy. We found a small issue with the air conditioner you recently purchased, and we need to handle it for you.
+Speaker2: What's the issue?
+Speaker1: There might be a small fault with your air conditioner, for your safety, we need to process a return and refund for you.
+Speaker2: Okay, what do I need to do?
+Speaker1: Please click on this link and fill out the refund information. We will process it quickly.
+Speaker2: Okay, I'll go fill it out.
+Speaker1: Okay, please provide your bank account number, we will refund the amount to your account.
+Speaker2: Okay, my credit card number is 6222 0800 1234 5678.
+Speaker1: Okay, we will process it quickly and you will receive your refund soon. If you have any other issues, please feel free to contact us anytime.

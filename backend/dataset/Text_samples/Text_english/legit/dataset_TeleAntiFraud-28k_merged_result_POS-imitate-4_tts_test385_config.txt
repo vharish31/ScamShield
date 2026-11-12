@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm Lee Ming. I saw your ad that says you can provide furniture repair services. I want to consult with you.
+Speaker2: Hello, Li Ming. We indeed provide furniture repair services. What furniture do you need to repair?
+Speaker1: My bookshelf is a little wobbly, I want to see if I can reinforce it.
+Speaker2: Sure, we handle this kind of situation often. Would you be convenient to schedule a time?
+Speaker1: Can I meet you tomorrow afternoon?
+Speaker2: Can we meet tomorrow afternoon? What time?
+Speaker1: Can we meet at 3 o'clock?
+Speaker2: Can we meet at 3 o'clock? What's the address?
+Speaker1: The address is Happiness Road 123.
+Speaker2: Okay, tomorrow afternoon three o'clock, happy road one hundred twenty three number, we will be on time. Is there anything that needs to be prepared in advance?
+Speaker1: No more, thank you.
+Speaker2: No problem, if you have other questions you can contact us anytime. See you tomorrow.

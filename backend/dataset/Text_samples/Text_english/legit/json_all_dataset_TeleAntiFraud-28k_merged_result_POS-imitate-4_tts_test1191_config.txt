@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I want to check your restaurant's vegetarian menu.
+Speaker2: Hello, Xiao Ming, I am server Zhang, we have many vegetarian dishes here, such as stir-fried vegetables, vegetarian three-course, vegetarian fish and chips, do you have any preference?
+Speaker1: Hmm, I'm quite interested in shrimp, how much does it cost?
+Speaker2: The price of shrimp is 38 yuan per portion, the portion is large, and it is very popular.
+Speaker1: Can you tell me your business hours?
+Speaker2: Our restaurant business hours are from 10 am to 10 pm, on weekends they will be extended to 11 pm.
+Speaker1: Okay, I plan to come over at 7 pm on Saturday night. Do I need to make a reservation in advance?
+Speaker2: Please book in advance to ensure a place. You can call us directly on 00000000.
+Speaker1: Okay, I will call ahead to confirm the reservation. Thank you for your help, Zhang.
+Speaker2: Please wait for your arrival, I wish you a happy day.

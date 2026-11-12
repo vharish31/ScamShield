@@ -1,0 +1,10 @@
+Speaker1: Hey, are your store still open?
+Speaker2: Hello, are you interested in anything to eat at our store, which is still open?
+Speaker1: Yes, I saw your shop's roast duck gets good reviews, so I want to try it.
+Speaker2: Okay, roast duck is our special dish. Do you need to make a reservation for now?
+Speaker1: Can I go directly to eat nearby?
+Speaker2: Sure, come over, we still have a spot.
+Speaker1: How long will it take to get up the stairs?
+Speaker2: After you arrive, we'll be ready right away. It should take about twenty minutes or so.
+Speaker1: Okay, then I'll just go over there.
+Speaker2: Okay, welcome to our store, we're waiting for you inside.

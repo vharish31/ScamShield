@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiao Ming, I saw on your website that you provide door repair services, can you give me some details?
+Speaker2: Hello, Xiao Ming, I am customer service representative Xiao Wang, what can I help you with?
+Speaker1: My home air conditioner broke down, can you send someone over to fix it? I don't know what your service fee standard is.
+Speaker2: We will first conduct a free inspection when you call for our door repair service, and if any parts need to be replaced, the cost of the parts will be based on the actual situation, and the labor fee is 50 yuan per hour.
+Speaker1: How much would it cost if it's just simple repair and no replacement of parts?
+Speaker2: If it's a simple repair, like cleaning or debugging, we usually charge a 100 yuan base service fee.
+Speaker1: When can I schedule a master to come over?
+Speaker2: We can arrange the service according to your convenience time. The earliest we can do it is tomorrow morning at 9 am.
+Speaker1: Can I help you schedule a meeting for tomorrow morning at 9am?
+Speaker2: Okay, I have scheduled a service for you tomorrow morning at 9am. The master will arrive on time, and if there are any changes, we will contact you in advance.

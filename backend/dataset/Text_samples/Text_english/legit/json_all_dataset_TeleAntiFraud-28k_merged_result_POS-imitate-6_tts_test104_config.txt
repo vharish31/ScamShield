@@ -1,0 +1,12 @@
+Speaker1: Hey, are there any more of that blue handbag I saw in your store?
+Speaker2: Hello, is that the new blue handbag you're referring to?
+Speaker1: Yes, that's it. I still want to ask the price.
+Speaker2: The price of the handbag is now 599 yuan, originally 799 yuan.
+Speaker1: Oh, like this, can you issue an invoice?
+Speaker2: Okay, please tell us if you need an invoice when buying, and we will help you issue one.
+Speaker1: Okay, I plan to go over there tomorrow morning, what time do you guys open?
+Speaker2: Our store opens at 9 am and closes at 9 pm.
+Speaker1: Can you reserve this package for me tomorrow morning around 10 o'clock?
+Speaker2: Okay, I'll reserve it for you at noon tomorrow. After this time, we can't guarantee it anymore.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm looking for a parking spot at your store, can you point me to a convenient one?
+Speaker2: Hello, are you at our store entrance?
+Speaker1: Yes, I just arrived at the entrance, but it seems like all the parking spots on this side are full.
+Speaker2: You can walk a little to the right, there's a parking lot under the first crossroad, and there should be space there.
+Speaker1: Okay, let me check, is the parking fee expensive on that side?
+Speaker2: The parking fee is reasonable, the first two hours are free, and five yuan per hour after that.
+Speaker1: That's good, I'll just go now. Oh, what time do you close your store?
+Speaker2: Do you need to reserve a seat when you come to our store at ten o'clock tonight?
+Speaker1: No need, I can go alone directly. Thank you for your help!
+Speaker2: You're welcome! Thank you for visiting! If you need any help, please feel free to ask me anytime.

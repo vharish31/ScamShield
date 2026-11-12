@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, did you book the double date at our restaurant yesterday?
+Speaker2: Okay, I see your menu, want to try.
+Speaker1: Okay, your reservation is for tonight at seven o'clock, right?
+Speaker2: Yes, okay, do you have outdoor seats?
+Speaker1: Yes, but the weather is a bit chilly now, I suggest you choose indoor.
+Speaker2: Is it still indoors? How is the indoor environment?
+Speaker1: The indoor environment is quite good, the decoration style is quite modern and simple, you should be satisfied.
+Speaker2: Okay, I'll just go there directly when the time comes.
+Speaker1: Okay, we'll be ready for you at the appointed time. Is there anything else I can help you with?
+Speaker2: No more, thank you.
+Speaker1: Please welcome you.

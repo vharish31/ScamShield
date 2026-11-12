@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me more about your best-selling products, especially that smartwatch?
+Speaker2: Okay, our smartwatch is very popular, with features such as health monitoring and message reminders. Which model are you interested in?
+Speaker1: I'm interested in that model that can monitor heart rate. Can you give me more details?
+Speaker2: Of course. This watch not only monitors heart rate but also records sleep quality, steps, etc. It's very suitable for health-conscious people. The price is 2500 yuan.
+Speaker1: Does this watch sound good?
+Speaker2: Sure, there are fresh products in the store. If you're convenient, you can come to the store and try them out.
+Speaker1: I have some free time this afternoon, around three o'clock.
+Speaker2: No problem, we meet at three o'clock. I will introduce this watch to you in detail at that time.

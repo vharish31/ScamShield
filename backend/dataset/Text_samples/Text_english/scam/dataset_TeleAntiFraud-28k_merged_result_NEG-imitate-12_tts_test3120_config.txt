@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Zhang, from a well-known financial company, we recently launched a special discounted loan service with an extremely low interest rate, no collateral, fast approval, would you be interested in learning more?
+Speaker2: Hey, I recently need some cash flow, can you give me a detailed explanation?
+Speaker1: Of course, our loan product is very suitable for your situation, and the application process is very simple. You just need to download our app, fill out some basic information, and you can quickly get approval.
+Speaker2: Do you want to download the app? It sounds pretty convenient. What is the name of the app?
+Speaker1: Our app is called "Financial Jewel", you can search and download it in the mobile app store. After downloading, register with your phone number and then fill out the loan application. A dedicated customer manager will contact you.
+Speaker2: Okay, I'll give it a try. But, I need to understand the security of this app first, since it involves personal privacy and financial security.
+Speaker1: We completely understand your concerns, our company highly values user safety, all information is encrypted processed. If you have any questions, you can directly contact our customer service, they will answer for you.
+Speaker2: I'll download it and give it a try, thanks for your recommendation.

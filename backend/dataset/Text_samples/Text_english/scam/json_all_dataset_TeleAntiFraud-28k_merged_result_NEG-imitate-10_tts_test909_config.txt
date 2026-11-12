@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the commercial bank credit center, your loan application has been approved, do you need to know more?
+Speaker2: Hey, can I borrow some money? I've been having some trouble with cash flow lately.
+Speaker1: Okay, our bank has launched a low-interest loan product. Just provide some basic information, and you can quickly get a loan.
+Speaker2: What do I need to do?
+Speaker1: First, you need to download our bank app, then fill out personal information, upload identity card and work proof.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Absolutely safe, our app is officially certified, you can download it with confidence. For your convenience, I have a link here, click it to directly jump to the download page.
+Speaker2: Okay, let me try.
+Speaker1: Okay, download the app and register an account after opening it. Then, on the first page, find the loan application entrance and follow the instructions. If you encounter any problems, feel free to contact me anytime.
+Speaker2: Thank you, I'll download it now.

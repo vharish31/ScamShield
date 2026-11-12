@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you know of any suitable job positions in that location?
+Speaker2: Are you looking for a full-time or part-time job?
+Speaker1: It's best to be full-time, so you can eat the best.
+Speaker2: Do we have any positions here that you can accept the lowest salary for?
+Speaker1: At least get three thousand.
+Speaker2: This can meet your requirements. The main job is to deliver takeout, you need a health certificate.
+Speaker1: How to handle health certificate?
+Speaker2: You can come here first, we will guide you on how to handle it.
+Speaker1: When can I come for an interview?
+Speaker2: You can come at 9 am tomorrow, remember to bring your ID.

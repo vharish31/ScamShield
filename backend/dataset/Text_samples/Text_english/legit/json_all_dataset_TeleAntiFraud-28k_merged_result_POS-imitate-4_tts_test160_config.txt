@@ -1,0 +1,16 @@
+Speaker1: Hey, how are you? I heard your family has a rental house.
+Speaker2: Hey, yes, which real estate company are you in?
+Speaker1: I'm a local real estate agent. Can you give me some details about the house?
+Speaker2: Okay, the house is one room one hall, with all sets of furniture, monthly rent two thousand five hundred yuan.
+Speaker1: Is the house in which small community, convenient transportation?
+Speaker2: The house in Happiness Flower Garden is close to the subway station, and the transportation is quite convenient.
+Speaker1: How are the facilities around here, such as supermarkets and hospitals?
+Speaker2: The neighborhood has a large supermarket and several small shops nearby, and the hospital is within walking distance, making life very convenient.
+Speaker1: Is the light bad if the window in the bedroom in the picture looks like it's facing north?
+Speaker2: Hmm, the bedroom window is indeed facing north, but there's still enough light, so you don't need to turn on the lights during the day.
+Speaker1: Can I schedule a time to see the house?
+Speaker2: Of course, when would you like to come?
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: I can meet you at the community door at three o'clock tomorrow afternoon.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

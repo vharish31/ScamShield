@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, do you have anything to talk about?
+Speaker1: Hello, I am a customer service representative from some e-commerce platform. There are unused shopping points in your account, they will be cleared at midnight tonight.
+Speaker2: Oh no, really? I forgot this event.
+Speaker1: Yes, your points can redeem three thousand nine hundred and some dollars in cash. If not redeemed, it's invalid.
+Speaker2: That's too bad, I had better hurry up and take a look.
+Speaker1: I have already sent you a free exchange SMS. Please open it as soon as you receive it.
+Speaker2: Okay, I'll go take a look right away.
+Speaker1: These points are accumulated from your regular shopping, which can be used to buy many products on the platform, such as alcohol, mobile phones and electronics.
+Speaker2: Got it, I'll handle it now, thanks for reminding me.

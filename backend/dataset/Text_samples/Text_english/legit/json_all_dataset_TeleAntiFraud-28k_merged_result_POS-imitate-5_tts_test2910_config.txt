@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I am the waiter at the happy restaurant, I saw your phone, I want to ask if you have time to come to our restaurant for dinner tomorrow?
+Speaker2: "Hey, I'm not sure if I'll be busy tomorrow."
+Speaker1: That's it, our restaurant has a special activity tomorrow, all menu items are 90% off, and there are free snacks.
+Speaker2: What time does the activity start?
+Speaker1: The activity time is from noon to eight in the evening, welcome anytime.
+Speaker2: Okay, if I have time, I'll give it a try. Thank you.
+Speaker1: Okay, see you then. Wish you have a nice day.
+Speaker2: Thank you, goodbye.

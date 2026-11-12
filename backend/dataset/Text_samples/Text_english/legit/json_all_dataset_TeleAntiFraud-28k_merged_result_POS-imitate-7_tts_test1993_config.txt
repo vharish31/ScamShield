@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What's up?
+Speaker1: Can you tell me about any promotions going on at your massage service lately?
+Speaker2: Hello, we are currently conducting a promotion for our massage service this week, and all customers who book in advance can enjoy an 80% discount.
+Speaker1: Uh, how long does a full body massage usually take?
+Speaker2: A full-body massage usually lasts about an hour, including relaxation and pressure point massage.
+Speaker1: Okay, can I make an appointment for tomorrow afternoon at 2 pm?
+Speaker2: Okay, tomorrow at 2 pm, I will reserve a spot for you.
+Speaker1: Okay, see you tomorrow.
+Speaker2: Okay, see you tomorrow, wish you a happy day.

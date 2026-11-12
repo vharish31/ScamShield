@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm in the city center square, how do I find that new coffee shop?
+Speaker2: Hello, you come out from the north exit of the square, then turn left and walk about 200 meters, you will see a big clock tower, the coffee shop is next to the clock tower.
+Speaker1: Is there an outdoor seating area at that coffee shop?
+Speaker2: Yes, there's a small garden in front of the coffee shop. On nice days, many customers like to sit there.
+Speaker1: Great, my friend said this place's martini is good to drink, I want to try it.
+Speaker2: Yes, our fried rice is very popular, and handmade cakes are also very suitable to accompany coffee.
+Speaker1: Listen up, that sounds great, I'll just go over there.
+Speaker2: Okay, we're waiting for you at the coffee shop. We hope you have a great afternoon.
+Speaker1: Thank you, see you later.
+Speaker2: See you soon, be careful on the road.

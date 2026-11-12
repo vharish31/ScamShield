@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask if there's any air conditioner fan suitable for summer use here.
+Speaker2: Hello, we have various styles of air conditioners here, which one would you like to know more about?
+Speaker1: That kind which can cool and has low noise, suitable for bedroom use.
+Speaker2: We have a new model of air conditioner that not only has good cooling effect but also the noise control is below 30dB, which is very suitable for bedroom use.
+Speaker1: How much does this air conditioner cost?
+Speaker2: This air conditioner is priced at 2500 yuan, and now there's a 90% discount when you buy it.
+Speaker1: Do you have any more discounts for 25% off?
+Speaker2: This discount is already the largest, but if you are our member, you can also enjoy additional point deduction.
+Speaker1: I'll buy this air conditioner, can you deliver and install it at my door?
+Speaker2: Of course, we provide free door-to-door delivery service and have professional technicians responsible for installation.
+Speaker1: Great, when can I place an order?
+Speaker2: You can place an order now through our official website or customer service hotline. We will arrange delivery within twenty-four hours after placing the order.

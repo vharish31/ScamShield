@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I just moved to a new house and I want to find a housekeeping service to clean it up, can you provide that service on your side?
+Speaker2: Hello, Xiao Ming, I am a customer service representative for home cleaning services. We can provide comprehensive home cleaning services here. How many square meters is your new home approximately?
+Speaker1: It's about one hundred twenty.
+Speaker2: Okay, for a 120-square-meter space, we recommend arranging four cleaners, which will take about a day. Is this time suitable for you?
+Speaker1: One day is possible, but it's best to schedule it on the weekend because I'm not at home during workdays.
+Speaker2: No problem, which Saturday or Sunday time is more convenient for you?
+Speaker1: Sunday, I'm free on Sunday.
+Speaker2: Okay, can we arrange for the master to come to your door at 9am on Sunday morning? Is that okay?
+Speaker1: Sure, at nine o'clock. How do you calculate the cost?
+Speaker2: A hundred and twenty clean service, according to our pricing standards, is three hundred and sixty yuan in total. You can pay online through our app or choose to pay in cash after the service is completed.

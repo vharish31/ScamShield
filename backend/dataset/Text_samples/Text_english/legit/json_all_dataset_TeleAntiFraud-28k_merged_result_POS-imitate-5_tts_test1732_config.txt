@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your restaurant has a vegetarian set meal?
+Speaker2: Hello, we have various vegetable set meals here, do you want to know the specific contents?
+Speaker1: Yes, can you tell me all the dishes?
+Speaker2: Of course, our vegetable set meal includes stir-fried vegetables, mushroom and tofu soup, roasted eggplant and a small sweet dessert, and a cup of drink.
+Speaker1: How much does it cost to sound good?
+Speaker2: The price of a set meal with vegetables is 35 yuan per person.
+Speaker1: Okay, can I reserve this Saturday evening at 6:00 PM?
+Speaker2: Okay, the 6:00 PM spot on Saturday has been reserved for you. Do you need me to record your contact information?
+Speaker1: Please, my phone number is 00010101010.
+Speaker2: Okay, I have recorded it for you. On Saturday evening at six o'clock, we will be waiting for you here.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang from the delivery platform. Have you ordered food on the platform recently?
+Speaker2: Ordered, what now?
+Speaker1: We noticed an increase in your recent order quantity, would you like to know more about your experience using our platform?
+Speaker2: Not bad, quite convenient, just sometimes the delivery time for food is a bit long.
+Speaker1: Thank you very much for your feedback. We will make every effort to improve the delivery time issue. By the way, do you know that our platform now has a new user referral reward activity?
+Speaker2: Can you please tell me in detail what it is?
+Speaker1: Of course, if your friend registers through your referral link and completes their first order, both you and your friend will receive a 50 yuan platform red packet.
+Speaker2: That sounds good, I have a few friends who have recently started using food delivery, I can try recommending.
+Speaker1: Great, I'll send you the recommendation links now. You can check them out on the delivery platform. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you for your introduction, I will pay attention to it.

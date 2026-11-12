@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, who are you looking for?
+Speaker1: Find the store manager, I bought a piece of clothing here yesterday, there was a little problem and I want to return or exchange it.
+Speaker2: Okay, just a moment, I'll help you find the store manager.
+Speaker1: Okay, thank you.
+Speaker2: Store manager, someone is looking for.
+Speaker1: Hello, I am the customer who bought clothes yesterday. The size of that clothing was a bit small, and I want to exchange it for a larger size.
+Speaker2: Hello, you can directly exchange it at the store, we support seven-day no-reason return and exchange here.
+Speaker1: Can I come over now?
+Speaker2: Of course, you can come, we're on the third floor, remember to bring the shopping receipt.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hello, I am the manager of the credit center of the Commercial Bank, and we currently have a low-interest credit loan product that can provide financial support to customers in need. Do you have any recent financial needs?
+Speaker2: Uh, I actually need this a bit, can you give me a specific explanation?
+Speaker1: Of course. Our loan products do not require collateral, interest rate as low as 0.005%, simple procedures. Just provide some basic personal information, and we can quickly approve.
+Speaker2: What do I need to do now that it sounds good?
+Speaker1: First, you need to download our bank's official app, then register and fill out the loan application form. If you have any questions, you can directly contact me, I will guide you through the entire process.
+Speaker2: Okay, I'll download it. What should I do after downloading?
+Speaker1: After downloading and installing the app, open it and select the 'loan' option, click on 'apply for credit loan', and fill in the relevant information as prompted. If you have any questions, please contact my WeChat, my WeChat number is gongshangdaike.
+Speaker2: Okay, let me try. Thank you.
+Speaker1: No problem, if you encounter any issues, please contact me anytime. Best wishes for your application. Goodbye.

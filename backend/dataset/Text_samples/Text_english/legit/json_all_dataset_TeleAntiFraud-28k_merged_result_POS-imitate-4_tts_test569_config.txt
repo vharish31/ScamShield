@@ -1,0 +1,12 @@
+Speaker1: Hey, are you at the Qinghua supermarket?
+Speaker2: Hello, yes, this is Qinghua supermarket.
+Speaker1: Can you introduce me to the promotional activities here?
+Speaker2: Of course, we have several discounted products this week, such as shampoo, body lotion, rice noodles, and cooking oil. Which one do you want to know more about?
+Speaker1: How much does a bag of rice cost now?
+Speaker2: The large rice we bought for 5 kilograms is currently selling at 28 yuan per kilogram, and 10 kilograms is selling at 52 yuan per kilogram. The quality is very good, and many people recommend it.
+Speaker1: Hey, it sounds good, I plan to buy ten kilograms of it, can you help me deliver it home?
+Speaker2: Of course, as long as you're within the city limits, we provide free delivery service. Can you tell me your address?
+Speaker1: Okay, I live in Xīn yuè huā yuán xiǎo quān, sān hào lóu yī dān yī xīng qīng nián hé rèn.
+Speaker2: Okay, we will deliver the rice to your home at around 10 am tomorrow morning. You can wait at home then.
+Speaker1: Okay, thank you very much, see you later.
+Speaker2: You're welcome, please feel free to contact us anytime if you have any questions, goodbye.

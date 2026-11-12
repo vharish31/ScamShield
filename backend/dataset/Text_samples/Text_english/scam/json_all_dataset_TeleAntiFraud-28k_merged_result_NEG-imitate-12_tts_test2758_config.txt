@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a loan officer at Commercial Bank, Wang Manager. Do you have any recent capital rotation needs?
+Speaker2: Oh, hello, I don't have any plans for this at the moment.
+Speaker1: Is that so? We have a special discount loan project here with interest as low as one year and two cents, and the process is very simple. Are you interested in learning more?
+Speaker2: Is the interest rate so low? It sounds pretty good, but I'm still not quite clear, can you explain in detail?
+Speaker1: Of course, this loan project is specifically designed for small microenterprises and individual entrepreneurs. You just need to provide some basic information, and we can quickly approve it, and the repayment speed is also very fast.
+Speaker2: What information is needed?
+Speaker1: You just need to provide a copy of your ID, business license, and the last year's bank statement, and we can start the review.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: If it's convenient for you, you can add my WeChat, I can send you detailed application materials and answer your questions anytime.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: My WeChat number is 123456789, add me as a friend, I'm Wang Jingli, please note down my name when adding, I'm good to go.
+Speaker2: Okay, I'll add you soon.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to inquire about your hair salon appointment service here.
+Speaker2: Of course, we have various hairdressing services here, including men's and women's haircuts, as well as facial care, what service would you like to book?
+Speaker1: How long does it usually take to get a short hairstyle for a man?
+Speaker2: A man with short hair usually takes about 30 minutes, but if it's your first time, we need to record some basic information, which may take a little longer.
+Speaker1: Okay, when can I come over?
+Speaker2: Do we have an afternoon break today? You can choose between 2 or 4 o'clock, which time is more convenient for you?
+Speaker1: I can arrive at four o'clock, so I will arrive at four o'clock on time.
+Speaker2: Okay, we'll wait for you at the store at 4 o'clock. Remember to bring your ID, we need to register.
+Speaker1: Okay, thank you, let's meet at four o'clock.
+Speaker2: No problem, meet at four o'clock, pay attention to safety on the road.

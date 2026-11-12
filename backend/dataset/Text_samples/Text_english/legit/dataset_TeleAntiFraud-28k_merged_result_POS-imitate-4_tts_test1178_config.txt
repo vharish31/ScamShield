@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, what can I help you with?
+Speaker1: Can you recommend a restaurant here suitable for two people?
+Speaker2: Of course, what time do you plan to go?
+Speaker1: This weekend, it's best to be a bit quiet in the environment, suitable for chatting.
+Speaker2: Okay, I recommend a restaurant called Yànqì xuān. The environment is very good, suitable for a romantic dinner.
+Speaker1: Does it need to be reserved in advance if it sounds good?
+Speaker2: I suggest you make a reservation in advance, it's usually crowded on weekends, I can help you with that.
+Speaker1: Can you help me make a reservation for two people on Saturday evening at 7:00 PM?
+Speaker2: Okay, I have successfully booked for you, on Saturday at 7pm, Yinxiuan, for two people. Is there anything else I can help with?

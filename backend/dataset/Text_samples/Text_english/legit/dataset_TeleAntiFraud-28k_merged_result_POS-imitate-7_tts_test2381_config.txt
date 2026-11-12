@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw a new smartwatch on your website and want to know more details.
+Speaker2: Okay, this new product is our latest smartwatch that supports health monitoring and message reminders. What specific information are you interested in?
+Speaker1: I want to know how long the battery life is, and what is the waterproof level.
+Speaker2: This watch's battery life is approximately seven days, its waterproof rating is up to fifty meters, so daily hand washing or rain won't be a problem.
+Speaker1: How much does it cost to sound good?
+Speaker2: This smartwatch is priced at 1999 yuan, and there's a discount promotion now.
+Speaker1: Okay, I'll think about it. Yes, do you have a delivery service to overseas?
+Speaker2: Of course, we support nationwide delivery service, usually within two to three days after ordering.

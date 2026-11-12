@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have a rental house in your family?
+Speaker2: What kind of house do you want to rent?
+Speaker1: Hey, I want to rent a one-bedroom one-unit apartment with air conditioning.
+Speaker2: Okay, we have a one-room, one-bedroom apartment here, located in the city, with air conditioning, and the monthly rent is two thousand five hundred yuan.
+Speaker1: Can you make it cheaper for two hundred and fifty yuan?
+Speaker2: This price is already quite discounted, but if you can sign a one-year contract, you can consider a further discount.
+Speaker1: Okay, when is it convenient for me to check on the house?
+Speaker2: Okay, when do you have time, I'll arrange a time to take you to see the house.
+Speaker1: Can I go out this weekend?
+Speaker2: Sure, what's the plan for Saturday morning at 10am?
+Speaker1: I'll go directly at ten o'clock.
+Speaker2: Okay, see you later.
+Speaker1: Okay, thank you. Bye.
+Speaker2: Goodbye.

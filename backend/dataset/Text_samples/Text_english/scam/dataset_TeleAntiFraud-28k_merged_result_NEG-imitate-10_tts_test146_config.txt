@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hi, I'm Li Xiao, the customer service representative at the China Construction Bank. Have you recently had any need for cash flow?
+Speaker2: Oh, hello, I'm currently not in need, thank you.
+Speaker1: Hey, understood, but if you need it, you can consider our new interest-free loan service with high credit limit, low interest rate, and fast approval.
+Speaker2: This sounds good, but I'm not familiar with these loan products.
+Speaker1: No problem, I can give you a detailed introduction. However, to ensure the accuracy and safety of the information, you can first download our bank's official app, which has detailed loan guidelines on it.
+Speaker2: How can I confirm that this app is your bank's official software?
+Speaker1: You can search 'Zhong Huai Yinhang' in the mobile app store and download the official certified app. If you're not convenient, I can send you a link, just click it to download.
+Speaker2: I'll just go to the app store and search myself, thank you for your advice.

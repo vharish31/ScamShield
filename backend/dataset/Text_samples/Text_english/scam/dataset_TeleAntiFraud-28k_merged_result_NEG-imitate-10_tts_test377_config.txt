@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Dongjing Bank. I see that you have applied for a loan before, and now we have a thirty-five thousand yuan loan with a low interest rate available for you. Would you be interested in learning more about it?
+Speaker2: Sure, I really need some cash flow lately.
+Speaker1: Okay, I can help you quickly process it. But to ensure the accuracy of your information, I need you to provide a verification code. I will send a text message to your phone with the code, please let me know once you receive it.
+Speaker2: Okay, I'll be right back.
+Speaker1: Okay, just wait a moment, the text message will be sent shortly.
+Speaker2: I received it. The verification code is six five four three two one.
+Speaker1: Okay, thank you. We also need you to download our loan app, which will make the next steps easier for you. You can download it through this link: (spoken link)
+Speaker2: Okay, I'll go download it now.
+Speaker1: After downloading, please follow the instructions. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

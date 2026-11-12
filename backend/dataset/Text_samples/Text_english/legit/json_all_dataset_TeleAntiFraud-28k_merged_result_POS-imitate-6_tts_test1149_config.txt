@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm your delivery rider, about ten minutes to your place.
+Speaker2: Hey, hello, thank you, can you please?
+Speaker1: No problem, did you note to make it spicy when you placed your order?
+Speaker2: Yes, I'm from Sichuan, I like spicy food, sorry to bother you.
+Speaker1: Okay, I confirm, it's apartment 123 in building 45, unit 2, right?
+Speaker2: Yes, it's apartment 45, unit 2, room 1203. Sorry to bother you.
+Speaker1: Okay, I will send it over quickly, when do you think you'll arrive home?
+Speaker2: I'll probably arrive at five and a half, you can send it to the door ten minutes early, I'll go down and get it.
+Speaker1: Okay, no problem, I will contact you in advance, what's your phone number?
+Speaker2: My phone number is 13801380138, you arrived to call me.
+Speaker1: Okay, I understand, thank you, be careful on the road.
+Speaker2: Thank you, be careful on the road, goodbye.

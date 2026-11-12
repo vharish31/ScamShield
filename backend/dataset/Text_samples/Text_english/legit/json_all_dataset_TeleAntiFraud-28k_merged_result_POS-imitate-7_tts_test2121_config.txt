@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I saw an electric car on your website and wanted to know more about its specific information.
+Speaker2: Okay, which electric car model are you interested in? We have several different models here.
+Speaker1: What is the name of the popular one recommended on your homepage?
+Speaker2: Oh, you're talking about the electric car that runs on east wind, this car model has good range and comfort.
+Speaker1: What is the price?
+Speaker2: The price of this electric car is 15,980 yuan, there is a promotion now, you can enjoy some discount.
+Speaker1: Do you have a car now? I want to come see it this weekend.
+Speaker2: Currently, there are a few cars in stock at the store. You can book a test drive time, and we can arrange a test drive experience for you on weekends.

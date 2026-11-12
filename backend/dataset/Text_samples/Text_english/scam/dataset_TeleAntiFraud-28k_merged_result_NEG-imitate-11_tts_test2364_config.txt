@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Tiancheng City Commercial Bank. We recently have a special promotion for loan activity. Would you be interested in learning more about it?
+Speaker2: Hey, loan, I recently have some cash flow issues, can you explain in detail?
+Speaker1: Of course, our loan products have no collateral, no guarantee, approval is quick, disbursement is quick, interest rate is very low, only need you to provide some basic information, we can quickly process for you.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: You just need to download our bank's official app, fill out the relevant information, submit review, our customer manager will quickly contact you to guide you through the next steps.
+Speaker2: Okay, what is the name of this app?
+Speaker1: Our app is called "Tiancheng Jinrong" and you can download it from the app store on your phone. After downloading, please use the invitation code TCSY123 to enjoy more discounts.
+Speaker2: Okay, I'll download it now, thank you.
+Speaker1: No problem, if you have any issues during the download or use process, please feel free to contact me anytime. My phone number is 13800138000. Wish you all the best. Bye.
+Speaker2: Okay, bye.

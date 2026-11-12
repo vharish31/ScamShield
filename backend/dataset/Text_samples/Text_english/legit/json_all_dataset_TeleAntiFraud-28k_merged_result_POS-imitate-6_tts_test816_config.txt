@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to check your restaurant's business hours.
+Speaker2: Hello, our restaurant is open from 10 am to 10 pm every day, and we close early at 9 pm on Sundays.
+Speaker1: Sure, can I make a reservation for lunch at your restaurant at noon on Monday?
+Speaker2: Of course, to ensure there's a spot, I suggest you book in advance. How many spots do you need to book?
+Speaker1: Two people, me and a friend.
+Speaker2: Okay, I have reserved two seats for you at noon on tomorrow at 12:30. Do you have any other requirements, such as a window seat or a quiet corner?
+Speaker1: If there's a quiet corner, that's best.
+Speaker2: Understood, I will try my best to arrange myself in a quiet corner. Are there any other things that need to be notified in advance?
+Speaker1: No more, thank you.
+Speaker2: You're welcome. We're looking forward to your visit. If you have any questions, please feel free to call us anytime. Goodbye.

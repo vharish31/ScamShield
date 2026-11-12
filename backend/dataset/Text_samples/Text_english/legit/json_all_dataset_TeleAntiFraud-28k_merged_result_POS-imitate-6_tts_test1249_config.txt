@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help with?
+Speaker1: I saw that you guys have a new electric car online, I want to know more about it.
+Speaker2: Okay, that electric car is our latest model, with strong range and easy operation.
+Speaker1: How far can this electric car go on a single charge?
+Speaker2: Its maximum range is three hundred kilometers, which is fully sufficient for daily use.
+Speaker1: How long does it take to charge?
+Speaker2: In quick charge mode, it takes about an hour to charge 80% of the battery.
+Speaker1: What about the prices?
+Speaker2: The current promotion price is 28800 yuan, and there are some small gifts sent as well.
+Speaker1: Sounds good, I'll think about it some more, get back to you later.
+Speaker2: Okay, no rush, you consider and contact me anytime. Wish you have a good day!

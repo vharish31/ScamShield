@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Hey, I just got out of the subway station exit, where are you?
+Speaker1: Can you see the bus station sign in front of me?
+Speaker2: I see you, I'll be there soon.
+Speaker1: Okay, hurry up, I'm feeling a bit cold here.
+Speaker2: I know, it'll be there in about five minutes.
+Speaker1: Okay, can you bring me a bottle of water when you come over? I'm thirsty.
+Speaker2: Okay, I know where to buy, see you later.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

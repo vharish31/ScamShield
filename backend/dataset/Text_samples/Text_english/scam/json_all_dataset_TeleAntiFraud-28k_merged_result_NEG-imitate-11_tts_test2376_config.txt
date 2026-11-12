@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Hello, I am.
+Speaker1: Good morning, Mr. Li. I am the client manager of Guangfa Bank, and I saw that your company recently had a large capital need. That's why I called you to see if you have any intention of borrowing.
+Speaker2: Oh, a loan, I have enough funds now, but it's still okay to listen to your loan plan.
+Speaker1: Thank you very much for your understanding and support. We recently launched a low-interest loan product for small and medium-sized enterprises, with flexible loan amounts and fast approval. If it's convenient, please scan the QR code we provided to download our app, where you can apply for loans in detail.
+Speaker2: Do you want to download the app? Will it be a bit inconvenient?
+Speaker1: No problem, it only takes a few minutes, our app operation is very simple, and there are professional customer service people inside who can provide one-on-one service. Just provide some basic information, and we can quickly review it for you.
+Speaker2: Okay, let me try.
+Speaker1: Great, you're making a wise choice. Here's our QR code, you can scan it directly. Additionally, for your information security, we also provide a special link, you can download our APP through this link.
+Speaker2: Okay, I'll go operate right away.

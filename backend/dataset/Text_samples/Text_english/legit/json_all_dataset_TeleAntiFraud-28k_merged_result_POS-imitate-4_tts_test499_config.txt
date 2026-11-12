@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I just arrived at your neighborhood, can you tell me how to walk?
+Speaker2: Hello, where are you coming from?
+Speaker1: I came from the other side of the train station.
+Speaker2: Alright, after getting off the train station, turn left and walk about 500 meters, you will see a red mailbox.
+Speaker1: Seeing the red mailbox?
+Speaker2: See the red mailbox, then turn right, walk along the small road, you will see a blue mailbox.
+Speaker1: Found the blue email, then what?
+Speaker2: Walk straight from the blue mailbox, you will see a small park, my house is on the opposite side.
+Speaker1: Okay, I arrived soon, thank you.
+Speaker2: No problem, be careful on the road.

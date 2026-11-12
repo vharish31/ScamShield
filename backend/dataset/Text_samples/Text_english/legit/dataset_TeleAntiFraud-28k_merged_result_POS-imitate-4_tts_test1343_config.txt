@@ -1,0 +1,14 @@
+Speaker2: Hello, is this your call?
+Speaker1: Yes, it's me. Can you talk easily?
+Speaker2: Okay, what's up?
+Speaker1: Can you tell me more about your repair service on that side, my fridge at home seems to be broken.
+Speaker2: Okay, what brand is the refrigerator? What's the problem?
+Speaker1: This is Haier's, the cooling effect is not good, sometimes it will emit strange noises.
+Speaker2: This situation we can handle, can we schedule a master to come over and check? What's your convenient time?
+Speaker1: Can I meet you tomorrow afternoon?
+Speaker2: Okay, tomorrow afternoon around two o'clock, the teacher will arrive on time. What is your home address?
+Speaker1: Address is happiness road number thirty-three, sunshine small community building number two floor one unit.
+Speaker2: Okay, I'll record it down. Tomorrow afternoon at two o'clock, the teacher will arrive on time. Is there anything else you need help with?
+Speaker1: No more, thank you.
+Speaker2: No problem, please feel free to contact us anytime. Goodbye.
+Speaker1: Goodbye.

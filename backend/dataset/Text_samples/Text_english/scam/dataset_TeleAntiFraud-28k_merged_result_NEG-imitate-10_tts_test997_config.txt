@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Lee, the manager from Shanghai Bank. Do you have any recent funding circulation needs for your tech limited company?
+Speaker2: Hello, there is no such requirement at the moment.
+Speaker1: Oh, that's really too bad. But if you have any consideration in the future, you can contact me anytime. By the way, I have a special discount loan plan here, just need to fill out some basic information online, and it can be quickly approved, are you interested in knowing more?
+Speaker2: How do I apply?
+Speaker1: That's great! Just scan the QR code I send you and download our official app, then follow the instructions to complete the application.
+Speaker2: Is the app safe to download?
+Speaker1: Of course, our app is certified by the Chinese government, ensuring your information is absolutely safe. You can use it with peace of mind, and now there's an extra discount for applying.
+Speaker2: Then let's try and see.
+Speaker1: Okay, wait a minute, I'll send you the QR code right away.
+Speaker2: Okay, I'm waiting.

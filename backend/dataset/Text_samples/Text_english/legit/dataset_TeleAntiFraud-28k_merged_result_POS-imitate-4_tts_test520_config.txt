@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a waiter at the Dà Huá restaurant, you ordered a seat at our restaurant yesterday, are you coming to six o'clock tonight?
+Speaker2: Hey, hello, yes, I really booked a seat yesterday, six o'clock.
+Speaker1: Okay, let's confirm again, are you two?
+Speaker2: Okay, just the two of us.
+Speaker1: Okay, we have reserved the seats for the two of you. We suggest that you arrive a little earlier, so we can have more time to serve you.
+Speaker2: Okay, we'll try to arrive ten minutes or so in advance.
+Speaker1: Thank you very much, do you have any other things that need to be informed in advance? For example, special requirements on the menu or other services.
+Speaker2: No problem, we'll take a look at the menu later and decide what to order, thank you for reminding us.
+Speaker1: Okay, everything is arranged properly now, we're looking forward to your arrival, wish you a happy day.
+Speaker2: Thank you, goodbye.

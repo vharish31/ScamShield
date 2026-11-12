@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the small property manager of the community, we saw that your water and electricity bill for this month hasn't been paid yet.
+Speaker2: Oh, really? I've been busy lately, I forgot.
+Speaker1: No problem, you can choose online payment or go to the property center to pay.
+Speaker2: How do I operate online payment?
+Speaker1: You can bind your landlord information through our WeChat public account or Alipay life account, and then you can directly pay.
+Speaker2: Okay, let me try.
+Speaker1: If you encounter any issues during the operation, please contact us directly. Our phone number is 13123456.
+Speaker2: Okay, thank you for your reminder. I will handle it quickly.
+Speaker1: You're welcome to contact us anytime if you have any questions. We wish you a happy life.
+Speaker2: You too, goodbye.

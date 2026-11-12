@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Zong?
+Speaker2: Who?
+Speaker1: Hey, Li boss, good morning, I'm the customer manager at the Jiangnan Bank, just saw your company's business license, can apply for a 50,000 credit loan with low interest, you consider it?
+Speaker2: I don't need a loan.
+Speaker1: Hmm, it's not worth it. The interest rate is really low right now, and our bank's approval process is very fast. Would you consider it?
+Speaker2: Okay, I'll think about it.
+Speaker1: Great, Li boss, to make it easier for you to handle, I'll send you a link, just click and fill in the relevant information.
+Speaker2: Okay, I'll take a look.
+Speaker1: Okay, just a moment, I'll send it over to you now. Additionally, to ensure the safety of your information, please provide your identity card number and bank account information.
+Speaker2: Okay, you say.

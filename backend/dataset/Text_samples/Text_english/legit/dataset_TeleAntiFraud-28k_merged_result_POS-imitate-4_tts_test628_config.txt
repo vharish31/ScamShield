@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Ming
+Speaker2: Hello, Xiao Ming, I am Xiao Huang, how have you been recently?
+Speaker1: That's great, are you preparing for exams too?
+Speaker2: I too, there's also just recently been paying attention to an electronic product, want to buy a new notebook computer.
+Speaker1: Hey, do you have any specific requirements, like brand or configuration?
+Speaker2: The main purpose is to study and occasionally play games, with a budget of around six thousand.
+Speaker1: You can check out smallmi or huawei, they have a good price-performance ratio and are suitable for students.
+Speaker2: Hmm, I've seen some before, but I'm not sure which model is good.
+Speaker1: You can check out the electronic product forum, there are often gods sharing their insights, should be able to help you.
+Speaker2: Great idea, thank you for your suggestion, I'll take a look.
+Speaker1: No problem, remember to tell me one sound.
+Speaker2: Definitely, we'll chat again next time.

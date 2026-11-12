@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am from the personal loan department of Commercial Bank, are you Mr. Li?
+Speaker2: Yes, what do you have in mind?
+Speaker1: Have you heard about our recently launched special discount loan product that can help you solve your cash flow problems?
+Speaker2: Loan? I'm currently a bit short of cash, how do I operate?
+Speaker1: Great, just download our official app, register and fill in some basic info, and we'll have a specialist review it quickly, so you can get your loan soon.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Very safe, our app is officially certified, you can search for commercial bank in app store and download official version.
+Speaker2: Okay, I'll try. Do I need any more information?
+Speaker1: Please provide us with the front and back of your ID, as well as your bank account transaction records. Once approved, we will contact you to sign the contract.
+Speaker2: Okay, I'll go download it now. Is there anything else I need to pay attention to?
+Speaker1: Be careful when downloading and choose the official channel, not through SMS or links to avoid being scammed.
+Speaker2: Okay, thank you for your reminder.

@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I saw you changed your store and I want to try the new menu.
+Speaker2: Hello, how are you? Welcome to our new branch, what can we help you with?
+Speaker1: Do you have any recommendations for dishes now?
+Speaker2: Our recently introduced signature dishes include spicy Sichuan hot pot and ginger and scallion steamed dumplings, both of which are very popular.
+Speaker1: Let's all order one of each.
+Speaker2: Okay, I recorded it for you. Is there anything else you need to add?
+Speaker1: Can you give me another stir-fried green vegetables, mild flavor?
+Speaker2: Got it, stir-fried green vegetables have a mild taste, okay, I'll prepare it right away.
+Speaker1: Can you use member cards here?
+Speaker2: Of course, as long as you show your membership card, you can still enjoy additional discounts, right?
+Speaker1: That's great, I'll be there in a minute.
+Speaker2: Okay, we have reserved a spot for you, looking forward to your arrival.

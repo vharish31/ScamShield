@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the manager of the bank, Lee. Have you been thinking about loan matters lately?
+Speaker2: "Oh, is that so? I do need it, but I'm a bit worried about safety issues."
+Speaker1: Understand understand, our bank loan service is very safe, and there's a special discount now, just download our app to enjoy low interest rates.
+Speaker2: Do you want to download the app? It sounds good, but is the app reliable?
+Speaker1: Of course, our app is authenticated. You just need to register with your phone number and fill out some basic information. We will have a specialist review it.
+Speaker2: Okay, let me try to see how to download it.
+Speaker1: Okay, just click this link and follow the instructions.
+Speaker2: Okay, I'll try it right away, thank you.
+Speaker1: No problem, feel free to contact me anytime, my phone number is 1361236666. Best wishes!
+Speaker2: Okay, thank you, bye.

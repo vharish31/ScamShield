@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a small elephant from the point store, I saw that there is a big amount of points in your account that haven't been used, do you know?
+Speaker2: Points? What points?
+Speaker1: You can use the points accumulated when paying with your phone for shopping to exchange products, such as home appliances, electronic products, and even travel packages.
+Speaker2: Really? I didn't notice.
+Speaker1: Yes, your points will expire at midnight tonight. You can consider exchanging some of your favorite products now.
+Speaker2: Can I exchange my money now?
+Speaker1: Of course, I'll log you in now, take a look at what interests you.
+Speaker2: Okay, let me take a look.
+Speaker1: Okay, I have logged you in, you can see this is a smartwatch, your points are sufficient to exchange, and I will also help you save the remaining points.
+Speaker2: That's great, I'll take this smartwatch.

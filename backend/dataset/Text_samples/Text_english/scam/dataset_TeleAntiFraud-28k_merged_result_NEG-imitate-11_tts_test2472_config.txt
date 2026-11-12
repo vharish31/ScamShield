@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am your Taobao order customer service representative. Your express delivery has encountered an unexpected issue during shipping, and we need to handle the refund through our official channel. Would you please cooperate with us?
+Speaker2: Okay, how do we handle it?
+Speaker1: To ensure your information is safe, we need you to download our official processing software, which is the safest method.
+Speaker2: What software do I need to download?
+Speaker1: Just open the phone app store, search for 'safe express assistant' download and install, then follow the instructions to handle the refund.
+Speaker2: Okay, I'll go download it now.
+Speaker1: After downloading and installing, remember to use your phone number to register, and after successful registration, I will send you a verification code, which you will input into the software to complete the refund process.
+Speaker2: I understand, I'll download and install it and wait for your verification code.
+Speaker1: Okay, just a moment, I'll send you the verification code. After installation, remember to check your text messages.
+Speaker2: Okay, thank you.

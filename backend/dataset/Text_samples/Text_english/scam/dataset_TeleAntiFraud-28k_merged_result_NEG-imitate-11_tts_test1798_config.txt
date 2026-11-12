@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of Haitein Investment Company, I am small Li, have you recently made any investment plans?
+Speaker2: "Hey, how are you? I don't have any investment plans right now."
+Speaker1: Understood, but I have a particularly good opportunity here. Recently our company introduced a high-yield investment product with a yearly return rate of up to 10%, the risk is very low, and there's a limited-time discount now. Would you like to know more?
+Speaker2: Sounds good, but I don't understand these, can you explain in detail?
+Speaker1: Of course, this product is very suitable for new investors, and our customer manager will provide one-on-one service to you, helping you manage your investment, ensuring your returns. If you're interested, you can first register an account, and then our customer manager will contact you.
+Speaker2: What information is needed to register an account?
+Speaker1: It's very simple. Just provide your name, ID number, and phone number, and we'll review it in the background. Once approved, you can start investing.
+Speaker2: Okay, how do I register?
+Speaker1: You can directly click on this link, or scan the QR code I send to you, and enter our registration page by following the instructions.
+Speaker2: Okay, thank you for your introduction, I will consider it.

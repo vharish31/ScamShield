@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Just arrived at the park gate, you?
+Speaker1: Can you see me at the bus station?
+Speaker2: What are you wearing?
+Speaker1: What are you wearing?
+Speaker2: I'm wearing a white T-shirt, black pants, and a black hat.
+Speaker1: Okay, I see you, I'm walking towards you.
+Speaker2: Okay, I see you too, hurry up and come over.
+Speaker1: I'll be there in a minute.
+Speaker2: Okay, I'm waiting for you here.

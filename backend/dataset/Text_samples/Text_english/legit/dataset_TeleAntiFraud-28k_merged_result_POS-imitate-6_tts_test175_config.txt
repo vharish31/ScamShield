@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you? I'm little king, recently I've been looking for a house, saw your house info.
+Speaker2: Hello, little Wang, I am landlord Li, what questions can I help you with?
+Speaker1: What floor is this house on?
+Speaker2: The apartment is on the twelfth floor, and there is an elevator.
+Speaker1: Is there warm air?
+Speaker2: This house is centrally heated, it's very warm in winter.
+Speaker1: How much is the rent?
+Speaker2: The monthly rent is three thousand yuan, with a deposit of one month's rent paid upfront.
+Speaker1: Can I take a look at the house?
+Speaker2: Of course, whenever you're convenient, I can take you to see it.
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Okay, tomorrow afternoon at three o'clock, I will be waiting for you at the community door.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

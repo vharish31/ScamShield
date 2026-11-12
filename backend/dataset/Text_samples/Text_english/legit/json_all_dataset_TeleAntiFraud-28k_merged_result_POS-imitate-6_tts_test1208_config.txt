@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have any new feather jackets in your store?
+Speaker2: Hello, yes, we recently bought a new batch of down jackets, with many styles to choose from. Which style do you want?
+Speaker1: I prefer minimalist style, with black or gray colors.
+Speaker2: Okay, we have both black and gray feather jackets. You can try them on in the store and the sizes are complete.
+Speaker1: Can I come over now?
+Speaker2: Of course, we are open for business now, please feel free to come over anytime.
+Speaker1: Okay, I'll be there in about ten minutes. Where is your store located?
+Speaker2: Our store is located next to the metro station in the city center square, and it's two hundred meters east from the metro station.
+Speaker1: Okay, I understand, thank you for your help.
+Speaker2: Please come soon.

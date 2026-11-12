@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you with your previous order from Ele.me?
+Speaker2: Hey, hi, I just placed an order but I messed up the delivery address, can you help me fix it?
+Speaker1: Of course, what is your current correct address?
+Speaker2: I am currently at the east side of Tiananmen Square in Dongcheng District, specifically at the number two of the east side road of Tiananmen Square in Dongcheng District.
+Speaker1: Okay, I'll help you change your address. What's your order number?
+Speaker2: My order number is 234157890.
+Speaker1: Okay, I have changed your address. What time do you think you can arrive at this address?
+Speaker2: I'll be there in about twenty minutes.
+Speaker1: Okay, let me arrange for the delivery guy to leave after you arrive about fifteen minutes, should arrive on time.
+Speaker2: That's great, thank you.
+Speaker1: No problem, if you have any other questions, feel free to contact me. Enjoy your meal!

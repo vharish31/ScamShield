@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I saw your rental house info in Five Eight City.
+Speaker2: Hey, hello. Yes, I have a house for rent here.
+Speaker1: Is that house a one-room one-hall?
+Speaker2: Yes, it's a one-room one-bedroom apartment with a separate bathroom.
+Speaker1: How much is the rent?
+Speaker2: Rent is one thousand five hundred yuan per month, three months' deposit.
+Speaker1: Is the electricity bill calculated separately?
+Speaker2: Yes, the water electricity fee is charged based on actual usage, and the internet fee is fifty yuan per month.
+Speaker1: When can I go see the house?
+Speaker2: Are you free this weekend? I can accompany you.

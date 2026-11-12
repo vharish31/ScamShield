@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I want to inquire about your store's repair service.
+Speaker2: Sure, what time do you want to make a reservation?
+Speaker1: Can I see you tomorrow afternoon?
+Speaker2: Can we make plans for tomorrow afternoon? Just need to book in advance. Is it convenient for you to book now?
+Speaker1: Sure, how about I schedule an appointment for tomorrow afternoon at three o'clock?
+Speaker2: Okay, tomorrow afternoon at three o'clock, we have reserved a spot for you here.
+Speaker1: Okay, see you tomorrow.
+Speaker2: See you tomorrow, be careful on the road.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me more about the bread in your store? How many types do you have?
+Speaker2: We have a lot of bread types here, including whole wheat, baguette, sweet buns, and various fruit jams, which one do you want?
+Speaker1: Can you tell me specifically what flavors are in fruit jam bread?
+Speaker2: Of course, we have four kinds of flavors for our fruit buns: blueberry, strawberry, custard and lemon, all of which are very popular.
+Speaker1: What time do you open in the morning tomorrow?
+Speaker2: We open the door at seven in the morning, you can come anytime.
+Speaker1: Okay, I'll be there around eight o'clock, thank you for your information.
+Speaker2: No problem, see you later.

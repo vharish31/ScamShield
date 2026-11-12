@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Are you working at that supermarket?
+Speaker2: Yes, I am working at that supermarket. Is there anything I can help you with?
+Speaker1: Do you know if there's any sugar-free drinks available in your area? I've been trying to control my sugar intake lately.
+Speaker2: Yes, our supermarket has several zero-sugar drinks, what flavor do you want?
+Speaker1: Do you have any lemon flavor?
+Speaker2: Do you want to come take a look at the lemons?
+Speaker1: Okay, I'm coming over. Right, are you guys still open now?
+Speaker2: We are open all day, you can come anytime.

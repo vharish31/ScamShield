@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li. Our store just released some new electronic products. Do you have any interest in them?
+Speaker2: Hello, little Li, I recently really want to buy a new phone, do you have any recommendations?
+Speaker1: We have a new high-configuration smartphone here with a great battery life and multiple color options, making it perfect for young people to use.
+Speaker2: How much does this phone cost?
+Speaker1: This phone costs 3600 yuan, and now comes with a one-year warranty service when purchased.
+Speaker2: The insurance service sounds good, where is the store located?
+Speaker1: Our store is on the third floor of the city square, you can take the metro line 2 to the city square station, get off and turn right and walk about 200 meters to get there.
+Speaker2: Okay, I know, I'll go now, about half an hour later I'll be there.
+Speaker1: Okay, we open the door at 11:30, just come directly to me when you arrive, my name is Li Xiao.
+Speaker2: Okay, thank you little Li, see you later.

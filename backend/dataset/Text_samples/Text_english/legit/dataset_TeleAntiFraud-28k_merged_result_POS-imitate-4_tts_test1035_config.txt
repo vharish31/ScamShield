@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, living in old building eleven, apartment eight nine, my delivery hasn't arrived yet.
+Speaker2: Hello, I'm the delivery boy, your delivery is at the door, have a look?
+Speaker1: Look, ah, really, I looked at the picture, on top it says here.
+Speaker2: Is the picture showing that location? I confirm my order.
+Speaker1: Yes, that's it. And are you sure you got it now?
+Speaker2: Uh, okay, I just say how to find it, because that number is the same, I picked up the wrong one, all are twenty-two.
+Speaker1: Hurry up and send it over to me, I'm waiting.
+Speaker2: Okay, I'll send it right over to you, just wait a minute.
+Speaker1: Okay, I'm waiting for you at the door.
+Speaker2: Okay, I'll be there soon.

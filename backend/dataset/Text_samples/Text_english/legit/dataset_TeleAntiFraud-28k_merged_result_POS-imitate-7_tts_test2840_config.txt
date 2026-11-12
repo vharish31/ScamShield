@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, can you hear me?
+Speaker2: Can you hear me, hello little king, what's up?
+Speaker1: I just saw your store's promotion on the internet and wanted to ask about your smartwatch.
+Speaker2: Okay, little king, what specific aspects of the smartwatch do you want to know about our store's bestsellers?
+Speaker1: I want to know the battery life and water resistance level of this watch.
+Speaker2: This smartwatch's battery life is approximately one week, its water resistance level is five, it can meet daily usage needs, such as washing hands and getting wet.
+Speaker1: What is the price of that?
+Speaker2: This watch is priced at 980 yuan, and there is a 50 yuan discount coupon available for use during the activity.
+Speaker1: Okay, I'll think about it, thank you for your help.
+Speaker2: No problem, if you have any other questions, feel free to contact me anytime, wish you a happy day!

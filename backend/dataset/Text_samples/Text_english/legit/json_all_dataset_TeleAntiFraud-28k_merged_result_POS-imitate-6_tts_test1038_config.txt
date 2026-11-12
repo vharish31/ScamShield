@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you recommend a restaurant location?
+Speaker2: Of course, there's a great restaurant here with good reviews on both environment and service. Would you like to make a reservation for tonight?
+Speaker1: Okay, it's tonight at around seven o'clock, two people.
+Speaker2: Okay, I can help you book, please tell me your name and contact information.
+Speaker1: I am Li Huai, my phone number is 13800000000.
+Speaker2: Mr. Li, your reservation was successful. At seven o'clock tonight, for two people, we will reserve a spot for you. Please remember to arrive ten minutes early.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: You're welcome, please feel free to contact us if you have any questions, enjoy your meal.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the Agricultural and Commercial Bank, and I'm calling to see if you have any recent need for capital rotation?
+Speaker2: Hello, temporarily no need for this, thank you.
+Speaker1: Oh, that's right, just wait a minute, I see some unusual activity on your company's account, it might affect your cash flow.
+Speaker2: Really? Then what do we do?
+Speaker1: Don't worry, this might be a system error, but for safety reasons, I suggest you download our bank's official app, which can make it easier to manage your account.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you download it, remember to use this invitation code: A123456, so you can enjoy our new user discount.
+Speaker2: Okay, I understand.
+Speaker1: Additionally, if you encounter any issues while using it, feel free to add my WeChat and contact me anytime.
+Speaker2: Okay, thank you for your help.

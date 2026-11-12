@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's menu, do you have anything suitable for friends who don't like spicy food?
+Speaker2: Of course, we have a lot of dishes to choose from here, such as steamed fish with ginger and green onions, white-cut chicken, and all of them are delicious.
+Speaker1: How much do these menu items cost?
+Speaker2: Steamed fish is 58 yuan, ginger and green onion is 18 yuan, cut chicken is 45 yuan.
+Speaker1: What are your business hours?
+Speaker2: We are open from 11 am to 10 pm, no holidays.
+Speaker1: Can I reserve a window seat for around seven o'clock this evening?
+Speaker2: Sure, I'll book a window seat for you. Please arrive ten minutes early so we can prepare for you.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: You're welcome, see you later, wish you a happy dining experience.

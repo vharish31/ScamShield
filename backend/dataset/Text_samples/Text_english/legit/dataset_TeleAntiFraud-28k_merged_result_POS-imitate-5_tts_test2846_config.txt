@@ -1,0 +1,12 @@
+Speaker1: Hey, are you looking for a hair salon nearby?
+Speaker2: Okay, I want to make a hair appointment.
+Speaker1: Okay, we have a few time options for you to choose from, either 10 am or 2 pm, which one is more convenient for you?
+Speaker2: I should be able to at 2 pm today, I'm feeling pretty empty this afternoon.
+Speaker1: Okay, I'll book an appointment for you at 2 pm. Do you have any specific hairstyle requirements?
+Speaker2: Short, clean, and neat haircuts are great.
+Speaker1: Understood, we will prepare in advance. Can you tell me your name and phone number?
+Speaker2: My name is Li Ming, phone number is 13800138000.
+Speaker1: Okay, Li Ming Xiāngshēng, are you coming to our store for the first time?
+Speaker2: Yes, my friend recommended it, and it's good at hand skills.
+Speaker1: Thank you very much for choosing us. We will definitely be fully devoted to serving you. See you then!
+Speaker2: Okay, thank you, see you then.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is Hǎitiān chǎnfǎng, you reserved a private room for tomorrow's lunch here, do you need to confirm?
+Speaker2: I need to, but I might be late, around 1:30 PM I should arrive.
+Speaker1: Okay, no problem, we will keep it for you until two in the afternoon. Just come directly to the service counter when you arrive, they will take you to the VIP room.
+Speaker2: Okay, thank you.
+Speaker1: No problem, do you need help with anything else? For example, do you need to prepare some small dishes or drinks in advance?
+Speaker2: Can you help me prepare some cold dishes and a few bottles of mineral water, thank you.
+Speaker1: Okay, everyone has noted it down. Do you have any special aversions, like seafood, spicy or vegetarian?
+Speaker2: I don't eat seafood, everything else is okay.
+Speaker1: Understood, we will prepare suitable small dishes for you. If there are any changes temporarily, please contact us.
+Speaker2: Okay, thank you, see you tomorrow.

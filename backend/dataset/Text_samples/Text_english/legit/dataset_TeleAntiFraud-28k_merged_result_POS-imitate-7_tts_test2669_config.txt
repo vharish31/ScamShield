@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I'm at the community gate, can you help me point the way to the 23rd floor?
+Speaker2: Hello, little king, 23rd floor, you entered the community and walked to the right, turn left at the third crossroad, and walk straight to the bottom.
+Speaker1: Okay, thank you. How long will it take?
+Speaker2: About ten minutes, the road isn't far.
+Speaker1: Understood, I also brought some stuff, it's a bit heavy, if you have time, can you help me move it together?
+Speaker2: Sure, sure. I'm right here. Just wait a minute, I'll be there soon.
+Speaker1: Thank you very much.
+Speaker2: No problem, neighbors help each other. You go slowly inside, I'll wait for you at 23rd floor.
+Speaker1: Okay, I'm walking in now. I'm there quickly. Bye!
+Speaker2: Okay, be careful on the road, see you later!

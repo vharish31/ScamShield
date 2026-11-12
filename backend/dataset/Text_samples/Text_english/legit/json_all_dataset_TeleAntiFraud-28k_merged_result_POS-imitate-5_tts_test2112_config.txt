@@ -1,0 +1,9 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, do you have a one-bedroom, one-living-room apartment for rent on this side?
+Speaker2: Yes, we have several sets of a one-room-one-living-room apartment here. Which one do you want to see specifically?
+Speaker1: Do you have any other houses like that one advertised with air conditioning and hot water heater, priced at 450 yuan?
+Speaker2: Yes, the rent for room 45 includes air conditioning and hot water heater, but this price is for a week's three-cleaning, do you think it's appropriate?
+Speaker1: Hmm, can you accept this price? Can it be a little cheaper?
+Speaker2: The price of 450 yuan is the best deal on this side, but if you are satisfied with the house, we can consider renting it to you for 400 yuan.
+Speaker1: Can I come over in the afternoon?
+Speaker2: Sure, I'm home all day today, you can come over in the afternoon anytime to see the house.

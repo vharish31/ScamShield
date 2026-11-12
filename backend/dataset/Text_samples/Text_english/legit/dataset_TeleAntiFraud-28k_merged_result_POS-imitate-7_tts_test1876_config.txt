@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I saw your store's advertisement on the internet, I want to ask about your menu prices.
+Speaker2: Hello, I am customer service Li, our store has many options for menu prices, which one do you want to know specifically?
+Speaker1: Can you tell me about your double-person set menu that's suitable for friend gatherings?
+Speaker2: Okay, our double person set meal original price is one hundred and fifty yuan, now there is a promotion activity, eighty percent off, only one hundred and twenty yuan.
+Speaker1: What dishes are included in this menu?
+Speaker2: This meal includes our signature dishes of four choices, two vegetable dishes, a bowl of soup and two drinks.
+Speaker1: How about you guys start your business at 9 o'clock?
+Speaker2: Our store opens at 11 am every morning and closes at 10 pm every night, with no breaks in between.
+Speaker1: Okay, then I'll prepare for the weekend, are your weekend business hours the same?
+Speaker2: Yes, our weekend business hours remain the same, you can come at a convenient time.

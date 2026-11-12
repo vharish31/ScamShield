@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what do you have?
+Speaker1: I saw your job posting on 58.com, I want to know more about it.
+Speaker2: Okay, which position are you interested in?
+Speaker1: Can you specifically describe the work content of the sales position?
+Speaker2: The sales position mainly involves selling products and maintaining customer relationships, and we need you to have good communication skills and sales techniques.
+Speaker1: What is the salary and benefits for this position?
+Speaker2: The base salary is three thousand, plus commission, if you do well, you can earn six thousand or more per month.
+Speaker1: What's the work schedule like?
+Speaker2: Work hours are from 9 am to 6 pm, with one day off per week.
+Speaker1: Can I come for an interview when I have time?
+Speaker2: Of course, when is convenient for you, we can arrange an interview time here.
+Speaker1: Can I come over at two in the afternoon tomorrow?
+Speaker2: Okay, tomorrow afternoon at two o'clock, we'll wait for you at the company.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

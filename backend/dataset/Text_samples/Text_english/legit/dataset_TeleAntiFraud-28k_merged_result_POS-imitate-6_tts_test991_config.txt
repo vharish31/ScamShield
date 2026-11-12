@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from the courier company. Your package has arrived at the station. You can pick it up now.
+Speaker2: Okay, thank you. What time is it best for me to come?
+Speaker1: Our store is open from 9am to 6pm. You can come now or later.
+Speaker2: Can I go around three in the afternoon?
+Speaker1: Okay, come at 3 o'clock, no problem, remember to bring your ID.
+Speaker2: Okay, I will bring my ID. And do I need to pay extra fees for my luggage?
+Speaker1: No extra fees are required if your package is delivered. However, you need to pay shipping fees when picking up your package, but your package has already been paid for.
+Speaker2: Then okay, I am concerned about any additional costs.
+Speaker1: Don't worry, there won't be any extra charges. If you have any questions, you can come to me directly when you arrive.
+Speaker2: Okay, thank you for your reminder, see you in the afternoon.
+Speaker1: No problem, see you in the afternoon.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Huaxia Bank. We can provide you with a no-collateral loan with simple procedures and fast approval. Do you have any recent financial needs?
+Speaker2: Hey, how are you? Actually, I'm in a bit of a bind lately and could use some cash. Can you give me a detailed rundown?
+Speaker1: Okay, this loan product is very flexible, with a maximum loan amount of 50,000 yuan and a very competitive interest rate. However, to ensure the safety of your personal information, I need you to download our official app first and complete the loan application through the app.
+Speaker2: Can I download the app? Is it safe to do so?
+Speaker1: Of course, our app is officially certified and very safe. You just need to scan the QR code on your phone screen to download it directly.
+Speaker2: Okay, let me try.
+Speaker1: Great, please enter my work number 12345 after downloading, so we can provide more personalized service.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Okay, please let me know if you have any issues after downloading. Also, to ensure a smooth loan process, please provide an emergency contact phone number so we can stay in touch later.
+Speaker2: Sure, this is my friend, the phone number is 1315432101.

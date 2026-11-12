@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Zhang. I recently saw your fitness course and wanted to know more about it.
+Speaker2: Hello, little Zhang, I am health center service small Liu, very happy to serve you. What courses do you want to know?
+Speaker1: Can you tell me more about your yoga classes, especially the morning ones?
+Speaker2: Okay, our yoga class starts at 7am every Monday, Wednesday, and Friday, led by experienced instructors.
+Speaker1: How much does that course cost?
+Speaker2: The fee for a single class is 80 yuan, and if you buy a monthly card, it's 960 yuan per month, allowing you to attend unlimited yoga classes.
+Speaker1: Can I listen to it once?
+Speaker2: Of course, the trial fee for the course is 80 yuan. If you buy a monthly card later, the trial fee can be deducted from the monthly card fee.
+Speaker1: When can I come to try listening?
+Speaker2: You can choose to listen to this Friday morning at 7am, there is still a spot available.
+Speaker1: Okay, I'll come early on Friday morning, thank you for your help.
+Speaker2: You're welcome. We're looking forward to your arrival. If you have any other questions, please contact us anytime.

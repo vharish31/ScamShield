@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am Li Xiao, the customer manager of Agricultural and Commercial Bank.
+Speaker2: Hello, what do you have in mind?
+Speaker1: That's right, we recently launched a low-interest loan product that's perfect for businesses that need to manage their cash flow. Would you be interested in learning more about it?
+Speaker2: I recently have a bit of a cash need, can you give me a detailed explanation?
+Speaker1: Of course, our loan products do not require collateral, approval is fast, you can first download our bank's official app, there is a loan section inside, you can look at it in detail.
+Speaker2: Do you download the app? Is there any guarantee of safety?
+Speaker1: Our bank's app is very safe, there's no risk at all, you can relax. Moreover, I have specially prepared a discount code for you, you can enjoy a lower interest rate by inputting this code ABC123456 in the app.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues while using it, feel free to contact me directly. My phone number is 13800138000.
+Speaker2: Okay, thank you.

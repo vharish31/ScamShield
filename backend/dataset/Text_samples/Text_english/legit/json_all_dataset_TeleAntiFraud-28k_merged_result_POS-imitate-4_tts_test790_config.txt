@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Hi, I'm small Li. Did you consult a smartwatch on the internet before? I want to confirm with you, are you still considering this product?
+Speaker2: Yes, I'm quite interested in that watch, but I have some questions.
+Speaker1: No problem, you can ask me any questions about this watch, and I will do my best to answer them.
+Speaker2: How long does the battery of this watch last?
+Speaker1: This watch's battery life is about two days when used normally, and if you only use it occasionally, it may last longer.
+Speaker2: Does this watch support fast charging?
+Speaker1: Yes, this watch supports fast charging, approximately ten minutes of charging can be used for a whole day.
+Speaker2: The sound is good, but I have another question, is this watch waterproof?
+Speaker1: This watch can withstand a water depth of 50 meters, so daily hand washing or swimming is not a problem.
+Speaker2: Okay, all these issues have been resolved, so I'll think about it again before deciding. Thank you for your patience in answering.
+Speaker1: No problem, you can contact me anytime if you have any questions. I hope this watch becomes your ideal choice. Goodbye!
+Speaker2: Goodbye, thank you!

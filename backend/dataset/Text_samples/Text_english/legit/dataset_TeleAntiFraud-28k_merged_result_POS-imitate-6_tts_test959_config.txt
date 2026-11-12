@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little king?
+Speaker2: Yes, hello, who are you?
+Speaker1: I'm the driver you booked for the car service earlier, I'm now at your building entrance, are you ready?
+Speaker2: Okay, I'll come down right away.
+Speaker1: Okay, I'm waiting for you in the car with license plate number 12354. Remember to contact me when you come out.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, you safe point, I wait you.
+Speaker2: Okay, let's go.
+Speaker1: Call me when you arrive, I'll help you open the luggage compartment.
+Speaker2: Okay, thank you driver, see you later.

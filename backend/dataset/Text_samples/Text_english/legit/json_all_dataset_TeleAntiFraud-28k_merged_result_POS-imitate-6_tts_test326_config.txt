@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Recently I want to buy a new phone, do you have any goods there?
+Speaker2: Hello, do you want to see which brand of phone?
+Speaker1: That's the latest iPhone from Apple, I heard it has great performance.
+Speaker2: Yes, we have the latest iPhone in stock here. What information do you want to know about it?
+Speaker1: Can you tell me about the price and color options, and are there any promotional activities?
+Speaker2: The price of this phone is six thousand nine hundred ninety-nine yuan. It comes in black, white, and gold colors. We currently have an activity where you can get a free original case with a purchase of the phone for an additional one hundred yuan.
+Speaker1: Is that okay, do you support installment payments?
+Speaker2: We support flower installment plans here, and you can also choose credit card installment plans. The specific rules for installment plans can be found at the store for detailed inquiry.
+Speaker1: Okay, I'll come to the store on the weekend when I have some free time.
+Speaker2: Okay, see you this weekend. Remember to bring your ID when you come, so we can handle the paperwork.

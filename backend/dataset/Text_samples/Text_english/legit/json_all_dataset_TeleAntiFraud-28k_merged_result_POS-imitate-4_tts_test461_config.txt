@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw your hair salon on the internet, want to make an appointment.
+Speaker2: Hello, I'm very happy to serve you. What time would you like to make a reservation?
+Speaker1: Can I have this Saturday afternoon at three o'clock?
+Speaker2: Saturday afternoon at three o'clock is okay, this time slot we have a break.
+Speaker1: How early do I need to arrive at the store?
+Speaker2: I suggest you arrive ten minutes early, so you can rest a bit beforehand, and we'll be ready for you.
+Speaker1: Okay, I'll arrive at two fifty five on Saturday afternoon. And, do you have any recommendations for hairstyles?
+Speaker2: Of course, we have many popular short haircuts here. You can come later and let our designer recommend one based on your face shape and style.
+Speaker1: That sounds good, let's do it that way. Thank you for your help.
+Speaker2: No problem, looking forward to your arrival, see you on Saturday.

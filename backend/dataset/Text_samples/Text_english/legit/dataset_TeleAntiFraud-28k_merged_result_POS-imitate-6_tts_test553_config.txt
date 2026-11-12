@@ -1,0 +1,12 @@
+Speaker1: Hello, I want to know more about your restaurant's menu and prices.
+Speaker2: Hello, we have many dishes here, which one would you like to know about?
+Speaker1: Do you have any vegetables, and what is the price of vegetables?
+Speaker2: Yes, we have many vegetables, such as stir-fried vegetables, ginger and broccoli, each portion priced between 20 to 30 yuan.
+Speaker1: What are your business hours?
+Speaker2: We are open from 11 am to 9 pm every day.
+Speaker1: Can I reserve a seat in advance?
+Speaker2: Of course, you can tell me the date and time of the reservation, as well as the number of people, I will record it for you.
+Speaker1: Okay, I want to reserve this Saturday evening at 7 pm for four people.
+Speaker2: Okay, I have already reserved a spot for you for this Saturday evening at 7 pm for four people. Please arrive fifteen minutes in advance.
+Speaker1: Okay, thank you.
+Speaker2: Please come soon.

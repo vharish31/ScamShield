@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me the price of your hair cutting service?
+Speaker2: Our haircut service is priced differently based on hair style and difficulty, ranging from 30 to 100 yuan.
+Speaker1: How much does that last set of wash, cut, and blow-dry cost?
+Speaker2: The haircut, head wash, and blow-dry style costs 55 yuan.
+Speaker1: Okay, I want to make a reservation for tomorrow, what time do you open?
+Speaker2: What time slot do you want to book? We open at nine in the morning and close at eight in the evening.
+Speaker1: Can I go around ten o'clock?
+Speaker2: Okay, at ten o'clock we're not busy here, you can come directly.

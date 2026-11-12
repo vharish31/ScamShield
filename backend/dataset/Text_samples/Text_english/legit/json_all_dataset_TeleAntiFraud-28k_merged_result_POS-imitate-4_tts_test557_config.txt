@@ -1,0 +1,14 @@
+Speaker1: Hi, how are you? Can you tell me if there is a restaurant service here that is reserved?
+Speaker2: Hello, yes, I can help you book. Which restaurant do you want to book?
+Speaker1: I want to reserve a restaurant that is environmentally friendly and suitable for family dinners.
+Speaker2: Okay, there's a restaurant here with great environmental conditions, called "Huā Xiāng Xiāng", what do you think?
+Speaker1: The fragrance of the flower pavilion is not bad, can it accommodate ten people?
+Speaker2: Sure, Flower Fragrance Pavilion has several rooms, all can accommodate ten people left and right.
+Speaker1: Okay, I'll book a private room. What time is suitable?
+Speaker2: What date would you like to reserve? What time in the evening?
+Speaker1: This weekend, on Saturday night at 6:30 PM.
+Speaker2: Okay, I have reserved Saturday evening at 6:30 for you. Do you need to provide your name and contact information?
+Speaker1: Please, my name is Li Huai, phone number is 333-333-3333.
+Speaker2: Okay, Li Huangshēng, I'll take note. Please arrive ten minutes early, and if there are any changes, please contact us promptly.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, hope you enjoy your meal, bye.

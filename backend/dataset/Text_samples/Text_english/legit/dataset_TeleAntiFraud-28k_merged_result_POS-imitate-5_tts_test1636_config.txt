@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? Can I ask if you guys have any shampoo left on your side?
+Speaker2: Hello, there are some, but lately the promotional activities, the inventory may be scarce.
+Speaker1: How much is the promotional price for a bottle now?
+Speaker2: The original price was 120 yuan, but now the promotion price is only 100 yuan.
+Speaker1: One hundred yuan, okay. How to order?
+Speaker2: You can directly place an order on our website, or tell me your address, I will help you place an order in the backend.
+Speaker1: Okay, can you help me place an order? I'll give you my address right away.
+Speaker2: Okay, please send me the address, and I'll handle it from here.
+Speaker1: Okay, thank you. So, roughly when can it be delivered?
+Speaker2: In general, we will deliver within two to three days after ordering.
+Speaker1: Okay, bother you now.
+Speaker2: No problem, feel free to contact me anytime if you have any questions.

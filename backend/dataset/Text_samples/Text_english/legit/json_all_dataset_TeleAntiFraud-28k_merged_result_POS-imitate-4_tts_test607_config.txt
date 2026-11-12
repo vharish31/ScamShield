@@ -1,0 +1,11 @@
+Speaker2: Hi, are you looking for rental housing information?
+Speaker1: Yes, I see you have a thousand-square-meter apartment, can you rent it?
+Speaker2: Okay, that room hasn't been rented out yet.
+Speaker1: Okay, can I go over there tomorrow?
+Speaker2: Okay, you can come between 10am and 12pm tomorrow.
+Speaker1: Okay, is the rent one thousand including property fees?
+Speaker2: The property fee is included, but the heating fee is not, the heating fee in winter is calculated separately.
+Speaker1: How much money would it take for a month of heating?
+Speaker2: The amount of heating needed depends on the weather and you, generally speaking, it takes around 2 to 3 hundred yuan per month.
+Speaker1: I understand, thank you. Then I will arrive on time tomorrow.
+Speaker2: Okay, see you tomorrow.

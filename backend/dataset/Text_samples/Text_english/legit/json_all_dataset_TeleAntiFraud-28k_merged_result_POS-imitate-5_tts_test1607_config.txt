@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you recommend a phone for me to buy recently?
+Speaker2: Of course, what do you mainly use your phone for? Like taking photos, playing games, watching videos and so on.
+Speaker1: Mainly play games, occasionally take photos.
+Speaker2: I recommend a phone with good performance. Its processor is very strong, it plays games smoothly, and the camera is also good. Do you have any requirements for the price?
+Speaker1: Don't be too expensive, around three thousand.
+Speaker2: Okay, this phone is perfect for you, it costs around three thousand. There's a small discount recently, would you like to know more about it?
+Speaker1: Of course, can you give me a detailed explanation?
+Speaker2: We currently have an activity where buying this phone comes with a free phone case and screen protector, and there's also a chance to win game accessories through a draw. What do you think?
+Speaker1: Sounds good, I'll think about it, thanks for your recommendation.
+Speaker2: No problem, feel free to consult anytime if you have any questions. I hope you can find a satisfactory phone.

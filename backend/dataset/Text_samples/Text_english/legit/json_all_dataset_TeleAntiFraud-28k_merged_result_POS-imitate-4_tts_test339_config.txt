@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you, where are you now?
+Speaker2: Hey, I just arrived at the library, how about you?
+Speaker1: I'm still at home, planning to go out.
+Speaker2: Hey, come over here in a bit, let's meet up.
+Speaker1: Okay, I'll be there in about twenty minutes, just wait for me.
+Speaker2: No problem, I'm waiting for you here.
+Speaker1: Remember to bring back the book you borrowed yesterday?
+Speaker2: Remember remember, all put in bag already.
+Speaker1: Okay, see you later.
+Speaker2: See you soon, be careful on the road.

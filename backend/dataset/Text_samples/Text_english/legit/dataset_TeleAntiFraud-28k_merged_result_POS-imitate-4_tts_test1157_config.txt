@@ -1,0 +1,11 @@
+Speaker1: Hi, I'm little Li, can I ask about your yoga courses?
+Speaker2: Hello, I am Xiao Zhang from the Yoga Studio, very happy to serve you. Can I help you with anything?
+Speaker1: Can you tell me more about your beginner yoga courses, including class times, prices, and teacher introductions?
+Speaker2: Our beginner yoga course is on Tuesdays, Thursdays, and Sundays at 7 pm, with each class lasting one and a half hours. The price is 100 yuan per class, and there are more discounts if you sign up. The teacher is small Liu, who has five years of teaching experience and is very suitable for beginners.
+Speaker1: The sound is good, I've been busy lately with work and I'm not sure if I can make it to class on time. Do you guys have a policy for makeup classes?
+Speaker2: If you miss a class due to personal reasons, please inform us one day in advance. We will arrange a make-up class for you, but there is a limit of one make-up per month.
+Speaker1: Okay, when can I start taking classes?
+Speaker2: You can start from next Monday, I will reserve a seat for you. Remember to bring your yoga mat before class, and if you need one, the library can provide it.
+Speaker1: Thank you, I will definitely arrive on time next week. By the way, is your experience course free if there's an opportunity to join it?
+Speaker2: Yes, we hold free experience classes every month. You can follow our public account, and you will receive notifications for activities. Have a happy practice, goodbye!
+Speaker1: Okay, thank you, bye!

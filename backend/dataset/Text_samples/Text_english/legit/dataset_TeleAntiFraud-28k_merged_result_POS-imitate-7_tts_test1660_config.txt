@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I take a look at your restaurant menu?
+Speaker2: Of course, we have many dishes to choose from, such as beef noodle soup, spicy chicken and steamed fish. What specific information do you want to know about these dishes?
+Speaker1: What is the price and portion size of gong bao chicken?
+Speaker2: The price of the palace chicken drumstick is 35 yuan per portion, which is enough for two people to share. If it's your first time here, we also provide a small portion for a taste test, which costs 25 yuan.
+Speaker1: Okay, can I reserve a four-person seat for tonight at 7 pm?
+Speaker2: Sure, I can book a table for four people at seven o'clock tonight. What's your name and phone number?
+Speaker1: My name is Li Ming, phone number is 1345678900.
+Speaker2: Okay, Mr. Li, your reservation was successful. See you at seven o'clock tonight. Do you need anything else to prepare in advance?
+Speaker1: No need, thank you, just go directly when the time comes.
+Speaker2: Okay, see you later, wish you a happy day.

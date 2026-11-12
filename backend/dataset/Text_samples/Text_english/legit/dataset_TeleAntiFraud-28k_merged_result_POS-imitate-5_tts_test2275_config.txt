@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Li, I saw you guys are hiring salespeople, want to ask a few questions?
+Speaker2: Hello, little Li. Yes, we are hiring here, what specific information do you want to know?
+Speaker1: What are the main responsibilities of this job?
+Speaker2: The main responsibility is to welcome customers, provide consulting services, help customers choose products, and maintain the cleanliness of the store.
+Speaker1: What's the work schedule like?
+Speaker2: Work hours are from 9 am to 6 pm, with a break in between, and one day off per week.
+Speaker1: What is the salary and benefits like?
+Speaker2: Salary is base pay plus commission, base pay is three thousand yuan, commission is calculated based on sales performance.
+Speaker1: How is the submission calculated?
+Speaker2: Commission is calculated based on sales revenue as 5%, the more you work, the more you get.
+Speaker1: What should I prepare for the interview?
+Speaker2: You just need to bring your ID and resume to our store for the interview.

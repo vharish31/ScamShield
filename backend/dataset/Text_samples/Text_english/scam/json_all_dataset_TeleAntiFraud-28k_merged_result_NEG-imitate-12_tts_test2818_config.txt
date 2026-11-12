@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager at Huaxia Bank. We have a special promotion for loans recently. Do you need one?
+Speaker2: Uh, loan, I don't have any need now.
+Speaker1: No problem, understanding a little is fine too. In case it's useful in the future. Our loan interest rate is very low, and the procedures are simple, and we can issue the loan as soon as today.
+Speaker2: The sound is good, but I'm not very familiar with these.
+Speaker1: No problem, I can explain in detail here. Why don't you add me on WeChat, I'll send you some materials, you can take a look and let me know if you have any questions, we can chat in detail later.
+Speaker2: Add WeChat, will it not be unsafe?
+Speaker1: Don't worry, we are all regular channels, I have a link, you click on it and you'll know.
+Speaker2: Link? Let me take a look.
+Speaker1: Okay, take a look at the information and loan details inside. If you have any questions, I'll help you answer them after you finish.
+Speaker2: Okay, I'll take a look later.

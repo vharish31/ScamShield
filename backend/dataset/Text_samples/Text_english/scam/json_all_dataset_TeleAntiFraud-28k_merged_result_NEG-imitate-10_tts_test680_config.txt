@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a bank customer service representative. Recently we have launched a special promotion loan project with a very low interest rate. Would you like to know more about it?
+Speaker2: Can I borrow some money? I actually need it recently, can you explain it in detail?
+Speaker1: Of course, this loan project is very suitable for small and medium-sized enterprise owners, just need to provide some basic information, after approval, funds can be quickly accounted.
+Speaker2: What do you need some information on?
+Speaker1: You just need to provide your ID, business license, and recent bank account records. To speed up the review, you can submit these documents through our app.
+Speaker2: Do you have an app? How can I download it?
+Speaker1: It's very simple. You can click this link to download our official app. After downloading, follow the instructions to submit the data.
+Speaker2: Okay, I'll download it now. Is this link safe?
+Speaker1: "Absolutely safe, this is our bank's official link. After downloading, if you have any issues, you can contact me anytime."
+Speaker2: Okay, thank you for your help. I'll contact you after downloading.

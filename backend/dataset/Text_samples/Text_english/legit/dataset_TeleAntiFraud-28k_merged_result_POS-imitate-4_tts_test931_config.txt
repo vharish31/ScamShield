@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I found a bike on your website that I like, can I ask you a few questions?
+Speaker2: Hello, I'm very happy to serve you. What specific self-bike do you want to know about?
+Speaker1: That's the carbon fiber one recommended on your website, which costs around three thousand.
+Speaker2: Oh, you're talking about our carbon fiber mountain bike. This bike uses lightweight carbon fiber materials, which are perfect for mountain biking.
+Speaker1: What colors are available for this self-bike?
+Speaker2: What is your particular preference for the three colors - black, blue, and red?
+Speaker1: Do you have any red left in stock?
+Speaker2: The red items are still in stock. If you're interested, please place an order quickly to avoid stockouts.
+Speaker1: Okay, does this self-assembly bike need to be assembled?
+Speaker2: We will provide basic assembly service for this bike upon delivery. After delivery, you just need to make simple adjustments to start using it. If you're not familiar with assembly, we also offer in-home assembly service.

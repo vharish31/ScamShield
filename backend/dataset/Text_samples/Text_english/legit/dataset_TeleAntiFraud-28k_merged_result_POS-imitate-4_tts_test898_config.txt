@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you? I'm Xiaoming, can you make an appointment to cut my hair?
+Speaker2: Hello, Xiaoming, is it possible to make an appointment to cut my hair here, what time slot do you want to book?
+Speaker1: Are you going out at four o'clock on Saturday afternoon?
+Speaker2: Is there a need to pay a deposit in advance on Saturday at 4 pm? Although the number of customers on that day was quite a lot.
+Speaker1: Do we need to pay a deposit? How much?
+Speaker2: The deposit is 50 yuan, after you cut your hair, the deposit will be deducted from the total cost.
+Speaker1: Okay, how do I pay the deposit?
+Speaker2: You can pay through Wechat or Alipay, I'll send you a payment code.
+Speaker1: Okay, I'll pay later. Also, can you burn your hair there?
+Speaker2: Can you dye your hair, but the time it takes to dye your hair will be longer, about three hours left or right, do you need to book hair dyeing service?
+Speaker1: No need now, let's book a haircut first. We'll see later.
+Speaker2: Okay, I'll book a haircut appointment for you on Saturday at 4 pm. Just come on time.
+Speaker1: Okay, thank you. See you on Saturday.
+Speaker2: See you on Saturday, be careful on the road.

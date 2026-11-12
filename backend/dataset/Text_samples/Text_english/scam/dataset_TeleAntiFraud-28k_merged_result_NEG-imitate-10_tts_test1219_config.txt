@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of the Nine Star Mall, you have a new order in your shop, please check the store backend.
+Speaker2: Okay, I'll go take a look.
+Speaker1: Okay, if you have any questions, you can contact our operations teacher, they will help you handle the shipping issues with your orders.
+Speaker2: Which operation teacher?
+Speaker1: You can add our customer service's WeChat, they will directly contact you.
+Speaker2: What is this WeChat number?
+Speaker1: Add the WeChat number "small star one three five" and they will contact you immediately.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you have any other questions, feel free to contact us anytime. Goodbye.
+Speaker2: Okay, bye.

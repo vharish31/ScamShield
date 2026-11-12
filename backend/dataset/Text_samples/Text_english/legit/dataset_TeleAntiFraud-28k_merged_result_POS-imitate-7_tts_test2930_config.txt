@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Chen? I am a server at Xinjiang restaurant.
+Speaker2: Is it true, I am Chen's friend, he couldn't come today because of something.
+Speaker1: Oh, originally it was like this, do you have time today? We can help you rebook.
+Speaker2: Okay, do you have a location?
+Speaker1: Okay, what time slot would you like to book? We have availability from six to nine in the evening.
+Speaker2: Let's schedule for 7 pm tonight.
+Speaker1: Okay, the 7 o'clock spot is reserved for you, come directly when the time comes.
+Speaker2: Okay, thank you. Is it possible to send me your menu in advance?
+Speaker1: Of course, I'll send you the electronic menu via text message, take a look at what you like.
+Speaker2: Thanks for your help.

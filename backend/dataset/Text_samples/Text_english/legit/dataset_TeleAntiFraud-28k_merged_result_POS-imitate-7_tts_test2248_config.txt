@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your car hailing service.
+Speaker2: Hello, I'm very happy to serve you. What information are you interested in?
+Speaker1: Can I book a car using your app?
+Speaker2: Of course, you can book a car on our app, select the departure time and location, and we will arrange a driver for you.
+Speaker1: If I have an emergency, can I cancel the appointment?
+Speaker2: Sure, you can cancel the appointment before departure, but please note that frequent cancellations may affect your credit score.
+Speaker1: What should I do if the driver can't find me when he arrives at my location?
+Speaker2: You can set your location in advance on the app and keep your phone connected, if the driver can't find you, you can contact him through the phone.
+Speaker1: Is it okay if I refuse a ride if I booked a business car but got a regular car?
+Speaker2: Of course, you have the right to choose a car model that meets your needs. If this happens, you can contact our customer service, and we will solve it for you.
+Speaker1: Thank you for your answer. I'll download your app and try it out now.
+Speaker2: Okay, I hope you enjoy it. If you have any questions, please feel free to contact us anytime. Goodbye!

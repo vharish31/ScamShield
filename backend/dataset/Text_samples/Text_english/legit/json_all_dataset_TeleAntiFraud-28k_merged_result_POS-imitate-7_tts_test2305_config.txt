@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from the courier company. Your package has arrived at the nearest delivery station.
+Speaker2: Uh, is that so? Then when can I go pick it up?
+Speaker1: You can choose any time between 10am and 6pm tomorrow to pick up, or we can deliver to your door.
+Speaker2: When will the delivery arrive at the door?
+Speaker1: If you choose to have delivery at your door, we will deliver it around 3 pm tomorrow.
+Speaker2: Okay, let's choose to have the delivery at the door.
+Speaker1: Okay, I'll arrange for our delivery guy to deliver to you tomorrow afternoon at 3 pm. Is there anything else you need help with?
+Speaker2: No more, thank you.
+Speaker1: You're welcome! Have a nice day! Bye!
+Speaker2: Goodbye, thank you.

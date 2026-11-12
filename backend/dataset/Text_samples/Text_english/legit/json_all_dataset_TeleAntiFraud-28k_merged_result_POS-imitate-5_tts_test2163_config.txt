@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I want to reserve a restaurant for two people at around seven o'clock in the evening.
+Speaker2: Okay, which restaurant do you need to reserve?
+Speaker1: Let's book the old Beijing roast duck restaurant. I heard the roast duck there is very delicious.
+Speaker2: Okay, the famous Beijing roast duck shop is indeed very famous. I will check if there is a seat available at 7 pm.
+Speaker1: Okay, can you help me?
+Speaker2: Found it, the 7 o'clock location is still available, I can book it for you. What name do you need to reserve?
+Speaker1: Please leave your name, sir.
+Speaker2: Okay, Mr. Zhang, I have reserved a seat for you at 7 o'clock. Just call your name when you arrive. Is there anything else I can help you with?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, I hope you enjoy your meal!

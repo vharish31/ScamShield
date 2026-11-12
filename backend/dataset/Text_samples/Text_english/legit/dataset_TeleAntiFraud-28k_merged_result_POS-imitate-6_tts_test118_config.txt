@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I booked a train ticket to Beijing for tomorrow in your city. Can you confirm?
+Speaker2: Hello, is it okay? What is your order number?
+Speaker1: Can you check my order number 234523?
+Speaker2: Okay, I'll look it up for you. Just a moment.
+Speaker1: Okay, thank you.
+Speaker2: I found it, your order has successfully been booked for a train ticket tomorrow morning at 9:00am from Shanghai station, seat number is three carriages twenty-two rows A.
+Speaker1: Great, just this ticket, I still want to ask, if I have something urgent tonight and can't make it, can I change the date?
+Speaker2: You can change your ticket before departure within two hours through our official website or customer service hotline, but there may be a certain handling fee.
+Speaker1: Okay, I understand, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, feel free to consult anytime. Have a nice trip!

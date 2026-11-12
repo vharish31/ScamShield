@@ -1,0 +1,12 @@
+Speaker1: Hello, are you a moving car rental?
+Speaker2: Hello, yes, this is a moving car, can I help you with anything?
+Speaker1: Can you tell me where the pickup location is? Is it near the train station on your side?
+Speaker2: Okay, our pickup point is on the east side of the square in front of the train station. You can walk straight out of the exit and turn right at the first crossroads, then walk about 200 meters forward and you will see our parking lot.
+Speaker1: Is it right to walk straight to the right after getting out of the exit?
+Speaker2: Yes, you should exit from the exit door and walk straight to the right until you see the first crossroad, then turn right and continue walking.
+Speaker1: Okay, is the parking lot on the right or left side?
+Speaker2: The parking lot is on your left, and you will see a big sign saying 'Mobile Rental Parking Lot'.
+Speaker1: Understood, is the parking lot negative one level D03?
+Speaker2: Yes, the pickup point is on the negative one floor D03. If you can't find it, you can ask the parking lot staff, they will guide you there.
+Speaker1: Okay, thank you for your help. I will contact your work people later.
+Speaker2: You're welcome! If you have any questions, please feel free to call us anytime. Have a nice trip! Bye!

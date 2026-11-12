@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you still hiring employees at your store?
+Speaker2: Yes, still recruiting, do you want to know more?
+Speaker1: Hey, what specific positions are you recruiting for?
+Speaker2: We mainly hire salespeople to handle daily sales and service work.
+Speaker1: What are your requirements?
+Speaker2: It's best if you have experience in the service industry and can speak fluent Mandarin.
+Speaker1: Can I consider it even though I don't have relevant experience?
+Speaker2: We also welcome people who are willing to learn but have no experience. You can come to the store to try, see if it's suitable.
+Speaker1: Okay, when can I come for the interview?
+Speaker2: Can you come at two in the afternoon tomorrow?
+Speaker1: Okay, I'll come over at 2 pm tomorrow.
+Speaker2: Okay, see you later.

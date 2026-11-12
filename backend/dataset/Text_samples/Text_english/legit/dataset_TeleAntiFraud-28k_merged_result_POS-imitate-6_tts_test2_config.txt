@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can I inquire about delivery service at your restaurant?
+Speaker2: Of course, what do you want to know?
+Speaker1: Can you tell me which dishes can be delivered, and how much do they cost?
+Speaker2: We have a variety of dishes such as seafood fried rice, beef noodle soup, and Beijing roast duck that can be delivered, with prices ranging from 30 to 80 yuan. You can check the specific menu items and prices in our menu or I can send you an electronic menu, take a look?
+Speaker1: Let's use an electronic menu, it's more convenient.
+Speaker2: Okay, wait a minute. I'll send it to you now. What's your phone number?
+Speaker1: My phone number is 1312367890.
+Speaker2: Okay, your phone number has been received, the electronic menu has been sent, please pay attention to check. Is there anything else I can help you with?

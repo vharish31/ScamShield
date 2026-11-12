@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Zhang. Do you have any blue sports shoes in your store?
+Speaker2: Hello, little Zhang, do our store have blue sports shoes, which style do you want?
+Speaker1: Do you have any recommendations for a casual, everyday style that's comfortable to wear?
+Speaker2: Yes, we have a popular light blue sports shoe with good comfort.
+Speaker1: How much does this shoe cost?
+Speaker2: This shoe costs 399 yuan, and there's a discount activity now, you can enjoy an 80% discount.
+Speaker1: Okay, can I go try it out?
+Speaker2: Of course, our store's business hours are from 9 am to 9 pm. What time is most convenient for you to come?
+Speaker1: Can I go around three in the afternoon?
+Speaker2: No problem, we'll meet at the store at 3 pm. Don't forget to bring your student ID, you'll get an extra discount.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later.

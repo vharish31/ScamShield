@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: I saw your rental housing information online, is it one room one apartment?
+Speaker2: Yeah, that's right, it's a one-room one-hall, about 50 square meters, pretty good for a single person to live in.
+Speaker1: Where is the location?
+Speaker2: On Longyang Road, near the subway station, it's very convenient to travel.
+Speaker1: How much is the rent?
+Speaker2: Rent is three thousand five hundred yuan per month, with a one month deposit of three thousand yuan.
+Speaker1: Do you have internet and electricity fees?
+Speaker2: Internet fees are included, electricity fees are calculated based on actual usage.
+Speaker1: Can I see the room?
+Speaker2: Of course, whenever you're convenient, I'll arrange it here.
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Tomorrow at three in the afternoon is okay, I'll be waiting for you at home.

@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I just booked your hair service appointment, want to confirm time?
+Speaker2: Hello, I am a customer service representative. Can I help you confirm your appointment time? What day is your appointment for?
+Speaker1: It's tomorrow at three in the afternoon.
+Speaker2: Okay, let me check. Are you the scheduled master teacher Zhang?
+Speaker1: Yes, it's Mr. Zhang.
+Speaker2: Zhang teacher has already reserved for you, tomorrow afternoon three o'clock, he will wait for you in the store.
+Speaker1: Great, thank you. Is there another question? How can I walk from the subway station to your store after getting off?
+Speaker2: You exit from A, walk about 300 meters, and you will see a crossroad, turn left.
+Speaker1: Left turn now?
+Speaker2: Turn left and keep walking straight, about two hundred meters you'll see a yellow sign, that's our store.
+Speaker1: Okay, thank you for your detailed guidance. See you tomorrow.
+Speaker2: You're welcome, wish you a happy day, see you tomorrow.

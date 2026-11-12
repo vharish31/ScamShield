@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Hi, I'm Little Li, you booked a haircut appointment on our website for tomorrow, do you want to confirm the time?
+Speaker2: Hey, hi, I want to make a reservation for tomorrow afternoon three o'clock.
+Speaker1: Okay, can we arrange it for tomorrow afternoon at three o'clock? Do you need me to send you a confirmation text message?
+Speaker2: Please, my phone number is 333-333-3333
+Speaker1: Okay, we will send you a confirmation text message soon. Do you need any other help?
+Speaker2: Do you have shampoo and conditioner there?
+Speaker1: Yes, we provide various brands of shampoo and conditioner here. Do you have a particular favorite brand?
+Speaker2: No specifics, anything's fine, thank you.
+Speaker1: Okay, see you tomorrow. If there are any changes, we'll contact you in advance.
+Speaker2: Okay, thank you, bye.

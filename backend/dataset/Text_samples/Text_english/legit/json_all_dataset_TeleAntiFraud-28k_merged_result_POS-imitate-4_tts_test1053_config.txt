@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little king, I recently want to rent a house, I saw your information, can you help me introduce a little?
+Speaker2: Hello, little king, of course you can. Where are you looking for a house now?
+Speaker1: It's best if there's more convenient transportation nearby in the city center.
+Speaker2: Okay, I have a few options here. One is a one-bedroom, one-living room apartment that costs 3,000 yuan per month, and the other is a two-bedroom, one-living room apartment that costs 4,000 yuan per month.
+Speaker1: Hey, can you take me to see a one-room-one-apartment?
+Speaker2: Okay, when is it convenient for you?
+Speaker1: Can I have some time on Friday afternoon this week?
+Speaker2: What about three in the afternoon on Friday?
+Speaker1: Okay, where is the meeting location on Friday at three in the afternoon?
+Speaker2: The address is a street in the city center. I will send you a short message with specifics, please pay attention to check it.
+Speaker1: Okay, thank you, see you on Friday.

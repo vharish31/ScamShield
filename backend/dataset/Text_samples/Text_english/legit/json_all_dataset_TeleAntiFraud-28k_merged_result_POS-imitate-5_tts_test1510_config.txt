@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from a courier company. I want to confirm the delivery time for tomorrow with you.
+Speaker2: Hey, how are you? Can you tell me what time you can send it tomorrow?
+Speaker1: Do you find it convenient to receive the package between 9am and 11am?
+Speaker2: Could I change the time to 2:00 PM or later?
+Speaker1: No problem, let's set the delivery time to 2 pm to 4 pm. I'll rearrange the delivery time on my end.
+Speaker2: Okay, can meet at 2 pm to 4 pm. Remember to call beforehand to notify me.
+Speaker1: Okay, I will have the delivery guy call you before he leaves to confirm. Is there anything else you need help with?
+Speaker2: No more, just this time, please you.
+Speaker1: No problem, this is what we should do. So let's do it this way, if there are any changes I will notify you immediately.
+Speaker2: Okay, thank you for your service, goodbye.
+Speaker1: Goodbye, wish you have a nice day.

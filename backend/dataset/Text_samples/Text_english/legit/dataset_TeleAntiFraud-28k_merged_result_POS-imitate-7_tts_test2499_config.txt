@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Did you see the text message I just sent you?
+Speaker2: Hey, saw you, what do you have going on?
+Speaker1: Can you tell me if you have any free time this weekend?
+Speaker2: What do you have planned for the weekend?
+Speaker1: Do you want to go to a new coffee shop together? I heard the environment is good.
+Speaker2: Great, I also like going to coffee shops. What time?
+Speaker1: How about three o'clock on Saturday afternoon? Is that convenient for you?
+Speaker2: Can we go to the coffee shop at 3 o'clock?
+Speaker1: I'll meet you at the subway station, let's go together.
+Speaker2: Okay, see you on Saturday.

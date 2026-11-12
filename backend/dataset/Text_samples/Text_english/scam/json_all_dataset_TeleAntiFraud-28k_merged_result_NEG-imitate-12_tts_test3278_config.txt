@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is Shenzhen Ping An Bank customer service center, I is customer service manager Zhang Huang.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed that your recent credit card spending has been frequent, for your card safety, we specifically contacted you, do you need to understand some new security measures?
+Speaker2: Okay, I understand now.
+Speaker1: Thank you very much for your cooperation. In order to ensure the safety of your account, we need you to provide us with your identity card number and the last four digits of your bank card. At the same time, for the convenience of our future operations, you can first click on the link we sent you via text message, download our latest security verification app.
+Speaker2: Okay, I'll take a look at the text message.
+Speaker1: Okay, this app is specifically developed for protecting customer funds, download and follow the instructions after.
+Speaker2: What should I do after downloading?
+Speaker1: Good, just complete the registration and enter the verification code provided by our customer service, and you'll be able to complete the security verification. The verification code is 123456, remember not to reveal it to anyone.
+Speaker2: I know, thank you.

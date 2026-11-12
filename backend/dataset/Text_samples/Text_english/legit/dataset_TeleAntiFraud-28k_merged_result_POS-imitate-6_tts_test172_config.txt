@@ -1,0 +1,11 @@
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any desserts here?
+Speaker2: Hello, do you want to know which of our desserts?
+Speaker1: Is that matcha cake still there?
+Speaker2: The matcha cake is still there, but only the last one is left today. Do you want to reserve it?
+Speaker1: Okay, I want to reserve, I'll come over in a little while to pick it up.
+Speaker2: Okay, I'll keep it for you. Do you pay with a member card?
+Speaker1: Yes, use the membership card, the card number is one three five seven nine zero.
+Speaker2: Okay, I have recorded it down. Please show your membership card when you come. By the way, our members here can also enjoy a 95% discount.
+Speaker1: Okay, thank you for your reminder, see you later.
+Speaker2: Okay, see you later, be careful on the road.

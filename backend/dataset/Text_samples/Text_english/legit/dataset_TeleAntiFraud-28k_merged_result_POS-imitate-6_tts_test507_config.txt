@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you with Ming World Rental Car Service? I am a customer service representative.
+Speaker2: Hello, I want to know more about your car rental service, especially the weekend rental fee.
+Speaker1: Okay, we have a special discount for the weekend car rental. You can choose the economy car type, which costs 280 yuan per day, or the luxury car type, which costs 450 yuan per day.
+Speaker2: Is there any discount if renting for three days?
+Speaker1: If renting for three days or more, both economic and luxury car types receive a 10% discount.
+Speaker2: Can you tell me where to pick up and drop off the car?
+Speaker1: The pickup and drop-off locations are both at our headquarters, located on Xingguang Daidao Yihao in the southern part of the city. Of course, if you need it, we can also provide a door-to-door pickup service for an additional fee of 50 yuan.
+Speaker2: How far in advance do I need to book?
+Speaker1: To ensure you can rent your desired car type, it's recommended to book at least two days in advance.
+Speaker2: Okay, thank you for your help. I will consider it.
+Speaker1: You're welcome. If you have any other questions, feel free to consult anytime. Wish you a happy life. Bye.

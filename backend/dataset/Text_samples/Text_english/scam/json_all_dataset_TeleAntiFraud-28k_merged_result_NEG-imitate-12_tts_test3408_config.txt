@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Who are you?
+Speaker1: Hi, I'm the customer service manager of the construction bank loan department. We have a special low-interest loan project that's perfect for you.
+Speaker2: I don't need a loan, thank you.
+Speaker1: Is that so? This loan project is very discounted, and the procedures are simple, no need for collateral. You only need to provide some basic information to get it.
+Speaker2: I still don't need it, thank you.
+Speaker1: That's too bad, but if you change your mind, you can add my WeChat and contact me anytime.
+Speaker2: Add me on WeChat? How do I know you're a real bank manager?
+Speaker1: You can check my business card on WeChat, and I can send some information to you to confirm. Add me on WeChat for easy communication.
+Speaker2: Okay, I'll add you on WeChat.

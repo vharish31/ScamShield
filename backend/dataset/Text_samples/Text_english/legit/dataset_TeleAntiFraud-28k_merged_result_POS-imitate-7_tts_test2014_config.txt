@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I found a phone on your website that I like, can I ask you a few questions?
+Speaker2: Hello, I'm very happy to serve you. Which phone model do you want to know about?
+Speaker1: That's the one recommended on your homepage, I forgot the model number, it's the latest one.
+Speaker2: Oh, you're talking about the latest S10 phone. This phone's configuration is very high, very suitable for users who like to take photos and play games.
+Speaker1: How much does this phone cost?
+Speaker2: This phone costs 4999 yuan, and now you can buy it with installment payment, with the first payment of 999 yuan.
+Speaker1: How long does delivery take?
+Speaker2: In general, we will ship within 24 hours after ordering, and the delivery time will be approximately 2-3 days based on your address.
+Speaker1: Okay, I also want to know more about your after-sales service policy.
+Speaker2: We offer a 7-day no-questions-asked return policy, and if you find any non-human quality issues within 15 days, you can get a free replacement. Additionally, our national after-sales insurance covers one year, so you don't have to worry about any after-sales issues.
+Speaker1: I think it sounds good, so I decided to buy it.
+Speaker2: Great, thank you for your choice. Please wait, I'll place your order now.

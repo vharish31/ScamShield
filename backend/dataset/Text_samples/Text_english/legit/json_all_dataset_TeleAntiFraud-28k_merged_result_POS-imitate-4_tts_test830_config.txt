@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm here to pick up an appointment, but I can't find your front desk.
+Speaker2: Hello, which entrance are you at, is it the main door or the side door?
+Speaker1: I am at the entrance, but it seems like there are no direction signs here.
+Speaker2: Walk straight first, turn right when you see the elevator, the front desk is next to the elevator.
+Speaker1: How do I confirm that I have arrived at the front desk?
+Speaker2: There's a big reception desk at the front with our company logo on it and staff waiting for you.
+Speaker1: Understood, so I probably need a few minutes to get there?
+Speaker2: If you come from the entrance, it will take about three minutes to get there.
+Speaker1: Okay, thank you for your help. I'll be there soon.
+Speaker2: No problem, feel free to come over anytime if you have any questions.

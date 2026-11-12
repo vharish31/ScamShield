@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm a customer service representative from Tmall Supermarket. Did you receive your recent purchase of an air purifier yet?
+Speaker2: Oh, hello, I received it, but when I was installing it, it seemed like the filter size didn't match, I don't know if I made a mistake.
+Speaker1: I'm very sorry to have caused you inconvenience. Which model did you buy? Let me check if there was a mistake.
+Speaker2: I bought model A123, but the filter net packaging says suitable for B456.
+Speaker1: Okay, I'll check. Hmm, I found it here. Yes, our system did have an error and we sent you the wrong filter. Can you accept the corrected filter we're sending you now?
+Speaker2: Sure, but can you make sure it's delivered this time? I've been having bad air quality lately and want to use it up quickly.
+Speaker1: I understand your feelings very well. We will pay special attention this time to ensure that the correct filter is sent to you. We expect to arrive in three days. Is that okay with you?
+Speaker2: Okay, I hope it won't go wrong again this time.
+Speaker1: I won't forget your understanding and support. If you have any other questions, please contact our customer service. Have a happy life, goodbye.
+Speaker2: Thank you, goodbye.

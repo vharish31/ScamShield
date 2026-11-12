@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm Li Xiao, currently working at a consulting company that specializes in investments. We have a great investment opportunity here, would you like to know more about it?
+Speaker2: Invest opportunity? Can you talk about it?
+Speaker1: Of course, we have a high-profit investment project that we've been pushing recently. Many people have already made money from it. All you need to do is invest a little bit of money to get a high return.
+Speaker2: Listen well, how to join in?
+Speaker1: Great, just click this link to register our platform account and then follow the instructions to start investing.
+Speaker2: Can you send me a link?
+Speaker1: Okay, just a moment, I'll send you a text message. Please act quickly once you receive it, limited spots.
+Speaker2: Okay, I'll check my messages later. Thank you.
+Speaker1: No problem, feel free to contact me directly if you have any questions. Best wishes on your investment!

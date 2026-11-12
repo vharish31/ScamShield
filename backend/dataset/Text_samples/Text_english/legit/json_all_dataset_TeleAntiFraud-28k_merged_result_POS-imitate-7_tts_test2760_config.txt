@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you still hiring clerks at your store?
+Speaker2: Do you want to know more details about this job during recruitment?
+Speaker1: Yes, I want to know what skills are required for this position?
+Speaker2: It's important to be proficient in using office software such as Word and Excel, as well as basic communication and coordination skills.
+Speaker1: I used to be a designer and have used these office software before, so I should be fine.
+Speaker2: What was the design software you used before?
+Speaker1: I've been using Photoshop and Illustrator for over a decade.
+Speaker2: Your design experience is also a plus for us. If you're convenient, can you send your resume to my WeChat?
+Speaker1: Okay, I add you WeChat, send resume to you.
+Speaker2: Okay, thank you. Do you have any time convenient for an interview?
+Speaker1: Can I have Monday off next week?
+Speaker2: Can it be next Monday morning or afternoon?
+Speaker1: Is two in the afternoon convenient?
+Speaker2: Sure, let's meet on Monday at two o'clock next week.

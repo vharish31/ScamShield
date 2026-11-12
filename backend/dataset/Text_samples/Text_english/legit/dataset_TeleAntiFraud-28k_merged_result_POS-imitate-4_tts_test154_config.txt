@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the food platform. I see that you have recently ordered several takeouts on our platform. How do you feel about it?
+Speaker2: Great, thank you.
+Speaker1: That's good. Alright, we have a new activity on our platform now. As long as you order food here continuously for a week, you can get a free delivery service.
+Speaker2: Really? That's great.
+Speaker1: Yes, just write "参加活动" in the order notes, and we will record it on our backend.
+Speaker2: Okay, I will pay attention. Are there any other discount activities?
+Speaker1: Yes, we also have a promotion for new users' first orders, but you've already enjoyed it. Moreover, there's a discount on specific menu items every Thursday, so it's worth paying more attention to.
+Speaker2: Okay, thank you for your reminder.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. I hope you continue to support our platform.
+Speaker2: I'm sure, thank you.

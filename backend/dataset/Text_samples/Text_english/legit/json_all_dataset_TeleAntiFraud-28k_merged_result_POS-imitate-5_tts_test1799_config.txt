@@ -1,0 +1,10 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, I'm good, how are you?
+Speaker1: I'm not bad, lately my work has been pretty busy.
+Speaker2: Yeah, I've been working overtime lately, have you eaten dinner yet?
+Speaker1: Not yet, I'm thinking about where to eat. Do you know any good restaurants nearby?
+Speaker2: Are there a few good ones, do you want to eat Chinese or Western?
+Speaker1: I want to eat some Chinese food, something light.
+Speaker2: You can try 'Qingya xuan', their food taste is clear and light, the environment is also not bad.
+Speaker1: Okay, thank you for your recommendation. I'll try it out later.
+Speaker2: No problem, I hope you like it. Let me know how you feel after you finish.

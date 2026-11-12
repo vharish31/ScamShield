@@ -1,0 +1,10 @@
+Speaker1: Hey, how come I see a hair appointment on your website?
+Speaker2: Hello, yes, we can make an online appointment for haircut here, what information do you want to know?
+Speaker1: Can you please provide me with the specific process of making a reservation, and what are your working hours?
+Speaker2: The booking process is very simple, you can choose your favorite stylist and time on our website, then fill in your personal information and submit it. Our work hours here are from 9 am to 8 pm every day.
+Speaker1: If I make a reservation but something urgent comes up, what should I do?
+Speaker2: If you can't come on time due to special reasons, please inform us one day in advance, so we can cancel the appointment for free. If you cancel suddenly, there may be a certain fee.
+Speaker1: Okay, do you accept online payments?
+Speaker2: Yes, we support multiple online payment methods, including WeChat Pay and AliPay, you can choose according to your preference.
+Speaker1: Now I'm relieved, thank you for your detailed introduction.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult us anytime. We hope you have a pleasant experience here.

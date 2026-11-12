@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: What have you been busy with lately?
+Speaker2: Moving recently has been quite tiring when looking for a house.
+Speaker1: Did you find it?
+Speaker2: Found it, but it's in the recreation area, the price is reasonable, the environment is not bad
+Speaker1: Is transportation convenient?
+Speaker2: No problem, there's a bus station nearby, it'll take about an hour to get to the city center
+Speaker1: Have you set the moving date yet?
+Speaker2: Okay, we'll move next weekend. We need to find a moving company to help.
+Speaker1: Do you need my help?
+Speaker2: That's great, if you have time, help me pack some things, okay?

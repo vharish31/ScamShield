@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Agricultural Bank Jinhu Branch.
+Speaker2: Hello, who are you?
+Speaker1: I'm little Li, there's a good news to tell you on this side.
+Speaker2: Hello, what good news?
+Speaker1: Our bank currently has a special credit loan project, which can provide up to 50,000 loan amount for high-quality customers.
+Speaker2: Oh, really? I really need a capital turnaround recently.
+Speaker1: Great, this project is perfect for you. To quickly handle it, you can first download our official app and fill out some basic information.
+Speaker2: Okay, what is the name of this app?
+Speaker1: The name of the app is 'Nong Xing Jin Fu', you can search and download it in the app store. After downloading, I will send you a verification code, you can use it to log in.
+Speaker2: I understand, I'll go download now.

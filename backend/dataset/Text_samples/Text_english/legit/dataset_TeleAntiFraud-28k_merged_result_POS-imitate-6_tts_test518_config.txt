@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I'm little Zhang, I'm on Chonghua Road, can you help me point the way to Tianan Square?
+Speaker2: Hello, little Zhang, I'm nearby, you first walk straight, turn right at the second crossroads, then keep walking forward, you'll see a big crossroads, turn left and walk about 500 meters, you'll arrive.
+Speaker1: Okay, thank you. But my phone battery is low, can you please repeat in detail again?
+Speaker2: Of course, you can go straight first, then turn right at the second crossroad, keep going straight, you will see a big crossroad, turn left, about 500 meters later you will arrive at Tiananmen Square, remember to cross the red light after turning left.
+Speaker1: Okay, thank you for your detailed instructions. I will walk along the route you said.
+Speaker2: No problem, if you feel uneasy while walking, you can call me anytime, I'm always online.
+Speaker1: Okay, I'll hang up first, and contact you once I arrive at the location.
+Speaker2: Okay, be careful on the road. Bye.

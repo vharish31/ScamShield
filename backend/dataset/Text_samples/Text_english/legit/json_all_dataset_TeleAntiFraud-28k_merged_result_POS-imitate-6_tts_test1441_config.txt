@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, your takeout is here, it's at your doorstep now.
+Speaker2: Okay, I'll be right back. Thank you.
+Speaker1: No problem, today's weather is good, the road is smooth on the way.
+Speaker2: Yes, the weather is good and my mood is good too. Okay, can you wait for me a moment, I'll look for some money.
+Speaker1: No need for change, I have money here, just give it to me directly.
+Speaker2: Thank you so much.
+Speaker1: No problem, this is what should be done. Next time you can pay with your phone, more convenient.
+Speaker2: Okay, I will consider it. Thank you for your advice.
+Speaker1: No problem, I hope you enjoy your meal.
+Speaker2: Thank you, goodbye.

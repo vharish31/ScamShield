@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I want to consult your new smartwatch in your store, can you introduce it to me?
+Speaker2: Hello, little Li, I am the customer service king at the store. We have many models of our new smartwatch. Which specific model do you want to know more about?
+Speaker1: I want to know more about that sports version, I heard its functions are quite comprehensive.
+Speaker2: Yes, a sports watch has basic time display, heart rate monitoring, step count, and sleep quality analysis functions, which are great for friends who exercise frequently.
+Speaker1: How much does that watch cost?
+Speaker2: The current promotion price of the smartwatch is 999 yuan, very cheap.
+Speaker1: Okay, how long is the navigation time on this watch?
+Speaker2: This watch can be used for about seven days when fully charged, but if you turn on continuous heart rate monitoring and other functions, the usage time may be shorter.
+Speaker1: I understand, thank you for your detailed introduction, I will consider it before deciding to buy.
+Speaker2: No problem, if you have any questions or need more information, please feel free to contact me. I hope you will like our products in the future.

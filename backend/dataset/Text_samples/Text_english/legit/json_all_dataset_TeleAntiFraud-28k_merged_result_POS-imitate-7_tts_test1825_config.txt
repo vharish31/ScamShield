@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, my friend said your gym is good, I want to know more.
+Speaker2: Hello, little Zhang, I am the fitness coach here, Wang. I am very happy to help you. What specific information do you want to know?
+Speaker1: Can you tell me about the types and prices of your membership cards, as well as your opening hours?
+Speaker2: We have single-ride cards, monthly cards, and year cards here. The single-ride card costs 60 yuan per ride, the monthly card costs 500 yuan, and the year card costs 1800 yuan. Our opening hours are from 6 am to 10 pm.
+Speaker1: Is there any discount activity on this year card?
+Speaker2: Yes, now you can enjoy a free private coach guidance, swimming pool and sauna room usage with the purchase of a year card.
+Speaker1: Does it sound good? Then do I need to make a reservation in advance?
+Speaker2: Yes, to ensure service quality, we suggest you book in advance. You can do so by phone or our WeChat public account.
+Speaker1: Okay, can I go see it tomorrow?
+Speaker2: Of course, whenever you're convenient tomorrow, I'll be here waiting for you.

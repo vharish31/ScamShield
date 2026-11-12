@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang, I'm moving soon and I want to know more about your water and electricity repair services, do you provide on-site service?
+Speaker2: Hello, little Zhang, we are the full city water and electricity repair service center. Of course, we provide door-to-door service. What specific help do you need?
+Speaker1: The wiring at home seems to have some issues, the lighting is flickering, and the outlets seem to have some contact problems.
+Speaker2: This situation indeed requires prompt handling to prevent safety incidents. Can we arrange for the master to come over and check it out?
+Speaker1: Is this weekend okay? I was at home yesterday.
+Speaker2: Sure, do we have a teacher on duty on the weekend? Is it on Saturday or Sunday?
+Speaker1: It's best on Saturday between 9 and 10 am.
+Speaker2: Okay, I have scheduled a service for you from 9am to 10am on Saturday morning. The master will arrive on time, and if there are any changes, we will notify you in advance.
+Speaker1: Okay, thank you, I'll contact you again to confirm once the teacher arrives.
+Speaker2: Okay, please contact our customer service hotline directly when the time comes. If you have any other questions, feel free to consult us at any time. Have a happy life!

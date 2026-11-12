@@ -1,0 +1,13 @@
+Speaker1: Hello, are you calling about property management?
+Speaker2: Hello, yes, I want to consult about the parking space issue in our community.
+Speaker1: Are you interested in learning about the rental situation for parking spots?
+Speaker2: Yes, I just moved in recently, want to check if there are any available parking spots to rent.
+Speaker1: There are still some parking spots available here, but we need to know your vehicle information and rental time first.
+Speaker2: I am a blue sedan with license plate number JY12345, planning to rent it for a long time.
+Speaker1: Okay, for long-term rental, the monthly rent is six hundred yuan, and you need to sign a rental agreement.
+Speaker2: Six hundred yuan per month? Is this price reasonable? What documents do we need to prepare for the contract?
+Speaker1: You need to prepare copies of your identity card, driving license, and vehicle registration certificate, as well as a recent one-inch photograph.
+Speaker2: Okay, can I come over at 10 am tomorrow to sign the contract?
+Speaker1: Okay, there are people in the building from 9am to 5pm. You can go directly to the property management office when you arrive.
+Speaker2: Okay, thank you, see you tomorrow.
+Speaker1: Okay, see you tomorrow, be careful on the road.

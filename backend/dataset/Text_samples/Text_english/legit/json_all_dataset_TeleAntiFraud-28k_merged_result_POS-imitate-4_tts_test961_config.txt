@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how can I help you?
+Speaker1: Can you tell me if your store has the latest iPhone?
+Speaker2: Yes, we have the latest iPhone here. Which one would you like to know more about?
+Speaker1: Do you know if there are any iPhone 13s in stock?
+Speaker2: Okay, let me check. Hmm, the iPhone 13 is still in stock. What color do you want?
+Speaker1: Do you know if there is blue or not?
+Speaker2: What color do you want? One or two?
+Speaker1: One is enough, can I come over today to pick it up?
+Speaker2: Okay, our store is open from nine in the morning to eight in the evening. You can come anytime.
+Speaker1: Okay, I'll be there around 3 pm. See you then.
+Speaker2: Okay, see you at three in the afternoon. Be careful on the way there.

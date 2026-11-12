@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I make an appointment for your hairdressing service?
+Speaker2: Of course, we have many services to choose from here. What time would you like to book?
+Speaker1: Is three in the afternoon tomorrow okay?
+Speaker2: Tomorrow at 3 PM there is a free slot, but we need you to provide a contact method to confirm the appointment.
+Speaker1: Okay, my phone number is 1352341234.
+Speaker2: Okay, I have recorded it down, we will call you ahead of time to confirm.
+Speaker1: Do you have any cleaning supplies there?
+Speaker2: Yes, we provide a complete set of personal care products here, all of which are brand products, you can rest assured to use them.
+Speaker1: Okay, thank you for your service, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm a customer service representative from some e-commerce platform. Your shopping points are about to expire, do you know?
+Speaker2: Oh, really? I didn't notice that.
+Speaker1: Yes, your points will be cleared at midnight tonight if you don't exchange them now, they will expire.
+Speaker2: What can be done? Can these points still be used?
+Speaker1: Of course, you have 26,800 points, which is equivalent to 4,000 yuan, and can be used to buy many products.
+Speaker2: Really? Then what should I do?
+Speaker1: I have already sent you a text message with the exchange link, you can click on the link to choose your favorite product.
+Speaker2: Okay, I'll go take a look right away. Thank you for reminding me.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. I hope you can use these points to buy the products you like.
+Speaker2: Okay, thank you again. Goodbye.
+Speaker1: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, I saw a new smartwatch on your website, I want to know more about its specific functions.
+Speaker2: Hello, little Li, I am customer service Zhang, this watch supports health monitoring, message reminders, and payment functions, very practical.
+Speaker1: What specific data can health monitoring detect?
+Speaker2: It can monitor heart rate, blood pressure, sleep quality, and record your exercise data, helping you better understand your health status.
+Speaker1: How long does the battery of this watch last?
+Speaker2: This watch's battery life is approximately seven days, with some variation depending on usage.
+Speaker1: The sound is good, I also want to know the price and delivery time.
+Speaker2: This watch is currently priced at 999 yuan, and you can enjoy a 100 yuan discount when you place an order now. The delivery method is standard, and it usually takes 3 to 5 days to arrive.
+Speaker1: Okay, I'll think about it, thanks for your detailed explanation.
+Speaker2: No problem, if you have any other questions, please feel free to consult anytime. I hope you like our products.

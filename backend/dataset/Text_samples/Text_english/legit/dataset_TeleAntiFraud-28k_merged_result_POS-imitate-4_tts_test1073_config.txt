@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm Xiaoming, I saw your restaurant's advertisement, and I want to know more about your signature dishes.
+Speaker2: Hello, Xiao Ming, welcome to consult. Our restaurant's special dishes are Kung Pao Chicken, Sour and Spicy Fish and Beef and Onion Stir Fry, all of which are very popular.
+Speaker1: How much do these dishes cost?
+Speaker2: The spicy pot is 35 yuan, the sour fish is 45 yuan, and the beef stir-fry is 30 yuan.
+Speaker1: What are the restaurant business hours?
+Speaker2: Our restaurant is open from 11 am to 9 pm every day, and on weekends it's open until 10 pm.
+Speaker1: Do I need to make a reservation in advance for the weekend meal at your place?
+Speaker2: There will be more weekend guests, so it's recommended to book in advance to ensure a seat.
+Speaker1: Okay, I want to reserve a seat for two people at six o'clock and a half on Saturday evening.
+Speaker2: Okay, your 6:30 PM Saturday evening reservation is confirmed. Please bring your reservation information with you.
+Speaker1: Thanks, I'll see you on Saturday.
+Speaker2: You're welcome, I'm looking forward to your arrival, wish you a happy weekend.

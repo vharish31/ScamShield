@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I saw your store's advertisement, do you have any vegetable package?
+Speaker2: Hello, little Zhang, we really have spinach here, it's our specialty.
+Speaker1: What's in the vegetable box?
+Speaker2: Our vegetable box includes fresh bean sprouts, cabbage, mushrooms, and green peppers, all prepared today, very fresh.
+Speaker1: I'm more hungry after listening to you. Are you open for business now?
+Speaker2: We are already open for business, our business hours are from 7am to 9pm.
+Speaker1: How long do I need to wait to eat?
+Speaker2: If you come now, you might need to wait about ten minutes because the dumplings need to be made fresh.
+Speaker1: Okay, I'll come over first. By the way, do you support mobile payments?
+Speaker2: Of course, we can use WeChat Pay and Alipay here.

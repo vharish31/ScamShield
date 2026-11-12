@@ -1,0 +1,8 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, I'm sorry, I accidentally delivered your package to the wrong person last night. I work for a courier company. You have a package that needs to be signed for, but we're closed now. Can you please come pick it up tomorrow morning?
+Speaker2: Okay, no problem, tomorrow morning I have some free time, what time can I pick up?
+Speaker1: You can come between nine and eleven in the morning tomorrow. It's convenient for you, so just come whenever you want.
+Speaker2: Then I'll go at ten, right? Can I find you then?
+Speaker1: Okay, you arrived directly call this number, I come out give you.
+Speaker2: Okay, thank you, see you tomorrow.
+Speaker1: No problem, see you tomorrow, be careful on the road.

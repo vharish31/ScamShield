@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I am the customer service of the New Light Mobile Phone Store. We saw that you recently browsed the Huawei Mate 50 phone on our website. Do you still have any plans to buy it?
+Speaker2: Yeah, sure, I'm really interested in that phone.
+Speaker1: That's great, this phone model is currently in stock at our store, and it's also right in time for our store celebration, so buying it will also enjoy an additional discount.
+Speaker2: Really? Then I had better hurry up and take a look.
+Speaker1: Yes, you can come now if it's convenient for you. The address is 188 Victory Road. Our store is at the intersection of Victory Road and Lightning Road.
+Speaker2: Okay, I know that place, I'll be there in about half an hour.
+Speaker1: Okay, I'll wait for you. If you can't find me, feel free to call me anytime.
+Speaker2: Okay, thank you, see you later.

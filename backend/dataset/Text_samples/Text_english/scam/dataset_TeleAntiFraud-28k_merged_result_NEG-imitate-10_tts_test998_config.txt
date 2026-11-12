@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I work for Huawei Investment Company as a customer service representative. Our company recently has a great investment opportunity with an annual return of over 10%, are you interested in learning more?
+Speaker2: Hey, can you tell me specifically what I'm investing in?
+Speaker1: Of course, our investment project this time is a high-tech enterprise with great growth potential in the future. To help you better understand this project, I have a detailed introduction link here. Just click on this link to view the detailed information.
+Speaker2: Link me to it, I'll take a look.
+Speaker1: Okay, I'll send it to you now. Just pay attention to check the message, and click on the link after receiving it to view it.
+Speaker2: Okay, I'll be right back.
+Speaker1: Additionally, to ensure a successful investment, we suggest you download our official app, which will make it easier to operate.
+Speaker2: Download the app? How do you download it?
+Speaker1: After clicking on the link, you will see a QR code on the page for downloading the app. Just scan the QR code to download it.
+Speaker2: Okay, I understand, thank you.

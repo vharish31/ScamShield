@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you today?
+Speaker2: Not bad, you?
+Speaker1: Yeah, just a little busy. Do you guys have any new projects lately?
+Speaker2: Yeah, we're developing a new little app, pretty cool.
+Speaker1: What is the main thing to do?
+Speaker2: It's mainly used for daily life services, such as package tracking and utility bill payments.
+Speaker1: That's quite useful. Do you need help with hands?
+Speaker2: No need now, but if there's a suitable job, I'll let you know.
+Speaker1: Okay, thank you. By the way, I've also been looking for part-time jobs lately. If there's an opportunity, I hope to participate.
+Speaker2: No problem, you send me your resume, I check if there are any suitable positions.
+Speaker1: Okay, I'll go over there in a while. Then we can do this, just let me know if there's any news.
+Speaker2: Okay, don't worry, I'll contact you first if there's any news.

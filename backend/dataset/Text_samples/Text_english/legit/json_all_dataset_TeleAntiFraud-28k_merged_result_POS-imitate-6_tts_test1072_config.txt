@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I found a phone on your website that I like, can I ask you a few questions?
+Speaker2: Hello, I'm very happy to serve you. Which phone model do you want to consult?
+Speaker1: What is the name of the black one that you recommended?
+Speaker2: Is that a black XYZ brand phone?
+Speaker1: Yes, that's it. How long does the battery of this phone last?
+Speaker2: This phone's battery capacity is 4000mAh, which can meet the daily usage needs in normal use, but may be slightly shorter if used heavily.
+Speaker1: What colors are available for this phone?
+Speaker2: This phone has three color options: black, white, and blue.
+Speaker1: Okay, if I buy it and then find out I don't like it, can I return it?
+Speaker2: Sure, we support a seven-day no-reason return policy. As long as the product doesn't affect secondary sales, you can contact us within seven days of receiving the product to process a return.

@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Where are you?
+Speaker1: Are you at the south gate of that community or the north gate?
+Speaker2: Okay, I'm at the south gate, you walk south a little, I walk north a little, we meet at the China Post office.
+Speaker1: Okay, I see China Post, hurry up.
+Speaker2: Okay, I'll be there soon.
+Speaker1: Can you see my car? It's white and parked next to the post office.
+Speaker2: I see you, I'm walking towards you.
+Speaker1: Okay, put the stuff in the car and wait for you.
+Speaker2: Don't rush, I'll be there soon.

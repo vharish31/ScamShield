@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hi, I'm little Li. I saw your second-hand bike info on the community group yesterday. Can I ask if it's still available?
+Speaker2: Oh, you're still here, if you're interested, you can come take a look.
+Speaker1: How much does this car cost?
+Speaker2: This car I used for two years, maintenance good, price five hundred.
+Speaker1: Can you make it cheaper? I'm a student party, our budget is limited.
+Speaker2: Four hundred eight, can't be less, since this car quality is good.
+Speaker1: Okay, when is it convenient for me to go over and take a look?
+Speaker2: Can you come over between 3 and 5 in the afternoon?
+Speaker1: I can leave at three o'clock, so I'll go at that time.
+Speaker2: Okay, see you later.

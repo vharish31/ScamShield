@@ -1,0 +1,12 @@
+Speaker1: Hey, are you Zhang Laoban?
+Speaker2: Yes, who are you?
+Speaker1: I am the customer manager of Huacheong Bank, Zhang Manager. Have you recently had any funding needs since you applied for a loan with us?
+Speaker2: Oh, there's this thing, I'm really feeling a bit tight-handed right now.
+Speaker1: That's great, we now have a special loan product with a high credit limit, low interest rate, and quick disbursement. All you need to provide are some basic information, and we can apply for you.
+Speaker2: What information do you need?
+Speaker1: You just need to provide your ID number, bank account number, and credit report. For convenience, you can download our app, which has a detailed application process on it.
+Speaker2: Is the app safe to download?
+Speaker1: Our app is certified by the Chinese government. After downloading, please fill out the information and we will quickly review it.
+Speaker2: Okay, I'll try. What's the name of the app?
+Speaker1: You can download the "Hua Cheng Jin Rong" app from the app store. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a customer service representative from an e-commerce platform. You purchased a smartwatch from us last month. We have a new promotion going on now. Would you like to know more about it?
+Speaker2: Yeah, I was pretty satisfied with my last purchase.
+Speaker1: Great, we have a special discount activity this time, your previously purchased watch now enjoys an additional 200 yuan discount, are you interested?
+Speaker2: The sound is good, but I don't plan to buy a new watch now.
+Speaker1: Understood, but this discount activity also includes some accessories, such as belts and chargers, which are commonly needed to be replaced, would you consider it?
+Speaker2: Oh, this way, my belt is really old, do you guys have my favorite color?
+Speaker1: Of course, our activity this time includes various colors, such as black, blue, and red. You can choose based on your preference.
+Speaker2: I'll take the blue one then.
+Speaker1: Okay, I'll place an order for you, blue belt, is your last address still valid?
+Speaker2: Yes, still the previous address.
+Speaker1: Okay, I'll handle it now. I estimate it can be delivered within three days. If you have other needs, feel free to contact our customer service anytime.
+Speaker2: Okay, thank you for your service, looking forward to receiving the new tablecloth.

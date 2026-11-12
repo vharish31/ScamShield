@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I saw your restaurant reviews are good online, I want to consult you.
+Speaker2: Hello, Xiao Zhang, welcome to consult, I am a waiter in the restaurant, can I help you with anything?
+Speaker1: Do you have any special dishes to recommend at your restaurant?
+Speaker2: Our restaurant's signboard menu has red braised pork, steamed fish and gong bao chicken, all of which are highly rated by customers.
+Speaker1: The sound is great, I plan to spend the weekend with my friend, what are your Sunday business hours?
+Speaker2: Our weekend business hours are from 11am to 9pm. You can choose any time to dine.
+Speaker1: Okay, I want to reserve a four-person spot around 5:30 PM.
+Speaker2: Okay, the 5:30 four-person table has been reserved for you. Can you provide the name and contact information of the person who made the reservation?
+Speaker1: The reservation person wrote Xiao Zhang, the phone number is 13521666666.
+Speaker2: Okay, Mr. Zhang, your reservation has been confirmed. Please directly report the name of the reservation person when you arrive, we will arrange it for you. We hope you and your friend enjoy your meal!

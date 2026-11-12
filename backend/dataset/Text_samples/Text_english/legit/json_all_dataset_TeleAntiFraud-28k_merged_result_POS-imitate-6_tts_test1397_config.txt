@@ -1,0 +1,14 @@
+Speaker1: Do you have any space on that side?
+Speaker2: Do you have anything to do?
+Speaker1: I've been thinking about moving recently, have you seen any suitable houses on your side?
+Speaker2: How much do you want, approximately?
+Speaker1: About 50 square meters, budget one month 800 left around.
+Speaker2: A 50 square meter apartment may be a bit tight for 800 yuan, the lowest is 750 yuan, including water and electricity fees.
+Speaker1: How is the electricity bill calculated?
+Speaker2: The electricity bill is included in the rent, you just need to pay 750 yuan every month.
+Speaker1: What is the fee for the net?
+Speaker2: Internet fee is separate, thirty yuan per month.
+Speaker1: Can it, how to pay the rent?
+Speaker2: Rent can be paid monthly or quarterly, with a discount for quarterly payments.
+Speaker1: When can I go see the house?
+Speaker2: Can you come at a convenient time? I can arrange a time to take you to see the houses.

@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Did you see the second-hand bicycle information on the internet before?
+Speaker2: Yeah, I recently wanted to buy a bike, saw your info
+Speaker1: Hey, that bike is just bought, used for less than half a year, well maintained, if you're interested, you can come to try it out
+Speaker2: How much does that bicycle cost?
+Speaker1: The original price was one thousand two hundred yuan, but since I don't ride it often, I can sell it for eight hundred yuan now.
+Speaker2: Can I get it for eight hundred yuan a little cheaper?
+Speaker1: Wow, seeing how sincere you are, 750 yuan, can't be lowered anymore
+Speaker2: Okay, I have some free time this weekend, can I come take a look?
+Speaker1: Okay, what time do you have free on the weekend? I'll wait for you.
+Speaker2: Let's meet at two in the afternoon. Thank you.
+Speaker1: No problem, see you later.

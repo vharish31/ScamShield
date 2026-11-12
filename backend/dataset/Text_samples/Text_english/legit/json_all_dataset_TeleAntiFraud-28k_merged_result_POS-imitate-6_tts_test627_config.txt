@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little Zhang, I saw a house for rent in your community, want to know more details?
+Speaker2: Hello, I am the landlord, what can I help you with?
+Speaker1: Is this apartment rented all together or shared?
+Speaker2: It's a whole apartment, one room one living room, suitable for a single person or a small couple to live in.
+Speaker1: How much is the rent?
+Speaker2: Rent is three thousand yuan per month, not including internet and electricity.
+Speaker1: Is all the furniture and electronics in the house complete?
+Speaker2: The furniture is complete, there's a bed, wardrobe, and desk, the appliances have air conditioning, refrigerator, and washing machine, all functioning properly.
+Speaker1: Can I go take a look at the room?
+Speaker2: Of course, when would you like to come see the house?
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Tomorrow at three in the afternoon is fine, I'll be waiting for you at home.

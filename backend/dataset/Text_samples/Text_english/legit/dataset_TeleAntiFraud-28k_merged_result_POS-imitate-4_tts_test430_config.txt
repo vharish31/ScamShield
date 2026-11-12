@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what time is it now?
+Speaker1: What do you have to do at three in the afternoon?
+Speaker2: Is that so, I plan to go to the library, do you know how to walk there?
+Speaker1: Of course, if you walk straight from here to the second crossroad and turn left, then walk five hundred meters forward, you will see a big stone lion.
+Speaker2: What time does the library close?
+Speaker1: The library usually closes at six in the afternoon. You should make the most of your time.
+Speaker2: Okay, thank you for your help. I'll leave right away.
+Speaker1: No problem, be careful on the road, I hope you find the library safely.
+Speaker2: Thank you, goodbye.
+Speaker1: Goodbye, wish you all the best.

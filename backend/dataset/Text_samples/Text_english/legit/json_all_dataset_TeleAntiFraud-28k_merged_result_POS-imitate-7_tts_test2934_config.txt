@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I am Little Zhang from Blue Sky Travel Agency. Did you decide on the travel route you inquired about earlier?
+Speaker2: Hey, how are you? Are you still considering the price and time arrangement for that route?
+Speaker1: We have a three-day, two-night tour of the Jiangnan water town, priced at 980 yuan per person, which includes accommodation and most meals. If you're interested, I can give you a detailed introduction.
+Speaker2: Does the price include the entrance ticket and the tour guide service?
+Speaker1: Yes, this price includes all ticket fees and professional guiding services, as well as round-trip transfer services.
+Speaker2: Can I bring my little friend along?
+Speaker1: Of course, we have also prepared children's meals and small gifts specifically for our little friends, to ensure their journey is enjoyable.
+Speaker2: Okay, then I'll consider it, if I decide to go, how do I book it?
+Speaker1: You can directly book through the phone or our official website. If you have any questions, you can contact me anytime. I hope our service makes your trip more enjoyable.

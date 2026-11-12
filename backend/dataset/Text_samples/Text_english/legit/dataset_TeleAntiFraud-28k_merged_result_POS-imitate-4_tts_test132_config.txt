@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: Hi, I'm a customer service representative for a food delivery platform. I noticed you recently placed an order on our platform. Would you like to share your experience using our service?
+Speaker2: The experience is still okay, just sometimes the delivery time for food is a bit long.
+Speaker1: Thank you very much for your feedback. We will make every effort to improve our delivery efficiency. Do you have any special favorite dishes or restaurant recommendations?
+Speaker2: I prefer Cantonese cuisine, especially ma po tofu, the taste is particularly good.
+Speaker1: Sichuan cuisine is really good, there are several Sichuan restaurants on our platform that do it very well, you can try it next time.
+Speaker2: Okay, thank you for your advice.
+Speaker1: You're welcome. If you have any other questions or suggestions, feel free to contact us anytime.
+Speaker2: Okay, thank you.

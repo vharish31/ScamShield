@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the small property management of the community, your family's electricity and water bill this month hasn't been paid yet.
+Speaker2: Is that so? Why didn't I receive the notification?
+Speaker1: It's possible that your phone settings are blocking messages, I can resend a reminder to you here.
+Speaker2: Okay, can you help me?
+Speaker1: Okay, I'll send it over to you now. By the way, there have been some water pipe repairs in the neighborhood recently, so there might be a water supply issue. Do you need to stock up on water in advance?
+Speaker2: It's better to prepare some water in advance, just in case the water gets cut off and it becomes troublesome.
+Speaker1: Hmm, that's a good idea. By the way, our property recently introduced an online payment service, you can pay your water and electricity bills directly through our app, very convenient.
+Speaker2: Online payment sounds good, I'll give it a try.
+Speaker1: Okay, you can contact us anytime if you have any questions, we will answer them promptly.
+Speaker2: Thank you for your reminder, your property service is really kind.

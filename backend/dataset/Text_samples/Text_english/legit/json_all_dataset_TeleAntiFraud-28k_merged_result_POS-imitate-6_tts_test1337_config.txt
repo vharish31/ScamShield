@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at the flower shop?
+Speaker2: Hello, can you tell me more about your cleaning service, specifically how do you charge?
+Speaker1: Our home cleaning service offers various packages to choose from, such as single-time cleaning, monthly once, or weekly once. Prices vary based on different packages and the size of your home.
+Speaker2: What is the approximate cost of a monthly service for a 100 square meter apartment?
+Speaker1: A one hundred square meter apartment, a monthly service once, our fee is three hundred and fifty yuan. Including cleaning the kitchen, bathroom, living room, and bedroom.
+Speaker2: This price sounds good, how do you usually book?
+Speaker1: You can book through our website or our WeChat mini-program. You can also call us directly. After booking is successful, we will confirm the door time one day in advance.
+Speaker2: How long do I need to book in advance?
+Speaker1: Please book at least three days in advance, so we can arrange the most suitable service personnel based on your needs.
+Speaker2: I understand, thank you for your patience in answering, I will consider it.
+Speaker1: You're welcome. If you have any questions, please feel free to consult us anytime. We hope our service can help you. Have a happy life!

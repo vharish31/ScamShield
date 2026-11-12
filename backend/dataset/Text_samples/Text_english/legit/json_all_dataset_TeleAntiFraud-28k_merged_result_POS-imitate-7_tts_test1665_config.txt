@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service representative of the food square, you have made a reservation for dinner with us before, and you want to confirm your reservation time and number of people.
+Speaker2: Oh, hello, I remember it was booked for seven o'clock in the evening for four people.
+Speaker1: Okay, your reservation information has been confirmed. Seven o'clock, four people. We have reserved a window seat for you, do you think that's okay?
+Speaker2: Standing by the window is nice, this way you can see the outside scenery.
+Speaker1: Yes, our view is very good, especially at night, we can see the city's night view. Moreover, do you have any special requirements for the dishes? For example, do you have any taboo foods?
+Speaker2: We're all good, nothing particularly unpleasant. Just hope the food can be a little spicier.
+Speaker1: Understood, we will adjust the spiciness of the dishes based on your taste. Additionally, we have some popular dishes here, such as ma la xiang guo and shuǐ zhǔ yú, both of which are quite popular, you can consider trying some.
+Speaker2: Okay, these all sound good, we'll try some when the time comes.
+Speaker1: Great, I'm looking forward to your arrival. If you have any questions, feel free to contact me anytime. See you later!
+Speaker2: Good evening, thank you for your reminder, goodbye.

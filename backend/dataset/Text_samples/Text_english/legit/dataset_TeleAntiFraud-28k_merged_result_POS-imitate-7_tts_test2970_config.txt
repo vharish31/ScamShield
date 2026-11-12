@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Xiaoming, I bought that clothes from your website before, the size is a bit small, can I change to a bigger one?
+Speaker2: Hello, Xiao Ming, I am customer service representative Xiao Wang, can we support seven-day no reason return, do you need me to help you handle it?
+Speaker1: Sure, can you help me with that? My order number is 234156789.
+Speaker2: Okay, I found your order information here. This dress in size one we still have in stock. Do you need me to apply for a replacement directly?
+Speaker1: Hey, can you directly apply for me if possible? Is the shipping fee for the exchange required to be paid by me?
+Speaker2: The shipping fee for returns is borne by our platform, you don't need to pay extra, I'll submit your exchange application now.
+Speaker1: Great, thank you for your help. How long will it take to receive the replacement products?
+Speaker2: In general, exchange products will be shipped within three to five business days. You may receive your exchange product a little later, around seven to ten business days.
+Speaker1: Okay, I know, so where is the return address for this exchange?
+Speaker2: The return address will be sent along with the purchase order when you apply for a return. You can also check the order details on our website. If you have any other questions, feel free to contact me.

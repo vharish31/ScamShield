@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Lee Ming. I consulted with you about that second-hand computer thing a few days ago. Do you still have it now?
+Speaker2: Hello, Li Ming is there? Yes, that old second-hand computer is still there. Are you interested?
+Speaker1: Hmm, that's interesting. Can you tell me the specific configuration of this computer?
+Speaker2: This MacBook is an Apple product, the processor is Intel Core i5, the memory is 8GB, the solid-state drive is 256GB, the screen size is 13 inches, and the condition is 9 out of 10 new.
+Speaker1: How about the price?
+Speaker2: The price of this second-hand item is three thousand five hundred yuan, which is considered fair on the market.
+Speaker1: Hmm, this price I can still accept. I plan to go over tomorrow and see, don't know what time you guys open?
+Speaker2: Our store opens at nine in the morning and closes at seven in the evening. You can come anytime.
+Speaker1: Okay, can I go to your place around 10 am tomorrow morning?
+Speaker2: No problem, I'll be there on time at ten. If there are any changes, please call me in advance to notify me.
+Speaker1: Okay, thank you. See you tomorrow.
+Speaker2: No problem, see you tomorrow.

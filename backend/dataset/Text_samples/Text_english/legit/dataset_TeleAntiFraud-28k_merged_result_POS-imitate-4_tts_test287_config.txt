@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what do you have?
+Speaker1: Hey, I want to consult your bike rental service in your store.
+Speaker2: Okay, we provide bike rental service here, there are several different types of cars, what type of car do you want to rent?
+Speaker1: I want to rent a mountain car, plan to go out and play on the weekend.
+Speaker2: Okay, we have a mountain car here. How long do you plan to rent it?
+Speaker1: Rent for two days, from Saturday morning to Sunday morning.
+Speaker2: Okay, the two-day rental fee is two hundred yuan, the deposit is five hundred yuan, you can pick up the car at nine o'clock on Saturday morning.
+Speaker1: Okay, I'll come at nine on Saturday morning.
+Speaker2: Okay, come directly to the store at the designated time, I will prepare for you.

@@ -1,0 +1,7 @@
+Speaker1: Hey, did you arrive?
+Speaker2: Not yet, I just left, probably around ten minutes.
+Speaker1: Okay, I'll wait for you at the door.
+Speaker2: Okay, I'll meet you later.
+Speaker1: Remember to bring an umbrella when you go out today. The weather forecast predicts that it may rain.
+Speaker2: Okay, thank you for reminding me. Let's meet later.
+Speaker1: See you later.

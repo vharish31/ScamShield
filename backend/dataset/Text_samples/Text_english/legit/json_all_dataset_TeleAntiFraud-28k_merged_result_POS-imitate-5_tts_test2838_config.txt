@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw a smartwatch on your website, can you introduce it to me?
+Speaker2: Hello, of course. This smartwatch not only looks fashionable, but also supports health monitoring and message reminders, very suitable for daily use.
+Speaker1: What specific aspects can health monitoring detect?
+Speaker2: It can monitor heart rate, blood pressure, oxygen saturation, and sleep quality. It's very suitable for friends who care about health.
+Speaker1: How long does the battery of this watch last?
+Speaker2: This watch has a battery life of about one week in normal use and charges quickly.
+Speaker1: What's the price of this watch? It sounds pretty exciting to me.
+Speaker2: This watch is priced at 999 yuan, and there's a limited-time discount of 100 yuan now.
+Speaker1: How long will it take for my order to be delivered if I place it now?
+Speaker2: If you order now, we will ship within 24 hours and deliver to your address in about 2-3 days.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I just circled your store door and couldn't find your store, can you give me a direction?
+Speaker2: Hello, Little Wang, I am Little Li, where are you? I will guide you.
+Speaker1: I am standing in front of the supermarket with the red sign.
+Speaker2: Okay, walk along the left side of the big Wah supermarket, turn right at the first crossroad, walk 50 meters straight, you will see a small alley with a green signboard on your right, my store is just on the right side of the alley entrance.
+Speaker1: Okay, I understand, roughly how long will it take to get there?
+Speaker2: If you follow the path I told you, you should arrive in about three minutes.
+Speaker1: Can you show me how long it is until I leave?
+Speaker2: Yes, you walk fast a little, should be two minutes to arrive.
+Speaker1: Okay, I'll go now, thank you for your help.
+Speaker2: No problem, be careful on the road, I'm waiting for you here.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you introduce me to the new coffee beans in your store?
+Speaker2: Of course. We recently introduced two new coffee beans from Colombia and Brazil. The Colombian one has a soft taste with a hint of nuts, while the Brazilian one is more intense, with a chocolate flavor.
+Speaker1: What's the price?
+Speaker2: Cost of coffee beans in Guatemala is 150 yuan per bag, cost of coffee beans in Brazil is 180 yuan per bag.
+Speaker1: Okay, I want to buy a bag of Gonglunbiya's, how do I pay?
+Speaker2: You can choose online payment, we support WeChat and Alipay, and you can also choose delivery payment.
+Speaker1: Then I'll choose WeChat payment, when will it arrive?
+Speaker2: In general, it will be delivered to your hands tomorrow. If the address is far away, it may be delayed by a day.

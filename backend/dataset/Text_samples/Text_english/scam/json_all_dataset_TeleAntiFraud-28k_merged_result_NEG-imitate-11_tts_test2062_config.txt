@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm the loan advisor at East China Bank, Li Manager.
+Speaker2: Hello, what do you have?
+Speaker1: Is that so, have you recently had any financial needs since you applied for a loan at our bank in the past?
+Speaker2: No, thank you.
+Speaker1: That's great! But if your mind changes, you can contact me anytime. By the way, I have a special promotion here, just click on this link to get more detailed information.
+Speaker2: Link? How can I confirm this is safe?
+Speaker1: Don't worry, this is our official website link, absolutely safe. You can take a look first, if you have any questions, you can directly call me.
+Speaker2: Okay, let me try.
+Speaker1: Great, you're really smart. This link also has our latest loan product, interest rate is very low, very suitable for you.
+Speaker2: Okay, thank you for your recommendation. I will take a look.

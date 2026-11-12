@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Wang?
+Speaker2: Hello, I am Wang Xiāngshēng, who are you?
+Speaker1: Hello, I am a customer service representative from Yángguāng lǐcǎi gōngsī. We noticed that you may have recently had a need for investment. Would you have time to learn more about our investment products?
+Speaker2: Would you like to invest in products? I recently have some spare money, can you give me some information?
+Speaker1: Great, we have a very stable investment project with an annual yield rate of 10%, which is perfect for your needs.
+Speaker2: How high is it? It sounds good, how do you operate it?
+Speaker1: It's very simple. You just need to log in to our official website, register an account, and then invest through our platform. If you're convenient now, I can send you a link, and you can quickly register by clicking on it.
+Speaker2: Okay, can you send me a link?
+Speaker1: Okay, I'll send you the link now. Please pay attention to check the SMS. If you have any questions after registering, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help.

@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, recently I want to move, want to know more about your moving service.
+Speaker2: Hello, I am customer service king, we provide comprehensive moving service, including packing, moving and new home arrangement, what do you want to know about it?
+Speaker1: Can you tell me about the price and your service time?
+Speaker2: Our moving service is priced based on the distance and quantity of items being moved, usually within the city, with a starting price of five hundred yuan. The service time is from eight in the morning to six in the evening, no holidays.
+Speaker1: How far in advance do I need to make a reservation?
+Speaker2: To ensure that we can arrange vehicles and personnel, we recommend that you book at least two days in advance.
+Speaker1: What should be done if something gets damaged during the moving process?
+Speaker2: If any items are damaged during the moving process, we will compensate based on the actual situation, and the specific compensation standard can be agreed upon in the contract beforehand.
+Speaker1: I want to schedule an in-home appraisal tomorrow to see the specific costs.
+Speaker2: Okay, I'll schedule a home appraisal for tomorrow morning at 10 am. Our staff will arrive on time, and you should prepare a list of items to be moved for the appraisal. We'll evaluate based on the list.

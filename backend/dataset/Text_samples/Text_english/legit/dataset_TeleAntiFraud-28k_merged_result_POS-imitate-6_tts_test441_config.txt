@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, how are you? What do you have going on?
+Speaker1: Hey, hello! I'm the customer service staff at the food square, you ordered food from us before, we have a new promotion now, do you want to know more about it?
+Speaker2: What activity is it?
+Speaker1: Hey, we're now launching a discounted combo deal, originally priced at 120 yuan, now only 80 yuan, and you'll get a free drink for free!
+Speaker2: What does this suit have in it?
+Speaker1: This meal includes one signature fried rice, one beef noodle soup, and one small dish, you can choose any drink.
+Speaker2: Okay, how do I order food?
+Speaker1: You can place an order through our website or our mobile app, or you can directly call us, our phone number is 400123567.
+Speaker2: Okay, I'll take a look later. Thank you.
+Speaker1: You're welcome. If you have any questions, feel free to contact me anytime. I hope you have a pleasant dining experience. Goodbye.

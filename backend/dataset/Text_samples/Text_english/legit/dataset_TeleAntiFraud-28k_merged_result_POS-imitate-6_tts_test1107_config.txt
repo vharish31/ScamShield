@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the tenant of unit 1203, Building 4, Jingwanyizhao, and I was wondering if you could help me book a cleaning service on this side?
+Speaker2: Hi, how are you? Is it okay if we provide cleaning service here? What time do you need it?
+Speaker1: Is Saturday morning at 10 am a good time for you this weekend?
+Speaker2: Saturday morning at 10 am is fine, we will arrange the teacher to arrive on time. However, we need to pay a deposit in advance, can you pay it conveniently?
+Speaker1: Is it okay, how do I pay the deposit?
+Speaker2: You can pay through our WeChat mini-program or Alipay. After successful payment, we will send you a confirmation text message.
+Speaker1: Okay, I'll go pay now. Will you send me a confirmation text after I pay?
+Speaker2: Yes, after the payment is successful, we will immediately send a confirmation text message. Please pay attention to check it.
+Speaker1: Okay, thank you for your help, see you on Saturday.
+Speaker2: No problem, see you on Saturday, wish you happy life.

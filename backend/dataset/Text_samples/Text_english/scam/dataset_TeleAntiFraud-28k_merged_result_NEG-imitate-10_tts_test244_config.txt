@@ -1,0 +1,12 @@
+Speaker1: Hello, nice to meet you, I am an agribank customer manager, Li.
+Speaker2: Hello, what's up?
+Speaker1: Have you heard about the new loan product recently introduced by our bank? It has a very low interest rate and quick approval.
+Speaker2: Can you give me a detailed explanation of the loan?
+Speaker1: Of course, but for your information security, we can understand in detail through our exclusive app. You can download it, and I can send you the download link.
+Speaker2: Is this app safe? How can I know it's not a scam?
+Speaker1: You can trust us, we are a legitimate bank institution, and this app is our official bank. For your convenience, I have a link here, just click it to download directly.
+Speaker2: Okay, let me try.
+Speaker1: Great, please use your registered phone number to log in after downloading, and then we'll have a video verification step, and you can proceed with your identity documents.
+Speaker2: Is video verification really that much more troublesome?
+Speaker1: To ensure your safety, after verification, we will quickly approve your loan application, and the funds will be in your account soon.
+Speaker2: Okay, let me try.

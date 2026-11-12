@@ -1,0 +1,11 @@
+Speaker1: Hello, are you the property management of the Happy Community?
+Speaker2: Hello, this is the Happy Community Property Management, how can I help you?
+Speaker1: I live in building three, unit two, recently I found that the water heater in my home has a little leak, do you think it's possible to arrange someone to fix it?
+Speaker2: Okay, please wait a moment, I'll record your information. What is your home's door number?
+Speaker1: The apartment number is 3-2-6-2.
+Speaker2: Okay, 6:02. We will arrange the repair technician to come to your home as soon as possible to check and repair. Generally, the repair technician will come on a workday, can you see this time?
+Speaker1: Sure, bother you guys.
+Speaker2: No problem, this is what we should do. Are there any other things that need help?
+Speaker1: I'm not available right now, but if there are any issues, I'll get back to you.
+Speaker2: Okay, you can contact us anytime if you have any questions. Have a happy life, bye!
+Speaker1: Thank you, goodbye!

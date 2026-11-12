@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, can you tell me how haircuts are arranged here?
+Speaker2: Hello, you can make an appointment for our haircut by phone or our WeChat public account. What time slot do you want to book?
+Speaker1: Can you check if there are any free slots this weekend? I'm free on Saturday afternoon. Do you guys have any flexibility on your side?
+Speaker2: On Saturday afternoon, we have some free time here. You can choose either 2 pm or 4 pm. Which time do you think is more suitable?
+Speaker1: Four o'clock is okay, so I'll book four o'clock then.
+Speaker2: Okay, I have already booked a haircut appointment for you on Saturday at 4 pm, please arrive ten minutes early, and if there are any changes, please contact us anytime.
+Speaker1: Okay, thank you. Can I just come directly at the time?
+Speaker2: Yes, come directly when the time comes, we'll wait for you at the store.

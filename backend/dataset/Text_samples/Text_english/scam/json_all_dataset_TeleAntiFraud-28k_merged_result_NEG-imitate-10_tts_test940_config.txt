@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of Wanxiang Mall, your order has a problem, please help us handle it.
+Speaker2: Hey, what's up with my order?
+Speaker1: Your order has encountered some technical issues during payment, please click on the link we provide to confirm your payment information again.
+Speaker2: What should I do, how should I click on the link?
+Speaker1: You can first download our official app, then find the order details page within it, and there will be an option to re-pay.
+Speaker2: Okay, now I'm going to download.
+Speaker1: Thank you very much for your cooperation. If you have any issues after downloading, please feel free to contact our online customer service at any time.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, hope you have a nice shopping, bye.
+Speaker2: Goodbye.

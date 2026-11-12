@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I saw your job advertisement, are you looking for maintenance workers?
+Speaker2: Yes, we are currently hiring maintenance workers. Are you interested in this job?
+Speaker1: I'm really interested, I worked at Blue Sky Repair Company before, have several years of experience.
+Speaker2: That's good, mainly responsible for family water and electricity repair, occasionally do small household appliance repair.
+Speaker1: Hey, I'm pretty familiar with all of these, how about your work hours over there?
+Speaker2: Work hours are from 8am to 6pm, with a one-hour lunch break in the middle.
+Speaker1: How is the salary calculated?
+Speaker2: Salary is a method of calculating wages by adding a bonus, the base wage is three thousand, and there is an additional bonus for completing each repair task.
+Speaker1: What's the application process for joining?
+Speaker2: You can send your resume to our email address, or come directly to our company for an interview. The address is 100 Jingming Road.
+Speaker1: Okay, thank you for your detailed answer. I'll go to your company this weekend.
+Speaker2: No problem, I'm looking forward to your arrival, feel free to contact me if you have any questions.

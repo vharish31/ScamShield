@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I want to inquire about your restaurant's business hours.
+Speaker2: Hello, our restaurant is open from 10 am to 10 pm every day.
+Speaker1: Can I make a reservation for tonight at seven o'clock at your restaurant?
+Speaker2: It's recommended to book in advance, especially on weekends and holidays, as there are more guests.
+Speaker1: Okay, can I reserve a four-person table, please?
+Speaker2: Of course, I will reserve a four-person table for you. What is your name and contact number?
+Speaker1: My name is Zhang Wei, phone number is 13801380138.
+Speaker2: Okay, Mr. Zhang Wei, your reservation information has been recorded. We will prepare a four-person table for you at seven o'clock tonight.
+Speaker1: Thank you, see you then.
+Speaker2: You're welcome. I'm looking forward to your arrival. Goodbye.

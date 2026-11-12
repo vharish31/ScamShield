@@ -1,0 +1,12 @@
+Speaker1: Hey, are you still hiring at the store?
+Speaker2: When are you coming to work?
+Speaker1: I plan to start next week.
+Speaker2: Okay, you can first go to the store and get a feel for the work environment.
+Speaker1: Hey, how about the salary and benefits?
+Speaker2: We are using a probationary salary of three thousand here. There will be bonuses and commissions after becoming a regular employee.
+Speaker1: What is your work schedule like?
+Speaker2: Generally, people work from 9 am to 6 pm, weekends are off, but if you're busy, you might need to work overtime.
+Speaker1: Is there a fee for attending overtime?
+Speaker2: Yes, overtime pay is according to national regulations. When do you have time to come for an interview?
+Speaker1: I have time tomorrow afternoon, can I come for an interview?
+Speaker2: Okay, let's meet tomorrow at 2 pm in the city square, third floor.

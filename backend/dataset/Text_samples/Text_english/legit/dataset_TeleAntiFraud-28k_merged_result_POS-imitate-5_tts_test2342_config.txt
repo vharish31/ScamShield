@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am Xiānchén shì's customer service, I want to confirm yesterday's facial mask order.
+Speaker2: Hello, how are you? Do you have any questions?
+Speaker1: Is this right, we're showing your order status as unupdated on our end, do you want to confirm if you received the product?
+Speaker2: I haven't received the order I placed last night, should it arrive today?
+Speaker1: In normal circumstances, this is how it is, but sometimes delivery may be delayed. I'll check your order status and wait a moment.
+Speaker2: Okay, can you help me?
+Speaker1: Found it, your order is indeed still being processed, there might be a small issue with the delivery. We'll fix it quickly here.
+Speaker2: When will it arrive approximately?
+Speaker1: We have already contacted the delivery department, and we estimate that it will arrive at your hand by 6 pm today.
+Speaker2: Okay, thank you for your help.
+Speaker1: You're welcome. Feel free to contact us anytime if you have any questions. Have a great day. Goodbye.
+Speaker2: Goodbye.

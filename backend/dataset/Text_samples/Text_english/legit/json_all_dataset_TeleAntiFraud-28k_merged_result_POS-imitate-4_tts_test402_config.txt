@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you from that household cleaning service company?
+Speaker2: Okay, what can I help you with?
+Speaker1: I'd like to know more about your cleaning service, specifically the deep cleaning for families.
+Speaker2: Of course, our deep cleaning service includes a thorough cleaning of the kitchen and bathroom, as well as waxing and polishing of furniture surfaces.
+Speaker1: How is the cost calculated?
+Speaker2: We will determine the price based on the size of the house and specific cleaning needs, usually with a base fee plus additional service fees.
+Speaker1: Can you give me a rough estimate of the price for a house around 120 square meters in my area?
+Speaker2: Okay, for a 120 square meter area, the basic clean may be around 300 yuan, and if you need deep clean, it may add 100 to 200.
+Speaker1: What time do you usually start work?
+Speaker2: We usually work from 9am to 5pm, but the specific time can be adjusted according to your schedule.
+Speaker1: Can you come over this weekend?
+Speaker2: Is it okay, do you want to make a reservation for Saturday or Sunday?
+Speaker1: Are you going out on Sunday morning at 10 o'clock?
+Speaker2: Okay, let's meet at 10 am on Sunday.

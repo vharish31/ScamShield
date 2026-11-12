@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. We have a special loan service for our premium customers here. Would you like to know more about it?
+Speaker2: Hey, loan service, I'm pretty tight on cash right now, what services do you offer?
+Speaker1: Okay, our service is interest-free, low interest rate, and quick loan disbursement. It's perfect for customers in urgent need of cash. If you're interested, you can add my WeChat first, and I'll give you a detailed introduction.
+Speaker2: Wechat, what did you send me after adding?
+Speaker1: After adding WeChat, I will send you an application form, fill it out and send it back to me, and once it's approved, you can quickly get the loan.
+Speaker2: Okay, let me try, what's your WeChat number?
+Speaker1: Great, my WeChat number is abcd123456, you add me next.
+Speaker2: Okay, I added it, wait for my message.
+Speaker1: Okay, I'm looking forward to working with you. If you have any questions, feel free to contact me anytime.

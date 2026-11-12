@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I'm a customer service representative from Agricultural Bank, Tianhe District, you can call me little Li.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed that you've been using your credit card more frequently recently, and we have a new credit card promotion activity, and we'd like to invite you to join.
+Speaker2: Is there really any discount?
+Speaker1: Yes, as long as you click on the links we provide, you can complete the registration and enjoy the first month's free fee and double points reward.
+Speaker2: Listen well, how to operate?
+Speaker1: It's very simple. Just click this link (simulated link), follow the instructions and you're done.
+Speaker2: Okay, let me try.
+Speaker1: Okay, feel free to contact me anytime if you have any questions. My phone number is 12345678901.
+Speaker2: Okay, thank you for your recommendation.

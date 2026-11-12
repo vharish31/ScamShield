@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao, this is the customer service representative of China Construction Bank.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed that you recently purchased some products on our platform, but we found that there might be an exception in one of the orders.
+Speaker2: Oh, really? Then what do we do?
+Speaker1: To ensure your rights, we need you to cooperate with us in a simple verification.
+Speaker2: What do you need me to do?
+Speaker1: Please click on the link in the text message we sent, follow the instructions.
+Speaker2: Okay, I'll check my messages now.
+Speaker1: Thank you for your cooperation. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, I will pay attention. Thank you.

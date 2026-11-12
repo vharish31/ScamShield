@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: I just arrived at your company.
+Speaker2: Are you still standing at the door?
+Speaker1: Yes, I didn't drive, I'm standing at the door, should I register?
+Speaker2: No need to wait, just come directly, say you're here for business and that's it.
+Speaker1: Okay, then how do I go?
+Speaker2: After you came in, I saw a little door on the east, and I was waiting for you there.
+Speaker1: Okay, I see it, just go there and wait for me.
+Speaker2: Okay, see you later.

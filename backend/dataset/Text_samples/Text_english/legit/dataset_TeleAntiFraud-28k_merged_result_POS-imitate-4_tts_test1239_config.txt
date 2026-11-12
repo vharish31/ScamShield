@@ -1,0 +1,12 @@
+Speaker1: Hello, I want to consult your taxi service.
+Speaker2: Hello, what can I help you with?
+Speaker1: How long does it take to take a taxi from the city center to the airport?
+Speaker2: It takes about 40 minutes to get from the city center to the airport, if the traffic is not congested.
+Speaker1: How much does it cost?
+Speaker2: The cost varies depending on the car type, approximately between 150 and 200 yuan.
+Speaker1: I need to book a car, around 2 pm to depart.
+Speaker2: Okay, I can book a comfortable car for you, arriving at 2 pm on time.
+Speaker1: Sure, can you tell me the car model and license plate number in advance?
+Speaker2: Of course, after the reservation is successful, we will notify you of the car type and license plate number via text message.
+Speaker1: Thank you, I'll wait for text message notifications.
+Speaker2: Okay, feel free to contact us anytime if you have any questions. Have a great trip!

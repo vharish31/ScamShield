@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the official customer service of Taobao, there is a problem with your order, please cooperate to handle it.
+Speaker2: Is there a problem with my order?
+Speaker1: Yes, there was an anomaly in your order during payment. To protect your rights, we need some information to process it.
+Speaker2: What do you need from me?
+Speaker1: Please provide your bank card number and phone verification code, and we can solve this problem for you.
+Speaker2: Is this a solution to the problem?
+Speaker1: Of course, this is our standard process, after providing this information, we will immediately process it for you.
+Speaker2: Okay, how can I give you this information?
+Speaker1: You can directly tell me or click on the link we send to you, fill out the relevant information on the page.
+Speaker2: Okay, let me check the link later.

@@ -1,0 +1,8 @@
+Speaker1: Hey, how are you? I'm nearby, ready to find you, where are you?
+Speaker2: Hey, I'm waiting for you at the coffee shop right outside the exit of the subway station.
+Speaker1: Okay, the coffee shop is right outside the subway station exit on the right, I know, it's about a few minutes away.
+Speaker2: Okay, I'm waiting for you here, you arrived, give me a call.
+Speaker1: Okay, let's go to the coffee shop and find a place to sit down first.
+Speaker2: Okay, come quickly, I'll order your favorite coffee for you.
+Speaker1: Great, I like that place the most, see you later.
+Speaker2: Okay, see you later, be careful on the road.

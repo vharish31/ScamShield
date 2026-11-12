@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little king?
+Speaker2: Yes, you are little Ming, what do you have?
+Speaker1: So, we have a project meeting next week, and we'd like to invite you to attend, the meeting is on Friday at 3 PM, do you have time?
+Speaker2: What's the specific location of the meeting on Friday at 3 PM?
+Speaker1: The meeting room is on the third floor of the company. If you're convenient, please come early and sign in ten minutes before the meeting starts.
+Speaker2: Okay, I will arrive on time. Do I need to prepare anything?
+Speaker1: No need for special preparation, mainly discuss project progress and next steps' plan, you can join just fine.
+Speaker2: I understand, then I see you on Thursday.
+Speaker1: Okay, see you on Friday, if there are any changes I will notify you in advance.
+Speaker2: Okay, thank you for the invitation, see you on Friday.

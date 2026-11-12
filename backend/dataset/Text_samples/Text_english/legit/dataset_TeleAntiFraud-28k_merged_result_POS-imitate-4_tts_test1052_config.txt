@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, can you provide on-site repair service for computers at your end?
+Speaker2: Hello, little Li, can we provide door-to-door service here? Do you need to make an appointment?
+Speaker1: Okay, my computer at home suddenly won't turn on today, can you come over this afternoon to fix it?
+Speaker2: Sure, what time works for you in the afternoon?
+Speaker1: Can I go at 3 o'clock?
+Speaker2: Can we meet at 3 o'clock? Do we need to prepare anything in advance?
+Speaker1: The computer suddenly wouldn't turn on, it was fine before, nothing had been moved inside.
+Speaker2: Understood, we will bring the tools and take a look at the issue. If any parts need to be replaced, we will confirm on site and communicate with you.
+Speaker1: Okay, thank you, then I'll wait for you.
+Speaker2: No problem, please contact us if you have any questions. We'll arrive on time, goodbye.

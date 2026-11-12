@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little king, want to ask about new phones in your store
+Speaker2: Hello little king, I am customer service little Li, you can call me little Li. We have several new phone models here, what do you need?
+Speaker1: I mainly want to buy a good photo effect one, budget around three thousand left right
+Speaker2: Okay, for a budget of around three thousand, we can recommend several good-looking phones with great camera quality, such as XYZ brand's P30, which has amazing camera quality, and ABC brand's Q10, which has a good price-to-value ratio.
+Speaker1: What are the differences between these two phones?
+Speaker2: The main advantage of P30 is in night photography, Q10 is clearer in daily photography, and the battery life is longer.
+Speaker1: Hey, I prefer Q10, can you tell me how to buy it?
+Speaker2: Of course, you can directly place an order on our website or try it out in store and then buy it, we have it in stock now.
+Speaker1: Okay, I'll go to your store on the weekend when I have some free time.
+Speaker2: Welcome very much, our store is open from 9am to 9pm on weekends, you can come anytime.
+Speaker1: Okay, thank you for your help, see you this weekend.
+Speaker2: No problem, see you this weekend, wish you a happy weekend.

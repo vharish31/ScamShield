@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, can I make a haircut appointment here?
+Speaker2: Hello, is it possible, what time would you like to make a reservation?
+Speaker1: Can I make a reservation for tomorrow afternoon at three o'clock?
+Speaker2: Can I come at three in the afternoon tomorrow? Is it your first time here?
+Speaker1: Yes, first time.
+Speaker2: Okay, what type of hair service do you need to make an appointment for?
+Speaker1: I want to cut my hair short, clean and fresh.
+Speaker2: Understood, we have several barbers here who specialize in short haircuts. Do you have any specific requirements?
+Speaker1: No specific requirements, anyone can do it.
+Speaker2: Okay, I'll book it for you. What's your name and contact info?
+Speaker1: My name is Li Ming, phone number is 13800000000.
+Speaker2: I have recorded it, Li Ming, tomorrow afternoon three thirty, we will wait for you at the store.

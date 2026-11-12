@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you? I want to consult your home service.
+Speaker2: Hello, I am a customer service representative, how can I assist you with housekeeping services?
+Speaker1: Can you tell me more about your cleaning service, specifically what it includes?
+Speaker2: We provide comprehensive cleaning services, including daily cleaning, deep cleaning, window cleaning and more. You can choose the services based on your needs.
+Speaker1: How is the price calculated?
+Speaker2: The price is calculated based on the service items and area, usually we first schedule a time, then conduct an on-site appraisal before giving a specific quote.
+Speaker1: Does the appointment evaluation require payment?
+Speaker2: The first evaluation is free. You will only incur costs after you confirm using our services.
+Speaker1: When can I schedule an appraisal?
+Speaker2: You can choose a convenient time, we will quickly arrange a pickup. You can book through phone or our online platform.
+Speaker1: Then let's schedule through phone call, what's your phone number?
+Speaker2: Our customer service phone number is 400886666, just dial this number to contact us.
+Speaker1: Okay, thank you for your help. I will contact you guys.
+Speaker2: You're welcome. If you have any other questions, feel free to consult anytime. Have a happy life, goodbye!

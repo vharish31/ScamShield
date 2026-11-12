@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Laoban? I'm Wang Xiaoming, the credit manager at China Bank. We recently launched a special loan project for customers like you, with lower interest rates, quick approval, and would you be interested in learning more?
+Speaker2: Hey, do you want a loan? I don't have any needs right now.
+Speaker1: I understand, but have you considered expanding your business or making some investments, Mr. Li? We currently have a special activity, just click on this link to learn more about our loan products and promotions.
+Speaker2: Link? How do I know this is safe?
+Speaker1: Mr. Li, please rest assured that this is the official link of China Bank, which is absolutely safe. After clicking, please fill in some basic information, and our customer manager will contact you soon to provide more detailed services.
+Speaker2: I'm still not very confident, won't you be the one to ask for the first handover fees?
+Speaker1: No way, Lee boss, we won't take any fees in advance. You just need to click on the link, fill out the info, and we'll take care of the rest. If you have any questions, feel free to call our customer service hotline anytime, and we'll answer for you.
+Speaker2: Okay, let me try.
+Speaker1: Great, Li Laoban, thank you so much. If you have any problems after clicking the link, please contact me directly. I wish your business will keep booming and look forward to working with you. Bye.
+Speaker2: Thank you, goodbye.

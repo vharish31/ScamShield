@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the property manager of the community, I heard your recent electricity bill is a bit high, do you want to confirm if there's any issue?
+Speaker2: Oh, hello, that's it, my family members have increased recently, the electricity usage has indeed increased.
+Speaker1: Got it, okay, we'll record it down. Are there any other services that need help?
+Speaker2: Hey, I actually have another question. Recently there's been a little leak in the water pipes at home, could you take a look?
+Speaker1: Okay, we will arrange a repair technician to come to your place as soon as possible. What is your convenient time?
+Speaker2: Can we meet at four o'clock in the afternoon tomorrow?
+Speaker1: Okay, tomorrow afternoon at four o'clock, our maintenance master will arrive on time.
+Speaker2: Thank you, then I'll wait for you.
+Speaker1: No problem, please contact us if you have other issues. Goodbye.
+Speaker2: Okay, bye.

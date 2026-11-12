@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Zhang. Do you have any haircut appointment service here?
+Speaker2: Hello, little Zhang, can we book a haircut here, what time do you want to book?
+Speaker1: Can I reserve tomorrow afternoon at three o'clock?
+Speaker2: Can we meet at 3 PM tomorrow? Please provide your contact information so we can confirm the appointment details.
+Speaker1: Okay, my phone number is 1381233213, please confirm.
+Speaker2: Okay, your phone number is 1381232132, the afternoon 3 pm appointment has been recorded, we will call ahead to confirm.
+Speaker1: Okay, thank you. Is there another question? How long does it usually take to clean up at your place?
+Speaker2: Haircut usually takes around forty minutes, if additional services are needed, the time may be a little longer.
+Speaker1: Understood, do I have any other things to pay attention to before the appointment?
+Speaker2: There are no other special requirements. Just arrive on time. If you can't come due to special circumstances, please inform us in advance.
+Speaker1: Okay, I understand, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wishing you a happy day.

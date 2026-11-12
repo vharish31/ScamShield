@@ -1,0 +1,12 @@
+Speaker1: Hey, how have you been lately?
+Speaker2: Hey, how are you? What have you been up to lately?
+Speaker1: I'm preparing for my next trip, which is to Hangzhou. Do you have any recommendations for scenic spots?
+Speaker2: Hangzhou has many good places, West Lake is definitely worth going, and Songcheng and Lingxiaotai are also quite worth going.
+Speaker1: The sound is good, I plan to check the route first on the weekend. Oh, have you eaten West Lake fish in wine?
+Speaker2: Try it, the taste is really special.
+Speaker1: Okay, I definitely have to try. Uh, I probably need to book a hotel, do you know where the hotel prices are high?
+Speaker2: Hotels in the West Lake area are generally expensive, but you can consider staying in the city center, where transportation is convenient and prices are reasonable.
+Speaker1: Hmm, this suggestion is good, I will go check out the hotels in the city center. Thank you for your suggestion!
+Speaker2: No problem, hope you have a nice trip! Bring me some souvenirs back when you have time.
+Speaker1: Okay, no problem, I'll definitely bring it. Let's talk later. Bye!
+Speaker2: Goodbye!

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, find Zhang Huang.
+Speaker2: Hello, little Li, Zhang Huai is not here now, what can help you?
+Speaker1: Hey, that's annoying. I want to ask if Zhang Huang has any time this weekend, we have a project to discuss.
+Speaker2: Okay, I'll tell him. Can you leave your contact information? So he can contact you directly when he has time.
+Speaker1: Sure, my phone number is 13500000000. Thank you.
+Speaker2: Okay, I will tell Zhang Huang. He will contact you as soon as he sees the message.
+Speaker1: Thanks, can you help me?
+Speaker2: No problem, please feel free to contact me anytime if you need help.
+Speaker1: Okay, thank you. Bye.
+Speaker2: Goodbye.

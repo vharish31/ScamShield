@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I'm looking at the job postings on 58.com, are you still hiring?
+Speaker2: Okay, still recruiting, when is it convenient for you to come take a look?
+Speaker1: Can I come over at three in the afternoon tomorrow?
+Speaker2: Sure, come directly to our company at Mingyang Road 999, just find Li Manager when you arrive.
+Speaker1: Okay, Mingyáng lù jiǔ shí jiǔ zhōu, wǒ jiǐ xiàng lei xiàng.
+Speaker2: Hey, if you can't find me when you arrive, you can call me at 05123456.
+Speaker1: Okay, thank you. Is there another question? What is the salary for the positions you recruit?
+Speaker2: Based on ability and position, salary is between 3,000 and 5,000 yuan, probation period is one month, and there is a bonus after being hired.
+Speaker1: I'll go there tomorrow at the right time.
+Speaker2: Okay, see you tomorrow, be careful on the road.
+Speaker1: Thank you, goodbye.

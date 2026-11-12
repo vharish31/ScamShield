@@ -1,0 +1,10 @@
+Speaker1: Hey, hi there, I'm the customer service at the food square, you ordered food from us before, now there's a member discount activity we want to notify you about.
+Speaker2: Hey, are there any discount activities?
+Speaker1: As long as you're our member, you can enjoy an 85% discount on your order and also receive an additional small gift.
+Speaker2: What's the process to become a member?
+Speaker1: It's simple. Just register for our food square account and complete one order above to become our member automatically.
+Speaker2: Can I enjoy discounts if I register now?
+Speaker1: Of course, as long as you register, you can immediately enjoy this discount activity.
+Speaker2: Okay, I'll go register now, thank you for your notification.
+Speaker1: You're welcome to come order food anytime, and feel free to contact me if you have any other questions.
+Speaker2: Okay, thank you, goodbye.

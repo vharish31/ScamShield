@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw a washing machine on your website and wanted to know more details.
+Speaker2: Okay, this washing machine is one of our best-selling products, it has an energy-saving mode, can automatically adjust water temperature and water volume, and is very suitable for family use.
+Speaker1: What is the price of this washing machine?
+Speaker2: This washing machine costs 2500 yuan, there is currently a promotion, and you can enjoy a 95% discount when you buy it.
+Speaker1: Can I go to the store now to take a look?
+Speaker2: Of course, our store is currently open for business, located at Happiness Road 100, welcome anytime.
+Speaker1: Okay, I'll be there in about thirty minutes. Can you wait for me before you guys leave?
+Speaker2: No problem, we will wait for you here. If you have other questions, you can call us in advance.

@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me?
+Speaker1: Hi, how are you? I'm the customer service for home appliance repair. Your washing machine repair service is scheduled for this afternoon around 3 pm. Please wait at home.
+Speaker2: Okay, I understand, but I have something to do now, so I might be late home.
+Speaker1: Is this okay for you, if you're not at home when it's time, can our landlord come and check first, then we can do the repairs when you come back, is that okay with you?
+Speaker2: That's okay, but if you need to change parts, you might have to wait a little longer.
+Speaker1: Yes, if you need to replace parts, we will prepare them quickly here, you don't need to worry, our service is included repair, you can relax.
+Speaker2: Okay, then I'll follow your plan. I should arrive home around six o'clock.
+Speaker1: Okay, the master will wait for you, what questions can you directly contact me, my phone number is the service hotline.
+Speaker2: Okay, thank you for your help, see you later.

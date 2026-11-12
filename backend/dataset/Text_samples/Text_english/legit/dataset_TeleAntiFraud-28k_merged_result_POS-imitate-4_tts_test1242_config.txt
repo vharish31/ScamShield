@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiao Zhang, I've been looking for a place to live recently, I heard there are some rental properties available on your side, could you mind introducing them to me?
+Speaker2: Hello, little Zhang, yes, I have several apartments for rent on this side, what specific information do you want to know?
+Speaker1: I'd like to know more about the rent price and the location of the house, preferably one that's convenient in terms of transportation.
+Speaker2: Okay, I have three houses, one in the city center, very convenient transportation, monthly rent of 2500 yuan; the other two are on the east side of the city, relatively cheaper, monthly rent of 1800 yuan.
+Speaker1: What is the specific location of the house in the city center? How are the surrounding facilities?
+Speaker2: The house in the city center is on Happiness Road, surrounded by supermarkets and parks, and the lifestyle is very convenient. Moreover, it is only 500 meters away from the subway station, and the travel is very convenient.
+Speaker1: That's great, I have some free time this weekend, can I come take a look?
+Speaker2: Of course, I have time on weekends too, what time do we meet on Saturday morning?
+Speaker1: Let's meet at the Happy Road subway station at 10 am on Saturday, and you can take me to see the apartment.
+Speaker2: Okay, meet at Happiness Road MRT station at 10 am on Saturday. Contact you then.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can your restaurant have a vegetarian set meal?
+Speaker2: Yes, we have a vegetable set meal, and it comes in small and large portions.
+Speaker1: How much does that small portion of vegetable set meal cost?
+Speaker2: The small portion of vegetable set meal is 35 yuan, containing one dish two vegetables and one bowl soup.
+Speaker1: Okay, I'll reserve two seats for two people, around 7 pm tonight.
+Speaker2: Okay, I have reserved a table for two people at seven o'clock tonight. Do you need to confirm by phone?
+Speaker1: No need, just come directly when the time comes.
+Speaker2: Okay, come directly when the time comes, and feel free to contact us if there are any changes.
+Speaker1: Okay, thank you.
+Speaker2: Please welcome you.

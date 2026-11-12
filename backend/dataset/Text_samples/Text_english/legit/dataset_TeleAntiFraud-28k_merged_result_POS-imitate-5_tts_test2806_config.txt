@@ -1,0 +1,12 @@
+Speaker1: Hi, I'm Lee Ming, I'm calling today to inquire about your fitness courses.
+Speaker2: Hello, Li Ming, I am Zhang, the customer service at the fitness center. I am very happy to serve you. What courses are you interested in?
+Speaker1: Can you tell me more about the yoga course, when does it start?
+Speaker2: Our yoga classes are held every Monday, Wednesday, and Friday evenings at 7 p.m., and each class lasts for one hour.
+Speaker1: Do I need to make a reservation for this course?
+Speaker2: Yes, to ensure that each student has enough space and equipment, we recommend reserving in advance.
+Speaker1: Okay, how do I make a reservation for this week?
+Speaker2: You can contact us through our official WeChat public account or phone for booking, very convenient.
+Speaker1: What do I need to prepare?
+Speaker2: You just need to wear comfortable sports clothes and sports shoes, we provide yoga mats and other necessary equipment here.
+Speaker1: Okay, thank you for your detailed answer. I'll schedule a trial next week.
+Speaker2: Welcome very much! If you have any other questions, please contact us anytime. Have a nice practice! Bye!

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Xiaoming from the delivery service?
+Speaker2: Hello, yes, I am the customer service of Xiaoming delivery.
+Speaker1: I want to order a lunch menu, do you have any recommendations today?
+Speaker2: We have fish and chips and kung pao chicken today, both are very popular dishes, you can choose.
+Speaker1: I'll have a palace spicy chicken dish and a rice dish.
+Speaker2: Okay, one portion of spicy chicken and one portion of rice, do you need anything else?
+Speaker1: Let's have another bottle of iced red tea.
+Speaker2: Okay, one portion of palace chicken, one portion of rice and one bottle of ice red tea, the total is 35 yuan.
+Speaker1: Okay, I paid through WeChat, can you send it to the garden in the Flower Garden community?
+Speaker2: Okay, the garden community is within our delivery range, approximately 30 minutes later it will arrive.

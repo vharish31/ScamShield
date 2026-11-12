@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there?
+Speaker2: What's up?
+Speaker1: Do you know how to walk to the coffee shop near your house in the afternoon?
+Speaker2: I know, you get off the subway station and walk left, see the second red light turn right, walk straight about 500 meters, the coffee shop is on your right hand.
+Speaker1: What time does the coffee shop open?
+Speaker2: Should you have opened the door at 9:00 am? What time did you go?
+Speaker1: I called ahead to confirm if the opening time had changed at around 2 pm.
+Speaker2: Okay, if you can't find the place, call me.
+Speaker1: Okay, thank you, wait for my call.
+Speaker2: Okay, be careful on the road, see you later.

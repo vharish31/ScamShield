@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Lee Huai, this is the loan officer at Ping An Bank.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed that you previously applied for a startup loan at our bank, but you haven't used it yet.
+Speaker2: Yes, I am still considering.
+Speaker1: Our current loan interest rate is very favorable, and the approval speed is fast. You can consider it.
+Speaker2: It sounds good, but I'm still not very sure.
+Speaker1: No problem, I can send you a detailed loan application document, take a look and see if you're interested.
+Speaker2: Okay, can you show it to me?
+Speaker1: Okay, I'll send it to you now. Additionally, if you have any other questions, feel free to add my WeChat, anytime consult.
+Speaker2: Okay, thank you.

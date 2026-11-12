@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm the customer service of the new millennium supermarket. I saw that you browsed a smart vacuum cleaner on our website yesterday. Do you know if you're interested?
+Speaker2: Oh, really? I did see it, but I haven't decided to buy it yet.
+Speaker1: Hmm, this vacuum cleaner has a strong cleaning ability and automatic recharging function, making it very suitable for busy families to use.
+Speaker2: Can you give me a detailed introduction to this product?
+Speaker1: Of course. This robot vacuum has strong suction power, can clean dust and hair in the house, and is equipped with intelligent navigation system, can automatically plan cleaning routes. Moreover, it can connect to the mobile app, allowing remote control.
+Speaker2: How much does remote control cost?
+Speaker1: The original price is 2500 yuan, but we have a promotion now, as long as you pay 2300 yuan, you can try it for free for seven days, and if you're not satisfied, you can return it without any reason.
+Speaker2: Free trial is great, but I still want to consider it again.
+Speaker1: No problem, consider carefully before making a decision. If you have any questions, feel free to call and consult anytime.
+Speaker2: Okay, thank you for your introduction. I will consider it. Goodbye.
+Speaker1: No problem, goodbye.

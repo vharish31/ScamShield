@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am the manager of the construction bank, we have a new loan service here that can be provided to you, are you interested in learning more about it?
+Speaker2: "Hey, loan service, I recently have a bit of cash flow need."
+Speaker1: Great, this service is perfect for you. To better understand the details, you can click on the link I sent and download our official app, which has detailed introductions and application processes inside.
+Speaker2: Okay, I'll take a look.
+Speaker1: Please wait a moment, I'll send it to you now. To ensure your information is secure, I'll send you a link via text message, just click on it once you receive it.
+Speaker2: Okay, I'll wait for the text message.
+Speaker1: The text message has been sent to your phone. Check if you received it.
+Speaker2: I got it, I'll download it right away.

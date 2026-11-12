@@ -1,0 +1,11 @@
+Speaker2: Hello
+Speaker1: Hey, do you see your family's chef at work?
+Speaker2: Yes, we are hiring chefs, are you interested?
+Speaker1: Hey, I'm little Li, I worked in old Wang's kitchen for three years, I want to change my work environment.
+Speaker2: Okay, you can send me your resume, let's take a look.
+Speaker1: Okay, I'll send it right away. Also, can you tell me how work hours are arranged?
+Speaker2: Our work hours here are from 10 am to 10 pm, with a two-hour break in the middle.
+Speaker1: What about the salary and benefits?
+Speaker2: We provide a monthly salary of 6,000 yuan as a basic wage, plus performance bonuses, and there are opportunities for promotion if you do well.
+Speaker1: Listen well, I'm sending my resume now.
+Speaker2: Okay, after you send it over, I'll quickly schedule an interview.

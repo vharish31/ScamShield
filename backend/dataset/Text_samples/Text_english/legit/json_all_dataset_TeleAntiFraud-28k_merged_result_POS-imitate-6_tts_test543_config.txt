@@ -1,0 +1,8 @@
+Speaker1: Hello, can you tell me about your store's refrigerator?
+Speaker2: Hello, how many brands and models of iceboxes do you have in your store, and which aspect should I focus on?
+Speaker1: I mainly want to see the effect of the node, and the price is also suitable.
+Speaker2: Hey, we have several models of energy-efficient refrigerators in our store that are very cost-effective, you can come take a look or I can give you a simple introduction?
+Speaker1: Are you in the store? Can I go now?
+Speaker2: The store is pretty empty right now, you can come over without any problem.
+Speaker1: Great, I'll be there in about fifteen minutes.
+Speaker2: Okay, I'm here waiting for you. If anything is unclear, just contact me.

@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently want to buy a new phone, do you have huawei mate forty in your store?
+Speaker2: Hello, little Zhang, I checked here, there is, Huawei Mate 40 is now in stock.
+Speaker1: What is the price of this phone now? Are there any discount activities?
+Speaker2: This phone is currently selling for 4999 yuan, there's a promotion now, you can get a 500 yuan discount, so the final payment is 4499 yuan.
+Speaker1: How much discount is there, and how long will it take to get the phone if I order now?
+Speaker2: If you place an order now, we will ship it within 24 hours and it usually takes 2-3 days to arrive.
+Speaker1: Great, I've been free lately, I plan to come pick up my phone tomorrow, what time do you guys open your store?
+Speaker2: Our store opens at nine in the morning and closes at eight in the evening. There won't be any problems if you come to pick up your phone later.
+Speaker1: Okay, I'll come over in the morning at ten o'clock, and then we can find your phone directly, right?
+Speaker2: Okay, you can come directly at the time, I will prepare my phone and other things for you.
+Speaker1: Goodbye, thank you, see you later.
+Speaker2: No problem, see you later.

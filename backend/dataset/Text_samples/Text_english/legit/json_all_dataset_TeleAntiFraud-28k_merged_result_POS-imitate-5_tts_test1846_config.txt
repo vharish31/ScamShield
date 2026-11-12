@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I am a customer service representative for the Happy Community, and I would like to ask for any suggestions or needs you have regarding our services?
+Speaker2: Oh, that's it, I recently noticed that the community's trash sorting guidance is not clear enough, and residents sometimes get it wrong.
+Speaker1: Thank you for your feedback. We will strengthen the promotion of trash classification. Are there any other aspects that need improvement?
+Speaker2: Hmm, the parking spots in the community are quite tight, I hope we can add some more.
+Speaker1: We have noticed this issue as well, and are currently planning new parking spaces, expected to be available for use next month.
+Speaker2: That's great, thank you for your efforts.
+Speaker1: No problem, the satisfaction of residents is our motivation. There are other issues that you can contact us anytime.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye, wish you happy life.

@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am calling because I saw your advertisement, do you have time now?
+Speaker2: What can I help you with?
+Speaker1: Can you tell me more about your housekeeping services, specifically the cleaning services, and how do you charge for them?
+Speaker2: Our home cleaning service pricing is based on the number of rooms and cleaning difficulty. For example, a two-room, one-bedroom apartment's basic cleaning is 200 yuan per time, and if there are more rooms or if deep cleaning is required, the price will increase.
+Speaker1: Okay, then I need to make a reservation, approximately when can I schedule?
+Speaker2: You can tell me specific time requirements, I'll arrange it for you. Generally, appointments can be scheduled two days in advance.
+Speaker1: Can I make a reservation for this Saturday morning?
+Speaker2: Saturday morning is fine, I will record it for you. Please provide your contact information so we can confirm later.
+Speaker1: Okay, my phone number is 1381380138.
+Speaker2: I have recorded the time. We will be on time for the door service on Saturday morning. If there are any changes, we will contact you in advance.
+Speaker1: Thank you, then I'll wait for your call.
+Speaker2: Okay, thank you for your trust. Wish you a happy life.

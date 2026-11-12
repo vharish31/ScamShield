@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to check out the new phones in your store.
+Speaker2: Hello, I'm very happy to serve you. Which phone model do you want to know about?
+Speaker1: That's the latest one, I heard its performance is great.
+Speaker2: You're talking about our flagship phone, this phone's configuration is indeed very high, its performance is extremely strong.
+Speaker1: Hmm, I took a look, but I have some doubts about the price.
+Speaker2: This phone costs 5999 yuan, there's a discount of 300 yuan now.
+Speaker1: Is the actual payment five thousand six hundred ninety-nine yuan?
+Speaker2: Yes, you understand well. If you place an order now, you can also enjoy an additional small gift.
+Speaker1: Can I decide now?
+Speaker2: No rush, you can consider it first, the discount activity will last until this weekend. If you decide, feel free to contact us anytime.

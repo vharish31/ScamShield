@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the small Ming electric store, the air purifier you consulted before is in stock today, do you want to come and pick it up?
+Speaker2: Is there really a product? I recently have been feeling bad about the air quality, so I need one.
+Speaker1: Yes, we just got a new batch, the quality is great, you can try it.
+Speaker2: Can I come over this afternoon?
+Speaker1: Of course, we are open from three to six in the afternoon. You can come anytime during that period.
+Speaker2: Okay, I'll be there around four o'clock, can I find you there?
+Speaker1: It's quite good to find, just at the intersection of Lightning Road and Happiness Road, if you can't find it, I can give you directions on the phone.
+Speaker2: That's great, I'll contact you later. Thank you.
+Speaker1: No problem, I'm waiting for you, feel free to contact me anytime. Goodbye.
+Speaker2: Okay, bye.

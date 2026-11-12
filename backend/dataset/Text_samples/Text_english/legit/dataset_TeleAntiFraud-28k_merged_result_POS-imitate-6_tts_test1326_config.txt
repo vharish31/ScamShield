@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me more about the household services you provide here, specifically what is included?
+Speaker2: What specific aspects of our services, such as cleaning, moving, or nanny, do you need help with?
+Speaker1: Can you give me a detailed introduction about hiring a housekeeper or cleaning lady?
+Speaker2: Of course. Our cleaning service includes daily cleaning, deep cleaning and special cleaning, such as deep cleaning of the kitchen and bathroom. You can choose different service packages based on your needs.
+Speaker1: How is the price calculated?
+Speaker2: The price is calculated based on the type of service and time, generally, daily cleaning is fifty yuan per hour and deep cleaning is seventy yuan per hour.
+Speaker1: Does it sound good? Then do I need to make a reservation in advance?
+Speaker2: Yes, I recommend you make an appointment in advance, so we can arrange the most suitable time for our door-to-door service. You can make an appointment through our website or by phone.
+Speaker1: Okay, thank you for your detailed introduction. I will consider it.
+Speaker2: You're welcome. If you have any questions, please feel free to consult us anytime. We hope our service can assist you.

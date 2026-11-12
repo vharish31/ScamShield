@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you know of any restaurants here that are suitable for two people?
+Speaker2: Of course, what flavor are you in the mood for? Like Sichuan, Cantonese or Western?
+Speaker1: Do you have any recommendations for trying some western cuisine?
+Speaker2: We have a restaurant called "Romantic Time" that serves Western cuisine. The environment is great and the food is very refined, perfect for couples to enjoy a romantic dinner.
+Speaker1: Does it sound good? Then do we need to make a reservation in advance?
+Speaker2: Yes, to ensure a good dining experience, we recommend making a reservation in advance.
+Speaker1: Okay, let's go this weekend, around seven o'clock, is that okay?
+Speaker2: Sure, I'll reserve a spot for you by the window, I hope you like it.
+Speaker1: Thanks for your help, see you later.
+Speaker2: See you later, wish you have a good night, bye.

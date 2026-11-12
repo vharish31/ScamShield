@@ -1,0 +1,9 @@
+Speaker1: Hello, I'm the small Zhang at the fast food store. What do you think about our new menu?
+Speaker2: What new dish?
+Speaker1: It's the newly launched lunch set, including a beef burger, fries, and Coke, and also comes with a discount coupon.
+Speaker2: Oh, this sounds good. How do you order?
+Speaker1: You can place an order through our mobile app or website, or come directly to the store.
+Speaker2: How long does delivery take?
+Speaker1: Usually, orders placed will be delivered within 30 minutes. However, during peak hours, it might take a little longer.
+Speaker2: Okay, I'll give it a try. Thanks.
+Speaker1: No problem, I hope you like it. If you have any questions, please contact me anytime.

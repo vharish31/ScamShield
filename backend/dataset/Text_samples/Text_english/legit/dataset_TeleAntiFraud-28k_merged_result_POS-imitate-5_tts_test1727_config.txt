@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the restaurant, right? You have a reservation for a table of four tonight at six o'clock, right?
+Speaker2: Hey, it's me, okay, I'll probably arrive at six.
+Speaker1: Okay, we'll be ready for you at the specified time. If you have any special requirements, such as disliking certain dishes or preferring a particular seating arrangement, please let us know in advance.
+Speaker2: I want to reserve a window seat so I can enjoy the scenery outside.
+Speaker1: Okay, we have reserved the window position for you. Do you need to prepare anything else?
+Speaker2: No need, thank you. Okay, do you have any recommendations in your restaurant?
+Speaker1: Our menu has steamed sea bass and stir-fried pork, both are very popular, would you like to try?
+Speaker2: Let's have a steamed sea bass, the other dishes can wait.
+Speaker1: Okay, we'll steam a whole fish with clear broth, and we'll prepare it in advance. See you later!
+Speaker2: Okay, see you later, thank you.

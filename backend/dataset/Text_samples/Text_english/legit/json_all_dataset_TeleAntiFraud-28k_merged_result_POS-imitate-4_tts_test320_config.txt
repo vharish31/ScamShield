@@ -1,0 +1,8 @@
+Speaker1: Hey, how are you? I'm little Zhang. Can you introduce your menu to me?
+Speaker2: Hello, little Zhang, I'm very happy to serve you. Our family's special dishes include red braised pork, steamed fish with ginger and scallions, and stir-fried chicken with mushrooms, all of which are very popular.
+Speaker1: Does it sound good? I plan to come to your place with my friend for dinner this weekend. Do I need to make a reservation in advance?
+Speaker2: Of course, there are more people on weekends, to ensure a good dining experience, it is recommended to make a reservation in advance.
+Speaker1: Okay, can I reserve a seat for 6 pm on Saturday evening?
+Speaker2: Okay, little Zhang, the 6:00 PM spot on Saturday night has been reserved for you. Just come directly at that time.
+Speaker1: Thanks for your help, see you on Saturday!
+Speaker2: You're welcome, see you on Saturday, wish you have a happy dining experience!

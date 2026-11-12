@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Do you have any three-bedroom apartments for rent here?
+Speaker2: Okay, we have several options here. What specific configuration do you want?
+Speaker1: It's best to bring an air conditioner, but if there's a ground heat source, that's even better.
+Speaker2: Hmm, we have a three-bedroom, two-bathroom, four-air conditioning, and a heated house here. Is it suitable for you?
+Speaker1: How much is the rent?
+Speaker2: The monthly rent of this house is 2,300 yuan because the recent market conditions are not good, we can discuss the price appropriately.
+Speaker1: Can you make it a little cheaper?
+Speaker2: Sure, if you can sign a one-year contract, we can lower it to two thousand two.
+Speaker1: Okay, let's go to the site tomorrow.
+Speaker2: Sure, 9am to 10am is good for you?
+Speaker1: Sure, let's meet tomorrow.
+Speaker2: Okay, see you tomorrow, wish you happy life.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye.

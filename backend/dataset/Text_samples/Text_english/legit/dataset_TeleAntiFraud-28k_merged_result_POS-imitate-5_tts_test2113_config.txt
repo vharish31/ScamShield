@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, can you ask if there are any new phones here?
+Speaker2: What brand do you want?
+Speaker1: I want to see the latest apple.
+Speaker2: We have the latest iPhone model here, there's an activity going on now, come to the store and take a look, I can give you a detailed introduction.
+Speaker1: What's the price?
+Speaker2: The current price is six hundred and fifty yuan, which is a big discount from the original price.
+Speaker1: Six hundred and fifty, can it be any cheaper?
+Speaker2: This product is already on sale, but if you place an order now, we can include a original phone case and screen protector with your purchase.
+Speaker1: Hmm, that way, then I'll consider it.
+Speaker2: Okay, please consider giving me a call anytime, I'll keep it for you.

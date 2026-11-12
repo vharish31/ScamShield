@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service center of China Southern Airlines, I am Li Xiao, there may be a problem with your order, please cooperate to handle it.
+Speaker2: What problem?
+Speaker1: Your order was lost during delivery, to compensate you, we need your bank card number to quickly transfer the compensation to your account.
+Speaker2: Okay, how can I provide?
+Speaker1: You can click this link and follow the instructions to complete it.
+Speaker2: Link? How do I operate?
+Speaker1: Yes, the link will be sent to your phone via text message later, and you just need to enter your bank card number and verification code according to the page instructions.
+Speaker2: Okay, I'll wait for the text message.
+Speaker1: Okay, the text message will be sent shortly. Please pay attention to check it. If there are any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at your store door, but I can't find the entrance, can you help me?
+Speaker2: Hello, walk forward, you will see a glass door at the end, that's our entrance.
+Speaker1: Okay, I see the glass door, but the door is locked, how to enter?
+Speaker2: There's a button next to the door. Press it and the door will automatically open.
+Speaker1: Ah, I see, I pressed the button and the door opened, thank you.
+Speaker2: No problem, you come in and go straight inside, our front desk is right opposite the door.
+Speaker1: Okay, I see it, your environment here is really good.
+Speaker2: Thank you for the award, do you need any help?
+Speaker1: Can you tell me about the activities in your store recently, are there any promotions?
+Speaker2: We recently had a anniversary event, everything was 80% off, and there were some specific products buy one get one free, you can check it out.

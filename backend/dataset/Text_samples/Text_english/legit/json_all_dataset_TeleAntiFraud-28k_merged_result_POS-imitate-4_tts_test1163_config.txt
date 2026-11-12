@@ -1,0 +1,9 @@
+Speaker1: Hey, how can I get to your store from the small community door?
+Speaker2: Hello, after you exit the community gate, walk straight to the second red and green light, then turn left and continue walking straight until you reach the end, our store is on your left hand.
+Speaker1: Okay, turn left at the second red light and keep going straight until the end?
+Speaker2: Okay, that's the route, there's still a spot at the store, come over.
+Speaker1: How long will it take me to get there?
+Speaker2: If you walk, it will take about fifteen minutes, if you ride a bike, it should take around ten minutes to get there.
+Speaker1: Okay, I'll ride my bike over there, it should take about ten minutes.
+Speaker2: Okay, see you later, we'll meet at the store.
+Speaker1: Thank you, see you later.

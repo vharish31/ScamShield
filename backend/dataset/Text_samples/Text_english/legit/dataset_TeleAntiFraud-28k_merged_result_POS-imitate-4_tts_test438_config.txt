@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I found a phone on your website that I like, can you give me more details?
+Speaker2: Hello, I'm very happy to serve you. What kind of phone information do you want to know?
+Speaker1: What is the price and special features of the new product recommended on your homepage?
+Speaker2: That phone is the latest flagship model, priced at 3999 yuan. It uses the latest processor, comes with a high-resolution large screen, and has a 48-megapixel camera.
+Speaker1: How's the battery life?
+Speaker2: The battery capacity is 4500mAh, which can last about 1.5 days under normal usage.
+Speaker1: Hey, I see you guys have a promotion activity, what's the specifics?
+Speaker2: Yes, we have a promotion now, buy this phone and enjoy full discount, also get earphones and phone case for free.
+Speaker1: How long will it take for my order to be delivered if I place it now?
+Speaker2: In general, we ship within 24 hours after ordering, and depending on your location, it's estimated to arrive in 2-5 days.
+Speaker1: Okay, I'll place the order now, thank you for your detailed introduction.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a nice shopping!

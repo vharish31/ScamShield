@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm little Zhang, recently I want to move, have you guys heard that you can provide moving service here?
+Speaker2: Yes, we provide moving services. What do you want to know?
+Speaker1: What are your pricing standards?
+Speaker2: We charge based on the distance and quantity of items being moved, with lower fees for small items and nearby locations. Please provide specific address and item list, and I can give you a rough estimate.
+Speaker1: Okay, I moved from the city district to the recreational district, mainly for furniture and some books, about three beds, a sofa set and some bookshelves.
+Speaker2: Okay, based on the information you provided, it's roughly between 600 to 800 yuan. The exact price will depend on the actual situation. We can schedule a time and come take a look.
+Speaker1: Can the appointment time be scheduled on Saturday morning?
+Speaker2: Saturday morning is okay, please leave contact info, our work staff will contact you to confirm details.
+Speaker1: Okay, my phone number is 138-138-1380, thank you.
+Speaker2: No problem, see you on Saturday.

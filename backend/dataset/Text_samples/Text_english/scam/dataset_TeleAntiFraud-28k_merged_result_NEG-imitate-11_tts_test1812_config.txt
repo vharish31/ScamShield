@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao, the customer manager of the channel department at Guangfa Bank.
+Speaker2: Hello, do you have anything?
+Speaker1: Have you recently had any capital needs for your company? We recently had a special promotion for enterprise users.
+Speaker2: Hmm, lately I've been feeling a bit tense, but I'm not entirely clear on the reliability of this activity.
+Speaker1: This activity is absolutely reliable, we have already had many enterprise users successfully apply. I can send you a link, inside it is detailed introduction of activity content and application process.
+Speaker2: Send me the link, I'll take a look.
+Speaker1: Okay, I'll send you a text message with a link in it, and you can click on it to see the details.
+Speaker2: Okay, I'll be right back.
+Speaker1: Okay, to ensure your information is safe, you need to input a verification code after clicking the link. I'll tell you the verification code via phone.
+Speaker2: Okay, I understand.

@@ -1,0 +1,17 @@
+Speaker2: Hello, who are you?
+Speaker1: Hello, I am the client manager of Huaxing Investment Company, Lee Huai. We recently launched a new financial product with a very high return. Would you like to know more about it?
+Speaker2: Hey, what's this financial product like?
+Speaker1: This product is specifically designed for customers in bulk, with low risk and high return, and the operation is very simple. You can first download our official app, register and then see the detailed product introduction.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, after downloading it, you will be able to see more detailed information, and professional investment consultants will answer all your questions.
+Speaker2: How do I download it?
+Speaker1: Very simple, I can send you a short message with a download link. Just click on the link and you can download it directly.
+Speaker2: Okay, send a text message.
+Speaker1: Okay, wait a minute, I'll send it now. After sending, please check it.
+Speaker2: Okay, I'll be right back.
+Speaker1: Have you received the text message yet?
+Speaker2: I got it, I'll download it now.
+Speaker1: Great, feel free to contact me anytime if you have any issues after downloading.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome. I hope your investment goes smoothly. If you need any other help, please feel free to consult. Goodbye.
+Speaker2: Goodbye.

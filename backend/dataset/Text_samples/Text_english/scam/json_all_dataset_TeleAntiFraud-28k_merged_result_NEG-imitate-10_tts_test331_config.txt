@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Zhong?
+Speaker2: Hey, hello, I am.
+Speaker1: Li Zhong, xiànghǎo, wǒ zhōng shì ālǐ bābā tōu jì rì chéng de xiǎo wáng, jiān zhèn gè fēi chéng yī gè fēi chéng jìng jìng, nǐ yǒu xīng huì le xiàng yī xiàng?
+Speaker2: Hey, want to invest in finance? I have some idle cash right now, can you give me some info?
+Speaker1: Great, this project is specifically for high-quality customers, with monthly revenue reaching 0.3%, and the risk is extremely low. All you need to do is download our official app to operate online, it's very convenient.
+Speaker2: Is the app safe to download?
+Speaker1: It's very safe, Li boss, our app is already online in all major app stores, you can download it with peace of mind. After downloading, I will give you a detailed introduction of the specific operation process.
+Speaker2: Okay, let me try.
+Speaker1: Okay, Li Zhōng, this is our customer service phone number. If you have any issues while downloading or using it, feel free to contact me anytime.
+Speaker2: Okay, thank you.

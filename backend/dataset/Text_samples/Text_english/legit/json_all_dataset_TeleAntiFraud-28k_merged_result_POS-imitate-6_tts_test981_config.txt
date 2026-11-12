@@ -1,0 +1,14 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I want to inquire about your yoga courses on this side.
+Speaker2: Hello, we have various yoga classes here, what type are you interested in?
+Speaker1: I want to find a course suitable for beginners that can relax the mind.
+Speaker2: Okay, we have a course called "Ning Sti Yoga" that's great for beginners, with slow movements and breathing exercises to help relax.
+Speaker1: How long does this course last, and when does it start?
+Speaker2: This course meets twice a week, on Wednesday and Friday evenings starting at 7:00 p.m. and lasting for one and a half hours.
+Speaker1: Can I try it out first?
+Speaker2: Of course, we can arrange a trial lesson for you, the trial lesson fee is 60 yuan.
+Speaker1: Sure, can I schedule a course for Friday next week?
+Speaker2: Sure, I'll book the course for you on Friday evening. Don't forget to sign in at the front desk ten minutes in advance.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival, wish you a happy experience. Bye!
+Speaker1: Goodbye!

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there? I'm waiting for you at the north exit of Beijing North Station. Did you arrive?
+Speaker2: Where are you specifically?
+Speaker1: Can you see the big clock in the taxi waiting area on this side?
+Speaker2: I see you, I'll be right there.
+Speaker1: Okay, there are many people here, pay attention to find me.
+Speaker2: Hey, I see you, I'll be right over.
+Speaker1: Okay, pay attention to safety.
+Speaker2: I know, see you later.
+Speaker1: Uh, did you bring an umbrella? It might rain today.
+Speaker2: Don't worry, I'll be back soon.

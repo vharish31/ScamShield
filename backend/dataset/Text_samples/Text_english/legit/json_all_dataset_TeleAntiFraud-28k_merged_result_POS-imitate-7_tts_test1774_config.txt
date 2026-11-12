@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at your store door, how come you can't find your entrance?
+Speaker2: Hello, are you at the north door of the mall?
+Speaker1: Yes, I'm at the north gate, can't see your sign.
+Speaker2: Oh, maybe it's because the store decorations are blocking the signs. You walk along the north side of the street towards the east, about fifty meters you can see our store.
+Speaker1: Okay, I'll try to see. Yes, I came today to book a haircut, do you have any place?
+Speaker2: Okay, there are still a few time slots available this afternoon for booking, what time works best for you to come over?
+Speaker1: I have some free time around three o'clock.
+Speaker2: Three o'clock is fine, I will help you make a reservation. Just come directly at that time.
+Speaker1: Okay, thank you. I arrived, contact me again.
+Speaker2: Okay, see you later.

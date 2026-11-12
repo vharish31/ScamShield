@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Tiancheng Bank. Do you have any recent requirements for capital rotation?
+Speaker2: Hey, I'm a bit short on cash lately, do you have any help you can offer?
+Speaker1: We have a great loan product here, no collateral required, fast approval, high credit limit, you may want to consider it.
+Speaker2: The sound is good, but I have a past overdue record, I don't know if it has any impact?
+Speaker1: If you have a past due record, we can help you handle it as long as you have a stable repayment ability now.
+Speaker2: What do I need to do?
+Speaker1: Just download our bank's official app, fill out some basic information, submit the application, and we'll have a specialist contact you.
+Speaker2: Okay, how do I download your app?
+Speaker1: You can search for Tiancheng Bank in the mobile app store, download and install it, then start applying.
+Speaker2: I understand, thank you for your help.

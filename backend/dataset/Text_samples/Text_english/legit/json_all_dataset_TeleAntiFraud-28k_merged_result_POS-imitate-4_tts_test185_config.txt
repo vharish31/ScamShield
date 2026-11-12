@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I'm new here, want to know more about this place environment
+Speaker1: Okay, what do you need help with? I'm also a long-time resident here.
+Speaker2: Thanks, where are some good restaurants nearby? I want to go out for dinner tonight.
+Speaker1: Hey, there's a little restaurant over here, the taste is great, and the environment is pretty good too, you can give it a try.
+Speaker2: Can you tell me in detail how to do it?
+Speaker1: Turn right when you leave, walk straight along the big road for about three minutes, and you'll see a red sign, which is where you are.
+Speaker2: Okay, thank you for your help. What are the business hours there?
+Speaker1: They usually open the door at 10 am and close it at 10 pm. You can go based on your own time.
+Speaker2: Great, it's perfect for me. By the way, do you know if there's a good coffee shop nearby?
+Speaker1: Yeah, just next to the restaurant, that coffee shop's desserts are also pretty good, you can try it.
+Speaker2: That's great, I'll check it out. Thank you so much for your help, you really helped a lot.

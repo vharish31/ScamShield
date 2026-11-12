@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Can you check if your store is open on Saturday this week?
+Speaker2: Yes, we are open on Saturdays from 10 am to 10 pm.
+Speaker1: Okay, can I go around two in the afternoon?
+Speaker2: Of course, it's best to call beforehand to confirm any changes in case of last-minute issues.
+Speaker1: Okay, I'll just go left and right at two o'clock. Your store is in the new emerging square, right?
+Speaker2: Yes, you will find it easily on the third floor of the New Emerging Square.
+Speaker1: Okay, I'll just go directly when the time comes. Is it convenient for you guys to park there?
+Speaker2: It's very convenient, the underground parking lot in the square is very large, you can directly park in it.
+Speaker1: Okay, I'll be ready to leave in a while.
+Speaker2: Okay, be careful on the road. See you later.
+Speaker1: Thank you, see you later.

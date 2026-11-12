@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? Can I make an appointment for hair services on your side?
+Speaker2: Hello, of course, we provide booking service here, what time do you want to book?
+Speaker1: Can I make a reservation for tomorrow afternoon at three o'clock?
+Speaker2: Can I have an appointment at three in the afternoon tomorrow? However, only one hairstylist is available during that time slot, are you okay with that?
+Speaker1: No problem, as long as the technology is good.
+Speaker2: Okay, I'll book an appointment for tomorrow afternoon at 3 pm. Remember to be on time.
+Speaker1: Okay, thank you. Alright, it's my first time here, how do I navigate your store?
+Speaker2: Our store is at the intersection of the front progress road and the light street, you turn left after getting off the subway station and walk straight for about 500 meters, there's a big sign for a hair salon on the side of the road, it's easy to find.
+Speaker1: Okay, I understand, thank you for your help.
+Speaker2: No problem, feel free to call me anytime if you have any questions, see you tomorrow.

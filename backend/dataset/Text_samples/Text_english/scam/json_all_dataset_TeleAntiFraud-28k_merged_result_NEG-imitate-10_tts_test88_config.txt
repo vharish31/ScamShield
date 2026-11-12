@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Wang Laoban?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative at the Bank of China in Shenzhen, Wang Laoban. Have you recently had any need for capital rotation? We have a low-interest loan product here that is very suitable for your type of enterprise.
+Speaker2: Hey, I'm actually in need lately, can you give me a specific introduction?
+Speaker1: Of course, this loan product is designed specifically for small and medium-sized enterprises, no collateral is required, approval is quick, and disbursement is also quick. You only need to provide some basic information, and we can quickly process it for you.
+Speaker2: What do I need to do to make it sound good?
+Speaker1: Just click this link, fill out some basic info, and our staff will contact you right away to guide you through the next steps.
+Speaker2: Okay, let me try.
+Speaker1: Great, the link is https://example.com/loan. Click on it and follow the instructions. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

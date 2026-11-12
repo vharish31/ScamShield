@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Do you have any new Huawei phones in your family?
+Speaker2: Hello, we have the latest Huawei phone here, which model do you want to know about?
+Speaker1: What is the name of the new one, Mate 50?
+Speaker2: Okay, it's Mate 50, this is a really good phone, what aspects do you want to know about it?
+Speaker1: What's the price and color, and do you have any in stock?
+Speaker2: The price of the Mate 50 is 3999 yuan, with three colors: black, silver, and golden light. Currently, black and silver are in stock, while gold needs to be ordered.
+Speaker1: Hey, can you take a picture of the black one for me?
+Speaker2: Okay, I'll take a picture for you, just a moment.
+Speaker1: Okay, thank you.
+Speaker2: No problem, the photos have been sent to your WeChat, are you satisfied?

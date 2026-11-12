@@ -1,0 +1,10 @@
+Speaker2: Hello, who are you looking for?
+Speaker1: Hey, are you my friend? Did you forget my voice?
+Speaker2: Hey, it's you, how have you been lately?
+Speaker1: Hello, what have you been up to lately?
+Speaker2: That's okay, it's just work is a bit busy.
+Speaker1: Hey, do you have time this weekend? Let's go hiking together.
+Speaker2: Sounds good, but I need to check my schedule first.
+Speaker1: Okay, let's set a time, I'll arrange it for you.
+Speaker2: Okay, let me check again. See you this weekend!
+Speaker1: See you this weekend, remember to return my message!

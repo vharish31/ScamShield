@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. Have you recently received a loan invitation text message from our bank?
+Speaker2: "Oh, I received it, but I'm not sure if it's real."
+Speaker1: Don't worry, we are a legitimate commercial bank, this loan activity is real, we can provide no collateral, low interest rate loan services, as long as you have stable income.
+Speaker2: What do I need to do?
+Speaker1: It's very simple. Just click on the link in the text message, fill out the relevant information, and once it's approved, you can quickly get your loan.
+Speaker2: Am I right to be afraid that the link is not safe and there will be risks?
+Speaker1: Absolutely safe, all links of our commercial bank are authenticated. If you're not confident, I can help you operate, just tell me your phone number.
+Speaker2: Okay, my phone number is 13812345678.
+Speaker1: Okay, I'll help you operate now. Please wait for a moment, you will receive a verification code SMS soon, tell me the verification code, and we can proceed to the next step.
+Speaker2: Okay, I'll be right back.

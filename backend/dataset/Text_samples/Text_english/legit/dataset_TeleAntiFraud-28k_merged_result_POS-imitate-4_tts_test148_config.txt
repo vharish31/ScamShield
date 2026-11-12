@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am a customer service representative from a courier company. You have a package that has arrived, would it be convenient for you to pick it up?
+Speaker2: Hello, I just came back from outside, I'm a bit busy now, can you help me check which is the fastest delivery company?
+Speaker1: Okay, this package is from Yuan Tong Kuai Di, if you're not convenient now, we can help you store it for a few days.
+Speaker2: Great, can I pick it up tomorrow morning if I have some time?
+Speaker1: Of course, there will be people here from nine in the morning to six in the afternoon tomorrow. You can come at any time.
+Speaker2: I'll probably arrive around 11, remember to leave it for me, okay?
+Speaker1: Okay, no problem, see you tomorrow at eleven o'clock.
+Speaker2: Okay, thank you, bye.
+Speaker1: No problem, goodbye.

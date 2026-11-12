@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you have time tonight?
+Speaker2: What's up?
+Speaker1: Let's go to the new restaurant and try it out, I heard it's pretty good.
+Speaker2: Great, I heard that too, let's go together.
+Speaker1: Do we need to make a reservation at that restaurant?
+Speaker2: I should make a reservation and try it out.
+Speaker1: Okay, let's schedule a meeting.
+Speaker2: No problem, I'll go make the appointment now, I'll get back to you later.

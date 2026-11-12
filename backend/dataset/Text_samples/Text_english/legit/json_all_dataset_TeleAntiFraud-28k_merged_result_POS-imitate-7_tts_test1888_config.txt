@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at King's Restaurant?
+Speaker2: Hello, what are your special dishes?
+Speaker1: Are you interested in our menu here which has spicy Sichuan hot pot, steamed fish with clear broth and duck soup?
+Speaker2: Sounds good, I'll book a private room for six people, can we have it at six in the evening?
+Speaker1: Okay, six o'clock exactly, I will reserve it for you. Do you need to prepare anything in advance? For example, do you have any guests who dislike certain foods?
+Speaker2: There are two friends who don't eat spicy, the others have no special requirements.
+Speaker1: Okay, I'll prepare some non-spicy dishes for you. What's your name?
+Speaker2: I am Li Huai.
+Speaker1: Okay, Mr. Li, I have already reserved for you. Just sign up with your name when the time comes.
+Speaker2: Okay, thank you. I'll see you later.
+Speaker1: Okay, see you later, wish you enjoy your dinner.

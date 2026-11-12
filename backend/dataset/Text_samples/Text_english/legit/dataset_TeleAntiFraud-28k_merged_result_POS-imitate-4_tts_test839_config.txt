@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm a customer service representative. Have you received the products you bought on our platform recently?
+Speaker2: Hey, how are you? I haven't received it yet, can you check the shipping information?
+Speaker1: Okay, I'll help you look it up. Please wait for a moment.
+Speaker2: Okay, thank you.
+Speaker1: Your package has been found. Your package arrived at the logistics center in your city yesterday and is expected to be delivered to you today or tomorrow.
+Speaker2: That's great, thank you for your help.
+Speaker1: No problem, feel free to contact us if you have any other questions.
+Speaker2: Okay, I understand, thank you.
+Speaker1: Hey, our platform currently has an activity where you can exchange points for some practical products, are you interested in learning more?
+Speaker2: Exchange points, sounds good, can you give me a simple introduction?

@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Sure, hello.
+Speaker1: This is the customer service of Huaxing Finance, you have a new loan application that has been approved, please confirm.
+Speaker2: Oh, I haven't applied for a loan yet.
+Speaker1: It's possible that your relative or friend helped you apply for this low-interest, no collateral loan, which is very suitable for you.
+Speaker2: Can you give me a more specific explanation?
+Speaker1: Of course, our current loan interest rate is very favorable. Just click this link to download our app, register, and you'll see detailed loan information.
+Speaker2: Do you want to download the app? I'm not very trusting of this method.
+Speaker1: You can rest assured that our platform is very safe, and there are already millions of users who have used it. If you have any issues after downloading, you can contact our customer service.
+Speaker2: I'll wait a bit before downloading, thank you.
+Speaker1: Okay, if your mind changes, feel free to contact us anytime. Wish you a happy life.

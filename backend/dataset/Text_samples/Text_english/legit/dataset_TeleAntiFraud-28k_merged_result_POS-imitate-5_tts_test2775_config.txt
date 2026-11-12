@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if there is a private room here suitable for a family dinner?
+Speaker2: Yes, we have several rooms of different sizes that can meet the needs of family gatherings.
+Speaker1: How many people can sit in the smallest room?
+Speaker2: The smallest private room can accommodate six to eight people. If the number of people is large, we also have larger private rooms.
+Speaker1: Okay, can I book this Saturday evening at six o'clock?
+Speaker2: Is it okay? Is there still space at this time? How long do you need to book?
+Speaker1: Can you book for about three hours left or right?
+Speaker2: Of course, I will reserve this room for you. Do you need me to help you order the menu?
+Speaker1: No need now, I'll order later, thank you.
+Speaker2: Okay, no issues, see you Saturday night at six.

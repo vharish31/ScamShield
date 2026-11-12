@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, who are you?
+Speaker1: I am the customer manager from Huaxia Loan Center, Li Huai. We noticed that you may have recently had a need for cash flow, so we specifically called you.
+Speaker2: Oh, is that so? I really have some financial needs, can you help me solve them?
+Speaker1: Of course, we have a very affordable loan plan here, just need some basic info, and it can be quickly approved.
+Speaker2: What information do I need to provide?
+Speaker1: You just need to provide your ID photo, bank flow record, and a verification code. We can complete these steps through a simple app.
+Speaker2: Is the app safe?
+Speaker1: Extremely safe, this app is specifically designed for our loan customers. It's very convenient and quick to use. Just download, register, and follow the instructions.
+Speaker2: Okay, let me try. Can you tell me the download link?
+Speaker1: Okay, just a moment, I'll send you a text message with the download link. Once you receive it, just click on download. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

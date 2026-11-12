@@ -1,0 +1,15 @@
+Speaker1: Hey, are you Zhang Laoban?
+Speaker2: Yes, who are you?
+Speaker1: I am the customer manager of the South China Bank, Li.
+Speaker2: Hey, what's up?
+Speaker1: That's right, we noticed that you have a loan that's about to expire here, and we wanted to know if you have any need for a renewal.
+Speaker2: Renewal? I'm a bit tight-handed right now, not very convenient.
+Speaker1: Understand understand, but anyway, we have a special promotion on this side that can help you solve your cash flow problem.
+Speaker2: What discount activity?
+Speaker1: We have a fast loan app, just need to fill out simple info, immediately approve, and interest rate is very low.
+Speaker2: Really? Then how do I apply?
+Speaker1: It's very simple. I send you a link, you click the link to download our app, register and then you can apply.
+Speaker2: Okay, give me the link.
+Speaker1: Okay, wait a minute, I'll send you a text message with a link to download the app. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you all the best.

@@ -1,0 +1,10 @@
+Speaker1: Hello, I want to consult your delivery service.
+Speaker2: Hello, I'm very happy to serve you. What information are you interested in?
+Speaker1: How long is your delivery time?
+Speaker2: Our delivery time is usually between 30 minutes and an hour after ordering, depending on your address and the current order volume.
+Speaker1: If my address is quite far away?
+Speaker2: Deliveries to remote areas may be slightly delayed, but we will do our best to deliver as soon as possible. You can place your order first, and our delivery staff will contact you to confirm the specific delivery time.
+Speaker1: Is it possible to modify the order after placing it?
+Speaker2: After placing an order, if you need to make any changes, please contact our customer service as soon as possible, and we will do our best to assist you.
+Speaker1: I understand, thank you for your detailed answer.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a happy life!

@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I've been looking for a place to eat lately, I saw your restaurant reviews are good, can I ask if you have a private room?
+Speaker2: Hello, Xiaoming, we really have a private room here, don't know what time you'll come.
+Speaker1: I plan to spend this weekend with about six people. Do you know if the private room is still available?
+Speaker2: What specific day do you plan to occupy the remaining rooms in the weekend suite?
+Speaker1: It's best on Saturday, but if Saturday doesn't work, Sunday is also okay.
+Speaker2: Do you need to make a reservation in advance for the weekend room?
+Speaker1: Do you need to reserve, what time would be more convenient for us to come over?
+Speaker2: Is it noon or six in the evening?
+Speaker1: Let's come at six o'clock tonight.
+Speaker2: Okay, I'll reserve a private room for you on Saturday evening at 6 pm for six people. Is there anything else you need to prepare in advance?
+Speaker1: Thanks for your help. See you on Saturday.
+Speaker2: No problem, see you on Saturday, wish you a happy day.

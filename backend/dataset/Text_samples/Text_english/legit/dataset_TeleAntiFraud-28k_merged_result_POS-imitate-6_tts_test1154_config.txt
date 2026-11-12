@@ -1,0 +1,10 @@
+Speaker1: Hey, did you arrive?
+Speaker2: I'm here now.
+Speaker1: Okay, I'll come down right away.
+Speaker2: Come on, hurry down, I'm waiting here.
+Speaker1: I see you, wait two minutes.
+Speaker2: Okay, hurry up, I'm a bit urgent.
+Speaker1: Okay, I'll go now.
+Speaker2: Be careful.
+Speaker1: Okay, thank you.
+Speaker2: No problem, wait for you to come down.

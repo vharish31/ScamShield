@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Huaxia Bank. I see that you have recently had a need for a loan, and we can provide you with some low-interest loan options. Would you be interested in learning more?
+Speaker2: "Oh, I don't need a loan right now, thank you."
+Speaker1: No worries, understanding a little won't hurt. Our activity this time has a special discount, only 1.5 yuan, and the process is very simple, just download our app and fill out some basic information to complete the application.
+Speaker2: Do you want to download the app? It sounds pretty convenient.
+Speaker1: Yes, it's very convenient. If you agree, I can send you a download link. Just click the link and follow the instructions to complete the download.
+Speaker2: Okay, can you send me a link?
+Speaker1: Okay, I will send it to you right away. Additionally, please provide your phone number so I can send you a link for your information security.
+Speaker2: My phone number is 15812345678.
+Speaker1: Okay, 15812345678, I will send you the link soon. After you receive the SMS, please download the app and complete the application process as soon as possible.
+Speaker2: Okay, thank you.

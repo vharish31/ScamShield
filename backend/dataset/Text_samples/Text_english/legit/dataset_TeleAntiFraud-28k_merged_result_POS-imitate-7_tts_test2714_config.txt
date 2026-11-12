@@ -1,0 +1,10 @@
+Speaker1: Hello, did I disturb you? I'm Li Xiaoling, I've been thinking about buying a car lately.
+Speaker2: Hello, little Li, what can I help you with?
+Speaker1: Can you tell me if there are any promotions on your new SUV at the moment?
+Speaker2: Yes, recently you can enjoy a 20,000 yuan discount when buying a new SUV, and you will also receive three years of free maintenance service.
+Speaker1: What is the starting price of this car?
+Speaker2: The starting price is 23,800, after discount it becomes 21,800.
+Speaker1: Can you lower the price a little bit more? It's still a bit over my budget.
+Speaker2: This price is already the lowest discounted price, but if you place an order now, you can also receive a free full car maintenance.
+Speaker1: Okay, I'll think about it again.
+Speaker2: Okay, please let me know when you've made up your mind, I hope we can work together soon.

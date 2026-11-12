@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little king, I want to consult your fitness courses.
+Speaker2: Hello, I am the customer service representative of the fitness center. I am very happy to serve you. What courses are you interested in?
+Speaker1: Can you tell me more about your yoga courses, specifically what's included in the content?
+Speaker2: We have a variety of yoga classes here, including basic, flow, and hot yoga, each with different difficulty levels, suitable for different needs of friends.
+Speaker1: What are the specific times and fees for these courses?
+Speaker2: The Yoga class is held every Wednesday, Friday, and Sunday from 7 to 8:30 p.m., and costs 300 yuan per month for ten sessions.
+Speaker1: Can I try listening to it once?
+Speaker2: Of course, the trial listening course is free, you can choose any yoga course to experience.
+Speaker1: Sure, can I make a reservation for this weekend to try it out?
+Speaker2: Sure, there's a course this weekend, I'll help you book the yoga class on Saturday night.
+Speaker1: Thanks for your help, see you this weekend.
+Speaker2: No problem, looking forward to your arrival, see you this weekend.

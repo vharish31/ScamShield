@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new computer, can you help me take a look?
+Speaker2: Hello, Xiaoming, of course, what kind of computer do you want to buy? What is it mainly used for?
+Speaker1: The main purpose is to study and occasionally play games, with a budget of around 5,000 yuan.
+Speaker2: Okay, there are many options within this budget, do you want to know about the brands and configurations?
+Speaker1: Yes, I'm not very familiar with computers, can you recommend a few?
+Speaker2: Of course, there's a new series of laptops from Lenovo that have good performance, are suitable for studying and gaming, and are within your budget. Additionally, there's a high-value VivoBook from ASUS.
+Speaker1: What are the differences between these two? How should I choose?
+Speaker2: The screen colors of the LinkThink Xiao Xin series are more vibrant, which is suitable for graphic processing. The keyboard feel of the Huami VivoBook is better, and long-term typing is more comfortable. You can choose based on your needs.
+Speaker1: What game do you think is more suitable for me?
+Speaker2: If you often need to handle graphics or videos, Linksys Xiaoxin series will be more suitable for you. If you value typing comfort and long-term use, Acer VivoBook is a good choice.

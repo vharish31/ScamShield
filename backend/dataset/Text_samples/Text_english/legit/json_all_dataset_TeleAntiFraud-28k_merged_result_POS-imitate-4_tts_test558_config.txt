@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer service of the community management, want to confirm with you, have you encountered any problems at home recently that need our help?
+Speaker2: Hey, I'm good here, just the trash bin downstairs is a bit full lately, sometimes there's a weird smell.
+Speaker1: Oh, we will quickly handle this issue, ensure that there is a clean person cleaning the trash cans every day, and maintain environmental hygiene.
+Speaker2: Okay, just check the elevator sometimes it freezes.
+Speaker1: Okay, safety of the elevator is our top priority, we will arrange professional personnel to conduct inspection and maintenance. Do you have any other issues to bring up?
+Speaker2: I don't have it now, if you have it, I will contact you again.
+Speaker1: Okay, you can contact property anytime if you have any questions, we will do our best to help you solve them.
+Speaker2: Thank you, the property service is getting better and better.
+Speaker1: This is what we should do, I hope every resident has a comfortable living environment.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye, wish you happy life.

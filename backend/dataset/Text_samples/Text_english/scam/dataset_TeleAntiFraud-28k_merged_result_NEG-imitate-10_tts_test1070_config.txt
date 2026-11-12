@@ -1,0 +1,13 @@
+Speaker1: Hello, are you Wang Xianguang?
+Speaker2: Yes, hello, who are you?
+Speaker1: Hi, I'm Zhang from the Commercial Bank, we have a new low-interest loan product recently, do you have any interest?
+Speaker2: Oh, I'm currently rich in funds, so I don't need a loan at the moment.
+Speaker1: That's great, but if you need anything in the future, feel free to contact me anytime. By the way, we have a special investment project with a very high return, are you interested in learning more about it?
+Speaker2: Can you give a detailed explanation of the financial project?
+Speaker1: Of course. Our financial product has an annual return rate of over 10%, and the risk is very low. You can try investing a small amount first to experience our service.
+Speaker2: This high return? How can I participate?
+Speaker1: Great! Just download our official app, register and link your bank card, and you can start investing. Here's a special link for new users, click it to enjoy a discount.
+Speaker2: Okay, how do I download this app?
+Speaker1: Click this link to automatically redirect to the download page. After downloading, remember to use my recommendation code to register, so you can enjoy more discounts.
+Speaker2: Okay, I'll try. Thank you, Xiao Zhang.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes on your investment!

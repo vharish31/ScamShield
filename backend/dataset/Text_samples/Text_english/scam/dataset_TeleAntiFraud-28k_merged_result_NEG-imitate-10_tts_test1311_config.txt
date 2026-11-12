@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager from China Bank, and we have a special promotion for a credit loan with interest rates as low as 0.02%. Would you be interested in learning more about it?
+Speaker2: Hey, loan, I'm okay right now, but can you tell me more about this loan first?
+Speaker1: This loan product has low interest rates and quick approval, no collateral required, and is perfect for friends in need of urgent cash. If you're interested, I can send you a link with detailed information on the loan process and conditions.
+Speaker2: Can you send me a link? Okay, you send it, I'll take a look.
+Speaker1: Okay, I'll send it to you now. Please make sure your phone's network is stable, the link I send may come through text message to your phone.
+Speaker2: Okay, I'm waiting.
+Speaker1: The sending was successful. Could you check it? By the way, have you encountered any situations of slow capital turnover recently?
+Speaker2: I'm a bit anxious lately, I haven't paid this month's rent yet.
+Speaker1: This loan is perfect for you. Just click the link, follow the instructions, and you can apply quickly. If you have any questions, feel free to add my WeChat and consult anytime.
+Speaker2: Add me on WeChat? Okay, you send it to me.

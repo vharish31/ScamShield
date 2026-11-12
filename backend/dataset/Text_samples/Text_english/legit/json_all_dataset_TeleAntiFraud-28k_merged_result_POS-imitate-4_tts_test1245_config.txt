@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Xinghua Hair Salon.
+Speaker2: Hello, do you have any available seats now?
+Speaker1: What time is it most convenient for you to come over?
+Speaker2: Can we meet around four in the afternoon?
+Speaker1: 4 o'clock is okay, but it might take about ten minutes or so, because the previous customer had a haircut and makeup appointment.
+Speaker2: No problem, I'll arrive around 4:15 PM.
+Speaker1: Okay, no problem, just come directly when the time comes.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, we're looking forward to serving you.
+Speaker2: Bye.

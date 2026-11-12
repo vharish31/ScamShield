@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I saw smartwatches on your website, I want to know more about them.
+Speaker2: Okay, our smartwatch supports multiple exercise modes and can monitor heart rate and sleep quality.
+Speaker1: How much does this watch cost?
+Speaker2: This watch is currently priced at 999 yuan, but there's a discount promotion now.
+Speaker1: What is the content of the discount activity?
+Speaker2: You can enjoy a 100 yuan discount when placing an order now, and also receive a free sports wristband.
+Speaker1: Listen good, then how order?
+Speaker2: You can place an order directly on our official website or download our app for more convenient operation.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, happy shopping!

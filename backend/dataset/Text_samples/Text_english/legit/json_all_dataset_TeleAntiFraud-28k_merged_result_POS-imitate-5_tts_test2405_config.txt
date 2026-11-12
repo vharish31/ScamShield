@@ -1,0 +1,16 @@
+Speaker1: Hey, are there any houses for rent at your family's apartment in Five Eight City?
+Speaker2: Yes, there is a single room for rent.
+Speaker1: Can I come over to look at the house now?
+Speaker2: Okay, where are you now?
+Speaker1: I am in Qingxin Erquan, not far from you.
+Speaker2: You can directly come, the address is Qingxin erquan de chunhuaxiang shi shi.
+Speaker1: Okay, can I come in about half an hour?
+Speaker2: Okay, I'll wait for you.
+Speaker1: How is the rent calculated, and how much is it per month?
+Speaker2: Every 700, including water and electricity, but not internet.
+Speaker1: How much is the internet fee?
+Speaker2: The internet fee is 50 yuan per month, if you live there, this 50 yuan is your responsibility.
+Speaker1: Is there any furniture?
+Speaker2: Yes, there are a bed, wardrobe, and desk. You can directly move in after coming.
+Speaker1: That's great, thank you, I'll leave now.
+Speaker2: Okay, be careful on the road, call me when you arrive.

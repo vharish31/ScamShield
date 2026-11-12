@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I saw on your website that you have rental housing information, and I want to know more details.
+Speaker2: Okay, which suite are you asking about?
+Speaker1: That apartment with the kitchen and parking lot marked.
+Speaker2: That house exists, but the parking spot is a bit tight lately.
+Speaker1: Is the kitchen inside the room?
+Speaker2: No, the kitchen is outside, but it can be shared.
+Speaker1: So, how much is the rent?
+Speaker2: Rent is one thousand five hundred yuan per month, including water, electricity, and heating.
+Speaker1: When can I come see the house?
+Speaker2: Can you come over tomorrow afternoon around 3 PM?
+Speaker1: Okay, what's the address for tomorrow at three in the afternoon?
+Speaker2: The address is 34 Guangming Road, the house is on the third floor.
+Speaker1: Okay, I will arrive on time tomorrow, thank you.
+Speaker2: No problem, see you tomorrow.

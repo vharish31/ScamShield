@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Xiao Zhang from the Shenzhen Bank customer service department, calling to confirm your loan application.
+Speaker2: Loan? I don't have a loan need.
+Speaker1: Hey, I noticed you've been looking at loan products on our platform recently, so I just want to confirm your needs. If you're interested, I can give you a detailed introduction.
+Speaker2: Okay, tell me.
+Speaker1: Okay, we have a product on this side that is a quick loan with no collateral or guarantee, with a loan amount of up to 20,000 yuan and a very low interest rate. All you need to do is provide your ID and bank card information to apply immediately.
+Speaker2: How do I apply for it?
+Speaker1: It's very simple. Just click on the link I sent you, fill out the relevant information, and submit it. Our work team will quickly review it.
+Speaker2: Okay, I'll try. You give me the link, please.
+Speaker1: Okay, I will send it to you right away. Additionally, for security purposes, you will also need to provide a verification code, which I will send to you via text message.
+Speaker2: Okay, I'll wait for the text message.

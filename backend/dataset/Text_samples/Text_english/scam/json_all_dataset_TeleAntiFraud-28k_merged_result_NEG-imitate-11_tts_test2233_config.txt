@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Manager, of Guangfa Bank.
+Speaker2: Hello, Li Manager, how did you know my contact information?
+Speaker1: This is our internal information, don't worry. I'm calling today to see if you have any recent need for cash flow?
+Speaker2: Cash flow? I'm a bit tight lately.
+Speaker1: That's great, we have a no-down-payment loan product with a low interest rate and quick disbursement.
+Speaker2: Really? Then what do I need to do?
+Speaker1: You just need to download our bank's official app, register an account, and then submit a loan application.
+Speaker2: Do you want to download the app? I'm worried about the safety issues.
+Speaker1: You can rest assured that our app is officially certified and very safe. I will immediately send you the download link.
+Speaker2: Okay, let me try.

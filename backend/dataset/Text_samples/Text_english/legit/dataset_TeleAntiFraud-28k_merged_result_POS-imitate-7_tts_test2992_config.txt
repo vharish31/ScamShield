@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang. I saw some new smartwatches in your store. Can you tell me more about them?
+Speaker2: Hello, little Zhang, I am store clerk Li, our new product is a smartwatch, do you have any specific questions?
+Speaker1: What are the features and price of this watch?
+Speaker2: This smartwatch can track steps, monitor heart rate, receive calls and messages, and also supports payment functionality. It costs 2500 yuan.
+Speaker1: How long does the battery last on it?
+Speaker2: This watch's battery life is approximately one week, and it doesn't need to be charged every day when used normally.
+Speaker1: Can I try on the shoes now?
+Speaker2: Of course, we have fresh stock, you can come directly to try on.
+Speaker1: Okay, I'll be there in about twenty minutes.
+Speaker2: Okay, let's meet at the store. If you need navigation, just tell me your location, I'll send you a route map.

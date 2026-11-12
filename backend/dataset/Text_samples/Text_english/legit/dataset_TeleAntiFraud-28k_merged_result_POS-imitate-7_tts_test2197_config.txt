@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any new models of tablet computers here?
+Speaker2: Yes, we just got a batch of new tablet computers. Which brand or model do you want to know about?
+Speaker1: I just want to buy a high-value-for-money one that I can play games and watch videos on.
+Speaker2: You may consider our XX brand tablet, the configuration is good and the price is reasonable.
+Speaker1: What is the price of this tablet?
+Speaker2: This tablet is priced at 2800 yuan, and now you can enjoy a free one-year warranty service when purchasing.
+Speaker1: "Hey, do you have after-sales service? So if I buy it and have any issues later, can I just come to the store and find you guys?"
+Speaker2: Of course, we have specialized salespeople in our store who can help you solve any problems.
+Speaker1: Okay, thank you for your detailed introduction. I'll think it over before making a decision.
+Speaker2: You're welcome, please consider coming to the store anytime for consultation, wish you have a happy day!

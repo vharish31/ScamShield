@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am the property manager of your community, your electricity and water bill is overdue by a week, please pay it as soon as possible.
+Speaker2: Oh, that's right, I recently went on business trip and forgot to pay the fees.
+Speaker1: No problem, you can pay the rent at our property management office during convenient hours, or you can pay online through our WeChat public account.
+Speaker2: Okay, I'll handle it tonight.
+Speaker1: Okay, if you have other places that need help, feel free to contact us anytime.
+Speaker2: Thanks, you guys.
+Speaker1: No problem, wish you all the best.
+Speaker2: Okay, bye.
+Speaker1: Bye, remember to pay the fees.

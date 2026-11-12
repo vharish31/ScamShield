@@ -1,0 +1,10 @@
+Speaker1: Hey, are the delivery services at your store still normal?
+Speaker2: Hello, Li Ming, I am the customer service representative of the delivery platform, our delivery service is normal, do you need any consultation?
+Speaker1: Can you introduce me to the new menu items that I saw at your store?
+Speaker2: Of course, we have newly launched several signature dishes, such as Sichuan spicy hot pot, Guangdong roast duck rice, and fresh seafood porridge, all of which are very popular.
+Speaker1: Everything sounds good, I recently want to eat something light, how about seafood rice?
+Speaker2: Our seafood rice is one of our store's specialties, the rice base is delicate, the seafood is fresh, and it's very suitable for your clean taste.
+Speaker1: Okay, let me try to see, when do you start delivery?
+Speaker2: We start delivering from 11 am and continue until 9 pm. You can place an order at any time.
+Speaker1: When do you think you can deliver it at twelve o'clock in the afternoon?
+Speaker2: If you place an order at twelve o'clock, you can expect delivery within about forty minutes, and we will arrange for it as soon as possible.

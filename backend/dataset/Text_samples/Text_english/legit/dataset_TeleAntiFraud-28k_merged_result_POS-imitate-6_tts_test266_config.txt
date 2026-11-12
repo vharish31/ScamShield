@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear anything?
+Speaker1: I am the customer service of the e-commerce platform. Your shopping points on your account will be cleared at midnight tonight, and you haven't redeemed them yet.
+Speaker2: Oh, really? How did I miss that?
+Speaker1: Yes, your account has accumulated 26,800 points, which can be redeemed for over 3,900 yuan worth of products.
+Speaker2: How do I check these points?
+Speaker1: I sent you a message with a link to exchangeable products.
+Speaker2: Okay, I'll take a look right away.
+Speaker1: If you don't exchange these points before midnight tonight, they will expire and be invalid.
+Speaker2: I'll quickly check what suitable products are available. Thank you for reminding me!

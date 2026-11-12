@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of Guangfa Bank, do you have any recent financial needs?
+Speaker2: No no, I'm doing pretty good lately.
+Speaker1: Okay, I have a special discount loan project with very low interest rate and fast approval. Are you interested in learning more about it?
+Speaker2: Really? Then how do I apply?
+Speaker1: You just need to download our bank's official app, fill out some basic information, and you can complete the application.
+Speaker2: What is the name of this app? How do I download it?
+Speaker1: You can download the "Broadcast Finance" app on your phone's app store. After downloading, enter the invitation code "123456" to enjoy more discounts.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, if you have any questions, feel free to contact me anytime. My phone number is 13800138000.
+Speaker2: Okay, thank you for your help.

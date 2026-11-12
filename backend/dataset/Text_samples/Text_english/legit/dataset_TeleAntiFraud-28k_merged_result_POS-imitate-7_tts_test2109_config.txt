@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the little Zhang at the fast food store, you just ordered a lunch at our store, right?
+Speaker2: Can you confirm what menu items are included in my order?
+Speaker1: You ordered our signature set menu which includes a beef and onion omelette, a sweet and sour pork ribs, and a glass of iced tea.
+Speaker2: When will my order arrive?
+Speaker1: We expect to arrive within half an hour, if it takes longer, we will contact you in advance.
+Speaker2: Okay, I'll be home around half an hour, call me when you arrive.
+Speaker1: Okay, we'll notify you when the time comes, do you need us to help carry anything else?
+Speaker2: No need, just these, thank you.
+Speaker1: You're welcome, hope you enjoy your meal, feel free to contact us if you have any questions.
+Speaker2: Okay, thank you, bye.

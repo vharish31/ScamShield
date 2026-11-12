@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Ming?
+Speaker2: Yes, who are you?
+Speaker1: I am the credit manager of the construction bank. I saw you applied for a loan here before. We now have a special promotion for loans, with a very low interest rate. Would you like to know more?
+Speaker2: Oh, really? How do I apply?
+Speaker1: You can first download our bank's official app, then fill out some basic information, I will review it in the system, and if it's approved, we can further communicate.
+Speaker2: Okay, how do I download the app?
+Speaker1: You can click this link to directly download our app. The link is: http://example.com/appdownload. After downloading, remember to register with your phone number.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Great, after downloading, if there are any issues, feel free to contact me anytime. My phone number is 13812345678.
+Speaker2: Okay, thank you for your help.

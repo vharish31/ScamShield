@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the commercial bank's customer service center. I am small Li. We noticed that you have recently had a need for capital rotation. We can provide a no-collateral, low-interest loan service. Are you interested?
+Speaker2: Hey, I'm actually in need of some cash, can you give me a detailed explanation?
+Speaker1: Of course, our loan product is very flexible, with a maximum loan amount of 30,000, and a fast approval speed, with approval and disbursement on the same day.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: Just download our official app, fill out some basic info, submit for review, and you're good to go. If you agree, I can send you the download link via WeChat, convenient?
+Speaker2: Okay, can you add me on WeChat, I'll check later.
+Speaker1: Great, my WeChat number is xiaoli12345, add me and I'll send you the link right away.
+Speaker2: Okay, I'll add you soon.
+Speaker1: Thank you for your trust. If you have any questions, please contact me anytime. Wish you all the best!
+Speaker2: Thank you, goodbye.

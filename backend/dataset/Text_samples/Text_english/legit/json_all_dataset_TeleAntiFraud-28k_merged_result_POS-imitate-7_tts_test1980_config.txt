@@ -1,0 +1,11 @@
+Speaker1: Hi, hello, I'm small Zhang from the community property management, want to confirm with you the water and electricity repair appointment time for your home.
+Speaker2: Hello, little Zhang, my home is at 3-1-1 building, let's meet tomorrow at 10 am, okay?
+Speaker1: Yes, tomorrow at 10 am, we will have a professional maintenance technician come to our home for service.
+Speaker2: Okay, I'll be at home tomorrow. Also, there's a leak in my house's water pipes, what tools do I need to fix it?
+Speaker1: Master will bring all the necessary tools, you don't need to prepare. If there are special circumstances, such as elderly people or children at home, please inform us in advance.
+Speaker2: At home, it's just me and my spouse, no special circumstances. Oh, by the way, if the teacher comes tomorrow, I won't be at home, can he wait for a while?
+Speaker1: Okay, the master will wait for you for half an hour. If you're not there by then, we'll call you.
+Speaker2: Okay, how much do you think the repair costs will be?
+Speaker1: The cost is based on the specific repair situation and is generally not more than three hundred yuan. We will give you a quote after the repair is completed, and confirm it before proceeding.
+Speaker2: Okay, I understand. Thank you for your help. See you tomorrow.
+Speaker1: No problem, you can contact me anytime if you have any questions, wish you a happy day, see you tomorrow.

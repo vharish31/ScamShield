@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I just arrived at your store door, but I can't find the entrance, can you help me guide me a bit?
+Speaker2: Hello, where are you on the road? Our store has two entrances, one on the main road and one in the small alley.
+Speaker1: I'm on the main road, but the doors here seem to be locked.
+Speaker2: Oh, that might be because the time hasn't come yet, our main entrance is at nine in the morning. You can walk down the small alley now, that door is open twenty-four hours.
+Speaker1: Okay, how do you enter the small alley?
+Speaker2: Walk along the main road to the first crossroad, then turn right and walk straight to the end, you'll see our side door.
+Speaker1: Okay, I'll go now, thank you for your help.
+Speaker2: No problem, if you have other questions, feel free to contact me anytime. Have a great day!
+Speaker1: Thank you, goodbye!
+Speaker2: Goodbye!

@@ -1,0 +1,11 @@
+Speaker1: Hello, is this Yang Zong?
+Speaker2: Hello, it's me.
+Speaker1: I am Zhang from the financial service center. We have a great loan project here that is perfect for your type of business.
+Speaker2: Uh, loan? I recently have a bit of cash flow issues.
+Speaker1: Great, our interest rate for this loan is very low, and the procedures are simple, just need to provide business license and ID copy.
+Speaker2: The sound is good, but I don't understand these procedures.
+Speaker1: No problem, you can first click on the link I sent you, which explains the application process in detail, and if you have any questions, feel free to contact me anytime.
+Speaker2: Okay, I'll take a look.
+Speaker1: Okay, here's the link. Just click it and follow the instructions.
+Speaker2: I received the link, I'll take a look right away.
+Speaker1: Okay, feel free to contact me anytime if you have any questions, I'll assist you fully.

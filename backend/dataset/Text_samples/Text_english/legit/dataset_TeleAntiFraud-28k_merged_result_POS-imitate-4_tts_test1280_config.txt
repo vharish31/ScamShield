@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have stir-fried vegetables at this store?
+Speaker2: Yes, our stir-fried vegetables here are very popular, including carrots, beans and corn, the taste is very good.
+Speaker1: What is the price?
+Speaker2: The price of stir-fried vegetables is 25 yuan.
+Speaker1: Can I order takeout?
+Speaker2: Sure, you can choose delivery service, we will prepare quickly.
+Speaker1: How long do you think it will take?
+Speaker2: If you order now, it will take approximately 30 minutes to be ready.
+Speaker1: Okay, I'll come over later to pick it up.
+Speaker2: Okay, you can just go to the front desk and say you want to pick up takeout when the time comes.

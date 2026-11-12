@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little Li. I saw you browsing our products on our website. Are you interested in learning more about them?
+Speaker2: Hello, little Li, I did see your products, but I'm not very sure now.
+Speaker1: No problem, can you introduce our specialties and advantages to me in detail? How about it?
+Speaker2: Okay, just tell me simply.
+Speaker1: This product's biggest feature is its high value-for-money, its quality is guaranteed, and many users have reported a great user experience.
+Speaker2: What about the price?
+Speaker1: We're also doing our best on the pricing side, and there's a promotion going on right now. If you're interested, I can give you more details.
+Speaker2: What are the specifics of the promotional activities?
+Speaker1: Hey, you can enjoy an eighty percent discount when buying now, and also get some small gifts, it's really cheap.
+Speaker2: Okay, I'll think about it, thanks for the introduction.
+Speaker1: No problem, if you have any questions or need further information, please feel free to contact me. I hope you like our products.

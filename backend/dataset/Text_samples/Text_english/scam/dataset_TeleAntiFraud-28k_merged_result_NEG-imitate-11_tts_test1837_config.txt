@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. We noticed that you have been using our credit card very actively recently, and we would like to invite you to a special event.
+Speaker2: Hello, what activity?
+Speaker1: We have a special promotion for our high-end customer, just click on the link I send you and complete the registration to get a 5,000 yuan credit limit increase.
+Speaker2: Oh, really? Then how do I operate it?
+Speaker1: It's very simple. Just click on the link and follow the instructions on the page. It only takes a few minutes.
+Speaker2: Okay, I'll try.
+Speaker1: Great, I'll send you the link right away. Don't forget to check the message. Also, to ensure your account is safe, please provide the verification code. I'll help you with the last step.
+Speaker2: I will pay attention to receiving verification codes, thank you.
+Speaker1: No problem, please inform me after receiving the verification code, I will assist you on this end.
+Speaker2: Okay, I'll call you back later.

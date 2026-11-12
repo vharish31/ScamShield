@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me your store's business hours?
+Speaker2: Our store opens at nine in the morning and closes at nine in the evening.
+Speaker1: Do you have delivery service?
+Speaker2: Yes, we provide delivery service, you can order through our app or third-party platform.
+Speaker1: Okay, can I order some takeout at around six tonight?
+Speaker2: Sure, you can place an order in advance on our app, we will prepare it on time.
+Speaker1: How do I place an order?
+Speaker2: You can search for your favorite dishes on our app, select the quantity, then click on order, complete the payment, and your order will be successful.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, wish you a happy day.

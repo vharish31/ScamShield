@@ -1,0 +1,11 @@
+Speaker1: Hello, you, this is the customer service center of China Construction Bank, I am Zhang Jing Manager.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we've noticed some unusual activity on your account recently. It might be due to the system upgrade. To ensure your account's safety, we need your assistance to verify some information.
+Speaker2: Uh, what do I need to do?
+Speaker1: Please provide your ID number and the last four digits of your bank card, so we can quickly verify.
+Speaker2: Yes, my ID number is 123456789012345678, and the last four digits of my bank card are 1234.
+Speaker1: Okay, thank you for your cooperation. By the way, we have a special promotion, if you download our new app, you can get a 100 yuan red packet.
+Speaker2: Can I get red envelopes by downloading the app? How do I download it?
+Speaker1: You can download our app by clicking this link: http://example.com/download. After downloading, register and bind your bank card, and the red envelopes will be automatically sent to your account.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Thank you very much for your support. If you have any problems while using it, please feel free to contact us at any time. Have a happy life!

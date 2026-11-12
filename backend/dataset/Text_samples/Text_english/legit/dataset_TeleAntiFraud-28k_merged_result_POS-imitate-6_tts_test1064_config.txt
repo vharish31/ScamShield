@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to reserve a seat for tomorrow at noon.
+Speaker2: Hello, do you want to reserve a seat at our restaurant?
+Speaker1: Yes, two people.
+Speaker2: Okay, can you tell me your name and contact number for two people?
+Speaker1: My name is Zhang Wei, phone number is 13600000000.
+Speaker2: Okay, Mr. Zhang, your reservation is for tomorrow at noon for two seats. Is there anything else we can help you with?
+Speaker1: Do you have any recommendations for dishes?
+Speaker2: Our signature dishes include steamed sea bass, stir-fried pork, and scallion oyster, all very popular.
+Speaker1: Okay, I want to try steaming sea bass.
+Speaker2: Okay, Mr. Zhang, we will prepare in advance for you. See you tomorrow!

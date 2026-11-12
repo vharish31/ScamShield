@@ -1,0 +1,16 @@
+Speaker1: Hey, are you little Zhang?
+Speaker2: Hey, yes, who are you?
+Speaker1: Hey, it's me, Li Xiaoyu, your old classmate. How have you been lately?
+Speaker2: Oh, little Li, long time no see, I'm doing well, you?
+Speaker1: I'm doing well, I recently changed jobs, it's pretty busy.
+Speaker2: Really, where did you switch jobs to?
+Speaker1: Working as a product manager in an internet company is still quite challenging.
+Speaker2: That sounds great, congratulations!
+Speaker1: Thanks, got it, do you have any free time lately? Want to hang out?
+Speaker2: Good, lately work has been pretty busy, but I think I'll have some free time this weekend.
+Speaker1: How was the new hot pot restaurant we went to last weekend? I heard it's pretty good.
+Speaker2: Sure, I also like hotpot, how about we meet up this weekend a few points?
+Speaker1: How about five in the afternoon? Is that convenient for you?
+Speaker2: Five o'clock is okay, then we'll meet on the weekend.
+Speaker1: Okay, see you this weekend, contact me then.
+Speaker2: Okay, bye.

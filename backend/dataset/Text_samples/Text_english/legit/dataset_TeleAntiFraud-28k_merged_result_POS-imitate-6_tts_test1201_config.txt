@@ -1,0 +1,8 @@
+Speaker1: Hello, are you on the fifth floor? I've been waiting at the door for a while.
+Speaker2: Oh, okay, I'm on the fifth floor, the elevator just broke down, let's go down together.
+Speaker1: Don't you sit down, I'll go up the stairs, what did you say about the elevator just now?
+Speaker2: The elevator was repainted this morning, they said it can be used in the afternoon.
+Speaker1: Okay, then I'll go, you wait for me a moment.
+Speaker2: Okay, please slow down, the stairs are a bit steep.
+Speaker1: Okay, I'll be there in a bit.
+Speaker2: See you later, be careful.

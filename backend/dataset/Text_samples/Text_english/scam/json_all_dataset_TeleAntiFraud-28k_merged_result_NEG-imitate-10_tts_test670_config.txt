@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Beijing Bank. Do you have any recent need for a loan?
+Speaker2: Can I apply for a loan? I'm a bit short on cash right now, but I'm not sure if I'll be able to get it.
+Speaker1: We have a great opportunity here, as long as your company is registered for a year, you can apply for a large amount of enterprise funding with low interest and fast approval.
+Speaker2: It sounds good, but how do I know it's true?
+Speaker1: We are a regular bank, you can verify at any bank branch at any time. However, for convenience, you can first download our official app, where you can directly apply.
+Speaker2: Download the app? I haven't heard of this service before.
+Speaker1: This is our recently launched product that makes it easy for customers to operate. You can directly register using your phone number.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues after downloading, feel free to contact me anytime. My phone number is 400-123-4567.
+Speaker2: Okay, I'll give it a try, thank you for your help.

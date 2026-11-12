@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the finance department. Recently we found some unusual transaction records on your bank card. We need you to cooperate with the investigation. Have you recently encountered any suspicious events?
+Speaker2: What's up? I haven't been using my bank card lately, what's going on?
+Speaker1: It's possible that someone has misused your information, to ensure your financial safety, we need you to provide your bank card number and verification code, we will help you handle this issue.
+Speaker2: So, how can I provide it to you?
+Speaker1: You can directly tell me or click on the link we sent you, fill in the relevant information, this way is more convenient.
+Speaker2: Okay, I'll take a look at the text message.
+Speaker1: Okay, the text message has arrived on your phone, please handle it quickly, if you have any questions you can contact me anytime.
+Speaker2: I received the message and the link looks pretty legitimate, so I just clicked to fill it out.
+Speaker1: Great, after you fill out the information, we will immediately start processing, ensuring your funds are safe.
+Speaker2: Thank you, now I will fill it out.

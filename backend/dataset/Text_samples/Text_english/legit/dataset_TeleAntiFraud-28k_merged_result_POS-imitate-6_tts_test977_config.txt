@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm waiting for you at the station, where are you?
+Speaker2: Have you seen me yet? I just got off the subway.
+Speaker1: Can you see yet, what color are you wearing?
+Speaker2: I'm wearing a blue jacket, look to the right, I raised my hand.
+Speaker1: I see, you go that way, I have a red backpack here, easy to see.
+Speaker2: Okay, I see it, I'll be right there.
+Speaker1: Let's go to the coffee shop on the other side, it's nice there.
+Speaker2: Great idea, I'm a bit thirsty too, let's go.
+Speaker1: What kind of coffee do you want from that coffee shop?
+Speaker2: I want to try their fried rice, it's said to be very good.

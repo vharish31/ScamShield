@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Lee Huai?
+Speaker2: Hello, are you me?
+Speaker1: I am a customer service representative from Taobao, I see that you have a quality issue with the products you bought before, we are ready to give you a refund.
+Speaker2: Oh, really? That's great. The previous thing really had issues.
+Speaker1: Yes, in order to process the refund, we need you to provide your bank card number and verification code.
+Speaker2: Okay, I'll send it now.
+Speaker1: Thank you very much, to speed up the refund process, we suggest you download our official app, where you can directly apply for a refund, the operation is more convenient.
+Speaker2: Do you want to download the app? How can I know it's the official one?
+Speaker1: We are a legitimate channel, you can download it through the link in the text message, absolutely safe.
+Speaker2: Okay, I'll give it a try. Thank you for your help.

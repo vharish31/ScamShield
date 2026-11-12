@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Zhang, I saw your mooncakes in the store, I want to ask a few questions.
+Speaker2: Hello, little Zhang, I am customer service Li, what can I help you with?
+Speaker1: I want to buy several boxes of mooncakes to send to my friend, do you have any flavors?
+Speaker2: What flavor of our lily, five-seed, bean curd, and ice cream do you prefer?
+Speaker1: Your ice cream buns sound good, what kind of filling do your ice cream buns have?
+Speaker2: Ice cream has three flavors: matcha red bean, dragon fruit, and lychee, all of which are very popular.
+Speaker1: Can I buy two boxes of red bean and green tea and one box of green fruit, and is it free shipping?
+Speaker2: Orders of three boxes or more are eligible for free shipping. You meet the criteria, so we can ship your order for free.
+Speaker1: Great, then I'll decide, how fast can you usually deliver?
+Speaker2: In general, we can reach within three to five days after shipping, but the specific time depends on the flow of goods.
+Speaker1: Okay, now I can relax, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Wishing you a happy life!

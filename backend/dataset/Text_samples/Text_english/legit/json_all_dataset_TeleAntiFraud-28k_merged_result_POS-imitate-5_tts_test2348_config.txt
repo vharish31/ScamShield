@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: What's up?
+Speaker1: Can you recommend anything good to eat near your house when I come over to play in a little while?
+Speaker2: Sure, there's a small restaurant with good taste, let's go try it out?
+Speaker1: What time do we meet?
+Speaker2: Let's meet at 2 pm, I'll leave early and call you when I arrive.
+Speaker1: Okay, remember to get up early, don't let me wait too long.
+Speaker2: Don't worry, I'll be on time. Bring a water bottle when you come, it's been hot lately.
+Speaker1: Okay, I'll remember, see you later.
+Speaker2: See you soon, be careful on the road.

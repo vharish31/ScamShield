@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Is it true that you provide moving services as advertised on the internet?
+Speaker2: Yes, we do provide moving services. Do you want to know more about the specifics?
+Speaker1: Yes, I recently need to move, can you tell me about your service content and price?
+Speaker2: We provide a comprehensive moving service, including packing, loading, unloading and disassembling furniture. The price is based on the number of items and the distance. You can tell me the approximate number of items and the moving distance, and I can give you a rough estimate.
+Speaker1: Okay, I have about three beds, two closets, some books and some small items, from Chunhua Xiaoqu to Qiushi Xiaoqu, about ten kilometers left or right.
+Speaker2: Based on the information you provided, our initial quote is eight hundred yuan, which includes all moving costs, such as disassembling furniture, there may be some additional fees if you need extra services.
+Speaker1: Is this price reasonable? Can you arrange to come on Saturday morning?
+Speaker2: Sure, we have a free slot on Saturday morning this week, can we schedule moving services? Please prepare the items to be moved in advance, we will arrive on time.

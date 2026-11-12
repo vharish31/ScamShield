@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the manager?
+Speaker2: Hello, I am Zhang Jīngmìng.
+Speaker1: John, I am the client manager of Zhong Xing, recently we launched a special discount loan product, high credit, low interest, fast approval, very suitable for small and medium-sized enterprises to use.
+Speaker2: Oh, really? I recently have a bit of cash need.
+Speaker1: Great, Zhang Manager. You just need to provide some basic information, and we can quickly approve. You can first download our official app, fill out the application form, which is more convenient and quick.
+Speaker2: Is the app safe to download?
+Speaker1: Of course, it's safe. Our app is officially certified, you can download it from the app store by searching '中行贷款'. After downloading, register with your phone number and then fill out the application information.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much, Zhang Jingni. If you have any questions, you can contact me anytime, my phone number is 1501368888. Wish your business prosperity, goodbye!
+Speaker2: Thank you, goodbye.

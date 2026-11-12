@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you Li Ming?
+Speaker2: Who are you?
+Speaker1: I'm Zhang Huang, we made plans to go to the movie together last week.
+Speaker2: Oh, I remember now. Where are you waiting for me at the movie theater?
+Speaker1: I'm waiting for you at the entrance of the Star Light Cinema, hurry up and come over.
+Speaker2: Okay, I'll leave now, should be there in about twenty minutes.
+Speaker1: Okay, I'll wait for you here, be careful on the road.
+Speaker2: Okay, see you later.

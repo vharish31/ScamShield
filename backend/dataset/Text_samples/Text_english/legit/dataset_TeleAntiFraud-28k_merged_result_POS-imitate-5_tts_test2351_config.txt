@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm a customer service representative from some e-commerce platform. You have a credit that's about to expire on your account, right?
+Speaker2: Hey, points? I'm not very clear, how many points are there?
+Speaker1: You have accumulated 26,880 points on your account, which can be exchanged for goods or services worth approximately 4,000 yuan.
+Speaker2: What should I do to exchange it this way?
+Speaker1: I have already sent you a text message for exchange, you can open the message, click on the link to enter our mall page, select your favorite product or service.
+Speaker2: Okay, I'll check right away. What happens if these points aren't used?
+Speaker1: Your points will be cleared at midnight if you don't use them before then, so it's best to handle them quickly.
+Speaker2: Got it, so I'll make time tonight to handle it. Thank you for reminding me.
+Speaker1: You're welcome! If you have any questions, please contact our customer service anytime. Have a happy shopping!
+Speaker2: Okay, thank you. Bye.

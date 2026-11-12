@@ -1,0 +1,12 @@
+Speaker1: Hi, I'm little Li, just booked a room on your website.
+Speaker2: Hello, Little Li, which room did you book?
+Speaker1: Can you confirm the reservation information for room 102?
+Speaker2: Okay, I'll check. Your reservation is room 102, check-in date is tomorrow, check-out date is the day after, one night, right?
+Speaker1: Yes, can I ask if there is free Wi-Fi in the room?
+Speaker2: Yes, all rooms in our hotel provide free Wi-Fi.
+Speaker1: That's great, and I'm probably going to arrive around seven in the evening. Can I check in then?
+Speaker2: Of course, you can handle the check-in procedures directly at the front desk.
+Speaker1: Okay, thank you. Do you have any restaurants near the hotel?
+Speaker2: Yes, there are several good restaurants around our hotel. I can recommend them to you after you check in.
+Speaker1: Thank you so much, I will arrive on time.
+Speaker2: No problem, if you need any other help, please contact us anytime. Have a nice trip!

@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little king, want to consult your hair service.
+Speaker2: Hello, I am the customer service of the hair salon, what can I help you with?
+Speaker1: Is it true that there are student discounts online?
+Speaker2: Yes, we do have a student discount. You can enjoy a 90% discount with a student ID.
+Speaker1: Can I come today? Around four in the afternoon.
+Speaker2: Okay, I have a free slot at 4 pm, you can come directly.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: It's recommended to book in advance to ensure a spot. You can book through phone or our WeChat public account.
+Speaker1: What is the phone number to make a reservation by phone?
+Speaker2: Our appointment phone number is 021-12345678, you can call anytime.
+Speaker1: Okay, thank you for your help. I'll be there in a while.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, looking forward to your arrival.

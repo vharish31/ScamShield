@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hello, I am the customer manager of Agricultural Bank, my name is Li Ming, recently we have launched a new financial product with high returns and low risks, are you interested in learning more?
+Speaker2: Okay, can you understand a little?
+Speaker1: That's great, this wealth management product is specially designed by our bank for high-quality customers, the investment threshold is low, the return is stable, you only need to invest one million yuan, and you can get a significant return every month.
+Speaker2: Listen well, how do you operate it?
+Speaker1: It's very simple. Just click on the link we sent you, download our app, register and complete the real name authentication, and you can buy this financial product.
+Speaker2: Okay, I'll give it a try.
+Speaker1: Okay, I'll send you the link right away. If you have any issues during the operation, please feel free to contact me. My phone number is 13801380138.
+Speaker2: Okay, thank you.

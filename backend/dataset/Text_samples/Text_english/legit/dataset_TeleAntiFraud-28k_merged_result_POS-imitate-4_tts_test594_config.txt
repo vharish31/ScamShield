@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw a phone on your website, want to know more details?
+Speaker2: Hello, I'm very happy to serve you. Which phone model are you interested in?
+Speaker1: That's the one you recommended on the homepage, black, with 256GB memory.
+Speaker2: Okay, this is our latest flagship phone, equipped with a high-performance processor and large memory, perfect for gaming and multi-tasking.
+Speaker1: What is the price?
+Speaker2: This phone costs 3800 yuan, there's a discount of 100 yuan now when you buy it.
+Speaker1: Hey, do you have any discounts? What's the estimated delivery time?
+Speaker2: We usually ship within 24 hours after your order and most regions can receive it within 2-3 days.
+Speaker1: Okay, I'll think it over and get back to you once I've made a decision.
+Speaker2: Okay, you can contact us anytime. If you have any questions, feel free to consult me. Looking forward to your return.

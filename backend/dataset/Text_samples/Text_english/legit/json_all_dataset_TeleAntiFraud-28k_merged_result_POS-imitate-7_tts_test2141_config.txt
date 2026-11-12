@@ -1,0 +1,11 @@
+Speaker1: Hello, I am the property manager of the community.
+Speaker2: Hey, hello, property manager.
+Speaker1: What do you need to consult on this side?
+Speaker2: Hey, I just want to know how to apply for a parking spot in our community.
+Speaker1: Hey, for car parking application, you can first come to the property management office and fill out an application form here.
+Speaker2: What documents do I need to apply for?
+Speaker1: Please bring copies of your identity card, vehicle registration certificate, house deed or rental contract.
+Speaker2: So, what's the time frame for getting results after filling out the application form?
+Speaker1: In general, we will review and complete the process within three work days, and then notify you via phone with the results.
+Speaker2: Okay, thank you, I'll go handle it when I have time.
+Speaker1: No problem, you can come anytime, contact me if there's anything.

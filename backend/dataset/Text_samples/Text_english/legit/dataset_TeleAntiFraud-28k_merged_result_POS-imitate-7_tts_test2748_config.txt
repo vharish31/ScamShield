@@ -1,0 +1,10 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, how are you?
+Speaker1: How have you been lately?
+Speaker2: Busy lately, the project deadline is coming up soon. Do you have any plans recently?
+Speaker1: I plan to have a picnic in the park on the weekend, the weather forecast says it will be clear.
+Speaker2: What are you bringing to eat?
+Speaker1: Do you want to join me for some sushi, fruit, and drinks?
+Speaker2: Really? That's great, I haven't gone out to relax in a long time.
+Speaker1: That's great, let's meet at the park entrance at 10 am on Saturday morning.
+Speaker2: Okay, see you on Saturday, let's enjoy the sun together.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how can I help you?
+Speaker1: Are you guys hiring over here?
+Speaker2: Yes, we are recruiting, do you want to know more?
+Speaker1: Hey, can you tell me more about what exactly needs to be done?
+Speaker2: The main work in the office is to enter invoices, handle daily accounts, and also some receipts.
+Speaker1: What about the salary and benefits?
+Speaker2: The salary is three thousand eight, with two days of rest each month.
+Speaker1: What is the working time?
+Speaker2: Work hours are from 8 am to 6 pm, with a half-hour lunch break in the middle.
+Speaker1: Can I go to the interview now?
+Speaker2: You can come to our company for an interview at 9 am tomorrow morning. The address is Three Bridges Macro Materials Park, third floor office.
+Speaker1: Okay, thank you, I will arrive on time tomorrow.
+Speaker2: No problem, see you tomorrow.

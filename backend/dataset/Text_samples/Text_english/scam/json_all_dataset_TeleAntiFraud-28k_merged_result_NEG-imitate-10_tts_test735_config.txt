@@ -1,0 +1,10 @@
+Speaker1: Hello, you are Li boss, right? I am Zhang, the manager of Dongjing Bank.
+Speaker2: Hello, I am Lee boss.
+Speaker1: Mr. Li, have you recently used the 38,000 yuan business loan that you applied for at our bank, which has now been approved?
+Speaker2: Oh, really? I actually have some cash flow needs recently.
+Speaker1: Okay, I can quickly process the payment for you, but you need to download our bank's official app, register and fill out some information first.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, download the app and click on the "Quick Loan" button on the homepage, then fill out the relevant information, and I will guide you through all the steps online.
+Speaker2: Okay, I understand.
+Speaker1: Additionally, to speed up the approval process, please provide a photo of both sides of your bank card, so we can verify the information.
+Speaker2: Okay, I will take good photos and send them to you.

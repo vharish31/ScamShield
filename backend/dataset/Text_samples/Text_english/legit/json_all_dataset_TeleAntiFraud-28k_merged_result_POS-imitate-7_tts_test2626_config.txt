@@ -1,0 +1,10 @@
+Speaker1: Hey, are you waiting for me at the door?
+Speaker2: Hey, I'm here now, where are you?
+Speaker1: I just got off the subway station, ready to cross the road.
+Speaker2: Okay, be careful, walk straight ahead after crossing the road, and see if you can see the coffee shop on the right?
+Speaker1: I saw you, I went looking for you.
+Speaker2: Okay, I'm waiting for you at the coffee shop door, don't rush, be careful.
+Speaker1: Okay, I'll be there soon.
+Speaker2: Be careful on the road.
+Speaker1: Are you at which position?
+Speaker2: I'm standing at the coffee shop door, wearing blue clothes.

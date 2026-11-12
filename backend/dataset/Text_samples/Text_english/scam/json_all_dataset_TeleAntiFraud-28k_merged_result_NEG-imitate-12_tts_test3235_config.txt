@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm small Li, the credit manager of Agricultural Bank. We have a special promotion for a credit loan project recently. Do you have any recent funding needs?
+Speaker2: Hello, I recently need some money, can you give me some specifics?
+Speaker1: Of course, this loan project is specifically designed for high-quality customers, no collateral, low interest rate, maximum loan amount of 50,000. You only need to provide some basic information, and we can apply for you.
+Speaker2: What information do I need to provide?
+Speaker1: You need to provide the front and back of your identity card, your salary slip, and a personal credit report. If you're convenient, you can submit these documents through our app right now. I have a special download link here.
+Speaker2: Okay, I can try now.
+Speaker1: Great, the link is https://example.com. Just click it and follow the instructions. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, I'll try it right away.
+Speaker1: Thank you very much for your cooperation. If you have any questions or need help, please feel free to call me at 12345678901. Best wishes for your application!
+Speaker2: Okay, thank you for your help.

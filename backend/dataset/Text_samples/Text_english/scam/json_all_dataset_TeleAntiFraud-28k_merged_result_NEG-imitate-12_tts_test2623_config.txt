@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer manager of Agricultural and Commercial Bank, Lee Huai.
+Speaker2: Hello, what do you have?
+Speaker1: Is that so, we recently introduced a high-quality loan service, offering five times the deposit, interest-free first, then principal, do you have any recent funding needs?
+Speaker2: Hey, I recently had some issues with cash flow, can you give me a detailed explanation?
+Speaker1: Of course, this loan product is very convenient, no collateral, quick loan. You just need to download our app, register an account, fill out the relevant information, and we can provide you with service.
+Speaker2: Do you want to download the app? How do you operate it specifically?
+Speaker1: Okay, just click this link to download our app, register and a guide will direct you through the next steps.
+Speaker2: Okay, let me try.
+Speaker1: Great! The link has been sent to your phone. Please download it and contact me, I can help you quickly pass the review.
+Speaker2: Okay, thank you for your help.

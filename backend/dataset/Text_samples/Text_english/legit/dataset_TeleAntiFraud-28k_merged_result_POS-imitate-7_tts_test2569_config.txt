@@ -1,0 +1,16 @@
+Speaker1: Hey, how are you? I'm little Zhang, what do you need me for?
+Speaker2: Hello, I'm little Li, I've recently been considering buying a new computer, do you have any recommendations?
+Speaker1: Of course, what are you mainly using it for? Is it for work or leisure?
+Speaker2: Work is the main thing, occasionally play games.
+Speaker1: I suggest you take a look at brand A's notebook, the performance is good and the price is reasonable.
+Speaker2: Have you used any products from brand A? I checked online and found several models.
+Speaker1: I used their notebook, it's quite good, especially the battery life and heat dissipation are very good.
+Speaker2: That's great, I'm still worried about the performance after buying it.
+Speaker1: Don't worry, if you decide to buy, I can accompany you to the store to take a look.
+Speaker2: Thank you so much, do you have time this weekend? Let's go together.
+Speaker1: Do you have any free time this weekend?
+Speaker2: I'll be free around 2 PM, let's meet then.
+Speaker1: Okay, where is the meeting location at two in the afternoon?
+Speaker2: Let's meet at the electronic city in the city center. There are many brands and choices there.
+Speaker1: Okay, see you at electronic city later.
+Speaker2: Okay, see you later.

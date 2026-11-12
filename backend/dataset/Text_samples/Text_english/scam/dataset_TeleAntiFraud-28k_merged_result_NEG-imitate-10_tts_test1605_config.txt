@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Hey, I am.
+Speaker1: Hi, I'm the loan manager at Agricultural and Commercial Bank, Zhang. We noticed you recently have a funding need and wanted to know more about our low interest loan products?
+Speaker2: Oh, really? I really need a capital turnaround recently.
+Speaker1: Yes, we have a special loan product that is suitable for small and medium-sized enterprise owners. It is unsecured, the approval is fast, and the interest rate is very favorable. You can take a look first.
+Speaker2: How do you operate it specifically?
+Speaker1: You can first download our official app, fill out the basic information, and we will quickly review it.
+Speaker2: What is the name of the APP? Where can I download it?
+Speaker1: You can download the app named "Farming and Merchant Loan" by searching it in the app store on your phone or by clicking the link I sent you directly.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact me anytime. Best wishes for your business. Goodbye.

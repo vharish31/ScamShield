@@ -1,0 +1,10 @@
+Speaker1: Hello, I am Zhang, a loan officer at Commercial Bank, we recently introduced low interest loan service, the interest rate is very favorable, are you interested in learning more?
+Speaker2: Loan? I don't need it now.
+Speaker1: Oh, that's it. But this loan is very flexible, you can repay it anytime, and the approval is quick, if you have an urgent need, you can use it anytime.
+Speaker2: How do I apply for this loan?
+Speaker1: It's very simple. Just download our official bank app, then in the loan section, select 'personal loan', fill in the relevant information, and that's it.
+Speaker2: Do you want to download the app? I'm afraid it's not safe.
+Speaker1: Don't worry, the app of Commercial Bank is very safe, and now there is a newbie gift package when downloading, which contains many discount coupons that can be used.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you encounter any issues while using it, feel free to contact me anytime. My phone number is 12345678901, I'll answer immediately.
+Speaker2: Okay, thank you.

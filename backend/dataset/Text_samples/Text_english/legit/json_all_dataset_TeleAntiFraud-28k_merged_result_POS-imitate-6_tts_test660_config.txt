@@ -1,0 +1,13 @@
+Speaker2: Hey, how are you? Is there anything I can help with?
+Speaker1: Do you have any beginner yoga classes here?
+Speaker2: Yes, we have a two-week basic yoga course here, very suitable for beginners.
+Speaker1: How much does this course cost?
+Speaker2: The fee for the basic yoga course is 200 yuan per month, which includes all classes and the use of yoga mats.
+Speaker1: Does it sound good? Then do I need to make a reservation in advance?
+Speaker2: It's recommended to book in advance because the seats are limited. You can book through our WeChat public account or call us directly.
+Speaker1: Okay, I plan to go try it out tomorrow, what time do you open?
+Speaker2: We usually open the door at 7am and close it at 9pm. You can choose either the morning or evening time to experience it.
+Speaker1: That's great, can I go over at 3 pm tomorrow afternoon?
+Speaker2: Sure, I have a yoga class at 3 pm this afternoon. You can come.
+Speaker1: Okay, see you tomorrow. Thank you for your help!
+Speaker2: No problem, looking forward to your arrival tomorrow, see you then!

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you there?
+Speaker1: Is there anything going on?
+Speaker2: I'd like to inquire about your menu prices.
+Speaker1: Okay, our menu has two options: standard and luxury, the standard is 200 yuan and the luxury is 400 yuan.
+Speaker2: What specific services does the luxury set include?
+Speaker1: The luxury package includes cleaning service, laundry service and daily maintenance, as well as a weekly deep cleaning.
+Speaker2: Can I reserve the luxury meal for next Tuesday?
+Speaker1: Okay, please leave your contact information, I will send you a confirmation message.
+Speaker2: Okay, my phone number is 1381380138.
+Speaker1: Okay, I noted it down. Next Tuesday from 9 am to 10 am, our staff will arrive on time.

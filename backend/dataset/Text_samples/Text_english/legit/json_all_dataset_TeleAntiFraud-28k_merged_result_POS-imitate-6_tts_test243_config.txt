@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiao Ming, I just saw a phone on your website that I like, can I ask you a few questions?
+Speaker2: Hello, Xiao Ming, I am customer service representative Xiao Hong, very happy to serve you. What information do you want to know about which phone model?
+Speaker1: That new smartphone looks good based on reviews.
+Speaker2: Yes, the one you chose is our latest model, with a high configuration, very suitable for daily use and entertainment.
+Speaker1: How long does the battery of this phone last?
+Speaker2: This phone comes with a large battery, it can support more than a day of normal use, and it can guarantee a full day of continuation even with heavy use.
+Speaker1: How long will it take for the delivery to arrive if I buy it?
+Speaker2: Typically, we ship within 24 hours after ordering, and depending on your location, it usually takes 3-5 days to arrive.
+Speaker1: Okay, if I receive the phone after and find issues, can I return it?
+Speaker2: Of course, we provide a seven-day no-questions-asked return or exchange service. If there are any issues, please contact us to handle them.

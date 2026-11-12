@@ -1,0 +1,10 @@
+Speaker1: Hello!
+Speaker2: Hello
+Speaker1: I am a customer manager at Huaxia Bank, we recently launched a special promotion for a low-interest credit loan with quick approval, are you interested in learning more?
+Speaker2: Hey, loan, I recently have a bit of cash flow need, can you give me a detailed explanation?
+Speaker1: Of course, you just need to provide some basic personal information, and we can apply for a loan for you. To speed up the approval process, you can first download our bank's official app and fill in the relevant information.
+Speaker2: Okay, can downloading the app speed up the approval process? How do I download it?
+Speaker1: Yes, you can search for Huaxia Bank in the mobile app store and download our official app. After downloading, register with your phone number and fill out the loan application form, and we will quickly review it.
+Speaker2: Okay, I'll go download it now. Do I need to prepare any materials?
+Speaker1: You just need to provide your ID and income proof. If all materials are complete, the approval speed will be faster. Moreover, to ensure your account safety, we will send a verification code to your phone, please pay attention to check it.
+Speaker2: Okay, I understand. Thank you for your help.

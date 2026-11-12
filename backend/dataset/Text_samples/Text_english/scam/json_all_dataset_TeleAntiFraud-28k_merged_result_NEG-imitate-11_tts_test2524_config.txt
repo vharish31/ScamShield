@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the manager of the customer service center of Guangfa Bank.
+Speaker2: Hello, what can I help you with?
+Speaker1: Have you recently used our bank's credit card and do you have any need for cash flow?
+Speaker2: For now, there is no specific content. You can tell me what it is.
+Speaker1: We recently launched a special loan product with extremely low monthly interest and fast approval, perfect for short-term cash flow.
+Speaker2: How do I apply?
+Speaker1: It's very simple. Just click on the link I gave you and fill out the relevant information.
+Speaker2: Okay, let me try.
+Speaker1: Great, the link is https://example.com. Click on it and follow the instructions on the page.
+Speaker2: I understand, thank you for your help.

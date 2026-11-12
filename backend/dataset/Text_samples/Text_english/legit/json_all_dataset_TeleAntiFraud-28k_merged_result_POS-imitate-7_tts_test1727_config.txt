@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your hair service.
+Speaker2: Hello, I am a customer service representative of the beauty salon. I am very happy to serve you. What aspect of service do you want to know about?
+Speaker1: Can you tell me more about your hair cutting and coloring services, and how much do they cost?
+Speaker2: Our hair cutting service here is 80 yuan, and the hair dyeing service is different based on the brand you choose, between 150 yuan to 300 yuan.
+Speaker1: Can I make a reservation for a Saturday morning?
+Speaker2: Sure, there's plenty of time on Saturday morning. What time would you like to reserve?
+Speaker1: I'll stay at 10 am.
+Speaker2: Okay, I have scheduled a haircut and dyeing service for you on Saturday morning at 10 am. Please come on time.
+Speaker1: Okay, thank you. And, it's my first time here, how do I navigate your store?
+Speaker2: Our store is located at 100 Happiness Road, which is a five-minute walk from the subway station. It's very convenient. If you're driving, we also have free parking here.
+Speaker1: Okay, thank you for your help, see you on Saturday.
+Speaker2: No problem, I'm looking forward to your arrival on Saturday. Have a happy day.

@@ -1,0 +1,10 @@
+Speaker1: Hey, can you reserve dinner for tomorrow night here?
+Speaker2: Is it okay? What time would you like to reserve?
+Speaker1: Two people around seven in the evening.
+Speaker2: Okay, 7:00 for two people, any special requests? Like window seats or non-smoking areas?
+Speaker1: It's best to sit by the window, we want to see the night view.
+Speaker2: Okay, the window seat has been reserved for you. Do you need to confirm the menu now?
+Speaker1: No need, we'll come back later to order. Right, do you have a parking lot here?
+Speaker2: Yes, we provide a free parking lot here, very convenient.
+Speaker1: That's great, thank you for your help.
+Speaker2: You're welcome. If you have any other things to help with, please let me know. I hope you enjoy your meal.

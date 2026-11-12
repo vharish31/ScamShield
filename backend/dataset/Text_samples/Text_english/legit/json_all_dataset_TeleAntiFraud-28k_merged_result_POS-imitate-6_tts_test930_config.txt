@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Hey, I'm at the fifth hospital, come over?
+Speaker1: Are you still at the hospital entrance waiting for me?
+Speaker2: Yes, I am at the hospital entrance, there is a security booth at the door, you can see the security booth, you have arrived.
+Speaker1: Okay, I'll be there soon, just wait for me at the security post.
+Speaker2: Okay, I'm waiting for you here. Don't rush, come slowly.
+Speaker1: Thank you, I'll go now.
+Speaker2: Hey, be careful on the road.
+Speaker1: See you later.
+Speaker2: See you later.

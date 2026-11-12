@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any recommendations for a playground to take kids to on the weekend here?
+Speaker2: Of course, there's a very popular children's park near us with lots of playground equipment suitable for different age groups of children.
+Speaker1: What happened to it?
+Speaker2: You can take the bus, get off at the city center station, and walk about ten minutes to get there.
+Speaker1: How much does the ticket for that door cost?
+Speaker2: The ticket price for adults is 30 yuan, children get half off, and if you have a family package, you can enjoy even more discounts.
+Speaker1: That's great, thank you for your help.
+Speaker2: No problem, I hope you guys have fun. If you have any other questions, feel free to contact me anytime.

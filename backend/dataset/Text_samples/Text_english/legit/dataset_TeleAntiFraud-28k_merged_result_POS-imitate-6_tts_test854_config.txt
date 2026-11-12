@@ -1,0 +1,11 @@
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I ordered an electric rice cooker on your platform a few days ago, but I haven't received it yet. Can you explain what's going on?
+Speaker2: Hello, can you please provide your order number so I can look it up for you?
+Speaker1: Okay, the order number is one two three four five six seven eight nine zero.
+Speaker2: Please wait for a moment, I'll check. Hmm, I found it here. Your order status shows it's being delivered, estimated delivery is tomorrow afternoon.
+Speaker1: Why haven't you updated in a few days?
+Speaker2: It's possible that the bad weather recently caused some delivery delays. We're sorry for any inconvenience this may have caused you.
+Speaker1: What should we do if the package hasn't arrived by tomorrow?
+Speaker2: If the package is not delivered tomorrow, you can contact us again, we will process it quickly and may arrange for urgent delivery.
+Speaker1: Okay, thank you, I hope to receive it smoothly tomorrow.
+Speaker2: You're welcome, wish you a happy day, feel free to contact us anytime if you have any questions.

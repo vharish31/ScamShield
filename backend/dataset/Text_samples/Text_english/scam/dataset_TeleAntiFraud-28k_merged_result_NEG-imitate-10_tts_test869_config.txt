@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Mr. Wang?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative from JD.com, we found that one of your packages was accidentally lost during transportation, in order to compensate you, we need you to provide some information to process the refund.
+Speaker2: Is it real or fake? How do you handle it?
+Speaker1: Yes, Professor Wang, we need you to provide your bank account number so that we can directly refund the money into your account.
+Speaker2: How do you prove that you are somebuy?
+Speaker1: You can log in to Taobao to view our customer service information, or click on the link we sent to verify.
+Speaker2: Okay, let me try.
+Speaker1: Okay, please wait for a moment and you will receive a text message with a link. Click on it and follow the instructions.
+Speaker2: I received the text message and clicked on the link.
+Speaker1: Okay, please enter your bank card number and verification code according to the page instructions. We will process the refund quickly.
+Speaker2: Okay, I followed the instructions.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: At home? How are you?
+Speaker1: I just bought some fresh fruit, I plan to go over and give you a taste.
+Speaker2: Really? Great, you're really great, I'll just go down to meet you.
+Speaker1: No need, you wait at home for me, I bought on the way, not heavy.
+Speaker2: Okay, you arrived, I'll call you soon.
+Speaker1: Okay, what is your house number? I forgot.
+Speaker2: Room 602, second floor, building 3.
+Speaker1: I know, see you later.
+Speaker2: See you soon, be careful on the road.

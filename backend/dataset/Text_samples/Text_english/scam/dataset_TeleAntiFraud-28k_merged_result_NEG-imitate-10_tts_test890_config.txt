@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm the customer manager of the Agricultural Bank's Tianhe Branch, Li Xiaoli.
+Speaker2: Hello, do you have anything?
+Speaker1: We recently launched a special discounted credit loan project with interest rates as low as two cents, perfect for friends in need of funds.
+Speaker2: "Hmm, it sounds good, but I don't have any financial needs right now."
+Speaker1: This is it, this discount is very rare, and the application process is very simple, just need you to provide some basic information.
+Speaker2: What specific information do you need?
+Speaker1: There's a specialized app here that you can download and fill out some basic info to quickly complete the application.
+Speaker2: Do you want to download the app? It sounds a bit unsafe.
+Speaker1: Don't worry, this app is bank-authenticated and very safe. You can use it with confidence.
+Speaker2: Okay, I'll try. What's the name of the app?
+Speaker1: You can download the app named "Farm Credit" by searching it in the app store.
+Speaker2: Okay, thank you for your recommendation.

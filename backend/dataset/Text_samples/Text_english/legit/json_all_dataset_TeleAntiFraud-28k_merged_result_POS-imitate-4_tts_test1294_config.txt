@@ -1,0 +1,9 @@
+Speaker2: Hello, your ordered food is here, it's now at the downstairs delivery counter of your building.
+Speaker1: Okay, I'll go down and get it right away.
+Speaker2: Okay, your food is at the big door of this building on the right side of the takeout box, the box has a display screen, input your takeout code and you can get it.
+Speaker1: How much is the take-out number?
+Speaker2: Your takeout code is a six-digit number. It has already been sent to you via text message. Check your phone.
+Speaker1: Okay, I look. Found it, thank you.
+Speaker2: No problem, feel free to contact me anytime if you have any questions.
+Speaker1: Okay, thank you again. Goodbye.
+Speaker2: Goodbye, wish you enjoy your meal.

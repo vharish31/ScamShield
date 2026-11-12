@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm the new tenant in the apartment building, it seems like the water pipes in my house are leaking, can you take a look?
+Speaker2: Hello, I am property, please don't rush, I will be there soon to check. What is your apartment number?
+Speaker1: I am room 102 in building 2 of the third floor.
+Speaker2: Okay, I should be there in about ten minutes. You can check first if the water dragon head isn't important.
+Speaker1: I have checked already, the water dragon head is closed, but there is still a leak sound.
+Speaker2: Understood, I'll go now, you first don't move the water, wait for me to arrive and then handle it.
+Speaker1: Okay, thank you, I'll wait for you.
+Speaker2: No problem, this is our work. Do you have a contact number for property, you can call anytime if there's anything.
+Speaker1: Yes, my phone has it.
+Speaker2: Okay, we'll be there quickly, don't worry.

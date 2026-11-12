@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Xiao Wang, I work at the China Merchants Bank customer service, do you need any money recently?
+Speaker2: Hello, China Merchants Bank, what's up?
+Speaker1: Yes, we recently introduced a new credit loan product with a low interest rate and simple procedures. Would you like to know more about it?
+Speaker2: Uh, I want to know a little more.
+Speaker1: Okay, to better serve you, I need you to provide some basic information, such as your name, ID number, and phone number.
+Speaker2: So, how can I know if you guys are really from China Merchants Bank?
+Speaker1: We are a legitimate financial institution, you can verify us through our official phone or website.
+Speaker2: What is your official phone number?
+Speaker1: Our official phone number is 4001010101, you can directly dial to confirm.
+Speaker2: Okay, I'll check later.

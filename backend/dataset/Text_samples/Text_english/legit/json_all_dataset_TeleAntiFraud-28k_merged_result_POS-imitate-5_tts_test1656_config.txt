@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Is there still no sour milk at that convenience store?
+Speaker2: What brand of yogurt is it?
+Speaker1: The bright one, the kind that's one bottle a day.
+Speaker2: Let me check, just a moment.
+Speaker1: Okay, thank you.
+Speaker2: Found it, still have some stock, how many bottles do you want?
+Speaker1: Give me five bottles, please.
+Speaker2: Okay, there are twenty-five pieces in total, should I bring them over or should you send them?
+Speaker1: I took it about ten minutes ago.
+Speaker2: Okay, I'll leave this for you, come over.

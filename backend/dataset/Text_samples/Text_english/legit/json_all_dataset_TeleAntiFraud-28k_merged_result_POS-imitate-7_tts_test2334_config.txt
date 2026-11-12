@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm the customer who bought a smart plug from your store recently. I seem to have some issues.
+Speaker2: Hello, I am a customer service representative. Can I help you solve this problem? What model is your smart plug?
+Speaker1: That's the small white one, I'm not sure of the model number, I bought it in January this year.
+Speaker2: Okay, please wait a moment while I check your purchase record. I found it, your smart power strip is model ZS-01. What specific issue are you having?
+Speaker1: Sometimes the power automatically shuts off, restarts and then works normally again, which is quite inconvenient.
+Speaker2: Understood, this situation may be due to device malfunction. We have two solutions here, one is to give you a new one, the other is to send it back for repair. Which one do you find more convenient?
+Speaker1: Let's switch to a new one, it'll be faster that way.
+Speaker2: Okay, I will arrange for you to exchange your product. Please provide me with your delivery address and contact information so that we can arrange for shipping.
+Speaker1: Okay, the address is Shanghai City Pudong New District Zhangjiang Road 88, the phone number is 13456789.
+Speaker2: Received, we will send you a new smart socket within two work days. If there are any issues, we will contact you promptly. Thank you for your understanding and support.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Do you have haircut service here?
+Speaker2: Yes, we have various hair services here, including cutting, dyeing, and straightening.
+Speaker1: How long does it usually take to make a haircut appointment?
+Speaker2: Cutting hair usually takes about 40 minutes, if you want to add some other projects, the time may be longer.
+Speaker1: Okay, I think I have some free time on Saturday next week, can I schedule that time?
+Speaker2: Is it okay, on Saturday, from 9am to 11am and from 2pm to 6pm there are breaks, which time segment is more convenient for you?
+Speaker1: I can make it from 2 to 4 in the afternoon, so let's schedule 3.
+Speaker2: Okay, I'll book an appointment for you on Saturday afternoon at 3 pm. Just remember to come ten minutes early.
+Speaker1: Okay, okay, thank you, see you later.
+Speaker2: No problem, see you later, goodbye.

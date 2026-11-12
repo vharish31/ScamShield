@@ -1,0 +1,12 @@
+Speaker1: Hello, nice to meet you, I am the manager of the commercial bank's credit department.
+Speaker2: Hello, Zhang Manager.
+Speaker1: We recently have a low interest rate loan product, very suitable for personal and small micro enterprises.
+Speaker2: Really? I just need to circulate some funds recently.
+Speaker1: Yes, our loan products are very flexible, approval is quick, and disbursement is also quick.
+Speaker2: What do I need to do?
+Speaker1: Just download our official app, fill out the relevant info, and you can quickly apply.
+Speaker2: Where can I download this app?
+Speaker1: You can click this link to directly download our app.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Thank you very much, feel free to contact me anytime if you have any questions.
+Speaker2: Okay, thank you, Zhang Jingni.

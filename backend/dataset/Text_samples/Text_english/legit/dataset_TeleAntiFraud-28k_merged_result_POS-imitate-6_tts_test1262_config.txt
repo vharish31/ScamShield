@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your delivery service.
+Speaker2: Hello, I'm very happy to serve you, what information do you want to know?
+Speaker1: Can you tell me your delivery range and approximately how long it takes to deliver?
+Speaker2: We mainly cover the city center area. If your address is within this range, generally speaking, it takes about 30 minutes to deliver.
+Speaker1: If it rains or it's a holiday, will the delivery time be extended?
+Speaker2: Yes, special weather or holidays may cause appropriate delays in delivery time, but we will do our best to ensure your order arrives on time.
+Speaker1: Okay, I'll order a beef stir-fry, do you have any recommended drinks to go with it?
+Speaker2: Would you like to try a glass of iced oolong tea, refreshing and detoxifying?
+Speaker1: Okay, let's do it your way.
+Speaker2: Okay, your order has been recorded. We will prepare it quickly. Do you have any other questions?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, looking forward to your next visit, wish you a happy life. Bye!

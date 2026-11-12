@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello
+Speaker1: Do you have a minute? I need to talk to you about something.
+Speaker2: What's up?
+Speaker1: I just saw your store's promotional activities on the internet and wanted to know more.
+Speaker2: Oh, yes, we do have a promotion activity now, can you tell me which product you are interested in?
+Speaker1: Can you make that smartwatch a little cheaper?
+Speaker2: This smartwatch is already on sale, but if you order now, I can help you apply for an extra small gift. How about it?
+Speaker1: Great, I'll place the order now. By the way, how fast is delivery from your place?
+Speaker2: We usually ship quickly, usually we can ship within two days after ordering.
+Speaker1: Okay, now I can relax. Thank you for your help.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. Have a great shopping trip!

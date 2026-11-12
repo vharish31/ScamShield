@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I am that scheduled haircut guy.
+Speaker2: Hello, I am a hair salon staff member, can I help you with anything?
+Speaker1: Can you confirm if the appointment at 3 pm tomorrow is still valid or not?
+Speaker2: Please wait a moment, I'll check. Okay, your appointment is still there, you can come tomorrow afternoon at three o'clock.
+Speaker1: Great, can you give me the specific address again?
+Speaker2: Of course, our store is on the third floor of Happiness Square in the city center. You can take the subway line 2 to Happiness Station and walk five hundred meters out to get there.
+Speaker1: Okay, which way should I turn after getting off the subway station - left or right?
+Speaker2: After exiting, turn right and walk straight for 500 meters, you will see the happy square sign.
+Speaker1: I understand, thank you for your help.
+Speaker2: No problem, if you have any other questions, feel free to consult anytime. See you tomorrow!

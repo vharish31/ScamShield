@@ -1,0 +1,10 @@
+Speaker1: Hey, are you eating now?
+Speaker2: Hello, not yet, just got off work, about to go eat something.
+Speaker1: How about we go eat something together? I happen to be nearby.
+Speaker2: Hey, where are you now?
+Speaker1: I'm at the south gate of the park, and you?
+Speaker2: I got off the subway station next to the company, turned right and walked for two minutes to arrive.
+Speaker1: Can I go find you, do you know any good places to eat around here?
+Speaker2: There are a few good noodle shops, why don't we go eat noodles? I heard the new one is really good.
+Speaker1: Okay, then listen to you, I'll just go over there.
+Speaker2: Okay, be careful on the road, I'm waiting for you here.

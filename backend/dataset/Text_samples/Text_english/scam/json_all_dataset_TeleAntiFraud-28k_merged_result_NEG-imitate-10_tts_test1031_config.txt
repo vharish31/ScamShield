@@ -1,0 +1,12 @@
+Speaker1: Hello, I am small Li, this side is Shenzhen science and technology company customer service staff, we found your account may have abnormality, need you cooperate with us to conduct security verification.
+Speaker2: What's the problem?
+Speaker1: That's it, we suspect that your account has been involved in an illegal transaction, in order to protect your financial safety, we need you to provide us with your bank card number and verification code.
+Speaker2: Sure, I can give you my bank card number, but I'm afraid the verification code isn't safe.
+Speaker1: Please don't worry, this is to confirm your identity and prevent funds from being stolen. I will send you a verification code via text message, just tell me the code you received.
+Speaker2: Okay, I'll wait for the verification code.
+Speaker1: Okay, please wait a moment, I'll send you the verification code now.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you for your cooperation, we have completed the verification, your account is safe. To ensure the safety of your funds, we recommend that you download our official app, which allows you to check your account activity anytime.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Thank you very much. If you have any questions, please feel free to contact our customer service at any time. Have a happy life, goodbye.
+Speaker2: Okay, bye.

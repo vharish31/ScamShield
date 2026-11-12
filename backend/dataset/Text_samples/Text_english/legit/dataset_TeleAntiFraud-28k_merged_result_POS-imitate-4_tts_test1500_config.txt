@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you the food delivery guy?
+Speaker1: Yes, I am a food delivery customer service, what can I help you with?
+Speaker2: What happened to the food I ordered yesterday? It hasn't been delivered yet.
+Speaker1: I'm very sorry to have caused you inconvenience. Can you tell me your order number? I'll check it here.
+Speaker2: Order number is one two three four five six seven.
+Speaker1: Okay, I'll check. Please wait a moment.
+Speaker2: Okay, I'm waiting.
+Speaker1: I found it, your order was mistakenly delivered to another address by the courier, we have arranged for a new courier to re-deliver it to you, it will take approximately 30 minutes to arrive.
+Speaker2: That's really too much trouble, thank you for your help, I hope this time it goes smoothly.
+Speaker1: I'm truly sorry again for any inconvenience I may have caused. If you have any other questions, please feel free to contact us anytime.

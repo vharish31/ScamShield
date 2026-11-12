@@ -1,0 +1,10 @@
+Speaker1: Hello, can you hear my voice?
+Speaker2: Can you hear me? Hello.
+Speaker1: I am the customer service at the food square, you previously made a dinner reservation with us, do you need to keep this reservation today?
+Speaker2: Oh, okay, I did book it. What time did you book it for?
+Speaker1: You reserved the 7 pm seat for four people.
+Speaker2: Okay, we will arrive on time today.
+Speaker1: Great, we'll reserve a spot for you. Do you need any special services?
+Speaker2: No need, thank you. We can just directly go now.
+Speaker1: Okay, if you need anything, feel free to contact our staff anytime. We're looking forward to your visit!
+Speaker2: Thank you, goodbye.

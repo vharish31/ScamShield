@@ -1,0 +1,8 @@
+Speaker1: Hey, are you at home?
+Speaker2: At home? How are you?
+Speaker1: I'm waiting for you downstairs, let's go shopping for groceries together.
+Speaker2: Okay, I'll be right down.
+Speaker1: I'll wait for you, by the way, take a look at today's freshness of the food.
+Speaker2: Okay, you take a look first, I'll go down now.
+Speaker1: Okay, hurry up, I'm waiting for you here.
+Speaker2: I know, let's go down quickly.

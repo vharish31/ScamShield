@@ -1,0 +1,10 @@
+Speaker2: Hello, are you free to talk now?
+Speaker1: What do you need?
+Speaker2: Have there been any new movies recently released on your side?
+Speaker1: Yes, there's a new sci-fi movie called "Time Gate" that's getting good reviews.
+Speaker2: That sounds pretty good, I want to go see it this weekend.
+Speaker1: Okay, when do you plan to go see it?
+Speaker2: Would you like to check the tickets for that time slot on Saturday afternoon?
+Speaker1: On Saturdays in the afternoon, there are usually more people, but you can book tickets in advance online.
+Speaker2: Okay, I'll book a flight online now, thank you.
+Speaker1: No problem, I hope you have a pleasant movie experience.

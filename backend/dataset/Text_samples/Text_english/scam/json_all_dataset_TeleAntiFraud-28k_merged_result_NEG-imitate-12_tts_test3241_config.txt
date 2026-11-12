@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Zhang from the channel department of Guangfa Bank, responsible for new enterprise credit services.
+Speaker2: Hello, is there anything I can help with?
+Speaker1: That's right, we recently launched a special loan plan for new enterprise users, with zero down payment, ultra-low interest rate, fast approval, and highly suitable for startups.
+Speaker2: Can you explain these in detail?
+Speaker1: Of course, this loan plan is specifically designed for new enterprises. As long as you provide some basic company information, we can quickly approve. Moreover, we have a dedicated app that you can use to apply online, very convenient.
+Speaker2: How do I apply?
+Speaker1: Just download our app, register an account, fill out some basic info, upload company data, and we'll complete the review within 24 hours.
+Speaker2: Okay, I'll try. What's the name of this app?
+Speaker1: Our app is called "Guangfa Enterprise Loan", you can search and download it in the mobile app store.
+Speaker2: I understand, thank you for your introduction.

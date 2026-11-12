@@ -1,0 +1,13 @@
+Speaker1: Hey, how are you? I'm little Li, recently I want to buy a new phone, do you have any recommendations here?
+Speaker2: Hello, little Li, we have many phone models here, which one do you prefer, performance or appearance design?
+Speaker1: I mainly use it for playing games and watching videos, so performance should be good and battery life should be durable.
+Speaker2: You may consider our flagship phone, this phone has strong performance and large battery capacity, which is very suitable for your needs.
+Speaker1: How much does this phone cost?
+Speaker2: This phone costs 3800 yuan, and there's a bonus now when you buy it.
+Speaker1: What is the gift?
+Speaker2: The gift includes a phone case and a steel skin, both original.
+Speaker1: The sound is good, but I need to consider it a bit more, do you have a warranty service?
+Speaker2: Of course, we provide a one-year warranty service, and any issues can be contacted us anytime.
+Speaker1: Okay, thank you for your introduction, I'll think about it and get back to you.
+Speaker2: Okay, little Li, feel free to come consult anytime, wish you have a great day. Bye.
+Speaker1: Goodbye, thank you.

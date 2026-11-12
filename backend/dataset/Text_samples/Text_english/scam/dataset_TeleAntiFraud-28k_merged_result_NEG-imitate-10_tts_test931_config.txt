@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a customer manager from Huaxia Bank, do you have any recent need for capital rotation? We have low interest loans here, fast approval, high credit limit.
+Speaker2: Uh, I recently need some money, can you tell me in detail?
+Speaker1: Of course, our loan product is very suitable for you. Just provide some basic information, and we can pre-approve your credit limit. You can click on this link, fill out the relevant information, and we will have a specialist follow up with you.
+Speaker2: Okay, what information do I need to provide?
+Speaker1: Just provide your name, ID number, contact phone and workplace, it's very simple. Click this link, follow the steps and you're done.
+Speaker2: Okay, let me try to see.
+Speaker1: Great, if you have any questions, you can contact me anytime. My phone number is 1312312312.
+Speaker2: Okay, thank you.

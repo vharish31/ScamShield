@@ -1,0 +1,10 @@
+Speaker1: Hello, do you have any seats left in your restaurant?
+Speaker2: Hello, do you have a place, you guys?
+Speaker1: We four people want to reserve a window seat.
+Speaker2: Okay, you can arrange the position by the window, what time are you guys arriving?
+Speaker1: Do we need to book in advance if we're arriving around 7:00 PM?
+Speaker2: You don't need to make a reservation in advance, just tell the server your reservation location when you arrive at 7:00.
+Speaker1: Okay, thank you. So, do you have any recommendations for dishes?
+Speaker2: Our menu here has red braised pork, steamed fish and gong bao chicken, all very popular.
+Speaker1: Sounds good, let's try it later. Also, do you provide free parking spots?
+Speaker2: Yes, our restaurant has a free parking lot behind it, you can park directly there.

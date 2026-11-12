@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have a portable charger to rent here?
+Speaker2: Yes, we have different types of portable chargers here, you can choose.
+Speaker1: How do you calculate the rent?
+Speaker2: Rent is one yuan per day, deposit is one hundred yuan, deposit will be fully refunded when returning the charging battery.
+Speaker1: If I rent for a few days?
+Speaker2: If you rent for multiple days, you will add ten yuan for each additional day, and the deposit remains the same.
+Speaker1: Can I rent for three days, and the deposit is only one hundred yuan?
+Speaker2: Yes, the deposit is only 100 yuan if you rent for three days, the total rent will be 30 yuan.
+Speaker1: Okay, how do I pay?
+Speaker2: You can pay the deposit and rent through WeChat or Alipay, and when you return the power bank, we will refund the deposit through the same method.
+Speaker1: I understand, thank you.
+Speaker2: No problem, feel free to ask me any other questions anytime.

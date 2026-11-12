@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is Agricultural and Commercial Bank customer service center, I am customer service officer Liu.
+Speaker2: Hello, do you have anything?
+Speaker1: There may be unusual transactions on the bank card under your name. For your financial safety, we need you to cooperate with us to perform a one-time identity verification.
+Speaker2: Really? Then what should I do?
+Speaker1: Please provide us with the last four digits of your ID number and bank card, so we can verify.
+Speaker2: Okay, I provide for you.
+Speaker1: Thank you, by the way, we found out your bank card may have been stolen, we recommend you download our official safety app to better protect your account.
+Speaker2: Okay, how do I download?
+Speaker1: You can click on the link I sent you, follow the instructions to download and install, and immediately perform a security check after installation.
+Speaker2: Okay, I'll operate right away. Thank you for your reminder.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to know more about your repair services on this side, my washing machine is broken.
+Speaker2: Okay, we provide washing machine repair service. Do you need to schedule an on-site repair?
+Speaker1: Yes, I want to make an appointment. What time do your repairman usually arrive?
+Speaker2: We usually schedule a teacher's visit within two to three workdays after the appointment. You can choose a specific time slot.
+Speaker1: Can I make a reservation for tomorrow morning?
+Speaker2: Tomorrow morning is okay. Please provide a contact phone number and address, we will record the information.
+Speaker1: Okay, my phone number is 131233456, my address is Flower Garden Road No. 123, Unit 4.
+Speaker2: Okay, I have recorded it down. The teacher will arrive on time tomorrow morning. Please keep the phone line open. Are there any other issues?
+Speaker1: No more, thank you.
+Speaker2: No problem, wish you happy life. Bye!

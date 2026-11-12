@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Wang, the customer service manager of some bank. We have a special discount loan project here. Do you have any recent need for cash flow?
+Speaker2: Can you lend me some money? I'm doing okay now, but if there are any discounts, please let me know.
+Speaker1: Okay, for this loan project, we provide interest rates as low as three cents, no collateral required, and the approval process is particularly fast, with the fastest possible outcome being received on the same day.
+Speaker2: What materials do I need to prepare?
+Speaker1: Please provide photos of both sides of your ID and a bank card, and we will submit your application in the system on this end.
+Speaker2: What should I do to submit these materials?
+Speaker1: You can add my WeChat first, after adding WeChat I will send you a link, click the link and follow the instructions to upload the data.
+Speaker2: WeChat can add, you first send me a WeChat QR code.
+Speaker1: Okay, just a moment, I'll send it to you now.
+Speaker2: I got it, I'll add you now.

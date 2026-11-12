@@ -1,0 +1,10 @@
+Speaker1: Hey, are you still hiring servers there?
+Speaker2: Hello, yes, we are still hiring servers here.
+Speaker1: Can I go to the interview tomorrow?
+Speaker2: Can you come over tomorrow at a convenient time?
+Speaker1: Can I have some time in the afternoon around three o'clock?
+Speaker2: Three o'clock is fine, you can come directly then.
+Speaker1: Okay, where is your restaurant located?
+Speaker2: Our restaurant is at 100 Happiness Road, you can navigate directly there later.
+Speaker1: Thank you, I'll see you tomorrow.
+Speaker2: Okay, see you tomorrow, be careful on the road.

@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask, do you have any pretty dresses in your store?
+Speaker2: Hello, we have various styles of dresses here, what style do you want?
+Speaker1: I want a summer-suitable outfit in a clean, fresh color.
+Speaker2: Okay, we have a light blue floral dress that's perfect for summer, breathable and comfortable.
+Speaker1: How much does that dress cost?
+Speaker2: This dress is currently on sale for 398 yuan.
+Speaker1: Three hundred ninety-eight yuan, what do I need to buy with that?
+Speaker2: You can directly order on our app or try on in-store before deciding.
+Speaker1: Okay, where is the specific address of the store?
+Speaker2: Our store is on the third floor of Happiness Square, just get off the metro line 2 at Happiness Station.
+Speaker1: I know, thank you for your help, see you tomorrow.
+Speaker2: No problem, looking forward to your arrival, see you tomorrow.

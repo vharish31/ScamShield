@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Do you have any special deals on food at your house today?
+Speaker2: Today, jasmine flowers and red meat are on sale. Jasmine flowers are ten yuan per portion, and red meat is fifteen yuan per portion.
+Speaker1: Can I reserve a window seat, please?
+Speaker2: Sure, the window seats at our restaurant are very popular. Do you need to make a reservation for a few minutes?
+Speaker1: Let's meet around seven in the evening.
+Speaker2: Okay, can I help you reserve a table for two with a window view at 7 pm?
+Speaker1: Sure, thank you.
+Speaker2: Please arrive ten minutes early, we are ready for you.

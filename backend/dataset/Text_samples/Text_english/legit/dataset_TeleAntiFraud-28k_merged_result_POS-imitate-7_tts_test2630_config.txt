@@ -1,0 +1,8 @@
+Speaker2: Hey, who are you looking for?
+Speaker1: Hey, it's me, Li Xiao, aren't we going to see the new house together today?
+Speaker2: Oh, I almost forgot, that real estate agent said the house was pretty good, have you arrived yet?
+Speaker1: I just arrived, I'm standing at the door of the community, come quickly.
+Speaker2: Okay, I'll leave now, I should be there in about ten minutes.
+Speaker1: Okay, just pay attention to safety on the road, I'll wait for you here.
+Speaker2: I know, see you later.
+Speaker1: Okay, see you later.

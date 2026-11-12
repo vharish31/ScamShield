@@ -1,0 +1,12 @@
+Speaker1: Hey, are there any new discount activities at your store?
+Speaker2: Hello, we have a promotion this week, which product category are you interested in?
+Speaker1: Can you provide me with detailed information about your new smartwatch?
+Speaker2: Smartwatches come in various styles, with main functions including health monitoring, notifications, and activity tracking. Which specific parameters do you want to know about a particular style?
+Speaker1: What is the price of the latest model?
+Speaker2: The new model of the smartwatch is originally priced at 3500 yuan, but now it's on sale for 90% off during the promotion period, only 3150 yuan.
+Speaker1: Can I go to the store to see the real thing?
+Speaker2: Of course, our store is on the third floor of the technology square in the city center. You can come over anytime, our business hours are from 10 am to 9 pm.
+Speaker1: Okay, I have some free time tomorrow afternoon at two o'clock. Is that convenient?
+Speaker2: I'll be at the store at 2 pm. If you need any help, just find me.
+Speaker1: Goodbye, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, are you open for business today?
+Speaker2: Our business hours are from 10 am to 10 pm.
+Speaker1: Do you need to make an appointment in advance over here?
+Speaker2: Please make sure you have a place when you come. What time did you book?
+Speaker1: Can we meet at two in the afternoon tomorrow?
+Speaker2: Okay, tomorrow at 2 pm, I will reserve a spot for you.
+Speaker1: Okay, see you tomorrow.
+Speaker2: Okay, see you tomorrow.

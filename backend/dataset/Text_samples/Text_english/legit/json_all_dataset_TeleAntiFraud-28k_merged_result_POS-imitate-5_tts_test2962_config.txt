@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Hello, I saw your home services on the internet and want to know more about it.
+Speaker2: Okay, we provide various home services such as cleaning, maid, and moving, which one do you want to know more about?
+Speaker1: I've been pretty busy at home lately and I was thinking of hiring a nanny to help take care of my kids. Do you have any recommendations for a nanny?
+Speaker2: We have several experienced maids who can provide detailed information for you to reference. You can arrange an interview with us at your convenience.
+Speaker1: Okay, I can take a look at the data, but I want to know more, how do you calculate your service fees?
+Speaker2: The cost of a maid's service is determined based on the work time and specific needs, and the monthly salary of a full-time maid is usually between five thousand and eight thousand, which can be discussed in detail.
+Speaker1: Oh, that's it. And if I only want half a day of service, then?
+Speaker2: Half-day service, the cost will be correspondingly reduced, around 200 to 300 yuan, specific details can be further communicated.
+Speaker1: Okay, I'll take a look at the data and think about it. Thank you for your help.
+Speaker2: No problem, feel free to contact us anytime, wish you a happy life. Goodbye.

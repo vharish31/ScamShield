@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, the waiter at the restaurant you consulted last time. Would you like to try our new menu items this weekend?
+Speaker2: Hey, how are you, little Zhang? What are your new menu items like this weekend?
+Speaker1: We just launched a new seafood dish this week, along with several innovative vegetarian options, all carefully prepared by our chef, you definitely won't be disappointed to try them.
+Speaker2: Sounds good, can I come to your restaurant at around 3 pm this weekend?
+Speaker1: Of course, I'll reserve a spot for you here, you can come directly when you arrive.
+Speaker2: Okay, I'll come directly when the time comes. Also, do you have any discount activities now?
+Speaker1: We have a promotion this week, spend over 200 yuan and get 90% off, plus free dessert.
+Speaker2: That sounds really cheap, I'm definitely going this weekend, thank you for the invitation.
+Speaker1: No problem, I'm looking forward to your arrival, feel free to ask me anything when you're here.
+Speaker2: Okay, see you later.

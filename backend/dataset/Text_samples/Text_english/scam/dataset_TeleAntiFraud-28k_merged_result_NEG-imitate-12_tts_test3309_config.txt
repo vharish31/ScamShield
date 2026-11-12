@@ -1,0 +1,10 @@
+Speaker1: Hello, you, I am a customer service representative of commercial bank, small zhang.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed an unusual transaction in your recent bank records. It's possible that your account was unauthorizedly used.
+Speaker2: Really? Then what do we do?
+Speaker1: Don't worry, to ensure the safety of your funds, we recommend you immediately log into our bank's official website for a safety check.
+Speaker2: Okay, how do I log in?
+Speaker1: You can click this link, it's our bank's official website, very safe.
+Speaker2: Okay, I'll go right away.
+Speaker1: Okay, log in and follow the on-screen instructions. If you encounter any issues, feel free to contact me anytime.
+Speaker2: Thank you, I will pay attention.

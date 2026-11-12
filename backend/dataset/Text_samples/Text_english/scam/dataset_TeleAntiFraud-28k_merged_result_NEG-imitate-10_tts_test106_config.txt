@@ -1,0 +1,10 @@
+Speaker1: Hello, you are China Express, I am customer service representative Zhang.
+Speaker2: Hello, do you have anything?
+Speaker1: There was a package delivered recently to our location, but because the address was not detailed, it couldn't be sent normally.
+Speaker2: Hmm, how do we solve that?
+Speaker1: Please click on a link to confirm your specific address so we can rearrange delivery.
+Speaker2: Okay, how can I operate?
+Speaker1: Just click on this link http://example.com/confirm and follow the on-screen instructions to input the relevant information.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, thank you for your cooperation. If you have any questions, feel free to contact us anytime.
+Speaker2: Okay, thank you.

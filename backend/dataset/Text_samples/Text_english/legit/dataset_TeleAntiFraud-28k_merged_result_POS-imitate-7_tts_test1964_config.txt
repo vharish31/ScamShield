@@ -1,0 +1,12 @@
+Speaker1: Hey, are you still open? I'm Li Xiao, can I help you?
+Speaker2: Hello, Mr. Li, are there anything we can help you with since our store is still open?
+Speaker1: Can you tell me what your menu is and how much it costs?
+Speaker2: Our store's signboard menu is red-braised pork head and steamed sea bass, both of which are very popular. Red-braised pork head is 38 yuan per portion, and steamed sea bass is 68 yuan per bar.
+Speaker1: Can you reserve seats? It sounds good.
+Speaker2: Of course, would you like to reserve seats for several people?
+Speaker1: I plan to go with two people, around 7 pm.
+Speaker2: Okay, two seats have been reserved for you. Please come at seven o'clock tonight. Do you need me to recommend other dishes?
+Speaker1: No need for now, thank you. Oh, do you have free parking to provide?
+Speaker2: Our store has a parking lot behind it, providing free parking service. You just need to show your purchase receipt to park for free.
+Speaker1: Okay, let's meet in the evening. Thank you!
+Speaker2: No problem, see you tonight, wish you enjoy your dinner!

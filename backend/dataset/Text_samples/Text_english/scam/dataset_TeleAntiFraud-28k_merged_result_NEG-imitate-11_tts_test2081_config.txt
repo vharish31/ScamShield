@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the client manager of Agricultural and Commercial Bank, we recently introduced a low interest loan product, do you have any funding needs?
+Speaker2: Hello, I temporarily don't have this requirement.
+Speaker1: Okay, feel free to contact me anytime if you need anything. By the way, I also have a promotion going on here, if you apply today you can get an extra discount.
+Speaker2: Really? Then how do I apply?
+Speaker1: It's very simple. Just click this link and fill out your personal information, and we'll have a specific person contact you.
+Speaker2: Link? I didn't receive it.
+Speaker1: Wait a minute, I'll send it to you right away. Just add my WeChat first, it'll be easier.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: My WeChat number is abc123456, add me and I'll send you a link.
+Speaker2: Okay, I'll add you soon.

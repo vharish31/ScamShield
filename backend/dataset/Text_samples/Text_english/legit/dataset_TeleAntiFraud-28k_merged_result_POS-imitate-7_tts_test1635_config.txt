@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Your package arrived, would it be convenient for you to come down and pick it up?
+Speaker2: Can you send it up to my floor when you're done? I'm still working overtime.
+Speaker1: Can you tell me which apartment number you live in?
+Speaker2: Excuse me, can I help you?
+Speaker1: Okay, I'll send it right away.
+Speaker2: Thank you, please.
+Speaker1: No problem, I arrived at the meeting and will call you.
+Speaker2: Okay, you worked hard.

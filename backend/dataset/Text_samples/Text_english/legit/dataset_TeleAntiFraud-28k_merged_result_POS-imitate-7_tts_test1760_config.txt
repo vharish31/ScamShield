@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have a vegetarian set meal at your store?
+Speaker2: Yes, we have a vegetarian set meal and a vegetarian hot pot here, which one do you want?
+Speaker1: I want to order a vegetarian set meal, when do you start business?
+Speaker2: We open at 10 am and close at 9 pm.
+Speaker1: Can I come around noon?
+Speaker2: No problem, you can come at twelve o'clock, there won't be too many people here, you can directly come in.
+Speaker1: Okay, I'll see you around twelve.
+Speaker2: Okay, see you later, be safe on the way.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye.

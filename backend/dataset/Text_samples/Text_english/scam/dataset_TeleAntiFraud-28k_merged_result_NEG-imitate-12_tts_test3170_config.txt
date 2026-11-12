@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am Li, the manager of the commercial bank's credit department. We have recently introduced a new credit product. Do you have any recent funding needs?
+Speaker2: Hello, I'm Zhang San, I'm a bit short of cash lately, can you give me some specifics?
+Speaker1: Okay, our loan products are very flexible, no collateral required, and the interest rate is very competitive. You can click on this link to learn more details.
+Speaker2: Link? Is it safe?
+Speaker1: Very safe, this is our official link, click to see detailed introduction and application process of credit products.
+Speaker2: Okay, let me try.
+Speaker1: Great, please click on the link and follow the instructions to fill out your personal information. I'll review it quickly on my end. If you have any issues, feel free to contact me directly.
+Speaker2: Okay, thank you. Then I'll go try it first.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you a successful application.

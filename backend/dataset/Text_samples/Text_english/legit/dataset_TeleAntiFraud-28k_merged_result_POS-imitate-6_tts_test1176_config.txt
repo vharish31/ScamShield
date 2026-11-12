@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I ordered a piece of clothing from your store. Can you tell me about the delivery status?
+Speaker2: Hello, Xiao Ming, I am customer service Zhang Xiao, can help you query. Please provide the order number, okay?
+Speaker1: Okay, my order number is 123456789.
+Speaker2: Okay, I'll check... Your order has been shipped already, it's estimated to arrive tomorrow.
+Speaker1: Okay, I'll take a look tomorrow. Also, I want to consult your return/exchange policy.
+Speaker2: Of course. Our store's return policy is within seven days of receiving the product, keeping the product original, and not affecting the second-hand sale situation, it can be done return exchange.
+Speaker1: Understood, thank you for your answer. Is there another question? Do you provide packaging service?
+Speaker2: Yes, we provide gift wrapping service, please specify in order note if needed.
+Speaker1: Okay, I will pay attention next time. Thank you for your help, little Zhang.
+Speaker2: No problem, feel free to contact us if you have other questions. Have a nice life. Bye!

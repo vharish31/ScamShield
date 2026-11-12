@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, can you tell me how to arrange haircut appointment in your place?
+Speaker2: Hello, little Zhang, I am the customer service here, what time would you like to book?
+Speaker1: Do you have any free time on Saturday afternoon at four o'clock?
+Speaker2: Let me check, Saturday afternoon at four o'clock is okay.
+Speaker1: How long do I need to arrive in advance?
+Speaker2: Please arrive ten minutes early to complete the registration.
+Speaker1: Okay, what do I need to bring on Saturday at 4:15 PM?
+Speaker2: You don't need to bring anything, we'll provide all the necessary items here.
+Speaker1: Okay, thank you for your help, see you on Saturday.
+Speaker2: No problem, see you on Saturday, wish you a happy day.

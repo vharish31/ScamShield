@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm little Zhang, this is somebao customer service center, we found that the product you bought a few days ago was lost during transportation, to compensate you, we are preparing to give you a refund, can you take a call?
+Speaker2: Okay, you say, what do I need to do?
+Speaker1: Okay, to ensure a smooth refund process to your account, please provide us with your bank card number and verification code. We will process immediately on this end.
+Speaker2: How do I know you're a real customer service?
+Speaker1: You can call our customer service hotline to verify, the phone number is 4001515555, but to save time, you can first provide information, we can handle it immediately, and the refund will be quickly credited to your account.
+Speaker2: Okay, my bank card number is 622222080015833, and the verification code is 8639.
+Speaker1: Okay, thank you for your cooperation. We will process immediately, and we estimate that the refund will reach your account within fifteen minutes. If there are any issues, please feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if there are any other places that need help, please contact me anytime. Wish you a happy life, goodbye.
+Speaker2: Goodbye.

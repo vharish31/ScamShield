@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I ordered a cake yesterday at your store, can you confirm the pickup time?
+Speaker2: Hello, Xiaoming, do you have a pickup scheduled for today?
+Speaker1: Yes, it's today, I scheduled to pick up at 3 pm.
+Speaker2: Okay, three o'clock is fine, we will prepare the cake in advance.
+Speaker1: Can I come at two o'clock? I'm a bit urgent.
+Speaker2: Okay, two o'clock is fine, you can come directly and say the name to take the cake.
+Speaker1: Okay, thank you. Is that strawberry flavored cake?
+Speaker2: That's right, you ordered strawberry flavor and added a little whipped cream on the side.
+Speaker1: Great, my grandma will definitely like it. Then what should I do after I go to the store?
+Speaker2: Tell the front desk your name after you arrive, they will take you to find the cake.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you later, wish your grandma a happy birthday.

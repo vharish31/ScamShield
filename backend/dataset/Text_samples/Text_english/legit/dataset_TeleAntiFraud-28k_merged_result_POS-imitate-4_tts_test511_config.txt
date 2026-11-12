@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative for KFC delivery. Your package has arrived at the local delivery station. Can you confirm your delivery address and phone number?
+Speaker2: Okay, my delivery address is Sun Guang Xiao Quan San Hao Lou San Dan Yuan, phone number is 13801380138.
+Speaker1: Okay, confirm no mistake, your package will be delivered tomorrow morning. If there's any special situation, we will contact you in advance.
+Speaker2: Okay, thank you. Is it true that your delivery personnel will deliver directly to the doorstep?
+Speaker1: Yes, in general, if the recipient is at home, we will directly deliver to the doorstep. If not, we will contact the recipient to confirm whether it is placed outside the door or at a specified location.
+Speaker2: That's great, can I leave it at the door in the morning if I'm not at home?
+Speaker1: Of course, we will operate according to your requirements. If there are any changes, we will notify you promptly.
+Speaker2: Thank you so much, recently the delivery box has been short, it has added a lot of trouble to your work.
+Speaker1: No problem, this is what we should do. If there are other places that need help, please contact us anytime.
+Speaker2: Okay, thank you again, see you tomorrow.

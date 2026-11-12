@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Wang?
+Speaker2: Who are you? What do you want?
+Speaker1: I am the customer manager of Guangdian Yinhang Bank, Xiao Zhang. We have a special discounted loan product here with an interest rate as low as 0.03%, no collateral, fast approval, and it's very suitable for your type of enterprise.
+Speaker2: I have plenty of money on hand, so I don't need a loan at the moment.
+Speaker1: Oh, that's how it is. But this product is very popular, the number of names is limited, you can consider it, if you need it, you can contact me anytime. Moreover, I add your WeChat, convenient for later contact.
+Speaker2: Okay, let's go.
+Speaker1: Great, my WeChat number is zhang123456, you add it.
+Speaker2: Okay, I added it.
+Speaker1: Thank you for your cooperation. If you have any capital needs, please contact me anytime. Wish your business prosperity. Goodbye!
+Speaker2: Goodbye.

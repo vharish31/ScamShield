@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm near your store, I want to buy a birthday cake, do you have any?
+Speaker2: Hello, we have various flavors of birthday cake here, what flavor do you want?
+Speaker1: Do you have any recent activities? I want to buy a strawberry-flavored one.
+Speaker2: We have an activity this week, buy birthday cake at a 90% discount, you come at the right time.
+Speaker1: That's great, I'll probably come around three in the afternoon, can I?
+Speaker2: Okay, come on time and tell me the size and decoration requirements of the cake.
+Speaker1: Okay, I want an eight-inch one with "Happy Birthday" written on top and some strawberry decorations.
+Speaker2: Okay, I've noted it down. I'll be at our store at three in the afternoon. We'll be ready.
+Speaker1: Thank you, see you then.
+Speaker2: No problem, see you later.

@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm Zhang, the customer service representative from the point store. I see that you have a lot of member points in your account. Do you know?
+Speaker2: Really? I didn't know there were points that could be exchanged for things.
+Speaker1: Yes, your points can be exchanged for many good things, such as electronic products and daily necessities. However, you cannot exchange them after 12 am tonight, and your points will be cleared.
+Speaker2: That's too bad, do you have a smartwatch that can be exchanged with points?
+Speaker1: Of course, smartwatches are one of our popular exchange items. How many points do you have now?
+Speaker2: Let me take a look, it should be around twenty-six thousand points, right?
+Speaker1: That's great, you have enough points to exchange a smartwatch. You can exchange now, and I can also help you apply for an additional after-sale gift package, including free return service.
+Speaker2: Listen well, how do I start exchanging?
+Speaker1: You can exchange through our App or website. I can send you a quick exchange link here.
+Speaker2: Okay, can you help me out? Thanks for reminding me.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. I wish you a happy exchange!

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I want to know more about your fitness program.
+Speaker2: Hello, I am a customer service representative at the fitness center. How can I assist you?
+Speaker1: Can you tell me the specific arrangement of your private coaching courses?
+Speaker2: Our private coaching program will be tailored to your body condition and fitness goals, with two sessions per week, each lasting one hour.
+Speaker1: What is the price?
+Speaker2: The monthly fee for private coaching courses is 2500 yuan, including four sessions.
+Speaker1: Have you tried listening to the course?
+Speaker2: Yes, we can provide a free trial lesson, so you can experience our service.
+Speaker1: Okay, when can I come to try listening?
+Speaker2: You can choose either 3:00 PM on Tuesday or Thursday afternoon, both of which have available slots.

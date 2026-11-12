@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I saw a blue notebook computer in your store, can you tell me more about it, do you have any goods?
+Speaker2: Hello, Small Li, we really have blue notebook laptops here, but the stock is low, can you come to the store to take a look?
+Speaker1: Okay, can I come at around 3 pm this afternoon?
+Speaker2: Okay, there are three people here at three o'clock, remember to bring your ID when you come, buying electronic products requires real name registration.
+Speaker1: Okay, I know. Yes, can this notebook computer configuration be upgraded?
+Speaker2: Sure, we provide upgrade services here. You can come to the store to check it out specifically, and we will have professional technical personnel serve you.
+Speaker1: That's great, I'm afraid I won't use it enough if I buy it and take it back. Also, do you support installment payments?
+Speaker2: We support installment payments, you can choose to pay with a bank credit card installment or a third-party payment platform installment. The specific details you can find out in store.
+Speaker1: Okay, I'll arrive at three in the afternoon. Thank you for your help. Goodbye.
+Speaker2: No problem, I'm looking forward to your arrival, goodbye.

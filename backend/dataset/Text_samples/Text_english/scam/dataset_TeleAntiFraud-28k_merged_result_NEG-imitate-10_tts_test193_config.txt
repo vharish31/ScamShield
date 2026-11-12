@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of the speed-purchase mall, we found that there may be some quality issues with the smartwatch you bought on our platform before, and we need to handle it for you.
+Speaker2: Is it?
+Speaker1: Yes, in order to ensure your rights, we need you to provide the purchase order number at the time of purchase, we can process a refund or exchange for you.
+Speaker2: Okay, how can I provide?
+Speaker1: You can click on the link I send to you, enter your order number and verification code, and we can quickly process it.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, if you have any issues during the operation, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you happy life, bye.
+Speaker2: Goodbye.

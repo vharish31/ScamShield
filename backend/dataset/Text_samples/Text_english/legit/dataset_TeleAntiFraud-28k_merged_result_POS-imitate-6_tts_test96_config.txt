@@ -1,0 +1,10 @@
+Speaker1: Hello, is this the Li family's housekeeping service company?
+Speaker2: Hello, yes, this is the Little Li household service company. What can I help you with?
+Speaker1: Can you schedule a time for your cleaning service at my house soon?
+Speaker2: Okay, can we schedule a big cleaning at your house on Saturday morning at 9am? Is that okay with you?
+Speaker1: Saturday morning was pretty good, but I had a meeting that ended at 11 am that day.
+Speaker2: Let's start at 11:30, so it won't affect your meeting.
+Speaker1: That's good, can we start at 11:30? How long will it take to finish?
+Speaker2: Based on your family's actual situation, it will take approximately three to four hours, and we will do our best to complete it efficiently.
+Speaker1: Okay, what's the trouble, the specific address is Yangguang Xiǎojū Sān hào lóu Ér dān yī xīng sì zhōng shìng rèmén.
+Speaker2: Okay, we have recorded the address and we will arrive on time at 11:30 am on Saturday, and if there are any changes we will contact you in advance.

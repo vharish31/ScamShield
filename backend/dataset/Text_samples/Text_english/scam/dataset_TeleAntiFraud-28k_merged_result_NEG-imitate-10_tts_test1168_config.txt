@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Ming?
+Speaker2: Hey, who are you?
+Speaker1: I am a customer manager at Tianhai Bank. We recently launched a low-interest loan product. Would you like to know if you have any funding needs?
+Speaker2: Loan? I don't have this plan now, what's your interest rate?
+Speaker1: Our interest rates are very favorable, only requiring 0.5% annual interest, and the approval and disbursement are both quick. If you have any needs, you can add me on WeChat and I will send you detailed information.
+Speaker2: Do you have a WeChat? I'll first understand a bit, do you have other contact methods?
+Speaker1: Of course, this is my phone number. You can call me to consult if you have time, or click on the link I sent you and apply online directly.
+Speaker2: Okay, I'll take a look. Give me a link.
+Speaker1: Okay, I'll send it to you right away. Don't forget to check it out. By the way, if you're interested in our products, you can download our official app, it's more convenient to operate.
+Speaker2: Okay, let me try, thank you.

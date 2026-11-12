@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: I rented a car from your platform yesterday, but I encountered some problems today.
+Speaker2: Oh, what problem have you encountered?
+Speaker1: I parked the car at the designated location according to the instructions, but the system shows that the car is not yet returned.
+Speaker2: Have you returned the key to the car yet?
+Speaker1: "Okay, the key and the car were handled according to the requirements, but the system is still showing that the car is not available."
+Speaker2: Please check the oil tank to make sure it's full of oil.
+Speaker1: The oil tank is full, yet it's still not enough.
+Speaker2: Okay, please don't rush, I'll check the specific reasons on this end, just wait for a moment

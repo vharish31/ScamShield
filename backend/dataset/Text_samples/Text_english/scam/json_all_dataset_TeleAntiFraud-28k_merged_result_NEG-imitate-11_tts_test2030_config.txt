@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? This is the customer service representative of Tiancheng Yinhang, I am Xiao Wang, our bank has just launched a new financial product with a very attractive return, are you interested in learning more about it?
+Speaker2: Hey, I don't have time now, is your product reliable?
+Speaker1: Extremely reliable, this product is directly pushed out by the bank, and several hundred customers have participated, and their feedback is all very good.
+Speaker2: What should I do now?
+Speaker1: Just click on the link I send you, download our financial app, register and you'll have access to detailed info, it's very convenient.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the link right away. Please download it as soon as you receive it. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish your investment to be successful, feel free to contact me if you have any questions.

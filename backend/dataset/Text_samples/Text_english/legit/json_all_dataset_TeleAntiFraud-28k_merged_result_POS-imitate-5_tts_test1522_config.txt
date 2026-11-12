@@ -1,0 +1,10 @@
+Speaker1: Hey, how's the new smartwatch at the store?
+Speaker2: Hello, I am customer service representative Li. Our new smartwatch is very popular recently, not only its design is fashionable, but its function is also very powerful, such as monitoring heart rate, steps, and connecting to the phone to receive notifications.
+Speaker1: How long will the battery of this watch last?
+Speaker2: The battery life of this watch is approximately one week, with some variation depending on usage.
+Speaker1: Does this watchband have waterproof functionality?
+Speaker2: This watch has a waterproof function for daily life, such as washing hands and rain, but it is not recommended to bring it swimming or diving.
+Speaker1: Okay, when can I come to the store to take a look?
+Speaker2: Our store is open from 10 am to 9 pm every day. You can come at any convenient time.
+Speaker1: Can I come over at two in the afternoon tomorrow?
+Speaker2: Of course, we'll meet at two o'clock in the afternoon tomorrow and prepare a good experience for you.

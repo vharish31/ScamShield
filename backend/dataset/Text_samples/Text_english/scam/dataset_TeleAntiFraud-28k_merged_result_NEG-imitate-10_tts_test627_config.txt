@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Li from the Zhong Xiang Xin Liu Department, we recently launched zero interest loan service, do you want to know more about it?
+Speaker2: Okay, understand now.
+Speaker1: Okay, this product is very suitable for small business owners and individual entrepreneurs, no collateral is required, only basic personal information is needed for quick approval, the fastest possible loan is on the same day.
+Speaker2: Can you give a detailed explanation?
+Speaker1: Of course, for your convenience, we have a special loan app. Just click this link to download and register, and you can see detailed loan product information and application process.
+Speaker2: Okay, let me try.
+Speaker1: Great, the link is https://example.com. If you encounter any issues after clicking on it, please feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, okay, to ensure your information safety, please use a one-time verification code to log in after downloading the app. The verification code will be sent to your phone after you submit the application.
+Speaker2: I understand, thank you for your reminder.

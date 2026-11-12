@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the commercial bank customer service center. I am the customer service manager, Zhang Wei. Have you recently considered handling loan business?
+Speaker2: Hello, I haven't considered it, I'm currently quite busy.
+Speaker1: That's great, we have a special discount loan project here, no collateral, low interest rate, fast approval, perfect for your needs.
+Speaker2: Is it really so? It sounds good. What should I do?
+Speaker1: It's very simple. Just download our official app, fill out the information as prompted, and you'll be approved and able to cash out once it's verified.
+Speaker2: Is the app safe to download?
+Speaker1: Of course, our app is authenticated, so you can use it with confidence. However, to speed up the approval process, you can provide some personal information after downloading, such as your identity card number and bank card number.
+Speaker2: Okay, I'll try. What's the name of the app?
+Speaker1: The name of the app is "Quick Loan", you can search and download it in the app store. Moreover, to ensure your information security, you can also directly click on the link I send you to download it.
+Speaker2: Okay, thank you. I will go take a look.

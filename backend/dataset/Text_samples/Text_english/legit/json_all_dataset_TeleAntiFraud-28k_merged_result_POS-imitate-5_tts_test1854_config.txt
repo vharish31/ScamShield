@@ -1,0 +1,12 @@
+Speaker1: Hey, how have you been lately?
+Speaker2: Ugh, who are you, I can't remember.
+Speaker1: Haha, I'm little Zhang, classmates at university, do you remember?
+Speaker2: Hey, little Zhang, do you remember, how have you been lately?
+Speaker1: Hello, I just changed jobs recently and it's pretty busy. How about you?
+Speaker2: I'm still at my old company, there have been a lot of projects lately, and overtime has been quite a bit.
+Speaker1: That's quite tiring, let's gather and chat about the recent developments.
+Speaker2: Sounds good, let's find some time to eat together.
+Speaker1: Hey, do you have any free time this weekend?
+Speaker2: Can we meet this weekend at several points?
+Speaker1: Then Saturday evening at six, I book a seat.
+Speaker2: Okay, see you at six on Saturday, your place is fine.

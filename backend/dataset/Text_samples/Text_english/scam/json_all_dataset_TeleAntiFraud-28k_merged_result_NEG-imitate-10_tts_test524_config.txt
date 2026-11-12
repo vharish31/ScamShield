@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Dongjing Bank, there is a great loan project that I would like to recommend to you, the interest rate is very low, are you interested in learning more?
+Speaker2: Hello, I currently don't have any funding needs, so I don't need a loan at the moment.
+Speaker1: Hmm, I understand. But our loan project has many other benefits besides low interest rates, such as quick approval and high credit limits. If you change your mind, feel free to add me on WeChat and consult anytime.
+Speaker2: I won't use WeChat anymore, if there's a real need, I'll call your bank.
+Speaker1: Okay, I'll send you a text message with our official app download link. You can check it out when you have some free time to learn more about our bank's products.
+Speaker2: Sending a text message is okay, but I'm not very fond of downloading apps. Can your loan application be completed directly on the official website?
+Speaker1: Of course, but for convenience and efficiency, I still recommend downloading our app, operation is simpler, approval is faster.
+Speaker2: I'll take a look at the links in the text messages first, thank you for your recommendation.
+Speaker1: Okay, you can contact me anytime if you have any questions. Wish you all the best.
+Speaker2: Okay, thank you. Bye.

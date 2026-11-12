@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, the weather has been quite changeable lately, how about you?
+Speaker2: Hello, Xiaoming, the weather here is not bad, just the temperature difference between day and night is big, so pay attention to wear some clothes.
+Speaker1: Hey, I heard there was a bit of rain in your area recently, remember to bring an umbrella when you go out.
+Speaker2: Thank you for reminding me. By the way, do you have any plans lately?
+Speaker1: No special plans, just want to go to a new restaurant on the weekend to try new dishes, heard it's good.
+Speaker2: Sounds good, which restaurant is it? I also want to try it.
+Speaker1: Let's go to the restaurant called "Flavor Explorers" if you have time.
+Speaker2: Sounds good, I'm free this Sunday, let's go together.
+Speaker1: Okay, that's settled then, I'll call them ahead and reserve the location.
+Speaker2: Okay, see you later. I hope the food on that side is as delicious as rumored.

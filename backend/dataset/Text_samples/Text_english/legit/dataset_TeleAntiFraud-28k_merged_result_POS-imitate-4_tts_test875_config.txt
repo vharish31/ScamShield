@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you ready on your side? I should be there in about fifteen minutes.
+Speaker2: Okay, let's clean up the stuff first, you can come directly up now.
+Speaker1: Okay, I arrived. I'll call you to confirm.
+Speaker2: Okay, pay attention to safety on the road.
+Speaker1: Hey, pay attention, don't rush to work.
+Speaker2: Okay, you can start directly now.
+Speaker1: Okay, see you later.
+Speaker2: Goodbye.

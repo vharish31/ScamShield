@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: That's it, I recently discovered a coffee machine on your website that I'm interested in, and I want to know more about its usage.
+Speaker2: Okay, you're talking about a coffee machine from some brand, right?
+Speaker1: Yes, what is the user experience like for that brand?
+Speaker2: This coffee maker is very convenient to use, the operation is simple, and it's easy to clean up as well.
+Speaker1: What is the price of that?
+Speaker2: This coffee machine is priced at 2500 yuan, and we currently have a discount promotion on our website.
+Speaker1: Do you have any after-sales service?
+Speaker2: We provide a one-year warranty service. If you encounter any problems while using it, please contact our customer service, and we will quickly solve them for you.
+Speaker1: Okay, I'll think about it, thank you for your help.
+Speaker2: You're welcome, feel free to consult anytime, wish you a happy life.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Have you arrived at the community gate yet?
+Speaker2: Yes, I just arrived.
+Speaker1: Can you come in? I'm waiting for you in the community.
+Speaker2: Okay, show me the way.
+Speaker1: Walk straight along this road, turn right at the second crossroads, and keep going until you reach the end.
+Speaker2: Okay, I'll be right over. Where are you waiting for me?
+Speaker1: I'm waiting for you at the front of building three, it should be easy to find.
+Speaker2: Okay, I'll be there soon.

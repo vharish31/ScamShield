@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to know more about your household services here.
+Speaker2: Of course, we provide clean, maid, elderly caregiver, etc. services. Which one do you want to know about?
+Speaker1: What is the main service and how do you charge?
+Speaker2: Our cleaning services are charged by the hour, fifty yuan per hour. If you require long-term service, we can offer a more discounted price.
+Speaker1: Can I have weekly cleaning on Monday?
+Speaker2: Sure, we have a special menu every week on Monday, you can choose a time that suits you.
+Speaker1: Okay, do I need to make a reservation?
+Speaker2: Yes, in order to ensure service quality, we need to make an appointment in advance. You can tell me a convenient time, and I will help you arrange it.
+Speaker1: I'll book this Saturday morning at 10am.
+Speaker2: Okay, on Saturday morning at 10 am, I will arrange for the staff to arrive on time. If there are any changes, we will contact you in advance.

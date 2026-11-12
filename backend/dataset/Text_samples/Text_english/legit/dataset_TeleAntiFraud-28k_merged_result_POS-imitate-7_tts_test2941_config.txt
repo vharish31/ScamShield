@@ -1,0 +1,10 @@
+Speaker1: Hey, are your restaurant still open?
+Speaker2: Hello, our restaurant is open until 10 pm tonight, what time is it now?
+Speaker1: Can I reserve a four-person table at 7:30?
+Speaker2: Of course, what time do you want to book?
+Speaker1: About 8:30, we want to arrive.
+Speaker2: Okay, a four-person table has been reserved for you at 8:30 am. Please come ten minutes early so we can prepare in advance.
+Speaker1: Okay, let's just come directly at the time, right?
+Speaker2: Yes, please tell us the names of your reservation after you come, and we will arrange it for you.
+Speaker1: That's great, thank you for your help.
+Speaker2: You're welcome, hope you enjoy your meal, bye.

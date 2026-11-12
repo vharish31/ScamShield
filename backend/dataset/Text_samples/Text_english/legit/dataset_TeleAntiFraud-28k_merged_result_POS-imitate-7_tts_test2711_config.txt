@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, the one who bought books at your store last time.
+Speaker2: Hello, little Zhang, remember you, what can I help you with?
+Speaker1: Hey, it's that novel I read at home, I felt it wasn't suitable for me, can I exchange it?
+Speaker2: Sure, we support seven-day no-reason return or exchange at our store. Just bring your book and purchase receipt, and you can directly come to the store.
+Speaker1: Oh, that's how it is. But I'm pretty busy at work right now, so I don't have much time on weekends.
+Speaker2: No problem, we are also open on weekends, come over at your convenience.
+Speaker1: Okay, okay. Then I'll come over on Saturday afternoon around three o'clock.
+Speaker2: Okay, on Saturday afternoon at three o'clock, you come over, and I'll be waiting for you there at that time.
+Speaker1: It's great, thank you, see you later.
+Speaker2: No problem, see you later, be careful on the road.

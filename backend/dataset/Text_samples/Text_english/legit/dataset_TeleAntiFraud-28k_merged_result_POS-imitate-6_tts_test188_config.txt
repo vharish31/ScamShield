@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform. There is a problem with the order you placed before, and we need you to confirm the address information.
+Speaker2: Hey, what's up? What's the issue with my order?
+Speaker1: That's right, we found out that your address is quite hard to find during the delivery process, so you may need to provide some specific landmarks or nearby building names.
+Speaker2: Oh, that's it, my address is Happiness Village, there's a big supermarket nearby called Happiness Supermarket, you guys should be able to find it if you ride your bikes to the supermarket area.
+Speaker1: Okay, thank you for your cooperation. We will send your order to you quickly. Do you need any other help?
+Speaker2: No need, thank you.
+Speaker1: Okay, enjoy your meal! If you have any questions, please contact our customer service. Bye!
+Speaker2: Goodbye!

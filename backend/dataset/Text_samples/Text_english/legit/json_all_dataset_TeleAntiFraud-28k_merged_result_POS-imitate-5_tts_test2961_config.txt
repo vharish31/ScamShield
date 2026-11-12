@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm Xiaoming, can I ask about your restaurant's business hours?
+Speaker2: Hello, Xiaoming, our restaurant is open from 10 am to 10 pm without any break in between.
+Speaker1: Do you have any special flavor dishes to recommend?
+Speaker2: Our restaurant's most popular dishes are the fried fish with the sign and the handmade noodles, many customers often order these two.
+Speaker1: I'd like to try it too. Do we need to reserve seats in advance?
+Speaker2: If it's during lunchtime, it's recommended to make a reservation in advance to avoid waiting too long.
+Speaker1: Okay, can I reserve a spot for tomorrow night at 7pm?
+Speaker2: Of course, tomorrow evening at seven o'clock, I will reserve a place for you.
+Speaker1: Okay, can I just come directly when the time comes?
+Speaker2: Yes, please tell us your name after you arrive, and we will arrange your seat.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival. Goodbye!

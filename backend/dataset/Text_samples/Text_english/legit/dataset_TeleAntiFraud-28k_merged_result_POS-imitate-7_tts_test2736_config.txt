@@ -1,0 +1,11 @@
+Speaker1: Hello, are you consulting information about air purifiers here?
+Speaker2: Hey, yeah, I'm planning to buy one recently, do you guys have any recommended models in your place?
+Speaker1: Of course, we have several air purifiers with high value-for-money on this side, such as air purifier A type, which has excellent filtering effect, and is suitable for family use.
+Speaker2: What is the price of this one?
+Speaker1: The price of type A air purifier is 2500 yuan, there is currently a promotion, and you can enjoy a 95% discount when purchasing.
+Speaker2: Does the filter net of this air purifier need to be replaced periodically?
+Speaker1: Yes, it's generally recommended to change the filter every three months to ensure the best purification effect.
+Speaker2: Okay, if I decide to buy, can you deliver and install it at my door?
+Speaker1: Sure, we provide free door-to-door delivery service, installation fee is 200 yuan.
+Speaker2: Okay, I decided to buy it, how do I place an order?
+Speaker1: Okay, you can directly place an order through our official website, or tell me your address and contact information, I can help you place an order.

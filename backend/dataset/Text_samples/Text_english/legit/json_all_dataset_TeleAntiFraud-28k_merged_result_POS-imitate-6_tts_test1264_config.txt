@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I saw a phone on your website, can you introduce it to me?
+Speaker2: Hello, of course. What kind of phone are you interested in?
+Speaker1: Is it the latest new model recommended on your website that you don't know about its performance?
+Speaker2: That phone is our latest flagship model, using the latest processor, running speedy, heating up less, suitable for gaming and multi-task processing.
+Speaker1: How is its camera?
+Speaker2: The main camera of the system has a million pixels and supports night mode and ultra-wide angle photography, making it perfect for photography enthusiasts.
+Speaker1: I'm so excited to hear you say that. Is this phone in stock now?
+Speaker2: Yes, this phone has sufficient stock. You can choose to buy it directly or place an order.
+Speaker1: How long will it take for the order to be delivered?
+Speaker2: After you place an order, we will ship it to you within 24 hours, and it usually takes 2-3 days to arrive.
+Speaker1: Okay, now I can relax. Thank you for your detailed explanation.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a nice shopping!

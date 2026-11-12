@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service girl at the food square. I see you've been here recently and wanted to ask if you're satisfied with our service and food?
+Speaker2: Hello, it's okay, pretty good.
+Speaker1: Great, thank you for your confirmation. We recently launched several new products, do you have any interest in trying them out?
+Speaker2: Do you have any new products? Do you have any recommendations?
+Speaker1: Yes, for example, our signboard menu, spicy chicken, and the new seafood rice, are all very popular.
+Speaker2: Sounds good, I'll give it a try next time.
+Speaker1: That's great, if you have time, you can call us ahead to reserve, so you can avoid the queue.
+Speaker2: Okay, I will call ahead. And one more thing, the drink I ordered last time was a bit sweet, do you know if you can adjust the sweetness a little?
+Speaker1: Of course, we provide sweetness adjustment service, next time you come, you can specify your requirements.
+Speaker2: Okay, thank you for your help, see you next time.

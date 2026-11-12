@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm small Zhang, the client manager of xx investment company, recently we launched a high return investment financial product, do you have any interest?
+Speaker2: Invest, I understand a little, how is your product?
+Speaker1: This product is meticulously crafted by a team of experienced investment experts, with a potential return rate of 15%, and very low risk, making it a highly popular product in the market.
+Speaker2: Is this return so high, really?
+Speaker1: "Absolutely true, our company has many successful cases, as long as you are willing to try, you will never be disappointed."
+Speaker2: How can I participate?
+Speaker1: It's very simple. Just download our official app, register an account, and then you can start investing. If you act now, you can also enjoy new user discounts.
+Speaker2: Hmm, I need to consider it.
+Speaker1: What are you considering? This opportunity is rare, and there might be extra rewards for acting now. If you miss this village, you'll miss this store too.
+Speaker2: Okay, let me try.
+Speaker1: Great, you're really smart. I'll send you a link, just download our app and follow the instructions.
+Speaker2: Okay, thank you.

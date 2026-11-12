@@ -1,0 +1,12 @@
+Speaker1: Hey, are you the lightning grill guy?
+Speaker2: Hey, where are you?
+Speaker1: I'm a resident nearby, want to know your menu and prices.
+Speaker2: Alright, here we mainly provide grilled meat, grilled fish, and various small stir-fries, priced from 30 yuan to over 100 yuan, please refer to our menu for specifics.
+Speaker1: Do you have any recommendations for dishes in your area?
+Speaker2: Our signature grilled fish is very popular, and our secret-recipe grilled meat tastes great too.
+Speaker1: How about your business hours?
+Speaker2: We are open from 11 am to 10 pm every day, and on weekends we extend until 11 pm.
+Speaker1: Okay, do I need to make a reservation in advance if I want to eat at your place this weekend?
+Speaker2: It's usually crowded in the evenings on weekends. It's recommended to book in advance, either by phone or online.
+Speaker1: Okay, I'll reserve a four-person table for Saturday night at 7 pm. The phone number is 13801380138.
+Speaker2: Okay, I have already reserved a four-person table for you on Saturday evening at 7 pm. Please remember to bring your phone to confirm when you arrive.

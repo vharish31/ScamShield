@@ -1,0 +1,9 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, do you have private rooms in your restaurant?
+Speaker2: Yes, our restaurant has several private rooms that can accommodate different numbers of people. How many people do you need to accommodate?
+Speaker1: We roughly have ten people who want to schedule something for the weekend.
+Speaker2: Okay, for the weekend, our private room needs to be reserved in advance. What is your reservation time, Saturday or Sunday, and what time specifically?
+Speaker1: We want to set Sunday evening at six o'clock.
+Speaker2: Sunday evening at six o'clock is okay. What's your name and contact information so we can record and contact you?
+Speaker1: My name is Zhang Jian, phone number is 13612365656.
+Speaker2: Okay, Mr. Zhang, your reservation has been recorded. On Sunday evening at six o'clock, we will prepare a room for you. If there are any changes, we will contact you in advance.

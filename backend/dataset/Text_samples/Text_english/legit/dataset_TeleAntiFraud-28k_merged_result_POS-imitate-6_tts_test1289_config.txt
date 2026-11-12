@@ -1,0 +1,10 @@
+Speaker1: Hello, is this the Xiāngguāng chǎnchǎng?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm Xiao Ming. Can you tell me about your restaurant's special dishes and business hours?
+Speaker2: Hello, Xiaoming. Our restaurant special dishes include steamed sea bass, stir-fried frog, and our signature spicy and sour hot pot. Our business hours are from 11 am to 10 pm every day.
+Speaker1: The sound is great. Can I reserve a window seat for two people tomorrow night at 7 pm?
+Speaker2: Okay, Xiaoming. I noted it down for you. Tomorrow at seven in the evening, for two people, at the window position. Do you have any other special arrangements?
+Speaker1: No longer available, thank you. Can I come directly tomorrow?
+Speaker2: Yes, you can come directly tomorrow. We will prepare everything here for you. We are looking forward to your arrival!
+Speaker1: Okay, thank you. See you tomorrow.
+Speaker2: See you tomorrow, wish you a happy day!

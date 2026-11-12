@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? What's up?
+Speaker1: I just placed an order for a piece of clothing on your website, but I forgot to confirm the size, can you help me check it?
+Speaker2: Okay, what's your order number? I'll check it over here.
+Speaker1: Order number is one six five two eight four, sorry.
+Speaker2: Found it! You chose a medium size when you placed your order, this suit is designed for most body types, but if you need to adjust the size, you can do so now.
+Speaker1: Then I'll choose the mean grade, how long does it usually take for you to ship?
+Speaker2: In general, we will ship within 24 hours after ordering, but if there's a holiday, there might be a slight delay.
+Speaker1: Okay, then I'll wait for the notification, and what is your return policy?
+Speaker2: We support seven-day no-reason return or exchange, as long as the product is not damaged, it will not affect secondary sales, and it can be returned or exchanged.
+Speaker1: I understand, thank you for your help, no other questions.
+Speaker2: No problem, what do you need to contact me urgently, wish you happy life.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I just bought a phone from your store, and I found the screen has some problems, can you help me fix it?
+Speaker2: Hello, little Zhang, I am customer service Li, can you tell me your order number? We can help you query here.
+Speaker1: Okay, my order number is 123456789, could you check it out?
+Speaker2: Okay, I found it. Your purchase is our store's latest phone model, and if there's a screen issue, you can get a free replacement. Is it convenient for you to come to the store once?
+Speaker1: Can you come around 4 PM tomorrow afternoon? I'm a bit busy today.
+Speaker2: Okay, someone will meet you at our side at 4 pm tomorrow. Remember to bring your purchase certificate and any questions on your phone.
+Speaker1: Okay, thank you. By the way, I saw your store has protective masks and phone cases, can we buy them together tomorrow?
+Speaker2: Of course, we have various protective films and phone cases in our store, you can choose them, and we will install them for you.
+Speaker1: Goodbye, see you tomorrow.
+Speaker2: Okay, see you tomorrow. If you have any other questions, feel free to contact me.

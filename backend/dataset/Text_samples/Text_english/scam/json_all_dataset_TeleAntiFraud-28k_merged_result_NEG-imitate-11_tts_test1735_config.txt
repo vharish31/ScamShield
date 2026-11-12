@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am small Li, this side is Tian An Kuai Di's customer service specialist, you recently have a single express delivery show lost, we are preparing to handle the refund for you, are you convenient now?
+Speaker2: Okay, you say, how do you compensate for lost express delivery?
+Speaker1: To verify your identity information, please provide the last four digits of your phone number and bank card number. We need to directly refund the money to your bank account.
+Speaker2: Why do you need my bank card number? Can't you just pay through Alipay directly?
+Speaker1: Since our system only supports bank card refunds, this is to ensure your financial safety. You can rest assured, we will not disclose your personal information.
+Speaker2: Okay, I'll send you a text message later, and you can refund me once you receive it.
+Speaker1: Okay, to speed up the refund process, we have also prepared a link for you. You can click on this link and fill out the relevant information. This way, you can complete the refund process more quickly.
+Speaker2: Okay, let me take a look in a minute.
+Speaker1: Okay, if you have any questions after clicking the link, you can directly contact me, I will be online to serve you anytime.
+Speaker2: Okay, thank you.

@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm little Li from the fresh flower ordering platform. We saw that you ordered flowers from us before, and we want to know if you are satisfied with our service, and if you have any opinions or suggestions?
+Speaker2: Hi, I'm very satisfied with your service, the quality of the flowers is not bad, but can you please notify me in advance before sending them?
+Speaker1: This suggestion is great, we will consider sending a text message reminder to customers before sending flowers. Is there anything else you need help with?
+Speaker2: Hey, do you have any birthday flower basket recommendations? My friend's birthday is coming up and I want to order one to send to him.
+Speaker1: Of course, we have many flower bunches suitable for birthdays here, such as roses, lilies, and daisies, you can choose according to your friend's preference.
+Speaker2: What do you recommend for my friend who likes simple style?
+Speaker1: A simple style of conversation, we have a bouquet of white and pink as the main colors, this bouquet not only has a clean color, but also has a very simple design, very suitable for sending to friends who like simple style.
+Speaker2: How much does that bouquet cost?
+Speaker1: This bouquet costs 258 yuan, and if you order now, we can also provide you with free birthday card service.
+Speaker2: Okay, I'll order this bouquet and add a birthday card too.
+Speaker1: Okay, your order has been recorded. We will arrange delivery as soon as possible. Is there anything else you need help with?

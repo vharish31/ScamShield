@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the Tianhe branch of Agricultural Bank. We have a special loan project for our high-quality customers, which can provide a credit loan of 50,000 yuan, no collateral, fast approval, are you interested?
+Speaker2: Oh, really? I actually have a bit of a cash need recently.
+Speaker1: Yes, this project is very suitable for you. In order to ensure the accuracy of your information, I need you to provide me with your identity card number and bank account, and we need to do some initial review on this side.
+Speaker2: Okay, my ID number is 123456789012345678, and my bank account is 6222081234567890123.
+Speaker1: Okay, we have recorded your information on this end. To speed up the approval process, I need you to download our bank's app, which has a specific loan application entrance.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Thank you very much for your cooperation. After downloading the app, please find the "Quick Loan" option on the first page and click on it to enter. Follow the instructions to complete the process. If you have any problems, please feel free to contact me at any time.
+Speaker2: Okay, I understand. Thank you for your help.
+Speaker1: No problem, wish your application to be successful. If you need any other help, please contact me anytime.
+Speaker2: Okay, bye.

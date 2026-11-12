@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me? What can I help you with?
+Speaker1: I am a customer service representative for an e-commerce platform. I see that you have a credit on your account that is about to expire. Do you have any plans to redeem it?
+Speaker2: Uh, I'm not quite clear on the points related to earning points, could you explain in detail please?
+Speaker1: Of course, the points on your account are the points you accumulated while shopping on our platform. Each point can be redeemed for a certain amount of cash. If you don't redeem them, they will be cleared from your account at midnight tonight.
+Speaker2: Okay, let me check my message, how many points did you say?
+Speaker1: You have accumulated 26,800 points on your account, which can be redeemed for approximately 3,999 yuan worth of goods.
+Speaker2: Wow, so many, then I'll go take a look now.
+Speaker1: Okay, please quickly check the link in the text message and select the desired product for exchange.
+Speaker2: Okay, thank you for your reminder.

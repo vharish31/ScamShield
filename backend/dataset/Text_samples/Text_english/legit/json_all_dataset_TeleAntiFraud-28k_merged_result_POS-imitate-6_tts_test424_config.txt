@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's special dishes and how much they cost?
+Speaker2: Our restaurant special dishes include red braised pork, steamed fish and kung pao chicken, priced at 35 yuan, 40 yuan and 25 yuan respectively.
+Speaker1: The sound is good, I want to book a four-person table, around 6:30 PM to arrive.
+Speaker2: Okay, your 6:30 four-person table has been reserved. Do you need to inform us of any changes in the number of people?
+Speaker1: We should not change, we are a family dinner.
+Speaker2: Understood, just come directly when the time comes, if there are any changes, you can contact me anytime.
+Speaker1: Okay, thank you for your service.
+Speaker2: You're welcome, welcome to come, wish you enjoy your meal.

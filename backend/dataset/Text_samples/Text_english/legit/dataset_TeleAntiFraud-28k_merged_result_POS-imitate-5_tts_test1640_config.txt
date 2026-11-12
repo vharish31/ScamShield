@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm the customer service girl at the food square. Have you been to our restaurant recently?
+Speaker2: Hello, haven't been there recently, how are you?
+Speaker1: Do you want to know more about our new summer discount menu?
+Speaker2: Sure, what do you recommend?
+Speaker1: We recommend seafood dumplings with a cold salad and iced drinks, perfect for summer.
+Speaker2: How much does it cost to listen?
+Speaker1: The original price of the set menu was 150 yuan, but now it only costs 120 yuan, and you will also get a free small dessert.
+Speaker2: When can I go?
+Speaker1: Our business hours are from 11 am to 9 pm. You can come anytime.
+Speaker2: Okay, I'll go to the middle of the day tomorrow. Remember to leave me a place.
+Speaker1: Okay, see you tomorrow at noon. I'm looking forward to your arrival.

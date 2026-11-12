@@ -1,0 +1,10 @@
+Speaker1: Hello, I am Li, the manager of Agricultural and Commercial Bank, are you Zhang Huang?
+Speaker2: Yes, what's up?
+Speaker1: Hello, our system shows that your previous loan application has been approved. Do you need to confirm if you need to disburse the funds?
+Speaker2: Is that so? This speed is still quite fast.
+Speaker1: Yes, our bank services have always been very efficient. However, in order to complete the final procedures, you need to download our bank's official app and fill out some necessary information.
+Speaker2: Do you need to download the app? Can't I just go to the bank and handle it directly?
+Speaker1: Of course, you can also go to the bank, but downloading the app is more convenient and quick, and you can also enjoy some online exclusive discounts.
+Speaker2: Okay, I'll try it out. What's the name of this app?
+Speaker1: You can directly search '农商银行' on your phone's app store and download the official app. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

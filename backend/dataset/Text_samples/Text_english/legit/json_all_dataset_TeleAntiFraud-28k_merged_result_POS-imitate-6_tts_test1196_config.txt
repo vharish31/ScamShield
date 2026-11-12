@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help with?
+Speaker1: Can you tell me about your store's return policy?
+Speaker2: Of course. Our return/exchange policy is that products must be returned within seven days of receipt, unused and in original packaging, to apply for return or exchange.
+Speaker1: What if it's a quality issue?
+Speaker2: If it's a quality issue, we unconditionally support return or exchange, and we'll also cover the return shipping cost.
+Speaker1: Okay, what about your delivery time?
+Speaker2: We usually ship within 24 hours after ordering, and delivery times vary by region, typically between 3 to 5 days.
+Speaker1: I understand, thank you for your patience in answering.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Have a great shopping!

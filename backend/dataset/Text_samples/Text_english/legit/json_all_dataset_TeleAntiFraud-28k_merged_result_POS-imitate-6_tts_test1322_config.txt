@@ -1,0 +1,14 @@
+Speaker1: Hey, hello, I'm little king, want to book haircut tomorrow.
+Speaker2: Hello, Xiao Wang, I am the customer service of the hair salon. What time do you need?
+Speaker1: Can I come at 10 am?
+Speaker2: Sure, there's an opening at ten o'clock. Is this your first time at our store?
+Speaker1: Yes, first time.
+Speaker2: Okay, can you register your phone number? How many digits is it?
+Speaker1: My phone number is 13800138000.
+Speaker2: Okay, I have registered. What type of haircut service do you need?
+Speaker1: I want to cut a short hair, clean and fresh.
+Speaker2: Okay, we will arrange a barber who specializes in short hair for you. Are there any other special things you need to pay attention to?
+Speaker1: No more, just like this.
+Speaker2: Okay, little king, see you tomorrow morning at 10 am. If there are any changes, please contact us in advance.
+Speaker1: Okay, thank you, bye.
+Speaker2: Goodbye.

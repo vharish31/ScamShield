@@ -1,0 +1,10 @@
+Speaker1: Hello, this is delivery service, can you confirm your delivery address for the order of spicy hot pot?
+Speaker2: Have I already confirmed the address before?
+Speaker1: Okay, let me double-check again to make sure there are no mistakes. Is your address 302, Building 2, Happiness Villa, correct?
+Speaker2: That's right, it's this address.
+Speaker1: Okay, your order will arrive in 30 minutes. If there are any issues, we will contact you promptly.
+Speaker2: Okay, that's all for you.
+Speaker1: No problem, is there anything else you need help with?
+Speaker2: No more, thank you.
+Speaker1: Okay, wish you enjoy your meal, bye.
+Speaker2: Goodbye.

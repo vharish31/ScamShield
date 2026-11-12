@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here AliBaba customer service center, I is customer service specialist Li.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed that there may have been issues with the products you recently purchased on our platform, to ensure your rights we would like to provide you with a special compensation service.
+Speaker2: Oh, really? I really did buy some stuff recently.
+Speaker1: Yes, in order to quickly process your claim, can you click on a link to verify your order information, please?
+Speaker2: How do I click on a link?
+Speaker1: You just need to click on the customer service icon on the main page of our official app, then select the compensation service, and input your order number.
+Speaker2: What should I do if I haven't installed your app?
+Speaker1: This is simple. You can download our official app from the mobile app store by searching for "AliExpress Assistant". After installation, you can start operating.
+Speaker2: Okay, let me try.

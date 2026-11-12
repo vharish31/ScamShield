@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello
+Speaker1: I'm from the bus company on that side, do you have time to tell me about your recent travel plans?
+Speaker2: Have time, you say.
+Speaker1: What do you think we should add more directions to our newly added bus routes?
+Speaker2: I think it's possible to add a line to the north area, the residents there have difficulty traveling.
+Speaker1: Hmm, this suggestion is good, we will consider it. Are there any other requirements?
+Speaker2: If there are conditions, can the operating time be extended in the evening?
+Speaker1: Extending the operating time is also a factor we need to consider, thank you for your suggestion.
+Speaker2: No problem, I hope your service keeps getting better.
+Speaker1: Thank you again for your suggestions. If you have any other opinions, please feel free to contact us anytime.
+Speaker2: Okay, thank you.

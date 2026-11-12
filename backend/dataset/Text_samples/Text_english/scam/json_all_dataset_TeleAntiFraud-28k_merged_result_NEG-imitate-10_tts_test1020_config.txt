@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the customer service representative of sequoia express, your parcel was returned because the address was not detailed, please confirm the address again, is that okay with you?
+Speaker2: Okay, you say, how to confirm?
+Speaker1: Okay, just click on the links we provide, enter the new delivery address, and you're done.
+Speaker2: Link? How do I give it to you?
+Speaker1: We will send you a link via text message. Once you receive it, click the link and follow the instructions.
+Speaker2: Okay, I'll wait for the text message.
+Speaker1: Okay, the text message will be sent to your phone later, if you don't receive it, please check if it was intercepted.
+Speaker2: Okay, I know, thank you.
+Speaker1: No problem, is there anything else I can help you with?
+Speaker2: No more, just wait for the text message.
+Speaker1: Okay, wish you happy life, bye.

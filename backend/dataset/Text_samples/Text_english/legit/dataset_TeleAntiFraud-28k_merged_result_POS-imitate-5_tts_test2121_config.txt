@@ -1,0 +1,9 @@
+Speaker1: Hi, how are you? I'm the customer service of the cleaning service platform. Your cleaning service appointment today can be done.
+Speaker2: Okay, I can do it. What time do you guys arrive?
+Speaker1: Can we arrive at around two in the afternoon?
+Speaker2: Sure, give me a call before you come over.
+Speaker1: Okay, we will call you one hour before departure to confirm. Also, we will send two professional cleaners to your door this time, they will bring all cleaning tools.
+Speaker2: That's great, I was very satisfied with the service last time, I hope it can maintain the same quality this time.
+Speaker1: We will definitely do it, we highly value every customer's feedback, and we will provide the best service this time.
+Speaker2: Then I'll be relieved, see you later.
+Speaker1: See you later, feel free to contact me if you have any questions. Have a great day!

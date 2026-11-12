@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask about your restaurant's vegetarian set menu
+Speaker2: Hello, of course, our vegetarian set menu has many options, do you want to know the specific contents?
+Speaker1: Yes, can you tell me what dishes are available and how much they cost?
+Speaker2: Okay, our vegetarian set meal includes five selected vegetable dishes, a bowl of soup, a small dessert, and a drink. The price is 120 yuan per person.
+Speaker1: Can I book in advance?
+Speaker2: Of course, what time do you plan to have dinner?
+Speaker1: Can I come at 6:30 PM on Saturday?
+Speaker2: Saturday evening at 6:30, okay, this time can be reserved. How many positions do you need to reserve?
+Speaker1: Two people, I and a friend.
+Speaker2: Okay, I have reserved a two-person vegetarian dinner for you on Saturday at 6:30 pm. Please arrive ten minutes early, we will meet you at the door.
+Speaker1: Okay, thank you, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

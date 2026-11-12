@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I saw your home service on your website, I want to consult with you
+Speaker2: Hello, Xiao Ming, I am customer service representative Zhang, very happy to serve you. What aspect of home service do you want to know about?
+Speaker1: I'd like to know more about your cleaning service, including the price and specific cleaning scope.
+Speaker2: Our cleaning services are divided into daily cleaning and deep cleaning, with daily cleaning mainly involving sweeping, tidying up rooms, and deep cleaning including cleaning the kitchen and bathrooms. The prices are 50 yuan per hour for daily cleaning and 70 yuan per hour for deep cleaning.
+Speaker1: What should I do if I need to make a reservation?
+Speaker2: You can directly book through our website or call to provide your address and appointment time, and we will arrange our staff to serve you at your door.
+Speaker1: Sure, can I reserve tomorrow afternoon from 2 to 4 PM?
+Speaker2: This time slot is available, I will arrange it for you. Yes, do you need us to prepare cleaning tools or will you prepare yourself?
+Speaker1: Can you help me prepare tools? I'm not very convenient here.
+Speaker2: Of course, we will prepare all the necessary cleaning tools for you. So I will schedule it for you, tomorrow at 2 pm, the workers will arrive on time.

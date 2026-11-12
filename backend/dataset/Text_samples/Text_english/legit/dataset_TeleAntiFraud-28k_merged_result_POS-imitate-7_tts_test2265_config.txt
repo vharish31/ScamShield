@@ -1,0 +1,11 @@
+Speaker1: Hi, is it possible to make a haircut appointment here?
+Speaker2: Hello, yes, this is a hair salon, you can make an appointment for hairdressing service.
+Speaker1: Great, I want to make an appointment, what time do you open tomorrow?
+Speaker2: We start business at 9 am tomorrow morning, you can choose any time.
+Speaker1: Can I make a reservation for tomorrow at 2 pm?
+Speaker2: Okay, 2 pm is fine, I'll record it for you.
+Speaker1: Okay, thank you. By the way, do you know a good haircut stylist that I could recommend?
+Speaker2: Of course, we have a very experienced hairdresser named Li master here, who is skilled at cutting short hair. Do you have any special requirements?
+Speaker1: I like simple and elegant hairstyles, style should not be too complicated.
+Speaker2: I booked Li Shuai for you. See him tomorrow at 2 PM. Don't be late.
+Speaker1: Okay, thank you, see you tomorrow.

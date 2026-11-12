@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang, I want to ask about your restaurant's special dishes.
+Speaker2: Hello, little Zhang, welcome to consult, I am server Li Xiao. Our restaurant's special dishes are spicy and sour pork, sweet and sour pork ribs, and steamed fish, which one do you like?
+Speaker1: How much does this fried pork ribs with sweet and sour sauce cost?
+Speaker2: The price of a portion of sweet and sour ribs is 35 yuan, the portion size is moderate, and it's suitable for 2-3 people to share.
+Speaker1: Okay, I plan to eat at your place on the weekend. What are your business hours?
+Speaker2: Our restaurant business hours are from 11 am to 9 pm, on weekends they are extended to 10 pm, you can choose an appropriate time to come.
+Speaker1: Can I reserve a spot at seven o'clock on Saturday evening?
+Speaker2: Of course, on Saturday evening at 7 pm, I will reserve a seat for you. Do you need to book several seats?
+Speaker1: Book two seats, for two people including me and my friend.
+Speaker2: Okay, Saturday evening at 7pm, I'll reserve two seats for you, see you then.

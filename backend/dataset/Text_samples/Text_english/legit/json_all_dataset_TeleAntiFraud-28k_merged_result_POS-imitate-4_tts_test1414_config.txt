@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a resident of the community, I want to inquire about the repair time of water and electricity this week.
+Speaker2: Hello, which building are you from?
+Speaker1: I am the third floor.
+Speaker2: Is it necessary to make an appointment in advance for the maintenance of the third floor from 3 pm to 5 pm on Friday?
+Speaker1: How do I make a reservation?
+Speaker2: You can directly tell me your building number and room number, I will record it down, and the maintenance personnel will contact you when the time comes.
+Speaker1: Okay, I am room 402, apartment 2, building 3.
+Speaker2: Okay, I have recorded it down. Remember to be at home at 3 pm on Friday to meet the repairmen. Feel free to contact me anytime if you have any issues.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, goodbye.

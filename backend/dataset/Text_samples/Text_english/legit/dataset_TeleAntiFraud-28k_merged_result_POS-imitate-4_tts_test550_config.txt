@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, what apartment are you moving into in the new community?
+Speaker2: Hey, hi, I'm little Li, I just moved to happy small community, the environment is pretty good.
+Speaker1: Happy community, I heard the property management on that side is quite responsible. Is it rented or bought?
+Speaker2: I bought it, the down payment was a bit heavy, but it's worth it.
+Speaker1: That's great, I've been looking at houses lately, how's the transportation there?
+Speaker2: It's very convenient. There's a subway station nearby, and there are many buses. It's very convenient to travel.
+Speaker1: How far is the subway station, can I walk there?
+Speaker2: Walking takes about fifteen minutes, it's quite comfortable to stroll when the weather is good.
+Speaker1: That's great, I'll come over next time and you can take me for a walk around the community?
+Speaker2: No problem, I have some free time this weekend, let's go have a good look together.

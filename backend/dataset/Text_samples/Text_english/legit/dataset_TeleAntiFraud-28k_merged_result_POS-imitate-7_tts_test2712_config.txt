@@ -1,0 +1,13 @@
+Speaker1: Hello, this is the city travel consultation center.
+Speaker2: Hello, do you know if there are any tourist attractions in the city suitable for families to visit?
+Speaker1: Yes, for example, amusement parks, botanical gardens, and technology museums are all great places for families to have fun.
+Speaker2: What are the places to go in that sound good?
+Speaker1: You can choose to take the bus, starting from the city center, with direct buses to these scenic spots on each line.
+Speaker2: How long will it take?
+Speaker1: Depending on the chosen scenic spots, it takes approximately 30 minutes to an hour.
+Speaker2: How much does the ticket to the botanical garden cost?
+Speaker1: The entrance ticket for the plant garden is 30 yuan for adults and half price for children.
+Speaker2: Understood, thank you for your help.
+Speaker1: No problem, feel free to call if you have any other questions.
+Speaker2: Okay, bye.
+Speaker1: Goodbye.

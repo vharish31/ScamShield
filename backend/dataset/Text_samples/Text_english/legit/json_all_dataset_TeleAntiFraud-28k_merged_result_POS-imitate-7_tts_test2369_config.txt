@@ -1,0 +1,10 @@
+Speaker2: Hey, how's it going? Can you tell me what time your store is open?
+Speaker1: Hello, our store's business hours are from 10 am to 10 pm every day.
+Speaker2: That's great, can I go at 7 pm tonight?
+Speaker1: Of course, arriving at seven o'clock is perfect, it won't be too crowded.
+Speaker2: Okay, I'll reserve a four-person seat.
+Speaker1: Okay, the four seats have been reserved for you, just come directly when the time comes.
+Speaker2: Is that right? I heard your menu here is spicy hot pot with Sichuan peppercorns?
+Speaker1: Yes, our spicy pot is very popular, spicy but not greasy, fragrant aroma is rich.
+Speaker2: That sounds great, I'll definitely order it later. Thank you for your recommendation.
+Speaker1: You're welcome! I hope you have a pleasant dining experience at the store. Goodbye!

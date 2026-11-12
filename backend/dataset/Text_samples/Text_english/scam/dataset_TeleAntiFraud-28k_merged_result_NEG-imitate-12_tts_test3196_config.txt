@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Li, the customer manager at China Construction Bank. We have a special promotion for our high-quality customers recently. Would you be interested in learning more?
+Speaker2: Hello, I recently have some cash flow needs, can you explain in detail?
+Speaker1: Okay, this activity is specially designed for high-quality customers. Just provide some basic personal information, and you can quickly get approval with a very favorable rate. The maximum discount per transaction is one hundred thousand yuan.
+Speaker2: The sound is good, but I want to know the specific operation process.
+Speaker1: It's very simple. Just click on the link I send you, fill in the relevant information, and we'll have a dedicated team review it. Once approved, the funds will be quickly credited to your account.
+Speaker2: Okay, then I'll give it a try.
+Speaker1: Okay, I'll send you the link right away. By the way, for the sake of secure funds, you may need to download our special app to operate, can you?
+Speaker2: Okay, I'll go download it now.
+Speaker1: Thank you very much for your cooperation. After downloading the app, if you have any questions, please feel free to contact me at any time. I wish you a happy life!
+Speaker2: Okay, thank you.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you recommend any takeout meal for two people here?
+Speaker2: Yes, we have a double person set meal, containing two portions of main dishes, one portion of soup and one portion of dessert, very suitable for two people to share.
+Speaker1: How much does that suit cost?
+Speaker2: The price of this menu is 60 yuan, and there's a discount activity now, so you can enjoy a 90% discount.
+Speaker1: Okay, I'll order one. How long will it take you to deliver?
+Speaker2: Typically, we send within 30 minutes after ordering. If you order now, you should be able to send in about 40 minutes.
+Speaker1: Okay, I'll place an order now. By the way, can I add some drinks if I need to?
+Speaker2: Of course, we have many drinks to choose from here. If you want to add drinks, each portion is five yuan.
+Speaker1: I'll add two drinks, thank you.
+Speaker2: Okay, your order has been recorded. The total is seventy yuan. It will be delivered in about forty minutes. If there are any issues, please contact us anytime.

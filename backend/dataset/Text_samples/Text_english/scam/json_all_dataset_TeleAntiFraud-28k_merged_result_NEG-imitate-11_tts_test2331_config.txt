@@ -1,0 +1,10 @@
+Speaker1: Hello, this is South China Bank, I am loan officer Lee Ming, I recently learned that your enterprise may need capital rotation, do you have any needs in this regard?
+Speaker2: Oh, hello, temporarily no need for this aspect, thank you.
+Speaker1: Okay, that's fine. But, if you need anything, you can contact me anytime. By the way, I have a special promotion here, just need to register our app, you can enjoy lower rates and faster approval speed, are you interested?
+Speaker2: Do you want to register the app? It sounds good, how do you register?
+Speaker1: Great! Just click this link to download our app, register and input code 123456 to enjoy this special offer.
+Speaker2: Okay, let me try.
+Speaker1: Hello, if you have any questions after downloading, please contact me and I will help you solve them immediately. By the way, if your friends need our service, you can recommend them and they will thank you.
+Speaker2: Okay, thank you for your recommendation.
+Speaker1: No problem, I hope our service can help you. If you have any questions, please contact me anytime. I wish you a happy life.
+Speaker2: Okay, bye.

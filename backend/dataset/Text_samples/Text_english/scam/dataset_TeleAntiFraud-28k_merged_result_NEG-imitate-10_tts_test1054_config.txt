@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer manager of the Agricultural Bank, Tianhe Branch. Li Ming, we have a special loan discount promotion on this side. Are you interested in learning more about it?
+Speaker2: Loan? I don't have any funding needs at the moment.
+Speaker1: That's it, this activity is extremely discounted, just need to provide some basic information, and can quickly approve, and the interest rate is extremely low, compared to other loan products on the market, it is very cheap.
+Speaker2: Really? Then what should I do?
+Speaker1: Great, just click this link and fill out the information as prompted.
+Speaker2: Link? How do I know this is safe?
+Speaker1: You can rest assured, this is our official link, absolutely safe. To prove it, I will send you a short message with a verification code, you just need to tell me after you receive it, and we can continue the next step.
+Speaker2: Okay, I'm waiting for a text message.
+Speaker1: Thank you for your cooperation. The message has been sent. Please check.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you very much, just input the verification code in the corresponding position of the link, and you can complete the application.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you sell iPhones and apples here?
+Speaker2: Yes, we have the latest iPhone here. Which model do you want to know about?
+Speaker1: What color options do I have for the twelfth?
+Speaker2: What color of apple do you prefer, black, white, red or blue?
+Speaker1: How much does the blue one cost?
+Speaker2: The blue version of the iPhone 12 is currently priced at 6,800 yuan, and you can still enjoy the service of installment payment when purchasing it now.
+Speaker1: What conditions are needed for installment payments?
+Speaker2: To pay in installments, you must provide a valid ID and have good credit records. If you meet the conditions, we can immediately process it.

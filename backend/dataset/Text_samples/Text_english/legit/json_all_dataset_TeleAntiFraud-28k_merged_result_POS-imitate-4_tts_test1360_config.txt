@@ -1,0 +1,8 @@
+Speaker1: Hello, I am the delivery boy of lightning express, do you need me to deliver your package to your door?
+Speaker2: Okay, can you please send it to my home? The address is Happiness Villa No. 3, Unit 402, Building 1.
+Speaker1: Okay, happy community three number building one unit four zero two, I will probably send it half an hour later, are you at home waiting for me?
+Speaker2: Hey, I'm at home waiting for you.
+Speaker1: Okay, I'll just go directly when the time comes, and if there are any changes, I'll call you ahead of time.
+Speaker2: Okay, thank you, little Zhang.
+Speaker1: No problem, this is my work. Any questions, feel free to contact me anytime.
+Speaker2: Okay, can you help me?

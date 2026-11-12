@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative. I wanted to confirm with you about the issues you had with the products you purchased on our platform.
+Speaker2: Hello, do you have any questions?
+Speaker1: Is it like that? We found out that your smartwatch might have been damaged during transportation. Do you receive it?
+Speaker2: How can I know if there's damage before I unpack it?
+Speaker1: That's it, you can first check the outer packaging, if there's any damage, we can directly arrange for a replacement.
+Speaker2: Okay, I'll go check it out.
+Speaker1: Okay, can you please take a picture and send it to me if there is any damage, so we can handle it.
+Speaker2: No problem, I'll check right away and get back to you later.
+Speaker1: Okay, thank you for your cooperation. If you have any questions, please contact me anytime.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Zhang?
+Speaker2: Who are you?
+Speaker1: Hi, I'm Li Xiaojing, the client manager at Agricultural and Commercial Bank, we recently launched a new financial product with high returns and low risk, would you be interested in investing?
+Speaker2: How is the profit of this product?
+Speaker1: This product has an annual return rate of 12%, and it's guaranteed both principal and interest, very safe.
+Speaker2: Listen good, then how buy?
+Speaker1: You can directly log in to our official website or download our mobile banking app, register and then you can buy.
+Speaker2: Is it safe to download the app?
+Speaker1: Extremely safe, all our apps are officially certified, just scan this QR code with your phone to download directly.
+Speaker2: Okay, I'll give it a try. Thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the delivery person for Ele.me, the order you just placed has been received.
+Speaker2: Uh, okay, I just ordered food, when can it be delivered?
+Speaker1: Based on your location, it's about 30 minutes, are you at home now?
+Speaker2: At home at home, I live in this apartment's third floor, the door number is three zero two.
+Speaker1: Okay, I arrived early. You can wait for me at the door.
+Speaker2: Okay, can you help me?
+Speaker1: No problem, do you have anything else you need help with?
+Speaker2: No more, thank you.
+Speaker1: Okay, I'll hang up first, contact you later.
+Speaker2: Okay, bye.

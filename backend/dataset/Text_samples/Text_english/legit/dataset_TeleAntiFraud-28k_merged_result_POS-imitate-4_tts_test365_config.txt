@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Li Xiao, do you guys have any new job openings over there?
+Speaker2: Hello, little Li, I am the small Wang from the human resources department. We indeed have several job vacancies here, which positions would you like to know about?
+Speaker1: I used to be a software developer and I was wondering if you guys have any related positions.
+Speaker2: Yes, we have a senior software development engineer position that requires some project management experience. Do you have any experience in this area?
+Speaker1: Yes, I was responsible for the development and management of several large-scale projects before, and I still think it's quite suitable.
+Speaker2: That's great, you can send me your resume, and if it meets the requirements, we can schedule a face-to-face interview.
+Speaker1: Okay, I'll give it to you tonight. And what's your interview process like?
+Speaker2: Our interview process is first to conduct a phone screening, then a technical interview, and finally an HR interview. If it's convenient for you, we can schedule a phone screening.
+Speaker1: That's great, I have a free time from 10 am to 12 pm tomorrow. Can you see this time?
+Speaker2: Sure, let's meet at 10 am tomorrow morning. You prepare your resume, and we'll chat at that time.
+Speaker1: Okay, that's it. Thanks, little king. See you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you all the best.

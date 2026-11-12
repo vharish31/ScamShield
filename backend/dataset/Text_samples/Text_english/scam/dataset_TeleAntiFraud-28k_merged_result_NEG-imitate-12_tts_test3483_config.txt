@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of the Shenzhen Bank. Recently, we have introduced a special loan service, with a maximum credit limit of 50,000 yuan, and the interest rate is very low. Have you recently had any financial needs?
+Speaker2: Hmm, do you have time to talk in detail?
+Speaker1: Okay, this loan product is our new release, with an interest rate as low as two cents, no collateral required, just good credit needed to apply. If you need it, you can add my WeChat, I'll send you detailed info and application process.
+Speaker2: Add me on WeChat, let me see your info.
+Speaker1: Okay, my WeChat is Xiao Wang, add me, I will send you the info quickly. Also, if you have any questions, you can directly contact me via WeChat.
+Speaker2: Okay, I'll add you on WeChat.
+Speaker1: Great, after you add WeChat, I will send you a link, you click on the link and fill in personal information, we will quickly review your data.
+Speaker2: Okay, I'll wait for you on WeChat.
+Speaker1: Okay, let me know once you've added my WeChat, I'll send you the link right away. Thank you for your trust, wish you a happy life.
+Speaker2: Okay, thank you.

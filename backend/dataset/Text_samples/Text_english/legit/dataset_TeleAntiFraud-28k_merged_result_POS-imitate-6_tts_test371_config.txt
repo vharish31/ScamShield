@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to check the reservation situation of your restaurant's private room.
+Speaker2: Hello, welcome to call Meiwei xuan restaurant, what time slot do you want to book a private room?
+Speaker1: I want to reserve this Saturday evening at 6:30, to see if there's any available spots.
+Speaker2: Okay, let me check. Please wait a moment, there is still a spot at the six o'clock table on Saturday night. How many of you are there?
+Speaker1: We are ten people.
+Speaker2: Ten people's conversation, our banquet room can fully accommodate. Do you need to order in advance?
+Speaker1: Can you recommend any dishes?
+Speaker2: Our restaurant special dishes include steamed sea bass, lemongrass and mushroom steamed abalone, and stir-fried frog legs, all of which are very popular. Are you interested in these dishes?
+Speaker1: These sound good, I'll pre-order these three dishes, then I'll see what else I need to add later.
+Speaker2: Okay, I will book a private room for you on Saturday at 6:30 pm and pre-order your selected three dishes. Please remember to bring your reservation information. Is there anything else I can help you with?
+Speaker1: No more, thank you for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

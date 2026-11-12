@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I'm little Zhang, I'm at your door, your package has arrived.
+Speaker2: Hello, little Zhang, could you please put the package on the doorstep? I'll be right back to pick it up.
+Speaker1: Okay, no problem, can you confirm the delivery number is three two one six five?
+Speaker2: Yes, that's this number, thank you.
+Speaker1: No problem, just a reminder, the weather forecast predicts it might rain tonight, remember to bring an umbrella.
+Speaker2: Okay, I will pay attention, thank you so much.
+Speaker1: No problem, this is what should be done, is there anything else that needs my help?
+Speaker2: I don't have it now, if you have it, please contact me, thank you again.
+Speaker1: Okay, just wait for the package, if you have any questions, contact me anytime.
+Speaker2: Okay, bye.
+Speaker1: Goodbye.

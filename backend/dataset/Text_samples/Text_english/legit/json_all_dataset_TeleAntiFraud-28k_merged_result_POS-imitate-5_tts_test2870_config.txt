@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you? This is Flower Flower Takeout. Do you need any consultation?
+Speaker2: Hello, I want to order takeout, do you have any recommendations for dishes?
+Speaker1: We have popular palace spicy chicken and fish and meatballs here, you can consider them.
+Speaker2: Okay, let me have a palace spicy chicken and a small rice bowl.
+Speaker1: Okay, one portion of spicy chicken and one portion of rice, do you need anything else?
+Speaker2: No need, okay, how much is your delivery fee?
+Speaker1: Delivery fee for takeout is 5 yuan. If your order exceeds 50 yuan, you can enjoy free delivery.
+Speaker2: This is over 50 yuan, shouldn't it be free delivery?
+Speaker1: Yes, your order exceeded 50 yuan, you can enjoy free delivery, we will arrange delivery as soon as possible.
+Speaker2: Okay, how long will it take to send it?
+Speaker1: In general, we deliver within 30 to 40 minutes after ordering. If there's a peak period, there might be a slight delay.
+Speaker2: Okay, I understand, thank you.
+Speaker1: You're welcome, feel free to contact us anytime if you have any questions, enjoy your meal.

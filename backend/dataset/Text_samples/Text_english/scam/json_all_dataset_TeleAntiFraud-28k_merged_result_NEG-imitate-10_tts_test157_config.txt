@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Zhang Ming?
+Speaker2: Hey, who are you?
+Speaker1: I'm the little king of the customer service center, I found out that you may have encountered some problems with the products you bought on our platform before, so we need to give you a refund.
+Speaker2: Really? I didn't receive that product.
+Speaker1: Yes, our logistics shows that the goods were lost during transportation. To compensate for your loss, we need to process a refund for you.
+Speaker2: What should we do now?
+Speaker1: Just click on the link I sent you and follow the instructions to complete the refund process.
+Speaker2: Okay, I'll operate.
+Speaker1: Okay, but to ensure the safety of your account, you may need to verify your personal information first, such as your name, ID number, and bank card number.
+Speaker2: No problem, all my information is real.
+Speaker1: Okay, I'll send you the link now. Please act quickly after receiving it.
+Speaker2: Okay, thank you for your help.

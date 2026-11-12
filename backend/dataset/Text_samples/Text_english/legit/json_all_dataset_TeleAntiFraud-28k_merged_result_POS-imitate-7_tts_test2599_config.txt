@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I saw your job posting on Meituan, is this position still hiring?
+Speaker2: Hey, are you still recruiting for this position? Do you like it?
+Speaker1: I'm quite interested, can you tell me more about the specific work content?
+Speaker2: The main responsibility is for delivery of takeout, you need to have your own transportation tools, such as an electric vehicle.
+Speaker1: How is the work schedule arranged?
+Speaker2: The work hours are quite flexible, you can choose your work time segments based on your free time.
+Speaker1: How do I join in?
+Speaker2: You can first come to our site to understand it, and if you find it suitable, we can arrange training.
+Speaker1: Okay, where are your stations?
+Speaker2: You can navigate to the city square from the city square nearby, then call me and I'll come pick you up.
+Speaker1: Okay, can I go at 10 am tomorrow morning?
+Speaker2: Sure, let's meet at the city square at 10 am tomorrow.

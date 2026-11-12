@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I reserved a table for one at your restaurant for tonight at seven.
+Speaker2: Hello, who are you? Do you need me to confirm your reservation information?
+Speaker1: Okay, there are four of us.
+Speaker2: Okay, is the window seat what you ordered? Are there any other requirements?
+Speaker1: If there's a spot by the window, that's the best. But if not, it's okay too.
+Speaker2: I understand, we will try to arrange the positions near the window. Yes, do you have any special dietary requirements?
+Speaker1: There is one person who doesn't eat spicy food.
+Speaker2: Okay, we will pay special attention. So, what is your name?
+Speaker1: John.
+Speaker2: Okay, Mr. Zhang, your reservation has been recorded. See you later.

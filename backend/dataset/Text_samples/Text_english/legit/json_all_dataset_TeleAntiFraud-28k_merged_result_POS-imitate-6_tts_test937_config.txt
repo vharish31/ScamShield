@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a server at Starbucks, you bought a membership card from our store before, there is a new activity now, do you want to know more about your opinion?
+Speaker2: Hey, what activities are there?
+Speaker1: We have introduced a new coffee flavor, and there is also a double member point activity, do you know if you are interested in participating?
+Speaker2: Listen well, how can I join in?
+Speaker1: You only need to spend any amount with your membership card in the next month and enjoy double rewards.
+Speaker2: Do I need to make an appointment in advance?
+Speaker1: No reservation is needed. You can pay directly upon arrival. If you have any other issues, feel free to contact me anytime.
+Speaker2: Okay, thank you for your notice. I will make time to go to the store.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at your store door, can I come in now to get something?
+Speaker2: Hello, okay, your ordered goods are ready now, come and get them.
+Speaker1: How long do I need to wait?
+Speaker2: It should take about ten minutes or so, because it's rush hour now and there are a lot of people.
+Speaker1: Okay, can I bring anything with me when I go?
+Speaker2: No need, just bring the phone you used to place the order, we'll verify the order info then.
+Speaker1: Okay, can I go back home directly after I get my things?
+Speaker2: Yes, you can leave after taking the things. If you have any questions, you can contact us anytime.
+Speaker1: Okay, thank you, I'll see you later.
+Speaker2: No thanks, see you later.

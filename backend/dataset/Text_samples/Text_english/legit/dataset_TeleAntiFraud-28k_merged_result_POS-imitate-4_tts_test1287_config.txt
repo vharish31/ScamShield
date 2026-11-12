@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little king, I want to consult your delivery service.
+Speaker2: Hello, Xiao Wang, I am customer service Zhang, what can I help you with?
+Speaker1: What are the menu items and prices at your place?
+Speaker2: We have a variety of options here, such as spicy Szechuan hot pot for 30 yuan, sweet and sour pork ribs for 45 yuan, and various small dishes and soups. You can check out our menu, which has detailed descriptions of all the items.
+Speaker1: What are your business hours?
+Speaker2: We are open from 11 am to 9 pm every day. You can place an order anytime.
+Speaker1: How long will it take for my order to be delivered?
+Speaker2: If you're nearby, it should take about 30 minutes to deliver.
+Speaker1: Okay, I'll order a spicy hot pot and a sour spicy soup, remember to add more spice.
+Speaker2: Okay, your order has been recorded. We will prepare it quickly. Do you need anything else?
+Speaker1: No longer available, thank you.
+Speaker2: You're welcome, we're looking forward to your next visit, wish you a happy meal.

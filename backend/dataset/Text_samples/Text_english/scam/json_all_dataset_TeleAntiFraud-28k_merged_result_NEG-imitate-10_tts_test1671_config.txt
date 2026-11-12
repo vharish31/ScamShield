@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a customer service representative for speedy delivery, your package was accidentally lost during transportation and we need to process a refund.
+Speaker2: Ugh, what do I do, my package is so important.
+Speaker1: Don't worry, we can now process a full refund for you and give you compensation, but you need to cooperate with completing some steps.
+Speaker2: Okay, how should we cooperate?
+Speaker1: First, you need to click the link I sent you, this link will guide you to our refund page.
+Speaker2: How do I know this link is safe?
+Speaker1: Don't worry, this is our official safe link, and the page has our company logo and contact information, you can verify.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your name, phone number, and bank card number so we can directly deposit the refund onto your card.
+Speaker2: Okay, I'm going to operate now.
+Speaker1: Okay, after you finish operating, contact me, and we'll confirm the refund situation.
+Speaker2: Okay, thank you.

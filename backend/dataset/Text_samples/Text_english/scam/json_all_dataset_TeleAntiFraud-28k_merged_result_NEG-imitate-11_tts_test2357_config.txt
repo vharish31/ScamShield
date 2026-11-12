@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Who are you?
+Speaker1: Good morning, Mr. Li. I am Zhang, a loan officer at Guangzhou Bank. I saw your tech company is doing well, so I called to let you know that our bank offers low-interest loans for small and medium-sized enterprises, with quick approval. Do you have any recent funding needs?
+Speaker2: I don't need a loan now because I have enough money.
+Speaker1: Hey, have you thought about expanding your business or purchasing new equipment? We can provide no-collateral loans, and the paperwork is very easy to handle.
+Speaker2: The sound is good, but I'm not familiar with this loan, how do I operate it?
+Speaker1: It's very simple, Li Laoban. You just need to click on the link I sent you and fill out some basic information, and our customer manager will immediately contact you to complete the subsequent procedures.
+Speaker2: Link? I didn't receive it.
+Speaker1: It might be network delay, I'll send it again, please pay attention to check it, or you can directly download our app and apply for convenience.
+Speaker2: Okay, let me try.

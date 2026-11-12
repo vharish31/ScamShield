@@ -1,0 +1,12 @@
+Speaker1: Hey, are you free to talk over there?
+Speaker2: Hello, convenient, you say?
+Speaker1: I am a server at Xingguang restaurant, would you like to confirm tomorrow's reservation?
+Speaker2: Okay, you guys said it was a four-person table before, right?
+Speaker1: Yes, it's a four-person table by the window. Do you have any other special requirements?
+Speaker2: Okay, just hope the environment isn't too loud, suitable for chatting.
+Speaker1: No problem, that location is quite quiet, suitable for chatting. What time did you arrive?
+Speaker2: About six thirty, maybe a little late.
+Speaker1: Okay, 6:30, we'll keep the table for you. Do you need anything else prepared in advance?
+Speaker2: Thanks for reminding me, I'm out of stock right now.
+Speaker1: No problem, just go straight to the front desk and they will lead you to your seat. We are looking forward to your arrival.
+Speaker2: Okay, thank you, see you tomorrow.

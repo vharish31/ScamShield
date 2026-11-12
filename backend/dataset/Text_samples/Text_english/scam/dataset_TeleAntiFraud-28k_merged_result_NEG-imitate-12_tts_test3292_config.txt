@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Zong?
+Speaker2: Hello, who are you?
+Speaker1: I am a client manager at an agricultural bank, we have a great investment and wealth management product with high interest rates and low risk, do you have any recent wealth management needs?
+Speaker2: Hey, I recently had some thoughts about investment, could you give me a detailed explanation?
+Speaker1: Of course, this financial product is our bank's latest release, with a yearly return rate of up to 15%, and both principal and interest are guaranteed, making it very safe. You just need to download our financial app, authenticate yourself after real name verification, and you can buy it.
+Speaker2: Listen good, then how download this APP?
+Speaker1: You can download "Jin Yuan Bao Lǐ Cái" from the mobile app store by searching for it, or I can give you a download link, just click on it to download.
+Speaker2: Okay, give me the link.
+Speaker1: Okay, I'll send it to you now. Remember to download it quickly after receiving it, and there's a small tip: after downloading, make sure to bind your bank card first, which will make buying financial products more convenient.
+Speaker2: I know, thank you for your reminder.

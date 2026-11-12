@@ -1,0 +1,10 @@
+Speaker1: Hello, this is some e-commerce customer service center, I am customer service representative small wang, what have you recently purchased on our platform, quick delivery shows lost, we can handle refund here.
+Speaker2: Is that so? How can it be handled then?
+Speaker1: To ensure your financial safety, we need you to download a safety verification app first, and verify your identity information through this app.
+Speaker2: Is the app safe to download?
+Speaker1: Very safe, this is our official app. After downloading, just follow the instructions and input some basic information, and we can quickly process your refund.
+Speaker2: Okay, how do I download it?
+Speaker1: You can search our app name in the mobile app store, or I can send you a download link, you can click on the link to download directly.
+Speaker2: You can send me a link.
+Speaker1: Okay, wait a moment, I'll send it to you now. After you receive the link, just click on download, and then follow the instructions to complete the identity verification.
+Speaker2: Okay, I'll download it later. Thank you.

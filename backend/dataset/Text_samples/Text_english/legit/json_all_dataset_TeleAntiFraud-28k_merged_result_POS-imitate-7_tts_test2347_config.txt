@@ -1,0 +1,9 @@
+Speaker2: Who?
+Speaker1: Hello, I'm little king, recently I'm looking for a house, do you have a suitable house on your side?
+Speaker2: So, do you want to rent or buy?
+Speaker1: I want to rent, preferably a two-room apartment with a balcony.
+Speaker2: Okay, I have a suitable house for you, it's in the Happy Small Community, very close to the subway station.
+Speaker1: Hey, I know that apartment complex, when do you want to show me around?
+Speaker2: Can I have some free time in the afternoon at three o'clock?
+Speaker1: Sure, let's meet at the small community door at 3 o'clock.
+Speaker2: Okay, see you later.

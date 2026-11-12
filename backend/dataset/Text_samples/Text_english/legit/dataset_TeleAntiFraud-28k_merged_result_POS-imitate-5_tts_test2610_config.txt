@@ -1,0 +1,11 @@
+Speaker1: Hello, this is Xiaoming supermarket, have you decided on the fresh fruits in our store yet?
+Speaker2: Hey, are you still considering, what activities do you have now?
+Speaker1: Yes, now you can enjoy a 90% discount when purchasing over 100 yuan, and you'll also receive a small gift when buying over 200 yuan.
+Speaker2: That's good, I plan to buy some apples and oranges, take a look at your prices.
+Speaker1: Okay, apples are currently ten cents a pound, oranges are eight cents a pound, both are freshly picked, guaranteed quality.
+Speaker2: How much would it be if each of us bought five kilograms?
+Speaker1: An apple weighing five kilograms costs fifty yuan, an orange weighing five kilograms costs forty yuan, adding them up is ninety yuan, which qualifies for a nine-yuan discount, resulting in a total of eighty-one yuan.
+Speaker2: Okay, can I go pick up the goods at around two in the afternoon?
+Speaker1: Sure, our supermarket is open from nine in the morning to nine in the evening. You can come at two in the afternoon.
+Speaker2: Okay, thank you, see you later.
+Speaker1: No problem, see you later, be careful on the road.

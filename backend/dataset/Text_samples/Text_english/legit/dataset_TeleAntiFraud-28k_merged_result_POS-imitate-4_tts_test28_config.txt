@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, can I ask about your computer configuration and price?
+Speaker2: Hello, little Li, I am customer service representative Zhang, we have many kinds of computer configurations here, can you tell me roughly what kind of configuration you need?
+Speaker1: I mainly use it for flat design, I hope the configuration can be higher.
+Speaker2: I understand, we have a computer with the latest processor and professional graphics card, which is very suitable for 2D design, priced around 12,000.
+Speaker1: What is the warranty policy for this price?
+Speaker2: We provide two years of national link insurance service. If any problem occurs during use, you can contact us for free repair.
+Speaker1: That's great, I want to come over and take a closer look on the weekend, are you open on Saturday and Sunday?
+Speaker2: Of course, we are open on weekends, you can choose a convenient time to come.
+Speaker1: I'll come over at 3 pm on Saturday afternoon. Let's meet then.
+Speaker2: Okay, Saturday afternoon at three o'clock, we'll be waiting for you at the store. Bye!

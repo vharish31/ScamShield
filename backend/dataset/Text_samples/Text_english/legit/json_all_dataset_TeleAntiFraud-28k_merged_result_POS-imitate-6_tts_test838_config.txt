@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can you hear me?
+Speaker2: Sure sure.
+Speaker1: Hey, do you guys have any free spots this weekend? I want to reserve a private room.
+Speaker2: Would you like to reserve a private room at our restaurant?
+Speaker1: Yes, that's the room next to the window in your house, the view is quite good.
+Speaker2: Okay, do we have any spots this weekend? How many of you are there?
+Speaker1: About six, maybe a couple more.
+Speaker2: Sure, we have reserved a six-person room. It's okay if there are one or two more people.
+Speaker1: Then I'll be reassured, do I need to pay the deposit in advance?
+Speaker2: You don't need to, you can pay directly at the store. However, to confirm your location, it's recommended to call ahead.
+Speaker1: Okay, I noted it down, thank you for your help.
+Speaker2: You're welcome, please feel free to contact us if you have any questions, we're looking forward to your visit.
+Speaker1: Okay, bye.
+Speaker2: Goodbye.

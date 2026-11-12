@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What can I help you with?
+Speaker1: I'm Meituan Waimai, your recent order is about to arrive, can you confirm the address is Xinghua Xiǎngqū Sān hào lóu yī dàn, right?
+Speaker2: Yes, that's right.
+Speaker1: Okay, I'll deliver it to your doorstep in a while, please pay attention to check it.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions.
+Speaker2: Okay, I understand.
+Speaker1: Okay, I'll be there in about fifteen minutes, are you ready with the money?
+Speaker2: Okay, I will be ready, thank you.

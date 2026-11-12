@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, recently I've been looking for rental housing information, I saw some suitable properties on your website, could you help me understand more about them?
+Speaker2: Hello, Xiaoming, I am the landlord, very happy to help you. Which apartment do you like the most?
+Speaker1: How much is the rent and deposit for that two-room apartment near the park?
+Speaker2: The rent for this apartment is 2,500 yuan per month, and the deposit is two months' worth of rent.
+Speaker1: Can I take a look at the room? What time is it most convenient?
+Speaker2: Of course, I have time all weekend, how about Saturday afternoon at three?
+Speaker1: Can I go directly at 3 pm on Saturday afternoon?
+Speaker2: Sure, just come directly, I'll wait for you at home. The address is 16th street, easy to find.
+Speaker1: Okay, thank you. Then I'll see you on Saturday.
+Speaker2: No problem, see you on Saturday. I hope you're satisfied.

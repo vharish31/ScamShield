@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you? I'm the food assistant, do you need any restaurant recommendations lately?
+Speaker2: Hello, I recently want to find a place to eat, do you have any recommendations?
+Speaker1: Of course, we have a new Sichuan restaurant here, the reviews are very good, would you like to try it out?
+Speaker2: Can you tell me the specific location of the Sichuan restaurant?
+Speaker1: It's on Culture Street, next to the library, just walk straight from your house, pass two red lights and turn left to see it.
+Speaker2: How much does the average person spend at that restaurant?
+Speaker1: On average, people spend about 50 yuan, the price-per-value is quite high.
+Speaker2: Does this restaurant require advance reservation of seats?
+Speaker1: If you plan to go out on the weekend, it's recommended to book in advance because weekends are usually crowded.
+Speaker2: Okay, I plan to try this weekend, so I'll book a double room now.
+Speaker1: Okay, I booked a double room for you on Saturday night, can you give me a contact number?
+Speaker2: Sure, my phone number is 888-888-8888.
+Speaker1: Okay, I've noted it down. See you on Saturday night.
+Speaker2: Thank you, see you later.

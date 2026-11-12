@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little Li, recently I want to buy a phone, want to ask you a little.
+Speaker2: Hello little Li, I am small Zhang from the phone shop, what phone do you want to know about?
+Speaker1: I recently looked up a flagship phone, but I don't know how the value for money is.
+Speaker2: That flagship phone indeed has great performance, but the price is relatively high. If your budget is limited, we have some high value for money options here.
+Speaker1: Can you recommend something to me?
+Speaker2: Of course, we have a mid-range machine here with good performance and a more affordable price. You can consider it.
+Speaker1: How long does the battery of this mid-range phone last?
+Speaker2: This phone's battery capacity is large, it can be used normally for a whole day without any problems, and the charging speed is also very fast.
+Speaker1: Can you tell me if this phone is in stock?
+Speaker2: Currently we have this phone in stock at our store, you can come take a look or I can reserve one for you.
+Speaker1: I have some free time this weekend, can I come to the store and take a look? Thank you.
+Speaker2: No problem, see you this weekend, hope you can pick a satisfying phone.

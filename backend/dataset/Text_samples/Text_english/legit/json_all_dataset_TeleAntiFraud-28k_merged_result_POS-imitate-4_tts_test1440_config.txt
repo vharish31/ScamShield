@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I assist you at the Li family household service?
+Speaker2: Hello, can you tell me more about your cleaning service, specifically how do you charge?
+Speaker1: Okay, our cleaning service charges based on area and cleaning difficulty, typically a family cleaning session costs 50 yuan per hour, and deep cleaning may be more expensive.
+Speaker2: How much money is needed for a depth of 100 meters per hour?
+Speaker1: A clean and deep conversation costs around seventy yuan per hour. If you need to make a reservation, I can help you arrange it.
+Speaker2: Okay, I want to book a deep cleaning, about three hours needed.
+Speaker1: Sure, can you give me specific time and address?
+Speaker2: The time is this Saturday afternoon at two o'clock, the address is Happiness Small Community Three Number Building Two Single Unit Four Zero One Room.
+Speaker1: Okay, I noted it down. This Saturday at 2 pm, Happy Community Building 3, No. 3, Unit 2, Room 401. We will arrive on time.
+Speaker2: Okay, thank you. See you later.
+Speaker1: No problem, see you later. Wish you a happy day!

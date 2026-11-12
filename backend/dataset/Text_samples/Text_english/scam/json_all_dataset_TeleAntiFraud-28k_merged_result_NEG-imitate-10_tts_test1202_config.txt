@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Ming?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm a customer service representative from Commercial Bank. We noticed you have recently had a loan requirement, would you like to consult with us?
+Speaker2: What's the interest rate on your loans lately?
+Speaker1: Our loan interest rates are very favorable, and there are many options to choose from. For convenience, you can first download our app, which has detailed explanations and application processes inside.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Absolutely safe, our app is officially certified. After downloading, you can submit an application directly through the app, very convenient and quick.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you have any issues after downloading, feel free to contact me anytime. Here's my WeChat, add me as a friend for easy communication later.
+Speaker2: Okay, I'll add you on WeChat.

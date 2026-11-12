@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's special dishes and how much they cost?
+Speaker2: Our restaurant specialties include red braised pork, steamed fish, and stir-fried frog, all at very reasonable prices. Red braised pork is 35 yuan, steamed fish is priced according to size between 40 and 60 yuan, and stir-fried frog is 50 yuan.
+Speaker1: Do you have any discount activities?
+Speaker2: We currently have a set menu discount, two-person dinner for only 150 yuan, including two main dishes and one dessert, very suitable for couples or friends small gatherings.
+Speaker1: How about your business hours?
+Speaker2: Our restaurant business hours are from 10 am to 10 pm, on weekends they will be extended to 11 pm.
+Speaker1: Okay, I plan to come at 7 pm on Saturday night. Do I need to reserve a seat in advance?
+Speaker2: Okay, there will be more people on Saturday night. I suggest you book in advance. Can I help you book a two-person seat?
+Speaker1: Okay, then bother you now.
+Speaker2: No problem, I have already reserved for you. Just come directly at the time. Is there anything else you need help with?
+Speaker1: No more, thank you. See you later.
+Speaker2: Okay, see you later, wish you a happy day.

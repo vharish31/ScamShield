@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative at an agricultural bank named Zhang. We noticed that you have recently been looking for loan services, and we have a special promotion loan project that we would like to recommend to you.
+Speaker2: Hey, do you have a loan? I really need some cash flow lately.
+Speaker1: Yes, we have a loan product without collateral and low interest rate, which is very suitable for you. To confirm your information, can you tell me your ID number and phone number please?
+Speaker2: Identity card number and phone number? That's not good, I'm afraid of risk.
+Speaker1: Mr. Li, we are a regular bank, absolutely safe. To speed up the loan process, you can click on the link I sent you and fill out the relevant information.
+Speaker2: Okay, let me try.
+Speaker1: Great, this link will directly lead you to our loan application page. Fill out the information and we will quickly review it.
+Speaker2: Okay, thank you.

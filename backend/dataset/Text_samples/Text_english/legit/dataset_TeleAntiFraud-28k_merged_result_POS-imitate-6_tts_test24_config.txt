@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm Xiaoming, I saw a maintenance service over here, want to know more about it?
+Speaker2: Hello, Xiao Ming, I am customer service representative Li, how can I help you?
+Speaker1: My fridge at home broke down, can you guys come over to fix it?
+Speaker2: Of course, we provide on-site repair services, can you tell me the specific address?
+Speaker1: I live in the Happy Village community, apartment 3, room 402.
+Speaker2: Okay, happy community three building four zero two room, we usually visit after the appointment on the second day, is it convenient for you tomorrow morning?
+Speaker1: What time can I arrive tomorrow morning?
+Speaker2: We will arrive between 9am and 11am, you can prepare the fridge issues in advance, we will quickly help you solve them.
+Speaker1: Okay, how do you calculate the cost?
+Speaker2: Our repair fee standard is 50 yuan per visit, plus the actual repair cost, which will be determined based on the repair situation. If replacement parts are needed, we will inform you of the cost in advance.
+Speaker1: I understand, so I'll see you all tomorrow.
+Speaker2: Okay, see you tomorrow. If you have any questions, feel free to contact us anytime.

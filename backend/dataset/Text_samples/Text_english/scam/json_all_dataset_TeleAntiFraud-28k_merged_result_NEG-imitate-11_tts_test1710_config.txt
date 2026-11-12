@@ -1,0 +1,12 @@
+Speaker1: Hello, nice to meet you, I am a customer manager of China Construction Bank, Wang.
+Speaker2: Hello, do you have anything?
+Speaker1: Have you heard about our bank's new low-interest loan product? The interest rate is very competitive.
+Speaker2: I recently need cash flow, can you introduce me to it?
+Speaker1: Okay, this product is very suitable for small microenterprise owners, as long as they provide basic qualification proof, they can quickly obtain a loan.
+Speaker2: What do I need to do?
+Speaker1: Just download our official app, fill out some basic info, submit the application, and once it's approved, the loan will be directly deposited into your account.
+Speaker2: Download the app, it sounds pretty convenient.
+Speaker1: Yes, it's very convenient. You can search '中信银行贷款' in the mobile app store and download our official app.
+Speaker2: Okay, I'll go download it now.
+Speaker1: That's great! If you have any issues while using it, feel free to contact me anytime. My phone number is 13800138000.
+Speaker2: Okay, thank you for your help.

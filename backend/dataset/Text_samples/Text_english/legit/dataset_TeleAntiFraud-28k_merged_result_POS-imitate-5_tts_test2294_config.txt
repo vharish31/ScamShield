@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? Can you help me check the flight times for today?
+Speaker2: Hello, where are you?
+Speaker1: I am at the train station.
+Speaker2: Okay, there are two buses from the train station to the airport. One is at 9 am and the other is at 3 pm.
+Speaker1: Can I go at three in the afternoon?
+Speaker2: Okay, remember to arrive at the station fifteen minutes before the train.
+Speaker1: Okay, thank you.
+Speaker2: No problem, is there anything else you need help with?
+Speaker1: No more, thank you.
+Speaker2: Okay, wish you a smooth journey. Bye.
+Speaker1: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you tell me about your delivery service menu? What do you have?
+Speaker2: What kind of cuisine are you interested in here, which includes Sichuan, Cantonese, and Northeast Chinese, among others?
+Speaker1: Can you recommend some spicy Sichuan cuisine?
+Speaker2: The spicy fish and peppery pot in our place is very popular, with a spicy and peppery taste, if you like spicy, you won't be disappointed.
+Speaker1: Sounds great, what's the price?
+Speaker2: Steaming fish in water is 68 yuan per portion, stir-frying with chili oil is 58 yuan per portion, both are sufficient in quantity.
+Speaker1: Okay, I want to order a steamed fish and a spicy pot of hot pot, can you deliver it to my home?
+Speaker2: Of course, we provide free delivery service. Please tell me your address and contact information, we will arrange it immediately.

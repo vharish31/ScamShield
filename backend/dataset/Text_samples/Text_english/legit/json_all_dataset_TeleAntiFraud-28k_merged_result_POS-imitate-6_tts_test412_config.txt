@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the happy restaurant. Is there anything we can help you with?
+Speaker2: Hello, I want to reserve a table for four tonight at six o'clock. Do you have any special recommendations for dishes?
+Speaker1: Okay, your reservation is for tonight at six o'clock for a table of four. We have a variety of menu items here, such as red braised pork, steamed fish with ginger and scallions, and stir-fried mushrooms with garlic, all of which are very popular with our customers.
+Speaker2: The food sounds great, can I order these items, how much is it?
+Speaker1: Red braised pork is 38 yuan, steamed fish is priced differently based on size between 50 to 80 yuan, ginger and green onion is 18 yuan.
+Speaker2: Okay, I'll order a spicy pork and a ginger and green onion dish, and a steamed fish in the middle size.
+Speaker1: Okay, your reservation has been recorded. Tonight at six, four people, one red meat, one ginger and green onion, and one medium steamed fish.
+Speaker2: Okay, thank you. How much time should I arrive beforehand is better?
+Speaker1: I suggest you arrive fifteen minutes early, so you have enough time to order food and prepare.
+Speaker2: Okay, thank you for your advice, see you later.
+Speaker1: Okay, see you later. Enjoy your meal. Bye.

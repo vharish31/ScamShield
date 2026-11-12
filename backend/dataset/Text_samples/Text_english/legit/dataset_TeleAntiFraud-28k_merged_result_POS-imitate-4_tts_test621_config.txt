@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, are you there?
+Speaker2: Hello, little king, I'm here, what's up?
+Speaker1: Can I ask if you have any free time tomorrow? Our company has a team building activity and needs some volunteers to help out.
+Speaker2: What activities do I have tomorrow?
+Speaker1: We plan to go to an outdoor farm, organize some outdoor games and teamwork activities, mainly to enhance team cohesion.
+Speaker2: That sounds interesting, can I help with anything?
+Speaker1: We need some on-site coordination and activities organization, such as distributing resources and maintaining order.
+Speaker2: No problem, I can come at 2 pm tomorrow afternoon. Do I need to prepare anything?
+Speaker1: Bring some water and sunscreen, we'll take care of the rest.
+Speaker2: Okay, I understand, see you tomorrow afternoon at two.

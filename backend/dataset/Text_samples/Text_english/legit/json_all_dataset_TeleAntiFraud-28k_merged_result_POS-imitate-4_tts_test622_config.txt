@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I ordered takeout from your store, why haven't you delivered it yet?
+Speaker2: Hi, sorry, we kept you waiting for a while, traffic is congested now, the delivery guy is on his way, please wait for a moment.
+Speaker1: Okay, how long do we have left?
+Speaker2: We estimate it will take about twenty minutes, if it takes longer we'll contact you.
+Speaker1: Okay, I'll wait a moment. If there are any changes, please notify me immediately.
+Speaker2: Okay, we will contact you promptly, apologize for the inconvenience, and we are truly sorry.
+Speaker1: How much is the delivery fee?
+Speaker2: The delivery fee is six yuan, which is already included in the total order price.
+Speaker1: Okay, I understand, thank you.
+Speaker2: You're welcome, please feel free to contact us if you have any questions, wish you a happy meal.

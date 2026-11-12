@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Can I go see the house tomorrow? Is it convenient for you?
+Speaker2: Sure, what about meeting at 10:30 AM tomorrow?
+Speaker1: Okay, I'll just go directly when the time comes.
+Speaker2: Okay, remember to bring your ID, for easy registration.
+Speaker1: No problem.
+Speaker2: Also, please confirm the specific address again, I will send you a text message.
+Speaker1: Okay, thank you for reminding me.
+Speaker2: No problem, see you tomorrow.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang? I am the agricultural bank manager, Li Wei.
+Speaker2: Hey, it's me, what's up?
+Speaker1: Mr. Zhang, have you any interest in learning more about our bank's recently introduced low-interest loan product, which is designed for customers with stable incomes and has a monthly interest rate as low as zero point five percent?
+Speaker2: "Oh, I have enough money on hand right now, so I don't need a loan temporarily."
+Speaker1: Mr. Zhang, such opportunities are not common, you can leave a phone number or add a WeChat, later if there is a need, you can contact me anytime, I will serve you anytime.
+Speaker2: Okay, can you send me your business card via WeChat? I may need to contact you in the future.
+Speaker1: Okay, Mr. Zhang, I'll send you my WeChat business card now. Additionally, we have a new user registration activity that sends a red envelope after registration, and you can immediately get a hundred yuan red envelope after registration. Are you interested in participating?
+Speaker2: Listen well, how to join in?
+Speaker1: Scan the QR code I send you on WeChat, download our app and register to immediately receive red envelopes.
+Speaker2: Okay, I'll try.

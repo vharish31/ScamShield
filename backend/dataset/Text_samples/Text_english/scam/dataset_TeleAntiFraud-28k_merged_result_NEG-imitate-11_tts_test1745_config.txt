@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from some bank's loan department. Do you have any recent needs for cash flow?
+Speaker2: Hello, I don't have any funding needs, thank you.
+Speaker1: Okay, I have a great opportunity here. No down payment, low interest, fast approval. Would you consider it?
+Speaker2: It sounds good, but I'm not quite clear, how do you operate it?
+Speaker1: It's very simple. Just download our bank app, register and fill in personal information, and we'll have a specialist contact you to complete the subsequent process.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, we are a regular bank, our app has been authenticated, you can put your mind at ease.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues after downloading, feel free to contact me. My phone number is 123-666-6666. I hope our service can assist you.
+Speaker2: Okay, thank you.

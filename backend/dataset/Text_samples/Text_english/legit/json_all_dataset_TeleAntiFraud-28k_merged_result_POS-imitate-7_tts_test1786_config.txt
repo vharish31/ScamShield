@@ -1,0 +1,10 @@
+Speaker1: Hey, friend.
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you provide appointment haircut service here?
+Speaker2: Yes, we provide haircut appointment service, can you tell me what time you want to make an appointment?
+Speaker1: Can I make a reservation for tomorrow afternoon at three o'clock?
+Speaker2: Can we meet at three in the afternoon tomorrow? We usually need to provide a phone contact here to confirm and remind.
+Speaker1: Okay, my phone number is 1381380138.
+Speaker2: Okay, I have recorded it down. Do you have any special requirements, such as haircut style or length?
+Speaker1: I want to cut my hair short, not too short, keep it clean and neat, that's good enough.
+Speaker2: Understood, we will arrange a barber who specializes in short haircuts for you. See you tomorrow at 3 pm!

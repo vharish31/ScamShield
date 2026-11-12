@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here happy express center service, I is service staff little Li.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, you recently lost a package during transportation, we're very sorry.
+Speaker2: Oh, really? Then what do we do?
+Speaker1: To make up for your loss, we have decided to give you a compensation payment.
+Speaker2: That's great, thank you.
+Speaker1: You need to complete a simple verification first. Once verified, the compensation will be directly credited to your account.
+Speaker2: How to verify?
+Speaker1: Just click on the link and follow the instructions on the page.
+Speaker2: Okay, I'll go operate right away.

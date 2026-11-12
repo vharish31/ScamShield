@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am small Li, the client manager of Agricultural Bank.
+Speaker2: Hello, Little Li.
+Speaker1: You can exchange a beautiful gift with your credit card points by paying a little tax.
+Speaker2: Really? I didn't receive any notification?
+Speaker1: It's possible that your email was mistakenly identified as spam. Our activity this time was very popular, if you need help, I can quickly handle it.
+Speaker2: Okay, I'm quite interested.
+Speaker1: Okay, can you provide me with your ID number and the last four digits of your credit card, to verify some information?
+Speaker2: Hey, my ID number is 123456789012345678, and the last four digits of my credit card are 1234.
+Speaker1: Okay, after I verify the information here, I will immediately send you a link to your phone, and you can complete the payment by clicking on the link to exchange the gift.
+Speaker2: Okay, I'll act as soon as I get the link.

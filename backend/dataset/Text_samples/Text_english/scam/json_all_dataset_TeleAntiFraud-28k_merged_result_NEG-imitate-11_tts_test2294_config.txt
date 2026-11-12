@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I'm the manager of North Bank, we recently launched a new loan service, very suitable for small business owners.
+Speaker2: Hello, my current financial situation is good, I don't need a loan at the moment.
+Speaker1: That's great! But our services aren't just loans, we also have a variety of financial products, such as credit card reward points exchange and wealth management products. Are you interested?
+Speaker2: Hey, I'm interested in financial products, can you give me a detailed introduction?
+Speaker1: Of course, we have a very popular financial product with an annual return rate of up to 100%, and the risk is very low. If you're interested, you can click on the link I sent you to learn more.
+Speaker2: Link? You can just say it directly, I'm not very convenient to click on links.
+Speaker1: Okay, let me tell you directly, this product is limited time, you need to buy it through our exclusive app. Have you downloaded our app?
+Speaker2: Do I need to download your app yet?
+Speaker1: Yes, downloading our app is very convenient. Just search 'North Bank' in the mobile app store and you'll find it. After downloading, register an account to buy this financial product.
+Speaker2: Okay, I'll give it a try. Thank you for your recommendation.

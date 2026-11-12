@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the Commercial Bank of China, and I see some unusual activity in your loan records at our bank recently. We need to confirm.
+Speaker2: Uh, is that so? I recently really need cash flow, what's the problem?
+Speaker1: To ensure your account safety, we need you to provide some information to verify identity, such as your ID number and bank reserve phone number.
+Speaker2: Okay, my ID number is..., phone number is...
+Speaker1: Thank you for your cooperation. We also need you to provide a verification code. The verification code has already been sent to your reserved phone number.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Verification successful. For convenience in your future loan operations, you can download our bank's official app, which has many promotional activities.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, download it and use the verification code 123456 to activate the account. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you, Li, goodbye.

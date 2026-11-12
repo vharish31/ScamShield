@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker1: Can you tell me more about your hair appointment service?
+Speaker2: Okay, what time slot would you like to book?
+Speaker1: Can I make a reservation for this weekend, around 3 PM on Saturday?
+Speaker2: Is it okay, on Saturday afternoon at three o'clock we have a free slot, do you need to come to the store in advance?
+Speaker1: No need, I plan to go directly, you guys wash head first or directly cut?
+Speaker2: We usually wash our heads first and then cut our hair, this way our hairstyle looks more natural.
+Speaker1: How long will it take?
+Speaker2: Typically, the whole process takes about an hour, but if your haircut is more complicated, it might take a little longer.
+Speaker1: Okay, I'll arrive at three o'clock on Saturday afternoon, thank you.
+Speaker2: Okay, see you on Saturday at 3 pm. I'm looking forward to your arrival.

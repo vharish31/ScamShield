@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I just looked at a phone on your website and want to know more details.
+Speaker2: Okay, which phone are you looking at? I can give you a detailed introduction.
+Speaker1: That's the latest blue special edition, I saw some reviews saying it's not bad.
+Speaker2: This phone is very popular, it comes with the latest processor and high resolution display screen, and a large battery. What information do you need to know?
+Speaker1: I'm mainly concerned about the price and delivery time.
+Speaker2: This phone is priced at 3500 yuan, we currently have stock, if you place an order, we estimate it will arrive in three days.
+Speaker1: Can I pay with a credit card?
+Speaker2: Of course, we support multiple payment methods, including credit card, Alipay and WeChat Pay.
+Speaker1: Okay, I'll place the order now, thank you for the introduction.
+Speaker2: You're welcome, feel free to contact me anytime if you have any questions, wish you a happy shopping.

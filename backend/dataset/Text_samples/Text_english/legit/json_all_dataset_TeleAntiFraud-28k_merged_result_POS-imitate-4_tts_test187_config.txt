@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service of the food square, did you book a place with us before? Do you have time to come tonight?
+Speaker2: Hello, what time should we meet tonight?
+Speaker1: We suggest you come at six and a half, so you can avoid rush hour traffic and enjoy a peaceful dining environment.
+Speaker2: Okay, I'll do my best to arrive on time.
+Speaker1: Great, we have reserved a spot for you. So, do you have any special requirements for the menu?
+Speaker2: My friend doesn't like spicy, please avoid spicy.
+Speaker1: Understood, we will pay special attention. Moreover, we have a seafood special promotion today, would you like to try?
+Speaker2: Listen well, let's try a few seafood dishes.
+Speaker1: Okay, we're ready for you now. See you later!
+Speaker2: Good evening, thank you.

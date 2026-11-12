@@ -1,0 +1,10 @@
+Speaker1: Hello, you are small Liu from Agricultural and Commercial Bank, calling you.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we noticed you recently have a funding need, so we specifically contacted you, and we can provide you with a five thousand yuan interest-free loan, the process is simple, and the payment is quick.
+Speaker2: No, I don't need a loan, thank you.
+Speaker1: Is it really not needed? Our this time's loan interest rate is very low, and the procedures are very simple, only need a passport and a business license.
+Speaker2: I still don't need it, thank you.
+Speaker1: Okay, if you have any financial needs, feel free to contact me anytime. By the way, we also have a promotion going on, if you download our bank's app now, you can enjoy an extra interest rate discount.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, downloading our app is very convenient. You can search for "农商银行" in the app store on your phone and download it. After registering and verifying your identity, you can enjoy our discounts.
+Speaker2: Okay, I will consider it. Thank you.

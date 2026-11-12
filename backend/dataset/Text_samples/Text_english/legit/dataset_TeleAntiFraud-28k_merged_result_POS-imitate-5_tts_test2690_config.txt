@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm at the company building, where are you?
+Speaker2: I just got off the subway station, and I'm walking towards you now.
+Speaker1: Okay, I see a big billboard there. Just wait for me next to it.
+Speaker2: Okay, I see the billboard, I'll go over there right away.
+Speaker1: Can you see McDonald's? I'm waiting for you across the street.
+Speaker2: I saw McDonald's, I'll be there soon.
+Speaker1: The wind is a bit big here, come over quickly.
+Speaker2: Okay, I'll go now.
+Speaker1: Did you arrive? I've been waiting for you under the billboard for a long time.
+Speaker2: I just arrived, you walked a few steps towards KFC, I was on the side.

@@ -1,0 +1,11 @@
+Speaker1: Hello, you are the customer service representative of Huatian Yinhang, I am Lee Huai, are you Mr. Zhang?
+Speaker2: Yes, what's up?
+Speaker1: Mr. Zhang, we noticed that you've been looking for investment opportunities lately. We have a great investment platform with stable returns and low risk. Would you be interested in learning more?
+Speaker2: Investment platform? It sounds good, can you give a detailed explanation?
+Speaker1: Of course, this platform was carefully crafted by multiple senior financial experts, primarily investing in the stock and bond markets, with hundreds of investors already using it and providing positive feedback.
+Speaker2: Sounds pretty attractive, but how do you operate it?
+Speaker1: You just need to download our app, register and complete real name authentication to start investing. For your convenience, I can send you a link, just click on the link to directly download our app.
+Speaker2: Okay, let me try.
+Speaker1: Great, I'll send you the link now. If you have any questions after downloading, feel free to contact me anytime, I'll guide you through the whole process.
+Speaker2: Thank you, I will pay attention to the receipt.
+Speaker1: Welcome, Mr. Zhang. We're looking forward to your joining. If you have any questions, please feel free to consult anytime. Best wishes for your investment!

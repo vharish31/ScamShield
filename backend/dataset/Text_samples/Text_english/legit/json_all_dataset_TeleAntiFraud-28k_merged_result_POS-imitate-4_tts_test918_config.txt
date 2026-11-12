@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's special dishes and business hours?
+Speaker2: Okay, our signature dishes are Kung Pao Chicken, Steamed Fish and Stir-Fried Frog, all very popular with customers. Our restaurant's business hours are from 10am to 10pm every day.
+Speaker1: Can I reserve a four-person table for around 5:30 in the afternoon?
+Speaker2: Okay, I've reserved a spot for you at 5:30, just come directly when the time comes.
+Speaker1: Okay, thank you. Do you have any recommendations for drinks?
+Speaker2: We have homemade lemonade and iced sour plum soup here, both of which are very good to drink, especially in summer.
+Speaker1: Then I will try your sour plum soup.
+Speaker2: Okay, sour plum soup is very refreshing, I hope you like it. See you at 5:30.

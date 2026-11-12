@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little king, I bought a piece of clothing at your store yesterday, and I found a problem today, I want to consult how to handle it.
+Speaker2: Hello, little king, I am customer service little Zhang, what questions can you tell me, I will do my best to help you solve.
+Speaker1: The sleeves of this shirt are a bit loose, I'm afraid it won't look good when I wear it, I don't know if I can exchange it or return it.
+Speaker2: Our return policy is seven days no questions asked, as long as you keep the original packaging and haven't washed it, you can come to the store or mail it back to us through express delivery.
+Speaker1: What should I do now? Should I apply first or send it back directly?
+Speaker2: You can submit a return/exchange application on our website's personal center first, and we will send you the return address and notice after approval.
+Speaker1: Is the shipping cost for the package I sent back supposed to be covered by me?
+Speaker2: If the issue is with product quality, we will cover the shipping fees; if it's due to personal reasons, you will be responsible for the shipping fees.
+Speaker1: Now I can relax, I'll submit my application now, thank you for your help.
+Speaker2: No problem, if you have any other questions, feel free to contact me anytime, wish you a happy day.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm a customer service representative from some e-commerce platform. Your accumulated shopping points on your account will be cleared at midnight tonight. Do you know?
+Speaker2: Oh, is that so? I haven't noticed yet, what's the use of this score?
+Speaker1: You can use these points to exchange products, such as electronic products or home appliances, and you can also deduct some cash.
+Speaker2: How do I check my points?
+Speaker1: You can check your points reminder on our app's homepage. Log in quickly to take a look.
+Speaker2: Okay, I'll go take a look right away.
+Speaker1: Okay, if you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, I'll check first and then get back to you later.
+Speaker1: You're welcome to consult anytime.
+Speaker2: Okay, bye.

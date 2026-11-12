@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Lee Huai, the customer manager of the Shenzhen Bank. We have a new financial product that has an annual return rate of 12%, would you be interested in learning more about it?
+Speaker2: Hey, really? I recently really want to invest some financial products, what are the features of your product?
+Speaker1: Okay, this product is specifically designed for our high-quality customers, with low risk and stable returns. To help you understand the detailed information, I will send you a link, and you can click on it to see the product's detailed introduction.
+Speaker2: How do I receive this link?
+Speaker1: I will send you a message, please pay attention to check it. Once you receive it, click on the link, and you can contact me directly if you have any questions.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, just a moment, I'll send it to you now. Additionally, to ensure your funds are safe, I recommend downloading our bank's exclusive app, which allows you to better manage your assets.
+Speaker2: Download the app? How do I download it?
+Speaker1: After receiving the text message, click on the link, and there will be a download button on the page. Follow the instructions to download it.
+Speaker2: Okay, I understand. Thank you for your recommendation.

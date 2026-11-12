@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li. Have you attended any company activities recently?
+Speaker2: Hey, little Li, what's that activity you were talking about? I haven't joined yet, how's it going?
+Speaker1: Great, this activity has many prizes, if you're interested you can try.
+Speaker2: Really? What kind of prizes are there?
+Speaker1: A smartwatch, Bluetooth headphones, and some office supplies are quite practical.
+Speaker2: Sounds good, when do I have time to attend?
+Speaker1: There are activities this weekend, if you're free, you can come, we're in the conference room on the third floor.
+Speaker2: Okay, I should have time this weekend. See you then.
+Speaker1: Great, let's meet this weekend, don't forget to bring the flag.
+Speaker2: Got it, thanks for reminding me, see you this weekend!

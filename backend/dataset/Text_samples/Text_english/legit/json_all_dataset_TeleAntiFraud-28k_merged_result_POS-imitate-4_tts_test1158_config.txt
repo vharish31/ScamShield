@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? Can you introduce any suitable job positions to me on your side?
+Speaker2: Hello, yes, we have some job vacancies here recently, what kind of position are you interested in?
+Speaker1: Have you guys got any similar work to what I used to do, which is sales and some customer service?
+Speaker2: Okay, we have both sales and customer service. Can you specifically say which experiences you have?
+Speaker1: Hey, I worked at an electronics products company for two years in sales, then I switched to a customer service center and worked there for a while, mainly handling customer inquiries and complaints.
+Speaker2: Can you come to our company for an interview? Your experience sounds suitable for our work here.
+Speaker1: Sure, can I come over tomorrow afternoon?
+Speaker2: Can we meet at two in the afternoon tomorrow? We will arrange an interview time for you.
+Speaker1: Two o'clock is fine, so I'll arrive at two o'clock precisely tomorrow afternoon.
+Speaker2: Okay, see you tomorrow.
+Speaker1: Okay, thank you, bye.

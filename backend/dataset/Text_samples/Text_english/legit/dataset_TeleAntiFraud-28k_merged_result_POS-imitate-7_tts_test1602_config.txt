@@ -1,0 +1,14 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Hello, I am.
+Speaker1: I am a customer service representative for the quick booking service. We noticed that you recently booked a haircut on our platform.
+Speaker2: Okay, I made a reservation.
+Speaker1: Your appointment time is tomorrow afternoon three o'clock, location is city center's trendy hair salon.
+Speaker2: Okay, I understand.
+Speaker1: If there are any changes, you can update them through our platform in real-time.
+Speaker2: Okay.
+Speaker1: Additionally, we provided a free haircut service for first-time users, do you need to make an appointment?
+Speaker2: What should I do now that this sounds good?
+Speaker1: You just need to select this service in the appointment details, very convenient.
+Speaker2: Okay, thank you for your reminder, I will pay attention.
+Speaker1: You're welcome. If you have any questions, feel free to contact us anytime. Have a nice day!
+Speaker2: Thank you, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, yesterday I made an appointment for a haircut at your store, today I want to get my head cut.
+Speaker2: Hello, little Zhang, I am the customer service of the hair salon, what time is your appointment?
+Speaker1: Can I arrive at the scheduled time of 3 PM, but I arrived early, about 2 PM?
+Speaker2: Okay, we have enough guests today, it's no problem for them to come at two o'clock.
+Speaker1: That's great, I'll just go over there. Oh, I forgot to ask yesterday on the phone, do your store have any washing hair service?
+Speaker2: Yes, we provide hair washing service here. We will provide hair washing before and after cutting, to ensure your hair is clean and tidy.
+Speaker1: That's great, I'll leave now, I should be there in about twenty minutes.
+Speaker2: Okay, little Zhang, we'll wait for you at the store. Be careful on the road.
+Speaker1: Thank you, see you later.
+Speaker2: See you later.

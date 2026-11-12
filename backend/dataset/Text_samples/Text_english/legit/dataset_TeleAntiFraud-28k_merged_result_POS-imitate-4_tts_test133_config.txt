@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Li, can I come for the car maintenance that I made an appointment for yesterday?
+Speaker2: Hello, little Li, is it okay? We have reserved a place for you here. What time will you come?
+Speaker1: Let's meet around two in the afternoon.
+Speaker2: No problem at 2 o'clock. Remember to bring your driving license and maintenance manual. We're happy to serve you.
+Speaker1: Okay, will I still receive a text message confirmation?
+Speaker2: We'll send you a text message to confirm the meeting later, please pay attention to check it.
+Speaker1: Understood, okay, how long will this maintenance take approximately?
+Speaker2: A general rule for regular maintenance is about one and a half to two hours, depending on the workload for the day.
+Speaker1: Is this okay, can I pick up the car at four thirty in the afternoon?
+Speaker2: 4:30 to pick up the car should be fine, if there are any changes we will contact you in advance.
+Speaker1: Okay, thank you, see you in the afternoon.
+Speaker2: No problem, see you in the afternoon, be careful on the road.

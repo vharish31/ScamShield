@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you, where are you?
+Speaker2: I'm waiting for you at the subway station exit. Are you coming soon?
+Speaker1: Just got off the subway, immediately to the exit, what are you wearing, I recognize you.
+Speaker2: What are you wearing?
+Speaker1: I wear a black suit with a red hat, you can easily see.
+Speaker2: Okay, I see you now, walk to the left, I'll wait for you on the left.
+Speaker1: Okay, I see you, let's go to that coffee shop and sit down.
+Speaker2: Okay, that coffee shop is not bad, the environment is good.
+Speaker1: Let's go try some of their new desserts.
+Speaker2: Great idea, I also want their desserts.

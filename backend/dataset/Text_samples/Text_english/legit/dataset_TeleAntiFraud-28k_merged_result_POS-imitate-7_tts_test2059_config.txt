@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I saw your pet grooming and beauty services, want to know more?
+Speaker2: Hello, Mr. Li, we do provide pet grooming services here. What information are you interested in?
+Speaker1: What are the projects and prices of your beauty services?
+Speaker2: Our project includes services such as bathing, haircut, nail polish, ear cleaning, etc. The prices for different projects are not the same. For example, the basic bathing and haircut service costs three hundred yuan. If there are any special requirements, the price will be adjusted accordingly.
+Speaker1: If it's a large dog, will the price be different?
+Speaker2: Yes, large dogs because of their size, processing will be more complicated, so the cost will be higher, around 400 to 500 yuan.
+Speaker1: How many days in advance do I need to make a reservation?
+Speaker2: We suggest you book in advance 1-2 days, so we have enough time to serve you.
+Speaker1: Okay, can I bring my dog over tomorrow? Can I reserve a time?
+Speaker2: Sure, you can make an appointment through phone or our WeChat public account. We will arrange it for you.

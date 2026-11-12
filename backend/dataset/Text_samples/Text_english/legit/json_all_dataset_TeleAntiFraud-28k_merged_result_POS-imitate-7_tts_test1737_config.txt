@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help with?
+Speaker1: What are the special deals this week?
+Speaker2: This week we have red meat and steamed fish on special, very cheap, would you like to try?
+Speaker1: How about you guys start your business at 9 o'clock?
+Speaker2: We open business at 11 am every day and close at 9 pm.
+Speaker1: Okay, I plan to come at seven in the evening. Do I need to make a reservation?
+Speaker2: If you can determine the time, please make a reservation in advance, so we can reserve a place for you.
+Speaker1: I'll book a four-person table right now.
+Speaker2: Okay, I have reserved a 7:00 PM table for four people for you. Please go to the front desk and give your name when you arrive.
+Speaker1: Thank you, see you later.
+Speaker2: You're welcome, looking forward to your arrival, goodbye!

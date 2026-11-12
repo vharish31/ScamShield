@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little king, I just bought a piece of clothing on a website, but the size seems to be wrong.
+Speaker2: Hello, little king, I am customer service Zhang, what can I help you with?
+Speaker1: What should I do if I want to change my size?
+Speaker2: You can apply for refund or exchange, we support 7 days no reason refund.
+Speaker1: What do I need to do?
+Speaker2: You can click 'Apply for After-Sale' on the order details page, then choose exchange, fill in the relevant information, and that's it.
+Speaker1: How long after applying can I change my phone?
+Speaker2: In general, we will process and ship out new products within three to five business days after receiving returned items.
+Speaker1: Okay, can I ask one more thing? Is the postage fee my responsibility?
+Speaker2: If the issue is with product quality or size mismatch etc., our platform is responsible and we will cover the shipping cost. If it's due to personal reasons and you need to exchange, you'll have to cover the shipping cost yourself.
+Speaker1: I understand, thank you for your help, I will operate according to your steps.
+Speaker2: You're welcome. If you have any other questions, please contact us anytime. Have a happy life!

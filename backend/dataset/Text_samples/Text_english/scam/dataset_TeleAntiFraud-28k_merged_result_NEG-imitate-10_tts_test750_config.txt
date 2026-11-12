@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I'm small Li, I work at Huaxia Bank as a loan officer, we recently launched a new loan product with a very low interest rate, are you interested in learning more about it?
+Speaker2: Sure, can you give me a detailed introduction?
+Speaker1: Of course, this product's annual interest rate is only 0.03%, and the approval speed is fast, usually one workday can put the loan. However, to ensure the accuracy and correctness of your information, could you please provide your identity card number and bank account information first?
+Speaker2: So, what information do I need to provide in this way?
+Speaker1: You can click this link, fill in the relevant information, and submit it. We will review it quickly after submission.
+Speaker2: Okay, I'll go operate. Is this link safe?
+Speaker1: Of course, we are a regular bank. You can rest assured. If you have any questions, feel free to contact me anytime.
+Speaker2: That's great, I'll handle it right away. Thank you for your help.
+Speaker1: You're welcome. I wish you all the best. If you have any questions, feel free to contact me anytime.

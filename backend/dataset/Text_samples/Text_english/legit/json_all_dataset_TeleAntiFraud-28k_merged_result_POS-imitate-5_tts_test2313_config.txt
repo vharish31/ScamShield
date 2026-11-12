@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you confirm if my order from yesterday can be delivered today?
+Speaker2: Okay, can you please tell me which order number is it? I'll check it here.
+Speaker1: The order number is 83652749.
+Speaker2: Okay, just a moment, I'll check. Hmm, this order is estimated to be delivered around 3 pm this afternoon.
+Speaker1: That's great, I was at home at that time.
+Speaker2: Okay, if there are any changes, our delivery personnel will contact you in advance.
+Speaker1: Okay, thank you. Is it possible to change the address of this order?
+Speaker2: Okay, it's still in time to modify. Please tell me the new delivery address.
+Speaker1: The new address is Shanghai city Pudong New District Century Avenue eight hundred eighty-eight.
+Speaker2: Okay, the address has been changed for you. Is there anything else you need help with?
+Speaker1: No more, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Have a great day!

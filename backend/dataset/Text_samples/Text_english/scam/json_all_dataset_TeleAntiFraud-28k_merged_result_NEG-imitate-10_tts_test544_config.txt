@@ -1,0 +1,11 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Hello, I am.
+Speaker1: This is the small and medium enterprise department of Shanghai Bank, I am the manager. We noticed that your enterprise may have recently had a funding need, we have a low interest loan product that can provide one hundred thousand yuan of financial support for you.
+Speaker2: Oh, I'm not familiar with this one.
+Speaker1: This product is very flexible, no deposit is required, and the approval process is very fast. You can download our APP, register and then see detailed loan information.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, you can apply online after downloading. It's very convenient. If you need help, I can provide you with the download link.
+Speaker2: What is the name of your app?
+Speaker1: Our app is called "Enterprise Financial Assistant". You can download it directly through this link: [link].
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues while using it, feel free to contact me anytime. Best wishes for your business, goodbye!

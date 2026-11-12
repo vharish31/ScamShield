@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Little Wang, I'm the customer service representative at the Happy Shopping Mall.
+Speaker2: Hello, what do you have?
+Speaker1: Hey, we found some issues with your previous order, you might need to help us handle it.
+Speaker2: What problem?
+Speaker1: That's it, our system shows that your order may have some exceptions, for the sake of your account's security, we need you to provide some information to verify.
+Speaker2: What information do you need from me?
+Speaker1: Please provide your bank card number and the verification code of your recent transaction, so we can confirm it's your account.
+Speaker2: This sounds a bit off, don't you guys want to ask me for this information?
+Speaker1: Don't worry, we're all following regular procedures to ensure your account's safety. This step is absolutely necessary. If you're not comfortable providing your phone number, you can click on the link we send to you and fill it out online.
+Speaker2: Okay, let me try.

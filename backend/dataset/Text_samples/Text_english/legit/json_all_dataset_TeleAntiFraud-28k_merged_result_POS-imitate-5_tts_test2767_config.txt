@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me your restaurant's business hours?
+Speaker2: Our restaurant is open from 10 am to 10 pm every day of the week.
+Speaker1: Can I reserve a window seat on the weekend?
+Speaker2: Of course, the weekend's crowd is quite large, so I suggest you book in advance.
+Speaker1: Okay, I want to reserve a spot for Saturday evening at 7 pm.
+Speaker2: Okay, Saturday evening at 7 pm, window side, I have already reserved a spot for you. Do you need me to write down your contact number?
+Speaker1: Please, my phone number is 1381238987.
+Speaker2: Okay, I've recorded it. See you later!

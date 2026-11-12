@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I'm at the train station, can you come pick me up?
+Speaker2: Hey, little Li, I'm at home now, come take a taxi over here, I'll give you the address.
+Speaker1: Okay, then give me a location, I'll call a car right away.
+Speaker2: Okay, I already sent you a WeChat message, take a look.
+Speaker1: How long will it take for me to get there by taxi?
+Speaker2: According to the road conditions, it will take about 30 minutes.
+Speaker1: Okay, I'm leaving now, I'll call you on the way.
+Speaker2: Okay, be careful on the road, call me when you arrive.
+Speaker1: See you later.
+Speaker2: Bye, be careful on the road.

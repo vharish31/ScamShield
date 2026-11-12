@@ -1,0 +1,10 @@
+Speaker1: Hello, how's your recent water and electricity usage at home?
+Speaker2: Hello, property, both home water and electricity are fine, there's nothing wrong lately.
+Speaker1: That's fine, we've been checking our water pipes recently. If there are any issues, please feel free to contact us anytime.
+Speaker2: Okay, thank you for reminding me. Is there anything happening in the community this weekend?
+Speaker1: Yes, there is a community cleaning day on Saturday and a health lecture on Sunday, are you interested in joining?
+Speaker2: I may not have time on a clean day, but I want to listen to a healthy lecture.
+Speaker1: Okay, the health lecture is held at the community center starting at 2 pm. Don't forget to bring your ID to register.
+Speaker2: I know, thank you for your reminder, I will go at that time.
+Speaker1: No problem, please contact us if you need further assistance.
+Speaker2: Okay, thank you, bye.

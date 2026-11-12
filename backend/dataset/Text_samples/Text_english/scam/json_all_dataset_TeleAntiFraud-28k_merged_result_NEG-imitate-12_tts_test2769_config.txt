@@ -1,0 +1,18 @@
+Speaker1: Hello, this is the customer service center of Tao Tao, I am customer service Li, please tell me if you are Zhang Ming?
+Speaker2: Hey, it's me. What's up?
+Speaker1: We detected an issue with your order, please cooperate with us to handle it, to ensure your funds are safe.
+Speaker2: Oh, order issue? How can I assist you?
+Speaker1: To confirm your identity, please provide us with your order number and the last four digits of your ID card, and we will send you a verification code to your phone, please check it and tell us.
+Speaker2: Okay, my order number is 20230415, the last four digits of my ID are 1234, I'll check my phone next.
+Speaker1: Okay, the verification code has been sent, please check.
+Speaker2: I received it. The verification code is 6789.
+Speaker1: Thank you for your cooperation. We have confirmed your information. Now please click on the link we sent, to complete the next step.
+Speaker2: Okay, I'll click right away.
+Speaker1: Please make sure to follow the instructions on the new page, and feel free to contact me if you have any issues.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, wish you all the best. If you have any other questions, feel free to add my WeChat, feel free to contact me anytime. My WeChat number is ttkefu123.
+Speaker2: Okay, I'll add one more.
+Speaker1: Okay, please note down your name after adding it up, I will process it quickly.
+Speaker2: Okay, okay.
+Speaker1: Thank you very much for your cooperation. Wish you a happy life. Goodbye.
+Speaker2: Goodbye.

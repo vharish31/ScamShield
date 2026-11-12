@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Lee Huai?
+Speaker2: Yes, who are you?
+Speaker1: Hello, I am the customer manager of Huaxia Bank, Wang. We noticed your recent business success. Congratulations!
+Speaker2: Thank you, is there anything I can help with?
+Speaker1: That's right, our bank has a special loan project specifically for small business owners, with loan amounts ranging from 20,000 to 100,000, and very competitive interest rates, which can help solve your cash flow problems.
+Speaker2: This sounds good, but I don't need a loan right now.
+Speaker1: Hmm, I understand. But, if you need anything in the future, you can consider our service. Moreover, we also have a specialized financial advisor who can help you plan your finances and improve your financial efficiency.
+Speaker2: What are the specific steps to operate this professional-sounding thing?
+Speaker1: It's very simple. Just download our bank's official app, register and fill in the relevant information, and our financial advisor will contact you. If you're not convenient to download the app, you can also directly add my WeChat, I can help you operate on this side.
+Speaker2: Okay, I'll think about it, thanks for your advice.

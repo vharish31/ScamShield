@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the bank manager Lee, in charge of loan business. Do you have any recent need for capital rotation?
+Speaker2: Hello, temporarily no need for this.
+Speaker1: Oh, that's how it is. But if you need it, we can provide no-down payment, quick loan services here.
+Speaker2: What is the interest rate on your loan?
+Speaker1: The interest rate is very favorable. You can check the specific details in our app introduction. Do you have a smartphone? You can download our app and find detailed interest rate and application process on it.
+Speaker2: My phone doesn't have your app.
+Speaker1: That's great! I can send you a download link here. Just click on the link and you can download it directly.
+Speaker2: Okay, give it to me.
+Speaker1: Okay, wait a minute, I'll send it to you now. After you receive the text message, click on the link to download the app, then register an account and you can start applying.
+Speaker2: Okay, thank you.

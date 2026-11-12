@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer manager of the southern bank, I am Zhang Wei, have you recently applied for a loan online?
+Speaker2: "Oh, yes, I did apply recently, but I haven't received a reply yet."
+Speaker1: Okay, I found your application, your situation meets our loan conditions, you can quickly approve the loan.
+Speaker2: That's great, I really need to turn over some cash recently.
+Speaker1: No problem, but in order to ensure the smooth loan process, you need to pay a deposit of about three thousand yuan first.
+Speaker2: Deposit? What's the use of it?
+Speaker1: This is to verify your repayment ability, which is industry practice, and the money will be refunded to you after the loan is repaid. You can pay through this link, and it will be completed quickly.
+Speaker2: Okay, I'll go pay now.
+Speaker1: Okay, please pay and I'll process immediately. If there are any issues, feel free to add my WeChat and contact me anytime.
+Speaker2: Okay, thank you.

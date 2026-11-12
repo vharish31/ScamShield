@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Can you check if there are any spots left in your fitness program?
+Speaker2: Yes, we have a few more names here. Are you coming for the first time?
+Speaker1: Yes, I recently want to start working out my body, heard your place is good.
+Speaker2: Thank you for the award. We have several different courses here, such as yoga, fitness and strength training. Which one are you most interested in?
+Speaker1: I want to try yoga first, I think it will be more suitable for me.
+Speaker2: Okay, our yoga classes are every week at three different times: Monday, Wednesday, and Friday evenings from 7 to 8 p.m. You can try one first.
+Speaker1: That's great, I plan to try it out this Friday. Do I need to make a reservation in advance?
+Speaker2: You can book through our WeChat public account or directly call to book.
+Speaker1: Okay, I will confirm through WeChat. Thank you for your help.
+Speaker2: No problem, wish you a happy Friday. If you have any questions, feel free to contact me. Bye!

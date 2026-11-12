@@ -1,0 +1,12 @@
+Speaker1: Hey, how have you been lately?
+Speaker2: Hello, just work is a bit busy. You?
+Speaker1: Yeah, but it's okay, lately I've been learning some new things.
+Speaker2: What new thing are you learning?
+Speaker1: Learning some programming knowledge feels quite useful.
+Speaker2: Programming, that's pretty good, I'll use it later.
+Speaker1: Have you had any new fresh things lately?
+Speaker2: Let's go to the new restaurant we went to recently together. It's not bad, let's go there again next time.
+Speaker1: What's the name of that restaurant?
+Speaker2: Call "Flavor Exploration" and it's easy to find in the city center.
+Speaker1: Sounds good, what do we do this weekend?
+Speaker2: Okay, see you this weekend.

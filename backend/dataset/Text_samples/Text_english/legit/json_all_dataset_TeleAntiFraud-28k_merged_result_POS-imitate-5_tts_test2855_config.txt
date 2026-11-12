@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? You previously booked a massage service on our platform.
+Speaker2: "Uh, yes, I want to confirm the time of my appointment."
+Speaker1: Okay, your appointment time is tomorrow afternoon three o'clock, location is at the happy road happy spa.
+Speaker2: Can time be changed to four o'clock? I have something to do in the afternoon.
+Speaker1: Okay, changing to 4 o'clock is fine, but just a reminder, this time slot has a lot of reservations, so there might be a slight delay.
+Speaker2: Okay, I know, it doesn't matter if it's a little late.
+Speaker1: Okay, I'll change the appointment time for you on this side.
+Speaker2: Thank you.
+Speaker1: No problem, is there anything else you need help with?
+Speaker2: No more, thank you. Goodbye.
+Speaker1: Okay, bye.

@@ -1,0 +1,11 @@
+Speaker1: Hey, are you Lee Huai?
+Speaker2: Is it me, you?
+Speaker1: Hi, I'm a customer service representative from Commercial Bank. We noticed you recently have a loan need, would you like to know more about our low interest loan products?
+Speaker2: Uh, yeah, I actually need some cash flow right now.
+Speaker1: Great, our loan products have very competitive interest rates, and the approval and disbursement are both quick. You just need to provide some basic personal information, and we can apply for you.
+Speaker2: What do I need to prepare?
+Speaker1: You just need to download our bank's official app, fill out the application form, and upload some necessary certificate photos to complete it.
+Speaker2: What is the name of this app that I should download?
+Speaker1: You can download the "Working Capital Loan" app by searching for it in the app store.
+Speaker2: Okay, I understand. I'll give it a try. Thank you for your recommendation.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes on your application!

@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am Lee Hua, I bought a cake from your store, can you confirm if it can be delivered?
+Speaker2: Hello, Lee Huai, I am the store's waiter, Xiao Wang. Your cake order is our store's signature style. It should be delivered around 2 pm. Is that okay with you?
+Speaker1: Can we meet at 2 o'clock? But I have another gathering at my home, can we move it up a little?
+Speaker2: Okay, can I arrange to arrive early at half past one, so that I can meet your requirements?
+Speaker1: That's great, can you help me?
+Speaker2: No problem, this is what we should do. I'll confirm with you shortly, and then I'll send you the confirmation time.
+Speaker1: Okay, thank you, then I'll wait for your information.
+Speaker2: Okay, you can relax, I will handle it quickly. Then I'll hang up.
+Speaker1: Goodbye.

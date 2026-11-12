@@ -1,0 +1,10 @@
+Speaker1: Hello, can you hear me? I am a customer service representative from some e-commerce platform. You have a large amount of shopping points on your account, which will be cleared at midnight tonight.
+Speaker2: Oh, really? I didn't notice that.
+Speaker1: Yes, these points are the ones you accumulated through your daily shopping, you can redeem a lot of cash, hurry up and see how to use them.
+Speaker2: How do I use these points?
+Speaker1: You can log in to our platform, select your favorite products, and then choose to use point deduction during payment.
+Speaker2: Okay, I'll go take a look.
+Speaker1: Okay, feel free to contact me anytime if you have any questions.
+Speaker2: Thanks, I'll hang up first, and get back to you if I have any questions.
+Speaker1: Okay, no problem, wish you happy shopping. Bye.
+Speaker2: Goodbye.

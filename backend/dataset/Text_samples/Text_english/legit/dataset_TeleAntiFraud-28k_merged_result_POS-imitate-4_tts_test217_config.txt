@@ -1,0 +1,14 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: Are you looking for a store to rent on this side? I'm Little Ming.
+Speaker2: Yes, I do have a shop to rent here.
+Speaker1: Where is this store located?
+Speaker2: The store is located on the commercial street in the city center, and transportation is very convenient.
+Speaker1: Hey, what does this store sell?
+Speaker2: The previous was doing coffee and light food, now the contract has expired, plan to re-rent.
+Speaker1: Hey, what are your requirements for the new tenant?
+Speaker2: We hope the new tenant brings some new business ideas, preferably related to food and beverage.
+Speaker1: So, how about the rent?
+Speaker2: Rent negotiation, specifically, based on your business plan, determine.
+Speaker1: Understood, can I go take a look?
+Speaker2: Of course, when do you have time?

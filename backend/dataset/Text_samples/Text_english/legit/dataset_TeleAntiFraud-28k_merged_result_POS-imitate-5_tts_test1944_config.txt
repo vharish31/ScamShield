@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, just saw your job ad, wanna know if this position is still hiring?
+Speaker2: Hello, I am recruiter Li Xiao, this position is still recruiting, can you simply introduce yourself?
+Speaker1: Okay, I have two years of work experience, mainly doing software development, proficient in Java and Python.
+Speaker2: That sounds great, you can send me your resume, let's take a look at the specifics.
+Speaker1: Okay, I'll send this over to you. And also, can you tell me more about the work hours for this position?
+Speaker2: This job is a standard 9-to-5, with weekends off and a fixed overtime allowance.
+Speaker1: So, when is the interview scheduled?
+Speaker2: We will review your resume as soon as we receive it and usually notify you of the interview time and location within a week.
+Speaker1: Okay, thank you for your patience in answering, I will pay attention to checking my emails.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, wishing you all the best.

@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Li, just saw your car repair service on your website, want to know more.
+Speaker2: Hello, Mr. Li, I am customer service representative Zhang, very happy to serve you. What aspects would you like to know about?
+Speaker1: Can you tell me about your tire rotation service and how much it costs approximately?
+Speaker2: The cost of tire replacement service varies depending on the tire model and brand, usually 50 yuan per tire, the price of the tire is determined by specific circumstances.
+Speaker1: Uh, is it okay if I bring my new tires over directly if I need to change them?
+Speaker2: Of course, you can directly bring it over and our master will check and replace it.
+Speaker1: What time is it most convenient for me to go?
+Speaker2: Our business hours are from 9am to 6pm. You can come anytime. If you're worried about waiting time, you can make an appointment in advance, and we'll reserve time for you.
+Speaker1: Can I schedule a meeting for tomorrow morning at 10am?
+Speaker2: Sure, I'll help you schedule a 10 am appointment tomorrow. Don't forget to bring the tires that need to be replaced. If you have any other questions, feel free to ask.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day!

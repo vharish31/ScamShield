@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the credit center of Guangfa Bank, I am your personal customer manager, Li Manager.
+Speaker2: Hello, what do you have?
+Speaker1: I noticed your recent spending records show you might be interested in investing, I have a great opportunity here with a high return rate and low risk.
+Speaker2: Is it really? It sounds good.
+Speaker1: Yes, this is a special investment project, but the number of spots is limited, so you need to decide quickly. For convenience, you can first download our exclusive investment app, which is very easy to operate.
+Speaker2: Download the app? Is it safe?
+Speaker1: Very safe, we are a regular bank's launch, absolutely no problem. You just need to use your phone to scan this QR code, and you can download it directly.
+Speaker2: Okay, let me try.
+Speaker1: Great, download it and then I'll guide you on how to use it.
+Speaker2: Okay, thank you.

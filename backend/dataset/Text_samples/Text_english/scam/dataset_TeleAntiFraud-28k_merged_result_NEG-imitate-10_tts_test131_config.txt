@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Xiaojie?
+Speaker2: Yes, who are you?
+Speaker1: Hello, I am a customer service representative from the UnionPay Center, we found an unusual transaction on your credit card, please cooperate with us to investigate.
+Speaker2: Really? Then what do we do?
+Speaker1: To ensure your funds are safe, we need you to provide your card number and verification code.
+Speaker2: Okay, then I'll tell you.
+Speaker1: Thank you very much for your cooperation. We also need you to click on this link to verify your identity.
+Speaker2: Okay, I'll click on it.
+Speaker1: Okay, click and follow the instructions, we'll quickly process your issue.
+Speaker2: Okay, thank you.

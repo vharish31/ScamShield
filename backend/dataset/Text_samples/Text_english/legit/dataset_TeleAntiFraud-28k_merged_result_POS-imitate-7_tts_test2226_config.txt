@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Do you have any part-time jobs suitable for students here?
+Speaker2: Okay, we have positions for salespeople and cashiers here, which one are you more interested in?
+Speaker1: I'm quite interested in salespeople, mainly because I want to know more about the work content of this position.
+Speaker2: Salespeople mainly promote in-store products and require good communication skills and sales techniques. Work hours are flexible.
+Speaker1: How do you calculate your salary?
+Speaker2: The salary is calculated per hour at 15 yuan, and there will be an additional bonus if you perform well.
+Speaker1: Can I come for an interview in the afternoon? It sounds good.
+Speaker2: Okay, we have people responsible for interviews from 2 pm to 6 pm. You can come anytime during that time.
+Speaker1: Okay, I'll come at 3 o'clock. Do I need any documents?
+Speaker2: Bring your ID and student card, fill out a form and have a basic process interview to complete the process.
+Speaker1: Okay, thank you. Where is your address?
+Speaker2: Our address is on the third floor of the city center square, you can navigate to the city center square when you come, and you will find us on the third floor.
+Speaker1: Okay, I understand, thank you for your help, see you in the afternoon.
+Speaker2: No problem, see you in the afternoon, wish you a smooth journey.

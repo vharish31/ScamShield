@@ -1,0 +1,13 @@
+Speaker1: Hello, are you Wang Laoban?
+Speaker2: Yes, who are you?
+Speaker1: I am the client manager of Agricultural and Commercial Bank, we have a special discount loan project recently, very suitable for entrepreneurs like you.
+Speaker2: Okay, I understand now.
+Speaker1: Great, this project has low interest rates and quick approval, you just need to provide some basic information to quickly get a loan.
+Speaker2: What information is needed?
+Speaker1: You just need to provide your business license, ID, and the past year's bank statements. We will have a specialist come to your door for service, very convenient.
+Speaker2: The sound is good, but I'm not convenient to go to the bank now.
+Speaker1: No problem, for your convenience, we have developed a special loan application app. Just download the app, fill in some basic information, and you can complete the application.
+Speaker2: Where can I download the app?
+Speaker1: You can download it through this link: [link], and follow the instructions after downloading.
+Speaker2: Okay, let me try.
+Speaker1: Great! If you have any issues while using it, feel free to contact me anytime. My phone number is 13812345678. Best wishes!

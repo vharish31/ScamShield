@@ -1,0 +1,10 @@
+Speaker1: Hello, are you a delivery service?
+Speaker2: Hello, yes, this is the express service, what can I help you with?
+Speaker1: Can you check when my package will arrive?
+Speaker2: Of course, please tell me your delivery number, I'll help you check.
+Speaker1: Alright, my delivery number is 8624183.
+Speaker2: Please wait, I'll check.
+Speaker1: Okay, thank you.
+Speaker2: Your package has arrived at the local delivery center. It's estimated to be delivered today or tomorrow.
+Speaker1: That's great, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, feel free to consult anytime.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I am the one who ordered, can you tell me your menu?
+Speaker2: Okay, what type of cuisine are you interested in? We have Cantonese, Sichuan and common cuisine here.
+Speaker1: How are your daily meals?
+Speaker2: Home-cooked food is very popular, such as red braised pork, stir-fried vegetables, and stir-fried mushrooms and eggs, all of which are very good.
+Speaker1: How much does a portion of red braised pork cost?
+Speaker2: Red meat is 35 yuan per portion
+Speaker1: Okay, I want one portion of red braised pork and one portion of stir-fried vegetables
+Speaker2: Okay, do you need to place an order now?

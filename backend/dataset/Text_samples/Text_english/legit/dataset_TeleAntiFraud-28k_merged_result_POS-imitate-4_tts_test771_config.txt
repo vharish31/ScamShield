@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I'm Xiao Wang, the customer service representative of the restaurant you consulted before.
+Speaker2: Hey, hello, I want to confirm again, my last dinner reservation time.
+Speaker1: Okay, let me check. Did you order for this Friday at 7pm?
+Speaker2: Yes, that's this time.
+Speaker1: Confirmed, your reservation information is on Friday evening at 7 pm for four people.
+Speaker2: Okay, what time is about right?
+Speaker1: We suggest arriving fifteen minutes early, so you can have time to browse the menu and select your favorite dishes.
+Speaker2: Understood, can I wait at the restaurant if I arrive early?
+Speaker1: Of course, we have a resting area, customers who arrive early can rest there first.
+Speaker2: Thanks for your help.
+Speaker1: No problem, if you have other questions, feel free to contact me anytime. See you on Friday!

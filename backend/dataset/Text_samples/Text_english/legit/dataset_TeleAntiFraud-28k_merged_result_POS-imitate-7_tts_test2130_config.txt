@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little king, I just booked a haircut appointment on your website for tomorrow, can you confirm the time?
+Speaker2: Hello, Xiao Wang, I am the hair salon customer service representative. Is your appointment tomorrow at 3 pm?
+Speaker1: Yes, correct.
+Speaker2: Okay, we have arranged everything for you here. Tomorrow at three in the afternoon, please come ten minutes early, we are ready for you.
+Speaker1: Okay, thank you. By the way, I have long hair, I want to cut a short hair, can you do it here?
+Speaker2: Of course, we have professional hair stylists here who can design a suitable hairstyle based on your needs.
+Speaker1: That's great, I'll bring some reference pictures later, I hope you can cut a satisfactory hairstyle for me.
+Speaker2: No problem, bring the pictures at the right time, we will adjust according to your face shape and style to ensure your satisfaction.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

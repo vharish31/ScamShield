@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently want to buy a new phone, can you guys give me some recommendations?
+Speaker2: Hello, little Zhang, I'm very happy to serve you. We have a lot of different brands and models of phones here. What aspects of performance are you most concerned about? For example, battery life, camera, or processor speed?
+Speaker1: I mainly want to use it for watching videos and playing games, so battery life and processor speed are quite important.
+Speaker2: Okay, based on your requirements, I recommend you consider our latest model phone, which has a very powerful processor and a large battery capacity, making it very suitable for long-term use.
+Speaker1: How much does this phone cost?
+Speaker2: This phone costs 3800 yuan, our store is currently having a discount promotion, you can enjoy a 95% discount when buying this phone.
+Speaker1: Does this phone have any in stock?
+Speaker2: Yes, we have this phone in stock at our store, you can buy it anytime, also you can order online and we provide door-to-door delivery service.
+Speaker1: Okay, where is the address for tomorrow's visit?
+Speaker2: Our store is located in the center of the tech square in the city, the specific address is tech square one number, you can take the metro line two to tech square station and get off, then walk five hundred meters straight ahead to find our store.

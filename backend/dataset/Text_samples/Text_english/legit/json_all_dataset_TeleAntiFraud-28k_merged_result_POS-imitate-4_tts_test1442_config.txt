@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to consult your haircut service.
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me if your store has student discounts like this?
+Speaker2: Yes, we offer special discounts to on-campus students. Please show your student ID.
+Speaker1: Can I come at three in the afternoon tomorrow?
+Speaker2: Tomorrow at three in the afternoon is okay, but it's recommended to arrive half an hour earlier to avoid rush hour.
+Speaker1: Okay, I'll be there around 2:45.
+Speaker2: Okay, just come directly at the time, we will reserve a place for you.
+Speaker1: Thank you, I'll see you later.
+Speaker2: No problem, see you tomorrow.

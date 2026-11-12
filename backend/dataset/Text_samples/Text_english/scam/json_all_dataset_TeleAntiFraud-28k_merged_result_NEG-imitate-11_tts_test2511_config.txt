@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li Xiaoxiao?
+Speaker2: Hey, yes, who are you?
+Speaker1: I am a loan officer at the China Southern Bank, your credit record looks great, I can offer you a no collateral loan with a very low interest rate, do you currently have any financial needs?
+Speaker2: Really? That's great, I need a penny right now.
+Speaker1: Okay, to quickly complete the loan approval, I need you to provide some personal information, including your ID number, bank account, and phone number.
+Speaker2: Okay, how can I provide you with this information?
+Speaker1: You can fill out the form on our official website or directly click on the link I sent you, which is more convenient and quick.
+Speaker2: Okay, I'll click on the link now.
+Speaker1: Okay, click the link and follow the instructions. If you have any questions, feel free to contact me anytime. Good luck!
+Speaker2: Thank you, I'll go operate now.

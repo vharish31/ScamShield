@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any vacant rooms for rent here?
+Speaker2: Are you looking to rent one room or two rooms?
+Speaker1: How much is it for a one-room apartment?
+Speaker2: The price of a one-room apartment is roughly between 900 and 1000 yuan, depending on the condition of the room.
+Speaker1: Is there furniture in that house?
+Speaker2: Most apartments come with basic furniture, but some don't. Do you need to bring your own furniture or not?
+Speaker1: It's best to bring your own furniture, it's more convenient.
+Speaker2: Okay, I have a few properties that match your requirements. Can you add a WeChat to chat in detail?
+Speaker1: Sure, can I add your WeChat?
+Speaker2: Okay, what's your WeChat number?
+Speaker1: My WeChat number is 1663270, add me.
+Speaker2: Okay, I'll add you soon, we'll talk in detail later.

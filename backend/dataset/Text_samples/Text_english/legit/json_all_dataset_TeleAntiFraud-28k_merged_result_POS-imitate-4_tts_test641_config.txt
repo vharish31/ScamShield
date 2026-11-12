@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the property manager of the community, can you confirm if your water pipe is fixed?
+Speaker2: Hello, not yet, I've been out of town these past few days, so I haven't had time to deal with it.
+Speaker1: Could you quickly handle it when it's convenient for you? We're worried it might leak and affect the downstairs.
+Speaker2: Okay, I understand, I will quickly find time to handle it at home.
+Speaker1: If you need our property management help, you can contact us anytime.
+Speaker2: Thank you, I will consider it. By the way, what about the property fee this time?
+Speaker1: You haven't paid your property fees yet, you can pay through our WeChat public account or directly at the property management office.
+Speaker2: Okay, I understand, I will quickly go to deliver.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact us anytime.
+Speaker2: Okay, thank you for your reminder, goodbye.

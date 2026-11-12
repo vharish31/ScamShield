@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the manager of a Shanghai investment consulting company, we have a very good investment opportunity, with monthly returns reaching 20%, are you interested in learning more?
+Speaker2: Is it real? This high return?
+Speaker1: Yes, this project is very stable and we already have several customers who have made profits. You can add my WeChat, I will send you detailed information.
+Speaker2: Add WeChat? How to add?
+Speaker1: Add my WeChat number, 1313131313, after adding it I'll immediately send you the data.
+Speaker2: Okay, I add you.
+Speaker1: Okay, after you add it, remember to send me a message, I will reply to you immediately.
+Speaker2: Okay, thank you.

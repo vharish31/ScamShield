@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I want to order takeout.
+Speaker2: Hello, I'm very happy to serve you, which restaurant would you like to order takeout from?
+Speaker1: I want to order that small restaurant's, their family's beef noodle is very delicious.
+Speaker2: Okay, what size portion of beef noodle soup do you want, and do you need any other dishes?
+Speaker1: Give me a big portion of beef noodle soup, and add another portion of cold stir-fried cabbage.
+Speaker2: Okay, one portion of beef noodle soup, one portion of cold spicy cucumber. Can you please tell me your address?
+Speaker1: I live in Happiness Apartment, building three.
+Speaker2: Okay, happy community three building, we will quickly deliver to you. Estimated delivery time is 30 minutes.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome. If you have any questions, please feel free to contact us anytime. Enjoy your meal!

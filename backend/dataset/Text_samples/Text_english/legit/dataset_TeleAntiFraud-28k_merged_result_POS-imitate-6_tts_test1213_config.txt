@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Do you have any available space on your side?
+Speaker2: What specific service do you want to consult?
+Speaker1: I'd like to know more about your housekeeping services, particularly the cleaning aspect.
+Speaker2: Okay, we provide family daily cleaning and deep cleaning services. Do you have any specific needs?
+Speaker1: Can you tell me about your daily cleaning service, approximately how long it takes and how much it costs?
+Speaker2: Our daily cleaning service usually takes two to three hours, depending on the size of the house, and the cost is 50 yuan per hour.
+Speaker1: Can I book a cleaning session if I only want to clean once?
+Speaker2: Of course, you can choose one-time service or define period service.
+Speaker1: Okay, let me make a reservation to try it out.
+Speaker2: Okay, could you please provide specific address and contact information, so we can arrange a service person to come to your door at the scheduled time.

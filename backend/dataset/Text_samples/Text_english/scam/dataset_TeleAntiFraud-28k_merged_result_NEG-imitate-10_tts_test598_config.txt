@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Tmall customer service, you have a small problem with the products you bought recently on our platform, we need to handle it for you.
+Speaker2: Hey, what's up?
+Speaker1: Hello, your order number is eight five one three, we found that the products you bought may have quality issues, to protect your rights, we need to initiate the return and refund process for you.
+Speaker2: Uh, how do you handle that?
+Speaker1: To speed up processing, you can click on the link we send to you and fill out the return application form online. We will process it quickly.
+Speaker2: Okay, I'll take a look.
+Speaker1: Please make sure to enter the correct bank card information in the link, so we can quickly process the refund. If you have any questions, please feel free to contact us.
+Speaker2: Okay, I know.
+Speaker1: Okay, thank you again for your cooperation, wish you happy life.
+Speaker2: Thank you.

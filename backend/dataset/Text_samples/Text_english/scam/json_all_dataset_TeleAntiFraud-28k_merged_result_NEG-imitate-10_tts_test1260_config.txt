@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is Huatian kuaidi kefuzhongxin, wǒ shì kēfù zhuāngyuán xiǎolǐ.
+Speaker2: Hey, how are you?
+Speaker1: We found out that one of your packages was lost during transportation. In order to compensate for your loss, we need you to provide some personal information, including your name, phone number, and ID number, so that we can handle the compensation matters.
+Speaker2: Is that so? That's really lame, my name is Wang, my phone number is 13812345678, my ID number is 440102198001011234.
+Speaker1: Okay, Mr. Wang, we have recorded your information. For convenience in processing compensation, please click on the link we sent you and fill out the relevant information.
+Speaker2: Okay, I'll handle it later.
+Speaker1: Could you please pay a 500 yuan deposit upfront to speed up the processing, and we will immediately process your compensation and fully refund the deposit once it's done?
+Speaker2: Okay, I understand, then how do I pay?
+Speaker1: You can pay through the link we provide, or you can directly transfer the funds to our account, which is 6222 0808 1234 5678.
+Speaker2: Okay, I'll go take care of it.

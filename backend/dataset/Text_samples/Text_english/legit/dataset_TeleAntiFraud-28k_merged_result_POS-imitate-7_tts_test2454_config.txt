@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I saw a phone in your store that I like, can I ask you a few questions?
+Speaker2: Hello, little Zhang, very happy to serve you. Which phone model is it?
+Speaker1: That's the black flagship phone you're showing at the store door.
+Speaker2: Oh, you're talking about our flagship phone, which is indeed very popular.
+Speaker1: What is the price of this phone? Is it in stock?
+Speaker2: This phone is priced at 3999 yuan, and we still have it in stock.
+Speaker1: When can I go to the store and take a look?
+Speaker2: You can come between 3 and 5 pm today, during this time I will give you a detailed introduction.
+Speaker1: Okay, I'll probably arrive at four o'clock, then contact you.
+Speaker2: Okay, Xiao Zhang, I'll be waiting for you at the store at the designated time. If you have any questions, please feel free to contact me anytime.

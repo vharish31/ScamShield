@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the hair salon customer service for your appointment, your appointment time is tomorrow afternoon three o'clock, okay?
+Speaker2: Okay, is this time, but I might be late a little, can I be four o'clock or so?
+Speaker1: Okay, we will keep the appointment for you on this side.
+Speaker2: Okay, thank you.
+Speaker1: No problem, by the way, our store recently had a hair dyeing activity, are you interested in learning more about it?
+Speaker2: Dye my hair, I can consider it. Can you tell me specifically what activities?
+Speaker1: Of course, our this activity is dyeing and haircutting, the original price is eight hundred yuan, now only five hundred yuan, you can still get a free head massage.
+Speaker2: Sounds good, but I just want to cut my hair tomorrow, dye it next time.
+Speaker1: Okay, I'll confirm the haircut appointment at 4 o'clock. Let me know if you've decided on the hair dye activity and we'll contact you anytime.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye, I'm looking forward to your arrival.

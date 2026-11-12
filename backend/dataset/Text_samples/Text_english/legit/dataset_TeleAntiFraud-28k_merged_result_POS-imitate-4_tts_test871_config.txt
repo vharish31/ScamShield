@@ -1,0 +1,8 @@
+Speaker1: Hi, how are you? I'm the property manager of the community, can you tell me if there have been any water or electricity problems in your home recently?
+Speaker2: Hello, nothing, everything is normal, how are you?
+Speaker1: We recently received feedback from some residents that there are occasional power and water outages at home. We are currently investigating the issue.
+Speaker2: Oh, that's how it is, well, we haven't encountered this situation yet in our family, but you guys check it out just in case.
+Speaker1: Okay, thank you for your cooperation. If there are any issues in the future, you can call the property management phone at any time to contact us.
+Speaker2: Okay, I understand, thank you for your concern.
+Speaker1: You're welcome, we're here to serve everyone, feel free to contact us for anything, goodbye.
+Speaker2: Goodbye, thank you.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from the Agricultural Bank Loan Center. You can call me Xiao Zhang.
+Speaker2: Hello, what can I help you with?
+Speaker1: Have you heard about our recently launched special discount loan product with monthly interest rate as low as two cents?
+Speaker2: I recently need cash flow, can you give me a detailed explanation?
+Speaker1: Of course, this loan product is very suitable for you. To understand more detailed information, you can scan my QR code and download our official software?
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much, after downloading you can register and fill in relevant information. If you have any questions, you can contact me anytime.
+Speaker2: The software was downloaded, but I can't find the registration entry.
+Speaker1: Please wait for a moment, I will send you a link, click it to directly enter the registration page.
+Speaker2: Okay, I received it, thank you.
+Speaker1: No need to thank you, if you have any issues during the operation, please contact me through this phone number: 13801380138. Best wishes for a smooth operation!

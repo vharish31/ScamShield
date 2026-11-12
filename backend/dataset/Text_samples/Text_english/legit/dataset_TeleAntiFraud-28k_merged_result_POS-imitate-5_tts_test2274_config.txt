@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm the customer service of Meishifu huili, I saw you ordered takeout from us before, do you know if you are satisfied with our service?
+Speaker2: Sure, no particular opinions.
+Speaker1: Great, we are constantly working to improve the quality of our service. By the way, we recently launched some new dishes, would you like to take a look?
+Speaker2: What's new on the menu?
+Speaker1: We added several seafood fried rice and special small fried dishes, as well as several desserts. I heard the reviews are all good.
+Speaker2: How much does it cost to sound good?
+Speaker1: On the price side, we will try to keep it populist, seafood fried rice is probably between 30 to 50 yuan, and desserts are between 10 to 20 yuan.
+Speaker2: Hmm, this price is still acceptable.
+Speaker1: That's great! If you're interested, you can place an order directly on our platform, and there's a discount coupon you can use now.
+Speaker2: Okay, I will consider it, thank you for your recommendation.
+Speaker1: You're welcome. If you have any questions, feel free to consult anytime. Have a happy life, goodbye!
+Speaker2: Goodbye.

@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the hair salon in the flower city, you have an appointment for tomorrow morning at 10 o'clock, confirm the time is correct?
+Speaker2: Hello, can I come at 10 am tomorrow morning? But can I come at 9:30 am?
+Speaker1: You can come early, we will serve you on time.
+Speaker2: Okay, thank you, I'll come at nine and a half tomorrow.
+Speaker1: No problem, remember to bring your membership card when you come tomorrow, you can enjoy discounts.
+Speaker2: Okay, I'll bring my membership card. Do you have parking spots there?
+Speaker1: Yes, we have a small parking lot behind our store, you can park for free.
+Speaker2: Okay, I'll just stop at the back tomorrow.
+Speaker1: Okay, it's more convenient to stop here. If you can't find a place tomorrow, you can directly call our store and we have someone to guide you.
+Speaker2: Thank you so much, I'll see you tomorrow.
+Speaker1: See you tomorrow, wish you a happy day!

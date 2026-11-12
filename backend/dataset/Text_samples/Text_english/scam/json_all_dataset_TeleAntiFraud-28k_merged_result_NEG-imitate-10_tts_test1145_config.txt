@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? Good morning. I am a customer manager at Agricultural Bank. We recently launched a credit loan project with a very favorable interest rate. Do you need it on this side?
+Speaker2: Hey, I recently have some cash flow needs, how do I apply for this loan?
+Speaker1: Great, our loan process is very simple. Just download our app, fill out some basic info, submit for review, and you can usually get approved the same day.
+Speaker2: Download the app, how do you download this app?
+Speaker1: You can search our name "Agricultural Bank of China" on the mobile app store, download the official app, or I have a link here that you can click to download directly, very convenient.
+Speaker2: Is that link safe?
+Speaker1: Absolutely safe, this is our bank's official link. You can trust clicking. Clicking will directly transfer to the download page. After downloading and installing, you can start applying.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues during the download or application process, feel free to contact me anytime. My phone number is 13800138000. Wish you a successful application!
+Speaker2: Thank you, I will contact you.

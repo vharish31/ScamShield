@@ -1,0 +1,12 @@
+Speaker1: Hello, is this the customer service hotline?
+Speaker2: Hello, I am small Liu, customer service representative, what can I help you with?
+Speaker1: I recently received your text message saying my package was lost and asking me to contact you to handle it.
+Speaker2: Yes, there was a problem with your package, to compensate you, we have prepared a refund, please provide some information.
+Speaker1: What information do you need?
+Speaker2: Please provide your name, phone number, and bank account number so we can verify the information and issue the compensation.
+Speaker1: Is this safe?
+Speaker2: Don't worry, we are a legitimate courier company, your information is safe. Moreover, for convenience, you can click on the link in the text message and fill in the relevant information.
+Speaker1: What's the link in the text message?
+Speaker2: Yes, there's a link in the text message that will take you to our official website when clicked. You can fill out the information directly there, it's very safe and convenient.
+Speaker1: Okay, let me try.
+Speaker2: Great! If you have any questions, feel free to contact us. Wish you a happy life!

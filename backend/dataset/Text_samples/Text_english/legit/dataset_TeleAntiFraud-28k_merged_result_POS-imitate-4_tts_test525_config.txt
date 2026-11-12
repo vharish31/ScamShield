@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, want to consult your hair service.
+Speaker2: Hello, little king, I am a hair salon employee, what can I help you with?
+Speaker1: Can you tell me your haircut price and business hours?
+Speaker2: Our haircut price here is thirty yuan per time, business hours are from nine in the morning to nine in the evening, we will also be open on weekends.
+Speaker1: Okay, I want to get my hair cut this weekend, do you guys need an appointment?
+Speaker2: It's recommended to book in advance to ensure availability. You can book through our WeChat public account or by calling directly.
+Speaker1: Can I make a phone call to schedule for tomorrow?
+Speaker2: Of course, you can call anytime tomorrow, we'll have someone here to answer the phone.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, please feel free to contact us anytime if you have any questions, wishing you a happy day.

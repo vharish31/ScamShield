@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, are you little Zhang?
+Speaker1: Yes, I am the little king, aren't you?
+Speaker2: Okay, it's me. I want to study at the library tomorrow. Do you have any recommendations for seats?
+Speaker1: Oh, library, I went there last time, the window seats on the second floor were pretty good, the light was not bad.
+Speaker2: That's great, I plan to go at nine in the morning. Do you think there will be people at that time?
+Speaker1: You should not be too many people at nine o'clock, you can go early to occupy a good position.
+Speaker2: Okay, thank you for your advice. I will leave at 8:30 am tomorrow, which should be good enough to get a good spot.
+Speaker1: Hey, this should be fine, you can send me a message now, tell me you've taken your position.
+Speaker2: Okay, I will, thank you, small Zhang, see you tomorrow.
+Speaker1: Okay, see you tomorrow, be careful on the road.

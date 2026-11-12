@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hi, I'm Xiao Ming. I recently want to buy a new phone. Can you give me some information about your phone store?
+Speaker2: Hello, Xiaoming, we have various brands of mobile phones here. Do you have any specific requirements, such as budget, brand or special features?
+Speaker1: I'm guessing around three thousand, I want to buy a photo with a good effect.
+Speaker2: Okay, for a budget of around three thousand, we recommend the following options for your phone camera: brand A's model X and brand B's model Y. Both have good photo quality, so you can consider them.
+Speaker1: What are the differences between these two phones?
+Speaker2: You can choose between Brand A's Model X, which has a strong battery life and a smooth system, making it suitable for long-term use, or Brand B's Model Y, which has a larger photography function with multiple lenses, making it suitable for photography enthusiasts.
+Speaker1: I prefer photography, so I'll choose model Y. Do you have this phone in stock?
+Speaker2: The Y model is in stock, you can directly go to the store to see it, or you can choose our online ordering and pickup methods. If it's convenient, would you come now?
+Speaker1: I'm coming right now, where is your store exactly?
+Speaker2: Our store is on the third floor of the city square, you can navigate to the city square when you come, it's very convenient to find. Wait for you to come.

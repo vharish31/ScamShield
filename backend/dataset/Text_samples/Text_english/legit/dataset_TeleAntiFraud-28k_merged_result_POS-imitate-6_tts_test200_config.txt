@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? Can I ask if your restaurant offers takeout service?
+Speaker2: Hello, yes, we provide delivery service, you can order by phone or delivery platform.
+Speaker1: Can I order a menu from your restaurant today, what time do you start your business?
+Speaker2: Our restaurant starts business at 11 am, you can place an order after that time.
+Speaker1: Okay, I'll probably order around twelve, can you guarantee delivery before one o'clock?
+Speaker2: Sure, our delivery time is usually around half an hour, you can place your order now.
+Speaker1: Great, I'll order when it's time, and by the way, what are your signature dishes? Can you recommend one?
+Speaker2: Our restaurant's signboard menu is red braised pork and steamed fish, the taste is very good, many customers recommend these two dishes.
+Speaker1: Sounds great, I'll order these two dishes, thank you for your recommendation.
+Speaker2: You're welcome. I hope you'll like our dishes. If you have any questions, please contact me anytime.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw an electric rice cooker on your website and wanted to know more about it.
+Speaker2: Okay, this electric rice cooker has many functions, such as cooking rice, steaming vegetables, and making porridge, and the operation is very simple.
+Speaker1: How much does this electric rice cooker cost?
+Speaker2: This electric rice cooker costs 398 yuan.
+Speaker1: Do you have any discounts if you're a member?
+Speaker2: Yes, if you're a member, you can enjoy a 95% discount, and you can also exchange points for gifts.
+Speaker1: What do I need to buy?
+Speaker2: You can place an order on our website or purchase directly from our physical store, and we offer various payment methods.
+Speaker1: Okay, thank you for your help. I will consider it.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a happy life!

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is Ming Bank. I am the customer manager Li Ming. We noticed that you have been looking for loan information recently. We have a special low-interest loan product here that may be suitable for you. Would you like to know more?
+Speaker2: Hey, I recently need some money, can you give me a specific amount?
+Speaker1: Of course, the annual interest rate for this loan product is only 0.03%, and the application process is very simple, just download our 'Magnate Finance' app, fill in some basic information, and you can quickly apply.
+Speaker2: Does this online loan sound good, but I'm trying it for the first time, will there be any risks?
+Speaker1: Don't worry, Ming Tai Bank is a legitimate financial institution, and all processes are transparent. To ensure your information is safe, you can complete real name authentication in the app, which will speed up the approval process.
+Speaker2: What materials do I need to prepare?
+Speaker1: You just need to provide your ID, bank statement, and income proof. You can submit these materials through the app. If you have any other questions, you can add my WeChat, I can answer them anytime.
+Speaker2: Okay, let me try. What's your WeChat number?
+Speaker1: My WeChat is shengtaijinrong001, add me and feel free to contact me anytime with any questions.
+Speaker2: Okay, I'll add you right away. Thank you.

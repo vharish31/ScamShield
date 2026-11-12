@@ -1,0 +1,15 @@
+Speaker1: Hey, are you Lee Huai?
+Speaker2: Hello, I am Lee Huai. Who are you?
+Speaker1: Zhang Ming, my old classmate, I heard you started a business recently, very impressive.
+Speaker2: How are you?
+Speaker1: I've been working on a project lately that's been quite profitable, and I'd like to invite you to collaborate with me.
+Speaker2: Cooperate? What's the specifics?
+Speaker1: Just investing in a new platform with high returns and low risk.
+Speaker2: Investment platform? How to operate?
+Speaker1: It's simple. Just download our app, register an account, and you can start investing.
+Speaker2: The sound is good, but I'm a bit tight-handed right now.
+Speaker1: No problem, you can first invest a small amount to try it out.
+Speaker2: Okay, I'll think about it.
+Speaker1: Okay, here's the download link for the app. You can check it out when you have some free time.
+Speaker2: Okay, thank you. I'll hang up now, have some space and get back to you later.
+Speaker1: Okay, I hope we can work together quickly. Goodbye.

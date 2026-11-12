@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, do you have any new smartwatches for sale here?
+Speaker2: Hello, Xiaoming. Yes, we recently launched several new smartwatches. Which specific information are you interested in?
+Speaker1: Can you tell me the main functions and price of the sports version?
+Speaker2: The main features of the smartwatch for sports include heart rate monitoring, sleep quality analysis, and support for multiple exercise modes. The current promotional price is two thousand five hundred yuan.
+Speaker1: Sounds good, is this waterproof watch? I often swim.
+Speaker2: This watch is waterproof up to 50 meters, no problem for daily swimming.
+Speaker1: Is that good? What colors does this watch come in?
+Speaker2: Currently, there are three colors available for you to choose from: black, silver, and ruby gold.
+Speaker1: Do you have silver in stock over there?
+Speaker2: Our silver smartwatch is currently in stock. You can purchase it directly in-store or online with fast delivery.

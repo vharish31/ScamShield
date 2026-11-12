@@ -1,0 +1,10 @@
+Speaker1: Hello, you, I am small Li, this side is UnionPay financial service customer service.
+Speaker2: Hello, do you have anything?
+Speaker1: That's it, we found some unusual transactions on your credit card, for your financial safety, we need you to cooperate with us for verification.
+Speaker2: Really? Then what do we do?
+Speaker1: Please don't worry, we've frozen your card, but we need some info to confirm your identity.
+Speaker2: What information do you need?
+Speaker1: Please provide your ID number and the last four digits of your bank card, as well as your phone verification code.
+Speaker2: Okay, my ID number is... and the last four digits of my bank card are...
+Speaker1: Okay, I have recorded it down. To further confirm, please click on this link and input your verification code.
+Speaker2: Okay, I'll go operate.

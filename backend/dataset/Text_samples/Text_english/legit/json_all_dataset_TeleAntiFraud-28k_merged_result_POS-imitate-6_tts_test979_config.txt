@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a customer service representative from Meituan, do you want to know if you have tried our new menu items recently?
+Speaker2: Hey, how are you? Haven't tried anything yet, been pretty busy lately, haven't ordered takeout.
+Speaker1: That's right, we recently introduced several new dishes, such as spicy Sichuan hot pot and sour fish, both of which are very popular, you can try them.
+Speaker2: How much does it cost to listen?
+Speaker1: The prices are very popular, the three-yuan spicy chicken pot is thirty yuan, the three-yuan sour and spicy fish is thirty-five yuan, and there's a first-order discount now.
+Speaker2: That's great, I plan to order takeout tonight, can I order now?
+Speaker1: Of course, you can directly order on the Meituan App, select your desired time, and we will deliver on time.
+Speaker2: Okay, thank you for your recommendation, I'll place an order now.
+Speaker1: You're welcome! We hope you'll enjoy our new menu items. If you have any questions, please contact our customer service anytime. Enjoy your meal!

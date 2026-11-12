@@ -1,0 +1,14 @@
+Speaker1: Hey, are you little Li?
+Speaker2: Yes, you are?
+Speaker1: I'm Little King, remember? The one we ate dinner together last time.
+Speaker2: Oh, I remember, little king, hello.
+Speaker1: How have you been lately? Have you changed jobs recently?
+Speaker2: Yes, I have a new job position, now I am a product manager at an internet company.
+Speaker1: Is your work still going smoothly?
+Speaker2: No worries, I was a bit busy at first, but I got used to it slowly. What have you been up to lately?
+Speaker1: I've been busy lately preparing a new project. It's okay though.
+Speaker2: That's pretty good, let's hang out together when we have time, it's been a long time since we last saw each other.
+Speaker1: Hey, what time do you have free? How was the weekend?
+Speaker2: What time on the weekend?
+Speaker1: What's up at 2pm? Let's meet at the old place.
+Speaker2: Okay, no problem, see you later.

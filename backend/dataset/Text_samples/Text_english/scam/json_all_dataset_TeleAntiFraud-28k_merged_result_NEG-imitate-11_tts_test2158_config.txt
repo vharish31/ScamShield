@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the Zhang customer service center, we have the latest promotional activities here, do you want to know more?
+Speaker2: Okay, tell me what activity is it?
+Speaker1: That's right, we recently launched a high-yield investment and wealth management project. All you need to do is download our app, register, and invest one thousand yuan to enjoy a ten percent annual return.
+Speaker2: How do I download this app?
+Speaker1: Great, just click on the link I sent you and follow the instructions to download.
+Speaker2: Okay, I'll try.
+Speaker1: After downloading, remember to register and bind your bank card, so you can quickly enjoy the benefits.
+Speaker2: Bind bank card? Safe?
+Speaker1: Very safe, we are a regular bank project, all funds are under supervision.
+Speaker2: Then I'll try it out, thank you for your recommendation.

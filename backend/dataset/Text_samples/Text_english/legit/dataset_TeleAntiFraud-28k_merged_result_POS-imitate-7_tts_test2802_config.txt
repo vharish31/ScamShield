@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Just arrived at the subway station, you too?
+Speaker1: I'm waiting for you at the bus station here, hurry up and come over.
+Speaker2: Okay, okay. I'm there soon.
+Speaker1: You go right and see a big ad board, then walk straight, I'm waiting for you here.
+Speaker2: Okay, I remember, walk straight on the billboard.
+Speaker1: Okay, you arrived. Call me.
+Speaker2: No problem, I'm almost there, call you later.
+Speaker1: Okay, pay attention to safety on the road.
+Speaker2: Thank you, see you later.

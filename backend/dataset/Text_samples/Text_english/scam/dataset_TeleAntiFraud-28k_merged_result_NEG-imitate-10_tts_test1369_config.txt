@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang? This is the manager of the construction bank, Li.
+Speaker2: Hey, do you have anything to do?
+Speaker1: Is that so, our bank recently has a special discounted interest rate loan project, very low interest rate, do you need it?
+Speaker2: Interest-free loan? It sounds good, but I'm not familiar with it.
+Speaker1: No problem, I can give you a detailed introduction. However, to ensure the accuracy of the information, you can first download our bank's official app, which is more convenient to view detailed information.
+Speaker2: Let's download the app. Okay, I'll try it out.
+Speaker1: Okay, you can add my WeChat after downloading, I'll help you operate. My WeChat is Li Xiaojing Manager, add me and I can send you detailed info.
+Speaker2: Okay, I'll add you on WeChat.
+Speaker1: Great, after you add WeChat, you can first provide your ID number, I need to verify the information on this end.
+Speaker2: Okay, I'll add you on WeChat later.

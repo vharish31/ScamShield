@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a waiter at a restaurant, can you confirm your reservation for tomorrow night at six o'clock? Do you have any available seats?
+Speaker2: Hey, hi, I have some time, can we meet at six o'clock tomorrow night?
+Speaker1: Great, can you see if our restaurant can provide a six-person table for you?
+Speaker2: Six people at a table is perfect.
+Speaker1: Okay, do you have any special requirements for the menu? For example, are there any dishes you dislike, or do you need any recommendations?
+Speaker2: Hey, we're all pretty spicy, can you recommend some spicy dishes?
+Speaker1: Okay, I recommend our store's signature spicy hot pot, as well as our dry hot pot frog, both of which are very popular spicy dishes.
+Speaker2: That sounds good, just these few, are there any other recommendations?
+Speaker1: There's still a spicy Sichuan flower, although it's not spicy, but it's very clear, very suitable for eating with spicy food together.
+Speaker2: Okay, let's do it that way, thank you for your recommendation.
+Speaker1: No problem, if you have any other needs, feel free to contact us anytime. See you tomorrow!
+Speaker2: Okay, see you tomorrow, thank you.

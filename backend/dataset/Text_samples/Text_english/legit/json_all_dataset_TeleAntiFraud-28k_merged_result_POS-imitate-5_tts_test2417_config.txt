@@ -1,0 +1,9 @@
+Speaker2: Hey, how are you?
+Speaker1: Your takeout has arrived, I'm taking it up to you now
+Speaker2: Okay, I'm waiting for you at the elevator.
+Speaker1: Okay, I'll go soon.
+Speaker2: Can I? Just put it on the ground, I'm not convenient here to take it.
+Speaker1: Okay, I put it down.
+Speaker2: Thank you
+Speaker1: No problem, feel free to contact me anytime.
+Speaker2: Okay, you worked hard.

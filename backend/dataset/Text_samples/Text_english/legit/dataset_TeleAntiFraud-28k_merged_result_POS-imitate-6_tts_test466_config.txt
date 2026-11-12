@@ -1,0 +1,14 @@
+Speaker1: Hello, how can I help you at the Food Paradise Restaurant?
+Speaker2: Hello, what are your signature dishes?
+Speaker1: Our restaurant's signboard menu has spicy crab, steamed sea bass fish and garlic mushroom, all very popular.
+Speaker2: How much do these dishes cost?
+Speaker1: Lobster with chili is 288 yuan per portion, steamed fish with clear is 198 yuan per portion, ginger and lotus flower is 38 yuan per portion.
+Speaker2: Okay, can you tell me your business hours?
+Speaker1: Our restaurant business hours are from 11 am to 10 pm every day, and on weekends they are extended to 11 pm.
+Speaker2: Do I need to make a reservation for eating out on the weekend?
+Speaker1: It's usually busy on weekends. It's recommended to make a reservation in advance to ensure you have a seat.
+Speaker2: Okay, can I reserve a seat for 7 pm on Saturday evening?
+Speaker1: Of course, I can help you make a reservation. Do you mind leaving your contact information?
+Speaker2: Okay, my phone number is 1381380138.
+Speaker1: I've reserved the spot for 7 pm on Saturday night. See you then!
+Speaker2: Thank you, see you later!

@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I reserved a place at your store for today at six in the afternoon. Can you confirm?
+Speaker2: Okay, what is your reservation name?
+Speaker1: My reserved name is Li Ming.
+Speaker2: Okay, Li Ming Xiāngshēng, I have found your reservation information, you reserved for 6:00 PM, right?
+Speaker1: Yes, that's the name.
+Speaker2: Okay, we have confirmed your reservation. Your spot is reserved at six o'clock in the afternoon.
+Speaker1: That's great, thank you. By the way, I brought a friend with me, do you have any recommendations for dishes in the restaurant?
+Speaker2: Of course, our store has special dishes such as red braised pork head, steamed fish and signature beef noodles, all of which are very popular, you can try them.
+Speaker1: Let's try these special dishes that sound good.
+Speaker2: Okay, our waiter will recommend these dishes to you at the appropriate time. If you have any other needs, you can contact us anytime.
+Speaker1: Okay, thank you for your help. See you later.
+Speaker2: Okay, see you later, wish you have a happy day.

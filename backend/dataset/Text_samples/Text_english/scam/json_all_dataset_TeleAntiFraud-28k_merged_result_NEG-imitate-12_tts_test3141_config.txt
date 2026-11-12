@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Hello, I am.
+Speaker1: Good morning, Mr. Li. I am the small business manager of China Information Bank, Mr. Wang. I see that your electronics factory in the south city is doing well. Our bank has launched a no collateral loan project for small businesses, with loan amounts ranging from 10,000 to 50,000 yuan, and interest rates are very favorable.
+Speaker2: Is it?
+Speaker1: Yes, our bank's new policy is to help business owners like you expand production. Do you have any recent needs for cash flow?
+Speaker2: I've been feeling a bit tense lately, but I'm not very familiar with these loan processes.
+Speaker1: Don't worry, this process is very simple. You just need to provide some basic information, like business license and identity proof, and we'll approve it as soon as we review it. The money will be in your account the soonest after that.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: Great, just click this link and fill out some basic info, and we'll have a specialist contact you.
+Speaker2: Okay, let me try.

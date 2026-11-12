@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I'm at your store's door, but I can't find the entrance.
+Speaker2: Hello, are you at the east gate? Our entrance is at the north gate, you can enter from the north gate.
+Speaker1: Oh, like this? Then I'll wait at the north gate for a few minutes, when will you open the door?
+Speaker2: We open the door at nine in the morning, now it's eight forty-five, you can wait a moment or you can spin around on the doorstep.
+Speaker1: Okay, I'll take a stroll around here for a bit before coming at exactly nine o'clock.
+Speaker2: Okay, no problem, just come straight to the store and find me at the front desk when you arrive.
+Speaker1: Okay, thank you for your patience in answering, see you later.
+Speaker2: No problem, see you later, be careful on the road.

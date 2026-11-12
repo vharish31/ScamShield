@@ -1,0 +1,10 @@
+Speaker1: Hello, I bought a phone from your store, but I found the screen has some problems. Can I exchange it for a new one?
+Speaker2: Hello, could you please tell me what kind of problem you have? So I can better help you handle it.
+Speaker1: The screen sometimes flashes, which is uncomfortable to use.
+Speaker2: Understood, based on your description, this situation we are able to provide a new service. You can bring your phone and purchase receipt to the store, we give you a new machine.
+Speaker1: Okay, when can I go?
+Speaker2: Is three in the afternoon convenient for you? Our store staff will be fewer during that time, so we can help you process faster.
+Speaker1: Can we meet at 3 o'clock? Then I'll just go there directly when the time comes, right?
+Speaker2: Okay, just come directly and we'll be ready for everything. If there are other issues, you can contact me anytime.
+Speaker1: Okay, thank you, I'll see you at three.
+Speaker2: Okay, see you later, be safe on the way.

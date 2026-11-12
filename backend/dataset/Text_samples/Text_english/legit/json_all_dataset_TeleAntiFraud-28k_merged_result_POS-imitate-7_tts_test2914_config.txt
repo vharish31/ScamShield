@@ -1,0 +1,13 @@
+Speaker1: Hey, are you little king?
+Speaker2: Hello, I am little king, who are you?
+Speaker1: I'm the hair salon girl you made an appointment with last time, reminding you that your appointment time is here tomorrow.
+Speaker2: Uh, okay, I have a haircut appointment tomorrow. What time is it?
+Speaker1: Is 3 PM? We're at the store in the city center. Would it be convenient for you to come over?
+Speaker2: It's quite convenient, I usually arrive early.
+Speaker1: Okay, please come ten minutes earlier, we'll prepare something for you first.
+Speaker2: Okay, thank you. By the way, I want to make a slight change to the hairstyle I left last time.
+Speaker1: No problem, do you have any specific ideas?
+Speaker2: I want to shorten it a bit, the side effect can be made into a gradient effect.
+Speaker1: Okay, this effect can be done, we'll adjust it based on your face shape later.
+Speaker2: Okay, that's all for now. See you tomorrow.
+Speaker1: Okay, see you tomorrow, be careful on the road.

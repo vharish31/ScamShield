@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the delivery guy for your apartment, can you help me open the door at the entrance?
+Speaker2: Hey, hello, can I open it?
+Speaker1: Okay, thank you.
+Speaker2: Wait a minute, I'll try.
+Speaker1: Okay, I'm waiting at the door.
+Speaker2: This door seems to require a card swipe to open.
+Speaker1: How do I get in?
+Speaker2: You can try to refresh your face, sometimes it can open up.
+Speaker1: I'll try to see, but it seems like there's no reaction.
+Speaker2: Try the entrance of the underground parking lot, you might be able to enter from that side.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how can I help you?
+Speaker1: Can you tell me about your breakfast menu and prices?
+Speaker2: Our breakfast menu has a lot of options, such as the classic breakfast set, which includes fried eggs, bacon and toast, priced at 30 yuan. There are also special fried buns with ketchup and coffee, priced at 35 yuan.
+Speaker1: Can you start serving breakfast at 7 o'clock?
+Speaker2: We supply breakfast from 8 am to 2 pm.
+Speaker1: Do I need to book in advance for the weekend trip?
+Speaker2: It's usually more crowded on weekends. I suggest you book in advance. Please specify which day, and I'll help you book.
+Speaker1: Okay, I want to book this Saturday at 11:00 am for two people.
+Speaker2: Okay, I have reserved a two-person spot for you at 11 am on Saturday morning. Remember to arrive ten minutes early.
+Speaker1: Thank you, see you then.
+Speaker2: No problem, see you later. Wish you a happy day!

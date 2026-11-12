@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Wang?
+Speaker2: Yes, hello, who are you?
+Speaker1: Hello, I'm little Zhang from Yánggōng kuài shí, we have a package to deliver to you, but the package was lost, please cooperate with us to handle it.
+Speaker2: What do I do if my package was lost?
+Speaker1: Don't worry, we've handled this situation many times before. To confirm your identity, please provide the last four digits of your phone number and the last six digits of your ID.
+Speaker2: Okay, my phone number last four digits are 1234, my ID card last six digits are 567890.
+Speaker1: Thank you, Wang Xiāngshēng. We also need you to click on this link and fill out the relevant information, so that we can process it quickly.
+Speaker2: Okay, I will click on the link.
+Speaker1: Great, could you please fill it out quickly, we will process it within 24 hours. Also, would you be able to add my WeChat?
+Speaker2: Sure, add me to this phone number.

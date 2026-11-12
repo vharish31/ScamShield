@@ -1,0 +1,14 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, who are you?
+Speaker1: I am the manager of the commercial bank's credit department, and we noticed that you may have recently had a financial need, so we specifically recommended a low-interest loan to you.
+Speaker2: Oh, really? I've been having some trouble with cash flow lately.
+Speaker1: Yes, this loan product is very suitable for you, no collateral, no guarantee, apply today, get approved today, pay today.
+Speaker2: How do I apply?
+Speaker1: It's very simple. Just click this link to download our official app, then register and fill out the information.
+Speaker2: How do I send you a link?
+Speaker1: Okay, I'll send you a short message now, please pay attention to check it.
+Speaker2: Okay, I'll be right back.
+Speaker1: Did you receive the text message?
+Speaker2: I got it, I'll download it right away.
+Speaker1: Okay, after downloading, if you have any issues, feel free to contact me anytime. My phone number is 4001681688.
+Speaker2: Okay, thank you, Li Jing Manager.

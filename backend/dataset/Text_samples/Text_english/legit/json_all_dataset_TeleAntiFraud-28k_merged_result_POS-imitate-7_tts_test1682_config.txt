@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: How long will it take for the delivery of the takeout?
+Speaker2: Which platform did you order from?
+Speaker1: The order was placed on Meituan, the store displayed that it had already received the order, but it was still motionless.
+Speaker2: Can you check your order number for me?
+Speaker1: The order number is 16384.
+Speaker2: Okay, I'll check it out... Hmm, your order has indeed been accepted, but the shop shows that it still needs some time to be made.
+Speaker1: How long will it take to send it?
+Speaker2: Based on the current situation, it's roughly about forty minutes left.

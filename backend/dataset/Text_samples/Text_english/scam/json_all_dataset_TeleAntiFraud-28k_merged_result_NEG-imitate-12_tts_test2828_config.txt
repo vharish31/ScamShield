@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative at China Construction Bank, we recently introduced a no collateral, low interest loan product that is perfect for friends who need quick cash.
+Speaker2: Oh, I recently have a bit of cash need.
+Speaker1: Great, this product is perfect for you. You can first download our app, fill out some personal information, and we'll quickly review it.
+Speaker2: Do you want to download the app? How do I know you are legitimate?
+Speaker1: Mr. Zhang, we are a regular bank. You can download our official website app, which is safer.
+Speaker2: What information do I need to provide?
+Speaker1: You just need to provide your ID and bank statement, and once approved, we will immediately release the funds.
+Speaker2: Okay, let me try.
+Speaker1: Thank you for your trust, feel free to contact me anytime with any questions.

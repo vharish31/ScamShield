@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Yes, who are you?
+Speaker1: Hello, I am a customer service representative for speedy delivery, one of your packages was accidentally lost during transportation, we will give you compensation, please cooperate with us to complete the claim process.
+Speaker2: Okay, then what should I do now?
+Speaker1: First, you need to click on the link we send to you, fill out some basic information, and then we will transfer the compensation money to your account.
+Speaker2: Okay, I'll click on the link.
+Speaker1: Okay, the link has been sent to your phone. Please complete the operation as soon as you receive it. If you have any issues, feel free to contact me anytime.
+Speaker2: I got the link, I'll fill it out right away.
+Speaker1: Great, fill out the information and wait a few minutes, the compensation will be credited to your account. Is there anything else you need help with?
+Speaker2: No more, thank you.

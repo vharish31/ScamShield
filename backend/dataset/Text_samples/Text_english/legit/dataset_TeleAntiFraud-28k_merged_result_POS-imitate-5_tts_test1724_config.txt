@@ -1,0 +1,11 @@
+Speaker1: Hey, are you little king?
+Speaker2: Hello, it's me. What do you have?
+Speaker1: Hi, I'm Li Xiao, our company just got a new batch of electronic products today. Do you have any interest in checking them out?
+Speaker2: Electronic products, I really want to buy a new phone recently, do you have any recommendations?
+Speaker1: We just got a new phone with high configuration and strong battery life. Have you used it before, and do you have any special requirements?
+Speaker2: I mainly want to use it to watch videos and play games, I hope the battery is durable, the screen is large, and it's clear.
+Speaker1: This phone is very suitable for you, the 6.5-inch large screen, the 4000mAh battery, playing a few small games for a few hours is not a problem.
+Speaker2: How much does it cost to listen?
+Speaker1: The current promotion price is 2999 yuan, which is 200 yuan cheaper than the original price. Would you consider it?
+Speaker2: Okay, I'll think about it. I'll go take a look when I have time. Thank you.
+Speaker1: Okay, feel free to come anytime, feel free to call me if you have other questions.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am small Li, this side is happy mall customer service, your package lost in transportation, we can handle refund here, can you call us?
+Speaker2: Oh, really? I really have a package that hasn't been delivered recently.
+Speaker1: Yes, we have confirmed the information, there is indeed a package missing for you, in order to process it quickly, can you provide your order number?
+Speaker2: Okay, the order number is an eight-digit number: 13579024.
+Speaker1: Thank you, we have found it here, the refund amount is three hundred yuan, for safety reasons, we need you to download our official app, through the app to perform the refund operation, can you download it?
+Speaker2: Sure, what's the name of this app?
+Speaker1: You can search, download and directly log in to the Happy Mall app in the app store. We will handle the refund in the background.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Okay, after downloading, if you have any issues, feel free to contact me anytime. My contact info is 4008686868.
+Speaker2: Okay, thank you.

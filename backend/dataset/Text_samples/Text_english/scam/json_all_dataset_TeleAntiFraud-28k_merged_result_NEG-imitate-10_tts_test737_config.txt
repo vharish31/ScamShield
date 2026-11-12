@@ -1,0 +1,13 @@
+Speaker2: Hello, this is the customer service of China Construction Bank. Are you Li Ming?
+Speaker1: Yes, it's me.
+Speaker2: Mr. Li, we noticed that you recently purchased a phone on our platform, but according to our records, there may have been an issue with your order.
+Speaker1: What problem?
+Speaker2: Your order has been mistakenly marked as invalid, we are currently processing the refund. To ensure your rights, we need you to cooperate and complete a simple verification.
+Speaker1: How to verify?
+Speaker2: Please click on the link in the text message we sent, and follow the instructions.
+Speaker1: How do I know this link is safe?
+Speaker2: Please rest assured, this is our official link, safe and reliable. If you're not comfortable clicking the link, you can also download our official app and complete the verification through it.
+Speaker1: Do you want to download the app?
+Speaker2: Yes, after downloading the app, you can more conveniently manage your orders and account. If you have any other questions, you can directly contact our customer service.
+Speaker1: Okay, I'll try.
+Speaker2: Thank you very much for your cooperation. If you have any questions, please feel free to contact me anytime. Have a happy life!

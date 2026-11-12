@@ -1,0 +1,8 @@
+Speaker1: Where are you?
+Speaker2: I just left my house and am now waiting for the bus at the station.
+Speaker1: Can I go find you now, is your current location convenient?
+Speaker2: Okay, it's pretty clear here. Just follow the main road and you'll see the bus station sign when you get there.
+Speaker1: Okay, I'll go over there now, you wait for me a moment.
+Speaker2: No problem, I'm waiting for you here.
+Speaker1: Okay, the weather forecast said there's a chance of rain today, remember to bring an umbrella.
+Speaker2: Okay, I brought an umbrella, pay attention to safety on the way.

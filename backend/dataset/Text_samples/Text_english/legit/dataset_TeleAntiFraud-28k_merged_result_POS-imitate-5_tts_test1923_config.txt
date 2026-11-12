@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What can I help you with?
+Speaker1: Can you find me a haircut appointment nearby at a convenient time?
+Speaker2: Okay, our haircut time is from 10 am to 8 pm, what time is convenient for you?
+Speaker1: Can we meet at three in the afternoon?
+Speaker2: Three and a half okay, what's your name?
+Speaker1: I am Li Ming.
+Speaker2: Okay, Li Ming Xiāngshēng, I have already booked an afternoon 3:30 haircut for you. Just come over when it's time.
+Speaker1: Okay, thank you. By the way, do you have shampoo and conditioner available there?
+Speaker2: Of course, we provide a complete set of personal care products here, all of which are brand products, you can rest assured to use them.
+Speaker1: That's great, thank you.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wishing you a happy day.

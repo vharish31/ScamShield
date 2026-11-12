@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, want to consult your hair service.
+Speaker2: Hello, Xiao Ming, I am the small Zhang at the hair salon, what can I help you with?
+Speaker1: I want to make an appointment for a man's short haircut, do you know what time you have an available slot here?
+Speaker2: It's relatively quiet here from 2 to 5 in the afternoon. You can choose this time slot.
+Speaker1: Okay, can I come over at 3 pm tomorrow afternoon?
+Speaker2: I'll be ready for you at 3 pm tomorrow.
+Speaker1: How much does it cost to cut hair?
+Speaker2: The price for a man with short haircut is 50 yuan. If you need additional services like washing hair, it's 60 yuan.
+Speaker1: Okay, thank you, I'll come over at 3 pm tomorrow.
+Speaker2: Okay, see you tomorrow. Looking forward to serving you again, see you.

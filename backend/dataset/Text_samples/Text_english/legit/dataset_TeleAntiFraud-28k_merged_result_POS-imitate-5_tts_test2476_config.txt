@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you?
+Speaker1: Can you make a reservation for breakfast tomorrow here?
+Speaker2: Sure, what kind of breakfast do you want to reserve?
+Speaker1: I want to order a fried egg, bread and a glass of orange juice, how much?
+Speaker2: Can I preorder this breakfast for 30 yuan?
+Speaker1: Sure, I'll arrive at seven o'clock in the morning. Can you start serving breakfast at what time?
+Speaker2: We have been providing breakfast since six thirty in the morning, and you arrived at seven just in time.
+Speaker1: Okay, see you tomorrow.
+Speaker2: Okay, see you tomorrow. Wish you a happy day.

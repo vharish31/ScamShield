@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Hello, I found a phone on your website that I like, but I don't know the specific model and configuration. Can you help me check?
+Speaker2: Of course, please tell me your phone name or link, I'll help you search here.
+Speaker1: Okay, this is the one, called Star Explorer S10.
+Speaker2: Explorer S10, this is our latest phone, equipped with the latest processor, 6.4 million pixel camera, 4,000 millisecond battery, and supports fast charging.
+Speaker1: How much does it cost to sound good?
+Speaker2: This phone costs 3999 yuan, there's a limited time discount activity now, if you order now, you can enjoy a 300 yuan discount.
+Speaker1: Hey, that's quite reasonable, can you tell me approximately how long it will take for delivery?
+Speaker2: We will ship your order two days after you place it. Generally, most areas in China can be reached within three to five days.
+Speaker1: Okay, thank you for your help. I'll think about it before placing another order.
+Speaker2: Okay, no rush, if you have any questions, feel free to consult anytime. Wish you a happy life, goodbye!

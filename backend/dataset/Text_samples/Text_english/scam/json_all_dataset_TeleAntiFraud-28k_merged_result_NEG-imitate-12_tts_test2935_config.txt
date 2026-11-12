@@ -1,0 +1,12 @@
+Speaker1: Hello, this is Li Xiao, the customer service representative for Tian An Kuaidi, your package was returned because the address was not detailed, please provide a detailed address to resend it.
+Speaker2: Really? I didn't receive any notification?
+Speaker1: There might be an issue with the system, but we need your detailed address and ID number to verify your identity information.
+Speaker2: Okay, my address is... , my ID number is... .
+Speaker1: Thank you for your cooperation. For safety reasons, we also need you to provide a verification code, which we will send to your phone later.
+Speaker2: Okay, I'll be right back.
+Speaker1: The verification code has been sent, please check your text message.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you for your cooperation. We will resend within 24 hours. Additionally, we recently launched a member activity, which offers more discounts after participation. Are you interested?
+Speaker2: Listen sounds good, how to join?
+Speaker1: Just click on this link to register and fill out the relevant information. The link is: http://example.com/member.
+Speaker2: Okay, I'll register right away. Thank you for your help.

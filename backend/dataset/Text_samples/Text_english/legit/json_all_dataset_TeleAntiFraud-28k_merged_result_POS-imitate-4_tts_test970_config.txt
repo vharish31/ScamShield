@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm Li Xiao, do you have any new discount activities in your store now?
+Speaker2: Hello, little Li. We recently have a discount activity, mainly for clothes and shoes, are you interested?
+Speaker1: Are you interested? Can you specifically tell me about all the discounts?
+Speaker2: Of course. Clothing is eighty percent off, shoes are ninety percent off, and there are some selected products that buy one get one free. You can see the specifics when you come to the store.
+Speaker1: That's great, I plan to go on a trip this weekend, do you guys have business on weekends?
+Speaker2: We are open for business on weekends from 10 am to 8 pm. You can come anytime.
+Speaker1: Okay, I'll go take a look this weekend. Thank you for the information!
+Speaker2: No problem, I'm looking forward to your arrival. If you have any other questions, please call me anytime. Have a happy day!

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you here to deliver food?
+Speaker1: Yes, it's Meituan outside delivery, it's arrived at your community door now.
+Speaker2: Okay, I see the community door, you wait a moment, I'll be down soon.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Could you wait for a few minutes?
+Speaker1: Sure, take it slow, no rush.
+Speaker2: Thank you, I'll come down quickly.
+Speaker1: Okay, call me when you get there, I'll know you arrived.
+Speaker2: Okay, I understand, thank you.

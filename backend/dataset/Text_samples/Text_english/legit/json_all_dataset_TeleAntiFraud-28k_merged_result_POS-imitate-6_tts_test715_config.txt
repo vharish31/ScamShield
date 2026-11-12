@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Zhang Ming, the one who called in the morning.
+Speaker2: Hello, Zhang Ming, I remember you want to book a haircut on Monday afternoon, right?
+Speaker1: Yes, I want to confirm one thing, the appointment time is three in the afternoon, right?
+Speaker2: That's right, on Monday afternoon at three o'clock, our hairdresser will serve you.
+Speaker1: Is there a washing service available at your place?
+Speaker2: Yes, hairdressing services include hair washing, so you can relax.
+Speaker1: Okay, I'll relax now. By the way, I might be late tonight, will there be any problems?
+Speaker2: No problem, please come as early as possible, if you're really late, please call us in advance.
+Speaker1: Okay, thank you for your understanding. I'll try to arrive early tomorrow.
+Speaker2: No problem, see you tomorrow.

@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: Hello, I am the customer service staff of the food square, just want to know what feedback you have on your dining experience last time?
+Speaker2: That environment is pretty good, just a bit noisy.
+Speaker1: Hmm, this we indeed need to improve. Yes, do you know if you are satisfied with our dishes?
+Speaker2: The vegetables are done well, just a little salty.
+Speaker1: Thank you for your feedback. We will convey it to the chef. By the way, we have a new tasting activity this week. Would you like to try it?
+Speaker2: Have you any special discounts for the new product launch?
+Speaker1: Yes, customers who taste new products during the activity period can enjoy an 80% discount and also have a chance to win small gifts.
+Speaker2: That sounds good, I'll go take a look this weekend.
+Speaker1: Okay, see you this weekend. If you need any help, feel free to contact me anytime.
+Speaker2: Okay, thank you. Bye.

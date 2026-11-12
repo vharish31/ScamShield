@@ -1,0 +1,14 @@
+Speaker1: Hello, are you Zhang Zhong?
+Speaker2: Who are you?
+Speaker1: Hi, I'm Li, the customer manager at China Construction Bank. We noticed some recent activity on our platform, so we reached out to you specifically.
+Speaker2: Hey, what's up?
+Speaker1: Is this so, we have a product that's perfect for your financial needs, with a high return rate and low risk, would you be interested in learning more?
+Speaker2: I'm not really thinking about it because my economic situation isn't great.
+Speaker1: I understand your concerns, but this product is really attractive, and we also provide you with a free financial consultation service to help you plan your future finances.
+Speaker2: Is it free? It sounds good.
+Speaker1: Yes, as long as you download our app and register, we will arrange for a professional financial advisor to contact you.
+Speaker2: Do you want to download the app? Is this app reliable?
+Speaker1: You can trust our app, it has been widely accepted by many users. You can download it with confidence. After downloading, just provide some basic information, and we will provide you with personalized service.
+Speaker2: Okay, I'll try. What's the name of the app?
+Speaker1: You can download our app called "Jin Li Cai" in the app store. After downloading, enter the invitation code 123456 to get this free consultation service.
+Speaker2: Okay, I'll give it a try. Thank you for your recommendation.

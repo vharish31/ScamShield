@@ -1,0 +1,17 @@
+Speaker1: Hey, hi, I'm the customer service monkey of the point store, we see that you haven't used your member points in your account before. Tonight, all the points will expire and be cleared to zero. Do you know?
+Speaker2: Really? What can points be exchanged for?
+Speaker1: Yes, you can directly redeem cash with your points, you have over 26,000 points in your account, you can directly exchange them for white wine gift boxes, branded suits, high-definition TVs, and smartwatches in the mall.
+Speaker2: So many points, can I exchange them now?
+Speaker1: Okay, hurry up and come on time, otherwise all the scores will be zeroed out after 10:00 tonight.
+Speaker2: How long will it take me to go over there now?
+Speaker1: It won't take long, about ten minutes or so to complete the exchange.
+Speaker2: Okay, I'm leaving right away. By the way, I made an appointment for a product before, can you check if it's registered?
+Speaker1: Okay, please wait a moment, I'll check. What product did you book an appointment for?
+Speaker2: It's a smartwatch, the appointment time is 3:30 PM on Wednesday this week.
+Speaker1: Okay, let me take a look. Hmm, found it, you really did schedule a smartwatch appointment for this Wednesday at 3:30 PM.
+Speaker2: Okay, can I exchange my points tonight, and can I keep the remaining points?
+Speaker1: Sure, I will apply for a special privilege for you, so that your unused credits will continue to be stored in your account, and I will also give you a gift package for free returns, and enjoy free exchange service.
+Speaker2: Thank you very much, now I'm coming over.
+Speaker1: Okay, welcome you come, road up notice safety.
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye.

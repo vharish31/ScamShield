@@ -1,0 +1,15 @@
+Speaker2: Hello, who are you?
+Speaker1: I'm little Zhang, yesterday at your store I saw that laptop, I want to know more about the details.
+Speaker2: Hey, little Zhang, hi, I'm the customer service representative of your store, what problems do you have with the tablet computer?
+Speaker1: I see that your store has several tablet models, but I don't know what the performance differences are.
+Speaker2: We have three models here, the main difference is in the processor speed and memory size, you can choose based on your needs.
+Speaker1: What is the most expensive model, how long does the battery last?
+Speaker2: The most expensive model battery has a travel time of approximately 10 hours, suitable for long-term use.
+Speaker1: The sound is good, but I'm a bit tight on my hands lately. Do you guys have a payment plan option?
+Speaker2: Yes, we support installment payments, divided into three, six, and twelve periods, you can choose based on your economic situation.
+Speaker1: Sure, if I decide to buy, can I pay directly at the store?
+Speaker2: Of course, you can directly come to the store, and we will help you handle the process of deferred payment.
+Speaker1: Okay, thank you for your patience in answering, I will consider and contact you again.
+Speaker2: Okay, little Zhang, please feel free to come to the store for consultation or purchase anytime, wish you have a wonderful day.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye.

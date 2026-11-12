@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I want to consult your delivery service.
+Speaker2: Hello, Xiaoming, I am a delivery assistant, can I help you with anything?
+Speaker1: Do you have a vegetarian set meal here? If so, how much does it cost?
+Speaker2: We have a vegetarian set meal here, priced at 30 yuan per person, which includes two dishes, a soup and a small dessert.
+Speaker1: Sounds great, I want to order one, how long will it take to deliver?
+Speaker2: Based on your location, it will take approximately 30 to 45 minutes to arrive.
+Speaker1: Okay, what information do I need to provide?
+Speaker2: Please provide a delivery address and contact phone number so that the courier can contact you.
+Speaker1: My address is Happiness Villa No. 3, Unit 2, Floor 2, Phone: 13801380138.
+Speaker2: Okay, your order has been recorded. We will arrange to have it delivered to you as soon as possible. If you have any questions, please feel free to contact me anytime.

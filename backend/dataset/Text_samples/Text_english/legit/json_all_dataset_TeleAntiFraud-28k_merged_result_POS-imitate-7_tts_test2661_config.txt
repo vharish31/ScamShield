@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm here to deliver food, but the guard won't let me in, what should I do?
+Speaker2: Hello, can you wait a moment while I check if I can contact the security guard?
+Speaker1: Okay, thank you.
+Speaker2: Please wait for a moment, I'm making a phone call to ask something.
+Speaker1: Okay, I'm waiting here.
+Speaker2: The guard said he is at the door, just go directly to him.
+Speaker1: Okay, I'll go over there right away.
+Speaker2: You arrived to call him, he will let you in.
+Speaker1: Okay, thank you.
+Speaker2: No problem, be careful on the road.

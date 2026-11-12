@@ -1,0 +1,12 @@
+Speaker1: Hi, I'm little Li, can I check your restaurant reservation situation?
+Speaker2: Hello, Mr. Li, I am waiter Zhang, what can I help you with?
+Speaker1: I'd like to reserve a window seat for about four people at six thirty tomorrow night.
+Speaker2: Okay, tomorrow at 6:30 PM, for four people, by the window, is possible. Do you need to provide contact information?
+Speaker1: Please, my phone number is 13812345678.
+Speaker2: Okay, I have recorded it down. Do you have any special requirements? For example, do you have any preferences for the dishes?
+Speaker1: We have some friends who are first-timers, hoping to recommend some special dishes.
+Speaker2: Alright, we have several special dishes here, such as spicy and sour hot pot, steamed fish with ginger and scallions, and beef noodle soup, all of which are very popular.
+Speaker1: Let's first reserve these few dishes that sound good.
+Speaker2: Okay, I have made reservations for you. See you tomorrow at six thirty. If there are any changes, please contact us in advance.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, goodbye.

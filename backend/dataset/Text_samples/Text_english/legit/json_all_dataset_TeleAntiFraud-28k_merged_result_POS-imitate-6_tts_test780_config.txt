@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm Xiaoming, I ordered dinner at your restaurant, can you confirm?
+Speaker2: Okay, what time did you order for tonight?
+Speaker1: Yes, I ordered a table for four at seven o'clock tonight.
+Speaker2: Okay, I'll check. Your four-person table is ready, reserved for you at seven o'clock on time.
+Speaker1: Great, thank you. By the way, do your restaurant provide children's cutlery?
+Speaker2: Yes, we have special utensils for children here, safe and clean.
+Speaker1: That's great. Is there a parking lot at your restaurant?
+Speaker2: Yes, our restaurant has a free parking lot behind it. You can see it from the back door when you enter.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you tonight, wish you enjoy your dinner.

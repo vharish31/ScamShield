@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer manager of HSBC Bank, I am Zhang manager, do you have any recent capital needs?
+Speaker2: Okay, no problem, thank you.
+Speaker1: Okay, understand? We have a special discounted credit loan now with very low interest and no collateral required.
+Speaker2: It sounds good, but I really don't need it.
+Speaker1: That's really too bad, but add WeChat anyway, just in case it's useful in the future.
+Speaker2: No need, thank you.
+Speaker1: Okay, I have a QR code here. Scan it to get more information, very convenient.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you scan, a little assistant will guide you through the operation, and you can tell me if you have any questions.
+Speaker2: Okay, thank you.

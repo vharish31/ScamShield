@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm Xiaoming, the clothes you bought at our store yesterday, have you tried them on?
+Speaker2: Hey, how are you? I tried it and felt a little small. Do you guys have a big one?
+Speaker1: What size are you, let me check if we have stock.
+Speaker2: Are you M number? Do you have L number too?
+Speaker1: Sure, do you want to exchange one L number?
+Speaker2: Okay, when do your store open?
+Speaker1: What time would be most convenient for you to come to our store, which opens at 10 am and closes at 9 pm?
+Speaker2: Can I go over there in the afternoon around two o'clock tomorrow?
+Speaker1: Okay, you come over at two in the afternoon tomorrow, I will prepare clothes for you.
+Speaker2: Okay, thank you, see you tomorrow.
+Speaker1: No problem, see you tomorrow, be careful on the road.

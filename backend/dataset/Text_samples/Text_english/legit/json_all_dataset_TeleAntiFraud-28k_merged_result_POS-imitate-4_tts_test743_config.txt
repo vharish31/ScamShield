@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Li, recently I've been considering getting a new phone, I heard your store has new smartwatches and high-definition TVs, can you give me some details?
+Speaker2: Hello, little Li, I am small Zhang from the electronic mall, very happy to help you. We really have new smart watches and high-definition TVs, which one do you want to know more about?
+Speaker1: I want to know more about the navigation ability and features of smartwatches, as well as the resolution and size of high-definition TVs.
+Speaker2: Okay, our smartwatch uses the latest battery technology, which can be used for seven days with one charge, and supports functions such as health monitoring, message reminders, and navigation. As for high-definition TV, we have 43-inch and 55-inch sizes, both with a resolution of 4K x 2K, and the picture quality is very clear.
+Speaker1: How much does a smartwatch cost? And a high-definition TV?
+Speaker2: The price of a smartwatch is 1500 yuan, the 43-inch high-definition TV is 3000 yuan, and the 55-inch is 4500 yuan. There is now a discount promotion, and you can enjoy a 90% discount.
+Speaker1: If I decide to buy now, when can it be delivered?
+Speaker2: If you place an order now, we can deliver it to you tomorrow afternoon. If it's a smartwatch, you can choose to have it delivered by express, and it will be delivered tomorrow.
+Speaker1: Okay, I'll buy a smartwatch first. Do you guys support cash on delivery?
+Speaker2: You can choose either to pay on delivery or pay online, it's convenient and safe.
+Speaker1: Then I will choose delivery on arrival, what is your customer service phone number? If there are any issues, I can contact you anytime.
+Speaker2: Okay, the customer service phone number is 101. Please feel free to contact us anytime if you have any questions. Thank you for your purchase. We wish you a happy life!

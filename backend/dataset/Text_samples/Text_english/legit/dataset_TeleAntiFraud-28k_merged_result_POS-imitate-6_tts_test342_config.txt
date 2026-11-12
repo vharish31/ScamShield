@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: I arrived at the door of your community, come down to pick me up.
+Speaker2: Okay, where are you waiting for me at the door?
+Speaker1: That's the gate with the big stone lion.
+Speaker2: Okay, I'll be right down, just wait for me a sec
+Speaker1: Okay, I'm waiting for you here, don't rush.
+Speaker2: Thank you, can you check if there is any express delivery at the doorkeeper's office?
+Speaker1: Okay, I can help you ask a question, what is your delivery number?
+Speaker2: The delivery number is 7345891, sorry to bother you

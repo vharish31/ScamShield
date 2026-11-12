@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you give me a detailed introduction of that electric car I saw in your store?
+Speaker2: Of course. This electric car is our best-selling model, with strong range and short charging time, making it perfect for daily commute use.
+Speaker1: What is the price of that?
+Speaker2: The price of this electric car is three thousand six hundred yuan, and there is now a promotion, buying can enjoy a nine-fifty discount.
+Speaker1: Can you tell me the specific promotional content?
+Speaker2: Of course. Now buy this electric car and you'll get a 95% discount, plus a free one-year maintenance service, including battery testing, tire replacement, and more.
+Speaker1: What color options are available for this car?
+Speaker2: This car comes in red, blue, black, and white colors, you can choose based on your preference.
+Speaker1: Okay, thank you for your detailed introduction. I will consider it.
+Speaker2: No problem, feel free to call anytime if you have any questions. We hope you find a satisfactory product soon.

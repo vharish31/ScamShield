@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, did you buy the cat bed from our store online?
+Speaker2: Yes, I bought it.
+Speaker1: We checked here, this cat bed is temporarily out of stock.
+Speaker2: What should we do?
+Speaker1: If you're willing, we can recommend another product, or notify you when the goods arrive.
+Speaker2: Can you take a look at the recommended items? How much are they?
+Speaker1: This one costs 30 yuan, more expensive than the one you bought before which cost 5 yuan.
+Speaker2: Okay, let me try this one.
+Speaker1: Okay, I'll handle it here. I estimate it will ship tomorrow.
+Speaker2: Okay, thank you.

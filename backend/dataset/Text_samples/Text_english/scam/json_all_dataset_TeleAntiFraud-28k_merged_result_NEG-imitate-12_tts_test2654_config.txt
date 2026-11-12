@@ -1,0 +1,11 @@
+Speaker1: Hello!
+Speaker1: Hello, I am a customer service representative at the Agricultural Bank of China, Tianhe Branch. You previously opened a credit card with us, and there is currently a special promotion going on, would you like to participate?
+Speaker2: What activity?
+Speaker1: We have a credit limit increase activity. Just click on the link and fill out the relevant information to quickly increase your credit limit.
+Speaker2: Is it true? How do you send me that link?
+Speaker1: Okay, please wait a moment, I'll send you the link on your phone right away. Be sure to click it quickly, limited spots available.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Please remember to click on it immediately after receiving it, don't miss this opportunity. Also, have you recently had any financial needs? We have low-interest loan products here.
+Speaker2: Loan, I'll think about it.
+Speaker1: Okay, you consider it. If you need it, you can contact me anytime. My phone number is 12345678901.
+Speaker2: Okay, thank you.

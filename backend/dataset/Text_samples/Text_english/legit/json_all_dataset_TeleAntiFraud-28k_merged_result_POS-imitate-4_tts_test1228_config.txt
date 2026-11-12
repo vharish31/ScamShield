@@ -1,0 +1,12 @@
+Speaker1: Can you hear me clearly?
+Speaker2: Can you hear me clearly? Hello, what can I help you with?
+Speaker1: Hi, I'm Lee Ming. My girlfriend wants to eat hotpot today, can you recommend a good hotpot restaurant for me?
+Speaker2: Of course, where are you?
+Speaker1: We live in Chaoyang District.
+Speaker2: What kind of flavor do you prefer between the spicy Sichuan and the Beijing-style copper pot?
+Speaker1: My female friend likes spicy things, so let's go to the spicy restaurant. Do you know how to get there?
+Speaker2: Okay, get off at Chaoyangmen subway station, walk straight along the street outside the gate of the People's Republic for about 500 meters, turn right at the crossroads, and walk about 200 meters left and right to see the spicy space.
+Speaker1: Okay, I know, so what time does that store open?
+Speaker2: What time do you plan to go to the spicy space?
+Speaker1: Do we need to make reservations in advance for our 6 pm departure tonight?
+Speaker2: I suggest booking in advance, especially on weekends, when it's busier. I can help you book a four-person table, how about it?

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Li, a loan officer at XX Bank. We recently introduced a special promotion for our loan policy. Do you have any loan needs?
+Speaker2: No, don't use it, I have enough money now.
+Speaker1: That's great! But if you need anything in the future, feel free to contact me anytime. I have a special link here, just click it to apply, it's very convenient.
+Speaker2: Okay, thank you. But I really don't need it now.
+Speaker1: No problem, I won't disturb you anymore. However, if your friend or family needs it, you can send this link to them, this link is http://xxbank.com/apply.
+Speaker2: Okay, I understand. Thank you for your reminder.
+Speaker1: No problem, if you have any questions, you can call me anytime or add me on WeChat, my WeChat number is the same as my phone number, feel free to contact me anytime.
+Speaker2: Okay, I will consider it. Thank you.
+Speaker1: Okay, let's just do this first. I hope everything goes smoothly for you.
+Speaker2: Thank you, goodbye.

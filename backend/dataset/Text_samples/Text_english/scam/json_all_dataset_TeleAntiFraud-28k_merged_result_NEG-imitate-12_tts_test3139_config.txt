@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer manager of Agricultural and Commercial Bank, Li Ming.
+Speaker2: Hello, Li Manager, what do you have?
+Speaker1: Is that so? We recently launched a credit loan product with a very favorable interest rate. Would you like to know more about it?
+Speaker2: Hey, what's the interest rate for a credit loan?
+Speaker1: As long as the monthly interest rate is 0.005% and the approval is quick, the loan will be disbursed quickly. If you are interested, you can click on the link I send you and fill out the information.
+Speaker2: Link? I don't see it.
+Speaker1: Please wait for a moment, I'll send it to you soon. After you receive the message, click on the link to directly fill out the information.
+Speaker2: Okay, I'm waiting.
+Speaker1: Okay, the text message has been sent. Please click on the link and fill in real information. We will have a dedicated team review it.
+Speaker2: Received, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hello, I am the customer manager of the Agricultural Bank's Tianhe Branch, Li Ming. I see you have a need for a mortgage on a property. Would you be interested in learning more?
+Speaker2: "Oh, that's right, I did consider taking out a loan, but I'm not very familiar with the process."
+Speaker1: No problem, we have a special loan project at the bank with a very low interest rate. All you need to provide is proof of property ownership, and it can be quickly approved. You can also pay it off early with no extra fees.
+Speaker2: The sound is good, but I need to understand more details.
+Speaker1: Okay, to make it easier for you to understand, I'll send you a link with detailed information about the loan project, you can take a look.
+Speaker2: Okay, I'll take a look.
+Speaker1: Thank you, the link has been sent to your phone. Just click on it and follow the instructions. If you have any questions, feel free to contact me.
+Speaker2: Okay, thank you.

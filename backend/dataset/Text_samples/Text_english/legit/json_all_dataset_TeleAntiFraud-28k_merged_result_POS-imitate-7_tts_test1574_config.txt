@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm Lee Huai, I recently saw a second-hand Audi A4 in your place and wanted to know more about the situation.
+Speaker2: Hello, Lee Huang, I am Xiao Zhang, responsible for the sale of second-hand cars. Which specific Audi A4 model did you see, what is its configuration and year?
+Speaker1: Is a 17-year-old 1.4T car model? I see the car condition is good, want to know the specific situation.
+Speaker2: Hmm, that car is indeed a 1.7L 1.4T, the car condition is excellent, the maintenance records are complete, the mileage is 8,000 kilometers, and there are no accident records.
+Speaker1: What about the price?
+Speaker2: The original price was 20,000, but since it's a second-hand car, the price has been adjusted to 12,000, which allows for some negotiation.
+Speaker1: Can I get a discount on twelve thousand words?
+Speaker2: Okay, the lowest possible is eleven thousand eight hundred, can't go any lower.
+Speaker1: Can I consider buying a car with a license plate number of 11888888? But I need to check the actual car condition first, when can I come to the store to see the car?
+Speaker2: You can come at 10 am tomorrow, I will prepare the car in advance, we will discuss face to face.
+Speaker1: Okay, I will arrive on time at 10 am tomorrow. Thank you.
+Speaker2: No problem, looking forward to your arrival, goodbye!

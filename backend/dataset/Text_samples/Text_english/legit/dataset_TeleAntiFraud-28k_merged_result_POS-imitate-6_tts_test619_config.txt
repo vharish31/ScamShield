@@ -1,0 +1,12 @@
+Speaker1: Hey, are you there?
+Speaker2: What's up?
+Speaker1: Do you have time this weekend to hang out at my place?
+Speaker2: Weekend I have time, great, when can you arrive?
+Speaker1: I plan to take the high-speed train at 9:00 am and arrive at your place around 11:30 am.
+Speaker2: Okay, I'll pick you up at the station at the designated time.
+Speaker1: Okay, thank you so much.
+Speaker2: No problem, let's gather together happily now that you're here.
+Speaker1: Hey, how's the weather on your side? Do you need an outer jacket?
+Speaker2: The weather forecast for this weekend is expected to be quite cool, with a large temperature difference between early morning and evening. It's best to bring light outerwear.
+Speaker1: Okay, I noted it down, see you later.
+Speaker2: See you later, be careful on the road.

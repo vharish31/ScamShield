@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I just placed an order for takeout, can you confirm the delivery situation for me?
+Speaker2: Hello, little Zhang, I am a deliveryman from the food delivery platform. Your food delivery is now being delivered by me to your address.
+Speaker1: Great, thank you. Okay, I live in building 8, floor 5, elevator is 2nd floor, please.
+Speaker2: No problem, I will send it to the 5th floor of the 8th floor, remember to pick it up.
+Speaker1: Okay, I'll be back in about ten minutes, then we can meet.
+Speaker2: Okay, I'll wait for you there. If there are any changes, I'll call you ahead.
+Speaker1: Thank you very much, please.
+Speaker2: No problem, this is my job. If you have other places that need help, feel free to contact me anytime.
+Speaker1: Okay, thank you again. See you later.
+Speaker2: See you later, be careful on the road.

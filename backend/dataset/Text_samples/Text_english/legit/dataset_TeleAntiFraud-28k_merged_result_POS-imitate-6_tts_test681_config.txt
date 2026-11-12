@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, hello hello, can you hear, what's up?
+Speaker1: Hello, I am the customer service of the e-commerce platform. Your accumulated shopping points on your account will be cleared at midnight tonight. How come you haven't used them yet?
+Speaker2: Oh, really? I didn't pay attention. What can these points be used for?
+Speaker1: These points can help you deduct three thousand nine hundred dollars of cash. You can use them to buy many products on the platform, such as liquor, groceries, and phones.
+Speaker2: That's great, I really want to buy a new phone. Can you recommend anything?
+Speaker1: Of course, our latest marketed phones have received good reviews, you can choose according to your needs. Now you can exchange with points, and enjoy more discounts.
+Speaker2: Okay, I'll take a look. Thank you for reminding me.
+Speaker1: No problem, please feel free to contact me if you have any questions. I hope you find a satisfactory product.
+Speaker2: Okay, thank you again, goodbye.

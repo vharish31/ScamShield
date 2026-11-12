@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm Xiaoling, can I make an appointment for car maintenance here?
+Speaker2: Hello, Xiao Lin, is it okay? We provide car maintenance service here.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: Yes, to ensure smooth service, it's recommended to book in advance.
+Speaker1: Can I come at two in the afternoon tomorrow?
+Speaker2: Can we meet at two in the afternoon tomorrow? Please confirm the vehicle information, including the license plate number.
+Speaker1: Okay, the license plate number is Beijing A12345.
+Speaker2: We have recorded your order, Jing A12345, for tomorrow at 2 PM. We will be ready for you.
+Speaker1: Is home insurance free?
+Speaker2: Yes, the first maintenance is free, but you need to provide the purchase certificate.
+Speaker1: Okay, I understand. Thank you for your help. See you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

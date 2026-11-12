@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Li, the customer service representative from the point reward mall. We've noticed that you have a large amount of points on your account that haven't been used yet. Tonight at midnight, these points will expire.
+Speaker2: Oh, that's how it is, I haven't noticed yet. What can these points be used for?
+Speaker1: You can use it to exchange products, such as electronic products, home appliances, even some famous brand cosmetics, and you can also deduct cash.
+Speaker2: Listen well, what do I need to do?
+Speaker1: You just need to log in to our app, enter the point mall, select the products you want, and click on exchange to get them.
+Speaker2: Okay, I'll go take a look now. Right, I'm using this function for the first time, won't it be complicated?
+Speaker1: No problem, the operation is very simple. If you encounter any issues during the process, please feel free to contact our customer service at any time. We will help you solve them.
+Speaker2: Thank you for your help. I will handle it quickly.
+Speaker1: You're welcome! I hope your exchange goes smoothly. If you have any questions, please feel free to contact us. Goodbye!
+Speaker2: Okay, bye!

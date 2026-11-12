@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, now working at the personal loan department of the commercial bank.
+Speaker2: Hello, little Zhang, what do you have?
+Speaker1: That's right, we have a great loan project here with low interest, high credit limit, fast approval, and it's perfect for you as a homeowner customer.
+Speaker2: Uh, is that so? What's the specifics?
+Speaker1: Yes, as long as you have property, you can apply for a loan of 350,000 yuan, no collateral required, just basic information.
+Speaker2: What materials do I need to prepare?
+Speaker1: It's simple, just provide your ID, property certificate, and income proof. If you're convenient, you can click on the link I sent you and fill out some basic information. We'll have a specialist contact you.
+Speaker2: Okay, let me try.
+Speaker1: Great, here's the link: <http://example.com>, just click in and fill out the information.
+Speaker2: Thank you, I'll go fill it out right away.

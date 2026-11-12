@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a waiter at the restaurant, did you reserve a seat for tonight at six o'clock?
+Speaker2: Yes, it's my reservation. Do you have any seats left?
+Speaker1: Yes, we have reserved a window seat for you, so you can enjoy the lake scenery outside.
+Speaker2: That's great, I'm very satisfied with this place.
+Speaker1: Did your friend arrive yet?
+Speaker2: They haven't arrived yet, they should be a little late.
+Speaker1: Okay, we'll prepare some tea water for you first, and then bring your friends over once they arrive.
+Speaker2: Thank you, I'll go to the parking lot first to wait for them.
+Speaker1: Okay, the parking lot is behind the restaurant. You can directly drive over there. If you need anything, please contact our service staff.
+Speaker2: Okay, I understand, thank you for your help.

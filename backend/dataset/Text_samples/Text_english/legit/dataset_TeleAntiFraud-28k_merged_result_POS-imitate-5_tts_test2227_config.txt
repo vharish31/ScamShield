@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you at the big gate of the community?
+Speaker2: Okay, I'm waiting for you at the big gate of the community.
+Speaker1: Okay, I'll be there soon. Just wait a minute, I'll be there in no time.
+Speaker2: Okay, it's a bit cold here, come over quickly.
+Speaker1: I know, I'm driving over, should be there in about ten minutes.
+Speaker2: Okay, be careful on your way.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

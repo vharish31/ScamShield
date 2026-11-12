@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I want to consult your hair service here.
+Speaker2: Hello, I am the customer service representative here, what do you want to know?
+Speaker1: Can you tell me about your haircut prices and appointment times?
+Speaker2: The price of cutting hair is 50 yuan per time, if you need styling service, it may be a little more expensive, about 70 yuan. You can arrange the appointment time at any time, what time is convenient for you?
+Speaker1: Can I come at four o'clock in the afternoon tomorrow?
+Speaker2: Okay, 4 o'clock is fine, I will help you make a reservation.
+Speaker1: How long do I need to arrive in advance?
+Speaker2: I suggest you arrive ten minutes early so you can have time to choose your desired hairstyle.
+Speaker1: Okay, I'll arrive at four o'clock on time tomorrow.
+Speaker2: Okay, see you tomorrow, wish you a happy day.
+Speaker1: Thank you, goodbye.

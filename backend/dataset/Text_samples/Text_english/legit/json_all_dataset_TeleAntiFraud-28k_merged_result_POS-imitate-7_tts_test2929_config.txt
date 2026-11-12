@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I have a car maintenance appointment scheduled, can you confirm the time?
+Speaker2: Hello, little Li, can I check one thing, is your appointment on Saturday afternoon at 3 PM?
+Speaker1: Yes, it's on Saturday. But I had something on that day, can I change it to early morning?
+Speaker2: Okay, let me check if there are any openings in the morning, hmm, can I be at ten o'clock in the morning?
+Speaker1: Ten o'clock is fine, so I'll set it for ten o'clock.
+Speaker2: Okay, I've changed it to Saturday morning at 10 am. Remember to come ten minutes early.
+Speaker1: Okay, thank you. What do I need to prepare in advance for my maintenance package?
+Speaker2: You just need to drive the car, and we'll take care of everything else on this end, including the checkup and maintenance projects.
+Speaker1: Okay, thank you, see you on Saturday.
+Speaker2: See you on Saturday, be careful on the road.

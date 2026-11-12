@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I'm little Zhang, I'm nearby, need a ride.
+Speaker2: Hello, little Zhang, I am driver Li, I have received your order, now I am rushing to your location.
+Speaker1: Okay, I'm waiting for you at the exit of the subway station. How long will it take?
+Speaker2: It'll take about ten minutes or so, there's a bit of traffic on the road.
+Speaker1: Okay, I'm waiting here, you arrived, give me a call.
+Speaker2: Okay, no problem, I'll contact you when I arrive.
+Speaker1: Thank you, be careful on the road.
+Speaker2: Thank you, you also pay attention to safety, goodbye.

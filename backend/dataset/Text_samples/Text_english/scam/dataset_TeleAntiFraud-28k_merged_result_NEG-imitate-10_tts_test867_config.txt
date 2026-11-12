@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is Guangzhou Yinhang customer service center, I am Li manager.
+Speaker2: Hello, do you have anything?
+Speaker1: We noticed some unusual activity on your account. To ensure the safety of your funds, we recommend you take immediate action.
+Speaker2: What's going on?
+Speaker1: Yes, we suspect someone is trying to illegally log into your account. To confirm your identity, we need some information from you.
+Speaker2: What information do you need from me?
+Speaker1: Please provide us with your identity card number and bank account details, including your bank card number and security code.
+Speaker2: That's it, I'm a bit worried, these information are very important, how do I know you're really from the bank?
+Speaker1: You can call our official phone number to verify, the number is 4000000000. At the same time, for quick processing, we can also send you a link through short message, clicking on the link can quickly verify identity.
+Speaker2: Okay, I understand. I will consider it. Thank you for your reminder.

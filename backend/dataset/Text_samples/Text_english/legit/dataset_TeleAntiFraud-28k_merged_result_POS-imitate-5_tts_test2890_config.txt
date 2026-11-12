@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Can I make an appointment for your hairdressing service?
+Speaker2: Of course, we provide booking service here. What time do you want to book?
+Speaker1: Can we meet at four o'clock in the afternoon tomorrow?
+Speaker2: Tomorrow at four in the afternoon is fine, but please arrive half an hour early to help us prepare for you.
+Speaker1: Okay, I'll arrive at four o'clock on time.
+Speaker2: Okay, please come to our front desk and give us your name, we will arrange for you.
+Speaker1: Okay, how long will it take?
+Speaker2: Typically, a haircut service takes about an hour, but if additional services are needed, the time may be longer.
+Speaker1: Okay, thank you for your patience, see you tomorrow.
+Speaker2: No problem, see you tomorrow. Wish you a happy day.

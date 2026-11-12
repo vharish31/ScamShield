@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am Meituan's customer service, you recently ordered a takeout on our platform and want to know your satisfaction with this service.
+Speaker2: Hello, I think it's not bad, the speed of sending food is quite fast.
+Speaker1: That's great, we are always striving to improve the quality of our service. By the way, are you satisfied with the taste of the food?
+Speaker2: The taste is still okay, just the soup is a little cold.
+Speaker1: Thank you very much for your feedback. We will pass this situation on to the merchant to see if they have room for improvement.
+Speaker2: Okay, I hope they can improve a bit.
+Speaker1: Do you have any suggestions for our platform?
+Speaker2: I think the order status update could be a little faster, so customers can more accurately grasp the delivery time.
+Speaker1: This recommendation is great, we will consider optimizing the system to increase the frequency of order status updates.
+Speaker2: That's great, thank you for your help.
+Speaker1: No problem, thank you for your support. If you have any other questions, please feel free to contact us anytime.

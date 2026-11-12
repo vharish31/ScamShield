@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Do you want to consult our restaurant's reservation service?
+Speaker2: Yes, I want to reserve a table for six o'clock in the evening.
+Speaker1: Okay, who are you?
+Speaker2: Four of us.
+Speaker1: Okay, a four-person table has been reserved for you. Do you have any special dietary requirements?
+Speaker2: One of my friends is a vegetarian.
+Speaker1: No problem, we have a special vegetarian menu. Please prepare in advance.
+Speaker2: Okay, thank you. Is there anything else I need to inform you in advance?
+Speaker1: No problem, just arrive on time. The restaurant address is in Shanghai city Xuhui district Changxing Zhonglu Jiujiu number, can you find it easily?
+Speaker2: Can you find it? Thank you. See you later.
+Speaker1: See you later, wish you enjoy your meal. Bye!

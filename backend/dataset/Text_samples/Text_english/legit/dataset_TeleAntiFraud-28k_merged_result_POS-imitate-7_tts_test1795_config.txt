@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from some e-commerce platform. There is a purchase point in your account that will expire at midnight tonight. Do you know?
+Speaker2: Oh, really? I didn't notice that.
+Speaker1: Yes, your account balance has enough points to redeem items worth nearly 4,000 yuan. If you don't use them in time, they will be cleared.
+Speaker2: Hmm, like this, then how do I use these points?
+Speaker1: You just need to log in to our platform, find the page for points redemption, select your favorite product, and then use points to pay.
+Speaker2: How did these points come about?
+Speaker1: These points are awarded to you based on your purchase amount on our platform. For every yuan you spend, you get a point.
+Speaker2: Okay, I'll go exchange it now, thank you for reminding me.
+Speaker1: You're welcome. If you have any issues during the exchange process, please feel free to contact us at any time. We wish you a happy shopping!
+Speaker2: Okay, thank you. Bye.

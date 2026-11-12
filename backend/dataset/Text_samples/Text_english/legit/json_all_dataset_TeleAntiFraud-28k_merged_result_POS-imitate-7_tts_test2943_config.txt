@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the customer service representative of the city jogging platform, have you recently needed any help on our platform?
+Speaker2: Hmm, temporarily not available, what now?
+Speaker1: We have a new activity on our platform now, you can enjoy a 50% discount on your first order by just placing an order, if you need it, you might want to consider it.
+Speaker2: Oh, like this, then I'll take a look and see if there's anything you need me to send.
+Speaker1: Okay, you can place an order through our app or mini-program, very convenient.
+Speaker2: What is your service time?
+Speaker1: We are a 24-hour all-day service, you can order anytime.
+Speaker2: Okay, I'll contact you when I need something.
+Speaker1: Okay, feel free to come anytime. If you have any questions, feel free to contact me directly. Have a great day.
+Speaker2: Thank you, goodbye.

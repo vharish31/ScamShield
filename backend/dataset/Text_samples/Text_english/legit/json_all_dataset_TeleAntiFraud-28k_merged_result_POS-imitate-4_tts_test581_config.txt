@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, the new phone I saw at your store two days ago, I want to know more about it.
+Speaker2: Hello, Xiao Zhang, I am customer service Li, what information do you want to know about that phone?
+Speaker1: Can you tell me about the battery life of this phone and if there are any discounts on the price?
+Speaker2: This phone's battery capacity is 4000mAh, and it can support more than a day of continuous use in normal use. We currently have an activity, the original price is 3600 yuan, and now you can enjoy a 300 yuan discount when purchasing.
+Speaker1: Does this phone support fast charging?
+Speaker2: Yes, this phone supports fast charging, it can be charged to 50% in about half an hour.
+Speaker1: Okay, can you tell me when my order will arrive if I place it now?
+Speaker2: If you place an order now, we will ship it within 24 hours and, depending on your location, it usually arrives in 3 to 5 working days.
+Speaker1: Then I ordered it, thank you for your answer.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a happy life!

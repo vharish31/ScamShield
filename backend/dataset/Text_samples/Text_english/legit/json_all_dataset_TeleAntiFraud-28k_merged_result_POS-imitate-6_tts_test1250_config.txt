@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I want to check if your store has any new sports shoes.
+Speaker2: Hello, do we have new sports shoes in our store? What color and size do you want?
+Speaker1: I want a pair of black shoes, size 42.
+Speaker2: Okay, we have black 42 code running shoes in stock here. Would you like to try them on?
+Speaker1: Can I go at around three in the afternoon today?
+Speaker2: Okay, you can come at three o'clock, no problem, we will be open until eight o'clock in the evening.
+Speaker1: Okay, thank you. What is the price?
+Speaker2: The retail price of this sports shoe is 588 yuan, but there's a promotion now, so you can get a 90% discount.
+Speaker1: I can accept nine o'clock, so I'll arrive at three in the afternoon on time.
+Speaker2: Okay, let's meet at three o'clock. If you have any other questions, feel free to contact me anytime.
+Speaker1: Okay, thank you, see you later.

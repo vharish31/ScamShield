@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: I'm little Zhang, tomorrow at noon 11:30 left right, at your community door waiting for you, remember to bring keys
+Speaker2: Okay, little Zhang, tomorrow I will wait for you at the community door, I won't forget to bring the key.
+Speaker1: Then we'll meet at noon tomorrow, see you later.
+Speaker2: Hey, don't see you again, be careful on the road, give me a message when you arrive.
+Speaker1: Okay, pay attention to safety on the road too. I'll send you info soon. Be early to prepare.
+Speaker2: Okay, you can relax, I will prepare in advance, see you tomorrow.
+Speaker1: Okay, see you tomorrow, goodbye.
+Speaker2: Goodbye

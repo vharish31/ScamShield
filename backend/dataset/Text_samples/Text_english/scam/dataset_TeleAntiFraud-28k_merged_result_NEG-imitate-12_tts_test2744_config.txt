@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I'm small Zhang, this is the customer service representative of the provincial city bank. We noticed that you have been looking for suitable loan products recently and want to know if you are interested in learning more about our bank's low-interest loan service?
+Speaker2: Hello, I do need some cash flow, what are the conditions and requirements for your loan?
+Speaker1: Our loan conditions here are very favorable. You just need to provide some basic personal information, such as ID number and work proof, to apply. Moreover, our interest rate is only 0.02%, which is much lower than other banks.
+Speaker2: What materials do I need to prepare?
+Speaker1: You just need to prepare your identity card copy, work proof and the last three months' salary slip, and we will arrange a specialist to handle it for you. Okay, for your convenience, you can click this link, fill in the relevant information, and we will process it quickly.
+Speaker2: Okay, I have a computer, can I directly operate it online. Is this link safe?
+Speaker1: You can rest assured that our bank's link is very safe and will not leak any of your personal information. Just click on it and follow the instructions. If you have any issues, you can contact us anytime.
+Speaker2: Then I'll try it out, thank you for your help.
+Speaker1: No problem, feel free to contact me for any questions. I wish your application to be successful, looking forward to working with you.

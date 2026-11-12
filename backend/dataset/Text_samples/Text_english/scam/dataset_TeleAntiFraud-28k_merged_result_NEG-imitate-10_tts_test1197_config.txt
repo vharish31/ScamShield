@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao, this is the commercial bank customer service center.
+Speaker2: Hello, do you have anything?
+Speaker1: We noticed unusual activity on your account. To ensure your financial security, we need you to cooperate with a simple verification.
+Speaker2: Oh, really? Then what do I need to do?
+Speaker1: Please click this link, enter your bank card number and verification code, our backend will automatically verify.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, thank you for your cooperation. If you have any questions, please feel free to contact me anytime. My phone number is 12345678901.
+Speaker2: Okay, I understand. Thank you.
+Speaker1: You're welcome, wish you happy life, bye.
+Speaker2: Goodbye.

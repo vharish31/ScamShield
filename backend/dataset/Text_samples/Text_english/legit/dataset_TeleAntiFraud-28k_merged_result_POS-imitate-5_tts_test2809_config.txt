@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you bring me some takeout from the restaurant below the cloud road?
+Speaker2: Okay, where are you in Qingyun Road Food City?
+Speaker1: At the south gate of the food city, there is a big clock position.
+Speaker2: Okay, I understand. Which restaurant did you order from?
+Speaker1: I ordered that old Beijing fried sauce noodles, you arrived to call me.
+Speaker2: Okay, I know, around twenty minutes later I'll send it, please pay attention to answering the phone.
+Speaker1: Okay, thank you.
+Speaker2: No problem, be careful on the road.

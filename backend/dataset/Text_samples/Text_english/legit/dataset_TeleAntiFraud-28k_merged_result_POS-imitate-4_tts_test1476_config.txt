@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw your smartwatch on your online store and wanted to know more about it.
+Speaker2: Okay, our latest product is a smartwatch that can connect to your phone, monitor health data, and has multiple exercise modes.
+Speaker1: How much does this watch cost?
+Speaker2: This smartwatch costs 999 yuan. If you buy it now, you can enjoy a 100 yuan discount.
+Speaker1: When can I get my package?
+Speaker2: If you place an order now, we will ship it within 24 hours and it usually takes 3-5 days to arrive.
+Speaker1: Okay, I'll think about it, thank you.
+Speaker2: You're welcome. If you have any other questions, feel free to consult anytime.

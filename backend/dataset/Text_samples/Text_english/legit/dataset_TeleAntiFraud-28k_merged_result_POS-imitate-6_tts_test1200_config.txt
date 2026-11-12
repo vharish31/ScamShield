@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I want to consult your haircut service.
+Speaker2: Hello, I am customer service Li, welcome to consult. Our store provides various haircut services, including cutting and styling, what specific needs do you have?
+Speaker1: I want to cut my hair short, but I don't know how much it costs.
+Speaker2: Short haircuts have a base price of 100 yuan. The price may vary if additional styling or dyeing services are needed.
+Speaker1: Okay, so I roughly need a haircut and a molding, can you give me a specific price?
+Speaker2: Hair cutting and styling service costs one hundred and fifty yuan. If you book now, we also have a discount promotion, you can enjoy a nine-discount.
+Speaker1: Can I reserve tomorrow afternoon at two o'clock?
+Speaker2: Sure, I have a two o'clock slot tomorrow afternoon. Please provide your contact information so we can confirm the appointment.
+Speaker1: Okay, my phone number is 1381380138.
+Speaker2: Okay, your appointment has been successful. See you tomorrow at 2 pm at our store. If there are any changes, please contact us in advance. Have a nice day!

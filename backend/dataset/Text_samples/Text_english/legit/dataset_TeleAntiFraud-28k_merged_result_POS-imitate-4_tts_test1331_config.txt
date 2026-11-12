@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything to talk about?
+Speaker1: Can you check if there is a haircut appointment scheduled for tomorrow here?
+Speaker2: What time slot would you like to book?
+Speaker1: Is 10 am a good time?
+Speaker2: Sure, there's still time at 10 o'clock.
+Speaker1: How do I make a reservation?
+Speaker2: You can make an appointment with us through our phone or online platform, please provide your name and contact information.
+Speaker1: Okay, my name is Li Ming, phone number is 691888888.
+Speaker2: Okay, Li Ming Xiāngshēng, your appointment has been successful. We will call you ahead to confirm.
+Speaker1: Okay, thank you.
+Speaker2: No problem, feel free to contact us anytime if you have any questions. Goodbye.

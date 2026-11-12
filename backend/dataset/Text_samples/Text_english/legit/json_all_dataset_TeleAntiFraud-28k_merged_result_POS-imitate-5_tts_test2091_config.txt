@@ -1,0 +1,12 @@
+Speaker1: Hey, are you there?
+Speaker2: Is there anything going on?
+Speaker1: I just saw your store had an activity, I want to know more about it.
+Speaker2: Okay, what activity do you want to know about?
+Speaker1: That's the buy five get one free promotion.
+Speaker2: Oh, that activity is from today until this weekend ends, buy full five hundred yuan can send one hundred yuan of shopping coupon, you can use to next shopping.
+Speaker1: Is there an expiration date on this shopping voucher?
+Speaker2: Yes, this shopping coupon's validity period is one month. After this period, it cannot be used anymore.
+Speaker1: Understood, can I still go to your store and attend the activity?
+Speaker2: Of course, we are open until nine o'clock in the evening. You can come anytime.
+Speaker1: Okay, I'll go over there in a while, thank you.
+Speaker2: Please welcome you.

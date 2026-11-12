@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently decided to renovate my new house, and I want to know more about your wallpaper and flooring materials.
+Speaker2: Hello, little Zhang, I am the customer service representative of the home furnishings store, very happy to serve you. We have various styles of wallpaper and eco-friendly flooring materials here, what style are you looking for specifically?
+Speaker1: I want a simple style, with colors not too flashy, best if it's durable and easy to clean.
+Speaker2: I understand, we have a gray wallpaper, paired with a deep brown wooden floor, both simple and spacious, very suitable for modern home decor.
+Speaker1: How much does that wallpaper and floor cost?
+Speaker2: This wallpaper costs 158 yuan per roll, and the flooring costs 211 yuan per square meter. If you buy in bulk, we can provide a discount.
+Speaker1: Can you give me a total price and discount for 10 sheets of paper and 20 square meters of flooring?
+Speaker2: Okay, based on the quantity you said, the original price is 4260 yuan, considering your purchase quantity, we can give you a 95% discount, the discounted price is 4047 yuan.
+Speaker1: This price is acceptable, I plan to come over the weekend to check the specific size and then place an order.
+Speaker2: Okay, our store is open normally on weekends. You can come directly, and if you need it, we can arrange for a master to come to your home for measurement service.

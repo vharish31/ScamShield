@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you? I want to inquire about your restaurant's reservation service.
+Speaker2: Hello, I'm very happy to serve you. What information do you want to know?
+Speaker1: Do you have private rooms in your restaurant? If so, how far in advance do I need to book?
+Speaker2: Our restaurant has private rooms, it's usually recommended to book two days in advance so we can ensure everything is ready for you.
+Speaker1: Okay, I plan to book this weekend, what are your weekend business hours?
+Speaker2: Our weekend business hours are from 11am to 9pm. You can choose any time slot.
+Speaker1: Can I book a six o'clock dinner reservation for tonight?
+Speaker2: Of course, I will record it for you. Do you need me to help you prepare anything else?
+Speaker1: Hey, can you recommend a few of your signature dishes?
+Speaker2: Our restaurant specialties include red braised pork, steamed fish and sour spicy soup, all very popular. You can choose based on your taste.
+Speaker1: It sounds good, I'll try it later. Thank you for your help.
+Speaker2: You're welcome. We're looking forward to your visit. If you have any other questions, please feel free to consult us anytime. Goodbye.
+Speaker1: Okay, bye.

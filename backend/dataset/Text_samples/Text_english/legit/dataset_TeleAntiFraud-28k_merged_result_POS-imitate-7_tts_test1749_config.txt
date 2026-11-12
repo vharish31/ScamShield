@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of an e-commerce platform. Your account has a credit that is about to expire. Please use it before midnight tonight, otherwise it will be cleared.
+Speaker2: Oh, really? How come I didn't notice?
+Speaker1: Yes, your account has accumulated over 100,000 points, which can be exchanged for many products, so I suggest you log in to your account and check it out.
+Speaker2: Okay, I'll go take a look. Hey, how do these points come?
+Speaker1: These points are the ones you accumulated through shopping, recharging, and participating in activities on our platform, and they are very practical.
+Speaker2: Well then, I'll make good use of it.
+Speaker1: Yes, you can use points to exchange your favorite products or cash back, it's very cost-effective.
+Speaker2: That's great, I'll go operate now. Thank you for your reminder!
+Speaker1: You're welcome. If you have any questions, feel free to contact me anytime. Have a great shopping!
+Speaker2: Okay, thank you, bye.

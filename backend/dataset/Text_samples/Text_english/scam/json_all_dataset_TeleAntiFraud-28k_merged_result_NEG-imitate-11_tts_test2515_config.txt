@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, this is SF Express, regarding the package you lost earlier, we've found it now, so you need to provide some info to process the refund.
+Speaker2: Really? Okay, then what information do I need to provide?
+Speaker1: Just click this link, follow the instructions to enter your bank card information and verification code, and we'll quickly process your refund.
+Speaker2: Okay, I'll go operate.
+Speaker1: Please wait a moment, in order to ensure safety, we need you to provide your identity card number, so that we can confirm the refund to your personal account.
+Speaker2: Okay, then I'll go fill it out.
+Speaker1: Thank you very much for your cooperation. If you encounter any issues during the operation, please contact our customer service at any time.
+Speaker2: Okay, thank you.
+Speaker1: No problem, I hope our service can make you satisfied. Wish you a happy life, goodbye.
+Speaker2: Goodbye.

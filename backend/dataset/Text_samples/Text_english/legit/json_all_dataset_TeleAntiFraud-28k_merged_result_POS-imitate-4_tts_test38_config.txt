@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a waiter at the food square, do you remember that you booked a dinner for four people here before?
+Speaker2: Hey, remember, I reserved the weekend dinner.
+Speaker1: Yes, it's this Saturday at 7 pm. But today I'm calling to confirm, do you still need this reservation?
+Speaker2: We have a plan that doesn't change.
+Speaker1: Okay, I'll hold this spot for you. By the way, do you have any special dietary requirements, such as not eating spicy or needing children's meals?
+Speaker2: There's a little friend who needs children's food, nothing else is special.
+Speaker1: Okay, we'll prepare the children's meal. Also, we have a special seafood promotion activity this week, are you interested in learning more?
+Speaker2: What do you recommend for fresh seafood?
+Speaker1: We have fresh sea bass and clams, both are very popular dishes. You can choose based on your preference.
+Speaker2: Let's try sea bass, it sounds good.

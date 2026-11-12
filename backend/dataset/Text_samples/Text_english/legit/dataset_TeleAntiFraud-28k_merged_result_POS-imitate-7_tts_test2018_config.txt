@@ -1,0 +1,8 @@
+Speaker1: Hey, how are you, where are you now?
+Speaker2: Are you here at the location I sent you?
+Speaker1: Just a moment, I just arrived at the community door, you can go in first and wait for me a minute.
+Speaker2: Okay, I came in, hurry up and come over.
+Speaker1: Okay, I'll go over there. You go first, I'll call you from the door.
+Speaker2: Okay, I went in first, I'll see you later.
+Speaker1: Okay, see you later.
+Speaker2: Be careful on the road.

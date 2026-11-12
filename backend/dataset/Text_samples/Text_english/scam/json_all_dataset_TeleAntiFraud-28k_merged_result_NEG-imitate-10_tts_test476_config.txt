@@ -1,0 +1,10 @@
+Speaker1: Hello, this is small Li from JD customer service center, your order has some issues, please cooperate to handle them.
+Speaker2: What's the issue?
+Speaker1: We need to process the refund for your order that was lost during delivery.
+Speaker2: What should we do?
+Speaker1: To ensure your financial safety, we need you to provide the following bank card information so that we can directly refund your money onto your card.
+Speaker2: Okay, my bank card number is...
+Speaker1: Okay, I have recorded it down. To speed up the refund process, please click on this link to verify your identity.
+Speaker2: Okay, I'm going to click now.
+Speaker1: Thank you very much for your cooperation. We will process it as soon as possible. If there are any issues, please feel free to contact me anytime. My phone number is 13800138000.
+Speaker2: Okay, thank you.

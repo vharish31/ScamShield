@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Yes, who are you?
+Speaker1: Oh, hello, I am a customer service representative from the courier company, you have a package lost during transportation, we are ready to compensate you.
+Speaker2: Really? Thank you so much.
+Speaker1: No problem, for convenience in processing compensation, we need you to provide some information, including your bank card number, so that we can directly transfer the compensation money to your account.
+Speaker2: Okay, how can I provide?
+Speaker1: You can click on the links we send you and fill in the relevant information, and we will process it quickly.
+Speaker2: Okay, I'll take a look at the link later.
+Speaker1: Okay, the link will be sent to your phone later. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you happy life, bye.
+Speaker2: Goodbye.

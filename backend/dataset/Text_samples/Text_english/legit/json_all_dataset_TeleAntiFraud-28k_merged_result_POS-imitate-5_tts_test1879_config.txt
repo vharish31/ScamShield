@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I want to know what special dishes your restaurant has?
+Speaker2: Hello, Xiao Ming, I am server red, our special dishes here are gong bao chicken, shuǐ zhǔ yú and má lá huǒ xiāng, all very popular.
+Speaker1: How much does the palace chicken drumstick cost?
+Speaker2: The price of Gong Bao Chicken is 38 yuan per portion.
+Speaker1: Okay, I plan to bring my family out for dinner tonight. Do I need to make a reservation in advance?
+Speaker2: Of course, to ensure a seat, it's recommended to book in advance. How many seats would you like to book?
+Speaker1: We are five people who need a relatively quiet room.
+Speaker2: Okay, we have a quiet private room that can meet your needs. Would you be convenient to leave your contact information? This way we can make a record for you.
+Speaker1: Okay, my phone number is 13800000000.
+Speaker2: I have recorded it. We will reserve the room for you at six and a half tonight. We are looking forward to your arrival.

@@ -1,0 +1,11 @@
+Speaker1: Hello, I am a customer manager of commercial bank, have you considered capital turnover issue recently?
+Speaker2: Oh, I hadn't considered that, thank you.
+Speaker1: We have a low-interest loan product here with an interest rate of 2.5%, you can apply for a loan and ease your financial pressure.
+Speaker2: Is it really? How to apply?
+Speaker1: Yes, you need to download our loan app, register and fill in the relevant information, and you can quickly apply for it.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can scan the QR code I sent you or directly click on the link I sent you, very convenient.
+Speaker2: What information do I need to provide?
+Speaker1: You need to provide identity card, bank statement and income proof. We will review your data. After review is approved, you can get the loan.
+Speaker2: Okay, I'll give it a try. Thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you a successful application.

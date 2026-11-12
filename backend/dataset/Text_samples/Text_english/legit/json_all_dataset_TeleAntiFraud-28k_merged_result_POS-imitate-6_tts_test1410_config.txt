@@ -1,0 +1,18 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how can I help you?
+Speaker1: Do you have any backpacks for outdoor sports here?
+Speaker2: Yes, we have many outdoor sports backpacks here. What color and size do you want?
+Speaker1: I want a blue one, about the size to fit a notebook and laptop.
+Speaker2: Okay, we have several styles of blue notebook computer backpacks here. You can take a look at this one. Not only is the color attractive, but it's also very practical.
+Speaker1: How much does this one cost?
+Speaker2: This backpack originally cost 288 yuan, now it's on sale for 80% off, only 224 yuan.
+Speaker1: Can you make it cheaper?
+Speaker2: Are you one of our regular customers? If so, I can give you another twenty-yuan discount.
+Speaker1: I'm here for the first time, but my friend always recommends you guys here.
+Speaker2: Okay, based on your friend's recommendation, I'll give you this discount. How about 244 yuan?
+Speaker1: Okay, I'll take this one. Do you support online payment here?
+Speaker2: Of course, we support WeChat payment and Alipay. Which one do you prefer to use?
+Speaker1: How long after payment can I ship with Alipay?
+Speaker2: After payment is successful, we will arrange delivery within 24 hours, usually within 3-5 days.
+Speaker1: Okay, I'll wait now, thank you for your service.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Have a happy life! Bye!

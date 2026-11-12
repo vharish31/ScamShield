@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I just saw your takeout, can you ask me what time you start delivering food?
+Speaker2: Hello, we start our delivery service at 10 am in the morning and end at 9 pm in the evening, what time do you need?
+Speaker1: Great, I'll place an order now, how long will it take to deliver?
+Speaker2: Based on your location, it will take approximately 30 to 40 minutes. If there is a high traffic period, there may be a slight delay.
+Speaker1: Okay, I placed an order, could you guys hurry up?
+Speaker2: No problem, we will quickly process your order. Do you need help with anything else?
+Speaker1: No need, thank you, just these.
+Speaker2: Okay, enjoy your meal, feel free to contact us if you have any questions.
+Speaker1: Okay, thank you, bye.
+Speaker2: Goodbye.

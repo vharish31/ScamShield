@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm JD customer service representative Zhang, calling because we found an issue with your order and need your cooperation to handle it.
+Speaker2: What's the issue?
+Speaker1: We noticed that the address in your order may not be accurate, so we need you to confirm your address information to ensure your package arrives safely.
+Speaker2: Okay, you say, I confirm one.
+Speaker1: Okay, is your address Beijing City Chaoyang District Xicheng Road Xicheng Small Community?
+Speaker2: That's right, it's this address.
+Speaker1: Okay, confirm no mistake. Moreover, for your account safety, we need you to provide the following verification code, which has already been sent to your phone.
+Speaker2: Okay, I check, the verification code is 123456.
+Speaker1: Thank you for your cooperation. Your verification code has been successfully verified. For your account's safety, we recommend downloading our latest version app, which offers more discounts and services.
+Speaker2: Okay, I'll download.

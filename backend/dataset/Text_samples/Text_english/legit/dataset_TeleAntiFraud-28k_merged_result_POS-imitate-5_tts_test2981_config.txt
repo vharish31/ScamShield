@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, yesterday I ordered a cake at your store, can you confirm the delivery time today?
+Speaker2: Hello, Mr. Wang, I am Li, the waiter at the sweet shop, I received your order yesterday, and we will deliver it to your home at 3 pm today.
+Speaker1: Okay, please pay attention, my family has someone sleeping at noon, so be quiet during delivery.
+Speaker2: No problem, we will pay attention. Moreover, what flavor of strawberry cake did you order?
+Speaker1: Yes, that's strawberries. And the characters on the cake are based on the information I sent you before, right?
+Speaker2: Yes, the characters on the cake are ready according to the information you gave us, happy birthday to your friend!
+Speaker1: Thank you very much for your service, I hope your business thrives.
+Speaker2: Thank you very much for your support. If there are any problems with the cake, please contact us anytime. Happy birthday party to your friend!
+Speaker1: Okay, thank you again, goodbye.
+Speaker2: Goodbye, wish you all the best.

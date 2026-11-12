@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Zhao Shang Yin Hang, the loan application you submitted to our bank has been approved, now you need to cooperate and complete the final procedures.
+Speaker2: Oh, really? That's great, I recently need to convert cash.
+Speaker1: Yes, to ensure the safety of the funds, please download our official app first and complete the final confirmation through the app.
+Speaker2: Okay, I'll download it right away.
+Speaker1: After downloading, you can find a "Quick Loan" option in the app and click to enter, then follow the instructions.
+Speaker2: What information do I need to provide now that I understand?
+Speaker1: Please enter your bank card number, ID number and phone number. Then we will send a verification code to your phone, enter the verification code to complete identity verification.
+Speaker2: Okay, I'll go do it.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact our customer service at any time.
+Speaker2: Thank you for your help, I'll go operate now.

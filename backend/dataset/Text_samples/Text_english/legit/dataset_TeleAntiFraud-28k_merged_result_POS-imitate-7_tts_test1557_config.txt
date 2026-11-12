@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, hello, hello, I'm from the home service platform, want to confirm your cleaning service appointment
+Speaker1: Hey, hi, I remember I scheduled a cleaning service next week, is that right?
+Speaker2: Yes, your appointment is on Tuesday morning from 10 to 12 next week, right?
+Speaker1: Can you confirm what is included in the clean service package?
+Speaker2: Of course, our cleaning service includes daily cleaning for the family, such as sweeping, mopping, wiping windows, and organizing rooms. If you have any special requirements, please let us know in advance.
+Speaker1: Okay, if I add a window cleaning service, will the price increase?
+Speaker2: Window cleaning service is included, but if you need deep cleaning, like curtains cleaning, there might be extra charges.
+Speaker1: Understood, what else do I need to prepare?
+Speaker2: You don't need to prepare anything, our cleaners will bring their own cleaning tools and supplies, you just need to keep the door open.

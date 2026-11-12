@@ -1,0 +1,14 @@
+Speaker1: Hi, how are you? I want to reserve a table for tomorrow at noon.
+Speaker2: Hello, which restaurant did you book?
+Speaker1: That's your restaurant, that's the new French restaurant.
+Speaker2: Okay, what time is it tomorrow at noon?
+Speaker1: Four people.
+Speaker2: Okay, do four people need a spot by the window?
+Speaker1: If possible, it's best to lean against the window.
+Speaker2: Okay, can I arrange a window seat for you? Do you have any special dietary requirements?
+Speaker1: No specific requirements, just hope the food can be slightly clearer.
+Speaker2: Okay, we will pay special attention to the clear and mild flavor. Could you please confirm your name and contact information so we can confirm the reservation?
+Speaker1: I am Li Huai, my phone number is 1345678900.
+Speaker2: Okay, Mr. Li, your reservation was successful. Tomorrow at noon, four people, window seats, we will prepare in advance. If you need any help, please contact us anytime.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, hope you enjoy your meal, bye.

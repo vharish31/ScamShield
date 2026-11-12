@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a server from some restaurant, you reserved a seat for tonight at six o'clock, do you need a reminder?
+Speaker2: Okay, I remember, thank you for reminding me.
+Speaker1: No problem, we have prepared your previous order of beef steak here. Do you need to confirm?
+Speaker2: Mmm, the beef skewers were really delicious last time, let's do it the same way this time.
+Speaker1: Okay, let me confirm for you. By the way, we have recently introduced a new dessert, would you like to try it?
+Speaker2: Listen well, let's add a sweet point this time.
+Speaker1: Okay, I have recorded it for you. See you at six tonight, I hope you like our new desserts.
+Speaker2: Okay, thank you, see you later.
+Speaker1: No problem, see you tonight.
+Speaker2: Hey, be careful on the road.

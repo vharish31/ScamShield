@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, this is Liu's fruit store.
+Speaker2: Hello, how much does a kilogram of imported pineapple cost?
+Speaker1: Imported pineapples are currently twenty-five yuan per kilogram, very fresh, do you want to come some?
+Speaker2: Hey, do you guys have five kilograms of goods now?
+Speaker1: Okay, we just arrived at a batch, the quality is very good. When can you come pick it up?
+Speaker2: Can I go around four in the afternoon?
+Speaker1: No problem, someone will be here at four o'clock, just come directly.
+Speaker2: Okay, I'll go in the afternoon. Thank you.
+Speaker1: No problem, we still have other fruits, you can take a look when you arrive.
+Speaker2: Okay, thank you, see you later.
+Speaker1: Okay, see you later, be safe on the way.

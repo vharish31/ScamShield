@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Shenzhen Bank customer service center, I am customer service manager Li Huai, we noticed some unusual activity on your account, please confirm immediately.
+Speaker2: Hello, what issues do I have with my account?
+Speaker1: We found out that your account may have been involved in an illegal transaction, for the sake of your financial safety, we need you to cooperate with us for a brief investigation.
+Speaker2: What do I need to do?
+Speaker1: Please click on the link in the text message we sent you to log into your account and verify your identity, so we can ensure your account is safe.
+Speaker2: Okay, I'll check my messages right away.
+Speaker1: Thank you for your cooperation. If you have any questions, please feel free to call our customer service anytime, the phone number is already provided in the text message.
+Speaker2: I understand, thank you.
+Speaker1: No problem, your safety is our greatest responsibility. Please complete the verification as soon as possible, and if you have any questions, please contact us at any time.
+Speaker2: Okay, I will pay attention, thank you.

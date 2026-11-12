@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Hello, I am Lee Xiǎo, a credit officer at Dongbei Bank. We recently launched a loan product with very low interest rates. Would you be interested in learning more about it?
+Speaker2: Can I borrow some money? I'm a bit short right now, but I can understand a bit.
+Speaker1: Okay, this product's interest rate is as low as 2.9%, which is perfect for you now. All you need to do is fill out a simple application form, and we'll prepare the loan for you.
+Speaker2: How do you fill out this table?
+Speaker1: You can click this link, follow the instructions to fill it out, very convenient.
+Speaker2: Can I see the link? Let me try.
+Speaker1: Okay, this link is safe, you can click it without worries. If you have any other questions, you can directly add my WeChat and contact me anytime.
+Speaker2: Okay, let's add each other on WeChat.

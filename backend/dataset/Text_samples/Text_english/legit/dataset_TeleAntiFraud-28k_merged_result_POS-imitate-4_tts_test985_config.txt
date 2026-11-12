@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I'm at the seventh door waiting for you, are you here yet?
+Speaker1: I'm still on the road, you wait a minute, it'll probably take another ten minutes.
+Speaker2: Okay, I see you, hurry up and come over.
+Speaker1: Okay, I'll be there soon.
+Speaker2: You arrived directly call me, I here wait you.
+Speaker1: Okay, I know, call you when I arrive.
+Speaker2: Okay, pay attention to safety on the road.
+Speaker1: You're welcome, please be careful too.
+Speaker2: Okay, see you later.

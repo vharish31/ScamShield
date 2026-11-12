@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service manager of Shenzhen Bank. We can provide you with low interest credit loan service. Do you have any recent funding needs?
+Speaker2: Never mind, I have enough money now.
+Speaker1: That's great! But if you need anything in the future, you can consider our service. By the way, we have a special activity recently. Just download our app to enjoy more financial products and discounts.
+Speaker2: Download the app, it sounds good, how do you download it?
+Speaker1: It's very simple. Just click this link to download our official app directly.
+Speaker2: Okay, I'll try.
+Speaker1: Great, please download and register after downloading, then bind your bank card to enjoy our services immediately. If you encounter any issues, please contact me anytime.
+Speaker2: Okay, thank you for your recommendation.
+Speaker1: You're welcome! I hope you enjoy it. If you have any questions, feel free to ask anytime. Goodbye!
+Speaker2: Goodbye.

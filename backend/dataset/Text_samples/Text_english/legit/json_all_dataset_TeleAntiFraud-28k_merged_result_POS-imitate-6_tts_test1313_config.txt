@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I just bought a TV from your store, but the screen is a bit messed up, can you help me fix it?
+Speaker2: Hello, Xiao Ming, I am customer service Huang, can you tell me your order number? So I can check your purchase record.
+Speaker1: Okay, my order number is one two three four five six seven, please.
+Speaker2: I have found it. Your purchase is a 55-inch intelligent TV. What's the specific issue?
+Speaker1: Sometimes strange lines appear on the screen, especially when watching high-definition videos.
+Speaker2: Understood, this situation may be caused by a faulty signal line. Please try it, we will first arrange a technician to check it out, if it's indeed a quality issue, we will replace it with a new one.
+Speaker1: Great, thank you. What time can you come?
+Speaker2: Can you meet with us tomorrow morning between 9am and 11am?
+Speaker1: Sure, I'll be at home waiting. And how long will it take to get a new one if needed?
+Speaker2: If you confirm to replace your TV, usually we can prepare a new one for you within three working days after receiving your machine.

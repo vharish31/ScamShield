@@ -1,0 +1,10 @@
+Speaker1: Hello, do you sell electronic products in this store?
+Speaker2: Hello, what kind of electronic products are you interested in here?
+Speaker1: I recently wanted to buy a new phone, saw some new models online, but don't know how they are in reality.
+Speaker2: All the phones in our store are the latest styles, and their quality is guaranteed. You can come to the store and try them out yourself to feel the touch and functions.
+Speaker1: When is the best time for me to go over?
+Speaker2: Our store is open from nine in the morning to nine in the evening every day. You can come anytime during the day it's convenient for you.
+Speaker1: Can I go around three in the afternoon?
+Speaker2: Of course, at 3 o'clock you come, I will wait for you in the store.
+Speaker1: Okay, see you then. Thank you for your help.
+Speaker2: No problem, see you later, I hope you can find a satisfying phone here.

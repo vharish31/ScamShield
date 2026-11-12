@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm little Zhang. I reserved the weekend table at your place last time. Can you confirm it again?
+Speaker2: Okay, Xiao Zhang, I'll check. Is your reservation for 7 pm on Saturday night?
+Speaker1: Yes, yes, that's Saturday evening at seven o'clock, two people.
+Speaker2: Okay, I have confirmed it for you. Saturday evening at 7 pm, for two people, no problem.
+Speaker1: That's great, thank you. And what about you, do you have any recommendations for dishes?
+Speaker2: Our menu here has Kung Pao Chicken and Clear Steamed Fish, both very popular, you can try them.
+Speaker1: Let's order these two dishes when it sounds good.
+Speaker2: Okay, I will prepare in advance. Is there anything else you need help with?
+Speaker1: No more, thank you for your weekly service, see you this weekend.
+Speaker2: Have a nice weekend. Bye.

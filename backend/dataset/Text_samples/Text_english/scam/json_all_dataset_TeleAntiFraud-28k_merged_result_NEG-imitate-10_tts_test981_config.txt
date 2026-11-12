@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, currently working as a customer service representative at the lege purchase mall, you may have encountered some issues with the products you bought on our platform before, need to confirm with you.
+Speaker2: What problem?
+Speaker1: That's it, there's an exception with your order, it might be because of the system upgrade, but don't worry, we can handle it.
+Speaker2: How do you handle it?
+Speaker1: To ensure your rights, we need you to provide your bank card information and verification code during purchase, so we can verify your identity and then process your refund.
+Speaker2: Okay, what is your bank card information and verification code?
+Speaker1: The card number is the one used for payment, which is the card number on the card used for payment. The verification code is the six-digit number sent to your phone, which you tell us after receiving it, and we can start processing after that.
+Speaker2: I got it, it's 123456, is it okay?
+Speaker1: Okay, we have recorded your information. Just a moment, I'll handle it here. By the way, for convenience in future services, you can add my WeChat, feel free to find me if you have any questions.
+Speaker2: How much is WeChat?

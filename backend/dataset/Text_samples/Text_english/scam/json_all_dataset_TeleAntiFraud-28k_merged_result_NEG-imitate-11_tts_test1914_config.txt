@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service center, I am the customer service manager, Zhang Huang.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed some unusual activity on your account recently, to ensure the safety of your funds, we need you to cooperate and do a simple verification.
+Speaker2: Oh, so that's how it is, then what do I need to do?
+Speaker1: First, please provide us with your ID number and bank card number so we can verify the information.
+Speaker2: Okay, my ID number is 123456789012345678, and my bank card number is 6222020000000000000.
+Speaker1: Thank you, please download our official app and complete identity verification through it.
+Speaker2: Okay, what's the name of the app?
+Speaker1: The name of the app is 'Safe Payment', you can search and download it in the app store.
+Speaker2: Okay, I'll download it now, thanks for reminding me.

@@ -1,0 +1,10 @@
+Speaker1: Hello, is this Li Manager?
+Speaker2: Yes, I am.
+Speaker1: Hello, Li Manager, I am a customer service representative of SF Express, and this call is about the package you recently lost.
+Speaker2: Oh, really? I really have a package that I haven't received.
+Speaker1: Yes, we have confirmed that your package was accidentally lost during transportation. To compensate for your loss, we are ready to process a refund.
+Speaker2: That's great, I've been waiting for this package recently.
+Speaker1: We need you to provide a bank account information, so we can quickly transfer the refund to your account.
+Speaker2: Okay, here it is.
+Speaker1: Also, to verify your identity, we need you to provide a short message verification code. We will send it to you immediately.
+Speaker2: Okay, I will pay attention to checking my short messages.

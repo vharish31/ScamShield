@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what is this place?
+Speaker1: I am here for the 10 am interview, look for the front desk.
+Speaker2: Oh, you're here for an interview? Hold on, I'll notify you.
+Speaker1: Okay, thank you.
+Speaker2: No problem, you can wait in the front desk for a while, the interviewer will come soon.
+Speaker1: When do interviewers usually arrive?
+Speaker2: In general, it's ten o'clock on time. Today, it might be a few minutes late.
+Speaker1: How long will it take?
+Speaker2: Not too long, about ten minutes left or right. You take a rest first.

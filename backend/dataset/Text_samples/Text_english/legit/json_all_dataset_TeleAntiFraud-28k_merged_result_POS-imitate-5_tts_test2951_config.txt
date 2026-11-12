@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you recommend some weekend travel spots here?
+Speaker2: Of course. What kind of scenery do you like? Mountains and waters, or history and culture?
+Speaker1: Let's go for a hike in the mountains, the scenery is the best.
+Speaker2: I recommend you go to Qingyunshan, the scenery there is very beautiful, and the air is good.
+Speaker1: Qing yún shān tīng qǐ cǎi bù xiào, zěn qù né?
+Speaker2: You can take bus 1 from the city center and reach the destination, or take a taxi, which will take about 40 minutes.
+Speaker1: Are there many buses on line one?
+Speaker2: There are many classes, every ten minutes a new one starts, you don't have to worry about waiting for too long.
+Speaker1: Okay, thank you for your recommendation.
+Speaker2: No problem, wish you have fun.

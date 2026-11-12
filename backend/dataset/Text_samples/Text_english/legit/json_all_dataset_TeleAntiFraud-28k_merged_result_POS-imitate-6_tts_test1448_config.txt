@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask if there's any vacant room here?
+Speaker2: Hello, do you want what type of room?
+Speaker1: I want a standard room that can accommodate two people.
+Speaker2: Okay, there's space in the standard room, are you checking in today?
+Speaker1: Yes, we'll arrive around four in the afternoon.
+Speaker2: Okay, our move-in time here is two in the afternoon, but four is also fine, you can come directly to the front desk to handle it when you arrive.
+Speaker1: That's great, we're first-timers in this city, not very familiar, how do we get from the train station to here is quite convenient?
+Speaker2: From the train station, you can take the bus number four, which takes about forty minutes, or you can take a taxi, which takes about fifteen minutes, faster than taking the bus.
+Speaker1: Let's take a taxi, it's faster that way.
+Speaker2: Okay, just tell the driver the name of our hotel when you arrive, they all know it.
+Speaker1: Okay, thank you for your help. See you in the afternoon.
+Speaker2: No problem, see you in the afternoon, wish you a smooth journey.

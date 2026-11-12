@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Lee Ming, this is a new coffee shop here?
+Speaker2: Hello, yes, I am the employee of this store, our coffee shop just opened, what can I help you?
+Speaker1: Can you tell me about your business hours and do you have any special drinks?
+Speaker2: We are open from eight in the morning to ten at night, and we have a lot of special drinks, such as the signature iron tea, the mango ice cream, and the tea that is especially recommended this season, kumquat oolong tea.
+Speaker1: The sound is great, I like oolong tea with osmanthus flowers, do you have delivery service?
+Speaker2: Yes, we can order through various food delivery platforms and choose to have it delivered to our home or office.
+Speaker1: That's great, can I order a glass of wine around 7 or 8?
+Speaker2: Typically, it takes about 30 minutes from placing an order to delivery. The specific time may vary depending on the order volume.
+Speaker1: Okay, I'll place an order around seven in the evening and hope it arrives before eight o'clock.
+Speaker2: Okay, I will make sure to note it down clearly and ensure it is delivered on time. If there are any issues, please feel free to contact us anytime.

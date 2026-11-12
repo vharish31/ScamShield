@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: I'd like to inquire about your restaurant's reservation service.
+Speaker2: Of course, do you want to know our menu or reserve a seat?
+Speaker1: I mainly want to reserve a seat, I want to have dinner with my family on the weekend.
+Speaker2: Okay, our restaurant's weekend business hours are from 11 am to 9 pm. What time slot would you like to reserve?
+Speaker1: Is it around two in the afternoon? Do you have a place?
+Speaker2: Can you check for me... Okay, there are still seats at two in the afternoon. How many tables do you need to reserve?
+Speaker1: Four-person table
+Speaker2: Okay, I have reserved a table for four for you this weekend at two in the afternoon. Do you need any further assistance?
+Speaker1: No more, thank you for your help.
+Speaker2: You're welcome, hope you enjoy your meal, bye!

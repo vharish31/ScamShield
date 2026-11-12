@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the e-commerce platform. I see that you have an unused purchase points on your account, which will be cleared and zeroed out at midnight tonight.
+Speaker2: Oh, really? How did I not notice this score before?
+Speaker1: This points are the ones you accumulated through your consumption on our platform, which can be used to offset the purchase amount. You can check and redeem them as soon as you log in to your account and enter the points mall.
+Speaker2: How many points do I have?
+Speaker1: You have accumulated 26,800 points on your account, which can be redeemed for about 4,000 yuan in cash.
+Speaker2: Hmm, what can I exchange for?
+Speaker1: Yes, we have many high-quality products to choose from, such as electronic products and daily necessities. You can log in to your account now to see them.
+Speaker2: Okay, I'll take a look. Thank you for reminding me.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. I hope you can use points to exchange for products that satisfy you.
+Speaker2: I'll definitely see you again.

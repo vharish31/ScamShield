@@ -1,0 +1,8 @@
+Speaker1: Hey, how are you, where are you?
+Speaker2: I'm at the fourth door of the mall, where are you?
+Speaker1: I'm waiting for you at the exit of the parking lot. After you come out from the fourth door, just keep walking straight. You'll see a big sign, then turn right to find the exit of the parking lot.
+Speaker2: Okay, I know, roughly how long will it take me to get to your place?
+Speaker1: Let's walk for about three to five minutes, you're almost there, give me a call.
+Speaker2: Okay, I arrived. Wait for me there for a moment.
+Speaker1: Okay, be careful, I'll wait for you here.
+Speaker2: Okay, let's go.

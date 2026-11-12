@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, yes, who are you?
+Speaker1: Hi, I'm the investment manager at Huaxing, and we noticed that you've been looking for investment opportunities lately. Would you be interested in learning more about our high-yield investment projects?
+Speaker2: Hey, this one really interests me, do you guys have any good projects?
+Speaker1: Of course, we have a very good project that can guarantee you high returns, and the risk is very low. To ensure the safety of your funds, we recommend that you download our official app, which will make it easier for you to view investment projects and manage your assets.
+Speaker2: Is the app safe to download?
+Speaker1: Very safe, our app is certified by the country, you can download it with confidence. Just scan this QR code with your phone and you can download it directly.
+Speaker2: Can you try this QR code and see how it works for me?
+Speaker1: Okay, I'll send the QR code to your phone via text message right away, and you can download it directly after receiving it.
+Speaker2: Okay, I'll wait for a text message.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am Xiaoming, how are you recently?
+Speaker2: Good, you? What have you been up to lately?
+Speaker1: Hello, I've been busy preparing a new project lately. How about you, have you been up to anything new recently?
+Speaker2: Nothing special, just work daily. Oh, do you have any free time this weekend? Want to go or not climb a mountain?
+Speaker1: Sounds good, I'm free this weekend, let's set a time.
+Speaker2: Sounds good, how about we meet at the foot of the mountain at 9am on Saturday morning?
+Speaker1: Okay, that's it. See you on Saturday!
+Speaker2: Okay, see you on Saturday, be careful on the road.

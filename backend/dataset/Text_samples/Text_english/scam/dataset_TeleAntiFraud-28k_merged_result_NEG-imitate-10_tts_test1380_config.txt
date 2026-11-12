@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Dongjing Bank, we recently introduced a loan product for villagers with low interest rates and fast approval, do you have any funding needs?
+Speaker2: Hmm, I don't have any plans for that yet, thank you.
+Speaker1: Okay, add my WeChat now, so we can contact each other directly in the future when needed, it's more convenient.
+Speaker2: I won't add WeChat yet, I'm still quite cautious.
+Speaker1: Understand, you can first scan the QR code to understand the details of our loan project, so you don't waste a lot of time.
+Speaker2: I haven't scanned the QR code, if there's really a need, I'll contact the bank myself.
+Speaker1: That's fine too, I'll send you a link, you can check it out when you have some time, the link has detailed info and application process.
+Speaker2: Thanks for your recommendation, but I don't need it.
+Speaker1: Okay, let me recommend another one. We have a special loan app that you can download and register to enjoy more discounts, and the operation is very simple.
+Speaker2: Thank you for your recommendation, but I'm still a bit worried about downloading this kind of app, so I won't consider it.

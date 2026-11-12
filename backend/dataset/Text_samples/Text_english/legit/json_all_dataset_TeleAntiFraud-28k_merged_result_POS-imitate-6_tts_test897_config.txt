@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, are you little Li?
+Speaker1: Yes, I am, who are you?
+Speaker2: I'm old king, the last time we ate dinner together.
+Speaker1: Hey, old Wang, how are you? How are you? What's up?
+Speaker2: Can you give me some advice on buying a new phone? You know a lot about electronic products.
+Speaker1: Of course, what specific requirements do you have? For example, budget, brand, or specific features?
+Speaker2: I mainly use it for taking photos and watching videos, with a budget of around three thousand.
+Speaker1: You can consider this new phone, the camera quality is great, and the battery life is not bad, it costs around three thousand and you can get a good configuration for that price.
+Speaker2: Can you recommend a specific model?
+Speaker1: You can check out the new products from XX brand, model is XX, the price is very high, many people are using it.
+Speaker2: Okay, I'll check it out, thank you, old friend.
+Speaker1: No problem, feel free to contact me if you have other questions, wish you get a satisfactory phone.

@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm Li Xiao, this is Huaxia Bank.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we found out you're a high-quality user on our platform, so we can offer you a 30,000 RMB loan without collateral or guarantee.
+Speaker2: Do I really need a deposit?
+Speaker1: Okay, our activity this time is to help users in need. Just fill out some basic information and our customer manager will contact you.
+Speaker2: How do I apply?
+Speaker1: It's simple, just click this link and fill out the relevant information.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact me anytime.
+Speaker2: Thank you, I will pay attention.

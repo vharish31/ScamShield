@@ -1,0 +1,10 @@
+Speaker1: Hey, can you help me look up the bus schedule to East City tomorrow morning?
+Speaker2: Hey, how are you? Can you check the bus schedule for tomorrow morning to East City? Where are you departing from?
+Speaker1: I am starting from the west station.
+Speaker2: Okay, from West Station to East City District, you can take bus 301 or 302, and there is a bus every ten minutes from 6 am to 7 am.
+Speaker1: Okay, I'll leave at 6:30 from home, should be fine?
+Speaker2: You should arrive at the West Station North Exit of the Public Transportation Station at 6:30 from your home, and then just walk straight over there after you get there.
+Speaker1: That's great, thank you.
+Speaker2: No problem, feel free to ask me if you have any other questions. Be safe on the road.
+Speaker1: Okay, thank you, bye!
+Speaker2: Goodbye, wish you all the best.

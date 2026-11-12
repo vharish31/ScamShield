@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I found the manager of the store, I came to eat dinner yesterday and found a problem with the bill.
+Speaker2: Okay, please wait a moment, I'll call the manager for you.
+Speaker1: Okay, thank you.
+Speaker2: Manager, there is a customer looking for you.
+Speaker1: Manager, hello, I am the customer who ate dinner yesterday, there is a dish on the bill that I did not order.
+Speaker2: Hello, can you tell me which specific dish is it?
+Speaker1: That sweet and sour pork ribs, I remember I didn't order that dish.
+Speaker2: Okay, I'll check the record of yesterday's bill.
+Speaker1: Okay, can I help you?
+Speaker2: Found it, indeed there is no this dish ordered, very sorry, we will handle it for you.

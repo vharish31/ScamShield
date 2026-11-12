@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Hi, I'm little Li. I heard your beef noodle is quite famous. Can you tell me about the price and portion size?
+Speaker2: Hello, little Li. Our beef noodle portion is quite sufficient, priced at 20 yuan per bowl. The beef is select, and the broth is particularly spicy.
+Speaker1: What is your store's business hours?
+Speaker2: We work from 7am to 9pm during weekdays and extend to 10pm on weekends.
+Speaker1: Okay, I want to spend the weekend trying new things. Also, do you have delivery service?
+Speaker2: Yes, we have cooperation with several food delivery platforms, so you can directly order on the platform.
+Speaker1: That's great, I might be busy this weekend, so I'll just order takeout.
+Speaker2: Okay, when you place your order, please note it down, we can prioritize it.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Zhang Xiao Jie?
+Speaker2: Hey, I am.
+Speaker1: Hello, I am Li, the manager of the loan department at Commercial Bank. Recently, we have launched a new low-interest loan product with an interest rate of only two cents. No collateral is required, and the approval process is fast. Do you have any recent funding needs?
+Speaker2: Oh, really? I happen to need some cash flow right now.
+Speaker1: Great, this product is perfect for you. To simplify the process, you can first download our official app and apply for a loan through the app.
+Speaker2: Okay, can I download it?
+Speaker1: Of course, after downloading, please use your phone number to register and fill out the basic information, submit the loan application. If there are any issues, feel free to contact me anytime.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Hello, after downloading, if you have any questions or need further assistance, please feel free to call me anytime. My phone number is 13800138000. I hope our cooperation is pleasant.
+Speaker2: Okay, thank you for your help.

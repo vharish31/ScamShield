@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you?
+Speaker2: Hello, I want to know more about your return policy.
+Speaker1: Okay, our return policy is as follows: if you find a quality issue with the product you bought within seven days, you can apply for a no-reason return, otherwise, you need to pay for the shipping fees.
+Speaker2: "Uh, is the phone case I bought suitable? Can I return it if not?"
+Speaker1: If the phone case has no quality issues and does not affect secondary sales, we can accept returns, but you will have to pay shipping costs.
+Speaker2: What is the process for returning goods?
+Speaker1: You can submit a return application on our official website, fill in the relevant information, and we will provide you with a return address. You can send it back by courier.
+Speaker2: Understood, do I need to send the invoice and packaging together?
+Speaker1: Yes, to ensure a smooth return, please send back the invoice, packaging, and all accessories together.
+Speaker2: Okay, thank you for your answer. I will operate according to the process.
+Speaker1: You're welcome. If you have any questions, feel free to contact us anytime. Have a nice day!

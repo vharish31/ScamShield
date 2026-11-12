@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little king, want to consult your delivery service.
+Speaker2: Hello, I am customer service Li, what can I help you with?
+Speaker1: What is the delivery range and time for your takeout?
+Speaker2: Our current delivery range covers the city center area, and the delivery time is usually from thirty minutes after ordering to one hour, with specifics depending on real-time order volume.
+Speaker1: If I'm on the edge of the central district, can I still deliver?
+Speaker2: Of course, as long as it's within our delivery range, we'll do our best to serve you.
+Speaker1: Okay, I want to order a beef stir-fry, do you have it?
+Speaker2: Yes, our beef stir-fry is very popular. Do you need to order now?
+Speaker1: Yes, I need a beef stir-fry and a sweet and sour pork ribs.
+Speaker2: Okay, your order has been recorded. It's estimated to arrive in forty minutes. Do you need any further assistance?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, hope you enjoy your meal, bye.

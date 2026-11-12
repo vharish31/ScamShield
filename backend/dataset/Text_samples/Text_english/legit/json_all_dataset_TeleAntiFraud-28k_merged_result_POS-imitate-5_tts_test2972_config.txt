@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: I said goodbye last night, and left the key today.
+Speaker2: Okay, where are you?
+Speaker1: I'm at the community door, saw your store was empty, key is with me.
+Speaker2: Please leave the door open, I'll come to get it later.
+Speaker1: Okay, I put it on the small table by the door.
+Speaker2: Okay, thank you.
+Speaker1: Did the customer service help you with it yesterday?
+Speaker2: I haven't processed it yet, I'll help you process it later.
+Speaker1: Okay, now I can relax.
+Speaker2: No problem, you can relax.

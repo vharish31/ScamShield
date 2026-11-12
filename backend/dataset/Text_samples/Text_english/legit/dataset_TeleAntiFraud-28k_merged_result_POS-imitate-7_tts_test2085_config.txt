@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm Zhang Ming, looking for Li Huai.
+Speaker2: Hello, Zhang Ming, I am Li Huai. What's up?
+Speaker1: Hey, I recently heard about a project at your company and wanted to know more.
+Speaker2: Yes, we have a new project. Which aspect are you interested in?
+Speaker1: I want to know more about the specific content and participation methods of the project.
+Speaker2: This project is mainly about the development of smart homes, you can participate as a technical advisor.
+Speaker1: How about the compensation?
+Speaker2: Compensation is usually based on your contributions and the project's progress, with a basic monthly salary plus a project bonus.
+Speaker1: What materials do I need to prepare?
+Speaker2: You need to prepare a resume and some of your previous project case examples.
+Speaker1: Okay, I'll prepare a bit. When can we have a detailed chat?
+Speaker2: Can you come over at 3 pm on Friday this week?

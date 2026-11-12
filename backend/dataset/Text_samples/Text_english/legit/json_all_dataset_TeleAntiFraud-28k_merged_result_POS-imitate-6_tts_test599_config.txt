@@ -1,0 +1,12 @@
+Speaker1: Hello, I am Xiao Li, I am on the Meituan Waimai customer service side.
+Speaker2: Hey, how are you?
+Speaker1: Can you confirm your address and phone number for the order of spicy hot pot you placed earlier?
+Speaker2: Yeah, the address and phone number are correct.
+Speaker1: Okay, we'll quickly deliver it to you. It should take about 30 minutes.
+Speaker2: Okay, 30 minutes is fine.
+Speaker1: Additionally, if you have any urgent or special requirements, please let me know anytime.
+Speaker2: No problem, thank you, everything is fine following the rules.
+Speaker1: Okay, if you have any other issues later, you can contact our customer service anytime.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, hope you enjoy your meal, bye.
+Speaker2: Goodbye

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help with?
+Speaker1: Have you got any recommendations for a new phone?
+Speaker2: Of course, we have several new phones here with high value for money, what do you mainly use your phone for?
+Speaker1: Mainly watch videos, play games, occasionally handle work-related matters.
+Speaker2: I recommend this new smartphone to you. It has a long battery life, good screen display, and fast processing speed, making it perfect for your needs.
+Speaker1: How much does this phone cost?
+Speaker2: This phone is priced at 3800 yuan, there's a discount promotion now, you can get a free blue tooth headset.
+Speaker1: That sounds reasonable, I'll think about it. Do you support installment payments here?
+Speaker2: We support it. We provide multiple installment payment options, which you can choose the most suitable plan according to your needs.
+Speaker1: Okay, thank you for your recommendation. I will consider it.
+Speaker2: You're welcome, feel free to consult anytime if you have any questions, wish you a happy day.

@@ -1,0 +1,15 @@
+Speaker1: Hey, how are you? I saw your job postings online, are you still hiring?
+Speaker2: Hello, we are currently recruiting customer service representatives, but only females are being hired.
+Speaker1: What are the main responsibilities of customer service representatives?
+Speaker2: The main thing is to answer customer calls, handle some customer inquiries and complaints.
+Speaker1: What is the work time?
+Speaker2: Work hours are from 9 am to 5 pm, with one day off per week.
+Speaker1: How much is the salary?
+Speaker2: The basic salary is 2400 yuan per month.
+Speaker1: Is there a five-insurance-one-golden plan?
+Speaker2: Currently there is no five-insurance-one-golden, but we will gradually increase benefits based on the company's development situation.
+Speaker1: Understood, thank you. What materials do I need to prepare?
+Speaker2: You need to prepare a personal resume, a copy of your identity card, and a recent photo ID.
+Speaker1: Okay, thank you for your patience in answering, I will prepare the materials and submit them quickly.
+Speaker2: You're welcome, we're looking forward to your joining, goodbye.
+Speaker1: Goodbye.

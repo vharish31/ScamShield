@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service center of Tian An Bank, I am the customer service manager Zhang, we recently introduced a new financial service, specifically for high-quality customers, do you know if you are interested in learning more?
+Speaker2: Oh, wealth management service?
+Speaker1: Yes, this service can bring you higher returns, and the risk is very low, many of our customers have already obtained good returns through this service.
+Speaker2: What do I need to do to make it sound good?
+Speaker1: It's very simple. Just click on the link I send you, download our official app, register and complete the real name authentication, and you can start enjoying this service.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the link right away. Please pay attention to check it out. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish your investment to be successful.
+Speaker2: Thank you, goodbye.

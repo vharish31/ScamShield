@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm a delivery guy for the food platform, your food is here, but I noticed that your order seems to be missing chopsticks and utensils, do you have any?
+Speaker2: No, I have nothing here, it should be you guys who missed it.
+Speaker1: Oh, I'm so sorry, it's possible I overlooked it when packing. I'll send you a new set right away, can you wait a moment?
+Speaker2: I'm a bit urgent on this side, I have things to do tonight, it's possible I won't be able to wait for a long time.
+Speaker1: So, I'll call a bike messenger to send it over to you right away. It should take about twenty minutes, give or take. Are you okay with that?
+Speaker2: Okay, I'll wait for you here.
+Speaker1: Okay, okay. Thank you very much for your understanding. If you have any questions, please contact me anytime. I will handle it quickly.
+Speaker2: Okay, thank you.

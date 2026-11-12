@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I'm new here. Can you confirm my address for me?
+Speaker1: Of course, where are you in the community?
+Speaker2: I am in the sunshine apartment, 503 room.
+Speaker1: Okay, I know, where are you from?
+Speaker2: I'm from Beijing, the environment here is good, I like it a lot.
+Speaker1: Yes, the environment here is really good, the facilities around are also very complete.
+Speaker2: That's great, I plan to go to the park nearby on the weekend and walk around, do you know how to walk?
+Speaker1: Know, you go left at the door, walk to the first crossroad right, straight walk five hundred meters, arrive.
+Speaker2: Okay, thank you for your help, see you this weekend!
+Speaker1: No problem, see you this weekend!

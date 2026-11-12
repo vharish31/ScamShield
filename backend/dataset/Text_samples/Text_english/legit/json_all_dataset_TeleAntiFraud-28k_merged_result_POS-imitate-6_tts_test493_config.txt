@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I ordered an outside delivery from your store, why haven't you sent it yet?
+Speaker2: Hello, I'll check your order. Is it being delivered to Happiness Village?
+Speaker1: Yes, it's a happy community, I ordered beef stir-fry.
+Speaker2: Okay, I found it. Your order is ready. It will take approximately fifteen minutes.
+Speaker1: Will it arrive on time? I have a meeting later.
+Speaker2: We'll do our best to deliver on time, and if there are any issues, we'll contact you promptly.
+Speaker1: Okay, thank you, then I'll wait a while before going downstairs to get it.
+Speaker2: No problem, please contact us if you need further assistance.
+Speaker1: Okay, thank you.
+Speaker2: Okay, wish you a happy day.

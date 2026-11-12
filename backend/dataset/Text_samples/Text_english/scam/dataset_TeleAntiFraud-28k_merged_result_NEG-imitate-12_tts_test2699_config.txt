@@ -1,0 +1,13 @@
+Speaker2: Hello, this is the customer service of T-mall, your order has new changes, can you hear it for a moment?
+Speaker1: What change?
+Speaker2: Dear customer, due to system upgrade, your order requires you to reconfirm information. Please click on this link to complete the operation.
+Speaker1: Is the link safe?
+Speaker2: Very safe, this is our official link, you can trust it.
+Speaker1: Okay, I'll take a look.
+Speaker2: Thank you for your cooperation. If you have any questions, feel free to contact me anytime.
+Speaker1: What's wrong with the link not opening?
+Speaker2: It might be an internet issue. You can try downloading our official app for easier operation.
+Speaker1: Where can I download the app?
+Speaker2: You can search for "t路商城" in the app store and download our official app.
+Speaker1: Okay, I'll try.
+Speaker2: Okay, if you have any questions, feel free to contact me anytime. Thank you for your support. Bye.

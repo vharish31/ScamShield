@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from the courier company. Your package has arrived at the nearby delivery station.
+Speaker2: Oh, really? I didn't receive the text message notification.
+Speaker1: It might be that your phone is set to block, or there's network delay. You can call our customer service now and manually query.
+Speaker2: Okay, what information do I need to provide?
+Speaker1: Please provide your phone number and the name of the recipient or the order number.
+Speaker2: What should I do if I forget the order number?
+Speaker1: No relationship, just provide your phone number, we can find related package info through your phone number.
+Speaker2: I'll check it out right now, thanks for reminding me.
+Speaker1: No problem, please feel free to contact us anytime, wish you a happy life.
+Speaker2: Okay, bye.

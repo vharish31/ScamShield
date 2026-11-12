@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I just saw a phone on your website, want to ask a few questions.
+Speaker2: Hello, little Zhang, I am customer service king, very happy to serve you. What kind of phone do you like?
+Speaker1: That's the blue E6 model.
+Speaker2: Okay, E6 blue color, we currently have in stock. What information are you looking for about this phone?
+Speaker1: I want to know its price, specific configuration, and how long the warranty is.
+Speaker2: The blue color version costs 3,200 yuan, the configuration includes a 6.5-inch full-screen, a 4,000mAh battery, an eight-core processor, and a 6+128GB memory combination. The warranty period is 12 months.
+Speaker1: If I buy it, what kind of after-sales service can you provide?
+Speaker2: Of course, we provide a 7-day no-questions-asked return policy, any quality issues can be freely exchanged within 15 days, nationwide insurance, you can buy with peace of mind.
+Speaker1: Okay, thank you for your detailed answer. I'll think about it before making a decision.
+Speaker2: You're welcome. If you have any questions, please feel free to consult anytime. We hope you have a pleasant shopping experience. Goodbye.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I'm Little King, how are you lately?
+Speaker2: Good, you? What have you been up to lately?
+Speaker1: I've been busy preparing a project lately. What have you been up to lately?
+Speaker2: I recently moved to a new house and am currently renovating, it's quite tiring.
+Speaker1: Wow, moving to a new house! Congratulations congratulations! How's the renovation going?
+Speaker2: Thanks! Alright, it's just a little inconvenient. Do you have time to come play sometime?
+Speaker1: Of course I'll come over and take a look once you're done decorating.
+Speaker2: Okay, I'll contact you later. Did you eat dinner last night?
+Speaker1: Not yet, I'm planning to eat. You?
+Speaker2: Shall we go out and eat something together since I haven't eaten either?

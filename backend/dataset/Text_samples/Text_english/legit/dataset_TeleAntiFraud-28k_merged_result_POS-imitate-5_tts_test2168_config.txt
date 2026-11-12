@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm little Li, can you find little Wang, is he there?
+Speaker2: Oh, little Li, little Wang is there, he just went out, he'll be back in a while.
+Speaker1: Can I wait for him for a while? How long do you think he'll be back?
+Speaker2: He should be back soon. He went to a convenience store nearby to buy some stuff and should be back in about ten minutes.
+Speaker1: Okay, I'll wait for him here first.
+Speaker2: Okay, you sit first, I let him come back to give you a call.
+Speaker1: Thank you, please.
+Speaker2: No problem, you sit down and wait a moment, little king should be here soon.

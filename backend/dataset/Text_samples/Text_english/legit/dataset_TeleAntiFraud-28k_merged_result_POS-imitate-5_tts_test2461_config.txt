@@ -1,0 +1,11 @@
+Speaker2: Who
+Speaker1: Hello, I am Li, the waiter at the Happy Restaurant. I saw you dining at our restaurant two days ago. We would like to know your satisfaction with our service and food. If possible, can you spare me a few minutes?
+Speaker2: Is your service and food good?
+Speaker1: Thank you for your cooperation. First, are you satisfied with our service?
+Speaker2: The waiter's attitude is good, and he is punctual.
+Speaker1: That's great, thank you for your approval. Are you satisfied with our restaurant's menu items?
+Speaker2: The taste of the pork ribs is still acceptable, but it's a bit too sweet.
+Speaker1: Thank you for your feedback. We will convey your opinions to our chef to make better flavor adjustments. Are there any other areas that need improvement?
+Speaker2: It's gone, overall it's still okay.
+Speaker1: Thank you very much, wish you happy life, welcome to come again.
+Speaker2: Okay, bye.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: How much is the starting salary for a waiter here?
+Speaker2: Hmm, looking at it, it's roughly around three thousand seven hundred.
+Speaker1: Are there any other benefits?
+Speaker2: Yes, we provide free work meals, staff housing, and bonuses for good performance.
+Speaker1: What do I need to prepare for an interview?
+Speaker2: Bring your ID and resume, we'll have a simple interview.
+Speaker1: Okay, thank you.
+Speaker2: No problem, just come directly to the front desk when you arrive.

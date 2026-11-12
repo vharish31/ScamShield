@@ -1,0 +1,12 @@
+Speaker1: Hello, are you the city flower shop here?
+Speaker2: Hello, yes, this is a city flower shop, can I help you with anything?
+Speaker1: I want to order a birthday flower basket to send to a friend, do you have any recommendations for flower baskets?
+Speaker2: Of course, we have several different types of flower pots here, such as rose flower pots, lily flower pots, and mixed flower pots. What color or style does your friend prefer?
+Speaker1: What do you recommend for a friend who likes clean and fresh colors, but not too bright?
+Speaker2: We have a white and pale pink basket with a clean and fresh look, which is very suitable for sending people. Inside there are white roses, pale pink carnations and some green plants, which are very beautiful.
+Speaker1: Can I order this flower basket? What's the delivery time?
+Speaker2: Of course, the price of this flower basket is two hundred yuan. As for delivery, we can deliver it to you at the time you specify, for example, on your friend's birthday in the morning.
+Speaker1: Okay, I'll book this basket of flowers, my friend's address is Yangguang Xiǎozhuāng Sān hào lóu Yī dān yuè. Can you guarantee timely delivery?
+Speaker2: Okay, we will ensure that it arrives at the specified time. Please provide a contact phone number so we can confirm.
+Speaker1: Okay, the contact phone number is 13800138000. Thank you for your service.
+Speaker2: No problem, thank you for your reservation, we will deliver on time. If you have any issues, please contact us. Happy birthday to your friend!

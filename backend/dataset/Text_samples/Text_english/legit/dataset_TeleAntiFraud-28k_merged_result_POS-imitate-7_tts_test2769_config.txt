@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, can I make a haircut appointment here?
+Speaker2: Hi, how are you? Sure, we can make a reservation here, what time slot do you want to reserve?
+Speaker1: Can I be there on Saturday at 3 PM next week?
+Speaker2: Saturday afternoon at three o'clock is fine, we have space here at this time.
+Speaker1: How long do I need to make a reservation?
+Speaker2: Generally speaking, getting a haircut takes about an hour, if you need additional services like washing your head or styling, it might take a bit longer.
+Speaker1: I'll book an hour, and if I need more time, I'll check the situation.
+Speaker2: Okay, I'll schedule an appointment for you on Saturday afternoon at 3 PM for an hour. Please arrive ten minutes early to make it convenient for us to arrange.
+Speaker1: Okay, thank you, I will arrive on time.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy life!

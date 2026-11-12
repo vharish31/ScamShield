@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I bought an electric kettle at your store, but it seems to have some problems. Can you take a look?
+Speaker2: Of course, can you bring the store over here?
+Speaker1: Can I send it back to be fixed? It's inconvenient for me to come over here.
+Speaker2: Sure, you can send it back, we have free repair service here.
+Speaker1: What's the best way to send it to you guys?
+Speaker2: You can first apply for a repair ticket on our website customer service center, then send it to the address above.
+Speaker1: What information is needed when applying for a repair request?
+Speaker2: Please provide your order number, purchase date, product model, and specific fault description.
+Speaker1: Okay, I understand now, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, feel free to consult anytime.

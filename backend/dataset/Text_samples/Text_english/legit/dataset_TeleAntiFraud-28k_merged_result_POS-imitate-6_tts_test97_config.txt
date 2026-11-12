@@ -1,0 +1,10 @@
+Speaker1: Hello, can you help me find a place?
+Speaker2: Of course, where do you want to go?
+Speaker1: I want to go to that new coffee shop that's near the art center.
+Speaker2: Oh, I know that place. You start walking from here, turn left at the second crossroad, and walk five hundred meters to get there.
+Speaker1: Okay, is transportation convenient there? Is there a bus station?
+Speaker2: Yes, there's a bus station about three hundred meters to the right of here, you can take the bus number 10 or 15, and get off at the art center station.
+Speaker1: Thanks for your help, I'll be there in a bit.
+Speaker2: No problem, if there's anything unclear, feel free to ask me anytime.
+Speaker1: Okay, thank you again, goodbye.
+Speaker2: Goodbye, be careful on the road.

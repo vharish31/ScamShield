@@ -1,0 +1,14 @@
+Speaker2: Hello, how are you?
+Speaker1: Is the white c260 still in the store?
+Speaker2: Yes, still there.
+Speaker1: Is the price the same as what's online?
+Speaker2: Yes, the prices online are the same as in-store prices.
+Speaker1: Can I add a WeChat, let's take a look at the car first?
+Speaker2: Is your WeChat account linked to your phone number?
+Speaker1: Yes, that's this number.
+Speaker2: Okay, I'll add you.
+Speaker1: Hey, I haven't seen the add friend request yet.
+Speaker2: There might be a delay on the network, please wait for a moment.
+Speaker1: Ah, I see, it has passed.
+Speaker2: Okay, what questions can be directly chatted on WeChat?
+Speaker1: Okay, thank you.

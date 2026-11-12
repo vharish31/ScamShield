@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the e-commerce platform. Your accumulated shopping points on your account will be cleared at midnight tonight, and you haven't used these points to exchange products yet.
+Speaker2: Oh, points? I didn't notice. What can these points be exchanged for?
+Speaker1: These points can be used to deduct cash, buy various products on the platform, such as electronic products and home appliances, at a great discount.
+Speaker2: Can I quickly check my points?
+Speaker1: You have accumulated 26,800 points on your account, which is equivalent to 4,000 yuan of shopping budget. You cannot exchange these points before 12 am tonight, and they will become invalid after that.
+Speaker2: Oh no, I better hurry up and take a look. I haven't seen the text message you guys sent yet.
+Speaker1: Okay, quickly retrieve your messages, click on the link to enter our mall, select the products you're interested in.
+Speaker2: Okay, thank you for your reminder. I'll go take a look.
+Speaker1: No problem, if you have any issues during the exchange process, please feel free to contact our customer service at any time. Have a happy shopping!
+Speaker2: Okay, thank you. Bye!

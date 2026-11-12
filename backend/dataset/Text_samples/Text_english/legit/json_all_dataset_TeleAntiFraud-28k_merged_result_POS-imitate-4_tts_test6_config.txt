@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm Zhang, the customer service representative from the point store. We can see that you have a lot of points in your account.
+Speaker2: Hey, how are you? What's up?
+Speaker1: Your points are about to expire, would you like a reminder to use them soon?
+Speaker2: Really? I don't know anything about this.
+Speaker1: Yes, your points can be used to exchange many practical products.
+Speaker2: What can I swap for all of them?
+Speaker1: For example, everyday items, electronic products, and even travel packages.
+Speaker2: Listen well, how to change?
+Speaker1: You can directly exchange products on our website using your points after logging in and selecting your desired items.
+Speaker2: Okay, I'll check it out later. Thank you for reminding me!
+Speaker1: No problem, feel free to contact me anytime for other issues.

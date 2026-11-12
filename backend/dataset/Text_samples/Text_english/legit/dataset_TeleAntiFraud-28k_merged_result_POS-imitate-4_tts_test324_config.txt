@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you introduce me to the seafood set menu at your restaurant?
+Speaker2: Of course, our seafood set meal includes fish, shrimp, crab, and a special salad and soup, which are very suitable for customers who like seafood.
+Speaker1: How much does it cost to sound good?
+Speaker2: The price of seafood set meal is 298 yuan, now there's a discount activity, you can enjoy 90% off.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: To ensure a great dining experience, we recommend that you make a reservation in advance, so we can reserve a spot for you.
+Speaker1: Okay, can I make a reservation for Saturday evening at 7 o'clock?
+Speaker2: You're welcome! I've already reserved a spot for you. See you later!

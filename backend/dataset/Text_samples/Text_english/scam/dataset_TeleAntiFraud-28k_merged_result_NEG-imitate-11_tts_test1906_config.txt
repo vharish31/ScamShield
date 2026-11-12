@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, it's your old friend, Zhang, I'm doing a financial project lately and the returns are quite impressive, are you interested in learning more about it?
+Speaker2: What exactly is the financial project?
+Speaker1: Our project mainly invests in some emerging tech companies with high return rates and low risks. All you need to do is download our app, register an account, and you can start investing.
+Speaker2: Download the app? How do you download it?
+Speaker1: Just click on this link to download our official app directly. I'll send it to your phone later.
+Speaker2: Okay, send it over.
+Speaker1: Okay, just a moment, I'll send it to you now. After you download it, remember to use your phone number to register, and feel free to contact me if you have any issues.
+Speaker2: Thank you, I'll download and check it later.

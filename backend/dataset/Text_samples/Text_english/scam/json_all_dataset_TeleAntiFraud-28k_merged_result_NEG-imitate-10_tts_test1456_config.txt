@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. Your recent purchase records on our platform show an anomaly. It's possible that the merchant made an error. We need to process a refund for your order. Can you handle it?
+Speaker2: Oh, really? Then what should I do?
+Speaker1: Okay, can you provide me with your bank card number and verification code so we can process the refund? Additionally, you can click on the link I send you, which has detailed refund process information.
+Speaker2: Okay, I'll wait for the link. I'm sending you my bank card number and verification code now.
+Speaker1: Okay, I'll handle it quickly on this end. Just click the link and follow the instructions, usually a 24-hour refund will be in your account.
+Speaker2: Okay, thank you for your help. I'll go operate later.
+Speaker1: No problem, feel free to contact me anytime during the operation if you encounter any issues. My WeChat is 123456789, just add me for easy communication in the future.
+Speaker2: Okay, I'll add your WeChat, thank you.
+Speaker1: Okay, add me on WeChat and feel free to ask me any questions directly, I'll get back to you as soon as possible.
+Speaker2: Okay, I understand, thank you.

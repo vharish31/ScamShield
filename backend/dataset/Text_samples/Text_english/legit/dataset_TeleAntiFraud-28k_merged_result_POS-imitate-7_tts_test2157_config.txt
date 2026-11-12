@@ -1,0 +1,10 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, I'm good, you?
+Speaker1: How have you been lately?
+Speaker2: Busy, work a bit much. What new fresh thing you have recently?
+Speaker1: Hello, I've just moved to a new place and am getting used to the new environment.
+Speaker2: Hey, how's the new house? Did you decorate it?
+Speaker1: The renovation is done, but it's still in the finishing touches stage. You have time to come take a look.
+Speaker2: I'll definitely go to your new home once it's decorated.
+Speaker1: That's great, I'll invite you to dinner later.
+Speaker2: Thank you, I also look forward to it.

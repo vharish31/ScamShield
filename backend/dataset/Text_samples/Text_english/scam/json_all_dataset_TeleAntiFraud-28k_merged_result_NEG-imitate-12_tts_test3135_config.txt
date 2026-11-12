@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Xiao Zhang, the customer service representative of China Mobile, your recent purchase of a smartphone has a quality issue, we need to perform a recall processing.
+Speaker2: Really? Then what do we do?
+Speaker1: Don't worry, we have already prepared a new phone for you. Just click on the link below, fill in the relevant information, and we will arrange for fast delivery to your doorstep to pick up the old phone and deliver the new one.
+Speaker2: Okay, what do I need to do?
+Speaker1: Just click this link and follow the instructions. Here's the link: [Click here].
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, thank you very much for your cooperation. If you have any questions, please feel free to contact me anytime. My phone number is 13712345678.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you all the best. Bye.
+Speaker2: Goodbye.

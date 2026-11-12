@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. You recently submitted a loan application, and we need to confirm some information.
+Speaker2: Oh, really? I think I haven't applied for a loan.
+Speaker1: It's probably your friend or family member who applied on your behalf, for safety reasons, we need you to provide some personal information to verify.
+Speaker2: How can I confirm that you are a bank customer service?
+Speaker1: You can confirm through our official phone call back to confirm, the phone number is 0216608866, you can also click on the link we sent you to directly verify your identity.
+Speaker2: Okay, I'll take a look at the link.
+Speaker1: Okay, the link has been sent to your phone. Please complete the verification within ten minutes, otherwise the information will expire.
+Speaker2: I got it, it looks pretty neat, I'll open it right away.
+Speaker1: Hello, if you have any questions, please feel free to contact me. Click on the link and follow the instructions to fill in the relevant information.
+Speaker2: Okay, thank you.

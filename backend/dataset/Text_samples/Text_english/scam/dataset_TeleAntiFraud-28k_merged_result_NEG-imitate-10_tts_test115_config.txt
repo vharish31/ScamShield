@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I'm Zhang, I'm currently handling your order issue, your package was lost during transportation, we need to give you a refund, have you recently received such a notice?
+Speaker2: Really? I didn't receive any notification. What should I do?
+Speaker1: That's it, we found out later and immediately processed it, for your convenience, you need to download our company's official app, which can help you handle refund issues more quickly.
+Speaker2: Okay, how do I download it?
+Speaker1: You can search for our name in the mobile app store, download and install it, and I will give you a verification code. You can input the verification code to complete the verification, and then we will refund the money to your account.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Okay, after you download and install, just let me know and I'll send you the verification code right away.
+Speaker2: Okay, thank you.

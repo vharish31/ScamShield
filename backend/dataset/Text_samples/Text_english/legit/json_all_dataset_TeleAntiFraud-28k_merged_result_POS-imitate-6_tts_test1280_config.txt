@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am little Li, do you have any space in the store?
+Speaker2: Hello little Li, I am server Zhang, we have several available seats, when do you plan to come?
+Speaker1: Two people around seven in the evening.
+Speaker2: Okay, 7:00, two people's location, I reserve for you, do you need help ordering food?
+Speaker1: Let's take a look at the menu first, shall we?
+Speaker2: Okay, just come directly at the time. Is there anything else you need help with?
+Speaker1: No more, thank you.
+Speaker2: You're welcome.

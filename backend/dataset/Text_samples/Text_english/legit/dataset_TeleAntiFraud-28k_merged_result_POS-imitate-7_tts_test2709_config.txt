@@ -1,0 +1,11 @@
+Speaker1: Hello, are you ready to make a reservation at the Happy Restaurant?
+Speaker2: Hello, can I reserve a four-person seat for 7 pm tonight?
+Speaker1: Okay, seven o'clock, four-person position, okay, what's your name?
+Speaker2: I am named Zhang Wei.
+Speaker1: Okay, Mr. Zhang Wei, your reservation has been successful. Do you have any special dietary requirements that we need to know in advance?
+Speaker2: No need, thank you.
+Speaker1: No problem, please feel free to contact us anytime if you have any needs.
+Speaker2: Okay, thank you.
+Speaker1: Is there anything else I can help you with?
+Speaker2: No more, okay, thank you.
+Speaker1: Okay, thank you for your call, wish you a happy day.

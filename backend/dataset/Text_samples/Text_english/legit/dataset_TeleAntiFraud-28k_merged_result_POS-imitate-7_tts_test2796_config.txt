@@ -1,0 +1,10 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hey, I'm pretty good, how about you?
+Speaker1: How have you been lately?
+Speaker2: I've been pretty busy lately, work has been a bit much. How about you?
+Speaker1: I'm pretty much the same, but it's okay. Can you handle it? Hey, do you have any free time this weekend?
+Speaker2: Do you have any plans?
+Speaker1: Want to go to the park together for a stroll and have a meal, how about it?
+Speaker2: Sounds good, when can we meet?
+Speaker1: What's up at two in the afternoon?
+Speaker2: Okay, meet at the park entrance, see you later.

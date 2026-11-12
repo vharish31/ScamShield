@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I found your store online and I'm interested in consulting if you have any suitable fitness programs?
+Speaker2: Hello, yes, we have yoga classes, aerobics, strength training and many other courses here. You can try them out first.
+Speaker1: Do you need to make a reservation for the experience course?
+Speaker2: Could you please tell me your convenient time, I will help you book an appointment in the system.
+Speaker1: What are your business hours?
+Speaker2: We are open from 6 am to 10 pm every day. You can come at any time during that period.
+Speaker1: Can I reserve a yoga class for tomorrow afternoon at three o'clock?
+Speaker2: Sure, there's a yoga class at 3 pm tomorrow afternoon. I'll book it for you.
+Speaker1: Okay, thank you. What else do I need to prepare?
+Speaker2: For your first time, I suggest you wear athletic wear, bring a towel and water, and we'll provide the rest.

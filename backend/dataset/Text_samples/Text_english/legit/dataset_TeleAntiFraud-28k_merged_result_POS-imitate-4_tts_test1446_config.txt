@@ -1,0 +1,12 @@
+Speaker1: Hey, are you okay? I'm little Zhang. Can you come pick me up at six o'clock tomorrow morning?
+Speaker2: Hello, little Zhang, can you come at six o'clock in the morning tomorrow?
+Speaker1: How much is the car fare?
+Speaker2: You can see the specific price when you place the order, it's around 50 yuan.
+Speaker1: Okay, let me confirm, tomorrow morning at six, you'll pick me up, right?
+Speaker2: Yes, tomorrow morning at six o'clock, I will arrive on time.
+Speaker1: Okay, if there are any changes, I will notify you in advance.
+Speaker2: Okay, no problem, you can contact me anytime.
+Speaker1: Hey, is this a single car or a shared car?
+Speaker2: You should check the order confirmation for a single car.
+Speaker1: Okay, I'll take a look, thank you.
+Speaker2: No problem, feel free to contact me anytime if you have other issues.

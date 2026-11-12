@@ -1,0 +1,11 @@
+Speaker1: Hey, are you there? I didn't see you at the subway station. Did you arrive?
+Speaker2: Just got off the subway station, where are you at the exit?
+Speaker1: I'm at a mouth, but I don't see any obvious subway signs, am I walking the wrong way?
+Speaker2: Stand at the red light and wait for me, I'll be there soon.
+Speaker1: Okay, I see the red light, waiting for you on the bridge.
+Speaker2: Okay, I'll be there soon, don't leave.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Have you driven the car?
+Speaker1: The driver couldn't find me for the car I ordered.
+Speaker2: Are you far from the red light? I'm almost there.
+Speaker1: I passed the red light slowly, you can see the bridge when you look.

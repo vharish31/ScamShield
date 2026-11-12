@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm standing at your store door, can you see me?
+Speaker2: Hey, I'm over here, which door are you at, I'll come get you.
+Speaker1: I have a big green sign at the entrance.
+Speaker2: Okay, I'll come over right away, just wait for a minute.
+Speaker1: Okay, I see you, you're wearing red clothes.
+Speaker2: Okay, I'm wearing red clothes, come over, let's go to the front desk to handle the paperwork.
+Speaker1: Okay, I understand, thank you.
+Speaker2: No problem, this is my job, any questions can be asked anytime.
+Speaker1: Can I store my luggage here?
+Speaker2: Sure, we have a designated luggage storage room where you can store your luggage.

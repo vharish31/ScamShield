@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there? I'm at the mall entrance. Can you see me?
+Speaker2: Hello, I'm at the door number six, come over.
+Speaker1: Okay, I'll be there soon.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Wait a minute, I see you now, it's the past.
+Speaker2: Okay, I'm here.
+Speaker1: Are you waiting at the door number six for me, or should we directly enter the mall?
+Speaker2: Let's wait at the door for you, we can talk once we go in.
+Speaker1: Okay, I'll be there soon.
+Speaker2: Okay, I'm here.

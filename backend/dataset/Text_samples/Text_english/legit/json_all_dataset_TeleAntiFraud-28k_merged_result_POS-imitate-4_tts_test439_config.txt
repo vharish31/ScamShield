@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I can't find your spot at the People's Park gate, can you tell me how to walk there?
+Speaker2: Hey, walk straight along the road next to the park gate, turn left at the first red and green light, and then keep going straight until you turn right at the second crossroads, and you'll see our building.
+Speaker1: Okay, do you have clear markers in the dormitory?
+Speaker2: Yes, our big building has a big blue sign on it, which reads the company's name, and there's a row of glass doors, which are easy to see.
+Speaker1: Understood, so how long will it take for me to get there?
+Speaker2: If you follow the path I told you, you should be there in about ten minutes.
+Speaker1: Okay, I'll leave now and call you.
+Speaker2: Okay, be careful on the road, we'll wait for you at the company.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye.

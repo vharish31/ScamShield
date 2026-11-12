@@ -1,0 +1,9 @@
+Speaker1: Hey, are you little Li?
+Speaker2: Hello, I am little Li, what do you have?
+Speaker1: I am the small Zhang at the downstairs supermarket. You previously ordered some items, now you can pick them up.
+Speaker2: Okay, thank you, Xiao Zhang, I will arrive in about twenty minutes.
+Speaker1: No problem, you come directly to the cashier, I will help you prepare.
+Speaker2: Okay, I arrived. I'll call you to confirm.
+Speaker1: Okay, you arrived, I'm waiting for your call here.
+Speaker2: Okay, thank you, see you later.
+Speaker1: See you soon, be careful on the road.

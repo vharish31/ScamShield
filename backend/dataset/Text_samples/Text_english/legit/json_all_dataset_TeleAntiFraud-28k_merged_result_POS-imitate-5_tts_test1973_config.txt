@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I just placed an order for an air purifier on your website. Can you confirm the delivery time?
+Speaker2: Okay, could you please provide me with an order number so I can check it here?
+Speaker1: Order number is 23456789.
+Speaker2: Please wait a moment, I'll check... Okay, your order has been processed, it's estimated to be shipped tomorrow morning.
+Speaker1: When will it arrive approximately?
+Speaker2: Based on the logistics situation, it usually takes two to three days for shipment after delivery, with some slight fluctuations in specific time.
+Speaker1: Okay, thank you for your help. Is it possible to schedule installation of a service?
+Speaker2: Of course, we provide in-home installation service. You can choose a convenient time, I can help you schedule it.
+Speaker1: Is three in the afternoon on Saturday convenient?
+Speaker2: I can help you schedule an appointment at 3 pm on Saturday afternoon in the system. The installation technician will contact you to confirm the specific time.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome. If you have any other questions, feel free to consult anytime. Have a nice day!

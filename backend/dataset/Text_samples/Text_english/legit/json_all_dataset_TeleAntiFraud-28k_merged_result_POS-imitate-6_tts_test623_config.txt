@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, can you hear me?
+Speaker1: Hello, I am the customer service of the food delivery platform. Do you feel satisfied with the recent delivery service?
+Speaker2: Great, thank you.
+Speaker1: That's great, we always strive to provide better service. By the way, what type of food do you usually like to eat?
+Speaker2: I like to eat Sichuan cuisine, especially the spicy ones.
+Speaker1: Cantonese cuisine is very popular, we have several Cantonese restaurants on our platform that do particularly well, you can try them out.
+Speaker2: Is there any recommendation?
+Speaker1: There's a store called "Spicy Heaven" where their spicy fish and palace cabbage chicken are very famous. You can try them.
+Speaker2: Okay, let's try it next time. Thank you for your recommendation!
+Speaker1: You're welcome. If you have any other suggestions for our service, please let me know. Enjoy your meal!

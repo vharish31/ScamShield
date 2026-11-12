@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the customer service representative of Speedy Express, there's a problem with one of your packages that was shipped out, please verify it.
+Speaker2: Hey, how are you, what's the problem?
+Speaker1: Your package was lost during transportation, please provide some information to handle the compensation.
+Speaker2: Uh, how should we handle that?
+Speaker1: You need to click on the link we provide, fill out some basic information, including bank card number, so that we can transfer the indemnification money to your account.
+Speaker2: Okay, how do I get that link?
+Speaker1: Please wait a moment, I'll send you a text message now, please click to fill it out as soon as you receive it.
+Speaker2: Okay, I'll be right back.
+Speaker1: Okay, the message has been sent. Please check it. By the way, to speed up processing, could you tell me the last four digits of your bank card?
+Speaker2: Okay, my bank card last four digits are five six seven eight.
+Speaker1: Okay, thank you for your cooperation. We will process it quickly. If you have any questions, please feel free to contact me anytime. Goodbye!

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the customer service of the ride-hailing platform? Did you just book a rental car?
+Speaker2: Hello, you, yes, I reserved a car.
+Speaker1: Okay, where are you now?
+Speaker2: I got off the train at the station exit, but I haven't seen my luggage yet.
+Speaker1: Hmm, this way, that car will first arrive at your reserved location and wait for you.
+Speaker2: Okay, it'll take a few more minutes, my luggage hasn't come out yet.
+Speaker1: You can first contact the driver to explain the situation, our platform drivers usually wait for passengers.
+Speaker2: Uh, what happens if it times out?
+Speaker1: If the time exceeds, there will be a certain waiting fee, but you can first communicate with the driver.
+Speaker2: Okay, thank you, I will process it quickly.

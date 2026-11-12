@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm at the exit of the subway station, where are you?
+Speaker2: Hey, hi, I just arrived at the parking lot, can you give me a spot, I'll be there soon.
+Speaker1: Okay, just a moment, I'll send it to you right away.
+Speaker2: I got your location. It's about five minutes away.
+Speaker1: Okay, I'm waiting for you at the exit.
+Speaker2: You see a blue car, that's me.
+Speaker1: I know, blue car.
+Speaker2: I arrived, did you see me?
+Speaker1: I see you, I'll be there soon.
+Speaker2: Okay, I'm waiting for you here.

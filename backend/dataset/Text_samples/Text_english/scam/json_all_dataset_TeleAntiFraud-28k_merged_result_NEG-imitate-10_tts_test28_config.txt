@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Guangxing Bank. Do you have any recent requirements for cash transfers?
+Speaker2: Hello, I don't have this requirement at the moment.
+Speaker1: Hey, it's great to know, we have a special discount loan project lately, the interest rate is very low, the approval is fast, and the paperwork is simple.
+Speaker2: So, what documents do you need me to provide for this loan?
+Speaker1: You just need to provide your identity card and bank card information, then fill out a simple application form. If you're convenient, you can click on the link I sent you and submit your information online.
+Speaker2: How do I know you are a legitimate bank?
+Speaker1: You can directly log in to our official website to query, or download our official app, which has our detailed information and contact information.
+Speaker2: Okay, let me try.
+Speaker1: Great! Click this link to download our app, it's very easy to use.
+Speaker2: Okay, let's try.

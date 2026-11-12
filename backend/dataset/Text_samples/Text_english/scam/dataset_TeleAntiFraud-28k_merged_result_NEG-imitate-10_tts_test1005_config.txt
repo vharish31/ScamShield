@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Mr. Wang?
+Speaker2: Hello, I am.
+Speaker1: I am the manager of the construction bank's credit department, and we have a special loan project for high-quality customers here. Would you be interested in learning more?
+Speaker2: Loan? I don't have any plans for this at the moment.
+Speaker1: Okay, I understand. But this project is very discounted, and the procedures are simple. If you need it, you can contact us anytime.
+Speaker2: What is the specifics of this project?
+Speaker1: This project is aimed at enterprises and individuals with funding needs, providing low-interest loans, and the application process is very convenient. You only need to provide some basic information, and we can apply for the loan amount for you.
+Speaker2: It sounds good, but I'm not very familiar with it.
+Speaker1: Okay, to better understand this project, you can first download our bank's official app, which has detailed introductions, and you can also apply online directly.
+Speaker2: Do you want to download the app? How do I know this app is safe?
+Speaker1: Our bank's app is very safe, you can download it from the phone app store by searching for our bank name, this way you can ensure it's the official version.
+Speaker2: Okay, let me try.

@@ -1,0 +1,14 @@
+Speaker1: Hey, are you Li Huai?
+Speaker2: Hello, I am Lee Huai, who are you?
+Speaker1: I'm Zhang Ming, the one who joined you for dinner last time. How have you been recently?
+Speaker2: Hey, Zhang Ming, how are you? Things have been pretty good lately, work has been a bit busy. How about you?
+Speaker1: Yeah, work is pretty busy. Oh, I heard you recently got a new phone, how's it going?
+Speaker2: Yes, I got a new phone, feels good, speed is fast, photo effect is not bad.
+Speaker1: That's good, I also plan to change one. Where did you buy it at that time?
+Speaker2: I bought it online, it's a bit cheaper than buying it in a physical store.
+Speaker1: Oh, online shopping, then I'll take a look too. Do you have any recommended stores?
+Speaker2: You can check out the store called "Electronic Products Home," which has a good reputation.
+Speaker1: Okay, thank you for your recommendation. Let's have dinner together again tomorrow.
+Speaker2: Okay, let's meet this weekend.
+Speaker1: I'll call you when I arrive at the weekend. Goodbye!
+Speaker2: Okay, bye!

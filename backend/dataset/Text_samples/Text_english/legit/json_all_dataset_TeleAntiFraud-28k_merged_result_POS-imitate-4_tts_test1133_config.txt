@@ -1,0 +1,18 @@
+Speaker1: Hey, how are you? I want to ask if there are any new sports shoes here?
+Speaker2: Hello, we recently received a batch of new products here. Which type of sports shoes do you want to know about?
+Speaker1: I want to see shoes that are suitable for running, priced between 500 and 800 yuan.
+Speaker2: Okay, we have several brands that have this price point for running shoes, such as Nike, Adidas, as well as domestic brands like Li Ning and An Tai.
+Speaker1: Do you have any fresh vegetables?
+Speaker2: Most styles are in stock, but specific colors and sizes may need to check inventory.
+Speaker1: Can you help me look something up?
+Speaker2: Of course, can you tell me your specific brand and size preference?
+Speaker1: I want to see the Nike, size 42.
+Speaker2: Okay, I'll check it out, you wait for a minute.
+Speaker1: Okay, thank you.
+Speaker2: We found the Nike Air Max 42 in black and white colors here.
+Speaker1: What is the price of black?
+Speaker2: The price of this black item is 780 yuan, there's a promotion going on and there's a certain discount.
+Speaker1: Can I go back now?
+Speaker2: Of course, our store is on the third floor of the Yánggōu gōuwù zhōngxīn, open from 10 am to 9 pm.
+Speaker1: Okay, I'll be there in a minute. Thank you.
+Speaker2: You're welcome, nice to meet you, see you later.

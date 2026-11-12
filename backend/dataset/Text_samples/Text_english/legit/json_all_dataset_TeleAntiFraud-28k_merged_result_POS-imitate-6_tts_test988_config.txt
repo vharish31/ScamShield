@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I just arrived at your community gate, where is the property management office?
+Speaker2: Walk straight along this road, turn right at the first crossroad, and keep going until you reach the end. The property management office is on the left side.
+Speaker1: Okay, what documents do I need to bring when I go get a parking permit?
+Speaker2: You need to bring your identity card, house deed or rental agreement, and also your vehicle registration certificate.
+Speaker1: Can I have a rental contract for my rented apartment since I don't have a property certificate?
+Speaker2: You can bring your lease agreement and a copy of the landlord's property certificate when signing the rental contract.
+Speaker1: Okay, thank you, then I'll just go over there.
+Speaker2: No problem, come over, contact me if you have any issues.

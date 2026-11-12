@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, the customer service of the food street, you have ordered food from us before, now there's a new promotion, want to know more?
+Speaker2: Hello, can you introduce the activity content?
+Speaker1: Of course, this activity is mainly for the previous order of the banner you purchased, now you can place an order and get a ten-yuan discount, and also enjoy free delivery service.
+Speaker2: What's the end date of this promotion?
+Speaker1: The activity will continue until this weekend, which means the end of this Sunday.
+Speaker2: How do I order a book tonight?
+Speaker1: It's very simple. You can directly order on our app, select the menu you want, and then input the discount code MEISHIZHOU at checkout to enjoy the discount.
+Speaker2: Okay, I understand, thank you for your recommendation.
+Speaker1: No problem, feel free to contact me anytime if you have any other questions. Enjoy your meal!
+Speaker2: Okay, thank you, bye.

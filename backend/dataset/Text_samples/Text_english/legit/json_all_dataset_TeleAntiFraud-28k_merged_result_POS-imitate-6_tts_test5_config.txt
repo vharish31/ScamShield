@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you? I am the customer service from Hong Kong, your order of yesterday's ice cream, we only have three left here, what should we do?
+Speaker2: Hmm, this way, can we switch to a different flavor?
+Speaker1: Hmm, there are other flavors too, just don't know if you like it or not.
+Speaker2: Do you have any recommendations?
+Speaker1: Our new matcha and strawberry flavor is not bad, many people like it.
+Speaker2: Let's have a cup of tea.
+Speaker1: Okay, I'll adjust the order for you, I'll refund the difference.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me anytime. Have a nice day.
+Speaker2: You too, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Liu Ming?
+Speaker2: Hello, I am Liu Ming.
+Speaker1: Good morning, Mr. Liu. I am an AliExpress customer service representative. We noticed that you recently purchased a product on our platform, but due to logistics issues, your order has been flagged as an exception and requires your cooperation to resolve.
+Speaker2: Oh, is that so? What's the problem?
+Speaker1: Your order number is 123456789. Due to an internal system fault at the courier company, your package was mistakenly returned to the warehouse. To compensate you, we are providing a free fast delivery. Please click on the link we sent and confirm your delivery address.
+Speaker2: Okay, how do I confirm?
+Speaker1: You can confirm your address by clicking on the link in the text message we sent you, as long as you enter your order number and phone number.
+Speaker2: Okay, I'll check my messages later.
+Speaker1: Okay, the text message will be sent to your phone shortly. To speed up processing, please confirm as soon as possible. If you have any questions, you can call our customer service at 400-123-4567 anytime.
+Speaker2: Okay, thank you.

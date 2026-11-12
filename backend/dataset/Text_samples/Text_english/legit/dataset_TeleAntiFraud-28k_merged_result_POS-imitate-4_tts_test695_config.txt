@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, did you order takeout?
+Speaker2: Yes, I ordered a bowl of dumplings, pumpkin, winter squash and flower meat
+Speaker1: Okay, but I don't have celery, green onions, chili peppers, and sesame oil at the moment. Can I give you some other vegetables instead?
+Speaker2: What can be exchanged?
+Speaker1: Can I add some meat, or do you prefer other vegetables? How about it?
+Speaker2: Can I heat it up again?
+Speaker1: Of course, I will let the kitchen help you heat it up, add more meat, make sure you're satisfied.
+Speaker2: Okay, thank you.

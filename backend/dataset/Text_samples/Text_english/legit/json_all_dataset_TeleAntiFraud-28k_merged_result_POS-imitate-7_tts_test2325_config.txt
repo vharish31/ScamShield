@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can you make an appointment for a haircut on this side?
+Speaker2: Sure, we provide booking service, what time do you want to book?
+Speaker1: Can we not go at three o'clock in the afternoon tomorrow?
+Speaker2: Can I register your information at 3:30 PM tomorrow?
+Speaker1: I am Li Ming, my phone number is 138123214
+Speaker2: Okay, Li Ming Xiāngshēng, your phone number is 1381233214, I wrote it down.
+Speaker1: Hey, I want to cut my hair short, not too short, just clean and clear.
+Speaker2: Understood, we will arrange it according to your requirements. Tomorrow afternoon three o'clock and a half, we will wait for you at the store.
+Speaker1: Okay, thank you.
+Speaker2: No problem, feel free to contact us anytime. See you tomorrow.

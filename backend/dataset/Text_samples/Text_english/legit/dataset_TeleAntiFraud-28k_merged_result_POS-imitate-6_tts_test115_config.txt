@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Today's weather is great, did you come out?
+Speaker2: Hey, hi, I just left the door, I'm about to go to the market to buy some vegetables.
+Speaker1: Great, I also have something to buy, can we do it together?
+Speaker2: Of course, how are we now?
+Speaker1: Okay, I'll be waiting for you at the market entrance.
+Speaker2: Okay, I'll be there soon.
+Speaker1: Have you seen the new fruit store? I heard the fruit is especially fresh.
+Speaker2: I see, I also want to go take a look, it's perfect we can buy some fruit.
+Speaker1: Great, let's buy some on the way back.
+Speaker2: No problem, see you later.

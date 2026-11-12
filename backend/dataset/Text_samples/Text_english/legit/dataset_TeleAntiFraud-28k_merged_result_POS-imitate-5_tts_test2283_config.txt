@@ -1,0 +1,14 @@
+Speaker2: Hello
+Speaker1: How did you know this phone number?
+Speaker2: "Hey, I found your website and I'm interested in your services. Can I ask you a few questions?"
+Speaker1: Hey, okay, what service do you want to consult?
+Speaker2: Can you provide me with a specific price and time for a family cleaning service?
+Speaker1: The price of family cleaning services varies based on the size of the room. Generally, for a room up to 100 square meters, the service fee is 200 yuan.
+Speaker2: How much money do I need for a 120 square meter apartment?
+Speaker1: For a 122 square meter room, the service fee will be 240 yuan.
+Speaker2: Okay, when can I make a reservation?
+Speaker1: You can choose any time between 9am and 5pm on any day from Monday to Sunday.
+Speaker2: Can I make a reservation for this Saturday morning at 10 o'clock?
+Speaker1: Okay, I'll record the details for you here. Someone will contact you in advance to confirm the specifics.
+Speaker2: Okay, thank you, see you later.
+Speaker1: No problem, see you later, wish you happy life.

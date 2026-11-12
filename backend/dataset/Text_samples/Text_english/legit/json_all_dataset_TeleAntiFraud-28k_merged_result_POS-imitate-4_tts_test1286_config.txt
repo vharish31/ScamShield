@@ -1,0 +1,10 @@
+Speaker2: Hey, how are you?
+Speaker1: How have you been lately?
+Speaker2: Hi, how are you?
+Speaker1: I'm pretty much the same, recently I've been preparing a project, it's pretty tense.
+Speaker2: How's the progress of the project going?
+Speaker1: Okay, there are some small details that need adjusting. Sure, how about we have lunch together this weekend?
+Speaker2: Where do you want to eat?
+Speaker1: Let's go try out the new restaurant that's supposed to be good.
+Speaker2: Okay, let's meet on Saturday at six in the afternoon.
+Speaker1: Okay, Saturday at six, see you later.

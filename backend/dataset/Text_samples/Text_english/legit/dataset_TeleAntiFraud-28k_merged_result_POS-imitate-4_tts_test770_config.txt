@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, I'm in tech building, where are you?
+Speaker2: I just arrived at the tech building's front entrance, but I didn't see you.
+Speaker1: Oh, you go north a little bit, I stand at the door of the big building here.
+Speaker2: Okay, I see you, I'll be right there.
+Speaker1: Okay, I'll wait for you here.
+Speaker2: Wait a minute, I found a parking spot, I'll be there soon.
+Speaker1: Okay, no rush, take it slow.
+Speaker2: Arrived, I parked at the north side of the building, where are you?
+Speaker1: I'm at the front door of the building, come over, I'm waiting for you here.
+Speaker2: Okay, I'll be there soon.

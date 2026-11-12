@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Li, your friend asked me to bring you a message, saying we should have dinner together on Saturday night, do you have time?
+Speaker2: Hello, little Li, what's the schedule? Is it okay? What time?
+Speaker1: Hey, friend said around 6:30, can you arrive early?
+Speaker2: Sure, I'll be there around six.
+Speaker1: Okay, do you know that location?
+Speaker2: Yeah, that's the new restaurant right?
+Speaker1: Yes, that's the new restaurant your friend said their beef burger is really good.
+Speaker2: That's great, I also want to try.
+Speaker1: Hey, how about you come over early on Saturday morning, we can go shopping together and then have lunch together?
+Speaker2: Great idea, let's settle it then, see you on Saturday.
+Speaker1: See you on Saturday, be careful on the road.
+Speaker2: Okay, thank you for reminding me, goodbye.

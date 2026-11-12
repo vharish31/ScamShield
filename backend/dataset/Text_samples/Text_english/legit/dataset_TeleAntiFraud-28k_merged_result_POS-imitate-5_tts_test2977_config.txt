@@ -1,0 +1,11 @@
+Speaker2: Hey, are you giving your friend?
+Speaker1: Hello, I'm little Zhang, how have you been recently?
+Speaker2: I'm good, thank you. How about you?
+Speaker1: I'm doing well too, recently I've been preparing a project, it's quite busy.
+Speaker2: Hey, do you need help?
+Speaker1: No need, thank you. Right, do you have time this weekend? Let's go eat together.
+Speaker2: Weekend, I check schedule. Saturday is okay, Sunday not possible.
+Speaker1: I'll be waiting for you at the old place at six o'clock on Saturday night.
+Speaker2: Okay, Saturday at six, meet at the old place. See you then.
+Speaker1: See you later. Goodbye.
+Speaker2: Goodbye.

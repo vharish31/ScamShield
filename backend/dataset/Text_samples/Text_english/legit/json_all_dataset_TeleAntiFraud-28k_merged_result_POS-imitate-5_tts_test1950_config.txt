@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your appointment service.
+Speaker2: Hello, I am a customer service representative. What can I help you with?
+Speaker1: Can I make an appointment for tomorrow's haircut? Do you have any available slots?
+Speaker2: Can you provide your name and contact information for the hairdressing service tomorrow?
+Speaker1: Okay, my name is Zhang Ming, phone number is 13812367890.
+Speaker2: Okay, Mr. Zhang Ming, I have recorded it down. What time works for you in the morning at 9am and afternoon at 3pm?
+Speaker1: 3 PM is more convenient.
+Speaker2: Okay, I have already booked an appointment for you tomorrow afternoon at 3 pm for a haircut. Please arrive ten minutes early to be served.
+Speaker1: Okay, thank you. Is it possible to wash my head here after a haircut?
+Speaker2: Of course, hairdressing includes washing your head. Is there anything else you need to consult?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival. I wish you a happy life, goodbye.

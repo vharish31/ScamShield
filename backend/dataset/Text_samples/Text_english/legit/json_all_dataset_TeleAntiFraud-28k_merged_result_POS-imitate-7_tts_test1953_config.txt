@@ -1,0 +1,10 @@
+Speaker1: Hey, are you guys still open?
+Speaker2: Hello, our store is still open until 10 pm tonight.
+Speaker1: Do you have that special grilled fish?
+Speaker2: Yes, our signature grilled fish is very popular, would you like to try it?
+Speaker1: Okay, I want to reserve a table for two people.
+Speaker2: Okay, what time are you coming?
+Speaker1: About seven in the evening.
+Speaker2: Okay, I reserve a two-person seat for you, just let me know your name when you arrive.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome!

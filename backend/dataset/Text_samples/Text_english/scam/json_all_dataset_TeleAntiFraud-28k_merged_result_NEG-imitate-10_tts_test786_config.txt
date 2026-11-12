@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Zhang Ming? This is the online customer service center of China Construction Bank.
+Speaker2: Yes, hello.
+Speaker1: We detected unusual activity on your account. To ensure your financial safety, we need you to cooperate with us for a security verification.
+Speaker2: Really? Then what should I do?
+Speaker1: You need to click on the link we sent you and enter your bank card number and verification code according to the page instructions.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, after you finish operating, we will call you to confirm.
+Speaker2: Okay, thank you.
+Speaker1: No problem, this is our responsibility. Additionally, we have a limited time promotion activity. You can download our app through this link, register and then receive a gift.
+Speaker2: Really? Then I'll download it right away.

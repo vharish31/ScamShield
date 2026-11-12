@@ -1,0 +1,14 @@
+Speaker1: Hey, hello, this is Zhang, the middleman at the Jingfu Garden, I have something to talk to you about.
+Speaker2: Hello, little Zhang, what do you have?
+Speaker1: That's right, I have a customer who is very interested in the 96 square meter house that was hung up by you before.
+Speaker2: Hey, is that house still rented?
+Speaker1: Still here, but the customer noticed that the set of houses is made of bricks, and he wants to confirm the price again.
+Speaker2: Hey, Maozhai's words, rent is two thousand two now.
+Speaker1: There might be some issues, I understand this, the price should be better if it's good with furniture and appliances.
+Speaker2: Yes, that house is indeed bare, without any decoration.
+Speaker1: I understand, that old house's price, maybe one thousand out head's will be more suitable a bit.
+Speaker2: Hmm, this price is a bit low, but I'll think about it.
+Speaker1: Okay, I will explain the situation to the customer and do my best to promote this transaction if possible.
+Speaker2: Thank you so much, please notify me if there's any progress.
+Speaker1: No problem, I will follow. Goodbye.
+Speaker2: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager at Commercial Bank, Li Li, your loan application at our bank has been approved, can you make some time?
+Speaker2: Hey, how's the approval result?
+Speaker1: Okay, the loan has been approved, but before we can proceed with the loan, we need you to pay a deposit of 5,000 yuan first. Please transfer the money to this account: 622208123456789012.
+Speaker2: Do I still have to pay the deposit?
+Speaker1: Yes, this is the bank's rule, but don't worry, this fee will be fully refunded to you after the loan is issued.
+Speaker2: So, how can I confirm that this account is yours, bank?
+Speaker1: You can log into our bank's official website to check this account information, or you can go to the bank counter to verify it directly.
+Speaker2: Okay, I'll check.
+Speaker1: Okay, after you finish, if you have any questions, feel free to contact me anytime. My phone number is 13812345678.
+Speaker2: Okay, thank you, I'll get back to you after I check.

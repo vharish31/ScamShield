@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I just want to inquire about your appointment service.
+Speaker2: Okay, what aspect of the service do you want to know about?
+Speaker1: I want to make a weekend hair appointment, do you have any available slots?
+Speaker2: The weekend schedule is quite tight, but I'll help you check. What specific time do you want to book?
+Speaker1: Saturday afternoon around 3 pm would be best.
+Speaker2: Okay, let me check... there's an available slot on Saturday afternoon at 3pm, you can book it.
+Speaker1: How long do I need to arrive at the store?
+Speaker2: If it's your first time, please arrive fifteen minutes early to allow us to prepare for you.
+Speaker1: Okay, I'll arrive fifteen minutes early. And how long does it usually take to get a haircut?
+Speaker2: Typically, washing hair takes about an hour.
+Speaker1: Understood, thank you for your help.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. See you on Saturday!

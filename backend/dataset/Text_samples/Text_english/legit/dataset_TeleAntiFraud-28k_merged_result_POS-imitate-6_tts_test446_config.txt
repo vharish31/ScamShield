@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to check your store's business hours.
+Speaker2: Hello, our store is open from 9am to 9pm every day.
+Speaker1: What is the name of the store's sign?
+Speaker2: Our store's signboard menu has spicy and sour fish, steamed fish and boiled fish, all very popular.
+Speaker1: Can I reserve a four-person private room for tonight at seven o'clock?
+Speaker2: Okay, the four-person private room at seven o'clock on Saturday night has been reserved for you. Do you need to inform your party size in advance?
+Speaker1: No need, will arrive on time. Right, do we need to pay a deposit?
+Speaker2: No deposit is required. You can pay directly upon arrival. If there are any changes, please call us in advance.
+Speaker1: Okay, thank you for your service, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

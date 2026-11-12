@@ -1,0 +1,12 @@
+Speaker1: Hey, are you Zhang Laoban?
+Speaker2: Hello, I am Zhang Laoban, what do you have?
+Speaker1: I am the customer manager of the South City Bank, recently we launched a special discount loan product, do you want to know more?
+Speaker2: Loan? I don't really need it, right?
+Speaker1: This product doesn't require collateral, interest rate is low, approval is quick, very suitable for short-term cash flow, maybe it can help you.
+Speaker2: Is it really? What is the interest rate?
+Speaker1: The annual interest rate is only 0.04%, which is very favorable. If you need it, you can apply first, and once approved, you can borrow the money.
+Speaker2: How do I apply?
+Speaker1: Just click this link, fill out your personal information, and we'll have a specialist contact you to handle the next steps.
+Speaker2: Okay, let me try.
+Speaker1: Great, please click on this link and tell me the verification code after, so we can speed up the approval process.
+Speaker2: Okay, I'll go operate.

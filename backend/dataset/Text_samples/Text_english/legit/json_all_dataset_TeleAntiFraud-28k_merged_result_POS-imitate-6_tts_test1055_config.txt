@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hi, I'm Liu from the community management, I noticed your electricity bill is a bit high recently, have you noticed this issue?
+Speaker2: Oh, that's right, I really feel like my electricity bill has gone up a bit lately, even though we haven't used many appliances at home.
+Speaker1: It might be because the weather turned cold, the air conditioner was used frequently, or it might be because some electronic device became old.
+Speaker2: Yeah, I recently turned on the air conditioning, but it still feels strange.
+Speaker1: Can we send someone to check if there are any loose wires or other issues?
+Speaker2: Okay, when is a convenient time for you guys to check?
+Speaker1: Can I come at around 10 am tomorrow morning?
+Speaker2: I can leave at 10, so I'll wait for you guys at home.
+Speaker1: Okay, see you tomorrow.
+Speaker2: Okay, thank you. Bye.

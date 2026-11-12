@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I can't find the exit on the second floor of your mall, can you help me find the way out?
+Speaker2: Of course, are you in H zone now?
+Speaker1: Yes, I'm in H Zone, but I can't find the way to the ground floor.
+Speaker2: You can follow the signs along H Zone to reach the elevator, take the elevator to a floor, and there will be clear exit signs.
+Speaker1: Okay, which direction is the elevator going?
+Speaker2: Walking along H Street for about three minutes, you should see the elevator, and there is a clear sign at the elevator entrance.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, feel free to contact me if you have any other questions. Best wishes on your journey.

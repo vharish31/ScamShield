@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to order takeout, can you deliver food here?
+Speaker2: Hello, of course, which restaurant would you like to order from?
+Speaker1: Do you have any recommendations for a Cantonese restaurant here?
+Speaker2: Yes, there's a restaurant called "Spicy Flavor Xuan" that serves Sichuan cuisine. The taste is amazing and many people recommend it.
+Speaker1: Spicy restaurant, sounds good, do they have any signature dishes?
+Speaker2: Their steamed fish with spicy pork and ginger is very famous, you can try it.
+Speaker1: Okay, I want one steamed fish with one spicy stir-fried chicken drumstick, and one bowl of rice, approximately when can it be delivered?
+Speaker2: Can you place your order now for these approximately forty minutes?
+Speaker1: Okay, I'm ordering now. The address is Yánggōng xiǎozhuāng sān hào lóu èr dān yī shì liù zhèr yī rù shì.
+Speaker2: Okay, we have recorded your order. It will be delivered to Yangguang Xiǎngyuán Sān huǒ lóu Èr dān yī xiàng liù yī shì, approximately forty minutes from now. Do you need any further assistance?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, hope you enjoy your meal, bye!

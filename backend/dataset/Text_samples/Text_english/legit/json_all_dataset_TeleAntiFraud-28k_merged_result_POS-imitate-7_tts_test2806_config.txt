@@ -1,0 +1,10 @@
+Speaker1: Hey, are your fitness courses still open?
+Speaker2: Hello, yes, our fitness course is still open, do you want to know the specific details?
+Speaker1: Hey, can you tell me about the courses you guys are taking?
+Speaker2: Our main courses here are yoga, aerobics, strength training, and swimming classes. Each course has both beginner and advanced levels, and you can choose based on your needs.
+Speaker1: Uh, I haven't exercised before, what should I choose that's good?
+Speaker2: If you're a beginner, I recommend starting with yoga or low-impact aerobics, which will help you gradually adapt to the intensity of exercise and learn proper exercise form.
+Speaker1: How is your course schedule arranged?
+Speaker2: We usually have classes from 9am to 11:30am in the morning from Monday to Friday, and from 5pm to 8pm in the afternoon. The weekend class times are slightly later, starting at 10am.
+Speaker1: Okay, let me check my time, what's the cost?
+Speaker2: The fee for a single class is one hundred yuan. If you buy a monthly or quarterly card, the single class will be cheaper. The monthly card is eight hundred yuan, and the quarterly card is one thousand eight hundred yuan.

@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm Xiaoming, can you tell me about your restaurant's special dishes?
+Speaker2: Hello, I am the waiter Red at the restaurant, our restaurant special dishes are red braised pork, steamed fish and spicy pot, which dish would you like to know?
+Speaker1: What is the price of steamed fish?
+Speaker2: The price of steamed fish is 68 yuan, using fresh cod, the method is simple, very popular with customers.
+Speaker1: What time does your restaurant close at night?
+Speaker2: Our restaurant opens at 5:30 in the evening and closes at 10:00.
+Speaker1: Sure, can I reserve a seat for tonight at 7:00 PM?
+Speaker2: Is it okay? Do you need to reserve several seats for you?
+Speaker1: Four people.
+Speaker2: Okay, I have already reserved it for you. Just come directly at the time, if there's any change, please inform us in advance.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival, wish you a good day. Goodbye.

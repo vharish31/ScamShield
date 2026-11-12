@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you guys have any new running shoes on the market?
+Speaker2: Yes, we recently launched several new sports shoes. Which specific information do you want to know about them?
+Speaker1: Can you tell me the price and size of that black and white striped one?
+Speaker2: What size of this sports shoe do you want, from 39 to 44? The price is 588 yuan.
+Speaker1: Do you have stock for number forty-two?
+Speaker2: Do you want to buy now from the 42nd stock?
+Speaker1: Okay, I'll buy now.
+Speaker2: Okay, I'll place the order for you. Do you need us to arrange delivery for you?
+Speaker1: Please, delivery address is my home, address is xx city xx district xx road xx number.
+Speaker2: Okay, I noted it down. Generally, delivery will arrive within two to three days, please pay attention to check it.
+Speaker1: Okay, thank you.
+Speaker2: No problem, if you have any other needs for help, please contact us anytime. Goodbye.

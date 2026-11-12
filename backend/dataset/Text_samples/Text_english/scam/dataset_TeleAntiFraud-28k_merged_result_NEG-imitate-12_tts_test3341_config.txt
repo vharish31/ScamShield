@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Zong? I'm Wang Xiaoming, the manager of the Agricultural and Commercial Bank. We have a loan product for small and medium-sized enterprises here. Do you have any need for cash flow management in your enterprise?
+Speaker2: Hello, temporarily no need for this.
+Speaker1: Okay, Li boss, I understand. But if you have any financial needs in the future, remember to contact me. Also, we have a special app that you can apply for loans online, very convenient, are you interested in learning more?
+Speaker2: Can you send me a link through the app?
+Speaker1: Of course, Li Zhong. I'll send it to you now. However, for the sake of security, please download our official app directly at the time and enter the recommendation code 123456 to enjoy our exclusive services.
+Speaker2: Okay, thank you for your recommendation.
+Speaker1: No problem, Li Zong, if you have any questions, please contact me anytime. Additionally, if you're interested in other financial products, you can consult through this app, our team provides professional service.
+Speaker2: Okay, I will pay attention. Thank you again.
+Speaker1: Li Zhōng, if you think our service is good, you can recommend it to your friends too. Thank you again, wish you all the best!
+Speaker2: Okay, thank you again. Goodbye!

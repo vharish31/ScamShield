@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from the Agricultural Bank of China, Tianhe Branch. I have a great loan opportunity to recommend to you.
+Speaker2: Hello, do you lend money? I don't need it now.
+Speaker1: Hey, do you have any other financial needs? Like renovation, travel, or buying big-ticket items?
+Speaker2: No, thank you.
+Speaker1: That's too bad. But if you need anything, you can add me on WeChat and consult anytime.
+Speaker2: Add me on WeChat?
+Speaker1: Okay, adding WeChat is very convenient. I'll send you a QR code, just scan it to add me.
+Speaker2: Okay, let me try.
+Speaker1: Great, here's the QR code, scan it to add me, we'll chat later.
+Speaker2: Okay, thank you.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I recently wanted to buy a new phone, saw some new models on your website, wanted to know more about them
+Speaker2: Okay, which phone are you interested in?
+Speaker1: That's the latest flagship phone, I heard its performance is particularly good.
+Speaker2: That flagship phone indeed has strong performance, equipped with the latest processor, also has large memory and storage space, very suitable for playing games and multi-task processing.
+Speaker1: What is the price of this phone?
+Speaker2: This phone currently costs 4999 yuan, and we also provide installment payment service, you can choose to buy on installment.
+Speaker1: Are the interest rates high for paying in installments?
+Speaker2: Interest rates for installment payments are very low. If you choose to pay in three installments, it's almost interest-free. If it's six or twelve installments, the interest rates are also very low, around three percent.
+Speaker1: Does this phone have any in stock now?
+Speaker2: Yes, this phone model is currently in stock, you can place an order immediately, we will ship it to you within twenty-four hours.

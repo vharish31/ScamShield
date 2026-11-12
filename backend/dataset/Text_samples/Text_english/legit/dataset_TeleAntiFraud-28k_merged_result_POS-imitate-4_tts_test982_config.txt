@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how can I help you?
+Speaker1: Can you recommend any good restaurants here?
+Speaker2: Of course, what type of do you want to eat? Chinese, Western, or something else?
+Speaker1: I want to eat some Chinese food, do you have any recommendations?
+Speaker2: Have you heard of the restaurant called "Meiwei xuan"? Their Sichuan cuisine is particularly good. Would you like to go there?
+Speaker1: What's the way to go to that restaurant that sounds good?
+Speaker2: You can take the subway line 2 to Dragon Yuan Road station, then turn right and walk about 500 meters to see it.
+Speaker1: What are the business hours of this restaurant?
+Speaker2: They are open from 11 am to 10 pm, you can choose a suitable time to go.
+Speaker1: Great, thank you for your recommendation, I'll try it out tonight.
+Speaker2: No problem, I hope you have a great dining experience. If you need any other help, please feel free to contact me.

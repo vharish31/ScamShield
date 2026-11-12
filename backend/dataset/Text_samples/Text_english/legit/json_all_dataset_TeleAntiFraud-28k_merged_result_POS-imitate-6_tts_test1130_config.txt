@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I just moved here and I'm not familiar with the surroundings, can you recommend a nearby restaurant?
+Speaker2: Hello, of course. What type of do you want to eat? Like Chinese, Western or fast food?
+Speaker1: What do you recommend for some Chinese food?
+Speaker2: There's a restaurant nearby called "Lǎo Wèi Dào" that serves delicious home-cooked food with a distinctive flavor. The prices are also reasonable.
+Speaker1: Sounds good, how far is this restaurant?
+Speaker2: It's about ten minutes' walk from your place.
+Speaker1: Great, can I go now? Are they open now?
+Speaker2: They open at eleven in the morning and close at nine in the evening. They are going now.
+Speaker1: Okay, thank you for your recommendation. I'm off now.
+Speaker2: No problem, I hope you have a pleasant dining experience. If you have any questions, please feel free to ask me anytime.

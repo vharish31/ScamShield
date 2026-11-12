@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. My name is Li. Recently, we have launched a new loan product with a low interest rate and quick approval. Would you like to know if you have any recent need for cash flow?
+Speaker2: Hello, I'm a bit short of cash lately, can you give me a detailed explanation?
+Speaker1: Of course. This product is very suitable for you. Just provide some basic personal information, and we can quickly approve. For your convenience, you can click this link to download our app, which will make the operation more convenient.
+Speaker2: Okay, I'll try it out. Is this app safe?
+Speaker1: Very safe, we are a regular bank, you can trust using us. After downloading, follow the instructions to register and submit information. If you have any problems, you can contact me anytime.
+Speaker2: Okay, I'll try it out. What information do I need to provide?
+Speaker1: Please provide your identity card, bank card, and some income proof. After downloading the APP, you can directly upload the information inside the APP.
+Speaker2: Okay, I'll download it now. Thank you for your help.
+Speaker1: No problem, feel free to contact me for any questions. Best wishes on your application!

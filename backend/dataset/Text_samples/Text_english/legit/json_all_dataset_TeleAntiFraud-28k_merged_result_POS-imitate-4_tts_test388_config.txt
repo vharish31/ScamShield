@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: I saw your takeout menu, I want to order a beef stir-fry and that sweet and sour pork ribs.
+Speaker2: Okay, beef stir-fry and sweet and sour pork ribs, both of these dishes we have, do you need to order now?
+Speaker1: Okay, I want to place an order now, how long will it take to deliver?
+Speaker2: Based on the address you provided, it's estimated to arrive in about 30 minutes.
+Speaker1: Okay, I live at 100 Happiness Road, please come over at that time, my phone number is 1381238789.
+Speaker2: Okay, happy road 100th number, phone number 1381238789, we recorded it, do you have other needs?
+Speaker1: No need, just these, thank you.
+Speaker2: Okay, your order has been recorded. We will arrange delivery as soon as possible. If there are any issues, we will contact you promptly. Thank you for your order. Enjoy your meal.

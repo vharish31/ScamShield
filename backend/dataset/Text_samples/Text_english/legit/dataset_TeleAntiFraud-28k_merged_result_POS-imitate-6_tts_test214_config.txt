@@ -1,0 +1,10 @@
+Speaker2: Hello
+Speaker1: Hello, is this store still open?
+Speaker2: Can I come in? We are open until ten at night, what time will you come?
+Speaker1: Can I buy a birthday cake around six o'clock?
+Speaker2: Okay, we'll be there at six, please come ten minutes early, that way we can help you get ready.
+Speaker1: Is that cake raspberry?
+Speaker2: Yes, this strawberry cake is very popular. If you have other flavor requirements, please let me know in advance.
+Speaker1: No no, strawberries are good, thank you.
+Speaker2: No problem, see you later.
+Speaker1: See you later.

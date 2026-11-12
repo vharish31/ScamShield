@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Lee Huai, I recently saw your hotpot store is quite popular, want to know your business hours.
+Speaker2: Hello, Lee Huang, I am Xiao Wang, very happy to serve you. Our store's business hours are from 10 am to 10 pm, weekends will be extended to 11 pm.
+Speaker1: That's great, I plan to go out on the weekend, do you guys have any special activities or discounts on the weekend?
+Speaker2: Yes, we have a buy-one-get-one-free activity on weekends, and there's also free small snacks, perfect for parties.
+Speaker1: Does it sound good? Then do I need to book in advance?
+Speaker2: It's recommended to book in advance, weekends are usually crowded, booking can ensure you have a spot.
+Speaker1: Okay, I want to reserve a seat for six people at seven o'clock on Saturday night.
+Speaker2: Okay, Saturday at 7 pm, for six people, I have already reserved your spot. Remember to bring your reservation information.
+Speaker1: Okay, thank you for your help, see you on Saturday!
+Speaker2: You're welcome, I'm looking forward to your arrival, see you on Saturday!

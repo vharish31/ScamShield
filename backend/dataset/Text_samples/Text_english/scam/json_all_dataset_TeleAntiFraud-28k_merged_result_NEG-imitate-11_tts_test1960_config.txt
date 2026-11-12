@@ -1,0 +1,11 @@
+Speaker1: Hello, I'm the customer manager of the Bank of China, Lee Jia.
+Speaker2: Hello, do you have anything?
+Speaker1: Based on our system's evaluation, you meet our high-quality customer standard, and can enjoy a low-interest loan.
+Speaker2: Low interest loan? I don't need money now.
+Speaker1: This is the case, this loan's interest rate is very favorable, and the approval speed is fast, you can use it to expand your business or invest.
+Speaker2: How do I apply for it?
+Speaker1: You can first download our bank's official app, fill out the relevant information, and we will quickly approve.
+Speaker2: Is the app safe to download?
+Speaker1: Of course, this is our official channel, you can download our name in the app store by searching.
+Speaker2: Okay, let me try.
+Speaker1: Great, feel free to contact me anytime if you have any questions. My phone number is 12345678901.

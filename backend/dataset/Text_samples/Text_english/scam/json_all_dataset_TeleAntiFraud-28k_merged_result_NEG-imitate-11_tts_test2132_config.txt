@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hello, this is the customer service representative of Huìtōng Jīn róng, my name is Zhāng Mèi, you recently applied for a loan on our platform, do you want to take a call now?
+Speaker2: It's pretty convenient now, say something.
+Speaker1: Okay, we have reviewed your information, your loan application has been approved, and we can provide you with a monthly interest rate of 0.04% credit loan.
+Speaker2: Uh, what needs to be done?
+Speaker1: Just download our HoliThrough Finance App, follow the instructions to register, and your loan will automatically be credited to your account.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Of course, we are a legitimate financial institution, our app has detailed safety instructions, please download and register first, and then our dedicated customer service will guide you through the subsequent steps.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues during the download or registration process, please contact me. My phone number is 1380013800. Thank you for your trust, wish you a happy life.

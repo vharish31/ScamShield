@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm Lee Huai, this is the customer service representative of Huangkang Technology.
+Speaker2: Hello, what do you have?
+Speaker1: That's it, we found an unfinished order in your account in the system, please help us handle it.
+Speaker2: Uh, really? I don't remember any orders.
+Speaker1: It's like that, maybe it's your family or friend who used your account to make this single. Now there's a problem with this order, you need to verify the information.
+Speaker2: What should I do now?
+Speaker1: It's simple. Just click on the link we send you via text message and follow the instructions.
+Speaker2: What's the link to the text message? Why didn't I get it?
+Speaker1: It's possible that it was intercepted, so I'll resend it to you, please pay attention to check it again.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, wait a minute, I'll send it now. Please receive it and operate according to the steps in the link immediately after receiving it. Don't delay.
+Speaker2: Okay, I understand, thank you.

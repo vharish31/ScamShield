@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm the food delivery customer service, you ordered a takeout from us before, do you want to confirm your order status?
+Speaker2: Hello, are you guys there yet?
+Speaker1: Yes, I am the food delivery customer service, you ordered a takeout yesterday, the order number is 23412.
+Speaker2: Oh, I remember now, that order I think still hasn't been paid for.
+Speaker1: Yes, your order hasn't been paid yet, do you need me to cancel it?
+Speaker2: I'll pay right now.
+Speaker1: Okay, after you pay, we'll quickly arrange delivery for you.
+Speaker2: Okay, thank you. So, what is the approximate delivery time for this restaurant?
+Speaker1: It usually takes about 30 to 45 minutes for an order to be delivered, but the specific time may vary depending on the order volume.
+Speaker2: Okay, I understand, thank you for your help.
+Speaker1: No problem, if you have any other questions, please feel free to contact our customer service at any time. Enjoy your meal, goodbye.
+Speaker2: Okay, thank you, bye.

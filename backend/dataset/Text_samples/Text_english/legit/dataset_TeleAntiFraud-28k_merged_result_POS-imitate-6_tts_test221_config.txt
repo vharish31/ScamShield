@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I just booked an appointment on your website, can you confirm the appointment time for me?
+Speaker2: Hello, little Zhang, I am customer service representative Li Xiao, can help you confirm. Please ask which day and time is your appointment?
+Speaker1: I made an appointment for tomorrow afternoon at three o'clock. Do you have a record of it here?
+Speaker2: Okay, I'll check. Please wait a moment, I'll get back to you soon.
+Speaker1: Okay, thank you.
+Speaker2: Found it, your afternoon three o'clock appointment has been successfully recorded. The address is on the second floor of the fashion salon in the city square.
+Speaker1: Sure, can I go directly tomorrow?
+Speaker2: Of course, we will prepare in advance here. You can just come directly. Is there anything else you need help with?
+Speaker1: No more, thank you for your help, little Li.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Have a nice day, bye!

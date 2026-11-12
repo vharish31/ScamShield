@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, Li Laoban? I am the manager of the investment product department at Huaxia Investment, and we have recently launched a high-yield investment product that is very suitable for successful people like you. Would you be interested in learning more about it?
+Speaker2: Should I invest in finance? I'm a bit worried because the market is not stable lately.
+Speaker1: I completely understand your concerns, but our product has a professional team management, risk control is very strict, and the recent profit performance is very good. You can try a small investment first to experience our service.
+Speaker2: How can I participate?
+Speaker1: It's very simple. Just click on the link we sent you, download our official app, register and you can buy directly. Plus, there are exclusive discount activities waiting for you.
+Speaker2: Okay, then I'll take a look first.
+Speaker1: Okay, here's the link [this is a fake link, just for demonstration purposes], just open it and follow the instructions. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you, I will take a look.

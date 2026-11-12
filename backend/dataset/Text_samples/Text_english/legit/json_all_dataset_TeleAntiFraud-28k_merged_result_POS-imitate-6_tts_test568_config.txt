@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang. I heard your discount activity is pretty hot recently. I want to know more about it.
+Speaker2: Hello, little Zhang, I am customer service Li, very happy to serve you. What activities do you want to know about?
+Speaker1: Can you tell me how strong the discount on this electronic product is, and approximately how long it will take for delivery?
+Speaker2: This time's discount on electronic products is very strong, some products can enjoy a 50% discount, and we also provide free shipping service. In general, the delivery time is within three to five working days after ordering.
+Speaker1: If I order today, how long will it take to receive the goods?
+Speaker2: If you place an order today, please consider that it will take approximately from Monday to Wednesday of next week to receive the goods.
+Speaker1: Okay, I placed an order today. What if there are quality issues with the product? How do we handle it?
+Speaker2: If the product has quality issues, you can apply for a refund or exchange within seven days of receiving it. Please keep the original packaging and purchase receipt, and contact our customer service. We will process it quickly.
+Speaker1: I understand, thank you for your detailed answer, little Li.
+Speaker2: You're welcome, feel free to ask any questions anytime, happy shopping!

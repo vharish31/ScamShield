@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the Shenzhen Bank loan service center, I am Zhang Jing Manager.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed you had a loan requirement in the past, and now we have a product without collateral and low interest rate that's perfect for you.
+Speaker2: This sounds good, but I'm not familiar with this kind of loan product.
+Speaker1: No problem, I can give you a detailed introduction. First, you need to download our bank's official app. I'll send you a link, you click download and install.
+Speaker2: Sure, can I apply directly through the app?
+Speaker1: That's right, after downloading, you just need to fill out some basic information and submit the loan application. Once approved, the funds will be directly deposited into your account.
+Speaker2: What information do I need to provide?
+Speaker1: Identity card, bank receipt, income proof, etc. You can submit the incomplete data first, and then supplement it later after downloading the app.
+Speaker2: Okay, let me add you on WeChat so we can easily communicate later.
+Speaker1: Sure, my WeChat number is sz_bank_loan. Add me as a friend and I'll send you a link and guide you through the process.

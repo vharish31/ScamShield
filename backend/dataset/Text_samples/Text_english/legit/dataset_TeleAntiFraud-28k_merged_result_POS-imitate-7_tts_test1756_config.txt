@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little king, recently there are some things at home that I want to consult with you.
+Speaker2: Hello, little king, what can I help you with?
+Speaker1: My fridge at home broke down recently, I want to buy a new one, do you have any recommendations?
+Speaker2: What kind of do you plan to buy? For example, cards, size, function, etc.
+Speaker1: I plan to buy a double door, energy-efficient, priced around five thousand.
+Speaker2: Hmm, within this price range, both the pretty and Haier refrigerators are pretty good, pretty energy-efficient, and have a high value for money.
+Speaker1: Which one do you think is better?
+Speaker2: If you value after-sales service, Haier's after-sales is better; if you value price-to-value, Meida will be more affordable.
+Speaker1: I value price-to-quality ratio more, so I'll think about it. Thank you for your advice!
+Speaker2: No problem, please contact me if you have any questions, wish you get a satisfactory fridge!

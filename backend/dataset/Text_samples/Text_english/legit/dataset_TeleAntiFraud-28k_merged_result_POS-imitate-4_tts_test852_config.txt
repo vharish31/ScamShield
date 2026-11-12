@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, can you hear me? What's up?
+Speaker1: Hello, I am a customer service representative from some e-commerce platform. Your account has a pending expiration of one credit, which will be cleared at midnight tonight.
+Speaker2: Oh, my points have expired, what can I exchange them for?
+Speaker1: These points can be exchanged for goods worth about 4,000 yuan, including liquor, electronics, phones, home appliances, and furniture.
+Speaker2: Okay, then I'll go take a look now.
+Speaker1: Okay, quickly open the link in the message, select the product you want, and you can exchange it directly with points.
+Speaker2: Okay, thank you for reminding me.
+Speaker1: No problem, if you encounter any issues during the exchange process, feel free to contact me anytime.
+Speaker2: Okay, I understand, thank you.

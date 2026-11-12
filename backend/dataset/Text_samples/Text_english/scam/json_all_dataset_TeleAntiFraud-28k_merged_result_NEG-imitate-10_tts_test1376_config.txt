@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Speedy Express, I am customer service representative Lee.
+Speaker2: Hello, what do you have in mind?
+Speaker1: We found that your package was accidentally lost during transportation, and the company has decided to give you compensation.
+Speaker2: Really? That's great! How can we compensate?
+Speaker1: To ensure a smooth claims process, please download a specialized claims app first.
+Speaker2: Download the app? How do you download it?
+Speaker1: You can download it through this link. The link is: [This link is not displayed, only simulating conversation content]. After downloading, follow the instructions.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Okay, download it and then register and provide your bank card number, we will process it quickly.
+Speaker2: I understand, thank you.

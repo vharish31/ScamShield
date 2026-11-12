@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to know what the special deals are this week?
+Speaker2: Hello, this week's special dish is red braised pork, originally priced at 38 yuan, now on sale for 25 yuan, very cheap.
+Speaker1: Is there any other discount activity for 25 yuan?
+Speaker2: Yes, we still have a buy one get one activity this week, as long as you spend over a hundred yuan, you can get a free small menu.
+Speaker1: What are your business hours like?
+Speaker2: Our restaurant business hours are from 11 am to 9 pm every day, and on weekends they are extended to 10 pm.
+Speaker1: Okay, I plan to go at 7 pm on Saturday night. Do I need to make a reservation in advance?
+Speaker2: It's usually crowded on Saturday nights. It's recommended to book in advance to ensure a spot.
+Speaker1: Okay, I'll book two seats for us, thank you.
+Speaker2: Okay, I have reserved a two-person seat for you on Saturday evening at 7 pm. Please come directly when it's time, we will be ready for you.
+Speaker1: Okay, thank you, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

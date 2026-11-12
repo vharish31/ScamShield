@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have restaurant servers here?
+Speaker2: Hey, do you want to come for an interview for the waiter position here?
+Speaker1: Yes, I worked at a small restaurant before, quite experienced.
+Speaker2: That's great, you can bring your resume directly to our place for the interview.
+Speaker1: Do you need to make an appointment in advance?
+Speaker2: No need, directly come just can already, our interview time is early morning ten to afternoon five.
+Speaker1: Can I go at three in the afternoon tomorrow?
+Speaker2: Sure, you can come directly to me tomorrow when you arrive. I am the HR representative here.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you all the best.

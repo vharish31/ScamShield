@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Do you have that new smartwatch in your store?
+Speaker2: Yes, we have the latest smartwatch here. Which aspect of information do you want to know?
+Speaker1: What is the battery life of this watch and does it have waterproof functionality?
+Speaker2: This smartwatch has a very strong battery life, which can be used continuously for about seven days, and it's waterproof, so it can be worn while swimming.
+Speaker1: That's great, I'm still worried about using it for too long before it runs out of power. How much does this watch cost?
+Speaker2: This smartwatch costs 1500 yuan, and now you can enjoy a 90% discount when buying it.
+Speaker1: Nine-discount is great, it's still quite reasonable. I plan to spend the weekend there, what are your weekend business hours?
+Speaker2: Our weekend business hours are from 9am to 9pm. You can choose a convenient time to come.
+Speaker1: Okay, thank you for your information. I'll go take a look this weekend.
+Speaker2: No problem, I'm looking forward to your arrival. If you have any other questions, feel free to consult anytime.

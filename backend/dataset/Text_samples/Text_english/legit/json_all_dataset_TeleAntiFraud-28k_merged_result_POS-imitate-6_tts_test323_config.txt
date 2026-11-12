@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Are there any part-time job recruitments on this side?
+Speaker2: Yes, little king, we are indeed hiring part-time, mainly for some data compilation work.
+Speaker1: Where is the work location?
+Speaker2: The work location is in the Huatian Daoshan in the city center, convenient transportation, and the surrounding environment is not bad.
+Speaker1: How is the work schedule arranged?
+Speaker2: Work hours are from 9 am to 6 pm, working five days a week, with weekends off.
+Speaker1: Can I come for an interview when it sounds good?
+Speaker2: You can come at 10 am tomorrow morning, our interviewer will be there waiting for you.
+Speaker1: Okay, thank you, I'll arrive on time tomorrow.
+Speaker2: No problem, I'm looking forward to your arrival, goodbye.

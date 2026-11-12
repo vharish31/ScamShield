@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hi, I'm little Liu, I'm looking for rental housing information recently, I saw a suite on your website, I want to consult with you
+Speaker2: Hello, I am landlord Zhang, that apartment is still rented, you can ask specifically
+Speaker1: Okay, how many rooms and halls does that house have? What's the price?
+Speaker2: That's a one-room one-unit apartment, a month's rent is two thousand five hundred yuan, deposit one pay three, water and electricity fees are separate.
+Speaker1: Hmm, this price is acceptable. Is the house north-south transparent?
+Speaker2: Yes, the house is transparent from north to south, the lighting and ventilation are both good, if you are interested, you can come to take a look.
+Speaker1: Okay, when is it convenient for me to go see the house?
+Speaker2: Do you have time on Saturday morning? I have time on Saturday morning at 10 am, can I take you to see houses?
+Speaker1: Can we meet on Saturday morning at 10 o'clock?
+Speaker2: Okay, see you at 10 am on Saturday morning. Call me when you arrive.

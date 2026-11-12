@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I make an appointment for haircut tomorrow here?
+Speaker2: Sure, what specific time do you need to make a reservation?
+Speaker1: Is 10 am a good time?
+Speaker2: At 10 o'clock, there are quite a few people with appointments, but I can check if there are any available slots for you.
+Speaker1: Okay, can you help me?
+Speaker2: Please wait a moment, I'll check... Okay, 10:30 has an available spot, can you see it?
+Speaker1: 10:30 is okay, let's make an appointment at that time.
+Speaker2: Okay, I have scheduled a haircut for you tomorrow morning at 10:30. Do you need to provide contact information?
+Speaker1: My phone number is 138-138-1380.
+Speaker2: Okay, I've recorded it down. See you tomorrow!
+Speaker1: Okay, thank you. Bye!

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you tell me how the weather was this weekend?
+Speaker2: The weather forecast for this weekend shows it should be clear skies, with temperatures around 20 degrees, perfect for outdoor activities.
+Speaker1: That's great! I plan to have a picnic in the park on the weekend. Do you have any good recommendations for parks?
+Speaker2: The nearby sunshine park is very good, the environment is beautiful, the facilities are complete, and it's very suitable for picnicking.
+Speaker1: Does one need a ticket to go to the park?
+Speaker2: The park in the sunlight is free to open, but on weekends there may be more people, so it's recommended to go early.
+Speaker1: Okay, thank you for your advice. I'll go there this weekend.
+Speaker2: You're welcome! I hope you have a great weekend! Bye!

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Did you make an appointment for a haircut at three in the afternoon?
+Speaker2: Yes, I am scheduled for 3 pm.
+Speaker1: You can come ten minutes earlier, we're ready.
+Speaker2: Okay, I will arrive on time.
+Speaker1: Have you been to our store before?
+Speaker2: Yes, it's my first time here.
+Speaker1: After you arrive, please tell me the name of the appointment, and I will take you to the rest area.
+Speaker2: Okay, thank you.

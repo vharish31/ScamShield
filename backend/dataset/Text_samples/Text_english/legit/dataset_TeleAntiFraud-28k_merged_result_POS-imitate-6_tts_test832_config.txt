@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Do you have any job openings on your side?
+Speaker2: What position are you applying for?
+Speaker1: I checked and saw that your kitchen is short-staffed. I used to work in the kitchen of a small restaurant and I was quite skilled at it.
+Speaker2: That's good, can you adapt to early morning classes?
+Speaker1: Okay, I can get up early in the morning.
+Speaker2: Okay, you can come for an interview in the morning tomorrow, let's see the specifics.
+Speaker1: Okay, can I go over there around 9 am tomorrow morning?
+Speaker2: Sure sure, at nine o'clock, remember to bring your ID when you come.
+Speaker1: Okay, thank you, see you later.
+Speaker2: Okay, see you later, be safe on the way.

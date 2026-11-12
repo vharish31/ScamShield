@@ -1,0 +1,10 @@
+Speaker1: Hey, are your store still open?
+Speaker2: Hello, are our stores still open? Is there anything we can help you with?
+Speaker1: Do you sell phone cases here?
+Speaker2: Yes, we have various styles of phone cases here. What phone model do you have?
+Speaker1: I used an iPhone 13, I want a transparent one.
+Speaker2: Okay, we have transparent iPhone 13 cases here, would you like to pick one up?
+Speaker1: I'm here now, just a few minutes away.
+Speaker2: That's great, I'll leave it here for you, just find me when you come.
+Speaker1: Okay, thank you, about ten minutes later.
+Speaker2: No problem, I'll wait for you here. Be careful on the road.

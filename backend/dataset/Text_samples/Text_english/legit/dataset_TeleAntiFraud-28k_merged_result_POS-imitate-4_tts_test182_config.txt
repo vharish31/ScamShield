@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the customer service of the small Ming car platform. Did you book a car to the airport just now?
+Speaker2: Okay, I made a reservation for a car.
+Speaker1: Okay, where is your pickup location?
+Speaker2: I'll be ready in about ten minutes at the city center train station.
+Speaker1: Okay, I will notify the driver in advance. Can you please provide your contact phone number?
+Speaker2: Sure, my phone number is 13123456.
+Speaker1: Okay, I've recorded it down. It's about 15 minutes, the driver will arrive soon.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if there are any changes, the driver will contact you in advance. Wish you a smooth journey.
+Speaker2: Thank you, goodbye.

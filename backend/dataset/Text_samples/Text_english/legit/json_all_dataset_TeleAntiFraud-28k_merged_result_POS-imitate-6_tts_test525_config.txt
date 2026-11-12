@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Do you deliver food outside your home?
+Speaker2: Yes, we have many dishes here. Which one do you want to know about?
+Speaker1: Can you tell me what menu items you have and how much they cost?
+Speaker2: Do you want to listen to the introduction of our other special set menus, which are priced at 30 yuan for a single person and 50 yuan for two people?
+Speaker1: Sure, I'll listen to the special set menu.
+Speaker2: Our special set menu includes a seafood platter with shrimp, crab and fish, as well as a fried rice and a soup, priced at 80 yuan. We also have a vegetarian set menu with a variety of vegetables, suitable for our meat-free friends, priced at 60 yuan.
+Speaker1: What is your delivery time?
+Speaker2: We usually send food within 30 minutes after receiving an order. If you order now, you can probably get it in about an hour.
+Speaker1: Okay, I'll order a double person set meal and have it delivered to happiness small community three number one zero two room.
+Speaker2: Okay, your order has been recorded. We will arrange delivery as soon as possible, and it should arrive within an hour or so. If you have any other needs, feel free to contact us anytime.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome. If you have any questions, please call us anytime. Enjoy your meal!

@@ -1,0 +1,12 @@
+Speaker1: Hey, are your takeout services still normal?
+Speaker2: Hello, little Zhang, everything is normal with our takeout service. Is there anything we can help you with?
+Speaker1: Can I order a menu from your store and have it delivered to my home tonight?
+Speaker2: Of course, we have a signboard for fried rice here, do you need it sent over in the evening?
+Speaker1: I'll be there around seven in the evening. The address is 108 Happiness Road.
+Speaker2: Okay, happy road 108, 7 pm, we will arrive on time. Are there any other dishes to add?
+Speaker1: Another Coke, how much is it in total?
+Speaker2: The sign says "Fried Rice with Coke" and it costs 28 yuan.
+Speaker1: Okay, I'll pay through the platform, and you'll receive the order, right?
+Speaker2: Okay, after you place your order, we will process it immediately and ensure it arrives on time. Is there anything else we can help you with?
+Speaker1: No longer available, thank you.
+Speaker2: No problem, looking forward to your next visit, wish you a happy meal!

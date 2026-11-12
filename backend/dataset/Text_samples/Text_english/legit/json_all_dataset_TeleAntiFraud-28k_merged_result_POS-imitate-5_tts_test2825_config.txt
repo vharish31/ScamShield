@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the city convenience store. You previously booked a door-to-door cleaning service on our platform and want to confirm the specific time and address with you.
+Speaker2: Hello, I have an appointment for a house cleaning service at 10 am on Saturday next week in the Yangguang Huayuan Xiaoquan in the Xincheng District.
+Speaker1: Okay, I have confirmed your appointment information on this side. It's the New City Yangguang Huayuan Xiangquan, next Saturday at 10 am. We will arrange for cleaners in advance. Is there anything else I can help you with?
+Speaker2: Could you let them bring their own key to the door when they come to my house?
+Speaker1: Sure, can you provide a temporary access card number for me to inform the cleaning staff in advance? Is that convenient for you?
+Speaker2: Okay, the door card number is one two three eight five.
+Speaker1: Okay, the door card number is one two three eight five, I noted it down. Moreover, the cleaning staff will arrive ten minutes in advance to ensure timely service. If there are any changes, we will contact you in advance.
+Speaker2: Okay, now I can relax, thank you for your help.
+Speaker1: You're welcome. If you have other questions, please feel free to contact us anytime. Have a happy life!
+Speaker2: Thank you, goodbye!

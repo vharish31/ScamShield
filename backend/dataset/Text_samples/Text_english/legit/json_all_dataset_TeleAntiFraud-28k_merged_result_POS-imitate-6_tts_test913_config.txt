@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there? I'm in building 21, can you see me?
+Speaker2: Hello, I'm on this main road, but there's no building number here, can you see my car lights?
+Speaker1: I'll walk a little further, can you flash the big light?
+Speaker2: Okay, I'll flash it right away.
+Speaker1: I see you, I see you, I'm here too.
+Speaker2: Let's meet on the roadside, it's safer here.
+Speaker1: Okay, I'll go over there right away.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Can you help me carry this package? My address is 61 Lighting Road.
+Speaker2: Sure, let's get in my car and go.

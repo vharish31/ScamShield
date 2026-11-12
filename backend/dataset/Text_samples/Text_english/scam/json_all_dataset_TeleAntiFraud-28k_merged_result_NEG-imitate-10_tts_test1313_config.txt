@@ -1,0 +1,12 @@
+Speaker1: Hello, you are Yang sir? This is the customer service representative from Huahai Technology.
+Speaker2: Hey, it's me, what's up?
+Speaker1: We noticed that you recently tried to buy a smartwatch on our platform but failed due to stock issues. We're sorry for the inconvenience we caused.
+Speaker2: Oh, yes, indeed there is such a thing.
+Speaker1: To make up for your loss, we have a special promotion, just click our exclusive link and buy this watch at a discounted price, and you'll also get extra gifts.
+Speaker2: Listen well, how do you operate it?
+Speaker1: Just follow the link I gave you and download our official app. Then enter the discount code in the app to enjoy the discount.
+Speaker2: How do I get that link?
+Speaker1: Please wait a moment, I will send you a text message, please pay attention to check it.
+Speaker2: Okay, I'm waiting.
+Speaker1: Thank you for your cooperation. If you have any questions, please feel free to contact us. We hope our smartwatch can give you a better experience.
+Speaker2: Thank you, I will pay attention to the text message.

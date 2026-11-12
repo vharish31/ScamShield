@@ -1,0 +1,10 @@
+Speaker1: Hello, I am little Li, can you make an appointment for haircut here?
+Speaker2: Sure, I'm Zhang, the customer service here. What time would you like to book?
+Speaker1: Can I make a reservation for next Friday at 3 PM?
+Speaker2: Can I meet you on Friday afternoon at three o'clock? However, that time slot is already booked by a customer, can we move it up or down by half an hour?
+Speaker1: Can I arrive at 2:45 PM in advance?
+Speaker2: Can we meet at 2:45 PM? Can you provide a contact method?
+Speaker1: Okay, my phone number is 13800138000.
+Speaker2: Okay, 13800138000, we have recorded it down. See you next Friday at 2:45 PM.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, goodbye.

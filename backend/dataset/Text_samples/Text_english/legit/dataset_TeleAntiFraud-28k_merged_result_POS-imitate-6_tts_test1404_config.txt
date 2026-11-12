@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, this is food delivery, you ordered a meal before from our platform, right?
+Speaker2: I reserved a spicy hot pot.
+Speaker1: Okay, we have received your order. Now we are ready to deliver it to you.
+Speaker2: How long will it take to send it?
+Speaker1: Based on the address you provided, it will take approximately 30 to 40 minutes to arrive.
+Speaker2: Okay, I roughly know the time.
+Speaker1: Additionally, you mentioned in the notes not to put pepper, we have already processed according to your request.
+Speaker2: Thanks, I'm afraid of spicy food, thanks to you guys.
+Speaker1: No problem, your satisfaction is our biggest motivation.
+Speaker2: Hey, I'll wait at home until you deliver, give me a call when you arrive.
+Speaker1: Okay, we will contact you as soon as we arrive at your floor.

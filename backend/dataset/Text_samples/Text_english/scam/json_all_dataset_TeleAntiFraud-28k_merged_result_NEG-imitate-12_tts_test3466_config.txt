@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am your delivery customer service representative, Xiao Wang. We found out that you have a package that was lost during transportation.
+Speaker2: Is it true or false?
+Speaker1: Sure, we can process a refund for you, but we need some information from you.
+Speaker2: What information do you need?
+Speaker1: Please provide your name, phone number, bank card number and verification code. We will refund the money to your bank account within 24 hours.
+Speaker2: Is it possible to process directly through the app?
+Speaker1: Sure, you can download our official app, log in and choose the refund function, fill in the relevant information, and we will process it quickly.
+Speaker2: Okay, I'll try.
+Speaker1: Okay, I've sent you the download link via text message. Just click on it once you receive it.
+Speaker2: I got the text message, so I'll download it now.
+Speaker1: After downloading, remember to log in and fill out the relevant information the first time, and if you have any problems, please contact me at any time.
+Speaker2: Okay, thank you.

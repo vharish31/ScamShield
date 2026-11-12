@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you at the small Ming convenience store?
+Speaker2: Hello, do you have any imported chocolate?
+Speaker1: Yes, we have Belgian and Swiss chocolate here. Which one do you want?
+Speaker2: How much does a box cost in Belgium?
+Speaker1: How much do you want sixy yuan chocolate box?
+Speaker2: Let's take two boxes first, I'll come back later to pick them up, what time do you close the door?
+Speaker1: We close the door at nine o'clock, you can come anytime after that.
+Speaker2: Okay, I'll arrive around six, thank you.
+Speaker1: No problem, six o'clock meeting, pay attention to safety on the road.
+Speaker2: Okay, bye.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you near the library?
+Speaker2: Yes, I just came out of the library, and I'm walking towards the bus station.
+Speaker1: Hey, are you standing under the bus stop sign now?
+Speaker2: Just now, I just arrived at the roadside, waiting for the green light on the crosswalk.
+Speaker1: Okay, after you cross the human crossroad, walk to the right, there's a small park there, I'll wait for you there.
+Speaker2: Okay, I know that place, we arrived quickly.
+Speaker1: Okay, just remember to be safe, I'll wait for you at the park gate.
+Speaker2: Okay, see you soon.

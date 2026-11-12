@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiaoming, recently I want to buy a laptop, can you introduce me a little?
+Speaker2: Hello, Xiaoming, of course you can. What are you mainly using it for? Leisure or work?
+Speaker1: Work is the main thing, occasionally play games.
+Speaker2: Okay, let me recommend you check out our latest notebook, the configuration is quite high, it should meet your needs.
+Speaker1: How much does this computer cost?
+Speaker2: This computer's price is 7999 yuan, there's a promotion now, you can get a 300 yuan discount.
+Speaker1: What is the specific configuration of that?
+Speaker2: This computer comes with the latest Intel i7 processor, 16GB memory, 512GB solid-state drive, and a dedicated graphics card, performance is excellent.
+Speaker1: How long is the flight duration of that plane?
+Speaker2: This laptop's battery life is approximately 8 to 10 hours, enough for you to use all day.
+Speaker1: Okay, thank you for your detailed introduction. I will consider it.
+Speaker2: No problem, if you have any other questions, feel free to contact me anytime. Have a great shopping!

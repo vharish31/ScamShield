@@ -1,0 +1,12 @@
+Speaker1: Hey, are you little Liu?
+Speaker2: Hello, I am little Liu, who are you?
+Speaker1: I'm from the downstairs supermarket, you bought something from us before, now we have a promotion, do you want to know if you're interested?
+Speaker2: Hey, what's the content of the promotional activity?
+Speaker1: We can join the lottery for a hundred yuan now, and some products are on sale, such as snacks and drinks.
+Speaker2: What are the prizes for the lottery?
+Speaker1: The prizes include supermarket gift cards, small appliances, and daily essentials, and there's a chance to win a freebie too.
+Speaker2: That's great, I need to buy some things recently, when will it end?
+Speaker1: The activity starts today and lasts until this weekend. You can come anytime.
+Speaker2: Okay, I'll go take a look tomorrow, thank you.
+Speaker1: No problem, I'm looking forward to your arrival. What do you need? You can contact me anytime. Goodbye.
+Speaker2: Okay, bye.

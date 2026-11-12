@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm waiting for you at the subway station.
+Speaker2: Hello, I just got off the subway, should I be able to see you now?
+Speaker1: I see you, are you wearing a blue shirt?
+Speaker2: Yes, blue shirt, black pants. Where are you?
+Speaker1: I'm standing right next to the bus stop sign at the right side of the subway station, you go this way.
+Speaker2: Okay, I'll be there soon.
+Speaker1: Let's go to the coffee shop in front when you arrive, the environment is good there.
+Speaker2: Great idea, I also want to eat something.
+Speaker1: The coffee shop is right in front of the second road corner, easy to find.
+Speaker2: Okay, I arrived to call you.

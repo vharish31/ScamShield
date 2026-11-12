@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything to talk about?
+Speaker1: Hi, I'm Meituan customer service. I noticed you've been looking for part-time jobs on our platform recently. Can you tell me more about your needs?
+Speaker2: "Oh, that's it, I really want to find a part-time job, mainly to see if there are any delivery jobs."
+Speaker1: We have a suitable position here, you can take a look.
+Speaker2: Great, what are the specific requirements on this side?
+Speaker1: The most important thing is physical health, able to attend early and late classes, we provide free electric cars and dorms for the first three months.
+Speaker2: How about the salary and benefits?
+Speaker1: Salary is calculated based on a single rate, the more you work the more you get, on average a person can earn four to six thousand per month.
+Speaker2: Can I go to the interview now?
+Speaker1: You can come to our interview at 9 am tomorrow morning at the Meituan station in the sand and water area.
+Speaker2: Okay, I understand, I will arrive on time. Thank you for your information.
+Speaker1: No problem, see you later, wish you all the best. Bye.
+Speaker2: Goodbye.

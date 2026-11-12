@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, have you heard?
+Speaker2: Hey, did you hear anything? What's up?
+Speaker1: Hello, I am the customer service manager of speed loan finance, do you have any recent needs for cash flow?
+Speaker2: I don't have it at the moment, but I recently planned to renovate my house and might need a loan.
+Speaker1: That's great, we have a low-interest loan product that's perfect for your situation. All you need to provide is some basic personal information, and we'll take care of the rest.
+Speaker2: How to apply?
+Speaker1: It's very simple. Just click this link, fill out the relevant information, and we'll have a specialist contact you.
+Speaker2: Sure, I'll give it a try.
+Speaker1: Okay, here's the link: (simulated conversation, actual voice description) http://example.com/loan. Click and follow the instructions.
+Speaker2: Okay, thank you.

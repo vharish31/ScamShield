@@ -1,0 +1,10 @@
+Speaker1: Hello, are you at home? I'm delivering food.
+Speaker2: Hello, are you at the door?
+Speaker1: Arrived, but the door access seems to be broken, pressed the call button but no response.
+Speaker2: That's it, take a look at the left side to see if there's a staircase, you can go up directly.
+Speaker1: Found it, the stairs are here, I went up.
+Speaker2: Okay, you walk down the hallway after you come in, my house is 202.
+Speaker1: Okay, I see it, 202 is your home right?
+Speaker2: Okay, you come up, I wait for you.
+Speaker1: Okay, let's go.
+Speaker2: Okay, can you help me?

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm little Li, can you consult me about your fitness courses?
+Speaker2: Hello, little Li. We have many fitness courses here, which one do you want to know about?
+Speaker1: I want to know more about yoga class, I heard you guys have a new yoga class here.
+Speaker2: Yes, we recently opened a yoga class. This class is led by an experienced teacher and is held three times a week, on Tuesdays, Thursdays, and Sundays from 7 to 8:30 p.m.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: It's recommended to book in advance to ensure a spot. You can book through our official website or directly at the front desk.
+Speaker1: Okay, what's the cost?
+Speaker2: The fee for the yoga class is 200 yuan per month. If you decide to join for a longer period, we also have some discounted packages available.
+Speaker1: Sounds good, I'll think about it, thanks for the info.
+Speaker2: No problem, feel free to consult if you have any other questions. We look forward to your joining!

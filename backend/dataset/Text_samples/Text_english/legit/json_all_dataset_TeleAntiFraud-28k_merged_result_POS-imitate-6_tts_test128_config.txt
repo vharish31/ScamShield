@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the food square, you ordered food from us before, now you have a discount coupon to send to you, do you think it's convenient for you to accept it?
+Speaker2: Hello, can I hear any discounts on this side?
+Speaker1: So, there's a 200-50 discount promotion going on in the food square right now, and we have a discount coupon for you, when do you have time to come have dinner?
+Speaker2: This discount sounds great, I have some free time tomorrow night, can I come over for dinner?
+Speaker1: Great, can I reserve a spot for you tonight at 6:30 PM?
+Speaker2: Can I arrive at six thirty? But if I'm late a little, can I still keep my seat?
+Speaker1: Of course, we will reserve a seat for you until 7 pm. If there are any special circumstances, you can contact our server anytime.
+Speaker2: Okay, I'll relax now. Also, my friend wants to go with me, is that okay?
+Speaker1: It's completely fine, the more friends the merrier, just bring them directly over when the time comes, we'll take care of everything.
+Speaker2: That's great, see you later. Thank you for your service.

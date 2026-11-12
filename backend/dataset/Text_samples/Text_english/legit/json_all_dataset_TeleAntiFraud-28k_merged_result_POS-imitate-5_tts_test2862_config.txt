@@ -1,0 +1,12 @@
+Speaker1: Hey, I recently want to buy a new phone, do you have the latest model on your side?
+Speaker2: What brand would you like to know about? We have new iPhone, Samsung and Huawei phones now.
+Speaker1: Can you introduce me to the latest Huawei phone?
+Speaker2: Of course. The latest Huawei phone is the Huawei Mate 50 series, this phone uses the latest Kirin chip, the camera function is very strong, and it also supports fast charging and wireless reverse charging.
+Speaker1: How much does that phone cost?
+Speaker2: The price of the Huawei Mate 50 series varies depending on the configuration, starting at around 3,999 yuan and potentially reaching over 6,000 yuan for the top-end version.
+Speaker1: Hmm, this price is still within my budget range. If I order now, how long will it take to deliver?
+Speaker2: If you place an order now, we usually ship within 24 hours, the delivery time may vary depending on your location, usually 3-5 days.
+Speaker1: Okay, I'll place the order. And, how is your after-sales service if there are any issues with the phone?
+Speaker2: Our after-sales service is very good. If the phone you bought has a problem, you can return it without reason within seven days after purchase, exchange it within fifteen days, and enjoy free repair service within one year.
+Speaker1: Now I'm relieved, thank you for your detailed introduction.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a happy shopping!

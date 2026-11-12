@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can you rent a room here?
+Speaker2: How long do you want to rent it for?
+Speaker1: I want to rent a few months, specifically, what are the room conditions like?
+Speaker2: Sure, the room has an independent bathroom, air conditioning, and good internet.
+Speaker1: How do you calculate rent?
+Speaker2: Rent is 2500 yuan per month, deposit is one month's rent paid in advance, and water and electricity are self-paid.
+Speaker1: Can I go take a look? It sounds alright.
+Speaker2: Of course, when is it convenient?
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Okay, tomorrow afternoon at three o'clock, I will be waiting for you in the room.

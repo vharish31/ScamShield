@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li. Yesterday I ordered a cake at your store. Can you confirm the order situation?
+Speaker2: Hello, Mr. Li, I am the customer service of the bakery, your order has been received, what information do you need to confirm?
+Speaker1: Can you tell me the taste of cake and the delivery time, and is it possible to deliver it to my home?
+Speaker2: Your cake flavor is chocolate and strawberry, delivery time is tomorrow afternoon three to five, can be delivered to your home.
+Speaker1: Okay, that's the address of Happiness Villa No. 2, Unit 3, Room 402. Right, do you have anyone at home?
+Speaker2: If there's no one at home, we'll be at the door guard of the community, you can come and get us whenever you're convenient.
+Speaker1: Okay, then I'll be at home tomorrow, please send them on time.
+Speaker2: Okay, we will deliver on time. If you have any other needs, please feel free to contact us.
+Speaker1: How much does that cake cost?
+Speaker2: Your cake total is 198 yuan, and the online payment has been successful.

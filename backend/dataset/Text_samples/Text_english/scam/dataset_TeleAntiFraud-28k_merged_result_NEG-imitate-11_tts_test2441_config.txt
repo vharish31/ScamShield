@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Xinghua Bank Loan Center, I am your loan advisor Li Xia, are you Mr. Zhang?
+Speaker2: Yes, what do you have in mind?
+Speaker1: Mr. Zhang, we have a special low-interest loan product designed for the working class, with fast approval speed and high credit limit, which is very suitable for you as a high-quality customer.
+Speaker2: That sounds good, but I don't understand loans well.
+Speaker1: No problem, I can explain it in detail. This product is completely interest-free. You just need to provide your ID and income proof, and you can get the loan immediately today.
+Speaker2: That sounds really convenient, I really need to borrow some money right now.
+Speaker1: Yes, Mr. Zhang, I understand your requirements. To facilitate your operation, you can first download our app, submit your application materials through the app, the process is very simple.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, our app is certified by the Chinese government, you can rest assured to use it. After downloading, I will send you a link, clicking on the link can directly enter the application page.
+Speaker2: Okay, let me try.

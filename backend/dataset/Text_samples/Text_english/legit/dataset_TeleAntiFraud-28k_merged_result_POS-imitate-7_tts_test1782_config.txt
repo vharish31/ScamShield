@@ -1,0 +1,16 @@
+Speaker1: Hello, I'm small Li, I want to know more about your household services
+Speaker2: Hello, Xiao Li, I am a customer service representative for home service, can I help you with anything?
+Speaker1: What kind of service projects do you all have, like cleaning and moving?
+Speaker2: We provide comprehensive household services, including daily cleaning, deep cleaning, and moving services. Which specific service do you need?
+Speaker1: I've been busy at home lately and I want to hire someone to help with a big cleaning session. I don't know what your pricing standards are like.
+Speaker2: Our pricing standards are based on the content and time of service, typically charged by the hour for large-scale cleaning, fifty yuan per hour, how many hours do you need?
+Speaker1: How long does it take to paint a house that's about 100 square meters?
+Speaker2: A 100 square meter apartment, if not particularly messy, usually takes 3 to 4 hours, so you'll probably have to pay 150 to 200 yuan.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: Yes, to ensure service quality, we suggest you book in advance, I can arrange a suitable time for you.
+Speaker1: Can you arrange something for me this weekend?
+Speaker2: Of course, we also have service staff on duty on weekends. Which specific day do you want?
+Speaker1: Can we start at around three in the afternoon on Saturday?
+Speaker2: Okay, I will record it down, on Saturday afternoon at three o'clock, we will arrive at your home on time to provide service, see you then.
+Speaker1: Okay, thank you, see you later.
+Speaker2: You're welcome, wish you have a nice day, bye.

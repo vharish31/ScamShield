@@ -1,0 +1,12 @@
+Speaker1: Hi, I'm little Li, want to consult your car rental service.
+Speaker2: Hello, little Li, I am the little king of the small car rental, what can I help you with?
+Speaker1: I want to rent a car tomorrow for a trip, do you have any recommended car models?
+Speaker2: Of course, we recommend an economic car here, which is very suitable for short-distance travel, low fuel consumption, and easy to drive.
+Speaker1: How much does it cost?
+Speaker2: The daily rental fee for an economic car is 200 yuan, and the additional insurance fee is 50 yuan per day. If you rent for three days or more, you can enjoy a 90% discount.
+Speaker1: Okay, do I need to book now?
+Speaker2: I suggest you book in advance to ensure the car type you want is available. You can do so through our website or directly here.
+Speaker1: What information do I need to provide?
+Speaker2: You need to provide a valid driver's license, identity card information, and a contact phone number, so we can verify identity and keep in touch.
+Speaker1: Okay, I understand, thank you for your help.
+Speaker2: No problem, feel free to contact me if you have any other questions. Have a great trip!

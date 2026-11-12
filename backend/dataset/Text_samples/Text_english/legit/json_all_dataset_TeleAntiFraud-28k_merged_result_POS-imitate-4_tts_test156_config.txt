@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a customer service representative from the smart home mall, and I noticed that you have browsed several smart door locks on our platform before. Do you still have interest in learning more now?
+Speaker2: Oh, really? I'm really interested, can you introduce me?
+Speaker1: Of course, our latest smart door lock not only supports fingerprint unlock, but also can be remotely controlled by phone, very suitable for you.
+Speaker2: Does this electronic product sound good, but will it be complicated to use?
+Speaker1: No need to worry at all, our product design is very user-friendly, even elderly and children can easily handle it. Moreover, we also provide detailed operation manual and video tutorial.
+Speaker2: So, what about the price?
+Speaker1: This smart door lock is currently on sale, the original price is 1999 yuan, now only 1599 yuan, and you will also get free installation service.
+Speaker2: Hmm, this price is acceptable. Do you guys have warranty service over there?
+Speaker1: We provide two years of free warranty service. If you encounter any problems during use, you can contact us at any time, and we will quickly solve them for you.
+Speaker2: Okay, I'll think about it and get back to you after these few days are done.
+Speaker1: Okay, you can contact us anytime, we hope our product can bring convenience to you. Have a happy life, bye!
+Speaker2: Thank you, goodbye!

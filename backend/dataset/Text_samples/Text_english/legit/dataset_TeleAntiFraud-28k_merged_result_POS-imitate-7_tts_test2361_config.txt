@@ -1,0 +1,10 @@
+Speaker1: Hello, I am Li Ming, can you check how many tickets are left for the 8:00 am flight tomorrow?
+Speaker2: Hello, Li Ming, wait a moment, I'll look it up for you.
+Speaker1: Okay, thank you.
+Speaker2: Found it, there are still fifteen tickets for the eight o'clock train tomorrow morning.
+Speaker1: I still have so many, so I'll take two.
+Speaker2: Okay, two tickets have been reserved for you. Please provide your identity card information to complete the purchase.
+Speaker1: My ID number is 12345678901234, could you please fill it out for me?
+Speaker2: Okay, the information has been filled out, your ticket has been successfully booked, and it will be sent to your phone via text message.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, wish you a pleasant journey.

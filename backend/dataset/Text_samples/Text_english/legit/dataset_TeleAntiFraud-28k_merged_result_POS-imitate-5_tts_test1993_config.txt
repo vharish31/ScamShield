@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? This is the flower shop in the flower city. Do you have any special arrangements for the upcoming mother's day?
+Speaker2: Hey, I plan to send my mom a bouquet of flowers, do you have any recommendations?
+Speaker1: Of course, we have a special mother's day bouquet here that includes roses, carnations and lilies, which are very popular. We also have a special one designed for mothers that includes their favorite flowers like daisies and baby's breath, symbolizing warmth and happiness.
+Speaker2: How much does that bouquet cost?
+Speaker1: This special mother's day flower bouquet costs 288 yuan, and if you order now, you can enjoy a 90% discount.
+Speaker2: Okay, I'll order this bouquet. When do you need it delivered?
+Speaker1: When would you like us to deliver for free at the time you specify?
+Speaker2: I hope to deliver on Saturday morning, the address is Yangguang Huanjuan Xiǎoquān.
+Speaker1: Okay, on Saturday morning at Yangguang Huayuan Xiaoquan, we will deliver on time. Is there anything else you need help with?
+Speaker2: No more, thank you.

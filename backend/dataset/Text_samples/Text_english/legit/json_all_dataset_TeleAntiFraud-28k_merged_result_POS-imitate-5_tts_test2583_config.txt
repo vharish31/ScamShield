@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service representative of the mall, your shopping points will be cleared at midnight tonight, and you haven't redeemed them yet.
+Speaker2: Oh, really? I didn't know there was this score.
+Speaker1: Yes, you have accumulated over 12,000 points on your account, which can be exchanged for a variety of products, such as electronic devices and home appliances.
+Speaker2: How do I exchange it?
+Speaker1: You can exchange products in our store or app by logging in and finding the point mall, selecting your favorite products, and using points to redeem them.
+Speaker2: Okay, I'll go take a look right away.
+Speaker1: Okay, feel free to contact our customer service anytime if you have any questions.
+Speaker2: Thank you, I know now.
+Speaker1: You're welcome, hope you have a good shopping trip.
+Speaker2: Okay, bye.

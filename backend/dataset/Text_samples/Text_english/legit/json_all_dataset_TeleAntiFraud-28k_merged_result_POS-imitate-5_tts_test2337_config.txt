@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, I just placed an order for a washing machine on your website, but I haven't seen the shipping info yet.
+Speaker2: Hello, Mr. Li, I am customer service Zhang, can I help you look up? Can you tell me the order number?
+Speaker1: Okay, my order number is 235678.
+Speaker2: Okay, I'll check. Please wait a moment.
+Speaker1: Okay, thank you.
+Speaker2: Your order is still in the warehouse being packaged and is expected to be shipped out tomorrow morning.
+Speaker1: When will it arrive approximately?
+Speaker2: According to the information from the logistics company, in general, it takes about two to three days to deliver after shipping tomorrow.
+Speaker1: Okay, I'll wait a moment. If I don't receive it by then, I'll contact you again.
+Speaker2: Okay, if you have any questions, please feel free to contact us anytime. We will solve it as soon as possible.

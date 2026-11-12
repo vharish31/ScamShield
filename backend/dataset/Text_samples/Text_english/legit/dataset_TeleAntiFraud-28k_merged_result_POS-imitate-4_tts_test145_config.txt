@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: I can hear that you're speaking softly, but it's a bit loud here.
+Speaker1: Uh, okay. Are you looking to consult our restaurant's menu?
+Speaker2: Yes, do you have a suitable four-person meal?
+Speaker1: Yes, we have a four-person set meal here that includes four main dishes, a soup and a dessert, which is very suitable for a family dinner.
+Speaker2: How much does it cost to sound good?
+Speaker1: This dish originally costs 288 yuan, but now there's a discount promotion, only 228 yuan.
+Speaker2: What are your business hours?
+Speaker1: Our restaurant business hours are from 11 am to 9 pm, on weekends they will be extended to 10 pm.
+Speaker2: Okay, I plan to go at 7 pm on Saturday night. Do I need to make a reservation in advance?
+Speaker1: It's recommended to book in advance, weekends are crowded, booking can ensure you have a spot.

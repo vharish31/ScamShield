@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I just saw your shop's info, want to consult.
+Speaker2: Hello, little king, I am the store's customer service, what can I help you with?
+Speaker1: Can you tell me about your store's business hours and if there have been any recent promotional activities?
+Speaker2: Our store is open from 9am to 9pm every day, and we're currently running a summer promotion. Some items are on sale, so you can take a look.
+Speaker1: Have you got a shop that sells phones? I want to buy a new one recently.
+Speaker2: Yes, our store has various brands of mobile phones, you can come and pick, and there are professional workmen to provide you with advice.
+Speaker1: Okay, I'll probably come over in the afternoon tomorrow, will you open the door tomorrow?
+Speaker2: Tomorrow we are open normally, you can come anytime, I suggest coming half an hour earlier, this way you have enough time to choose.
+Speaker1: Okay, thank you for your help. See you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you have a happy shopping experience.

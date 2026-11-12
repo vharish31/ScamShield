@@ -1,0 +1,14 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm Xiaoming, I saw a phone in your store that I like, can I ask a few questions?
+Speaker2: Hello, Xiaoming, what can I help you with, which phone model is it?
+Speaker1: That's the latest smartphone from your store, I saw online that its functions are very good.
+Speaker2: Hmm, that phone is indeed one of our best-selling products. It has a high-resolution screen and is equipped with the latest processor, making it perfect for daily use and gaming.
+Speaker1: How much does that phone cost?
+Speaker2: This phone costs 3800 yuan, we are currently having a promotion, you have the chance to get a free gift if you buy it.
+Speaker1: Oh, there's a gift, what's the gift?
+Speaker2: The gift includes a phone case worth 100 yuan and a discount coupon for 100 yuan, it's very cheap.
+Speaker1: Okay, I'll think about it, if I decide to buy, can I just come directly to your store?
+Speaker2: Yes, welcome you to come to the store to shop anytime, if you confirm the purchase, you can also call in advance to reserve, avoid waiting in line.
+Speaker1: Okay, thank you, I'll consider contacting you again.
+Speaker2: You're welcome! Feel free to ask any questions anytime. We're looking forward to your arrival. Goodbye!
+Speaker1: Goodbye

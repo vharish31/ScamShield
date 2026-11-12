@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm small Zhang from Agricultural Bank's Tianhe Branch. We have a special loan product that's perfect for you. Do you have any recent funding needs?
+Speaker2: Uh, is that so? I recently need some money, but I don't know much about these loans.
+Speaker1: No problem, I am a professional credit manager, can help you handle. You just need to provide some basic information, we can quickly approve.
+Speaker2: What information is needed?
+Speaker1: You just need to provide your ID, bank statement, and work proof. Additionally, to facilitate our review, you can submit your documents through our app.
+Speaker2: Do you have an app? How do you download it?
+Speaker1: Yes, you can scan the QR code I send you and download our official app, register and upload your data after that.
+Speaker2: Okay, how do you send me a QR code?
+Speaker1: I'll send you a text message, please pay attention to check it. After receiving it, follow the instructions. If you have any problems, feel free to contact me anytime.
+Speaker2: Okay, thank you. I'll go pick up my messages later.

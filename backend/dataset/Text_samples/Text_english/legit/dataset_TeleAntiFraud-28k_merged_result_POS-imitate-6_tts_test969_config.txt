@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I just ordered a hamburger set meal, can you confirm your delivery time?
+Speaker2: Hello, Xiao Ming, I am a delivery person for an online food platform, your order has been received, we estimate it will arrive in 30 minutes.
+Speaker1: Okay, I'm in building A of the tech park, do you guys know this place?
+Speaker2: I know, we often send to building A in the tech park, no mistakes.
+Speaker1: Okay, I might have a meeting later, if no one answers the phone, please just deliver it to the front desk.
+Speaker2: No problem, I will deliver it directly to the front desk when the time comes. Just remember to pick it up when you come to eat.
+Speaker1: Okay, thank you for your cooperation. I'll wait for you at the front desk later.
+Speaker2: Okay, if everything goes smoothly, you'll be there in twenty minutes. Just pay attention to your phone info.
+Speaker1: Okay, thank you again, see you later.
+Speaker2: No problem, see you later.

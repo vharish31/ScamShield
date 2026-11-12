@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I'm Zhang, the loan consultant and processor at the bank.
+Speaker2: Hello, I am Li Xiāngshēng, what can I help you with?
+Speaker1: Mr. Li, we understand that you may have a need for capital rotation on this side, our bank currently has a low interest rate, quick loan product, very suitable for you.
+Speaker2: Really? I really need some capital to expand my small business recently.
+Speaker1: Yes, Mr. Lee, this product is very suitable for your needs. To complete the application process quickly, I need you to download our bank's official app first, and then follow the instructions to fill in the relevant information.
+Speaker2: Okay, I'll download it. What should I do after downloading?
+Speaker1: After downloading, you open the APP, click on the "Quick Loan" on the first page, fill in your basic information and loan requirements, and submit. I will quickly review it.
+Speaker2: That sounds pretty convenient, I'll go do it right away. Do I need to prepare any materials?
+Speaker1: You just need to prepare your identity card, business license, and the latest financial report, all of which can be uploaded in the app.
+Speaker2: Okay, I know now, I'll go prepare. Thank you, Mr. Zhang.

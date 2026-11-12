@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: I am the customer service for the online food platform. Did you book a table for tonight at 7 pm?
+Speaker2: Yes, I remember it was booked, is there any problem?
+Speaker1: Is there any problem? We just want to confirm if you'll come tomorrow, because we need to prepare in advance.
+Speaker2: Oh, I understand. I will arrive on time tomorrow.
+Speaker1: Great, we have reserved a spot for you. By the way, do you have any special dietary requirements?
+Speaker2: No special ones, just can't eat spicy.
+Speaker1: Okay, we will pay attention. Also, are you planning to come early or directly at seven o'clock?
+Speaker2: Can I arrive around six thirty?
+Speaker1: Of course, we welcome your arrival anytime. If there are any changes, you can contact us anytime.
+Speaker2: Okay, thank you for your reminder, see you later.
+Speaker1: Okay, see you later, wish you a happy day.

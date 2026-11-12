@@ -1,0 +1,11 @@
+Speaker1: Hello, this is Liu's car repair center.
+Speaker2: Hello, I saw online that it's possible to book a car maintenance appointment. Can you tell me the process?
+Speaker1: Of course, just tell me your car plate number and the time you want to book, we will arrange it for you.
+Speaker2: Okay, my license plate number is one two three four five six seven, I want to reserve this Saturday morning at ten o'clock.
+Speaker1: Okay, Saturday morning at 10 am is fine. Please arrive half an hour early so we can be ready.
+Speaker2: Okay, I will arrive on time. Do I need to prepare anything else?
+Speaker1: You just need to bring your driver's license and vehicle registration, and we'll take care of the rest.
+Speaker2: What's the way to calculate the cost?
+Speaker1: The cost will be based on your car condition and maintenance items. We will conduct a preliminary check upon your arrival and then provide you with a quote.
+Speaker2: Okay, thank you for your patience in answering, see you on Saturday.
+Speaker1: No problem, see you on Saturday, wish you a happy day.

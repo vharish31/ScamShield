@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, hi, I'm little Zhang, I just bought a piece of clothing at your store, when I got home I found the size wasn't right, can I exchange it for a bigger one?
+Speaker1: Hello, little Zhang, is it okay, what clothes did you buy, what size?
+Speaker2: That blue T-shirt, size M, I want to change to size L.
+Speaker1: Okay, L code, we have stock here, you can directly come to the store to exchange, or we can also send it to you by mail, which one is more convenient for you?
+Speaker2: Can I come to the store to exchange it? Where is the address?
+Speaker1: Okay, our store is on the third floor of the shopping center in the city center. You can find us directly on the third floor when you arrive.
+Speaker2: Okay, I'll be there around 2 pm, can I?
+Speaker1: Okay, I'll wait for you at the store at 2 pm. Just come find us when you arrive.
+Speaker2: Okay, thank you, see you later.
+Speaker1: No problem, see you later.

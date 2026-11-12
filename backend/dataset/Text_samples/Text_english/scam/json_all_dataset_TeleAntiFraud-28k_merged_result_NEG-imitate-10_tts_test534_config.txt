@@ -1,0 +1,12 @@
+Speaker1: Hello, this is the JD customer service center, I am customer service representative Zhang, you recently purchased items on our platform that need to be refunded due to logistics issues, would you like me to explain it to you?
+Speaker2: Okay, you say.
+Speaker1: Thank you for your cooperation. We have already processed your refund, but we need you to provide us with your bank account information so that we can quickly return the money to you.
+Speaker2: Can't you directly go back to my original payment method?
+Speaker1: Because of the system upgrade, it's temporarily not possible to directly return to the original payment method. You can only refund through the bank account. Is that okay?
+Speaker2: Okay, what information do you need me to provide?
+Speaker1: Please provide your bank card number and branch information, and we will process it within one workday.
+Speaker2: Okay, my bank card number is 123, the issuing bank is Commercial Bank.
+Speaker1: Okay, I have recorded it down. Additionally, to ensure your financial safety, we also need you to provide your bank card's reserved phone number, for identity verification.
+Speaker2: My phone number is 13800138000.
+Speaker1: Thank you very much for your cooperation. We have completed all steps and you will receive a refund soon. If you have any questions, please feel free to contact us anytime.
+Speaker2: Okay, thank you.

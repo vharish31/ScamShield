@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What's up?
+Speaker1: I am the customer service at the small king car dealership, have you been considering our cars lately?
+Speaker2: Hmm, still considering, but lately my hands have been tight.
+Speaker1: We have a car purchase policy here now with a low down payment and flexible monthly payments, you might want to consider it.
+Speaker2: What about the interest rate?
+Speaker1: The interest rate is very low, currently at an annual three percent. If you're interested, you can come to the store to discuss in detail.
+Speaker2: Can I try driving first?
+Speaker1: Of course, you can make an appointment to test drive and experience the car model.
+Speaker2: Okay, can I schedule a meeting for tomorrow afternoon at 2 PM?
+Speaker1: No problem, I'll book it for you, see you tomorrow at 2 pm.
+Speaker2: Okay, thank you, see you tomorrow.

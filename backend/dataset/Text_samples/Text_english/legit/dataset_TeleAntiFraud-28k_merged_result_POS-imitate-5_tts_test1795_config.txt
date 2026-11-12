@@ -1,0 +1,10 @@
+Speaker1: Hello, is this the front desk on the first floor?
+Speaker2: Hello, yes, is there anything I can help you with?
+Speaker1: Just arrived at this community, can't find my apartment's specific location, can you help me with directions?
+Speaker2: Of course, what is your apartment number?
+Speaker1: It's the third floor, I'm at the door.
+Speaker2: Okay, go from the front door, walk straight for 100 meters left and right, then turn left, the third floor is on your right hand side, there is a clear building number sign at the door.
+Speaker1: Okay, thank you. By the way, my home's door number is three zero two, I'm afraid of getting lost.
+Speaker2: No problem, room 302 is on the first floor of building 3, you can see it once you arrive at building 3. If there are any other issues, feel free to contact me anytime.
+Speaker1: Okay, thank you for your help, goodbye.
+Speaker2: No problem, wish you all the best, bye.

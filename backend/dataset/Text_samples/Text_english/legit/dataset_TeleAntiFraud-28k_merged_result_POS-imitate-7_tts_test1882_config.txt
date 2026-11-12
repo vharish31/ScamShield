@@ -1,0 +1,12 @@
+Speaker1: Hello, are you the new green restaurant?
+Speaker2: Hello, this is the Xiānggē restaurant, what can I help you with?
+Speaker1: Can I reserve a seat for tomorrow at noon?
+Speaker2: Of course, do you need to reserve several seats?
+Speaker1: Are there any window seats among the four of you?
+Speaker2: Yes, the scenery from the window position is very good, I can book it for you.
+Speaker1: Okay, thank you. How early do I need to arrive?
+Speaker2: Please arrive ten minutes early, we will reserve a spot for you.
+Speaker1: Okay, can I just come directly at the time?
+Speaker2: Yes, at the appointed time, our waiter will guide you.
+Speaker1: Thank you, I'll see you tomorrow.
+Speaker2: Okay, see you tomorrow, wish you a happy day.

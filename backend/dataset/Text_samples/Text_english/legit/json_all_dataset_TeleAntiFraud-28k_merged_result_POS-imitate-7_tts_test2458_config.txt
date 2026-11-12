@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Where are you? I just arrived at the parking lot.
+Speaker1: I'm waiting for you at the supermarket entrance. It's not good to park here, can you come quickly?
+Speaker2: Okay, I know, I'll be right there.
+Speaker1: Uh-huh, do you remember to bring an umbrella? The weather forecast predicts it might rain today.
+Speaker2: Oh no, almost forgot, thank you, I'll just go find now.
+Speaker1: Is it raining on your side?
+Speaker2: It's not yet, but the sky is a bit dark, I guess it will rain soon.
+Speaker1: Let's hurry up, buy the stuff and get back home early.
+Speaker2: Okay, I'll go over there now, see you later.

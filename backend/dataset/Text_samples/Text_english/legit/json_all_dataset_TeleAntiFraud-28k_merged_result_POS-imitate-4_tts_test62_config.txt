@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the community property, I saw that your water and electricity bill for this month has not been paid yet, I want to remind you.
+Speaker2: Oh, okay, I've been busy lately, I forgot.
+Speaker1: No worries, you can come to our office when it's convenient for you, or you can pay online through our app.
+Speaker2: How do I operate online payment?
+Speaker1: Open WeChat, search for our community's property management app, register and you'll see the option to pay for water and electricity on the first page after registration.
+Speaker2: Okay, let me try.
+Speaker1: If you encounter any problems, feel free to contact me anytime, I will help you solve them.
+Speaker2: Thank you, now I can relax.
+Speaker1: No problem, is there anything else you need my help with?
+Speaker2: No longer available, thank you.

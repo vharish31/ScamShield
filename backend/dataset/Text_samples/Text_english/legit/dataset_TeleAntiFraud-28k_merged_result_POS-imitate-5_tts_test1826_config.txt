@@ -1,0 +1,14 @@
+Speaker1: Hi, how do I book a car to the airport tomorrow?
+Speaker2: Hello, is it possible to arrange for a pick-up service tomorrow?
+Speaker1: Yes, I need to be at the airport at eight o'clock tomorrow morning. Can you arrange it?
+Speaker2: Sure, I'll book a reservation for you. Where are you starting from?
+Speaker1: I am starting from Tiananmen Square.
+Speaker2: Okay, it takes about an hour to walk from Tiananmen Square to the airport. I will arrange for my teacher to pick you up at 7 am in the morning.
+Speaker1: That's great, and I have a lot of luggage, can you arrange a big car?
+Speaker2: No problem, I will arrange a business car for you, with enough space to easily accommodate your luggage.
+Speaker1: Thank you very much, how do you calculate the cost?
+Speaker2: The cost is calculated based on the car type and distance, the business car from Tiananmen Square to the airport is approximately 300 yuan.
+Speaker1: Okay, now I feel relieved, will the teacher contact me later?
+Speaker2: The master will contact you one hour before departure to confirm the specific location.
+Speaker1: Okay, that's all I need from you, thank you.
+Speaker2: You're welcome, wish you a pleasant journey, feel free to contact us anytime if you have any questions.

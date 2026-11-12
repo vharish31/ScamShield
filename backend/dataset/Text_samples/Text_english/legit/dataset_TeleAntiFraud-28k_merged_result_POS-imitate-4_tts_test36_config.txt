@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to reserve a seat for tomorrow night at six o'clock, is it possible?
+Speaker2: Hello, is it possible to make a reservation for several people?
+Speaker1: We are four people.
+Speaker2: Okay, four seats have been reserved for you. Could you please provide your name and contact information so we can confirm?
+Speaker1: I am Li Wen, my phone number is 1381236789.
+Speaker2: Mr. Li, your information has been recorded. The reservation is for four people at six o'clock in the evening. Do you have any special requirements, such as a smoking area or a window seat?
+Speaker1: If there's a spot by the window, that's best.
+Speaker2: Okay, we will do our best to arrange it. At the time, please directly report your name, we will prepare it for you.
+Speaker1: Okay, thank you. And do you have vegetables?
+Speaker2: Yes, we have many vegetables to choose from, you can take a look at the menu later. If you need to, you can tell me in advance, I will recommend for you.

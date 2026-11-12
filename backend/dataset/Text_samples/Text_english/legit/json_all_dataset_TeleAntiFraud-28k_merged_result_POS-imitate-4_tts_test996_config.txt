@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a little bear, the waiter of this shop, did you order a seat at our shop before?
+Speaker2: Okay, I reserved tonight's seat.
+Speaker1: Okay, let's confirm the time. Are you six o'clock?
+Speaker2: Yes, that's right.
+Speaker1: Okay, we'll save you a spot. Also, we have new dishes today, would you like to try them?
+Speaker2: What are the new menu items? Do you have any recommendations?
+Speaker1: Our new signature dishes include spicy Szechuan and steamed sea bass, both highly rated by customers.
+Speaker2: Sounds good, I'll try the spicy hot pot later.
+Speaker1: Okay, I will give you my recommendations at the designated time. If you need to prepare in advance, you can call me half an hour before to confirm.
+Speaker2: Okay, thank you for your reminder, I will pay attention later.
+Speaker1: No problem, I'm looking forward to your arrival. Goodbye.
+Speaker2: Goodbye.

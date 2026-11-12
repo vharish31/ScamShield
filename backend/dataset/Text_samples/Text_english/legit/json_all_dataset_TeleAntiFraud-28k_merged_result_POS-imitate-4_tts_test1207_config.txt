@@ -1,0 +1,9 @@
+Speaker1: Hey, where are you?
+Speaker2: Hey, I'm at a small park near my home, how are you?
+Speaker1: Hey, I'm at work today, overtime, do you have any time tonight to hang out and have dinner together?
+Speaker2: Sure, but I want to try the new Sichuan restaurant today, how about it?
+Speaker1: Sounds good, I've heard the food there is great, let's go there.
+Speaker2: Okay, I checked and it should start queuing around seven, but we were at six and a half, how are we doing?
+Speaker1: Okay, I should be able to leave work around six, just wait for me there.
+Speaker2: Okay, just be careful on the road, I'll meet you later.
+Speaker1: Okay, see you on the road.

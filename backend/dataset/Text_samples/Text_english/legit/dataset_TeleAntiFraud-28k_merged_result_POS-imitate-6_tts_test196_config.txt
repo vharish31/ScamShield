@@ -1,0 +1,10 @@
+Speaker1: Is it convenient for you to talk now on your side?
+Speaker2: Sure, you say.
+Speaker1: Do you have any restaurant recommendations for takeout today?
+Speaker2: What type of food do you want to eat? For example, Sichuan cuisine, Cantonese cuisine, or fast food?
+Speaker1: Don't want to eat spicy food, no more Sichuan cuisine.
+Speaker2: I recommend you try "Green Meadow Restaurant". Their food is very clear and the environment is not bad.
+Speaker1: How much does this restaurant cost to hear?
+Speaker2: The prices are reasonable, most dishes are around 30 yuan.
+Speaker1: Okay, I'll go order food, thank you.
+Speaker2: No problem, I hope you enjoy your meal.

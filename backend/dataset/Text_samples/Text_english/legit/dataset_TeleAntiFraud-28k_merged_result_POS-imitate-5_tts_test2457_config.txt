@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if this store sells computers?
+Speaker2: Okay, we have various brand computers here, do you want a laptop or a desktop?
+Speaker1: I want a laptop mainly for work, with a budget of around 10,000 yuan.
+Speaker2: Okay, we have several brands and models that are quite suitable for office use here. You can come to the store to take a look or I can give you a simple introduction.
+Speaker1: Can you introduce me to it? I want to know about performance and price.
+Speaker2: Of course. We have a new series of laptops here, with a 10th generation Intel Core i5 processor, 8GB of memory, 512GB solid-state drive, and a price of exactly one thousand yuan.
+Speaker1: How long does the battery life of this computer last?
+Speaker2: This laptop's official battery life is around 10 hours, but it may be slightly shorter in actual use, but it should be enough to handle daily office work.
+Speaker1: What about the after-sales service?
+Speaker2: We provide one-year national all-in-one insurance service. If there are any issues, you can contact us anytime.
+Speaker1: Okay, can I come over tomorrow afternoon to take a detailed look?
+Speaker2: Of course, we are open from 3 pm to 7 pm tomorrow afternoon. You can come anytime you are convenient.
+Speaker1: Okay, thank you for your detailed introduction. See you tomorrow.
+Speaker2: No problem, see you tomorrow, be careful on the road.

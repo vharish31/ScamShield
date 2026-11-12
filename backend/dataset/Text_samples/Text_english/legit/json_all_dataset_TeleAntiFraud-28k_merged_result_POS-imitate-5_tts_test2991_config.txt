@@ -1,0 +1,8 @@
+Speaker1: Hi, how are you? I'm Li, the customer service from the express company. We see you have a package arrived at your community. Would you mind coming to pick it up?
+Speaker2: Hello, I'm a bit busy today, I might go over later.
+Speaker1: How about 9 PM tonight? We're open until 9 PM here.
+Speaker2: I'll probably arrive around seven in the evening.
+Speaker1: Okay, we'll keep your package for you between 7am and 7pm. Just call us with your phone number when you arrive and you can pick it up.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome. If you have other questions, please contact our customer service anytime. Have a nice day!
+Speaker2: Thank you, goodbye.

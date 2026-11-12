@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Laoban?
+Speaker2: Hey, who are you?
+Speaker1: I am the customer service manager at China Construction Bank. We have a special discount loan project here. Would you like to know more about it?
+Speaker2: Loan? I don't need a loan now.
+Speaker1: Oh, that's really too bad. But our project has a particularly low profit margin, and the approval is fast, and no deposit is required.
+Speaker2: Okay, let me think about it.
+Speaker1: Okay, can you add my WeChat? I'll send you detailed info. My WeChat is u1234567.
+Speaker2: WeChat? Can we just call directly?
+Speaker1: The phone call is not convenient, the information is quite a lot, you can decide after you finish it.
+Speaker2: Okay, I'll add you on WeChat.

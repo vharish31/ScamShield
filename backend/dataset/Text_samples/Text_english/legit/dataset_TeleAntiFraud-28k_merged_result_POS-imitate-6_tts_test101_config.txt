@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you? I want to consult your hair cutting service here.
+Speaker2: Hello, welcome to consult our hair cutting service. Do you want to make an appointment?
+Speaker1: Yes, I heard that your haircut skills are good here, want to try.
+Speaker2: Thank you for your compliment. We have various haircut packages here, which one do you want?
+Speaker1: I want to cut my hair short, don't want it too complicated.
+Speaker2: Okay, for short haircuts we have basic and trendy styles. Which one do you think is more suitable for you?
+Speaker1: This fashion style sounds good, let's go with this one.
+Speaker2: Okay, the trendy haircut will take us 60 minutes. Can you please schedule an appointment at what time?
+Speaker1: How was your weekend? Are you going out at 10 am on Saturday?
+Speaker2: Okay, on Saturday morning at 10am, we have a free slot here. Do you need to provide your name and contact information?
+Speaker1: Okay, my name is Li Ming, phone number is 133123456.
+Speaker2: Okay, Li Ming Xiāngshēng, I have already booked a fashion haircut service for you on Saturday morning at 10 am. Remember to arrive ten minutes early. Is there anything else?
+Speaker1: No more, thank you.
+Speaker2: No problem, thank you for your trust, wish you happy life. Bye.

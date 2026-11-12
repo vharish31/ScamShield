@@ -1,0 +1,12 @@
+Speaker1: Hello, is it Li Wenbo?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm a customer service representative from Commercial Bank. We noticed that you've had some issues with your credit card recently. Could you tell us more about the specific situation? Do you have a few minutes to spare?
+Speaker2: Okay, you say, what problem?
+Speaker1: We found some unusual transactions on your credit card. To ensure your financial safety, we need you to provide some information to verify your identity.
+Speaker2: What do I need to provide?
+Speaker1: Please provide the last six digits of your ID number and the last three digits of your credit card's back, we need to verify.
+Speaker2: Okay, my ID number is 623615, my credit card security code is 654.
+Speaker1: Thank you very much for your cooperation. Could you please click on a link to complete the verification? Is that convenient for you?
+Speaker2: Sure, you say, what's the link?
+Speaker1: Please click this link: [fake link], then follow the instructions on the page.
+Speaker2: Okay, I'll go operate right away.

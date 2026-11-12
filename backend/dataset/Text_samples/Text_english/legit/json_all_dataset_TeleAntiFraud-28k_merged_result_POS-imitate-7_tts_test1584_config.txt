@@ -1,0 +1,10 @@
+Speaker1: You are the barber shop, I saw you recruiting people.
+Speaker2: Okay, I am the manager here, what position are you interested in?
+Speaker1: I'm interested in the position of a hairdresser, I've done it before at another store, so I have some experience.
+Speaker2: That's good, we need experienced people. When can you come for an interview?
+Speaker1: Can I come tomorrow afternoon?
+Speaker2: Sure, come to my store at 2 pm tomorrow, we'll talk specifically.
+Speaker1: Okay, thank you. Where is your store?
+Speaker2: We arrived at Happiness Road 23rd Street, turned right at the first crossroad, and our store is on the north side.
+Speaker1: Okay, I understand, see you tomorrow.
+Speaker2: Okay, see you tomorrow.

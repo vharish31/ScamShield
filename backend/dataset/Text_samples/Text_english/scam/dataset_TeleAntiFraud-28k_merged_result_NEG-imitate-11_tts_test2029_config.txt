@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Hey, it's me, you're good.
+Speaker1: Hello, I am Lee Huang, the customer manager of Huaxia Bank, and we noticed your recent transaction records in our bank. You may have a need for capital rotation.
+Speaker2: Oh, really? I actually need some money recently.
+Speaker1: Is that so, we have a low-interest loan product that can be quickly approved, with the fastest possible approval time being today. Are you interested in learning more?
+Speaker2: What are the specific steps to do it?
+Speaker1: Very simple, you can first download our Huaxia loan app, register and fill in the relevant information, we will have a specialist review.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, after downloading, please contact me, I can help you quickly pass the review. This is my WeChat number, add it for easy contact later.
+Speaker2: Okay, I'll add you on WeChat.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? This is the Yangguang Kache Xiǎngrèn Zhōngxīn, your previously scheduled car washing service is tomorrow morning at 10 am, right?
+Speaker2: Okay, it's tomorrow morning at 10am, right?
+Speaker1: No problem, we have already reserved a spot for you here. Do you need us to prepare any special services in advance?
+Speaker2: No need, just a regular car wash, the body is quite dirty, I hope you can clean it seriously.
+Speaker1: Okay, we will pay special attention. Moreover, we have recently introduced waxing service here, do you want to do it together?
+Speaker2: How much does it cost to wax a suit?
+Speaker1: The waxing service is 200 yuan, which includes a comprehensive car body wax and polish, making the car paint more brilliant.
+Speaker2: Okay, let's do it together.
+Speaker1: Okay, tomorrow morning at 10 am, we will serve you on time. Are there any other things we need to prepare in advance?
+Speaker2: No more, thank you.
+Speaker1: You're welcome. I'm looking forward to your arrival. Goodbye.
+Speaker2: Goodbye.

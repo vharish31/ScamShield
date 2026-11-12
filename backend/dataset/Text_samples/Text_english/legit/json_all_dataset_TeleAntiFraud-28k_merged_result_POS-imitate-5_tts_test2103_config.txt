@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I saw your website, do you provide computer repair services?
+Speaker2: Hello, little Zhang, yes, we provide computer repair service, what problem did you encounter?
+Speaker1: My computer recently started automatically restarting, I tried restarting the system and cleaning up trash files, but it still didn't work.
+Speaker2: This situation may be a hardware issue, such as a memory bar or power supply issue. Please bring it over for us to check.
+Speaker1: Can I schedule a time? I'm free this Sunday.
+Speaker2: On Sunday, we are open for business as usual. You can choose to come from 9am to 11am or from 2pm to 4pm.
+Speaker1: Can I make a reservation for two in the afternoon?
+Speaker2: Okay, I have already reserved a time for you on Sunday afternoon at 2 pm. Remember to bring your computer and power cord.
+Speaker1: Okay, thank you, I will arrive on time.
+Speaker2: You're welcome. If you have any other questions, feel free to contact us anytime. Have a nice day.

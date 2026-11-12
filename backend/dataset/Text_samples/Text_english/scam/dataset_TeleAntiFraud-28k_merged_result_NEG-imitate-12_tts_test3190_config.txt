@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of Tianyu Technology, there is an abnormal situation with the recent products you purchased on our platform, please cooperate to handle it.
+Speaker2: What is the exception?
+Speaker1: Your order number is 123456789, we found that your product may have been lost during transportation, please provide some information so we can process your refund.
+Speaker2: Okay, what information do I need to provide?
+Speaker1: Please provide your bank card number and the verification code you received to verify your identity.
+Speaker2: I can provide my bank card number, but I haven't received the verification code yet.
+Speaker1: Okay, we'll send the verification code to the phone number you provided later, please pay attention to check it. Additionally, to speed up the process, you can click on the link we send and fill out the relevant information.
+Speaker2: Okay, I'll keep an eye on it later.
+Speaker1: Okay, we will process it quickly. If you have any questions, you can call our customer service hotline 4001234567 anytime.
+Speaker2: Okay, thank you.

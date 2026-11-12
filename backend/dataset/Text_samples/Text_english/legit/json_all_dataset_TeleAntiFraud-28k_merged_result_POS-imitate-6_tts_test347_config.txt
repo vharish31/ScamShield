@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, recently I want to buy a new phone, do you have any recommendations in your store?
+Speaker2: Hello, Small Li, I am Little Zhang from Electronic City, we have recently added several new phones here, do you have any requirements for brand and price?
+Speaker1: Uh, I don't have any specific requirements for the brand, the main thing is that the price isn't too expensive, around two or three thousand, mainly used for online shopping and photography.
+Speaker2: Okay, we have several options for this price range phone here, such as this new domestic brand, the performance is not bad, the photo effect is also quite good, and there is now a discount activity.
+Speaker1: How is the battery life of this phone? I find it inconvenient to charge it when I'm out and about.
+Speaker2: This phone's battery capacity is 4000mAh, it can be used normally for a whole day without any problems, and it also supports fast charging, with a very fast charging speed.
+Speaker1: Can I go take a look?
+Speaker2: Of course, our store is on the third floor of the electronic city in the city center. You can come anytime, I'm waiting for you here.
+Speaker1: Okay, I'll probably go in the afternoon. See you then.
+Speaker2: Okay, see you in the afternoon, looking forward to your arrival.

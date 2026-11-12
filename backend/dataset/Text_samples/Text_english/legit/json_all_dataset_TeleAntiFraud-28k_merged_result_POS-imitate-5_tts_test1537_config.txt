@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: I'd like to inquire about your hairdressing services.
+Speaker2: Okay, we provide haircut, hair dye, hair straightening and other hair services. Which aspect are you interested in?
+Speaker1: How much does it cost to cut short hair here?
+Speaker2: The price for short haircuts is sixty yuan. If additional styling services are required, it may be slightly more expensive.
+Speaker1: Sure, can I schedule an appointment for tomorrow afternoon at 2 PM?
+Speaker2: Okay, your appointment is tomorrow at 2 pm. Remember to arrive ten minutes early.
+Speaker1: Okay, thank you.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, wishing you a happy day.

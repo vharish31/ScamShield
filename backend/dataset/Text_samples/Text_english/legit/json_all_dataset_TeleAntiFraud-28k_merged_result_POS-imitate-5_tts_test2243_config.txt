@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you provide pet boarding services here?
+Speaker2: Yes, we have specialized pet boarding services here, which can take care of cats and dogs.
+Speaker1: What is the price of boarding pets?
+Speaker2: The price of boarding varies depending on the size of the pet and the length of time, small dogs cost 50 yuan a day and large dogs cost 80 yuan a day.
+Speaker1: Hey, I have a medium-sized dog, I want to board him for a week, do I need to make a reservation in advance?
+Speaker2: Yes, I recommend you book in advance, so we can arrange the appropriate foster environment for you.
+Speaker1: Okay, what information do I need to provide?
+Speaker2: Please provide basic information about your pet, such as breed, age, any special dietary requirements or health issues, and your contact information.
+Speaker1: I understand, thank you for your answer, I will contact you soon.
+Speaker2: You're welcome, feel free to consult anytime if you have any questions, wishing you a happy life.

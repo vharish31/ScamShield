@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from a courier company. I have found your package that is being sent and it is expected to arrive today in the afternoon.
+Speaker2: Okay, thank you for your notice. I'm at home today, so I should be fine.
+Speaker1: No problem, if today you're not convenient to pick up, we can reschedule delivery time.
+Speaker2: It should be fine, I'm at home all day, you guys can come anytime.
+Speaker1: Okay, let's proceed according to the original plan. We should arrive around 3:30 to 4:30 in the afternoon. Is that okay with you?
+Speaker2: Okay, I'll wait at home later.
+Speaker1: Okay, if you have any questions at any time, you can contact us, the phone number is on the package.
+Speaker2: Okay, I understand, thank you.
+Speaker1: You're welcome, wish you have a nice day, bye.
+Speaker2: Goodbye.

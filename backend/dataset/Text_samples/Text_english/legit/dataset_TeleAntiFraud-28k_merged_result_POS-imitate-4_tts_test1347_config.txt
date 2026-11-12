@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: I'm the little king of Deyue land, wasn't there a customer interested in your house yesterday?
+Speaker2: Oh, yes, how does that customer say?
+Speaker1: He asked for the price, I told him 260,000, he said it felt a bit high.
+Speaker2: Hmm, this price is a bit high, how's the market been lately?
+Speaker1: Recently sold several one-floor apartments, all around 2.4 million, your price is a bit high.
+Speaker2: If the price drops to 245,000, I'll consider it.
+Speaker1: Okay, I'll communicate with the customer a bit to understand his thoughts.
+Speaker2: Okay, talk to him and see what his thoughts are.
+Speaker1: Okay, I will feedback to the customer, and contact you again if there's any message.
+Speaker2: Okay, thank you for your understanding, goodbye.
+Speaker1: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Little Li's family?
+Speaker2: Yes, who are you?
+Speaker1: I'm your table brother, I came to find you to play today, I'm at your community door now.
+Speaker2: Okay, I'll go downstairs to meet you.
+Speaker1: Okay, I have something here to give you, just wait a minute.
+Speaker2: No problem, how much stuff do you have? Do you need me to go help you pick it up?
+Speaker1: Just a minute, I can get it, you just wait for me at the door.
+Speaker2: Okay, you wait at the door for me, I'm almost there.
+Speaker1: Okay, be careful on the road, I'll wait for you.
+Speaker2: I know, see you later.

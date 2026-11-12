@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Have you scheduled a water and electricity repair for your home in the community?
+Speaker2: Not yet, lately there's been a bit of chaos at home, I forgot about this matter.
+Speaker1: You can contact us anytime to schedule a time, our master will come to check.
+Speaker2: How long can I book in advance?
+Speaker1: In general, the master can come after two working days after booking.
+Speaker2: That's great, I have some free time on Saturday morning, can we meet then?
+Speaker1: Saturday morning is okay, please leave your contact information, we will notify you in advance.
+Speaker2: Okay, my phone number is 13800000000.
+Speaker1: Okay, I noted it down. See you on Saturday morning.
+Speaker2: Okay, thank you.

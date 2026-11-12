@@ -1,0 +1,11 @@
+Speaker1: Hey, are you Zhang Ming?
+Speaker2: Hey, who are you?
+Speaker1: I am a customer manager at Huaxing Bank, Lee Huai. We noticed you've been looking for loan information recently, and we can provide you with low-interest loan services.
+Speaker2: Oh, really? I actually have a bit of a cash need right now.
+Speaker1: Yes, we have a product that is very suitable for you. You can first download our app, register and then you can see detailed information.
+Speaker2: Download the app? Is it safe?
+Speaker1: Very safe, our app is authenticated, you just need to provide some basic information, we can evaluate your loan amount.
+Speaker2: What information do I need to provide?
+Speaker1: Just need your ID number, phone number, and bank account, so we can quickly approve.
+Speaker2: Okay, let me try.
+Speaker1: Great! After downloading the app, if you have any questions, you can directly contact me. My phone number is 13500000000. Wish you all the best!

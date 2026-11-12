@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. I noticed some unusual activity on your credit card recently, so we need to verify it.
+Speaker2: Hey, what's up? Do you have any questions?
+Speaker1: Hello, to ensure the safety of your account, we need you to provide your identity card number and bank card number, please confirm your identity.
+Speaker2: Okay, my ID number is 123456789012345678, and my bank card number is 62220812345678901234.
+Speaker1: Thank you for your cooperation. We also need you to provide us with a phone verification code. The verification code has already been sent to your phone. Could you please check it?
+Speaker2: Okay, the verification code is 123456.
+Speaker1: Thank you for your cooperation, we have verified your information, your account is fine.
+Speaker2: Okay, thank you.
+Speaker1: No problem, I have another matter to confirm with you, we have a high-yield investment project on this side, the recent returns are very observable, are you interested?
+Speaker2: Sure, let me know.
+Speaker1: Okay, please add my WeChat. My WeChat is 13812345678. I will send you detailed information.
+Speaker2: Okay, I'll add you on WeChat.
+Speaker1: Okay, thank you for your cooperation. Wish you a happy life. Bye.

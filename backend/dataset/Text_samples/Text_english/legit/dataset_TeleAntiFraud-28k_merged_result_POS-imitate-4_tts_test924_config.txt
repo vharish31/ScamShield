@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I work at the express station in your community, I want to tell you something, you have a package to pick up.
+Speaker2: Hey, hi, I just got home, now you can come over and pick up.
+Speaker1: Okay, if it's convenient for you, you can come now. The post office is next to the north door of the community.
+Speaker2: At the north gate, okay, I know. About ten minutes left or right, I'll be there.
+Speaker1: No problem, I'm here right now, come over.
+Speaker2: Okay, thank you.
+Speaker1: No problem, you arrived to give me a call, I'm happy to help you find fast delivery.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No thanks, be careful on your way.
+Speaker2: Okay, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I recently want to buy a new phone, can you recommend me one?
+Speaker2: Hello, do you have any special requirements for a new phone, such as brand, price range, and features?
+Speaker1: I want a camera with good photo effects, long battery life, and a budget of around three to four thousand.
+Speaker2: Okay, based on your needs, I recommend you check out the Huawei nova 9, it comes with a high-resolution four-camera, a large battery, and the price is within your budget range.
+Speaker1: Is this phone in stock?
+Speaker2: This phone model is currently in stock at our store, you can come over anytime to try it out.
+Speaker1: I have some free time on weekends, can I go take a look?
+Speaker2: Okay, our store is open normally on weekends. You can call me ahead before coming, I will prepare the machine for you.
+Speaker1: Okay, I'll contact you when the time comes, thank you for your recommendation.
+Speaker2: No problem, looking forward to your arrival, wish you a happy weekend.

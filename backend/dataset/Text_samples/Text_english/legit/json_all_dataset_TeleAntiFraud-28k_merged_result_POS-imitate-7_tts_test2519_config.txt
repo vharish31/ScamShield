@@ -1,0 +1,12 @@
+Speaker1: Hi, can I order takeout for tomorrow at your place?
+Speaker2: Hello, of course, what time do you want to reserve a meal?
+Speaker1: Can you provide vegetarian options for the 12:00 to 1:00 time slot for lunch?
+Speaker2: Yes, we have many vegetable options, you can check our menu, here we have tofu, stir-fried green vegetables, mushroom soup, etc.
+Speaker1: Okay, I want to order a tofu and a stir-fried green vegetable, also soup, do I need to pay a deposit?
+Speaker2: No deposit is required. You can complete the order through our online payment method. The remaining payment can be made upon delivery of the food tomorrow.
+Speaker1: How do I pay?
+Speaker2: You can choose between WeChat payment and Alipay on our website, very convenient.
+Speaker1: Okay, I'll go pay, and by the way, the specific address of the restaurant is Yangguang Xiǎojīng Bānzhōu Sān dān yuán.
+Speaker2: Okay, I have recorded the address. We will deliver it on time tomorrow at noon. If there are any changes, we will contact you in advance.
+Speaker1: Okay, thank you, then I'll wait for your notification.
+Speaker2: You're welcome! Have a great day! Bye!

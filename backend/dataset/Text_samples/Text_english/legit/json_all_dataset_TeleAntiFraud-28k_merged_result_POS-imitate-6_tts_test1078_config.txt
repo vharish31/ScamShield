@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Wang Ming, I just ordered a piece of clothing on your website, but I made a mistake with the address, can you help me fix it?
+Speaker2: Hello, Wang Ming, no problem, I can help you modify the address, what is your current address?
+Speaker1: I live at 42 Happiness Road, but the website says 22 Happiness Road.
+Speaker2: Okay, let me take a look at your order, just a moment.
+Speaker1: Okay, have you found my order yet?
+Speaker2: Found it, your order is number zero zero three five, I'm helping you change the address to happy road forty two number now.
+Speaker1: Thanks for your help.
+Speaker2: No problem, the address has been changed, if there are any other issues, please contact me anytime.
+Speaker1: Okay, is it true that you guys have a seven-day no-reason return policy?
+Speaker2: Yes, we support seven-day no-reason return, as long as you keep the product original and it doesn't affect secondary sales, you can apply for return.

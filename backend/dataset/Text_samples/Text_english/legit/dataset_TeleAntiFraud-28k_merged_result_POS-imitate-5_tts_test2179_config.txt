@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? Is there anything I can help you with?
+Speaker2: Hello, do you provide haircut service here?
+Speaker1: Yes, we have haircut service here. What time would you like to book?
+Speaker2: Do you have any free time between 3pm and 5pm tomorrow afternoon?
+Speaker1: Can you check for me, please wait for a moment. Okay, there's an opening from three to five o'clock, which time would you like to reserve?
+Speaker2: Can I make a reservation at 4 o'clock?
+Speaker1: Okay, the 4:00 PM appointment was successful. Can you tell me your name and contact information?
+Speaker2: Okay, my name is Li Ming, phone number is 12345678910.
+Speaker1: Okay, Mr. Lee, your appointment information has been recorded. Please come at exactly four o'clock tomorrow.
+Speaker2: Okay, thank you, see you tomorrow.
+Speaker1: No problem, see you tomorrow.

@@ -1,0 +1,9 @@
+Speaker2: Hello, who are you?
+Speaker1: Hello, I am a loan officer from XX Bank, I saw you consulted a loan with us before, now we have a new low interest loan product, are you interested in learning more?
+Speaker2: Can you give me a detailed introduction?
+Speaker1: Of course, our loan product doesn't require collateral, the approval is fast, and the interest rate is very low. You just need to provide some basic personal information, and we can quickly pre-approve you.
+Speaker2: What materials do I need to prepare?
+Speaker1: You just need to prepare your ID, bank card, and income proof. Additionally, to speed up the approval process, you can first scan this QR code to download our app, register, and fill out the relevant information.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Great, if you encounter any issues while using it, feel free to contact me anytime. My WeChat is XXXX, just add me as a friend for easy follow-up.
+Speaker2: Okay, I'll add you on WeChat, contact me if you have any questions.

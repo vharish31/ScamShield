@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Lee Ming, I saw on your website that you have second-hand bicycles for sale, I want to ask a few questions.
+Speaker2: Hello, Li Ming, I am customer service Zhang, we indeed have for sale second-hand bicycles, which information do you want to know?
+Speaker1: Can you tell me what brand your bicycles are and how much they cost?
+Speaker2: We have several different brand bikes here, such as Jiāntān and Mèlìdà, priced from 500 yuan to 1500 yuan, the specific brand and model can be seen on our website's detailed information page.
+Speaker1: Can you tell me if the price of 1200 yuan for this Jetta includes shipping?
+Speaker2: This price does not include shipping, if you need delivery it's calculated based on distance, approximately between 50 and 100 yuan.
+Speaker1: Oh, that's how it is, do you support cash on delivery?
+Speaker2: We support cash on delivery, but you need to pay a 30 yuan deposit first to ensure you receive the goods.
+Speaker1: Okay, I'll pay the deposit first, how do you pay the deposit?
+Speaker2: You can pay through WeChat or Alipay by scanning the code, can I send you the payment link here?

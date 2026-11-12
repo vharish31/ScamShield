@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural Bank's Tianhe Branch, your loan application has been approved, and now we need to confirm your information.
+Speaker2: Oh, really? That's great, I really need some cash flow lately.
+Speaker1: Yes, we can provide you with a 50,000 business loan. All you need to provide is some basic information.
+Speaker2: What do I need to do?
+Speaker1: First, you need to click this link and fill out some basic information, and then we will arrange for a specialist to review it.
+Speaker2: Okay, I'll click on the link now.
+Speaker1: Thank you for cooperation. If you have any problems, please directly contact me. My phone number is 4001234567.
+Speaker2: Okay, I will pay attention. What is the interest rate on your loan?
+Speaker1: Our interest rates are very favorable, currently at an annual 3%, and we also have multiple repayment options for you to choose from.
+Speaker2: I'll go fill out the forms now that it sounds good.

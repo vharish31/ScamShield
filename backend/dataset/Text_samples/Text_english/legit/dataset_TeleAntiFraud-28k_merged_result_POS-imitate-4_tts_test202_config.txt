@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Zhang San, recently I've been considering getting a new phone, I've looked at some reviews, can you recommend anything on your side?
+Speaker2: Hello, Zhang San, I am Xiao Wang, in charge of phone sales on this side. What phone do you want to know about price and features?
+Speaker1: Hmm, I'm planning to budget around three thousand, I like good photo effects, and the best battery life.
+Speaker2: Okay, around three thousand yuan budget, we have several phones with good camera and navigation performance, such as this new X brand Y model, you can consider it.
+Speaker1: What is the megapixel of X brand Y model?
+Speaker2: The main camera of the X brand Y model is 48 million pixels, the front-facing camera is 16 million pixels, the photo effect is excellent, and it also supports super night mode.
+Speaker1: Does this phone still have new stock?
+Speaker2: This phone is currently in stock. If you're interested, you can come to the store to take a look or place an order online.
+Speaker1: Okay, I plan to go to your store tomorrow. Can you specify the location?
+Speaker2: Our store is on the third floor of the electronic city in the city center, you can take the metro line 2 to the city center station and get off at C exit, then walk 500 meters straight to get there.
+Speaker1: Okay, thank you for your detailed introduction. See you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a smooth journey.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hi, I'm Li Xiao from the loan department of Huaxia Bank. Recently, we launched a new loan product with a very low monthly interest rate, as low as 2.5%. Would you be interested in learning more about it?
+Speaker2: Oh, really? I really need a capital turnaround recently.
+Speaker1: Yes, I can definitely help you. However, to ensure that your information is accurate and error-free, you need to provide some personal information, such as your identity card number and bank account number.
+Speaker2: What should I do to submit these materials?
+Speaker1: You can click on the link I sent you and fill in the relevant information, our backend will review it.
+Speaker2: Okay, I'll go operate.
+Speaker1: Great, in addition, to speed up the review process, you need to pay a small fee of 200 yuan, which will be directly deducted from your loan amount.
+Speaker2: Okay, after I pay the fees, how long will I be able to get the loan?
+Speaker1: In general, after paying the fees, if the audit is approved, the money will be available within two work days.
+Speaker2: I'll go pay the fees now, wait for your good news.
+Speaker1: Okay, feel free to contact me anytime if you have any questions. This is my WeChat, you can add me to make communication easier in the future.
+Speaker2: Okay, thank you.

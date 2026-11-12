@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Li, do you have any new smart watches here?
+Speaker2: Hello, little Li, I am customer service Zhang. We have new smart watches here, which one information do you want to know?
+Speaker1: I want to see that one with more functions that can monitor heart rate.
+Speaker2: Great, we have a new smartwatch that not only monitors heart rate but also blood pressure monitoring, sleep quality analysis and many other functions, perfect for keeping track of your health.
+Speaker1: How much does this watch cost?
+Speaker2: This smartwatch costs 2800 yuan. You can enjoy a one-month free trial period when you buy it now, and you can return it without any reason if you're not satisfied.
+Speaker1: What color options are available for this watch?
+Speaker2: This watch comes in black, silver, and rose gold, you can choose based on your preference.
+Speaker1: How is the battery life of black?
+Speaker2: The black style is very classic, in terms of battery life, this watch can use seven days when fully charged, and can meet the needs of one week's normal use.
+Speaker1: Okay, I'll think about it. If I decide to buy, how do I place an order?
+Speaker2: If you decide to buy, you can place an order directly on our official website or call us to order, our customer service will provide you with detailed guidance.

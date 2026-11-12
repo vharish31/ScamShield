@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your car hailing service.
+Speaker2: Hello, I'm very happy to serve you. What questions do you need to consult?
+Speaker1: How long will it take to arrive if I book a car now?
+Speaker2: Can you tell me your exact location now? This way I can help you estimate time more accurately.
+Speaker1: I am near Tiananmen Square.
+Speaker2: Okay, based on the location you provided, the driver should pick up and depart approximately fifteen minutes from now.
+Speaker1: If I need to make a reservation for a luxury car, will the price be different?
+Speaker2: Yes, the cost of luxury cars will be higher. Specifically, the cost of a regular car is two yuan per kilometer, while the cost of a luxury car is four yuan per kilometer, and the starting price is also higher.
+Speaker1: How long do I need to book a luxury car in advance?
+Speaker2: I suggest you book in advance half an hour, so you can be sure the car arrives on time. If you have special requirements, you can also contact our customer service in advance.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a nice trip!

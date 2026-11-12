@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to consult your car rental service.
+Speaker2: Hello, how can I help you?
+Speaker1: How much is the rental fee for one month if I rent your car?
+Speaker2: Our rental car prices vary depending on the car type. What type of car would you like to rent?
+Speaker1: I want to rent an economic car, mainly for work use.
+Speaker2: The monthly rental fee for an economic car is three thousand yuan, which includes basic insurance. If additional services are needed, there may be additional costs.
+Speaker1: Is there any discount if I rent for three months?
+Speaker2: Renting three months qualifies for a 5% discount. Are you renting our car for the first time?
+Speaker1: Yes, it's my first time.
+Speaker2: Okay, for first-time renters, we have a 100 yuan newcomer discount coupon. You can follow our public account to redeem it.

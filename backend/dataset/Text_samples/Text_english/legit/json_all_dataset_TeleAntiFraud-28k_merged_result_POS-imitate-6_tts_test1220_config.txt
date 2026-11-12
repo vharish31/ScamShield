@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I just heard from my friend that you guys opened a new coffee shop here, do I need to make a reservation if I want to go now?
+Speaker2: Hello, little king, our coffee shop is indeed newly opened, and at the moment there's no need to make a reservation, but on weekends there will be more people, so it's recommended to call ahead and confirm a seat.
+Speaker1: Okay, thank you for your suggestions. What are your business hours?
+Speaker2: Our business hours are from 10 am to 10 pm. You can choose any time slot, and if needed, you can also call ahead to reserve a seat.
+Speaker1: Then I'll be there around 3 pm, is that okay?
+Speaker2: It's completely fine, coming at 3 pm is perfect, there won't be many people around then, the environment will be quiet, you'll have a great time.
+Speaker1: Okay, can I just go directly when the time comes and not need to call ahead?
+Speaker2: Yes, you can come directly. If there are special circumstances, such as special arrangement or special requirements, please contact us in advance.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you later, looking forward to your arrival.

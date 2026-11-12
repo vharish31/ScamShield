@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm little Li, recently I want to buy a new phone, can you recommend a brand for me?
+Speaker2: Hello, little Li, of course you can. What do you usually do with your phone? Like play games, take photos, or watch videos?
+Speaker1: Mainly play games, occasionally take photos.
+Speaker2: Okay, I recommend you try this new game phone with high configuration, good battery life, and good camera effects.
+Speaker1: How much does this phone cost?
+Speaker2: This phone costs 3200 yuan, there's a discount now, you can reduce 200 yuan.
+Speaker1: Hey, that's pretty cheap. Do you have any phones in stock now?
+Speaker2: We have goods, our store now has fresh goods, you can come and pick anytime.
+Speaker1: Okay, I'll come over in the afternoon tomorrow.
+Speaker2: Okay, see you tomorrow. Remember to bring your ID when you come over, we need to register it here.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I saw a suit in your store, do you still have it?
+Speaker2: Hello, Xiao Ming, I am the customer service clerk at the store, which size suit are you interested in?
+Speaker1: Can you tell me more about L code and what this suit is made of?
+Speaker2: This suit here is made of cotton, the feel is very comfortable, and the breathability is very good.
+Speaker1: That's great, I plan to come over this weekend and try it out, do you guys open on Sunday?
+Speaker2: What time would you come on Sunday? Our business hours are from 10 am to 9 pm.
+Speaker1: Can I leave around 2:30 in the afternoon?
+Speaker2: Okay, just come directly to me when you arrive, and I'll be ready for you.
+Speaker1: Okay, thank you for your service, see you this weekend.
+Speaker2: No problem, see you this weekend, wish you a happy day.

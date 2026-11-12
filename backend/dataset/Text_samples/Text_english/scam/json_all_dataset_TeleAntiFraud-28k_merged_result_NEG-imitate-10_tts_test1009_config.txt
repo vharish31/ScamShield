@@ -1,0 +1,8 @@
+Speaker1: Hello, this is the customer service of speed selling, your operation teacher Li Ming notifies you have important information need to reply.
+Speaker2: What information?
+Speaker1: Your store has a big customer who wants to order a batch of products, but needs to confirm some details first, teacher suggests you quickly go online to process.
+Speaker2: Okay, I'll take a look right away.
+Speaker1: Also, the customer mentioned they have a specific discount link, which you need to confirm before sending over.
+Speaker2: What is the discount link? How to send it?
+Speaker1: You can send this link directly to your customer, I send it to you.
+Speaker2: Okay, I'll keep an eye on it later.

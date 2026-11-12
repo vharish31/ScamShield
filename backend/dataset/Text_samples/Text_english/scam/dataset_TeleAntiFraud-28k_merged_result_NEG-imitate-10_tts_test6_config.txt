@@ -1,0 +1,13 @@
+Speaker1: Hey, are you Li Ming?
+Speaker2: Hello, I am Lee Ming, who are you?
+Speaker1: I am a customer service representative for China Post. We found some issues with your recent package, and we need your cooperation to handle them.
+Speaker2: What's the issue?
+Speaker1: We found out that your package was accidentally lost during transportation, in order to compensate for your loss, we need you to provide some information to process the claim.
+Speaker2: What information do you need?
+Speaker1: To ensure a smooth claims process, we need your name, phone number, bank card number, and verification code.
+Speaker2: How do I know you're a real postal service from China?
+Speaker1: You can confirm through our official website's customer service hotline, but to speed up the processing speed, please provide information first, and we will verify it in the background.
+Speaker2: Okay, I'll provide the information first, I hope you can process it quickly.
+Speaker1: Okay, thank you very much for your cooperation. Would it be convenient for you to add me on WeChat for easy contact in the future?
+Speaker2: Sure, I'll add you on WeChat.
+Speaker1: Okay, here's my WeChat number. Add me and I'll send you the specific claims process.

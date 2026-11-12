@@ -1,0 +1,16 @@
+Speaker1: Hey, hello, I saw your flight attendant job ad.
+Speaker2: Hello, yes, we are recruiting pilots.
+Speaker1: Can I apply for a new driver's license?
+Speaker2: Okay, as long as your driver's license is valid for one year, you can apply.
+Speaker1: What materials do we need to prepare?
+Speaker2: You need to prepare your ID card, driving license, and health certificate.
+Speaker1: Is a health certificate necessary?
+Speaker2: Yes, a health certificate is to ensure you can perform this job.
+Speaker1: Do I need to find my own medical examination place?
+Speaker2: We have a cooperative medical center on this side, you can come to our company, we will arrange it for you.
+Speaker1: Okay, where is your company address?
+Speaker2: Can you come to the square road number 100 in the city square?
+Speaker1: I look at the map, it should be okay.
+Speaker2: Okay, can you come at 10 am tomorrow if you have time?
+Speaker1: Okay, I'll come over at 10 am tomorrow.
+Speaker2: Okay, see you tomorrow.

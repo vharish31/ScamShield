@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I reserved a spot here for tomorrow morning at nine o'clock. Can you confirm it?
+Speaker2: Okay, can you confirm? What is your name and reservation number?
+Speaker1: I am Li Ming, my booking number is 12345.
+Speaker2: Okay, Li Ming Xiāngshēng, let me check. Hmm, found it. Your reservation is for tomorrow morning at nine o'clock, right?
+Speaker1: Yes, I want to confirm one thing, is the location at your branch?
+Speaker2: Yes, the location is at our branch, the address is happiness road one hundredth number.
+Speaker1: Okay, I understand. Another question, how can I walk more comfortably from the train station?
+Speaker2: You can take the subway line 2 from the train station to Happiness Road station, get off, turn left and walk about 500 meters to reach there.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. If you have other questions, feel free to consult anytime. Have a nice day!

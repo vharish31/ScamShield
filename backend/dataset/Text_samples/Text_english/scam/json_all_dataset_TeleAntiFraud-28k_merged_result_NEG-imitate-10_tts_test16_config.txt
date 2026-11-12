@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Xin Dong Fang Xin Shui Gong Si. We have a special promotion loan project here, monthly interest only 2.5 yuan, very cheap, are you interested in learning more?
+Speaker2: Sure, what's the specifics?
+Speaker1: This is how it is, our loan project is specifically designed for the general public, no collateral, no guarantee, as long as you have a stable income source, you can apply. Moreover, we have a special app to facilitate business anytime, anywhere.
+Speaker2: What is the name of that app?
+Speaker1: You can download the 'Quick Loan' app from the mobile app store, register and fill in the relevant information to apply for a loan.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues while using it, please feel free to contact our customer service anytime. My phone number is 13812345678, available 24/7 for you.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, wish your application to be successful, please feel free to contact me if you need any help. Goodbye!
+Speaker2: Goodbye!

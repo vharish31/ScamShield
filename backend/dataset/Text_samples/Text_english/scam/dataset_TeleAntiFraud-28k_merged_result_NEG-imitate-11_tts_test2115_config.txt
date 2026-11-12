@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Peace Bank Credit Card Center.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed that you've been using your credit card at our bank a lot recently, to show our appreciation for your support, we've specially prepared a small gift for you, please click on the link to redeem it.
+Speaker2: Is it really? How can I take it?
+Speaker1: Yes, just click this link, enter your credit card number and verification code, and you can receive it.
+Speaker2: Okay, I'll try it right away.
+Speaker1: Okay, wish you good luck. If you have any questions, feel free to contact us anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, thank you again for your support, wish you a happy day.
+Speaker2: Thank you, goodbye.

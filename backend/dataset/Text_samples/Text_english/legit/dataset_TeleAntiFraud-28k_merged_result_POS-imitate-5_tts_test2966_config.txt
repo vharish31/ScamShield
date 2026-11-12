@@ -1,0 +1,13 @@
+Speaker1: Hi, are you the person who booked a coffee experience on our website?
+Speaker2: Ah, yes, it's my appointment.
+Speaker1: Okay, what time slot did you book?
+Speaker2: My appointment is from 3 to 4 in the afternoon.
+Speaker1: Okay, this time slot we have a location. Are you a first-time visitor to our store?
+Speaker2: Yes, first time.
+Speaker1: That's great, we have prepared some small gifts for new customers, you can take them when you come.
+Speaker2: Wow, it sounds great, so I'm really looking forward to it now.
+Speaker1: Are you sure it won't disappoint you? How long do you need to arrive?
+Speaker2: Can I arrive ten minutes early?
+Speaker1: You can definitely do it, you can find me directly after you come, I will arrange it for you.
+Speaker2: Okay, thank you for your help, see you later.
+Speaker1: No problem, see you later, wish you a happy day.

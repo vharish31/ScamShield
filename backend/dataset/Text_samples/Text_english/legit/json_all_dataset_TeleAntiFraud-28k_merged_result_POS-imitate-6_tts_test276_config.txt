@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: Can you tell me how to query my express delivery using your express delivery query service?
+Speaker2: You can track your package through our official website or mobile app by entering your tracking number.
+Speaker1: What should I do if I forget the number?
+Speaker2: If you have a registered account, you can log in and view your order history, find the delivery number.
+Speaker1: What's the best way to contact you if there's a problem with the delivery?
+Speaker2: You can call our customer service hotline, we will handle it quickly.
+Speaker1: What is the customer service hotline number?
+Speaker2: The customer service hotline is 400123456, available 24 hours.
+Speaker1: Thank you for your help. I'll give it a try.
+Speaker2: No problem, if you have any other questions, please contact us anytime. Wish you a happy day!

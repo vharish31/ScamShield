@@ -1,0 +1,10 @@
+Speaker1: Hello, I want to inquire about your restaurant's vegetarian dishes.
+Speaker2: Hello, we have various vegetarian dishes here, such as stir-fried vegetables, mushroom and tofu soup, and spring rolls. Which one would you like to know more about?
+Speaker1: I want to know the taste and price of stir-fried vegetables.
+Speaker2: Stir-fried vegetables are one of our signature dishes, with a light and natural flavor that's perfect for customers who prefer authentic taste. Each portion costs 35 yuan.
+Speaker1: Sounds good. Do you guys have an empty table now? I plan to go out for dinner tonight.
+Speaker2: Would you like to reserve a table for several people?
+Speaker1: Two people's.
+Speaker2: Okay, two seats have been reserved for you, what time is most convenient for you to come in the evening?
+Speaker1: Around seven.
+Speaker2: Okay, 7 o'clock, we will be ready for you. See you later!

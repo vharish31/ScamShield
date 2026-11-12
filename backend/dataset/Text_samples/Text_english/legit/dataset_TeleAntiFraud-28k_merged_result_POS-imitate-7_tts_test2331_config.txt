@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I ordered food at your store, how long will it take to deliver?
+Speaker1: Hello, what is your address?
+Speaker2: I live in the fifth floor, apartment 2B, room 602 of the Xingguang Xiaoquan.
+Speaker1: Okay, Star Light Community, we will arrange delivery quickly, approximately 30 minutes left or right can be delivered.
+Speaker2: Okay, I've worked hard. Got it, I noted not to spicy, confirm again.
+Speaker1: No problem, your order has been noted not to include spicy, we will prepare as requested.
+Speaker2: Thank you, I'll be at the door later.
+Speaker1: Okay, feel free to contact us anytime if you have any questions.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye, wish you enjoy your meal.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you going to the train station?
+Speaker2: Hey, how are you? Okay, I want to go to the train station.
+Speaker1: Okay, can you confirm the order? I'll be right back to pick you up.
+Speaker2: Can you get there in a few minutes?
+Speaker1: This side of the road is not far, about ten minutes left or right.
+Speaker2: Okay, I'll wait for you, I'll send you my location, understand?
+Speaker1: Hey, I see your location now, I'll call you again after I arrive.
+Speaker2: Okay, I'll go to the subway station nearby and wait for you, call me when you arrive.
+Speaker1: Okay, be careful, I'll call you soon.
+Speaker2: Okay, thank you, be careful on the road.

@@ -1,0 +1,12 @@
+Speaker1: Hello, I want to consult your fitness programs.
+Speaker2: Hello, I'm very happy to serve you. What time period are you interested in?
+Speaker1: Can you tell me about the courses from 7 to 9 pm tonight?
+Speaker2: What kind of class do you prefer between 7pm and 9pm, yoga or aerobics?
+Speaker1: I'm quite interested in yoga, can you give me more information about yoga classes?
+Speaker2: Of course. Our yoga classes are taught by experienced instructors and are suitable for all levels of students. The course content includes basic yoga poses and deep relaxation exercises, aimed at helping students improve flexibility and core strength.
+Speaker1: Listen well. How much does this course cost?
+Speaker2: The fee for a single class is 80 yuan, and if you choose to buy a monthly card, you can enjoy more discounts. The monthly card costs 500 yuan and includes unlimited yoga classes.
+Speaker1: Can I only attend yoga classes and not participate in other activities?
+Speaker2: Of course, you can choose courses based on your interests and time. If you have any questions, feel free to contact us anytime.
+Speaker1: Okay, thank you for your patience in answering, I will consider it.
+Speaker2: No problem, if you decide to come to class, please feel free to contact us to schedule. Wish you a great day!

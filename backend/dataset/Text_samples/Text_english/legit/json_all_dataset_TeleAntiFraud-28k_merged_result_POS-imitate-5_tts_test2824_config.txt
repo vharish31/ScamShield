@@ -1,0 +1,11 @@
+Speaker1: Hey, how do you make a hair appointment over there?
+Speaker2: Hello, can you tell me what time and specific service you want to book, I can check if there's an available slot.
+Speaker1: Okay, I want to make an appointment for this Saturday afternoon at two o'clock to cut my long hair and see if there is a suitable time.
+Speaker2: Okay, let me check. Hmm, Saturday afternoon at two o'clock we have a free slot, can I schedule it for you?
+Speaker1: How long do I need to arrive in advance?
+Speaker2: Please arrive ten minutes early so our staff can prepare everything for you.
+Speaker1: Okay, what information do I need to provide?
+Speaker2: Please just tell me your name and contact number so we can confirm the appointment.
+Speaker1: My name is Li Ming, phone number is 13801380138.
+Speaker2: Okay, Li Ming Xiāngshēng, I have already scheduled a haircut for you on Saturday at 2 pm, see you then.
+Speaker1: Thank you, see you later.

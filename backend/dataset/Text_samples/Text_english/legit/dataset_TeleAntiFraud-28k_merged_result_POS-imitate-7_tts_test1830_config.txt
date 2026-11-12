@@ -1,0 +1,9 @@
+Speaker1: Hey, hello, I'm at the Meiwei Xuan restaurant, do you have time to try our new dishes?
+Speaker2: Hello, do you have any recommendations for dishes?
+Speaker1: We just released smoked pork ribs and steamed fish, the taste is great, are you interested in trying?
+Speaker2: What are your business hours from what time to what time?
+Speaker1: We are open from 11 am to 9 pm during weekdays and extend to 10 pm on weekends.
+Speaker2: Sure, can I make a reservation for Saturday evening at 7pm?
+Speaker1: Sure, I'll reserve a four-person table for you on Saturday evening at 7 pm. No problem.
+Speaker2: Okay, thank you, see you on Saturday.
+Speaker1: No problem, see you on Saturday, looking forward to your arrival.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I just came out of the supermarket and found my phone missing, can you help me look for it?
+Speaker1: Okay, don't rush, remember which phone you used last.
+Speaker2: It should be used when buying fruits at the supermarket, after paying the money, put it in the pocket.
+Speaker1: What if you forgot something and left the supermarket?
+Speaker2: I should not have, I have always been very careful.
+Speaker1: Would you be able to go back now and check? It might still be in the corner of the supermarket.
+Speaker2: Shall I go into the supermarket and ask the staff at the counter?
+Speaker1: Sure, this way is faster. If they don't see them, you can still go to the lost and found office to register.
+Speaker2: Okay, thank you for your advice. I'll try it now.
+Speaker1: No problem, I hope you find your phone back safely. If there's anything else, feel free to contact me anytime.

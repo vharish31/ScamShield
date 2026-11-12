@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I'm little Li, I saw your store is hiring part-time, want to know more?
+Speaker2: Hello, I am customer service representative Wang, we really have part-time positions, have you worked before?
+Speaker1: I have worked as a waiter in several restaurants and helped my friends manage a small shop.
+Speaker2: That's great, do you have time to help us out over the weekend and holidays?
+Speaker1: Sure, I happen to have some free time right now.
+Speaker2: Great, you can come to our store for an interview. The address is the second floor of building number two in the city center square. Do you know this place?
+Speaker1: I know that place well, I often pass by there.
+Speaker2: Is it convenient for you to come for an interview at 10 am tomorrow?
+Speaker1: Sure, I'll arrive at ten o'clock tomorrow morning.
+Speaker2: Okay, see you later, wish you a smooth journey.
+Speaker1: Thank you, goodbye.

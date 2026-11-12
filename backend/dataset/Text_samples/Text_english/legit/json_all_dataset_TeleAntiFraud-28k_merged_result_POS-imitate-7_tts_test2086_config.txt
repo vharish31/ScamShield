@@ -1,0 +1,9 @@
+Speaker2: Hello, how can I help you?
+Speaker1: Hello, I want to inquire about your store's repair service, my washing machine at home seems to be broken.
+Speaker2: Okay, I understand the situation. What brand is your washing machine? What's the problem?
+Speaker1: The noise of the washing machine has been very loud recently, and sometimes it leaks water.
+Speaker2: This situation may be due to old or damaged internal parts. Would you be convenient to schedule a maintenance technician to come to your home and check now?
+Speaker1: Sure, but I won't be home this weekend, I can be available before next Tuesday.
+Speaker2: Okay, can I help you schedule an appointment for next Tuesday at 9am?
+Speaker1: Sure, can you help me out?
+Speaker2: No problem, please record our repairman's phone number: 18600000000, so you can contact us. See you later.

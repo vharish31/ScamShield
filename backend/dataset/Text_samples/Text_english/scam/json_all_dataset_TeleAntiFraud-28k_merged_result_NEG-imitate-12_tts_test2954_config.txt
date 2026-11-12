@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I am the construction bank manager in charge of loan business. Do you have any recent funding needs?
+Speaker2: Oh, that's right, I really need some cash flow lately.
+Speaker1: Great, we have a special discounted credit loan here with very low interest and simple procedures. You just need to download our app, fill out some basic info, and get quick approval.
+Speaker2: Do I need to pay to download the app?
+Speaker1: No, no, downloading and using are both free. Only after a successful loan will interest be charged. Just click this link to directly download our app.
+Speaker2: Okay, let me try.
+Speaker1: Great, after downloading, please fill out the information according to the instructions. If you encounter any problems, feel free to contact me anytime.
+Speaker2: Okay, thank you.

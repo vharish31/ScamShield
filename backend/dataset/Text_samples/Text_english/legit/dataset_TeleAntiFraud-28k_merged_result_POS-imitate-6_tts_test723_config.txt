@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: I am restaurant server Li, please confirm the time for your previous reservation.
+Speaker2: Okay, so we're meeting at seven on Saturday night, right?
+Speaker1: Yes, your order is for Saturday evening at 7 pm for four people. Do you need to confirm if you still need this seat?
+Speaker2: We will arrive on time.
+Speaker1: Okay, I'll confirm the reservation. Do you have any special dietary requirements?
+Speaker2: One friend doesn't eat spicy, the others have no special requirements.
+Speaker1: Okay, we'll prepare some non-spicy food. Also, we have recently introduced a new product, would you like to try it in advance?
+Speaker2: Can you try, what do you recommend?
+Speaker1: Our new seafood hot plate is very popular, and there are also special cold dishes, you can consider it.
+Speaker2: Let's book a seafood hotpot.
+Speaker1: Okay, seafood hot plate is reserved for you. See you on Saturday.
+Speaker2: Okay, thank you, see you on Saturday.

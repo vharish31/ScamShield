@@ -1,0 +1,14 @@
+Speaker1: Hello, is this Zhang Zhong?
+Speaker2: Hey, I am, you good.
+Speaker1: Good morning, Zhang Zhōng, I am the client manager of Huáshāng Yínkǎo, Lǐ Huá.
+Speaker2: Hello, Li Manager.
+Speaker1: John, we noticed that your company has good development prospects in the Middle East, so we recommend our special loan service to you.
+Speaker2: Loan service?
+Speaker1: Yes, Zhang Zong, this service is specifically designed for enterprises like yours, and can provide up to 50,000 yuan in financial support, and the procedures are very simple.
+Speaker2: The sound is good, but I don't have any cash needs lately.
+Speaker1: John, this is a rare opportunity, and now you can enjoy a lower interest rate when applying. If you're interested, I can send you a link, and you can apply directly by clicking on it.
+Speaker2: Okay, send me a link.
+Speaker1: Okay, Zhang Zong, I'll send this over to you now. Please double-check and click on the link to complete the application. If you have any issues, feel free to reach out anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, Zhang Zong, wish you all the best. Bye.
+Speaker2: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to know more about your delivery service.
+Speaker2: Hello, I'm very happy to serve you, what information do you want to know?
+Speaker1: What is your delivery range and time, and how do we order?
+Speaker2: Our delivery range covers the entire city, including the north, south, east, and west areas. Generally speaking, we promise to deliver orders within 30 minutes after placing them, but there may be a slight delay during peak hours.
+Speaker1: If I order now, how long will it take to deliver?
+Speaker2: The estimated delivery time for your order is between 12:00 PM and 12:15 PM, based on your location.
+Speaker1: Okay, what should I do to place an order?
+Speaker2: You can place an order through our official website or by downloading our app. If it's your first time using us, register an account, select your desired menu items, confirm your address and contact information, complete payment, and we'll be ready to process your order for delivery.
+Speaker1: It sounds simple, thank you for your help.
+Speaker2: You're welcome! If you have any other questions, please feel free to contact us anytime. Enjoy your meal!

@@ -1,0 +1,12 @@
+Speaker1: Hello, you, this is Yun Ning Technology Company's customer service, I am customer service manager Xiao Zhang.
+Speaker2: Hello, what do you have?
+Speaker1: There is an unconfirmed order in your account here, please handle it quickly, otherwise it may be cancelled.
+Speaker2: Oh, really? I did actually buy some stuff online recently, but it all arrived already.
+Speaker1: There might be a small issue with the system, to confirm the order details you can click on the link we sent you.
+Speaker2: Okay, let's take a look.
+Speaker1: Okay, just a moment, I'll send you the link. Please ensure you operate in a safe network environment.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you have any questions, feel free to contact me anytime. For safety reasons, we recommend downloading our official app for further operations.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues with the app, feel free to contact me directly. Have a nice life, bye.
+Speaker2: Okay, bye.

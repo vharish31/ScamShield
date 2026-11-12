@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Happy Points Mall, I am the customer service representative. Have you noticed that your account has a lot of unused points?
+Speaker2: Hey, are you serious? I didn't notice?
+Speaker1: Yes, your points can be exchanged for many good things in our mall, such as electronic products and daily necessities. And if you don't exchange them before midnight tonight, your points will be cleared.
+Speaker2: Ugh, what now? What can I exchange for anything now?
+Speaker1: You have over 150,000 points in your account, which can be exchanged for smartwatches, high-definition TVs, or brand-name electronics. Are you particularly interested in any of them?
+Speaker2: The smartwatch is great, how to exchange it?
+Speaker1: Okay, I'll help you with that. After you select your preferred style, just let me know, and I'll help you exchange it. After the exchange, if there are any remaining points, I can also help you save them and give you an additional after-sale gift package, which includes free return service.
+Speaker2: That's great, I'll choose a red striped style.
+Speaker1: Okay, the red striped style has been exchanged for you, and the remaining points have been saved. You will receive a confirmation message and after-sale gift package information later.
+Speaker2: Thank you very much, now I feel relieved.

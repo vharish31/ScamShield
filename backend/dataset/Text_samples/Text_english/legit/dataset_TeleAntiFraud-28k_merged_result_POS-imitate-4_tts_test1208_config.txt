@@ -1,0 +1,9 @@
+Speaker2: Hey, how are you? What's up?
+Speaker1: Is that right, I am the property manager of the community, want to confirm with you, your family this month's water bill hasn't been paid, is it forgotten?
+Speaker2: Oh no, I really forgot, what should I do now?
+Speaker1: No problem, you can pay in person at the property management office during convenient hours or pay online through our WeChat public account.
+Speaker2: Is online payment safe?
+Speaker1: Of course, our payment system is encrypted, you can rest assured to use it.
+Speaker2: Okay, I'll try it tonight.
+Speaker1: Okay, feel free to contact me anytime if you have any questions.
+Speaker2: Thank you, I'll contact you later tonight.

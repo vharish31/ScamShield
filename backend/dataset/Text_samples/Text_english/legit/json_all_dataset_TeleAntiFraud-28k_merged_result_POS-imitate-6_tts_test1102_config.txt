@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if there's any car service on this side?
+Speaker2: Hello, we provide taxi service here, where do you want to go?
+Speaker1: How long will it take to get to the train station?
+Speaker2: It takes about 30 minutes to walk from your current location to the train station. If the road is good, it might be a bit faster.
+Speaker1: Okay, when can I call for the car?
+Speaker2: You can place an order now, I will arrange the nearest driver to pick it up.
+Speaker1: Okay, how much do I need to pay?
+Speaker2: Based on the location you provide, approximately 60 yuan is needed, and the exact cost will be calculated based on the actual driving route.
+Speaker1: Do I need to pay in advance?
+Speaker2: You don't need to pay in advance. You can pay the driver directly upon arrival at the destination or choose online payment.

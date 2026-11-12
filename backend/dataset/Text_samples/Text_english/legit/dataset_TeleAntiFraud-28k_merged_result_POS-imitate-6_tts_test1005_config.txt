@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there? I'm waiting for you at the subway station exit. Did you arrive already?
+Speaker2: Hey, I just got off the bus, turn left, I see you now.
+Speaker1: Okay, I see you, come over, let's walk that way.
+Speaker2: Okay, I'll go over there.
+Speaker1: Have you eaten lunch yet?
+Speaker2: Are you still there?
+Speaker1: Let's find a place to eat something.
+Speaker2: Okay, I know of a good restaurant nearby, let's go there?
+Speaker1: Let's go, it sounds good.
+Speaker2: Okay, let's go, that way walk.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your delivery service.
+Speaker2: Hello, I am delivery customer service, what can I help you with?
+Speaker1: I see you have a meal, which contains a beef noodle soup and a beef broth, can you tell me more about this meal?
+Speaker2: This dish is our signature, the beef used in the beef and broth is selected beef, the broth is made with fresh ingredients, very nutritious. The price of the dish is 35 yuan, you can see detailed pictures and introductions on our app.
+Speaker1: How long does it usually take for the delivery of this dish?
+Speaker2: Typically, we deliver within 35 minutes after ordering, but the specific time may be adjusted based on the order quantity.
+Speaker1: Sure, can you deliver to a nearby convenience store if I'm not home?
+Speaker2: Of course, you can specify the delivery address when placing an order, and we will do our best to deliver according to your requirements.
+Speaker1: Great, can I order this menu tonight around 7pm and ensure it's delivered by dinner time?
+Speaker2: If you want your dinner delivered before it's time, we recommend placing your order before 5:30 PM, so we can guarantee timely delivery.
+Speaker1: Okay, thank you for your help. I'll go place an order now.
+Speaker2: No problem, we're waiting for your order, wish you enjoy your meal!

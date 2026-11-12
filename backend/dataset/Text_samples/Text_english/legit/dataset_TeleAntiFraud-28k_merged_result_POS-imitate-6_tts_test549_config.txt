@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I saw some rental house info online, wanna know more?
+Speaker2: Hello, yes, we have several apartments for rent, what are your specific requirements?
+Speaker1: Hey, I want a two-bedroom apartment, preferably new, is there any nearby the subway station?
+Speaker2: We have a two-bedroom, one-living-room apartment on this side, about a five-minute walk from the subway station, perfect for the working class.
+Speaker1: How much is the rent?
+Speaker2: Rent is 3500 yuan per month, three months' deposit, water, electricity, gas are all self-paid.
+Speaker1: Can I see the rooms? I have some free time this weekend.
+Speaker2: Sure, I have some time this weekend too. If it's convenient for you, we can meet at 3 pm on Saturday.
+Speaker1: Okay, I will arrive on time at 3 pm on Saturday. Also, could you tell me about the surroundings of this house?
+Speaker2: This house's surroundings are great, there's a supermarket, park, and hospital nearby, life is very convenient.
+Speaker1: That's great, thank you for your introduction, see you on Saturday.
+Speaker2: No problem, see you on Saturday, wish you have a happy week.

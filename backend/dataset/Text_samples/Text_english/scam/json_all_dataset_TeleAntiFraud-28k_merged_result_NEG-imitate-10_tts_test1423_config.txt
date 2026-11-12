@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Agricultural and Commercial Bank, can I ask if you have any recent funding needs?
+Speaker2: No, I don't need a loan.
+Speaker1: Okay, have you recently encountered any investment opportunities? We have some very stable investment projects with great returns here.
+Speaker2: I understand. So, what's the specifics?
+Speaker1: Great! Just scan the code to download our exclusive app, register and you'll see detailed project introductions as well as professional investment advisors online answering your questions.
+Speaker2: Have you downloaded the app? I haven't heard of your app before.
+Speaker1: This is our latest platform, exclusively for premium customers, providing investment financial services, with simple operation and high security.
+Speaker2: How can I confirm that this app is yours?
+Speaker1: You can scan the QR code I provide or directly click on the link I send you, which contains detailed information about our platform and other customer reviews.
+Speaker2: Okay, let me try.

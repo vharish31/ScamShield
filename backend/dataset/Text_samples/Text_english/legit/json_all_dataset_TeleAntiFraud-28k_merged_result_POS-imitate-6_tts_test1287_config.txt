@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have any vegetarian options at your restaurant?
+Speaker2: Yes, we have a lot of vegetables here, such as stir-fried vegetables, steamed vegetables, stir-fried mushrooms, and stir-fried bean sprouts, do you have anything special you want to eat?
+Speaker1: How much does it cost for stir-fried bean sprouts to sound good?
+Speaker2: The price of a pan-fried bean sprout is 35 yuan per portion.
+Speaker1: What is the restaurant's business hours?
+Speaker2: Our restaurant business hours are from 10 am to 10 pm, on weekends they will be extended by half an hour.
+Speaker1: Okay, I plan to come at seven o'clock in the evening tomorrow. Do I need to reserve a seat in advance?
+Speaker2: I suggest you book in advance, especially on weekends when there are more people, I can help you book.
+Speaker1: Okay, can you help me book a window seat?
+Speaker2: Okay, I have already booked it for you. Just show up with your name when the time comes.

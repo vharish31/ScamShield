@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, Ali baba's customer service specialist, we detected some issues with your recent purchases on our platform, we need to process a refund, is that okay with you?
+Speaker2: What's the issue? I haven't been shopping on your platform lately.
+Speaker1: It seems that your account may have been stolen, someone used your account to buy some products, now we need you to cooperate with us to perform a refund operation to ensure your funds are safe.
+Speaker2: What should I do now?
+Speaker1: To quickly handle this issue, please provide a verification code. I'll send you a text message with the code right away, just let me know once you receive it and we can proceed immediately.
+Speaker2: Okay, I'll wait for the text message.
+Speaker1: Okay, please wait for a moment. The text message has been sent successfully. Please pay attention to check it.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you, we are processing, please wait. Once processing is complete, we will refund the amount directly to your payment account.
+Speaker2: Okay, thank you.

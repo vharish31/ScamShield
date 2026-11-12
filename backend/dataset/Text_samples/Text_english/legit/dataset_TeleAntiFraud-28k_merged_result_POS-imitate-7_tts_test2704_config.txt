@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I reserve a restaurant table for tomorrow at noon here?
+Speaker2: Of course, we can book here for you. How many positions do you need to book?
+Speaker1: Can you reserve four seats, do you have any window seats?
+Speaker2: Yes, the view from the window is great, perfect for chatting. Do you have any special dietary requirements?
+Speaker1: No specific requirements, just don't want spicy.
+Speaker2: Okay, I will make a special note for you. How early do you need to arrive?
+Speaker1: We plan to arrive at twelve thirty.
+Speaker2: Okay, 12:30, we'll hold a spot for you. Is there anything else you need help with?
+Speaker1: No more, thank you.
+Speaker2: You're welcome. I'm looking forward to your arrival. Goodbye.

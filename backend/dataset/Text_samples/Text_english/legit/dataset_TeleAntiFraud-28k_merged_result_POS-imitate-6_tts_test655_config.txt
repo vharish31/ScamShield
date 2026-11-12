@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I just arrived at your store, but I can't find the entrance, can you tell me the specific location?
+Speaker2: Hello, you stand in front of the main door, then walk to the right, you will see a glass door, that's our entrance.
+Speaker1: Okay, I see, there's another question, can I park here for a moment?
+Speaker2: There's a small parking lot in front of our store. If you arrive early, you should be able to find a spot. If it's full, there are several street-side parking spots nearby.
+Speaker1: Okay, let me try. Yes, my appointment is at three in the afternoon, is it okay to come straight in?
+Speaker2: That's right, you can directly come in, the front desk will arrange everything for you. If you have any questions, you can find the front desk staff anytime.
+Speaker1: Okay, thank you for your help. I'll go find a parking spot first.
+Speaker2: No problem, wish you a smooth parking, see you in the afternoon.
+Speaker1: Okay, thank you, bye.
+Speaker2: Goodbye.

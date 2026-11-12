@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently want to buy a laptop, can you recommend me some good options?
+Speaker2: Hello, little Zhang, I am the customer service of the electronic mall, of course, I can help you. What are you mainly using the computer for? Like work, game or study?
+Speaker1: I mainly use it for work, sometimes play games, I hope the performance is good.
+Speaker2: Do you have a budget for the price?
+Speaker1: The budget is approximately eight thousand yuan.
+Speaker2: Okay, around eight thousand yuan, I recommend you take a look at this HP X512 laptop, the configuration is good, the performance is stable, suitable for work and entertainment. Can you see it?
+Speaker1: How's the battery life of this notebook?
+Speaker2: This notebook's battery life is very strong, the official data is around ten hours, and the actual use is almost the same.
+Speaker1: That's great, I plan to go to your store tomorrow, what's the address of your store?
+Speaker2: Our store is on the third floor of the electronic mall in the city center. As soon as you enter from the main entrance and walk to the right, you can see it on the elevator on the third floor.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: You're welcome, see you tomorrow, wish you happy shopping.

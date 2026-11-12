@@ -1,0 +1,11 @@
+Speaker1: Hey, are you there? I'm waiting for you at the door. Did you arrive?
+Speaker2: I just arrived, come over right away.
+Speaker1: Okay, I see you, just at the right side of the door.
+Speaker2: Okay, I'll just go over there.
+Speaker1: Did you bring an umbrella? The weather forecast predicts that it may rain today.
+Speaker2: Bring it, put it in the car, remind me to get it later.
+Speaker1: Okay, don't forget.
+Speaker2: Hey, what do you want to eat tonight?
+Speaker1: What do you recommend?
+Speaker2: Let's go try that new restaurant nearby. The reviews are good.
+Speaker1: Okay, let's try something new.

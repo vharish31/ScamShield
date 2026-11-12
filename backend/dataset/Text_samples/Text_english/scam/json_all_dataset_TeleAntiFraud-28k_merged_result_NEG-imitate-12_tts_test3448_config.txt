@@ -1,0 +1,13 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Who are you?
+Speaker1: Good morning, Mr. Li, I am the customer manager of Agricultural and Commercial Bank, my name is Zhang, you have consulted with us about loan matters before, now we have a suitable loan product for you, the interest rate is very favorable, would you like to know more?
+Speaker2: Hey, what are the loan products at the bank?
+Speaker1: Yes, we recently launched a loan product for small business owners, no collateral, quick approval, and low interest rates. If you're interested, you can click on the link I sent you to learn more.
+Speaker2: Link?
+Speaker1: Okay, I'll send you a text message with detailed product information and application process. Just follow the instructions.
+Speaker2: Okay, I'll take a look.
+Speaker1: Okay, please check your messages and contact me if you have any issues. Additionally, for your convenience, I suggest downloading our bank's official app for easier and quicker operations.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, after downloading the app, you can directly apply for a loan, check the repayment progress, very convenient.
+Speaker2: Let me try and see.
+Speaker1: Okay, you try first. If you have any questions, feel free to contact me anytime. Best of luck.

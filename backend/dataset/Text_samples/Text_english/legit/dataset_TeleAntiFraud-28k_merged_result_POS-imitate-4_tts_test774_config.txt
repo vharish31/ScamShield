@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the property management of the apartment building. I want to confirm the repair time for your water and electricity.
+Speaker2: Hello, my appointment is tomorrow morning at 10 am.
+Speaker1: Okay, I know. The teacher will be on time tomorrow. Is your home address 12 Happiness Road, opposite?
+Speaker2: Yes, that's it.
+Speaker1: Are there any other things we need to prepare, such as tools or materials?
+Speaker2: I don't need it, mainly I just want to check if the drain is clogged.
+Speaker1: I understand, the master will bring specialized communication tools. If you need to change parts, the master will first confirm with you.
+Speaker2: Okay, thank you. Then I'll wait for them at home tomorrow.
+Speaker1: Okay, see you tomorrow. If there are any changes, we will contact you in advance.
+Speaker2: Okay, sorry.

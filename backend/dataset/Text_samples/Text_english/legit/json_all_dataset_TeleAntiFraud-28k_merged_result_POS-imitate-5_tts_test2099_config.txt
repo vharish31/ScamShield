@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: I just placed an order for delivery, why hasn't it arrived yet?
+Speaker2: What platform are you on, and what's your order number? I can help you check.
+Speaker1: It's an order from a big food delivery platform. The order number is 1234567.
+Speaker2: Okay, I'll check. Your restaurant may be a bit slow with the food, the delivery guy is on his way, and we estimate it will take about twenty minutes.
+Speaker1: Is it because of traffic congestion that it took twenty minutes?
+Speaker2: There might be more cars on the road during this time period. You can do something else first and then check the delivery progress later.
+Speaker1: Okay, I'll take a look later. What should I do if there are more questions?
+Speaker2: You can contact me anytime, I will help you coordinate and solve the problem. If there are any issues, we will do our best to handle them.

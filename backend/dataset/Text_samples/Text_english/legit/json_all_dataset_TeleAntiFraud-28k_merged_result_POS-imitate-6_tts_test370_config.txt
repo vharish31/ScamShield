@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Xiao Ming, I recently saw a one-bedroom apartment for rent in your community. Can you give me more details?
+Speaker2: Hello, yes, we do have a one-bedroom apartment for rent here. What information do you want to know?
+Speaker1: Rent, deposit, family furniture, and contract duration are the main points.
+Speaker2: Rent is 2500 yuan per month, the deposit is one month's rent, all furniture is included, such as bed, sofa, desk, etc. The contract must be signed for at least one year, but can be negotiated flexibly.
+Speaker1: Can I go see it in person when it sounds good?
+Speaker2: Sure, we have some free time this weekend. From 10 am to 12 pm, is there a convenient time for you?
+Speaker1: Can I go out at 10 am on Saturday morning?
+Speaker2: Okay, on Saturday at 10 am, I'll be waiting for you at the door.
+Speaker1: Okay, thank you, see you on Saturday.
+Speaker2: Hey, see you on Saturday, be careful on the road.

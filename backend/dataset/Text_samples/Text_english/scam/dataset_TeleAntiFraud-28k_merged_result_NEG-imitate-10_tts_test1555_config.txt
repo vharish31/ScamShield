@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. According to our system, you have a recent incomplete refund that needs to be processed. Would you be convenient to take a call?
+Speaker2: Hello, I recently bought some things online, but I haven't received a refund, can you help me handle it?
+Speaker1: Of course, to ensure the safety of your funds, we need you to click on a link to verify your identity and account information, so that we can refund your money to your account.
+Speaker2: Okay, how do I click on a link?
+Speaker1: If you open your phone's text messages, there will be a message from Commercial Bank with a link. Click on it and follow the instructions to complete the task.
+Speaker2: What should I do next after clicking on the link in the text message I just received?
+Speaker1: Okay, now you need to input your bank card number and verification code to verify your identity. The verification code will be sent to your phone in a few seconds.
+Speaker2: Is it normal that the page is prompting me to input my payment password after I entered my bank card number and verification code?
+Speaker1: Yes, this is to ensure your account is safe and to prevent your funds from being stolen. Please rest assured when entering your payment password, our system will keep your information safe.
+Speaker2: Okay, I entered the payment password, now the page shows successful refund, but my account doesn't see the money.
+Speaker1: This may be because the bank system needs some time to process, it usually takes one to two work days to arrive. If you don't get it, you can contact our customer service again.
+Speaker2: Okay, thank you for your help. I'll wait a moment and see.

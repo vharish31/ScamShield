@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Zhang, can you reserve a private room in your restaurant?
+Speaker2: Hello, little Zhang, we have a private room here, can we book it? What time would you like to book approximately?
+Speaker1: This weekend is on Saturday night around 6 pm.
+Speaker2: Okay, on Saturday evening at six o'clock. How many people approximately?
+Speaker1: About ten people left and right.
+Speaker2: Ten people's talk, we have a suitable room. Do you need to pay a deposit in advance?
+Speaker1: Do you need to pay a deposit? How much?
+Speaker2: Yes, in order to confirm your reservation, we need to collect a deposit of 100 yuan. You can deduct the dining fee after the meal.
+Speaker1: Okay, how do I pay the deposit?
+Speaker2: You can pay directly through our WeChat public account or come to the store to pay cash.
+Speaker1: Okay, I pay through WeChat. Thank you.
+Speaker2: You're welcome. Any questions can be contacted anytime. I'm looking forward to your visit. Goodbye.

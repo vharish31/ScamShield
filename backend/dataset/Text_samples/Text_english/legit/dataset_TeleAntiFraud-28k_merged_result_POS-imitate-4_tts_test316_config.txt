@@ -1,0 +1,8 @@
+Speaker2: Hey, where are you?
+Speaker1: Just arrived at the station, where are you?
+Speaker2: I'm still on the road, probably need about ten minutes.
+Speaker1: Okay, just remember to be safe, I'm waiting for you here.
+Speaker2: I know, thank you. Okay, did you bring an umbrella? It might rain today.
+Speaker1: Don't forget to bring an umbrella too.
+Speaker2: Okay, see you later.
+Speaker1: See you later.

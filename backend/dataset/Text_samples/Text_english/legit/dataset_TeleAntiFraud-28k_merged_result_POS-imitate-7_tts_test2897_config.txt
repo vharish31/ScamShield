@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello
+Speaker1: I am the customer service representative for the blue car you booked for tomorrow morning at 10 am for a shared car, please confirm.
+Speaker2: Okay, I confirm the time, tomorrow morning at ten o'clock is right.
+Speaker1: Okay, let's pick up the car at the shared car station in the city center?
+Speaker2: Yes, it's at that station.
+Speaker1: You can arrive five minutes early, we will have an officer waiting there.
+Speaker2: Okay, I'll try to arrive early.
+Speaker1: Additionally, if you have any questions, such as finding a car or using it, you can call our customer service at any time.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, feel free to contact us anytime if you have any questions. Have a nice trip, goodbye.
+Speaker2: Goodbye

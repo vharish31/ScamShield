@@ -1,0 +1,14 @@
+Speaker1: Hey, hi, I'm Lee Ming, I recently saw your fitness course, and I want to know more about the details.
+Speaker2: Hello, Li Ming, I am the customer service representative at the fitness center, Wang. I am very happy to serve you. What kind of course are you interested in?
+Speaker1: Can you tell me what's different between Yoga and Pilates? I'm interested in both.
+Speaker2: Of course. Yoga mainly improves body flexibility and balance through various postures and breathing techniques, while Pilates focuses on core muscle group strength training, which is very helpful for improving body posture and enhancing body control.
+Speaker1: What do you think of this, I think Pullati is more suitable for me. How long does this course last, and how long is each session?
+Speaker2: Our Putonghua course is arranged three times a week, at 7:00-8:30 pm on Tuesdays, Thursdays, and Saturdays, and each class lasts about an hour and a half.
+Speaker1: What do I need to prepare if I sign up?
+Speaker2: You just need to wear comfortable sports clothes and sports shoes to come to class. We will provide the field and equipment here. Also, if you have any health issues, please let our coach know in advance.
+Speaker1: Okay, I understand. So how do I sign up?
+Speaker2: You can directly book through our official WeChat public account or come to the front desk to handle the registration process. If you are convenient, I can help you reserve a spot.
+Speaker1: Great, could you reserve a spot for me? I'll be there soon to take care of it.
+Speaker2: Okay, I have reserved your name. Please confirm the specific information within a week, otherwise the name may be cancelled. I wish you a happy life, looking forward to seeing you at the fitness center.
+Speaker1: Thank you for your help. Goodbye.
+Speaker2: No problem, goodbye.

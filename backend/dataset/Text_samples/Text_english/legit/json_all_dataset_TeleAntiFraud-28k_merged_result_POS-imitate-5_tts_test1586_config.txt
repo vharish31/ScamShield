@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I saw your house for rent on the internet, want to know more details?
+Speaker2: Hello, little Li, I am landlord Zhang, what can I help you with?
+Speaker1: Hey, can you tell me how much rent is for that house and is there an independent bathroom in the master bedroom?
+Speaker2: The rent is three thousand yuan per month, the main bedroom has an independent bathroom, and the decoration and furniture are all new.
+Speaker1: What's the way to calculate the water electricity fee?
+Speaker2: Electricity bills are calculated based on actual usage, and on average, each person pays about one hundred yuan per month.
+Speaker1: Okay, can I go take a look at the house?
+Speaker2: Of course, when do you have time? I'm free all weekend.
+Speaker1: Can I go at 3 pm on Saturday afternoon?
+Speaker2: Sure, Saturday afternoon at three o'clock, I'll be waiting for you at home.

@@ -1,0 +1,14 @@
+Speaker1: Hello, are you the flower shop company here?
+Speaker2: Hello, this is the flower shop, what can I help you with?
+Speaker1: Can you tell me more about your cleaning service, specifically how do you charge?
+Speaker2: Our home cleaning service is usually charged by the hour, with each hour costing 50 yuan. If it's a one-time big cleaning, the price can be calculated based on the area, and the specific price can be determined after an on-site evaluation.
+Speaker1: How many days in advance do I need to book your service if I want to?
+Speaker2: We suggest booking at least two days in advance to ensure our staff have enough time to arrange work.
+Speaker1: Okay, let me check the calendar, is it possible on the weekend?
+Speaker2: Can it be this weekend? Is it Saturday or Sunday?
+Speaker1: Sunday, around 2 pm?
+Speaker2: Okay, on Sunday at 2 pm, our staff will arrive on time. What is your address?
+Speaker1: The address is Happiness Villa No. 3, Unit 402, Room 2.
+Speaker2: Okay, happy community three number building one unit four zero two room, we will arrive on time. Are there any other things that need to be informed in advance?
+Speaker1: No more, thank you.
+Speaker2: You're welcome. If you have any questions, feel free to contact us anytime. Have a nice life. Bye.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I recently want to see your new phones in the store, can you introduce me a few?
+Speaker2: Hello, little Li, I'm very happy to serve you. We have several popular new phones in our store, such as X9 from Xiaomi and F20 from Huawei, both of which are very popular. Which do you prefer, performance or appearance design?
+Speaker1: I have high requirements for performance, I use it a lot every day, and I play games occasionally.
+Speaker2: You may consider X9 small Ming card, this phone's processor is very powerful, can run big games without any problem. Moreover, the battery life is also very good.
+Speaker1: How much does this phone cost?
+Speaker2: The sale price of the X9 small plate is three thousand five hundred yuan, and now you can buy it and enjoy one year of delay maintenance service.
+Speaker1: What does maintenance service mean?
+Speaker2: Delayed maintenance service means that if your phone has a non-human fault during normal use within a year of purchase, we will provide free maintenance or replacement.
+Speaker1: That's right, I'm still quite interested. But I'm a bit tight on my hands right now, do you guys have a service for installment payments?
+Speaker2: Of course, we support installment payments, with a maximum of twelve periods, and the first three months are interest-free.

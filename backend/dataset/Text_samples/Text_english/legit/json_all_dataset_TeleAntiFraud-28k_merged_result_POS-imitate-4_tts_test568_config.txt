@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to know more about your fitness program.
+Speaker2: Hello, I'm very happy to serve you. What courses are you interested in? We have yoga, aerobics, strength training and many other courses here.
+Speaker1: Can you tell me about the number of yoga classes per week?
+Speaker2: The yoga course has three sessions per week, on Monday, Wednesday, and Friday evenings from 7 to 8 pm.
+Speaker1: Do I need to make a reservation for this course?
+Speaker2: Yes, to avoid crowds, we suggest you make an appointment in advance. You can do so through our WeChat public account or by phone.
+Speaker1: Sure, can I pay by the number of times I go this month?
+Speaker2: Of course, we have a service that charges by the session. The price for a single session is 80 yuan. If you buy a few sessions, we also have discount packages.
+Speaker1: Can I try it out first?
+Speaker2: Of course, we provide a first-time experience class, the price of the experience class is 50 yuan. You can choose any public yoga class to experience.
+Speaker1: Okay, how do I make a reservation for this week?
+Speaker2: You can book through our WeChat public account or directly call us, our phone number is 4008686868. When booking, please inform the customer service representative the course time and date you want to attend.

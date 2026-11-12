@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the Agricultural Bank Jinhe Branch, we noticed some abnormalities in your account, please confirm your identity information.
+Speaker2: Oh, really? What have you been up to lately?
+Speaker1: That's it, we found out your account has a large amount of funds flowing, for safety reasons, we need you to cooperate with us to do a simple investigation.
+Speaker2: Okay, then what do I need to do?
+Speaker1: First, please provide me with your identity card number and bank reserve phone number. We will send a verification code to your phone.
+Speaker2: Oh, that's how it is, then I'll tell you, my identity card number is one two three four five six seven eight nine zero one two three, reserve phone number is one three zero one two three four five six.
+Speaker1: Okay, the verification code has been sent, please check the text message and tell me the verification code.
+Speaker2: I see, the verification code is six five two one.
+Speaker1: Thank you for your cooperation. The last step to confirm your account safety is to enter the verification code on our secure website. I will send you the website link through text message immediately.
+Speaker2: Okay, I'll wait for a text message.

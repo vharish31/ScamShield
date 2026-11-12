@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? I am little king, the service staff of the hair salon you booked, is your two o'clock appointment still there today?
+Speaker2: Hey, hi, I'm little Li, the appointment is still there, but I might be late, there's a bit of a jam on the road.
+Speaker1: No problem, please come early, we will reserve a spot for you here.
+Speaker2: Okay, I'll arrive two points before the scheduled time. Sorry to bother you.
+Speaker1: No problem, please pay attention to safety on the road, give us a call when you arrive, we'll be waiting for you at the door.
+Speaker2: Okay, thank you, I'll call you when I arrive.
+Speaker1: Okay, let's meet later.
+Speaker2: Okay, see you later.

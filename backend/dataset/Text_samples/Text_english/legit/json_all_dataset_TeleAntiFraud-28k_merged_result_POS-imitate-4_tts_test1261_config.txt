@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you provide on-site maintenance battery car service on this side?
+Speaker2: Yes, we provide on-site repair services. What's the problem with your electric car?
+Speaker1: The car isn't moving and the screen is dark, I don't know what's going on.
+Speaker2: This situation may be due to the battery being drained or the connection line being loose. You can first check if the battery has any power, and if the battery has power, then check if the battery line is loose.
+Speaker1: I checked and the battery has power, the line is not loose, but it still won't move.
+Speaker2: It's possible that the battery car's motor or controller has a problem. We can send someone to check it out. If it's convenient for you, can you tell me your address?
+Speaker1: Okay, my address is Happiness Villa No. 3, Unit 2, Second Floor. When will you be able to come?
+Speaker2: We will arrange a maintenance person at your door within an hour. Please provide a contact method so we can contact you.
+Speaker1: Okay, my phone number is 13800138000. Thank you.
+Speaker2: No problem, we will process quickly. If there are other issues, please contact us anytime. Goodbye.

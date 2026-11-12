@@ -1,0 +1,14 @@
+Speaker1: Hello, you.
+Speaker2: Hello, what do you have?
+Speaker1: Can you guys tell me if you have any free spots this weekend? I want to reserve a spot to eat.
+Speaker2: Yes, we still have some space this weekend. How long do you need?
+Speaker1: Six o'clock in the evening.
+Speaker2: Okay, what time is it six o'clock?
+Speaker1: Three.
+Speaker2: Okay, three of you, six o'clock tonight, I'll record it for you.
+Speaker1: Thank you, do you have any recommendations for dishes?
+Speaker2: This week's special dishes are ginger-glazed pork ribs and steamed sea bass, both highly praised by customers.
+Speaker1: That sounds good, let's try it later.
+Speaker2: Okay, just tell the server directly when the time comes, we'll be ready.
+Speaker1: Okay, thank you, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you recommend anything for the washing machine on your side?
+Speaker2: Of course, we have a full-automatic washing machine here with a capacity of eight kilograms, excellent washing and drying results, and also very water-saving and energy-efficient.
+Speaker1: How much does this model cost?
+Speaker2: The price of this washing machine is three thousand five hundred yuan.
+Speaker1: Hmm, this price is still okay, can you lower it a little?
+Speaker2: There's a promotion going on right now, if you place an order today, you can enjoy a 90% discount.
+Speaker1: Nine discounts, what is the price after the discounts?
+Speaker2: The discounted price is three thousand one hundred and fifty yuan.
+Speaker1: Hmm, I'll think about it. Right, how long is the warranty period for this washing machine?
+Speaker2: This washing machine comes with a one-year warranty service. If you need it, you can also buy an additional extension warranty service.
+Speaker1: Okay, thank you. I will consider it.
+Speaker2: You're welcome. If you have any questions, please feel free to call anytime.

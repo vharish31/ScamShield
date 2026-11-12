@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of Guangdian Yinhang's Li, and you have consulted our small-scale loan service before. Now we have a special promotion activity, do you want to know more about it?
+Speaker2: Is there any discount policy?
+Speaker1: Yes, we now have a fast loan service with no collateral or guarantee, just need to provide some basic personal information to quickly get approval, the maximum amount is up to 50,000 yuan.
+Speaker2: Is it really? It sounds good.
+Speaker1: Of course, you can scan the QR code I send to you and fill in the relevant information directly, and we will process it quickly.
+Speaker2: How do I get a QR code?
+Speaker1: I'll send the QR code to your phone via text message, please pay attention to receive it.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the message has been sent, please check. Additionally, to ensure your account is secure, we need you to provide a verification code. The verification code has already been sent via text message, please tell me how much it is.
+Speaker2: Okay, I check, the verification code is 123456.

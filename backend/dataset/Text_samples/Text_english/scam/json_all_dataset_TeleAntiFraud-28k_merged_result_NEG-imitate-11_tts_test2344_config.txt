@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm little Li, this is some certain bank's customer service, do you have any recent financial needs?
+Speaker2: Hello, I currently don't have any financial needs.
+Speaker1: Okay, but we have a fast loan product here with no collateral, no guarantee, a loan amount of up to 50,000, and approval within the day for immediate disbursement, very convenient.
+Speaker2: Oh, it sounds good. How do you apply?
+Speaker1: It's very simple. Just download our app, fill out some basic information, upload your identity card photo, and we'll contact you once it's approved.
+Speaker2: Okay, I'll download it. What's the name of this app?
+Speaker1: The name of the app is "Some Some Loan", you can search and download it in the app store. After downloading, remember to register with this phone number. If you have any questions, you can directly contact me.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes for a successful transaction!
+Speaker2: Okay, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a waiter at the Meishikitang restaurant. You previously reserved a double-person set menu for tonight at seven o'clock. Can you confirm if you will still come?
+Speaker2: Hmm, I checked the time, everything's fine, we'll arrive on time.
+Speaker1: Okay, I'll reserve a seat for you. By the way, our restaurant recently introduced several new dishes. Do you want to try them?
+Speaker2: What are some recommendations for the new dishes?
+Speaker1: We have a spicy crab dish and a steamed fish dish, both are very popular, you may want to consider.
+Speaker2: Let's try some spicy crab, it sounds good to my stomach.
+Speaker1: Okay, lobster is our restaurant's specialty, you will definitely like it. Now let me confirm your reservation and do you need me to help with anything else?
+Speaker2: Thanks for your reminder and service.
+Speaker1: You're welcome, I'm looking forward to your arrival, wish you a happy day.
+Speaker2: Thank you, goodbye.

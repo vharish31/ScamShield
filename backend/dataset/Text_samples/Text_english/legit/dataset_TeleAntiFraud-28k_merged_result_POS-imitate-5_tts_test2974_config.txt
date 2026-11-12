@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you looking for a pharmacy nearby?
+Speaker1: Yes, I need to buy some cold medicine.
+Speaker2: Walking straight along this road, you'll see a big drugstore sign when you turn left at the second red and green light.
+Speaker1: Is everything ready on that side?
+Speaker2: Complete, they have a lot of medicine types at home, you should be able to find what you need.
+Speaker1: That's great, I still have a little cough, can you recommend a cough suppressant?
+Speaker2: You can explain your symptoms to the pharmacist at the drugstore, and the pharmacist will recommend an appropriate cough suppressant based on your condition.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, I hope you get well soon. If you need any further assistance, please feel free to contact me anytime.

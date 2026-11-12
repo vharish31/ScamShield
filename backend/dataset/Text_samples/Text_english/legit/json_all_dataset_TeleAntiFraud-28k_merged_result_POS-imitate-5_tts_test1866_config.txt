@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I just booked an appointment for tomorrow on your website, can you confirm the time?
+Speaker2: Hello, little Li, I am customer service Zhang. Your appointment time is 10 am in the morning, right?
+Speaker1: Yes, but my friend recommended a hairdresser, called Lao Wang, I don't know if he can change it.
+Speaker2: Old Wang is our senior hair stylist. Booking him may be a bit tight, but I'll check for you.
+Speaker1: Okay, that's bothersome to you.
+Speaker2: Found it, King Wang has an opening at 10 am tomorrow morning, can book it for you.
+Speaker1: Okay, can you please change it to King Wang's place?
+Speaker2: Okay, I have changed your appointment. Is there anything else you need my help with?
+Speaker1: No more, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, where are you, I can't find your location.
+Speaker1: I'm standing at the door of the community, can't you see me?
+Speaker2: I'll be there in a minute at the community door.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: I arrived, where are you at the door?
+Speaker1: I saw your car lights at the south gate.
+Speaker2: Okay, I see you, wait for me in the car for a moment, I'll park the car and come over.
+Speaker1: Okay, I'm waiting for you in the car.
+Speaker2: Where do we go now?

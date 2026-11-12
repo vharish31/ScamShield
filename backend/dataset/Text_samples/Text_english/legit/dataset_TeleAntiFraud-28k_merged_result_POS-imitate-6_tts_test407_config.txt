@@ -1,0 +1,14 @@
+Speaker1: Hi, how are you? I'm Xiao Ming, the person you consulted with our company's fitness courses before. I'm here to follow up.
+Speaker2: Oh, hello, yes, I remember.
+Speaker1: Do you have time to take a closer look at our several menu options?
+Speaker2: Sure, I have a fitness plan lately.
+Speaker1: Great, we have a basic monthly membership and a premium package with private coaching, which one are you more interested in?
+Speaker2: I'm interested in the high-level set menu with private tutoring. Can you provide more details?
+Speaker1: Of course. In addition to the basic fitness facilities, the high-level set also includes two private one-on-one coaching sessions per week, helping you train more scientifically.
+Speaker2: How about the price?
+Speaker1: The price of the high-level set menu is eight hundred yuan per month, but we now have a promotion activity, if you sign up now, you can enjoy a discount of half price for the first month.
+Speaker2: Okay, when can I try it out?
+Speaker1: You can come over anytime, I can help you schedule a trial time, is it convenient for you this weekend?
+Speaker2: Weekend is okay, then Saturday morning 10 am.
+Speaker1: Okay, on Saturday morning at 10 am, I will reserve a spot for you in advance. See you then!
+Speaker2: Okay, thank you, see you later.

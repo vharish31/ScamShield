@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the manager of the Bank of China.
+Speaker2: Hello, Zhang Manager, what do you have?
+Speaker1: That's right, we noticed that your recent credit record at our bank is very good, and we would like to invite you to a special activity.
+Speaker2: What activity is it?
+Speaker1: We have a new financial product with a yearly return rate of 12%, and the risk is very low.
+Speaker2: Listen well, how to join in?
+Speaker1: You just need to download our exclusive app, register and complete identity verification to start investing.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Absolutely safe, we are a regular bank, our app has been authenticated. You can download it directly through this link: (provided link during call)
+Speaker2: Okay, let me try.

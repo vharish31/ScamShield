@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am the manager of the loan department at Guangfa Bank. We have a loan product with a very low interest rate here. Would you like to know more about it?
+Speaker2: Sure, let me know.
+Speaker1: Great, this loan product is specifically designed for high-quality customers, and only requires basic information to quickly obtain approval.
+Speaker2: What do I need to do?
+Speaker1: Just click this link, fill out some basic info, and we'll have a specialist contact you.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact me at any time. For convenience of future communication, let's add a WeChat.
+Speaker2: Okay, let me add you on WeChat.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I recently want to change my phone, do you have any recommendations here?
+Speaker2: Of course, what do you mainly use your phone for? Like playing games, watching videos or daily use?
+Speaker1: It's mainly for daily use, occasionally watch videos, no high requirements.
+Speaker2: This phone has a high price-to-value ratio, long battery life, smooth system, and is very suitable for daily use.
+Speaker1: How much does this phone cost?
+Speaker2: This phone is currently on sale for 1999 yuan, and also includes a year of maintenance service.
+Speaker1: Can I come to the store and take a look sometime soon?
+Speaker2: Our store is open from nine in the morning to nine in the evening. You can come at any convenient time.
+Speaker1: Can I go at three in the afternoon tomorrow?
+Speaker2: Of course, I will wait for you at the store later.

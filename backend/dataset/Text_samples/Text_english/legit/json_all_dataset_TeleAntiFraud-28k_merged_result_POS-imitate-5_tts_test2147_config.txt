@@ -1,0 +1,11 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, I'm Xiaoming, are you working on repairing cars over there?
+Speaker2: Yes, do you want to fix your car?
+Speaker1: Yes, I have a Chinese car that needs repair, can you guys do it?
+Speaker2: Sure, we can fix any car here, including domestic ones.
+Speaker1: That's great, I think I need to fix the route issue, don't know how you guys charge on this side.
+Speaker2: What about the fare for the railway? We usually charge by time, and we need to check first to confirm the cost. When is it convenient for you to come?
+Speaker1: Can I make an appointment for tomorrow afternoon around three o'clock?
+Speaker2: Okay, tomorrow afternoon at three o'clock, I will reserve a spot for you, you can just come directly.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

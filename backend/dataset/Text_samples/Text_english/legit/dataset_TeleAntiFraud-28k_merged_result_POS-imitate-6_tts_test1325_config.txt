@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if there is any delivery service here?
+Speaker2: Yes, we provide delivery service. What information do you want to know?
+Speaker1: Can you tell me about your menu and prices, and roughly how long it will take to deliver?
+Speaker2: Okay, our menu has a variety of options, such as kung pao chicken, yu xiang rou si, niú ròu chǎo fàn, etc. Prices range from 20 yuan to 50 yuan. If you order now, it will take approximately 40 minutes to be delivered, as it is currently dinner time and it may be a little slow.
+Speaker1: Okay, I'll order a spicy kung pao chicken and a beef stir-fry, and a sour and spicy soup, can you deliver it?
+Speaker2: Okay, where is the address?
+Speaker1: The address is Happiness Villa No. 3, Building 2, Unit 402.
+Speaker2: Okay, I'll place the order for you now. It should arrive in about forty minutes. If there are any issues, we'll contact you right away.

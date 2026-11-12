@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Have you guys got any free rooms this weekend?
+Speaker2: When are you coming?
+Speaker1: Can I book a room on Saturday afternoon?
+Speaker2: Is it okay, do you need me to reserve the room for Saturday afternoon?
+Speaker1: Can you help me leave at four o'clock?
+Speaker2: No problem, I will help you leave at four o'clock, the room number will be sent to you in advance.
+Speaker1: Okay, thank you. Alright, can you park your car over there?
+Speaker2: The parking lot is right behind the hotel, parking is very convenient, and it's free.
+Speaker1: Great, I'll drive over. And how do you arrange breakfast?
+Speaker2: Breakfast is in the first-floor restaurant, breakfast time is from 7 am to 10 am, and the menu is very diverse.
+Speaker1: Okay, thank you for your detailed introduction. See you on Saturday.
+Speaker2: Okay, see you on Saturday, be careful on the road.

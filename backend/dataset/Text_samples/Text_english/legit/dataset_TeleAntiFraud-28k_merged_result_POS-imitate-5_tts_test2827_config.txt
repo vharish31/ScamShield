@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw your for rent house in Five Eight City, want to ask a few questions.
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me the specific location and rent of this house?
+Speaker2: This apartment is located in the Happy Village community, the rent is 3,000 yuan per month, including water and electricity fees.
+Speaker1: Is this house decorated?
+Speaker2: Yes, the house is fully furnished and equipped with appliances, you can move in with your luggage.
+Speaker1: When can I go see the house?
+Speaker2: You can come to my place at 10 am tomorrow morning, I'll be waiting for you at the door of the community.
+Speaker1: Okay, tomorrow morning at 10am, I'll be waiting for you at the community door.
+Speaker2: Okay, see you tomorrow.

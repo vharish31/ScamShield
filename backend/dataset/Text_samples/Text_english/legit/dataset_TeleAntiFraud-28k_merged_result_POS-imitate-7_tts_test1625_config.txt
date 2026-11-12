@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at the Happy Restaurant?
+Speaker2: Hello, I want to reserve a four-person seat for tonight at 7 pm.
+Speaker1: Okay, seven o'clock, four-person position, okay, I helped you record it.
+Speaker2: Are there any rooms available?
+Speaker1: Yes, the room needs to be reserved in advance. Do you need to reserve the room?
+Speaker2: I hope the environment is a little quieter.
+Speaker1: Okay, I will arrange a quiet room for you. Could you please provide your contact information so we can confirm the reservation?
+Speaker2: My phone number is 1358642096, thank you.
+Speaker1: Okay, 135864296, I will record it down. Someone will contact you later to confirm the work.
+Speaker2: Okay, thank you, looking forward to the meal later.
+Speaker1: You're welcome, I'm looking forward to your arrival, goodbye.

@@ -1,0 +1,16 @@
+Speaker1: Is the small apartment above your family's small shop for rent?
+Speaker2: Yes, it's for rent. Do you have a need?
+Speaker1: I don't have it now, I'm asking for a friend.
+Speaker2: Hey, is your friend planning to live alone or find a roommate?
+Speaker1: He planned to live by himself, but he wanted to take a look at the house first.
+Speaker2: Is that okay? When is your friend convenient to come see the house?
+Speaker1: Can I go out this weekend?
+Speaker2: Can I this weekend? Specific time?
+Speaker1: Are you going out at three o'clock on Saturday afternoon?
+Speaker2: Okay, on Saturday at 3 pm, the address is XX road XX number, your friend can come directly.
+Speaker1: Okay, thank you. By the way, can you leave a spare key for me?
+Speaker2: Only one key, but I'll definitely be there on Saturday.
+Speaker1: Okay, bother you now.
+Speaker2: No problem, feel free to contact me anytime.
+Speaker1: Okay, see you this weekend.
+Speaker2: See you this weekend, be careful on the road.

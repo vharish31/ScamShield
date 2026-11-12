@@ -1,0 +1,14 @@
+Speaker1: Hello, are you a housekeeping service provider?
+Speaker2: Hello, I am a housekeeping service staff, what can I help you with?
+Speaker1: I recently moved, looking for a cleaning service, do you provide?
+Speaker2: Of course, we have a professional cleaning team that can provide post-move-in deep cleaning services.
+Speaker1: How do you calculate the price?
+Speaker2: Based on the size of the house and the scope of cleaning needed, it is generally twenty yuan per square meter.
+Speaker1: How long do I need to reserve my 100 square meter home?
+Speaker2: A square meter costs around 2,000 yuan. Would you like to arrange for us to clean it on Saturday morning?
+Speaker1: Is Saturday okay? But I have time only in the afternoon. Can I change it to the afternoon?
+Speaker2: Okay, so we'll meet on Saturday at 2 PM, the cleaning team will arrive on time.
+Speaker1: Okay, thank you. Is there anything else I need to prepare?
+Speaker2: You don't need to prepare anything, we will bring all the necessary cleaning tools and materials. Just make sure the door can be unlocked and you're good to go.
+Speaker1: Okay, see you on Saturday. Thank you!
+Speaker2: No problem, see you on Saturday, wish you have a great day!

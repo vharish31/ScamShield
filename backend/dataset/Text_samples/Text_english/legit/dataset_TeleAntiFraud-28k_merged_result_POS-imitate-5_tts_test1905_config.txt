@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I just placed an order for delivery, do you know when it will arrive?
+Speaker2: Hello, your order is ready, estimated delivery in about 30 minutes.
+Speaker1: Okay, I'll be at the community door in a moment.
+Speaker2: No problem, I will call you beforehand to confirm.
+Speaker1: At what road junction will you pass when delivering food?
+Speaker2: We'll cross the road from the bright road intersection and go straight to the apartment building door.
+Speaker1: Is it a bit crowded at the intersection of the bright road?
+Speaker2: Sometimes there's a little delay, but it usually doesn't affect the delivery time.
+Speaker1: Okay, I'll wait for you at the door of the community.
+Speaker2: Okay, see you later.

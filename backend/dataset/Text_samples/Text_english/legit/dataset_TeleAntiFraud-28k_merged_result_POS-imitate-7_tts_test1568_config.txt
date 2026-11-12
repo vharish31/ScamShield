@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm a server at the fast food restaurant you ordered from before. We've just launched a new promotion. Would you be interested in learning more about it?
+Speaker2: Hey, how are you, what activities do you have?
+Speaker1: We recently launched a buy one get one promotion. If you purchase any dish, you can get a free copy of the same or a lower priced dish.
+Speaker2: What time does this activity end?
+Speaker1: The activity will last until the end of the month. You can come and try it out if you have time.
+Speaker2: Okay, when would be a good time for me to compare?
+Speaker1: Our restaurant's peak hours are from noon to two in the afternoon and from six to eight in the evening. If you don't mind, it's better to avoid these times.
+Speaker2: Then I'll avoid rush hour, maybe I'll go later than 8 o'clock.
+Speaker1: Okay, after eight o'clock some people will leave, you come at that time directly tell us you are joining the activity, we will prepare for you.
+Speaker2: Okay, thank you for your reminder, see you later.
+Speaker1: No problem, I'm looking forward to your arrival, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am Li Xiao, the customer manager of China Construction Bank.
+Speaker2: Hello, what can I help you with?
+Speaker1: Is that so? We recently launched a special discounted financial product with high returns and low risk. Would you like to know more?
+Speaker2: What's the specifics of it?
+Speaker1: This product is a joint venture with a well-known investment company, designed exclusively for customers, with an annual return rate of up to 10%, and flexible investment periods of three months, six months, or one year.
+Speaker2: Is this such high return really?
+Speaker1: It's absolutely true, many customers have already purchased this product and given very good feedback. To ensure your financial safety, we recommend downloading our official app, which makes it easier to check product details and buy.
+Speaker2: Download the app? Is it safe?
+Speaker1: Our app is officially certified and completely safe to download. Plus, there's a newbie package with extra discount coupons and rewards when you download now.
+Speaker2: Okay, let me try.

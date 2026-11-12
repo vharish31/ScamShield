@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little Li, recently I've been looking for a house, saw your place has a good house source, want to know more details.
+Speaker2: Hello, little Li, I am landlord Zhang, what can I help you with?
+Speaker1: Hey, can you tell me more about the specific location of this house and the surrounding facilities?
+Speaker2: This apartment is in the new city district, surrounded by supermarkets, hospitals, and schools, and the lifestyle is very convenient.
+Speaker1: What is the area of that house? How much is the rent?
+Speaker2: The apartment is a one-room one-living-room, with an area of approximately 50 square meters, and monthly rent of 3,000 yuan.
+Speaker1: Rent is still affordable, but how do you calculate the electricity bill?
+Speaker2: Water and electricity fees are calculated based on actual usage, water fees are three yuan per ton, and electricity fees are six mao per degree.
+Speaker1: Okay, can I schedule a time to see the house?
+Speaker2: Of course, when do you have time, we can schedule a time.
+Speaker1: Is this weekend okay? Around ten in the morning?
+Speaker2: I'll be waiting for you at home at ten o'clock on the weekend.

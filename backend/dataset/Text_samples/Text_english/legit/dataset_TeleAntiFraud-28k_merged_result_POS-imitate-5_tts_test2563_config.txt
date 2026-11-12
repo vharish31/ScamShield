@@ -1,0 +1,11 @@
+Speaker1: Hi, I'm little Li, I need to consult your home service on this side.
+Speaker2: Hello, little Li, I am customer service Zhang, what can I help you with?
+Speaker1: Can I schedule a cleaning service for tomorrow morning? What's your schedule like?
+Speaker2: Okay, our time slot is from nine to eleven in the morning, is that convenient for you?
+Speaker1: Can we meet at 9am? But I need you guys to come around 1pm in the afternoon for another round, okay?
+Speaker2: Okay, let's arrange to meet at one o'clock in the afternoon. What is your specific address?
+Speaker1: I live in the Yánggāng huāyuán xiǎojī, phone number is 1340123456
+Speaker2: Okay, the sunflower garden small community, the phone records are clear. We will arrive on time at nine in the morning and one in the afternoon. Is there anything else we need to pay special attention to?
+Speaker1: No more, thank you. Remember to bring a vacuum cleaner when you come over, my house is a bit dusty.
+Speaker2: Okay, I'll definitely bring it. If there are any issues, we'll contact you in advance. Goodbye.
+Speaker1: Okay, bye.

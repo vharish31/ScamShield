@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is wind fast express customer service center, I is customer service manager small Li.
+Speaker2: Hello, what do you have?
+Speaker1: We found out that one of your packages was lost during transportation, and we're ready to process a refund for you.
+Speaker2: That's terrible, how do I get a refund?
+Speaker1: To ensure a smooth refund, we need you to provide some personal information, including your bank card number and verification code, so that we can directly transfer the funds to your bank account.
+Speaker2: Okay, how can I provide this information?
+Speaker1: You can click on the link in the text message we sent you, and follow the instructions to submit the information.
+Speaker2: I'm going to check my messages right now.
+Speaker1: Okay, we're waiting for your reply here. If you encounter any issues, feel free to contact me anytime.
+Speaker2: Thank you, I will process it quickly.

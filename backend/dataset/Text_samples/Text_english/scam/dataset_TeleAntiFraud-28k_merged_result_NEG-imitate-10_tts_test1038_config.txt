@@ -1,0 +1,13 @@
+Speaker1: Hello, nice to meet you, I am Lee manager, this is Shanghai bank customer service center.
+Speaker2: Hello, do you have anything?
+Speaker1: We found your credit record is excellent, meets our bank's low interest loan conditions.
+Speaker2: Low interest loan? How to operate?
+Speaker1: Yes, we can provide you with a loan of 20,000 yuan at a low interest rate of 0.3%.
+Speaker2: This interest rate is so low? Is it real or fake?
+Speaker1: Of course, we have a dedicated loan platform at the bank. You just need to download our app, fill out some basic information, and you can apply.
+Speaker2: Do you need to provide any information to download the app?
+Speaker1: Just need your ID number, bank card number and phone number, very simple.
+Speaker2: Is this safe?
+Speaker1: There's no risk at all, our bank's app is strictly certified, very safe. Just click this link to download it.
+Speaker2: Okay, let me try.
+Speaker1: Great! After downloading, fill out the information. If you have any questions, feel free to contact me. Best wishes for your successful application!

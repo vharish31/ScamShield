@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to inquire about your restaurant's reservation service.
+Speaker2: Hello, I am a waiter at the restaurant, what can I help you with?
+Speaker1: Do you know if the special deal at your restaurant is still available today?
+Speaker2: Do you want to reserve the special set menu today? It's limited in quantity.
+Speaker1: Can I reserve a table for around what time can I come to have dinner?
+Speaker2: You can choose to eat between 5 and 6 pm, this time slot is less busy at the restaurant.
+Speaker1: Okay, I'll come at 5:30 to pick up the food. Do I need to pay in advance?
+Speaker2: You don't have to pay in advance, you can pay when you pick up your food.
+Speaker1: That's great, thank you for your service.
+Speaker2: No problem, I hope you like our dishes, goodbye.

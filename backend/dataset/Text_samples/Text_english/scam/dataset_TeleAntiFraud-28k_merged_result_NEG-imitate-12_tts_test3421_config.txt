@@ -1,0 +1,13 @@
+Speaker1: Hello, you, I am Lee Wen, the customer service representative of the global speed purchase platform.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we noticed that you recently purchased a product on our platform, but due to logistics issues, your order appeared abnormal.
+Speaker2: Really? Then what do we do?
+Speaker1: Don't worry too much, we have already applied for a full refund on your behalf. However, to ensure the safety of your account, we need you to cooperate and complete a simple verification.
+Speaker2: What do I need to do?
+Speaker1: Please open our customer service exclusive link and follow the page instructions. If you're not convenient, I can send you a verification code, you tell me the verification code, I'll help you operate.
+Speaker2: Okay, send me a verification code.
+Speaker1: Okay, I have sent the verification code, please check your text message.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Okay, the verification code is correct. I have already completed the verification, and the refund will be returned to your payment account within 24 hours.
+Speaker2: That's great, thank you for your help.
+Speaker1: You're welcome. If you have any other questions, feel free to contact our customer service anytime. Have a nice life, bye.

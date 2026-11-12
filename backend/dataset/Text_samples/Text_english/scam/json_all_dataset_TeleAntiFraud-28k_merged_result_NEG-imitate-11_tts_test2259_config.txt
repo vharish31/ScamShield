@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li Wei?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for SF Express, there might be a misdelivered package, please work with us to handle it.
+Speaker2: Oh, what do we do now?
+Speaker1: Please click on a link to confirm your identity information first, and then we can process this issue.
+Speaker2: Okay, how do I click?
+Speaker1: I will send you a link to your phone, just follow the instructions after opening the link.
+Speaker2: Okay, I'll take a look at my phone in a moment.
+Speaker1: Okay, please handle it quickly, we will quickly help you solve it.
+Speaker2: Thank you.

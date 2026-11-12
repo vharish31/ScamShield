@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I saw a smartwatch on your website and wanted to know more about it.
+Speaker2: Of course, smartwatches are our recent hot-selling product. What information do you want to know?
+Speaker1: What are the features and price of this watch?
+Speaker2: This smartwatch has health monitoring, message reminders, and fitness tracking functions, and costs 2999 yuan.
+Speaker1: What colors does this watch come in?
+Speaker2: This watch comes in black, silver, and gold colors for you to choose from.
+Speaker1: When will the delivery time be approximately?
+Speaker2: If you place an order now, we usually ship it within two to three days after receiving the order, and it can reach most areas in China within three to five days.
+Speaker1: Okay, thank you for your answer.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a happy shopping!

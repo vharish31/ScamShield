@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I am an AliExpress customer service representative. Your order has issues and needs your cooperation to handle them.
+Speaker2: What problem?
+Speaker1: Your order was lost during shipping, we need to process a refund for you.
+Speaker2: How do you handle it?
+Speaker1: To quickly process, please click on the link we send, fill out the relevant information, and we will quickly handle your refund.
+Speaker2: Okay, I'm waiting for the link.
+Speaker1: Okay, you will receive a text message with a link shortly. Fill out the information and tell me the verification code, I'll help you handle it.
+Speaker2: Okay, thank you.

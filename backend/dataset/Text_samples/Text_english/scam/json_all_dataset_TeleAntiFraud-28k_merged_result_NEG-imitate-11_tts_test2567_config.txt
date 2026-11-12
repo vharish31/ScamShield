@@ -1,0 +1,8 @@
+Speaker1: Hello, I am the client manager of Huaxia Bank, Zhang Ming. Recently we have launched a low interest loan, do you have any need for capital rotation?
+Speaker2: "Oh, this, temporarily not needed."
+Speaker1: That's great, but if there's a need in the future, you can contact me anytime, we also have a special app, have you downloaded it?
+Speaker2: Not downloaded yet.
+Speaker1: Please download one, the operation is very simple, and applying for a loan is also very convenient. I have a special link here, you can easily open it now.
+Speaker2: Link? How do you send it to me?
+Speaker1: Can you add my WeChat? I'll send you the link directly. It's more convenient this way.
+Speaker2: Okay, I'll add you on WeChat.

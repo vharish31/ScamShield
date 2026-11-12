@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Shenzhen Credit Loan Center, I am Manager Li Ming, based on your company's qualifications, we provide you with a no collateral loan, are you interested in learning more?
+Speaker2: Yeah, I've been having some issues with cash flow lately.
+Speaker1: Great, just provide some basic info and we'll quickly approve. But for security reasons, please download our company's exclusive app first, which will make it more convenient to operate.
+Speaker2: Download the app? Will it not be safe?
+Speaker1: Don't worry, our app has undergone strict safety testing, so you can use it with peace of mind. After downloading, you can also enjoy more discounts.
+Speaker2: Okay, let me try.
+Speaker1: Great, you can directly download it by clicking on this link. After downloading, please register and bind your bank card, so that we can quickly process the loan for you.
+Speaker2: Okay, I understand. Thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes, goodbye.
+Speaker2: Goodbye.

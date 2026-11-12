@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm small Zhang, want to consult your taxi service.
+Speaker2: Hello, I am the customer service of CarBao Platform, what can I help you with?
+Speaker1: Do you have any luxury car types here? I have an important meeting and need a car that looks good.
+Speaker2: Yes, we have luxury car models to choose from, including Bentley and BMW, when do you need to use a car?
+Speaker1: The meeting location is at the International Building in the city center at 9 am tomorrow.
+Speaker2: Okay, I recorded your pickup location. Where is it?
+Speaker1: I live in the Yangguang Huayuan Xiaoju, can you help me arrange it?
+Speaker2: Understood, it takes approximately 30 minutes to get from Donghuquan Yangguang Huayuan to Guojiadasha, I suggest the driver arrives at your small community at 8:45 am, so you can arrive on time at the meeting location.
+Speaker1: Okay, thank you for your advice. And, can you tell me how to calculate the car fare?
+Speaker2: You can pay the fare directly to the driver while riding the car, which supports both cash and mobile payment. Moreover, if you place an order on our platform, you can also enjoy a discount on your first order.
+Speaker1: Great, I'll place the order now. Thank you for your service.
+Speaker2: No problem, wish your meeting goes smoothly, feel free to contact me anytime if you have any questions. Bye!

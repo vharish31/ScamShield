@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I just saw your restaurant reviews online and want to reserve a table, do you have any available seats?
+Speaker2: What time do you need to book?
+Speaker1: Can I meet you at six and a half tomorrow night?
+Speaker2: Is it okay? Can you make a reservation for six and a half at six o'clock in the evening tomorrow?
+Speaker1: Do two people need a window position?
+Speaker2: Okay, we have a spot by the window. Do you have any other special requirements?
+Speaker1: No more, thank you. Okay, what do you recommend for dishes?
+Speaker2: Our restaurant's signboard menu has spicy Szechuan and steamed sea bass, very popular, you can try.
+Speaker1: Okay, thank you for your recommendation. See you tomorrow.
+Speaker2: Okay, see you tomorrow, welcome to come. Bye.

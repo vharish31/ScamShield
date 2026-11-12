@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I ordered food at your store last time.
+Speaker2: Hello, Mr. Zhang, how can I help you?
+Speaker1: Can you tell me if your store has any two-person meal options?
+Speaker2: Yes, we have a couple's set meal, which includes two main courses, one dessert and two drinks, priced at 288 yuan.
+Speaker1: What are the choices for the main dishes in this menu that sounds good?
+Speaker2: The main course can be selected as beef, three-fish or vegetarian dumplings, desserts include tiramisu and chocolate cake, and drinks are free to choose.
+Speaker1: What are your business hours this weekend?
+Speaker2: Our business hours are from 11 am to 10 pm every day, and they are extended to 11 pm on weekends.
+Speaker1: Okay, I plan to go at 7 pm on Saturday night. Do I need to make a reservation in advance?
+Speaker2: I suggest you book in advance so we can confirm your seat. You can do so by phone or our online platform.

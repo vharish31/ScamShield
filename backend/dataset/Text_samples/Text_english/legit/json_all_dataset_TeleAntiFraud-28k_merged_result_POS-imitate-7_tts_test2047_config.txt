@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm little Li, I saw your job post on the internet, I want to know more about it
+Speaker2: Hello, little Li, we really have a need for a part-time job, what specific aspects do you want to know about?
+Speaker1: What is the content of this part-time job and how is the work schedule arranged?
+Speaker2: This part-time job mainly involves data entry, the working hours are quite flexible, you can arrange your own time, and you must work at least 20 hours per week.
+Speaker1: How is the salary and benefits for this part-time job?
+Speaker2: Salary is calculated per hour, 20 yuan per hour, monthly settlement, and there's a bonus if performance is good.
+Speaker1: What do I need to prepare?
+Speaker2: You need to prepare copies of your ID and educational certificates, which you can bring with you during the interview.
+Speaker1: Okay, when can I come for the interview?
+Speaker2: You can come at two in the afternoon tomorrow, we'll wait for you here.

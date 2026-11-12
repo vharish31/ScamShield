@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm looking for your store's address. Can you tell me how to get there?
+Speaker2: Hello, where are you? I can give you directions.
+Speaker1: I'm standing on the street next to the Spring Park.
+Speaker2: Oh, you're walking down this street straight ahead, turn left at the third crossroad, then keep going straight until you reach the end, you'll see a red sign there, that's our store.
+Speaker1: Okay, turn left at the third crossroad and walk straight to the end, red sign. Are there any other special markers?
+Speaker2: There's a big magnolia tree right next to our store, very noticeable, you'll know it as soon as you arrive.
+Speaker1: Understood, thank you for your help, approximately how long will it take?
+Speaker2: If you walk, it will take about fifteen minutes, if you ride a bike, it will take five minutes.
+Speaker1: Okay, I'll ride my bike over there. I arrived quickly. Goodbye!
+Speaker2: Okay, be careful on the road. We'll wait for you at the store. Bye!

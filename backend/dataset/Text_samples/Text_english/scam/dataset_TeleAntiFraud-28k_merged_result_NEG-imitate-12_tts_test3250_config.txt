@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the customer manager of Guangfa Bank, I am Lee.
+Speaker2: Hello, how did you know my phone number?
+Speaker1: I recently cleaned up customer information at the bank and found out you need a loan, so I called you.
+Speaker2: Uh, I recently had some issues with cash flow.
+Speaker1: Hello, our bank has just introduced a low-interest loan product with a monthly interest rate of 0.5%, which is very suitable for you.
+Speaker2: How do I apply?
+Speaker1: It's very simple. Just download our official app, fill out some basic information, and you can apply.
+Speaker2: Where can I download the app?
+Speaker1: You can click on the link I sent you, and download our official app directly.
+Speaker2: Okay, let me try.
+Speaker1: Okay, feel free to contact me anytime if you have any questions. Li Manager.

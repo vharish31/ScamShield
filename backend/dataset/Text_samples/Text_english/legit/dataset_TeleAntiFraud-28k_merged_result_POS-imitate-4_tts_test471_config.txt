@@ -1,0 +1,10 @@
+Speaker1: Hey, did you arrive?
+Speaker2: I arrived, I was at the subway station exit, I didn't see you.
+Speaker1: I just arrived, take a look, I'm at the east side of the subway station.
+Speaker2: Oh, it's the subway station on the east side, I saw a sign on the board saying east side exit.
+Speaker1: Okay, just this one, you walk this way and take a look.
+Speaker2: Okay, I'm walking this way, wait for me a moment.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: I see you, I'm in front of you.
+Speaker1: Okay, let's go eat.
+Speaker2: Okay, what do you want to eat today?

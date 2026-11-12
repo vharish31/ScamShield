@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Beijing Bank Loan Center, I am Lee Manager, we have suitable low interest loan products for you, do you have time to take a look?
+Speaker2: Hey, I'm not convenient right now, what's your loan interest rate?
+Speaker1: This month's interest rate on loans is very favorable, only 0.02, and the process is simple, no collateral is required, and the approval speed is fast.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: You just need to download our official app, register and fill in the relevant information, and we will process it quickly.
+Speaker2: Okay, what information do I need to provide after downloading the app?
+Speaker1: You just need to provide your ID photo, work proof, and bank statement, and we will complete the review within one workday.
+Speaker2: How do I know you are a legitimate bank?
+Speaker1: You can check our qualifications through our official website or directly call our customer service hotline for verification.
+Speaker2: Okay, I'll first download your app and take a look, thank you.

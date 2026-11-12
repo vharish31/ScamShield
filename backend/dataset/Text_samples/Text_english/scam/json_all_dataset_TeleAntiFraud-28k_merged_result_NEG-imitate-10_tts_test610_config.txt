@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao, this is the AliExpress customer service center.
+Speaker2: Hello, what do you have?
+Speaker1: That's it, we found an issue with your order, it might be a mistake from the seller, please work with us to fix it.
+Speaker2: What's the issue with the order? Okay, what do I need to do?
+Speaker1: Okay, just click on the link we send to you and follow the instructions to solve the problem.
+Speaker2: Okay, I received it. Now I'll operate.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you good luck with your operation, bye.
+Speaker2: Goodbye.

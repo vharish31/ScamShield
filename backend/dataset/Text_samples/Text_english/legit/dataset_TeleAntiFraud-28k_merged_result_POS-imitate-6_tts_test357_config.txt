@@ -1,0 +1,9 @@
+Speaker1: Hey, hello, I'm little king, I took a taxi, but I can't find the designated pickup station, can you help me?
+Speaker2: Hello, little king, I am at the parking lot, you can take a taxi through T2 exit, which is on the west side of the airport station, you will see a railing.
+Speaker1: Okay, I see the entrance, but my car seems to not have permission to enter, what should I do?
+Speaker2: Okay, you can wait at the entrance for a moment, I'll come get you.
+Speaker1: Okay, I'll wait for you here. How long will it take you to arrive?
+Speaker2: About five minutes, put on a mask, pay attention to safety.
+Speaker1: Okay, I will, thank you.
+Speaker2: No problem, see you later.
+Speaker1: Okay, see you later.

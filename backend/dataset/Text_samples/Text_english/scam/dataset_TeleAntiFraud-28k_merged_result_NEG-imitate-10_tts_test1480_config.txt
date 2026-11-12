@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the commercial bank personal loan department, I am the manager, Zhang.
+Speaker2: Hello, Zhang Manager, what can I help you with?
+Speaker1: We recently launched a highly affordable loan product with interest rates as low as two cents, perfect for customers like you.
+Speaker2: The sound is good, but I'm not familiar with loans.
+Speaker1: No problem, I can introduce you in detail. However, for your convenience, you can first download our official app, which is very easy to operate.
+Speaker2: Download the app? How do I know it's safe?
+Speaker1: Absolutely safe, all our commercial bank apps are officially certified. Just click this link to download directly.
+Speaker2: Okay, let me try.
+Speaker1: Great, download it and use this code to register, you can also get extra discount.
+Speaker2: What is a referral code?
+Speaker1: The recommendation code is 123456. Input this code when you register to enjoy more discounts.

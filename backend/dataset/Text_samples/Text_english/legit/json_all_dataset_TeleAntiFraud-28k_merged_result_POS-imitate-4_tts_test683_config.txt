@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm from the courier company, do you have a package that needs to be confirmed?
+Speaker2: Hello, what package?
+Speaker1: That's the electric kettle you bought online yesterday, it arrived today.
+Speaker2: Can you bring that over now that I bought it?
+Speaker1: Sure, your address is in some certain community, right?
+Speaker2: Yes, that's the small community.
+Speaker1: I'll probably arrive in about half an hour, wait for me at home.
+Speaker2: Okay, no problem, I'll wait for you.
+Speaker1: Thank you, see you then.
+Speaker2: Okay, bye.

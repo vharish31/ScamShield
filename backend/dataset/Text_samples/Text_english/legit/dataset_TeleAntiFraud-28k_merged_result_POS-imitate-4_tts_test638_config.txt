@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, how about you lately?
+Speaker2: Hey, Xiaoming, I'm doing pretty good, lately work has been a bit busy. How about you?
+Speaker1: I'm in too, I just worked overtime until 8 tonight. Hey, do you have any free time this weekend? Let's go hiking together.
+Speaker2: I had some time over the weekend, but the weather forecast said it might rain on that day.
+Speaker1: Oh, that's it. Let's first check the weather forecast, if it's really raining, let's change our activity.
+Speaker2: Great idea, let's go to which coffee shop shall we sit?
+Speaker1: I know a good place, it's in the city center, the environment is good. Let's go there.
+Speaker2: Okay, how do I walk to that coffee shop? I'm not very familiar with the streets in the city center.
+Speaker1: You can take the subway line 2, get off at the city center station, and walk 500 meters out to arrive.
+Speaker2: Okay, I know, see you this weekend.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you, I'm little Li, have you recently bought a piece of clothing online?
+Speaker2: Okay, what now?
+Speaker1: Oh, I'm an express delivery customer service representative, we found out your package was lost during transportation, now we need to handle your refund.
+Speaker2: That's terrible, what should I do now?
+Speaker1: To quickly process, please click a link, fill out some personal information, and we will directly refund your account.
+Speaker2: How do I click on a link?
+Speaker1: I will send you a link via text message. Once received, please click and follow the instructions.
+Speaker2: Okay, I'm waiting for a text message.
+Speaker1: Okay, the text message will arrive later, if you encounter any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you.

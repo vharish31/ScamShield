@@ -1,0 +1,11 @@
+Speaker1: Hey, are you Zhang Wei?
+Speaker2: Hello, who are you?
+Speaker1: I am a customer manager at Huaxing Bank. Recently, we have launched a special credit loan service for high-quality customers. Would you be interested in learning more?
+Speaker2: Loan, I can afford it now, not needed temporarily.
+Speaker1: That's great! But this discount is particularly suitable for friends with cash flow needs, if you ever need it in the future, you can consider it.
+Speaker2: What are the conditions for this loan?
+Speaker1: It's very simple. As long as you have a stable job and income, and no negative credit records, you can apply. Moreover, our approval speed is fast, and we offer a discounted interest rate.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: Just download our official app, authenticate with your real name, fill out the relevant information and submit the application.
+Speaker2: Okay, I'll give it a try. Thank you for your recommendation.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you a successful application.

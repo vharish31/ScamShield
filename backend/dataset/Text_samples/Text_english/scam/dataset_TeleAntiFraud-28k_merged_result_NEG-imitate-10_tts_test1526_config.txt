@@ -1,0 +1,10 @@
+Speaker1: Hello, this is JD customer service, I am customer service representative Li.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we found out there's an issue with your order, it might be that the shipment got lost during transportation, so we need to handle it for you.
+Speaker2: Ugh, what do we do now?
+Speaker1: To ensure your rights, we need you to cooperate with us in a simple verification. Can you provide us with your order number and phone number?
+Speaker2: Okay, my order number is 1234567890, my phone number is 13800138000.
+Speaker1: Thank you for your cooperation. We have recorded your information. To facilitate the refund process, please download our exclusive app, which can help us process refunds more quickly.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can search 'JD Express Refund' in the mobile app store, download and install it, then register and log in with your phone number. We will send you a refund link through this app.
+Speaker2: Okay, I'll download it right away. Thank you.

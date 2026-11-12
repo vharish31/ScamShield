@@ -1,0 +1,12 @@
+Speaker1: Hey, are there any new phones in your store?
+Speaker2: Hello, what phone model do you want to know about from the recent batch of new phones?
+Speaker1: I recently discovered a new blue-colored product.
+Speaker2: Yes, that phone is indeed our new release, the blue one is very popular, we still have some stock.
+Speaker1: What is the price of this phone?
+Speaker2: This phone costs 3800 yuan, and now you can enjoy a 90% discount when buying it.
+Speaker1: Nine discounts, that's still quite reasonable. Do you support installment payments in your store?
+Speaker2: Of course, we have multiple installment payment options here, you can choose from three, six, or twelve periods.
+Speaker1: Okay, where is your store located?
+Speaker2: Our store is located on the pedestrian street in the city center, specifically at number 23 on the pedestrian street, it's very convenient for you to come over.
+Speaker1: Okay, I'll go over there this afternoon. Thank you for your help.
+Speaker2: No problem, I'm looking forward to your arrival, please feel free to contact me if you have any questions.

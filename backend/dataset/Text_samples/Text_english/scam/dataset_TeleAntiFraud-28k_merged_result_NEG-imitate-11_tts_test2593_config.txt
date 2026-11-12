@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service of XX bank. Your loan application has passed the initial review. Would you like me to explain the next steps to you?
+Speaker2: Okay, you say it, I'm listening.
+Speaker1: Great, to speed up your loan process, can you download our bank's exclusive app and submit some personal information through it?
+Speaker2: Can I download the app? Yes, how do I download it?
+Speaker1: You can directly click on the link I sent you, follow the instructions to download and install the app, log in after installation, and then fill out the relevant information, and we can quickly process your loan application.
+Speaker2: Okay, let me try.
+Speaker1: Okay, please wait a moment, I'll send you a text message with a link. Once you receive it, please click to download immediately.
+Speaker2: I got the text message, I'll download it right away.
+Speaker1: Great, after downloading and installing, if you have any issues, feel free to contact me anytime. Enjoy your use, goodbye.
+Speaker2: Okay, thank you, bye.

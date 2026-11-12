@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Can you recommend any good hair salons here?
+Speaker2: Of course, what type are you looking for? Quick sketch or specialized product design?
+Speaker1: It's best to be able to do styling, I recently want to change my new hairstyle.
+Speaker2: You can try 'Tide Cutting', their design team is very professional, and the reputation is very good.
+Speaker1: How long do I need to make a reservation on that side?
+Speaker2: It's usually recommended to make an appointment one to two days in advance, especially on weekends when there are more people.
+Speaker1: Can you make an appointment for me now, and is four o'clock in the afternoon okay for you tomorrow?
+Speaker2: Sure, just call 12345678901 to make an appointment.
+Speaker1: Okay, thank you for your recommendation, I'll call now.

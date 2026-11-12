@@ -1,0 +1,10 @@
+Speaker1: Hello, I want to inquire about the private room reservation situation at your restaurant.
+Speaker2: Hello, I'm very happy to serve you. What time slot would you like to book a room?
+Speaker1: Can I reserve a table for six o'clock this weekend?
+Speaker2: Okay, let me check. There's a free spot in the private room at six o'clock on Saturday night. How many people do you need to reserve a private room?
+Speaker1: Book a private room that can accommodate ten people.
+Speaker2: Okay, a private room for ten people has been reserved for you. Do you need to inform us in advance if you have any special dietary requirements?
+Speaker1: No need, we are all normal eating, thank you.
+Speaker2: Understood, could you please provide your name and contact number so we can confirm?
+Speaker1: My name is Zhang Wei, phone number is 13800000000.
+Speaker2: Okay, Mr. Zhang. Your information has been recorded. Your weekend dinner reservation for six people at eight o'clock on Saturday night was successful. Please arrive fifteen minutes early. If there are any changes, please contact us immediately. Enjoy your meal!

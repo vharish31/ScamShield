@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Can you see our apartment information in the city of five eight?
+Speaker2: Yes, can you tell me in detail about that single room?
+Speaker1: Okay, this is a one-person room, there's a bed and a desk, but no fridge.
+Speaker2: No fridge? Can I cook?
+Speaker1: Okay, but the kitchen is shared, and there are three male residents living inside.
+Speaker2: Oh, in this way, how much is the rent for that house?
+Speaker1: The monthly rent is 1200 yuan, and the water and electricity are self-paid.
+Speaker2: Okay, thank you. I'll think it over, and if I decide to rent it, I'll contact you.
+Speaker1: Okay, you can contact me anytime, my phone number is 555-555-5555.

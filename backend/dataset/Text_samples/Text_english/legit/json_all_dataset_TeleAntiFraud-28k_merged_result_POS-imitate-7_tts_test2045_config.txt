@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I am the customer service at the new street corner hair salon, and I saw you tried our service before. Do you have any suggestions or feedback for us?
+Speaker2: Oh, your service is great, just the queue time is a bit long.
+Speaker1: Thank you very much for your feedback. We are actively improving this issue and will increase staff to shorten customer wait time.
+Speaker2: Okay, I hope you can go faster next time.
+Speaker1: There will definitely be one, by the way, we have a member activity this week, if you're interested, you can come try it out, and there's a small gift to give you too.
+Speaker2: The sound is good, but I'm a bit tight on time this week, I'm not sure if I can go.
+Speaker1: Understand, you can add our WeChat public account first, all activity information will be published on it, convenient for you to know anytime.
+Speaker2: Okay, I will pay attention. Thank you for the invitation.
+Speaker1: No problem, feel free to contact us for any questions. Have a great day!

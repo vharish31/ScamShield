@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I just ordered takeout, why hasn't it arrived yet?
+Speaker2: Hello, Xiaoming, I'm the delivery boy, now I'm rushing to your place because the road is congested, so I'm a little late, it should take about ten minutes or so.
+Speaker1: Oh, that's it, that's so annoying, you've been working so hard.
+Speaker2: No problem, this is my job, I will send it to you as soon as possible, please wait for a moment.
+Speaker1: Okay, I'll wait for you. Remember to call me when you arrive.
+Speaker2: Okay, I'll definitely do it. Thank you for understanding.
+Speaker1: Okay, I just changed my address to Happiness Villa, 3rd floor, unit 1, please confirm.
+Speaker2: Okay, Happy Community Building Three Number One Unit, I noted it down, I'll be there in a while.
+Speaker1: Okay, just be careful on the road.
+Speaker2: Thank you, see you later.

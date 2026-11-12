@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm little Li, you forgot, last time we ate dinner together
+Speaker2: Oh, little Li, do you remember, how are you now?
+Speaker1: How have you been lately? I heard a new restaurant just opened, want to give it a try?
+Speaker2: Really? I also heard that, the evaluation is good, when are you going?
+Speaker1: How was your Saturday afternoon? My schedule is pretty flexible here.
+Speaker2: What time did you go out on Saturday?
+Speaker1: What do you think at 5 pm?
+Speaker2: Can we go at 5 o'clock? Do we need to make a reservation in advance at that restaurant?
+Speaker1: It's best to book in advance, or I'll book it.
+Speaker2: Okay, that's it, see you later.

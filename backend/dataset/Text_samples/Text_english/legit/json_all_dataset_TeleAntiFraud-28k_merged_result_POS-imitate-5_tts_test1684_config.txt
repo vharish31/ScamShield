@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Have you recently released any new notebook laptops here?
+Speaker2: Yes, we recently launched several new notebook computers with the latest configuration. What do you prefer in terms of brand?
+Speaker1: I don't have any specific requirements for the brand, I just want to buy a computer with a high price-to-performance ratio for daily work and occasional gaming.
+Speaker2: You should like our latest LinkThink Pro. It has the latest processor and high performance graphics, perfect for your needs.
+Speaker1: How much does this notebook cost?
+Speaker2: This notebook costs six hundred and eighty yuan. Now there's a three hundred yuan discount, so the actual payment is six hundred and fifty yuan.
+Speaker1: Does this notebook have any in stock?
+Speaker2: We have in stock, you can choose online payment and we will immediately arrange delivery for you, or you can choose to pick up in store.
+Speaker1: Okay, I'll think about it. Thank you for your recommendation.
+Speaker2: You're welcome. If you have any questions, feel free to consult anytime. Wish you a happy life!

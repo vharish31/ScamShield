@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker1: Hi, I'm Zhang from the customer service team of an e-commerce platform. I noticed that you've recently browsed some electronics on our website but haven't placed an order yet. Do you need any assistance?
+Speaker2: Hey, yes, I want to know more about the energy consumption and after-sales service of this smart refrigerator?
+Speaker1: This intelligent refrigerator is an energy-efficient level one product, very power-saving. As for after-sales service, we provide nationwide extended warranty, free on-site repair within one year.
+Speaker2: That's great, but I'm not at home right now, can you deliver it to my office?
+Speaker1: Of course, please tell me your company address, I can help arrange delivery.
+Speaker2: Can you guarantee delivery to Beijing's Chaoyang District within three days at the company's address in the building?
+Speaker1: Sure, we usually complete delivery within two to three days after ordering.
+Speaker2: Okay, I placed an order, thank you for your service.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you a happy life.

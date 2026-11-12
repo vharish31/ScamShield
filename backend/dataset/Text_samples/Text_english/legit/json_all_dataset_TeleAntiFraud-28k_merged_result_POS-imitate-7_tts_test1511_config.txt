@@ -1,0 +1,10 @@
+Speaker1: Hey, are you waiting for the car?
+Speaker2: Hey, I'm waiting for the car here, have you arrived yet?
+Speaker1: Hurry up, I just passed the red light, where are you standing?
+Speaker2: I was standing next to the bus stop, wearing a blue suit.
+Speaker1: Okay, I see you, you walk forward a little, I am on your right hand.
+Speaker2: Okay, I see it, what kind of car is this?
+Speaker1: White car, license plate number is A1B2C4.
+Speaker2: Okay, I'll be right there, can you wait a minute?
+Speaker1: No problem, take your time, I'm waiting for you here.
+Speaker2: Thank you, I arrived, could you please drive slowly?

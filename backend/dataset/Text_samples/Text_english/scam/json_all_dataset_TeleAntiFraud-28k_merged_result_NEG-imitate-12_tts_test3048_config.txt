@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative from Shenzhen Bank, your loan application has been approved, do you have any recent funding needs?
+Speaker2: What should I do if there's a need?
+Speaker1: Okay, to quickly receive the loan, you need to first download our bank's official app, then register and bind your bank card, this way you can ensure the safety of the funds and quickly receive them.
+Speaker2: Okay, I'll download it right away.
+Speaker1: After downloading, you will need to fill out a credit evaluation form, and we will determine the loan amount based on your credit situation.
+Speaker2: Then what do I do after filling it out?
+Speaker1: After filling out, please click the submit button, our review team will complete the review within an hour and notify the result to you.
+Speaker2: Okay, I understand now, thank you.
+Speaker1: No problem, if you have any questions, feel free to contact me anytime. By the way, are you interested in learning more about our bank's other financial products?
+Speaker2: Yes, can introduce a little.

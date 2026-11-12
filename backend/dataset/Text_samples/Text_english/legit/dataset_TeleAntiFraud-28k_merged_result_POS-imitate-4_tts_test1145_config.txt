@@ -1,0 +1,9 @@
+Speaker1: Hello, I am small Li, your previous housekeeping service, I am here to confirm the service time.
+Speaker2: Hello, little Li, I remember it's tomorrow afternoon at three o'clock, right?
+Speaker1: Yes, tomorrow at three in the afternoon. Confirm one more time, the service address is happy small community two number building three single unit right?
+Speaker2: Yes, it's the happy community building number two, floor three, apartment three.
+Speaker1: Okay, I'll arrive fifteen minutes early tomorrow to check if there are any tasks to prepare for.
+Speaker2: Okay, I will prepare the clean areas.
+Speaker1: That's annoying, if there are any changes, I will contact you in advance.
+Speaker2: Okay, thank you, little Li, see you tomorrow.
+Speaker1: See you tomorrow, goodbye.

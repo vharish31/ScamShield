@@ -1,0 +1,14 @@
+Speaker1: Hello, you.
+Speaker2: Hello, what can I help you with?
+Speaker1: I'd like to inquire about your restaurant's reservation service.
+Speaker2: Of course, we provide phone and online ordering options. How do you want to order?
+Speaker1: Can you help me reserve a four-person table for a phone order?
+Speaker2: Can we set the time for the reservation?
+Speaker1: Saturday afternoon at six o'clock
+Speaker2: Okay, your 4-person weekend dinner at 6 pm has been reserved, is there anything else you need?
+Speaker1: Do you have any special dishes?
+Speaker2: We have a signboard for roast duck, steamed fish with clear broth and hand-pulled noodles, all highly rated by customers, you can try them.
+Speaker1: The food sounds great, I'll order it later. How far in advance do I need to order?
+Speaker2: We suggest booking at least two hours in advance to ensure a good dining experience.
+Speaker1: Okay, thank you for your help, see you this weekend.
+Speaker2: You're welcome, looking forward to your arrival, see you this weekend.

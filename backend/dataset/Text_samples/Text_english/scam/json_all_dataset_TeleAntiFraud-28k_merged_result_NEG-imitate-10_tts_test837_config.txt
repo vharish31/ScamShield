@@ -1,0 +1,12 @@
+Speaker1: Hello, is this Zhang Zhong?
+Speaker2: Yes, who are you?
+Speaker1: I am the finance manager of a consulting company, specializing in providing financial turnaround solutions for enterprises.
+Speaker2: Hey, what can I help you with?
+Speaker1: We recently introduced a special discount, if you register with us, you can get a no-collateral loan with a very low interest rate.
+Speaker2: The sound is good, but my recent financial situation is okay.
+Speaker1: This opportunity is very rare, and we also provide free financial advisor service, which can help you better manage your finances.
+Speaker2: What do I need to do?
+Speaker1: Just click this link to register and fill out the relevant information, and our consultant will quickly contact you.
+Speaker2: Okay, let me try.
+Speaker1: Great! The link has been sent to your phone. If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, I will take a look.

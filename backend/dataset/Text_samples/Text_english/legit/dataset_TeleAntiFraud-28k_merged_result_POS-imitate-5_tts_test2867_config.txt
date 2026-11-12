@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Li, I bought a phone from your store yesterday, and I found a problem today.
+Speaker2: Hello, little Li, I am a customer service representative, what is the specific issue?
+Speaker1: The screen of my phone sometimes touches itself automatically, which is very inconvenient to use.
+Speaker2: Can you give me specific model and purchase date?
+Speaker1: Okay, the model is X10, the purchase date is yesterday.
+Speaker2: Understood, would you be able to come to our store for a quick check? We can take a look for you.
+Speaker1: I'm currently abroad, it might take a week to come back.
+Speaker2: You can send it back first, we have a dedicated customer service team here to handle it.
+Speaker1: Okay, so how do I send it? To which address do I need to send it?
+Speaker2: You can choose to have your package delivered to our after-sales service center, located at XX city, XX district, XX road, XX number.
+Speaker1: Okay, I will send it back quickly, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wishing you all the best.

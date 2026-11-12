@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? Can you tell me if there are any available tables here?
+Speaker2: Hello, how many are you?
+Speaker1: We are four.
+Speaker2: Okay, for the four of you, do you think this window seat is suitable?
+Speaker1: The spot by the window sounds good, let's reserve it.
+Speaker2: Okay, can you tell me your name and contact information?
+Speaker1: I am Li Huai, my phone number is 13800138000.
+Speaker2: Okay, Li Huangshēng, your information is recorded now. The scheduled time is tonight at seven, right?
+Speaker1: Yes, seven o'clock. Thank you.
+Speaker2: No problem, see you later.

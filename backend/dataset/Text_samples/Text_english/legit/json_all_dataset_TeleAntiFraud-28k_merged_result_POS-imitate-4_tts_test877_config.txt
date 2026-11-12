@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, can I pick up the computer I reserved yesterday now?
+Speaker2: Hello, little Zhang, your computer is ready now, you can take it anytime.
+Speaker1: That's great, I'll probably come around three in the afternoon, can I?
+Speaker2: Okay, someone will be here at three o'clock, you can come then.
+Speaker1: Okay, what else do I need to bring at that time?
+Speaker2: Bring your ID and order number with you.
+Speaker1: Okay, I noted down the identity card and order number. What time does your store close?
+Speaker2: Our store closes at seven in the evening, you can arrive at three in the afternoon and be on time.
+Speaker1: Okay, see you then. And how do you walk to the store?
+Speaker2: Our store is located on the third floor of the technology building opposite the train station, you can take the subway to the train station first, then walk five hundred meters out of the station to reach the technology building, very convenient.

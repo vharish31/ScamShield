@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Li, the manager of the Guangan Investment Consulting Company. We noticed that you have been looking for investment opportunities recently and wanted to know if you have any intention of making some stable investments?
+Speaker2: Invest? I'm quite interested, do you have any good projects?
+Speaker1: We have a great project with an annual return rate of 18%, and the risk is very low. To ensure the safety of your funds, we recommend that you first download our official investment app, which will make it easier for you to view project details and perform investment operations.
+Speaker2: Download the app? How do you download it?
+Speaker1: You can download it through our official website or I can send you a link directly, you can click on the link to download it immediately, very convenient and quick.
+Speaker2: Okay, please send me the link, I'll try it out.
+Speaker1: Okay, just a moment, I will send the link to your phone immediately. Right, to ensure the safety of your investment, we need you to provide a verification code. This verification code will be sent to the phone number you just provided, please pay attention to check it.
+Speaker2: Okay, I'm waiting.
+Speaker1: Okay, the verification code has been sent. Please enter the six-digit verification code you received to verify your identity.
+Speaker2: I received it. The verification code is 123456.

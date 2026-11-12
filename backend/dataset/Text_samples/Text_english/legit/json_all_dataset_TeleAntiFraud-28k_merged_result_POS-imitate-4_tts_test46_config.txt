@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you? I am the customer service representative for our online education platform. You consulted our programming courses yesterday.
+Speaker2: Hey, how are you? There's this thing, I'm really into programming.
+Speaker1: That's great, we have a recent programming beginner class, do you want to know more about it?
+Speaker2: Is there a way to arrange this course?
+Speaker1: The course is every Wednesday and Friday evening from 7 to 9 p.m., for three months, all online live broadcasting, with recording playback, convenient for you to review anytime.
+Speaker2: How much is the tuition fee?
+Speaker1: The original price is three thousand six hundred yuan, but you can enjoy the early bird discount now when you sign up, only two thousand eight hundred yuan.
+Speaker2: What preparation is needed to sign up at this price?
+Speaker1: You need to prepare a computer that can connect to the internet, install our recommended learning software, and we will provide you with complete resources and guidance on the other things.
+Speaker2: Okay, how do I sign up?
+Speaker1: You can add my WeChat, I'll send you the registration link and more course details.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: Add me on WeChat with the number 0000000000, let's chat in detail.
+Speaker2: Okay, I'll add you, thank you.
+Speaker1: No problem, looking forward to seeing you in class, goodbye.
+Speaker2: Goodbye.

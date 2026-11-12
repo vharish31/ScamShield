@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you here at the door yet?
+Speaker1: Hurry hurry, I just got off the subway station, you go ahead, then turn left, walk to the second crossroad and wait for me.
+Speaker2: Okay, I know, be careful on the road.
+Speaker1: Hmm, you're wearing thick clothes, it's pretty cold outside today.
+Speaker2: Okay, I put on a down jacket, you also need to pay attention to keeping warm.
+Speaker1: Okay, let's meet later.
+Speaker2: See you soon, be careful on the road.
+Speaker1: Be careful too.
+Speaker2: Goodbye.

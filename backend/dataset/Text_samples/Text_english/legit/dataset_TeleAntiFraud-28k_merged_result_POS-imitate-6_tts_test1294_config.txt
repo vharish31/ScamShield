@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: At home? How are you?
+Speaker1: Can you check the weather forecast for tomorrow, I'm going out to play tomorrow.
+Speaker2: Okay, let me check. Hmm, the weather forecast for tomorrow shows clear skies, with temperatures around 25 degrees, which is perfect for going outside.
+Speaker1: That's great, I plan to go to Xi Huang Yuan, have you been there before?
+Speaker2: I've been there several times, the scenery is really beautiful, and there are many fun places.
+Speaker1: What time do you plan to leave, and do you have any suggestions for the route?
+Speaker2: Let's take the subway line 2 to Xi'an station first, then transfer to bus 8 to West Mountain Park station. This way is more convenient.
+Speaker1: Okay, thank you for your advice. So I'll prepare myself first.
+Speaker2: No problem, have fun, feel free to contact me anytime if you need help.

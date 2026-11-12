@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: Hi, I'm from Zhiliang customer service. I sent you a trial card before. How was your experience using it?
+Speaker2: Hmm, it's pretty good. It did help attract quite a few views, but it got stuck and was automatically taken down after the deadline.
+Speaker1: Yes, the experience card will be automatically unlisted after it expires. Are you still recruiting now?
+Speaker2: Yes, we are still recruiting, but the boss is not around lately, so we have temporarily put the interview on hold.
+Speaker1: Understood, so I'll give you another experience card, you can continue using it, and we'll arrange an interview when the boss comes back.
+Speaker2: Okay, thank you, this is really good.
+Speaker1: No thanks, this is what we should do. If you have any other needs in the future, please contact me.
+Speaker2: Okay, I will. Thank you for your help. Bye.
+Speaker1: No problem, goodbye.

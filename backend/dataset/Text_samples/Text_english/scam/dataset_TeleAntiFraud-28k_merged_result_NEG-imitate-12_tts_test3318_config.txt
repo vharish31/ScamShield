@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am the manager of China Information Bank. We recently launched a special discount loan product with a very low interest rate. Would you be interested in learning more about it?
+Speaker2: Hello, do you have a loan? I don't really need it, thank you.
+Speaker1: Oh, that's how it is, this loan product is specifically designed for high-quality customers, no collateral required, approval is quick, if you have any future funding needs, you can take a look first and leave your contact info.
+Speaker2: Okay, can you send me a WeChat message?
+Speaker1: Okay, can you add my WeChat? My WeChat number is zhangjingli123. After adding, I will send you a detailed introduction and application process.
+Speaker2: Okay, I'll add you.
+Speaker1: Great, I'll send you the info right away after you add it. By the way, we also have a dedicated app that's more convenient to use, you can try downloading it, I'll send you a download link.
+Speaker2: Okay, thank you, I'll take a look.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wishing you a happy life.

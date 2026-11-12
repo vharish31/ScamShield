@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service center, I am customer service representative Li.
+Speaker2: Hello, what do you have?
+Speaker1: Your package was lost during delivery, we can apply for compensation here.
+Speaker2: Is it really so? How do you apply for compensation?
+Speaker1: To make it easier for you to operate, you can click on the links we provide, fill in the relevant information, and we will process it quickly.
+Speaker2: Okay, I'll go operate.
+Speaker1: Please provide your bank card number and verification code for the sake of ensuring your information security.
+Speaker2: Okay, my bank card number is 622518763524, verification code is 2369.
+Speaker1: We have received it, and we will handle your compensation matter in a workday.
+Speaker2: Thank you, then I'll wait for your message.

@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm the guy who posted a comment on your website about health courses.
+Speaker2: Hello, I am a customer service representative at the fitness center. How can I assist you?
+Speaker1: Can you tell me more about your fitness program, specifically for beginners, do you have any recommendations?
+Speaker2: Of course, we have a special fitness program designed for beginners, including basic strength training and aerobic exercises, which is very suitable for friends who are just starting to get into fitness.
+Speaker1: What are the fees for these courses that sound good?
+Speaker2: The fee for the beginner course is 200 yuan per month, which includes three one-hour classes per week.
+Speaker1: Okay, when can I start?
+Speaker2: You can choose to start from next Monday, and we will arrange the appropriate course based on your time.
+Speaker1: What should I do if I need to adjust time for an event?
+Speaker2: You can contact us one day in advance, we will do our best to adjust to the appropriate time slot for you.
+Speaker1: Okay, thank you for your help. So, I've decided to join this course.
+Speaker2: Welcome to join us! If you have any other questions, feel free to contact us. Have a healthy day! Goodbye.

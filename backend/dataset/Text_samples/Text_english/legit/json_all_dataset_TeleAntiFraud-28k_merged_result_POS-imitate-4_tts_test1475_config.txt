@@ -1,0 +1,10 @@
+Speaker1: Hello, I'll find one of your customer service specialists
+Speaker2: Hello, I am a customer service representative. What can I help you with?
+Speaker1: I recently bought a piece of clothing on your platform, but I found the size didn't fit, can you tell me how to return or exchange it?
+Speaker2: Sure, you can first log in to our platform, find the order details, click on the apply refund/exchange button, and then follow the instructions to complete the process.
+Speaker1: Do I need to send my clothes back?
+Speaker2: Yes, you need to send the clothes back to our return address, which is displayed on the page where you applied for return/exchange.
+Speaker1: Okay, I see the address. If I want to change the size, when will the new clothes arrive?
+Speaker2: In general, when we receive your return and confirm it's correct, we'll process the exchange within two workdays, and the new clothes will be shipped out. Depending on the shipping situation, they should arrive in about three to five days.
+Speaker1: I understand, thank you for your help.
+Speaker2: You're welcome. If you have other questions, please feel free to contact us anytime. Have a great day!

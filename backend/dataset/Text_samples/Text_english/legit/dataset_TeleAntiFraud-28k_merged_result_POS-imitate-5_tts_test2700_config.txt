@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, how are you, what do you have going on?
+Speaker1: Hello, I am the customer service of the food platform, have you any suggestions or opinions about our services and dishes after you ordered takeout from us before?
+Speaker2: Oh, that's okay, it's just that sometimes the delivery time for food is a little longer.
+Speaker1: Thank you very much for your feedback. We will convey your opinions to the relevant department and strive to improve the delivery speed.
+Speaker2: Okay, thank you.
+Speaker1: By the way, our platform has just introduced some new dishes. I don't know if you're interested, but I can introduce them to you.
+Speaker2: Sure, you can introduce yourself.
+Speaker1: Okay, we recently added several new signature dishes, such as seafood dumplings, beef stir-fry, and various vegetable small stir-fries, all of which are very popular.
+Speaker2: Listen well, try it next time.

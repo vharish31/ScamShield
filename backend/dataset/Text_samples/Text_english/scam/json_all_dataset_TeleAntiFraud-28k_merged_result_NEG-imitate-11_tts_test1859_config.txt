@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Mr. Wang?
+Speaker2: Yes, hello.
+Speaker1: Mr. Wang, I am Zhang, the customer service specialist at speed purchase network. We have a problem with your order here, and we need your cooperation to handle it.
+Speaker2: What's the issue?
+Speaker1: Can you please provide your bank card information for the refund and compensation of the package that was lost during transportation?
+Speaker2: Okay, how do I operate it?
+Speaker1: Just click on this link and fill out the relevant information as instructed.
+Speaker2: Is this link safe?
+Speaker1: Absolutely safe, Mr. Wang, we are a regular company, you can rest assured. If you're not convenient, you can directly download our official app, through the app to handle.
+Speaker2: I'll download the app anyway.
+Speaker1: Okay, you can download our official app through this link. After downloading, contact our online customer service, and they will guide you through the next steps.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, where are you?
+Speaker1: I'm waiting for you at the red light intersection, have you arrived yet?
+Speaker2: Did you see me when I arrived? I drove a white car.
+Speaker1: White car, I saw it, are you standing on the roadside?
+Speaker2: Okay, I'm standing on the roadside, come over.
+Speaker1: Okay, I'll go over there right away.
+Speaker2: Hurry up, there are too many cars here, it's not safe.
+Speaker1: Okay, I'll go now.
+Speaker2: Okay, be careful.

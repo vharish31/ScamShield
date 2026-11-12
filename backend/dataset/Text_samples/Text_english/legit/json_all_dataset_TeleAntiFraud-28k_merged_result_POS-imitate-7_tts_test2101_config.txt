@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am Lee Huang, I saw your job posting on your website yesterday, I want to know more about the specifics
+Speaker2: Hello, Li Huai, I am customer service representative Xiao Wang, can I help you with information on which position?
+Speaker1: I want to know more about the work content and benefits of being a jockey
+Speaker2: The main work of the delivery hand is to deliver food to customers on time according to the platform's orders. As for the rewards, we provide a basic salary plus a commission, and the specific amount depends on your work performance.
+Speaker1: What is the working hours?
+Speaker2: Work hours are quite flexible, generally from 9am to 9pm. You can choose to work part-time or full-time based on your situation.
+Speaker1: Do I need to prepare my own transportation tools?
+Speaker2: Yes, you need to prepare your own transportation tools, mainly electric cars or motorcycles, this way it's more convenient and quick.
+Speaker1: What do I need documents for?
+Speaker2: You need to provide identity card, health card and driving license to ensure safe work.
+Speaker1: Okay, thank you for your answer. I will think about it.
+Speaker2: You're welcome. If you have any other questions, feel free to contact us anytime. Best wishes.

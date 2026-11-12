@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to inquire about your room rental situation.
+Speaker2: Hello, I'm very happy to serve you. Will you be renting short-term or long-term?
+Speaker1: I plan to rent for a long time, probably for a year.
+Speaker2: Okay, we have one and two bedrooms available, do you have any specific requirements?
+Speaker1: I want a one-bedroom apartment, preferably near the subway station.
+Speaker2: We have a one-bedroom apartment right next to the subway station, renting for six hundred and fifty yuan per month. If you rent for a year, you'll get some discounts.
+Speaker1: 650 yuan per month, what is the total rent for a year?
+Speaker2: If we consider the rent based on a year, the total rent is seven thousand two hundred yuan. We will also give a month of free rent.
+Speaker1: Would you like to give a month of free rent? How much would the actual rent payment be?
+Speaker2: The actual rent payment is six hundred and sixty yuan. If you agree, we can sign the contract.
+Speaker1: Okay, when can I come see the house?
+Speaker2: Can we meet at 10 am tomorrow morning? I will prepare in advance.

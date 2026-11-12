@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, this is the happy meal, your previous dinner reservation time is almost up, remind you to come.
+Speaker2: Okay, I know. Yes, I need to cancel my reservation because of something urgent.
+Speaker1: No problem, I can help you cancel the reservation. Do you need to refund the cancellation fee?
+Speaker2: What is your policy on canceling?
+Speaker1: We define that canceling a reservation two hours in advance is free, but if it's canceled within two hours, we need to charge 50% of the cancellation fee.
+Speaker2: Is it not necessary to charge for the words I canceled now?
+Speaker1: Yes, you can cancel now for free. I will immediately process it.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, if you have other questions, please contact us anytime. Have a nice day.
+Speaker2: Thank you, goodbye.

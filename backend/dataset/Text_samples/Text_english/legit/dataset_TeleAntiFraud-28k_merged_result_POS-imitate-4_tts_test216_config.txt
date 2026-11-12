@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, recently I want to buy a new phone, do you have any new phones in your store?
+Speaker2: Hello, little king, do we have new phones in the store? Which specific model do you want to know about?
+Speaker1: I want to take a look at the recently released flagship phone, I heard its performance is good.
+Speaker2: Okay, that flagship phone is in stock here, priced at 4999 yuan, and there's a discount promotion going on right now.
+Speaker1: 4999 yuan? What is the promotion activity?
+Speaker2: The discount activity now offers a phone case worth 300 yuan and a month of screen protection.
+Speaker1: How long does the battery of this phone last?
+Speaker2: This phone's battery capacity is 4500mAh, it can be used for a whole day under normal use.
+Speaker1: Hey, when can I go to the store to take a look?
+Speaker2: Our store is open from 9 am to 9 pm every day. You can come at any convenient time.

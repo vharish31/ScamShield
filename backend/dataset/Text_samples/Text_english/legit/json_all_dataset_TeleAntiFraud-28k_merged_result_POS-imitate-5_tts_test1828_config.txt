@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Can you tell me if there are any available seats at your restaurant tonight? I'm planning to take my family out for dinner.
+Speaker2: Yes, we have a few tables here, how about you come around 4 o'clock?
+Speaker1: Can we meet around six and a half in the evening?
+Speaker2: Okay, 6:30 is fine. How many people do you need to reserve a table for?
+Speaker1: Let's book a four-person table.
+Speaker2: Okay, the four-person table has been reserved for you. Is this your first time at our restaurant?
+Speaker1: Yes, first time.
+Speaker2: You can arrive ten minutes early, I'll introduce you to the environment.
+Speaker1: Okay, thank you. So, do you have any recommendations for dishes?
+Speaker2: Our menu here has spicy Sichuan hot pot and steamed sea bass, both very popular.
+Speaker1: Listen well, I'll order these later.
+Speaker2: Okay, I'll be ready for you at the appointed time. Then we'll meet in the evening.
+Speaker1: Okay, see you later. Thank you.

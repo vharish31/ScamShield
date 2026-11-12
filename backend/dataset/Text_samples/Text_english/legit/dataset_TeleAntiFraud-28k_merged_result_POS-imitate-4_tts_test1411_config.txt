@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service owl of the point store, we see that your account has never used the member points before.
+Speaker2: Hey, yeah, I haven't been paying attention to this points thing.
+Speaker1: That's right, you know, these points are all redeemable for cash, you now have over 26,000 member points in your account, which can be directly exchanged for many products.
+Speaker2: Really? What can I exchange then?
+Speaker1: You can exchange white wine gift boxes, famous brand four-piece sets, high-definition TVs, and smartwatches for electronic products at a very low price.
+Speaker2: The sound is good, but I might not have time to deal with these tonight.
+Speaker1: What can be done, after midnight tonight all scores will be cleared.
+Speaker2: That's too bad, is there any way to postpone it?
+Speaker1: Okay, I'll apply for a special privilege for you. After you select and exchange your products, I can help you keep the remaining points until next month.
+Speaker2: That's great, thank you, I'll come back later to see what suitable products there are.

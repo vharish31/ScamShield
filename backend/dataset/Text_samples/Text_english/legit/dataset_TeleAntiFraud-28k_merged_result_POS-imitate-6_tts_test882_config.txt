@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the tenant of Jing Wan Yi Zhao Si Lv 4#1203, recently I want to change room, can you ask if there is any suitable here?
+Speaker2: Hey, hi, I'm Zhang Xiao, the real estate agent. There are quite a few apartments on Jing Wan Yi Zhao this side. What kind of room are you looking for specifically?
+Speaker1: Can you find me a southern-facing apartment with a balcony, and is the rent relatively cheap?
+Speaker2: The rooms facing south with balconies in the morning have several choices for us in terms of rent. If it's a long-term lease, we can offer a reasonable discount. When are you convenient to come and see the rooms?
+Speaker1: Do you want to hang out on Sunday at three in the afternoon?
+Speaker2: Sunday afternoon at 3 o'clock is fine, then we meet Sunday afternoon at 3 o'clock, remember to bring your identity card and related rental documents.
+Speaker1: Okay, I will be ready, see you on Sunday afternoon. Thank you!
+Speaker2: No problem, feel free to contact me anytime if you have any questions, see you on Sunday!

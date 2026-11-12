@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Can you see me at the mall entrance?
+Speaker1: Have you got a convenience store nearby before I arrive?
+Speaker2: Okay, there's a convenience store next to me. Hurry up and come over.
+Speaker1: Okay, I'll be there soon.
+Speaker2: You arrived, send me your location, I'm waiting for you here.
+Speaker1: Okay, I arrived, so give it to me.
+Speaker2: Hurry up, I'm waiting for you here.
+Speaker1: Okay, I'll try to be quick.
+Speaker2: Okay, be careful on the road.

@@ -1,0 +1,15 @@
+Speaker1: Hello, this is China Express, we found out that your package was accidentally lost during transportation, and we need to process a refund for you.
+Speaker2: Really? Then what do we do?
+Speaker1: Yes, in order to ensure your rights, we need you to first download our official app, and handle refund issues through the app.
+Speaker2: Okay, how should I download this app?
+Speaker1: You can click this link, we've prepared the download page for you.
+Speaker2: Can you give me specific steps?
+Speaker1: Of course, you just need to open your phone browser, input this website, and then follow the instructions to download and install our app.
+Speaker2: Okay, let me try.
+Speaker1: Okay, after installing it, log in your account, select 'Refund Service', and then follow the instructions to complete the refund.
+Speaker2: I understand, thank you for your help.
+Speaker1: No problem, feel free to contact me anytime. By the way, in order to verify your identity, please provide me with your phone number and verification code. The verification code will be sent to your phone.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the verification code has been sent. Please check it. After inputting the verification code, you can proceed with the refund smoothly.
+Speaker2: I got it, I'll input it right away.
+Speaker1: Okay, if you encounter any issues, feel free to contact me anytime. I hope everything goes smoothly.

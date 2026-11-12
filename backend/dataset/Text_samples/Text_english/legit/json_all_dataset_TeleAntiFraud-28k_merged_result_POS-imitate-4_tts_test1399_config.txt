@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the agent for renting the room to little Ming?
+Speaker2: Hello, I am a rental agent for small Ming, what can I help you with?
+Speaker1: Where is the address of the house you just released?
+Speaker2: Ah, that apartment is in the Happy Garden in the north of the city, next to the subway station, very convenient transportation.
+Speaker1: How much is the rent?
+Speaker2: Rent is 900 yuan per month, with a deposit of three months, no additional fees.
+Speaker1: When can I go see the house?
+Speaker2: You can choose a weekend, for example this Saturday afternoon at two o'clock, I can take you to see houses.
+Speaker1: Okay, I'm free on Saturday at two o'clock, let's meet then.
+Speaker2: Okay, see you on Saturday at 2 pm. Don't forget to bring your ID and rent.

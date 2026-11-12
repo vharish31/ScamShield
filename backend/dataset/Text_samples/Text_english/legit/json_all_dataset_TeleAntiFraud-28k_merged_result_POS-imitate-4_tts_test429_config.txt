@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me if there is a suitable hair appointment time here?
+Speaker2: Okay, what time do you want to make a reservation?
+Speaker1: Is four o'clock in the afternoon tomorrow okay?
+Speaker2: Can I know how long time of service you need tomorrow afternoon at four o'clock?
+Speaker1: Let's take about an hour.
+Speaker2: Okay, I have scheduled a haircut for you tomorrow afternoon from 4 to 5 PM.
+Speaker1: Great, thank you. And how early do I need to arrive?
+Speaker2: Please arrive ten minutes early to prepare well.
+Speaker1: Okay, I will arrive on time. Thank you for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival. Goodbye!

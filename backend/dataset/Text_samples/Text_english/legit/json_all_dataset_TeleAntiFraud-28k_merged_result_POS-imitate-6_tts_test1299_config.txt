@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: I'm the little Zhang who found the apartment for you, the one who called you two days ago.
+Speaker2: Hey, how are you? What's up?
+Speaker1: That's it, I have a customer who is very interested in your apartment, and wants to see it.
+Speaker2: Okay, can he come at what time?
+Speaker1: He has a lot of work this week, so he might only have time on Wednesday night.
+Speaker2: Is 7 okay for 9:00 PM on Thursday?
+Speaker1: Is 7 o'clock or so good for you?
+Speaker2: Okay, on Thursday evening at seven, I'll be waiting for you at home.
+Speaker1: Great, thank you! See you on Tuesday.
+Speaker2: Okay, see you on Tuesday, goodbye.
+Speaker1: Goodbye.

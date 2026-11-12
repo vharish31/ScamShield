@@ -1,0 +1,11 @@
+Speaker1: Hey, are you recently bought anything online?
+Speaker2: Okay, what now?
+Speaker1: I am a customer service representative for a courier company. Your package was lost during transportation. We can process a refund for you.
+Speaker2: Really? Then what do we do?
+Speaker1: Just click this link, fill out your personal info, and we'll handle the refund for you.
+Speaker2: Okay, I clicked, then what?
+Speaker1: Fill out the information on the page and you will be contacted by a staff member to handle the refund.
+Speaker2: Do you need to provide bank card information?
+Speaker1: Yes, in order to successfully process a refund, you need to provide your bank card information.
+Speaker2: Okay, I filled it out.
+Speaker1: Okay, a workman will contact you later, and you can contact me anytime if you have any questions.

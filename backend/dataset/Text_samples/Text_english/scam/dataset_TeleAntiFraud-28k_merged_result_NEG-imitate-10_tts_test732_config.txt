@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Zhang, this is the customer service representative of Huaxia Bank.
+Speaker2: Hello, do you have anything?
+Speaker1: Is that so? We noticed your credit status is very good, so we recommend a low interest loan product with an interest rate of only 0.3%, which can lend up to one hundred thousand yuan. Would you consider it?
+Speaker2: Hmm, this sounds good, but what do I need to do?
+Speaker1: You just need to download our Huaxia Bank official app, fill out some basic information, submit review, and you can get the loan as soon as today.
+Speaker2: How can I know if this is the official app?
+Speaker1: Don't worry, I will send you a download link via text message. It's been verified and is completely safe.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, you will receive a text message soon. If you have any questions, please feel free to contact me anytime. My phone number is 1381234567. Thank you for your trust. Have a happy life. Bye.
+Speaker2: Thank you, goodbye.

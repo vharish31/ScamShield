@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I saw a phone on your website, I want to ask a few questions
+Speaker2: Hello, I am a customer service representative. What phone are you looking for? I can help you with a detailed introduction.
+Speaker1: That's the black one you recommended on your homepage, model X9.
+Speaker2: Oh, that phone is our bestseller, the configuration is very high, there's currently a promotion, you can enjoy a 95% discount.
+Speaker1: How long does its battery last?
+Speaker2: Its battery is 4000mAh, it can support one and a half to two days of normal use.
+Speaker1: Can I enjoy any discounts if I order now?
+Speaker2: Order now and enjoy a 95% discount, plus receive a valuable 300-yuan protective case.
+Speaker1: Okay, I'll place the order, but my address is a bit far away, it's probably a few days before I can arrive.
+Speaker2: In remote areas, it usually takes 7-10 days for delivery, and we will arrange shipping as soon as possible.
+Speaker1: Okay, now I can relax, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Have a great shopping!

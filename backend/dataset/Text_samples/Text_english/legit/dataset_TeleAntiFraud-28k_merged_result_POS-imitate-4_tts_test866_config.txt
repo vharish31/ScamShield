@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What do you need me for?
+Speaker1: Hey, I want to check your restaurant's business hours.
+Speaker2: Our restaurant is open from 10 am to 10 pm, on weekends it's open until 11 pm.
+Speaker1: Okay, what special dishes do you have?
+Speaker2: Our recommended special dishes include spicy Sichuan hotpot, sour fish with vinegar and ginger, and beef stir-fry with garlic, all of which are very popular.
+Speaker1: Can I reserve a spot for the weekend? It sounds great.
+Speaker2: Of course, there will be more people on weekends, so I suggest you book in advance.
+Speaker1: Okay, I plan to go to the restaurant at around 7 pm on Saturday night with a group of four.
+Speaker2: Okay, on Saturday evening at 7 pm, for a table of four, I will reserve a spot for you. Please confirm your phone number so we can contact you.
+Speaker1: Okay, my phone number is 1381380138.
+Speaker2: Okay, I have recorded it down. Remember to arrive ten minutes early on Saturday, and feel free to contact us if you have any issues.
+Speaker1: Okay, thank you for your help. See you on Saturday.
+Speaker2: See you on Saturday, wish you have a nice day!

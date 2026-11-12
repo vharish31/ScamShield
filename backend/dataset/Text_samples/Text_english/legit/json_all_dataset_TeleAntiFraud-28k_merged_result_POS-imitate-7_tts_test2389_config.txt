@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the property management service of the community, your water and electricity repair has been scheduled for today at 10 am, the master has arrived, are you at home?
+Speaker2: Hey, I'm at home, can you come directly over, master?
+Speaker1: Okay, I'll notify the master when he arrives. Also, remember to turn off the power switch at home beforehand to avoid any danger.
+Speaker2: Okay, I know now, thank you for reminding.
+Speaker1: No problem, we are here to serve you. By the way, all the tools you need are ready here, so you don't have to worry about it anymore.
+Speaker2: That's great, saved me a lot of things.
+Speaker1: Yes, you can just wait at home. If there's anything else you need help with, feel free to contact us anytime.
+Speaker2: Okay, I know, please inform the master.
+Speaker1: Okay, you can relax, I will notify you in time. Are there any other issues?
+Speaker2: No longer available, thank you.

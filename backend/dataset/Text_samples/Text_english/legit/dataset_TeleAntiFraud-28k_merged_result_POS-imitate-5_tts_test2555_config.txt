@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, I'm near pearl tower, can you see me?
+Speaker2: Hey, hello, I'm little Li, I just got off the subway station, I didn't see you, which exit of the pearl tower is yours?
+Speaker1: Yes, from the third door, you can see the building once you come out, I'm waiting for you here.
+Speaker2: Okay, I'll be right back, you wait for me a moment.
+Speaker1: Okay, I see the third door, you come out and walk to the right, I'll wait for you on the side of the road.
+Speaker2: I know, I saw it, I'll go over there right away.
+Speaker1: Can you see a coffee shop in front? I'm standing at the door.
+Speaker2: I see you, I'm almost there, just wait for me a minute.
+Speaker1: Okay, the weather here is good, hurry up and come, let's go eat lunch together.
+Speaker2: Great idea, I'll be there soon, see you later.

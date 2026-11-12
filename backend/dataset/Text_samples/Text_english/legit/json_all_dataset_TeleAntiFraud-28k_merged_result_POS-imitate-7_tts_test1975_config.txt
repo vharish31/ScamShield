@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? I am an e-commerce platform customer service representative. You have some shopping points on your account that are about to expire, they will be cleared at midnight tonight.
+Speaker2: Really? I didn't receive any notification?
+Speaker1: We have already sent you a text message notification, you might not have noticed it. This batch of points can be redeemed for over 400 yuan in cash, it's a great deal.
+Speaker2: Oh, so. Then what can I do with these points now?
+Speaker1: You can enter the personal center through our app or website, and there are many products to choose from in the point store.
+Speaker2: Okay, I'll go take a look right away.
+Speaker1: Okay, if you have any issues while using it, feel free to contact our customer service anytime. Enjoy your shopping!
+Speaker2: Thank you, I will pay attention.

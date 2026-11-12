@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service manager of the construction bank credit center. Recently we have launched a special discounted loan product. Do you have any funding needs?
+Speaker2: Hello, I recently need some cash flow.
+Speaker1: Great, our loan products are very suitable for you, you can quickly get a loan, no collateral, no guarantee. You just need to download our app, fill in some basic information, and you can apply.
+Speaker2: Where can I download the app?
+Speaker1: You can search '建行贷款' in the mobile app store and download our official app. After downloading, I have a special invitation code that can help you quickly pass the review.
+Speaker2: Okay, let me try.
+Speaker1: Hello, the invitation code is 123456, please remember to input it during registration. Additionally, if you have any questions, feel free to contact me anytime, my phone number is 12345678910.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you a successful application. If you need help, feel free to contact me. Goodbye!
+Speaker2: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little king, I just ordered a laptop on your website, but I found out the address was wrong, can you help me change it?
+Speaker2: Hello, Little Wang, I am customer service Zhang, can you help me change my address, can you tell me the correct address information?
+Speaker1: Okay, the new address is Beijing Shi Chao Yang Qu Gong Ren Ti Yu Xiang Bei Lu Er Shi Liu, Men Pai Huo is Yī Zhōng Ér Lǐ.
+Speaker2: Okay, I have already made the changes for you. However, the order has already been submitted, and you may need to contact the logistics department to confirm if it can be changed. Is this okay with you?
+Speaker1: Is it bothering you? If not, can we cancel the order and reorder?
+Speaker2: Yes, if the logistics side cannot be changed, you may need to cancel the order and reorder, but I will do my best to coordinate, can you accept this?
+Speaker1: Okay, can you cooperate well?
+Speaker2: Don't worry, I will handle it quickly, and I will reply to you as soon as it's done. Do you have any other questions?
+Speaker1: I don't have it now, if there's any change I'll contact you again.
+Speaker2: Okay, you can contact us anytime, wish you happy life, bye.

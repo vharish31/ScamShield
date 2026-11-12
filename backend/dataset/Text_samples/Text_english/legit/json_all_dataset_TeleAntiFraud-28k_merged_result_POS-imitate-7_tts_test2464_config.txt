@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, you.
+Speaker1: Do you have anything to talk about?
+Speaker2: Hey, I want to consult your home repair service
+Speaker1: Okay, we provide various home repair services. What specific aspect do you need help with?
+Speaker2: Can you send someone to check my washing machine at home?
+Speaker1: Of course, we have professional repair technicians. Would you like to schedule a time?
+Speaker2: Can I meet you tomorrow afternoon?
+Speaker1: What time do you want to meet tomorrow afternoon?
+Speaker2: Let's meet at around 2 o'clock.
+Speaker1: Okay, tomorrow afternoon at two o'clock, we will arrive on time. Do you need me to write down your address?
+Speaker2: Yes, the address is Happiness Villa No. 3, Building 2, Unit 402.
+Speaker1: Okay, Happy Community Building Three Number Three Unit Two Apartment Four Zero Two Room, we recorded it. If there are any other issues, you can contact us anytime.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome! Have a nice day! Bye!
+Speaker2: Goodbye!

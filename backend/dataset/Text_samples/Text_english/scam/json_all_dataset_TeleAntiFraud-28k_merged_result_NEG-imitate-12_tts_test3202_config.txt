@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer manager of the commercial bank, Lee Huai.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed that your recent online shopping frequency has increased, to ensure your financial safety, we need you to cooperate with a simple identity verification.
+Speaker2: How to verify?
+Speaker1: You can click this link, fill in the relevant information, we will immediately verify your identity, ensure no unusual transactions.
+Speaker2: Okay, I'll go operate.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact me anytime.
+Speaker2: Okay.
+Speaker1: Additionally, we have a promotion, just download our app to get extra shopping discounts.
+Speaker2: That sounds good, I'll download and try it.

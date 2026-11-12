@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm the user of the car you rented yesterday, and now I have some problems.
+Speaker2: Hello, what problems did you encounter?
+Speaker1: I just drove my car back, but the system shows that I didn't successfully return it.
+Speaker2: Are you saying the system prompted you to return the car unsuccessfully?
+Speaker1: Yes, and the car key is already locked inside the car.
+Speaker2: Have you filled up with gas yet?
+Speaker1: The oil is full.
+Speaker2: Okay, please don't rush, there might be a system delay, you can leave first, we'll handle it on our end.
+Speaker1: Can I walk now?
+Speaker2: Sure, you can go first. We'll handle the issue with the return car, and if there's anything you need to cooperate with, we'll contact you again.
+Speaker1: Okay, thank you.
+Speaker2: No problem, wish you a safe journey.

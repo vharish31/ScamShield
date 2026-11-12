@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Are you looking for rental housing information recently?
+Speaker2: Yeah, I looked at a few houses online
+Speaker1: Which house are you most interested in?
+Speaker2: I'm quite interested in the one-unit apartment in that garden community.
+Speaker1: That house's conditions are quite good, when do you have time, I can take you to see it
+Speaker2: Can I schedule something this weekend?
+Speaker1: Is Saturday morning around 10am okay?
+Speaker2: Okay, so it's Saturday morning at 10am, I'll be on time.
+Speaker1: Okay, see you on Saturday, be careful on the road.
+Speaker2: Thank you, goodbye

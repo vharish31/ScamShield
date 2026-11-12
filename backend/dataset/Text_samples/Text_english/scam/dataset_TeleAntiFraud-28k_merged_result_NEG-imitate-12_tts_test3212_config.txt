@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am a loan officer at Commercial Bank, Wang.
+Speaker2: Hello, what do you have?
+Speaker1: Have you heard about our recent loan project that has a very low interest rate of only 0.02%?
+Speaker2: Is the interest rate so low? Is it real or fake?
+Speaker1: Yes, this project is specifically for high-quality customers. You can first download our exclusive app, fill out some basic information, and we will review it.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Absolutely safe, our app is verified by our bank, you can trust it. Moreover, only through our app can we provide such discounts.
+Speaker2: Okay, how do I download the link?
+Speaker1: Please wait for a moment, I will send you a short message with a download link. Once you receive it, just click on the download link.
+Speaker2: Okay, I'm waiting.

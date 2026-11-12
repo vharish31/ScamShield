@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what service do you want to consult?
+Speaker1: I'd like to reserve a table at this restaurant for this weekend for two people. Do you have any available seats?
+Speaker2: What is the specific time for this weekend?
+Speaker1: Can I come at 7 pm on Saturday night?
+Speaker2: Saturday evening at 7:00, okay, we still have a location.
+Speaker1: What do you recommend for dishes?
+Speaker2: Our menu here has sweet and sour pork ribs, steamed fish with ginger and scallions, and stir-fried oysters with ginger, all highly praised by customers.
+Speaker1: Everything sounds good, let's go there later. What time should we arrive to be on time?
+Speaker2: Arrive fifteen minutes early, so you can have time to look at the menu and choose your favorite dishes.
+Speaker1: Okay, thank you for your advice. See you on Saturday.
+Speaker2: Okay, see you on Saturday, wish you a great dining experience.

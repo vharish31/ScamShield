@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your store has any steamed buns?
+Speaker2: Hello, do you have any steamed buns with pork filling? We have steamed buns with scallions and mushrooms filling here, which one do you want?
+Speaker1: How much does one of your steamed buns cost?
+Speaker2: A bun with pork filling costs three yuan each, and if you buy ten or more, you can enjoy a nine-yuan discount.
+Speaker1: Okay, I'll go buy ten later. What time do you open?
+Speaker2: We start business at six in the morning every day. You can come anytime.
+Speaker1: Okay, I probably left around nine, but I'm still stuck in traffic now.
+Speaker2: No problem, at nine o'clock, when you come, all the buns will be fresh out of the oven.
+Speaker1: Goodbye, thank you. See you later.
+Speaker2: Okay, see you later. Be careful on the road.

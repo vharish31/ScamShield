@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hey, how are you? I'm Hawkins, an advisor for the consulting company's projects. We've recently been promoting a great investment project with a high annual return rate of over 100%, and the risk is very low. Would you be interested in learning more about it?
+Speaker2: The sound is good, but I don't believe the investment information on the internet.
+Speaker1: I understand your concerns, there is indeed a lack of quality information on the internet at present. However, our company has regular qualifications and this project has many successful cases. You can first learn more about it, and if you are interested, I can send you a link with detailed project introduction.
+Speaker2: Okay, give me a link, I'll take a look.
+Speaker1: Okay, I'll send it to you now. Just a moment, I need your contact information, can you give me your phone number?
+Speaker2: Okay, my phone number is 13700000000.
+Speaker1: Okay, I'll send you the link right away. Besides investing, we also have a membership plan, becoming a member allows you to enjoy more one-on-one investment advisor services, are you interested in joining?
+Speaker2: Let's take a look at the link first.

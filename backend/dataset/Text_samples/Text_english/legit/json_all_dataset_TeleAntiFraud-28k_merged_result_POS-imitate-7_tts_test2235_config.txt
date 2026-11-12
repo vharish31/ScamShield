@@ -1,0 +1,14 @@
+Speaker1: Hey, hi, I'm Jerry, I've been looking for work lately, I saw your company is hiring a UI designer.
+Speaker2: Hello, Jerry, I am the customer service representative in charge of recruitment. Can you briefly introduce yourself?
+Speaker1: Of course, I have three years of design experience, am skilled in using Photoshop and Illustrator, and my previous main responsibility was advertising design.
+Speaker2: That sounds great, our company mainly does interior design, are you interested in this field?
+Speaker1: Yes, I'm interested in interior design and have done some related projects.
+Speaker2: That's great, our salary and benefits are based on individual ability and project complexity, what are your salary expectations?
+Speaker1: I hope my monthly salary is between 8,000 and 100,000 yuan. Do you think this salary range fits your budget?
+Speaker2: This range is within consideration, and we also provide some additional benefits, such as year-end awards and team building activities.
+Speaker1: Can I come for an interview when it sounds good?
+Speaker2: Can we schedule your interview for next Tuesday at 10 am on this side? Is that convenient for you?
+Speaker1: Can I come to the company directly at 10 am on Tuesday?
+Speaker2: Yes, you can directly come to the company. Our address is XX road XX number. There will be a specific reception person to guide you at the time.
+Speaker1: Okay, thank you, I will arrive on time, goodbye.
+Speaker2: You're welcome, wish you a smooth journey, goodbye.

@@ -1,0 +1,13 @@
+Speaker1: Hey, hi, I'm little Li, I recently saw some rental houses in your community, want to ask about it.
+Speaker2: Hello, Small Li, I am the community property manager, what can I help you with?
+Speaker1: Hey, I see you guys have a two-bedroom, one-living room apartment. Can you tell me more about the specific rent and lease terms?
+Speaker2: The monthly rent for a two-room, one-living-room apartment is 2,500 yuan, with a minimum lease term of one year and a requirement for three months' deposit.
+Speaker1: Can you take a look at the actual condition of the house?
+Speaker2: Of course, can I choose this weekend to look at houses?
+Speaker1: Can I have some time off this weekend? I'm free on Monday afternoon next week.
+Speaker2: What's the plan for next Wednesday at four in the afternoon?
+Speaker1: Four o'clock is fine, let's meet at the small community door?
+Speaker2: Okay, see you later. Is there anything else that needs to be prepared in advance?
+Speaker1: Please bring your ID and some proof of deposit with you, let's check if you meet the rental conditions.
+Speaker2: Understood, I'm ready for these materials. Then we'll meet again next Tuesday, goodbye.
+Speaker1: Okay, thank you, goodbye.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any motorcycles for rent here?
+Speaker2: Yes, we have a motorcycle rental service here.
+Speaker1: How is rent calculated?
+Speaker2: If you rent for a week or more, you can get a discount of 90 yuan per day.
+Speaker1: Do you need a deposit?
+Speaker2: The deposit is 500 yuan. The car will be fully refunded upon inspection upon return.
+Speaker1: Okay, what documents do I need?
+Speaker2: You need to provide a valid ID and driver's license.
+Speaker1: Okay, I'll go take a look tomorrow. Thank you!
+Speaker2: No problem, see you tomorrow!

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm small Li, the customer manager at China Southern Bank. We recently launched a special promotion for our credit loan, no down payment, low interest rate, fast approval, would you like to know more?
+Speaker2: Hello, I currently don't have a loan requirement.
+Speaker1: Understood, this loan is actually very suitable for short-term cash flow, and we also have a specific app to apply, which is very convenient. Are you interested in learning more?
+Speaker2: How do I download this app?
+Speaker1: Just click on the link I sent you, and you can directly download our official app, it's very safe.
+Speaker2: Okay, let me try.
+Speaker1: Great, after downloading you can fill out the application information in the app, if there are any issues you can contact me anytime, my phone number is 13123456789.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, feel free to contact me anytime if you have any questions, hope you enjoy it, bye.
+Speaker2: Goodbye.

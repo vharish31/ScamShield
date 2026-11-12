@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Can you please tell me about your restaurant's menu and prices?
+Speaker2: Okay, I can send you the menu and prices of our restaurant through a link, or I can introduce them to you directly.
+Speaker1: Please introduce directly, I'm not convenient to surf the net.
+Speaker2: Okay, we have dishes such as Kung Pao Chicken, priced at 30 yuan; Fish and Pork Ribs, priced at 25 yuan. We also have various vegetable and soup dishes, priced between 15 yuan and 30 yuan.
+Speaker1: Sounds good. Do you have evening business?
+Speaker2: Yes, we are open from 10 am to 10 pm every day, and we have a variety of rich food supplies in the evening.
+Speaker1: Can I reserve a seat for seven o'clock in the evening?
+Speaker2: Is it okay? Do you need to reserve a few seats?
+Speaker1: I reserved four seats.
+Speaker2: Okay, I have reserved a four-seat table for you at seven o'clock tonight. Please arrive ten minutes early, we will be ready for you.
+Speaker1: Okay, thank you.
+Speaker2: Please welcome you.

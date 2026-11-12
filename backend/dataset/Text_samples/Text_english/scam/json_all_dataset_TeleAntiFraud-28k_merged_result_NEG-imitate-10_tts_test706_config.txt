@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I see you recently bought some products on our platform and there were quality issues, so we need to process a refund for you.
+Speaker2: Oh, really?
+Speaker1: Yes, in order to ensure your rights, we need you to provide us with the following order number and bank card number, so that we can refund you.
+Speaker2: Okay, my order number is one two three four five six seven eight nine zero, my bank card number is one two three four five six seven eight nine zero one two three four five six seven eight nine zero.
+Speaker1: Okay, the information you provided has been recorded. To speed up the refund process, please click on this link and fill out the relevant information.
+Speaker2: Okay, I'll click on it.
+Speaker1: Great, just follow the instructions on the page, and your refund will be in your account within twenty-four hours.
+Speaker2: I understand, thank you.
+Speaker1: No problem, if you have other questions, feel free to contact our customer service anytime.
+Speaker2: Okay, thank you.

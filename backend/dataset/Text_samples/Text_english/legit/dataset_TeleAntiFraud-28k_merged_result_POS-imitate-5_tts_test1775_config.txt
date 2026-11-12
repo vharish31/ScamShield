@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What's up?
+Speaker1: Hi, I'm a neighbor of the Xiao Ming family, can I ask if your family has any free time next week? We want to organize a small gathering.
+Speaker2: Hey, this idea is great, my house is pretty empty next week, when is it convenient for you guys?
+Speaker1: That's great, let's start at 2 pm on Saturday afternoon, does that work for you?
+Speaker2: Sure, Saturday at 2 PM is fine.
+Speaker1: What do you need to prepare besides some snacks and drinks?
+Speaker2: You guys are well prepared, if you need, I can provide some fruits and snacks.
+Speaker1: Thank you so much, this is perfect. By the way, do you have any board games at your house?
+Speaker2: Yes, I have several board games here, such as "Who is the Traitor?" and "Werewolf," both are great for parties.
+Speaker1: That's great, these games are perfect. We'll meet on Saturday, and I'll bring some snacks.
+Speaker2: Okay, okay, see you on Saturday, have fun.

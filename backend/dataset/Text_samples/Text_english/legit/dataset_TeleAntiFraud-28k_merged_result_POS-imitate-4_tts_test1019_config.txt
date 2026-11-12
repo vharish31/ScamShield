@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to know more about your vegetarian set menu.
+Speaker2: Hello, do you want to know any information about our vegetarian set menu?
+Speaker1: What are the dishes in the menu and how much does it cost?
+Speaker2: Our vegetarian set meal includes four dishes and a soup, with stir-fried vegetables, tofu rolls, stir-fried mushrooms and fungi soup, priced at sixty yuan.
+Speaker1: Can I reserve a spot for tomorrow at noon?
+Speaker2: Is it okay? Are you a VIP? Do you need a special seat?
+Speaker1: I can work from anywhere.
+Speaker2: Okay, how about tomorrow at noon? I have already reserved it for you.
+Speaker1: Hey, thank you. By the way, does your restaurant provide free parking?
+Speaker2: Our restaurant provides free parking, you can directly park your car in the parking lot behind the restaurant.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

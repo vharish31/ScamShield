@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Guangdian Yinhang Bank. The loan application you submitted to us has been approved. You can now disburse the funds.
+Speaker2: Oh, really? I didn't receive the notification.
+Speaker1: It's possible that your phone is set to block, our message was mistakenly recognized as trash information.
+Speaker2: How can I confirm?
+Speaker1: For safety reasons, I suggest you download our bank's official app to confirm your loan status through it.
+Speaker2: Okay, what's the name of the app?
+Speaker1: Search for Guangdian Yinhang, download the official authentication app, register and log in with your phone number, and then you can see the loan details.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Okay, if you encounter any issues during the download process, feel free to contact me anytime. My phone number is 4011010101.
+Speaker2: Thank you, I know now.

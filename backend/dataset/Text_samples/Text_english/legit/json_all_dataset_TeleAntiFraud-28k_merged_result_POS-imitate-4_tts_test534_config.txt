@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your store has a vegetarian set meal?
+Speaker2: Hello, do you want to know the prices of the vegetable set meal here?
+Speaker1: It's just a regular one, around thirty yuan.
+Speaker2: Yes, we have a vegetable set meal, including four dishes and a soup, priced at 28 yuan, can you see?
+Speaker1: Sounds good, is this a full-day supply?
+Speaker2: Yes, this menu is available from 11 am to 9 pm.
+Speaker1: Okay, do I need to make a reservation in advance for tomorrow at noon?
+Speaker2: If it's convenient, please call us 30 minutes in advance to make a reservation, so we can be well prepared for you.
+Speaker1: Okay, I'll call you at 11:30 tomorrow.
+Speaker2: Okay, see you tomorrow, wish you a happy day.

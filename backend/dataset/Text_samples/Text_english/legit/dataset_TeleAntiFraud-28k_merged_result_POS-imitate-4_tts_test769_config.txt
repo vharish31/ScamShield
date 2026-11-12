@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, recently I want to buy a new phone, can you introduce me your store's phones?
+Speaker2: Hello, little Li, I'm very happy to help you. We have many brand phones here, do you have any special requirements? Like budget, brand or function?
+Speaker1: I just want to buy a cheap laptop, preferably around 5000 yuan.
+Speaker2: Okay, for around 5,000 yuan, we have several recommendations. For example, the Huawei Nova series has good configuration, and the Xiaomi 11 has a very high price-to-value ratio.
+Speaker1: How long does the battery last on the Xiaomi 11?
+Speaker2: The battery capacity of the Xiaomi 11 is 4500mAh, which is enough for normal daily use, and it also supports fast charging, with a very fast charging speed.
+Speaker1: Is this phone in stock?
+Speaker2: Yes, we have fresh produce now, if you're interested, you can directly come to the store to take a look, or I can reserve a table for you here.
+Speaker1: Okay, then I'll just go take a look. Where is your store?
+Speaker2: Our store is on the third floor of the digital square in the city center. If you come, you can directly navigate to the digital square. After that, take the elevator to the third floor to find us.

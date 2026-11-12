@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I'm wondering about your hair appointment schedule this week.
+Speaker1: Hey, hairstyle, what time do you want to make an appointment?
+Speaker2: It's best if it's tomorrow afternoon, around four o'clock.
+Speaker1: Okay, let me check. Hmm, 4 o'clock has a gap, can schedule
+Speaker2: Okay, let's book four o'clock then.
+Speaker1: Okay, the reservation was successful. What would you like to be called?
+Speaker2: I am Li Ming
+Speaker1: Mr. Li, your appointment is scheduled for tomorrow afternoon at four o'clock. Please arrive ten minutes early.
+Speaker2: Okay, thank you. And, can you tell me the address?
+Speaker1: Of course, our address is the trendy hair salon on the north side of the city center square. It's very easy to find.
+Speaker2: Okay, I understand, thank you for your help, see you tomorrow!
+Speaker1: No problem, see you tomorrow!

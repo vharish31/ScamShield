@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can you see me at the entrance of the Huaxing parking lot?
+Speaker2: I see you, you come in directly.
+Speaker1: Okay, I came in, it's a bit messy here, where should I stop?
+Speaker2: Can you see the empty spot on the left side if you move forward a little?
+Speaker1: I see, I'll stop here.
+Speaker2: Okay, you stop the car, I'll come find you.
+Speaker1: Okay, I'll wait for you.
+Speaker2: Don't rush, I'll be there soon.

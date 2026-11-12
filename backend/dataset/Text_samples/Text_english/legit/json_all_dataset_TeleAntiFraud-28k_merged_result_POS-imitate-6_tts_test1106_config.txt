@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at the Food Paradise Restaurant?
+Speaker2: Hello, do you have a private room that can accommodate five people for a dinner party at your restaurant?
+Speaker1: Yes, we have various types of rooms to meet different needs. What time are you guys arriving?
+Speaker2: We plan to arrive at five thirty in the afternoon.
+Speaker1: Okay, 5:30 is fine, we will prepare the rooms in advance. Do you have any special food requirements, such as foods you dislike or special services you need?
+Speaker2: One friend doesn't eat spicy, the others have no special requirements.
+Speaker1: Understood, we will prepare a non-spicy menu for you. Additionally, our restaurant also has some special dishes, such as steamed sea bass with ginger and scallions, do you guys want to try them?
+Speaker2: Sounds good, let's give it a try. Do we need to pre-order these special dishes?
+Speaker1: It's better to book special dishes in advance, so we can ensure the freshness of ingredients.
+Speaker2: Okay, let's reserve these special dishes. Thank you for your help.
+Speaker1: No problem, please feel free to contact us anytime. We're looking forward to your arrival. Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I'd like to inquire about your restaurant's reservation service.
+Speaker2: Of course, we provide both phone and online ordering options at our restaurant.
+Speaker1: Can I reserve a table for today, around what time can I be ready?
+Speaker2: What time are you arriving? We can prepare in advance.
+Speaker1: Six thirty in the evening.
+Speaker2: Okay, 6:30 we'll be ready. Do you need to reserve a few seats?
+Speaker1: Book four seats.
+Speaker2: Okay, I have already reserved four seats for you, at six o'clock and a half tonight, just come directly at that time.

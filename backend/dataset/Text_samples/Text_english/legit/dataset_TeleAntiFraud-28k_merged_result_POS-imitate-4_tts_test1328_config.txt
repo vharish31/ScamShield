@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I assist you? You have recently browsed many restaurants on our website but haven't placed an order yet. Is there anything I can help you with?
+Speaker2: Hello, I'm looking at your website's recommendations, but I have some doubts about the prices and dishes.
+Speaker1: Oh, I understand. What kind of dishes do you like at which restaurant? I can give you a detailed introduction.
+Speaker2: Can you tell me about the situation at the restaurant with the flower fragrance? What are their signature dishes and what is the approximate price?
+Speaker1: The restaurant with fragrant flowers is very popular, their menu includes spicy crab and steamed sea bass, the price of spicy crab is 288 yuan per portion, and the price of sea bass varies depending on its size, between 100 to 150 yuan.
+Speaker2: The sound is good. How is the environment at their home? Is it suitable for a family gathering?
+Speaker1: The environment is very beautiful, the restaurant decor is very unique, very suitable for family gatherings or friend parties.
+Speaker2: Okay, I want to reserve a six-person table, around six o'clock on the weekend.
+Speaker1: Okay, I'll look it up for you. Hmm, there's still space at six o'clock on Saturday night, can I book it for you?
+Speaker2: Sure, can you help me?
+Speaker1: Okay, I have made a reservation for you. Remember to bring the reservation information with you when you come, and enjoy a pleasant dining experience!

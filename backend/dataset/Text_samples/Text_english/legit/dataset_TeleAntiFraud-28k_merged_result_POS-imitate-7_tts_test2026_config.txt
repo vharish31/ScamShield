@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service for new taste food, can you confirm your order information for the beef stir fry you ordered on our website?
+Speaker2: Oh, hello, yes, I really ordered a beef stir-fry.
+Speaker1: Okay, is your address Happy Community Building 3, Unit 2?
+Speaker2: That's right, it's this address.
+Speaker1: What's your phone number?
+Speaker2: Yeah, sure.
+Speaker1: Okay, we have confirmed your order. We estimate it will arrive in 30 minutes. Please note our delivery call.
+Speaker2: Okay, thank you.
+Speaker1: No problem, please contact us if you have any other needs.
+Speaker2: Okay, thank you, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, you're little Wang?
+Speaker2: Hey, okay, little Li, how are you, what's up?
+Speaker1: How have you been lately? Have you gotten used to your new home yet?
+Speaker2: No problem, the new environment is quite good, just still organizing things.
+Speaker1: Are you still busy? Do you need help?
+Speaker2: Thank you, I should be able to sort it out pretty well this week.
+Speaker1: Okay, got it. Do you have time this weekend? Let's go eat together.
+Speaker2: Can we hang out this weekend? Do you have any recommendations for a place?
+Speaker1: Let's try out this new hot pot restaurant. The environment is pretty good.
+Speaker2: Okay, that's settled then, see you this weekend.

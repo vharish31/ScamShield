@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you? I'm almost at the subway station.
+Speaker2: I'm still at the supermarket on that side, you got off the subway station and walked to the left, see the second red light and call me.
+Speaker1: Is there a lot of people over there?
+Speaker2: Hello, not too crowded, you arrived, let's talk again.
+Speaker1: Okay, I got off the bus, I'll see you later.
+Speaker2: Okay, see you later.
+Speaker1: Hey, I saw the red and green lights, did you?
+Speaker2: I just came out of the supermarket, I'm walking towards you, wait for me a moment.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: There's a coffee shop next to you. I see you now, just wait for me in front of the coffee shop.

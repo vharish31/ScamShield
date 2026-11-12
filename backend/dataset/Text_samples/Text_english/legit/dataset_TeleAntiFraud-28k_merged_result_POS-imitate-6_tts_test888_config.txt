@@ -1,0 +1,10 @@
+Speaker1: Hello, I saw your second-hand house information.
+Speaker2: Uh, yes, what's your plan?
+Speaker1: I'd like to know more about the specific price and detailed information about the house.
+Speaker2: Okay, this house's total price is one hundred and twenty thousand, includes two rooms and one living room, north-south through, beautifully decorated, can directly move in.
+Speaker1: How much tax do I need to pay for this house?
+Speaker2: Taxes are approximately 5% to 6,000 yuan according to current policy.
+Speaker1: How much is the property management fee for this community?
+Speaker2: The property fee is two yuan per square meter per month, this house is eighty square meters, so the monthly property fee is one hundred and sixty yuan.
+Speaker1: Okay, thank you for your detailed answer. I will consider it.
+Speaker2: No problem, if you have any questions, feel free to contact me anytime, I hope you're satisfied.

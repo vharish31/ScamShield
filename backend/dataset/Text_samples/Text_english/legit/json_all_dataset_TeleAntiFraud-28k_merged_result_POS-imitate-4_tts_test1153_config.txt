@@ -1,0 +1,14 @@
+Speaker1: Hi, how are you? I'm calling to inquire about your restaurant reservation situation.
+Speaker2: Hello, can we make a reservation at our restaurant? Which day would you like to reserve?
+Speaker1: Can I reserve this Saturday evening at 6:00 PM? Is there still a place available?
+Speaker2: On Saturday evening at 6:00, how many people do you need to reserve a table?
+Speaker1: Four people at a table, what are your recommendations for your family's special dishes?
+Speaker2: Our signature dishes include red braised pork, steamed fish and stir-fried frog, all of which are very popular.
+Speaker1: Great, let's order all these dishes. Do we need to pay a deposit in advance?
+Speaker2: Yes, in order to confirm your position, we need to pay a deposit of 50 yuan in advance.
+Speaker1: Okay, how do I pay?
+Speaker2: You can directly transfer money through WeChat or PayPal. I will send the specific account details to your phone later.
+Speaker1: Okay, I'll wait for your information. And, if you can't come temporarily, can you withdraw the deposit?
+Speaker2: If you notify us one day in advance, the deposit is fully refundable.
+Speaker1: Okay, thank you for your patience in answering.
+Speaker2: You're welcome, I'm looking forward to your arrival. Goodbye!

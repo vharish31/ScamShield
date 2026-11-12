@@ -1,0 +1,12 @@
+Speaker1: Hello, are you customer service?
+Speaker2: Hello, I am a customer service representative. What can I help you with?
+Speaker1: Hey, hi, I see you guys have a smart home product promotion, can you tell me more about it?
+Speaker2: Okay, we recently had a smart home product promotion, which product are you interested in?
+Speaker1: Can you tell me some functions and prices of smart speakers and smart light bulbs?
+Speaker2: Of course. Our smart speaker supports voice control, can play music, set alarms, query weather and so on. The promotional price is 299 yuan. Smart bulbs can be adjusted in color temperature and brightness, can be controlled through the mobile app or the speaker, promotional price is 99 yuan per one.
+Speaker1: Hmm, is it that complicated to use them?
+Speaker2: Simple, just plug in the power, follow the instructions in the manual to connect Wi-Fi and you can use it. Smart bulbs are the same, install them on the lamp socket and connect to the network through the app.
+Speaker1: Sure, can I return or exchange it if I buy it and find issues later?
+Speaker2: Sure, we support a 7-day no-reason return or exchange policy. If you have any issues, please directly contact our customer service, and we will quickly solve them for you.
+Speaker1: Okay, thank you for your detailed answer. I will consider it.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. We hope our products can bring you convenience.

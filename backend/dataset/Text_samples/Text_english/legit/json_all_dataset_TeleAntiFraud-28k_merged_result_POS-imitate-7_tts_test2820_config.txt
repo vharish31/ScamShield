@@ -1,0 +1,16 @@
+Speaker1: Hey, are you looking for a room to rent?
+Speaker2: Yeah, it's mine.
+Speaker1: Is this room still rented?
+Speaker2: Still here, what time do you want to come see the house?
+Speaker1: Can I have some free time tomorrow afternoon?
+Speaker2: Sure, what time tomorrow afternoon?
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Sure, let's meet at three in the afternoon tomorrow.
+Speaker1: Okay, where should I look for you when I go tomorrow?
+Speaker2: Call me when you reach the community gate, I'll come down to meet you.
+Speaker1: Okay, thank you. How much is the rent for that house?
+Speaker2: Rent is one thousand five hundred yuan per month, with a three-month deposit.
+Speaker1: So, do I need to pay six thousand yuan on my first time?
+Speaker2: Yes, that's right.
+Speaker1: Okay, I'll go take a look tomorrow, thank you.
+Speaker2: No problem, see you tomorrow.

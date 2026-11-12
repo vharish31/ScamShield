@@ -1,0 +1,12 @@
+Speaker1: Hello, do you provide delivery service here?
+Speaker2: Hello, we provide delivery service here, what do you want to order?
+Speaker1: Can you tell me the price of a beef stir-fry and a sweet and sour pork ribs?
+Speaker2: Okay, beef stir-fry is 20 yuan, sweet and sour pork ribs are 25 yuan.
+Speaker1: Okay, so I need to pay 45 yuan in total, right?
+Speaker2: Yes, a total of 45 yuan. When do you want it delivered?
+Speaker1: Can I send it over in about an hour?
+Speaker2: Okay, we will deliver on time. What is your address?
+Speaker1: My address is Happiness Villa No. 3, Unit 602, Room 602.
+Speaker2: Okay, I have recorded your order. It will be delivered to Happiness Small Community, 3rd floor, unit 602, room 602, in about an hour. Do you need any further assistance?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, hope you enjoy your meal, bye.

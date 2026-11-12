@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the manager of the bank, we have a special loan product that's perfect for you, no collateral required, fast approval.
+Speaker2: Uh, is that so? I have a bit of a tight hand right now, but I don't really believe in these phone sales.
+Speaker1: I understand your concerns, but I assure you this is real and reliable. As long as your credit record is good, you can quickly get a loan.
+Speaker2: How do you ensure that this loan is genuine?
+Speaker1: We are a legitimate bank, you can verify through our official website. Here's a link, click it to directly view loan details and apply.
+Speaker2: Link? How do I know this is safe?
+Speaker1: Don't worry, this is our official link, very safe. If you don't want to click the link, I can also help you complete the application through phone.
+Speaker2: Can I apply for a phone call? What information do I need to provide?
+Speaker1: Just need your name, ID number, and bank card info. We'll review in backend, quick result.
+Speaker2: Okay, let me try it out.

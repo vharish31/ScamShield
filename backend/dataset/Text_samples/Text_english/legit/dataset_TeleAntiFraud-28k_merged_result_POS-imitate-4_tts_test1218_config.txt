@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to check the hair appointment on your side.
+Speaker2: Hello, I'm very happy to serve you, what time would you like to book?
+Speaker1: I have some free time on Saturday afternoon next week, do you know if there's a place available at that time?
+Speaker2: What time do you want on Saturday afternoon?
+Speaker1: Can we meet around 3 o'clock?
+Speaker2: 3 o'clock is okay, but we had a new hairdresser that day, don't know if you mind?
+Speaker1: No problem, as long as the technology is good.
+Speaker2: Okay, can I help you schedule an appointment for Saturday afternoon at 3 PM with the new hairdresser? Do you need me to help with anything else?
+Speaker1: No more, thank you.
+Speaker2: No problem, please bring your ID when you come, we need to register here. Goodbye.

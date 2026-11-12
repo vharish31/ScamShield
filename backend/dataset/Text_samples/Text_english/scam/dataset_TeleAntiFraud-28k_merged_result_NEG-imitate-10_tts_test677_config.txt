@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Xiao Zhang, I work at Huaxing Bank, do you have any recent financial needs?
+Speaker2: Hello, I don't have any financial needs, do your bank have any special services?
+Speaker1: That's right, we recently launched a special loan product with no collateral, no guarantee, instant approval and instant disbursement, which is very suitable for small business owners.
+Speaker2: The sound is good, but I'm not familiar with this loan, how do I operate it?
+Speaker1: It's very simple. Just download our official app, register and fill out the relevant information. After approval, you can immediately disburse funds.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, our app is developed by the bank specifically, and it also has multiple security encryption measures, so you don't need to worry at all.
+Speaker2: Okay, let me try to see how to download it.
+Speaker1: You can search for Huafeng Bank in the mobile app store and download our official app. If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, I will consider it.

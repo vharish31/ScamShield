@@ -1,0 +1,15 @@
+Speaker1: Hey, are you the one who submitted a resume to our company recently?
+Speaker2: Hey, yes, I submitted my resume, how about the progress now?
+Speaker1: Okay, I'll take a look. Which position did you apply for?
+Speaker2: I applied for a front-end development position.
+Speaker1: Hey, I found it. Your situation has been preliminarily reviewed on our end, and we think your background is quite suitable.
+Speaker2: Is that so? Then that's great. What's the plan next?
+Speaker1: We will arrange an interview, mainly focusing on technical interviews and some project experience exchanges.
+Speaker2: When is the interview approximately?
+Speaker1: Can 2 PM on Friday this week work for you?
+Speaker2: What time is it, and where is the specific location?
+Speaker1: The interview location is at our company, the address is Shanghai city Pudong New District Century Avenue 888.
+Speaker2: Okay, I understand, thank you for your notice.
+Speaker1: No problem, you can contact me anytime if you have other questions. Best wishes for your interview.
+Speaker2: Thank you, goodbye.
+Speaker1: Goodbye.

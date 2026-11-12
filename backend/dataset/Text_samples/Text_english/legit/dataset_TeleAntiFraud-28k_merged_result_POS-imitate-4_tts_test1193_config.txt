@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, how about you lately?
+Speaker2: Hi, Xiaoming, I'm good, thanks. How about you?
+Speaker1: I'm doing well too, recently I've been preparing a new project, it's quite busy. What's new on your side?
+Speaker2: Hey, I went to a new restaurant recently, the environment is great and the food is really good. You have time to try it out.
+Speaker1: What's your name? Where are you from?
+Speaker2: Call "Flavor of Heaven and Earth," in the big shopping mall in the city center.
+Speaker1: Okay, I know that place. What are your recommended dishes?
+Speaker2: Their family's signboard menu is red-braised pork and steamed fish, it's really delicious.
+Speaker1: Okay, let's try it next time. By the way, do you have any free time this weekend? Let's go eat a meal together.
+Speaker2: Okay, let's meet this weekend. I'll contact you when the time is set.

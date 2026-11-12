@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm the customer service of an e-commerce platform. I just wanted to remind you that your shopping points on your account are about to expire.
+Speaker2: Oh, really? I don't know there are points, huh?
+Speaker1: That's right, you received some points automatically when you shopped on our platform before.
+Speaker2: How come I didn't receive the notification?
+Speaker1: It's possible that your email or phone settings are set to filter. But no problem, you can now log in to your account and check your points balance.
+Speaker2: Okay, now I'll log in and take a look.
+Speaker1: Okay, after logging in you can see your points details in the account information, if you have any questions feel free to contact me anytime.
+Speaker2: What can points be used for?
+Speaker1: Points can be exchanged for products or cashback on our platform, very convenient.
+Speaker2: I'll be right back, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Have a great shopping trip!

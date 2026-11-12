@@ -1,0 +1,10 @@
+Speaker1: Hello, I recently want to buy a new electric car, do you have any recommendations here?
+Speaker2: Hello, we have many new electric car models here. Do you have any specific requirements for range, brand, or price?
+Speaker1: I have high requirements for long-distance navigation, at least 500 kilometers above, as for the brand, I am more interested in domestic products.
+Speaker2: Okay, we have a new Chinese-made electric car here with a range of 550 kilometers, the price is very good, you can consider it.
+Speaker1: How much does this car cost?
+Speaker2: This car's selling price is around twenty thousand, there are many discount policies now when buying, such as installing charging stations as a gift.
+Speaker1: What color options are available for this car that sounds good?
+Speaker2: This car offers black, white, blue, and silver four colors to choose from, you can pick according to your preference.
+Speaker1: Can I book a test drive?
+Speaker2: Of course, when do you have time to come try driving? We can arrange it here.

@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm interested in checking your restaurant's menu and prices.
+Speaker2: Okay, what store are you asking about? We have several branches here.
+Speaker1: That's the one in the city center, I heard the environment is good there.
+Speaker2: Yes, the environment of our store is quite good, is there anything special on the menu that you want to know about?
+Speaker1: Can you tell me about your signature dishes and their approximate price range?
+Speaker2: Our store specialties include red braised pork, steamed fish and roasted duck, priced between 50 and 150 yuan.
+Speaker1: Sounds good, do you guys have a private room? I plan to take my family out for dinner this weekend.
+Speaker2: Yes, we have different sizes of rooms that can accommodate four to twenty people. You need to book in advance.
+Speaker1: Okay, I'll reserve a private room that can accommodate six people, the time is this Saturday evening at 6:30.
+Speaker2: Okay, I'll record it down for you. Saturday at 6:30 PM, six-person private room, no problem.

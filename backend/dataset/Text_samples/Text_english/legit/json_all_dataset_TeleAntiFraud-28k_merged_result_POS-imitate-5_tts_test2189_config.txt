@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to reserve a table for tonight at six o'clock.
+Speaker2: Okay, sir, how many are you booking?
+Speaker1: Book four seats.
+Speaker2: Okay, we have some available time slots at six o'clock here. Would you like an indoor or outdoor position?
+Speaker1: Can you see the garden from the outdoor location?
+Speaker2: Sure, the location outside is facing our garden, the scenery is very suitable.
+Speaker1: Great, let's choose the outdoor seats. Oh, do you have children's chairs?
+Speaker2: Yes, we will prepare children's chairs for you. Do you have any other special requirements?
+Speaker1: No more, thank you. See you tomorrow.
+Speaker2: Okay, see you tomorrow. I'm looking forward to your arrival, wish you a happy day.

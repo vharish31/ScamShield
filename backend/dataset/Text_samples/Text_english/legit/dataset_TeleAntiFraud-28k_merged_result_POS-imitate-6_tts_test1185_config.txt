@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I just arrived at your community gate, how do I enter?
+Speaker2: Have you arrived at the community door? There is a security room at the door, tell the guard you are here to find someone.
+Speaker1: Okay, I see the duty room, so who should I tell them to find?
+Speaker2: You can come find me, my name is Li Ming, I live in building five, unit two.
+Speaker1: Oh, I understand, 5th floor, 2nd unit, what do I do after I go in?
+Speaker2: After entering, walk straight and turn left at the first crossroads, then continue forward.
+Speaker1: Okay, I arrived at the door. I'll call you.
+Speaker2: Okay, I'll wait for your call. Be careful on the road.
+Speaker1: Thank you, see you later.
+Speaker2: See you later.

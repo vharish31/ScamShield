@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I just booked a train ticket to Shanghai on your website, can you confirm the time?
+Speaker2: Hello, Xiao Ming, I am customer service representative Xiao Zhang, can you tell me your order number?
+Speaker1: Okay, my order number is one two three five four five six seven eight.
+Speaker2: Okay, I'll check. Is your train ticket for tomorrow morning at 9:00am from Beijing station, correct?
+Speaker1: Okay, that's the ticket. How early do I need to arrive at the train station?
+Speaker2: I suggest you arrive at the train station half an hour early, so you have enough time to go through security and find the waiting room.
+Speaker1: Okay, thank you for your advice. Is it possible to change my information using an email instead of my phone number that I used when I registered?
+Speaker2: Of course, you can log in to your account and modify your contact information on the personal information page. If you have any problems, you can directly contact our customer service.
+Speaker1: Okay, I'll give it a try. Thank you for your help, little Zhang.
+Speaker2: No problem, if you have any other questions, please feel free to consult anytime. Have a nice trip, goodbye.

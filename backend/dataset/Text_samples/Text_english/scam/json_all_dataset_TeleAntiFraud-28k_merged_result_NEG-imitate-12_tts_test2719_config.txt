@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Zhang Wei? This is the customer service of Shenzhen Bank.
+Speaker2: Yes, what do you have in mind?
+Speaker1: We noticed that you recently applied for a loan on our website, but you haven't completed the final steps yet.
+Speaker2: Oh, really? I did apply, but I don't know why I haven't received a reply.
+Speaker1: Don't worry, we can help you solve it here. Just click on this link now and complete the remaining steps, and your loan will be immediately credited.
+Speaker2: Okay, how do I click on a link?
+Speaker1: Just reply to this text message, and I'll send you a link.
+Speaker2: Okay, I'll get back to you later.
+Speaker1: Okay, just a moment, I'll send it now.
+Speaker2: I got it, I'll handle it right away.
+Speaker1: Okay, please inform me once the operation is completed, and feel free to contact me if you have any issues.
+Speaker2: Okay, thank you.

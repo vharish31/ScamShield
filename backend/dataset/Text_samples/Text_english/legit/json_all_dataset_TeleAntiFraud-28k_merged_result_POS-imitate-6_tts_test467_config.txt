@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw your job recruitment information, want to know more?
+Speaker2: Hello, do you want to know about job recruitment information?
+Speaker1: What kind of job are you recruiting for?
+Speaker2: We mainly hire factory operation workers and some maintenance positions.
+Speaker1: What conditions are needed for an operator?
+Speaker2: The operator must be under 50 years old, physically healthy, and able to adapt to the factory's work environment.
+Speaker1: What about the salary and benefits?
+Speaker2: The salary is 5,000 yuan per month, including meals but not housing, and there is an additional overtime fee for extra work.
+Speaker1: What's the schedule for going to work?
+Speaker2: Work hours are from 8 am to 5 pm on weekdays, with weekends being a two-day holiday. Special circumstances may result in a half-day off.

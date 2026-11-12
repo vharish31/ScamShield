@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of speed selling through, can I call you little ming?
+Speaker2: Sure, hello, what do you have?
+Speaker1: Small Ming, we found an issue with your order, it might be a mistake in logistics, please cooperate to handle it.
+Speaker2: What's the problem with the order?
+Speaker1: Your package may have been lost during transportation, we need you to provide some information to confirm.
+Speaker2: What information do I need to provide?
+Speaker1: Just click on the link we send you, fill in your personal information, including name, phone and bank card number, so we can process the refund.
+Speaker2: Okay, I'll click on the link now.
+Speaker1: Thank you very much for your cooperation. The link has been sent to your phone. Please process it as soon as possible. If you have any questions, please feel free to contact us anytime.
+Speaker2: Okay, thank you.

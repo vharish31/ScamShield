@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have grilled vegetables at your store?
+Speaker2: Yes, we have various grilled vegetables here, such as corn, eggplant, and bell peppers, all of which are very popular with our customers.
+Speaker1: What about the price?
+Speaker2: Stir-fried vegetables are usually priced at two pieces for a dollar, but if you order a few more strings, you can enjoy a discount.
+Speaker1: Okay, when do you start your business?
+Speaker2: We start business at 5 pm and go on until 11 pm.
+Speaker1: Can I go around seven in the evening?
+Speaker2: Of course, at exactly seven o'clock tonight, you can come directly.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you tonight, looking forward to your arrival.

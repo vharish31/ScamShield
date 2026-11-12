@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I'm a loan advisor at Commercial Bank, my name is Li Ming.
+Speaker2: Hello, what do you have?
+Speaker1: I'm like that, our bank recently introduced a low-interest loan product, very suitable for cash flow or large-scale consumption, are you interested in learning more?
+Speaker2: Sure, I really need some money now.
+Speaker1: Great, this loan product has no collateral or guarantee, approval speed is fast, just need to fill out online information and submit for review.
+Speaker2: How do I apply?
+Speaker1: It's very simple. Just click this link, fill out the basic info, and we'll quickly review it.
+Speaker2: Can I trust you guys?
+Speaker1: Of course, we are a regular state-owned bank, you can trust us. If you have any questions, you can directly call our customer service hotline for consultation.
+Speaker2: Okay, I'll give it a try. Thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes for your application. Goodbye.

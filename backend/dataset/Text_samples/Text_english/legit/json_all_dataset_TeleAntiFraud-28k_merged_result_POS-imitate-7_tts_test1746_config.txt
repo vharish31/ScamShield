@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, can you hear me?
+Speaker1: I am a customer service representative for an e-commerce platform. Your shopping points on your account will be cleared at midnight tonight. You have 26,880 points, which can be exchanged for goods worth around 4,000 yuan. Have you not exchanged them yet?
+Speaker2: "Oh, I don't need these points, I don't like free things."
+Speaker1: These points are accumulated from your regular shopping, many people have already saved a lot of money with them. Don't you want them?
+Speaker2: I still don't want it, I'm afraid I'll be scammed.
+Speaker1: Okay, if your mind changes, feel free to contact us anytime. This is our customer service phone number: 13000000000.
+Speaker2: Okay, thank you for your reminder.
+Speaker1: No problem, wish you happy life. If you have any questions, feel free to contact me. Goodbye.
+Speaker2: Goodbye.

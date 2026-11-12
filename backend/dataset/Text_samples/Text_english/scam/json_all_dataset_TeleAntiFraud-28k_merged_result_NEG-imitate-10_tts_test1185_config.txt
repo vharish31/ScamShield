@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the Agricultural and Commercial Bank, I checked your company's information and found that you meet the conditions of a special loan project we have.
+Speaker2: Uh, okay? Can you tell me what I need to do?
+Speaker1: Okay, that's it. You can first download our bank's official app, and I'll guide you through the application process, which will speed up the approval.
+Speaker2: Okay, how do I download it?
+Speaker1: You can search for Agricultural Bank in the mobile app store, download the official app, register and log in, remember to use my recommendation code, so you can enjoy lower interest rates.
+Speaker2: How much is the referral code?
+Speaker1: The recommendation code is 123456. Please input this code and the system will automatically recognize your special status.
+Speaker2: I understand, thank you, Li manager.
+Speaker1: No problem, if you have any issues during the operation, please feel free to contact me anytime. My phone number is 0769-12345678.
+Speaker2: Okay, I will process it quickly, thank you again.

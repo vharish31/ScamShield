@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I saw your store online, is it new?
+Speaker2: Hello, yes, we are new, mainly doing home-cooked food, welcome to try.
+Speaker1: What is the name of your signboard?
+Speaker2: We have several menu items, such as red braised pork, steamed fish and gong bao chicken, all of which are very popular.
+Speaker1: What's the price?
+Speaker2: The prices are very reasonable. Pork ribs are thirty-five yuan per portion, and steamed fish is priced differently based on the size of the fish, around sixty to one hundred yuan.
+Speaker1: Do you have delivery service?
+Speaker2: Yes, we support Meituan and Ele.me food delivery platforms, and you can also directly call us to place an order.
+Speaker1: Can I directly call you guys? What's your phone number?
+Speaker2: Okay, our phone number is 0571878901, welcome to call anytime.

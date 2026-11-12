@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: I'm 85 degrees C, the food you ordered might have some issues, let's confirm it
+Speaker2: What's the problem?
+Speaker1: It's possible that one of our employees accidentally put the order on the wrong table, so the food you got might be someone else's.
+Speaker2: Okay, let me check my food to see if it's correct.
+Speaker1: Okay, could you confirm once again, if not, please prepare again immediately.
+Speaker2: I took a quick look, it's not mine, can you guys help me handle it quickly?
+Speaker1: Of course, I'm very sorry to have caused you inconvenience. We'll immediately remake it, it should take about fifteen minutes.
+Speaker2: Okay, I'll wait for your message. Thank you.
+Speaker1: No problem, we will handle it quickly. Apologies again for the inconvenience caused.

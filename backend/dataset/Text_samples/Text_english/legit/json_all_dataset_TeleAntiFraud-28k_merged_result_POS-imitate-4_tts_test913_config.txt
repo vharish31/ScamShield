@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at the park gate, can't find the road, can you give me a road?
+Speaker2: Hello, you are at the park gate, walk to the right and turn left at the first crossroads, keep walking until you reach the end, which is your destination.
+Speaker1: Walk to the right, take the first left turn, okay, let me try.
+Speaker2: Yes, that's it. If you reach a big fountain, it means you're on the right path.
+Speaker1: Hot spring? Okay, I remember, thank you.
+Speaker2: No problem, is there anything else you need help with?
+Speaker1: I'm not available right now, I'll contact you when there's a situation.
+Speaker2: Okay, feel free to consult anytime, wish you all the best.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye, wish you a happy day.

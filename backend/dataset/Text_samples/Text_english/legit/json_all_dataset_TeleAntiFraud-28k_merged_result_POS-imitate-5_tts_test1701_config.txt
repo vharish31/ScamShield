@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have any predefined restaurant service here?
+Speaker2: Do you need to reserve which restaurant?
+Speaker1: I want to try out the new blue lake restaurant this weekend because I heard the environment is good.
+Speaker2: The Blue Lake Restaurant is very popular. What time would you like to reserve a seat?
+Speaker1: Saturday evening at seven o'clock, two people.
+Speaker2: Okay, Saturday evening at 7 pm, for two people. I'll help you book it.
+Speaker1: Okay, thank you. By the way, is it true that there is a performance there at night?
+Speaker2: Yes, the Blue Lake Restaurant has live music performances every night, and you will have a pleasant dining experience.
+Speaker1: Okay, then I'll go on Saturday.
+Speaker2: Okay, we're waiting for your arrival. If you have any other needs, please contact us anytime. Have a great weekend!

@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me, who are you?
+Speaker1: I am a customer service representative for a food delivery platform. There was an issue with the food you ordered on our platform, and we need to confirm with you.
+Speaker2: Okay, you say, what's the question?
+Speaker1: Yesterday you ordered a beef stir-fry, but the restaurant said the beef in the dish might not be fresh enough. Would you be willing to accept an equivalent dish as a replacement?
+Speaker2: What row, change to what dish?
+Speaker1: You can choose any equivalent value dish on our platform, or we can also give you an equal amount to your account to be used for your next order.
+Speaker2: Let's top up your account now, you can use it for your next order.
+Speaker1: Okay, I'll handle it now. You'll receive a text message notification of successful recharge shortly.
+Speaker2: Okay, thank you.

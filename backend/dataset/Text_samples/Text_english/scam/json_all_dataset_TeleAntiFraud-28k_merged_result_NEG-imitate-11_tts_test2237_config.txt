@@ -1,0 +1,10 @@
+Speaker1: Hey, have you been shopping on any platform recently?
+Speaker2: Okay, what now?
+Speaker1: I am a customer service representative for some platform, we found that the product you bought has quality issues, the platform is ready to process a refund for you.
+Speaker2: Really? That's great! How do you operate it?
+Speaker1: To make it convenient and quick, could you please complete the refund process through our special link? Is that okay with you?
+Speaker2: Sure, you say, what's the link?
+Speaker1: Okay, I'll send you a link via text message later. Once you receive it, click to enter and follow the instructions.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Additionally, to ensure your personal information is secure, we need your bank card number and verification code so we can directly refund the money.
+Speaker2: Okay, then I'll tell you when I receive the text message.

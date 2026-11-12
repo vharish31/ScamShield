@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang. Do you have any new sports shoes in your store?
+Speaker2: Hello, little Zhang, we have new sports shoes here, which brand do you want to know?
+Speaker1: I want to see the new Nike products that came out recently.
+Speaker2: Yes, we recently launched several new shoes from Nike, with various colors and styles. You can come to the store to take a look, and also tell me your favorite style, I'll help you check.
+Speaker1: Is your store open now? I plan to go over there today.
+Speaker2: Our store is open now, business hours are from 10 am to 9 pm, what time is most convenient for you to come?
+Speaker1: Can I go out at around three in the afternoon?
+Speaker2: Okay, you come at 3 o'clock, I will prepare in advance what you want to see.
+Speaker1: Okay, thank you, I'll see you later.
+Speaker2: No problem, I'm looking forward to your arrival, see you later.

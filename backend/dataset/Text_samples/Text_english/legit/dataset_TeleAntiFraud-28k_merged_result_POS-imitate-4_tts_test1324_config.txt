@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang.
+Speaker2: Hello, little Zhang, what do you have?
+Speaker1: That's right, I reserved a room for you guys, but now the time might change.
+Speaker2: Okay, no problem, can you tell me the original date and the new date?
+Speaker1: The original plan was for this Friday, but now I want to change it to next Monday.
+Speaker2: Okay, I'll check for you. Is there any other appointment on Friday, if so, we can directly change to Tuesday.
+Speaker1: Okay, can you help me?
+Speaker2: Found it, the room for Friday is currently unbooked, the room for Monday is also empty, I can directly help you change it.
+Speaker1: That's great, thank you.
+Speaker2: No thanks, this is my work. After editing, I will send a text message to confirm, please pay attention to check it.

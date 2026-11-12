@@ -1,0 +1,14 @@
+Speaker2: Hello, do you want to consult us about restaurant matters?
+Speaker1: Yes, what are your special dishes today?
+Speaker2: Today's special dishes are red braised pork and steamed fish, both very popular.
+Speaker1: How much does it cost to sound good?
+Speaker2: Red braised pork is 35 yuan per portion, steamed fish is priced differently based on size, between 50 to 80 yuan.
+Speaker1: Okay, can you tell me your business hours?
+Speaker2: We are open from 10 am to 10 pm every day, with supplies available in the afternoon and evening.
+Speaker1: Can I go at around six and a half in the evening?
+Speaker2: Of course, but this time period will be busier, so I recommend you book your spot in advance.
+Speaker1: Okay, I'll reserve a four-person spot.
+Speaker2: Okay, I have reserved a four-person table for you at six and a half tonight. What's your name so I can verify the information?
+Speaker1: I am Li Ming.
+Speaker2: Okay, Li Ming, we'll meet later.
+Speaker1: Thank you, see you later.

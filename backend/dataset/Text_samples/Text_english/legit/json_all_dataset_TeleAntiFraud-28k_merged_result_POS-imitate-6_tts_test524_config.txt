@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you give me a detailed explanation of the promotion activity at your store?
+Speaker2: Of course. We happen to have a week-long anniversary sale, eighty percent off, and a hundred-dollar discount for every five hundred dollars spent.
+Speaker1: Can I enjoy this discount today if it sounds good?
+Speaker2: Of course, the discount activity is still effective today.
+Speaker1: Great, I'll go now, what time do you close the door?
+Speaker2: We close at nine in the evening, you have plenty of time to choose.
+Speaker1: Okay, thank you. I'll be there in about half an hour, see you.
+Speaker2: Okay, see you in half an hour, welcome!

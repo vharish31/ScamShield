@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao, a customer service representative at Taobao.
+Speaker2: Hello, little Li.
+Speaker1: We noticed that you recently purchased a product on our platform, but the shipping shows that your package was lost.
+Speaker2: Really? Then what do we do?
+Speaker1: Don't worry, we can handle the refund for you. To speed up the process, could you please provide your bank card information?
+Speaker2: Okay, how can I provide?
+Speaker1: You can click this link and fill out the relevant information.
+Speaker2: Okay, I'll open it now.
+Speaker1: Okay, please fill it out and we'll process it quickly. If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, little Li.

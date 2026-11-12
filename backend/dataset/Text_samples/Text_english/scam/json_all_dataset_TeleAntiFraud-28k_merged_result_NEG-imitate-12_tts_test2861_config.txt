@@ -1,0 +1,13 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Yes, who are you?
+Speaker1: I am the manager of the Zhang Investment Company in the Middle Kingdom. We noticed that you have recently been looking for investment opportunities. We have a high-yield investment product that is very suitable for you.
+Speaker2: Is it so? What are the specifics of your product?
+Speaker1: This product is mainly invested in high-growth technology enterprises with an annual return of up to 15%, and the risk is very low.
+Speaker2: Sounds good, but how to invest?
+Speaker1: It's very simple. Just download our investment app and follow the instructions.
+Speaker2: Can I trust you guys to download the app?
+Speaker1: Of course, our company is a legally certified regular investment institution, so you can rest assured. Moreover, you can now enjoy exclusive discounts as a new user when you register.
+Speaker2: Okay, I'll try. What's the name of the app?
+Speaker1: The name of the app is "Wealth Quick Line". You can download it from the app store by searching. After downloading, enter the recommendation code 123456 to enjoy the new user discount.
+Speaker2: Okay, I'll give it a try. Thank you for your recommendation.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. I wish you a happy investment!

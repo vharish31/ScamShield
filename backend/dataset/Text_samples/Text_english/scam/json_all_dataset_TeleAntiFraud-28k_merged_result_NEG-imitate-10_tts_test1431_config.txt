@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural and Commercial Bank. We have a special loan product for small businesses that has a low interest rate, fast approval, and would you be interested in learning more about it?
+Speaker2: Hey, I recently need to turn over some cash, can you give me a specific introduction?
+Speaker1: Great, this product is perfect for your needs. To speed up the approval process, I suggest you download our bank's official app, fill out the relevant information, which will make it quicker to complete the application.
+Speaker2: Okay, how should I download this app?
+Speaker1: You can directly search our bank's name in the mobile app store and download the official app. If you're not convenient, I can also send you a link via text message, just click on the link to download directly.
+Speaker2: Can you send me a short message with the link, so I can download directly.
+Speaker1: Okay, I'll send you a text message with a link. Please pay attention to receiving it. At the same time, to ensure your information is safe, the text message will contain a verification code. Please enter it to confirm when downloading.
+Speaker2: Okay, I understand.
+Speaker1: The text message has been sent successfully. Please check it. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you, I'll go download it now.

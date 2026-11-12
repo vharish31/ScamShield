@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw your ads for rent on the internet, are they about the office rental information?
+Speaker2: Hello, yes, we have an office for rent, which office are you interested in?
+Speaker1: Is that the one in the city center that's 150 meters tall?
+Speaker2: Yes, that office is one hundred and fifty square meters, divided into two layers, each layer is seventy-five square meters.
+Speaker1: How is the rent calculated?
+Speaker2: Rent is 10,000 yuan per month, including property and water/electricity fees.
+Speaker1: The sound is good, I plan to rent it out and open a workspace. What was the previous office used for?
+Speaker2: This was used in the design studio, the environment was very suitable for creating work.
+Speaker1: Great, I also do design. What materials do you need me to provide to apply for rent?
+Speaker2: You need to provide personal identification, company business license copy, and rental agreement. If convenient, please come to our office to discuss in detail.

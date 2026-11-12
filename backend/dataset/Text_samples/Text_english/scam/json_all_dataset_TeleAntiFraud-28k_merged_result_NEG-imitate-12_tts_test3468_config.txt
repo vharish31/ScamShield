@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative for the construction bank. Based on our system's evaluation, you meet the conditions for our low-interest loan.
+Speaker2: Oh, really?
+Speaker1: Yes, this loan project is very suitable for users with funding needs, the interest rate is very favorable, do you want to know more?
+Speaker2: Sure, I really need some money lately.
+Speaker1: Great! To ensure your information is safe, we need you to download our official app to complete the application.
+Speaker2: Okay, how do I download it?
+Speaker1: You can search our name in the mobile app store, download it and register an account, then follow the instructions to operate it.
+Speaker2: I understand, thank you.
+Speaker1: No problem, if you have any questions during the operation process, please feel free to contact me at any time. Moreover, to speed up the approval process, please prepare your identity card and bank flow water in advance.
+Speaker2: Okay, I will prepare.

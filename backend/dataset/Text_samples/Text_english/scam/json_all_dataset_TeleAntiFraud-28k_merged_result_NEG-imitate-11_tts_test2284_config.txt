@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a customer service representative from Taobao, you recently purchased a product on our platform with a quality issue, we need to process a refund for you, can you cooperate with us?
+Speaker2: Okay, how do we handle it?
+Speaker1: To quickly process, please provide your order number and bank card number, we will directly refund the amount to your bank account.
+Speaker2: Okay, that's my bank card number: 1234567890123456.
+Speaker1: Okay, I have recorded it down. To confirm your identity, you need to provide the verification code sent by the bank, which will be sent to your phone, please check it.
+Speaker2: Okay, I received it. The verification code is 123456.
+Speaker1: Thank you very much, we have already processed the refund, and the amount will be returned to your bank account shortly. Additionally, we have prepared a small gift for customers who encountered quality issues, you can click on this link to redeem it.
+Speaker2: Okay, thank you.

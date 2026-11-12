@@ -1,0 +1,11 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, do you have a discount activity at your store?
+Speaker2: Yes, our store currently has a buy two get one free promotion.
+Speaker1: What is the specific situation of this activity?
+Speaker2: If you buy two pieces of clothing, we'll give you one piece of the same style.
+Speaker1: Is everyone attending this activity wearing all their clothes?
+Speaker2: Yes, all clothes are participating. However, some special-priced products are not participating.
+Speaker1: Okay, where is your store on which street?
+Speaker2: We are on Happiness Street, which is next to the big supermarket, so it's easy to find if you come over.
+Speaker1: What are your business hours?
+Speaker2: We are open from 10 am to 9 pm every day.

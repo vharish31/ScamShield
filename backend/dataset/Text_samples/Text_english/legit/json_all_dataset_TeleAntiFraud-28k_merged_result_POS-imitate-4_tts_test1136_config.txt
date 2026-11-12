@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you check if your store has any Huawei phones? I want to buy a new one recently.
+Speaker2: Okay, we have several Huawei phones here. Which one do you want to know more about?
+Speaker1: I want a product with a high price-to-value ratio, but not too expensive.
+Speaker2: Do you want to know more about this Huawei Nova series phone that has a high price-to-value ratio and costs around 2,300 yuan?
+Speaker1: Hey, can you tell me about this phone's battery?
+Speaker2: This phone's battery capacity is 4000mAh, it's enough for a whole day of normal use and it also has fast charging functionality.
+Speaker1: Where is that camera?
+Speaker2: The camera is a 48-megapixel primary shooter, and the photo quality is good, especially in night mode.
+Speaker1: How much does it cost?
+Speaker2: This phone is currently priced at 2500 yuan, and there is a promotion, buy a phone and get a phone case and a steel film.
+Speaker1: That's great, I'll consider it, thank you for your introduction.
+Speaker2: You're welcome, feel free to ask any questions anytime.

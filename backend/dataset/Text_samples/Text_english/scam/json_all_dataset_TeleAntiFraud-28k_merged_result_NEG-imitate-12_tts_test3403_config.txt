@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm little Zhang, your old friend, how have you been lately?
+Speaker2: Little Zhang? I don't remember having a friend named you.
+Speaker1: Ugh, I'm so busy lately, I just switched jobs, I'm working at an investment company now, and I was thinking you might need some investment advice.
+Speaker2: Oh, investing, I'm pretty busy right now, don't have time to think about this.
+Speaker1: That's great, our company recently had a really good project with very high returns and low risk. It's worth taking a look.
+Speaker2: What specific project are you referring to?
+Speaker1: This is a new digital currency investment plan. You only need to invest a small amount of money to get a high return, and the operation is very simple.
+Speaker2: Sounds good, but I don't understand this well.
+Speaker1: No problem, I can help you operate it. Just download our company's app, register an account, and follow my instructions to operate it.
+Speaker2: What's the name of that app?
+Speaker1: Call "Wealth Fast Lane Road", download it and remember to use my recommendation code to register, this way both of us have benefits.
+Speaker2: Okay, let me try.
+Speaker1: Great, please contact me after downloading, I can help you quickly get started.

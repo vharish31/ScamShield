@@ -1,0 +1,13 @@
+Speaker1: Hello, I'm Little King, I see you've recently followed our smartwatch store online, can you tell me about your needs?
+Speaker2: Yeah, I'm really interested in smartwatches, especially battery life.
+Speaker1: Understood, our smartwatch's battery life is approximately one week, and it doesn't need to be charged every day when used normally.
+Speaker2: A week? That's good. And what health monitoring functions does this watch support?
+Speaker1: This supports heart rate monitoring, sleep analysis, step tracking and other multiple health monitoring functions, very suitable for daily wear.
+Speaker2: Sounds good. How much does that watch cost?
+Speaker1: The current price of this smartwatch is one thousand nine hundred ninety-nine yuan, but now there's a promotion, you can enjoy a nine-discount discount.
+Speaker2: Nine discounts, that's quite a good deal. I plan to come to the store on the weekend.
+Speaker1: Okay, our store is open normally on weekends. You can come directly. If you need, I can reserve a seat for you.
+Speaker2: Okay, can you reserve a room for me? I'll be there around 2 pm on Saturday afternoon.
+Speaker1: No problem, I'll be here on Saturday at 2 pm. If you have any other questions, feel free to contact me.
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye.

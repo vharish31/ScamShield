@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Hello, how are you? I am.
+Speaker1: Hello, I am a customer manager of commercial bank, named Lee Huai.
+Speaker2: Hello, Li Manager.
+Speaker1: According to our system records, you recently had some financial needs. We have a low-interest loan product. Are you interested in learning more?
+Speaker2: Can you give me a detailed introduction on how to use money recently?
+Speaker1: Of course. Our loan product is specifically designed for high-quality customers, no collateral required, quick approval, and a very low interest rate. You only need to provide some basic personal information, and we can pre-approve your loan amount.
+Speaker2: What do I need to do?
+Speaker1: Just click on this link, fill in the relevant information, and we'll have a specialist contact you for the next step review.
+Speaker2: Okay, let me try.
+Speaker1: Great, the link has been sent to your phone. Please check and fill it out as soon as possible. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you, Li Jing Manager.

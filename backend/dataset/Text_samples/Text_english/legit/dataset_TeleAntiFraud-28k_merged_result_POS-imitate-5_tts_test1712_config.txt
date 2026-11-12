@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm the delivery guy, your food is here, where are you now?
+Speaker2: Hello, I'm at the coffee shop downstairs at the company, come over.
+Speaker1: Okay, I'll be right over. What's your location in the coffee shop?
+Speaker2: I am standing near the door, wearing a blue suit.
+Speaker1: Okay, I see you, just wait a moment, I'll come over here.
+Speaker2: Okay, thank you.
+Speaker1: Your takeout is here, please check if it's correct.
+Speaker2: Okay, thank you, you worked hard.
+Speaker1: You're welcome, hope you enjoy your meal, bye.
+Speaker2: Goodbye, thank you.

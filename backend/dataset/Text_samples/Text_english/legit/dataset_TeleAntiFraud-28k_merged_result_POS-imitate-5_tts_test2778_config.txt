@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'm nearby, want to order takeout, do you have any recommendations for dishes?
+Speaker2: We have several popular dishes here, such as spicy Sichuan hotpot, sour and spicy fish in vinegar, and stir-fried pork with mushrooms and bamboo shoots, you can try to see if they taste good together.
+Speaker1: That sounds good, let's have some sour fish, do you guys have any activities now?
+Speaker2: Yes, you can enjoy a discount of 10% when you order now, and you'll also get a free drink as a gift!
+Speaker1: That's great, I just want to drink some drinks. By the way, how long will you be able to send them?
+Speaker2: In general, we will complete delivery within thirty minutes after ordering, but there may be a slight delay if we encounter a peak time.
+Speaker1: Okay, I placed the order. If there are any issues, I will contact you again.
+Speaker2: No problem, feel free to contact us anytime if you have any questions. Enjoy your meal!

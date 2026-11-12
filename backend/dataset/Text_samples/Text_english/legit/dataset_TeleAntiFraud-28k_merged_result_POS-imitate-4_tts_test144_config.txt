@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from China Post, have you been looking for a forklift driver recently?
+Speaker2: Hello, yes, I am looking for this job.
+Speaker1: That's great, we have a job opening for a taxi driver here, but you need to know how to drive a taxi, can you?
+Speaker2: I haven't studied yet.
+Speaker1: That's okay, it's no big deal, we also have ordinary jobs, mainly sorting and delivering car parts, is this interesting to you?
+Speaker2: Can you tell me more about the specific work hours?
+Speaker1: Work hours are from 8 am to 8 pm, a total of 12 hours per day, with a break in between.
+Speaker2: How is the salary calculated?
+Speaker1: The salary is calculated by the hour, the first month is nineteen cents per hour, and the second month starts at twenty cents per hour.
+Speaker2: Can I add you on WeChat? It'll be easier to understand more details.
+Speaker1: Of course, I'll add you on WeChat, and I'll send you detailed info and work video later.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am Li Xiao, the customer service representative at the Happy Mall, we noticed that you may have encountered a small problem with the products you bought in our mall.
+Speaker2: Really? I just bought a pair of pants yesterday, what happened?
+Speaker1: Yes, we found a quality issue with the pants you bought, now we need to process the refund for you.
+Speaker2: Oh, that's great, I'm planning to apply for a refund now.
+Speaker1: Okay, to make it easier for you to operate, you can click on this link and fill out your relevant information, and we can quickly process your refund.
+Speaker2: Okay, I'll go operate.
+Speaker1: Thank you very much for your cooperation. If you encounter any problems during the operation, please feel free to contact me at any time. My phone number is 13800138000.
+Speaker2: Okay, thank you, I will contact you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am the customer manager of the construction bank, we have recently introduced a loan with very low interest rate, do you have any recent financial needs?
+Speaker2: I don't have any financial needs at the moment, thank you.
+Speaker1: Oh no, that's too bad. But you can always contact me if you need anything, I have a link here, just click on it to get more information.
+Speaker2: Okay, I'll think about it.
+Speaker1: Okay, have you considered it? And have you recently encountered any problems with lost packages?
+Speaker2: What's up?
+Speaker1: That's fine, but some friends met and they said they contacted our customer service representative, and finally got compensation. If you encounter this situation, you can contact me, I will provide you with help.
+Speaker2: Okay, thank you for your reminder.

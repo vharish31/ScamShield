@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I can't find the exit in the parking lot, are you here?
+Speaker2: I'm waiting for you at the second exit of the parking lot. Where are you?
+Speaker1: I'm at the door number 22, I see a lot of cars, I don't know which exit is right.
+Speaker2: Walk straight ahead, you'll see a blue sign on your left hand, that's the exit.
+Speaker1: Okay, I see it, thank you.
+Speaker2: No problem, please pay attention to safety, slowly come.
+Speaker1: Okay, I'll be going to the train station in a little while. Do you know how to get there?
+Speaker2: After getting out of the parking lot, turn right at the first red light and then left to walk straight until you reach it.

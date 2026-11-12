@@ -1,0 +1,10 @@
+Speaker2: Hi, how are you? I'm here to inquire if there are any suitable yoga courses available here.
+Speaker1: Hello, yes, we have beginner, intermediate and advanced yoga classes here, which one are you interested in trying?
+Speaker2: I am a beginner, I want to start from the beginner level.
+Speaker1: Okay, our beginner course is very suitable for beginners, every Wednesday from 7 to 8:30 pm, you can try it out first.
+Speaker2: Does it sound good? Then do I need to make a reservation in advance?
+Speaker1: Yes, to ensure everyone has enough space and time to practice, it's recommended to book in advance.
+Speaker2: How do I make a reservation?
+Speaker1: You can book through our official website or WeChat public account, or call us directly.
+Speaker2: Okay, I'll give it a try, thank you for your help.
+Speaker1: No problem, feel free to call anytime if you have any questions, wish you happy practice.

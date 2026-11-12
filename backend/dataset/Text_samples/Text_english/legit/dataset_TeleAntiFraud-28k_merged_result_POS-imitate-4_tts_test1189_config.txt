@@ -1,0 +1,15 @@
+Speaker1: Hey, hello, I found a phone on your website that I like, can I ask you a few questions?
+Speaker2: Hello, I'm very happy to serve you. Which phone model are you looking for?
+Speaker1: That's the latest small green flagship.
+Speaker2: What aspects of information about the Little Green Starship do you want to know?
+Speaker1: Can you check if there are any fresh produce available now?
+Speaker2: Let me check, please wait a moment.
+Speaker1: Okay, thank you.
+Speaker2: What color would you like from our current fresh produce?
+Speaker1: Do you have blue?
+Speaker2: Do you need to place an order now for the blue ones that are in stock?
+Speaker1: Sure, I need to understand your payment method and delivery time.
+Speaker2: We support online payment, cash on delivery, and other payment methods. Generally, we will ship your order within 24 hours after purchase, and the delivery time is usually between three to five days.
+Speaker1: I'll place an order tomorrow, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Have a nice day, bye.
+Speaker1: Okay, bye.

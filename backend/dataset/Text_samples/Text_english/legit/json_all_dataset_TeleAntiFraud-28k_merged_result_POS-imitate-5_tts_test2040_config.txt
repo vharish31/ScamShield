@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a server from some restaurant. Do you think your dining experience at our restaurant was satisfactory last time?
+Speaker2: Sure, it's good.
+Speaker1: Great, I'm happy to hear you say that. Yes, do you know that we have a special promotion this weekend? Would you like to know more?
+Speaker2: Are there any discounts?
+Speaker1: We launched a special set menu this weekend, originally priced at 288 yuan, now only 188 yuan, and you still have a chance to participate in the lottery activity.
+Speaker2: What can you win when you draw a prize?
+Speaker1: There's a chance to win a free meal at our restaurant and a beautiful gift too.
+Speaker2: That's quite reasonable, I plan to go out and have a look on the weekend.
+Speaker1: Is it okay if you need to book in advance? We can reserve a spot for you.
+Speaker2: Okay, I booked two seats for two people, on Saturday evening at 7 pm.
+Speaker1: Okay, I have reserved a seat for you at 7 pm on Saturday evening. See you then.

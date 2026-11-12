@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform. Did you order a spicy stir-fry?
+Speaker2: Okay, it's mine. What time can it be delivered?
+Speaker1: The product is currently being made and should take about twenty minutes, I will urge the shop to speed up.
+Speaker2: Okay, thank you, I'll have a meeting later, can you send it as early as possible?
+Speaker1: I will do my best to inform the delivery rider as soon as the restaurant finishes serving food.
+Speaker2: That's great, really bothersome to you.
+Speaker1: No problem, this is my job. Is your address on Jiangning Road 123?
+Speaker2: That's right, it's this address.
+Speaker1: Okay, I will confirm with the rider to ensure timely delivery.
+Speaker2: Thank you, you've worked hard.

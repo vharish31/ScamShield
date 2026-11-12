@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Xiao Zhang from the recruitment center of Zhao Shang Yin Hang, do you have any recent financial needs?
+Speaker2: Hello, I recently need some money.
+Speaker1: Great, our bank now has a very good loan project with an annual interest rate as low as 2.3%, and the approval speed is fast, with the same day application and the same day disbursement.
+Speaker2: Really? What materials do I need to prepare?
+Speaker1: You just need to provide your ID and bank account number, and we'll handle everything else on this end.
+Speaker2: How do I apply?
+Speaker1: You can click this link, fill out the application form, and then we will have a specialist contact you.
+Speaker2: Okay, I'll click on the link now.
+Speaker1: Okay, please click on the link, and we will quickly review your information. If you have any questions, please contact me anytime.
+Speaker2: Thank you, I will process it quickly.

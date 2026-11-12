@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I assist you?
+Speaker2: Hello, I want to know more about your return policy.
+Speaker1: Of course, we support seven-day no-reason return or exchange here, but the products must be kept in their original condition, not affecting secondary sales.
+Speaker2: If the product has issues, who will bear the shipping cost?
+Speaker1: If the issue is with product quality, we will cover the shipping costs. Otherwise, you will be responsible for the return shipping fees.
+Speaker2: Can I apply for a refund on my recently purchased headphones because the sound quality is not good?
+Speaker1: Of course, you can log in to your account, find the corresponding order, click on apply for refund/exchange, fill in the relevant information, and we will process it quickly.
+Speaker2: Okay, I'll operate right away. Thank you for your help.
+Speaker1: No problem, feel free to contact us if you have any questions. Have a happy life!
+Speaker2: Okay, thank you. Bye!

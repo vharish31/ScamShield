@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the property manager of the community, the water leakage issue you recently reported has been handled, would you mind coming to take a look?
+Speaker2: Okay, I'm at home right now, come over.
+Speaker1: Okay, we'll be there in about fifteen minutes, just wait for us at home.
+Speaker2: Okay, I'm waiting.
+Speaker1: After we arrive, we will directly go to your house to check it out and confirm that there are no issues, then we can leave. Is that okay with you?
+Speaker2: Okay, that's a bother for you guys.
+Speaker1: No problem, this is what we should do, what do you need our help with even though you said.
+Speaker2: Okay, thank you.
+Speaker1: Let's meet in a while.
+Speaker2: Okay, see you later.

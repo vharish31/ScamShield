@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the manager of Commercial Bank, have you recently had any capital needs?
+Speaker2: Hello, temporarily not available, why ask this?
+Speaker1: We recently launched a low-interest loan product with an interest rate of around 2%, which is very suitable for short-term cash flow.
+Speaker2: Really? Then what do I need to do?
+Speaker1: Yes, you can first download our official app, register and fill in the relevant information, and our customer service will contact you quickly.
+Speaker2: Is the app safe to download?
+Speaker1: Our app is very safe. You just need to register with your phone number and fill out some basic information.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any questions, feel free to contact me anytime. My phone number is 4001234000.
+Speaker2: Okay, thank you.

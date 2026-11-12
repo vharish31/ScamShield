@@ -1,0 +1,10 @@
+Speaker1: Hello, is this Zhang Zhong?
+Speaker2: Who are you?
+Speaker1: I am Li manager, this side is UnionPay credit card center, recently we have a special promotion activity, targeting high-quality customers, can enjoy zero initial fee, zero interest credit card service, do you have any interest in learning more?
+Speaker2: Oh, really? How do I apply?
+Speaker1: Great, just provide some basic information and we'll have a dedicated customer service representative contact you to guide you through the application process. For security purposes, you can first click on the link we provide you and fill out the necessary information.
+Speaker2: How do I know this link is safe?
+Speaker1: This link is our exclusive link to the UnionPay credit card center, absolutely safe. You can first check the link address to confirm it. If you're not convenient, we can also guide you through the operation via phone.
+Speaker2: Then I'll take a look at the links first.
+Speaker1: Okay, I'll send it to you right away. After you receive it, follow the instructions and you'll be fine. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

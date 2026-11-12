@@ -1,0 +1,14 @@
+Speaker1: Hi, I'm small Li, want to consult your fitness course.
+Speaker2: Hello, little Li, I am the customer service representative of the fitness center. What aspect of the course do you want to know?
+Speaker1: Can you tell me more about yoga courses? Do you have any open ones?
+Speaker2: We have a yoga class here, one class per week, on Monday, Wednesday, and Friday evenings from 7 to 8:30.
+Speaker1: Is this course suitable for beginners?
+Speaker2: Very suitable for beginners, our coach will guide students according to their different levels.
+Speaker1: Okay, what do I need to prepare if I sign up?
+Speaker2: You just need a comfortable sports pants and a yoga mat, nothing else is needed.
+Speaker1: Do you need to bring your own yoga mat or can you provide one?
+Speaker2: We provide yoga mats, but if you have your own yoga mats, you can bring them.
+Speaker1: Okay, thank you. When can I start taking classes?
+Speaker2: You can start from this week or choose a convenient time for you.
+Speaker1: Let's start from this week, thank you.
+Speaker2: Okay, little Li, welcome to us. If you have any questions, please contact me anytime. Wish you a happy yoga experience!

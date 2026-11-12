@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm here to deliver food to you, but it seems like the door lock is broken, I pressed several times but there's no response.
+Speaker2: Hey, did you arrive? Wait for me on the first floor, I'll be down soon.
+Speaker1: Okay, I'll wait for you.
+Speaker2: Please wait for a moment, I'll come down and open the door.
+Speaker1: Okay, I'm waiting for you on the first floor.
+Speaker2: Are you here? I unlocked the door, you should be able to come in now.
+Speaker1: Still no reaction, maybe the signal here is bad.
+Speaker2: I'll try again, you stand at the door and listen to the sound before coming in.
+Speaker1: Okay, I come in when I hear the sound.
+Speaker2: Okay, this time should be fine, hurry up.

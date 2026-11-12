@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have a service to change phone screen here?
+Speaker2: Yes, we have specialized technical personnel here who can replace your phone screen for you.
+Speaker1: How much money would it take to change it once?
+Speaker2: The price of different phone models may vary depending on your phone's model. Can you tell me your phone's model?
+Speaker1: Okay, my phone is Xiaomi V10.
+Speaker2: The cost of changing the screen on a V10 small sign is 250 yuan, including materials and labor fees.
+Speaker1: Do I need to make a reservation?
+Speaker2: Yes, to ensure smooth service, we suggest you first book an appointment. Can you tell me a convenient time?
+Speaker1: Can we meet at three in the afternoon tomorrow?
+Speaker2: Sure, I'll meet you at the store at 3 pm tomorrow. Is there anything else?
+Speaker1: No more, thank you. See you later.
+Speaker2: No problem, see you later. Wish you have a good day.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any air purifiers suitable for home use here?
+Speaker2: Yes, we have multiple brands of air purifiers here. What specific type do you need?
+Speaker1: I want a high value-for-money product that can remove formaldehyde, since there are children at home, safety is very important.
+Speaker2: I understand, I recommend this X brand air purifier. It has a high-efficiency filter, effectively removing formaldehyde, and its safety performance is high, making it suitable for families with children to use.
+Speaker1: How much does this air purifier cost?
+Speaker2: The price of this air purifier is 2500 yuan, and there is now a discount activity, you can enjoy a 95% discount.
+Speaker1: What do I need to buy?
+Speaker2: You can directly come to our store or place an order through our official website. We support multiple payment methods, including credit cards and PayPal.

@@ -1,0 +1,10 @@
+Speaker1: Can you hear me clearly?
+Speaker2: Can you hear anything?
+Speaker1: I just placed an order for takeout at your restaurant, but it hasn't been delivered yet.
+Speaker2: Okay, please wait a moment, I'll check your order status.
+Speaker1: Okay, thank you.
+Speaker2: What phone number did you use to order the food?
+Speaker1: It's 135791.
+Speaker2: Okay, I found it. Your order has been delivered to the courier, and we estimate it will take about 30 minutes to arrive.
+Speaker1: Thirty minutes? I'm so hungry here now.
+Speaker2: I'm very sorry, I will contact the delivery person to speed up the delivery. Please wait a moment, I'm truly sorry for the inconvenience I've caused you.

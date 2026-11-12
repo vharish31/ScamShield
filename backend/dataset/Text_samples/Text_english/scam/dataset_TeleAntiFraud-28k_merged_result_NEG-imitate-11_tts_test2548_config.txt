@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Little Wang, this is the customer service representative of the Speedy Express Company.
+Speaker2: Hello, what do you have?
+Speaker1: We found a problem with one of your packages during transportation. Please work with us to handle it.
+Speaker2: Oh, really? Then what do we do now?
+Speaker1: That's the way it is, in order to ensure your rights, we need you to download our official app, and handle this issue through the app.
+Speaker2: Okay, how do I download it?
+Speaker1: Open the mobile app store, search for "Speedy Express Official Version", download and install it, then register and log in. After that, follow the instructions to operate it.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your name, phone number, and ID number for identity verification.
+Speaker2: Okay, I understand, thank you for your help.

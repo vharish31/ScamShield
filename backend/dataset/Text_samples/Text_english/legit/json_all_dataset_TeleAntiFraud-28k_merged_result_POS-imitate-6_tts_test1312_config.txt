@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm little Li, can you make a repair appointment for your air conditioner?
+Speaker2: Hello, okay, can you tell me the specific address?
+Speaker1: Okay, the address is Happiness Road 188 Happiness Community Building 202 Unit 302.
+Speaker2: What's the problem on your side?
+Speaker1: The air conditioner is not working. I have checked the power source and switch, there are no issues.
+Speaker2: Okay, this situation may be a problem with the air conditioning system inside, we will quickly arrange for the landlord to come check.
+Speaker1: When will you arrive approximately?
+Speaker2: Can you arrange for the teacher to come over at around 9 am tomorrow morning? Is that convenient for you?
+Speaker1: Can I meet you at nine in the morning tomorrow?
+Speaker2: Okay, I have already made a reservation for you. The master will arrive on time. If there are any changes, we will contact you in advance.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, goodbye.

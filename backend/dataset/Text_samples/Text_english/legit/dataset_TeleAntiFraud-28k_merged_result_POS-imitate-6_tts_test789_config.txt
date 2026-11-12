@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask if your restaurant has any vegetarian options?
+Speaker2: Hello, do you want any recommendations for vegetarian dishes in our restaurant?
+Speaker1: Yes, I prefer to eat simple food, what do you recommend?
+Speaker2: Our restaurant's stir-fried vegetables and garlic chrysanthemums are quite popular, fresh and crisp, you can try it.
+Speaker1: How much do these two dishes cost?
+Speaker2: Stir-fried vegetables are thirty-five yuan, scallions and oyster mushrooms are forty yuan.
+Speaker1: Can I book a room here?
+Speaker2: Of course, we have different sizes of rooms here. How many people are you bringing? It will probably be how many?
+Speaker1: Six people are preparing to arrive at six thirty in the evening.
+Speaker2: Okay, I'll book a room for six people at 6:30 pm, is that okay?
+Speaker1: Okay, thank you.
+Speaker2: No problem, if you have any other needs, feel free to contact me anytime. I'm looking forward to your visit.

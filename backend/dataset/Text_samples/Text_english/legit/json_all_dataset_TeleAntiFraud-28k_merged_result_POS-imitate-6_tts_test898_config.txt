@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey there
+Speaker1: Can you come over today, you are my hairdresser from yesterday?
+Speaker2: Sure, I'll go out right away.
+Speaker1: Okay, we are ready on this side, you can come directly and start cutting.
+Speaker2: How long will it take?
+Speaker1: In general, cutting hair and washing head usually takes about an hour.
+Speaker2: Okay, I know, I will come quickly.
+Speaker1: Okay, just be careful on the road and come straight in once you arrive.
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye.

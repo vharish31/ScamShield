@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, can you recommend me one?
+Speaker2: Hello little Ming, of course you can. What do you usually do with your phone? For example, do you play games a lot, take photos a lot, or watch videos?
+Speaker1: I mainly play games, occasionally take photos.
+Speaker2: I recommend you buy a phone with good performance, like this gaming phone. Its processor is very strong and the heat dissipation is excellent, making it suitable for gaming.
+Speaker1: How much does this phone cost?
+Speaker2: This phone is currently priced at 3500 yuan, and if you order now, you can also enjoy a 100 yuan discount.
+Speaker1: Hmm, let me think about it. Oh, how's the camera on your phone?
+Speaker2: This phone's camera has 4.8 million pixels, the photo quality is excellent, especially at night, the image quality is clear, and the color reproduction is high.
+Speaker1: That's great, I often go out to take photos at night. And what colors does this phone come in?
+Speaker2: There are three colors: black, blue, and white. You can choose based on your preference.

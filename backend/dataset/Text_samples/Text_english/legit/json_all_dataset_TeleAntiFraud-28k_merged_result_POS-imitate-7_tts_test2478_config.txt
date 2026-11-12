@@ -1,0 +1,10 @@
+Speaker2: Hello, is this a small Zhang's hair salon?
+Speaker1: Yes, are you making an appointment for a haircut?
+Speaker2: Yes, can I reserve a seat for tomorrow at 2 pm?
+Speaker1: Sure, tomorrow afternoon at two o'clock, we have a spot here. Is this your first time?
+Speaker2: Yes, first time. How long do I need to arrive before?
+Speaker1: Please arrive ten minutes early, so we have time to prepare for you.
+Speaker2: Okay, I understand. Do I need to inform you in advance about the hairstyle?
+Speaker1: If you have specific ideas, please let us know in advance. We can also design based on your face shape and needs on-site.
+Speaker2: I'll give you more details tomorrow at the store. Thank you!
+Speaker1: Okay, see you tomorrow!

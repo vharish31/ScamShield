@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I just looked at your store's website and wanted to ask if I could make a reservation for tomorrow at your store.
+Speaker2: Okay, what time slot do you want to book?
+Speaker1: It's best to be at 2 pm, not knowing if there will be a table at that time.
+Speaker2: There are a few tables available at two o'clock, you can choose the window seat, the lighting is great.
+Speaker1: That's great, let's sit by the window. Yeah, we'll probably have four people.
+Speaker2: Okay, I have reserved a four-person table for you. Just come directly when the time comes.
+Speaker1: Thank you very much. By the way, we are first-time visitors, can you recommend a few signature dishes?
+Speaker2: Of course, our store's signboard menu has spicy hot pot, steamed fish and stir-fried frog, all of which are very popular, you can try them.
+Speaker1: I'm so eager to try what you're saying. Can we just come directly when the time comes?
+Speaker2: No problem, just come directly and give your name. I hope you have a nice dining experience!

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you, where are you now?
+Speaker2: Hey, are you at the subway station exit yet?
+Speaker1: Just a moment, I just arrived at the bookstore, you go out to the right, see the first red and green light, wait for me.
+Speaker2: Okay, I see the red light, hurry up and come over.
+Speaker1: Okay, I'm going now, do you see a flower stand nearby?
+Speaker2: I see you, I'm waiting for you here.
+Speaker1: Okay, I'm almost there, you stand on that side carefully with the car.
+Speaker2: Don't worry, I'll pay attention to safety, you drive carefully.
+Speaker1: Thank you, see you later.
+Speaker2: See you later.

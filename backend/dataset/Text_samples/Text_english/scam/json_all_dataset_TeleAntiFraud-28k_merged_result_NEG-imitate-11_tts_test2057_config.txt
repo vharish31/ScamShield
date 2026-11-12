@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, this is the customer service center of little Zhang, you recently bought some products on our platform and there are some issues, we need to handle it for you.
+Speaker2: Oh, really? What's the problem?
+Speaker1: That's it, there's an exception with your order, it might be a logistics issue, we need you to cooperate, click on the link to confirm the info.
+Speaker2: Okay, how do I operate it?
+Speaker1: Just click this link, enter your order number and phone number, and follow the instructions to solve it.
+Speaker2: What will happen after I click?
+Speaker1: After clicking, you will be redirected to our customer service page. After confirming the information, we will process it quickly.
+Speaker2: Okay, let me try.
+Speaker1: Okay, you can operate first, and contact me if there are any issues.
+Speaker2: Okay, thank you.

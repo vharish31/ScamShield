@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm Xiaoming, just ordered a table at your store
+Speaker2: Hello, Xiao Ming, I am a restaurant waiter, did you order the 7 pm table for tonight?
+Speaker1: Yes, it's seven o'clock, but I have some things to do, maybe I'll be a little late, half an hour.
+Speaker2: No problem, we can wait here for you, just say your name when you arrive.
+Speaker1: Okay, thank you so much, my friend said this restaurant's pork ribs are especially good.
+Speaker2: Yes, our family's beef skewers are signature dishes, I recommend you try them, there are many flavors to choose from.
+Speaker1: Let's order a beef burger and a seafood salad at the time.
+Speaker2: Okay, I've taken note, I'll be ready for you at the appointed time, looking forward to your arrival.
+Speaker1: Okay, see you later.

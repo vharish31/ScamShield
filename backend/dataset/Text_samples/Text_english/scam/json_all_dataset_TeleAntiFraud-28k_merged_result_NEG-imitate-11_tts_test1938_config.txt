@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is blue sky express customer service center, I is customer service specialist little Li.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we found your package that was accidentally lost during transportation, and we can now process a compensation for you.
+Speaker2: Uh, what do I need to do?
+Speaker1: To facilitate quick processing, please provide your bank card information. We will directly deposit the compensation amount into your account.
+Speaker2: Okay, do I need to provide my bank card number and verification code?
+Speaker1: Yes, both the bank card number and the verification code are necessary. In addition, in order to verify your identity, we also need you to click on this link and complete a simple identity verification.
+Speaker2: Okay, I'll go do it.
+Speaker1: Thank you very much for your cooperation. If you encounter any issues during the operation, please feel free to contact me at any time.
+Speaker2: Okay, thank you.

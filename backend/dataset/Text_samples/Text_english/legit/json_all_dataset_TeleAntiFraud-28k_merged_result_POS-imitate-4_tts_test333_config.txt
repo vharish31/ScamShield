@@ -1,0 +1,10 @@
+Speaker1: Hey, are you the person who ordered a phone from our store yesterday?
+Speaker2: Hey, I got it. The phone is pretty good, just the screen is a bit scratched.
+Speaker1: Oh no, this must have been caused by carelessness during transportation.
+Speaker2: What should I do?
+Speaker1: Don't worry, we can handle it here. Would you consider getting a new one?
+Speaker2: It's best to get a new one, but I'm not at home lately and it's not convenient to receive fast delivery.
+Speaker1: Can you give me a convenient time, we reschedule delivery.
+Speaker2: Okay, I'll probably be back home on Thursday, so I can pick up.
+Speaker1: Okay, let's set it for Tuesday. I'll confirm with you the day before.
+Speaker2: Okay, thank you.

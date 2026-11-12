@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you the person who called yesterday to inquire about renting a room?
+Speaker1: Yes, I called to consult yesterday.
+Speaker2: Okay, I have recorded your information. What aspect do you want to know about?
+Speaker1: Can you tell me more about your housing situation, specifically regarding families with children?
+Speaker2: Understood, we have several properties near the school and the park, which are particularly suitable for family living.
+Speaker1: That's great, can I go take a look?
+Speaker2: Of course, when would you like to come see the house?
+Speaker1: Can I have some space in the morning around 10 o'clock tomorrow?
+Speaker2: 10 o'clock is fine, you can contact me directly at that time, I will be waiting for you there.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

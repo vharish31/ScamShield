@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to order some takeout, can you deliver it here?
+Speaker2: Hello, of course, where are you in the community?
+Speaker1: I am in Happiness Village, building 3, unit 2, room 1502.
+Speaker2: Okay, happy community three building two apartment 1502 room, we have various food here, what do you want to eat?
+Speaker1: What do you recommend for beef noodles?
+Speaker2: The most popular here is the signboard beef noodles, with a large portion, good taste, and a free side of sour vegetables.
+Speaker1: I'll have a beef noodle soup and a can of Coke.
+Speaker2: Okay, one poster for beef noodle soup and one can of Coke, that's 35 yuan in total.
+Speaker1: Okay, I'll pay with Alipay. How long will it take to deliver?
+Speaker2: We'll deliver it in 30 minutes, you can start eating when you're ready.
+Speaker1: Okay, thank you, see you later.
+Speaker2: You're welcome, hope you enjoy your meal, bye.

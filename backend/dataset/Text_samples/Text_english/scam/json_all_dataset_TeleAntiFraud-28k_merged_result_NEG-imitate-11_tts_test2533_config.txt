@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am somebao customer service. Your recent purchase has a quality issue, and we need to process a refund for you.
+Speaker2: Really? I bought something a few days ago and haven't received it yet.
+Speaker1: Yes, there was an issue with your order. We have already applied for a refund, but we need you to provide your bank card information so that the refund can be processed.
+Speaker2: Okay, how can I provide information?
+Speaker1: You can click this link and fill out the relevant information, our system will automatically process it.
+Speaker2: Link? I'm afraid it's not safe.
+Speaker1: Don't worry, this is our official link, absolutely safe. If you're not sure, you can also download our official app and operate it through the app for convenience.
+Speaker2: Okay, I'll download the app and give it a try.
+Speaker1: Okay, download the app and you can find the refund option in it. Follow the instructions to proceed. If you have any issues, feel free to contact me.
+Speaker2: Okay, thank you.

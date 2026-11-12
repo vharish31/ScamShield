@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, who are you looking for?
+Speaker1: I'm little Zhang, I want to ask little Li something
+Speaker2: Hey, little Li, he went out, not at home, what do you have to do?
+Speaker1: So, we agreed to study together at the library today. He didn't say a word and just left, do you know when he'll come back?
+Speaker2: He should come back at around three in the afternoon. If you're urgent, you can go to his house and wait for him. The address is Happiness Road 123.
+Speaker1: Okay, thank you for your help. I'll check the time, if it's not in time, I'll just go straight and wait for him.
+Speaker2: No problem, you come over and call him, if he's at home, I'll make him wait for you.
+Speaker1: Okay, thank you first, I'll come later if I have time, bye.
+Speaker2: Okay, be careful on the road. Bye.

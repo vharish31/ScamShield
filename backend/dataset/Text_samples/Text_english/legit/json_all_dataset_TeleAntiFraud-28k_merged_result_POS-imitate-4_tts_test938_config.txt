@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I booked a haircut for tomorrow on the internet yesterday, can you confirm the time?
+Speaker2: Hello, Xiao Zhang, I am the customer service representative of the hair salon, can you tell me if your appointment is in the morning or the afternoon?
+Speaker1: I have an appointment at three in the afternoon.
+Speaker2: Okay, 3 pm this afternoon, we remember your appointment. Do you need a reminder?
+Speaker1: If you can remind me one hour in advance, that would be great.
+Speaker2: Okay, we will send you a text message reminder half an hour in advance. Is there anything else we can help with?
+Speaker1: No more, thank you.
+Speaker2: No problem, see you tomorrow. Wish you a happy day.
+Speaker1: You too, goodbye.
+Speaker2: Goodbye.

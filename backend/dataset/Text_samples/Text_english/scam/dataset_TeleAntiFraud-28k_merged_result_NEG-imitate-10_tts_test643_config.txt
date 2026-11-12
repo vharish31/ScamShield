@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao, this is the customer service representative of the Global Travel Company.
+Speaker2: Hey, how are you? What's up?
+Speaker1: Have you noticed that you've recently browsed some travel packages on our website?
+Speaker2: Yeah, I'm looking for a suitable menu, but I haven't decided yet.
+Speaker1: I understand that with so many travel options, it's easy to feel overwhelmed. To help you make a better choice, we have a special offer. Just click on this link to see the latest travel packages and discount information.
+Speaker2: Link? Just tell me directly, I'll record it.
+Speaker1: Okay, this link is: www.traveldealxyz.com. Click it and you can also enjoy a special discount code. Enter TRAVEL2023 to get an additional 10% discount.
+Speaker2: The sound is good, I'll take a look later.
+Speaker1: Great, if you have any questions or need help, feel free to contact me anytime. My WeChat ID is: travelhelper123.
+Speaker2: Okay, thank you, I will contact you.

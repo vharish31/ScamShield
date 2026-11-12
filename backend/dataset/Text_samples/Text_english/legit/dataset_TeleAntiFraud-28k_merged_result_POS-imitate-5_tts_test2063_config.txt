@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your delivery service.
+Speaker2: Hello, I am a customer service representative. What can I help you with?
+Speaker1: What's the latest time you can deliver food?
+Speaker2: We can deliver to you as late as 10 pm tonight.
+Speaker1: If I order at 10:15?
+Speaker2: If you place an order at 10:15, there's no guarantee of delivery time, so it's recommended to place your order before 10 am.
+Speaker1: Okay, can I order a beef stir-fry and a spicy chicken dish today?
+Speaker2: Of course, both of these dishes are our specialty dishes. You can wait, I'll help you place your order.
+Speaker1: Okay, thank you.
+Speaker2: No problem, your order has been successfully submitted. It will be delivered in about half an hour. Do you need me to make any notes?
+Speaker1: No longer needed, thank you.
+Speaker2: Okay, wish you enjoy your meal. Bye!

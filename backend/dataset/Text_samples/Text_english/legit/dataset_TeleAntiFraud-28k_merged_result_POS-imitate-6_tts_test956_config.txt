@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, the customer service at the food square, I see you have a lot of points in your account that haven't been used yet, they're going to expire tonight, do you know?
+Speaker2: Oh, really? I didn't notice, how did these points come?
+Speaker1: These points are accumulated every time you spend money in our food square, which can be exchanged for various discount coupons and small gifts, and you currently have over 35,000 points in your account.
+Speaker2: Wow, so many, what can I exchange with these points now?
+Speaker1: You can exchange some food coupons, such as hamburger set meal, drink coupons, and some small gifts, such as portable water bottle, eco-friendly shopping bag, etc.
+Speaker2: That sounds good, can I go over there to exchange it tonight?
+Speaker1: Of course, our business hours are from 10 am to 10 pm. You can come anytime. If you're convenient, you can let me know in advance, I can help you prepare.
+Speaker2: Okay, I'll probably be there around seven in the evening. Can you hold on for me?
+Speaker1: Okay, no problem, I noted it down for you. See you later!
+Speaker2: Thank you, see you later!

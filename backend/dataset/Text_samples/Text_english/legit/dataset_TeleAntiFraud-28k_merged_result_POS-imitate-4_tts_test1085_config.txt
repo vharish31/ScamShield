@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I saw a new smartwatch on your website, want to know more about it?
+Speaker2: Hello, I'm very happy to serve you. This smartwatch is our latest flagship product, with a wide range of functions, including heart rate monitoring, blood pressure monitoring, and multiple exercise modes.
+Speaker1: How long does the battery last on it?
+Speaker2: This watch's battery life is very strong, it can reach about one week in normal use, and if you turn on the power-saving mode, the battery life will be longer.
+Speaker1: What is its price?
+Speaker2: This smartwatch costs 2999 yuan, and now we're doing an activity. Users who placed their orders in the top 100 can still enjoy an 80% discount.
+Speaker1: Hmm, I'm still quite interested. What's your delivery time approximately?
+Speaker2: We usually ship within 24 hours after your order and deliver within 2-3 days depending on your city.
+Speaker1: Okay, I'll just place an order to try it out. Thank you for your detailed introduction.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a nice shopping!

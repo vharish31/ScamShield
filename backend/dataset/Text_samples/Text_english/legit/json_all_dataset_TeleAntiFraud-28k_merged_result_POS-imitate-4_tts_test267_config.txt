@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm a server at a fast food restaurant. Do you want to come to our store tonight and try our new beef burger set meal?
+Speaker2: Hello, how much is your beef and broccoli dish?
+Speaker1: Our new beef burger set meal is 80 yuan per person, and there's a 50% discount coupon available to use.
+Speaker2: What time do you close?
+Speaker1: We are open from 10 am to 10 pm. What time is convenient for you to come?
+Speaker2: Can I reserve a seat in advance around 7:30 PM?
+Speaker1: Of course, did you reserve several positions for people?
+Speaker2: I'll reserve two spots.
+Speaker1: Okay, I have already reserved for you, 7:30 meet.
+Speaker2: Okay, thank you, see you later.

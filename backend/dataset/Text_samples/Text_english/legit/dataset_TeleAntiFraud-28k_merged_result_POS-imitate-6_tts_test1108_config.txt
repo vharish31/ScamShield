@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer service of the e-commerce platform. You recently bought a smartwatch and it has a problem, right?
+Speaker2: Yes, that's the belt, it turned color after wearing it for a day.
+Speaker1: Can you take a picture and send it to confirm the situation?
+Speaker2: I already took it, I sent it to you last night.
+Speaker1: Okay, I can see it now, it's really as you said, the table has a color-bleaching phenomenon.
+Speaker2: What do I do, this is a newly bought beginner's watch.
+Speaker1: We can provide you with a free exchange service on this side, you can easily send your watch back to us when it's convenient for you.
+Speaker2: Can I send it back? But who will pay the shipping fee?
+Speaker1: Don't worry about the shipping fees. We will bear them. Additionally, we will send you a new belt to ensure your usage is not affected.
+Speaker2: Okay, let's do it your way.
+Speaker1: Okay, I will handle this matter for you, thank you for your understanding and support. If you have any other questions, please contact us anytime.

@@ -1,0 +1,12 @@
+Speaker1: Hello, are you a courier company?
+Speaker2: Hello, this is the express company customer service center. What can I help you with?
+Speaker1: I haven't received my package yet, I want to check.
+Speaker2: Okay, please provide your delivery number, I will help you query.
+Speaker1: The delivery number is 778891.
+Speaker2: Please wait a moment, I'll check... Okay, your package was delivered to your address yesterday afternoon.
+Speaker1: Is it possible that I received the wrong address?
+Speaker2: This situation is possible, please describe your delivery address, we'll verify again.
+Speaker1: My address is Tian Du Shi Xing Fu Lu San Sán Núo, Xīng Fú Xiǎo Quān.
+Speaker2: Okay, I'll record it down and contact the delivery station again to confirm. If it's indeed a mistake, we'll handle it quickly.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy life.

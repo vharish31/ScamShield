@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm small Li from ABC bank customer service, do you have any recent need for cash transfer?
+Speaker2: Yeah, I'm a bit short on cash lately.
+Speaker1: That's great, we have a loan product without collateral with a loan amount of up to 50,000 yuan and a very low interest rate. Would you like to know more about it?
+Speaker2: Do I really need a deposit?
+Speaker1: Yes, no deposit is required, no collateral is needed, as long as you have a business license, you can apply.
+Speaker2: How do I apply?
+Speaker1: It's very simple. Just click this link (sound of clicking in call), then fill out some basic info, and our staff will quickly get in touch with you.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any questions, feel free to contact me anytime. My phone number is 12345678901. Have a nice life, bye.
+Speaker2: Thank you, goodbye.

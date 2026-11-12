@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I schedule an appointment for tomorrow's haircut time? What time do you have available?
+Speaker2: Okay, can you please ask if the person is male or female hairdresser?
+Speaker1: Man's haircut.
+Speaker2: Okay, for the gentleman's haircut tomorrow, we have options of 9am, 11am and 2pm or 4pm.
+Speaker1: Let's schedule for 2 pm.
+Speaker2: Okay, I have already made a haircut appointment for you tomorrow at 2 pm. Do you need a contact method?
+Speaker1: Please, my phone number is 13813801380.
+Speaker2: Okay, I have recorded it down. Please arrive ten minutes early tomorrow, and if there are any changes, please contact us in advance.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, feel free to ask any questions anytime. Have a happy life, bye!

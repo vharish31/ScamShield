@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am the manager of the Li at the Bank of Commerce, and now there is a special service for high-quality customers. Are you interested in learning more?
+Speaker2: What service?
+Speaker1: Do you have any capital needs recently? We have a high-limit, quick-disbursing loan product with special discounts available now, which can provide you with an eight-hundred-thousand-yuan line of credit.
+Speaker2: This sounds good, but I don't have any special financial needs lately.
+Speaker1: No problem, you can first take a look. We also have professional investment advisors who can provide financial advice to help you better manage your funds.
+Speaker2: Invest in consultants? How to contact them?
+Speaker1: You can first download our official app, register and a professional advisor will contact you. You can also directly click on the link I sent you to register.
+Speaker2: Okay, I'll try it out. Thank you.
+Speaker1: You're welcome, feel free to contact me anytime if you have any questions. Have a great time!

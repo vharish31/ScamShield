@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, this is Shenzhen Bank, I am your personal relationship manager, Li Manager.
+Speaker2: Hello, Li Manager, what do you have?
+Speaker1: Is that so? We recently launched a new credit loan product with a very competitive interest rate. Would you like to know more about it?
+Speaker2: Uh, I recently need some cash flow, can you give me a detailed explanation?
+Speaker1: Of course. This loan product has no collateral, approval is quick, and you can get the loan on the same day you apply. Just download our bank's official app, fill out the relevant information, and you can complete the application.
+Speaker2: What materials do I need to prepare?
+Speaker1: You just need to provide your ID and bank account number, and we'll take care of the rest. For your convenience, you can download our app through this link.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Hello, please fill out the information directly in the app after downloading, and feel free to contact me if you have any questions.
+Speaker2: Thank you, Li Jingli, I will handle it quickly.

@@ -1,0 +1,10 @@
+Speaker1: Hey, Zhang Zong?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Li, the customer manager at the Agricultural and Commercial Bank of China. We recently launched a special discount loan product. Would you like to know more about it?
+Speaker2: I recently need to circulate some funds, what are the advantages of your loan products?
+Speaker1: Our loan products do not require collateral, our approval speed is fast, our interest rates are extremely discounted, you can first download our app, fill out some basic information, we will have a specialist serve you.
+Speaker2: Do you want to download the app? This sounds suspicious, are you a legitimate bank?
+Speaker1: Of course, we are a legal financial institution in China, and we have developed this app specifically for your convenience. After downloading, you can immediately apply, and once approved, the funds will be immediately credited to your account.
+Speaker2: How do I download your app?
+Speaker1: You can download it by scanning this QR code or by clicking the link I sent you, very convenient.
+Speaker2: Okay, let me try.

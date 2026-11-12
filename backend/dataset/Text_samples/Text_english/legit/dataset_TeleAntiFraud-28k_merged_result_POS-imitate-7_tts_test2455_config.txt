@@ -1,0 +1,12 @@
+Speaker1: Hey, are you the convenience store in the old town?
+Speaker2: Hello, yes, what do you want from us?
+Speaker1: Do you have any small packaged tea leaves in your place?
+Speaker2: Yes, we have many kinds of small packaged tea here, what flavor do you want?
+Speaker1: I want to buy some green tea, but I saw online that you guys have activities here, is it true?
+Speaker2: Yes, we are currently promoting, buying any small packaging tea has a 90% discount.
+Speaker1: That's great, I plan to buy ten packs. Do you support online payment?
+Speaker2: Of course, you can pay through WeChat or Alipay, very convenient.
+Speaker1: Okay, I'll wait and then place the order. By the way, do you deliver the goods to the door?
+Speaker2: Yes, as long as it's within the old city district, we provide free delivery service.
+Speaker1: That's great, thank you for your help.
+Speaker2: No problem, please feel free to contact us anytime if you have any questions.

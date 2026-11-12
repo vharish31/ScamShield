@@ -1,0 +1,10 @@
+Speaker1: Hey, are you open?
+Speaker2: Hello, yes, are we still open in the store?
+Speaker1: Do you have a vegetarian set meal at home?
+Speaker2: Yes, we have several different vegetable dishes here, do you want to see the menu?
+Speaker1: Sure, can I take a look?
+Speaker2: Of course, I'll send you an electronic menu on my phone. Just a moment.
+Speaker1: Okay, thank you. Got it, do you support online payment?
+Speaker2: We support both WeChat Pay and Alipay, very convenient.
+Speaker1: That's great, I'll come over in a minute.
+Speaker2: Okay, let's meet at the time, welcome to come!

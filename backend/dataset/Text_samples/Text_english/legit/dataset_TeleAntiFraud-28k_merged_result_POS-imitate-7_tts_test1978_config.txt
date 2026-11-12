@@ -1,0 +1,10 @@
+Speaker1: Hey, how's the weather tomorrow?
+Speaker2: Hello, the weather forecast for tomorrow says there will be a little rain, with a temperature of around 22 degrees.
+Speaker1: Do I need an umbrella when I go out tomorrow?
+Speaker2: It's best to bring an umbrella, in case of rain.
+Speaker1: Okay, thank you. Right, do you know if there's a good coffee shop nearby?
+Speaker2: Sure, you can go to the 'Tsui Xiang Shi Guang' coffee shop, the environment is good and the coffee is great to drink.
+Speaker1: Listen well, where is it?
+Speaker2: Right across from your park, it's easy to find.
+Speaker1: Okay, thank you, I'll try it tomorrow.
+Speaker2: No problem, I hope you like it. If you have any other questions, feel free to ask me anytime.

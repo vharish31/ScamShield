@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me your restaurant's business hours?
+Speaker2: Our restaurant starts business at 10 am in the morning and closes at 10 pm at night.
+Speaker1: Do you have any special dish recommendations?
+Speaker2: Our family's signboard menu has red stir-fry pork, steamed fish, and spicy pot-stew, all very popular.
+Speaker1: Can I reserve a four-person seat for tomorrow night at seven o'clock?
+Speaker2: Okay, the four of you have a reserved spot for you at seven o'clock tonight.
+Speaker1: Okay, thank you. And, what menu items don't contain seafood?
+Speaker2: You can choose our red beef, sweet and sour pork ribs, and stir-fried seasonal beansprouts, all of which are seafood-free.
+Speaker1: Okay, let's do it this way, thank you for your help.
+Speaker2: No problem, see you tomorrow.

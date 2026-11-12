@@ -1,0 +1,13 @@
+Speaker1: Hello, this is the customer service of the speed-purchase mall, your order has some problems, please assist in handling them.
+Speaker2: What problem?
+Speaker1: Your order has been mistakenly flagged as an abnormal order by the system. To avoid affecting your credit record, please handle it promptly.
+Speaker2: What should I do?
+Speaker1: You can click on the link we send to you, enter the processing page, and follow the instructions to operate.
+Speaker2: How do I know this link is safe?
+Speaker1: We are a legitimate speed-purchase website, and the link is from the official system, you can rest assured to click.
+Speaker2: Okay, I clicked on the link. What should I do next?
+Speaker1: Please enter your order number and bank card information according to the page instructions. We will help you process.
+Speaker2: Do you need to input bank card information?
+Speaker1: Yes, in order to verify your identity and process the refund, you need to input your bank card information, this is the standard procedure.
+Speaker2: Okay, I inputted it.
+Speaker1: Okay, we have received the information you inputted, and we will process it quickly. If there are any issues, customer service will contact you.

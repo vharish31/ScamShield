@@ -1,0 +1,9 @@
+Speaker1: Hey, have you arrived at the subway station yet?
+Speaker2: Not yet, I just left the company gate, it will take a few minutes to arrive.
+Speaker1: Okay, remember to turn left when you get there, walk straight to the bottom, then turn right, and you'll see the metro station entrance.
+Speaker2: Got it, thanks for reminding me, my phone map is open too, won't get lost.
+Speaker1: Okay, the subway station is crowded, be careful.
+Speaker2: Okay, I can do it. How about you?
+Speaker1: I'm at the community gate now, wait for you to arrive at the subway station, I'll call you later.
+Speaker2: Okay, let's meet again later, be careful on the road.
+Speaker1: Okay, see you later.

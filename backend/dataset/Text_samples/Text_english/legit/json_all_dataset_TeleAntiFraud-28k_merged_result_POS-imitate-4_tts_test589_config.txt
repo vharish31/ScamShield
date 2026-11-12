@@ -1,0 +1,10 @@
+Speaker1: Hey, what time is it now?
+Speaker2: Your memory is not good. It should be around 3:30 PM now.
+Speaker1: Where are you?
+Speaker2: I'm still at work today, overtime, are you?
+Speaker1: I am at home, getting ready to cook.
+Speaker2: Let's make some good food, I'll come back home with you to eat later.
+Speaker1: Okay, hurry back, what do you want to cook?
+Speaker2: Sure, whatever you like, I'll come back to help you.
+Speaker1: That's great, I already thought about doing red braised pork and steamed fish.
+Speaker2: Let's enjoy the food together after I go back.

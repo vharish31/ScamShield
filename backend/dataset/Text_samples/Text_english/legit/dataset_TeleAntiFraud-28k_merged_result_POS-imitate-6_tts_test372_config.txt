@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative for a ride-hailing platform. You recently booked a car through our platform, but it seems like you encountered some issues. Would you like to know more about your experience and if there are any areas that can be improved?
+Speaker2: Oh, that's it, I waited for a long time for the car to come, and the driver seemed to be unclear about the route.
+Speaker1: I'm very sorry to bring you an unpleasant experience, our driver needs to improve his route familiarity. Did you choose navigation at that time?
+Speaker2: I let the driver use the platform's navigation at that time, but the road was still not right.
+Speaker1: That's right, our platform's navigation sometimes has a deviation, we will feedback to the technical department for optimization. As for your experience, I can provide you with a free ride as compensation, how about it?
+Speaker2: That's not bad, you can try using a car next time.
+Speaker1: Okay, your account has received the discount code for this free ride. The validity period is one month. Please pay attention to the SMS. If you have any other issues, feel free to contact us.
+Speaker2: Okay, thank you for your help. Next time I'll pay attention when using the car.
+Speaker1: No problem, hope to provide better service next time. Wish you a happy day!
+Speaker2: You're welcome, you too. Goodbye!

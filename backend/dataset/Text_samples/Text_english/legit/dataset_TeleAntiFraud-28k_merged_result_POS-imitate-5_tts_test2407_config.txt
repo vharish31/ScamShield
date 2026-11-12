@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming. Recently, our community's property management is offering water and electricity repair services. Do you need your appliances or pipes checked or repaired?
+Speaker2: Hello, how are you? I haven't found any issues yet, if there are any I will contact you.
+Speaker1: Okay, we have a discount promotion here. If you book now, you can enjoy a 50% discount. What do you think?
+Speaker2: That sounds good, but I have to go out of town lately, maybe I won't be back for a month.
+Speaker1: No problem, you can book in advance, and we can arrange our staff to come to your door at any time when you return.
+Speaker2: Okay, I'll make a reservation for a while, about half a month later I'll come back and contact you again.
+Speaker1: Okay, I'll record your information here and give you a call to confirm the time in advance. Do you need any other help?
+Speaker2: Thank you for your service.
+Speaker1: No problem, feel free to contact us anytime if you have any questions, wish you a successful business trip!
+Speaker2: Thank you, goodbye.

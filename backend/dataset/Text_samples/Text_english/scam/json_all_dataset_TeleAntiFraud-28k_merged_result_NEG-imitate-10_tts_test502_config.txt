@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Hello, this is the Happy Town Express Center, I am customer service representative Liu.
+Speaker2: Hey, how are you?
+Speaker1: We found out that there might be an issue with your recent delivery, and we need to handle it for you
+Speaker2: What's the status of my delivery?
+Speaker1: Your package was lost during transportation, to compensate you, we will process a refund, please provide your bank card number and verification code.
+Speaker2: Okay, how can I provide?
+Speaker1: Please click on this link to fill out the relevant information, and we will process your refund as soon as possible.
+Speaker2: Okay, I'll go operate.

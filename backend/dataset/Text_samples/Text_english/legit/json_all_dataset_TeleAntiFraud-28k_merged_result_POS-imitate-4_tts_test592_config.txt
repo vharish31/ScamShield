@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Zhang San.
+Speaker2: Hello, Zhang San, I am customer service Li Xiao. What can I help you with?
+Speaker1: Can you tell me more about your latest blue smartphone?
+Speaker2: Of course, that blue smartphone is our new flagship, equipped with the latest processor, has a long battery life, and a high-resolution camera.
+Speaker1: How much does it cost to listen?
+Speaker2: This phone is priced at 3999 yuan, and now comes with a one-year screen protection service when purchased.
+Speaker1: Hey, do you guys have any goods?
+Speaker2: Yes, our current inventory is sufficient, you can place an order immediately.
+Speaker1: Okay, I want to buy a computer. How can I pay?
+Speaker2: You can pay directly through our online payment system or choose delivery payment, very convenient.

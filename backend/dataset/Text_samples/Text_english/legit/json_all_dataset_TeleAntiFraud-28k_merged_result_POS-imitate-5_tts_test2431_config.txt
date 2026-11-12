@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, how are you? I want to ask if your store still has those red sports shoes.
+Speaker2: Yes, we still have red running shoes in stock here.
+Speaker1: What is the price?
+Speaker2: The price of red running shoes is 350 yuan.
+Speaker1: Can you lower the price a little?
+Speaker2: It's the promotional period now, can I give you a 90% discount? How about it?
+Speaker1: Nin zhòng de huà, jiù shì sān bǎi yī shù yìng, kě yǐ jiè shì.
+Speaker2: Okay, I'll prepare it for you now. Do you need to come over and pick it up, or do you want me to deliver it to your home?
+Speaker1: I have a little thing today, could you help me deliver it home quickly please?
+Speaker2: Okay, where is your delivery address?
+Speaker1: Address is some street some number some community.
+Speaker2: Okay, I noted it down. The shoes will be shipped tomorrow, usually it takes 2-3 days to arrive.
+Speaker1: Okay, thank you.
+Speaker2: No problem, feel free to contact us anytime with other issues.

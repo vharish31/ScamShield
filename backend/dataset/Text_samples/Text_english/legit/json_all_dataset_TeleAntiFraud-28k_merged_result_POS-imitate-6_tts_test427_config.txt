@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hi, I'm the customer service of the car rental platform. Do you have any needs for our car?
+Speaker2: Hey, I've recently been thinking about buying a car, do you guys have any car models you recommend?
+Speaker1: We have economic, comfortable, and luxury car types here, which can recommend the appropriate car type based on your needs. Are you personal or commercial?
+Speaker2: It's mainly for personal use, occasionally send customers, hope comfortable.
+Speaker1: Okay, I recommend you choose our comfortable car type, spacious and good driving experience. The rental fee is 200 yuan per day, including insurance and basic maintenance service.
+Speaker2: What paperwork do I need for the rental car?
+Speaker1: Please provide a valid driving license and identity card to fill out the rental agreement. If it's the first time renting, we also need to collect a certain deposit, which will be returned after the car is returned and there are no damages.
+Speaker2: Do I need to make an appointment in advance?
+Speaker1: It's recommended to book in advance to ensure the availability of your chosen car model. You can do so through our website or customer service hotline.
+Speaker2: Okay, I'll think it over and get back to you.
+Speaker1: Okay, feel free to contact us anytime if you have any questions. Have a nice day, bye.

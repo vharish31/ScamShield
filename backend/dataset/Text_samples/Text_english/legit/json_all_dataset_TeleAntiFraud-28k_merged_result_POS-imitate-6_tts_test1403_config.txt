@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you tell me about the discount activities this week? I saw a poster saying there's a full reduction activity.
+Speaker2: Yes, we do have a promotion this week, buy two get fifty, buy five get a hundred, which products do you want to know more about?
+Speaker1: What do you recommend for the collared shirt series?
+Speaker2: We just released our new spring collection of shirts, with solid colors and stripes, all made of pure cotton, perfect for springtime wear. You should check out our new arrivals; I think they'll be great for you.
+Speaker1: What are the prices of these shirts approximately?
+Speaker2: The prices of these shirts are between 150 and 250 yuan, joining the activity is very cost-effective.
+Speaker1: Okay, I'll come to the store later to take a look.
+Speaker2: Okay, we're waiting for you at the store. You can contact me anytime if you have any questions.
+Speaker1: Thank you, goodbye.
+Speaker2: No problem, goodbye.

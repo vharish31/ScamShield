@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, recently I checked your rental info, want to know more details.
+Speaker2: Hello, little Li, I am the landlord, can you please specify which aspects you want to know about?
+Speaker1: Hey, can you tell me how much the rent is and what's the specific location of the house and how's the surrounding environment?
+Speaker2: The rent is 4500 yuan per month, located in the east of the city's Flower Garden Small Community, the environment is good, there are supermarkets, parks and convenient transportation nearby.
+Speaker1: Can I take a look at the house now?
+Speaker2: Of course, when do you have time? I can arrange a time to take you to see the houses.
+Speaker1: Is this weekend okay?
+Speaker2: Is Saturday morning at 10 okay?
+Speaker1: I can meet you at the door of the east method flower garden at 10 o'clock.
+Speaker2: Okay, see you on Saturday, remember to bring your mask.

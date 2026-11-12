@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to inquire about the room rental situation at your house.
+Speaker2: Hello, we have rooms for rent here. What specific information do you want to know?
+Speaker1: I want to know how much the rent for the room is, and if there is a kitchen available for use.
+Speaker2: The rent is 2500 yuan per month, the room comes with a separate bathroom, but the kitchen is shared with two other tenants.
+Speaker1: How is the use time of the kitchen arranged?
+Speaker2: There are no specific time limits for using the kitchen, but we recommend completing cooking before 10 pm to avoid disturbing other tenants' rest.
+Speaker1: I saw your room pictures and they look pretty good, can I take a look at your room?
+Speaker2: Of course, when do you have time to come over?
+Speaker1: Can I have some space in the afternoon around three o'clock tomorrow?
+Speaker2: Okay, tomorrow afternoon at three o'clock I will be waiting in the room for you. Remember to bring your ID and some deposit.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I just ordered takeout online, why hasn't it arrived yet?
+Speaker2: Hello, little Zhang, I am delivery boy Li, your delivery is ready, it will take about fifteen minutes to deliver.
+Speaker1: Okay, what's bothering you now? Can you tell me roughly where we are now?
+Speaker2: I just left the restaurant, I'm now walking towards the address you provided, it should take about ten minutes or so.
+Speaker1: Okay, I'll wait a moment. Got it, I live in apartment three, you can call me when you arrive.
+Speaker2: Okay, I will pay attention. I will call you to confirm when I arrive at the third floor.
+Speaker1: Thank you, you've worked hard.
+Speaker2: No problem, this is my job. You can also check my location anytime through the order page.
+Speaker1: Okay, I know, then I'll wait a moment.
+Speaker2: Okay, just wait for a moment, it'll be there soon.

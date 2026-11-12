@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What can I help you with?
+Speaker1: Hey, I recently planned to go on a trip to a certain place, do you know the route there?
+Speaker2: Of course, where do you want to go?
+Speaker1: I want to go to West Lake, hear that the scenery is good.
+Speaker2: Yes, West Lake is a very beautiful place. Are you planning to take the train or drive yourself?
+Speaker1: I plan to take a train, but I don't know how to walk from here to the train station.
+Speaker2: You can take the subway to the city center first, then transfer to a bus directly to the train station. The subway station is near your home, just walk five hundred meters to the right after getting off.
+Speaker1: Okay, thank you for your help. What's next after the train station?
+Speaker2: Arrived at the train station, you can buy a ticket to Hangzhou, West Lake is in Hangzhou, got off the train take a car or sit on the bus to West Lake quickly.
+Speaker1: Okay, thank you for your detailed explanation. I will follow your advice.
+Speaker2: No problem, wish you a pleasant journey, the scenery of West Lake won't disappoint you for sure.

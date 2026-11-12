@@ -1,0 +1,10 @@
+Speaker1: Hey, how have you been lately?
+Speaker2: Hello, little Zhang, how are you lately? Do you have anything to do?
+Speaker1: Is this so, recently I found a product that's perfect for you, the return rate is very high, almost no risk, are you interested?
+Speaker2: Are you investing in a product? It sounds good, can you give me a detailed explanation?
+Speaker1: Of course. This product is a joint venture between us and a well-known investment company, specifically targeting old customers, with a low investment threshold, and stable returns, I have already invested a portion, and the returns are quite observable.
+Speaker2: Oh, is that so? Then how can I participate?
+Speaker1: It's very simple. Just download our investment app, register an account, and then you can start investing. I can send you a link, just click on the link to download directly.
+Speaker2: Okay, what information do I need to prepare?
+Speaker1: Please provide your identity card number and bank card information. This will make it easier for us to set up an account for you. If you have time now, I can send you a link immediately.
+Speaker2: Okay, then you can send it.

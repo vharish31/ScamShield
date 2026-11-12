@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: That's it, I just looked at a phone on your website and wanted to know more about its detailed information.
+Speaker2: Of course, which phone are you looking at?
+Speaker1: That's the blue one, model is Xiāngkōngbǎn.
+Speaker2: Okay, the starry phone comes with a 6.5-inch full-screen, 4 million pixel camera, and a 4,000 mAh large battery.
+Speaker1: How much does it cost to sound good?
+Speaker2: This phone costs 2999 yuan, there's a discount of 200 yuan now, so you can enjoy a 200 yuan discount.
+Speaker1: Oh, there's a discount too, let me think about it. Do you guys support cash on delivery over there?
+Speaker2: We support cash on delivery, but some areas may not support it. Please provide your delivery address, and I'll confirm it for you.

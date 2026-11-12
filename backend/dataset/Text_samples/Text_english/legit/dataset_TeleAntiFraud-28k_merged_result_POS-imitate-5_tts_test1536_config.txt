@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you here at the Four Miles Bus Station?
+Speaker1: Are you waiting at the platform?
+Speaker2: Yes, can you see me from the platform?
+Speaker1: Can you see? I'm wearing a blue shirt, and you?
+Speaker2: I'm wearing a black jacket, standing next to the billboard.
+Speaker1: Okay, I'll go over there right away.
+Speaker2: Okay, be careful when you come, there are many cars on the road.
+Speaker1: I know, you also pay attention to safety.
+Speaker2: Thank you, see you later.

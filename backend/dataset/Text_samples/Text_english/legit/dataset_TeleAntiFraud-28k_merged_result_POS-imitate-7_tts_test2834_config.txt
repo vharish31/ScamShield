@@ -1,0 +1,10 @@
+Speaker1: Hey, did you arrive?
+Speaker2: I'm almost there, I just got off the subway, where are you waiting for me?
+Speaker1: I'm standing in front of the coffee shop on the left side of the exit, you can see it when you come out.
+Speaker2: Okay, I'll go out right away, you wait for a moment.
+Speaker1: Okay, slow down, pay attention to safety.
+Speaker2: I know, see you later.
+Speaker1: See you later.
+Speaker2: Have you been waiting for a long time?
+Speaker1: Hello, just arrived, hurry up.
+Speaker2: Okay, I'll be there soon.

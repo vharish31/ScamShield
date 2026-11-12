@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have a vegetarian set menu at your restaurant?
+Speaker2: Yes, we have several vegetarian set meals, you can choose.
+Speaker1: Okay, what's the price?
+Speaker2: The price of a set meal with four dishes and one soup is 50 yuan.
+Speaker1: Four dishes one soup, sounds good, do your restaurant open now?
+Speaker2: Our restaurant is currently open for business, our business hours are from 10 am to 9 pm.
+Speaker1: Okay, I'll probably arrive at six and a half, do I need to book in advance?
+Speaker2: I suggest you book in advance, it's crowded at night. You can tell me your name and contact info, I'll help you book.
+Speaker1: Okay, my name is Li Huai, phone number is 138123456.
+Speaker2: Okay, Li Huangshēng, I have already reserved a seat for you at six thirty in the evening. See you then.
+Speaker1: Thank you, see you later.

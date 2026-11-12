@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Zhang, want to consult your hair service
+Speaker2: Hello, little Zhang. We have various hair services here, which one do you specifically want to know about?
+Speaker1: Can you recommend a hairstyle to me? I heard your designers here are very professional.
+Speaker2: Of course, we have several senior designers here who can design based on your face shape and style. You can first schedule a time to come take a look.
+Speaker1: Okay, can I schedule a meeting for tomorrow morning at 10 am?
+Speaker2: Can we meet at ten o'clock tomorrow morning? However, our designer will be quite busy from ten to eleven thirty, could you come a little later, say eleven thirty?
+Speaker1: I can make it at 11:30, so I'll book it at 11:30.
+Speaker2: Okay, I have made a reservation for you for tomorrow morning at 11:30. Just come to the front desk and give your name when you arrive.
+Speaker1: Okay, thank you. See you tomorrow.
+Speaker2: See you tomorrow, be careful on the road. Bye.

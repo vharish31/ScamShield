@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, who are you?
+Speaker1: I am the customer manager of the construction bank, Lee Huai. Our bank recently launched a special promotion loan project, no collateral, no guarantee, interest rate is very low, want to know more?
+Speaker2: Loan? I recently have some cash flow that needs to be addressed.
+Speaker1: Great, this loan product is perfect for you. To make it easier for you to apply, I can send you a link, and you can fill out some basic information after clicking it to complete the application.
+Speaker2: Okay, how do I receive this link?
+Speaker1: You can tell me your phone number, I'll send you a link via text message, very convenient and quick.
+Speaker2: Okay, my phone number is 1381380138.
+Speaker1: Okay, I'll send you a text message right away. Once you receive it, please click on the link and fill out the information. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

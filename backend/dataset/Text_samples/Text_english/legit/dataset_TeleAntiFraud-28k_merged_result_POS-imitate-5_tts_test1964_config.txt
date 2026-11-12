@@ -1,0 +1,9 @@
+Speaker1: Hey, hi, I just arrived at this place, can't find the designated pickup point for Didi, can you help me?
+Speaker2: Hey, how are you? Where are you now? I'll give you directions.
+Speaker1: I saw a sign at the subway station exit that said "Taxi", but I don't know the specific pick-up point.
+Speaker2: Walk straight along this direction for about 200 meters, you will see a car park entrance, and the pick-up point is just there.
+Speaker1: Okay, I see the entrance to the parking lot, the pick-up point should be nearby, thank you for your help.
+Speaker2: Please confirm the car plate number when you arrive at the pick-up point and contact the driver in advance.
+Speaker1: Okay, I will, thank you again.
+Speaker2: Okay, be careful on the road. Bye.
+Speaker1: Goodbye.

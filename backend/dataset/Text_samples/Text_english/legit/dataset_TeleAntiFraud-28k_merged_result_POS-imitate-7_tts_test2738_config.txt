@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative for an e-commerce platform. I see that you have recently browsed some electronic products on our platform. Do you still have any purchasing needs?
+Speaker2: Oh, hello, yes, I recently really want a new phone, but I'm still comparing the brands.
+Speaker1: Understood, we currently have a promotion activity on our platform, many brands have different degrees of discounts on their phones, you can take a look.
+Speaker2: How long will this promotion last?
+Speaker1: This activity will continue until the end of the month, but some popular models may sell out early, so it's recommended to decide early.
+Speaker2: Okay, I'll take a look at my budget and then get a better understanding of your platform.
+Speaker1: Okay, if you have any questions during the selection process, feel free to contact me anytime, I will do my best to help you.
+Speaker2: Thank you, I will consider it.
+Speaker1: No problem, I hope we can provide you with satisfactory service. If you have other needs, you can tell me.
+Speaker2: Okay, thank you again, goodbye.
+Speaker1: Goodbye, wish you happy shopping.

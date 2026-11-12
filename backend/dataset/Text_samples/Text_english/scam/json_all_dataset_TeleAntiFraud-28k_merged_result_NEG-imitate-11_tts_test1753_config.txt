@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Li first name?
+Speaker2: Hello, how are you? I am.
+Speaker1: Mr. Li, I am the general manager of the commercial bank of Zhengzhou, we have a special low-interest loan product that is suitable for you, have you recently had any funding needs?
+Speaker2: "Uh, I'm actually kind of in need lately."
+Speaker1: That's great, our product is specifically designed for high-quality customers, no deposit required, quick approval.
+Speaker2: The sound is good, but I was always rejected when I applied for a loan before, so I don't know if there will be any problems this time.
+Speaker1: Don't worry, we have a dedicated green channel here. Just provide some basic information, and we can give you a preliminary evaluation.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your identity card number and phone number, we will send you a link to fill out the information.
+Speaker2: Okay, then I'll wait for your link.
+Speaker1: Okay, I will send it to you soon, please fill it out as soon as you receive it, we will process it quickly on this end.
+Speaker2: Thank you, I will pay attention to check.

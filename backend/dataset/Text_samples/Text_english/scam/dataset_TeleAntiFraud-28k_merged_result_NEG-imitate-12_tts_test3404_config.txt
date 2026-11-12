@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am a customer manager of China Construction Bank, Li Tian.
+Speaker2: Hello, please speak.
+Speaker1: We noticed you've had a lot of big spending recently, so we're offering you a low-interest loan service with an extremely discounted rate of 2.5%.
+Speaker2: Really? I recently had some issues with cash flow.
+Speaker1: Yes, we can provide specialized services. To ensure your personal information is secure, please download our official app first, which will allow you to quickly process.
+Speaker2: Okay, how do I download it?
+Speaker1: You can search '中信银行贷款' in the mobile app store, download it, register and fill in the relevant information, I will send you a verification code, you input it and you will complete the identity verification.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, after downloading, please contact me first time, my phone number is 13800138000.
+Speaker2: Okay, thank you for your help.

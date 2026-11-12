@@ -1,0 +1,10 @@
+Speaker1: Hello, you are welcome to Shenzhen Bank. I am Li Ming, the customer manager.
+Speaker2: Hello, what do you have?
+Speaker1: Based on the information you provided, we found that you may need a capital turnaround, we have a new product with a very favorable interest rate.
+Speaker2: Oh, really? I actually need some money recently.
+Speaker1: Great, I can recommend a link for you. Click it and fill out personal information to quickly apply.
+Speaker2: How do I know this link is safe?
+Speaker1: We are a legitimate financial institution, and our link is absolutely safe. If you have any questions after clicking, you can contact me anytime.
+Speaker2: Okay, let me try.
+Speaker1: Okay, just wait a minute, I'll send it to you right away.
+Speaker2: Thank you.

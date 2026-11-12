@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, and your shop is the little Ming hair salon, right?
+Speaker2: Hello, I am a customer service representative at Xiaoming's hair salon. Is there anything I can help you with?
+Speaker1: Hey, I recently want to change my hairstyle, when do you guys have a free spot in your shop?
+Speaker2: Okay, which day is most convenient for you to come? I can help you check the schedule.
+Speaker1: How was your weekend?
+Speaker2: The weekend schedule has an opening from 11 am on Saturday morning to 3 pm, and also from 9:30 am on Sunday morning.
+Speaker1: I'll choose Saturday afternoon at three o'clock.
+Speaker2: Okay, I have reserved a spot for you at 3 PM on Saturday afternoon. Please arrive ten minutes early.
+Speaker1: Okay, thank you.
+Speaker2: No problem, I'm looking forward to your arrival. Goodbye.

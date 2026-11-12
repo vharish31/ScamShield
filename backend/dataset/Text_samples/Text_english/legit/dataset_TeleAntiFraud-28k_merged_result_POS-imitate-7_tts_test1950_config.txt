@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Li, I recently want a new phone, do you have any recommendations?
+Speaker2: Hello, little Li, I am little Wang, recently I have some new phones on the market, do you have any special needs, such as battery life, photography, price range?
+Speaker1: I mainly use it for daily use, occasionally play games, taking photos is also quite important, the budget is roughly between two thousand to three thousand.
+Speaker2: I recommend you check out the latest A brand X series, the photo quality is excellent, the battery is durable, and there's currently an activity going on, the price is great.
+Speaker1: What is the memory and storage space of the X series phone brand?
+Speaker2: This phone has two versions: 6GB+128GB and 8GB+256GB. You can choose based on your needs.
+Speaker1: What is the price of the 8GB + 256GB version?
+Speaker2: The price of the 8GB+256GB version is 2999 yuan, and now you get a free original phone case and a one-year warranty when you buy.
+Speaker1: Can you reserve a table for me this weekend at the store?
+Speaker2: Of course, I can reserve a 8GB+256GB version of an A-brand X series phone for you. When is a convenient time for you to come over this weekend?
+Speaker1: Can I go out at two o'clock on Saturday afternoon?
+Speaker2: Saturday afternoon at two o'clock, okay, I'm waiting for you here. There are other several phone models in the store that are also very suitable for you, and we can take a look together at the time.

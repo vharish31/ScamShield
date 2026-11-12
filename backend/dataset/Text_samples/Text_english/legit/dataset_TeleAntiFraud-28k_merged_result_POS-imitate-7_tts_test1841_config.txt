@@ -1,0 +1,11 @@
+Speaker1: Hey, hi, I'm little Zhang, I made an appointment for tomorrow morning at 10am for a haircut, do you think the time is correct?
+Speaker2: Hello, little Zhang, are you the appointment at 10 am? Let me check.
+Speaker1: Yes, it's tomorrow morning at 10 o'clock. I can't remember if I successfully reserved it.
+Speaker2: Okay, just a moment, I'll check your appointment information.
+Speaker1: Okay, thank you.
+Speaker2: Found it, your 10 am appointment tomorrow is confirmed, remember to be on time.
+Speaker1: Okay, I'll arrive on time tomorrow at ten o'clock. Also, can you cut my hair a little shorter?
+Speaker2: Of course, our hairdresser will cut your hair according to your requirements. Are there any special requirements?
+Speaker1: Cut it short, just like last time.
+Speaker2: Understood, we will follow your instructions. See you tomorrow!
+Speaker1: Okay, see you tomorrow, thank you!

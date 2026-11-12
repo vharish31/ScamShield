@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service representative of the community management, recently we have received a lot of feedback about noise problems in the community, want to know your situation.
+Speaker2: Hey, how are you? I'm good here, sometimes at night it gets a little noisy, but it's not too serious.
+Speaker1: So, what do you think these noises are coming from? Are they from the neighbors or outside noise?
+Speaker2: It should be the neighbor on the side, sometimes you can hear them shouting loudly.
+Speaker1: Understood, we will go talk to our neighbor about reducing the noise at night, and if you have any other issues to bring up, feel free to let us know.
+Speaker2: Okay, thank you, if there are other questions I will contact you.
+Speaker1: You're welcome, we're always here to serve you. If the noise problem improves, please let us know promptly.
+Speaker2: Okay, I will pay attention again, thank you.
+Speaker1: Okay, wish you happy life, bye.
+Speaker2: Goodbye.

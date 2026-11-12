@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I want to reserve a seat for tomorrow night, do you have any available seats?
+Speaker2: Hello, I am a waiter at the restaurant, how many people are there?
+Speaker1: Can two people meet around seven in the evening?
+Speaker2: Okay, the location of two people at seven o'clock, no problem.
+Speaker1: Great, my name's Li, can you guys save me a seat later?
+Speaker2: Okay, Mr. Li, we will reserve a spot for you.
+Speaker1: Do you have any recommendations for dishes?
+Speaker2: Our menu here has steamed cod and stir-fried pork, both highly rated by customers, you can try them.
+Speaker1: Listen well, then let's order these two dishes when the time comes.
+Speaker2: Okay, I'll help you get ready at the appointed time. Is there anything else you need me to help with?
+Speaker1: No more, thank you, see you later.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

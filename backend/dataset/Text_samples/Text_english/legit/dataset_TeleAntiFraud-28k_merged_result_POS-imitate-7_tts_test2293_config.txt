@@ -1,0 +1,14 @@
+Speaker2: Hello, how are you?
+Speaker1: What time do you have free this afternoon?
+Speaker2: Hey, can you give me a general idea of the situation over there?
+Speaker1: Okay, what do you want to know?
+Speaker2: For example, working hours and social security public funds these are
+Speaker1: Work hours are from 9 am to 6 pm, with weekends off. Social security and public pension are both paid according to national regulations.
+Speaker2: How long after joining should these be paid?
+Speaker1: Started paying after a month of joining.
+Speaker2: Okay, what about the salary?
+Speaker1: The basic salary is 5,000 yuan per month, and there is also a performance-based bonus.
+Speaker2: Can I go at three in the afternoon?
+Speaker1: Okay, 3 o'clock is fine.
+Speaker2: Okay, then I will directly call this phone to contact you at that time.
+Speaker1: Okay, see you later.

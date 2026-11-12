@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the East Bank, and we have found your loan application information. We can quickly process a 30,000 yuan loan without collateral for you. Do you have any recent funding needs?
+Speaker2: Hello, I recently need some cash flow, how do I do it?
+Speaker1: Great, just download our bank's official app, register an account, submit some personal info, and once approved, the funds will quickly be deposited into your account.
+Speaker2: Okay, what materials do I need to prepare?
+Speaker1: You just need to prepare your identity card and bank card photos, as well as your recent six months bank transaction records. Once these materials are ready, you can directly submit them through the app.
+Speaker2: What is the name of this app, and how do I download it?
+Speaker1: You can search 'east bank' in the mobile app store and download our official app, or I can send you the download link via text message, are you comfortable receiving text messages?
+Speaker2: Okay, I'll check my phone later.
+Speaker1: Okay, I'll send you a text message right away. Once you receive it, please download and complete the registration as soon as possible. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help. I will handle it quickly.

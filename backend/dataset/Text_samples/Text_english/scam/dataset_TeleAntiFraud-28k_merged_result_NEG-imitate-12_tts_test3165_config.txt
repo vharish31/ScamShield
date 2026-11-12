@@ -1,0 +1,12 @@
+Speaker1: Hello, you are the online customer service of China Construction Bank, I am the customer service manager, Zhang Wei.
+Speaker2: Hello, what can I help you with?
+Speaker1: That's it, we found some unusual activity on your account, it's possible that it's been stolen, to ensure your funds are safe, we need you to cooperate with us to perform a security verification.
+Speaker2: Really? Then what should I do?
+Speaker1: First, please provide your ID number and bank card number, let's verify the information.
+Speaker2: Okay, my ID number is 123456789012345678, and my bank card number is 6222020000000000000.
+Speaker1: Thank you for your cooperation. I will send you a verification code to your phone, please check it and tell me the number.
+Speaker2: Okay, I received it. The verification code is 123456.
+Speaker1: Thank you very much, we have already completed the security verification. To further ensure your financial safety, we recommend that you transfer your funds to our secure account.
+Speaker2: Okay, what is the number for the safe account?
+Speaker1: Please transfer funds to account number 6222020000000000001 as soon as possible to ensure the safety of your funds.
+Speaker2: Okay, I'll transfer now. Thank you for your help.

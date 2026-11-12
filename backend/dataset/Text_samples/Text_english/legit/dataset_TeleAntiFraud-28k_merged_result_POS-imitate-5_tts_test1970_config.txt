@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from a courier company. You have a package that needs to be delivered, but I have been unable to reach you by phone multiple times.
+Speaker2: Oh, really? Maybe it's my phone that's out of power. Where is the delivery now?
+Speaker1: Our delivery is still in our distribution center. We will try to deliver again today. Is it convenient for you to sign for it?
+Speaker2: What can I do to change the delivery date if I won't be home today?
+Speaker1: Of course, you can choose a convenient time, we will reschedule delivery. How about tomorrow afternoon?
+Speaker2: Can I send it to you tomorrow afternoon around 3 or 4 o'clock?
+Speaker1: Can you see this time slot tomorrow afternoon from three to five?
+Speaker2: Sure, thank you for your help.
+Speaker1: You're welcome. If you have any other questions, feel free to contact us anytime. Have a nice day!
+Speaker2: Okay, thank you, bye.

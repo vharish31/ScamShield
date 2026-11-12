@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I just ordered takeout from your store, it hasn't been delivered yet, can you help me check?
+Speaker2: Hello, Xiaoming, can you tell me your order number?
+Speaker1: My order number is 1235123, can you help me?
+Speaker2: Okay, I found it. Your takeout is already ready, it's on its way now, and we should arrive in twenty minutes.
+Speaker1: Okay, thank you for your help. Yes, I ordered a sweet and sour pork ribs before, the taste was very good, can I order it again this time?
+Speaker2: Of course, sweet and sour pork ribs is our store's signature dish, you can order anytime.
+Speaker1: Great, I'll order this one next time, okay, what time do you close the door tonight?
+Speaker2: We close the door at ten o'clock, but the delivery service will end half an hour earlier.
+Speaker1: Understood, thank you for your reminder. Can I directly contact you if I have any issues next time?
+Speaker2: Of course, you can contact me for any questions, wish you enjoy your meal!

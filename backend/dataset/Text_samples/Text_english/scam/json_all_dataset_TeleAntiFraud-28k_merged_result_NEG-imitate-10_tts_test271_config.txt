@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of the Commercial Bank, according to our platform's recent purchase records, there may be an issue with your delivery, please cooperate to handle it.
+Speaker2: What problem?
+Speaker1: We need to process a refund for your lost package during transportation.
+Speaker2: How to process a refund?
+Speaker1: To speed up the refund process, please download our official handling software by clicking this link.
+Speaker2: Okay, I'll download it now.
+Speaker1: After downloading is complete, please follow the instructions and input your bank card information. This way we can directly transfer the refund to your account.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your bank card number and verification code, and we will process immediately.
+Speaker2: Okay, I understand. Thank you.

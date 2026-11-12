@@ -1,0 +1,11 @@
+Speaker2: Hello, how can I help you?
+Speaker1: Can you tell me how to order takeout from your service?
+Speaker2: You can place an order through our mobile app or website, it's very convenient.
+Speaker1: Do I need to register the first time I use it?
+Speaker2: Yes, first-time users need to register an account, the registration process is very simple, just a few minutes.
+Speaker1: How do I use it after registering?
+Speaker2: After registering, you can browse the menu in the app, select your favorite dishes, add them to the cart, and then choose a payment method to complete the payment.
+Speaker1: What are the payment methods?
+Speaker2: We support multiple payment methods, including WeChat Pay, Alipay, UnionPay, etc.
+Speaker1: Okay, I'll give it a try. Thank you for your help!
+Speaker2: You're welcome! If you have any other questions, feel free to consult anytime. Have a nice day!

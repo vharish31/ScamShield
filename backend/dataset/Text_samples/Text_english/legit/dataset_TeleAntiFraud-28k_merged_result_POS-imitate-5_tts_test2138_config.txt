@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Can you tell me what time your store opens here?
+Speaker2: Hello, we open business at 9am and close at 9pm. Is there anything you need to consult?
+Speaker1: Hey, do you have any lunch sets suitable for office workers here?
+Speaker2: Yes, we have various lunch sets, including single person and double person sets, priced from 30 to 50 yuan, do you want to know the specific details?
+Speaker1: Okay, could you please tell me the specific dishes and prices?
+Speaker2: The single person set meal has a stir-fried egg and tomato, priced at 30 yuan; the beef stir-fry set meal, priced at 35 yuan. The double person set meal has kung pao chicken and spicy bean sprouts, served with two bowls of rice, priced at 50 yuan. These are all quite popular.
+Speaker1: The sound is good, I can try next time. Also, do you support reservations here?
+Speaker2: Of course, you can call ahead to reserve a time, so you can save time waiting in line, what time do you want to reserve?
+Speaker1: Okay, I may come on Tuesday at noon twelve to reserve a beef stir-fry set meal.
+Speaker2: Okay, I have noted it down for you. Next Tuesday at noon, a beef stir-fry set meal. Please come ten minutes earlier, and if there are any changes, you can contact us to modify the reservation.

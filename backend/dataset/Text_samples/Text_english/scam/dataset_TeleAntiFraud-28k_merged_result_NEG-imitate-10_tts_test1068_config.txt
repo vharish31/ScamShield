@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hi, I'm Li Xiao from the Commercial Bank's Credit Department. We recently launched a new loan product with a very low interest rate and low threshold. Would you like to know if you have any funding needs?
+Speaker2: I don't need a loan right now, thank you.
+Speaker1: Oh, that's great. Then I can also introduce you to some other services, like financial planning, or if you have any financial needs, feel free to contact me anytime.
+Speaker2: I can understand a bit after listening.
+Speaker1: Okay, I'll send you a link, you can download our bank's official app through it, there are many detailed explanations inside.
+Speaker2: Okay, I'll take a look in a moment.
+Speaker1: This link will arrive on your phone in a moment, please check it out. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

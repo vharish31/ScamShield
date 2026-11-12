@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? Your previously consulted phone now has a discount promotion. Want to know more about it?
+Speaker2: Hello, did you see any discounts before?
+Speaker1: Hey, now you can buy and get a phone case and a steel film for two hundred yuan less.
+Speaker2: Hmm, that's still quite reasonable, I really want to change my phone recently.
+Speaker1: Yes, this phone's performance is very good, many customers have given very good feedback.
+Speaker2: Shall we order now?
+Speaker1: Sure, you can enjoy faster delivery service now, usually it will be delivered within two days.
+Speaker2: Okay, I'll place the order now. How's your customer service?
+Speaker1: Our after-sales service is very good, you can contact our customer service at any time if you have any questions, and we will help you solve it quickly.
+Speaker2: Then I'll be relieved, thank you for your recommendation, I'll order now.
+Speaker1: You're welcome, hope you have a great shopping experience, feel free to contact us anytime if you have any questions, bye.
+Speaker2: Okay, bye.

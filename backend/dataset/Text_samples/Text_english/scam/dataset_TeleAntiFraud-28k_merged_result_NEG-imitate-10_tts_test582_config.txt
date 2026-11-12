@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, from the loan department of Commercial Bank, do you have any recent funding needs?
+Speaker2: Hey, do you have it or not? What are the lending conditions on your side?
+Speaker1: As long as you have a salary record in our bank, you can apply for up to 30 times your salary, with a maximum of 100,000.
+Speaker2: Interest rate?
+Speaker1: The annual interest rate is 0.03%, and the monthly interest is around 25,000 yuan per month.
+Speaker2: What's the specific way to operate it?
+Speaker1: You can first download our bank's official app, register and fill in the relevant information, and a dedicated customer manager will contact you.
+Speaker2: Okay, I'll try.
+Speaker1: Okay, after you download the app, remember to input the referral code 123456, so you can quickly get approved.
+Speaker2: Okay, thank you.

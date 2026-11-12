@@ -1,0 +1,10 @@
+Speaker1: Hello, this is a food delivery service, can help you order and deliver food.
+Speaker2: Hello, I want to order takeout, do you have any recommendations here?
+Speaker1: Do you have any flavor preferences for our popular dishes such as spicy hot pot, seafood fried rice noodles, and various small fried dishes?
+Speaker2: Can I have seafood fried rice with some small dishes?
+Speaker1: Of course, for seafood fried rice, we recommend pairing with scallions and oyster mushrooms or spicy bean sprouts, these are all good options.
+Speaker2: Okay, let's have a bowl of ginger and lemongrass.
+Speaker1: Okay, one portion of seafood fried rice with one portion of ginger and green onion, do you need any other services?
+Speaker2: No more, these are enough, thank you.
+Speaker1: No problem, your order has been recorded, it should take about 30 minutes to arrive, please prepare your address information in advance.
+Speaker2: Okay, my address is Xinghua Lu Yībǎozhōng, contact me later.

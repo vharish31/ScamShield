@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? Can you recommend a restaurant here that's suitable for two people?
+Speaker2: Hello, there is a restaurant called "Xiǎo qiáo liú shuǐ" here, the environment is good, suitable for two people to dine.
+Speaker1: What type of cuisine does it primarily provide?
+Speaker2: The main dishes are Sichuan and Hunan cuisine, with a strong flavor, and there are also some light dishes to choose from.
+Speaker1: What are the business hours of this restaurant?
+Speaker2: This restaurant's business hours are from 11 am to 10 pm, on weekends they are extended to 11 pm.
+Speaker1: Can I reserve a spot now?
+Speaker2: Of course, what time do you need to book?
+Speaker1: Can I meet you at seven o'clock tomorrow night?
+Speaker2: Tomorrow at 7pm, I'll book a two-person seat for you. Is there anything else you need to specify?
+Speaker1: No more, thank you.
+Speaker2: Okay, see you tomorrow, wish you enjoy your meal.

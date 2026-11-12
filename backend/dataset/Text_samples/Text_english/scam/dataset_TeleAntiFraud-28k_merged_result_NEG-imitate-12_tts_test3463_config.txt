@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I'm small Li, from the customer service department of Tianhai Technology. We noticed some recent shopping behavior on our platform. To ensure your rights, we need to confirm your order information.
+Speaker2: Hello, do you have any issues with my order?
+Speaker1: Your order is currently fine, but we detected a potential security risk on your account. For your account's safety, we recommend you download our official safety software immediately to protect it.
+Speaker2: Where can I download safety software?
+Speaker1: Just click the link I sent you and follow the instructions to download and install, and you'll protect your account.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, thank you for your cooperation. If you encounter any issues during installation, please contact me.
+Speaker2: I have installed it. What should I do next?
+Speaker1: Hello, please follow the software instructions to input your account information and verification code to verify your identity.
+Speaker2: Is this enough to ensure the safety of my account?
+Speaker1: Yes, this way ensures your account safety, if any abnormality, our system will timely notify you. Thank you for your cooperation, wish you happy life.

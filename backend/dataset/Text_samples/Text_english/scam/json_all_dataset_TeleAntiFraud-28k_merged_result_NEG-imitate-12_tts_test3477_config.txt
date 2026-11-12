@@ -1,0 +1,10 @@
+Speaker1: Hello, you, I am an agricultural bank customer service representative, my name is Li.
+Speaker2: Hello, what do you have in mind?
+Speaker1: We noticed that your recent loan application at our bank was rejected, but I can help you reapply through an internal channel, no collateral required.
+Speaker2: Really? That's great, I really need cash flow recently.
+Speaker1: Of course, but in order to verify your information, I need you to provide some personal information, including your identity card number and bank account information.
+Speaker2: What do I need to do then?
+Speaker1: Just click on the link I sent you and fill out the relevant information, and we can start processing your application.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact me anytime.
+Speaker2: Thank you, I will complete it quickly.

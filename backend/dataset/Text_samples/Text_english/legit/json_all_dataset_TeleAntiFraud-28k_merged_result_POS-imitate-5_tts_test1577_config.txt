@@ -1,0 +1,11 @@
+Speaker2: Hello, this is Xiao Li's fruit store. Can I help you with anything?
+Speaker1: Hello, do you have any durian here?
+Speaker2: Yes, our freshly delivered Hainan mangoes are very popular here.
+Speaker1: What about the price?
+Speaker2: The price of Hainan glowing fruit is 15 yuan per kilogram, and if you buy in bulk you can get a discount.
+Speaker1: Hey, when can I send it over after buying five kilograms?
+Speaker2: We can deliver to your door between 9am and 11am tomorrow morning.
+Speaker1: Okay, that's the address of Yángguāng xiǎojīng èr nián lóu yī dān yī xīng sān zhèr ér lǐng.
+Speaker2: Okay, we will deliver on time. Are there any other needs?
+Speaker1: No problem, thank you.
+Speaker2: You're welcome, wish you happy life, bye.

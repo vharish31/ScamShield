@@ -1,0 +1,11 @@
+Speaker1: Hello, I'm Li Xiao, the customer manager at the Shenzhen Bank.
+Speaker2: Hello, do you have anything?
+Speaker1: Have you heard that our bank recently introduced a low-interest personal consumption loan?
+Speaker2: Uh, I recently need to renovate my house, how do I apply for this loan?
+Speaker1: Great, the loan procedures are very simple. Just provide some basic personal information and income proof.
+Speaker2: Do I need to go to the bank?
+Speaker1: No need, just download our official app and fill in the relevant information on it.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can directly click this link, I'll send it to you now.
+Speaker2: Okay, I'll take a look in a moment.
+Speaker1: Okay, if you have any issues after downloading, feel free to contact me directly. My phone number is 13812345678.

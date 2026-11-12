@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of Alipay, do you have any refunds to process?
+Speaker2: Is it true? My package has a problem?
+Speaker1: No, there was an exception with your refund, you need to cooperate with us to complete a verification.
+Speaker2: What do I need to do?
+Speaker1: You need to download a verification-specific app to ensure your account safety.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can download it through this link, I'll send it to you soon.
+Speaker2: Okay, I'll wait for the link.
+Speaker1: I have already sent it. Please download it quickly and complete the verification. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help.

@@ -1,0 +1,12 @@
+Speaker1: Hello, is it Zhang Huaman?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer manager at a commercial bank, we have recently launched a very affordable loan product, would you like to know if you have any funding needs?
+Speaker2: Hey, can I borrow some money? I've been having some issues with cash flow lately.
+Speaker1: Great, our loan products are very flexible, interest rates are low, disbursement is quick, you can first download our official app, register and then see the detailed loan plans.
+Speaker2: Okay, how do I download your app?
+Speaker1: Very simple, just click this link to download directly.
+Speaker2: Link? I'm afraid it's not safe.
+Speaker1: Don't worry, this is our bank's official link, absolutely safe, you can also directly download the commercial bank app through the mobile app store.
+Speaker2: I'll download it through the app store.
+Speaker1: Okay, this method also works. After downloading, remember to register and fill out personal information. If there are any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your delivery service on this side.
+Speaker2: Hello, I am delivery customer service, what can I help you with?
+Speaker1: Can you deliver to my address at 3 Qing Shan Road?
+Speaker2: Sure, Qing Shan Lu San Zhong is within our delivery range. What time do you need to deliver the food?
+Speaker1: What are your recommendations for dishes around 2 pm?
+Speaker2: We have several popular dishes, such as Kung Pao Chicken, Fish and Chicken in Sichuan Style, and Spicy Sichuan Hot Pot, all of which are quite popular.
+Speaker1: Let's have a palace spicy chicken and a fish and pork ribs with a bowl of rice.
+Speaker2: Good, Kung Pao Chicken, Yuxiang Rou Shi and a bowl of rice, all for 45 yuan.
+Speaker1: Okay, how much is the delivery fee through the platform payment?
+Speaker2: Delivery fee is 5 yuan, total 50 yuan. Estimated delivery time is 1:30 pm, if there are any changes we will contact you in advance.
+Speaker1: Okay, thank you, please you.
+Speaker2: You're welcome, please feel free to contact us if you have any questions, enjoy your meal.

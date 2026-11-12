@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm Liu Xiaolong, I want to know more about the electric car I saw in your store a few days ago.
+Speaker2: Hey, little Liu, you got it wrong, I'm little king, but I also understand electric cars, do you have any specific questions?
+Speaker1: Hmm, that's really clever. I want to know how long the electric car's battery lasts.
+Speaker2: That electric car has a pretty good range, you can run about 80 kilometers on a full charge, which is suitable for daily use.
+Speaker1: How long does it take to charge?
+Speaker2: Filling up an electric car usually takes six to eight hours, but with the fast charging mode, it can be charged to 50% in half an hour.
+Speaker1: The sound is good, I'm quite interested in this one. Do you guys have any activities this weekend?
+Speaker2: We have a promotion this weekend, you can try the test drive service in store, would you come take a look?
+Speaker1: Okay, then I'll go over there on Saturday morning. Thank you for your detailed introduction.
+Speaker2: No problem, see you on Saturday, wish you a happy day.

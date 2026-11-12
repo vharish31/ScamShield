@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the Huaxing Xinyue Zhongxin, I am client service Zhang, we have a special loan product here that is suitable for you, can provide no collateral, fast loan service, understand?
+Speaker2: I understand it, but I'm not familiar with this kind of thing.
+Speaker1: No problem, I'll explain it in detail. First, you need to download our app, register an account, and fill out some basic information to apply for a loan.
+Speaker2: Do you want to download the app? It sounds a bit complicated.
+Speaker1: It's really simple. Just click on the link I sent you and follow the instructions. I guarantee the process is very convenient.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the link now. Additionally, to ensure the safety of your data, we need you to provide a verification code, which will be sent to your phone, okay?
+Speaker2: Okay, I'll check my phone later.
+Speaker1: Okay, the verification code has been sent, please check.
+Speaker2: Did you receive it? Is it 123456?
+Speaker1: That's right, it's this verification code. After you complete the registration with this verification code, you can start applying for a loan.

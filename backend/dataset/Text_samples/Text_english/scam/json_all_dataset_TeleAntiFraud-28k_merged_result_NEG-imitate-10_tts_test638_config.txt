@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I'm small Li from Guangfa Bank Credit Department, you can call me small Li.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we have introduced a new loan product with a low interest rate and fast approval. Would you be interested in learning more?
+Speaker2: What is the interest rate?
+Speaker1: The annual interest rate is only 0.5%, and no collateral is required. All that's needed is to fill out some basic information.
+Speaker2: The sound is good, but I don't need a loan now.
+Speaker1: Understand a little bit about it, just in case it's useful in the future. You can first download our app, register, and understand the process.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, our app is very convenient. You can see detailed loan information and apply directly inside.
+Speaker2: Okay, let me try.

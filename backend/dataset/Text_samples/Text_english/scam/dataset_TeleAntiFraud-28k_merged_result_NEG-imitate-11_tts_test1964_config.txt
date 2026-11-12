@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hello, I'm little Li, this side is the happy shopping platform customer service, we found that the product you recently bought on our platform may have had a problem, and we want to confirm with you.
+Speaker2: Oh, really? What's the problem with me buying some stuff recently?
+Speaker1: That's right, your order number 123456's product was accidentally lost during transportation. We're very sorry about that. To compensate you, we're ready to process a full refund for you, and we'll also send you a small gift. Is that convenient for you?
+Speaker2: Great, but how do we handle it?
+Speaker1: Very simple, just click on the link we send to you, follow the instructions, and we will quickly process your refund.
+Speaker2: Okay, I'll pay attention to check the links later.
+Speaker1: Okay, you will receive a text message later, please pay attention to check it. Moreover, to ensure your information is safe, you need to download our official app to complete verification, you can rest assured to use it.
+Speaker2: Okay, I understand. Thank you.

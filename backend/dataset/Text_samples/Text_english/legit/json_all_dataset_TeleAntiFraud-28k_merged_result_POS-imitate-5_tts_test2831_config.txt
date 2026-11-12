@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang. Yesterday I left a message on your website wanting to rent a room, don't know if it's convenient to talk now?
+Speaker2: Hey, hello, little Zhang, what are you talking about, I have time now, you talk.
+Speaker1: Hey, do you guys have any rooms available now?
+Speaker2: Yes, we have several types of rooms here. Which one do you want to see?
+Speaker1: I want a one-bedroom, one-living-room apartment, preferably near a subway station, for convenience to commute to work.
+Speaker2: Okay, we have several one-bedroom-one-living-room apartments, all located near the subway station, you can choose a suitable time to take a look.
+Speaker1: That's great, I have some free time this weekend, can I take a look?
+Speaker2: Sure, what about Sunday morning at 10am? I'll take you to see the house.
+Speaker1: 10 am is okay, then we meet on Sunday morning, thank you.
+Speaker2: No problem, see you on Sunday morning, pay attention to safety on the road.

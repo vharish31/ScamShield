@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the Agricultural and Commercial Bank. I saw that you had previously consulted our loan business. Now we have a very good opportunity to provide you with a low-interest loan of 45,000 yuan. Are you interested in learning more?
+Speaker2: Uh, I'm a bit tight-handed right now, can you give me a detailed explanation?
+Speaker1: Okay, this loan interest rate is very favorable, and the approval process is also very fast. You only need to provide some basic information, and we can handle it for you. However, for security reasons, you need to first download our bank's official app and submit the information through the app.
+Speaker2: Download the app? Is it safe?
+Speaker1: Completely safe, our bank's APP is officially certified, you can trust using it. After downloading, I will send you a verification code, input the verification code to start applying.
+Speaker2: Okay, let me try.
+Speaker1: Great, you're really smart. I'll send you the download link right away. Just click on the link to download it. After you download it, remember to enter the verification code I gave you.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, feel free to contact me if you have any questions. Best wishes for your application. Goodbye!
+Speaker2: Goodbye.

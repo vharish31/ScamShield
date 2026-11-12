@@ -1,0 +1,11 @@
+Speaker2: Hello, how can I help you?
+Speaker1: Can you show me your restaurant's vegetarian menu?
+Speaker2: Of course, we have many vegetarian options, such as mushroom stir-fry with tofu, steamed vegetables and vegetable stir-fry with noodles. Are you interested in these?
+Speaker1: Does anyone have any recommendations?
+Speaker2: Our most popular dish is stir-fried mushroom and tofu, this dish is very fresh and delicious, many customers have eaten and said it's good.
+Speaker1: Then let's try and see. What time does your restaurant start business?
+Speaker2: We open at 10 am and close at 10 pm. What time do you plan to come?
+Speaker1: Do I need to make an appointment in advance if I plan to arrive around seven o'clock in the evening?
+Speaker2: I suggest you book in advance so we can prepare a seat for you. You can tell me your name and contact info, I'll book it for you.
+Speaker1: Okay, my name is Li Ming, phone number is 12345678901.
+Speaker2: Okay, Li Xiāngshēng, I have reserved a seat for you at seven o'clock tonight. See you then!

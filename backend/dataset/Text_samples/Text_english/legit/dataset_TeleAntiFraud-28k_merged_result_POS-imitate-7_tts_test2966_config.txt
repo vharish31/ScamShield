@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What's up?
+Speaker1: Can you help me check the route to the city south park tomorrow?
+Speaker2: Okay, where are you starting from?
+Speaker1: How long will it take from North to arrive?
+Speaker2: The journey from North District to City South Park takes about an hour and a half. Take the second line of the subway from North District Station to City Center Station, then transfer to the third line of the subway from City Center Station to City South Park Station.
+Speaker1: Oh, in this way, how much does a subway ticket cost?
+Speaker2: The price of subway tickets varies depending on the distance, and it should be four yuan from North District to City South Park.
+Speaker1: Okay, thank you for your help. I think it's about 5 o'clock to leave now.
+Speaker2: Considering the possibility of congestion during early morning and late afternoon rush hours, it is recommended that you leave at 8:30 am to avoid crowds and arrive on time.
+Speaker1: Okay, thank you for your advice. So I'll leave tomorrow at this time.
+Speaker2: No problem, wish you have fun, feel free to contact me if you need help.

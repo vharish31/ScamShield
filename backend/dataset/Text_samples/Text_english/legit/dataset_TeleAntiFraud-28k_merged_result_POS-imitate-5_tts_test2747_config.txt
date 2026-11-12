@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the delivery boy, your food is here.
+Speaker2: Hello, I'm still at work, I might come back late to pick up.
+Speaker1: Okay, no problem. I'll wait for your call, what time is convenient for you to pick up?
+Speaker2: Can I meet you in about half an hour?
+Speaker1: Okay, I'll wait for you here. But, the security guard at the entrance said that no delivery can enter after 10 pm.
+Speaker2: I'll come over right away.
+Speaker1: Okay, you come here to call me, I am waiting for you at the door.
+Speaker2: Okay, thank you.
+Speaker1: No problem, this is my job.
+Speaker2: I'll hang up now, see you later.

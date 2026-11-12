@@ -1,0 +1,15 @@
+Speaker1: Hey, hi, I just saw your job application, want to ask a few questions
+Speaker2: Hello, you can ask, I am responsible for recruitment here
+Speaker1: Can you tell me more about the salary and benefits for this position?
+Speaker2: The basic salary for this position is 3,500 yuan per month, plus performance-based bonuses, which are determined based on individual performance.
+Speaker1: What is the work schedule like?
+Speaker2: Work hours are from 9 am to 6 pm, with a one-hour lunch break in the middle.
+Speaker1: What materials do I need to prepare for the application?
+Speaker2: You need to prepare a personal resume, as well as relevant education certificates and professional qualification certificates.
+Speaker1: Okay, I will quickly prepare these materials. By the way, do I need to wear formal attire during the interview?
+Speaker2: I suggest you wear formal attire, it will give a better first impression.
+Speaker1: Understood, thank you for your advice, so what time can I come for an interview?
+Speaker2: Is 9am on Friday morning convenient for you to come for an interview?
+Speaker1: This time is fine, I will arrive on time. Thank you for your arrangement.
+Speaker2: No problem, wish you a successful interview. Bye.
+Speaker1: Goodbye.

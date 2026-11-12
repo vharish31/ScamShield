@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang, I recently want to buy a new phone, I saw your store has new smart watches, want to know more.
+Speaker2: Hello little Zhang, I'm so happy to serve you. We recently launched a new smartwatch with a full range of functions, including heart rate monitoring, blood pressure monitoring, and multiple exercise modes.
+Speaker1: How much does that watch cost?
+Speaker2: This smartwatch costs 2800 yuan, there's a discount now, you can get 95% off.
+Speaker1: The nine-five discount sounds good, what colors does this watch come in?
+Speaker2: Yes, we provide black, silver, and ruby red as three color options, you can choose based on your preference.
+Speaker1: Okay, I prefer silver. How long does the battery last on this watch?
+Speaker2: This watch's battery life is very good, it can be used for five to seven days after charging, and it doesn't need to be charged every day when used normally.
+Speaker1: That's great, I'm really interested in this watch. Where's your store? Can I go take a look?
+Speaker2: Of course, our store is on the third floor of the electronic mall in the city center. You can come anytime, we are open every day from 9 am to 9 pm.

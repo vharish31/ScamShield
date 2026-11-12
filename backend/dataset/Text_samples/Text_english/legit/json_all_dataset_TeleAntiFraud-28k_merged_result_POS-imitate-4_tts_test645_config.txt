@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can your restaurant have a private room?
+Speaker2: Yes, we have several rooms of different sizes that can accommodate different numbers of people.
+Speaker1: Can I book a private room for ten people at six thirty tomorrow night?
+Speaker2: Sure, tomorrow at 6:30 PM, a private room for ten people. Could you please provide your name and contact information to confirm the reservation?
+Speaker1: Okay, my name is Zhang Ming, phone number is 13801380138.
+Speaker2: Okay, Mr. Zhang Ming, your reservation has been successful. Tomorrow night at six o'clock and a half, a ten-person private room. We will prepare in advance for you.
+Speaker1: Thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow. Wish you a happy day.

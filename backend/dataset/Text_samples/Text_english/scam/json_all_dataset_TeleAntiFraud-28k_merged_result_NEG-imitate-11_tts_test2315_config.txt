@@ -1,0 +1,10 @@
+Speaker1: Hello, you, I am the customer manager of Tianjin Yinhang Bank, Li Manager.
+Speaker2: Hello, Li Manager, what do you have?
+Speaker1: That's right, we recently launched a loan product for small business owners with no collateral, interest rate is low, and approval is fast. Do you have any needs in this area?
+Speaker2: The sound is good, but my current funds are still sufficient, and I don't have a need for a loan at the moment.
+Speaker1: So, have you considered expanding your business scale or investing in new projects? We can provide you with professional financial services and consulting.
+Speaker2: This is a bit interesting, can you give a detailed introduction?
+Speaker1: Of course, in order to better serve you, I need you to provide some basic information, such as your company name and contact information, and then I will send you detailed information.
+Speaker2: Okay, my company is called Light Future Technology. You can add my WeChat to discuss, the number is 1396666888.
+Speaker1: Okay, I will contact you soon. Additionally, to ensure information security, you can first verify my identity through our official website, the address is www.tcbank.com.
+Speaker2: Okay, I will check it out, thank you for your recommendation.

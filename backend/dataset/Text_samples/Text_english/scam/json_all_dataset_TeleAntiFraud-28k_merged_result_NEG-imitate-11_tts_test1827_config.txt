@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you? This is the Shenzhen Development Bank's loan service center. You have previously consulted with us about our loan business, and recently our loan policy has been adjusted, which can provide you with a lower interest rate and more flexible repayment options.
+Speaker2: Hello, I currently don't have a loan requirement.
+Speaker1: Oh no, that's really too bad. But, do you know that our policy adjustment is for better serving our old customers? You have previously handled loans with us, and we now have a special promotion, just click on the link, and you can see the detailed loan plan.
+Speaker2: I'm not very convenient online, and I'm not really interested in loans.
+Speaker1: That's really too bad, but if you change your mind, you can contact me anytime, my phone number is 12345678901. Moreover, to help you understand our services more easily, I can send you a link to your phone, just need to swipe your finger.
+Speaker2: Okay, you can show it to me.
+Speaker1: Okay, I will immediately send it to you. Please check it after receiving it. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, I hope our service can help you. By the way, we also have a special app that you can download and install, register and enjoy more discounts.
+Speaker2: Let me take a look too.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you out yet?
+Speaker2: Sigh, I'm already out here, I'm at the parking lot on this street.
+Speaker1: Which parking lot?
+Speaker2: I climbed up the stairs to the second floor at the parking lot across the street.
+Speaker1: Which door did you enter from?
+Speaker2: From the seventh door, I parked at the second floor parking lot facing the seventh door.
+Speaker1: Okay, I know, I'll be there in two minutes.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Wait for me at the sixth bus stop, I'll be there soon.
+Speaker2: Okay, I'm already there.

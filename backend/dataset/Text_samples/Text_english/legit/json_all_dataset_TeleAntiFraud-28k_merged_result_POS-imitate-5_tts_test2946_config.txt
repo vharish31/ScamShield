@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, have you been looking for a house recently?
+Speaker2: Hello, yes, what are some good recommendations lately?
+Speaker1: I have a few good options here, there are two-bedroom one-unit apartments and three-bedroom one-unit apartments. Which one do you prefer?
+Speaker2: I might prefer a three-bedroom apartment, since there are more people at home.
+Speaker1: Okay, there are several options for a three-room, one-hall apartment, with prices ranging from 3,000 to 5,000 yuan per month. What is your approximate budget range?
+Speaker2: Can you provide me with specific information about my budget, which is approximately 4,000?
+Speaker1: Of course, I have a three-bedroom, one-living-room apartment in the city center, convenient transportation, complete facilities around, the rent is exactly four thousand, are you interested in seeing it in person?
+Speaker2: Sounds good, I can go take a look. What time is convenient?
+Speaker1: What's up tomorrow morning at 10am? Can I take you to see some houses?
+Speaker2: Can I see you at 10 am tomorrow morning?

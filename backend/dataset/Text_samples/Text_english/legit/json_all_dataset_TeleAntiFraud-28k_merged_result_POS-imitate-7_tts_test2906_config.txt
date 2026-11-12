@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Is this the city express? Do you have any packages to the station? Can I pick them up?
+Speaker2: Okay, when can I go get it?
+Speaker1: We are open from 9 am to 6 pm every day. You can choose a convenient time.
+Speaker2: Can I go out this afternoon around four o'clock?
+Speaker1: Of course, we'll meet at the station at four o'clock in the afternoon.
+Speaker2: Okay, thank you, I'll just go directly when the time comes.
+Speaker1: No problem, feel free to call us ahead if you have any questions.
+Speaker2: Okay, I understand, thank you.

@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I'm moving soon and I want to know more about your moving service.
+Speaker2: Hello, how are you? I am Lee, the customer service representative of the moving company. I am very happy to serve you. What specific information do you want to know?
+Speaker1: Can you tell me about your service process and roughly how much it costs?
+Speaker2: Our moving service process starts with an on-site assessment based on the number and size of items. Then we will arrange a professional team to pack and transport. The cost is calculated based on distance, floor and item number, and we usually provide a detailed quote before moving.
+Speaker1: Do I need to make an appointment for the appraisal at the front door?
+Speaker2: Yes, you can schedule an appointment time through phone or our website. We will arrange our staff to come to your place as soon as possible.
+Speaker1: Okay, I think I'll need to move next week. Do you guys have any issues with your time schedule?
+Speaker2: Our time arrangement for next week is confirmed, you can choose a convenient time, we will confirm again the day before your moving time.
+Speaker1: Great, I'll stay there on Saturday next week.
+Speaker2: Okay, we will arrive on time on Saturday. If there are any changes, we will inform you in advance. Thank you for your trust. Wish you a happy life.
+Speaker1: Thank you, see you then.
+Speaker2: See you later, goodbye.

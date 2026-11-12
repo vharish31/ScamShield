@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: At home? How are you?
+Speaker1: Can I sit down when I just arrived downstairs?
+Speaker2: Let's go, I'll open the door for you.
+Speaker1: How have you been lately?
+Speaker2: Hello, just work is a bit busy. You?
+Speaker1: I too, have recently been preparing a project.
+Speaker2: How is the project progressing?
+Speaker1: It's still going smoothly, but time is a bit tight.
+Speaker2: Let's gather and have fun when you have some time.

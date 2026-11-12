@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me more about your bike shop's activities, are they really active online?
+Speaker2: Is it true that we currently have a promotion activity? What specific bike model do you want to know more about?
+Speaker1: Is that the mountain car that is said to be 1500 yuan online, can it be discounted?
+Speaker2: This price is already the promotion price, but if you decide to place an order today, I can give you an additional 95% discount.
+Speaker1: Well, I've recently been thinking about buying a car.
+Speaker2: That's great, can you come to the store to see the car? We can test drive it on site.
+Speaker1: I have some free time in the afternoon, around 3 o'clock.
+Speaker2: Okay, let's meet at three in the afternoon. I'll be here waiting for you.

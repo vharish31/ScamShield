@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there? I'm waiting at the door for you, did you come out yet?
+Speaker2: Just stepped out, saw you, are you at the parking lot?
+Speaker1: Okay, I'm at the entrance of the parking lot, if you walk a little to the right, you can see me.
+Speaker2: Okay, I see it, I'll be there soon.
+Speaker1: Is the blue umbrella in your hand?
+Speaker2: Yes, I got a blue umbrella, did you open a black car?
+Speaker1: Yes, I opened a black car with license plate number 123, did you see me?
+Speaker2: I came over when I saw you.
+Speaker1: Okay, you come over, I turn around here.
+Speaker2: Okay, thank you.

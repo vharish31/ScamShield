@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at the door of your community, can you help me point the way?
+Speaker2: Hello, where do you specifically want to go?
+Speaker1: I want to go to the third floor, but I can't find it.
+Speaker2: You enter the community from the door, walk straight, turn right at the second crossroad, and continue walking until you reach the end, the third building is on your left hand.
+Speaker1: How long will it take?
+Speaker2: Let's take about five minutes, no rush if you don't want to.
+Speaker1: Okay, thank you, I'll just go now.
+Speaker2: No problem, come give me a call, I'll come down to meet you.
+Speaker1: Okay, contact me later. Bye.
+Speaker2: Goodbye.

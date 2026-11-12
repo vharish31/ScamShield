@@ -1,0 +1,10 @@
+Speaker1: Hi, how's your recent electricity usage at home?
+Speaker2: Hello, it's okay, I haven't found any problems.
+Speaker1: Okay, have you recently received feedback that the water pressure during the peak water usage time at night is low, and have you encountered this situation at your home?
+Speaker2: Yeah, there were a few times when the water flowed poorly at night.
+Speaker1: Understood, we will quickly check and handle this issue. Additionally, it seems like there have been some abnormalities with your family's electricity meter recently, so it might need to be checked over the electrical circuit.
+Speaker2: Okay, can you take a look for me? If there's anything that needs repair, when is it convenient for you?
+Speaker1: Can this time work for you for the teacher to come over and check in the morning tomorrow?
+Speaker2: Sure, tomorrow morning I'll be at home.
+Speaker1: Okay, let's meet up tomorrow morning. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help, goodbye.

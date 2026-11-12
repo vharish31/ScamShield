@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? Can you tell me what time your store opens for business?
+Speaker2: Hello, our store opens at 9am and closes at 9pm, welcome anytime.
+Speaker1: Okay, I'll probably arrive around 10, do you guys have parking spots?
+Speaker2: Yes, our store has a small parking lot behind it, which is free to park.
+Speaker1: Sure, can you introduce me to your new sports shoes?
+Speaker2: Of course, we just recently released a new line of sports shoes with a variety of color options, very popular, you can come try them out.
+Speaker1: What's the price approximately?
+Speaker2: The price of new sports shoes is between 500 and 800 yuan, depending on the style and color.
+Speaker1: Okay, thank you for your introduction, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, see you later.

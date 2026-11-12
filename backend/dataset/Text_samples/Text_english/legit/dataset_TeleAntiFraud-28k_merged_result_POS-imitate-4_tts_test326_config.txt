@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: I saw the information of the second-hand bike you bought at the market.
+Speaker2: Hey, do you want to rent a bike?
+Speaker1: Yes, I recently need a car. Can you tell me the detailed information about this car?
+Speaker2: This car was bought last year, used a few times, well maintained, no major damages, 90% new.
+Speaker1: What about the price?
+Speaker2: The original price is one thousand five hundred yuan, now you can give me a discount of one hundred yuan, one thousand two how about?
+Speaker1: Hmm, this price is still okay, can I come take a look at the car tomorrow?
+Speaker2: Of course, can we meet at around 10 am tomorrow morning?
+Speaker1: Okay, I should arrive at ten, where is the address?
+Speaker2: The address is Happiness Villa, No. 2, Building 3, I will be waiting for you downstairs at the time.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

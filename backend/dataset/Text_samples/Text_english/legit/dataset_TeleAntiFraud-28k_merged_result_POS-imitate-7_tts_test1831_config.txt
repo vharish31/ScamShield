@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? This is the city delivery platform, your order is ready now, it will arrive in about twenty minutes, please contact us if you have any questions.
+Speaker2: Okay, thank you. Got it, do you have an invoice there?
+Speaker1: Do you need an electronic invoice or a paper invoice?
+Speaker2: Electronic invoice, please send to my email address.
+Speaker1: Okay, your electronic invoice will be sent to your email address after the order is completed. Is there anything else you need help with?
+Speaker2: No more, thank you.
+Speaker1: You're welcome, hope you enjoy your meal. Bye.
+Speaker2: Goodbye.

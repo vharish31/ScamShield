@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, I recently bought a piece of clothing on your website, but it seems like it hasn't been shipped yet, can you help me check?
+Speaker2: Hello, little Li, I am customer service Zhang, can I help you query? Can you tell me the order number?
+Speaker1: Okay, the order number is 23415.
+Speaker2: Okay, I'll check... Small Li, your order has been shipped, it might be because the logistics information is updated slowly.
+Speaker1: When will you arrive?
+Speaker2: Based on logistics information, we estimate that it will take 3 to 5 days to arrive. If you're urgent, I can help you contact logistics to expedite delivery.
+Speaker1: No problem, thank you, I'll wait a moment.
+Speaker2: Okay, if you have any other questions, please feel free to contact our customer service. Have a nice life!
+Speaker1: Okay, thank you, bye.
+Speaker2: Goodbye.

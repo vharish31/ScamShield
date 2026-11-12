@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang. Do you have a private room in your restaurant?
+Speaker2: Hello, little Zhang, do you want to reserve which time slot at our restaurant?
+Speaker1: Can I order this weekend at six o'clock in the evening?
+Speaker2: Sure, there are no reservations for this time slot yet. How many people do you think will come?
+Speaker1: Do you have any recommendations for dishes here among ten people?
+Speaker2: There are several menu items here, such as steamed fish with ginger and scallions, stir-fried pork, and ginger and garlic stir-fried vegetables, all of which are quite popular, you can consider them.
+Speaker1: Okay, what do you want me to order, do I need to pay a deposit in advance?
+Speaker2: You don't need to pay a deposit in advance, you can settle the bill when you arrive.
+Speaker1: That's great, thank you for your help, see you later.
+Speaker2: No problem, see you later, wish you enjoy your meal.

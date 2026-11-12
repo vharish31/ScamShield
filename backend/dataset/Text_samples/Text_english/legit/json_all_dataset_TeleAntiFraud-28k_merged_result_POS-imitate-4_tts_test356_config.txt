@@ -1,0 +1,11 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, can you ask if there is a car model 159 here that can be exchanged? My car battery is not working well now.
+Speaker2: Okay, switching cars is no problem.
+Speaker1: That's great, can I directly exchange my old car for a new one at your store?
+Speaker2: Sure, but can you first tell me what issues your car is currently having?
+Speaker1: The battery is not durable, it could ride twenty kilometers with a full charge before, now it can only ride ten kilometers or so with a full charge.
+Speaker2: Hmm, maybe the battery is old, the weather is cold too will have influence.
+Speaker1: Can you give me a car model with longer range? Like B60.
+Speaker2: Okay, B609's continuation flight is longer, I'll be ready in the afternoon. What time will you come?
+Speaker1: Thank you for the afternoon.
+Speaker2: No problem, see you in the afternoon.

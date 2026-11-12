@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am customer service from some e-commerce company. Today I am calling to remind you that your account balance is about to expire, it will be cleared at midnight tonight.
+Speaker2: Oh, zero points? What do I do now?
+Speaker1: Yes, your account has accumulated 20,000 points, which can be exchanged for goods worth 4,000 yuan. If you don't exchange them in time, these points will expire.
+Speaker2: Really? Then how do I exchange it?
+Speaker1: I just sent you a text message with an exchange link. Click on the link to choose your desired product.
+Speaker2: Okay, I'll take a look. Thank you for your reminder.
+Speaker1: No problem, if you have any other questions, feel free to contact me anytime. I hope you can exchange it in time to enjoy the discount.
+Speaker2: Okay, I will process it quickly.
+Speaker1: Okay, have a nice shopping trip. Bye.
+Speaker2: Goodbye.

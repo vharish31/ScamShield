@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm little Zhang, yesterday I made an appointment with you at the hair salon, today I want to confirm the appointment time.
+Speaker2: Okay, little Zhang, what time did you make the appointment?
+Speaker1: I have an appointment at two in the afternoon.
+Speaker2: Found it, your appointment time is today at 2 pm, we are fully prepared here, just come on time and you can proceed.
+Speaker1: Okay, I'll probably arrive around 4:45, do you guys have a parking spot?
+Speaker2: Yes, there is a parking lot right outside our store, you can park there directly.
+Speaker1: Okay, thank you. I want to try a new hairstyle this time, do you have any recommendations here?
+Speaker2: Of course, our hairdresser will give you professional advice based on your face shape and personality, and you can communicate with the hairdresser in detail after you come.
+Speaker1: Okay, now I can relax, thank you for your help.
+Speaker2: You're welcome, we're looking forward to your arrival. If you have any questions, feel free to contact us anytime.

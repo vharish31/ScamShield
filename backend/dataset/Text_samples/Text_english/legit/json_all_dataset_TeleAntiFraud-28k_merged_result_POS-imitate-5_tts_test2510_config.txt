@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a waiter at a restaurant, you left your contact information after dining with us recently, we want to know your feedback on our service.
+Speaker2: "Hey, I'm very satisfied with your service."
+Speaker1: Great, thank you for your confirmation. Okay, do you have any suggestions for our new menu items?
+Speaker2: Have you tried the new dish yet?
+Speaker1: Yes, we recently introduced some new dishes, such as the signature fish and pork slices and the Sichuan spicy and numbing hot pot, do you like them?
+Speaker2: It sounds good, let's try it next time.
+Speaker1: Great, if you're convenient, we can reserve a spot for you next time you come.
+Speaker2: Okay, this weekend should have time.
+Speaker1: Okay, I'll book a place for you on Saturday night. What time do you want?
+Speaker2: 6:30 should be okay.
+Speaker1: Okay, I'll reserve a 6:30 PM spot for you on Saturday night. I'm looking forward to your arrival. If you have any other needs, please call me anytime.
+Speaker2: Okay, thank you. Bye.

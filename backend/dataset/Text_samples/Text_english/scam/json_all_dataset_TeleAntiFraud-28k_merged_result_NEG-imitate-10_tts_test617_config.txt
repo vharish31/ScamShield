@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of Huaxia Bank, I am Lee Manager, we noticed that your credit card has been used recently, do you have any need for cash flow?
+Speaker2: Hey, how are you? I recently have some financial needs, can you give me some specifics?
+Speaker1: Okay, our bank currently has a special discount loan project, no collateral required, fast disbursement, very favorable interest rate, only need to provide some basic personal information, can apply.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Just click this link, fill out the relevant information, and our staff will quickly review your data. Once approved, we'll contact you immediately.
+Speaker2: Okay, how do I get this link?
+Speaker1: Please wait for a moment, I will send you a text message, please click on it as soon as you receive it, so we can quickly process your application.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome. If you have any questions, please feel free to contact us anytime. Have a nice life. Bye.
+Speaker2: Goodbye.

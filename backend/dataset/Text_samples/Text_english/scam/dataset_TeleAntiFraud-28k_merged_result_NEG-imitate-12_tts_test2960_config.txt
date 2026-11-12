@@ -1,0 +1,12 @@
+Speaker1: Hey, Liu old man?
+Speaker2: Hey, I am, you are?
+Speaker1: I am a customer service representative for Speedy Express, regarding the package you ordered two days ago, we found some issues and need your cooperation to handle them.
+Speaker2: What problem?
+Speaker1: Your package was lost during transportation, to compensate for your loss, we need to process the refund procedure.
+Speaker2: How do I get a refund?
+Speaker1: Please click on this link to fill out the relevant information, and we will process your refund quickly. The link is: [false link], is it convenient for you to operate now?
+Speaker2: Can I call you later? I'm not convenient right now.
+Speaker1: Of course, but for your benefit, please complete it as soon as possible. If you're not comfortable operating it, I can guide you step by step.
+Speaker2: Okay, I'll try.
+Speaker1: Okay, please click on the link and then fill in your bank card number, name and phone number according to the instructions. Once you're done, just let me know and I'll process immediately on this end.
+Speaker2: Okay, I'll go do it right away.

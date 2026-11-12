@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there? I'm at gate seven at the airport. Did you arrive?
+Speaker2: Hey, hi, I just arrived at the airport, my luggage hasn't been picked up yet, it'll probably take a few more minutes.
+Speaker1: Okay, so grab your time, the seven o'clock door parking is limited to five minutes, overtime will be fined.
+Speaker2: Oh, like this, I'll try to hurry up, but my luggage is heavy, maybe need some time.
+Speaker1: If you don't come out within five minutes, I'll have to leave, what do you plan to do?
+Speaker2: I might not be able to come out, the baggage conveyor belt has just started, there are too many people. Would you like to find a place to stop first, or would you like me to cancel the order and rebook the car?
+Speaker1: Okay, hurry up as much as you can. I'll wait for you five minutes. If it doesn't work out, cancel the order and call a taxi again.
+Speaker2: Okay, thank you for your understanding, I will be quick.
+Speaker1: No need to thank you, be careful, hope you succeed.
+Speaker2: Thank you, goodbye.

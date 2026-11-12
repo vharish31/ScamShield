@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, this side is Shenzhen Dianxun kefucheng, wǒ shì kèfù zhuāngyuán lǐ míng.
+Speaker2: Hello, do you have anything?
+Speaker1: We noticed that you recently purchased a phone on our platform, but according to our system records, this phone seems to have issues.
+Speaker2: Really? Then what do we do?
+Speaker1: Don't worry, we have a solution. To ensure your rights, please click on a link to verify your order information.
+Speaker2: Okay, how do I get that link?
+Speaker1: I can send you a text message with a link. Click on it and follow the instructions to solve the problem.
+Speaker2: Okay, send me a text message.
+Speaker1: Okay, I will send it immediately. Please note to check it, if you have any questions, you can contact me anytime.
+Speaker2: Thank you, I will pay attention.

@@ -1,0 +1,8 @@
+Speaker1: Where are you?
+Speaker2: I'm at the exit of the subway station. Are you?
+Speaker1: Me at the front bus station, you come pick me up.
+Speaker2: Okay, I'll go over there right away.
+Speaker1: How's the weather on your side?
+Speaker2: The weather today is good, a little chilly, how about your side?
+Speaker1: The weather here is not bad, just the wind is a bit big.
+Speaker2: You should wear more clothes, don't get cold.

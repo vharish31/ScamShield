@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I just placed an order for takeout, can you check the order status for me?
+Speaker2: Hello, little Zhang, I am customer service king, okay, you tell me your order number, I will help you query.
+Speaker1: Okay, my order number is 1234567, thank you.
+Speaker2: Okay, wait a minute, I'll check... Hmm, your order is ready, estimated delivery in 30 minutes.
+Speaker1: That's great, thank you for your help.
+Speaker2: No problem, feel free to contact me anytime.
+Speaker1: Sure, can you help me put my takeout in the building management office if I'm not home at the time?
+Speaker2: Sure, you can write your requirements in the order notes, and the delivery person will handle them accordingly after seeing them.
+Speaker1: Okay, I'll take note again, thank you.
+Speaker2: Okay, have a nice meal, bye.

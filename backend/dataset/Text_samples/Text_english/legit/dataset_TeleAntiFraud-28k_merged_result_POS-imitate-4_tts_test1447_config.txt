@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Lee Ming, I have an appointment for tomorrow morning at 10 am, can we confirm the time?
+Speaker2: Hello, Li Ming, that's right, your appointment time is tomorrow morning at 10 am, no problem.
+Speaker1: Okay, I'll get enough rest tonight and be on time tomorrow.
+Speaker2: Good, we're ready here too. Just come and say your name.
+Speaker1: Do I need to wash my hair before getting a haircut?
+Speaker2: We'll first wash your hair, then design your hairstyle based on your preferences.
+Speaker1: Okay, thank you for your reminder, I will arrive on time.
+Speaker2: No problem, feel free to contact us anytime with any questions, see you tomorrow.
+Speaker1: Okay, see you tomorrow.
+Speaker2: Goodbye, wish you a good night's rest.

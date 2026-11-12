@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the platform, I saw that you bought a phone from us before, now there is a small problem that needs to be consulted.
+Speaker2: Hello, what's up? Do you have any questions?
+Speaker1: So, we recently conducted a user satisfaction survey on the phone you bought, and we'd like to know more about your experience using this phone?
+Speaker2: Oh, this phone is still pretty easy to use, but the battery life is a bit shorter now.
+Speaker1: Thank you for your feedback. We will improve this issue in our future products. Additionally, are you satisfied with our after-sales service?
+Speaker2: Customer service is good, just the issue processing speed can be a little faster.
+Speaker1: Thank you very much for your valuable opinion. We will definitely improve. By the way, do you have any other feedback questions?
+Speaker2: For now, let's just use these.
+Speaker1: Okay, thank you again for your support and feedback. I hope you continue to pay attention to our products.
+Speaker2: Okay, thank you, bye.

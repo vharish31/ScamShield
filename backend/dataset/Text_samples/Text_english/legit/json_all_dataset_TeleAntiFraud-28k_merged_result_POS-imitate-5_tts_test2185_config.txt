@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you, I'm little Zhang, we agreed to fix the car today, right?
+Speaker2: Hey, hey, little Zhang, have you arrived?
+Speaker1: Where is the car?
+Speaker2: Car in parking lot, you wait a moment, I come soon.
+Speaker1: Okay, I'm waiting for you at the door.
+Speaker2: I'll just go on.
+Speaker1: How long will it take to fix your car?
+Speaker2: Hmm, let's take a look at the situation, it's probably going to take two or three hours.
+Speaker1: Can you drive me home after you finish fixing it?
+Speaker2: Okay, come pick me up when it's convenient for you.

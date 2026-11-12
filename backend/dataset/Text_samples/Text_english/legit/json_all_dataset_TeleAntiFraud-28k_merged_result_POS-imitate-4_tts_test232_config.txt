@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little Zhang, I recently saw a phone in your store and want to know more about it.
+Speaker2: Hello, I am customer service Li, which phone model are you interested in?
+Speaker1: I took a look at the latest smartphones in your store, but I'm not very clear on the configuration and price.
+Speaker2: This phone is our store's bestseller, its configuration is currently the most advanced on the market, and its price is 3400 yuan.
+Speaker1: This price is a bit over my budget, do you guys have any discount activities?
+Speaker2: We have a promotion this week. Buy this phone and get a 90% discount, plus a gift.
+Speaker1: Huh, this is more cost-effective now. What's the gift?
+Speaker2: The gift is a blue Bluetooth earphone and a phone case.
+Speaker1: Sounds good, I plan to check out the store this week, what specific time works for you?
+Speaker2: You can choose from 4pm to 6pm on Tuesday this week, it's less crowded then, we can give you a detailed introduction.
+Speaker1: Okay, so I'll set it for Thursday afternoon four o'clock, see you then.
+Speaker2: Okay, see you on Tuesday afternoon at four o'clock. Remember to bring your ID, so we can process the discount procedures smoothly.

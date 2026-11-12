@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the car carbao platform. I want to make a follow-up call. Have your car's brake disc project been installed at the store yet?
+Speaker2: Not yet.
+Speaker1: Hey, what's the reason you didn't go to work on that side?
+Speaker2: Construction? I just reserved on the platform, but recently work has been very busy, and I haven't had time to go.
+Speaker1: Oh, that way. When do you have some free time, you can make an appointment in advance, we can reserve time for you here.
+Speaker2: Hey, this weekend might have time, then I'll come over and take a look.
+Speaker1: Okay, when do you have a specific time, please contact us one day in advance, we will arrange it for you.
+Speaker2: Okay, thank you for your reminder, I will pay attention.
+Speaker1: You're welcome. If you have any other questions, feel free to contact us anytime. Have a nice life. Bye.
+Speaker2: Thank you, goodbye.

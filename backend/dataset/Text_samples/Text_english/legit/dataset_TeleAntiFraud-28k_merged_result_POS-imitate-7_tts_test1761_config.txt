@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am little Li, the customer service of the food paradise, did you know if you are satisfied with our service and food?
+Speaker2: Wow, your restaurant's food is pretty good, and the service is not bad either.
+Speaker1: That's great, thank you for your confirmation. We recently introduced a new dish, don't know if you're interested in trying it out?
+Speaker2: What's new?
+Speaker1: We have newly introduced yellow crab meat, steamed sea bass fish, and handmade noodles, each dish carefully made by our chef.
+Speaker2: The sound was all good, especially that steamed sea bass, I quite like it.
+Speaker1: Hello, steamed sea bass is our new product highlight this time, if you're convenient, you can come to our restaurant to try it.
+Speaker2: Okay, I have some free time this weekend, I'll give it a try.
+Speaker1: Great, remember to call ahead and reserve a spot when you come over the weekend, so we can make sure there's a place for you. Have a great weekend!

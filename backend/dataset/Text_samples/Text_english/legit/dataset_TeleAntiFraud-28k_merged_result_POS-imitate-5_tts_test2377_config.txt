@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I saw your job post for customer service specialist on the internet and I want to know more about the specifics of this position.
+Speaker2: Hello, I am a customer service representative. What can I help you with?
+Speaker1: What are the main responsibilities of this job?
+Speaker2: The main job is to answer customer calls, handle customer inquiries and complaints, and sometimes do simple record-keeping work.
+Speaker1: What is the work schedule like? Do I need to work overtime frequently?
+Speaker2: Work hours are from 9 am to 6 pm, with a one-hour lunch break in the middle. Generally, there's no need for overtime.
+Speaker1: What are the salary and benefits like?
+Speaker2: The base salary is three thousand yuan, and the performance bonus is determined by your work performance. There is also five insurance and one gold.
+Speaker1: What skills or experience are required for this position?
+Speaker2: It's best to have customer service related work experience, strong communication skills, and the ability to patiently solve customer problems. Of course, we will also provide corresponding training.

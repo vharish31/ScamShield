@@ -1,0 +1,8 @@
+Speaker1: Hello, I am looking for a house in your neighborhood. Can I go take another look at the apartment I saw yesterday today?
+Speaker2: Can you come over now?
+Speaker1: I'll be there in about twenty minutes.
+Speaker2: Okay, call me after you arrive, I'll be waiting here for you.
+Speaker1: Okay, I'll see you later.
+Speaker2: See you later.
+Speaker1: Hello, I arrived, now I'm at the community gate.
+Speaker2: Okay, wait a minute, I'll be right down to meet you.

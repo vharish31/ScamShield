@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask, do you have spicy chicken in this store?
+Speaker2: Hello, we have spicy chicken here, it's one of the store's special dishes and very popular.
+Speaker1: That's great, my friend really likes it. Is your spicy chicken with chili peppers mild or spicy?
+Speaker2: Our spicy chicken is medium spicy by default, but we can adjust the spiciness based on the customer's taste.
+Speaker1: That's great, my friend can eat spicy, we want to order a spicy one.
+Speaker2: Okay, I noted down the spicy chicken. Is there anything else you need to order?
+Speaker1: Let's have another serving of lemon balm, a little refreshing.
+Speaker2: Okay, I also recorded a copy of the jasmine flower. Do you need to reserve seats now or can you come?
+Speaker1: Do we need to make reservations in advance about an hour from now?
+Speaker2: No need, we have space here, you can come directly.

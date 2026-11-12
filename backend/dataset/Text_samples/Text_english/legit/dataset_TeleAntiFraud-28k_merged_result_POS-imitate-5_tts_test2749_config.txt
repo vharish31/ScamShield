@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of Happiness Street Community, today I called to confirm the recent leakage issue of the water pipe you reported, we have already arranged a repair technician to come to your place and check it, could you please tell me a convenient time?
+Speaker2: Hey, are you free tomorrow afternoon at three o'clock?
+Speaker1: Okay, let's meet at 3 PM tomorrow. The repairman will arrive on time. Please wait at home.
+Speaker2: Okay, thank you.
+Speaker1: No problem, is there anything else you need help with? Like checking other pipes or appliances?
+Speaker2: No longer needed, mainly that leakage place, fixed well then done.
+Speaker1: Okay, let's meet tomorrow if there's anything we need to tell each other in advance.
+Speaker2: Okay, thank you.
+Speaker1: No thanks, this is what we should do, wish you happy life.
+Speaker2: Thank you, goodbye.

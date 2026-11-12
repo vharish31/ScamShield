@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Xiaoming, I just booked a train ticket to Shanghai for tomorrow on the internet, can you confirm the pickup time and location?
+Speaker2: Hello, Xiao Ming, I am customer service representative Xiao Wang, your train ticket has been successfully booked, you can pick up your ticket at the self-service ticket machine at the station on the day of departure by presenting your order number and ID card.
+Speaker1: Where is the ticket machine?
+Speaker2: The ticket machine is located at the entrance of the train station. You can see it right away after you enter the station. If you can't find it, you can ask the staff inside.
+Speaker1: If I don't have time to pick up my ticket at the station, can someone else pick it up for me?
+Speaker2: Okay, you can let someone else pick it up, but you need to provide your ID and order number.
+Speaker1: Okay, I understand. Is it possible to refund the ticket if I can't go temporarily?
+Speaker2: You can cancel your ticket, but you need to pay a certain amount of ticket handling fees according to the rules of the railway department. It is recommended that you buy your train ticket after you have confirmed your travel plans to avoid unnecessary losses.
+Speaker1: I understand, thank you for your detailed answer, Mr. Wang.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a nice trip!

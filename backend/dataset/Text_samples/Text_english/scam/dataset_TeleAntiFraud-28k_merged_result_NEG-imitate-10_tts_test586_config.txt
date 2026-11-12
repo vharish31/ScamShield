@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I work for Shenzhen Technology Limited Company as a customer service representative. Have you been shopping online recently?
+Speaker2: Hey, what's up?
+Speaker1: We received feedback that there may be an issue with one of your orders, to ensure your rights we need to handle it.
+Speaker2: What do we do now?
+Speaker1: To quickly solve this problem, you can click on the link I sent you, download our company's official app, so we can help you more conveniently.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Thank you very much for your cooperation. After downloading, please enter the order number and your personal information in the app, and our customer service will quickly contact you.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, if you have any other questions, feel free to contact us anytime. Have a nice life, bye.
+Speaker2: Okay, bye.

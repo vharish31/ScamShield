@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am the customer manager from New Vision Technology, we recently launched a special promotion package, would you be interested to know more?
+Speaker2: Hey, do you have any discounts?
+Speaker1: That's it, we have a specialized high-efficient office software designed for small micro enterprises. Now, just register and download our APP to enjoy a three-month free trial period, and also have a chance to win a brand new laptop.
+Speaker2: How do I register? It sounds good.
+Speaker1: It's very simple. Just click on the link I gave you and follow the steps to complete the registration.
+Speaker2: Okay, I'll give it a try.
+Speaker1: Okay, just a moment, I'll send you a link via text message. Remember to download our app, feel free to contact me if you have any issues.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, hope you enjoy it, bye.

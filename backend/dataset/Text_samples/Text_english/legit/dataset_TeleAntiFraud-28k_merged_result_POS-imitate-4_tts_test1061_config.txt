@@ -1,0 +1,8 @@
+Speaker1: Hey, hi, I'll be right back in a sec
+Speaker2: Hey, just a sec, I'll be right back in a minute
+Speaker1: Okay, no problem, then I'll wait for your call.
+Speaker2: Okay, I'll give you a call back in about ten minutes.
+Speaker1: Okay, contact me later, thank you.
+Speaker2: No problem, I'll hang up later, chat for a while.
+Speaker1: Okay, bye.
+Speaker2: Goodbye

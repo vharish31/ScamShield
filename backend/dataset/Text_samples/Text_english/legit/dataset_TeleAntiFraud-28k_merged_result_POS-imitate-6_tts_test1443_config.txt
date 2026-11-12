@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, this is little king, are your store still open?
+Speaker2: Hello, Little Wang, our store is open 24 hours, what can we help you with?
+Speaker1: Oh, that's great! I want to order some takeout, do you have any recommendations for dishes?
+Speaker2: Our store's signboard menu has red braised pork and gong bao chicken, very popular, you can try it.
+Speaker1: Okay, let me have a spicy and sour soup, a red braised pork and a palace vegetable chicken, and a spicy and sour soup.
+Speaker2: Okay, I have recorded your order. It's 60 yuan in total. Please provide a delivery address.
+Speaker1: The address is Happiness Villa No. 3, Unit 202, Room 202.
+Speaker2: Okay, I have recorded your address. It will arrive in about 30 minutes. If there are any special circumstances, please contact us anytime.
+Speaker1: Okay, thank you, worked hard.
+Speaker2: You're welcome, hope you enjoy your meal, bye!

@@ -1,0 +1,11 @@
+Speaker2: Hello
+Speaker1: Do you have any new notebooks or laptops at this store?
+Speaker2: Okay, we just got a batch of new laptops here. Which one do you want to know more about?
+Speaker1: I want a lightweight and portable one with a high price-to-value ratio.
+Speaker2: We have a new lightweight book with a very high price-to-value ratio. It's the latest model, and you can come to the store to see it and try it out.
+Speaker1: What is the price of this computer?
+Speaker2: This computer's price is 5999 yuan, now there's a discount promotion.
+Speaker1: That sounds good, I can go to your store and take a look.
+Speaker2: Okay, our store is on the third floor of the electronic market in the city center. You can take the metro line two to the park station and walk five hundred meters after getting off to reach us.
+Speaker1: Okay, I'll probably go in the afternoon, what time do you guys close shop?
+Speaker2: We close business at nine o'clock in the evening, you can come in the afternoon without any problem, I will keep this computer for you.

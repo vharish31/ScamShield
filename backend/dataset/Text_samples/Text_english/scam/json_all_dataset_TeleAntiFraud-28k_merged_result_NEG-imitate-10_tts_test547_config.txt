@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of the happy shopping platform. You recently purchased a product on our platform with a quality issue, and you need to process a refund.
+Speaker2: Really? That's great, I recently encountered some problems.
+Speaker1: Yes, for convenience in processing, we need you to provide your purchase order number and bank card information for payment.
+Speaker2: Okay, my order number is 123456, my bank card number is 6222 0800 1234 5678.
+Speaker1: Thank you for your cooperation. To quickly process the refund, please click on the link we sent and fill out the relevant information.
+Speaker2: Okay, I'll click on the link now.
+Speaker1: Additionally, to ensure the safety of your account, we need you to provide the verification code sent to your phone.
+Speaker2: Okay, the verification code is 123456.
+Speaker1: Thank you for your cooperation. We will process your refund quickly. Moreover, for better service, we suggest you download our official app and enjoy more discounts.
+Speaker2: Okay, I'll download it now. Thank you for your help!

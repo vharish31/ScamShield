@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the hair salon of Little King?
+Speaker2: Yes, do you want to make a hair appointment?
+Speaker1: Yes, can I make an appointment for tomorrow at 2 pm for a haircut?
+Speaker2: Okay, tomorrow afternoon at two o'clock, no problem.
+Speaker1: Okay, I want to cut my hair short, do you have any recommendations for styles?
+Speaker2: We have several popular styles here, you can check the pictures, and then determine based on your face shape and personality.
+Speaker1: That's great, I'll come over tomorrow to take a look.
+Speaker2: No problem, please come a day earlier and arrive ten minutes in advance, so we can have more time to prepare.
+Speaker1: Okay, thank you for your reminder, see you tomorrow.
+Speaker2: Okay, see you tomorrow, goodbye.

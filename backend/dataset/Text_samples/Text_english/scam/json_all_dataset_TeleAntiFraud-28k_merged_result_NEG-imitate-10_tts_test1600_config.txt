@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Zong?
+Speaker2: It's me
+Speaker1: Good morning, I am the manager of Huaxia Bank, we have recently launched a loan product for small and medium-sized enterprises with a high loan amount and low interest rate. Would you like to know if you have any requirements for capital rotation?
+Speaker2: The funds are sufficient at the moment, but it's good to understand it too.
+Speaker1: That's great, this product is very suitable for you. Just provide some basic company information and financial reports, and we can quickly approve.
+Speaker2: What materials do we need to prepare?
+Speaker1: You only need to prepare the company's business license copy, the identity card of the legal representative, and the financial report of the past year. To facilitate your application, I can send you a link, and you can fill in the relevant information and apply online after clicking the link.
+Speaker2: Okay, send the link.
+Speaker1: Okay, I will immediately send it to your phone 13612345678, please pay attention to check it. Moreover, if there are any issues, you can contact me anytime, my phone number is 0769-12345678.
+Speaker2: Okay, thank you.

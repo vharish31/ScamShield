@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Hi there, are you at home now?
+Speaker2: Hey, little Ming, what's up? I'm at home.
+Speaker1: Do you have any free time this weekend? Want to go hiking together?
+Speaker2: I'm free on weekends, but I have a meeting at 10 am on Saturday, so I need to leave at 10 am.
+Speaker1: No problem, we'll leave at ten o'clock exactly, the weather forecast says it'll be good on that day.
+Speaker2: Okay, let's meet at half past ten at the foot of the mountain.
+Speaker1: Okay, at half past ten we met at the foot of the mountain, we brought some snacks with us, there's a small shop on the mountain but the stuff might be expensive.
+Speaker2: Okay, I'll prepare some food, see you later.

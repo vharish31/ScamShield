@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a server at Xiǎoyún dànfǎng, you reserved a table for tonight at six o'clock, right?
+Speaker2: Yes, it's my reservation.
+Speaker1: Okay, to confirm your dining experience, can we confirm that you reserved a table for two, right?
+Speaker2: Yes, two people.
+Speaker1: Okay, do you have any special requirements? For example, do you prefer to sit by the window, or do you have any food aversions?
+Speaker2: We want to sit at the window position, without fear of mouth.
+Speaker1: Understood, we will prepare a window seat for you. Also, you mentioned that you might be late by ten minutes when you booked, do we need to confirm that?
+Speaker2: No need, let's try to be on time.
+Speaker1: Okay, we'll wait for you at the restaurant. If there are any changes, please contact us anytime.
+Speaker2: Okay, thank you.

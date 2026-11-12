@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, this is the AliExpress customer service center, I am small Zhang, you recently purchased a product on our platform and have a problem, need to handle a refund for you.
+Speaker2: Oh, really? I really did buy some stuff recently.
+Speaker1: Yes, we have confirmed, for convenience of processing, please click on the link we provide and fill out some information.
+Speaker2: How do I click on a link?
+Speaker1: Open your phone messages and you'll see a message from us with a link that you can click.
+Speaker2: I received a text message, clicked on the link, now what information do I need to input?
+Speaker1: Please enter your bank card number and verification code to verify your identity.
+Speaker2: Okay, I inputted it, how long do I need to wait?
+Speaker1: Thank you for your cooperation. We will process it within 24 hours. If there are any issues, please contact our customer service.

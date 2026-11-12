@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Can I ask if your family's frying pan robot still has goods?
+Speaker2: Hello, how about you come to the store to see the inventory of the cooking robot or place an order online?
+Speaker1: Can you tell me about the features and price of this frying pan robot, as well as the after-sales service?
+Speaker2: This frying pan robot has automatic flip, schedule reservation, intelligent control and other functions, priced at 3500 yuan. We provide one year of warranty service, any issues that arise during use can be handled by contacting our after-sales.
+Speaker1: Is the frying pan robot safe to use? Will there be any danger of electrical leakage?
+Speaker2: This frying pan robot uses multiple safety protection designs, including anti-leakage and overheating protection, making it very safe to use.
+Speaker1: Okay, it sounds good. Then I plan to check out the store these few days, what are your weekend business hours?
+Speaker2: Our weekend business hours are from 9am to 9pm. If you come during the weekend, you can call ahead to make a reservation, and we will be ready for you.
+Speaker1: Can I go at three in the afternoon tomorrow?
+Speaker2: Okay, tomorrow at 3 pm there will be someone waiting for you here. Please bring your ID when you come, so we can register you.

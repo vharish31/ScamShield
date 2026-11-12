@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm the manager of Beijing Finance Consulting Company. We have a very attractive loan project now. Have you recently had any funding needs?
+Speaker2: Hello, I currently have no financial needs, thank you.
+Speaker1: Hmm, that's right. But our discount this time is quite big, interest rate is as low as 0.3%, and the approval speed is fast. If you need it, you can consider it.
+Speaker2: Can you give me some specific details?
+Speaker1: Of course, you can download our company's app first, which has detailed information on loan products, and you can apply online.
+Speaker2: Okay, let me try.
+Speaker1: Great, after downloading, remember to register an account and fill out your personal information. If you have any issues, feel free to contact me directly.
+Speaker2: Okay, thank you for your recommendation.
+Speaker1: No problem, okay, to ensure your information safety, we have a dedicated customer service on our app, you can consult any questions anytime.
+Speaker2: Okay, I understand.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Commercial Bank, I am the manager, do you have any recent capital rotation needs?
+Speaker2: Hello, everything is fine, no special funding requirements.
+Speaker1: Is that so, we have a special discount loan project recently, the interest rate is very low, and the approval speed is fast, no need for collateral, are you interested in learning more?
+Speaker2: Hmm, it sounds good, but I'm still not very sure.
+Speaker1: Understand your concerns, our loan process is actually very simple. You just need to download our app, fill out some basic information, and you can see your pre-approval amount.
+Speaker2: Do you want to download the app? It sounds a bit tedious.
+Speaker1: No problem, the entire process is very quick, only takes a few minutes. Moreover, for your convenience, I have a special link here, you can directly click on the link to download our app.
+Speaker2: Okay, I'll give it a try.
+Speaker1: Great, click this link: [link], download our app after, enter the referral code 123456, and enjoy more discounts.
+Speaker2: Okay, thank you for your help.

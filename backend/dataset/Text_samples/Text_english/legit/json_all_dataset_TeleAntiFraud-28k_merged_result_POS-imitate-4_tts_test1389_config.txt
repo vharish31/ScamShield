@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you here to consult our new menu items?
+Speaker1: Yes, I saw your website introduction and want to know more about the specific situation.
+Speaker2: Okay, this is our new menu item, which includes all our services, such as broadband, TV, and phone, and is suitable for family use.
+Speaker1: How much does this menu item cost?
+Speaker2: The monthly fee for this menu is two hundred yuan, but we now have a promotion activity, and you can enjoy a nine-discount discount on the first contract.
+Speaker1: What is the speed of the internet for this dish?
+Speaker2: The internet speed is two hundred megabit, enough to meet daily online needs, including video calls and online games.
+Speaker1: Okay, if I sign the contract and then find out it's not suitable, can I cancel it?
+Speaker2: Of course, we provide a one-month trial period. If you're not satisfied, you can cancel anytime without any fees.

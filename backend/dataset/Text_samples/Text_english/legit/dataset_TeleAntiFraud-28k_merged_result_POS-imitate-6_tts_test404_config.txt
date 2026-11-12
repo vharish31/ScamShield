@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, can the food I ordered yesterday be delivered today?
+Speaker2: Hello, little Zhang, your order is ready now, we estimate it will be delivered at 2 pm.
+Speaker1: Can you call me before sending it?
+Speaker2: Okay, we will notify you fifteen minutes in advance.
+Speaker1: The delivery address is still the same as last time, no change.
+Speaker2: Okay, we have recorded the address, no problem.
+Speaker1: Hey, do I have a discount coupon that I can use today?
+Speaker2: You can input the discount code when you place your order.
+Speaker1: Okay, thank you, so I'll wait for your good news today.
+Speaker2: Okay, see you later, wish you have a nice day.

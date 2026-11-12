@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm here to pick up takeout.
+Speaker2: Hello, which store do you want to pick up takeout from?
+Speaker1: It's the restaurant on the 15th floor.
+Speaker2: Hey, all the takeout from the 15th floor is at the front desk of the first floor's big hall, go there and ask.
+Speaker1: Front desk?
+Speaker2: Okay, go to the front desk and ask them where the delivery is.
+Speaker1: Okay, thank you.
+Speaker2: No problem, can't find me again if you call me.
+Speaker1: Okay, thank you, bye.
+Speaker2: Goodbye.

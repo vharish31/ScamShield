@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, what can I help you with?
+Speaker1: Hello, I am the property manager of the community, I just wanted to remind you that your water and electricity bill for this month is still unpaid.
+Speaker2: Oh, that's right, I've been so busy lately that I forgot. So I'll go trade today.
+Speaker1: Okay, you can directly pay in our WeChat public account, very convenient.
+Speaker2: WeChat payment? That's quite convenient.
+Speaker1: Yes, it's through WeChat payment. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you for your reminder.
+Speaker1: No problem, this is my job. Is there anything else you need my help with?
+Speaker2: No longer available, thank you.

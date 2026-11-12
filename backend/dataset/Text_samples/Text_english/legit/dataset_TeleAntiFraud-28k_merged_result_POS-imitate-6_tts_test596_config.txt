@@ -1,0 +1,9 @@
+Speaker2: Hello, you good?
+Speaker1: Hello, I'm at the second exit of the subway station. Can you see me?
+Speaker2: I'm still on the road, but I'm almost there. Did you see a truck with two flashing lights?
+Speaker1: Yes, I have a double-beam truck here, just beside the red light.
+Speaker2: Okay, I see you. Is it convenient to park here?
+Speaker1: This place is a bit hard to stop, but I think I can squeeze through.
+Speaker2: Okay, I'll just stand by the truck now.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Thank you, see you later.

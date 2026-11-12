@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang? This is the China Construction Bank.
+Speaker2: Hello, I am Zhang Huai, what do you have?
+Speaker1: Mr. Zhang Huang, we have recently launched a very attractive loan project here, no collateral, no guarantee, just need to provide some basic information, can quickly get a loan, are you interested in learning more?
+Speaker2: I recently need some cash flow, what's the interest rate on your loan?
+Speaker1: Our current interest rate is very favorable, only 0.03%, and the approval speed is fast, with immediate approval and immediate loan disbursement upon application.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: It's very simple. Just download our official app, register and fill out the relevant information, upload the required documents, and our customer service will review your information immediately.
+Speaker2: Okay, what is the name of this app? How do I download it?
+Speaker1: You can search '工银快贷' in the mobile app store, download and install. If you encounter any issues during the download process, please contact our customer service, the phone number is 4001010101.
+Speaker2: Okay, thank you for your help. I'll give it a try.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a server from some restaurant, you have a membership card from us, there is a new activity, do you want to know more about it?
+Speaker2: Hello, what activity?
+Speaker1: We currently have a double points promotion for our members, during which any purchases will double your points, and you also have a chance to win a prize.
+Speaker2: What are the prizes for the lottery?
+Speaker1: The prizes include free menu coupons from our restaurant, as well as beautiful gifts, such as customized cups and napkins.
+Speaker2: What do I need to participate in this activity?
+Speaker1: You just need to present your membership card to our restaurant for payment, then tell our server you want to participate in the double points activity, and our server will record it for you.
+Speaker2: Okay, when is it convenient for me to go?
+Speaker1: The activity will last for a month. You can come at any convenient time. It's recommended to avoid peak hours on weekends. This way, you'll wait less.
+Speaker2: Okay, I have some free time next Thursday evening, I'll go take a look. Thank you for the notice.
+Speaker1: You're welcome, we're looking forward to your visit. If you have any questions, please feel free to call us anytime. We wish you a happy life. Goodbye.
+Speaker2: Okay, bye.

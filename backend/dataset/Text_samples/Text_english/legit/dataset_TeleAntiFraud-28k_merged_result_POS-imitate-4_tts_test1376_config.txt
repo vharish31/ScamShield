@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Ming, are you guys doing home appliance repair?
+Speaker2: Hello, yes, we provide various electronic repair services. Is there anything we can help you with?
+Speaker1: My washing machine broke down, can you guys come over to fix it?
+Speaker2: Of course, can you tell me specifically what the problem is, and do you have your family's address?
+Speaker1: Just recently when I was washing my clothes, the washing machine suddenly stopped working, the address is Longjiang Road, No. 33, Xiaojie.
+Speaker2: Okay, I noted it down. Generally speaking, we will arrange for the teacher to come to your home on a workday, can you provide a contact method?
+Speaker1: Sure, my phone number is 1375654321.
+Speaker2: Okay, we will contact you soon. Do you have anything else I can help with?
+Speaker1: No more, thank you.
+Speaker2: No problem, please feel free to contact us anytime if you have any questions. Goodbye.

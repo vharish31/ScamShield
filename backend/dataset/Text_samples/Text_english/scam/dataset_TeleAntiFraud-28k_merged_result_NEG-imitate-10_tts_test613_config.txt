@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Zhang?
+Speaker2: Who are you?
+Speaker1: I am the customer manager of Agricultural and Commercial Bank, right? You have consulted with us about loan matters before, right?
+Speaker2: Hey, do you have anything to do?
+Speaker1: Is that so, our bank currently has a special promotion loan project, no collateral, low interest, fast approval, do you know if you are interested in learning more?
+Speaker2: I recently need cash flow, can you give me a specific explanation?
+Speaker1: Of course, in order to provide better service to you, I need you to provide some basic information, including your identity card number and bank account number, so that we can conduct a review.
+Speaker2: This one, I directly send to you?
+Speaker1: No no no, for safety, add my WeChat, I send you a link, submit data through link is safer.
+Speaker2: Okay, I'll add you on WeChat.

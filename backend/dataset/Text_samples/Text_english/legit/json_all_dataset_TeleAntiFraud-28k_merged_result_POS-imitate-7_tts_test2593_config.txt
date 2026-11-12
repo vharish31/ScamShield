@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's special dishes?
+Speaker2: Our menu here has red braised pork belly, steamed fish and gong bao chicken, all very popular.
+Speaker1: What's the price approximately?
+Speaker2: The head of a red-hot lion is sixty-eight yuan, the price of steamed fish varies depending on its size between one hundred yuan and one hundred and fifty yuan, and three-yuan-and-eighty-yuan palace chicken wings.
+Speaker1: Does your room sound good?
+Speaker2: Yes, we have different sizes of rooms that can accommodate four to twenty people.
+Speaker1: Can I reserve a four-person private room for this weekend?
+Speaker2: Sure, there's still a spot available this weekend. What time do you want to book it?

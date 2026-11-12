@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am an AliExpress customer service representative. You recently purchased a product on our platform with a quality issue, and we are ready to give you a refund.
+Speaker2: Is it really so, okay then, how do I get a refund?
+Speaker1: To facilitate operation, we need you to download our special refund app, so you can quickly handle it.
+Speaker2: Do you want to download the app? This sounds a little strange, why can't it be processed directly on the platform?
+Speaker1: Dear, since this is a temporary solution, our system is upgrading, so we need to handle it through this app. Don't worry, this app is official and absolutely safe.
+Speaker2: Okay, I'll try to see, what is the name of this app?
+Speaker1: You can download the APP called "Ali Speed Refund" from the app store, enter your order number and phone number after downloading, and then complete the refund.
+Speaker2: Okay, I'm going to download now.
+Speaker1: "Dear, if you have any issues after downloading, please feel free to contact me anytime. My phone number is 010-12345678."
+Speaker2: Okay, thank you for your help.

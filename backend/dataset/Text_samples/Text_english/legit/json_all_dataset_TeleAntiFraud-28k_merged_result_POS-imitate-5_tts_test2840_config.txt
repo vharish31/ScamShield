@@ -1,0 +1,12 @@
+Speaker1: Hello, I want to consult your home delivery service.
+Speaker2: Hello, I'm very happy to serve you. What information do you want to know?
+Speaker1: What are the menu items you all have?
+Speaker2: We have a variety of dishes for you to choose from, including Sichuan, Cantonese and common dishes. You can take a look at our menu, which includes detailed descriptions and pictures.
+Speaker1: How long is your delivery time?
+Speaker2: Our delivery time is usually within 30 minutes to an hour after ordering, but the specific time may vary depending on your location and the order quantity.
+Speaker1: If I'm not at home, can you put it on the doorstep?
+Speaker2: Of course, you can put a note down when placing the order for the delivery man to leave the food at the door.
+Speaker1: Okay, do I need to provide a contact phone number?
+Speaker2: Yes, we need a contact phone so that the delivery person can contact you and ensure a smooth delivery.
+Speaker1: I understand, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, feel free to consult anytime. Enjoy your meal!

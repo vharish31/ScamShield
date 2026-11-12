@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask if your store has roast duck?
+Speaker2: Hello, we have roast duck here, it's a special dish.
+Speaker1: What is the price?
+Speaker2: The price of roast duck is 108 yuan per portion, and the portion size is quite sufficient.
+Speaker1: Okay, can I reserve a place tonight?
+Speaker2: Of course, how many people would you like to reserve seats for?
+Speaker1: Two people's.
+Speaker2: Okay, the two seats have been reserved for you, what time will you arrive tonight?
+Speaker1: About seven in the evening.
+Speaker2: Okay, 7 pm, we will be ready for you. Are there any other things that need to be prepared in advance?
+Speaker1: No longer needed, thank you.
+Speaker2: You're welcome!

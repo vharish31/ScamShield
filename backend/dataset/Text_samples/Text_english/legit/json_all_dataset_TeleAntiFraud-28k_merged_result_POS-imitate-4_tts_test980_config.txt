@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little Zhang, want to consult your fitness courses on this side.
+Speaker2: Hello, little Zhang, I am the customer service representative of the fitness club, what can I help you with?
+Speaker1: Can you explain the difference between your monthly and quarterly cards?
+Speaker2: The main difference between monthly and quarterly cards is in the usage time and price. Monthly cards are suitable for short-term experience, while quarterly cards have more discounted prices, with greater discounts.
+Speaker1: What is the specific cost?
+Speaker2: The monthly fee for a membership card is 300 yuan, and the quarterly fee for a membership card is 800 yuan.
+Speaker1: Can I try it out first?
+Speaker2: Of course, we provide a free trial lesson, you can first come to feel it.
+Speaker1: When can I come to try it out?
+Speaker2: You can choose to come at 4 pm tomorrow, this time slot is less crowded, the experience effect will be better.
+Speaker1: Okay, I'll arrive at four o'clock tomorrow, thank you for your help.
+Speaker2: No problem, I'm looking forward to your arrival. If you have any other questions, feel free to contact me anytime.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, recently I want to buy a new phone, can you recommend a brand for me?
+Speaker2: Hello, little Li, of course you can, what do you mainly use your phone for?
+Speaker1: I mainly surf the net, watch videos, and play games occasionally.
+Speaker2: I recommend you check out this new smartphone. The configuration is great, the price is good, and it runs smoothly when playing video games.
+Speaker1: How long does the battery of this phone last?
+Speaker2: The battery capacity is four thousand milliampere-hours, and it can be used normally for a day without any problems.
+Speaker1: How much does it cost to sound good?
+Speaker2: This phone is currently on sale for 2500 yuan, and there are also gifts to choose from.
+Speaker1: What are the gifts?
+Speaker2: You have a phone case, a silicone cover, and a Bluetooth earphone, you can choose according to your needs.

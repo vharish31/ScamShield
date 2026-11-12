@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, can you book me a haircut appointment for tomorrow morning at 10am?
+Speaker2: Hello, of course. Which hair salon would you like to make an appointment for?
+Speaker1: Let's go to the trendy hairstyles in the city center.
+Speaker2: Okay, fashion style. Can you provide your name and contact information please?
+Speaker1: My name is Li Ming, phone number is 13500000000.
+Speaker2: Mr. Li, your name and phone number have been recorded. Is 10 am tomorrow morning convenient for you?
+Speaker1: Yes, at that time I had free time.
+Speaker2: Okay, I'll book a haircut appointment for you tomorrow morning at 10 am. If there are any changes, the hair salon will contact you in advance.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Have a great day!

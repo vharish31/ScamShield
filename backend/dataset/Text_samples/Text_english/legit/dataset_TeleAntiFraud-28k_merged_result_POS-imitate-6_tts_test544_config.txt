@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? I am customer service representative Zhang, you bought an air purifier from our online mall yesterday, how is the usage situation, have you encountered any problems?
+Speaker2: "Hmm, that's it. It's not bad, just a little loud when it starts up, but I can get used to it."
+Speaker1: Thanks for your feedback. This air purifier does have some running noise, but it's relatively quiet compared to other products in the same category. If you have any other questions, feel free to contact us anytime.
+Speaker2: Okay, now I can relax, thank you for your answer.
+Speaker1: You're welcome. If you have any issues during the process, please feel free to call our customer service hotline anytime.
+Speaker2: Okay, I understand, thank you.
+Speaker1: I won't disturb you anymore, wish you enjoy it, bye.
+Speaker2: Goodbye.

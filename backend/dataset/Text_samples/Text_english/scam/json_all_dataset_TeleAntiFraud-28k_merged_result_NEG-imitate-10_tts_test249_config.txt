@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Speedy Express customer service, do you have a package to confirm?
+Speaker2: Hello, I recently didn't receive a package.
+Speaker1: Yes, our system shows that there may have been an issue with your package during transportation, and we need you to work with us to handle it.
+Speaker2: Okay, what do I need to do?
+Speaker1: To make it easier for us to process, please click on a link and fill out the relevant information. This way, we can solve your problem more quickly.
+Speaker2: Is the link safe?
+Speaker1: Don't worry, this is our internal processing link, very safe. Click and enter your name and contact number, we will process quickly.
+Speaker2: Okay, let me try.
+Speaker1: Thank you for your cooperation. If there are any issues, please feel free to contact me.
+Speaker2: Okay, thank you.

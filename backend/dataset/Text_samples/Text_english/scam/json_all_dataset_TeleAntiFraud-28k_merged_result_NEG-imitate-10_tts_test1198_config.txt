@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am Li, the manager of the Agricultural and Commercial Bank. Our bank recently launched a special promotion for a credit loan product. Would you be interested in learning more?
+Speaker2: Hey, credit loan? I'm doing okay financially right now, but it's still worth listening.
+Speaker1: Okay, this credit product is very suitable for small business owners, the interest rate is low, the loan amount is quickly approved, and the loan amount range is flexible.
+Speaker2: What are the specific steps to do it?
+Speaker1: It's quite simple. You just need to apply through our mobile bank app, fill out some basic information, upload the necessary documents, and once approved, you can get the loan.
+Speaker2: Have you downloaded the bank app on your phone yet?
+Speaker1: That's great, I can send you a download link via text message, and you can download it and follow the instructions to quickly apply.
+Speaker2: Okay, send a text message.
+Speaker1: Okay, I'll send you a text message right away. Moreover, if you have any questions, you can add my WeChat contact info through the phone number in the text message, and I'll be able to answer you anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, I hope our service can help you. The message has already been sent, please pay attention to check it. Goodbye.
+Speaker2: Okay, bye.

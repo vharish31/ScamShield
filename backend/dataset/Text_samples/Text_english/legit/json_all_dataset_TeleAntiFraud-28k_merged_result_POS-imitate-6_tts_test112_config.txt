@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, this is a delicious restaurant, your takeout is ready, you can come to pick it up now.
+Speaker2: Okay, I'll be right over.
+Speaker1: Our restaurant is on Happiness Road 23rd number, near the bus station. You arrived, give me a call.
+Speaker2: Okay, I know the location, thank you.
+Speaker1: No problem, you arrived directly on the second floor, our restaurant is on the left side.
+Speaker2: Okay, I'm off now.
+Speaker1: Be careful on the road, contact me when you arrive.
+Speaker2: Okay, thank you.

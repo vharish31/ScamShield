@@ -1,0 +1,10 @@
+Speaker1: Hello, do you want to order takeout? Can you deliver it now?
+Speaker2: Hello, yes, we are still open for business, we can handle all orders on Meituan.
+Speaker1: Great, I just ordered a 58 yuan double set menu at Xiàntiān sìlù huānqiú yī yè.
+Speaker2: Okay, I'll check your order, just a moment.
+Speaker1: Okay, can you help me?
+Speaker2: Found it, your address is Xiàntiān sì lù huānqiú de yī nián, dànzhùng qǐngzhùng, wǒmen zhèng zhài rènfèi, dà yǒu xū yàng shí yìng chéng, zhěng yàng shí yìng chéng shí yìng chéng shí yìng chéng shí yìng chéng shí
+Speaker1: That's great, thank you, please move quickly.
+Speaker2: Okay, we will process it quickly and send it to you within thirty minutes.
+Speaker1: Okay, I'll wait for your call, thank you.
+Speaker2: Okay, if you have any questions we will contact you promptly, enjoy your meal, bye.

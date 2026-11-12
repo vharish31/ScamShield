@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, where are you?
+Speaker1: Where are you now?
+Speaker2: Okay, I'm at home now, can you put the stuff at the doorkeeper?
+Speaker1: Is the guard room on the right side of the entrance at the guard station?
+Speaker2: Yes, that's it, you put it there and I'll go get it in a minute.
+Speaker1: Okay, I'll go over there.
+Speaker2: Can you hang up first, so I can call you?
+Speaker1: Okay, hold on a minute and I'll contact you soon.
+Speaker2: Thank you, be careful on the road.

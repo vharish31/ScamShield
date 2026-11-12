@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you with the small Ming electronics?
+Speaker2: Hey, hi, I bought an electric fan from your store a few days ago, but today I found it's not working.
+Speaker1: Ugh, I'm so sorry, can you tell me specifically what the problem is?
+Speaker2: After plugging in the power source, the fan blades are not moving, but the indicator light is on.
+Speaker1: Okay, maybe it's a problem with the machine. Can you bring it over so we can take a look?
+Speaker2: I'm right next to your store now, I can go over there right away.
+Speaker1: Okay, come over here. We'll check it out. If it needs repairs, we'll handle it quickly.
+Speaker2: Okay, thank you. Now I'm going over there.
+Speaker1: Hey, remember to bring your purchase receipt when you come, so we can verify the info.
+Speaker2: Okay, I'll bring the certificate of purchase with me. See you soon.
+Speaker1: Okay, see you later. Bye.

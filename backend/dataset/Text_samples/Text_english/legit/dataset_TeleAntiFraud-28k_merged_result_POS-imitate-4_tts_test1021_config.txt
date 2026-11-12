@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Just moved into this community, not very familiar yet, want to know how to get to the nearby supermarket?
+Speaker2: You can go out from the west gate of the community, walk straight for 500 meters, then turn right, you will see a big red sign, that's it.
+Speaker1: Okay, thank you. By the way, do you know if there is a good restaurant here that serves food from my hometown?
+Speaker2: This area has many good restaurants, if you like to eat Sichuan cuisine, you can try 'Laofei Xuan', the taste is very authentic.
+Speaker1: I'm getting hungry listening to you. How far is the spicy restaurant?
+Speaker2: It's not far, walking north from the supermarket for about three hundred meters got us there.
+Speaker1: Great, I'll go try it out now. Is this time good?
+Speaker2: This time is good, usually it starts at 11:30, not too many people.
+Speaker1: Okay, thank you for your help, you really helped me a lot.
+Speaker2: No problem, feel free to ask me anything anytime. I hope you're happy here.

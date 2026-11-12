@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the credit manager of northeast bank, we noticed your credit record is very good, we would like to invite you to our promotion loan activity.
+Speaker2: Oh, really? What is the interest rate on your loan?
+Speaker1: The interest rate is very favorable, much lower than the ordinary loans in the market. To ensure your qualification, you need to download our official app and then verify your identity.
+Speaker2: Let's download the app, what's the name of your app?
+Speaker1: Our app is called "Dongbei Jingrong" and you can download it from the app store. After downloading, I will send you a verification code, which you can input to see the detailed loan products.
+Speaker2: Okay, let me try.
+Speaker1: Okay, please let me know once you download it, I'll send you the verification code right away.
+Speaker2: Okay, I'll go download it now.
+Speaker1: After downloading, you can add my WeChat, convenient for future consultation. My WeChat number is: neibujinrong.
+Speaker2: Okay, I'll add you on WeChat.

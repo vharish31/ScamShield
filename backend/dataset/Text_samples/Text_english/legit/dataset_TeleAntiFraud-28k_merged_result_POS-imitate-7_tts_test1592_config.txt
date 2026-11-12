@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What can I help you with?
+Speaker1: Can I make an appointment for tomorrow's haircut service? What time do you open?
+Speaker2: Can you come a little bit earlier in the morning at nine o'clock and leave a little bit earlier in the evening at eight o'clock?
+Speaker1: Can I go at around ten in the morning?
+Speaker2: Okay, we have an opening at 10 am. What kind of service did you book - regular haircut or with styling?
+Speaker1: I'll cut a regular hairstyle, no need for complexity.
+Speaker2: Okay, a typical haircut for me usually takes around 30 minutes. Do you have anything else that needs special mention? For example, do you have any specific requirements for hair length?
+Speaker1: No need for special requests, just cut to the right length. Okay, this is my first time here, how do you guys charge on this side?
+Speaker2: A haircut here costs thirty yuan, if you're satisfied, you can also give a little tip.
+Speaker1: Okay, I'll come at ten o'clock tomorrow.
+Speaker2: Okay, see you tomorrow. If there are any changes, please notify us in advance.

@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you? I'm the driver of the shuttle bus, did you book a car for today?
+Speaker2: Hello, yes, I made a reservation.
+Speaker1: Okay, can you confirm your order? I can see your information on this end.
+Speaker2: Okay, I confirm.
+Speaker1: Confirmed?
+Speaker2: Okay.
+Speaker1: Can we arrive a little earlier at the time we scheduled, which is seven o'clock?
+Speaker2: How early?
+Speaker1: What's the situation at 6:40 two hours in advance?
+Speaker2: Can we meet at 6:40?
+Speaker1: Yes, we will still meet at the originally agreed upon location.
+Speaker2: Okay, see you then.
+Speaker1: Okay, see you later, be safe on the way.

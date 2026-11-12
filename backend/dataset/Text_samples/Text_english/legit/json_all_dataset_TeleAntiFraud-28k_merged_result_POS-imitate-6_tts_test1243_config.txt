@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you? I am a customer service representative from Zhilian recruitment. Can you tell me about your company's recent recruitment situation?
+Speaker2: Hello, we are currently screening resumes, and the progress is still going smoothly.
+Speaker1: Okay, does my recommended resume have a suitable one?
+Speaker2: There are several people still considering, especially for the sales position, the local candidates are quite a few.
+Speaker1: Understood, what kind of person do you need for which position?
+Speaker2: Currently, the most needed position is a painting engineer, with relatively high technical requirements.
+Speaker1: Understood, I will recommend this job position's candidates with emphasis. Additionally, do you prefer local candidates for the sales position?
+Speaker2: Yes, local candidates are more familiar with the market, and communication is more convenient.
+Speaker1: Okay, I will take note of this point when recommending resumes. Yes, boss, I have a chat card here that I can give you for free, which will help you quickly filter the right candidates.
+Speaker2: Okay, thank you. How do you use this chat card?
+Speaker1: You can search local candidates on our platform and directly communicate with them using chat cards. The effective period is one month.
+Speaker2: I understand, thank you for your help.
+Speaker1: No problem, feel free to contact me if you have any questions. Best wishes for your recruitment, goodbye.
+Speaker2: Okay, bye.

@@ -1,0 +1,9 @@
+Speaker1: Hi, how are you? Good morning? I'm a customer service representative from Agricultural Bank. We have some new loan policies here. Are you interested in learning more?
+Speaker2: Hello, I don't need a loan at the moment, thank you.
+Speaker1: Oh no, this is really too bad. But our loan policy is very flexible, no collateral, fast approval, high quota, really very convenient. If you need it, I can give you a link, you can quickly understand and apply online.
+Speaker2: Okay, send me a link first, so I can see the specific content.
+Speaker1: Okay, no problem. I'll give you a link now. Just wait a moment, you'll receive a text message on your phone with a link that will take you directly to our application page when you click on it.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the text message has been sent out. Please check it as soon as you see it, and if you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. I hope our service can assist you.

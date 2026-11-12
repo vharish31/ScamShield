@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the manager of Speedy Finance, do you have time to talk now?
+Speaker2: Okay, you say.
+Speaker1: Is that so? We have a new low-interest loan product recently that's perfect for individual entrepreneurs. Do you have any need for capital rotation?
+Speaker2: How do I apply for this one that sounds good?
+Speaker1: It's very simple. Just provide some basic personal and shop information, and we can apply for a loan. For convenience, you can download our company's app, which has a quick application entry.
+Speaker2: How can I ensure the safety of my APP?
+Speaker1: We are a legitimate financial institution, all information is encrypted during transmission, very safe. You just need to use your phone to scan the QR code and download, I'll send you a link immediately.
+Speaker2: Okay, I'll wait a moment, you go ahead.
+Speaker1: Okay, wait a minute, I'll send you a text message with instructions, just follow them after you receive it.
+Speaker2: Okay, thank you.

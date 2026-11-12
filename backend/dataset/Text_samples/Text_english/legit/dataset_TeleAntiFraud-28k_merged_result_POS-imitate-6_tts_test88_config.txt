@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little king, I recently want to move, want to see if you guys have any suitable housing.
+Speaker2: Hello, Mr. Wang, I am real estate agent Li, what type of property are you looking for?
+Speaker1: Hmm, I want a two-bedroom apartment with an elevator, preferably, because there are old people at home.
+Speaker2: Okay, we have several options for this requirement. There's one in the sunlit garden and another in the city green zone. Which one do you find more convenient?
+Speaker1: How's the traffic on that side?
+Speaker2: The transportation in the garden under the sun is very convenient, it is close to the subway station, there are many bus routes, and it is very easy to travel.
+Speaker1: That's great, I plan to spend the weekend watching, don't know if it's convenient for you guys?
+Speaker2: No problem, we all have people on duty over the weekend. Could you specify which day is convenient for you, I can arrange to take you to see the houses here.
+Speaker1: Is Sunday morning okay? Around ten o'clock.
+Speaker2: On Sunday at 10 am, I will contact the landlord in advance to confirm the time arrangement is proper. Do you have a phone? I can easily contact you to confirm.
+Speaker1: Okay, my phone number is 123456789, you can contact me later.
+Speaker2: Okay, little king, I noted it down, see you this weekend.

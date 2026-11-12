@@ -1,0 +1,11 @@
+Speaker1: Hi, are you ready for your haircut tomorrow at 2 PM at the small Li Li hair salon?
+Speaker2: Hey, hello, let me check my schedule, it should be possible.
+Speaker1: Okay, please remember to bring the appointment code with you tomorrow, so we can save some time.
+Speaker2: Appointment code? I didn't receive it before.
+Speaker1: "Oh, it might be a system issue. Please tell me when you come tomorrow, I'll help you handle it."
+Speaker2: Okay, I'll just go directly tomorrow.
+Speaker1: Okay, see you tomorrow. Also, is this your first time here?
+Speaker2: Yes, first time.
+Speaker1: You can enjoy the new customer discount when you arrive, and our environment and service here are quite good, you will like it.
+Speaker2: Thanks for the introduction, see you tomorrow.
+Speaker1: No problem, see you tomorrow.

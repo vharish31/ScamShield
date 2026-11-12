@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker1: Are you on the second floor of that bookstore?
+Speaker2: Uh, okay.
+Speaker1: Do you have "White Peony" book there?
+Speaker2: Yes, there are many here. Do you want one?
+Speaker1: I want a book.
+Speaker2: Okay, wait for me at the first floor elevator, I'll send you over.
+Speaker1: Okay, I'll be there soon.
+Speaker2: No problem, you arrived to call me.
+Speaker1: Okay, thank you.

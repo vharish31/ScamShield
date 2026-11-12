@@ -1,0 +1,10 @@
+Speaker1: Hello, are you good? This is Huaxin Bank's customer service. You applied for our loan service before, right?
+Speaker2: No, I have never applied for any loan.
+Speaker1: "Hmm, it's possible that our system has made a mistake, but if you need it in the future, you can consider it, we can provide a 20 million no-collateral loan with very low interest."
+Speaker2: This one, I really don't need a loan right now.
+Speaker1: Okay, let me add you to my WeChat. You can contact me anytime if you need to, very convenient.
+Speaker2: I won't use WeChat anymore, thank you.
+Speaker1: Okay, but we have a special offer here. Just click on this link and you can get a free credit evaluation. Are you interested?
+Speaker2: Please send me that link, I'll take a look.
+Speaker1: Okay, I'll send it to you now. Just click and follow the instructions after.
+Speaker2: Okay, thank you.

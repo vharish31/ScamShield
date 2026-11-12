@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I just arrived at the parking lot, where are you?
+Speaker2: Hello, can you see the entrance to the -2 floor H zone here?
+Speaker1: I saw it, but I don't know how to walk, can you give me a route?
+Speaker2: Sure, follow the signboard and walk to the elevator, then go down to the negative second floor, turn left at the elevator and you can see H area.
+Speaker1: Okay, I understand now, thank you.
+Speaker2: No problem, you arrived to give me a call, I'm here waiting for you.
+Speaker1: Okay, I will, see you later.
+Speaker2: See you soon, be careful on the road.
+Speaker1: Okay, thank you.
+Speaker2: No thanks, I've arrived.

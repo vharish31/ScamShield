@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I want to consult your hair service.
+Speaker2: Hello, little Li, we provide various haircut services here, do you have any specific requirements?
+Speaker1: I want to cut my hair short, I heard you guys do it well here.
+Speaker2: Yes, all our hairdressers have a lot of experience, you can rest assured. Generally, short haircuts take about an hour and a half, what time is most convenient for you to come?
+Speaker1: I have some free time tomorrow afternoon around three o'clock.
+Speaker2: Tomorrow at three in the afternoon is okay. Just come to the store when it's time.
+Speaker1: What about the price?
+Speaker2: The basic trim for short hair is 80 yuan. If you need additional styling services, it might be a little more expensive. We can discuss the specifics later.
+Speaker1: Understood, so I'll arrive on time tomorrow. Thank you for your service.
+Speaker2: No problem, I'm looking forward to your arrival tomorrow, see you then.

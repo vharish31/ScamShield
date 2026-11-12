@@ -1,0 +1,10 @@
+Speaker1: Hello, can you hear me?
+Speaker2: Can you hear me? What's up?
+Speaker1: Can you inquire about any available rooms here for the weekend, I plan to spend the weekend playing?
+Speaker2: So, do you want a single or a double room?
+Speaker1: I can go alone, it's enough for a single person.
+Speaker2: How much is it per night for a single room, and how many days do you plan to stay?
+Speaker1: Can I book for two nights?
+Speaker2: Of course, I can help you book. Do you need me to record your contact information?
+Speaker1: Okay, my phone number is 13500000000.
+Speaker2: Okay, I have already booked for you. Remember to bring your ID when checking in.

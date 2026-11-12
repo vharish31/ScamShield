@@ -1,0 +1,11 @@
+Speaker2: Hey there!
+Speaker1: Hello, this is Xiaoming Dianmei, I want to consult your dining service on this side.
+Speaker2: Hello, okay, what do you need to order for dinner?
+Speaker1: We would like to reserve a dinner for six people at 6:30 PM on Friday.
+Speaker2: Okay, Friday at 6:30 PM, ten people. Do you have any special food requirements?
+Speaker1: Several friends don't eat spicy, and one person is allergic to seafood.
+Speaker2: Understood, we will specifically mark it. Do you have a pre-budget range?
+Speaker1: About two hundred per person.
+Speaker2: Okay, this budget allows for various options, including vegetarian and non-seafood dishes. Do you need to confirm the menu now?
+Speaker1: Okay, can you give me a menu, I'll take a look and decide.
+Speaker2: Okay, I'll send you my WeChat, take a look and see if anything needs adjusting.

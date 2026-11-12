@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm small Li, this is some certain express delivery's customer service, recently you have a certain express delivery problem, need your help.
+Speaker2: Oh, really? What's the problem?
+Speaker1: That's right, your package was lost during transportation, we need to process a refund, can you provide your bank card information?
+Speaker2: Okay, what do I need to do now?
+Speaker1: Just click this link, fill in the relevant information, and we'll quickly process it.
+Speaker2: Link? How do I operate?
+Speaker1: You can access it directly through the link in the text message, or I can send you a QR code, you can scan it too.
+Speaker2: Okay, I'll check my messages later.
+Speaker1: Okay, you will receive a text message later. If you have any questions, please contact us anytime. Thank you for your cooperation.
+Speaker2: Okay, thank you.

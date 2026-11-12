@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's special dishes and business hours?
+Speaker2: Our restaurant special dishes include red braised pork, steamed fish and scallion green onion, all very popular. We are open from 11 am to 9 pm every day.
+Speaker1: Oh, it sounds good. If I were to go back now, would there still be a place?
+Speaker2: There are still a few spots available, you can come directly. If you need to reserve a spot, please tell me your contact info, I'll hold it for you.
+Speaker1: Then I just went directly, about twenty minutes later arrived.
+Speaker2: Okay, we're holding a spot for you here. We're looking forward to your arrival.
+Speaker1: Thank you, see you later.
+Speaker2: Goodbye, welcome to come.

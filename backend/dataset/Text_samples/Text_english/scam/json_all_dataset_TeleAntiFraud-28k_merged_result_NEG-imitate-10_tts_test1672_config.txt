@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Hey, it's me, what's up?
+Speaker1: I am the manager of XX bank, I noticed you are one of our high-quality customers, recently we have launched a special low-interest loan product for high-quality customers, are you interested in learning more?
+Speaker2: "Oh, I'm currently rich enough, so I don't need a loan right now."
+Speaker1: That's great, but this loan product is very flexible, so if you have any future financial needs, such as home renovation or buying appliances, you can consider it, and the approval process is very fast.
+Speaker2: It sounds good, but I still think it's not ready yet.
+Speaker1: Understood, then let me add your WeChat, so that in the future if you need to contact me, it's very convenient.
+Speaker2: Okay, then you add it.
+Speaker1: Great, I'll add you on WeChat, my name is Liu Manager. You can consult me anytime after adding, and I can also provide you with other high-quality products and services.
+Speaker2: Okay, I understand, thank you.

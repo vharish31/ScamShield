@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the commercial bank personal loan department, I am the manager, Zhang.
+Speaker2: Hello, Zhang Manager.
+Speaker1: I saw that you had applied for a small loan at our bank before, and now we have a special promotion loan project with a loan amount up to 50,000 and a very low interest rate.
+Speaker2: Really? I recently need a capital rotation.
+Speaker1: Yes, this project is very suitable for you. To better understand the detailed information, you can first download our bank's official app, which contains detailed loan guidelines and application procedures.
+Speaker2: Alright, what should I do after downloading the app?
+Speaker1: After downloading, you can find the 'Quick Loan' entrance on the homepage and click to enter, then fill in the relevant information, and we will quickly review your application.
+Speaker2: What materials do I need to prepare?
+Speaker1: You just need to prepare your identity card, income proof, and credit report. These materials have detailed instructions in the app.
+Speaker2: Okay, I understand now, thank you, Zhang Jingni.
+Speaker1: No problem, if you have any questions, feel free to contact me anytime. My phone number is 13812345678. Best wishes for your application!

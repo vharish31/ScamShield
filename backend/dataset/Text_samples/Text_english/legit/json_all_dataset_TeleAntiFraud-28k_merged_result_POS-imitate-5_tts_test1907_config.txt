@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, where are you?
+Speaker1: I'm already at the parking lot, can you tell me how to walk?
+Speaker2: Okay, come out of the parking lot, turn right, walk to the first crossroads, then turn left, and you'll see our store.
+Speaker1: Okay, I understand, roughly how long will it take?
+Speaker2: About three to five minutes, you walked quickly and arrived.
+Speaker1: Okay, I'll go now, you wait for me a moment.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Thank you, see you later.
+Speaker2: No problem, see you later.

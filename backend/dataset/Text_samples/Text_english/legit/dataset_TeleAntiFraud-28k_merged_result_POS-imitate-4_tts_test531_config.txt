@@ -1,0 +1,13 @@
+Speaker1: Hello, are you from Zhang's household service?
+Speaker2: Hello, this is Zhang's household service, which person are you looking for?
+Speaker1: I am Lee Huai, I made a cleaning service appointment on the phone a few days ago, can you confirm the time today?
+Speaker2: Okay, Li Huafeng, please wait a moment, I'll check the records.
+Speaker1: Okay.
+Speaker2: Found it, your appointment is tomorrow morning from 10 to 12, right?
+Speaker1: Yes, that's this time.
+Speaker2: Okay, tomorrow at 10 am we will be on time at the door. Is there anything that needs to be prepared in advance?
+Speaker1: No need, thank you. By the way, my home has a cat that needs special attention, don't let it run wild.
+Speaker2: Understood, we will pay attention. If there are any issues, we will contact you in advance.
+Speaker1: Okay, please you all. Thank you!
+Speaker2: No problem, this is what we should do. See you tomorrow!
+Speaker1: See you tomorrow, goodbye!

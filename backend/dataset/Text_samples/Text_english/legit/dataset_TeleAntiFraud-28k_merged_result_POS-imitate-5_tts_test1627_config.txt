@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang, I just reserved a spot at your store, want to confirm?
+Speaker2: Hello, little Zhang, I am server Li, what time is your reserved position?
+Speaker1: I reserved two seats for 7:30 PM tonight.
+Speaker2: Okay, 7:30, two people's seats are reserved for you. Do you have any special table requests?
+Speaker1: It's best to sit by the window, so you can see the scenery on the street.
+Speaker2: Sure, we'll do our best to arrange seats by the window. Is there anything else you need help with?
+Speaker1: No more, thank you. Also, do you have any recommendations on your side?
+Speaker2: Our store's signboard menu has steamed sea bass and stir-fried pork, both very popular, you can try.
+Speaker1: Okay, thank you for your recommendation, I'll order it later.
+Speaker2: You're welcome. I'm looking forward to your visit. If you have any other questions, feel free to contact me anytime.

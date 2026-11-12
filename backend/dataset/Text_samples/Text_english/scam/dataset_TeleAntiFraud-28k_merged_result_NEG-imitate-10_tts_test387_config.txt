@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Li, the manager of the personal loan department at Zhao Shang Yin Hang, our bank currently has a low interest loan product, do you have any funding needs?
+Speaker2: Hello, my current financial situation is good, I don't need a loan at the moment.
+Speaker1: That's great! But if you need anything in the future, feel free to contact us. For your convenience, here's a link to our product details. Just click it to see more information.
+Speaker2: Okay, I'll take a look. Is this link safe?
+Speaker1: Of course, this is our official link, you can safely click it. Moreover, if you are interested in our other products, such as investment in finance, you can also learn more through this link.
+Speaker2: Let me take a look first.
+Speaker1: Okay, there's a download link for our official app in the link, which you can download to enjoy more discounts and convenient services. If you have any questions, you can directly contact me.
+Speaker2: Okay, thank you for your recommendation.
+Speaker1: No problem, if you have any financial needs in the future, please contact me first. Have a happy life!
+Speaker2: Okay, bye.

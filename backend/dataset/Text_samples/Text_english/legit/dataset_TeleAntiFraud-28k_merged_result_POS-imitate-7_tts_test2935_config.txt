@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I just arrived in this city and I'm looking for a place to eat, do you have any recommendations?
+Speaker2: Hello, there are many good small restaurants and cafes here. Do you have any specific food preferences or budget restrictions?
+Speaker1: I want to find a restaurant that is environmentally friendly, not too expensive, and serves local specialty dishes.
+Speaker2: I recommend you to try "Flavor City", the restaurant's food is very delicious, the environment is also very good, and the price is also reasonable.
+Speaker1: Okay, it sounds good. I'm at the train station now, can you tell me how to go?
+Speaker2: After getting off the train station, walk straight along the main road for about 500 meters, you will see a bus station, take the three-line bus and get off at the fifth station, then turn left and walk 100 meters, you will see this restaurant.
+Speaker1: Okay, about how long will it take?
+Speaker2: If you walk quickly, it will take about twenty minutes. If you take the bus, including waiting time, it might take thirty to forty minutes.
+Speaker1: Okay, thank you for your help. I'm off now.
+Speaker2: You're welcome. I hope you have a great dining experience. If you need more help, feel free to contact me anytime. Goodbye.

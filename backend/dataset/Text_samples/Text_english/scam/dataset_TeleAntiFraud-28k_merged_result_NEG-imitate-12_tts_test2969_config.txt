@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Huayang Yinhang, I am Xiao Li, the credit manager.
+Speaker2: Hello, little Li, what do you have?
+Speaker1: That's right, we noticed you might have some recent cash flow needs, we have a great loan project here, no collateral, low interest, fast approval.
+Speaker2: Is that true? I'm a bit short of cash lately.
+Speaker1: Yes, this project is very suitable for you. However, in order to ensure that your information is accurate and error-free, we need you to provide some personal information, including your identity card number and bank account.
+Speaker2: Okay, how can I provide this information?
+Speaker1: You can click this link and fill out the relevant information, we will process it quickly.
+Speaker2: Okay, I'll go fill it out right away.
+Speaker1: Thank you very much, feel free to contact me anytime if you have any questions.
+Speaker2: Okay, thank you.

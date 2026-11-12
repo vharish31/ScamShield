@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, what can I help you with?
+Speaker1: I am the customer service at the food square, do you like the food you ate last time?
+Speaker2: Hmm, quite good, service is very punctual.
+Speaker1: So, do you want to try our new menu items?
+Speaker2: What are some recommendations for the new menu items that sound good?
+Speaker1: Our new spicy hot pot and special small fry are very popular, and the taste is great.
+Speaker2: I'm starving listening to you, I want to try something this weekend.
+Speaker1: That's great, there might be more people this weekend, should we book a spot in advance?
+Speaker2: Okay, can we reserve two seats for two people on Saturday evening at 6:00 PM?
+Speaker1: Okay, I have already reserved a table for you at the food square on Saturday evening at six o'clock.
+Speaker2: Thank you, see you later.

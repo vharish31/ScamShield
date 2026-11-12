@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What can I help you with?
+Speaker1: Can you tell me about your restaurant's special dishes and business hours?
+Speaker2: Our restaurant specialties include red braised pork, steamed fish with clear broth and spicy stir-fry, all of which are very popular. We are open from 11 am to 10 pm every day.
+Speaker1: How many days in advance do I need to reserve a 7 pm seat?
+Speaker2: It's recommended to book at least one day in advance to ensure a seat.
+Speaker1: Okay, I'll contact you again tomorrow to confirm. Also, do you provide delivery service?
+Speaker2: Yes, we have delivery service, you can place an order through our app or delivery platform.
+Speaker1: That's great, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Wishing you a happy life!

@@ -1,0 +1,10 @@
+Speaker1: Hello, I am Little Wang, from Speed Selling Through Customer Service, your order has a problem, please cooperate to handle it.
+Speaker2: What problem?
+Speaker1: Your order was lost during delivery, to compensate you, we need you to provide some information to process a refund.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your bank card number and verification code. We will process the refund within one workday.
+Speaker2: Okay, how can I provide this information?
+Speaker1: You can click this link and fill out the relevant information, we will process it quickly.
+Speaker2: Link? How do I know this is safe?
+Speaker1: Don't worry, this is the official link of speed selling, absolutely safe. If you're not sure, you can first download our official app, and operate it through the app for more safety.
+Speaker2: Okay, I'll download the app and give it a try.

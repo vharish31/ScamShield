@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw a smartwatch on your website, want to know more about it?
+Speaker2: Hello, I'm very happy to help you. What aspects of this smartwatch would you like to know about?
+Speaker1: What is its price and how's its battery life?
+Speaker2: This smartwatch costs around 2800 yuan, in normal use it can last about 5 days.
+Speaker1: Hey, what motion modes does this watch support?
+Speaker2: It supports running, cycling, swimming, and over ten other exercise modes, which can meet your different exercise requirements.
+Speaker1: I recently thought of buying a new watch.
+Speaker2: That's great! This smartwatch is very suitable for you. If you place an order now, you can also enjoy a 95% discount.
+Speaker1: Okay, I'll place the order. So, how long will delivery take?
+Speaker2: Typically, we will ship within 24 hours after your order and deliver within 3-5 days, depending on your location.

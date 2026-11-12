@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: I'm at the gate, which gate, there are several doors here.
+Speaker1: Which door? I can't find you here, can you come in and find me?
+Speaker2: I see you, you are in front of me thirty meters away, I will go over there soon.
+Speaker1: I can't see you, there are several doors here, I don't know which door you're in.
+Speaker2: Open the navigation, look down at where I am, I show you are in front of me here.
+Speaker1: I opened it, but the signal here is bad, and I still can't find you.
+Speaker2: I'll walk a little further, you walk thirty meters, we'll meet there.
+Speaker1: Okay, I'll walk forward and look, remember to walk forward too.
+Speaker2: Okay, I'll go over there now, see you later.

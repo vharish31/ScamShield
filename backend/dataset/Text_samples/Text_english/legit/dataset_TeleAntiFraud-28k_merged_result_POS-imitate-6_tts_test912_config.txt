@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I've been looking for a good hair salon lately, I heard your place does great haircuts, want to check it out?
+Speaker2: Hello, Xiaoming, we really have many skilled masters here, what time is it convenient for you to come over?
+Speaker1: It's best if it's this weekend. Do you know what your weekend business hours are?
+Speaker2: What time segment are you available during our weekend business hours, which are from 9am to 8pm?
+Speaker1: Can I come at 2 pm on Saturday?
+Speaker2: Saturday at 2 PM is okay, but this time slot is popular with reservations, I'll help you confirm.
+Speaker1: Okay, can you help me?
+Speaker2: I have already made a reservation for you on Saturday at 2 pm. Please come ten minutes earlier, we are ready for you.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later, wish you a happy day.

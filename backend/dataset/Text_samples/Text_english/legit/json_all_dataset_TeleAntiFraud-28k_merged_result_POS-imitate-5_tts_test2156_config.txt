@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I want to book a train ticket for tomorrow morning at 9am.
+Speaker2: Hello, Xiaoming, this is the train station service counter. Which direction's train ticket do you want to book?
+Speaker1: I want to go to Beijing.
+Speaker2: Okay, we have Beijing train tickets here, are you alone?
+Speaker1: Yes, just me alone.
+Speaker2: Okay, I'll book a hard seat ticket for you to go to Beijing tomorrow morning at 9:00. Please provide your identity card number for real name check ticket purchase.
+Speaker1: My ID number is one two three four five six seven eight nine zero one two three.
+Speaker2: Okay, I have recorded your information and your train ticket has been successfully booked. You can print your ticket at the self-service machine at the station before departure or use your mobile electronic ticket to board the train.
+Speaker1: Okay, thank you. By the way, what should I pay attention to when I go to Beijing for the first time?
+Speaker2: The weather in Beijing is quite dry now, so it's recommended to bring some moisturizing skincare products. Additionally, Beijing has many scenic spots, so it's suggested to plan the itinerary in advance. Have a pleasant journey!

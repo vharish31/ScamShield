@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I recently want to buy a new phone, can you help me take a look?
+Speaker2: Hello, of course, what type of phone do you want to buy? Do you need high performance or emphasize camera function?
+Speaker1: I mainly use it for playing games, occasionally take photos, budget around 3000 yuan.
+Speaker2: Okay, this budget has several good options. For example, this new released gaming phone has high configuration and good heat dissipation, which is very suitable for playing games. The camera is also equipped with four lenses, which can meet the daily photography requirements.
+Speaker1: How long does the battery of this phone last?
+Speaker2: This phone's battery capacity is 5000mAh, it can sustain big games all day. Moreover, it supports fast charging, and the charging speed is very fast.
+Speaker1: Is there any fresh produce? Can I go to the store to take a look?
+Speaker2: If you have time, you can come to our store and try some of our products. Our store is located on the third floor of the electronic city in the city center. We are open from 10 am to 9 pm.
+Speaker1: Okay, I'll go take a look tomorrow afternoon. Thank you for your recommendation.
+Speaker2: No problem, see you tomorrow! If you have any questions, feel free to contact me anytime.

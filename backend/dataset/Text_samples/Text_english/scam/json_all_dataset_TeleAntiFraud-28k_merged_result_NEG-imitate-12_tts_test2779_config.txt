@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the manager of Happiness Finance, calling to share some good news with you.
+Speaker2: Hello, do you have any good news?
+Speaker1: We recently launched a special discounted financial product with a high return rate and low risk.
+Speaker2: What's the specific situation?
+Speaker1: That's it. Just download our company's app and register an account to see detailed product introductions.
+Speaker2: Download the app? Is it safe?
+Speaker1: Very safe, we are a regular financial institution and have obtained multiple certifications. After downloading, you will also enjoy the additional reward for new user registration.
+Speaker2: Okay, how do I download it?
+Speaker1: You can click on the link I sent you to directly download our official app. After downloading, please use this phone number to register, so I can help you apply for additional discounts in the backend.
+Speaker2: Okay, I'll give it a try. Thank you.

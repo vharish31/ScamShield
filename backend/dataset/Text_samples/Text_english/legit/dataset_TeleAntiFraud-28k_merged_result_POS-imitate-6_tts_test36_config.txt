@@ -1,0 +1,9 @@
+Speaker2: Hey, how are you?
+Speaker1: Where are you? I see the location you sent, is it near that small park?
+Speaker2: Hey, I'm walking here, have you come over?
+Speaker1: I'm still on the road, probably about ten minutes, you wait for me a minute.
+Speaker2: Okay, I'm waiting for you at the park entrance.
+Speaker1: Okay, I'm calling you now.
+Speaker2: Okay, be careful on the road.
+Speaker1: Thank you, see you later.
+Speaker2: See you later.

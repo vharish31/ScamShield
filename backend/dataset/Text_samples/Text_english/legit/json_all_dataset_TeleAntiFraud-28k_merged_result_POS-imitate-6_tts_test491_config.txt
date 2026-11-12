@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you Ming, did you make a haircut appointment recently?
+Speaker2: Yes, it's my appointment.
+Speaker1: Okay, is your appointment tomorrow at 3 PM?
+Speaker2: Yes, it's tomorrow afternoon at three o'clock.
+Speaker1: Okay, you can come directly tomorrow, our address is happiness road one hundredth, do you know how to come?
+Speaker2: I roughly know, but I'm not very clear, can you tell me how to walk?
+Speaker1: Of course, you can enter the happy road from the entrance, walk straight for 500 meters, see the first red and green light turn right, and then walk straight to the second road turn left, and you can see our store.
+Speaker2: Okay, thank you for your detailed guidance. See you tomorrow.
+Speaker1: No problem, see you tomorrow, be careful on the road.

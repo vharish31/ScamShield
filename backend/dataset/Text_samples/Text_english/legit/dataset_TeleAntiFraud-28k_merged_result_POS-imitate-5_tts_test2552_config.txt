@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you please provide me with your restaurant's vegetarian menu and business hours?
+Speaker2: Okay, our restaurant has a very rich vegetarian menu with various salads, stir-fried vegetables, vegetarian pizzas and more. You can find detailed information on our website. Our business hours are from 10 am to 10 pm.
+Speaker1: Do you have any vegetarian options?
+Speaker2: Yes, we have a special menu designed for vegetarians, including appetizers, main courses, and desserts, priced at 80 yuan per person.
+Speaker1: Does it sound good? I plan to come at six o'clock tomorrow night. Do I need to book in advance?
+Speaker2: It's recommended to book in advance, especially on weekends and holidays, to ensure a seat.
+Speaker1: Okay, I'll reserve two seats for two people named Li Ming.
+Speaker2: Okay, Li Ming Xiāngshēng, we have reserved two seats for you at 6 pm tomorrow night at the front desk. Just come and sign in when you arrive.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

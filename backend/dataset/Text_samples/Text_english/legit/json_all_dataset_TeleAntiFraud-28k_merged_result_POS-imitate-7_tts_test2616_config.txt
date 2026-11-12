@@ -1,0 +1,8 @@
+Speaker1: Hello, I am a waiter at the restaurant, you previously reserved a seat for tonight at our restaurant, do you want to confirm if you will come?
+Speaker2: Oh, yes, I remember.
+Speaker1: Okay, we'll hold it for you until 7 pm tonight. If it's past that time, we might have to reschedule.
+Speaker2: No problem, we will arrive on time.
+Speaker1: Great, see you later. If you need help, feel free to contact us anytime.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome. I hope you have a nice day. Bye.
+Speaker2: Goodbye.

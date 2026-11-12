@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am customer service representative Zhang for home maintenance services. Your air conditioning repair has been scheduled. Our master will come to your home tomorrow morning at 10 am to provide service.
+Speaker2: Okay, can you help me?
+Speaker1: No problem, our master will bring the tools directly to your door, you just need to prepare the air conditioner repair card and purchase receipt.
+Speaker2: Okay, I'll be ready tomorrow. What if I'm not at home?
+Speaker1: If you're not at home tomorrow, please contact us in advance to change the time, or let the teacher and you call to confirm the specific time.
+Speaker2: How long will it take for the master to repair it?
+Speaker1: In general, checking and maintenance usually take about an hour or so, but if the issue is complex, it may take a bit longer.
+Speaker2: Understood, then I'll try to arrange it at home tomorrow.
+Speaker1: Okay, if you have any questions, please contact our customer service at any time. We hope our service meets your expectations.
+Speaker2: Thank you, I'll come over tomorrow with the teacher.

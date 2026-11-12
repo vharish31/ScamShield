@@ -1,0 +1,14 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, who are you?
+Speaker1: I am the customer service manager of Happy Bank, we noticed that you recently applied for a loan on our platform but have not completed the final review.
+Speaker2: Oh, really? I did apply, but I haven't received a reply yet.
+Speaker1: That's right, your information has passed the initial review, but in order to ensure the accuracy and completeness of your information, we need you to provide some additional information.
+Speaker2: What information do you need?
+Speaker1: Please provide a photo of your ID and a photo of you holding your ID to prove your identity.
+Speaker2: This sounds a little strange, why does your bank do it this way?
+Speaker1: This is our bank's internal audit process, to ensure your rights, we must confirm your information is real and effective.
+Speaker2: How do I submit these information?
+Speaker1: You can click this link to upload your photo, we will quickly review it.
+Speaker2: Okay, let me try.
+Speaker1: Thank you for your cooperation. If you have any other questions, feel free to contact me anytime. Have a happy life.
+Speaker2: Thank you.

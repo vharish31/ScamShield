@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Ming?
+Speaker2: Yes, little Ming is here. Who are you?
+Speaker1: I'm the customer service staff at the fitness center you previously booked, just confirming the time of your fitness class appointment.
+Speaker2: Okay, I remember the private coaching class is tomorrow at 3 pm, right?
+Speaker1: Yes, it's tomorrow afternoon at three o'clock. However, we have a temporary coach who needs to deal with some urgent matters, so we need to adjust the class time, can we change it to four o'clock in the afternoon?
+Speaker2: I can meet at four o'clock, but I have a meeting at four thirty, I hope the class ends on time.
+Speaker1: Okay, we will ensure that the course starts at four o'clock and ends at four thirty. Additionally, we need you to arrive at the front desk fifteen minutes before the start of the course to sign in.
+Speaker2: Okay, I understand, thank you for your reminder.
+Speaker1: You're welcome. If you have any questions, feel free to contact us anytime. Have a nice day!
+Speaker2: Thank you, goodbye.

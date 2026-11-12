@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the credit card center of the Bank of China, I am customer service representative Zhang, have you recently used our credit card for large-scale expenses?
+Speaker2: What's up?
+Speaker1: Hey, we found some unusual transactions on your credit card, we need you to cooperate with us for a security verification, are you okay now?
+Speaker2: I'm a bit busy now, but I can listen to you talk about what happened.
+Speaker1: Okay, to ensure the safety of your account, can you provide the verification code for your recent transaction?
+Speaker2: What's the verification code? I didn't receive it.
+Speaker1: It might be network delay, please wait a moment and I'll send you another message. Keep the phone line open, we'll have a customer service representative send you a text message soon.
+Speaker2: Okay, I'm waiting.
+Speaker1: Thank you very much for your cooperation. Please pay attention to check the message later and tell me the verification code, so we can proceed with the next step.
+Speaker2: Okay, I understand.

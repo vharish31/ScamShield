@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am Lee Huai, do you provide household services here?
+Speaker2: Hello, Li Huai, do we provide housekeeping services here, do you need to book cleaning and sanitation or other housekeeping services?
+Speaker1: I need to schedule a cleaning appointment, approximately 3 hours.
+Speaker2: Okay, we have different menus here, the three-hour service is approximately 150 yuan, do you think it's suitable?
+Speaker1: Is this price acceptable? Then can I make an appointment for three o'clock in the afternoon tomorrow?
+Speaker2: Tomorrow at three in the afternoon is okay, but we suggest arriving half an hour earlier to ensure timely service start.
+Speaker1: Okay, I'll be ready at 2:30, will you call me ahead to confirm?
+Speaker2: Okay, can we call you an hour before the service starts to confirm the address and time?
+Speaker1: That's great, then my address is Happiness Villa No. 2, Building 3, Unit 4, Room 202.
+Speaker2: Okay, Happy Community Building 2, Unit 3, Room 402, We've noted it down. See you tomorrow.
+Speaker1: Okay, see you tomorrow, thank you.

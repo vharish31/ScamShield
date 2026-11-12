@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, the customer service at the food square, have you not redeemed your points on our platform yet?
+Speaker2: Oh, really? I don't know there are points?
+Speaker1: That's right, every time you order food on our platform, you'll accumulate points, and now your account has over five thousand points.
+Speaker2: Hmm, how can these points be used?
+Speaker1: These points can be used to exchange our membership card or directly deduct cash, such as you can deduct 50 yuan for your current order.
+Speaker2: Great, I'll go take a look.
+Speaker1: Okay, I just sent you a text message with your balance and exchangeable projects. Click on the link to see it.
+Speaker2: Okay, I'll take a look right away.
+Speaker1: Remember, these points will expire and be cleared at the end of the month, so use them up quickly.
+Speaker2: Okay, thank you for your reminder. I will handle it quickly.

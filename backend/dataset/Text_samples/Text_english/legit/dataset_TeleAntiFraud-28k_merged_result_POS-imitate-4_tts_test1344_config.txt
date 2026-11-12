@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the property manager of the community.
+Speaker2: Hello, what do you have?
+Speaker1: It's like this, we found out recently that your family's electricity bill is a bit unusual, and we want to know if there are any appliances in your house that have been on for a long time?
+Speaker2: Oh, I need to go back home and check, maybe I forgot to turn off the air conditioner.
+Speaker1: Okay, feel free to contact us anytime if you have any questions. We provide 24/7 service.
+Speaker2: Okay, thank you for your reminder.
+Speaker1: No problem, by the way, recently our community has been doing green maintenance, there might be some noise, it might disturb you, we'll do our best to control it.
+Speaker2: Okay, I understand, thank you for your understanding and effort.
+Speaker1: If you have any suggestions or need help, feel free to contact us anytime.
+Speaker2: Okay, I will, thank you again.

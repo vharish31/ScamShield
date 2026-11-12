@@ -1,0 +1,11 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Who is it?
+Speaker1: I am the client manager of the construction bank of China, my name is Zhang. We noticed that your company's business has developed rapidly recently, and we want to know if you have any requirements for capital rotation?
+Speaker2: Oh, I don't have a plan yet.
+Speaker1: That's great! But if you have any needs in the future, feel free to contact us anytime. To make it easier for you to consult us in the future, can you add a WeChat?
+Speaker2: Add WeChat, if there's a need, I'll directly call your bank.
+Speaker1: Sure, sure. Do you have time to scan the QR code and download our bank's app? It has many convenient services, such as online loan application and account management.
+Speaker2: I don't use the app anymore, I can manage my bank account with my phone.
+Speaker1: That's fine, but do you know that our bank has a special activity recently? By applying for a loan through a specific link, you can enjoy a lower interest rate discount.
+Speaker2: Okay, I'll think about it. How do I give you the link?
+Speaker1: Thank you very much for your cooperation. I will send you the link via text message, and you can apply directly after receiving it.

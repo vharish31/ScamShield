@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the property manager of the community, would you like to confirm if your parking spot needs to be renewed?
+Speaker2: Hello, my parking spot is in the underground garage, it was a yearly exchange last year.
+Speaker1: Yes, your last payment has expired. We can provide online payment or you can pay in person at the property management office.
+Speaker2: Can I pay online? How do I operate it?
+Speaker1: Okay, you can find the parking fee payment entrance through our official WeChat public account, input your car number and license plate number according to the prompt, and complete the payment to park.
+Speaker2: Okay, I'll try and see what to do if there are problems.
+Speaker1: If you have any questions, you can directly call our service hotline, and we will have a specialist answer for you.
+Speaker2: Okay, I'll first go try it out, and contact you if there are any issues.
+Speaker1: Okay, please feel free to contact us at any time, wish you a happy life.
+Speaker2: Thank you, goodbye.

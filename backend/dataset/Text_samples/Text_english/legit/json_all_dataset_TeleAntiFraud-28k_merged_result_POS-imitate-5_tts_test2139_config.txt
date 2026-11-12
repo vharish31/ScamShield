@@ -1,0 +1,14 @@
+Speaker1: Hello, you.
+Speaker2: Hey, are you little Ming?
+Speaker1: Yes, who are you?
+Speaker2: Hey, how have you been lately?
+Speaker1: Hello, how are you? What have you been up to lately?
+Speaker2: I've been busy preparing a project lately. Hey, do you have any free time this weekend?
+Speaker1: What are your plans for the weekend?
+Speaker2: Do you want to go shopping at the bookstore and have lunch together?
+Speaker1: Where is the bookstore?
+Speaker2: You know the big one in the city center, right?
+Speaker1: When do we meet?
+Speaker2: What do you want to do at two o'clock?
+Speaker1: Okay, see you at two in the afternoon, see you then.
+Speaker2: Okay, see you later, be safe on the way.

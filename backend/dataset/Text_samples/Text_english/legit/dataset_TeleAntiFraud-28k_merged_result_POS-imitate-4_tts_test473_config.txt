@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me your restaurant's business hours?
+Speaker2: Our restaurant opens at 10 am every day and closes at 10 pm.
+Speaker1: Can I go out at seven o'clock tonight?
+Speaker2: Of course, seven o'clock is our business hours.
+Speaker1: Okay, I want to reserve a four-person seat.
+Speaker2: No problem, can I book for you? What's your name and contact info?
+Speaker1: My name is Zhang San, phone number is 13123456.
+Speaker2: Okay, Mr. Zhang, your appointment has been successfully scheduled. See you at seven o'clock tonight.

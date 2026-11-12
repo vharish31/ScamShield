@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you have any seats left in your restaurant?
+Speaker2: Yes, do you want to make a reservation?
+Speaker1: Yes, I plan to spend tonight outside.
+Speaker2: Okay, what time are you coming?
+Speaker1: Let's meet at around seven o'clock.
+Speaker2: Okay, 7:00 am, we will reserve a spot for you.
+Speaker1: What do you recommend?
+Speaker2: Our restaurant menu has red braised pork and steamed fish, both highly rated by customers.
+Speaker1: The food sounds good, I'll order these two dishes later.
+Speaker2: Okay, I'll be ready at the time. Do you need any other help?
+Speaker1: No more, thank you.
+Speaker2: You're welcome. I'm looking forward to your arrival. Goodbye.

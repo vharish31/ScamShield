@@ -1,0 +1,10 @@
+Speaker1: Hey, have you eaten yet?
+Speaker2: Not yet, just about to go out and find some food.
+Speaker1: Do you want to go together? I know a new restaurant that opened, the taste is not bad.
+Speaker2: Great, I also want to try the new store. When do we go?
+Speaker1: Let's go now, early morning is less crowded.
+Speaker2: Okay, I'll go downstairs and wait for you.
+Speaker1: Okay, I'll be there soon.
+Speaker2: You arrived, call me.
+Speaker1: No problem, see you later.
+Speaker2: See you later.

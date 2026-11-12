@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I want to know more about your store's special dishes
+Speaker2: Hello, our store's signature dishes include spicy pot-stewed pork, steamed pork slices, and stir-fried frog, all of which are very popular with customers.
+Speaker1: What time does your store open?
+Speaker2: Our store opens at 11 am and closes at 10 pm.
+Speaker1: Okay, can I reserve a four-person seat for tomorrow night at seven o'clock?
+Speaker2: Okay, the 7:45 PM spot for four people has been reserved for you for tomorrow night. Do you need to provide your phone number to confirm?
+Speaker1: Okay, my phone number is 138-138-1380.
+Speaker2: I have recorded it. See you tomorrow at 7 pm. If there are any changes, please inform us in advance.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, goodbye.

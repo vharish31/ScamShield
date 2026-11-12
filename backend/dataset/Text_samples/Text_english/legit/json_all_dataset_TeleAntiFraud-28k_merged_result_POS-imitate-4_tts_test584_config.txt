@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I consult your hairdressing service? Do you have any appointments?
+Speaker2: Okay, we support phone and online booking. What time would you like to book?
+Speaker1: Can I be there at 3 pm on Saturday afternoon?
+Speaker2: Can I help you make a reservation for 3 PM on Saturday afternoon?
+Speaker1: Okay, can you help me?
+Speaker2: No problem, can you provide your name and contact information?
+Speaker1: My name is Li Ming, phone number is 13801380138.
+Speaker2: Okay, Li Ming Xiāngshēng, your appointment has been successful. Saturday afternoon at three o'clock, remember to come on time.
+Speaker1: Okay, thank you.

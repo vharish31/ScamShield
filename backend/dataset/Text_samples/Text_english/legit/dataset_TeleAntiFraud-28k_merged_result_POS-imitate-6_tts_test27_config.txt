@@ -1,0 +1,11 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, is there a convenience store nearby that store?
+Speaker2: Yes, just at the left side of the small community door, a few steps led me there.
+Speaker1: Okay, I want to buy something tonight.
+Speaker2: No problem, the convenience store on that side is 24-hour open.
+Speaker1: That's so convenient, thank you.
+Speaker2: No problem, please let me know if you need any help anytime.
+Speaker1: Okay, I plan to go to the park tomorrow and play, do you know how to get there?
+Speaker2: You can take the bus from the community, turn left after getting on, and walk two stations to reach the destination.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: Okay, see you tomorrow, be careful on the road.

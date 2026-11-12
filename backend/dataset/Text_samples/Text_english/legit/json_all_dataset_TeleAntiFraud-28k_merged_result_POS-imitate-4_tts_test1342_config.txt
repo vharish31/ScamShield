@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from some e-commerce platform. You have purchased some products on our platform before, and now you have some unused credits in your account.
+Speaker2: Hey, do I have any unused points?
+Speaker1: Yes, you have accumulated 12,000 points on your account, which can be exchanged for some products, but if you don't use them before midnight tonight, the points will expire.
+Speaker2: How do I exchange it?
+Speaker1: You received a message with a link, click the link to enter our point store, select your favorite products, and exchange them directly with points.
+Speaker2: Can these points really be redeemed for cash?
+Speaker1: Yes, these points can be exchanged for cash discounts according to a certain ratio, and the value of the product you exchange will be directly deducted from your points.
+Speaker2: Okay, I'll check my messages, I'm going to exchange them tonight.
+Speaker1: Okay, if you have any issues during the exchange process, please contact our customer service at any time, and we will quickly help you solve them.
+Speaker2: Thank you, I know, goodbye.

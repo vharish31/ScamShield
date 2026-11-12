@@ -1,0 +1,10 @@
+Speaker1: Hello, are you little king?
+Speaker2: Hello, I am little king, who are you?
+Speaker1: I am the property manager of the happy community, can you confirm with me that tomorrow morning we have a pipeline check, please cooperate at home.
+Speaker2: Okay, what time can I meet you tomorrow morning?
+Speaker1: Is the time between 9am and 11am available?
+Speaker2: Okay, you guys come in and give me a call, I'll go open the door.
+Speaker1: Okay, let's meet tomorrow, remember to keep the phone line open.
+Speaker2: Okay, thank you. Is there anything else to pay attention to?
+Speaker1: No problem, just keep it in mind, if there are any issues, feel free to contact property management.
+Speaker2: Okay, I understand, thank you.

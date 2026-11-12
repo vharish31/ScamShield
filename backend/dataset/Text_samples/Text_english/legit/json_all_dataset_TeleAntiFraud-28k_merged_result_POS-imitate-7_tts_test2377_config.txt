@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service monkey of the point store. We haven't seen any points in your account being exchanged before. Tonight at midnight, all points will be cleared. Do you know?
+Speaker2: Really? I still don't know what these points can do?
+Speaker1: You can directly redeem cash with points, your account has over 26,000 points, which can be exchanged for various products such as white wine gift boxes, famous brand four-piece sets, and even some electronic products like high-definition TVs and smartwatches.
+Speaker2: This is great, so I need to hurry and see what's suitable.
+Speaker1: Yes, you can log in to our website or open our app, select your favorite products to exchange.
+Speaker2: If I selected a product but my points are insufficient, can I make up the difference in price?
+Speaker1: Of course, you can use cash to make up for the points that are not enough. Moreover, as a token of appreciation for your continuous support, I can help you apply for a special privilege, which means that the remaining points after redemption will be retained and not cleared, and you will also receive an additional gift bag, which includes free return and exchange services.
+Speaker2: Okay, now I'll go take a look at what suitable products are available.
+Speaker1: Okay, I hope you can choose the products you like. If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, I will.

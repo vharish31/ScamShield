@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm from Xiǎo Dù Wǎi Mǎi, you just placed an order on our platform, but the address is a bit unclear, can you confirm your location?
+Speaker2: Okay, I'm at the door of xx community, which is next to xx road, you can call me directly when you come over.
+Speaker1: Okay, I noted it down. It should take about twenty minutes to send it over. Is that okay?
+Speaker2: Okay, I'll wait for you guys at the small community door later.
+Speaker1: Okay, just remember to pay attention at the designated time, our delivery person will contact you. Is there anything else I can help with?
+Speaker2: No more, thank you, you all worked hard.
+Speaker1: No problem, feel free to contact us anytime if you have any questions. I'll hang up now, bye.
+Speaker2: Okay, bye.

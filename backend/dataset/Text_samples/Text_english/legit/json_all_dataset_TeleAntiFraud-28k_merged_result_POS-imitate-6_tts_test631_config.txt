@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the Xiaoming electric vehicle rental store?
+Speaker2: Hello, yes, this is the Xiaoming electric vehicle rental store, what can I help you with?
+Speaker1: My friend recommended me to come here to rent an electric car, I want to know more about your car types and prices here.
+Speaker2: Okay, here we mainly provide electric cars from New Day, Yatou and Xiaoniu brands, daily rental prices from 50 to 100 yuan not equal, specific prices depend on car type and rental duration.
+Speaker1: Hey, how much would it cost to rent for a week?
+Speaker2: If you rent for a week, the New Day electric car is 350 yuan, Yatou is 400 yuan, and the little cow is a little more expensive, 450 yuan.
+Speaker1: Uh, this way, then I'll rent a new day's, can you send it to my home? I'm in the Lighting Small Community.
+Speaker2: Sure, Lightning Square is within our delivery range, we can send the car to your convenient time.
+Speaker1: That's great, I have some free time around 3 pm tomorrow afternoon. Can you send it then?
+Speaker2: Okay, tomorrow afternoon at three o'clock we will arrive on time at the Lightning Small Community, and then you can wait for us at home.

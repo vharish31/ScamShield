@@ -1,0 +1,13 @@
+Speaker1: Hello, I'm little king, want to consult your family's home service
+Speaker2: Hello, Little Wang, what can I help you with?
+Speaker1: Can you tell me more about your cleaning service, specifically what it includes?
+Speaker2: Our cleaning service includes daily cleaning, deep cleaning and specialized cleaning, such as deep cleaning the kitchen and bathroom, and washing the carpets, etc.
+Speaker1: What is the price like?
+Speaker2: The price varies depending on the service content and the size of the house. The daily cleaning is usually 30 yuan per hour, and the deep cleaning is usually 50 yuan per hour.
+Speaker1: How long do I need to book the service time?
+Speaker2: Based on your family's situation, a typical three-bedroom, one-living-room house requires three hours for daily cleaning and five hours for deep cleaning.
+Speaker1: Sure, can I make a reservation for next Saturday?
+Speaker2: Sure, next Saturday we have a free slot, would you prefer morning or afternoon?
+Speaker1: Can we meet at two in the afternoon?
+Speaker2: Sure, we'll be on time for the afternoon two o'clock service.
+Speaker1: Okay, thank you.

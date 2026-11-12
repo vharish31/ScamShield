@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? Your recent purchase of a certain brand phone from Taobao has issues, and you need to process a refund.
+Speaker2: Oh, really?
+Speaker1: Yes, we have confirmed the situation. To ensure your rights, you need to cooperate with us to complete the refund process.
+Speaker2: Okay, what do I need to do?
+Speaker1: First, click on the link we sent, enter the refund page, fill out the relevant information.
+Speaker2: Okay, I'll click on the link now.
+Speaker1: Please provide your bank card number and verification code for safety reasons.
+Speaker2: This one is okay, my bank card number is 1234567890123456, verification code is 123456.
+Speaker1: Okay, we have received your information. We will process your refund later.
+Speaker2: Thank you, how long do I need to wait?
+Speaker1: In general, refunds are processed within 24 hours and will be credited to your account. If it takes longer than 24 hours and you haven't received the refund, please contact our customer service.
+Speaker2: Okay, thank you.

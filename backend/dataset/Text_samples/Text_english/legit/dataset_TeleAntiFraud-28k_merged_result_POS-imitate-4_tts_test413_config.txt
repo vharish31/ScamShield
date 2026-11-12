@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you? I want to know more about your kids' toy cars. Do you still have any goods?
+Speaker2: Hello, our children's toy car is currently low in stock, only a few colors remain.
+Speaker1: What colors are there?
+Speaker2: What color do you want, red or blue?
+Speaker1: What is the price of the blue one?
+Speaker2: The price of the blue children's toy car is 280 yuan, and now you can enjoy free shipping when purchasing.
+Speaker1: Okay, then I'll buy a blue one.
+Speaker2: Okay, do you need to place an order now?
+Speaker1: What payment method do I need?
+Speaker2: You can complete payment directly through our online payment system, or choose delivery on payment.
+Speaker1: Okay, I choose online payment.
+Speaker2: Okay, I will help you process the order and it should arrive within three days. Is there anything else you need help with?
+Speaker1: Thanks for your help. I'm sorry, I don't have it right now.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy life, goodbye.

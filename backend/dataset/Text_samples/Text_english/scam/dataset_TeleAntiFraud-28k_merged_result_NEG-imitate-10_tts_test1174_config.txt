@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service representative from Shenzhen Bank, I am Lee Wenbo, our system shows that your credit is good, can we provide you with a low-interest loan, do you have any recent financial needs?
+Speaker2: Hello, currently no need, thank you.
+Speaker1: Okay, I understand your situation. But if you need anything in the future, you can consider it. Alright, add my WeChat, you can contact me directly if you have any questions in the future, it's more convenient.
+Speaker2: This is not necessary, thank you.
+Speaker1: Okay, but I have a special promotion going on. Just scan the QR code to download our official app, register, and you'll get an 80% discount on your first loan interest rate. Are you interested in learning more?
+Speaker2: Listen well, how to operate?
+Speaker1: Great, just open WeChat, scan the QR code I send you, download the app, complete the registration, and you can see the discount.
+Speaker2: Okay, let me try.
+Speaker1: Please wait for a moment, I will send it to you soon. If you have any questions, feel free to contact me anytime. Have a nice day!
+Speaker2: Thank you, goodbye.

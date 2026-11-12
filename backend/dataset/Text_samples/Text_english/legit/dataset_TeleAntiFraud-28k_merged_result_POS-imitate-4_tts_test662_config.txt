@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am the property management service of the community, I want to confirm with you the water and electricity check tomorrow, are you at home tomorrow?
+Speaker2: When are you coming home?
+Speaker1: The plan is from 9am to 11am. If you have other time arrangements, we can adjust.
+Speaker2: What do I need to prepare from 9am to 11am?
+Speaker1: No special preparation is needed. We mainly check the safety of the water and electricity, to ensure there are no hidden dangers.
+Speaker2: Okay, I'll be at home at 9am tomorrow.
+Speaker1: Okay, thank you for your cooperation. If you have any issues, please contact property anytime.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye, wish you happy life.

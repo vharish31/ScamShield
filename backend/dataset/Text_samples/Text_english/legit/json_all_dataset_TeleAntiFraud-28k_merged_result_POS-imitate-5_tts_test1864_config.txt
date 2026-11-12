@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I want to consult your hair salon services
+Speaker2: Okay, we provide haircut, hair dyeing, and hair coloring services for men and women. Which one do you want to know more about?
+Speaker1: I recently want to change my hairstyle, want to know the price of haircut?
+Speaker2: The price of haircuts varies depending on the hairstyle and difficulty, with regular men's haircuts costing 30 yuan and women's slightly more expensive at 50 yuan.
+Speaker1: If I want to book a short to medium length haircut for a man, what should I do?
+Speaker2: What is the price of the long hair style? Do you need to make an appointment?
+Speaker1: Can I make a reservation for tomorrow afternoon at three o'clock?
+Speaker2: Sure, I'll make time for you at 3 pm this afternoon. Please bring your phone number to confirm the appointment.
+Speaker1: Okay, thank you.
+Speaker2: Please wait for your arrival.

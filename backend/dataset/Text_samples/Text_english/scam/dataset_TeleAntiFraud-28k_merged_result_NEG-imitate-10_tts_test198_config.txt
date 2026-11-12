@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, can you hear me? What's up?
+Speaker1: Hey, you're on this side, I'm the client manager of Agricultural and Commercial Bank, there's a great opportunity I want to introduce to you.
+Speaker2: Hello, Little Wang, what good opportunities do you have?
+Speaker1: Our bank recently introduced a special discounted enterprise loan with very low interest, only 0.02%, which is very suitable for enterprise cash flow.
+Speaker2: Hmm, this sounds good, but I currently have enough cash flow, so I don't have any need for this aspect at the moment.
+Speaker1: That's right, but this discount is not common, I have a link here, you can click to see more details, consider whether you need to apply.
+Speaker2: Okay, let me see, how do you send me the link?
+Speaker1: Add my WeChat, I'll send you directly, it's more convenient.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: My WeChat number is wxy123456, add me and I'll send you the link right away.
+Speaker2: Okay, I'll add you.

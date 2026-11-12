@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, recently I want to buy a new phone, I saw your website has a new model, want to know more details.
+Speaker2: Hello, little king, I am customer service little Li, very happy to serve you. What information do you want to know about which phone?
+Speaker1: It's the latest in the Xiaomi series, I heard the photo effect is great.
+Speaker2: Yes, the photography function of the Starry series is indeed very powerful, equipped with four cameras, supporting night mode, and also has ultra-wide-angle photography.
+Speaker1: What about the price?
+Speaker2: This phone is currently priced at 3,800 yuan, and there is now a discount of 200 yuan available for purchase.
+Speaker1: Hey, that's pretty reasonable. I'm currently on business trip, can you guys support cash on delivery?
+Speaker2: Of course, we support cash on delivery. You just need to confirm no mistakes after receiving the goods and then pay.
+Speaker1: Okay, I'll place an order and see.
+Speaker2: Okay, I'll help you place an order. If you have any questions, feel free to contact me. Have a great shopping experience!

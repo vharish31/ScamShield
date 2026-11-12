@@ -1,0 +1,11 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, I'm good, you?
+Speaker1: I'm doing well, lately my work has been pretty busy.
+Speaker2: Yeah, everyone's pretty busy right now. Do you have time tonight? Let's go have dinner together.
+Speaker1: Any good recommendations for a nice place?
+Speaker2: The newly opened restaurant is not bad, I heard the food is very delicious, and the environment is very elegant.
+Speaker1: What did you say sounded good, a few hours ago?
+Speaker2: What do you think about leaving at 6:30 and arriving around 7?
+Speaker1: Okay, I'll leave at six and a half. Please send me the address, I'll check the route beforehand.
+Speaker2: Okay, I send you WeChat, be careful on the road.
+Speaker1: Thank you, you also pay attention to safety. See you later.

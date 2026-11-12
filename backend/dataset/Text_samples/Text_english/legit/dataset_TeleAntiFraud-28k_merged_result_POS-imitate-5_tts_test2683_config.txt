@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you? Do you want to consult the appointment service?
+Speaker1: Yes, I made a haircut appointment last week by phone, tomorrow I want to go, want to confirm the time
+Speaker2: Okay, is your appointment at 3 pm this afternoon?
+Speaker1: Yes, three o'clock in the afternoon.
+Speaker2: Can you confirm, is your name Zhang Wei?
+Speaker1: Yes, that's me
+Speaker2: Okay, Mr. Zhang Wei, your appointment has been recorded. Please bring your ID and appointment code tomorrow at 3 pm. We need to verify some information here.
+Speaker1: Okay, I understand, thank you.
+Speaker2: No problem, if you have any other questions, feel free to contact us anytime. Have a nice day, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can I help you, what do you need?
+Speaker1: I am the customer service of the e-commerce platform. You have accumulated a lot of shopping points on your account, and they will be cleared at midnight tonight.
+Speaker2: Really? Then I had better hurry and take a look.
+Speaker1: Yes, these points can be redeemed for a lot of cash, if you don't use them in time, you'll waste them.
+Speaker2: How do I check my points?
+Speaker1: You can log in to our app, view your score details on my page, or directly tell me your account, I'll help you check on this side.
+Speaker2: Okay, I'll log in and take a look, thank you for reminding me.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you a happy shopping.
+Speaker2: Okay, thank you, bye.

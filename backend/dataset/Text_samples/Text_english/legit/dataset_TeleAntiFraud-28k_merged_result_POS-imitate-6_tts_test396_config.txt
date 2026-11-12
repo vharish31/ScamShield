@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Can you introduce me to the new notebook computer in your store?
+Speaker2: Of course, this is a new lightweight laptop suitable for both office and light entertainment use, equipped with the tenth generation processor, long battery life, and fingerprint unlock functionality.
+Speaker1: How much does it cost to sound good?
+Speaker2: This laptop notebook is currently priced at 5999 yuan, and you can still enjoy a full discount activity when purchasing it now.
+Speaker1: Sure, can you support cash on delivery?
+Speaker2: Okay, you can choose cash on delivery after placing the order and confirming the products are correct before paying.
+Speaker1: Okay, I'll think about it. Also, how is your after-sales service?
+Speaker2: Our after-sales service is very prompt, providing seven-day no-reason return or exchange, as well as one-year warranty service, you can rest assured when buying.
+Speaker1: That's great, thank you for your detailed introduction, I will consider it.
+Speaker2: You're welcome. If you have any questions, please feel free to consult anytime. Wish you a happy life!

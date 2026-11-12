@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any vegetarian options at this restaurant?
+Speaker2: Yes, we have a lot of vegetable options here, including stir-fried vegetables, steamed vegetables, and various soups. You can check the menu to choose what you like.
+Speaker1: What time does your restaurant open?
+Speaker2: We open at 11am and close at 10pm.
+Speaker1: Sure, can I reserve a spot for 7 pm tomorrow evening?
+Speaker2: Okay, tomorrow evening at seven, okay, I will book a two-seat place for you.
+Speaker1: Thank you, I will arrive on time tomorrow.
+Speaker2: Okay, see you tomorrow, wish you a happy day.

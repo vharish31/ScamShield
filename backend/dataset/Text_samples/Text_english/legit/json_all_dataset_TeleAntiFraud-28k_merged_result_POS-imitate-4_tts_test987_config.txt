@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Can you tell me what time you open the door here?
+Speaker2: We open the door at nine in the morning and close it at nine in the evening.
+Speaker1: Can I go at around ten o'clock?
+Speaker2: Of course, arriving at ten o'clock is perfect.
+Speaker1: Do I need to make an appointment before going over?
+Speaker2: No need to make a reservation, just come directly.
+Speaker1: That's great, thank you for your help.
+Speaker2: No problem, feel free to contact me anytime.
+Speaker1: Okay, I'll see you later.
+Speaker2: Okay, see you later.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: That's it, I saw your store has a specific electric rice cooker, and I want to know more about it.
+Speaker2: Okay, do we have electric rice cookers for sale in the store? Which one are you interested in?
+Speaker1: What is the capacity and power of the product recommended on your homepage?
+Speaker2: This electric rice cooker has a capacity of 5 liters and a power of 1000 watts, making it very suitable for family use.
+Speaker1: How much does that cost?
+Speaker2: The current price of this electric rice cooker is three hundred ninety-nine yuan, and there is now a promotion, buy four and get a discount of fifty yuan, very cheap.
+Speaker1: The sound is good, I'll think about it, if I decide to buy it, can you send it to my home?
+Speaker2: Of course, we provide free delivery service, just fill in the shipping address when placing the order.
+Speaker1: Okay, thank you for your detailed introduction. I'll think about it and get back to you.
+Speaker2: You're welcome. If you have any questions, please feel free to consult anytime. Wish you a happy life. Bye!

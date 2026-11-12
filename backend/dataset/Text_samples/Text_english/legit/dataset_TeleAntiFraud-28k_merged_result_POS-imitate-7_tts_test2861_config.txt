@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, can I consult your delivery service?
+Speaker2: Hello, little Li, I am delivery customer service king Wang, what can I help you with?
+Speaker1: Can you tell me about your delivery range and time, and do you have any discount activities?
+Speaker2: Our delivery range covers the city center and Dongcheng district, and the delivery time is usually from thirty minutes after ordering to one hour. Currently, there is a promotion for new users to get a fifteen-yuan discount on their first order of fifty yuan or more.
+Speaker1: How long do I need to place an order before it sounds good?
+Speaker2: I suggest you place your order one-half hour in advance to ensure your food arrives in the best condition.
+Speaker1: Sure, can I still deliver if I live in Xicheng District?
+Speaker2: The West City is currently within our delivery range, but it may slightly exceed the standard delivery time.
+Speaker1: Now I can relax, thank you for your answer.
+Speaker2: You're welcome. If you have other questions, feel free to contact me anytime. Enjoy your meal.

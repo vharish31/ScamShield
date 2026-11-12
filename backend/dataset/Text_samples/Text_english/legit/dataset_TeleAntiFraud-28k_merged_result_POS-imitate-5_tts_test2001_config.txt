@@ -1,0 +1,13 @@
+Speaker1: Hello, how can I help you at Xiaoming Restaurant?
+Speaker2: Hello, what are your special dishes?
+Speaker1: Our signature dishes include red braised pork, steamed fish and spicy pot-stew, all very popular.
+Speaker2: What are the prices of these menus approximately?
+Speaker1: Red braised pork is 45 yuan per portion, steamed fish is priced differently based on size, between 60 to 80 yuan, and stir-fried with chili oil is 50 yuan.
+Speaker2: Hey, that sounds good. Do you guys have any discount activities now?
+Speaker1: Yes, you can enjoy a 90% discount if the bill is over a hundred yuan, and there's also a free dessert included.
+Speaker2: That's great, I plan to bring a friend to eat in the evening, when do you start your business?
+Speaker1: We open from 10 am in the morning and close at 10 pm at night. If you come in the evening, we recommend that you make an appointment in advance to avoid waiting.
+Speaker2: Okay, I'll come over at around seven in the evening, and I need to reserve a four-person table.
+Speaker1: Okay, I have reserved a 7:00 PM table for four people for you. Please come to the front desk and give your name when you arrive.
+Speaker2: Okay, thank you for your help, see you later.
+Speaker1: No problem, see you later, wish you a happy day.

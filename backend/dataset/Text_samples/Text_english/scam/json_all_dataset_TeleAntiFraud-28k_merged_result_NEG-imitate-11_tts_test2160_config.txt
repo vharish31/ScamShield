@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am small Li, a customer service representative from Agricultural Bank. We currently have a special promotion for a loan project that can provide you with unsecured and unguaranteed loan services. Do you have any recent financial needs?
+Speaker2: Hello, wait a minute, I'll take a look at my recent situation.
+Speaker1: Okay, if it's convenient for you, please first download our bank app, register and fill in some basic information, and we will have a dedicated customer manager contact you.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Very safe, we are a regular bank, our APP is official, any issues you have after downloading can be contacted anytime.
+Speaker2: Okay, let me try.
+Speaker1: Great! After downloading, directly open it and input the invitation code ABCD1234 to enjoy more discounts.
+Speaker2: I remember the invitation code, thank you.
+Speaker1: No problem, if you encounter any issues during the operation, please call me at 12345678901, I will help you solve them immediately.
+Speaker2: Okay, I will pay attention, thank you for your help.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, your haircut appointment time is here now, can you come over?
+Speaker2: Hey, hello, I'm little Li, I'm at the company now, maybe I'll be late to go over.
+Speaker1: Okay, what time do you think you'll arrive? We can reserve a spot for you.
+Speaker2: Six o'clock, okay?
+Speaker1: Sure, we have reserved a spot for you at six o'clock. Do you need a short haircut on this side?
+Speaker2: Okay, just the old style, don't cut it too short.
+Speaker1: Okay, little Li, you can rest assured, we will definitely cut according to your requirements. Just come to the store directly when you arrive.
+Speaker2: Okay, thank you, I'll see you at six.
+Speaker1: Okay, six o'clock meeting, pay attention to safety on the road.
+Speaker2: Okay, thank you, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you okay? I'm little Zhang. Did you receive the stuff you bought at our store a few days ago?
+Speaker2: Oh, I received it, thank you.
+Speaker1: No problem, are you satisfied with the products? If you have any issues, please feel free to contact us anytime.
+Speaker2: Alright, there's just a little problem. Can I try to solve it myself?
+Speaker1: Can you specifically say what the problem is? If it can't be solved, we can help you handle it.
+Speaker2: The strap of this electronic watch is a little loose, I don't know if it's only me.
+Speaker1: This situation may be due to the size of the belt not being suitable, we have different sizes of belts here that can be replaced, please tell me your contact information, we will send you a new set of belts.
+Speaker2: Okay, my phone number is 000-000-0000.
+Speaker1: Okay, I've noted down your phone number. We'll process it quickly. Are there any other issues that need help?
+Speaker2: Thank you for your service.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service manager of Huaxia Bank, I am Lee.
+Speaker2: Hello, what do you have?
+Speaker1: Have you heard about our bank's recent loan project with an interest rate of 0.003%?
+Speaker2: I recently need some cash flow, can you give me a detailed explanation?
+Speaker1: Of course, this loan product is very suitable for you, no collateral, no guarantee, immediate approval. Just provide some basic personal information, and we can immediately process it.
+Speaker2: Listen well, what do you need me to do?
+Speaker1: Just download our mobile banking app, register an account, and fill out the loan application form, and we'll quickly review it.
+Speaker2: Okay, I'll go download it now.
+Speaker1: After downloading, remember to use the verification code 123456 to complete registration. If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, Li Manager, I will handle it quickly.

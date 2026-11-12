@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I'm your financial advisor Li, specializing in providing you with the latest bank loan information.
+Speaker2: Hello, do I have any loan requirements?
+Speaker1: Hey, our bank recently launched a new credit loan product with zero down payment and low interest rate. All you need to provide is some basic personal information and it will be quickly approved.
+Speaker2: The sound is good, but I've been having trouble with cash flow lately.
+Speaker1: This is our product advantage, which can help you solve your short-term financial problems. Moreover, we now have a limited-time promotion, and if you apply today, you can also enjoy an additional one thousand yuan discount.
+Speaker2: How do I apply?
+Speaker1: Great, just click this link and fill out your personal information, our system will automatically complete the approval for you.
+Speaker2: Am I not understanding these, is there a risk if I click on a link?
+Speaker1: You can rest assured, we are a legitimate bank, all operations are safe. Moreover, if you have any questions, you can contact me anytime.
+Speaker2: Okay, let me try.
+Speaker1: Great, just follow the steps I said, and if you have any questions, feel free to call me anytime. I wish you a successful application!

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the manager of the loan department at Huaxia Bank. Do you have any recent financial needs?
+Speaker2: Hey, hi, I temporarily don't have any financial needs.
+Speaker1: Hmm, that's okay. But we have a special discount loan project here with a low threshold, low interest rate, no collateral required. You might want to consider it?
+Speaker2: No need, thank you for your recommendation.
+Speaker1: Okay, but this opportunity is really rare. If you change your mind, you can add me on WeChat and contact me anytime.
+Speaker2: Okay, add me on WeChat first.
+Speaker1: Okay, my WeChat is Xiao Zhang Manager. Please go through it, and I will send you some detailed information.
+Speaker2: Okay, I will take a look.
+Speaker1: Additionally, if you think the information is good, you can recommend it to your friends, they may also need it.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you all the best.

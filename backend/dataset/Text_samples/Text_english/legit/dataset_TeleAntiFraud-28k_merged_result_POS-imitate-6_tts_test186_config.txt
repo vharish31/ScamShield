@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service for our delivery service. I see that you often order food from our platform. Would you like to know if you are satisfied with our service?
+Speaker2: No problem, it's quite convenient.
+Speaker1: That's great, we recently introduced some new dishes, don't know if you're interested in trying them out?
+Speaker2: What's new on the menu?
+Speaker1: For example, dishes like spicy Sichuan hotpot, black pepper beef and broccoli, and new health-promoting soup products are all very popular.
+Speaker2: The sound of the nourishing soup is good, how do you order?
+Speaker1: You can find these dishes on our app and order directly. Also, there's a discount now for ordering.
+Speaker2: Okay, I'll try it out later.
+Speaker1: Thank you for your support. Enjoy your meal.
+Speaker2: Thank you.

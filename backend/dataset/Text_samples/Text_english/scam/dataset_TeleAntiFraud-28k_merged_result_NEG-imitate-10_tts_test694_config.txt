@@ -1,0 +1,15 @@
+Speaker1: Hello, nice to meet you, I am Li Xiao, your dedicated customer service representative.
+Speaker2: Hello, do you have anything?
+Speaker1: The system shows that your package was lost during transportation. We're very sorry.
+Speaker2: What's true or false, how could it be lost?
+Speaker1: Yes, we are preparing a refund for you as compensation.
+Speaker2: What's the refund process?
+Speaker1: Just click on the link we send you and follow the instructions.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, and to ensure the safety of the transaction, we need to verify your identity information.
+Speaker2: What information do you need?
+Speaker1: Your name, ID number, and bank account information.
+Speaker2: Is this not a bit unsafe?
+Speaker1: Don't worry, we are a regular company, information is absolutely confidential.
+Speaker2: Okay, I trust you guys.
+Speaker1: Thanks for your cooperation. Please check the link later. Bye.

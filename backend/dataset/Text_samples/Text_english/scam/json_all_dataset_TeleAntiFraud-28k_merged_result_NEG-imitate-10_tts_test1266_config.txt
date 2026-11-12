@@ -1,0 +1,10 @@
+Speaker1: Hello, this is small Liu from Shanghai Bank Credit Department. We see your enterprise qualifications are excellent. We recommend a low interest loan project for you. Are you interested in learning more?
+Speaker2: So, what are the specifics of this loan project?
+Speaker1: This project is specifically designed for small and medium-sized enterprise owners, with no collateral, fast approval, and a maximum loan amount of one hundred thousand yuan, making it highly suitable for your company to conduct cash flow. If you are interested, you can first click on the link I sent you and register your personal information.
+Speaker2: Okay, I'll take a look. Is this link safe?
+Speaker1: Absolutely safe, we are a regular bank, after you register, you will have a dedicated customer manager contact you, guiding you through the entire process in detail.
+Speaker2: What materials do I need to prepare?
+Speaker1: You just need to prepare your identity card and the enterprise's business license, and other materials our customer manager will help you prepare.
+Speaker2: Okay, I'll click on the link now.
+Speaker1: Hello, if you encounter any issues during the registration process, please feel free to contact me at any time. I wish you a smooth operation and look forward to working with you.
+Speaker2: Thank you, goodbye.

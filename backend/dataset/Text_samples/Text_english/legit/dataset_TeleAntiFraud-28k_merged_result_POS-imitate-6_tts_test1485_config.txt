@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me your restaurant's business hours and do you have any recommended special dishes?
+Speaker2: Our restaurant is open from 10 am to 10 pm every day. Our signature dish is red braised pork with ginger and green onions, which many customers highly praise.
+Speaker1: Sounds good, do I need to make a reservation for the weekend?
+Speaker2: If it's on the weekend, I suggest you make a reservation in advance, especially for dinner time, there will be more customers.
+Speaker1: Okay, I want to reserve a spot for two people on Saturday at 7 pm.
+Speaker2: Okay, I have reserved a two-person table for you at seven o'clock on Saturday night. Do you have any special requests, such as a window seat or a quiet corner?
+Speaker1: If there's a spot by the window, that'd be great, but not necessary.
+Speaker2: Okay, I'll try my best to arrange a window seat. See you on Saturday!
+Speaker1: See you on Saturday, thank you!

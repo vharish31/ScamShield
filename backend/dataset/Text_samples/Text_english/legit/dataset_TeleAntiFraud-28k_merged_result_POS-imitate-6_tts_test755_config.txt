@@ -1,0 +1,10 @@
+Speaker1: Hey, are you waiting for me at the bus station?
+Speaker2: Yes, I'm waiting here, did you arrive quickly?
+Speaker1: Hurry up, there are two stations left, do you have that blue bag with you?
+Speaker2: Yes, that's it.
+Speaker1: Okay, you walk a few steps to your left, I can see you now.
+Speaker2: Okay, I see you, what color is your car?
+Speaker1: My car is silver, it's the second parking spot on your left.
+Speaker2: I see, I'll just go over there.
+Speaker1: Okay, be careful, let's get in the car and go.
+Speaker2: Okay, thank you.

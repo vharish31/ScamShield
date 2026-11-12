@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? Can I reserve a table for tomorrow at noon?
+Speaker2: Hello, of course, we have a seat at our restaurant at noon. How many people would you like to reserve a seat for?
+Speaker1: Can you recommend some special dishes in this place?
+Speaker2: Of course, our restaurant's menu has steamed sea bass and ginger white flowers, both very popular, you can try.
+Speaker1: Okay, I'll order these two dishes. By the way, do you have any free parking spots?
+Speaker2: Yes, our restaurant provides a free parking lot, you can directly park your car behind the restaurant.
+Speaker1: Okay, I'll go directly to the store at noon tomorrow. Also, what are some non-seafood recommendations for my friend who is allergic to seafood?
+Speaker2: No problem, we have red meat, stir-fried vegetables, and other non-seafood dishes, all of which are very suitable.
+Speaker1: Okay, I'll order these two non-seafood dishes. Thank you for your help.
+Speaker2: You're welcome, everything is ready, looking forward to your arrival. See you tomorrow!

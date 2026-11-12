@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me if there are any apartments here suitable for two people to live in?
+Speaker2: Yes, we have several different options here. Do you want to rent long-term?
+Speaker1: Yeah, about a year, do you have any space on your side?
+Speaker2: Yes, we have a one-room one-suite apartment with all furniture, very convenient.
+Speaker1: How much is the rent?
+Speaker2: The monthly rent is 2500 yuan, and the deposit is one month's rent.
+Speaker1: Can you show me a picture or a video?
+Speaker2: Of course, I'll send it to you now, just a moment.
+Speaker1: Okay, thank you.
+Speaker2: No problem, if you're satisfied, we can arrange a time to view the property.

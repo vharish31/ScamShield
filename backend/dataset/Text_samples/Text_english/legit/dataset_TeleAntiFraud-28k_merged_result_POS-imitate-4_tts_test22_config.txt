@@ -1,0 +1,10 @@
+Speaker1: Hello, I want to inquire about your appointment haircut service.
+Speaker2: Hello, I am a customer service representative at a hair salon. What can I help you with?
+Speaker1: Can I make an appointment for next Tuesday afternoon at your hair salon? Is there any availability then?
+Speaker2: Okay, let me check. Next Tuesday afternoon we have several time slots to choose from, 3 to 4, 4 to 5, and 5 to 6.
+Speaker1: Let's meet at four o'clock.
+Speaker2: Okay, I have scheduled a haircut for you on Tuesday from 3 to 5 PM. Do you need me to provide your name and contact information?
+Speaker1: Okay, my name is Li Ming, phone number is 13800000000.
+Speaker2: Okay, Li Ming Xiāngshēng, we have recorded it down. We will send you a text message reminder in advance beforehand.
+Speaker1: Thank you, see you then.
+Speaker2: Okay, see you later. Wish you all the best, bye.

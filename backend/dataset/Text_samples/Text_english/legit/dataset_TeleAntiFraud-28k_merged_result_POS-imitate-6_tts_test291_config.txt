@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? Can you tell me your restaurant's business hours?
+Speaker2: Hello, our restaurant business hours are from 11 am to 9 pm, no holidays.
+Speaker1: Can I go out at eight tonight?
+Speaker2: Of course, eight o'clock is our business time, you will enjoy delicious food.
+Speaker1: Can I reserve a four-person table?
+Speaker2: Sure, I'll book a four-person table for you. Do you need me to record your contact information?
+Speaker1: Please, my phone number is 375757.
+Speaker2: Okay, I noted it down. Do you have anything else that needs help?
+Speaker1: Do you have any special dish recommendations?
+Speaker2: Our restaurant's signboard menu has gong bao chicken, qing zhù yú yú, gān huǒ niú wù, all of which are deeply loved by customers, you can try one.
+Speaker1: Okay, thank you for your recommendation, I'll see you later.
+Speaker2: Looking forward to seeing you tonight, please let us know if you have any other needs.

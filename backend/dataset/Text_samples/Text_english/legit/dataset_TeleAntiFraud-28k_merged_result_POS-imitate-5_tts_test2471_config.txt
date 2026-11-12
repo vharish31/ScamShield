@@ -1,0 +1,12 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, I'm good, you?
+Speaker1: I'm good too, lately I've been busy.
+Speaker2: Are you busy with something?
+Speaker1: I've been preparing a project lately and need to gather a lot of information.
+Speaker2: Does it sound tough? Do you need help?
+Speaker1: Thank you, I won't use it for now, but I really appreciate it.
+Speaker2: No problem, feel free to say anytime you need. Hey, do you have time this weekend? Let's go eat together.
+Speaker1: What restaurant should we go to this weekend?
+Speaker2: I want to go to that new Sichuan restaurant. I heard the taste is great.
+Speaker1: Okay, let's go try it out. What time do we meet?
+Speaker2: Let's meet at six o'clock in the evening, I'll be waiting for you at the restaurant door.

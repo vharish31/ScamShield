@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you? I am the property manager of this community.
+Speaker2: Hello, I am a new tenant, can you please tell me how much is the property fee and parking fee in the community?
+Speaker1: Hey, property fee is one hundred yuan per month, parking fee is two hundred yuan per month.
+Speaker2: Hey, how is the monthly fee for property paid?
+Speaker1: Our property fees are collected quarterly, once every three months.
+Speaker2: Do you know if parking fees are paid quarterly?
+Speaker1: Yes, parking fees are paid once every three months, for convenience in management.
+Speaker2: Okay, when can I pay these fees?
+Speaker1: The property management office is open from 9 am to 5 pm every day. You can come during this time to trade.
+Speaker2: Thank you, I will make time to go over there.

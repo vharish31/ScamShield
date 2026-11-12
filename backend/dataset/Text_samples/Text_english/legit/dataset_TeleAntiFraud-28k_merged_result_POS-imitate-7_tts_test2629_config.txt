@@ -1,0 +1,10 @@
+Speaker1: Hello, I want to consult your haircut service.
+Speaker2: Hello, of course, our store provides various haircut services, which part are you interested in?
+Speaker1: Can you tell me about the prices of your haircuts and hair dyes?
+Speaker2: The price of cutting hair is 60 yuan. The price of dyeing hair varies depending on the selected dye and the complexity of the process, ranging from 200 to 400 yuan.
+Speaker1: What is your business hours?
+Speaker2: Our store's business hours are from 9 am to 8 pm every day, including weekends.
+Speaker1: Okay, can I reserve two o'clock in the afternoon on Saturday next week?
+Speaker2: Okay, next Saturday at 2 PM, I will reserve a spot for you. Are there any other things you need to consult?
+Speaker1: No more, thank you.
+Speaker2: No problem, I'm looking forward to your arrival, goodbye.

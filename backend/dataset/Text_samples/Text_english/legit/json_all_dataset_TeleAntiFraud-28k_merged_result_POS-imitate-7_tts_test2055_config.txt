@@ -1,0 +1,15 @@
+Speaker1: Hello, I'm small Zhang, this side is the city bike rental service center.
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Is that so, do you know the effective period of the unused rental card you see?
+Speaker2: Oh, really? I do have one, but I don't remember the expiration date.
+Speaker1: This card's effective period is until the end of the year, after this time, the remaining balance in the card will expire.
+Speaker2: Can I still rent a bike with this card?
+Speaker1: Of course, you can use any rental point at any time. If you want to know more information about rental points, I can help you query.
+Speaker2: Okay, where are the recent rental points?
+Speaker1: Where are you currently? I can recommend some recent places.
+Speaker2: I am now near the cultural square.
+Speaker1: There is a rental point near the cultural square, located in the northeast corner of the square, and another one on the west side of the library, both of which support 24-hour rental.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, feel free to call anytime if you have other questions.
+Speaker2: Okay, bye.
+Speaker1: Goodbye.

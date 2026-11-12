@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little Li, what do you want?
+Speaker2: Hey, how are you? I'm little king, I want to go out play this weekend, do you have any good recommendations?
+Speaker1: Hey, the weather forecast for this weekend says it's going to be nice, you can go out to the scenic mountains and lake, the scenery there is quite beautiful.
+Speaker2: Qīng shān hú? Tīng shuō nà bǐ tāng yuè cháng yuè, yào zhèn qù a?
+Speaker1: You can take the subway to the end station first, then transfer to the bus, or take a taxi directly, which should take about one hour left or right.
+Speaker2: What should I bring to compare?
+Speaker1: You can bring some water and snacks, there's a small shop nearby but the prices might be a bit higher. Also, don't forget to bring some sunscreen and a hat.
+Speaker2: Okay, thank you for your advice. I'm going to play there this weekend.
+Speaker1: No problem, have fun, feel free to contact me anytime if you have any questions.
+Speaker2: Okay, thank you, goodbye.
+Speaker1: Goodbye, wish you have fun.

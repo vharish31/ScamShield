@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm the customer service king of the food paradise, I see you ordered a beef stir-fry and a glass of ice red tea on our website before, but it seems like you forgot to take the ice red tea, do you know?
+Speaker2: Really? I didn't notice.
+Speaker1: Yes, your order shows that you ordered beef fried rice with a glass of iced red tea, but the waiter said you only took the fried rice at that time.
+Speaker2: Can I still go get it now?
+Speaker1: Sure, but the iced red tea may not be the best drinking temperature anymore, if you don't mind, we can make a new one for you, how about it?
+Speaker2: Okay, I'll go get it again, do it over, thank you.
+Speaker1: Please tell the front desk your name when you arrive, we will be ready for you.
+Speaker2: Okay, I'll be there in about ten minutes.
+Speaker1: Okay, we'll wait for you now.
+Speaker2: Thank you, goodbye.

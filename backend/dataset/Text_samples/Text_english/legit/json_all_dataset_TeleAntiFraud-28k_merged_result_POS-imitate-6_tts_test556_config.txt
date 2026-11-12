@@ -1,0 +1,8 @@
+Speaker1: Hey, how are you? I'm at the entrance of the New World Mall, where are you?
+Speaker2: Hi, I just arrived at the bus station, and it's only one stop away.
+Speaker1: Okay, you arrived. I'm waiting for your message.
+Speaker2: Okay, no problem. Got it, today's weather forecast says there's a chance of rain, have you brought an umbrella?
+Speaker1: I checked the weather forecast before leaving home and said there might be thunderstorms.
+Speaker2: Okay, I'll bring it over too. See you later!
+Speaker1: See you soon, be careful on the road.
+Speaker2: You too.

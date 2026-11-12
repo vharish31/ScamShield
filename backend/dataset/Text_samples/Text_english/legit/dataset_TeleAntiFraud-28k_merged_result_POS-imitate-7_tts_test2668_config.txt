@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have a vegetarian menu at this restaurant?
+Speaker2: Yes, we have a special vegetarian menu here with a lot of options.
+Speaker1: That's great, my friend is a vegetarian, we plan to have dinner tonight.
+Speaker2: No problem, you can come early, there are not many people now.
+Speaker1: What time would be about right?
+Speaker2: If it's convenient, come at 5:30 or so, the environment will be quieter then.
+Speaker1: Okay, let's set the meeting time at 5:30. Do we need to reserve a location?
+Speaker2: It's best to book in advance, so we can prepare earlier.
+Speaker1: Okay, let's reserve a four-person table.
+Speaker2: Okay, your four-person table has been reserved for you at 5:30.
+Speaker1: Thank you, see you later.
+Speaker2: No problem, see you later.

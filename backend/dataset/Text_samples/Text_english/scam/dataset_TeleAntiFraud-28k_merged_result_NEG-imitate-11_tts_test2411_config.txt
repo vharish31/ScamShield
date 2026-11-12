@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Hello, I am the manager of the Commercial Bank of China, we noticed that you have recently had a need for capital rotation, I can provide you with a low-interest loan, are you interested in learning more?
+Speaker2: Uh, I'm actually a bit busy, can you give me a detailed explanation?
+Speaker1: Of course, our latest loan product doesn't require collateral, has low interest rates, and fast disbursement. However, to ensure the authenticity and effectiveness of your information, you need to pay a small amount of collateral upfront, which will be deducted from your future loans.
+Speaker2: Bai zhè jīn? Zhège tīng guòu bù dào xiào, wǒ zhǐ xiàng lišì tīng guòu huò xiàng shì huò zhù rén.
+Speaker1: You can rest assured that we are a regular bank and all our processes are in accordance with the requirements of the China Banking Regulatory Commission. If you are not confident, you can directly go to the bank to handle it. Of course, for your convenience, you can also first add me through WeChat and I will send you some information to take a look.
+Speaker2: Wechat? Why don't you guys have this service in your bank?
+Speaker1: This is a special service project, mainly for the convenience of customers. You can add me on WeChat and I will send you materials. You can first understand it, and if you are not satisfied, we can talk again face to face.
+Speaker2: Okay, let me add you on WeChat to take a look at the information first.

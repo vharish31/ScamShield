@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you little Zhang?
+Speaker1: Yes, it's me, who are you?
+Speaker2: Hi, I'm your old classmate Li Xiaoling, how have you been lately?
+Speaker1: Hey, little Li, long time no see, how have you been lately?
+Speaker2: Never mind, I just changed jobs recently, I'm now working at a new company, it's pretty busy.
+Speaker1: Oh, that's great. What company are you working at now?
+Speaker2: I work at a tech company and am responsible for project management.
+Speaker1: Wow, that sounds great! How's your work going?
+Speaker2: It's still going smoothly, but the pressure is a bit bigger. Are you still working at the same company?
+Speaker1: Still here, recently projects have been many, overtime has been frequent.
+Speaker2: That's quite tiring, you should pay more attention to your body. Let's hang out tomorrow and chat leisurely.
+Speaker1: Hey, do you have any free time this weekend?
+Speaker2: Do you want to go out for a meal on Sunday?
+Speaker1: Okay, how about meeting at the old place at three o'clock on Sunday afternoon?
+Speaker2: Okay, at three, we'll disperse.

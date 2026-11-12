@@ -1,0 +1,14 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Who are you?
+Speaker1: Hey, I'm the customer service manager for speed loan finance, we noticed you recently have a need for cash flow, would you consider applying for a quick loan?
+Speaker2: How do I apply for a loan?
+Speaker1: It's very simple. Just download our speed loan app, fill out the information as instructed, and get approved. You'll have the money in your account the same day.
+Speaker2: Does it require a handover fee to listen?
+Speaker1: The service fee is very low, only need to borrow 0.1% of the loan amount, and can deduct it from the loan amount after successful borrowing.
+Speaker2: What is the interest rate?
+Speaker1: The interest rate is quite reasonable, with an annual rate of only 0.035%, which is far below the average market level.
+Speaker2: How do I believe you are legitimate?
+Speaker1: We are a licensed financial institution recognized by the government, all our business is under supervision, you can rest assured. Moreover, we also provide a free credit assessment for new users, no fees charged.
+Speaker2: Okay, let me try.
+Speaker1: Great, just scan the QR code I sent you and download the app, then register and fill out the relevant information.
+Speaker2: Okay, I'll try.

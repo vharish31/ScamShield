@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your car service.
+Speaker2: Hello, I'm very happy to serve you, what information do you want to know?
+Speaker1: Can you tell me what types of cars you have and how do you roughly calculate the cost?
+Speaker2: We have three types of cars here: economic, comfortable, and luxury. The cost is calculated based on the car type and mileage, and you can check the specific fee standards through our app.
+Speaker1: How much would it cost to travel from the train station to the airport?
+Speaker2: The cost of an economic type car from the train station to the airport is approximately 150 yuan, the cost of a comfortable type car is approximately 180 yuan, and the cost of a luxury type car is approximately 220 yuan.
+Speaker1: How far in advance do I need to book a car?
+Speaker2: I suggest you book in advance one hour, so we can confirm the car arrival on time. Of course, you can also choose to call us immediately, we will arrange it as soon as possible.
+Speaker1: Understood, I need to take a taxi from the train station to the airport at 3 pm this afternoon, can you arrange it?
+Speaker2: Sure, you can make an appointment through our app, or leave your contact information and we'll have someone get in touch with you to confirm.
+Speaker1: Okay, I placed the order directly on the app. Thank you for your help.
+Speaker2: You're welcome, wish you a happy journey, feel free to contact us anytime if you have any questions.

@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you a customer service representative?
+Speaker2: Yes, I am a customer service representative. Is there anything I can help you with?
+Speaker1: Hey, I want to know more about your recent promotional activities, especially in the electronics field.
+Speaker2: We recently had some home appliance promotions, such as buy a refrigerator for five thousand and get five hundred off, and buy a washing machine for four thousand and get four hundred off.
+Speaker1: If I buy it, is the delivery service free?
+Speaker2: Yes, buy three thousand yuan worth of electronics and enjoy free shipping, and we also provide installation service.
+Speaker1: Good, if I order now, how long will it take to deliver?
+Speaker2: In general, we will arrange delivery within two to three days after ordering, and we will contact you with the specific time after confirming the order.
+Speaker1: Okay, I'll think it over and get back to you if I have any questions.
+Speaker2: Okay, feel free to consult anytime, wish you a happy life!

@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I'm planning to move, can you tell me more about your moving service?
+Speaker2: Hello, Xiao Ming, I am a customer service representative of a moving company. I am very happy to serve you. What information do you want to know?
+Speaker1: What is the process for calculating moving costs and what should be done if items are damaged during the move?
+Speaker2: Our costs are mainly calculated based on the quantity of items and the distance to move them. The specific prices you can find through our official website or by directly telling us your specific situation, I can help you estimate. For damaged items, we have a special insurance service that can be added when signing the contract, so in case of loss, you can get the corresponding compensation.
+Speaker1: How much money do I need to move these items? I'm only taking some clothes, books, and a few pieces of furniture.
+Speaker2: Based on the situation you described, we roughly estimate the cost to be around one thousand five hundred yuan. However, to give you a precise quote, we recommend that you schedule one of our workmen to come and assess the situation on-site.
+Speaker1: How long do I need to schedule an appraisal beforehand?
+Speaker2: We usually recommend that you schedule an appointment two to three days in advance, so we can arrange for a workman to come to your home at your convenience.
+Speaker1: Can I schedule an appointment for tomorrow afternoon?
+Speaker2: Can I come over tomorrow afternoon at 3 PM for an appraisal? Is this time suitable for you?
+Speaker1: 3 o'clock is good, I will be at home then. Thank you for your help.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. Have a nice day, bye!

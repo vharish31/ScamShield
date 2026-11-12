@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you still recruit people here?
+Speaker2: We are currently looking for customer service specialists on this side.
+Speaker1: Customer service representative? What about salary and benefits?
+Speaker2: The base salary of a customer service representative is 3,500 RMB, and there is also a commission. If you do well, you can earn an additional 1,000 RMB per month.
+Speaker1: How is the submission calculated?
+Speaker2: Your commission is calculated based on the number of orders you process and the customer satisfaction rating. For each order, you receive a reward of ten yuan, and there is an additional reward for customers who rate their satisfaction highly.
+Speaker1: What's the work schedule like?
+Speaker2: Work hours are from 9 am to 6 pm, with a one-hour lunch break in the middle, and two days off on weekends.
+Speaker1: Can I come for an interview?
+Speaker2: Okay, when do you want to come?
+Speaker1: I can make it in the morning around 10 o'clock tomorrow.
+Speaker2: Okay, tomorrow morning at 10am we'll be waiting for you at the company, address is xx road xx number xx building.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: See you tomorrow, goodbye.

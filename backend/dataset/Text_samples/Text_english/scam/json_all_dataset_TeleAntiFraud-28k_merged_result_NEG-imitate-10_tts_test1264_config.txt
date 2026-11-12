@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm small Li, this is the customer service of happy shopping platform, we found that the quality of the products you bought recently on our platform has issues, we are ready to process the refund for you.
+Speaker2: Really? That's great, I'm planning to contact you now.
+Speaker1: Yes, to facilitate a refund, please download our official app. I will guide you through the process on the phone.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, after you download it, open the APP, click on the customer service button on the first page, and then input this verification code: 666666, that way I can see your order information.
+Speaker2: Okay, I did what you said. What's next?
+Speaker1: Please provide your bank card number and verification code. We need to verify your identity to quickly process the refund.
+Speaker2: Okay, my bank card number is one two three five four six seven eight nine zero one, and the verification code is one two three four five.
+Speaker1: Okay, I got it. Just wait a minute, I'll help you handle it.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Zong?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm little Zhang, this is Huaxing Bank. We noticed you have a good credit record at our bank. We'd like to offer you a no-collateral loan to help with your current financial needs.
+Speaker2: Oh, really? I actually need some cash flow recently.
+Speaker1: Yes, we understand your needs. If you're interested, you can click on the link we send to you and fill out the relevant information. We will have a specialist handle it for you.
+Speaker2: Okay, how will you handle my information?
+Speaker1: Please rest assured, your information will only be used for loan approval purposes and will not be disclosed to third parties. To speed up the approval process, you can download our app and operate directly on it.
+Speaker2: How do I download your app?
+Speaker1: You can directly click on the link in the text message we send to you, follow the instructions to download and install. After downloading, log in and fill out the relevant information to apply for a loan.
+Speaker2: Okay, I'll give it a try. Thank you for your help.

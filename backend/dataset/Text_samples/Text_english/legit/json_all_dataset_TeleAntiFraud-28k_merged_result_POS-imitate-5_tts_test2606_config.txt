@@ -1,0 +1,10 @@
+Speaker1: Hello, Master.
+Speaker2: Hey, you say
+Speaker1: Where can I find you?
+Speaker2: Which big door am I standing in front of?
+Speaker1: Can you wait for me in this courtyard with these few doors?
+Speaker2: I'll walk towards the courtyard, which direction will you go?
+Speaker1: Can you find me at North Gate?
+Speaker2: Okay, I see the North Gate, you walk a few steps forward, I'll be there.
+Speaker1: Okay, I see you.
+Speaker2: I see you too, let's go now.

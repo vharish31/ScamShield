@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I got my car serviced at your store last time, and now I have some issues I want to consult.
+Speaker2: Hello, do you have any questions that you can directly ask, I will do my best to help you solve them.
+Speaker1: Okay, after my last maintenance, I noticed that the car had a strange noise when starting at low speed. I don't know if it's a maintenance issue.
+Speaker2: This may be a normal occurrence after maintenance, but for safety reasons, you can come to the store and let us check it out.
+Speaker1: Okay, can I go back now? What time do you guys finish work?
+Speaker2: We are still open until ten o'clock tonight, you can come over anytime.
+Speaker1: Can I go now? It will take about half an hour to get there.
+Speaker2: Okay, come over, we'll be ready with the tools and personnel for you here.
+Speaker1: Okay, thank you, I'll be there in a while.
+Speaker2: No problem, be careful on the road, we'll wait for you here.

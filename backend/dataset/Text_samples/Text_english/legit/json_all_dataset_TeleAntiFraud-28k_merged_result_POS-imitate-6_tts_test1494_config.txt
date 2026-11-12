@@ -1,0 +1,8 @@
+Speaker1: Hello, nice to meet you, I'm looking for the manager, I'm small wang, I made an appointment yesterday to talk about the project this morning.
+Speaker2: Hello, little Wang, Manager Zhang is having a meeting and is expected to come out twenty minutes later. Are you coming now or waiting?
+Speaker1: I'll come over first, I can wait in your company for a while.
+Speaker2: Okay, please come over, the front desk will help you register, I'll be in the meeting room waiting for you.
+Speaker1: Okay, I should be there in about ten minutes or so. What's your company address, ×× road ×× number?
+Speaker2: Yes, it's the 3rd floor of the building at 321 Xiang Road. After you arrive, the front desk will receive you.
+Speaker1: Okay, thank you, I'll hang up first, see you later.
+Speaker2: Okay, see you later, be careful on the road.

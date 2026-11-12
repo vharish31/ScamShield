@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Yes, who are you?
+Speaker1: I am an AliExpress customer service representative. We noticed that your store's recent traffic has decreased, so we have a special promotion activity to help boost your store's sales. All you need to do is click on the link, and you can get a free advertising push opportunity worth 20,000 yuan.
+Speaker2: Really? Then what should I do?
+Speaker1: Of course, just click this link and follow the page instructions to fill out the relevant information, and our staff will contact you to complete the next steps.
+Speaker2: Is that link safe?
+Speaker1: Don't worry, we are AliExpress, the link is absolutely safe. And to prove this, you can first log in with your Alipay account, which is more secure.
+Speaker2: Okay, let me try.
+Speaker1: Great! You're a wise choice. If you have any issues during the process, feel free to contact us anytime. Best wishes for your business!
+Speaker2: Thank you, goodbye.

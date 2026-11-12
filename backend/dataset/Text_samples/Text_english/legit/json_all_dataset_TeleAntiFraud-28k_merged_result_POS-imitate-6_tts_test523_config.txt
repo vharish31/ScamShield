@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I want to consult your restaurant's special dishes
+Speaker2: Hello, little Zhang, I am server Li, our restaurant special dishes are spicy Sichuan hot pot and steamed fish with ginger, both very popular.
+Speaker1: Can I reserve a four-person table for tonight at six and a half? It sounds good.
+Speaker2: Of course, the table for four has been reserved for you at six o'clock and a half on tomorrow night. Please remember to arrive ten minutes early.
+Speaker1: Okay, one more thing, my friend is allergic to seafood, what are some non-seafood dish recommendations?
+Speaker2: No problem, we have kung pao chicken, red braised pork and vegetable dumplings, all of which are good choices.
+Speaker1: Great, we'll order these later. Also, do you have any free parking spots?
+Speaker2: Yes, our restaurant provides free parking spaces, right behind the restaurant.
+Speaker1: Thank you very much, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you enjoy your meal.

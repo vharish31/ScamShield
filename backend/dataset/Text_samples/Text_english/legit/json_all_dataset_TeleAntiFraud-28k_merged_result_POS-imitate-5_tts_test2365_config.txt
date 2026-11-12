@@ -1,0 +1,11 @@
+Speaker1: Hey, hi, I'm little Zhang, recently I saw a smartwatch on your platform, want to know more details?
+Speaker2: Hello, little Zhang. I am customer service representative Li Xiao, regarding smartwatch, what specific aspects do you want to know?
+Speaker1: What is the navigation time of this watch? Also, what health monitoring functions does it support?
+Speaker2: This smartwatch has a battery life of about seven days. If GPS and heart rate monitoring are turned on, it may be slightly shorter. In terms of health monitoring, it supports heart rate monitoring, blood pressure monitoring, blood oxygen monitoring, and sleep quality analysis.
+Speaker1: Can you guys exchange my belt if I accidentally break it?
+Speaker2: Yes, we provide table band replacement service. If it's within the warranty period, the replacement is free. If it's beyond the warranty period, we also provide compensated replacement service.
+Speaker1: Okay, what about the price?
+Speaker2: The prices of belts vary depending on the materials used, generally ranging from 100 to 300 yuan. However, the exact price can be found on our website or by directly visiting the store for consultation.
+Speaker1: Understood, thank you for your detailed answer. I'll think it over, and if I have any questions, I'll get in touch with you.
+Speaker2: You're welcome. Feel free to consult us anytime if you have any questions. We hope our products can bring you convenience and health. Goodbye!
+Speaker1: Goodbye, thank you!

@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm little king, recently I've been interested in a phone, want to know more details.
+Speaker2: Hello, Mr. Wang, I am customer service representative Li, this phone is our latest model, performance is amazing, what information are you interested in?
+Speaker1: I want to know the battery life and camera pixel of this phone.
+Speaker2: This phone comes with a large capacity battery that can last all day with normal use. The front-facing camera is 16 million pixels, and the back-facing camera is 48 million pixels, and the photo effect is very clear.
+Speaker1: If I buy it, what after-sales service do I get?
+Speaker2: We provide nationwide insurance service, one year free repair for non-human damage, and seven-day no-reason return or exchange service, you can buy with confidence.
+Speaker1: Okay, it sounds good. I plan to go to your physical store tomorrow.
+Speaker2: Hello, our physical store is located in the shopping center in the city center. You can search for our store name directly through navigation. I hope you are satisfied.
+Speaker1: Thank you for your detailed introduction. See you tomorrow.
+Speaker2: You're welcome, see you tomorrow, wish you happy shopping.

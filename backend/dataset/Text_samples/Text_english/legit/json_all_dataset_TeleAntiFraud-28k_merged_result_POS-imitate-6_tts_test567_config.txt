@@ -1,0 +1,10 @@
+Speaker1: Hello, you.
+Speaker2: Hey, are you calling to consult about a haircut?
+Speaker1: Yes, I want to make an appointment to cut my hair.
+Speaker2: Okay, which day do you want to make a reservation?
+Speaker1: What are you doing on Friday afternoon next week?
+Speaker2: What time is convenient for you to come next Friday afternoon?
+Speaker1: Let's meet around 3 or 4 o'clock.
+Speaker2: Okay, can we meet on Friday at 3 PM next week?
+Speaker1: Sure, thank you.
+Speaker2: No problem, see you later.

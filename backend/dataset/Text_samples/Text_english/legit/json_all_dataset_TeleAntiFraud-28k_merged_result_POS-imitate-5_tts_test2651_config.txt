@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the little king of travel consultation at Tian An Men Square
+Speaker2: Hello, little king
+Speaker1: Do you have anything you need to consult?
+Speaker2: Can you give me the specific route for tomorrow's trip to Tiananmen Square?
+Speaker1: Okay, where are you starting from?
+Speaker2: I am at Xiǎozhìmén.
+Speaker1: You can take the subway line 4 to Xicheng and then transfer to subway line 1 to Tiananmen East Square. Get off at B station and you'll be at Tiananmen Square.
+Speaker2: Okay, how long will it take approximately?
+Speaker1: It usually takes around forty minutes, but the exact time depends on the subway's operation.
+Speaker2: I understand, thank you for your help.
+Speaker1: No problem, feel free to contact me if you have any other questions. Have a great time!

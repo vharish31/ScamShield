@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Speedy Finance, I'm Li Xiao, responsible for loan business.
+Speaker2: Hello, what do you have?
+Speaker1: Is that right, according to our system, you have previously consulted our loan service, do you know if you have any recent financial needs?
+Speaker2: "Hmm, I have considered it, but I'm not familiar with the loan process."
+Speaker1: No problem, we have a very convenient process here, just provide some basic information and you can quickly get loan approval.
+Speaker2: What specific information do you need?
+Speaker1: Please provide your ID number, work proof, and bank flow water, and there's a special link here. Click on it to fill out directly.
+Speaker2: Is this link safe? How can I know this isn't a scam?
+Speaker1: Don't worry, we are a legitimate financial institution, the link is absolutely safe. You can first click to take a look, if you're not satisfied, it's no problem not to submit information.
+Speaker2: Okay, let me try.

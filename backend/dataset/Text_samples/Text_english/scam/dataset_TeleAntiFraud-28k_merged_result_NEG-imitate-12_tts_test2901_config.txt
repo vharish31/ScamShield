@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Yes, who are you?
+Speaker1: I am the customer manager of China Construction Bank, Liu manager. We noticed that you have been considering loans recently and wanted to know if there is a funding need?
+Speaker2: Hmm, I'm a bit interested, but I'm not quite clear on your loan conditions.
+Speaker1: We have a very affordable loan product here, with monthly interest of only two cents, fast approval speed, no collateral, no guarantee.
+Speaker2: Sounds good, but I've heard many loan scams, are you really reliable?
+Speaker1: Mr. Li, we are a regular bank and there will be no risks. To better understand the details, you can download our 'China Construction Bank' app, which contains a lot of detailed explanations.
+Speaker2: Okay, let me try.
+Speaker1: Great, after downloading you can apply for a loan directly in the app, and if you have any issues, feel free to contact me anytime.
+Speaker2: Thank you, I will contact you.

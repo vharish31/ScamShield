@@ -1,0 +1,9 @@
+Speaker1: Hey, hello, I'm waiting for you at the exit of the mall.
+Speaker2: Hey, how are you? I'm in the parking lot, which specific level are you on?
+Speaker1: I am on the ground floor, there's a big signboard at the exit.
+Speaker2: Okay, I'll be right over. Just wait a minute or two, you should arrive soon.
+Speaker1: Okay, no rush, be careful on the road.
+Speaker2: Thank you, I'll go over there now, see you later.
+Speaker1: Okay, see you later, be careful on the road.
+Speaker2: Okay, bye.
+Speaker1: Goodbye.

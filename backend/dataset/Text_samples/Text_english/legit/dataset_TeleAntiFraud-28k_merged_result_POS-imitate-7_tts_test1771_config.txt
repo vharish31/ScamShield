@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, who are you?
+Speaker1: Hi, I'm little Li. I recently saw your apartment for rent in Five Eight City. Can you give me more details?
+Speaker2: Okay, little Li, I'm the mediator, what specific apartment in which community do you want to know about?
+Speaker1: It's the small community in Longxing Jindom, I saw an ad saying it's 1,300 yuan a month, but I don't know what it's like specifically.
+Speaker2: Yes, that's a six-story apartment building. The third floor is currently rented out, with a large bed and a small bed, all furniture and appliances included.
+Speaker1: Can you take me to see a house at 10 am this morning? The conditions sound good.
+Speaker2: Sure, but I need to contact the landlord first to confirm the time, is that okay?
+Speaker1: Okay, that's bothering you, confirm good to give me a call back.
+Speaker2: No problem, I'll contact the landlord in a while and confirm the time, then I'll call you back.

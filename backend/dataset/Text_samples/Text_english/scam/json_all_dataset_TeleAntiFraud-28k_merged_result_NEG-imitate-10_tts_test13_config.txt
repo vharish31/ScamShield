@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of sequoia express, you have lost a package during transportation, we will handle the compensation for you.
+Speaker2: Oh, really? Then what do we do now?
+Speaker1: Yes, to facilitate the processing of compensation, you need to click on our online customer service link and fill in the relevant information.
+Speaker2: Okay, how do I get that link?
+Speaker1: Please wait for a moment, I will send you the link via text message, you just need to click on the link and follow the instructions.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the text message will be sent to your phone immediately. Additionally, to speed up the processing speed, you can prepare your identity card and bank card information in advance.
+Speaker2: Okay, I understand.
+Speaker1: Thank you for your cooperation. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

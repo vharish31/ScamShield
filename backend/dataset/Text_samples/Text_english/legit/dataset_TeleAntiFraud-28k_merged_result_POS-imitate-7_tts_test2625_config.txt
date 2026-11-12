@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, can you help me check out this phone?
+Speaker2: Hello, Xiaoming, I can help you with this phone. What specific aspects of this phone do you want to know about? For example, performance, battery life, camera, etc.
+Speaker1: I want to mainly understand the navigation ability and camera quality, since I often take photos, so this is very important.
+Speaker2: This phone's battery capacity is 4000mAh, it's enough for a whole day of normal use. The main camera has 4.8 million pixels, the photo quality is excellent, the color reproduction is high, and the night scene mode is very powerful.
+Speaker1: How much does that phone cost?
+Speaker2: This phone is currently priced at 2999 yuan, but there is now a discount promotion, and you can enjoy a 100 yuan direct reduction.
+Speaker1: Can I go to your store and see the real thing during the discount activity?
+Speaker2: Of course, our store is located in the central electronic market in the city, you can come anytime, we have professional staff to introduce you in detail.
+Speaker1: Okay, I'm free on weekends, I plan to come over on Saturday afternoon, are you open on Saturday?
+Speaker2: We are open on Saturdays from 10 am to 8 pm. It's very convenient for you to come in the afternoon on Saturdays. We hope to provide you with satisfactory service at that time.

@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Xiǎolín, want to schedule a haircut time with you?
+Speaker2: Hello, I am the little king of the hair salon, very happy to serve you. What time would you like to book an appointment?
+Speaker1: Is four o'clock on Saturday afternoon okay?
+Speaker2: Let me check, okay, there's an available spot on Saturday afternoon at four o'clock, you can book it for you.
+Speaker1: Okay, then I'll set this time.
+Speaker2: Okay, your appointment has been successfully booked. What should I record your name and contact information as?
+Speaker1: My name is Xiǎolín, phone number is 13800000000.
+Speaker2: Okay, Xiǎolín xiāoshēng, nián hǎo xiǎoyào xuēyào xiànle. Zhōng sì xiàng xiàn xiàng sì xiàng xiàng xiàng xiàng.
+Speaker1: Okay, thank you. Bye.
+Speaker2: No problem, goodbye.

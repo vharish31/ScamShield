@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am the property manager of the community, can we confirm the time for the housekeeping service tomorrow?
+Speaker2: Okay, what was the originally scheduled time?
+Speaker1: Can we change the originally scheduled time of 10 am to 2 pm in the afternoon because of an urgent matter on our side?
+Speaker2: Can we meet at two in the afternoon? Will the teacher come on time?
+Speaker1: Please be on time, so you won't make us wait too long. Is there anything else we can help you with?
+Speaker2: I don't have it now, if you have it, I will contact you.
+Speaker1: Okay, feel free to contact us anytime, we'll handle it promptly.
+Speaker2: Thank you, see you tomorrow.

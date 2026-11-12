@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Li?
+Speaker2: Yes, you are?
+Speaker1: I'm Zhang Huang, let's go to the library together today.
+Speaker2: Hey, Zhang Huang, I almost forgot. Did you go to the library?
+Speaker1: Just now, I got off the subway station, where are you?
+Speaker2: I'm waiting at the east gate of the library, you get off the subway station and walk north, turn left at the first red and green light, and you'll see the library.
+Speaker1: Okay, I'll be there in about ten minutes or so. You can hold a spot for me first.
+Speaker2: Okay, no problem, I'm waiting for you here.
+Speaker1: Thank you, see you later.
+Speaker2: Hey, see you later. Be careful on the road.

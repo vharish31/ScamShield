@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, recently I bought a computer on your platform, but it seems there are some issues.
+Speaker2: Hello, I am customer service king, can you tell me specifically what the problem is?
+Speaker1: The computer sometimes shows a blue screen out of the blue, restarts and works normally again, but after a while it shows a blue screen again.
+Speaker2: This sounds like a system instability or hardware issue. Let's check it out.
+Speaker1: What do I need to do?
+Speaker2: You can download the latest driver update from our website or bring it directly to our repair center for checkup.
+Speaker1: I'll check the official website first, and if it doesn't work, I'll go to the repair center.
+Speaker2: Okay, there are detailed tutorials on the official website. If you have any further questions, please contact us anytime.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, please feel free to contact us anytime if you have any questions, goodbye.

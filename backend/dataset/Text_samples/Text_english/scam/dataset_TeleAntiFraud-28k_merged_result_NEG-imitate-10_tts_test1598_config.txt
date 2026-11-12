@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the manager, Zhang?
+Speaker2: Yes, who are you?
+Speaker1: I am the Lee advisor of the Huaiqi Investment Company, which recently launched a high-yield investment product that is very suitable for your type of enterprise.
+Speaker2: Invest in what product?
+Speaker1: Yes, our product has a yearly return rate of 15%, and the risk is very low, and there's a professional team managing it for you.
+Speaker2: The sound is good, but the investment products in the market have a big risk, how can you ensure safety?
+Speaker1: We have a professional risk control system, all funds will be stored in a third-party monitoring account, ensuring the safety of funds. Additionally, you can first invest a small amount to try it out, don't worry.
+Speaker2: How can I participate?
+Speaker1: It's very simple. Just click on the link I sent you, download our investment app, register your account and you can start investing.
+Speaker2: Okay, let me try.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm here to deliver food, is your address 39th floor?
+Speaker2: Yes, but I'm on the 41st floor, it's a bit complicated here.
+Speaker1: Floor 41? I'm on floor 39, am I walking the wrong way?
+Speaker2: Hmm, you walk along this road, you see the building with the elevator when you reach that one.
+Speaker1: Okay, I found the elevator. What floor are you on?
+Speaker2: I am room 501 on the 5th floor.
+Speaker1: Okay, I'll be right up, just wait for me at the door for a minute.
+Speaker2: Okay, I'll go down and wait for you.
+Speaker1: Can you see me? Are you waiting for me at the door?
+Speaker2: Yes, I'm here. Come over.

@@ -1,0 +1,12 @@
+Speaker1: Hey, are you the new bookstore?
+Speaker2: Hello, yes, I am the new bookstore, what can I help you with?
+Speaker1: Do you have "White Peony" book there?
+Speaker2: Yes, we have "White Peony Original" here. Do you want to know the price or the stock situation?
+Speaker1: I want to know the price and stock, if there is any, I will buy one.
+Speaker2: The price of "White Peony Original" is currently 45 yuan, and there are ten left in stock. You can buy it anytime.
+Speaker1: Sure, can I just go to your store and buy directly?
+Speaker2: Of course, our business hours are from 9am to 9pm, you can come anytime you're convenient.
+Speaker1: What time will I probably go in the afternoon, where is your bookstore in the cultural street?
+Speaker2: Our bookstore is right on the east side of the cultural street, next to the library, when you arrive at the cultural street, just walk straight, turn left at the third red and green light, and walk two hundred meters, you will arrive.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you later, wish you a happy day.

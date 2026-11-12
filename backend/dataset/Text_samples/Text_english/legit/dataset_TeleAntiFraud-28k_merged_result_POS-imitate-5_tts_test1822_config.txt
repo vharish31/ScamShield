@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a laptop, I heard there are several stores here on promotion, can you tell me more about the situation?
+Speaker2: Hello, Xiaoming, I am an electronic city customer service representative, very happy to help you. We do have several brands doing promotional activities here, what specific needs do you have? For example, are you looking for gaming or daily office use?
+Speaker1: I mainly use it for programming and occasionally play games, I hope it can run some big software and the price is not too expensive.
+Speaker2: I understand, we have several good notebooks with high value for money here, such as this new gaming laptop, equipped with high performance GPU and processor, running large software without any problem, now the promotion price is around six thousand five hundred yuan.
+Speaker1: Six thousand five hundred yuan? It sounds good, but what about its endurance?
+Speaker2: This notebook's battery life is quite good, it can reach six to eight hours of normal use, basically meeting your daily needs for carrying it outside.
+Speaker1: So, can you tell me more about your after-sales service in the store?
+Speaker2: Our store guarantees all notebook computers and laptops sold have a one-year free warranty service. If there are any non-human quality issues, we provide free repair or replacement service.
+Speaker1: Now I feel more relaxed, when can I go to the store to take a look?
+Speaker2: Our business hours are from 10 am to 9 pm. You can come to the store at any convenient time. If you need to, I can reserve a chair for you.

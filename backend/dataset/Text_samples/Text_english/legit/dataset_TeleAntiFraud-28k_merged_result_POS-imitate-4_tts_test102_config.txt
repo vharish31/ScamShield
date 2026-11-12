@@ -1,0 +1,9 @@
+Speaker1: Hey, how are you, what's up?
+Speaker1: Wait for me a minute, I'll be there soon.
+Speaker2: Okay, I'm waiting for you downstairs.
+Speaker1: Are you sure you're on the ground?
+Speaker2: Hey, I'm here now, just waiting for you.
+Speaker1: Okay, I'll go down now.
+Speaker2: Okay, be careful on the road.
+Speaker1: Thank you, see you later
+Speaker2: See you later.

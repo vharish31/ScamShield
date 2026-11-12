@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the property office of Qingyun Xiangquan, can you confirm the time of the water and electricity maintenance tomorrow morning?
+Speaker2: Hello, it's property, can I come tomorrow morning? What time?
+Speaker1: Between 9 and 10, it won't delay you much.
+Speaker2: Okay, from 9 to 10, I will be at home.
+Speaker1: Okay, if there are special circumstances, we'll contact you in advance.
+Speaker2: Hey, do you know, if there's any change, you guys can say it in advance.
+Speaker1: We will definitely make every effort to arrive on time, so you won't have to wait for a long time.
+Speaker2: Okay, thank you.
+Speaker1: No problem, please feel free to call us anytime if you have any questions, we have dedicated staff to handle them.
+Speaker2: Okay, see you tomorrow.
+Speaker1: See you tomorrow, goodbye.

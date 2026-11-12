@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm the delivery guy, your food is here, where are you?
+Speaker2: Hello, I'm downstairs in building 12, come over.
+Speaker1: Okay, I'll be there soon.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Hey, I arrived, but the building number is not clear, can you see me?
+Speaker2: Can't see, are you standing near the wall?
+Speaker1: Yes, I can see the surrounding walls, but the apartment number is still unclear.
+Speaker2: I'll be right back, just wait a minute.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: I came out, saw you, walk to the right a little.
+Speaker1: I see you, I'm coming over.

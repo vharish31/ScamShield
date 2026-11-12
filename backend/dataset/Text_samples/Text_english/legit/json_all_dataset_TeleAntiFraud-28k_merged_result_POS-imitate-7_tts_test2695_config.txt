@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at Xiaoming Restaurant?
+Speaker2: Hey, how are you? I want to know what your special dish is today?
+Speaker1: Hello, today's special dishes are red braised pork and steamed fish, both very popular.
+Speaker2: How much does the red meat sound?
+Speaker1: The price of red braised pork is 35 yuan per portion, which is quite enough, and is suitable for two people to share.
+Speaker2: Okay, can you tell me what your business hours are?
+Speaker1: Our restaurant business hours are from 10 am to 10 pm, on weekends they will be extended to 11 pm.
+Speaker2: Can I reserve a four-person seat for around seven o'clock in the evening?
+Speaker1: Of course, I can help you record it. Do you need your name and contact information?
+Speaker2: Call Lee Huahua, the phone number is 13800000000.
+Speaker1: Okay, Li Huangshēng, your reservation has been recorded. Seven o'clock four-person position. Any changes can be contacted anytime.

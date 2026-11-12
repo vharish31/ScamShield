@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I'm small Li, I'm the loan manager at XX bank, I noticed you applied for a loan with us before, there's a great opportunity for you now.
+Speaker2: Hello, I recently don't plan to take out a loan.
+Speaker1: This is the case, this time's loan interest rate is very favorable, and the approval is quick, no need for complex procedures. If you're interested, I can give you a detailed introduction.
+Speaker2: Okay, tell me.
+Speaker1: Okay, this loan product is specifically designed for small micro enterprises and individual entrepreneurs, with a maximum credit limit of one hundred thousand yuan, and our approval process is very fast, only taking one day.
+Speaker2: What materials do I need to prepare?
+Speaker1: You only need to provide copies of your identity card and business license, as well as your recent six months' bank statements. However, to speed up the approval process, you can first download our bank's app and complete the personal information form.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, our app allows you to view loan progress anytime, anywhere and complete the contract online. It's very convenient. If you're willing, I can send the download link to your phone.
+Speaker2: Okay, let's go.

@@ -1,0 +1,14 @@
+Speaker1: Hello, are you Mr. Wang?
+Speaker2: Hey, I am.
+Speaker1: Hello, I am a customer service representative from Happy Bank. We have noticed some unusual activity on your account recently, and we need you to cooperate with us for a safety verification.
+Speaker2: Hey, what's up?
+Speaker1: We suspect that your account may have been used for illegal transactions, for your financial safety, we need you to provide your account verification code, we will send it to you via text message.
+Speaker2: Okay, I received it.
+Speaker1: Please tell me the verification code, we need to verify immediately.
+Speaker2: The verification code is a six-digit number. I recite it for you.
+Speaker1: Okay, please recite for me.
+Speaker2: One two three four five six.
+Speaker1: Thank you for your cooperation. We will immediately process. Additionally, we have provided a new financial service for your account, which guarantees high returns and low risk, are you interested in learning more?
+Speaker2: This sounds good, I can understand a bit.
+Speaker1: Great, to better understand, you can click on the link we send to you and download our financial app.
+Speaker2: Okay, I'll download it in a minute.

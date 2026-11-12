@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, do you have anything to talk about?
+Speaker1: Hello, I am the customer service representative of the community management, we noticed that your water and electricity bill has been overdue for a week, can you pay it as soon as possible?
+Speaker2: Oh, that's it, I recently went on business trip and forgot about it.
+Speaker1: No problem, you can pay through our online platform or bank transfer, very convenient.
+Speaker2: How do I operate an online platform?
+Speaker1: You can input your user number and name on our official website or mobile app, select water electricity bill payment, and follow the instructions to complete the process.
+Speaker2: Okay, I'll try. Also, what happened to the water at my house recently?
+Speaker1: We have received multiple feedbacks regarding the water supply issue. It is due to the maintenance of the municipal water management. It is estimated that it will be restored by 12 am tonight.
+Speaker2: I understand, thank you for your answer.

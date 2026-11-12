@@ -1,0 +1,12 @@
+Speaker1: Hello there!
+Speaker2: Hey, who are you?
+Speaker1: I am the property manager of the community, have you recently renovated your home, need to consult the relevant regulations of the property management?
+Speaker2: Okay, let's understand a bit more, especially about garbage disposal and construction time.
+Speaker1: Garbage must be disposed of according to regulations, construction time cannot exceed 8 pm, and cannot be earlier than 7 am in the morning.
+Speaker2: What should I do to apply for a renovation permit?
+Speaker1: Bring your property deed and ID, fill out the application form at the property management office, and you're done.
+Speaker2: Do you need to make an appointment?
+Speaker1: No need, just come directly, we have someone on duty every day here.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me if you have other questions. Goodbye.
+Speaker2: Goodbye.

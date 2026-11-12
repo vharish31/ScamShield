@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Is this how it is, I am the community property management, want to confirm if your family's property fee for this week has been paid?
+Speaker2: Oh, property fees, I didn't notice this week, how do I pay?
+Speaker1: You can directly submit through our small program or go to the property office, both are very convenient.
+Speaker2: How do I use that little app? I haven't used it before.
+Speaker1: Open your phone, search for our community's name, find the app, register an account, and you'll see the payment options.
+Speaker2: Okay, I'll try, what do I do if there are any problems?
+Speaker1: You can contact us anytime, our phone number is 000-0000, we have a dedicated person to answer.
+Speaker2: Okay, thank you, I know now.

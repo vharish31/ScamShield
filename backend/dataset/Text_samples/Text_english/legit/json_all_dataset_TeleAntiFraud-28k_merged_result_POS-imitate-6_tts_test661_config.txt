@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm the guy who bought a smart home switch from your store a while back, and now it seems to be having some issues. Can you take a look for me?
+Speaker2: Hello, is it okay, when did you buy it, what specific questions do you have?
+Speaker1: I bought it last November, recently I found that I can't control the light sometimes, I checked the maintenance policy, it should still be within the maintenance period.
+Speaker2: Okay, could you please provide me with the purchase order number or invoice so I can process it faster?
+Speaker1: Okay, my order number is 123456789, could you check it out?
+Speaker2: Okay, I found it. Your product is still within the warranty period, we can replace it with a new one.
+Speaker1: When can I get the new switch?
+Speaker2: We will arrange delivery for you within 24 hours, usually you will receive the new product in 3 to 5 working days.
+Speaker1: Okay, thank you for your help. If I have any questions, I will contact you again.
+Speaker2: You're welcome. If you have any other questions, please feel free to contact us anytime. Have a nice life, bye!

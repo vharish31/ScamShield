@@ -1,0 +1,12 @@
+Speaker1: Hey, are there any rooms for rent at your place?
+Speaker2: Hello, have you, what time do you want to see the house?
+Speaker1: Can I go at around four in the afternoon today?
+Speaker2: Okay, around four o'clock is fine, just come directly.
+Speaker1: Okay, how much is the rent for that house per month?
+Speaker2: The monthly rent is one thousand two hundred yuan, with a one-time deposit of three months.
+Speaker1: Hey, did the monthly rent on the fifth floor of Xiangcheng increase to one thousand yuan?
+Speaker2: Oh, that's the old price, now it's adjusted to 1200 yuan.
+Speaker1: I understand, the room is a single room, right?
+Speaker2: Yes, it's a single room, with a separate bathroom, all furniture and appliances are available.
+Speaker1: How do you calculate the water electricity fee?
+Speaker2: Electricity bills are calculated based on actual usage, and each month will allocate the bill according to the account.

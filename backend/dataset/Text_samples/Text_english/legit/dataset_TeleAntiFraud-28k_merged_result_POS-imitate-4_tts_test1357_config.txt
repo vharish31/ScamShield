@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to consult your hairdressing service.
+Speaker2: Hello, I am a hair salon staff member, can I help you with anything?
+Speaker1: Can I make an appointment to cut my hair at a certain time today? Do you have any available spots?
+Speaker2: Sure, what time is convenient for you this afternoon?
+Speaker1: Can I have some time in the afternoon around 3:30?
+Speaker2: 3:30 is fine, but we recommend you come 10 minutes early, so we can prepare for you.
+Speaker1: Okay, I will arrive on time. By the way, do you have any special recommendations for hairdressers there?
+Speaker2: Do you need to book an appointment with the senior hairdresser, Zhang, who is very skilled and has many recommendations?
+Speaker1: Let's book Small Zhang Teacher, after listening to what you said, I feel more relaxed.
+Speaker2: Okay, I have made a reservation for you. 3:30, Mr. Zhang, remember to come on time.

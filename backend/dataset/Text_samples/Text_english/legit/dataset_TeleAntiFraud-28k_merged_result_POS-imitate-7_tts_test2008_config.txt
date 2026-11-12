@@ -1,0 +1,7 @@
+Speaker1: Hey, where are you?
+Speaker2: What floor are you on in that building number four?
+Speaker1: Hey, I'm at building three, just wait a sec, I'll be right over.
+Speaker2: Okay, hurry up, I have something urgent on this side.
+Speaker1: Okay, I know, you wait five minutes, I try my best to be fast.
+Speaker2: Okay, be careful on your way.
+Speaker1: Don't worry, I arrived quickly.

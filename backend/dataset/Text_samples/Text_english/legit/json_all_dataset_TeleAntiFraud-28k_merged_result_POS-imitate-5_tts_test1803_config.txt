@@ -1,0 +1,10 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, I'm doing well, how about you lately?
+Speaker1: Okay, it's just work is a bit busy. Do you have any free time this weekend?
+Speaker2: What are your plans for the weekend?
+Speaker1: Do you want to go to that new coffee shop together? I heard the environment is good.
+Speaker2: Great, I heard it too, let's try it out.
+Speaker1: What about we meet at three in the afternoon on Saturday?
+Speaker2: Sure, Saturday at 3pm is fine.
+Speaker1: Okay, see you then. Remember to bring an umbrella, the weather has been changing lately.
+Speaker2: Okay, I'll bring it. Thank you for reminding me, see you later.

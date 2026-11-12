@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I saw a new coffee machine at your store. Can you preorder it?
+Speaker2: Hello, can you, we this coffee machine now have stock, you what time convenient come pick up?
+Speaker1: Can I go around three in the afternoon?
+Speaker2: Okay, let's meet at 3 pm. You can find me directly when you arrive.
+Speaker1: Okay, what's the price?
+Speaker2: This coffee machine costs 2800 yuan, and we currently have an activity, buy one get three months of coffee beans.
+Speaker1: Sounds good, I'll check it out this afternoon. Also, is this place good?
+Speaker2: It's quite good to find, walk straight along the main road after coming out, see the second red and green light turn left, walk three hundred meters forward, and the shop is on the right side.
+Speaker1: Okay, I understand, thank you for your help. See you later!
+Speaker2: No problem, see you in the afternoon!

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the China UnionPay Consumer Service Center, I am customer service representative Lee, recently we found that your credit card may be at risk of being stolen and used fraudulently, so we need you to cooperate with us to do some security verification.
+Speaker2: Really? Then what do we do?
+Speaker1: To ensure the safety of your funds, we need you to provide the last three digits of your credit card's security code, as well as a copy of your passport's front and back, so we can verify further.
+Speaker2: Is this really safe? I'm afraid of information leakage.
+Speaker1: Don't worry at all, our UnionPay Consumer Service Center has strict information security measures, your information will only be used for this verification.
+Speaker2: Okay, how do I send it to you?
+Speaker1: You can add my private WeChat, my WeChat number is LianYunAnQuan, after adding it, I will send it privately to you, and I will process it quickly.
+Speaker2: Okay, I'll add you on WeChat right away.
+Speaker1: Okay, please add your name after and make sure to note it down, we'll handle it promptly on this end.
+Speaker2: I know, thank you.

@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am the customer manager of the construction bank, Li manager. Our bank currently has a special promotion loan project with an interest rate as low as two cents. Do you have any recent funding needs?
+Speaker2: Hmm, loan, I have some money now, but you say the interest rate is so low, is it really?
+Speaker1: It's true, absolutely regular, we are a national large enterprise, reputation guaranteed. You can first download our official app, inside there are detailed product introduction, online customer service can consult.
+Speaker2: Do you want to download the app? I think I'll just go to the bank branch directly and check it out there, that way I'll feel more at ease.
+Speaker1: You can go to the station, but it's more convenient and quick to apply through the app, and there's also extra discounts for doing so. If you're not comfortable downloading, I can send you a link, and you can fill out the application form directly on your phone browser.
+Speaker2: Okay, send me a link, I'll take a look and then we can talk.
+Speaker1: Okay, I'll send it to you right away. The link is https://example.com/loan. Just follow the instructions after opening it, and feel free to contact me if you have any questions.
+Speaker2: Okay, I'll take a look in a while, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you all the best.

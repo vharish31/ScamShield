@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, what's up?
+Speaker1: Hello, I am the customer service of the food delivery platform. I noticed that you have placed a lot of orders on our platform recently. Would you like to inquire about your satisfaction with our services?
+Speaker2: That's good, delivery speed is fast, just sometimes the food gets cold.
+Speaker1: Thank you for your feedback. We will inform the delivery team and try to improve. Is there anything else you need help with?
+Speaker2: Hey, are there any recent discount activities?
+Speaker1: Yes, you can order any dish now and get a 20 yuan discount when you spend 50 yuan, and you'll also get a free small dessert on your first order.
+Speaker2: Sounds good, let me try it tonight.
+Speaker1: Okay, remember to pick up the discount coupon when you place your order. If you have any other questions, feel free to contact us anytime.
+Speaker2: Okay, thank you for your service, goodbye.
+Speaker1: You're welcome, hope you enjoy your meal, bye.

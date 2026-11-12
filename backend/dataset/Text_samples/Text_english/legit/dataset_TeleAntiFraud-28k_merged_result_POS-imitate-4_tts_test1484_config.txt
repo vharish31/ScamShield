@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, do you have any available seats in your restaurant?
+Speaker2: Hello, little Li, I am server Zhang, now there are a few seats, you guys probably come around 5?
+Speaker1: Do we have a place at six thirty? For four people?
+Speaker2: 6:30 for four people, no problem, can help you reserve a bit, remember to arrive ten minutes early.
+Speaker1: Okay, what do you recommend for the menu?
+Speaker2: Our store signboard menu has red braised pork and steamed fish, both very popular, and also fresh vegetables, you can try.
+Speaker1: How long will these dishes take?
+Speaker2: These dishes need to wait about 20 minutes, but we'll try to be faster.
+Speaker1: Okay, thank you, let's meet later.
+Speaker2: No problem, see you later, looking forward to your arrival.

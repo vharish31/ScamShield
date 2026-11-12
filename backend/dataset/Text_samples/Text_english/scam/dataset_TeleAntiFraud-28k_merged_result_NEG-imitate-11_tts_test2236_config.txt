@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of Guangzhou Nongshang Yinhang, I am Zhang Huai.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed you recently have a funding need, now we can provide you a low-interest loan, no collateral required, and the approval is quick.
+Speaker2: Oh, really? I really need it.
+Speaker1: Hello, to quickly process, please download our official app and submit some basic information through it.
+Speaker2: Where can I download the official app?
+Speaker1: You can download it directly through this link. I'll send it to you soon.
+Speaker2: Okay, I'm waiting.
+Speaker1: Please check your messages, there's a download link inside. Download it and follow the instructions.
+Speaker2: I received the text message. Thank you.

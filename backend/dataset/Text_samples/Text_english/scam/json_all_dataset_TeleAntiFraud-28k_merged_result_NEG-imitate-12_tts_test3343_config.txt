@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. We have a special discounted financial product here with an annual interest rate of 12%, would you be interested in learning more about it?
+Speaker2: How high is the return? It sounds good, how does your product work?
+Speaker1: Yes, the returns are very high and very safe. You just need to download our official app, register an account, and then you can buy it.
+Speaker2: How do I download the app?
+Speaker1: Very simple, just click this link, and you can download it.
+Speaker2: Link? How do I know this link is safe?
+Speaker1: We are a commercial bank, there will be no issues. You can relax, this link is our official link, absolutely safe.
+Speaker2: Okay, I'll try.
+Speaker1: Great, click on the link to download the app, and feel free to contact me if you have any issues.
+Speaker2: Okay, thank you.

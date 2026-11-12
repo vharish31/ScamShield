@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, do you have anything?
+Speaker1: Hi, I'm the property manager of the community. I just wanted to notify you that the community will have water maintenance tomorrow from 9am to 3pm. Is your family ready?
+Speaker2: Uh, like this, will there be someone at home in the morning if I'm not there?
+Speaker1: Is there someone at your home? If not, we can help you turn off the water valve to prevent the water pipe from breaking.
+Speaker2: No one at home, can you guys help me shut off the water valve? I'll tell my roommate in advance.
+Speaker1: Okay, no problem, we will arrange our staff to help you handle it. Moreover, if there are any special circumstances, you can contact us anytime.
+Speaker2: Okay, thank you, what questions will you contact me about?
+Speaker1: No problem, our property's phone number is 0000000, please call this number if you need any help anytime.
+Speaker2: Okay, I understand, thank you.

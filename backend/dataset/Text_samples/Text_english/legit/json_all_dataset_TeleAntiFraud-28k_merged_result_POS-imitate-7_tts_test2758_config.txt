@@ -1,0 +1,10 @@
+Speaker1: Hello, how was your dining experience at our restaurant last week?
+Speaker2: Hello, the last meal was not bad, just the dishes took a little longer to come out.
+Speaker1: Thank you very much for your feedback. We will improve our service quickly. Do you have any suggestions for our dishes?
+Speaker2: I think your desserts are great, but the variety of main dishes could be increased.
+Speaker1: Okay, we will consider adding more options for the main course. Do you have anything special you want to try next time?
+Speaker2: I'm very interested in your new roast duck, I heard the taste is great.
+Speaker1: Roast duck is indeed one of our specialties. You can pre-order it for your next visit, and we'll be ready for you.
+Speaker2: Okay, thank you. Next time I will call ahead to make a reservation before coming.
+Speaker1: You're welcome, we're looking forward to your return. Please feel free to contact us anytime if you have any questions.
+Speaker2: Okay, thank you, bye.

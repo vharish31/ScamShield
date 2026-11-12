@@ -1,0 +1,15 @@
+Speaker1: Hey, hello, I found a phone on your website that I like, can I ask you a few questions?
+Speaker2: Hello, I'm very happy to serve you. Which phone do you prefer?
+Speaker1: That's the new blue dream phone.
+Speaker2: Okay, the blue color dream phone is our recent hot sales, what information do you want to know?
+Speaker1: What is the battery life of this phone and how much does it cost?
+Speaker2: This phone's battery capacity is 4000mAh, and it can maintain one to two days of normal use. The price is currently 3500 yuan, and there is an activity that can enjoy a 90% discount.
+Speaker1: How much do I need to pay for a discount of 9?
+Speaker2: After a 90% discount, you will need to pay 315 yuan.
+Speaker1: Does this phone have any in stock now?
+Speaker2: Do you want to buy online directly or pick up in store?
+Speaker1: Can you deliver online purchases to my home?
+Speaker2: Of course, we provide nationwide delivery service. Just fill out the address information, and we will arrange delivery within two workdays.
+Speaker1: Okay, I'll place the order online now, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a nice shopping, bye.
+Speaker1: Goodbye.

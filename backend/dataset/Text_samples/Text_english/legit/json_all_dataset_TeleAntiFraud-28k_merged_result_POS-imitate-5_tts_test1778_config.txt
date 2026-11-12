@@ -1,0 +1,14 @@
+Speaker1: Hello, I am Li Ming, yesterday you called me and said there are three men who want to rent my house.
+Speaker2: Hi, I'm Zhang, from the middleman company. I did contact you yesterday.
+Speaker1: Hey, I've thought about it, and I have a few conditions I'd like to discuss with you. Firstly, they can move in early, but the rental period starts from March first.
+Speaker2: Okay, this is fine.
+Speaker1: Then regarding the brokerage fee, since it's a short-term rental, I hope you can appropriately reduce it a bit. For example, can the brokerage fee be collected monthly instead of half-yearly?
+Speaker2: This could be considered by our company, but it needs to be confirmed with the tenant.
+Speaker1: Okay, got it. And since they moved in early, I only collected water and electricity fees, property fees were waived.
+Speaker2: I understand, this condition is also very good.
+Speaker1: Finally, the deposit is two months, if the rental period is half a year, the deposit is fully refunded; if not, the deposit is not refunded.
+Speaker2: Okay, I have recorded all these conditions. I will communicate with the tenant, if they agree, I will bring them to see the house.
+Speaker1: Okay, that's annoying. If I can't contact you today, just send me a text message first.
+Speaker2: Okay, no problem. I'll wait for their response and then get back to you.
+Speaker1: Okay, thank you. So, let's just do this way then, wait for your message.
+Speaker2: Okay, bye.

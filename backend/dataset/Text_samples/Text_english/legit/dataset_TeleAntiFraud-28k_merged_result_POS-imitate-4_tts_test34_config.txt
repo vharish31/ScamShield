@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the waiter of this restaurant, your dinner reservation time is almost up, confirm if you are still coming?
+Speaker2: Yeah, I'm still on the road, should arrive on time.
+Speaker1: Okay, we'll hold your spot here. Do you know the specific location of the restaurant?
+Speaker2: Remember it's at the corner of the bustling street, right?
+Speaker1: You won't miss it at the intersection of the bustling street and the food street.
+Speaker2: Okay, I should arrive in about twenty minutes.
+Speaker1: Okay, we'll be ready for you here. We're looking forward to your arrival.
+Speaker2: Thank you, see you then.
+Speaker1: Okay, be careful on the road. Bye.
+Speaker2: Goodbye.

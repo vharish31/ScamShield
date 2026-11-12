@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is a customer service representative from China Construction Bank. We noticed some recent purchase records on our platform and found that you may have encountered some issues, do you need help?
+Speaker2: What problem?
+Speaker1: Hey, one of your orders shows that the products haven't been delivered yet. Maybe there was a problem with the delivery. To protect your rights, we can process a refund for you, but you need to cooperate.
+Speaker2: Okay, what do I need to do?
+Speaker1: Thank you very much for your cooperation. Please click on the link I sent you and enter our refund page. Follow the instructions to proceed.
+Speaker2: Okay, I'll open it now.
+Speaker1: Okay, after you click open, you will see an input box, you need to input bank card number and verification code, complete it and the system will automatically refund.
+Speaker2: Bank card number and verification code?
+Speaker1: Yes, this is to verify your identity, to ensure a smooth refund.
+Speaker2: Okay, I understand.
+Speaker1: Great! If you encounter any issues during the operation, feel free to contact me anytime. Best wishes for your success!

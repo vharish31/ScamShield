@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm the customer service at the food square. You reserved a birthday party place at our restaurant yesterday, do you want to confirm if you'll come tomorrow?
+Speaker2: Oh, hello, yes, we will still follow the plan.
+Speaker1: Great, can you confirm one more time, what time did you guys book, okay?
+Speaker2: Yes, it's three in the afternoon.
+Speaker1: Okay, we'll prepare your rooms and cakes in advance. By the way, if you have any special requirements, such as needing extra cutlery or children's chairs, please let me know in advance.
+Speaker2: Hmm, we need a child's chair, the others should temporarily not have any particular need.
+Speaker1: Okay, I will arrange the children's chairs. Additionally, we have some small friends who like to play games here, if you are interested, I can help you book them.
+Speaker2: Great, the kids will definitely like it, let's book some.
+Speaker1: No problem, I will prepare for you. Also, you can go directly to the second floor children's activity area when you arrive, we will have someone there to greet you.
+Speaker2: Okay, thank you for your arrangement. See you tomorrow.
+Speaker1: No problem, wish you all a happy party. See you tomorrow!

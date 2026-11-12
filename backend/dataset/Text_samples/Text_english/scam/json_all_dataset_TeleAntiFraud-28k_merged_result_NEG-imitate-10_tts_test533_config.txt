@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, this is the express delivery, your package encountered a problem during transportation, you need to cooperate to handle it.
+Speaker2: What problem?
+Speaker1: Our apologies, your package was lost during transportation. To ensure your rights, we need to process the refund procedure.
+Speaker2: Okay, what do I need to do?
+Speaker1: First, please provide your order number and contact phone number, and then we will generate a refund link for you.
+Speaker2: Order number is 123456789, phone number is 13800138000.
+Speaker1: Okay, I have recorded it down. Now, please click on this link and follow the instructions to complete the refund process.
+Speaker2: Did you send me the link?
+Speaker1: Okay, I have sent you a refund via text message. Open the text message, click on the link, and then follow the on-screen instructions to complete the refund.
+Speaker2: Okay, I'll go operate now. Thank you.

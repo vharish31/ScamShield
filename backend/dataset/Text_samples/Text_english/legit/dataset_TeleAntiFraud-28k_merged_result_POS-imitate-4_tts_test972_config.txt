@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Can you help me find your sign? I just missed it at your store door.
+Speaker2: Oh, our store is at the corner of the street, you come from the main road, see the second red light turn right, then walk straight to the bottom, that's our store.
+Speaker1: Okay, I understand. Right, do you have a new product launching today?
+Speaker2: Yes, we have newly launched several sweet treats, as well as summer seasonal drinks. You can try them when you come.
+Speaker1: Great, I like to try new things. Do you have any discount activities at your place now?
+Speaker2: Yes, today you can get a free cup of special drink if you spend 100 yuan in the store. It's very cost-effective.
+Speaker1: Wow, I definitely have to go. Right, I'll probably be there in twenty minutes, do you guys have a place here?
+Speaker2: Yes, we still have a few spots, you can come directly in when you arrive.

@@ -1,0 +1,10 @@
+Speaker1: Can you hear me clearly?
+Speaker2: Can you, hello, have anything?
+Speaker1: Hello, I am the customer service of the happy shopping platform, today I am calling you because your unused shopping points are about to expire.
+Speaker2: Hey, are your points expired?
+Speaker1: Yes, your points will be cleared at twelve o'clock tonight if you don't use them. These points can be exchanged for many products, which is equivalent to saving money.
+Speaker2: What should I do now?
+Speaker1: You can log in to our platform and use points to exchange products. We have already sent you a text message with detailed exchange procedures.
+Speaker2: Okay, I'll go take a look right away.
+Speaker1: Okay, if you have any questions, feel free to contact our customer service at any time. Is there anything else you need help with?
+Speaker2: No, thank you for reminding me.

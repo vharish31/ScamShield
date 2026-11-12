@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I got lost in the New Tian Di shopping center, can you help me guide me to the second floor movie theater?
+Speaker2: Hello, where are you currently?
+Speaker1: I'm at a Starbucks right now.
+Speaker2: Okay, after leaving Starbucks, turn left and you'll see a sign pointing down the stairs. Follow the stairs to the negative one level, then keep going straight to the bottom. You'll see an elevator, take it to the negative two level. The movie theater is on the right side of the exit.
+Speaker1: Okay, thank you for your help. I'll go now.
+Speaker2: No problem, feel free to ask me if you have any other questions. Enjoy your movie!
+Speaker1: Okay, I know. And, I want to confirm, what movies are currently showing at the cinema?
+Speaker2: The currently screening movies are "Chasing the Wind," "Crazy Animal Kingdom," and "Interstellar Journey," you can choose based on your preference.
+Speaker1: Do you know how much the ticket for the movie "Star Crossed" costs?
+Speaker2: The ticket price for "Star Crossing" is 80 yuan, and students and members can also enjoy discounts.
+Speaker1: Okay, I understand now, thank you for your patience in answering.
+Speaker2: No thanks, I'm happy to help you. Have a nice movie!

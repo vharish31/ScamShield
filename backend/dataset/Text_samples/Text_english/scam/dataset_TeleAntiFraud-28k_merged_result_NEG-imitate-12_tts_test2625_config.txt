@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service representative of the Shenzhen Agricultural and Commercial Bank. I want to confirm if you have received the recent SMS we sent you.
+Speaker2: Hello, I seem not to have received your text message, what's going on?
+Speaker1: Oh, that might be because of system issues, the text message didn't send successfully. We have a special promotion loan project recently, the interest rate is very low, and the approval is very fast. Do you want to know more about it?
+Speaker2: Can I borrow some money? I recently have some cash needs, can you give me more details?
+Speaker1: Of course. This loan product is very suitable for customers like you, who have good credit, with a low interest rate and no collateral required, you can get the loan immediately. To make it easier for you to apply, you can click on our official link and fill in some basic information.
+Speaker2: Can you give me the official link?
+Speaker1: Okay, I'll send you a text message with a link address. Click on the link and follow the instructions.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the text message has been sent successfully. Please check and operate it as soon as possible. If you have any questions, you can call our customer service anytime.
+Speaker2: Okay, thank you for your help. I will handle it quickly.

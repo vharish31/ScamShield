@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, who are you?
+Speaker1: Hi, I'm a customer service representative for Meituan Waimai. I noticed that you frequently order food from our platform recently. Would you like to share your suggestions or opinions about our services?
+Speaker2: Oh, that's right, I think your delivery speed is quite fast, but sometimes the food gets cold.
+Speaker1: We will feedback this to the relevant department and try to improve. Additionally, do you have any suggestions for the food categories on our platform?
+Speaker2: Hmm, I think it's good to have more healthy light food options, like salads or low-calorie meals.
+Speaker1: Great suggestions! We will consider adding more options in this area. Do you have any other requirements for our service?
+Speaker2: For now, your overall service is still quite good.
+Speaker1: Thank you for your affirmation and support. If you have any questions or suggestions in the future, please feel free to contact us. Wish you a happy life. Goodbye.
+Speaker2: Okay, thank you, bye.

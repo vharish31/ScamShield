@@ -1,0 +1,12 @@
+Speaker1: Hello, I am Lee Huai, I saw on your website that you have a new air purifier, I want to know more about it.
+Speaker2: Hello, Lee Huang, I am customer service representative Xiao Wang, very happy to serve you. Which air purifier do you want to know about?
+Speaker1: That's the blue one, model number is KJ300F-A3.
+Speaker2: Okay, KJ300F-A3 is our latest air purifier, it's mainly for small houses and has high-efficiency PM2.5 filtering and other functions like removing formaldehyde.
+Speaker1: How much does this air purifier cost?
+Speaker2: The price of KJ300F-A3 is 1999 yuan, and there is a discount activity now, you can enjoy a 95% discount.
+Speaker1: How is its energy consumption?
+Speaker2: This air purifier has very low power consumption, even at the lowest power level, it only consumes 0.8 watts, which is very suitable for long-term use.
+Speaker1: How long does it take to replace the filter of that?
+Speaker2: Based on the different usage environments, it is generally recommended to change filters every three to six months. We also provide filter subscription services, which can be used to periodically replace filters for you.
+Speaker1: Okay, I'll think about it. If I decide to buy, can you provide in-home installation service?
+Speaker2: Of course, we provide free in-home installation service. If you decide to purchase, you can directly order on our website, and we will arrange it as soon as possible.

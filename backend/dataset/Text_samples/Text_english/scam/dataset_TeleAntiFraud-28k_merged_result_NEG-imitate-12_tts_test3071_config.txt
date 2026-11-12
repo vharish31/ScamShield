@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am Li, the manager of Guangfa Bank.
+Speaker2: Hello, Li Manager, do you have anything?
+Speaker1: That's right, we recently launched a new financial product with high returns, low risk, and it's perfect for customers like you.
+Speaker2: Oh, really? I recently really want to invest some money.
+Speaker1: Great, the investment threshold for this product is very low, only requiring a five thousand yuan initial investment, with an annual yield rate of up to one percent.
+Speaker2: What are the specific steps to do it?
+Speaker1: You just need to download our exclusive app, register and complete real name authentication to buy.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, our bank app is developed by a professional team, very reliable. You can download it through this link: [insert link here].
+Speaker2: Okay, let me try.

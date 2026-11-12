@@ -1,0 +1,10 @@
+Speaker1: Hello, do you have any available spots at the hair salon?
+Speaker2: Hello, do you have a place in our store, when do you plan to come?
+Speaker1: Can I come at 3 pm on Sunday?
+Speaker2: Can you tell me how long time you need for the service on Sunday afternoon at 3 pm?
+Speaker1: I want to do a full head trim after about an hour.
+Speaker2: Okay, it takes a few hours to trim your head completely. So I'll schedule you for Sunday afternoon at 3 PM. Just remember to come 10 minutes early.
+Speaker1: Okay, thank you, I remember.
+Speaker2: No problem, if there are any changes, please contact us in advance, see you Sunday afternoon!
+Speaker1: Okay, see you Sunday afternoon, goodbye.
+Speaker2: Goodbye.

@@ -1,0 +1,19 @@
+Speaker1: Hello, how are you? I am the customer service of the car rental company. You have reserved one of our Porsche cars. Have the pickup time changed?
+Speaker2: Hello, there is no change, I am currently processing the driver's license authentication.
+Speaker1: Okay, we will send the car to the pickup point before six o'clock, you don't have to come early.
+Speaker2: Can you send the car to the pickup point first?
+Speaker1: Yes, we will arrive early to pick up the car and wait for you.
+Speaker2: Okay, if you can arrive before six, that's fine.
+Speaker1: Okay, just a reminder about the rules for using the car. When we borrow the car, make sure the oil tank is full, and when we return it, we also need to fill it up.
+Speaker2: I know this one.
+Speaker1: We also provide rental guarantee services, similar to insurance, which can reduce the self-paying portion you may incur during the rental period.
+Speaker2: Was insurance not included in the rental car payment before?
+Speaker1: The cost of payment includes the cost of the vehicle and the basic service fee, but does not include the out-of-town insurance. If you do not purchase out-of-town insurance, and there is an accident such as a collision within 1,500 yuan, you will be personally responsible for the repair costs.
+Speaker2: Understood, if over 1500, part of the overage will be your responsibility?
+Speaker1: Yes, any parts exceeding one thousand five we will handle through insurance.
+Speaker2: Okay, I know, the rules for renting a car are similar to before.
+Speaker1: Okay, if you have any changes or additions to the service, you can tell me before picking up.
+Speaker2: Okay, thank you, I'll handle driver's license authentication first.
+Speaker1: Okay, after authentication is complete, I will send the car to the pickup point.
+Speaker2: Okay, just send it directly to the pickup point.
+Speaker1: Okay, no problem, see you later.

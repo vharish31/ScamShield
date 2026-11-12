@@ -1,0 +1,14 @@
+Speaker1: Hello, nice to meet you, I am the manager of Agricultural and Commercial Bank.
+Speaker2: Hello, Li Manager.
+Speaker1: Do you have any recent capital rotation needs in your company? We can provide low-interest startup loans on this side.
+Speaker2: This one, temporarily no demand yet.
+Speaker1: Great, but if you need anything, feel free to contact us anytime.
+Speaker2: Okay, thank you.
+Speaker1: Have you considered investing recently? We have a very stable financial product with high returns here.
+Speaker2: Investment, I don't understand well.
+Speaker1: No problem, I can introduce you in detail. You can first download our app, which has many investment financial products.
+Speaker2: Download the app, how do you download it?
+Speaker1: Scan this QR code to download.
+Speaker2: Okay, I'll try.
+Speaker1: Great, download it and then I will guide you through the rest of the steps after you register an account in the app.
+Speaker2: Okay, thank you for your help.

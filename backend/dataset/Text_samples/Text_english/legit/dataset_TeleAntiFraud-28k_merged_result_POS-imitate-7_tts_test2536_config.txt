@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I ordered a cake at your store, can you confirm a few things before sending it?
+Speaker2: Hello, I am small Zhang, responsible for delivery. What time did you order the cake?
+Speaker1: I'm supposed to be there at three in the afternoon, but there's something going on at home, so I might be late.
+Speaker2: Understood, do you need to change the delivery time? We can reschedule the delivery.
+Speaker1: That's great, can I change to 5 o'clock?
+Speaker2: Sure, I'll help you edit it and send it to you at 5 pm.
+Speaker1: Okay, can you please deliver the cake to your friend on time?
+Speaker2: Don't worry, we will deliver on time. Happy birthday to your friend.
+Speaker1: Thank you, I'll wait for your message.
+Speaker2: Okay, you can contact us anytime if you have any questions. Goodbye.

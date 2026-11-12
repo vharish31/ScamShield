@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm Xiaoming, recently I've been considering buying a new phone, saw your store's ads and wanted to know more.
+Speaker2: Hello, Xiao Ming, I am Xiao Zhang from the mobile phone store. I am very happy to serve you. What specific needs do you have?
+Speaker1: Hey, I mainly want a phone with good photo effects and strong battery life, within a budget of around three thousand yuan.
+Speaker2: Okay, based on your requirements, we have several options here that are perfect for you, such as this new camera phone with a pixel count of four million, a battery capacity of four thousand milliamps, and is great for everyday use.
+Speaker1: What color options are available for this phone that sounds good?
+Speaker2: This phone comes in three colors: starry black, sapphire blue, and morning mist white. You can choose based on your preference.
+Speaker1: Do you have any in stock of the sapphire blue phone?
+Speaker2: The gemstones are still in stock, and if you're convenient, you can try them out and buy them anytime you come to the store.
+Speaker1: Okay, can I come over at two in the afternoon tomorrow?
+Speaker2: Of course, tomorrow at 2 pm we'll be waiting for you at the store. If you have any questions, feel free to contact me anytime.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

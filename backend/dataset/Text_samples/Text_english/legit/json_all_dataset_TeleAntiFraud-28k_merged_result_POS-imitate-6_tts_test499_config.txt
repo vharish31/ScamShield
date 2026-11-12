@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me how much it costs to take a taxi from my home to the city center?
+Speaker2: Hello, the cost from your home to the city center is approximately between 50 to 70 yuan depending on the traffic condition.
+Speaker1: Can you book a car here?
+Speaker2: Of course, you can tell me the specific time and location, I will help you book an appointment.
+Speaker1: Can I arrange a car for you to pick me up at 3 pm tomorrow afternoon from my home?
+Speaker2: Okay, I'll record it down. Tomorrow at 3 pm, from your house to the city center. I'll notify the driver in advance to contact you.
+Speaker1: Okay, thank you. Then I'll contact the driver tomorrow.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy day.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye.

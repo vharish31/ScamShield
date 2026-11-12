@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw on the recruitment notice that you are recruiting customer service representatives. I would like to inquire about the specific requirements for this position.
+Speaker2: Okay, customer service representatives mainly handle customer calls, answer customer questions, need good communication skills and patience.
+Speaker1: Does this job require relevant work experience?
+Speaker2: We value attitude and ability more, work experience is not necessary, but having relevant experience is a plus.
+Speaker1: I worked customer service at a small company for about a year, I don't know if that counts as a number.
+Speaker2: Of course, math is a good experience for you, we will consider your background.
+Speaker1: When can I come for an interview?
+Speaker2: You can come over at 2 pm tomorrow afternoon, we will arrange an interview, remember to bring your resume.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a smooth journey.

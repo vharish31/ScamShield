@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have any recommendations for your menu items?
+Speaker2: Hello, we recommend the dishes here are Kung Pao Chicken, Steamed Fish and Beef Stir Fry, all of which are highly rated by customers.
+Speaker1: How much does a palace chicken drumming cost per portion?
+Speaker2: The price of gong bao chicken is 38 yuan per portion.
+Speaker1: Okay, can I reserve a four-person booth for tomorrow night at six o'clock?
+Speaker2: You can reserve the private room at six o'clock tomorrow night. Please provide a contact method to confirm.
+Speaker1: Okay, my phone number is 1381380138.
+Speaker2: Okay, your reservation has been recorded. Please arrive ten minutes in advance, we are ready for you.

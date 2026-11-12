@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you, I'm little Zhang.
+Speaker2: Hey, little Zhang, how have you been lately?
+Speaker1: That's good, lately work has been busy. How about you?
+Speaker2: I'm fine, just recently I wanted to change my phone, do you have any recommendations?
+Speaker1: If you like taking photos, you should check out the new Xiaomi phone. The camera quality is amazing.
+Speaker2: Small Mi, I heard navigation is good, how much does it cost?
+Speaker1: The price is relatively affordable, around two thousand, with a high value for money.
+Speaker2: I'll go to the store this weekend and try it out.
+Speaker1: Good idea, remember to check if it meets your needs.
+Speaker2: Thanks for your advice, I'll buy it again and give you feedback.

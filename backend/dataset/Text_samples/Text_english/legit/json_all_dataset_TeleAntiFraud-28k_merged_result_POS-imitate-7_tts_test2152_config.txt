@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me?
+Speaker1: I am the customer service of the e-commerce platform. I see that your points on your account will expire at midnight tonight, and you haven't used them yet.
+Speaker2: Hey, are your points expired?
+Speaker1: Yes, your account has 30,000 points, which is equivalent to 4,000 yuan of shopping budget, and it will be cleared if not used.
+Speaker2: Such a pity, how to use it?
+Speaker1: Log in to your account, enter the point mall, select your favorite products, and directly exchange them with points.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, the points mall has many products, such as electronic products and home decor, I hope you can choose what you like.
+Speaker2: Thank you for reminding me, I will handle it quickly.
+Speaker1: No problem, feel free to contact me if you have any questions. Have a great shopping trip!

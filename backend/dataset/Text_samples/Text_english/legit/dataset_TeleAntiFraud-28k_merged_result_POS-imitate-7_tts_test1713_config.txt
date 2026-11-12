@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm Xiao Zhang, I want to consult your home service.
+Speaker2: Hello, Xiao Zhang, I am a customer service representative for home services, what can I help you with?
+Speaker1: Can you tell me more about your cleaning service, specifically how you charge?
+Speaker2: Our cleaning service fees are determined based on the area and time, generally speaking, a one-time cleaning service fee for a residential area of one hundred square meters or less is one hundred and fifty yuan.
+Speaker1: If I need to make a reservation for two weeks of weekly service, what should I do?
+Speaker2: If it's for Zhou's service, we will provide a certain discount, the total cost for two services is 268 yuan, which is more cost-effective than a single service.
+Speaker1: Okay, how do I make a reservation?
+Speaker2: You can make a reservation through our official website or customer service hotline, or simply tell us your contact information and we will send you detailed service information later.
+Speaker1: What is your service time like?
+Speaker2: Our service hours are very flexible, and can be adjusted according to your specific needs, generally between 9am and 6pm.
+Speaker1: Okay, thank you for your help. I will consider it.
+Speaker2: You're welcome, feel free to consult anytime if you have any questions, wish you a happy life, goodbye.

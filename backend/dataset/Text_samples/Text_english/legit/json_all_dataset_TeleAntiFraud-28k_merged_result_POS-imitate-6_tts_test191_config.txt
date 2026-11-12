@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am a customer service representative from the courier company. Your package has arrived. Please sign for it.
+Speaker2: Okay, I'm at home, can you just deliver it directly to my home?
+Speaker1: Of course, we can send it over right now. What's your specific address?
+Speaker2: Address is happiness road one hundred twenty three number, sunshine small community six number floor three single unit four zero two room.
+Speaker1: Okay, we will arrange for delivery as soon as possible. Approximately 30 minutes, please pay attention to the phone.
+Speaker2: Okay, thank you. I'm waiting for your call.
+Speaker1: No problem, you can contact us anytime if you have any questions. Wish you a happy life.
+Speaker2: Thank you, goodbye.
+Speaker1: Goodbye.

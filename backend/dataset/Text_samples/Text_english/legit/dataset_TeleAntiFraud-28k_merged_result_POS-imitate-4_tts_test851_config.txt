@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you recommend some signature dishes from your restaurant?
+Speaker2: Of course, our menu here has kung pao chicken, clear steamed fish and scallion oyster, all very popular.
+Speaker1: How much does a serving of spicy chicken with gong bao cost?
+Speaker2: The price of gong bao chicken is 38 yuan per portion.
+Speaker1: Okay, I plan to come over for dinner tonight, what time do you guys plan to go to bed?
+Speaker2: Our restaurant's business hours are from 10 am to 10 pm every day. After 9:30 pm, we no longer accept new orders.
+Speaker1: Should I arrive at nine o'clock or so?
+Speaker2: Arriving at 9 am is fine, but it's better to make a reservation in advance to ensure a seat.
+Speaker1: Okay, do I need to make a reservation, how do I make a reservation?
+Speaker2: Of course, you can directly tell me your name and contact information, and I will record it down for you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I saw on your website that you provide home services, I want to know more about the specific services and prices.
+Speaker2: Hello, little Zhang, I am customer service representative Li, we provide various home services including cleaning, cooking, taking care of the elderly and children. You can specifically tell me which service you need, I can give you detailed introduction.
+Speaker1: I want to know more about deep cleaning services, specifically for my home's bathroom that hasn't been cleaned in a long time.
+Speaker2: Okay, our deep cleaning service includes a thorough cleaning of the kitchen and bathroom, including stove, exhaust hood, bathtub, toilet, etc. We will also clean the dust in the house, wipe down windows and glass.
+Speaker1: What's the pricing formula for your services?
+Speaker2: We calculate the cost based on the content and time of the service. For deep cleaning, we usually charge 100 yuan per hour. If your home area is large or needs special handling, we may need to assess the specific work quantity.
+Speaker1: I would need about three to four hours of service. Can you schedule it for Saturday morning?
+Speaker2: Sure, we have a free slot on Saturday morning. What time would you like us to arrive?
+Speaker1: Can we meet around 9 o'clock?
+Speaker2: Okay, so we'll meet on Saturday morning at 9am. We'll arrive on time. If there are any changes, we'll contact you in advance.

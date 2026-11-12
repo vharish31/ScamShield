@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: I am a customer service representative for the Touzi Pig platform. You previously ordered a car wash service from us, but due to the suspension of business during the Lunar New Year holiday, your order was rejected. Now you can appeal to have the service restored.
+Speaker2: Uh, is this way successful for appealing?
+Speaker1: Sure, we will do our best to help you appeal, please provide the detailed information of the order at that time, we will process it quickly.
+Speaker2: Okay, how can I provide this information?
+Speaker1: You can directly tell me and I will record it down, or you can log in to the platform, find the relevant order in my order, click on the appeal button, and follow the instructions to operate.
+Speaker2: Okay, let me log into the platform and operate it for a bit.
+Speaker1: Okay, feel free to contact me anytime if you have any questions.
+Speaker2: Okay, thank you for your help.
+Speaker1: You're welcome, wish you happy life, bye.

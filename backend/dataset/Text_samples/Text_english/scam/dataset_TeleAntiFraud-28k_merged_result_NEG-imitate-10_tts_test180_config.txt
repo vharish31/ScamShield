@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am Li, the manager of Agricultural Bank.
+Speaker2: Hello, Li Manager, what do you have?
+Speaker1: Is that right, we noticed you have a company under your name, we currently have a special loan project, no collateral required, interest rate is extremely favorable, maximum can be borrowed up to 80,000 yuan, are you interested in learning more?
+Speaker2: Is that so? It sounds good, I really need cash flow recently.
+Speaker1: Great, to apply for this loan, you need to first download our bank app, then register an account, I can send you a link, you click on the link and you can download it directly.
+Speaker2: Okay, send me the link, I'll download it.
+Speaker1: Okay, I'll send it to you right away. After you download it, please log in with the registered phone number and fill out some basic information. We'll quickly review your data.
+Speaker2: I understand, thank you, Li manager.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. My phone number is 13700000000. I hope our cooperation is enjoyable!
+Speaker2: Okay, thank you.

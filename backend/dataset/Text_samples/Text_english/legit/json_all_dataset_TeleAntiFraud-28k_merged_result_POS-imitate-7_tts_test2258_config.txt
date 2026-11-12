@@ -1,0 +1,10 @@
+Speaker1: Hey, hi there, I have an appointment at your shop tomorrow afternoon at two o'clock. Can you confirm it?
+Speaker2: Hello, I am the customer service of the hair salon, the appointment for tomorrow at 2 pm has been arranged for you, what time are you leaving?
+Speaker1: I should be able to arrive on time, since I left my house about half an hour ago.
+Speaker2: Okay, our store is at the north side of the city center square. Is it convenient for you to come over?
+Speaker1: I know that place, it's nearby. Also, I want to cut my hair short, do you have any suggestions?
+Speaker2: We have several popular short haircuts here. You can come to the store and see them. Our barber will give you recommendations based on your face shape and personality.
+Speaker1: That's great, I'm very interested in the hairdresser's recommendations. Oh, do I need to pay the deposit in advance?
+Speaker2: No need, you can pay directly when you come to the store. If you can't come temporarily, please notify us two hours in advance.
+Speaker1: Okay, now I can relax. Thank you for your help. See you tomorrow.
+Speaker2: You're welcome, wish you a happy day, see you tomorrow.

@@ -1,0 +1,12 @@
+Speaker1: Hello, I am a customer manager at Huaxia Bank, based on your good credit record, we can provide you with a 30,000 credit loan here.
+Speaker2: Oh, really?
+Speaker1: Yes, we provide low interest loans for high quality customers, are you interested?
+Speaker2: What is the interest rate?
+Speaker1: Our current annual interest rate is 5%, and we have a dedicated green channel for fast approval.
+Speaker2: What do I need to do?
+Speaker1: You just need to provide your ID and pay stub, and we'll take care of the rest.
+Speaker2: Okay, what do I need to pay attention to?
+Speaker1: You can first download our official app, register an account, then upload relevant data, we will quickly review.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Thank you very much for your cooperation. If you need any help, please feel free to contact me anytime.
+Speaker2: Okay, thank you.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I saw your job posting for front desk receptionist on the internet. Is this position still hiring?
+Speaker2: Hey, are you interested in this position?
+Speaker1: I'm quite interested, can you tell me more about the specific requirements for this position?
+Speaker2: This job mainly involves greeting visitors, answering the phone, and handling some routine administrative tasks. It requires good communication skills and proficiency in using office software.
+Speaker1: What is the working hours like?
+Speaker2: Work hours are from 9am to 6pm, weekends, legal holidays rest.
+Speaker1: What about the salary and benefits?
+Speaker2: Salary-wise, the basic salary plus performance bonus, specifics to be discussed. Also, there are five insurances and year-end bonus and other benefits.
+Speaker1: Can I go for an interview? It sounds pretty good.
+Speaker2: Of course, you can send your resume to our company's email, and we will arrange an interview time.
+Speaker1: Okay, thank you for your patience in answering, I will send my resume over quickly.
+Speaker2: No problem, I'm looking forward to your resume, goodbye.

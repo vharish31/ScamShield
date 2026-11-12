@@ -1,0 +1,11 @@
+Speaker2: Hello
+Speaker1: Hello, I am a customer service representative from Huaxing Bank. I have some good news to share with you on this side.
+Speaker2: What good news?
+Speaker1: We recently introduced a loan product with no collateral, low interest rate, which is particularly suitable for high-quality customers like you.
+Speaker2: I'm interested in taking out a loan, how do I apply?
+Speaker1: Great, just download our official app and fill out some basic info to complete the application.
+Speaker2: What is the name of the APP?
+Speaker1: You can download the "Hua Xing Speed Loan" app from the app store and use the invitation code HXL2023 to enjoy more discounts.
+Speaker2: Okay, I'll try it out. Are there any other things to pay attention to?
+Speaker1: If you encounter any issues during the application process, please feel free to contact me anytime. My phone number is 13600000000. Don't forget to wait for my confirmation before submitting your application materials.
+Speaker2: Okay, thank you for your help. I will download the app quickly.

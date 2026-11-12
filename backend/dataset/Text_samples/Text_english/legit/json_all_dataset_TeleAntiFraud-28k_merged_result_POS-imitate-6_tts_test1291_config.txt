@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, may I ask what time your store opens here?
+Speaker2: What can I help you with at our store, which opens at nine in the morning here?
+Speaker1: Can I make a 2:00 PM appointment for tomorrow?
+Speaker2: Okay, what service do you want to book?
+Speaker1: I want to book a haircut service.
+Speaker2: Okay, the haircut appointment for tomorrow at 2 pm has been arranged for you. Is it for male or female service?
+Speaker1: Sir's.
+Speaker2: Okay, do you have any other special requirements, such as a hairstylist or a specific hairstyle?
+Speaker1: No specifics, just follow the rules.
+Speaker2: Okay, everything is ready, see you tomorrow afternoon at two o'clock.

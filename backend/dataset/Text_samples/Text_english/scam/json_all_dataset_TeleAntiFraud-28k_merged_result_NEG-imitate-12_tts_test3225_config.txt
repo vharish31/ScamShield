@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Hello, who are you?
+Speaker1: I am the CEO of a consulting company in Shanghai that specializes in investment. We recently launched a high-yield investment product that is perfect for small business owners. Would you like to know more about it?
+Speaker2: Hey, have you invested in this product? How's the return on investment?
+Speaker1: This product's annualized return rate can reach 12%, and the risk is very low, with many customers already gaining good returns through investment.
+Speaker2: The sound is good, but I'm not familiar with this kind of investment. What should I do?
+Speaker1: It's very simple. Just download our official app, register an account, and then you can start investing. If you're not convenient now, I can send you a link, you can check it out later.
+Speaker2: Send me the link, I'll take a look later.
+Speaker1: Okay, just a moment, I'll send it over to you now. Also, please make sure to fill out the registration page with real information, so we can better serve you.
+Speaker2: Okay, thank you.

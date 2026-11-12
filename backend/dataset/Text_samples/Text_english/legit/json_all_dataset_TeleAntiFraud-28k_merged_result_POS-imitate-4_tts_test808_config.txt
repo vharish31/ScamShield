@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, do you have anything?
+Speaker1: I am the property manager of the community, please remind you that the community will be shut down tomorrow from 8 am to 5 pm, please prepare in advance.
+Speaker2: Okay, thank you for reminding me, what do we need to pay attention to during the shutdown period?
+Speaker1: The main thing is to store water in advance, reduce water usage during the stoppage period, if there is an emergency, you can contact the property, we will do our best to assist.
+Speaker2: Okay, I will pay attention, thank you for your reminder and help.
+Speaker1: No problem, this is what we should do. If you have other questions, you can contact us anytime.
+Speaker2: Okay, thank you again.
+Speaker1: You're welcome, wish you have a nice day.
+Speaker2: You too, goodbye.

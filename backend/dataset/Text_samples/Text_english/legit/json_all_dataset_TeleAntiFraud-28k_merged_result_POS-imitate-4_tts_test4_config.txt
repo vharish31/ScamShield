@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm little Li, can you tell me what time your restaurant is open?
+Speaker2: Hello, little Li, our restaurant is open from 10 am to 10 pm, no break in between.
+Speaker1: Okay, can I reserve a seat for 7:30 PM tonight?
+Speaker2: Of course, the 7:30 spot is fine. How many seats do you need to reserve?
+Speaker1: Two people, me and a friend.
+Speaker2: Okay, two seats have been reserved for you. Do you have any special requirements? For example, a window seat?
+Speaker1: If there's a spot by the window, that's best. If not, it's okay too.
+Speaker2: Okay, we will do our best to arrange a window seat for you. Could you please provide your contact information for us to follow up?
+Speaker1: Okay, my phone number is 000-000-0000.
+Speaker2: Okay, I have recorded it down. We will contact you in advance to confirm. Are there any other questions?
+Speaker1: No more, thank you.

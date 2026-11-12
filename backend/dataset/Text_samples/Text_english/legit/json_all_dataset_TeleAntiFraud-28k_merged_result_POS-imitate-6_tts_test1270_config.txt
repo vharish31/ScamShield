@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can you come pick me up at 2:10 PM tomorrow to take me to the train station?
+Speaker2: Sure, no problem with time.
+Speaker1: That's great, I'm probably about forty minutes or so ready.
+Speaker2: Okay, I will leave early to ensure timely arrival.
+Speaker1: It's pretty much the same here, but the weather forecast says there's a chance of rain, so you should bring an umbrella.
+Speaker2: Uh, I will be ready. Do you have an umbrella?
+Speaker1: I'll prepare an umbrella here, but if it rains, two people holding an umbrella might not be enough.
+Speaker2: I'll bring another one, just in case.

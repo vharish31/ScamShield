@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of Happy Finance Limited Company, named Zhang, you can call me little Zhang.
+Speaker2: Hello, little Zhang, what can I help you with?
+Speaker1: That's right, our company recently introduced a low-interest loan service targeting small microenterprises. Do you have any needs in this area?
+Speaker2: I have a small factory that needs cash flow recently, what are your loan conditions?
+Speaker1: Our loan service is very flexible, no collateral required, interest rate is much lower than other products in the market, and the approval speed is fast, with the fastest being approved on the same day.
+Speaker2: The sound is good, but I'm not comfortable with online loans.
+Speaker1: I completely understand, to make you feel more at ease, I suggest you add my work WeChat first, I can send you relevant materials, you can contact me anytime after you finish the materials.
+Speaker2: Okay, let me add you on WeChat to check the data.
+Speaker1: Great, my WeChat is small Zhang kuàilè dàn, add me and I'll immediately send you the info. Moreover, if you decide to apply for a loan, remember to tell me the referral code: kuàilè zhuǎnkào, this way you can enjoy lower interest rate discount.
+Speaker2: Okay, I understand, thank you, Xiao Zhang.

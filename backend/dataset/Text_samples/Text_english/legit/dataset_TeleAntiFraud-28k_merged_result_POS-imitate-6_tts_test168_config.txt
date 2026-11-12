@@ -1,0 +1,8 @@
+Speaker1: Hey, where are you going?
+Speaker2: Just got off the subway station, you too?
+Speaker1: I'm still on the road, you keep walking, call me when you see a big billboard.
+Speaker2: Okay, I see the billboard, come on quickly.
+Speaker1: I see you now, just wait for me under the billboard.
+Speaker2: Okay, I'm waiting for you here, be careful when opening the car.
+Speaker1: I know, see you later.
+Speaker2: See you later.

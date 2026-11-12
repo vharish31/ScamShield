@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me?
+Speaker1: Hello, I am a customer service representative for food delivery, you ordered food from our platform before, do you have any suggestions or feedback about our service?
+Speaker2: Oh, your service is great, just sometimes the delivery time for food is a bit long.
+Speaker1: Thank you very much for your feedback. We will convey your opinions to the relevant department and strive to improve delivery time.
+Speaker2: Okay, I hope you can do better.
+Speaker1: I'm sure, by the way, we recently launched a new user promotion activity, although you're no longer a new user, but as a token of appreciation for your support, I can give you a discount code, which you can use when placing your next order.
+Speaker2: That's great, your service is really very kind.
+Speaker1: Thank you for your understanding and support. If you have any questions, please feel free to contact us anytime.
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye, wish you enjoy your meal.

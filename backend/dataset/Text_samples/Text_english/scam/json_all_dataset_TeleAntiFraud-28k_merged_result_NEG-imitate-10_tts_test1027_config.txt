@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am a loan advisor at Agricultural and Commercial Bank, Zhang Manager.
+Speaker2: Hello, what can I help you with?
+Speaker1: Your Blue Sky Technology Co. Ltd. has the qualification to apply for a no-collateral, low-interest loan of up to 50,000 yuan.
+Speaker2: Is that so? It sounds good.
+Speaker1: Of course, we have a very convenient application process. You just need to download our app, fill out some basic information, and you can quickly complete the application.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, our app operation is very simple, and we can real-time check loan progress.
+Speaker2: How do I download it?
+Speaker1: You can click this link to directly download our app.
+Speaker2: Okay, I'll give it a try. Thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes for your application.

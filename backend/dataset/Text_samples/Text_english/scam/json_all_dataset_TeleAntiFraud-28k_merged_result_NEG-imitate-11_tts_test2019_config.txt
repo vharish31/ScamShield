@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer service representative of the Agricultural Bank, Zhang Manager.
+Speaker2: Hello, Zhang Manager, what can I help you with?
+Speaker1: We noticed that you've been less active in our bank account recently, as a token of appreciation for your support, we have a special promotion, which can provide you with a personal credit loan of 30,000 yuan.
+Speaker2: Oh, this sounds good, but I don't have much need for money right now.
+Speaker1: I understand, but this promotion is very attractive, interest rate is very low, and the approval is very fast. If you are interested, you can add my WeChat, and you can contact me directly if you need in the future.
+Speaker2: Add WeChat and I won't use it, but I can keep your phone number, and I'll contact you if needed.
+Speaker1: Okay, this is a good idea. Moreover, I can send some loan application documents to you, you can first take a look.
+Speaker2: Sure, send me the data.
+Speaker1: Great, I will immediately send it to you. There's a link in the data, you can click on it to fill out the application form online, very convenient.
+Speaker2: Okay, I'll go take a look later. Thank you for your recommendation.

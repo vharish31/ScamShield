@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hi, I'm little Li. I saw a discounted washing machine in your store. Can you give me more details?
+Speaker2: Hello, little Li, I am customer service Zhang. What is the washing machine you asked for? It is our promotional product, now on sale for eighty percent off.
+Speaker1: Can you give me a detailed introduction of this washing machine's features and characteristics?
+Speaker2: This washing machine has a 10 kg capacity, supports smart washing and drying, and also has an antibacterial function, making it very suitable for family use.
+Speaker1: Does this washing machine have any in stock now?
+Speaker2: Yes, there are still a few in stock. If you're sure you want to buy, we can arrange immediate delivery.
+Speaker1: Okay, I want to buy a computer today. Can you tell me the approximate delivery time?
+Speaker2: In general, we will arrange delivery within twenty-four hours after ordering. If you are in the city, it will be delivered tomorrow.

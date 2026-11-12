@@ -1,0 +1,9 @@
+Speaker2: Hey, how are you?
+Speaker1: Did you go to work?
+Speaker2: Just finished work, how about you?
+Speaker1: I am still at work today, I worked overtime.
+Speaker2: What time do you want to work overtime?
+Speaker1: I think it's still about an hour, why don't you go home first?
+Speaker2: Okay, be careful on the road.
+Speaker1: You're welcome, you should rest early too.
+Speaker2: Hey, I'll get your message, see you later.

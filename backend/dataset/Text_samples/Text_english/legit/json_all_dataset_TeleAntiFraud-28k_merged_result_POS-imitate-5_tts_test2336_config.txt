@@ -1,0 +1,9 @@
+Speaker1: Hey, hello, I can't find exit four at the subway station, can you help me with the direction?
+Speaker2: Hello, after getting off the subway, follow the signpost to the left, then turn right at the second crossroad, you will see a big advertisement board, and the exit is next to the advertisement board.
+Speaker1: Okay, I'll try to find it. What should I do if I can't find it?
+Speaker2: If you can't find it, you can ask a workman for help, he will guide you to it.
+Speaker1: Okay, thank you for your help. The exits of the subway station are quite a few, easy to get lost.
+Speaker2: No problem, I hope you find it successfully. If you need any further help, please feel free to contact me anytime.
+Speaker1: Okay, I'll try it again, thank you.
+Speaker2: Goodbye, wish you all the best.
+Speaker1: Goodbye.

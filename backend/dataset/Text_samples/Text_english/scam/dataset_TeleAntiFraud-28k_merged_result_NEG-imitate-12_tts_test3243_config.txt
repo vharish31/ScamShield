@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of the Bank of Commerce, I am customer service representative Wang, we have a new credit loan service recently, no collateral is required, the loan is quickly disbursed, the interest rate is very favorable, are you interested in learning more?
+Speaker2: Oh, this sounds good, how do I apply?
+Speaker1: Great, just download our bank's official app and fill out some basic information to apply.
+Speaker2: Do you want to download the app? How can I know if this app is real?
+Speaker1: This app is officially certified and very safe. You can scan the QR code I give you to download it, which is more convenient.
+Speaker2: Okay, let me try.
+Speaker1: Okay, please wait for a moment, I'll send you the 2D code right now. Make sure you're using the latest phone system to download it smoothly.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you encounter any issues during the download process, please feel free to contact me anytime. My WeChat number is: abc123456, I'm always online to assist you.
+Speaker2: Okay, I will add you on WeChat. Thank you.

@@ -1,0 +1,8 @@
+Speaker1: Hey, how are you? I'm Li Xiaoling, how about you recently?
+Speaker2: Hey, little Li, I'm doing pretty good, lately work has been a bit busy, how about you?
+Speaker1: I too, work overtime every day, right? Do you have any free time on weekends? Want to go hiking together and relax a bit?
+Speaker2: Sounds good, but I need to check the weather forecast first, if it's good then I'll go, you too?
+Speaker1: Let's check our schedules and see if everything is okay. You can tell me, and we can set a time together.
+Speaker2: Okay, I'll check and call you back when I'm done.
+Speaker1: Okay, wait for your message, then we'll do this first, see you this weekend.
+Speaker2: See you this weekend, goodbye.

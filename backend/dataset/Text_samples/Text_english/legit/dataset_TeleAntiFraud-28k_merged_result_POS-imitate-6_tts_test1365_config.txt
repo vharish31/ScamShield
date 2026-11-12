@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, you good?
+Speaker1: How have you been lately?
+Speaker2: Not bad, just work is a bit busy. You?
+Speaker1: I'm also pretty busy, lately I've been preparing a project.
+Speaker2: Hey, how's the project progress?
+Speaker1: Still manageable, just some details need to be handled.
+Speaker2: Hey, details determine success or failure. Let's go out for a cup of coffee and relax a bit.
+Speaker1: Good idea, how was the weekend?
+Speaker2: Can we go out this weekend? What time?
+Speaker1: Let's meet at three in the afternoon, at the old place?
+Speaker2: Okay, see you at the old place later.
+Speaker1: See you later. Bye.
+Speaker2: Goodbye.

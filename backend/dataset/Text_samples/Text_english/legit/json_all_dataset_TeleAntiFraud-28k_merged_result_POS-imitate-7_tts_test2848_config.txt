@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your car hailing service.
+Speaker2: Hello, I am taxi driver Zhang, what can I help you with?
+Speaker1: Do you have any car models that can be reserved here?
+Speaker2: Of course, we have economic, comfortable, and business type vehicles here, you can choose according to your needs.
+Speaker1: How much would I have to pay if I booked a comfortable type?
+Speaker2: The cost of comfortable vehicles will be calculated based on the distance and time of the journey, and the specific price can be viewed through our App when placing an order, for greater accuracy.
+Speaker1: Can I book a taxi from the airport to the train station at around 8 pm tonight?
+Speaker2: Is that okay? You can book through the app or I can help you book, which one do you find more convenient?
+Speaker1: Can you help me make a reservation? I'm not very familiar with App operation.
+Speaker2: No problem, I'll arrange it for you now. After the appointment is successful, you will receive a text message notification with vehicle information and driver contact details.
+Speaker1: Goodbye, thank you.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. Best wishes!

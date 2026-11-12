@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiao Ming, I ordered a BMW 3 series car on your platform yesterday, I came to pick it up today.
+Speaker2: Hello, Xiao Ming, I am the customer service of the car rental platform. Are you here now?
+Speaker1: I haven't arrived yet, I'll probably pick up the car around one in the afternoon.
+Speaker2: Okay, we will keep your vehicle here. Do you need to confirm the ETC devices on your vehicle?
+Speaker1: Okay, I need to confirm it because the company requires it for expense report.
+Speaker2: I understand. When you pick up the car, we will check it for you. If you have any issues, feel free to contact me anytime.
+Speaker1: Okay, thank you. There's another question. I forgot to ask the car type and license plate number when I booked the car yesterday.
+Speaker2: No problem, I'll help you check. The license plate number is Jing A12345, you can record it.
+Speaker1: Okay, I've noted it down. Thank you for your help.
+Speaker2: No problem, feel free to contact me anytime. Have a nice trip.

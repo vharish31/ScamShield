@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you? Are you interested in any of our menu items?
+Speaker2: Hey, hi, I saw your menu before, I'm really interested in your signature dish.
+Speaker1: Okay, our signboard menu has red braised pork, steamed fish with clear broth, and spicy hot pot, all of which are our signature dishes with amazing flavors.
+Speaker2: I'm a little curious after listening to what you said.
+Speaker1: That's great! We have a special discount here now, if you book now, you can enjoy a 90% discount.
+Speaker2: Can I go over there tonight? It sounds good at nine o'clock.
+Speaker1: Of course, our business hours are from five to ten at night, what time are you coming?
+Speaker2: Seven o'clock or so.
+Speaker1: Okay, 7 o'clock, I will reserve a seat for you. When you arrive, just call me Zhang, and you can sit down directly.
+Speaker2: Okay, thank you little Zhang, see you later.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm in front of your store, how come you can't find the entrance?
+Speaker2: Hello, where are you? We have a small square in front of our store. Did you see the glass door on the left side of the square?
+Speaker1: I saw it, I saw it, but the door is closed.
+Speaker2: Oh, that's the emergency exit, it's not usually open. You walk along the square towards the front, turn right at the end, and you'll see the door.
+Speaker1: Okay, I'll try.
+Speaker2: Okay, give me a message when you arrive, I'll come pick you up.
+Speaker1: Okay, thank you.
+Speaker2: No problem, be careful on the road.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

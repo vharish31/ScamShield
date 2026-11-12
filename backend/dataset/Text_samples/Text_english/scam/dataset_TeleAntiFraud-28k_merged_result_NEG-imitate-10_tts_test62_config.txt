@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Li Xiao, I am an employee of the global express customer service, we found that your package was lost during transportation, to protect your rights, we need to handle the refund process for you.
+Speaker2: I submitted the form yesterday, how come it's lost?
+Speaker1: That's it, we have indeed discovered this issue. In order not to waste your time, you can first click on the link we provided you, fill in some necessary information, and then we can process your refund.
+Speaker2: Okay, can you give me a link?
+Speaker1: Okay, wait a minute. I'll send it to you right away. Also, to confirm your identity, could you please provide your phone number and verification code?
+Speaker2: Sure, my phone number is 13812345678.
+Speaker1: Okay, the verification code has been sent to your phone, please check.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you, we have already recorded your information. To speed up the refund process, the information you filled out by clicking the link will directly enter our system.
+Speaker2: Okay, I'll handle it now.

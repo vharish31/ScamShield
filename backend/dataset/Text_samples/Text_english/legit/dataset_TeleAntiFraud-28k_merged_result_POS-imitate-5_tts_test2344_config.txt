@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm outside the mall, can't find the entrance.
+Speaker2: Hello, are you at the south gate?
+Speaker1: Yes, I am at the south gate.
+Speaker2: Turn left at the first crossroad you see after walking to the right, and keep going straight until you reach the entrance.
+Speaker1: Okay, I see it, thank you.
+Speaker2: No problem, feel free to ask for help if you need anything after entering.
+Speaker1: Okay, I will. Alright, I want to know more about your promotion activities today.
+Speaker2: Today we have a discount activity on the first floor's clothing area, buy five hundred and get one hundred back, and the second floor's electronic products area also has discount coupons that can be redeemed.
+Speaker1: I'll check it out later.
+Speaker2: Okay, take it slow, come find me if you have any questions.

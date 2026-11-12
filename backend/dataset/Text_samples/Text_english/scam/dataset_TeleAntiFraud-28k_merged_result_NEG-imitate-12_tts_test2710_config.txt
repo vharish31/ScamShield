@@ -1,0 +1,10 @@
+Speaker1: Hello, hello, how are you? I am Xiao Wang, this side is XX Bank's credit officer, do you know if it's convenient to talk now?
+Speaker2: Hey, what's up?
+Speaker1: Is that so, our bank has launched a special loan project with a very low interest rate for high-quality customers, only 2.8%, do you have any recent need for cash flow?
+Speaker2: A little interested, but how do I know if you guys are legitimate?
+Speaker1: You can relax, we are a legitimate bank. To better understand the details, you can scan the QR code we send you, download our official app, which contains detailed loan information and application process.
+Speaker2: Well, I'll give it a try, but how can we be sure that your app is genuine, given that there are so many fake apps out there?
+Speaker1: You can see that our app is officially certified after scanning it, and you can also directly download it from the app store by searching for our name, which is more secure.
+Speaker2: Okay, let me try.
+Speaker1: Great! You can contact me anytime if you have any questions. My phone number is 12345678901. Have a nice day!
+Speaker2: Thank you, goodbye.

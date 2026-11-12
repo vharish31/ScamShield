@@ -1,0 +1,12 @@
+Speaker1: Hey, are you the little king who sells bikes?
+Speaker2: Hello, yes, I am little king. What can I help you with?
+Speaker1: Can you recommend anything about your mountain car?
+Speaker2: Of course. We have a new mountain car here with a carbon fiber frame, very lightweight, suitable for various terrain.
+Speaker1: How much does this mountain car cost to hear?
+Speaker2: The price of this mountain car is three thousand eight hundred yuan.
+Speaker1: Does this price include shipping?
+Speaker2: This price does not include shipping, the shipping fee will vary depending on your location.
+Speaker1: How much does shipping cost in the city now?
+Speaker2: The delivery fee in the city is 50 yuan. If you place an order now, we can give you a discount, and the delivery fee will be free.
+Speaker1: Okay, I'll think about it. How's your after-sales service?
+Speaker2: Our after-sales service is excellent, and any issues that arise within the first year of purchasing a car can be repaired for free.

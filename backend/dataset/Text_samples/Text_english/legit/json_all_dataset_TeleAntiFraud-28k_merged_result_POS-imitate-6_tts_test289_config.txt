@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you recommend a good hairdresser here?
+Speaker2: Yes, we have several experienced hair stylists here. You can choose which one?
+Speaker1: Can I get a haircut and dye my hair at the same time?
+Speaker2: Yes, we have a haircut and dyeing service package here, which costs 200 yuan. Do you think it's suitable?
+Speaker1: Can I, when can I make an appointment?
+Speaker2: Is two o'clock in the afternoon on tomorrow suitable?
+Speaker1: Can I arrive two hours earlier tomorrow afternoon?
+Speaker2: Arrive fifteen minutes early so you can have a cup of water and relax a bit.
+Speaker1: Okay, I'll arrive at one forty-five in the afternoon tomorrow. Thank you.
+Speaker2: No problem, see you later.

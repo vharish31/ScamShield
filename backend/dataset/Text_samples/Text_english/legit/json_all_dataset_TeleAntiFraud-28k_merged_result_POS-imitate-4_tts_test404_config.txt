@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I can't find the way out of the subway station, can you help me?
+Speaker2: Hello, which exit are you at?
+Speaker1: I'm at the third exit, but there's a big turnstile here, I don't know how to walk.
+Speaker2: Ah, the third exit, you walk straight along the big wheel, then turn left into the big road, see the second red and green light, then turn right, and you're there.
+Speaker1: Okay, there are many trees on the big road, right?
+Speaker2: Yes, there are many trees on both sides of the big road, you won't go wrong if you walk along the trees.
+Speaker1: Is there a big advertising board on the second red light?
+Speaker2: Yes, there's a big, very visible billboard next to the second red light.
+Speaker1: Okay, I understand now, thank you for your help.
+Speaker2: No problem, wish you a smooth journey.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, where are you going?
+Speaker1: Did you see me just enter the parking lot?
+Speaker2: See you, come in now.
+Speaker1: Okay, I'm in. Where are you?
+Speaker2: I'll just walk straight ahead, and when I see the first crossroad, I'll wait for you there.
+Speaker1: Okay, I'll just walk straight and then turn right.
+Speaker2: Okay, just walk straight, be careful a little, there's a dog here, don't scare it.
+Speaker1: I know, I'll be careful. I'll notify you when I arrive.
+Speaker2: Okay, call me.

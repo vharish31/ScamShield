@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, this is Xingyang Bank, I am your dedicated client manager, Zhang.
+Speaker2: Hello, what do you have?
+Speaker1: Our bank recently introduced a special discounted loan service, no collateral, no guarantee, instant application, instant approval.
+Speaker2: This sounds good, but my recent cash flow is still okay.
+Speaker1: Even if you don't need it now, it's still a good idea to learn it, just in case you need it in the future.
+Speaker2: Okay, can you explain in detail how to operate it?
+Speaker1: It's simple. Just download our bank's official app, register and fill out some basic information, and then submit the loan application.
+Speaker2: Download the app? There won't be any risks, right?
+Speaker1: Absolutely safe, this is our official website link, you can directly download through this link.
+Speaker2: Okay, let me try.

@@ -1,0 +1,9 @@
+Speaker1: Hi, how are you? I'm Xiao Zhang, I'm an express delivery customer service representative on this side, your package was returned because the address was not detailed, you need to cooperate to handle it.
+Speaker2: Oh, really? My package was returned?
+Speaker1: Yes, you have a package from Shenzhen that we couldn't contact you about despite multiple attempts, now we need your detailed address and contact phone number so we can resend it.
+Speaker2: Okay, how should I provide?
+Speaker1: You can click this link, fill out the relevant information, and we'll be able to resend it.
+Speaker2: Okay, I'll go fill it out right away.
+Speaker1: Okay, please fill it out and we'll process it, feel free to contact me if you have any issues.
+Speaker2: Thank you, I'll hang up now.
+Speaker1: Okay, fill out the information and I'll contact you later. Bye.

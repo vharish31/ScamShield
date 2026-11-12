@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I just saw your massage service on your website, can you help me book a time?
+Speaker2: Hello, is it possible to make an appointment? What time would you like to make it?
+Speaker1: Can I make a reservation for this Saturday afternoon at 3 PM?
+Speaker2: Okay, can we make a reservation for Saturday afternoon at 3 pm? Do you need a single or double person service?
+Speaker1: Okay for one person, and also, can you tell me your specific address there?
+Speaker2: Of course, our address is 108 Harmony Road, adjacent to the Lighting Park.
+Speaker1: Okay, I understand. Will you send me a text message to confirm after the appointment is successful?
+Speaker2: Yes, after the appointment is successful, we will send a confirmation text message to the phone number you provided.
+Speaker1: Great, my phone number is 13700000000, please.
+Speaker2: Okay, I have recorded it. See you on Saturday at 3 pm. Have a nice day!

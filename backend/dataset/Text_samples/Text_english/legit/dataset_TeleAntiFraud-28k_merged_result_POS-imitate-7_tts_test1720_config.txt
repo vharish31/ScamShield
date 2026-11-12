@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? Can you tell me if there is breakfast service here?
+Speaker2: Hello, our hotel provides rich breakfast services, are you a guest?
+Speaker1: Yes, I moved in yesterday, but I woke up early this morning and don't know if I can eat breakfast now?
+Speaker2: What is your room number? I'll check the breakfast time for you.
+Speaker1: I live in room 306.
+Speaker2: Okay, room 306, please wait a moment. Hey, breakfast service time is from 7am to 10am, you can still make it.
+Speaker1: That's great, I'll come right away, thank you.
+Speaker2: No problem, breakfast is on the first floor, you can go directly after coming down, wish you enjoy your meal.
+Speaker1: Okay, thank you.
+Speaker2: No thanks, what do you need to find us anytime?

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I'm little Li, I bought a piece of clothing from your store last time, and I have some questions today, so I want to consult with you.
+Speaker2: Hey, little Li, how are you? What's the issue?
+Speaker1: That shirt I wore once, I found it faded, I don't know if it's a quality issue.
+Speaker2: The gray color of the clothes may be a quality issue. Can you bring your clothes to the store to take a look?
+Speaker1: Okay, can I come over in the afternoon tomorrow if you have some free time?
+Speaker2: Is 2 PM convenient for you tomorrow?
+Speaker1: About 3 o'clock.
+Speaker2: Okay, tomorrow at three o'clock, I'll be waiting for you at the store.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

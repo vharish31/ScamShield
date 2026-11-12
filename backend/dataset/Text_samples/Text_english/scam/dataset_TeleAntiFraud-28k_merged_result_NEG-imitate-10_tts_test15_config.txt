@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural Bank. We have noticed that you have some deposit records in our bank. We have a special financial planning that we would like to recommend to you, which can help you increase your wealth. Are you interested in learning more about it recently?
+Speaker2: Hey, I'm not very familiar with wealth management, do you guys have any recommendations?
+Speaker1: Of course, we have a high-yield investment product with an annual return rate of up to 10%, and the investment risk is very low, making it perfect for you. All you need to do is download our bank's app and follow the instructions to invest, it's very convenient.
+Speaker2: Do you want to download the app? It sounds good, I can give it a try.
+Speaker1: Great, just click this link to download our bank app directly. After downloading, remember to register with your phone number. If you have any issues during the registration process, feel free to contact me anytime.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Hello, after downloading, follow the instructions in the app to complete registration and investment. If you have any questions, feel free to call me anytime, my phone number is 12345678901. I wish you a successful investment. Goodbye!
+Speaker2: Thank you, goodbye.

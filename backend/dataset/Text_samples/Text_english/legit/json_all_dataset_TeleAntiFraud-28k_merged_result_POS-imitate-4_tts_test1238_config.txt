@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I make an appointment for your hairdressing service?
+Speaker2: Of course, we provide various haircut services. Do you want to book a man's or woman's haircut?
+Speaker1: What do you recommend for a hairdresser for men?
+Speaker2: We have several experienced hairdressers, such as small Li master and old Wang master, who are highly evaluated by customers. Do you have any special requirements?
+Speaker1: I want to cut my hair a little shorter, don't want it to look too much like a student's, just natural.
+Speaker2: Okay, Little Li is good at natural style haircuts. What time is your convenient time to book him?
+Speaker1: Can I have three o'clock on Saturday afternoon this weekend?
+Speaker2: Saturday afternoon at three o'clock is available. I have scheduled an appointment for you.
+Speaker1: Okay, thank you.
+Speaker2: No problem, see you on Saturday. If there are any changes, please contact me in advance.

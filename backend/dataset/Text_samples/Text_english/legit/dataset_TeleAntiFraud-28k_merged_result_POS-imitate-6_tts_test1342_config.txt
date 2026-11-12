@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Zhang San, I've been thinking about moving recently, I saw your company's moving advertisement, can you tell me more about your services?
+Speaker2: Hello, Mr. Zhang, I am Li Xiao from the moving company, very happy to serve you. What specific aspects do you want to know about? For example, service process, fee standards, or appointment time?
+Speaker1: I'd like to first understand your service process and fee standards, as well as how you typically charge.
+Speaker2: Okay, our service process usually includes door evaluation, contract signing, packing and moving, and new address setup. As for the cost, we will calculate it based on the number and size of the items being moved, as well as the distance. If it's convenient for you, please let me know the approximate address and item quantity, and I can give you a more accurate quote.
+Speaker1: I currently live in Huace Jing Xiao Quan, which has about three bedrooms of furniture, as well as some books and clothing, and am preparing to move to Tianjun Jiayuan.
+Speaker2: Understood, the distance from Huace Jingyuan to Tianguanjiyuan is approximately ten kilometers, plus your items, we estimate the cost to be around one thousand five hundred yuan. Of course, this is just a rough estimate, and we need to do an on-site evaluation to determine the exact cost.
+Speaker1: Do I need to make an appointment for the appraisal at the front door? When can it be scheduled approximately?
+Speaker2: Can you make an appointment for this Saturday morning at around 10 am? Our staff will arrive on time to serve you.
+Speaker1: How can I confirm the appointment on Saturday morning at 10am?
+Speaker2: You can make a reservation by calling our official phone or through our WeChat public account. You can also directly tell us your contact information, and we will record it down to ensure the reservation information is accurate.

@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am Xiao Wang, a customer service representative at China Construction Bank's Consumption Finance and Financial Services. I remember you consulted our loan services before. Do you have any financial needs now?
+Speaker2: Yes, but I also applied for a loan at another bank and am still waiting for approval.
+Speaker1: Oh, in this way, we can provide more convenient services on this side, no need to wait for approval, just provide some basic information, and you can immediately get the loan.
+Speaker2: Really? That's great! What information do I need to provide?
+Speaker1: Just download our app, fill out some basic info, then we'll confirm via phone, and your funds will immediately be deposited once confirmed.
+Speaker2: Okay, how do I download your app?
+Speaker1: You can download our app through this link: [fake link], after downloading follow the instructions.
+Speaker2: Okay, I'll download it right away. Thank you for your help.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes for a smooth operation. Goodbye.

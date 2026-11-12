@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am Li Ming, the customer manager of Agricultural and Commercial Bank, recently we launched a new loan product with high credit, low interest rate, fast approval, very suitable for small and medium-sized enterprises. Have you recently had any capital circulation needs?
+Speaker2: No need at the moment, thank you.
+Speaker1: Understood, but if you have any needs in this area in the future, feel free to contact us. Okay, we also have an investment project with a very high return rate, are you interested in learning more?
+Speaker2: Hmm, investing in wealth management sounds good, can you give a detailed introduction?
+Speaker1: Of course. This project is specifically designed for our high-quality customers, with an annual return rate of 12%. You can first invest a small amount to try it out. If you're interested, you can click on the link I sent you and download our wealth management app, which contains a lot of detailed information.
+Speaker2: Okay, I'll take a look. How do I send that link to you?
+Speaker1: Okay, I will send you the link via text message. Please pay attention to check it out. After downloading the app, feel free to contact me anytime if you have any issues.
+Speaker2: Okay, thank you.

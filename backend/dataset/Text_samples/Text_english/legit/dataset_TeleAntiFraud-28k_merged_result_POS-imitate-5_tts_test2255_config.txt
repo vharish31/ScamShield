@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to inquire about your pet boarding service.
+Speaker2: Hello, we provide pet boarding services here. What information would you like to know?
+Speaker1: I want to know the price and specific services of foster care.
+Speaker2: The prices for our boarding service vary depending on the type and size of the pet, with small pets costing 50 yuan per day, medium pets costing 70 yuan, and large pets costing 100 yuan. The service includes providing comfortable cages, regular feeding, cleaning, appropriate exercise, and health checks.
+Speaker1: Can you provide special care for pets that require it, such as specific food or injections?
+Speaker2: Of course, we have professional veterinarians and caretakers who can provide special food and necessary medical care for pets. If you have any needs in this regard, please inform us during boarding.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: Yes, to ensure that there is enough space and personnel to take care of your pet, we recommend that you book in advance. You can tell me the type of pet, size and expected stay, and I can record it for you.
+Speaker1: My dog is a medium-sized Labrador, and I plan to board him for five days this weekend.
+Speaker2: Okay, I have recorded the information for you. Medium-sized Labrador, to be fostered for five days this weekend, total cost of 350 yuan. Please bring your pet's daily necessities and food when you come to pick up on the day of fostering, and if you have any special needs, please bring the relevant items.
+Speaker1: Okay, thank you for your service, see you later.
+Speaker2: No problem, see you later, wish you have a good day.

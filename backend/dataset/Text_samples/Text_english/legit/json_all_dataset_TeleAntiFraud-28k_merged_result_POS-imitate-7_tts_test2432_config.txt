@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, I see your restaurant is hiring waiters, right?
+Speaker2: Hey, yeah, we're hiring, are you interested?
+Speaker1: Yes, I have worked at a restaurant before, and I want to know more about your work hours and benefits.
+Speaker2: We usually work from 10am to 9pm, with morning and afternoon shifts, and the treatment is good, including a salary plus commission, and meals are provided.
+Speaker1: Can I come over and chat with you tomorrow?
+Speaker2: Of course, you can come over at three in the afternoon tomorrow, I will wait for you here.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are there still haircuts available for appointment at your place?
+Speaker2: Hello, okay, what about what time is convenient for you?
+Speaker1: I want to come at around 3 pm on Saturday this week.
+Speaker2: Okay, Saturday afternoon at three o'clock, we still have a place here.
+Speaker1: So, what time do I need to arrive beforehand?
+Speaker2: Please arrive around ten minutes beforehand, so we can rest a bit and see if there are any special requirements we can tell you about in advance.
+Speaker1: Okay, I noted it down, I will arrive on time.
+Speaker2: Hello, see you on Saturday. If there are any other needs, please contact us anytime.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye, wish you a happy day.

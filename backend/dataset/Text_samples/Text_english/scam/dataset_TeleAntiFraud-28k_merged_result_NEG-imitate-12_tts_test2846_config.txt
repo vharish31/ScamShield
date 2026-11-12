@@ -1,0 +1,8 @@
+Speaker1: Hello, this is the customer service of some certain e-commerce platform. You recently purchased some products on our platform and there are some issues with them. We need to process a refund for you.
+Speaker2: Oh, really?
+Speaker1: Yes, in order to ensure the safety of your funds, we need you to provide us with your bank card number and verification code, so that we can directly refund your money to your account.
+Speaker2: Okay, my bank card number is...
+Speaker1: Okay, I have recorded it down, we will send a verification code to your phone later, please pay attention to check it.
+Speaker2: Okay, I'm waiting.
+Speaker1: Please inform us as soon as you receive the verification code, so we can process the refund quickly.
+Speaker2: Okay, I understand, thank you.

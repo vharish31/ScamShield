@@ -1,0 +1,11 @@
+Speaker2: Hey, how are you?
+Speaker1: Hey, do you guys have any haircut appointments this weekend?
+Speaker2: So, what time do you want to make a reservation?
+Speaker1: Is two in the afternoon on Saturday okay?
+Speaker2: Sure, I'll make a note for you at 2 pm on Saturday.
+Speaker1: Okay, how much does it cost?
+Speaker2: A typical haircut costs 60 yuan, and if you need additional services like washing or blow-drying, it might cost more.
+Speaker1: Do I need to pay in advance?
+Speaker2: No need, pay upon arrival.
+Speaker1: Okay, thank you.
+Speaker2: No problem, see you on Saturday.

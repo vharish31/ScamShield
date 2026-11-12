@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, your takeout is here.
+Speaker2: Are you at the door yet?
+Speaker1: I'm at the elevator door, but the elevator broke down.
+Speaker2: Can you climb the stairs?
+Speaker1: Where is the staircase? I didn't see it.
+Speaker2: The trash can is opposite the stairway on the edge.
+Speaker1: Is the eight-cornered square on the left or the right?
+Speaker2: On the left, facing the mahjong hall, walking to the end of the road has a big sloping staircase.
+Speaker1: I see, so I'll go up there.
+Speaker2: Okay, I'm on the second floor waiting for you, just a moment.

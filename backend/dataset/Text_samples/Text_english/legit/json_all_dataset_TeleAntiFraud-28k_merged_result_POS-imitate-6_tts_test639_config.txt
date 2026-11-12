@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, I recently want to change my phone, do you have any recommendations in your store?
+Speaker2: Hello, little Li, we have some new phones in our store that are recently released, the price-performance ratio is very high, do you have any special requirements, such as budget, brand or function?
+Speaker1: I mainly need a phone with good camera function, occasionally play games, budget around 3000.
+Speaker2: Okay, based on your needs, I recommend you check out this new phone, the camera is amazing, and the performance is strong, perfect for gaming.
+Speaker1: What color options are available for this phone?
+Speaker2: This phone comes in black, blue, and white, you can choose based on your preference.
+Speaker1: Do you like blue? Is this phone in stock?
+Speaker2: The blue phones are still in stock, but they're becoming increasingly popular lately, so you might want to decide quickly.
+Speaker1: Okay, what's the specific address of your store?
+Speaker2: Our store is on the third floor of the electronic city in the city center. You enter from the main entrance, turn left and walk straight to the bottom.

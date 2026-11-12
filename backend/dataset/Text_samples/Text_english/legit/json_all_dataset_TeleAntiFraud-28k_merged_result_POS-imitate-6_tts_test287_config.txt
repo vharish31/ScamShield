@@ -1,0 +1,11 @@
+Speaker2: Hey there!
+Speaker1: Hello, I'm Xiao Zhang, I recently want to move house, I saw your place has a one room one flat house for rent, I want to know more details.
+Speaker2: Hello, little Zhang, I am landlord Li. There is indeed a one-room-one-unit apartment source. What aspects do you want to know the situation of?
+Speaker1: How much is the rent and how do you calculate the water and electricity fees?
+Speaker2: Rent is 1500 yuan per month, and electricity and water fees are calculated based on actual usage, with monthly settlements.
+Speaker1: Is there any furniture in that house?
+Speaker2: The house comes equipped with basic furniture such as a bed, table, and chairs, as well as a wardrobe.
+Speaker1: When can I go over and take a look?
+Speaker2: Can you meet me at 10 am on Saturday morning? I'll be waiting for you at home.
+Speaker1: Okay, I'll go to your place at 10 am on Saturday morning. Thank you.
+Speaker2: No problem, see you later.

@@ -1,0 +1,8 @@
+Speaker1: Hello, this is the customer manager of the Shenzhen Bank, we recently launched a no collateral loan service with a very favorable interest rate, do you have any recent financial needs?
+Speaker2: Hello, I don't have any specific funding needs, thank you.
+Speaker1: Hmm, understood, but this opportunity is really hard to come by, you may not need it now, but you might in the future. I can give you a link, it's detailed on the conditions and process of the loan, can you provide your phone number?
+Speaker2: Okay, send me a link, I'll take a look.
+Speaker1: Okay, thank you very much. You will receive a link later, remember to check it. Additionally, if you have any questions about this loan, feel free to contact me anytime. My phone number is 13512345678, feel free to consult.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you a happy day. If you have any questions, feel free to contact me. Goodbye!
+Speaker2: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you the landlord of that apartment?
+Speaker2: Hey, are you the person who contacted me yesterday?
+Speaker1: Hi hi, I didn't get in touch with you yesterday, I want to try again today.
+Speaker2: Oh, I forgot my phone yesterday. I'm sorry.
+Speaker1: No problem, are you free today? I want to take a look at the house.
+Speaker2: Sure, where are you now? I'll come pick you up.
+Speaker1: I'm at the subway station, out of the exit door, turn right to see a small park.
+Speaker2: Okay, I know that place, I'm probably there in ten minutes.
+Speaker1: Okay, I'll wait for you, thank you.
+Speaker2: No problem, see you later.

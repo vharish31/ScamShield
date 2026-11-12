@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. You recently had some issues with online shopping, and we can help you with a refund here. Are you Miss Zhang?
+Speaker2: Okay, no problem, I am Zhang Xiǎoqīn.
+Speaker1: Okay, Zhang Xiao Jie, to process your refund issue, we need you to first provide some information about your bank card, so we can verify your identity.
+Speaker2: Okay, how can I provide?
+Speaker1: You can click on the link we sent you and fill out the relevant information, and we will process your refund immediately.
+Speaker2: Okay, I'll go click now.
+Speaker1: Zhang Xiǎojīn, wǒlei qǐngbù nǐ de tuìkǎn nénggòu shùnliàn dào zhōng, hái yòu nǐ shì yào shì yòu yī yào yèngzhèngmǎ, wǒmen huì yào shì yào shì yòu yī yào yèngzhèngmǎ.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: The verification code has been sent, please check the text message and inform me of the verification code.
+Speaker2: The verification code is 123456.
+Speaker1: Okay, Zhang Xiǎojīn, your information has been verified successfully, the refund will be in your account within 24 hours, please pay attention to check it.

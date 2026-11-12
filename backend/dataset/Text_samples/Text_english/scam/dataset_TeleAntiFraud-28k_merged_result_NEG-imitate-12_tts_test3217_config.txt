@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Wang Qiang? I'm Li Ming from the construction bank.
+Speaker2: Hello, I am. What do you have in mind?
+Speaker1: Is that so, our bank has just introduced a new financial product with very low interest rates. Do you have any financial needs that you would like to know more about?
+Speaker2: Can you give me a specific explanation of this that I find interesting?
+Speaker1: Of course, this is a loan product specifically designed for high-quality customers, no collateral or guarantee, high credit limit, fast approval. You just need to provide some personal information, and we can quickly process it for you.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Just add my WeChat, I'll send you a link, follow the instructions to fill out the info.
+Speaker2: Okay, I'll add you on WeChat.
+Speaker1: Okay, this is my WeChat number. Once you verify it, I'll send you a link right away.
+Speaker2: Okay, I'll wait for your message.

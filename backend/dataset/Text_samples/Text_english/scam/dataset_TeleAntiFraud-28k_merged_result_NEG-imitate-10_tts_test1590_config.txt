@@ -1,0 +1,12 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Hello, I am.
+Speaker1: Sigh, good morning, I'm the little king of the loan department at Huaxia Bank. I understand that your enterprise may have recently had a need for cash flow. We have a loan product here that doesn't require collateral and has a fast approval. Are you interested?
+Speaker2: Uh, this one, I recently have a bit of a need for cash.
+Speaker1: That's great, boss, this time's activity is particularly good, interest rate is very low, approval is particularly fast, just need you to provide some basic data, can quickly get the loan.
+Speaker2: What materials do I need to prepare?
+Speaker1: You only need to provide the front and back of your identity card, a copy of your business license, and the last year's bank receipts. Of course, to speed up the approval process, you can first scan a QR code and fill out some basic information.
+Speaker2: QR code? Where can I get it?
+Speaker1: Okay, boss, just a moment, I'll send you a text message with a QR code link, you click on it to fill in the form.
+Speaker2: Okay, I'll check my messages later.
+Speaker1: Okay, boss, the text message will be sent to your phone soon. Please pay attention to check it. If there are any issues, feel free to contact me anytime. My phone number is 13800138000.
+Speaker2: Okay, thank you.

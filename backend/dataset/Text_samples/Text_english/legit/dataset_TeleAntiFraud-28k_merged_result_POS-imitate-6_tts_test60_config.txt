@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Can I consult your hair appointment service on that side?
+Speaker2: Okay, what time slot do you want to book?
+Speaker1: Is Saturday afternoon at three o'clock okay?
+Speaker2: Saturday afternoon at three, okay, we have a free slot here.
+Speaker1: That's great, I've been pretty busy with work this week, so I'm looking forward to the weekend.
+Speaker2: Understand, are you coming to our side for the first time?
+Speaker1: Yes, it's the first time, a friend recommended it, and they said your service is good here.
+Speaker2: Thank you for your trust, we will definitely provide the best service. See you on Saturday!
+Speaker1: Okay, thank you, see you on Saturday!

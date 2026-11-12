@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Today's weather is great, do you want to go for a walk? Do you have time?
+Speaker2: Hey, how are you? I was just planning to go out, where do you want to go?
+Speaker1: Have you heard that a new coffee shop has opened? The reviews aren't bad, let's go there and sit for a while?
+Speaker2: That's a great idea, I heard about that coffee shop before, and it's perfect to try their special drinks.
+Speaker1: Okay, I still have some things to handle, I'll probably be there in half an hour, can you go ahead and wait for me for a bit?
+Speaker2: No problem, I'll go first, you handle it and come straight over when you're done.
+Speaker1: Thanks so much, let's meet at a coffee shop.
+Speaker2: Okay, meet at the coffee shop, be careful on the way there.
+Speaker1: Goodbye.
+Speaker2: Goodbye.

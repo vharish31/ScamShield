@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Lee Manager, this is XYZ Bank's Credit Center. I see you recently have a loan demand, do you have a need for cash flow management?
+Speaker2: Hey, is that so? I'm actually in need lately, what's your loan interest rate like?
+Speaker1: Our interest rates are very favorable, with the lowest monthly interest rate of 0.02%, and fast approval, with funds available for immediate disbursement.
+Speaker2: Is this interest rate so low? Is it real or fake? How do I operate it?
+Speaker1: You can download our bank's official app to submit your application quickly and easily.
+Speaker2: Okay, let me try.
+Speaker1: Hello, after downloading, please enter the recommendation code 123456 to enjoy our lowest rate. If you have any questions, please directly contact me. My phone number is 0769-12345678.
+Speaker2: Okay, thank you, I'll download it right away.
+Speaker1: No problem, please give me feedback after downloading, wish you a smooth operation!
+Speaker2: Okay, thank you.

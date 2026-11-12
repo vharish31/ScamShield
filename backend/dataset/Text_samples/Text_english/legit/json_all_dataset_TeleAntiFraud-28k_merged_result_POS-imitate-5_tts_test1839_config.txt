@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm the customer service of the food chain, your points on our platform are about to expire, please use them quickly.
+Speaker2: Oh, my points expired? How did I miss that?
+Speaker1: Yes, your points will expire at the end of this month, and you can use them to redeem some discount coupons or products.
+Speaker2: How can I use these points?
+Speaker1: You can log in to our App, view your points in the personal center, and select the project you want to exchange.
+Speaker2: Okay, I'll check right away. Are there any other things to pay attention to?
+Speaker1: Yes, if you don't use these points, they will expire and be automatically cleared, so it's recommended to handle them quickly.
+Speaker2: I understand, thank you for your reminder.
+Speaker1: No problem, feel free to contact us if you have any other questions. Have a happy life.
+Speaker2: Okay, thank you, bye.

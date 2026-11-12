@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Uh, I'm looking to consult your car maintenance service, my car has been having some issues recently.
+Speaker2: Okay, can you specifically describe the problem with the car?
+Speaker1: I recently noticed that my tires are wearing out unusually fast.
+Speaker2: This situation may be due to incorrect tire pressure or issues with four-wheel alignment. We can check here.
+Speaker1: Can I come check on Saturday?
+Speaker2: Sure, we have a free slot on Saturday at around what time would be convenient for you?
+Speaker1: I should arrive around 10 am.
+Speaker2: Okay, then let's agree to meet on Saturday morning at 10 am.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, goodbye.

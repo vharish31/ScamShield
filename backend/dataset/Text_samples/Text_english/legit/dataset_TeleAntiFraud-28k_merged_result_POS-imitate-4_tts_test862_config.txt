@@ -1,0 +1,14 @@
+Speaker1: Hey there
+Speaker2: Hey, you say
+Speaker1: I see a second-hand bicycle for rent at that location.
+Speaker2: Yeah, okay, there's an old bike to sell
+Speaker1: How much money?
+Speaker2: Three hundred pieces, still can be graded.
+Speaker1: I'm a student party, can't be cheap.
+Speaker2: Okay, 250 yuan, can't go lower than that.
+Speaker1: Okay, let me spend the weekend checking it out.
+Speaker2: Okay, are we going out at 9am on Saturday morning?
+Speaker1: Can you tell me which street your house is on?
+Speaker2: I'll send you a location when we're near the streetlight.
+Speaker1: Okay, thank you.
+Speaker2: No problem, see you on Saturday

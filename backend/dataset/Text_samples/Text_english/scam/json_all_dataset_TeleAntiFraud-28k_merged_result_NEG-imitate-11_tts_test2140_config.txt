@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I'm Zhang from the commercial bank credit department, employee number one two three four.
+Speaker2: Hello, what do you have?
+Speaker1: Have you heard about our recent no collateral loan product with a very low interest rate?
+Speaker2: Hey, I recently need cash flow, can you give me a detailed explanation?
+Speaker1: Okay, this loan product has a maximum loan amount of 50,000 yuan, no collateral required, and approval is immediate upon passing the review.
+Speaker2: Can you tell me what materials I need to prepare?
+Speaker1: Just provide your ID, income proof, and bank statement. It's very simple. For your convenience, I can send you a link, you click on the link and fill out the information, we will quickly review it.
+Speaker2: Okay, I'll fill it out after receiving the link.
+Speaker1: Great, your phone is 8888888888? I'll send you a link right away.
+Speaker2: Okay, thank you.

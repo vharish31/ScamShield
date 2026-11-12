@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of Guangfa Bank, we have a special financial product that is suitable for you, would you have time to take a look?
+Speaker2: Hey, what's up with your financial products? Can you give me more details?
+Speaker1: No problem, this product is recently launched, returns are stable, risks are low, and operations are simple. Just download our official app, register, and you'll see detailed information.
+Speaker2: Do you want to download the app? How can I know if this app is real or not?
+Speaker1: You can rest assured that our bank's APP is available for download in all major app stores, and it is safe and reliable. Moreover, there is a newbie gift package when you download it now, which contains a lot of discount coupons.
+Speaker2: Okay, I'll go back home and take a look, but it's not very convenient right now.
+Speaker1: Okay, do you have some free time? Great, to make it easier for you to operate, I can give you an installation link. Just click on it to download, very convenient.
+Speaker2: Send the link, okay, send it to me.
+Speaker1: Okay, I'll send it to you now. Please pay attention to check the message, and download the registration as soon as you receive it. If you have any questions, you can contact me anytime.
+Speaker2: Okay, thank you for your recommendation. I will take a look.

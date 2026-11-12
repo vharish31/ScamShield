@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer manager of some certain bank. You have consulted with us about loan before, now there is a very good opportunity for you to apply for a 50,000 low interest loan, do you find it convenient now?
+Speaker2: Hey, it's convenient now, can you tell me about this loan?
+Speaker1: Okay, this is our bank's latest loan product. No collateral is required, the approval is quick, the disbursement is even quicker, and the interest rate is extremely competitive. All you need to provide are some basic documents, and you can apply for it.
+Speaker2: The sound is good, but I'm a bit tight-handed right now, I'm not sure if I can still go.
+Speaker1: Don't worry, we'll create a repayment plan based on your actual situation to avoid too much pressure. And if you agree to apply now, we can also provide you with a free credit evaluation service.
+Speaker2: Okay, I'll think about it.
+Speaker1: Okay, for your convenience, I have a link here. You can click on the link to download our app, register and then apply online. It's very convenient.
+Speaker2: Can you tell me the link for downloading the app?
+Speaker1: Of course, just a moment, I'll send it to you now. However, for your information security, it's best to use your phone to directly click on the link, it's safer.
+Speaker2: Okay, I'll take a look at my phone in a moment. Thank you.

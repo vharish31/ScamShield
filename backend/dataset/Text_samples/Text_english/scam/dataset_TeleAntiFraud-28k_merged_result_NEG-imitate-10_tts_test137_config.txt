@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm Zhang from the bank loan service center. Based on your credit record, you meet our latest no collateral loan conditions.
+Speaker2: Hello, which bank are you from?
+Speaker1: I am from Huashang Bank. Our latest loan interest rate is very low, only 0.58%, and the process is simple, and the approval is fast.
+Speaker2: What conditions do you need for that loan?
+Speaker1: You just need to provide identity proof and bank statement, we can quickly process it. If you have any urgent cash needs, I can help you apply immediately.
+Speaker2: I still need to understand the details.
+Speaker1: Okay, for your convenience, I have a detailed loan guide link here, you can click to check it out, very convenient.
+Speaker2: Link? How to click?
+Speaker1: Scan this QR code with your phone and you'll be taken directly to our loan page with all conditions and processes clearly stated.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact me anytime. My phone number is 13600000000. Have a nice day.
+Speaker2: Okay, thank you, bye.

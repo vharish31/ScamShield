@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I can't find the property management office at the door of your community, can you help me with the direction?
+Speaker2: Hello, after entering from the front door, you walk straight to the end, turn right, and then you see a small door on the left side of the first building, which is written "物业管理" on top, that's it.
+Speaker1: How long will it take me to walk?
+Speaker2: About five minutes, if you walk fast a little, you can arrive in three minutes.
+Speaker1: Understood, can I directly consult the front desk after I go in?
+Speaker2: Yes, you can directly go to the front desk, they will help you handle it.
+Speaker1: Okay, thank you, I'll just go now.
+Speaker2: No problem, feel free to contact us anytime if you have any questions, wish you all the best.
+Speaker1: Okay, bye.
+Speaker2: Goodbye.

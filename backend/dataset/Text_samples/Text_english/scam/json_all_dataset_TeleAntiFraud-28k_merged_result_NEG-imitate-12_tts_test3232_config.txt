@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao, Tmall customer service representative.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed you bought a suit from our store a few days ago, but due to logistics error, your package was lost.
+Speaker2: Uh, is that so? Then what do we do now?
+Speaker1: To compensate you, we can provide you with double refund, but you need to click on the link we provide and fill out some necessary information.
+Speaker2: Okay, how do I operate it?
+Speaker1: Just click this link [provide link], follow the instructions, and you can quickly complete the refund.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your bank account number and verification code so we can refund the money to your account.
+Speaker2: Okay, I'm going to operate now.

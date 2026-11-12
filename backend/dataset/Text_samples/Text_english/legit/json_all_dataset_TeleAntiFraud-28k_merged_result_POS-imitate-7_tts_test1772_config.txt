@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help with?
+Speaker1: Can you recommend a place to eat dinner nearby?
+Speaker2: Of course, there's a very popular Sichuan restaurant here with authentic taste and good environment.
+Speaker1: Can you help me book a two-person table?
+Speaker2: Of course, let's go out in the evening?
+Speaker1: Seven and a half.
+Speaker2: Okay, I have already booked it for you. Just go straight to the store when the time comes.
+Speaker1: Thanks for your help.
+Speaker2: You're welcome, hope you enjoy your meal, feel free to contact me if you need anything else.

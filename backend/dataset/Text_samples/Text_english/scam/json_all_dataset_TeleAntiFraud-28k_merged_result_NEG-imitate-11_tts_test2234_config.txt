@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you?
+Speaker2: Hey there
+Speaker1: Hello, I am the manager of the agricultural bank's wealth management center, we have a special investment project with a monthly return of up to 10%, are you interested?
+Speaker2: Hmm, I take a look at my situation, maybe need to understand more detailed information.
+Speaker1: Okay, thank you very much for your interest. For convenience, I can send you a link, you can click on the link to see the project introduction in detail, and you can also invest directly through the link.
+Speaker2: How can I confirm that this link is safe?
+Speaker1: Don't worry, this link is from the bank's official website and is very safe. I can also send it to you via WeChat, which is more convenient for you to check.
+Speaker2: Okay, add me on WeChat, I'll take a look and then we can talk.
+Speaker1: Okay, my WeChat number is ab123456. Add me and I'll send you the link immediately after.
+Speaker2: Okay, I'll add you later.

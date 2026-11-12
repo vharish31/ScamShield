@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am Lee, the credit card department manager of Guangfa Bank.
+Speaker2: Hello, Li Manager, what's up?
+Speaker1: That's right, our bank recently introduced a new financial product with a very high return and extremely low risk, which is perfect for you as a high-quality customer.
+Speaker2: Oh, really? I really want to invest some money recently.
+Speaker1: Great, I can give you a detailed introduction. For convenience, you can first click on the link I sent you, download our bank's official app, and then you can see more detailed information about our products inside.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the link right away. After installation, remember to open the app, where our professional team provides you with one-on-one service.
+Speaker2: I understand, thank you, Li manager.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. By the way, have you recently encountered any issues with delivery or product quality? Our e-commerce platform can provide you with a quick solution.
+Speaker2: I recently encountered a problem, but I solved it.
+Speaker1: Okay, if you need help, you can contact me, I can coordinate with you to solve the problem.

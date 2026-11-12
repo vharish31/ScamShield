@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Who are you?
+Speaker1: Hello, I am a loan officer at Hua Xia Bank, I see that you have recently searched for loan information on our website, do you have any financial needs that I can help with?
+Speaker2: Oh, really? I do need some cash flow.
+Speaker1: Great, we have a special loan product that's perfect for you, no collateral, low interest rate, fast approval, you can download our official app, fill out some basic info, and we'll have a specialist serve you.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, after downloading the app, you can easily understand the loan details, and if you have any questions, you can directly contact us in the app, which is very convenient.
+Speaker2: Okay, how do I download it?
+Speaker1: It's very simple. You can click on the link I send to you to download our official app. After downloading, please use this phone number to register, so we can provide you with service more quickly.
+Speaker2: Okay, let me try.

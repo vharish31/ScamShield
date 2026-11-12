@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I want to consult your car service.
+Speaker2: Okay, what can I help you with?
+Speaker1: What areas does your taxi service cover?
+Speaker2: Our current service covers the city center and some key areas around it. Please specify your starting point and endpoint, and I'll look it up for you.
+Speaker1: Okay, can I go from Dragon Well Road to Xiān'ān Sì?
+Speaker2: Okay, this route is covered, it should take about 30 minutes, and the cost is approximately 40 yuan.
+Speaker1: Okay, when can I call a car?
+Speaker2: You can place an order anytime on our app, if you have an urgent need, you can directly call our customer service hotline, we will arrange a car for you as soon as possible.

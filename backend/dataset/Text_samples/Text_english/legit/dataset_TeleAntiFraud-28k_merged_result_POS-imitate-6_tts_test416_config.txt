@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is anyone there?
+Speaker1: I'm little king, want to consult your rental info.
+Speaker2: Hey little king, what can I help you with?
+Speaker1: Did you post on the community group last week about a room for rent?
+Speaker2: Yes, it's a one-bedroom apartment located on the third and fourth floors of the community's building number three.
+Speaker1: How's the lighting?
+Speaker2: Good lighting, facing south, there's always sunlight every day.
+Speaker1: Is there a place to park here?
+Speaker2: There is a parking lot in the community, but you need to handle a parking permit.
+Speaker1: How much is the rent?
+Speaker2: Rent is two thousand five hundred yuan per month, one month's deposit for three months.
+Speaker1: Okay, I want to go see something over the weekend, is that convenient?
+Speaker2: Convenient, I'm at home on weekends, you can come anytime.
+Speaker1: Okay, then I'll go to your place around 3 pm on Saturday afternoon.
+Speaker2: Okay, Saturday afternoon at three o'clock, I'll be waiting for you at home.

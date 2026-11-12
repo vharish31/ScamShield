@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello, what do you have?
+Speaker1: I saw a job position on your side and wanted to know more about it.
+Speaker2: Okay, which position do you want to know more about?
+Speaker1: Can you tell me the specific work content of the maintenance worker I saw?
+Speaker2: Maintenance workers are mainly responsible for daily maintenance and small repairs of equipment, which requires some mechanical knowledge.
+Speaker1: What are the requirements for this position?
+Speaker2: The job requires relevant work experience, good physical health, and age under 40.
+Speaker1: I am thirty-seven years old, I have done similar work before, so I should meet the requirements.
+Speaker2: You can send over your resume, and we'll review it here.
+Speaker1: Okay, I'll send it to you now, what's your email address?
+Speaker2: Our job application email is hr@company name.com. After receiving your resume, we will contact you promptly.
+Speaker1: Thank you, I'll wait for your message now.
+Speaker2: Okay, wish you all the best, bye.

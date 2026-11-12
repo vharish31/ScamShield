@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you little Li?
+Speaker1: Is it me, you?
+Speaker2: Hey, it's me, your old classmate Little Wang. How have you been lately?
+Speaker1: Hey, little king, you finally got in touch with me, I'm doing great, how about you?
+Speaker2: I'm not bad, I just changed jobs recently, would you like to have dinner and chat about how things have been going?
+Speaker1: Good, what time is convenient for you?
+Speaker2: How was your weekend? I reserved a private room, let's chat leisurely.
+Speaker1: Can we go this weekend? Where do you want to order?
+Speaker2: Do you remember that little restaurant in our old place?
+Speaker1: Remember remember, that restaurant's flavor is really good.
+Speaker2: Okay, Saturday at 5 pm, see you later.
+Speaker1: Okay, see you on Saturday.
+Speaker2: Okay, see you later.

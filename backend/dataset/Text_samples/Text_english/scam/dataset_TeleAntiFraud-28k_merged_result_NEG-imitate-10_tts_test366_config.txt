@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a customer service representative from China Merchants Bank, I see that you have recently had a need for cash flow, we have low interest loan products here, the interest rate is only 0.02, are you interested in learning more?
+Speaker2: Hey, I recently have some cash needs, can you give me some specifics?
+Speaker1: Of course, our loan product features are no collateral, fast approval, just need basic personal info, quickly get loan. You convenient add micro chat? We can detail chat.
+Speaker2: Can you add me on WeChat, but can you first tell me your customer service phone number?
+Speaker1: Okay, our customer service phone number is 4001234000, but for convenience of communication, let's add a WeChat too. I have detailed information here that I can send to you.
+Speaker2: Okay, let's add WeChat. You send me a verification code first.
+Speaker1: Okay, I'll send it to you now. Please pay attention to check it out. By the way, we also have a dedicated app where you can complete all operations, very convenient.
+Speaker2: Okay, I received the verification code. Add me on WeChat. What's the name of the app?
+Speaker1: Our app is called "Zhōng Hǎi Dàn" and you can download it from the app store. After downloading, I can guide you through the registration and application process.

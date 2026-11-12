@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Hello, I am the customer manager of the Agricultural Bank's Tianhe Branch, and we have a special loan product that can grant you a credit of 50,000 yuan. Would you be interested in learning more about it?
+Speaker2: Uh, I recently have some financial needs, can you tell me in detail?
+Speaker1: Of course, this loan product is specially designed for high-quality customers. Zero down payment, zero collateral, fastest same-day approval. You just need to provide some basic information, and we can immediately pre-approve you.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: You can first click on the link I sent you, fill out some basic information, and we will have a specialist serve you.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the link right away. Additionally, to ensure your information is secure, you may receive a verification code, please make sure to enter it on the link page.
+Speaker2: I understand, thank you.

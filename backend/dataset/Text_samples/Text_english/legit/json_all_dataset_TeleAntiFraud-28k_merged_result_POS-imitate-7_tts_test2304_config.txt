@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I saw a Huawei phone on your website, want to know more about it?
+Speaker2: Hello, I'm very happy to serve you. What aspect of Huawei phone information do you want to know?
+Speaker1: Is this phone in stock now? How much does it cost?
+Speaker2: Yes, this Huawei phone is currently in stock, and the price is 3599 yuan.
+Speaker1: Hey, do you have any discount activities?
+Speaker2: We currently have a promotion activity, buy this phone and enjoy a full discount, buy three thousand five hundred yuan and get a hundred yuan off.
+Speaker1: Uh, in this way, what time can I get my order if I place it today?
+Speaker2: If you place an order today, we will ship it to you within 24 hours, usually it takes 3-5 days to arrive after shipping.
+Speaker1: What should I do to track my order after placing it?
+Speaker2: After placing an order, you can check the logistics information on the order details page, or call our customer service hotline for inquiries.
+Speaker1: I understand, thank you for your help, I will consider placing an order.
+Speaker2: You're welcome. If you have any other questions, feel free to contact me anytime. Have a great shopping!

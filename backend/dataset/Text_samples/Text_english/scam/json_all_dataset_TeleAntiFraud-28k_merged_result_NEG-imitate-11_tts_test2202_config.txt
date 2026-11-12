@@ -1,0 +1,16 @@
+Speaker1: Hey, are you Li Laoban? I'm Xiao Zhang.
+Speaker2: Hey, who are you?
+Speaker1: Are you that little Zhang? We didn't talk about that loan before, did we?
+Speaker2: Oh, I remember now, you can say it again, I have some things on my side, I don't remember it clearly.
+Speaker1: Okay, no problem. I am the customer manager of XX loan company. We here have fast loan service for small and medium enterprises, no collateral required, approval is quick.
+Speaker2: Really? It sounds good, I actually have a bit of a cash need right now.
+Speaker1: Yes, how much money do you need now? We can provide up to a maximum of one hundred thousand loans.
+Speaker2: I roughly need around 30,000, but I don't know how to operate.
+Speaker1: No problem, just provide some basic info and we can handle it.
+Speaker2: What do I need to prepare?
+Speaker1: You just need to provide copies of your ID and business license, as well as your bank statements from the past three months.
+Speaker2: Okay, I'm ready.
+Speaker1: Great, but to speed up the approval process, you can first download our company's app and then register an account, which is more convenient.
+Speaker2: Okay, I'll download your app.
+Speaker1: Okay, after you download, contact me directly, I will guide you to complete the registration.
+Speaker2: Okay, thank you.

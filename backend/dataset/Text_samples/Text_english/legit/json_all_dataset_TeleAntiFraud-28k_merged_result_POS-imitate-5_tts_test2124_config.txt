@@ -1,0 +1,14 @@
+Speaker1: Hello, this is Blue Sky Home Services, how can I assist you?
+Speaker2: Hello, can I book your cleaning service?
+Speaker1: Of course, how much time do you need for the service?
+Speaker2: It's best this weekend. Can we meet on Saturday morning?
+Speaker1: Saturday morning is usually fine, we start work at nine o'clock. Is this time suitable for you?
+Speaker2: Can I arrive at 9:00, how far in advance do I need to make a reservation?
+Speaker1: You can make an appointment now, we will confirm the specific time and cleaner's information one day in advance.
+Speaker2: Okay, what information do I need to provide?
+Speaker1: Please provide your name, contact number, specific address, clear area, and special requirements.
+Speaker2: My name is Zhang Ming, phone number is 13801380138, address is Xiàngfú Xiǎojīng shí dòng liú sān dàn yī rèng sì xiàng rèng.
+Speaker1: Okay, Mr. Zhang Ming, we have recorded your information. Our cleaner will arrive on time at 9 am on Saturday morning. If there are any changes, we will contact you before Friday.
+Speaker2: Okay, thank you, looking forward to Saturday's service.
+Speaker1: No problem, Zhang Ming, thank you for your trust, wish you happy life, goodbye.
+Speaker2: Goodbye.

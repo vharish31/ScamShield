@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service monkey of the point store. It seems like you haven't used your account's points recently.
+Speaker2: Oh, really? I really didn't pay attention.
+Speaker1: Yes, your account has over 30,000 points, which can be exchanged for many products.
+Speaker2: Thirty thousand? So many?
+Speaker1: Yes, these points can be exchanged for white wine gift boxes, smartwatches, even high-definition TVs, it's really very cost-effective.
+Speaker2: The sound is good, but I don't need these things urgently now.
+Speaker1: Hmm, I understand. But these points will clear at twelve tonight, don't you want to save them?
+Speaker2: Is it really a pity? Can we keep some points?
+Speaker1: Sure, if you have any remaining points after exchanging today, I can help you apply for retention and also give you an extra after-sale gift package.
+Speaker2: Okay, I'll take a look and see what's suitable. Thank you for reminding me.

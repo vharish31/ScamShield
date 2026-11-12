@@ -1,0 +1,13 @@
+Speaker1: Hello, how can I help you? I saw you called earlier, is there anything I can assist you with?
+Speaker2: Hello, that's it, I ordered a beef stir-fry yesterday, but the taste was a little off, can you give me some advice on how to handle it?
+Speaker1: Oh, I'm so sorry to bring you an unpleasant experience. Can you tell me your order number? We'll check it over here.
+Speaker2: Okay, my order number is one two three four five one two.
+Speaker1: Okay, I found your order. It does exist. As for the issue with the food, we take it very seriously. Do you want us to make a new one and send it over, or do you want a refund?
+Speaker2: I guess I'll refund it, I already ate it, but the taste was really bad.
+Speaker1: Okay, we will handle the refund issue on a workday. As a token of appreciation for your support, we will give you a 10 yuan discount coupon, which you can use on your next purchase.
+Speaker2: Okay, thank you. Is there any stir-fried vegetables here?
+Speaker1: Yes, we have many kinds of stir-fried vegetables here, such as spinach stir-fried vegetables and pepper stir-fried vegetables, you can choose according to your taste.
+Speaker2: I'll try stir-frying with Shaoxing wine, and make a note of it for next time when ordering.
+Speaker1: Okay, we will pay special attention. If there are any issues, please feel free to contact us anytime.
+Speaker2: Okay, thank you. Then I'll hang up the phone.
+Speaker1: Okay, bye.

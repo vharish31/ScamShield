@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, want to ask about your restaurant's special dishes?
+Speaker2: Hello, I am server Zhang, our restaurant special dishes are spicy Szechuan and steamed fish, which dish would you like to know?
+Speaker1: What ingredients are in spicy Sichuan hotpot and how many people can eat it?
+Speaker2: The spicy pot has chicken wings, beef, tofu skin, and potato slices, as well as various fresh vegetables, suitable for 3-4 people to enjoy together.
+Speaker1: How much does it cost to sound so good?
+Speaker2: The price of the spicy pot is 60 yuan, and if you need extra ingredients, each portion is 10 yuan extra.
+Speaker1: Okay, can I reserve a four-person seat for Saturday night at 7 pm?
+Speaker2: Okay, the 4-person seat for Saturday evening at 7pm has been reserved for you. Do you need a phone number?
+Speaker1: Can you please confirm if someone will contact me at the phone number 13801380138?
+Speaker2: Yes, we will contact you one day in advance to confirm your reservation information. If there are any changes, please feel free to contact us anytime.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, this is the Yánggōngměi róng yuàn, can you help me with anything?
+Speaker1: Can you recommend any projects for beauty treatment tomorrow?
+Speaker2: Of course. Our most popular here is deep skin cleansing and facial massage, which can effectively improve skin quality. Are you interested to try?
+Speaker1: How much money do these two projects add up to?
+Speaker2: The total of the two items is three hundred yuan, but if it's the first time experience, we have a discount activity, only need two hundred sixty yuan.
+Speaker1: Can I make a reservation for tomorrow afternoon at three o'clock?
+Speaker2: Okay, tomorrow afternoon at three o'clock, I will make time for you. Do you need to provide your name and contact information?
+Speaker1: Okay, my name is Li Huai, phone number is 1345678900.
+Speaker2: Okay, Li Huawen, I have already booked a beauty treatment for you tomorrow at 3 pm. See you then.
+Speaker1: Thank you, goodbye.
+Speaker2: No problem, goodbye.

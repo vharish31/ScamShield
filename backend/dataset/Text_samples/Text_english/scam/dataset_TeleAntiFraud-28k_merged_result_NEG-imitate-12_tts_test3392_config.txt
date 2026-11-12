@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank, my name is Wang, we have a special discounted loan product here, do you have any recent funding needs?
+Speaker2: Hey, I recently need some money, can you give me a detailed introduction?
+Speaker1: Of course, this loan product has an extremely low annual interest rate of only 0.03%, and the approval speed is fast, with the loan amount available on the same day after application. You only need to provide some basic personal information and credit report to proceed with the review.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: It's very simple. You can click on the link I send you to enter our official website, fill out the relevant information, and then submit the application. If you're not convenient with the internet, I can help you complete the application by phone.
+Speaker2: How do I confirm this link is safe?
+Speaker1: This is our official link, I guarantee it's safe. You can also directly call me to tell me your info, I'll help you complete the application.
+Speaker2: Okay, let me try.
+Speaker1: Great, I'll send you the link now. Additionally, to speed up the review process, you can download our app, which has some convenient features to help you complete the application faster.
+Speaker2: Okay, I'll wait for the link, thank you.

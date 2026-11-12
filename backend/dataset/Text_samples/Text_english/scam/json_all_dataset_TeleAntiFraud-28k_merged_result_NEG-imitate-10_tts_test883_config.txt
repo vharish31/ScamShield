@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Ping An Bank, my name is Li Wei, we have a very good wealth management project recently, the return is very stable, are you interested in learning more?
+Speaker2: Hello, I recently have some spare money, can I listen?
+Speaker1: Great, this product is a joint venture between our bank and several well-known investment companies, with a low investment threshold and high return rate, making it ideal for short-term investments.
+Speaker2: What are the specific steps to do it?
+Speaker1: Just download our exclusive app, register and you can start investing. This app is very convenient and allows you to check returns anytime.
+Speaker2: Download the app? Is there any risk?
+Speaker1: Don't worry, our app is certified by the Chinese government as a safe software, you can download it from the app store by searching 'ping an li cai', it's absolutely safe.
+Speaker2: Okay, let me try.
+Speaker1: Hello, you can contact me anytime if you have any questions. My phone number is 13800138000. I wish your investment goes smoothly. Goodbye!
+Speaker2: Thank you, goodbye.

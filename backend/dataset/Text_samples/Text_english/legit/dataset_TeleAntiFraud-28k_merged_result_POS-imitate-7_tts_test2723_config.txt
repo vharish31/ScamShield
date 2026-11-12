@@ -1,0 +1,10 @@
+Speaker1: Hey, are you guys open yet?
+Speaker2: Hello, the door is open, is there anything I can help you with?
+Speaker1: My car's tire blew out last night, and the tow truck has already brought it to your store. Can you help me fix it?
+Speaker2: Of course, when will you come?
+Speaker1: Come straight over, can you help me handle it?
+Speaker2: Okay, please come first, because we need to check the tire condition, ensure safety.
+Speaker1: Can I arrive in about ten minutes?
+Speaker2: No problem, we're waiting for you here.
+Speaker1: Okay, thank you, I'll just go now.
+Speaker2: No problem, be careful on the road, see you.

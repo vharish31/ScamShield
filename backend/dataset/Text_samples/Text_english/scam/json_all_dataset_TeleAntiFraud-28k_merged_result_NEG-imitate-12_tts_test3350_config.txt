@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the customer service of the gold mine mall, there are some problems with your order, please cooperate to handle them.
+Speaker2: Hey, what's up?
+Speaker1: An error occurred during the payment process of your order. To protect your rights, we need you to confirm your payment information again.
+Speaker2: How can I confirm?
+Speaker1: Please click on the link in the text message we sent, follow the instructions to complete the confirmation.
+Speaker2: Okay, I'll go take a look.
+Speaker1: By the way, our mall now has a new financial project with very high returns. Are you interested in learning more?
+Speaker2: Can you provide me with more specific information about the financial project?
+Speaker1: Of course, for convenience, you can download our official app, which has detailed information about our financial projects, do you find it convenient?
+Speaker2: Okay, I'll download and take a look.
+Speaker1: Okay, if you have any questions after downloading, please contact our online customer service. Enjoy your use!

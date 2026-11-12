@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from the bank's loan department. Do you have any recent needs for cash flow?
+Speaker2: Hello, I currently don't have any needs in this area.
+Speaker1: Okay, but we have a new special discounted credit loan with low interest and quick disbursement. If you're interested, you can check it out.
+Speaker2: How do I understand that?
+Speaker1: You can click on the link I send to you to see detailed information about our loan products, or you can directly download our app and register to get more information.
+Speaker2: Okay, let's take a look.
+Speaker1: Great, I'll send it to you now. Additionally, to ensure your information is secure, you need to provide a verification code. I'll send it to you via text message.
+Speaker2: Okay, I'll wait for the text message.
+Speaker1: The verification code has been sent. Please check it. After inputting the verification code, you can safely use our service.
+Speaker2: Okay, thank you.

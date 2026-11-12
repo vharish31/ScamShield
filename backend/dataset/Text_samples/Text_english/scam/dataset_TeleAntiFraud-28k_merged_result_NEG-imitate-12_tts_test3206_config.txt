@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, which one?
+Speaker1: Hello, I am the manager of the Commercial Bank of China, we recently introduced a new loan product, which can provide you with no collateral, low interest rate loan service, are you interested in learning more?
+Speaker2: Oh, really? I recently need to circulate some cash.
+Speaker1: Great, this product is very suitable for you. To better serve you, please download our bank's official app, register and fill in the relevant information, we will quickly review it for you.
+Speaker2: Okay, how do I download your app?
+Speaker1: You can search for Commercial Bank in the mobile app store and download our official app. If you have any questions, please feel free to contact me anytime. My phone number is 13800138000.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Thank you very much. If you have any questions after downloading, please feel free to contact me at any time. I wish you all the best.
+Speaker2: Thank you, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at your store door, can't find the entrance, can you help me with the directions?
+Speaker2: Hello, you should be at the back now, walk to the right, you'll see a small door, that's our shop entrance.
+Speaker1: Okay, I see it, but it seems like the door is locked, is it still not open the door?
+Speaker2: You should open it, try pushing it, if you can't push it open, call me.
+Speaker1: Okay, I'll try. Oh, it opened, thank you!
+Speaker2: Please come in, someone will greet you at the service counter.
+Speaker1: Okay, I see the service counter. Do you have any activities today?
+Speaker2: Yes, today the whole store is on sale for 90% off, and there's also a buy-five-get-one-hundred discount coupon, it's quite a good deal.
+Speaker1: That's great, I'm planning to buy some stuff.
+Speaker2: Just take it slow and let me know if you need help anytime.

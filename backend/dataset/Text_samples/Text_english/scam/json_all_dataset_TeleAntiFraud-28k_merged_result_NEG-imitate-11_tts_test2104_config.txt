@@ -1,0 +1,10 @@
+Speaker1: Hello, I am small Li, this side is somebao platform customer service specialist, we notice that the products you recently bought on our platform may have quality issues, to protect your rights, we need to process a refund for you, do you have received our refund message recently?
+Speaker2: No, I recently bought some things, but I haven't received the refund message.
+Speaker1: Okay, can I help you look something up? For convenience, could you provide your purchase order number and payment bank card number?
+Speaker2: I remember the order number, but the bank card number... this is a bit inconvenient, huh?
+Speaker1: Please rest assured, this is to ensure that the refund can be accurately and correctly returned to your account. Our platform takes user information very seriously and will never disclose it to a third party.
+Speaker2: Okay, I trust you. The order number is 123456789, and the bank card number is 62220812345678901234.
+Speaker1: Thank you very much for your cooperation. I have recorded it on my end. To speed up the refund process, please download our latest version of the app, which can handle refunds more quickly through the app.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Great, please download the app after you download it, click on the customer service icon in the top right corner, enter the order number and bank card number, and then wait for our customer service representative to give you further instructions.
+Speaker2: Okay, I'll go operate now, thank you.

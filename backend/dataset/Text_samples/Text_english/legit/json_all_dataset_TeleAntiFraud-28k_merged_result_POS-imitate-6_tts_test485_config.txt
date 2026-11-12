@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you little Ming?
+Speaker1: Yes, I am Xiaoming, and you are Xiaohua?
+Speaker2: Yes, I just arrived in this city, can you help me find a good restaurant?
+Speaker1: Of course, do you have any taste preferences?
+Speaker2: I want to eat Sichuan cuisine, spicy a little.
+Speaker1: You can try "Cang Xiang Xiang", their water-cooked fish and spicy chicken are both very delicious.
+Speaker2: The restaurant sounds good, is it far away?
+Speaker1: About ten minutes from your current location, walking.
+Speaker2: Okay, thank you for your recommendation. I'll go over there in a while.
+Speaker1: No problem, I hope you enjoy your meal. If you have any other needs, please let me know.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I just saw a new smartwatch on your website, want to know more about it?
+Speaker2: Hello, I'm very happy to serve you. Are you interested in the features of this watch, the price, or the purchase method?
+Speaker1: Is this watch able to make calls?
+Speaker2: Sure, this smartwatch supports Bluetooth connection, can receive and make phone calls on the phone, and can view short messages and notifications.
+Speaker1: How long does its battery last?
+Speaker2: This watch battery is very durable. With normal use, it can last two days on a single charge. If you're just checking the time, the battery life will be longer.
+Speaker1: How long will it take to deliver if I place an order today?
+Speaker2: If you place an order now, we usually ship within 24 hours and it takes about 3 to 5 days to reach you depending on your location.
+Speaker1: Okay, I'll place the order now, thank you for your detailed introduction.
+Speaker2: You're welcome. If you have any other questions, feel free to contact us anytime. Have a great shopping!

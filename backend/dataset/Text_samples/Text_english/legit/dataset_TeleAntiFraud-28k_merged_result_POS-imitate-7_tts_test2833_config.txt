@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw a phone on your website, can you give me specific information about it?
+Speaker2: Okay, do you want to know about the phone's configuration or price?
+Speaker1: I want to first understand the configuration to see if it meets my needs.
+Speaker2: This phone is the latest, equipped with a high performance processor, large memory, and high resolution camera.
+Speaker1: How much does it cost to sound good?
+Speaker2: This phone is currently priced at 3200 yuan, and there is a discount promotion now.
+Speaker1: What is the specifics of the discount activity?
+Speaker2: If you order now, you can enjoy a 200 yuan discount and free gifts.
+Speaker1: What is the gift?
+Speaker2: The gift is a high-quality blue Bluetooth earphone, very practical.
+Speaker1: Okay, I'll think about it, thanks for the detailed introduction.
+Speaker2: You're welcome. If you have any questions, please feel free to consult anytime. I hope you're satisfied.

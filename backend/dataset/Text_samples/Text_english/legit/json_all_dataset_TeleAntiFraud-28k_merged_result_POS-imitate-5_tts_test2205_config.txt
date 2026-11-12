@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I reserved a spot at your store, just want to confirm
+Speaker1: Hello, when did you book?
+Speaker2: I am scheduled for 10 am today, my name is Lee Huai.
+Speaker1: Okay, I'll check. Mr. Lee, your reservation has been confirmed, your reservation is for tonight at 7 pm, right?
+Speaker2: Okay, I'll arrive at seven o'clock. Do you have parking spots there?
+Speaker1: Yes, there is a free parking lot next to our restaurant. You can just drive right up.
+Speaker2: Okay, I'll probably arrive around six and a half, let's go a little early.
+Speaker1: Okay, we will be ready for you at six and a half. When you arrive, just tell me your name and I'll take you to your seat.
+Speaker2: Okay, thank you for your help, see you later.
+Speaker1: You're welcome, I'm looking forward to your arrival, see you later.

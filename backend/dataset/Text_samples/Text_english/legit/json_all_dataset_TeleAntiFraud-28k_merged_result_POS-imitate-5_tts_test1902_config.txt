@@ -1,0 +1,11 @@
+Speaker2: Hello, how can I help you?
+Speaker1: Hello, I found a phone on your website that I like, can you tell me more about its specifications and price?
+Speaker2: Okay, which phone model do you like? I can give you a detailed introduction.
+Speaker1: This is the black one, model XYZ123.
+Speaker2: This phone is our store's best-selling product. It uses the latest processor, has four cameras, a large battery, and a long battery life. The price is currently three thousand five hundred yuan, and there's a promotion to get a free earphone and phone case.
+Speaker1: Does anyone have any fresh stuff?
+Speaker2: Yes, we have fresh produce in the store right now. If you're convenient, you can come directly and pick it up.
+Speaker1: I have some free time this afternoon, I plan to go take a look.
+Speaker2: Sure, would you like to make an appointment before coming, so I can ensure this phone is reserved for you?
+Speaker1: Can you help me schedule an afternoon 3 pm appointment?
+Speaker2: Okay, I have made an appointment for you at 3 pm this afternoon. Just come to the store directly when the time comes. If you have any other questions, please contact me anytime.

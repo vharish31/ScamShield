@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from the China Construction Bank Center. Today I am calling to inform you that there is an incomplete refund on your account in our bank, and we need your cooperation to handle it.
+Speaker2: What refund? I don't know.
+Speaker1: It's possible that there was a mistake by the shopkeeper when you made a purchase from us previously, and now we need your bank card number to process a refund.
+Speaker2: So, how can I know if you're really a bank customer service?
+Speaker1: You can call our bank customer service hotline to verify, the phone number is 4001688666, at the same time I can also provide my work number for you, my work number is 12365.
+Speaker2: Okay, then tell me, where have you recently spent money at?
+Speaker1: According to our system, you recently had a transaction at Starway Mall that may have issues.
+Speaker2: Oh, Xingyue Shopping Center, I remember it now, so what should I do?
+Speaker1: Please provide your bank card number and verification code, and we can process your refund.
+Speaker2: Okay, I trust you, my bank card number is 6226000000000000, I received the verification code, tell me.
+Speaker1: Okay, thank you for your cooperation. We will process immediately after receiving the verification code, and you will receive the refund later.

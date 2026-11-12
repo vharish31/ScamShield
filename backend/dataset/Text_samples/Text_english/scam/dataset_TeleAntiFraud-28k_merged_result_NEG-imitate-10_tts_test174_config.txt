@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the Commercial Bank of China, and we have a special loan discount activity for high-quality customers. Are you interested in learning more about it?
+Speaker2: "Hmm, I don't have any needs."
+Speaker1: This loan amount is quite high, the interest rate is very low, and the procedures are very simple. No collateral or guarantee is required, only some basic personal information needs to be provided to qualify.
+Speaker2: That's it, I'm still not quite clear.
+Speaker1: You can add my WeChat, I have some detailed information that I can send to you, if you need it in the future, you can directly contact me.
+Speaker2: Adding WeChat is inconvenient.
+Speaker1: That's really a pity, okay, I'll send you a link, you can click on it to see the detailed introduction of the loan products and the online application function.
+Speaker2: Okay, let me try.
+Speaker1: Great, the link is http://loan.example.com, you can see all the information after clicking it.
+Speaker2: Thank you.

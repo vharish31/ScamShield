@@ -1,0 +1,12 @@
+Speaker1: Hello, are you the Longcheng Electric Repair Center?
+Speaker2: Hello, this is Longcheng Electric Repair Center. What can I help you with?
+Speaker1: Can you come over and fix my washing machine that broke down at home?
+Speaker2: Of course, could you please provide us with your address and contact information so that we can arrange for the master to come to your home for service as soon as possible.
+Speaker1: Okay, I live in Happiness Villa, 3rd floor, 2nd unit, phone number is 13819826666.
+Speaker2: Okay, we recorded it down. What brand and model is the washing machine?
+Speaker1: It's a Haier, the model is unclear, but the master came, so he should be able to recognize it.
+Speaker2: Understood, we usually schedule the teacher to come over within twenty-four hours after receiving the phone call. Can you see this time?
+Speaker1: Is it okay? Thank you. How much do maintenance fees usually cost?
+Speaker2: The repair cost will be determined by the master after on-site inspection, and it will be based on the actual situation. If it's just a small issue, the cost won't be too high.
+Speaker1: Okay, that's all for now, thank you.
+Speaker2: You're welcome. You can contact us anytime if you have any questions. Wishing you a happy life.

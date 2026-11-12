@@ -1,0 +1,10 @@
+Speaker1: Hey, are you free to talk now?
+Speaker2: Hey, how are you? I'm good, what's up?
+Speaker1: Can you tell me about any new products and promotions in your store recently?
+Speaker2: Yes, our store recently introduced several new products, and there's a limited-time discount activity. Which one do you want to know more about?
+Speaker1: Can you specifically introduce a smartwatch that I saw online?
+Speaker2: Of course. This smartwatch uses the latest health monitoring technology, can 24-hour monitor heart rate, blood pressure, and sleep quality analysis, very suitable for friends who care about health.
+Speaker1: How much does it cost to sound good?
+Speaker2: The original price is two thousand five hundred yuan, now during the promotion period, eighty percent off, as long as two thousand yuan.
+Speaker1: Okay, I'll think about it. How long is the shelf life?
+Speaker2: We provide a one-year warranty service, you can contact us anytime if there are any issues.

@@ -1,0 +1,13 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: Hello, I am a customer service representative from some e-commerce platform. You have a purchase credit on your account, which will be cleared at midnight tonight, and you haven't used it yet.
+Speaker2: Oh, really? I didn't notice.
+Speaker1: That's it, these points can be redeemed for over three thousand nine hundred dollars in cash, otherwise they will be deducted from your account.
+Speaker2: Well, let me take a look at my text message.
+Speaker1: Okay, the message has been sent to you, open it and take a look, you can exchange items like cigarettes, groceries, electronics, and home appliances with points.
+Speaker2: What are these points from?
+Speaker1: These points are the ones you accumulated while shopping on our platform with your regular purchases, and now your account balance is approximately 26,800 points, which is enough to exchange for products worth around 4,000 yuan.
+Speaker2: Well, what do you have that's good?
+Speaker1: Okay, after selecting your desired products, you can directly use your points to place an order. If you need assistance, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to ask me any questions, I hope you find a satisfactory product.

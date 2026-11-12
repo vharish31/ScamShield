@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm little Li, I want to consult your restaurant reservation service.
+Speaker2: Hello, little Li, I am waiter Wang, what can I help you with?
+Speaker1: Can you tell me if your restaurant has private rooms, and how many people they can accommodate?
+Speaker2: Our restaurant has several private rooms, the smallest can accommodate six people, and the largest can accommodate twelve people.
+Speaker1: Okay, can I book a private room for 10-12 people on Saturday night at 6 pm next week?
+Speaker2: Sure, next Saturday at 6pm in a private room with around 10 people, I will book it for you. Do you need to pay a deposit?
+Speaker1: Do you need a deposit? If so, how much?
+Speaker2: To confirm the reservation, we need to pay a deposit of 200 yuan in advance, and the remaining fees will be settled upon the end of the meal.
+Speaker1: Okay, then I'll go to your restaurant tomorrow to pay the deposit.
+Speaker2: Okay, see you tomorrow. If you have any other questions, feel free to contact me anytime.

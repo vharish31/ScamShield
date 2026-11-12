@@ -1,0 +1,16 @@
+Speaker1: Hello
+Speaker2: Hello!
+Speaker1: Hello, I'm little Li from the quick loan center, we've launched a very affordable loan project for users in Shenzhen, interest rate is low, approval is fast, no collateral required.
+Speaker2: Oh, really? I recently have a bit of cash flow needs.
+Speaker1: Great, I can help you understand the process. Just provide some basic information and we can quickly approve, with the fastest possible turnaround time being today.
+Speaker2: What do I need to do?
+Speaker1: First, you need to download our official app, register and fill in personal information. Then we will conduct a preliminary review. If approved, the funds will be directly deposited into your bank account.
+Speaker2: What is the name of this app that I should download?
+Speaker1: You can download "Quick Loan Jewel" from the app store by searching for it.
+Speaker2: Okay, I'll wait a moment and then download.
+Speaker1: Hello, if you have any issues while downloading or using, please feel free to contact me. Here's my WeChat number, would you like to add it?
+Speaker2: Sure, can you give me your WeChat number?
+Speaker1: Okay, my WeChat number is Liang9208, please add your name as a remark, I will do the same on this end.
+Speaker2: Okay, I'll add you soon.
+Speaker1: Great, if you have any questions, feel free to contact me anytime. Wish you a happy life, goodbye.
+Speaker2: Thank you, goodbye.

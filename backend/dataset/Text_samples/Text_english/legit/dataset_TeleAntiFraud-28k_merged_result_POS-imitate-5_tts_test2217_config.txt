@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Can I find Lee Huai?
+Speaker2: Oh, you're Zhang Qiang? Li Huá just went out, he'll be back in a while.
+Speaker1: Yes, I am Zhang Qiang. Do you know when he will be back approximately?
+Speaker2: Should he take about half an hour to come back, would you like to wait for him?
+Speaker1: Okay, I'll wait for him for a while. Thank you.
+Speaker2: No problem, please have a seat first and drink some water when you arrive.
+Speaker1: You're welcome, so I won't be polite anymore.
+Speaker2: Hey, you sit first, I go in to check if he left any messages.

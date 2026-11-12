@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the manager of Agricultural and Commercial Bank.
+Speaker2: Hello, Li Manager.
+Speaker1: We noticed you recently have a need for capital rotation, can provide you a loan of thirty thousand without collateral.
+Speaker2: Is it really? How to apply?
+Speaker1: It's very simple. Just click on this link and fill out some basic information, and we'll process it right away.
+Speaker2: Okay, I'll go order now.
+Speaker1: Okay, please click on the link and fill in real information so we can quickly review it.
+Speaker2: I know, thank you, Li Jing Manager.
+Speaker1: No problem, feel free to contact me anytime if you have any questions.

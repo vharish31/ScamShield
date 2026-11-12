@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm the person who placed an order for takeout at your store earlier. Can you confirm the status of my order?
+Speaker2: Hello, I am a customer service representative. What is your order number? I will check it for you here.
+Speaker1: My order number is one two three four five six seven.
+Speaker2: Okay, just a moment, I'll check.
+Speaker1: Okay, thank you.
+Speaker2: Found it, your order is already served, your delivery man is on the way, estimated delivery in 30 minutes.
+Speaker1: That's great, thank you for your help.
+Speaker2: No problem, feel free to contact us if you have any other questions.
+Speaker1: Okay, I know. So, do you have any new activities or discounts in your store?
+Speaker2: Yes, we recently launched a promotion that offers a discount of up to 100 yuan, and we also have a new product trial activity. You can follow our public account to get more information.
+Speaker1: Okay, I will pay attention. Thank you for your introduction.
+Speaker2: You're welcome, wish you enjoy your meal.

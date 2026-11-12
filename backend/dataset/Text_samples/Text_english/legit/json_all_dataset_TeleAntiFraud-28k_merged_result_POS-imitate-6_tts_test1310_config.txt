@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: I'm a server at a nearby restaurant, I saw you ordered takeout from our place before, we have a new promotion going on now, do you want to know more about it?
+Speaker2: Hey, can you guys have any new activities?
+Speaker1: We have just launched a new lunch set menu with various options, and each set comes with a discount, such as buy one get one or extra free drinks, it's very cost-effective.
+Speaker2: What are your restaurant business hours like?
+Speaker1: We start business at 10 am in the morning, end at 9 pm in the evening, both have food options during lunch and dinner, what time is convenient for you to come try?
+Speaker2: What do you recommend for dinner in the evening when I usually have a lot of free time?
+Speaker1: For dinner, we recommend our signature dishes, beef and seafood platter, both are very popular in our restaurant, you can give it a try.
+Speaker2: Okay, I'll consider your recommendation, thank you.

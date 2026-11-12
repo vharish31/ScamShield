@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if there is a repair service for self-bicycles here?
+Speaker2: Yes, we have professional self-service bike repair services here. What type of bike do you need to repair?
+Speaker1: I have a mountain bike, recently I found the chain a little loose, I want to see if I can adjust it a little.
+Speaker2: Okay, we can adjust the chain here. When is it convenient for you to bring it over?
+Speaker1: It's best if we can go at around 3:30 PM tomorrow afternoon.
+Speaker2: Okay, tomorrow afternoon at three o'clock, we'll be waiting for you here. Do you need to make an appointment in advance?
+Speaker1: It's best to make a reservation, so you can prepare tools in advance.
+Speaker2: Okay, I'll make an appointment for you. See you tomorrow.
+Speaker1: Thank you, see you tomorrow.

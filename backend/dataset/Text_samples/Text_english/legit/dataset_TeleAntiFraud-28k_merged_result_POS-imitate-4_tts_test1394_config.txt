@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I ordered an outside delivery from your store, why haven't you sent it yet?
+Speaker2: Hello, can you please tell me your order number?
+Speaker1: My order number is one two three five four three two one.
+Speaker2: Okay, I found it. Your order is being delivered and is expected to arrive in fifteen minutes.
+Speaker1: Oh, that's annoying, time is a bit urgent, can you go a little faster?
+Speaker2: I will contact the delivery person to speed up the delivery as much as possible, but please be careful on the road. Is this okay with you?
+Speaker1: Okay, thank you for your understanding, hard work.
+Speaker2: No problem, if you have other questions, feel free to contact me anytime.
+Speaker1: Okay, I'll wait a moment, thank you.
+Speaker2: Okay, wish you enjoy your meal, bye.

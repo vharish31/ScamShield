@@ -1,0 +1,11 @@
+Speaker1: Hey, are you free to talk over there?
+Speaker2: Sure, what's up?
+Speaker1: Just saw your message, said you're coming over to do business, what's the specifics?
+Speaker2: Uh, okay, I need to have a file notarized, do you guys know if you can do it there?
+Speaker1: Okay, where do you plan to come? We have a notary office here.
+Speaker2: Can I arrive at around 10 am tomorrow morning?
+Speaker1: Okay, you can come find me after you arrive, I'll guide you.
+Speaker2: Okay, thank you. What materials do I need to bring?
+Speaker1: Please bring your identity card and original copies of any documents that require notarization, and it's best to prepare a few copies.
+Speaker2: Okay, I understand now, thank you. See you tomorrow.
+Speaker1: Okay, see you tomorrow.

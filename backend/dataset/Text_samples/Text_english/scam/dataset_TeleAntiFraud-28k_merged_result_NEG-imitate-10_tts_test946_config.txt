@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the Shenzhen City Plainhai Bank Credit Center, I am customer service representative Li Xiao.
+Speaker2: Hey, how are you?
+Speaker1: We noticed your credit card usage is good, there's now a special promotion that can increase your credit limit, it's free.
+Speaker2: Oh, really?
+Speaker1: Yes, but before you can participate in this discount activity, you need to verify your personal information, including your name, ID number, and bank card number.
+Speaker2: Okay, how do I verify?
+Speaker1: You can click this link, follow the instructions, or download our official app and input the relevant information.
+Speaker2: Do you want to download the app? What is the name of your app?
+Speaker1: Our app is called 'Plain Sea Bank Credit Card Assistant', you can search and download it in the app store.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great! Feel free to contact me anytime if you have any questions. Enjoy your use!

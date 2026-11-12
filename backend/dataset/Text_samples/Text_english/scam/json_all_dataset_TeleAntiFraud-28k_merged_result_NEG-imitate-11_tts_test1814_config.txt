@@ -1,0 +1,12 @@
+Speaker1: Hello, I am Lee Huai, this side is the customer manager of Huaxia Bank.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed some unusual activity on your account at our bank recently. To ensure the safety of your account, we need you to cooperate.
+Speaker2: Oh, is that so? Then what do I need to do?
+Speaker1: Please provide your ID number first, we need to verify some personal information.
+Speaker2: Can I see your ID number? This isn't good, how do I know you're a real bank employee?
+Speaker1: Don't worry, I'm a bank employee. To prove it, I'll send you a text message with a verification code. Once you get it, just tell me and we can continue.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the text message has been sent out. Please check it and then tell me the verification code.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you for your cooperation. Please download our bank's official app to manage your account more conveniently.
+Speaker2: Okay, I'll go download it now.

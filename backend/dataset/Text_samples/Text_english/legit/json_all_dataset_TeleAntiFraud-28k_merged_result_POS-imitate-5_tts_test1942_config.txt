@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I recently want to buy a new computer, can you recommend anything?
+Speaker2: Hello, of course. What do you plan to use it for, work or game?
+Speaker1: Mainly for work, occasionally watch movies.
+Speaker2: I recommend you check out this lightweight laptop. It has stable performance and long battery life, making it great for both work and leisure.
+Speaker1: What is the approximate price of this computer?
+Speaker2: This computer's price is currently five thousand six hundred yuan, our store currently has a full discount activity, you can further optimize two hundred yuan.
+Speaker1: How long will the delivery take?
+Speaker2: If you order now, it usually takes 3 to 5 days to deliver.
+Speaker1: Okay, I'll place an order and see how it goes, thank you for your recommendation.
+Speaker2: You're welcome, feel free to contact me anytime if you have any questions. Have a great time!

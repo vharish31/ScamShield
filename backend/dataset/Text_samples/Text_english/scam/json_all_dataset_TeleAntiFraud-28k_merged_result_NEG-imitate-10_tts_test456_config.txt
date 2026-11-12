@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Yes, who are you?
+Speaker1: I am the customer manager of the commercial bank, Zhang. We noticed that you recently have a need for capital rotation, so we called you to find out if you have any plans for a loan?
+Speaker2: Hey, loan? I recently had some issues with cash flow. Do you guys have any good recommendations?
+Speaker1: That's right, we have a really good loan project lately with a very low interest rate and simple procedures. All you need to provide is some basic personal information and we can quickly process it for you.
+Speaker2: That sounds good, but I need to understand the specifics of this project.
+Speaker1: Of course, to make it easier for you to understand, you can click on the link we gave you, where there is a detailed introduction.
+Speaker2: Okay, please send me the links.
+Speaker1: Okay, I'll send it to you now. Please check your receipt and click on the link to view it. If you have any questions, feel free to contact me directly.
+Speaker2: Okay, thank you.

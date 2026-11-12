@@ -1,0 +1,14 @@
+Speaker1: Hi, how are you? I'm Zhang, the customer service at Happy Supermarket. I see you haven't used your shopping points for a while. Do you need to exchange some products?
+Speaker2: Oh, shopping points, I don't really care.
+Speaker1: That's right, our supermarket currently has a point redemption activity, many products can be directly deducted with points, such as daily necessities, electronic products, and some food.
+Speaker2: Really? Let me check my score.
+Speaker1: You can check on our app or tell me your phone number, I'll look it up for you.
+Speaker2: Okay, my phone number is 13800138000.
+Speaker1: Okay, just a moment, I'll check... your points are over 15,000, you can exchange many practical products.
+Speaker2: Wow, so many, what can be exchanged for them?
+Speaker1: We have various household products, such as shampoo, body lotion, and some small appliances, like electric rice cooker and air purifier.
+Speaker2: Can you show me how to make an electric rice cooker?
+Speaker1: Okay, for the electric rice cooker, there are several brands to choose from, and the prices and functions of different models vary, which type are you looking for?
+Speaker2: I want a smart one with multiple functions, preferably timed.
+Speaker1: I understand, this smart rice cooker is very popular, not only can it cook at a set time, but it also has multiple cooking modes, very convenient. Do you need me to help you exchange it?
+Speaker2: Okay, can you help me exchange one?

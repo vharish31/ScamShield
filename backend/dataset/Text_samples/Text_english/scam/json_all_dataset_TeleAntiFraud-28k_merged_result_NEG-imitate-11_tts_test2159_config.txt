@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of Agricultural Bank's Tianhe Branch. We recently have a special promotion activity, do you want to know more about it?
+Speaker2: What activity?
+Speaker1: We have a new product for property owners, with a maximum loan amount of 50,000 yuan, and an extremely low interest rate.
+Speaker2: How to apply?
+Speaker1: It's very simple. Just click on the link we send you, fill out some basic information, and our customer manager will contact you quickly.
+Speaker2: Link?
+Speaker1: Yes, I'll send it to you now. Just click on the link and follow the instructions.
+Speaker2: Okay, I'll take a look in a moment.
+Speaker1: Okay, click on the link and feel free to contact me anytime if you have any questions.
+Speaker2: Okay, thank you.

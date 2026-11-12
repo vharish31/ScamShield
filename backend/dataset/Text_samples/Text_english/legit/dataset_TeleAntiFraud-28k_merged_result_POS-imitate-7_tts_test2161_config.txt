@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm the person who consulted your store on Taobao yesterday. I want to know more about the details of this phone.
+Speaker2: Hello, I am customer service Zhang, this phone is our store's bestseller, what information do you want to know?
+Speaker1: What is the battery capacity and endurance of this phone?
+Speaker2: This phone's battery capacity is 4000mAh, which can meet the daily usage needs in normal use cases. If you are a light user, you may be able to charge it twice a day and it will be enough.
+Speaker1: Does this phone have a fast charging feature?
+Speaker2: Yes, this phone supports 20W fast charging, it takes about an hour to charge to around 80%.
+Speaker1: How many megapixels is the camera of this phone?
+Speaker2: This phone's main camera is 48 million pixels, the front-facing camera is 16 million pixels, the photo effect is very good.
+Speaker1: How long will it take to receive the goods after placing an order that sounds good?
+Speaker2: If you order now, we will ship within 24 hours and usually arrive in 3-5 days.
+Speaker1: Okay, thank you for your detailed introduction. I decided to buy it.
+Speaker2: Thank you for your support. If you have any questions, please contact our customer service. Have a happy shopping!

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiao Zhang, the customer service representative for the Happy Shopping Platform. How was your recent shopping experience on our platform?
+Speaker2: Can I help you with anything?
+Speaker1: Hey, it seems like there might be a delivery issue with one of your orders, to avoid any inconvenience to you, we're ready to process a refund.
+Speaker2: Okay, thank you.
+Speaker1: No problem, to quickly handle this issue, you need to download our official app, through which you can directly handle refund, very convenient.
+Speaker2: What is the name of the app?
+Speaker1: You can download the app named "Happy Quit" from the app store on your phone, register and log in after downloading, then contact our online customer service who will guide you through the refund process.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great! If you encounter any issues during the download process, please feel free to call our customer service at any time. Our phone number is 4001666666. Thank you for your cooperation. Have a happy life!
+Speaker2: Thank you, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I just ordered a piece of clothing, don't know when it'll arrive.
+Speaker2: Hello, little Zhang, I am the customer service of the e-commerce platform, your clothes are estimated to arrive tomorrow afternoon before delivery, are you at home now?
+Speaker1: I'm at home, but I need to go out in the morning, can you help me change it to the afternoon?
+Speaker2: Of course, I will help you adjust the delivery time to ensure it arrives in the afternoon. What time do you think you'll be back?
+Speaker1: Can you send it to me around 2 pm?
+Speaker2: Okay, I will arrange for a courier to deliver your package between 2 and 4 pm. If you have any other needs, feel free to contact me anytime.
+Speaker1: Okay, thank you for your help. I'll wait for the package at home.
+Speaker2: You're welcome. If you have any questions, feel free to contact us anytime. Have a great day!
+Speaker1: Thank you, wish you a happy day! Goodbye.
+Speaker2: Goodbye, everything went smoothly!

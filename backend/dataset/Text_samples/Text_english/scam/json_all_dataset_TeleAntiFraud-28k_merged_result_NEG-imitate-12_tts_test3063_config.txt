@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Lee Huai?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative at Commercial Bank, employee number 12345. We noticed that you have recently browsed some of our loan products and wanted to know if you have any financial needs?
+Speaker2: Uh, yeah, I actually need some money lately.
+Speaker1: Great, we have a low-interest loan product that's perfect for you. To better serve you, could you please download our official app, which will speed up the application process.
+Speaker2: Okay, I'll download it now.
+Speaker1: Thank you very much for your cooperation. After downloading, please open the APP and click on the "Quick Loan" button on the first page, then enter the recommendation code 123456, so you can enjoy more discounts.
+Speaker2: Understood, I'll proceed.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact me anytime. My phone number is 13812345678, and you can also add me on WeChat for instant assistance.
+Speaker2: Okay, thank you for your help.

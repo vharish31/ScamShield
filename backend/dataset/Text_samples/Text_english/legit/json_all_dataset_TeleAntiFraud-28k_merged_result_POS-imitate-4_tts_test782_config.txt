@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, may I know who you are?
+Speaker1: Hello, I am an e-commerce platform customer service representative. Regarding the accumulated shopping points on your account, they will be cleared at midnight tonight.
+Speaker2: Oh, really? I still don't know about this score.
+Speaker1: Yes, your account balance has enough points to redeem over three thousand nine hundred dollars in cash, have you not redeemed yet?
+Speaker2: No, I'm usually busy and haven't paid attention.
+Speaker1: That's really a pity, these points can be used to buy many products, such as phones and electronic products.
+Speaker2: Can I exchange my money now?
+Speaker1: Of course, but you need to act quickly, you must complete the exchange before midnight tonight.
+Speaker2: Okay, I will handle it quickly. Thank you for reminding me.
+Speaker1: You're welcome. If you have any questions, feel free to contact me anytime. Have a great shopping!

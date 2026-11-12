@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm at the corner of Xin Street. Where are you?
+Speaker2: Just got off the subway station, where are you at the exit?
+Speaker1: I'm at the third exit, you can see a big billboard when you come out, turn left to get there.
+Speaker2: Okay, I'll be there soon.
+Speaker1: You go out first, I wait here for you.
+Speaker2: Okay, I'll be out in about five minutes.
+Speaker1: Okay, you come out to give me some information, I'm waiting for you here.
+Speaker2: Okay, I understand.
+Speaker1: Uh-huh, do you remember to bring an umbrella? It might rain today.
+Speaker2: Thanks for reminding me, I noted it down.

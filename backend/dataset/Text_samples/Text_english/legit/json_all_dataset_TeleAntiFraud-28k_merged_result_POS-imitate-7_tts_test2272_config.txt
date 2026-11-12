@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the small Ming car service. You have a car maintenance appointment tomorrow morning, right?
+Speaker2: Yes, it's my appointment, tomorrow morning at 10 am, please remind me.
+Speaker1: Okay, we will send you a text message reminder in advance. What is the specific model of your vehicle?
+Speaker2: My car is a Ford Mustang, 2016 model.
+Speaker1: Understood, we will prepare the necessary maintenance projects for your Ford Karola. What is your license plate number?
+Speaker2: Jiāng A bāo shì jīng A bā bā bā bā bā.
+Speaker1: Okay, let's record it. Are there any other things that need special explanation?
+Speaker2: No more, just follow the maintenance routine.
+Speaker1: Understood, we will proceed with standard maintenance procedures. If any issues are discovered during the maintenance process, we will promptly contact you.
+Speaker2: Okay, thank you. See you tomorrow.
+Speaker1: See you tomorrow, wish you a happy day. Goodbye.

@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything to talk about?
+Speaker1: Do you know if that hair salon is still hiring?
+Speaker2: Hey, are you interested in applying?
+Speaker1: Yes, I saw your job posting, and I want to know more about the specific requirements.
+Speaker2: Okay, generally speaking, we need you to have some hairdressing experience, be able to independently complete basic hairdressing tasks such as cutting and dyeing.
+Speaker1: I worked at a small shop for about a year and a half before.
+Speaker2: That's great, how old are you?
+Speaker1: I am twenty-five years old.
+Speaker2: You can come to our store when you're twenty-five, and we'll talk more specifically then.
+Speaker1: Where is the store exactly?
+Speaker2: Our store is located on the commercial street in the city center, next to the grand theater, you can take the bus or taxi to come over.
+Speaker1: Okay, can I go over there in the afternoon tomorrow?
+Speaker2: Sure, come over at 2 pm tomorrow, we'll discuss then.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: Hey, see you tomorrow, be careful on the road.

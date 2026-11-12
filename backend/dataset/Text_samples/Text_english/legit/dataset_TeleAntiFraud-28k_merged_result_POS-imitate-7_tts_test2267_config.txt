@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to inquire about your restaurant's signature dishes.
+Speaker2: Of course, our restaurant's special dishes include red braised pork, steamed fish with ginger and scallions, and stir-fried with garlic and mushrooms, which are very popular.
+Speaker1: Okay, I'd like to know more about your business hours.
+Speaker2: Our business hours are from 11 am to 10 pm every day, and they are extended to 11 am on weekends.
+Speaker1: Do I need to make a reservation in advance if I'm going to the restaurant at noon on Sunday?
+Speaker2: There will be more customers on Sunday, I suggest you book in advance, can I help you book?
+Speaker1: Okay, can you please reserve a four-person table for me?
+Speaker2: Okay, I have reserved a four-person table for you at noon on Sunday. Please come to the front desk and give your name when you arrive.

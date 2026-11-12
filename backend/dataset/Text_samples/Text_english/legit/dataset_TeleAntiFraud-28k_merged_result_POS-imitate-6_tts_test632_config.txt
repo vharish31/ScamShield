@@ -1,0 +1,12 @@
+Speaker1: Hello, are you the Xiaoming car repair shop?
+Speaker2: Hello, this is Xiaoming's car repair shop. What can I help you with?
+Speaker1: I recently had an odd noise coming from my car, so I want to schedule a time to check it out.
+Speaker2: Okay, when would you like to come? We have people here from nine in the morning to five in the afternoon on weekdays.
+Speaker1: Is it okay to meet on Friday afternoon this week?
+Speaker2: Can I come at 2 PM on Friday?
+Speaker1: Can we meet around 3 o'clock?
+Speaker2: Okay, on Friday at 3 PM, we will be ready for you here.
+Speaker1: Okay, I'll just come directly when the time comes.
+Speaker2: Okay, you can come directly, we are waiting for you at the front desk. Is there anything else you need help with?
+Speaker1: No longer available, thank you.
+Speaker2: You're welcome, wish you a happy day, see you on Friday.

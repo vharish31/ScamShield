@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Zhang, I bought the humidifier from your store, there's a little problem, I want to consult it.
+Speaker2: Hello, little Zhang, I am customer service Li, what questions do you have?
+Speaker1: It's that humidifier I used for a few days, and I found that the mist it spits out has a slightly unpleasant smell. Is this a normal occurrence?
+Speaker2: This situation is not normal, a humidifier should not emit a strange smell. Have you tried cleaning the humidifier?
+Speaker1: Cleaned it, but there's still a taste.
+Speaker2: It's possible that there are residues or filters that need to be replaced inside. We can provide you with a free check service on this side. When is it convenient for you to come over?
+Speaker1: Can I come over in the afternoon tomorrow?
+Speaker2: Is that okay? What time slot is most convenient for you from 2 PM to 5 PM tomorrow?
+Speaker1: Three o'clock, I'll be there at three.
+Speaker2: Okay, tomorrow afternoon at three o'clock, we'll meet at the store entrance. If you have any other questions, feel free to contact me anytime.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

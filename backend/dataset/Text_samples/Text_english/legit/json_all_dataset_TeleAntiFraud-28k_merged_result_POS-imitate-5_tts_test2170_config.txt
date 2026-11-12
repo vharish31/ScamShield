@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the property manager of the community. Your water and electricity bill is two months overdue. Could you come over and pay it off?
+Speaker2: Oh, that's how it is, I've been pretty busy lately and haven't had time to go out. Do you guys have an online payment method?
+Speaker1: Yes, you can pay through our WeChat public account or Alipay. I will send you specific instructions via text message, just follow the instructions in the text message.
+Speaker2: Okay, that's bothering you. I'll check my messages after work and handle them quickly.
+Speaker1: No problem, I'll send you a text message right away. By the way, there was a little leak in your water pipe before, our maintenance team has already fixed it, the cost is two hundred yuan, can you pay this time together?
+Speaker2: Okay, let's pay together. Thank you for timely maintenance.
+Speaker1: No problem, this is what we should do. If there are any other issues, please feel free to contact us anytime.
+Speaker2: Okay, thank you. I will process it quickly.
+Speaker1: Okay, thank you again for your cooperation. If you have any questions, please contact us anytime, wish you a successful work.
+Speaker2: Thank you, goodbye.

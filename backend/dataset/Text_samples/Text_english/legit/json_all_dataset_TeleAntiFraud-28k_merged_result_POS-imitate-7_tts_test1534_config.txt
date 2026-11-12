@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of an e-commerce platform. I see that you have a lot of shopping points in your account that haven't been used yet. It will be cleared at midnight tonight.
+Speaker2: Really? I forgot how many points this is worth?
+Speaker1: These points can be redeemed for over four thousand yuan in cash, hurry up and exchange them before they expire.
+Speaker2: Okay, okay, then I'll go take a look now, what's so good?
+Speaker1: Hey, we have various products on our platform, such as household appliances, daily necessities, and mobile phones and electronics, which can be exchanged with points.
+Speaker2: That's great, I just recently need to buy a new phone, do you have any suitable recommendations?
+Speaker1: Of course, we recently launched a new smartphone with excellent performance, and now you can use points to exchange it with additional discounts.
+Speaker2: Sounds good, I'll take a look. Thanks for the reminder.
+Speaker1: You're welcome. If you have any other places that need help, please contact me anytime. Have a happy shopping!
+Speaker2: Okay, thank you, goodbye.

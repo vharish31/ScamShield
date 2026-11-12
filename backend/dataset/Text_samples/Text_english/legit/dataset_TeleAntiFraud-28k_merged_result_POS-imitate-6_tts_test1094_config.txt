@@ -1,0 +1,12 @@
+Speaker1: Hello, is this your community's convenience store?
+Speaker2: Hey, yes, what can I help you with?
+Speaker1: Can the fresh fruits you see today be the new stock?
+Speaker2: Yes, we buy fresh every morning to ensure freshness.
+Speaker1: Do you have apples?
+Speaker2: Okay, we have red apples and green apples. Which kind do you want?
+Speaker1: How much is a pound of red apples?
+Speaker2: Red Delicious apples are currently six yuan per kilogram.
+Speaker1: Can I buy that now?
+Speaker2: Okay, we are open until 9 pm, you can come anytime.
+Speaker1: Okay, I'll be there in a minute. Thank you.
+Speaker2: You're welcome.

@@ -1,0 +1,12 @@
+Speaker1: Hi, I'm little Li, want to consult your car rental service.
+Speaker2: Hello, little Li, I am customer service Zhang, what can I help you with?
+Speaker1: Can I pay for your car rental only through your software?
+Speaker2: Yes, we mainly use software for payment, which is more convenient and quick.
+Speaker1: Is there any other way for me to pay for public expenses?
+Speaker2: For company customers, we also support account transfers. Please provide company information, and we will send you transfer information.
+Speaker1: Okay, what information do I need to provide?
+Speaker2: Please provide the company name, tax number, contact person and contact phone number so we can process it.
+Speaker1: Understood, so for my rental, like renting for three months, is it following this process?
+Speaker2: Yes, the process is the same for both short-term and long-term rentals. If you decide to rent long-term, you can contact us in advance, and we also have some discount policies.
+Speaker1: Okay, I'll think about it and get back to you if I decide.
+Speaker2: Okay, little Li, feel free to contact me anytime. If you have any other questions, feel free to consult me anytime. Wish you a happy day!

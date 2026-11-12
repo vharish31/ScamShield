@@ -1,0 +1,13 @@
+Speaker2: Hello
+Speaker1: Do you guys still have job openings?
+Speaker2: Hmm, still recruiting, but lately there have been quite a few job applicants.
+Speaker1: That's great, I saw your job advertisement.
+Speaker2: Okay, you can first come over and fill out the application form, and we'll roughly understand your situation.
+Speaker1: What do I need to prepare?
+Speaker2: Bring your ID and resume, and if you have any previous work certificates, bring them too.
+Speaker1: Okay, when can I go over?
+Speaker2: What time between 2 PM and 5 PM is most convenient for you?
+Speaker1: Can I go around three o'clock?
+Speaker2: Okay, let's meet at three o'clock. You can find me there after you arrive.
+Speaker1: Okay, thank you, see you later.
+Speaker2: Okay, see you later.

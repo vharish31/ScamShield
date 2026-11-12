@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I want to know more about your delivery service.
+Speaker1: Okay, where are you?
+Speaker2: I am in the Yangguang Xiaoquan in Dongcheng District.
+Speaker1: Can we deliver to Yangguang Xiaoquan? What do you want to eat?
+Speaker2: What are your recommendations and how much do they cost?
+Speaker1: We have several signature dishes, such as spicy hot pot and sour fish, priced at 35 and 45 yuan respectively.
+Speaker2: Can I add more of that sour fish?
+Speaker1: Okay, if you want to increase the quantity, you need to add fifteen yuan.
+Speaker2: Okay, let's have a large portion of sour fish and a can of Coke.
+Speaker1: Okay, one portion of sour fish with one can of Coke, the total price is 60 yuan, estimated delivery in 30 minutes, please confirm the order information.
+Speaker2: Okay, I confirm, the address is Dongcheng District Yánggōng xiǎojīng sān hào lǐ yī dòng yī, diàn huā is yī shēng bāo zhōng yī dòng yī, diàn huā is yī shēng bāo zhōng yī dòng yī. Diàn huā is yī shēng bāo zhōng yī dòng y
+Speaker1: Okay, your order has been confirmed. It will be delivered to the specified address in thirty minutes. If you have any issues, please contact us anytime. Enjoy your meal.

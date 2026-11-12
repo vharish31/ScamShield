@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service center of Guangzhou Bank, I am small Li, we recently launched a special discounted credit loan with very low interest rate, do you have any funding needs now?
+Speaker2: Oh, really? I really need some cash flow recently.
+Speaker1: Yes, our loan products are very suitable for your needs. In order to ensure that you can successfully apply, I need you to provide some personal information.
+Speaker2: Okay, what information do I need to provide?
+Speaker1: Please provide your ID number, phone number, and bank account information, and we can quickly process it on this end.
+Speaker2: How do I know you guys are legitimate?
+Speaker1: You can log in to our official website to view related information, or download our official app for a more secure option.
+Speaker2: Okay, how do I download your app?
+Speaker1: You can directly search 'Guangzhou Yinhang' in the mobile app store and download our official app. After downloading, you can directly apply for a loan in the app, very convenient.
+Speaker2: Okay, I'll download it now. Thank you for your help.

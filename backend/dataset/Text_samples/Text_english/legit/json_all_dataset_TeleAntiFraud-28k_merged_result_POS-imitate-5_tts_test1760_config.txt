@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, my friend recommended this restaurant to me, can you tell me about your special dishes and prices?
+Speaker2: Hello, I am the waiter at the restaurant, King Wang. Our signature dishes here are sweet and sour pork ribs and kung pao chicken, priced at 38 yuan and 42 yuan respectively, both very popular.
+Speaker1: What is your restaurant's business hours like?
+Speaker2: Our restaurant business hours are from 11 am to 9 pm, on weekends they will be extended to 10 pm.
+Speaker1: Okay, I plan to arrive at seven o'clock or so tomorrow night. Do I need to make a reservation in advance?
+Speaker2: Please book a place in advance for 7 pm tomorrow night, as there may be more people then. I can help you with that.
+Speaker1: Can I bother you to book two seats, right, do you have a private room?
+Speaker2: Yes, we have several private rooms, suitable for small gatherings. Is your reserved location in the private room or in a scatter seating?
+Speaker1: It's better to talk in a private room, it feels more peaceful.
+Speaker2: Okay, I will book a private room for you. Just let me know the name of the person you want to reserve it for, and I will prepare it for you.

@@ -1,0 +1,14 @@
+Speaker1: Hey, hello, I found a washing machine on your website that I like, can I ask you a few questions?
+Speaker2: Hello, I'm very happy to serve you. What specific information are you looking for about which washing machine?
+Speaker1: That's the one you recommended on your homepage, the white large capacity one.
+Speaker2: Oh, you're talking about our new smart vacuum cleaner and washer. This machine has a large capacity, energy-efficient, and many smart features.
+Speaker1: Can you specifically describe the intelligent functions of it?
+Speaker2: Of course. This washing machine has a smartphone app control function, allowing you to remotely start or stop the washing machine, and also check the washing status. Moreover, it supports smart recognition of fabric materials, automatically selecting the appropriate washing cycle.
+Speaker1: What is the price of that?
+Speaker2: This washing machine is priced at 3980 yuan. There's a promotion going on now, and you can enjoy a 95% discount when you buy it.
+Speaker1: Nin wu zhòng shì sān qiān sāng bù yī dòng le, hái shì héng yòng. Qǐng wèn nǐmen yǒu huò ma?
+Speaker2: Yes, we have enough stock, you can place an order immediately. If you need, I can help you with the order.
+Speaker1: Okay, I'll place the order. And, what's the estimated delivery time?
+Speaker2: We usually arrange delivery within 24 hours after your order and the delivery time may vary depending on your location. In general, it takes 3 to 5 days to deliver.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Wishing you a happy life, goodbye.

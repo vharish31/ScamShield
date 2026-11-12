@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Let's rent out your house?
+Speaker2: Hey, is there anything I can help you with?
+Speaker1: Hey, can you tell me about the house, is it the front door house?
+Speaker2: Yes, it's a storefront, suitable for small business.
+Speaker1: How many square meters are there?
+Speaker2: About 160 square meters.
+Speaker1: Is there a second floor?
+Speaker2: No, it's a layer.
+Speaker1: How much is the rent per year?
+Speaker2: Rent is seven thousand yuan per year, which can be negotiated with the landlord.

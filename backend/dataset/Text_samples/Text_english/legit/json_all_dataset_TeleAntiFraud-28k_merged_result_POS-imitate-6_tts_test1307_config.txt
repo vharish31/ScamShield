@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's special dishes and how much they cost?
+Speaker2: Our restaurant special dishes include red braised pork, steamed fish and stir-fried chicken with mushrooms, all at very reasonable prices. Red braised pork is 38 yuan, steamed fish varies in price depending on size from 58 to 78 yuan, and stir-fried chicken with mushrooms is 35 yuan.
+Speaker1: The sound is good, do you have a room? I want to book a room for tonight at eight o'clock.
+Speaker2: Yes, we have different sizes of rooms. How many people do you need?
+Speaker1: About ten people left and right.
+Speaker2: Okay, for a group of ten people, we can reserve our medium-sized room at this time, there is still space available.
+Speaker1: Great, I'll book it.
+Speaker2: Okay, I'll record it down. Can you please provide your name and contact information?
+Speaker1: I am Li Huai, my phone number is 13801380138.
+Speaker2: Okay, Li Huangshēng, I have already reserved the medium-sized room for you at eight o'clock tonight. See you then.

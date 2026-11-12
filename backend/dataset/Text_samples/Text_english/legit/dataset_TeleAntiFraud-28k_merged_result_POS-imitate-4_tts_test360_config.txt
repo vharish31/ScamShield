@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the 39th floor? I'm delivering food.
+Speaker2: Okay, I'm 39th floor, what's up?
+Speaker1: I can't find your apartment, can you give me the specific location?
+Speaker2: Okay, you enter from the main entrance, then turn left at the first crossroad, and then turn right at the second crossroad, you will see building number 39.
+Speaker1: Okay, I see the main entrance, I'm already walking inside.
+Speaker2: If you can't find it, you can call me and I'll come pick you up.
+Speaker1: Okay, I'm almost there, are you ready to go out?
+Speaker2: Okay, I'll wait for you, be careful.
+Speaker1: Thank you, see you later.
+Speaker2: See you later.

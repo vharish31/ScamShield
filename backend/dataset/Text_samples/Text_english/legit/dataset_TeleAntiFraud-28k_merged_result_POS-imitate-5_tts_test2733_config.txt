@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to inquire about your rental housing information.
+Speaker2: Hello, we have various room types here. What are your specific requirements?
+Speaker1: I want a two-bedroom apartment with an elevator.
+Speaker2: Our place mainly has staircase rooms, elevator rooms are relatively few, would you consider it?
+Speaker1: Can you tell me the general floor and area of the apartment on the staircase?
+Speaker2: We have two types of houses here, one is three floors with an area of approximately 60 square meters; the other is five floors with an area of approximately 70 square meters.
+Speaker1: How much is the rent?
+Speaker2: The monthly rent for the third floor is three thousand yuan, and the monthly rent for the fifth floor is three thousand five hundred yuan.
+Speaker1: Can I take a look at the room first?
+Speaker2: Of course, when would you like to come see the house?

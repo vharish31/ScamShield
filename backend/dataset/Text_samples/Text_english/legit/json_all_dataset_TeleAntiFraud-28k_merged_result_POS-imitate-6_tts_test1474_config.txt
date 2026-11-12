@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Hey, I saw your store doing promotional activities, and I want to know more about your washing machine.
+Speaker2: Okay, our washing machine currently has a promotion. What specific model are you interested in?
+Speaker1: I saw a car that was fully automatic, and the price seemed okay.
+Speaker2: Yes, that model is our best-selling fully automatic washing machine with multiple color options and a large capacity, perfect for family use.
+Speaker1: Is the power consumption of this washing machine large?
+Speaker2: This washing machine's energy efficiency level is two, relatively speaking, it's not very power-consuming.
+Speaker1: Okay, when can I come to the store to take a look?
+Speaker2: Our store is open from 9 am to 9 pm every day. You can come at any convenient time.
+Speaker1: Can I go at three in the afternoon tomorrow?
+Speaker2: Okay, tomorrow afternoon at three o'clock, I will wait for you at the store.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, see you tomorrow.

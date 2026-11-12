@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you today?
+Speaker2: Hello, I want to consult your electronic products, particularly this smartwatch.
+Speaker1: Okay, what aspects of smartwatches would you like to know information about, such as features, price, or usage methods?
+Speaker2: Can you tell me about the waterproof performance and battery life of this watch?
+Speaker1: This smartwatch has a waterproof function of 50 meters, so you don't have to worry about washing your hands or rain. The battery life can last up to seven days in normal use.
+Speaker2: How is the motion tracking function of that watch?
+Speaker1: This watch comes with multiple exercise modes, can track steps, heart rate, sleep quality and more, making it perfect for health-conscious users.
+Speaker2: If I buy it and then find out it doesn't fit me, can I return it?
+Speaker1: Of course, we have a seven-day no-questions-asked return policy. As long as the product is not damaged and the packaging is intact, it can be returned.
+Speaker2: Okay, I'll think about it, thank you for your patience in answering.
+Speaker1: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy day.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Guangfa Bank Customer Service Center. I am the Customer Service Manager, Zhang Manager. We found that you recently had some issues with your credit card while using it. We are contacting you specifically to provide help.
+Speaker2: Oh, really? I recently had some problems, my credit card won't swipe.
+Speaker1: Yes, we checked your account and found that your credit card may have been mistakenly closed. To help you solve this problem, we need some information from you.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide the last four digits of your ID number and the security code on the back of your credit card, we need to verify it here.
+Speaker2: Okay, my ID number ends with 1234, the security code on the back of my credit card is 567.
+Speaker1: Thank you for your cooperation. We have recorded your information. To quickly solve your problem, we recommend downloading our official app, which can process this type of issue more quickly through the app.
+Speaker2: Okay, then how should I download it?
+Speaker1: You can directly click this link, and we will send a text message to you containing the download link, very convenient and quick.
+Speaker2: Okay, I received the text message, I'm going to download it right away.

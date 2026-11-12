@@ -1,0 +1,13 @@
+Speaker2: Hello, how can I help you?
+Speaker1: Hello, I want to consult your hair service on this side.
+Speaker2: Okay, we provide various hair services here, including men's haircuts, women's hair straightening and coloring, which service are you interested in?
+Speaker1: How much does a man's haircut cost?
+Speaker2: The price for a man's haircut, including washing, cutting and blow-drying, is 30 yuan.
+Speaker1: How about your business hours?
+Speaker2: Our business hours are from 9 am to 8 pm every day, including weekends.
+Speaker1: Okay, can I make an appointment for a haircut tomorrow at four in the afternoon?
+Speaker2: Sure, the four o'clock in the afternoon is free, I have made a reservation for you. Do you need to leave your contact information?
+Speaker1: Okay, my phone number is 1381380138.
+Speaker2: Okay, I have successfully booked your appointment for tomorrow at 4 pm. If there are any changes, please call us in advance.
+Speaker1: Okay, thank you. Bye.
+Speaker2: No problem, goodbye.

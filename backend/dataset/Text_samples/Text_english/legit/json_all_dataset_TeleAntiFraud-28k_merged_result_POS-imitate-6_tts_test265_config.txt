@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you? I am the customer service of the food square, do you have any recent discount activities?
+Speaker2: Hello, there are some discount activities on food items this week, and there's a special set menu, buy one get one, very suitable for friend gatherings.
+Speaker1: What does it sound like, which specific dishes are they?
+Speaker2: Our signature dishes such as Kung Pao Chicken, Mapo Tofu, and our specialty grilled fish are all on sale.
+Speaker1: Oh, that grilled fish sounds delicious, how do you make your grilled fish?
+Speaker2: We use fresh fish, add special sauce, slow-cooked, ensure the outside is crispy and the inside is fresh and tender.
+Speaker1: That sounds really good, can you tell me your business hours?
+Speaker2: We open the door at 11 am every day and close it at 11 pm. On weekends, we extend business hours to 11 pm.
+Speaker1: Okay, do I need to make reservations in advance if I want to bring a friend over the weekend?
+Speaker2: It's recommended to book in advance, especially on weekends, when there are more people, booking can ensure a place.
+Speaker1: Okay, I'll reserve a four-person table for around 7 pm on Saturday evening.
+Speaker2: Okay, I have reserved a table for four people for you on Saturday evening at 7 pm. Please remember to show your reservation information when you arrive.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: You're welcome, please come at the appointed time, I hope you and your friend can enjoy a good dining experience.

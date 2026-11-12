@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I am the property manager of the community, I want to confirm your electricity bill this month, it seems a little abnormal.
+Speaker2: Oh, really? I went on a vacation for a week last week, so I shouldn't use much electricity, right?
+Speaker1: It might be that you forgot to turn off some appliances before leaving home, or there's a power leak situation.
+Speaker2: When I come back, I'll check and if it's like this, I'll contact you to handle it.
+Speaker1: Okay, if you find any issues after checking, feel free to come to me directly.
+Speaker2: Okay, thank you for the reminder. I will handle it these few days.
+Speaker1: No problem, feel free to contact us anytime, wish you a happy life.
+Speaker2: Thank you, goodbye.

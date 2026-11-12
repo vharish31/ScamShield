@@ -1,0 +1,12 @@
+Speaker1: Hello, is this the delivery service hotline?
+Speaker2: Hello, yes, I am a customer service representative for delivery services, what can I help you with?
+Speaker1: Can you recommend any nearby restaurants for dinner?
+Speaker2: Of course, there are several good restaurants nearby, such as Lao Beijing fried sauce noodles, Sichuan people's family, and also the halal delicious food garden. Which one do you want to try?
+Speaker1: Can you recommend some dishes at the halal restaurant that sound good?
+Speaker2: Okay, the fragrant basil and lotus flower, steamed fish and lamb soup are all very popular, these are their signature dishes, you can take a look to see if you like any of them.
+Speaker1: The smell of Sichuan peppercorns and steamed fish with clear broth is quite good, I want to order these two dishes and also a bowl of rice, is that possible?
+Speaker2: Sure, I'll help you place an order. What's your delivery address? How long do you think it will take to arrive?
+Speaker1: What is the delivery time for the package at the address: XX road, XX number, XX building, XX unit, XX floor?
+Speaker2: Okay, I have recorded the address. The usual delivery time is around 30 minutes, if there is traffic congestion there may be a slight delay, I will arrange delivery as soon as possible.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, wish you enjoy your meal, feel free to contact me anytime. Bye!

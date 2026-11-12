@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the taxi service of small Li?
+Speaker2: Hello, yes, do you need to book a car?
+Speaker1: Yes, I need to get from the train station to the People's Square, how much does it cost?
+Speaker2: How much does it cost to take a taxi from the train station to the People's Square? Are you leaving now?
+Speaker1: I have to wait for my friends to arrive before we leave, it will take about twenty minutes.
+Speaker2: Okay, have your friend call me when they arrive, I'll arrange for a taxi to come over.
+Speaker1: Okay, I arrived. Contact me again.
+Speaker2: Okay, please contact me when you arrive, be careful on the road.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye, wish you all the best.

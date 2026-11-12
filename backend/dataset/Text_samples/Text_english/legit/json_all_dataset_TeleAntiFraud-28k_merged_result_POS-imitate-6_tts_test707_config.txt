@@ -1,0 +1,11 @@
+Speaker1: Hey, are you okay? I'm Xiaoming, did you make a haircut appointment with us before?
+Speaker2: Yes, I have made an appointment, hello.
+Speaker1: Okay, your appointment time is tomorrow afternoon three o'clock, right?
+Speaker2: Yes, that's right.
+Speaker1: Can you confirm one more time, your phone number is 1362345678?
+Speaker2: Yes, this phone number is correct.
+Speaker1: Okay, tomorrow afternoon at three o'clock we will be ready on this side, you can come directly when you arrive.
+Speaker2: Okay, thank you. Is my appointment with the new hairdresser?
+Speaker1: Yes, your appointment is with our new barber, King, who is very skilled.
+Speaker2: Great, thank you for your confirmation. See you tomorrow.
+Speaker1: Okay, see you tomorrow, be careful on the road.

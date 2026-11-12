@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, I saw a haircut appointment over there, I want to schedule a time
+Speaker2: Okay, what time would you like to make a reservation?
+Speaker1: It's best if it's this weekend, either Saturday or Sunday
+Speaker2: Okay, let me check. We have some space on Saturday, Sunday is quite full, how about 10 am on Saturday?
+Speaker1: Sure, let's make it 10 am on Saturday.
+Speaker2: Okay, I have made a reservation for you on Saturday at 10 am. Remember to come on time.
+Speaker1: Okay, thank you, bye.
+Speaker2: Goodbye, I'm looking forward to your arrival.

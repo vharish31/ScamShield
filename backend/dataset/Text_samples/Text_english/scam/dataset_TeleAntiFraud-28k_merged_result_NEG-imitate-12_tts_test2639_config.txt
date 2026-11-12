@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative for Speedy Express, do you have a lost package that needs to be handled?
+Speaker2: Is it true or false? I recently had a package that didn't arrive.
+Speaker1: Yes, we verified the information and it is indeed your package. To compensate you, we are preparing a refund. Please provide your bank card information to proceed.
+Speaker2: Okay, how can I provide?
+Speaker1: Please click on the link we sent you, then follow the instructions above to complete the refund.
+Speaker2: Okay, let me check my phone to see if you guys sent any text messages.
+Speaker1: Okay, the text message should arrive soon, if you don't receive it, you can contact our customer service phone.
+Speaker2: Okay, thank you.
+Speaker1: No problem, what else can I directly ask you?
+Speaker2: I got it, now I'm going to operate.

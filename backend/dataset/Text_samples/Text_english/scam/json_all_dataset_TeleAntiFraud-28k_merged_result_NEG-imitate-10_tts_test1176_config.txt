@@ -1,0 +1,14 @@
+Speaker1: Hello, you good, here is Xinghai Technology customer service center, I is customer service Li.
+Speaker2: Hello, how are you?
+Speaker1: Please note that there may be some small issues with your order, and you need to cooperate to handle them.
+Speaker2: What's the issue?
+Speaker1: It seems like your order has been frozen. This might be a system error. But don't worry, we have a solution.
+Speaker2: What should we do?
+Speaker1: To quickly solve the problem, please enter our secure page through our special link for identity verification.
+Speaker2: Safety page?
+Speaker1: Yes, this is a specially designed page for solving such problems. Just click on the link and follow the instructions to operate.
+Speaker2: Okay, I'll try.
+Speaker1: Okay, I'll send you the link right away. Please make sure to open it in a safe network environment and complete the verification quickly.
+Speaker2: Received, thank you.
+Speaker1: No problem, feel free to contact us anytime if you have any questions. Best wishes for all your endeavors.
+Speaker2: Okay, bye.

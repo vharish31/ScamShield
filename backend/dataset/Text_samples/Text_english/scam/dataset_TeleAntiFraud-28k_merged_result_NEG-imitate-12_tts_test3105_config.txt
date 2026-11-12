@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Hey, it's me, you're good.
+Speaker1: Hello, I am the client manager of China Construction Bank Investment, Lee Huai. I saw your previous investment record in financial planning, so I called you specifically to introduce a new product we just launched, with an annual return of up to 100%, and very low risk.
+Speaker2: "Hmm, this sounds good, but I haven't recently considered investing."
+Speaker1: That's it, Mr. Zhang, this product is very popular, the budget is very tight, it's possible that it will run out soon. If you're interested, I can send you a link, you can click on the link to directly understand the product details and buy it.
+Speaker2: Okay, you can send me a link, and I'll take a look.
+Speaker1: Okay, Mr. Zhang, I've sent it over. Just wait a moment. The link has already been sent, can you click on it to check it out?
+Speaker2: Okay, I'll take a look.
+Speaker1: Mr. Zhang, this link is very safe, it's our company's official website. Just click on it and follow the instructions after you enter.
+Speaker2: Okay, I understand now, thank you.
+Speaker1: No problem, Mr. Zhang, if you have any questions, please feel free to contact me anytime. I hope our products can help you. Goodbye.
+Speaker2: Thank you, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: This is the customer service representative of the express delivery, we found that one of your packages was accidentally lost in transit, but don't worry, we will give you compensation.
+Speaker2: Really? Thank you so much.
+Speaker1: Hey, to facilitate processing compensation, could you please provide your identity card number and bank account number? This way we can directly transfer the compensation money to your account.
+Speaker2: Okay, ID number is..., bank card number is...
+Speaker1: Thank you for your cooperation. There's one more step, you need to download our official app to confirm your information.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, this way can ensure your information safety, you can search official version of speed express in app store, download it and register login, input my verification code, then complete confirmation.
+Speaker2: Okay, I'm going to download now.

@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: I'm at the door of the oral and maxillofacial clinic at Bo'yuan Hospital, come quickly.
+Speaker1: Okay, I'll be there soon. Do you have a parking lot nearby?
+Speaker2: Yes, just behind the outpatient building, you can see it if you walk along the road.
+Speaker1: Okay, I know. It's about ten minutes until we arrive.
+Speaker2: Okay, I'm waiting for you at the door.
+Speaker1: Hey, the road is a bit congested, wait for a sec.
+Speaker2: No problem, take it slow, safety first.
+Speaker1: Okay, thank you.
+Speaker2: No problem, see you later.

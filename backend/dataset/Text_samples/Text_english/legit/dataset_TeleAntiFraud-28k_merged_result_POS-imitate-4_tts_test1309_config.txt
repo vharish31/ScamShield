@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you?
+Speaker1: Have you arrived at the train station yet?
+Speaker2: I arrived, I'm waiting for you at the exit gate.
+Speaker1: Okay, I'll drive over there, you wait for me a moment.
+Speaker2: Okay, I see your location now, hurry up.
+Speaker1: Hey, hurry up, stand at the right side of the exit door, I can easily find you.
+Speaker2: Okay, I know, wearing black clothes, you'll be easily recognizable.
+Speaker1: Okay, I wear black, what do you wear?
+Speaker2: I'm wearing a blue shirt, you arrived to call me.

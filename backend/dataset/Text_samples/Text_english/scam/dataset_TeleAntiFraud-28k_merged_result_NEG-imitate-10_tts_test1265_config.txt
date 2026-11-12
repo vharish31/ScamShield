@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li Ming?
+Speaker2: Yes, I am.
+Speaker1: Hello, I am a customer service representative at the construction of the bank's credit center. I see that you have recently applied for a startup loan. Fortunately, our bank has a product that is suitable for you, which can provide 30,000 yuan of financial support.
+Speaker2: Oh, is that so? I happen to need some cash flow right now.
+Speaker1: Great, this product is very suitable. However, to ensure the safety of our funds, we need you to first download our official app and complete some identity verification.
+Speaker2: Okay, what is the name of this app?
+Speaker1: You can download the app named "建设银行信贷通" from the phone app store. After downloading, enter the invitation code 123456 and our customer service will guide you through the next steps.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Hello, if you encounter any issues during the download process, please feel free to contact our customer service at any time. Additionally, to speed up the approval process, please provide a recent photo of your bank card, which can be sent to this number: 13800138000.
+Speaker2: Okay, I will go quickly.

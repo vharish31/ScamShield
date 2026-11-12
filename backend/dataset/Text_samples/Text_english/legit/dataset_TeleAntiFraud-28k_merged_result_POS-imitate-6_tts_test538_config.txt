@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, can I reserve a private room at your restaurant?
+Speaker2: Hello little Ming, I am server Wang, our restaurant has private rooms, what time slot would you like to reserve?
+Speaker1: I'd like to reserve a private room for dinner this weekend for about five people. Do you have any recommendations?
+Speaker2: Sounds good, for the weekend dinner time, for five people, our lake view private room is very suitable, environment is elegant, view is open.
+Speaker1: How much does this room cost to hear?
+Speaker2: The price of the room with a lake view is 500 yuan per hour, and if you order dinner in advance, you can also enjoy a set meal discount.
+Speaker1: What is the specific content of the menu?
+Speaker2: Our menu includes appetizers, main courses, desserts, and drinks. The specific dishes can be customized based on your taste preference.
+Speaker1: Okay, can I reserve this private room on Sunday evening at six o'clock?
+Speaker2: Okay, the lake view room is reserved for you on Sunday evening at six o'clock. We will be ready half an hour in advance.

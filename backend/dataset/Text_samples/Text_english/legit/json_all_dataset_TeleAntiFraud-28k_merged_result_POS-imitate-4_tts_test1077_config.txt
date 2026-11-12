@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I just placed an order for takeout at your store, why hasn't it been delivered yet?
+Speaker2: Hello, we have received your order. Our delivery person is on the road now, there might be a little delay due to traffic.
+Speaker1: How long will it take to send it?
+Speaker2: Based on the current road conditions, it's approximately 15 to 20 minutes. Can you see it?
+Speaker1: Sure, I'll wait a moment. By the way, I have special requirements for this meal, don't put chili peppers.
+Speaker2: Okay, we have taken note of your special requirements, the chef will pay attention to them when preparing your food.
+Speaker1: Okay, thank you. By the way, I forgot to give a good review for a restaurant I ordered from before, can I still do it now?
+Speaker2: Sure, you can find the historical orders in our app and give a review.
+Speaker1: Okay, I know. Remember to remind me when the food arrives this time.
+Speaker2: Okay, we will notify you promptly. Thank you for your support. Enjoy your meal.

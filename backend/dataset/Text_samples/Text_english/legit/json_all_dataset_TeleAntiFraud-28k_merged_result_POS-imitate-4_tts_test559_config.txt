@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you? Can you make a reservation for housekeeping service here?
+Speaker2: Can I help you book what service?
+Speaker1: I want to book a cleaning service, my home is a bit messy.
+Speaker2: Okay, we have a professional cleaning team here. What time would you like to schedule an appointment?
+Speaker1: It's best this weekend. Can we meet on Saturday morning?
+Speaker2: Can we meet on Saturday morning? What time works best for you?
+Speaker1: Can we meet around 9 o'clock?
+Speaker2: 9:00 is fine, we will contact you in advance to confirm specific information. Also, how many hours do you need for cleaning at your home?
+Speaker1: It'll take about three to four hours, there's a lot of stuff at home.
+Speaker2: I understand, we will arrange a suitable team. Moreover, the cleaning fee is calculated per hour, do you need to pay a deposit?
+Speaker1: Do you need a deposit? How much is the deposit?
+Speaker2: The deposit is 30% of the total service fee, and the remaining fee will be calculated based on the actual time after the service is completed. Is this acceptable to you?
+Speaker1: Is it okay, then how do I pay the deposit?
+Speaker2: You can pay the deposit through our WeChat mini-program or Alipay after payment, we will send you a confirmation message.
+Speaker1: Okay, I'll go pay the deposit now. Thank you for your help.
+Speaker2: You're welcome. If you have any questions, please feel free to contact us anytime. We look forward to providing you with excellent service.

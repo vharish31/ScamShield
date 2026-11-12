@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I found a phone on your website that I like, but the price is not consistent, can you help me confirm it?
+Speaker2: Hello, can you please tell me which phone model is it, I can help you check it on this side.
+Speaker1: That's the new iPhone, I see some places written six thousand, some places written five thousand.
+Speaker2: Hey, it's possible that the price inconsistency is due to our website's promotional activities. I'll confirm the latest price for you.
+Speaker1: Okay, thank you.
+Speaker2: Please wait a moment, I'll check.
+Speaker1: Okay.
+Speaker2: Found it, the current price of this iPhone is six thousand two hundred yuan, there was a limited time promotion, the price dropped to five thousand nine hundred yuan, but the promotion has ended.
+Speaker1: Uh, in this way, what discounts can I enjoy now?
+Speaker2: You can enjoy our store's member discount, and you'll receive extra points when you make your first purchase. You can use these points to redeem gifts or deduct from your next purchase.
+Speaker1: Okay, so I just placed an order.
+Speaker2: Okay, we'll process your order quickly after you place it, and you can contact me anytime if you have other questions.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, hope you have a nice shopping.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I'm at the People's Square, I want to take a bike to the train station, can you come over from your side?
+Speaker2: Hello, little Li, can I, where are you specifically on the People's Square?
+Speaker1: I'm waiting for you at the bus stop on the east side of the square. How long will it take to get there?
+Speaker2: Okay, I should be there in about twenty minutes, just wait a bit, be careful.
+Speaker1: Great, can I bring my luggage?
+Speaker2: Sure, my car has a lot of space in the back, no problem putting luggage.
+Speaker1: That's great, thank you, be careful on the road.
+Speaker2: No problem, you too, be careful on the road, see you later.
+Speaker1: Okay, see you later.
+Speaker2: Okay, bye.

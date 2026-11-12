@@ -1,0 +1,12 @@
+Speaker1: Hello, this is the express delivery customer service, I am customer service representative Li, we found that you have a package in the transportation process that has a problem, you need to cooperate to handle it, is it convenient for you?
+Speaker2: What's the problem?
+Speaker1: Due to a slight accident during transportation, your package may have been damaged. To protect your rights, we need to handle the compensation procedures.
+Speaker2: What do I need to do?
+Speaker1: First, please provide us with your order number, then click on the link we provide and fill in the relevant information, so we can process your compensation claim.
+Speaker2: Okay, what is the link for order number 123456789?
+Speaker1: Okay, I'll send you a link to your phone right away. Please pay attention to the SMS and click on the link after receiving it, following the instructions.
+Speaker2: Okay, I'll be right back.
+Speaker1: To speed up processing speed, you can also download our official app, which has a 'quick compensation' function, easier to operate.
+Speaker2: What should I do after downloading the app?
+Speaker1: After downloading the app, register and log in, then click 'Quick Compensation' on the homepage, follow the prompts to enter your order number and related information, and submit. We will process quickly.
+Speaker2: Okay, let me try.

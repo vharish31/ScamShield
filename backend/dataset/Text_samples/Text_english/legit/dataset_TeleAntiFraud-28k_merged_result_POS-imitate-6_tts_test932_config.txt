@@ -1,0 +1,12 @@
+Speaker1: Hey, are you looking for rental housing information?
+Speaker2: Yeah, sure, I'm looking for a house that's suitable for two people.
+Speaker1: Okay, I am a customer service representative for a real estate company, here are a few properties that I can recommend to you, take a look?
+Speaker2: Sure, you recommend watching.
+Speaker1: There's a two-bedroom apartment here in the city center, with convenient transportation, complete facilities around, and a reasonable price.
+Speaker2: How much is it?
+Speaker1: The monthly rent for this apartment is 4500 yuan, including water and electricity, but not internet.
+Speaker2: Can I take a look at the room?
+Speaker1: Of course, can you come over now to take a look, or schedule a time?
+Speaker2: Can I schedule something at 3 PM tomorrow afternoon?
+Speaker1: Okay, tomorrow afternoon at three o'clock I'll be at the property, the address is Happiness Street twelve, remember to bring your ID.
+Speaker2: Okay, thank you, see you tomorrow.

@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm the customer manager of Guangzhou Bank, Zhang Wei.
+Speaker2: Hello, what do you have?
+Speaker1: Is that so, I found out your company's business license has been valid for a year now, our bank currently has a very good enterprise loan project with a low interest rate and a high loan amount, are you interested in learning more about it?
+Speaker2: "Uh, I don't really need a loan."
+Speaker1: That's too bad, this project is really suitable for your enterprise. Why don't you add my WeChat first, and you can contact me anytime you need in the future? My WeChat number is zhangwei123.
+Speaker2: Okay, then, I'll add you on WeChat.
+Speaker1: Great, after you add WeChat, I'll send you more detailed info, see if there are any suitable projects.
+Speaker2: Okay, I will add your WeChat.
+Speaker1: By the way, our bank recently had a very good investment opportunity with a very high return rate. You can also take a look.
+Speaker2: Invest opportunity? It sounds good, can you give it to me to look at?

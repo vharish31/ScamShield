@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I want to ask if there are any small apartments suitable for two people to live in here?
+Speaker2: Yes, we have several different types of housing here. What specific information are you looking for?
+Speaker1: Can you tell me how much the rent is, and is the surrounding transportation inconvenient, does it have a subway station?
+Speaker2: Rent varies depending on the apartment type from 3,000 to 4,000 yuan per month. As for transportation, there's a subway station nearby, about a 10-minute walk from the apartment.
+Speaker1: Does a supermarket or convenience store exist nearby?
+Speaker2: Yes, there are two convenience stores and a large supermarket within five minutes walking distance, making life very convenient.
+Speaker1: Great, what time can I come see the house?
+Speaker2: You can choose a convenient time, we have people on duty here from 9am to 6pm every day, you can pre-book a specific time in advance.
+Speaker1: Can I come to see the house at 3 pm tomorrow afternoon?
+Speaker2: Sure, I will schedule a house viewing for you tomorrow at 3 pm. Please bring your ID for registration.
+Speaker1: Okay, thank you. See you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

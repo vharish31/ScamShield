@@ -1,0 +1,10 @@
+Speaker1: Hello, do you have a vegetarian menu at your restaurant?
+Speaker2: Yes, we have a special vegetarian menu here. Would you like to take a look?
+Speaker1: Can I reserve a window seat at your restaurant for tomorrow's dinner?
+Speaker2: Okay, what time did you reserve?
+Speaker1: I'll reserve tomorrow at noon, approximately two people.
+Speaker2: Okay, I'll book it for two vegetarian menus. Do you need any other help?
+Speaker1: No problem, thank you. What are the special dishes in your restaurant?
+Speaker2: Our signature dishes include steamed cod and stir-fried frog, but since you're a vegetarian, we recommend our popular vegetable dishes such as stir-fried three-vegetable and mushroom and onion stir-fry.
+Speaker1: Okay, thank you for your recommendation, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you enjoy your dinner.

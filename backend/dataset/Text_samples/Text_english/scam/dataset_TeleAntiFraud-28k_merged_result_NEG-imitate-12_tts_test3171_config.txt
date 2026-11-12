@@ -1,0 +1,10 @@
+Speaker1: Hello, I am small Li, the loan manager of Agricultural and Commercial Bank, I see that you have recently had a need for capital rotation, our bank can provide a 30,000 yuan loan without collateral, are you interested?
+Speaker2: I'm a bit short of cash lately, can you give me a detailed explanation?
+Speaker1: Of course, our loan product has a low interest rate, fast approval, and only requires basic personal information to quickly disburse funds. Simply click this link and fill out the application form to proceed.
+Speaker2: Is this safe, that link?
+Speaker1: Don't worry, this is our official website link, very safe. Click on it and follow the instructions to submit the information. Our customer manager will contact you soon.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you have any issues during the operation, feel free to contact me anytime. Also, to speed up the approval process, please provide a verification code. I'll send you a text message now, let me know once you receive it.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the text message has been sent. Please pay attention to receiving it. The verification code is a six-digit number. Please tell me.
+Speaker2: I received it. The verification code is 123456.

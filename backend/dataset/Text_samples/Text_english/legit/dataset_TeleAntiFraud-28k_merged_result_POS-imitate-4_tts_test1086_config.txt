@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, do you have any new Huawei phones in your store?
+Speaker2: Hello, Xiaoming, we have the latest Huawei phone here, which one do you want to know about?
+Speaker1: Can you tell me the specific configuration and price of the Huawei Mate 50?
+Speaker2: The Huawei Mate 50 configuration is very high, it uses the latest Kirin chip, there are eight plus one plus eight and eight plus two plus five plus six memory versions, priced at 3999 yuan and 4299 yuan respectively.
+Speaker1: The sound is good, but I'm a bit tight-handed right now. Do you guys have a service for paying in installments?
+Speaker2: Of course, we support multiple payment options, including three, six, and twelve-month installments, with low interest rates. Which one is suitable for you?
+Speaker1: I want to choose twelve-month installment, so each month's pressure is a little less.
+Speaker2: Okay, for the twelve-month installment plan, you would need to pay approximately 358 yuan per month, with an interest rate of 3%, you may want to consider it.
+Speaker1: So, when can I come to the store to check it out and take care of the installment?
+Speaker2: It's convenient if you can come to the store at 3 pm tomorrow afternoon. I will prepare the phone in advance, and we can directly handle the procedures when you arrive.
+Speaker1: Okay, see you tomorrow afternoon at three o'clock. Thank you for your help.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, see you tomorrow.

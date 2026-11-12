@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Can you ask if your store has the new blue Bluetooth earphones?
+Speaker2: Yes, we just arrived, now you can buy with a discount.
+Speaker1: How long is the battery life of this headset?
+Speaker2: This headphone can be used for about 30 hours when fully charged, and the charging box can provide an additional 40 hours of battery life.
+Speaker1: Can we go to the store today? It sounds good.
+Speaker2: Of course, our store is open until 9 pm tonight. What time would you like to come?
+Speaker1: I'll go over there around four in the afternoon after work.
+Speaker2: Okay, I'll reserve a machine for you. Just come find me when you need it.
+Speaker1: Thank you, see you later.
+Speaker2: No problem, see you later, be careful on the road.

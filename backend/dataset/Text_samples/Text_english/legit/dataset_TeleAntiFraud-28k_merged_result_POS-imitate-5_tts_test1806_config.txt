@@ -1,0 +1,8 @@
+Speaker1: Hello, I am a customer service representative for a food delivery platform. Your food is ready. How long will it take to deliver to your location?
+Speaker2: Can you find me in this small community? It's quite hard to find here.
+Speaker1: Don't worry, our delivery guy knows this area well. Just give me the specific address and door number, and I'll tell him right away.
+Speaker2: Okay, I am in Happiness Village No. 5 Building, No. 2 Unit, Door No. 102.
+Speaker1: Okay, I know, I will give the delivery address to the delivery guy, about 30 minutes later it will arrive, please pay attention to answer the phone.
+Speaker2: Okay, thank you, please you.
+Speaker1: No problem, if you have any other needs for help, please contact me anytime. Goodbye!
+Speaker2: Goodbye!

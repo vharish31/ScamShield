@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Who are you?
+Speaker1: Hey, it's me, your friend Li. How have you been lately?
+Speaker2: I'm good, you? What have you been up to lately?
+Speaker1: I've been busy renovating my new home, quite busy.
+Speaker2: Renovation, huh? You gotta pick out stuff carefully, right? Do you need any help?
+Speaker1: Thank you, actually I planned to go to the furniture market this weekend, do you want to come together?
+Speaker2: Hey, I'm free this weekend, what time do you want to go?
+Speaker1: Let's go to the market at 10 am. It just opened, and there aren't many people.
+Speaker2: Okay, let's meet on Saturday.

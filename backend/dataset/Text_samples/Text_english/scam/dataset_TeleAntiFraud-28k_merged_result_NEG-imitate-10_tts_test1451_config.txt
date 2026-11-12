@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Good morning, Mr. Zhang.
+Speaker2: Hello
+Speaker1: Hi, I'm Li Xiaoxiang, the person you previously contacted. Our company has just launched a high-yield investment and wealth management product. Would you be interested in learning more about it?
+Speaker2: Can you give a detailed explanation of investing in financial products?
+Speaker1: Of course. This product has an annual return rate of 12%, and the risk is very low, making it very suitable for friends who have some spare money to invest.
+Speaker2: The sound is good, but how do you operate it?
+Speaker1: It's very simple. Just download our company's official app, register an account and you can start investing.
+Speaker2: How do I know if this app is safe to download?
+Speaker1: Our company is a legally licensed financial enterprise that has been approved by the government, and our app is available on major app stores. It is absolutely safe and reliable. You can try out our services with a small initial investment.
+Speaker2: Okay, let me try.
+Speaker1: Great, feel free to contact me anytime if you have any questions. Best wishes for your investment. Goodbye.

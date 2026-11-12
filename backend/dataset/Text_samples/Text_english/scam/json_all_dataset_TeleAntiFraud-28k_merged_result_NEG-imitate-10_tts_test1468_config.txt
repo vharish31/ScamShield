@@ -1,0 +1,9 @@
+Speaker1: Hello, this is the customer service representative of sequoia express, you have lost a package during transportation, we can handle the refund for you, can you cooperate with us?
+Speaker2: Okay, I really have a package that I haven't received yet.
+Speaker1: Great, to facilitate the refund, we need you to provide us with your bank account and verification code, so we can directly transfer the refund to your account.
+Speaker2: Okay, my bank card number is 1234567890123456, and the verification code is 123456.
+Speaker1: Got it, we have recorded it on our end, we will process your refund later. For the sake of safe funds, you need to download our verification app to prevent any issues during the refund process.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Hello, after downloading please open the APP and enter your bank account and verification code. We will process it quickly. Are there any other issues?
+Speaker2: No more, thank you.
+Speaker1: You're welcome. If you have any questions, please contact our customer service at any time. Have a nice life. Bye!

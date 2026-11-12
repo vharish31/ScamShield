@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Hey, I'm at the C exit of the subway station.
+Speaker1: Okay, have you seen the orange-colored bar yet? We're waiting for you there.
+Speaker2: Orange bar? Where is it?
+Speaker1: You can see it right outside the C exit.
+Speaker2: Okay, I'll be there soon.
+Speaker1: Come on, hurry up and come over, we're waiting for you downstairs at the bar.
+Speaker2: I know, it'll be about five minutes.
+Speaker1: Okay, we're waiting for you inside.
+Speaker2: Okay, be careful on the road.

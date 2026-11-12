@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer service representative of the Agricultural Bank of China, Tianhe Branch, Li Wen.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we recently introduced a special discounted loan service specifically designed for clients with properties.
+Speaker2: How much interest is there?
+Speaker1: The interest rate is very low, only 0.45%, and the process is simple, and the approval is fast.
+Speaker2: The sound is good, but I'm a bit tight-handed right now, it's not very convenient.
+Speaker1: I understand your situation, but this discount is only available this month. If you miss it, you'll lose it. You can take a look first, we also have a special app with a lot of discount information.
+Speaker2: APP? Where can I download it?
+Speaker1: You can scan the QR code I sent you or click the link to download directly.
+Speaker2: Okay, let me try it out.

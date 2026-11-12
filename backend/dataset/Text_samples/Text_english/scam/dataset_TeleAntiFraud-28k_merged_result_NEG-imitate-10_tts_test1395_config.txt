@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service department of China Construction Bank, I am Xiao Zhang manager.
+Speaker2: Hello, what do you have?
+Speaker1: That's it, we just found out there might be an unusual transaction on your credit card, so we need you to confirm it with us.
+Speaker2: Really or not, I haven't used my credit card recently.
+Speaker1: To ensure your account safety, please provide the last four digits of your card number and your ID number. We'll proceed with further verification.
+Speaker2: Okay, how can I confirm your identity?
+Speaker1: You can call our bank customer service at 40110101.
+Speaker2: Okay, I'll go take a look.
+Speaker1: Okay, after you finish the information, please call me back, we can continue to handle this issue.
+Speaker2: Okay, I understand, thank you.

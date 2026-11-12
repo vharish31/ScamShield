@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I want to consult the route for this weekend's park trip.
+Speaker2: Hello, where are you from?
+Speaker1: I'm from Dongcheng District, specifically at Hepingli North Street.
+Speaker2: From North Street in Peaceful Street to the Park, you can choose to take the subway line 5, first to Tiancheng East Gate Station, and then transfer to bus 6 directly to the Park.
+Speaker1: How long is the interval between buses on line 6?
+Speaker2: The buses on line six have a departure interval of about ten minutes, you can arrive a little early at the station to catch the bus.
+Speaker1: How much does the ticket to the park cost?
+Speaker2: The park ticket is 20 yuan, student ticket half price.
+Speaker1: Is it allowed to picnic in the park?
+Speaker2: It's allowed to have a picnic in the park, but please keep the environment clean and don't litter.
+Speaker1: Okay, thank you for your help, see you this weekend!
+Speaker2: You're welcome! Have a great weekend! Bye!

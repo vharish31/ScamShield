@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to book lunch for tomorrow.
+Speaker2: Hello, I'm very happy to serve you. What time would you like to book?
+Speaker1: Can we meet around noon?
+Speaker2: Is it okay, twelve o'clock exactly location, how many people do you need to reserve a table?
+Speaker1: Do you have a vegetarian menu for two people?
+Speaker2: Yes, we have a special vegetarian menu. Would you like to inform the chef of your special requirements in advance?
+Speaker1: Okay, thank you. If possible, I would like to reserve a window seat.
+Speaker2: Of course, the view from the window is very good, I will reserve the place for you. Do you need any other help?
+Speaker1: Thanks for your help. I'm sorry, I don't have it right now.
+Speaker2: No problem, your reservation has been arranged for you. See you tomorrow!

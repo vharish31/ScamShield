@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to consult your delivery service.
+Speaker2: Hello, I'm very happy to serve you, what information do you want to know?
+Speaker1: What is your delivery time?
+Speaker2: We usually deliver within 30 minutes after ordering, but there might be a delay during peak hours.
+Speaker1: If I order now, when can it be delivered?
+Speaker2: Your order will be delivered in about half an hour, but the exact time may vary depending on your location and traffic conditions.
+Speaker1: Sure, can I make a note of special requirements when I place my order, like no chives?
+Speaker2: Sure, you can write your special requirements in the remark section when placing an order, and we will do our best to fulfill them.
+Speaker1: That's great, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Enjoy your meal. Goodbye.

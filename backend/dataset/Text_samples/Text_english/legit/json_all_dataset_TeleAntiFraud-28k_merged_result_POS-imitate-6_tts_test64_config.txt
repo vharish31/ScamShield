@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: Hey, I'm here, how are you?
+Speaker1: I just arrived at your community gate, can you come down to meet me?
+Speaker2: I'm still cooking, why don't you go to the property office and sit for a while, I'll be done soon.
+Speaker1: The property is a bit far away, why don't you hurry up, I'm waiting for you at the door.
+Speaker2: Okay, I'll light the fire, you wait for me for ten minutes, I'll be there soon.
+Speaker1: Okay, hurry up, I brought something for you.
+Speaker2: What is this, so mysterious?
+Speaker1: You'll know once you arrive, hurry down now.
+Speaker2: Okay, let's go.

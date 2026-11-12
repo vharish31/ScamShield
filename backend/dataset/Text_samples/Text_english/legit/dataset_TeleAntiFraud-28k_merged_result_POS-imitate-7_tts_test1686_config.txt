@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I bought a piece of clothing from your store a few days ago, and I have some questions to consult.
+Speaker2: Hello, little Li, I am customer service Zhang, what questions can you tell me?
+Speaker1: I wore that suit once and found a little discoloration. Can I return it?
+Speaker2: You can check if the clothes were washed according to the instructions on the label first.
+Speaker1: I washed it according to the instructions on the label, but it still turned out yellow.
+Speaker2: Okay, that's fine, you can bring the receipt and the items over here, we can handle the return on this side.
+Speaker1: When is the best time for me to go over?
+Speaker2: Our store is open from nine in the morning to nine in the evening. You can come at any convenient time.
+Speaker1: Can I go at three in the afternoon tomorrow?
+Speaker2: Of course, tomorrow afternoon at three o'clock, we'll be waiting for you here.

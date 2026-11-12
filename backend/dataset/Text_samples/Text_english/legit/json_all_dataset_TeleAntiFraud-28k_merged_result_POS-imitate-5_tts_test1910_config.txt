@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I'm little Li, I'm at the New Tian Di shopping center entrance, can you come pick me up?
+Speaker2: Okay, little Li, I'll be there soon, where are you waiting at the door?
+Speaker1: I'm at the south gate, which is right next to the metro station entrance.
+Speaker2: Okay, you wait for me there, I might need five minutes.
+Speaker1: Okay, no rush, I'll wait for you. The weather forecast says it might rain today, remember to bring an umbrella.
+Speaker2: Thank you for reminding me, I will bring an umbrella. You can wave at me when you see my car later.
+Speaker1: Okay, I see your car will come out. See you later.
+Speaker2: See you later, be careful on the road.

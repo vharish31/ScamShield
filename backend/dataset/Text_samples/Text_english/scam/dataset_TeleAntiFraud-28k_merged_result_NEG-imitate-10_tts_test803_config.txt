@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a loan officer at Huaxia Bank, Zhang Huai. Recently we have a new product that is particularly suitable for cash flow management, do you have any recent needs in this area?
+Speaker2: Hey, I'm actually in need of some cash, can you give me some specifics?
+Speaker1: Of course, this loan product does not require collateral, the approval speed is fast, and the interest rate is very favorable. As long as you provide some basic information, we can handle it for you.
+Speaker2: What materials do I need to prepare?
+Speaker1: Please provide your ID, income proof, and bank card info. To speed up the approval process, you can add my WeChat first, and I'll send you a specific info list.
+Speaker2: Okay, I'll add you on WeChat.
+Speaker1: Great, my WeChat number is xxyy1234. After you add me, I will send you the materials. Also, for safety reasons, it's best to download our bank's official app, all operations can be completed on it.
+Speaker2: Okay, I understand.

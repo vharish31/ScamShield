@@ -1,0 +1,11 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Hey, who are you?
+Speaker1: I'm Little King, I remember you were quite interested in our products before.
+Speaker2: Oh, I remember now, what kind of software are you guys doing?
+Speaker1: We recently launched a new app that's perfect for your kind of small and medium-sized enterprises.
+Speaker2: What application?
+Speaker1: This is a management software that can help you improve your work efficiency. If you're interested, you can download and try it out first.
+Speaker2: Download? How to download?
+Speaker1: Just click on this link to download directly.
+Speaker2: Link? Send me WeChat.
+Speaker1: Okay, give me your WeChat, I'll send it to you right away.

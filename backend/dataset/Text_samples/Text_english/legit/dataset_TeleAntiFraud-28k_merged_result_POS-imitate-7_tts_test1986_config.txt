@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm looking for a store called "Lao Beijing Chao Jiang Mian" (Old Beijing Stir-Fry Noodles), do you know how to get there?
+Speaker2: Hello, I know that store, where are you located?
+Speaker1: I am now at Chongwenmen Station on Line 5 of the Beijing Subway.
+Speaker2: After exiting from Chongwenmen Station, walk north for about 300 meters, and you will see a large road junction, then turn left.
+Speaker1: Left turn now?
+Speaker2: Turn left and continue walking straight, about two hundred meters you will see a bookstore, the old Beijing fried chicken noodles are next to the bookstore.
+Speaker1: Okay, thank you for your help. I'll leave right away.
+Speaker2: You're welcome. I hope you enjoy your meal. If you have any other questions, feel free to ask me anytime.
+Speaker1: Okay, thank you again, goodbye.
+Speaker2: Goodbye, be careful on the road.

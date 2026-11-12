@@ -1,0 +1,9 @@
+Speaker2: Hello, did you just order takeout?
+Speaker1: Okay, it's mine. What now?
+Speaker2: Can I add anything to your order?
+Speaker1: Let's add some liquor and spice.
+Speaker2: Okay, added liquor and spicy peppers. Are there any other things that need to be added?
+Speaker1: No need, thank you.
+Speaker2: No problem, your order will probably arrive in about half an hour, can you confirm the address one more time? Is it happy road 108?
+Speaker1: That's right, it's this address.
+Speaker2: Okay, feel free to contact me anytime if you have any questions. Enjoy your meal.

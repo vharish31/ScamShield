@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the Bank of Communications customer service center. I am the customer service manager, Lee Huai. Is it Wang Zhong?
+Speaker2: Yes, I am.
+Speaker1: Hello Mr. Wang, we noticed that you recently had some needs in our bank's loan business, so we specially prepared a special promotion for you.
+Speaker2: Oh, really? That's great.
+Speaker1: Yes, we have a loan product without collateral or guarantee, with fast disbursement speed, which is very suitable for small and medium-sized enterprise owners.
+Speaker2: Sounds good, but I've had my fair share of scams before.
+Speaker1: I completely understand your concerns. To better understand more details, you can click this link to download our official app.
+Speaker2: How do I know this app is safe?
+Speaker1: You can confirm that we are a legitimate bank by checking the bank authorization logo in the app. To quickly help you solve problems, you can also add my WeChat, we have one-on-one customer service.
+Speaker2: Okay, let me try. What is your WeChat number?
+Speaker1: My WeChat number is htbank001. After adding, I will send you detailed information. Thank you for your cooperation, Wang Zong.

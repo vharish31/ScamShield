@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you provide delivery service here?
+Speaker2: Yes, we have many food options here. What information are you interested in?
+Speaker1: I want to order a lunch, do you have any recommendations?
+Speaker2: Our lunch set meals are very popular, such as kung pao chicken with rice, beef noodle soup, and all are very popular. Which one would you like to try?
+Speaker1: This palace chicken drumming sounds good, just this one.
+Speaker2: Okay, palace chicken with rice one portion, do you need to add other dishes or drinks?
+Speaker1: No need, just like this, can you ask how long it will take to send?
+Speaker2: Typically, we deliver within thirty minutes after ordering, but the specific time may vary based on the current order volume.
+Speaker1: Okay, I'll wait later. Thank you!
+Speaker2: You're welcome. If you have any questions, feel free to contact us anytime. Enjoy your meal!

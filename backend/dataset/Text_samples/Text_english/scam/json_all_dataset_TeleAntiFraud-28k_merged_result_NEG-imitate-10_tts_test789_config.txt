@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Hello, it's me.
+Speaker1: I am the manager of the Tianhe Investment Consulting Company, and we noticed that you may have some investment needs recently.
+Speaker2: Hey, are you investing? I'm really interested.
+Speaker1: Great, Mr. Lee, we have a very stable investment project here with a return rate of over 30%, and the risk is very low.
+Speaker2: The project sounds great, but why are you calling me?
+Speaker1: Mr. Li, you may not know yet, our company recently introduced a promotion policy, targeting first-time investors, we provided a special welcome package, including one-on-one investment guidance and additional cash rewards.
+Speaker2: So, what do I need to do to participate?
+Speaker1: It's very simple, Mr. Li. Just click on the link I sent you now, download our investment app, register and you'll have a dedicated customer service guide you through the investment process.
+Speaker2: Okay, let me try.
+Speaker1: Great, Mr. Li, I'll send you the link now. After you download the app, remember to contact customer service, they will guide you through the next steps.
+Speaker2: Okay, thank you.

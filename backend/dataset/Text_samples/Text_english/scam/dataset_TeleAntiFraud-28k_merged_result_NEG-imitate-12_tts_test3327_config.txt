@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Laoban?
+Speaker2: Hello, I am Zhang Laoban.
+Speaker1: I am Li, the customer service representative of Speedy Delivery, and we noticed that there might be a problem with your recent package.
+Speaker2: Oh, is that so? What's the problem?
+Speaker1: Your package may be lost during transportation, but don't worry, we have corresponding compensation policies.
+Speaker2: That's great, how can we compensate?
+Speaker1: To facilitate processing this issue, please click on the link and fill out some information first, so we can handle the subsequent compensation matters.
+Speaker2: Okay, send me the link.
+Speaker1: Okay, just a moment, I'll send it to you now. However, to ensure the safety of the information, you need to first add my WeChat, I will send the link to you through WeChat.
+Speaker2: Okay, let's add WeChat.

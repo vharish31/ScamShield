@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if there are any two-person dishes available here?
+Speaker2: Yes, we have a double person set meal, including appetizers, main dishes and desserts, very suitable for two people dining.
+Speaker1: How much does it cost to sound good?
+Speaker2: The price of the double-person set meal is 288 yuan, which includes our restaurant's special dishes.
+Speaker1: Okay, do I need to make reservations in advance for Saturday night?
+Speaker2: It's recommended to book in advance, there are more customers on Saturday night, booking can ensure a seat.
+Speaker1: Can I reserve a table for seven and a half on Saturday evening at 7:30?
+Speaker2: Okay, I have already reserved a place for you at seven and a half on Saturday night.

@@ -1,0 +1,8 @@
+Speaker1: Just came out of the supermarket, where are you?
+Speaker2: Are you here at the bus station?
+Speaker1: Let's go to the bookstore together.
+Speaker2: Great, I just want to check out the new book, give me a sec, I'll be right there.
+Speaker1: Okay, hurry up, I'm waiting for you at the bookstore door.
+Speaker2: Okay, it'll be about ten minutes, you can start looking, I'll call you when I get there.
+Speaker1: Okay, be careful on the road, I arrived first, let's look for new books.
+Speaker2: Okay, see you later.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service of the food platform, you ordered food from us before, now we have a new product released, do you want to know more about it?
+Speaker2: Hello, can you, what new product did you launch?
+Speaker1: We have just introduced a new seafood fried rice dish, containing shrimp, scallops, squid and many other seafoods, very fresh and delicious. Now you can enjoy a discount when ordering.
+Speaker2: How much does this fried rice cost?
+Speaker1: The price of this seafood fried rice is 38 yuan, and now you can enjoy a 90% discount when ordering, only 34.2 yuan.
+Speaker2: What's the delivery time? I'll probably be at home around seven in the evening.
+Speaker1: We will start preparing one hour before the time you specify, to ensure that the food is delivered before the meal point. You can choose to order at six and a half in the evening, so you can enjoy the food around seven.
+Speaker2: Okay, I'll place the order now, thank you for your recommendation.
+Speaker1: You're welcome, please feel free to contact us if you have any questions. I hope you enjoy this dish, and wish you a happy meal!
+Speaker2: Okay, thank you, bye.

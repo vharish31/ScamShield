@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the personal loan department of the Commercial Bank, do you have any recent need for capital rotation?
+Speaker2: Hello, I don't have any cash flow needs.
+Speaker1: Hey, it's great to know. We have a low-interest loan product here that can be quickly approved, no collateral required, are you interested in learning more?
+Speaker2: I don't have this requirement at the moment, thank you.
+Speaker1: Okay, but first add me WeChat, then you can contact me directly whenever you need. My WeChat number is abcd1234.
+Speaker2: Okay, I'll add you on WeChat.
+Speaker1: Great, after adding WeChat, I will send you a link, you can download our loan app through the link, register and enjoy more discounts.
+Speaker2: Okay, I'll take a look. Thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Wish you a happy life, goodbye.
+Speaker2: Goodbye.

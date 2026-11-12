@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of Huaxing Bank. According to our records, you may have an unclaimed refund.
+Speaker2: Refund? What refund?
+Speaker1: That's right, we recently discovered an error in a transaction, and need to return it to you, approximately one thousand yuan.
+Speaker2: Is it true or false, how to lead?
+Speaker1: To ensure safety, we need you to provide some personal information to verify identity, including name, ID number and bank card number.
+Speaker2: Is this possible? I'm a little worried.
+Speaker1: Don't worry, this is a regular program, and we have strict information protection measures at Huaxing Bank. For convenience, you can click on the link we send and fill out the relevant information.
+Speaker2: Link? Is it safe?
+Speaker1: Very safe, the link directly leads to our bank's official website, you can safely click it. Moreover, for your convenience, you can add my WeChat, any questions can be directly contacted me.
+Speaker2: Okay, let me try.

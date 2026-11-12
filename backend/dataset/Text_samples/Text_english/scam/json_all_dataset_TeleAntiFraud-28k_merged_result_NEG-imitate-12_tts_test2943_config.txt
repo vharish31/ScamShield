@@ -1,0 +1,13 @@
+Speaker2: Hey, how are you?
+Speaker1: Hello, I am Alice's customer service Zhang, what problem are you facing on our platform now?
+Speaker2: No problem.
+Speaker1: Okay, I took a look at your account and found that your recent transaction volume seems to be low, is there any problem?
+Speaker2: Hmm, no problem, it's just the market situation is like this now, the difference between operating and not operating is not big.
+Speaker1: Hey, I understand, but we recently launched a new promotion tool that can help boost store exposure, are you interested in learning more?
+Speaker2: Hmm, this sounds good, how do you operate it specifically?
+Speaker1: It's simple, just download our exclusive app, register and you'll get a free promotion opportunity.
+Speaker2: Okay, then how do I download this app?
+Speaker1: You can directly click on the link I sent you and download it according to the instructions.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you have any questions, feel free to contact me, wish you business prosperity!
+Speaker2: Thank you, goodbye.

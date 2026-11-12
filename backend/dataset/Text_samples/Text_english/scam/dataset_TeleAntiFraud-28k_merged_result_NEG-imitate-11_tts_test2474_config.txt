@@ -1,0 +1,10 @@
+Speaker1: Hello, I am a customer service representative from Commercial Bank, Li, we found that your credit card may be at risk of being stolen, so we need you to cooperate with us to perform a security verification.
+Speaker2: Really? Then what do I need to do?
+Speaker1: Please provide your last name and the last four digits of your ID so we can verify your identity.
+Speaker2: My name is Zhang Wei, the last four digits of my ID are 5342.
+Speaker1: Okay, Mr. Zhang Wei, I have verified your information. To ensure the safety of your funds, we need you to click on a link and install a safe verification app.
+Speaker2: Okay, how do I download this app?
+Speaker1: Please click on this link, http://example.com, to install the app and complete the verification process.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact me anytime. Wish you a happy life. Goodbye.
+Speaker2: Thank you, goodbye.

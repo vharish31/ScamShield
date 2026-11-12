@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I'm little Zhang, we contacted yesterday at five eight in the city, are you saying you want to see a house?
+Speaker2: Oh, okay, I remember now, what's the location of the address you sent?
+Speaker1: I'm at apartment 4 in Happy Community. You called me when you arrived at the community gate. I came down to meet you.
+Speaker2: Okay, I'll leave now, about half an hour later I'll arrive, you wait for my call.
+Speaker1: Okay, no problem, just pay attention to safety on the road.
+Speaker2: Okay, thank you.

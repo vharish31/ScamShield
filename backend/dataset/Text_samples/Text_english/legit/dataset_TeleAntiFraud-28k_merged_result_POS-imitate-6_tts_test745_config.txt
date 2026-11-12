@@ -1,0 +1,12 @@
+Speaker1: Hi, I'm small Zhang, want to consult about your fitness course.
+Speaker2: Hello, Xiao Zhang, I am health center customer service Li Xiao, what can I help you with?
+Speaker1: Can you tell me more about your swimming course schedule?
+Speaker2: Our swimming classes are held every Monday, Wednesday, and Friday evenings from 7 to 9 p.m., and on Saturday afternoons from 3 to 5 p.m.
+Speaker1: Hey, do you have any free time on Saturday afternoon? Can I sign up to join?
+Speaker2: Of course, there are still spots available for the course on Saturday afternoon, you can reserve in advance.
+Speaker1: Okay, what time do I need to arrive for the course on Saturday afternoon?
+Speaker2: I suggest you arrive fifteen minutes early, so you can do some warm-up exercises before getting ready.
+Speaker1: Okay, thank you for your advice. I'll arrive on Saturday at 2:45 PM.
+Speaker2: Okay, see you at 2:45 PM on Saturday, wish you have a fun sports experience.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye, please contact us if you have any questions.

@@ -1,0 +1,12 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of Huaxia Bank, Li.
+Speaker2: Hello, Li Manager.
+Speaker1: We noticed you've been looking for loan services lately, we have a product that's perfect for you with a low interest rate.
+Speaker2: Really? I really need some cash flow recently.
+Speaker1: Yes, our product has a very favorable interest rate, and the procedures are simple, and the approval is fast.
+Speaker2: That's great, how do I apply?
+Speaker1: You just need to download our official app, fill out the relevant information, and you can quickly complete the application.
+Speaker2: Do you want to download the app? I'm concerned about personal information security issues.
+Speaker1: You can rest assured that our app is officially certified and very safe. Moreover, we provide one-on-one service, and you can directly consult me with any questions.
+Speaker2: Okay, let me try.
+Speaker1: Great, please download it. If you have any issues, feel free to contact me anytime. Here's my personal WeChat, for easy communication later.
+Speaker2: Okay, I will consider it. Thank you for your help.

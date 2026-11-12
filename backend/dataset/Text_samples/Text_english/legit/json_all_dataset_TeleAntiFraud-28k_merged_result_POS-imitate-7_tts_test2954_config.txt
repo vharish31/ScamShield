@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me more about your household services? What kind of services do you provide?
+Speaker2: We offer a variety of household services including cleaning, cooking, and nursing. What specific services do you need?
+Speaker1: Have you got any suitable nanny for me to help with cleaning and tidying?
+Speaker2: Yes, we have a richly experienced clean aunty who can provide you with services on a regular or irregular basis. How often do you want it to be, once a week?
+Speaker1: About once a week, how do you calculate the price?
+Speaker2: Our conversation every week is two times, each time lasting three hours, and costs 200 yuan per time. So the total cost for a week is 400 yuan.
+Speaker1: How do I make a reservation if the price is acceptable?
+Speaker2: You can directly tell me your detailed address and contact information, we will arrange Auntie to contact you, confirm the specific time.
+Speaker1: Okay, my address is Xiàngfú xiǎojīng wǔ huǒ lóu èr dān yī, diànhuā yī shēng yī bān yīng sān zhèr liú rèn, jiāhuā yī shēng yī bān yīng sān zhèr liú rèn.
+Speaker2: Okay, I have recorded the information. Auntie will quickly confirm the details with you. If you have any questions, you can contact us anytime.
+Speaker1: Thank you, then I'll wait for Auntie to contact me.
+Speaker2: No problem, we're looking forward to your feedback. If there's anything you're not satisfied with, please feel free to let us know anytime. Goodbye!

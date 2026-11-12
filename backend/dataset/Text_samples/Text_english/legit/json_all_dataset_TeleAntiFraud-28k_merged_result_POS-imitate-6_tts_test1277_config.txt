@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to consult your family's smartwatch.
+Speaker2: Hello, I'm very happy to serve you. Which smartwatch would you like to know more about?
+Speaker1: Can you tell me the main function and price of your latest model?
+Speaker2: Of course. Our latest smartwatch supports heart rate monitoring, sleep analysis, step count, and multiple exercise modes. It costs 2800 yuan.
+Speaker1: Sounds good. How long does the battery of this watch last?
+Speaker2: This watch's battery life is approximately seven days, and it doesn't need frequent charging under normal use.
+Speaker1: What is the delivery time? I need to bring it with me tomorrow to attend an important meeting.
+Speaker2: If you place an order now, we can deliver it to the address you specify by 4 pm tomorrow afternoon.
+Speaker1: Okay, I'll place the order. By the way, do you provide packaging service?
+Speaker2: Yes, we can provide beautiful gift wrapping, you can select the corresponding service when placing an order.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: How have you been lately?
+Speaker2: Okay, I've been pretty busy lately, how about you?
+Speaker1: I agree, but it's okay, work is still going smoothly.
+Speaker2: Sounds good, do you have time this weekend? Let's go shopping together.
+Speaker1: Great, I should have some free time this weekend. Where should I go shopping?
+Speaker2: Let's go to that new shopping mall. I heard it's quite lively.
+Speaker1: Okay, let's meet at the door of the shopping center at 10 am on Saturday morning.
+Speaker2: Okay, Saturday morning at 10am, we'll meet and part ways. I'll hang up first, see you this weekend.
+Speaker1: Okay, see you this weekend, goodbye.

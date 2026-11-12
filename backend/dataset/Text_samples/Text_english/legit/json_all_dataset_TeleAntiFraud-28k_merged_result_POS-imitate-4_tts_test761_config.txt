@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the community property, I want to inform you that your water bill for this month has not been paid yet, if it is not paid by today, we may have to take the water cut-off measures.
+Speaker2: Uh, is that so? I've been on business trip lately, not at home, how to pay?
+Speaker1: You can log in to our official property website, or use your mobile bank transfer, or directly pay at the property office.
+Speaker2: Okay, I understand, so I'll come back in the afternoon to handle it.
+Speaker1: Please bring your property certificate or rental agreement when you come back, so we can verify the information.
+Speaker2: Understood, are there any other fees that need to be paid?
+Speaker1: Currently, only the water bill needs to be handled by you, all other fees have been paid on time, you can log in to our system to view the detailed invoice.
+Speaker2: Okay, thank you for your reminder. I will handle it quickly.
+Speaker1: You're welcome. If you have any questions, please feel free to contact us anytime. Have a nice day.
+Speaker2: You're welcome, you too. Goodbye.

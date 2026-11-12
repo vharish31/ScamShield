@@ -1,0 +1,10 @@
+Speaker1: Hello, I want to know more about your delivery service.
+Speaker2: Hello, we provide various delivery services, what information do you want to know about?
+Speaker1: What are your business hours and delivery range?
+Speaker2: Our business hours are from 10 am to 10 pm, and our delivery range covers the main residential areas in the city center and surrounding areas.
+Speaker1: If I order food, how long will it take to be delivered?
+Speaker2: In general, it takes about 30 to 45 minutes for your order to be delivered from the time you place it, but the specific time may vary depending on the current order volume and traffic conditions.
+Speaker1: Okay, what do you recommend dishes?
+Speaker2: We have several popular dishes, such as Kung Pao Chicken, Stir-Fried Rice with Chicken and Beef Noodle Soup, all of which are highly rated by customers.
+Speaker1: That sounds good, let me try spicy hot pot.
+Speaker2: Okay, we will process your order quickly. If you have any issues, please feel free to contact us anytime.

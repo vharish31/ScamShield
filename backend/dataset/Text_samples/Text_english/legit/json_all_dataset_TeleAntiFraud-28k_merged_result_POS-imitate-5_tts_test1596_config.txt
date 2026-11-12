@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm Xiaoming, I saw your store's promotional information, is the smartwatch active now?
+Speaker2: Hello, Xiaoming, the smartwatch is really active now, the original price is one thousand five hundred yuan, now it's eighty percent off, only one thousand two hundred yuan.
+Speaker1: Oh, this way, how is the waterproof performance of this wristband?
+Speaker2: This watch is waterproof for daily use, you can wash your hands or rain, but don't wear it while swimming.
+Speaker1: Understood, can it connect to the phone?
+Speaker2: Of course, it supports Bluetooth connection, can connect Android and iPhone, and can receive phone notifications.
+Speaker1: Okay, I'll go to your store now, the address is in the city center's digital square, right?
+Speaker2: Yes, we have professional staff on the third floor of the digital square in the city center who can provide you with detailed introductions.
+Speaker1: Okay, I'll be there in about half an hour. Are you still open then?
+Speaker2: We close shop at 9 pm, you come half an hour later, no problem, see you then.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later, be careful on the road.

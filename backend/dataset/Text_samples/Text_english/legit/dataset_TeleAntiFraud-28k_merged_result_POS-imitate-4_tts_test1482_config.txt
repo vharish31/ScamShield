@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform. It seems that there was a problem with your previous order. Do you need to confirm it?
+Speaker2: Hello, what's the issue?
+Speaker1: Your order shows the address as Business Street Sixth, but the phone number query here is Happy Road Twenty Third, these two addresses are different, need to confirm which one is correct.
+Speaker2: Oh, it should be happy road twenty-three, I might have inputted wrong before.
+Speaker1: Okay, I'll help you change your address here.
+Speaker2: When can the revised version be sent?
+Speaker1: Based on the current order situation, approximately 40 minutes is needed to deliver.
+Speaker2: Okay, I'll pay attention later.
+Speaker1: No problem, if there are any changes, we will notify you immediately.
+Speaker2: Okay, can you help me?

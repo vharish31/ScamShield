@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer service monkey of the point store, do you have any recent exchange needs?
+Speaker2: Oh, point exchange, I take a look at what's suitable.
+Speaker1: Hey, do you know that we have a lot of useful products here, such as daily necessities, electronic products, and various member services?
+Speaker2: Can I use points to redeem directly?
+Speaker1: Yes, you can use points to redeem directly, and points also support deducting some cash.
+Speaker2: How many points do I have now?
+Speaker1: You have over 300 points in your account, which can be exchanged for many great things.
+Speaker2: What about a smartwatch?
+Speaker1: Intelligent watches are very popular, and we have a new one on the market here with a high value-to-price ratio. You can exchange a small amount of cash with points.
+Speaker2: Okay, let me try to exchange one.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a customer service representative from China Construction Bank. Recently, you have some overdue loans with us. Would you like to know more?
+Speaker2: Oh, really? I've been pretty busy lately, I forgot to pay.
+Speaker1: No problem, considering your credit record, we can provide you with a special repayment plan. Just click on the link to complete the operation.
+Speaker2: Okay, how do I operate it?
+Speaker1: Just click on our SMS link and follow the instructions.
+Speaker2: What's the link to the text message? I haven't received it yet.
+Speaker1: It's possible that your phone is set to block, I'll send it again, please check it.
+Speaker2: Okay, I'll be right back.

@@ -1,0 +1,10 @@
+Speaker2: Hello
+Speaker1: I bought a shirt from your store yesterday that wasn't the right color. Can I exchange it for a different color?
+Speaker2: Sure, can you come to the store to exchange it? Or we can also arrange for delivery to exchange it for you.
+Speaker1: I'm not convenient to go out lately, so I'll just use delivery.
+Speaker2: Okay, please give me the address, we will arrange fast delivery on this end soon.
+Speaker1: The address is in Xīnchéng qū bā yī jiē yī bǎi hào, mén pái hào shì sān zhě yī.
+Speaker2: Okay, I've noted down the address. What color do you need? We have blue, green and gray options here.
+Speaker1: Can you guys change it to blue? It was originally this one.
+Speaker2: Of course, we will handle it carefully. We will send the blue clothes to you as soon as possible, and we expect them to arrive in three days.
+Speaker1: Okay, thank you.

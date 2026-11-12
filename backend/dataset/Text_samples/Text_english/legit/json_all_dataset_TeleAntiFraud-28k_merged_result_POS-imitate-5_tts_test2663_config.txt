@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at the Flower Flower Restaurant?
+Speaker2: Hello, can you tell me about your restaurant's special dishes?
+Speaker1: Our restaurant has many signature dishes, such as steamed fish with ginger and scallions, braised pork belly, and sour and spicy fish, which are all popular among customers.
+Speaker2: Can you tell me how much the sour fish costs?
+Speaker1: The price of a fish in vinegar is 60 yuan per portion, the portion is large enough for two people to eat continuously with leftovers.
+Speaker2: Okay, can you tell me your business hours?
+Speaker1: Our restaurant business hours are from 10 am to 10 pm, on weekends they will be extended to 11 pm.
+Speaker2: Can I reserve a seat in advance for this weekend's dinner with my friend?
+Speaker1: Of course, you can call ahead a day to reserve a seat, we will save it for you.
+Speaker2: Okay, I'll call to book tomorrow. Thank you for your help!
+Speaker1: You're welcome, I'm looking forward to your arrival, wish you a happy life! Bye!

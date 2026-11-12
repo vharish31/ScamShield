@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to know more about your electric car. I'm thinking of switching cars lately.
+Speaker2: Hello, welcome to consult, we have multiple electric cars to choose from here, which one do you prefer, stronger endurance or higher price-value?
+Speaker1: I value cost-effectiveness, but the battery life can't be too poor.
+Speaker2: I understand, we have a car model that is very suitable for you, the range is around 400 kilometers, and the price is quite affordable.
+Speaker1: What is the full retail price of this car?
+Speaker2: The full-price of this car is approximately 15,000 yuan, but the specific price depends on your selected configuration.
+Speaker1: Okay, I plan to come to your store on the weekend.
+Speaker2: Okay, we have a dedicated sales representative waiting for you on weekends. You can come directly if you don't need an appointment, or let me know in advance if you do.
+Speaker1: Then I just went directly, no other issues, thank you.
+Speaker2: Okay, see you this weekend, wish you happy life, bye.

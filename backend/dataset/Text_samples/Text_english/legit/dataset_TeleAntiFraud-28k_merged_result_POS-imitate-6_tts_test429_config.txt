@@ -1,0 +1,10 @@
+Speaker1: Hey, are you free to talk now?
+Speaker2: Hello, is there anything you need now?
+Speaker1: I am the customer service representative for the community management company. Recently, there have been some adjustments to the parking fees in the community. I would like to know if you have any questions or suggestions regarding this matter.
+Speaker2: Hey, did you change the parking fee? I haven't heard anything about it yet, what's the specifics?
+Speaker1: So, in order to better manage the parking order within the community, we have decided to implement new parking fee standards from next month, the monthly parking fee will be adjusted from 300 yuan to 350 yuan.
+Speaker2: Is that so, the price has increased, have you considered the actual needs of the landlord?
+Speaker1: We have indeed considered it, this adjustment is mainly to improve the maintenance and service quality of the parking lot, at the same time increase some safety facilities. We will also strengthen the management of the parking lot, ensure the parking environment is more safe and comfortable.
+Speaker2: This sounds pretty good, but the monthly expenses that come out still put a little pressure on me.
+Speaker1: I understand your concerns, we are also actively seeking ways to reduce the burden on property owners through other means, such as increasing the advertising revenue of public facilities to supplement parking fees. If you have any other suggestions, please feel free to tell us at any time.
+Speaker2: Okay, thank you for your explanation. I will think about it again.

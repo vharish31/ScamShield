@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm Li Xiaoming from Ping An Bank. We recently launched a high-yield investment product. Are you interested in learning more about it?
+Speaker2: Invest in wealth management? I'm not very clear, is your product safe?
+Speaker1: Absolutely safe, our product is directly managed by our bank, with stable returns and extremely low risk. You can try investing a small amount first and experience it.
+Speaker2: How do I vote?
+Speaker1: It's very simple. Just download our bank's official app, register and complete the real name authentication, and you can buy directly. I can send you a link, just click to download.
+Speaker2: Okay, let me try.
+Speaker1: Great, I'll send it to you now. If you have any issues after downloading, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish your investment to be successful. If you have any questions, please contact me anytime. Bye.
+Speaker2: Goodbye.

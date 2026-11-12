@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you? I want to consult your delivery service.
+Speaker2: Hello, I'm very happy to serve you, what can I help you with?
+Speaker1: Do you have a vegetarian set meal here?
+Speaker2: Yes, we have various vegetable set meals here. Do you want to know the specific details?
+Speaker1: Yes, can you tell me all the menu items?
+Speaker2: Of course, our vegetable set meal includes stir-fried vegetables, kung pao tofu, steamed bok choy and a bowl of soup, and rice too.
+Speaker1: How much does that suit cost?
+Speaker2: The price of this vegetable set meal is 30 yuan, very cheap.
+Speaker1: Okay, can you tell me approximately how long your delivery time is?
+Speaker2: We promise to deliver within thirty minutes after ordering, but there may be a delay if it's peak hours.
+Speaker1: Okay, can you deliver by 7 pm tonight?
+Speaker2: Okay, we will deliver to you at 7:00 am according to schedule. What is your address?
+Speaker1: I live in the Yangguang Xiāngqū of Dōngchéng qū.
+Speaker2: Okay, I understand. East City District Yánggōng xiǎojī, we will arrive on time. Are there any other things to consult?
+Speaker1: No more, thank you for your help.
+Speaker2: You're welcome, hope you enjoy your meal, bye!

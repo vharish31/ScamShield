@@ -1,0 +1,15 @@
+Speaker2: Hello, are you little king?
+Speaker1: Yes, who are you?
+Speaker2: Hey, it's me, your friend Li. How have you been lately?
+Speaker1: Hey, little Li, how's it going lately? How about you?
+Speaker2: I'm not bad, just a bit busy with work. I heard you recently moved, how's the new place?
+Speaker1: Hmm, the new house isn't bad, just need to fix up the decor a bit, still figuring it out slowly.
+Speaker2: That's great, renovating is a big project, take it slow. Hey, do you have time this weekend? Let's eat dinner together.
+Speaker1: What should we do this weekend? Where should we eat?
+Speaker2: There's a new restaurant that looks pretty good. I checked the reviews and it should be quite suitable.
+Speaker1: Okay, then listen to you, you decide the place.
+Speaker2: Okay, can I reserve a seat in advance, what time is it convenient for you?
+Speaker1: 6 pm is a good time, it shouldn't be crowded.
+Speaker2: Okay, six o'clock, see you then.
+Speaker1: Okay, see you later, be careful on the way.
+Speaker2: Thank you, goodbye.

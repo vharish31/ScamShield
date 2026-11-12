@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Lee Ming, I made an appointment for your hair service before, want to confirm the time.
+Speaker2: Hello, Li Ming, I am Xiao Zhang, responsible for appointment management. Your appointment time is tomorrow afternoon two o'clock, right?
+Speaker1: Sure, can you confirm it for me at 2 pm tomorrow?
+Speaker2: Okay, let me check...yes, I have already made a reservation for you, tomorrow at 2 pm.
+Speaker1: Okay, thank you. And, I recently my hair has a bit of oil, do you have any recommendations for shampoo?
+Speaker2: Yes, we have several shampoos that are suitable for oily hair, including tea tree oil and the peppermint series, both of which are very popular.
+Speaker1: Sounds good, can I try it tomorrow?
+Speaker2: Of course, our hairdresser will recommend the appropriate shampoo based on your hair type at the appropriate time.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

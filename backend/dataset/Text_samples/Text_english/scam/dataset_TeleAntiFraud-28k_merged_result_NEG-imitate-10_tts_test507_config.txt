@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the loan manager of Zhao Shang Bank, named Zhang.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, I see your credit record is very good, our bank has a no collateral, low interest rate loan product that is very suitable for you.
+Speaker2: Oh, really? I really need a capital turnaround recently.
+Speaker1: Great, I can send you a link here, just click on it to download our app and fill out some basic information.
+Speaker2: Okay, how do I download it?
+Speaker1: Just click on the link I send you, and you can directly download our app. After downloading, register an account, fill in the information, and we will review and pay you after approval.
+Speaker2: What materials do I need to prepare?
+Speaker1: No need to prepare many materials, just ID and bank card info. After downloading the app, follow the instructions.
+Speaker2: Okay, I'll download it later. Thank you for your help.

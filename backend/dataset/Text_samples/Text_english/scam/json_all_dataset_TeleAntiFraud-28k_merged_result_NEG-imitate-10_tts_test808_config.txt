@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the manager?
+Speaker2: Hello, I am Zhang Jīngmìng, who are you?
+Speaker1: I am Little King, from a venture capital consulting company. We noticed your company has recently expanded business. We have a product that is very suitable for your company, which can bring high returns.
+Speaker2: Hey, really? I'm recently really interested in investing, can you give me a detailed introduction?
+Speaker1: Of course, this product is specifically designed for small and medium-sized enterprises, with a low investment threshold, high return rate, and very low risk.
+Speaker2: The sound is good, but I'm not very familiar with online investing, how do I operate it?
+Speaker1: You just need to download our exclusive app, register an account, and follow the instructions to complete the operation. I can send you a link with detailed steps.
+Speaker2: Okay, send me a link, I'll take a look.
+Speaker1: Okay, I'll send it to you right away. Additionally, to ensure your funds are safe, we suggest you first invest a small amount to try out our service.
+Speaker2: Okay, I'll think about it, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how have you been lately?
+Speaker2: Great, you? Anything new lately?
+Speaker1: Hi, I'm planning to buy a new phone recently, do you have any recommendations?
+Speaker2: Look at your budget and requirements. Do you want high performance or good endurance?
+Speaker1: It's best if the performance is strong and the battery life is not bad, with a budget of around three thousand.
+Speaker2: You can take a look at this new product, the price-performance ratio is quite high, I've been using it recently, and I feel good about it.
+Speaker1: Which card is it? Can you send me a link?
+Speaker2: Okay, wait a minute. Take a look at this link. It's the official website of this phone, you can learn more about it in detail.
+Speaker1: Okay, thank you, I'll go take a look later.
+Speaker2: No problem, contact me if you have any questions. I hope you find a satisfying phone.

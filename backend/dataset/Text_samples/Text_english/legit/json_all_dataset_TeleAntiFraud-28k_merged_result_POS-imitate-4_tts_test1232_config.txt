@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to consult your hairdressing service.
+Speaker2: Hello, this is a happy haircut, you can consult any questions about hair.
+Speaker1: Do you have student discounts there?
+Speaker2: Yes, students can enjoy a 90% discount with their student ID.
+Speaker1: Can I make a reservation for tomorrow afternoon at 3:30?
+Speaker2: Okay, tomorrow afternoon three thirty, I recorded it for you.
+Speaker1: Do you have any special hair recommendations there?
+Speaker2: This Korean short haircut is popular here recently, many young people have chosen this style, you can try it if you're interested.
+Speaker1: Okay, see you tomorrow.
+Speaker2: Okay, see you tomorrow, come directly when the time comes.

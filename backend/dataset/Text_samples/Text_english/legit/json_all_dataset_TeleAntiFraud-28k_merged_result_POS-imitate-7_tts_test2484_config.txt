@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I'm looking for a coffee shop near the exit of the subway station, can you help me find it?
+Speaker2: Hello, no problem, which exit are you coming from?
+Speaker1: I came out from the third door, but I couldn't find the direction after that.
+Speaker2: After exiting the third door, walk straight ahead until you reach the first crossroad, then turn right and walk about 100 meters, and the coffee shop will be on your left hand side, with a large coffee cup sign on the door.
+Speaker1: Okay, I'll go straight ahead and turn right, the coffee shop is on my left hand, there's a big coffee cup sign at the door. Thank you!
+Speaker2: No problem, is there anything else you need help with?
+Speaker1: Never mind, I should be able to find it now. Thank you for your help. Goodbye!
+Speaker2: Okay, see you later!

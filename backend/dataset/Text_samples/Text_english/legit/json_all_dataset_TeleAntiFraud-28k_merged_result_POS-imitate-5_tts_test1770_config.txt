@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm little king, I want to reserve a seat on Saturday evening at 7 o'clock.
+Speaker2: Hello, Little Wang, do we need to reserve a few spots for Saturday night at seven o'clock?
+Speaker1: Two people, I and my friend.
+Speaker2: Okay, your seats have been reserved. Please come half an hour early.
+Speaker1: Okay, where is the restaurant address?
+Speaker2: We are at the corner of Xin Street and Jiaozhong Road, specifically at number 108.
+Speaker1: I know, thank you. Do you have a parking lot?
+Speaker2: Yes, we have a free underground parking lot, you can directly park there.
+Speaker1: Okay, see you on Saturday.
+Speaker2: See you on Saturday, looking forward to your arrival, goodbye.

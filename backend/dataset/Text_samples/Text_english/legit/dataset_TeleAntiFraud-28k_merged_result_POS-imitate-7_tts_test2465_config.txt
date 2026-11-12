@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask about your hair cutting service
+Speaker2: Hello, we provide haircut service here, what time would you like to book?
+Speaker1: Do you have any available spots at four o'clock on Friday afternoon?
+Speaker2: Okay, let me check. Four o'clock on Friday afternoon is available, do you want to make a reservation?
+Speaker1: Is it possible to make a reservation? But I haven't been here before, how do I get to your location?
+Speaker2: We are in the city center square, specifically at Happiness Road 108th No., you can take the second bus to the center square station and get off, walk five hundred meters along Happiness Road to get there.
+Speaker1: Okay, I understand. Thank you. By the way, my friend recommended that the hairdresser's technique here is good. Is that so?
+Speaker2: Yes, all our barbers have undergone professional training, and both their techniques and services have received many positive reviews from customers.
+Speaker1: Then I'll be relieved, I'll arrive on time at four o'clock on Friday afternoon.
+Speaker2: Okay, I'm looking forward to your arrival, see you on Friday.

@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Hello, I am, what do you have?
+Speaker1: Hi, I'm Liu from Hainan Bank's customer service team. Our system detected that you haven't processed your loan application for a long time. Can you provide more details about your situation?
+Speaker2: Oh, this matter, I'm having a bit of trouble with the cash flow right now.
+Speaker1: Mr. Li, we have a special fast loan service designed for customers like you, no collateral, simple paperwork, quick approval.
+Speaker2: Really? Then how do I apply?
+Speaker1: It's very simple. Just click on the link we send to you, download our official app, fill out the relevant information, and once approved, the loan will be directly deposited into your account.
+Speaker2: Okay, I'll go handle it later.
+Speaker1: Okay, to speed up the review process, you need to pay a one-time fee of three hundred yuan first, which will be automatically refunded after the loan is successful.
+Speaker2: Three hundred yuan? Okay, then I will pay after that, when can the loan be credited to my account?
+Speaker1: In general, after approval, funds will be available within 24 hours. You can check the progress anytime through our app.
+Speaker2: Okay, thank you for your help.

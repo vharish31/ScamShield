@@ -1,0 +1,9 @@
+Speaker2: Hey, where are you?
+Speaker1: I just got off the car, at the exit of the subway station.
+Speaker2: Is that the exit with the big advertisement boards?
+Speaker1: Yes, that's it.
+Speaker2: Okay, I see you now, walk to the right and wait for me in front of the coffee shop.
+Speaker1: Okay, I see it, come quickly.
+Speaker2: I'll be there soon, you wait for me a moment.
+Speaker1: Okay, I'm waiting for you in front of the coffee shop.
+Speaker2: Okay, we'll be there soon.

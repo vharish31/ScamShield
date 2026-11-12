@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hey, have you rented out that house yet?
+Speaker2: Are you still there? What time is convenient for you to come over and take a look?
+Speaker1: Can I have some time around three in the afternoon tomorrow?
+Speaker2: Okay, I'll wait for you at three o'clock.
+Speaker1: Okay, see you tomorrow. What is the number of rooms and halls in this house?
+Speaker2: It's a one-room one-living-room apartment with a separate bathroom and a fully equipped kitchen.
+Speaker1: How is the rent calculated for that house, and what about the deposit?
+Speaker2: Rent is 2500 yuan per month, and the deposit is one month's rent.
+Speaker1: Hey, what's the contract like? How long did you sign it for?
+Speaker2: You can sign a contract for one year or half a year, depending on your situation.
+Speaker1: I'll check out the house tomorrow and decide then.
+Speaker2: Okay, no problem. See you tomorrow.
+Speaker1: See you tomorrow.

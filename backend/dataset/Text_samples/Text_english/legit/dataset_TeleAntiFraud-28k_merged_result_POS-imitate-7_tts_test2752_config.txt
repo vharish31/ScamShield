@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you little king?
+Speaker1: Yes, I am. Who are you?
+Speaker2: I'm old Li, remember, the last time we ate dinner together.
+Speaker1: Hey, old Li, long time no see, how have you been lately?
+Speaker2: Alright, I just changed jobs recently, it's pretty busy. How about you?
+Speaker1: Yeah, I've been working a lot lately. Hey, do you have any free time this weekend? There's a new restaurant that's pretty good, want to go or not?
+Speaker2: Great, I'm also thinking of finding a chance to relax. What time do we meet?
+Speaker1: Let's meet at 11:30 in the morning. The restaurant is near the park, and the environment is good.
+Speaker2: Okay, I know the park, so we won't see each other again.
+Speaker1: Okay, see you later.

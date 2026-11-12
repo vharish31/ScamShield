@@ -1,0 +1,11 @@
+Speaker2: Hey, how are you? What's up?
+Speaker1: That's it, I saw that phone in your store yesterday and wanted to know more about it.
+Speaker2: Okay, that phone is our best-selling product. What information do you want to know about it?
+Speaker1: The main thing is configuration and price, and also whether there is any promotion activity now.
+Speaker2: This phone has a high-performance Qualcomm Snapdragon 8-core processor, 6.4GB of RAM, 128GB of storage, a 4,800mAh battery that supports fast charging, and costs ¥3,999.
+Speaker1: Wow, the configuration is quite high, is there any activity now?
+Speaker2: Yes, now you can buy and get a discount of 200 yuan, and also get a new phone case.
+Speaker1: That's quite reasonable, I want to ask, if I buy it, how long will it be delivered?
+Speaker2: We ship today, usually it takes 2 days to arrive in the Jiangsu, Zhejiang, and Shanghai areas, and it may take 3 to 5 days in other areas.
+Speaker1: Okay, I'll place the order now, thank you for your detailed introduction.
+Speaker2: You're welcome, feel free to ask any questions at any time, happy shopping.

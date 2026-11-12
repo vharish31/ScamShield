@@ -1,0 +1,8 @@
+Speaker1: Hey, how are you? I'm little Li, I want to make a hair appointment, do you have any time on your side?
+Speaker2: Hello, Small Li, I am the Little Wang of the hair salon, what time slot do you want to book?
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Is three in the afternoon okay? That time slot is quite tight, are you sure you can make it on time?
+Speaker1: Sure, I can definitely make it.
+Speaker2: Okay, I'll schedule a meeting with you tomorrow at 3 PM. Please bring your ID, so we can verify your identity.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow, be careful on the road.

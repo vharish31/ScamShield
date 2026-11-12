@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can I make a hair appointment with your service?
+Speaker2: Sure, we provide appointment service. What time would you like to make an appointment?
+Speaker1: Can I make a reservation for Saturday afternoon at 3 PM?
+Speaker2: Saturday afternoon at 3 pm is fine. Please provide your name and contact info so we can record it.
+Speaker1: Okay, my name is Li Ming, phone number is 13801380138.
+Speaker2: Okay, Mr. Li, we have already reserved a haircut for you on Saturday afternoon at 3 pm. We will call you to confirm beforehand.
+Speaker1: Okay, thank you.
+Speaker2: No problem, if you have any other questions, feel free to consult anytime. Goodbye.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I'm small Zhang, we are customer service representatives of XX e-commerce platform, regarding the products you bought recently, we found some issues need to be confirmed with you.
+Speaker2: Hello, what's up?
+Speaker1: We suspect that your order may have been misoperated, causing you to miss out on the discount you should have received. To compensate you, we need you to cooperate with a simple process.
+Speaker2: Okay, then what should I do?
+Speaker1: First, click the link I sent you to our official customer service page, and then follow the instructions.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, in addition, to ensure your account safety, we recommend downloading our latest official app, which has many new discount activities.
+Speaker2: Do you want to download the app? Is it necessary?
+Speaker1: Yes, this is to ensure your information is safe and using the app is more convenient and quick.
+Speaker2: Okay, let me try.
+Speaker1: Great! If you encounter any issues during the operation, feel free to contact me anytime. I wish you a happy use!

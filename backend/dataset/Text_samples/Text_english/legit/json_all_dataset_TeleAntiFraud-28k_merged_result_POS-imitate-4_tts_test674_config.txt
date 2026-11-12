@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm Xiaoming, can I reserve a private room at your restaurant?
+Speaker2: Hello, Xiao Ming, I am server Wang Xiao. We have private rooms here, what time would you like to reserve?
+Speaker1: I'd like to make a reservation for this weekend at six o'clock in the evening for about six people.
+Speaker2: Okay, this time slot for the private room is bookable. Do you have any specific dietary requirements or foods you dislike?
+Speaker1: We have a friend who doesn't eat spicy, the others have no special requirements.
+Speaker2: Understood, we will prepare special non-spicy dishes for you. Do you need any other help?
+Speaker1: Could you please prepare tea and water in advance if there is a private room?
+Speaker2: Of course, we will prepare tea and water in advance, to ensure you enjoy it as soon as you arrive.
+Speaker1: Okay, can I arrive ten minutes early?
+Speaker2: No problem, we will keep your room. Please relax, when you arrive on the third floor, we will have a service guide you.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: You're welcome. I'm looking forward to your arrival. Goodbye.

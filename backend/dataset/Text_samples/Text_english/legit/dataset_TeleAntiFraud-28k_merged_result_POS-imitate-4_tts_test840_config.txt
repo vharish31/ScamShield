@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang. What's up with the stuff I bought on your platform not arriving yet?
+Speaker2: Hello, little Zhang, I am customer service Li, your purchased products are being shipped, usually it takes three to five working days to arrive.
+Speaker1: Can I return the electronic product I bought last time?
+Speaker2: If your order contains items that have not been opened within 7 days, you can apply for a no-reason return or exchange. You can log in to your account, go to the order details page, and click on the "Apply for Return" button.
+Speaker1: Okay, I'll try. Got it, what is your customer service phone number?
+Speaker2: Our customer service hotline is 400123456, any questions can be called this phone to contact us.
+Speaker1: If I encounter issues, should I directly contact your customer service or find a delivery person to solve them?
+Speaker2: If you encounter any issues, please directly contact our customer service, and we will help you coordinate a solution. If it's a delivery issue, we will also help you contact the delivery person.
+Speaker1: I understand, thank you for your help, little Li.
+Speaker2: You're welcome, Xiao Zhang. If you have any other questions, please feel free to contact us anytime. Wishing you a happy life.

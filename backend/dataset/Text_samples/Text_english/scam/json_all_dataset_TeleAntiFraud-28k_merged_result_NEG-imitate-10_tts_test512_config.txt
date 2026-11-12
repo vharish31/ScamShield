@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative from the middle, the product you bought on our platform has some issues, and you need a refund.
+Speaker2: Oh, really? Then what do we do now?
+Speaker1: To ensure your funds are safe, we need your bank card number and verification code. We will directly refund your money to your bank account.
+Speaker2: Okay, I understand. My credit card number is 1234567890123456.
+Speaker1: Okay, we have recorded it down. Later you will receive a verification code, please tell me the verification code to complete the refund.
+Speaker2: Okay, I'll be right back.
+Speaker1: Okay, to speed up processing speed, you can click this link to download our official app, which is more convenient.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Hello, please log in and verify your identity after downloading is complete. We will process your refund quickly.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, can I check if my appointment for tomorrow is still valid?
+Speaker2: Hello, Xiaoming, wait a moment, I check the system.
+Speaker1: Okay, can you check it out? And by the way, if it's effective, what time do you think I should arrive?
+Speaker2: Found it, your appointment is valid, suggest you come at 10 am tomorrow morning, this way there's more time.
+Speaker1: That's great, thank you, is there anything else I need to confirm, what documents do I need to bring?
+Speaker2: Bring your ID and the phone number provided at the appointment time.
+Speaker1: Okay, I will prepare my ID and phone number. Also, I am coming here for the first time, can you tell me the address again?
+Speaker2: Of course, our address is Shanghai city Xiang'an quan nan jing xi lu yī er sān zhōu, dìtiān liǎn yī liàn xiàng jiāng xi lu yī er sān zhōu, dìtiān liǎn yī liàn xiàng jiāng xi lu yī er sān zhōu, dìtiān liǎn yī liàn xiàng jiāng
+Speaker1: Okay, I know, metro line 2 and 7, South Jinjiang West Road station. Thank you very much for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, be careful on the road.

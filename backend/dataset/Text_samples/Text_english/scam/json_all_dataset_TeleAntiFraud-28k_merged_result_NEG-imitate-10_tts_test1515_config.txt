@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the AliExpress customer service center, I'm small Zhang, you may have quality issues with the recent products you bought on our platform, we need to handle it for you.
+Speaker2: Oh, really? What did you buy recently? What's the problem?
+Speaker1: Your order number is 888888, we found a battery issue with this phone, for your safety, we need to process a refund for you.
+Speaker2: Okay, how do I operate it?
+Speaker1: You need to download our official app first, then follow the instructions, so you can complete the refund quickly.
+Speaker2: Download the app? How do I download it?
+Speaker1: You can download it through this link. I'll send you a short message later with a download link, just click on the link to download it.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the message will be sent to you shortly, download it and log in to your account, follow the instructions to operate it.
+Speaker2: Okay, thank you for your help.

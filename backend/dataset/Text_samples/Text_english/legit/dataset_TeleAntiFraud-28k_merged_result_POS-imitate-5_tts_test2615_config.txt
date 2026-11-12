@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I reserve a seat for 7 pm tomorrow night?
+Speaker2: Of course, how many would you like to reserve?
+Speaker1: Two people, I and my friend want to go to your restaurant to try the new dishes you've introduced.
+Speaker2: Okay, the two seats are reserved for you, the new menu items are really popular.
+Speaker1: Great, let's plan to arrive at six and a half, is that okay?
+Speaker2: 6:30 is fine, we'll be ready before you arrive.
+Speaker1: Okay, thank you. And we need a quiet place, can we arrange it?
+Speaker2: Sure, we will arrange a quiet, window-facing spot for you.
+Speaker1: Thank you very much, let's see each other tomorrow!
+Speaker2: See you tomorrow, I'm looking forward to your arrival, wish you a happy day!

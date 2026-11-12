@@ -1,0 +1,10 @@
+Speaker1: Hello, you, I am small Li, I am at the exit of the subway station waiting for you.
+Speaker2: Little Li, I saw you, which exit are you at?
+Speaker1: I'm at the north exit, you can see me when you come out, I'm holding a sign.
+Speaker2: Okay, I'll go to the north exit, you wait for me a moment.
+Speaker1: Okay, you can come slowly, I'll be waiting for you here.
+Speaker2: I saw you at the north exit, you were wearing red clothes, right?
+Speaker1: Okay, I'm wearing red clothes, you come over here.
+Speaker2: Okay, I'll go over there.
+Speaker1: You're here, everything's ready, let's go.
+Speaker2: Okay, let's go. The weather is good today, perfect for a trip.

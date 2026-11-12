@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I just reserved a table at your store around 7 pm tonight, can you confirm the reservation information?
+Speaker2: Hello, Mr. Li, we have recorded your reservation here, 7 pm tonight, okay?
+Speaker1: Okay, please confirm the table number and number of people.
+Speaker2: Okay, your reservation is for table four, which can seat four people. If there are any changes, we will contact you in advance.
+Speaker1: Okay, thank you. Is there a free parking spot available at your store?
+Speaker2: Yes, there is a parking lot behind our store. Customers who have made reservations can park for free. Remember to tell the security guard you are coming to our store when parking.
+Speaker1: I understand. What are your recommended dishes?
+Speaker2: Our store's signboard menu has steamed fish, stir-fried pork, and deep-fried frog, all of which are very popular, you can choose according to your preference.
+Speaker1: Everything sounds great, I'll try it later. Thank you for your detailed introduction.
+Speaker2: You're welcome. If you need help in other places, please feel free to consult anytime. We're looking forward to your visit.

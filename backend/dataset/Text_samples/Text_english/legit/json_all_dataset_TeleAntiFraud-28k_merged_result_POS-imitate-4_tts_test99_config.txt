@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to know what lunch set menu options do you have?
+Speaker2: Hello, we have various dishes here, including beef stir-fry set meal, chicken and egg fried rice set meal and vegetable stir-fry noodle set meal, each set meal contains a small dish and a bowl of soup, which one do you like?
+Speaker1: What's the price?
+Speaker2: The beef and broccoli stir-fry set meal is 35 yuan, the chicken and mushroom stir-fry set meal is 30 yuan, and the vegetable stir-fry set meal is 25 yuan.
+Speaker1: Okay, I prefer to have a vegetable stir-fry with rice noodles, when do you guys start business?
+Speaker2: We open shop from 11 am to 9 pm, you can come to use food anytime.
+Speaker1: Can I go back now?
+Speaker2: Of course, since there aren't many people now, it should be possible to directly arrange seats.
+Speaker1: Okay, I'll be there in about twenty minutes. Can you reserve a spot for me?
+Speaker2: Okay, no problem, just come directly at the time and we will prepare a place for you.
+Speaker1: Thank you, see you then.
+Speaker2: No problem, see you later, wish you enjoy your meal.

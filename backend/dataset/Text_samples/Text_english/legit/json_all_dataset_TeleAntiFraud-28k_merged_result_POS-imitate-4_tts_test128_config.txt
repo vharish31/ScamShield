@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I want to inquire about your family's hair salon appointment service.
+Speaker2: Hello, I am a customer service representative. What can I help you with?
+Speaker1: Can I make an appointment to cut my hair at this time, what's the earliest time you have available here?
+Speaker2: Okay, let me check, what date do you want to make a reservation for now?
+Speaker1: It's best if it's tomorrow. If tomorrow doesn't work, then the next day is also okay.
+Speaker2: What time do you think is suitable for tomorrow morning at 11am, afternoon at 3pm, or the whole day tomorrow?
+Speaker1: I'll schedule a meeting for tomorrow morning at 11:00.
+Speaker2: Okay, tomorrow morning at 11am, we'll be waiting for you here. Do you need me to record your contact information?
+Speaker1: Please, my phone number is 131234567.
+Speaker2: Okay, I've recorded it down. See you tomorrow!
+Speaker1: Okay, see you tomorrow, thank you.

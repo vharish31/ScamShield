@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, I heard there are new phones in stock here, can I ask for some advice?
+Speaker2: Hello, Xiao Ming, welcome to consult. We just got a new batch of phones here, which one do you want to know about?
+Speaker1: What's the price of the latest iPhone?
+Speaker2: We have the latest Apple iPhone in stock here, priced at 6800 yuan, and now you can buy it and enjoy interest-free installment payments.
+Speaker1: How do I operate the installment payment?
+Speaker2: You can choose to pay in three, six, or twelve periods, the amount for each period will be calculated based on the period you choose, the operation is very simple, just select the option for installment payment during purchase and follow the instructions.
+Speaker1: If I were to go back in time, would I be able to directly process installment payments?
+Speaker2: Of course, our store supports on-site installment payments, just bring your ID and bank card over.
+Speaker1: Okay, I'll be around in the afternoon, what time do you guys close shop?
+Speaker2: Our store's business hours are from 9am to 9pm, and it's fine to come in the afternoon.
+Speaker1: Okay, I'll go at 3 pm. Thank you for your help.
+Speaker2: You're welcome, little Ming, welcome to come, see you later!

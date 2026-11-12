@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you little Li?
+Speaker1: Yes, it's me. I saw that your community's swimming pool is open now, and I want to know the specifics.
+Speaker2: Okay, the swimming pool just opened recently, it's open from 9am to 9pm every day.
+Speaker1: How much does it cost?
+Speaker2: Adults pay 30 yuan, children pay 15 yuan, and there are also monthly and yearly cards to choose from.
+Speaker1: What is the price of monthly and yearly cards?
+Speaker2: Month cards are 300 yuan, year cards are 1800 yuan, year cards are a bit more cost-effective.
+Speaker1: Okay, I understand. How is the water quality in the swimming pool?
+Speaker2: We conduct daily water quality tests and cleaning to ensure water safety and health, you can rest assured to use it.
+Speaker1: That's great, I plan to take the kids on a weekend outing, see you later.
+Speaker2: Okay, see you this weekend, wish you all have fun. Bye.
+Speaker1: Goodbye.

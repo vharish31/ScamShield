@@ -1,0 +1,11 @@
+Speaker2: Hey, is there anything I can help you with?
+Speaker1: Can you introduce me to the coffee machine in your store?
+Speaker2: Of course, this coffee machine is the latest model, the operation is simple, and there are multiple coffee modes to choose from.
+Speaker1: How much does this coffee machine cost?
+Speaker2: This coffee machine is priced at 3,800 yuan, and we also offer one year of free warranty service.
+Speaker1: Hey, I'm a bit short on funds lately, is it possible to pay in installments?
+Speaker2: Yes, we support installment payments, with a maximum of twelve installments, with the first payment being thirty percent.
+Speaker1: What materials do I need to prepare?
+Speaker2: You just need to provide your ID and bank card info, and we'll approve it after review, then you can do the installment.
+Speaker1: Okay, I'll think about it, thank you for your help.
+Speaker2: You're welcome. If you have any questions, feel free to consult anytime.

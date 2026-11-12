@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiaoming, recently I want to renovate my house, want to know more about your decoration service.
+Speaker2: Hello, Xiao Ming, I am Zhang from the decoration company's customer service, we provide comprehensive decoration services, including design, construction, material procurement, etc., do you have any specific needs?
+Speaker1: I plan to start renovating next month. I want to first understand the process and approximate costs.
+Speaker2: Okay, we usually arrange for the designer to come to the site first, based on your requirements, to design a decoration plan, and then give a detailed quote. You can schedule a time, and we'll send someone over.
+Speaker1: How long will it take to complete the quantity survey and design?
+Speaker2: A typical quantity survey takes about half a day, and designing the drawings and submitting the bid usually takes about a week.
+Speaker1: Can you arrange something for me in early next month?
+Speaker2: Sure, I can help you schedule a time, if you could provide a specific date and time.
+Speaker1: Let's choose the 5th of next month at 10 am.
+Speaker2: Okay, on May 5th at 10am, I will arrange for the designer to arrive on time at your home. Is there anything that needs to be prepared in advance?
+Speaker1: No more, thank you.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. Have a great day!

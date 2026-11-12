@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, recently I want to buy a new phone, do you have any recommendations here?
+Speaker2: Hello, Mr. Li, I am Zhang from the customer service of the electronic mall. I am very happy to serve you. What special requirements do you have for the phone you want? For example, budget, brand or function?
+Speaker1: Hmm, I'm thinking of spending around three thousand, I don't have any specific brand preference, but I want the battery life to be a bit stronger and the performance to be better, just for some gaming.
+Speaker2: Okay, based on your requirements, I recommend you consider our recently popular new brand smartphone with a large battery capacity and the latest processor, which is great for gaming use.
+Speaker1: Does this phone have any in-stock now?
+Speaker2: The phone stock is sufficient at the moment, you can directly order and buy. If you order now, we can also provide you with a free phone protection membrane and phone case.
+Speaker1: That's great, I just placed an order. By the way, I bought some stuff from you guys before, sometimes delivery can be a bit slow, is it faster this time?
+Speaker2: Please rest assured, we will prioritize processing your order first and ensure it arrives at your hands as soon as possible. We estimate that it will take three days to deliver after placing the order, is that okay with you?
+Speaker1: Okay, thank you for your recommendation and service, I'll place an order now.
+Speaker2: You're welcome! Feel free to contact us anytime if you have any questions. Have a great shopping experience!

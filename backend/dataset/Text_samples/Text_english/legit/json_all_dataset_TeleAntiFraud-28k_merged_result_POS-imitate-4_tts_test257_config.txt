@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiao Ming, I saw a smartwatch on your website, want to know more about it?
+Speaker2: Hello, Xiao Ming, I am customer service representative Zhang, what can I help you with?
+Speaker1: How long does the battery of this watch last?
+Speaker2: This smartwatch's battery life is approximately one week, and it doesn't need frequent charging when used normally.
+Speaker1: What health monitoring functions does this watch support?
+Speaker2: It supports heart rate monitoring, blood pressure monitoring, sleep quality analysis, and step count tracking among multiple health monitoring functions.
+Speaker1: The watch sounds great, can you tell me the price?
+Speaker2: This watch is currently priced at 999 yuan, and we have a limited-time promotion going on. You can check out the details on our website.
+Speaker1: Okay, thank you for your help. Can you tell me approximately how long your delivery time is?
+Speaker2: We usually ship within 24 hours after ordering, and in general, delivery time in most areas of China is 3 to 5 days.

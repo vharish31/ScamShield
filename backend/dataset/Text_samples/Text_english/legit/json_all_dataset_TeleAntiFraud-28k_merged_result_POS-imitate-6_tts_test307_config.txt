@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how can I help you?
+Speaker1: I'd like to know more about your new phones, I'm planning to buy a new one.
+Speaker2: Okay, we recently released several new phones with different brands and models. You can first tell me your approximate budget and main use, and I can recommend some options for you.
+Speaker1: My budget is around three thousand yuan, mainly for surfing the net and taking photos.
+Speaker2: I recommend a high-value phone with a high-resolution camera and fast internet speed, which is perfect for you.
+Speaker1: Okay, what specific model is this phone?
+Speaker2: This phone is the new model of XX brand, it's available in our store now, you can come to our store to have a look anytime.
+Speaker1: I'll probably have some time in the afternoon tomorrow, can I go take a look?
+Speaker2: Okay, our store is open in the afternoon tomorrow. What time do you think you'll come?
+Speaker1: You can arrive around 2 o'clock.
+Speaker2: Two o'clock, okay, I'll be here waiting for you at that time. You can call me ahead if you have any questions.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: Hey, see you tomorrow, be careful on the road.

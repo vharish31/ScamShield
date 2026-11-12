@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Lee Ming. I saw your pet store on your website yesterday and I want to know more about the prices and varieties of cat products.
+Speaker2: Hello, Li Ming, I am the customer service staff at the pet store, Zhang. I am very happy to serve you. We have a variety of cat breeds here, including short-haired and long-haired, and their prices differ.
+Speaker1: How much does a short-haired dog cost?
+Speaker2: The short-haired cat's price varies depending on its health status and bloodline, generally between 3,000 to 5,000 yuan.
+Speaker1: Oh, this way. Do you have any cats that have already been vaccinated?
+Speaker2: Yes, our store's cat is fully vaccinated before being put on sale, you can rest assured to choose.
+Speaker1: Can I go see it this afternoon?
+Speaker2: Of course, our store is open from 3 pm to 6 pm in the afternoon. You can come during that time slot.
+Speaker1: Okay, I'll probably be there around four o'clock.
+Speaker2: Okay, we'll be waiting for you at the store at four o'clock. We hope you can find your ideal friend. Goodbye!

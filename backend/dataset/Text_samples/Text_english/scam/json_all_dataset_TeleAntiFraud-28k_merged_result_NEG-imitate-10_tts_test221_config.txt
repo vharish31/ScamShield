@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, did you recently buy a piece of clothing on Taobao?
+Speaker2: Yes, what's the problem?
+Speaker1: Oh, that's great! I'm a customer service representative from Taobao, we found that your clothes were lost during transportation, but don't worry, we can handle a refund on this end.
+Speaker2: Really? Thank you so much.
+Speaker1: No thanks, to quickly process the refund, can you first download our special refund app, so it can be processed faster.
+Speaker2: Okay, what's the name of the app?
+Speaker1: Search for "Extreme Refund Assistant", download and install it, enter your order number and bank card information, and we can process it immediately.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, download it and operate it quickly after completion. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you.

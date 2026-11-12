@@ -1,0 +1,9 @@
+Speaker2: Hello, this is Cloud Top Restaurant.
+Speaker1: Hello, do you have a vegetarian set meal?
+Speaker2: Yes, we have many vegetable set meals. Which one do you want to know about?
+Speaker1: That dish with tofu and green vegetables.
+Speaker2: You are talking about our clear and simple vegetable set meal, which includes tofu, green vegetables and a bowl of soup, priced at 35 yuan.
+Speaker1: Is this dish suitable for dining in?
+Speaker2: Okay, what time do you want to come?
+Speaker1: What about around 1:30 PM? Are there any issues?
+Speaker2: No problem, welcome you to come for dinner later.

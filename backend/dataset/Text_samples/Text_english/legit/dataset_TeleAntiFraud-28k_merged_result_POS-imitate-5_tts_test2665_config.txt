@@ -1,0 +1,9 @@
+Speaker1: Hey, how do I get to that new coffee shop on Xin Street?
+Speaker2: Hello, after exiting the subway station, walk approximately 100 meters to the left, and you will see a large shopping mall, the coffee shop is on the first floor of the mall.
+Speaker1: Is the first floor of the mall? Then I should enter from which door?
+Speaker2: You can enter from the main entrance, walk straight ahead after going in, the coffee shop is on the right, very visible.
+Speaker1: What time does the coffee shop open?
+Speaker2: The coffee shop's business hours are from 8 am to 10 pm. You should have gone earlier.
+Speaker1: Thanks for your help! I'll go now.
+Speaker2: No problem, hope you have a happy time there. Bye!
+Speaker1: Goodbye!

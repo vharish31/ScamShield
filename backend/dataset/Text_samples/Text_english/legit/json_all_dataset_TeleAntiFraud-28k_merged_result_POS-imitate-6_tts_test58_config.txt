@@ -1,0 +1,10 @@
+Speaker1: Hello, can you tell me about your restaurant's special dishes?
+Speaker2: Hello, our restaurant's signature dishes include the famous spicy pork, the steamed fish with clear broth, and the fragrant mushroom and spinach, all of which are highly praised by our customers.
+Speaker1: How much do these dishes cost?
+Speaker2: The red-braised pork is 60 yuan per portion, the steamed fish with ginger and scallions is around 100-150 yuan depending on size, and the stir-fried with ginger and scallions is 30 yuan per portion.
+Speaker1: Okay, I want to reserve a four-person seat, time is Saturday evening at 7 o'clock, can I?
+Speaker2: Is that okay? Can you reserve a four-person spot for me on Saturday night at seven o'clock? Do I need to pay a deposit in advance?
+Speaker1: Do you need to pay a deposit?
+Speaker2: To ensure your seat, we recommend paying a 50 yuan deposit, which can be deducted from your bill after dining.
+Speaker1: Okay, I agree to pay the deposit. Do you accept WeChat payment?
+Speaker2: Of course, you can scan our QR code for payment, please note your name and scheduled time during payment.

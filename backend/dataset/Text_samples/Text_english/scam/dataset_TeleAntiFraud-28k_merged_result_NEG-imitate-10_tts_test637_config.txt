@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm a customer service representative from Commercial Bank, my name is Zhang. Our bank recently launched a special discounted loan product. Would you like to know more about your loan needs?
+Speaker2: Oh, temporarily no need for this, thank you.
+Speaker1: Okay, let me introduce you to our bank's credit card service. Applying for a credit card entitles you to many discounts, such as cashback and point redemption. Are you interested?
+Speaker2: Okay, let's understand it.
+Speaker1: Great, I'll send you a link, just click it to apply online, very convenient.
+Speaker2: Okay, can you send me the links?
+Speaker1: Okay, just a moment, I'll send it to you now. Alright, to ensure your information security, you need to input your bank card number and verification code after clicking the link, this step is to verify your identity, don't worry about it.
+Speaker2: Okay, I understand.

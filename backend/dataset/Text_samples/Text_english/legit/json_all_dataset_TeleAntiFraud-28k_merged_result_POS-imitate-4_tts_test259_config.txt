@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, what's the name of the menu at your store?
+Speaker1: Hello, our store's signboard menu is red braised pork and steamed fish, very popular among customers.
+Speaker2: How much does that cost?
+Speaker1: Red braised pork is 38 yuan per portion, steamed fish is 60 yuan per fish.
+Speaker2: Okay, I plan to come at six o'clock in the evening. Do I need to make a reservation?
+Speaker1: No problem, but if you have special requirements, like a private room, it's best to let me know in advance.
+Speaker2: Then I'll just go directly, maybe I'll bring a couple of friends later.
+Speaker1: Okay, welcome to bring your friend along, I will prepare a place for you.
+Speaker2: Thank you, see you later.
+Speaker1: No problem, see you tonight.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager of a Chinese bank, I have a special promotion credit loan, monthly interest only 0.02 yuan, are you interested in learning more?
+Speaker2: Hello, how do I operate the two cents interest?
+Speaker1: It's very simple. Just provide some basic personal information, and we can open this service for you.
+Speaker2: What do I need to prepare?
+Speaker1: Just prepare your ID and bank card, add my WeChat, I'll send you a link, you click the link and fill out the info.
+Speaker2: Okay, let me add you on WeChat.
+Speaker1: Great, my WeChat is zhangsan123, add me, I'll send you the link right away.
+Speaker2: Okay, I'll add up.
+Speaker1: After adding, remember to tell me once, I will immediately send you the information.
+Speaker2: Okay, I understand, thank you.

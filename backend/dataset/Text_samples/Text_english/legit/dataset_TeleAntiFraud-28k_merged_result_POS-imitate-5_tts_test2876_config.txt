@@ -1,0 +1,10 @@
+Speaker1: Hey, are you free today?
+Speaker2: What's up?
+Speaker1: Can you accompany me to check out the new phone today?
+Speaker2: Sure, where are you? I went to pick you up.
+Speaker1: I'm at home now, come over, my home is right on that big road.
+Speaker2: Okay, I'll leave now, should be there in about twenty minutes.
+Speaker1: Okay, I'll wait for you. I'll prepare some stuff for going out.
+Speaker2: Okay, be careful on the road, see you later.
+Speaker1: See you later.
+Speaker2: I'm calling you now.

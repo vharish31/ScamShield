@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me if there are any new hybrid cars here, especially the Ford electric cars?
+Speaker2: Yes, we have a Fukuda electric car here, the range is not bad.
+Speaker1: How many kilometers can the longest flight last?
+Speaker2: The maximum range is 310 kilometers, the battery capacity is 50 degrees.
+Speaker1: Is there a longer range car type?
+Speaker2: Currently, this is the longest range car model. However, it is predicted that there will be a new model released in four to five months, with a range of four hundred kilometers and an increased battery capacity of sixty degrees.
+Speaker1: When will the new product be in store?
+Speaker2: The new car is expected to be available in stores by the end of April. You can come to the store to take a look or make an appointment to test drive it in advance.

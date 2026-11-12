@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: I'm from Xiǎn dà kǎo chē rù zhù xiāng gōng sī, nǐ zhù xiào yào yào wǒ de wǒ de rù chē fú wù, jīntiān xiǎo qíng yī xiàng
+Speaker2: Oh, okay, I really did make a reservation. My schedule hasn't changed, I'm still following the original plan.
+Speaker1: Okay, our vehicle will arrive at the designated time, the location is Xiāng huì dà shāng, right?
+Speaker2: Yes, the Star Hotel. But I might be late, probably around ten minutes or so.
+Speaker1: No problem, we will wait for you. By the way, your reserved car type is SUV, suitable for long-distance travel.
+Speaker2: Great, that car is perfect for our trip. Thank you for reminding me.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Have a great trip!
+Speaker2: Thank you, goodbye!

@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer manager of China Construction Bank, Lee Huai.
+Speaker2: Hello, who are you?
+Speaker1: I am Lee Huang, the customer manager of China Information Bank. We noticed that you are one of our bank's high-quality customers, and now there is a special loan discount available. Would you be interested in learning more about it?
+Speaker2: Loan? I don't need it now.
+Speaker1: This loan product is very flexible, no collateral, no guarantee, and the approval is quick, the interest rate is low. Just need to provide some basic information, we can quickly process it for you.
+Speaker2: Is it really that convenient?
+Speaker1: Yes, it's really convenient. Just scan the QR code I gave you, download our app, fill out the information, and you'll complete the application.
+Speaker2: QR code? Your bank's app?
+Speaker1: Yes, that's our official app. After you download it, I will guide you on how to use it.
+Speaker2: Okay, let me try.

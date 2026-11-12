@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Li, do you guys have an electric toothbrush over there?
+Speaker2: Hello, little Li, do you want to know which brand of electric toothbrush we have here?
+Speaker1: Do you have any Flyer products?
+Speaker2: Yes, Philips Sonicare has multiple models of electric toothbrush, do you have any special requirements for battery life?
+Speaker1: It's best to use it within a week or so, and it needs to charge faster.
+Speaker2: Okay, we have a Philips HX6807 that can last up to two weeks on battery and only takes twenty-four hours to charge.
+Speaker1: How much does this toothbrush cost?
+Speaker2: The price of the Philips Sonicare HX6807 electric toothbrush is 599 yuan.
+Speaker1: Can I pay on delivery?
+Speaker2: Is it okay, do we support cash on delivery? Do you need to order now?
+Speaker1: Okay, I placed the order, when can you deliver it?
+Speaker2: In general, we will arrange delivery within 24 hours after ordering, and your location can receive it in about 2-3 days.

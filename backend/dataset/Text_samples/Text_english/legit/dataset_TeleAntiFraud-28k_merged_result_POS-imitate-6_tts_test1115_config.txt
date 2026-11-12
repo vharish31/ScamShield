@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am customer service Li from the point store, we see that you have a lot of points in your account that have not been used yet.
+Speaker2: Oh, really? I didn't know there were points that could be exchanged?
+Speaker1: Yes, your points can be used to exchange many products, such as electronic products and daily necessities.
+Speaker2: How do I check my points?
+Speaker1: You can log into our point store, enter your phone number and verification code, and then you can see your points.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact our customer service at any time.
+Speaker2: Thank you, I will try to see.

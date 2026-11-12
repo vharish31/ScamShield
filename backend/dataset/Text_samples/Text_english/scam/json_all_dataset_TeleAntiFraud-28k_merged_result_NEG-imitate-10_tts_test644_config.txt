@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Lee Huai, a financial advisor from a consulting company in Shanghai.
+Speaker2: Hello, what can I help you with?
+Speaker1: Have you heard about our company's recent high-yield investment product? It has a monthly return rate of up to 5%, would you like to know more?
+Speaker2: Can you explain investment in detail?
+Speaker1: Of course, this product is specifically designed for customers like you, with low risk and stable returns. If you have time, you can add my WeChat, I will introduce in detail.
+Speaker2: I can add WeChat, but I'm still a bit worried about online investment.
+Speaker1: I completely understand your concerns. You can first get a basic understanding of the situation through WeChat, and if you find it suitable, we can further communicate.
+Speaker2: Okay, let me add you on WeChat.
+Speaker1: Great, my WeChat number is LH123456. Add me and put your name in the remark.
+Speaker2: Okay, I'll add you soon.

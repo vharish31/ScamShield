@@ -1,0 +1,14 @@
+Speaker2: Hey, what's up?
+Speaker1: Are you looking for a housekeeping service on that side?
+Speaker2: Yes, we recently need housekeeping service, what do you think?
+Speaker1: I am a customer service representative from a certain government company. We can provide cleaning, cooking, and maintenance services. What specific assistance do you need?
+Speaker2: Cleaning service, once a week, best on Friday and Sunday.
+Speaker1: Okay, what time works for you? We can charge one hundred yuan per hour. Is that suitable for you?
+Speaker2: How much do you think is reasonable for the price, and how many days in advance do you need to notify us for each appointment?
+Speaker1: Please contact us before the service the day before at 10 am to confirm, so we can ensure timely service.
+Speaker2: Okay, I will pay attention, what is the appointment method?
+Speaker1: You can book through our customer service hotline or WeChat mini program, very convenient.
+Speaker2: Okay, I'll add your WeChat mini-program, contact me if you have any questions.
+Speaker1: Okay, thank you for your trust, please feel free to contact us anytime if you have any questions.
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye.

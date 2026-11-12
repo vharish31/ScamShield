@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What can I help you with?
+Speaker1: Can I consult your restaurant's special dishes, please?
+Speaker2: Of course, our restaurant has many special dishes, such as steamed fish, stir-fried pork, and spicy chicken wings. Do you have any taste preferences?
+Speaker1: I want to try your steamed fish, I heard it's very good.
+Speaker2: Yes, we use fresh fish for our steamed fish, with secret seasoning, the taste is very fresh and delicious.
+Speaker1: Sounds great. Are you open for business today?
+Speaker2: We are open every day from 11 am to 9 pm.
+Speaker1: Do I need to make a reservation in advance if I want to go out at seven tonight?
+Speaker2: It's recommended to book in advance, especially on weekends and holidays, as there are more customers. You can book through phone or our website.

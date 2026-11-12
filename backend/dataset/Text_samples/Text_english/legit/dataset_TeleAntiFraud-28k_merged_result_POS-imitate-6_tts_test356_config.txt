@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm Lee Huai, looking for a shared rental house.
+Speaker2: Hello, Lee Huang, I am landlord Xiao Wang, are you looking for a roommate?
+Speaker1: Yes, my mother lives alone and wants to find a suitable house.
+Speaker2: Hey, is your mom looking for a one-room or two-room apartment?
+Speaker1: A one-room one-living-room apartment is fine, as long as there's an elevator and the north-facing room.
+Speaker2: Okay, this house has one room and one living room, has an elevator, faces south, and the condition is good.
+Speaker1: Can you cook? Is there a shared kitchen?
+Speaker2: You can cook, there's a shared kitchen, and a shared bathroom.
+Speaker1: Can I go over there tomorrow?
+Speaker2: Sure, what time is convenient for you tomorrow?
+Speaker1: I have some free time in the afternoon around two o'clock tomorrow.
+Speaker2: Okay, tomorrow afternoon at two o'clock, I'll be waiting for you at home.

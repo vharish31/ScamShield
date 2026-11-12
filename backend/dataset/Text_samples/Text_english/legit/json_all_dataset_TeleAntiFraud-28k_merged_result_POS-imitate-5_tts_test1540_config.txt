@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I recently want to change my phone, I saw your online activity, want to consult.
+Speaker2: Hello, I am customer service king, very happy to serve you. What special needs do you have for your phone? Like brand, price range or features.
+Speaker1: Hmm, I'm quite concerned about battery life and camera functionality. My budget is roughly between two and three thousand.
+Speaker2: Okay, based on your requirements, we have several phone models that can recommend to you. One is brand A's latest model, which has a large battery capacity and high camera pixel, and is very suitable for photography; the other is brand B, which has a high price-to-value ratio and good user reviews.
+Speaker1: What are the prices of these two phones respectively?
+Speaker2: The active price of the phone from brand A is 2800 yuan, and the active price of the phone from brand B is 2300 yuan. You can also enjoy extra discounts when you place an order now.
+Speaker1: Okay, can you give me detailed information about Brand B's this phone, including configuration and user reviews?
+Speaker2: Of course, I will send the information to your phone. What is your phone number?
+Speaker1: My phone number is 13800008888.
+Speaker2: Okay, the information has been successfully sent. Please pay attention to check it. If there are any other issues, feel free to consult anytime.
+Speaker1: Okay, thank you for your help. I will carefully check it.
+Speaker2: You're welcome! I hope you choose a phone that you like. Goodbye!

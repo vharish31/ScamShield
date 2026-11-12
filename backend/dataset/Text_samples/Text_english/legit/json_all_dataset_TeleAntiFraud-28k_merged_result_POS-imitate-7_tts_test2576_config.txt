@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a server from some restaurant. Can I ask if you are still satisfied with our service and food from the last time you dined at our restaurant?
+Speaker2: Hello, it's okay, just that the jasmine flower is a bit cold.
+Speaker1: I'm truly sorry, our dishes made your dining experience discounted.
+Speaker2: Hmm, that's the only problem with the other stuff being okay.
+Speaker1: Would this be acceptable for you, next time you dine with us, we will provide you with a complimentary menu, as a compensation.
+Speaker2: Okay, then, let's try it next time.
+Speaker1: Great, thank you for your understanding and feedback. By the way, we have a limited time offer. Starting from six o'clock tonight, you can enjoy a 90% discount when dining, don't forget next time.
+Speaker2: Okay, I will pay attention. By the way, do you provide delivery service?
+Speaker1: Yes, you can place an order through our official website or our delivery platform. We provide delivery service.
+Speaker2: That's great, next time I don't want to go out, I'll order takeout from your house.
+Speaker1: Thank you very much, I look forward to your next visit, wish you a happy life. Goodbye.
+Speaker2: Goodbye.

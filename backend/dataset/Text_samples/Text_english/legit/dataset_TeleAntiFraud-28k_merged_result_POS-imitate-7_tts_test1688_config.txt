@@ -1,0 +1,10 @@
+Speaker1: Hello, you.
+Speaker2: Hello, how are you?
+Speaker1: I'd like to consult your hairdressing service.
+Speaker2: Okay, we provide various hair services, including cutting, dyeing and straightening, which one do you need?
+Speaker1: I want to cut my hair short, but I don't know how far in advance I need to make an appointment.
+Speaker2: In general, it's recommended to book a day in advance, so we can ensure the right time is arranged for you.
+Speaker1: Can I come at three in the afternoon tomorrow?
+Speaker2: Okay, tomorrow afternoon at three o'clock, we will reserve a spot for you. Please provide a contact method to confirm the appointment.
+Speaker1: Okay, my phone number is 18600000000.
+Speaker2: Okay, I have recorded it down. See you tomorrow at 3 pm. What other needs can you contact us anytime?

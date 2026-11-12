@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer manager of Guangfa Bank, Zhang Manager. We recently have a low interest loan product, very suitable for you.
+Speaker2: Uh, is that so? I actually need some cash flow recently
+Speaker1: Great, this loan product has a very low interest rate, only needs 2.5%, and the paperwork is easy, and the loan is disbursed quickly.
+Speaker2: How do I apply? It sounds good.
+Speaker1: It's very simple. Just download our app and fill out some basic information to apply.
+Speaker2: Where can I download the app?
+Speaker1: You can click this link to download our official app, it's very safe.
+Speaker2: Okay, I'll give it a try, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. My phone number is 13801380138. Best wishes for your application.

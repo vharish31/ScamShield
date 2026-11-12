@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Do you guys have any new phones?
+Speaker2: Hey, we just got a batch of new phones here, which model do you want to know about?
+Speaker1: What's the price of the latest flagship model?
+Speaker2: The flagship model is currently on sale for 6800 yuan, originally priced at 7600 yuan.
+Speaker1: Is it a full-price purchase? Are there any other discounts?
+Speaker2: When purchasing with full payment, you will receive a set of phone case and screen protector, as well as enjoy one year of extended warranty service.
+Speaker1: Okay, when can I pick up the goods?
+Speaker2: Can you choose between picking up this afternoon or tomorrow morning, which time is more convenient for you?
+Speaker1: Can I meet you at 10 am tomorrow morning?
+Speaker2: Okay, tomorrow morning at 10 am, we will be ready for you.

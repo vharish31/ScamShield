@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Hey, it's me, you?
+Speaker1: Hello, I am a customer service representative from Zhao Shang Yin Hang, I see that you have previously applied for our loan services, do you have any recent funding needs?
+Speaker2: Hey, I recently need some cash flow, do you guys have any discounts?
+Speaker1: This is the case, we have a special loan project recently with a very low interest rate and fast approval speed, which can be approved and paid out on the same day. However, this project must be applied for through our internal app.
+Speaker2: How do you download your app?
+Speaker1: You can scan the QR code I provide or click on the link I send you to download. Fill in the relevant information after downloading and you can apply.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you encounter any issues during the download or application process, feel free to contact me at any time. For ease of communication in the future, would you like to add my WeChat?
+Speaker2: Let's go, send me Wechat.

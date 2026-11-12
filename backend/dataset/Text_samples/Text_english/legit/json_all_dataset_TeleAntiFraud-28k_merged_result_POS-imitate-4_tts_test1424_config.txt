@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am customer service representative Li from Jumei Optimal, I see that you have browsed some skincare products on our website before, do you have any special needs regarding these products?
+Speaker2: Hey, hi, I mainly want to buy some moisturizer, my skin has been dry lately.
+Speaker1: Understood, we have a new product on the market that's great for anti-aging, many users have given good feedback, are you interested in learning more?
+Speaker2: How much does this hydrating mist cost?
+Speaker1: This moisturizer originally costs 288 yuan, but now we have a promotion, only 228 yuan, and you will also get a free sample set.
+Speaker2: How long will it take for the delivery to arrive?
+Speaker1: In general, we will ship within 24 hours after your order, and most regions in China can receive it within 3 to 5 days.
+Speaker2: Okay, I'll think about it, thanks for your recommendation.
+Speaker1: No problem, if you have any questions, please feel free to contact me anytime. I'm looking forward to your order, wish you a happy life!

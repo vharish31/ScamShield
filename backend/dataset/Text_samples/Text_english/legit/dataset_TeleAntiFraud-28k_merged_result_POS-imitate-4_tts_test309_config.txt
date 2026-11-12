@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Lee Ming, your air conditioner seems to have some issues recently, can you send a technician over?
+Speaker2: Hello, Li Ming, what specific issue are you asking about? Can you describe it in detail?
+Speaker1: After the air conditioner started, there was a strange noise, and the cooling effect was not very good.
+Speaker2: Understood, in this situation we can send a handyman over. What is a convenient time for you to have him come over?
+Speaker1: It's best if it's tomorrow morning between 9 and 11 am.
+Speaker2: Okay, we've noted it down. At nine in the morning to eleven in the morning, the teacher will arrive on time. Are there any other things we need to pay attention to?
+Speaker1: No more, thank you. Is it necessary for the master to collect the fee upon entering the door?
+Speaker2: If it's just checking, there's no charge for that. If you need to replace parts, the cost will depend on the specific parts.
+Speaker1: Okay, I'll wait for the master to arrive now. Thank you for your help.
+Speaker2: No problem, if you have other questions, please contact us anytime. Wish you a happy day.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to inquire about your restaurant reservation service.
+Speaker2: Hello, welcome to call our restaurant. What can we help you with?
+Speaker1: Can I reserve a seat for 7 pm tomorrow night? Is there any availability?
+Speaker2: Let me check, you wait a minute. Okay, there's a spot at seven o'clock tomorrow night, how many people are you booking for?
+Speaker1: Can you recommend any dishes for our group of four, as it's our first time here?
+Speaker2: Of course, our menu here has red braised pork, steamed fish and scallion oyster, all very popular.
+Speaker1: Let's first reserve these, then we can take a look at the menu and order something else later.
+Speaker2: Okay, I will reserve a table for four people and note down the dishes you want. Do you need any further assistance?
+Speaker1: Can you confirm if your restaurant provides free parking service?
+Speaker2: Yes, there is a designated parking lot near our restaurant, which is free for two hours with proof of purchase receipt.
+Speaker1: Okay, now we can relax. Thank you for your service. See you later.
+Speaker2: You're welcome, I'm looking forward to your arrival. Goodbye!

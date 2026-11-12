@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: What do you recommend for an electric car model?
+Speaker2: Of course, we recently bought a new car model with a range of 400 kilometers and a battery capacity of 65 degrees. It's very suitable for daily use.
+Speaker1: How much does this car model cost?
+Speaker2: The price of this car model is 28,000 yuan, and there are certain discount policies, you can consider it.
+Speaker1: Is this car in stock?
+Speaker2: There are some in-stock items, but the quantity is limited. If you're interested, I can reserve one for you.
+Speaker1: Okay, I want to know more about the detailed specifications of this car, such as charging time, maximum speed, and so on.
+Speaker2: This car's fast charging mode takes about one hour to fill up, while slow charging takes around eight hours. The maximum speed can reach one hundred kilometers per hour.
+Speaker1: Can I come take a look at your car this weekend?
+Speaker2: Of course, we have a test drive activity this weekend, you can come to experience it. If you're convenient, you can just come directly, or I can schedule a time for you.

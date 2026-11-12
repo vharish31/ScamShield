@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to consult your family's beauty service.
+Speaker2: Hello, we provide various beauty services here. Which aspect are you interested in?
+Speaker1: I want to do facial care, check my skin condition.
+Speaker2: Okay, we have a special facial cleansing and nourishing project for your skin.
+Speaker1: How much does this project cost?
+Speaker2: The cost of facial care is 200 yuan per time, and if it's your first time, we also have a discount package for 300 yuan, which can be used for two times.
+Speaker1: Can I make a reservation?
+Speaker2: Yes, to ensure service quality, we suggest you book in advance. You can choose a convenient time, we will reserve a spot for you.
+Speaker1: Can I make a reservation for tomorrow afternoon at three o'clock?
+Speaker2: Tomorrow at three in the afternoon, I will record it for you. Please remember to arrive ten minutes early.
+Speaker1: Okay, thank you for your service.
+Speaker2: No problem, I'm looking forward to your arrival. Goodbye!

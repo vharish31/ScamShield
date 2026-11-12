@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of sequoia express, you have lost a package, need to handle a refund, are you convenient?
+Speaker2: Oh, okay, I recently had a package not delivered.
+Speaker1: Okay, to facilitate processing, please provide us with your order number and bank card information. We will refund the amount within 24 hours to your account.
+Speaker2: Okay, order number is 123456, bank card number is 6222020123456789.
+Speaker1: Okay, we have recorded your information. For security reasons, can you click on this link to complete identity verification?
+Speaker2: Okay, I'll click right away.
+Speaker1: Thank you for your cooperation. After clicking on the link, there will be a simple verification step. Just follow the instructions to complete it.
+Speaker2: Okay, I see it, I'm operating it.
+Speaker1: Okay, after verification is complete, we will quickly process your refund. Also, do you need to download our official app for easier tracking of your shipment?
+Speaker2: Okay, I'll download it.

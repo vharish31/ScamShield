@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me more about your hairdressing service, specifically how do you charge for it?
+Speaker2: We have various services here, the basic haircut is 30 yuan, if you need a head wash it's an additional 10 yuan, and the hairstyle is an additional 50 yuan.
+Speaker1: How far in advance do I need to make that appointment?
+Speaker2: I suggest you book in advance, so you can ensure you have enough time.
+Speaker1: Okay, can I meet you at three in the afternoon tomorrow?
+Speaker2: Sure, I'll reserve this time slot for you at 3 pm this afternoon.
+Speaker1: So, is it okay to directly come to the time when it's over?
+Speaker2: Yes, please come to the front desk and give your name for the appointment, we will arrange the master for you.
+Speaker1: Okay, thank you.
+Speaker2: Please welcome you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Just arrived at C1C2 road junction, where are you?
+Speaker1: I'm waiting for you at the outermost lane, it's a bit congested here, just come straight over.
+Speaker2: Okay, I see you, come over right away.
+Speaker1: Do you have many bags?
+Speaker2: Just one backpack.
+Speaker1: Okay, there's a cop over there, be careful.
+Speaker2: I see, be careful.
+Speaker1: Okay, the weather forecast said there's a chance of rain today, remember to bring an umbrella.
+Speaker2: Okay, thank you for reminding me, see you later.

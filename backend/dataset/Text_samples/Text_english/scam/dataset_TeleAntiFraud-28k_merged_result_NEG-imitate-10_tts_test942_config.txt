@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Guangfa Bank. The loan you applied for with us is about to expire. Do you need to renew it?
+Speaker2: Loan? How come I don't know?
+Speaker1: It's possible that you registered our service before and forgot, but don't worry. Just click this link and you can easily renew, the operation is very simple.
+Speaker2: Link? Safe?
+Speaker1: Absolutely safe, our link is officially certified. Just click the link, fill out the relevant information, and you can apply.
+Speaker2: How can I confirm that this is your bank's link?
+Speaker1: You can check the domain name of the link, our domain name is the official domain name of Guangfa Bank, it will be absolutely correct.
+Speaker2: Okay, let me try.
+Speaker1: Okay, click this link and follow the instructions. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

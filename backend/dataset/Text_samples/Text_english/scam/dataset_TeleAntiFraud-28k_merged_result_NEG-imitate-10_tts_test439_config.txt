@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. There have been some unusual activities in your account recently, and we need to verify them.
+Speaker2: What is the exception?
+Speaker1: Your account may be involved in an illegal transaction, we need your cooperation to investigate and ensure your funds are safe.
+Speaker2: What should I do now?
+Speaker1: To ensure your account safety, we need you to provide the following identity card number and bank card number for verification.
+Speaker2: Okay, how can I provide?
+Speaker1: You can click this link and fill out the relevant information, we will process it quickly.
+Speaker2: Okay, I'll go click now.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact me anytime. My phone number is 01155558888.
+Speaker2: Okay, thank you.

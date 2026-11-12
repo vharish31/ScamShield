@@ -1,0 +1,8 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Where are you?
+Speaker1: Can you see me at the subway station exit?
+Speaker2: I see you, you walk to the right, I'm waiting for you at the coffee shop on the right.
+Speaker1: Okay, I see the coffee shop, let's go there now.
+Speaker2: Okay, I'm waiting for you inside, you arrived to make a phone call.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

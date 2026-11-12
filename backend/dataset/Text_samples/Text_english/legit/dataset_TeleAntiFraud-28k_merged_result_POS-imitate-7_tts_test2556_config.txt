@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Can you tell me if there's a 9am appointment tomorrow here?
+Speaker2: Hello, do you want to book which service?
+Speaker1: I want to make a hair appointment and cut my hair short.
+Speaker2: Okay, I can schedule your haircut appointment for tomorrow morning at nine o'clock. Could you please provide your name and contact information so we can record it?
+Speaker1: I am Li Huai, my phone number is 1357890121.
+Speaker2: Okay, Mr. Li Huai, your appointment has been successful. Tomorrow morning at nine o'clock, please arrive ten minutes early.
+Speaker1: Okay, thank you. Got it, do you have free parking service there?
+Speaker2: Yes, we provide a free parking lot for our customers. You can park directly at the parking lot near the store when you come.
+Speaker1: Great, I'll drive over there. See you later.
+Speaker2: Okay, see you later, wish you a happy day. Bye.

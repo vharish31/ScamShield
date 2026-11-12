@@ -1,0 +1,10 @@
+Speaker1: Hello, can I reserve a seat for tomorrow night at six o'clock?
+Speaker2: Hello, of course. How many are there?
+Speaker1: Four.
+Speaker2: Okay, four of you. Do you have any special requirements? For example, a window seat?
+Speaker1: If there's a spot by the window, that's best, but if not, it's okay too.
+Speaker2: I understand. I will try my best to arrange the position near the window. Do you need to order in advance?
+Speaker1: No need, let's order later.
+Speaker2: Okay, let's meet at six o'clock tomorrow night. If there are any changes, please contact us in advance.
+Speaker1: Okay, thank you. See you tomorrow.
+Speaker2: No problem, see you tomorrow.

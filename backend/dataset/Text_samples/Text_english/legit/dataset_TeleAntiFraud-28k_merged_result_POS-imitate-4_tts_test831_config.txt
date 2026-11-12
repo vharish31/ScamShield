@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you want to go to the library today?
+Speaker2: Let's go, I just arrived, you too?
+Speaker1: I'm still on the road, about fifteen minutes away.
+Speaker2: Okay, then I'll wait for you, let's meet at the old place.
+Speaker1: Okay, let's talk again when we meet face to face.
+Speaker2: Be careful on the road.
+Speaker1: Okay, you too.
+Speaker2: Bye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the JD customer service center. The product you bought on our platform was lost during delivery. We can process a refund for you now, just cooperate with us.
+Speaker2: What's up? Why didn't I get your notice?
+Speaker1: It might be a sudden situation that occurred during the delivery process of the courier company, and we just received the notification. For your benefit, we can help you handle it. You only need to provide the order number and your bank card information.
+Speaker2: How can I know if you're a scammer or not?
+Speaker1: You can verify my identity by logging into the JD official website or directly contacting the official customer service. To speed up the processing speed, please provide relevant information, and we will immediately process it for you.
+Speaker2: Okay, what information do you need me to provide?
+Speaker1: First, please provide me with the order number, then provide a bank card number, we need to directly refund the compensation amount to your account. For security reasons, we also need you to provide a phone verification code.
+Speaker2: I can give you my bank card number, but the verification code doesn't work, this involves my account security.
+Speaker1: I understand your concerns, but without a verification code we can't complete the transaction, this is to protect your financial safety. You can first provide your bank card number, we'll immediately process it, we'll send the verification code via text message to you, you just need to reply confirm to proceed.
+Speaker2: Okay, my bank card number is 1234567890123456.

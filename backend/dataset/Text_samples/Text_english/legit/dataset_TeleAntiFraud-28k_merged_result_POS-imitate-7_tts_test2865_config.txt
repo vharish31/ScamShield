@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Where will you be waiting for me in an hour?
+Speaker2: I'm waiting for you at the third exit of the big mall.
+Speaker1: Which floor is the exit number three on?
+Speaker2: It should be the first layer. There's a sign over there. You can take a look.
+Speaker1: Okay, I'll take a taxi later, do you know where to pick up the taxi?
+Speaker2: Yeah, there should be a designated ride-hailing area on the first floor of the mall.
+Speaker1: Okay, I arrived. Can you confirm the location again over the phone?
+Speaker2: Okay, okay. I'll come out to meet you.
+Speaker1: Okay, pay attention to safety on the road.
+Speaker2: Thank you, you too. Goodbye.

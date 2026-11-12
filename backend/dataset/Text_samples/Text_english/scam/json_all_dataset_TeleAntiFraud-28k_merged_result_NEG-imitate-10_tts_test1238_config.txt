@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Li Xiaozhi from China Investment Consulting Company. Recently, the stock market has been quite volatile. We have a unique financial product that can guarantee high returns with low risk. Are you interested?
+Speaker2: Hey, I'm really interested in investing, can you introduce me to it?
+Speaker1: Of course, this product is our company's star product, with an annual return rate of over 15%, and the risk is extremely low. For your convenience, I'll send you a link, which you can click to get a more detailed understanding of the product.
+Speaker2: How do I receive this link?
+Speaker1: Please wait for a moment, I will send you a message shortly. To ensure the service, I need you to provide your phone number, so I can send it.
+Speaker2: My phone number is 13812345678, you can send it over.
+Speaker1: Okay, the message has been sent. Please pay attention to check it. After clicking on the link, follow the instructions on the page. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you for your introduction, I will take a look.
+Speaker1: No problem, if you decide to invest, remember to use my referral code ABCD1234, so I can apply for more discounts for you. I wish you a successful investment. If you have any questions, please contact me anytime.
+Speaker2: Okay, thank you again. I'll go take a look. Goodbye.

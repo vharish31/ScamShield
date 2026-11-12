@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm at the address you sent, where is it?
+Speaker2: Hello, are you on the east side of the park road? There's a big billboard here, it should be easy to see.
+Speaker1: Can you see it? Is it under that billboard?
+Speaker2: Yes, just under that billboard. You walk north fifty meters left or right, you will see a red mailbox.
+Speaker1: What then?
+Speaker2: Then you turn a corner and walk straight to the bottom, there's a green self-driving bike at the door, easy to find.
+Speaker1: Okay, I arrived right away.
+Speaker2: Okay, I'm waiting for you at the door.
+Speaker1: Thank you, see you later.
+Speaker2: No problem, see you later.

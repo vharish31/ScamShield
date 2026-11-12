@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? Can I ask if there are any seats left in your restaurant?
+Speaker2: Hello, are there still some positions?
+Speaker1: Do we need to make reservations in advance if we're going to be there around twelve o'clock?
+Speaker2: No reservation is needed, but you can come ten minutes earlier, I can reserve a spot for you.
+Speaker1: Okay, let's meet at twelve o'clock sharp. Right, I want to confirm one thing, what are your menu items?
+Speaker2: Our restaurant's signboard menu has spicy Szechuan and fish and meatballs, both very popular.
+Speaker1: The food sounds good, let's order these two dishes later. Can you tell us the approximate location of the restaurant?
+Speaker2: Of course, we are at People's Road No. 3, near the People's Road Station Exit 1 of Line 1 Metro, just walk straight for 500 meters left or right after you get off the metro and you will be there.
+Speaker1: Okay, I understand, thank you. Then we'll meet later.
+Speaker2: Okay, see you later, wish you enjoy your meal. Bye.

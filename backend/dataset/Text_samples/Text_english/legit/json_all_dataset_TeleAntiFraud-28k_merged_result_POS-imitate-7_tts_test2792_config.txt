@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Can I ask if your store is open today?
+Speaker1: What can I help you with during our business hours from 10am to 9pm?
+Speaker2: Do you have any recommendations for a birthday gift for a friend here?
+Speaker1: Of course, what kind of gift does your friend like? For example, does he have a favorite style or hobby?
+Speaker2: What about something that she likes both reading books and listening to music?
+Speaker1: We have a customized music bookmark here, which can be engraved with characters and has a music playback function, it's perfect for friends who love books and music.
+Speaker2: How much does this bookmark cost?
+Speaker1: This pen holder originally costs 188 yuan, but now during the promotion, it's only 150 yuan and comes with free shipping.
+Speaker2: Okay, give me one, the content of the calligraphy is "生日快乐，愿你天天开心".
+Speaker1: Okay, I have recorded the content of the order, we will ship it within 24 hours, you can check the logistics information at any time in the order.
+Speaker2: Thank you, now I will place an order.
+Speaker1: No problem, wish you a happy birthday to your friend. If you have any other needs, please contact us anytime.

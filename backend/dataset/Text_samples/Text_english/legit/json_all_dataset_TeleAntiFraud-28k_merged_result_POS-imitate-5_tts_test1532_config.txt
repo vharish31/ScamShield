@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I just arrived at your store door.
+Speaker2: Hey, little Ming, I'm busy right now, just wait a minute, I'll be right over.
+Speaker1: Okay, hurry up now, I'm waiting for you at the door.
+Speaker2: Okay, I'll come over now.
+Speaker1: Okay, I brought the computer that needs fixing, take a look at the issue.
+Speaker2: No problem, I'll bring it over in a minute, I'll give you a rough estimate.
+Speaker1: Okay, I'll wait for you, and by the way, how long does it usually take to fix your computer here?
+Speaker2: In general, if it's a small issue, it can be fixed right away; if it's the motherboard or needs to be replaced, it might take a few days.
+Speaker1: Okay, I recently need to use the computer, I hope it doesn't take too long.
+Speaker2: Don't worry, I'll handle it quickly. See you later.

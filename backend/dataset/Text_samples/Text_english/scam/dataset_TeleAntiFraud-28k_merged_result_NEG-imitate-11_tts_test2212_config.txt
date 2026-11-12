@@ -1,0 +1,14 @@
+Speaker1: Hello, are you Li Xiaojie?
+Speaker2: Hello, I am.
+Speaker1: I am the manager of Commercial Bank, congratulations on being selected as our premium customer, you can enjoy our special financial services.
+Speaker2: Oh, really?
+Speaker1: Yes, I can help you apply for a no-collateral loan with a very low interest rate, all you need to provide is some personal information.
+Speaker2: The sound is good, I really need cash flow recently.
+Speaker1: Okay, to complete the application, I need you to provide your ID number and bank account information.
+Speaker2: Okay, I can provide.
+Speaker1: Is it okay for you to download our latest app to complete the identity verification step?
+Speaker2: Can you tell me the name of the app?
+Speaker1: You can download the "Financial Quick Loan" app from the app store.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Thank you very much for your cooperation. If you have any issues after downloading, please feel free to contact me directly.
+Speaker2: Okay, thank you, Zhao Jingli.

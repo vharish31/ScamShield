@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm standing at your store door, how do I get in?
+Speaker2: Hello, do you see that big glass door?
+Speaker1: Can you see that shining door?
+Speaker2: Yes, that's the door. After entering, walk straight ahead, there's a human service counter.
+Speaker1: Okay, I found it. Now I'm at the counter. How do I proceed?
+Speaker2: Tell the service counter staff you want to find someone, they will guide you to them.
+Speaker1: Okay, thank you. I might be late, what time do you close the door?
+Speaker2: We close at nine tonight, don't worry, there's plenty of time.
+Speaker1: Okay, if I can't find the way out later, can I call you again?
+Speaker2: Of course, you can contact me anytime, I will guide you.

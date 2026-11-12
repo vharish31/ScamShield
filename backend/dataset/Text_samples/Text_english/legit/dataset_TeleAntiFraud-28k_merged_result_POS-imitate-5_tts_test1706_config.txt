@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, my air conditioner has been acting up lately, do you guys think you could come take a look and fix it?
+Speaker2: Hello, Xiaoming, I am the little king of the repair center, can you please tell me specifically what the problem is?
+Speaker1: The air conditioner's cooling effect is not good, and there's a bit of leakage.
+Speaker2: Understood, this situation may be due to a clogged filter or a frozen water pipe, can you come check it out in the afternoon?
+Speaker1: Okay, I'll be at home all afternoon, what time is convenient for you to come over?
+Speaker2: Can I arrive at your place around 3 pm?
+Speaker1: Meet at 3 o'clock, the address is Xiǎngfú xiǎozhù sān hào lóu èr dàn yī jiān, nǐ qùjìng de shí hòu gìvè wǒ dǎ yī jiān.
+Speaker2: Okay, Happy Community Building Three Number, I recorded it, contact you later.
+Speaker1: Okay, thank you, little king.
+Speaker2: No thanks, this is my work, see you in the afternoon.

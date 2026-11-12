@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to reserve a seat for 7 pm tomorrow night.
+Speaker2: Hello, can we help you book seats here? How many people are there?
+Speaker1: We have four people.
+Speaker2: Okay, your four-person reservation has been arranged for you tonight at seven o'clock, is that correct?
+Speaker1: Yes, do you have any recommendations for dishes?
+Speaker2: We recommend our signature dishes: steamed beef with ginger, steamed fish with ginger and scallions, and stir-fried mushrooms with ginger, all of which have received high praise from customers.
+Speaker1: The sound is great, I'll try it later. By the way, do you provide free parking service?
+Speaker2: Our restaurant has a cooperative parking lot nearby that provides free parking service as long as you spend over 200 yuan.
+Speaker1: Okay, I will definitely bring my car tomorrow. Thank you.
+Speaker2: You're welcome! If you need any other help, please contact us anytime. We're looking forward to your visit!

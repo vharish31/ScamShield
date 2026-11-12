@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Zhang, Zhang, Zhang, Zhang, Zhang, this side is some certain express company's customer service specialist.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we found out that you had a package lost before, and now we've found it, but we need your cooperation.
+Speaker2: Okay, what do you need me to do?
+Speaker1: Please click on this link and fill out your personal information so that we can confirm your identity, and then we can send your package back to you.
+Speaker2: Is it like that, then do I need to provide bank card information?
+Speaker1: No need for anything else, just your name, phone and address. But for safety reasons, we can provide a verification code. We will send you a text message.
+Speaker2: Okay, I understand.
+Speaker1: Okay, I'll send you a text message with the verification code. Once you receive it, please let me know immediately, and we can proceed.
+Speaker2: Okay, I'm waiting.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to reserve a seat for tomorrow at noon, is it possible?
+Speaker2: Hello, of course. How many are there?
+Speaker1: We are about five people.
+Speaker2: Okay, five seats have been reserved for you. Do you need to order special dishes?
+Speaker1: Do you have any recommendations for dishes?
+Speaker2: Our menu here has red braised pork, steamed fish and gong bao chicken, all very popular.
+Speaker1: Let's have a steamed fish with spicy stir-fried chicken wings.
+Speaker2: Okay, these two dishes have been noted down for you. Do you need any other services?
+Speaker1: No need for now, thank you.
+Speaker2: No problem, if you have any other need to contact us anytime. See you tomorrow!

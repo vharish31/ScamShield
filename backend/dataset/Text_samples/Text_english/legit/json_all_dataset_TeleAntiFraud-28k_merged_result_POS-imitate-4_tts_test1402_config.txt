@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you? I want to consult your restaurant's takeout service
+Speaker1: Hello, of course, what aspects do you want to know about?
+Speaker2: Can you tell me your takeout menu and prices, and your business hours?
+Speaker1: Our restaurant menu and prices can be viewed on our official website, or you can directly tell me your favorite dish, and I can give you the price. Our business hours are from 11 am to 9 pm every day.
+Speaker2: Okay, do you have any recommendations for menu items with a sign?
+Speaker1: Our restaurant's signboard menu has a signboard roast duck and ginger scallops, very popular, are you interested?
+Speaker2: The sound is good, I'll try the signboard roast duck. Also, what is the approximate delivery time for your takeout?
+Speaker1: In general, it takes about 30 to 45 minutes from placing an order to delivery. The specific time may vary depending on the order volume and traffic conditions.
+Speaker2: Okay, can you deliver it to me at six o'clock tonight?
+Speaker1: Sure, placing an order at six o'clock is completely fine, we will do our best to deliver it on time. Do you need me to book it for you?
+Speaker2: Okay, could you please book a roast duck for me, thank you.

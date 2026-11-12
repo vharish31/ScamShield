@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer manager of the commercial bank, Lee Huai.
+Speaker2: Hello, do you have anything?
+Speaker1: We recently launched a special discounted financial product with high returns and low risk, which is very suitable for the current investment market.
+Speaker2: Hey, I'm recently considering investing in something, could you give me a specific introduction?
+Speaker1: Of course. This product has an annual return of up to 10%, and the principal is guaranteed. If you're interested, you can click on the link I send you, download our official app, and find detailed information inside.
+Speaker2: How can I confirm this is your bank's official link?
+Speaker1: Rest assured, this link will directly lead you to our bank's official website. You can also use mobile banking or call 95588 to verify.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any questions, feel free to contact me anytime. For convenient communication, please add my personal WeChat, my WeChat number is LH123456789.
+Speaker2: Okay, I'll add you on WeChat. Thanks.

@@ -1,0 +1,11 @@
+Speaker2: Hello
+Speaker1: I saw a sofa in your store that I want to know more about in detail.
+Speaker2: Okay, which style are you asking about?
+Speaker1: That kind of gray, fabric, two-person sitting.
+Speaker2: The price of that style is three thousand six hundred yuan, there's a promotion now, you can enjoy a nine-discount discount.
+Speaker1: What is the size of this sofa?
+Speaker2: This sofa's size is 1.8 meters by 0.9 meters, very suitable for small families to use.
+Speaker1: Can you deliver the goods to my door?
+Speaker2: Of course, we provide free door-to-door delivery service, just tell me the specific address and convenient time.
+Speaker1: Do I need to pay the deposit in advance?
+Speaker2: Yes, we usually require a deposit of 300 yuan, the remaining amount can be paid upon delivery

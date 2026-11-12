@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm Li Xiao, this is the customer service representative of Xingyu Technology.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed that you recently purchased a smartwatch on our platform, but due to system upgrades, we found that there might be issues with your order.
+Speaker2: Oh, is that so? Then what do we do?
+Speaker1: Don't worry, we have already prepared a solution for you. To ensure your rights, please complete the reconfirmation of the order through our official app.
+Speaker2: How to download the official app?
+Speaker1: You can download our official app by scanning the QR code or clicking the link. The operation is very simple, just follow the instructions to complete a few steps and you're done.
+Speaker2: How do I know this link is safe?
+Speaker1: We are a legitimate company, and our links are absolutely safe. To put your mind at ease, you can first consult our customer service hotline before deciding whether to download.
+Speaker2: Okay, let me try.
+Speaker1: Great, thank you for your cooperation. If you have any questions, please contact our customer service at any time. Have a happy life, goodbye.
+Speaker2: Thank you, goodbye.

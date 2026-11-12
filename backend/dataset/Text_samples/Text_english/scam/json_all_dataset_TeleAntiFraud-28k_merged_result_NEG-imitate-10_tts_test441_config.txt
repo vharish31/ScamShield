@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer service representative of JD Finance, Li Huai. Are you Zhang Ming?
+Speaker2: Hey, what's up?
+Speaker1: We noticed some suspicious activity in your recent purchase history on our platform. We need you to cooperate with us to verify the order.
+Speaker2: Really? I didn't notice, what's the specific issue?
+Speaker1: Your order may have been mistakenly marked for refund, please provide your bank card info to quickly process.
+Speaker2: So, how can I provide then?
+Speaker1: You can click this link and fill out the relevant information, we will process it quickly.
+Speaker2: Okay, I'll handle it now.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact our customer service at any time.
+Speaker2: Okay, thank you.

@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I saw your job post for airline pilot on a recruitment website and wanted to inquire about it.
+Speaker2: Okay, what questions can I directly ask you?
+Speaker1: What are the specific requirements for this position?
+Speaker2: It's best if you have at least 5 years of driving experience, no major traffic accidents, and have served in the military.
+Speaker1: Is it a hard requirement to pass the military?
+Speaker2: Yes, this condition is a hard requirement, mainly because of the nature of work.
+Speaker1: If I didn't serve in the military, but I have other advantages, such as working in a large state-owned enterprise with rich business reception experience, can I consider it?
+Speaker2: Let's discuss this situation again, please send your resume first, we'll take a look at your specific circumstances.
+Speaker1: Okay, I'll send it over now, thank you.
+Speaker2: No problem, we will contact you after receiving your resume, goodbye.
+Speaker1: Okay, bye.

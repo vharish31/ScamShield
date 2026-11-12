@@ -1,0 +1,14 @@
+Speaker1: Hello, you.
+Speaker2: Hello, is this the Yángguāng huādiàn?
+Speaker1: Yes, what do you need from us?
+Speaker2: I want to order a bouquet of flowers and send it to my friend. Do you have any recommendations?
+Speaker1: Of course, our recommended bouquet this week is a red rose bundle, which is very suitable as a gift.
+Speaker2: How much does that kind of flower arrangement cost?
+Speaker1: This bouquet of roses costs 200 yuan, and if you order now, we can also provide free greeting card service.
+Speaker2: That's great, I want a copy. Can you send it to the address?
+Speaker1: Sure, we provide free delivery service within the city. Could you please provide your delivery address and contact information?
+Speaker2: Okay, the address is Happiness Road 100, the phone number is 13800000000.
+Speaker1: Okay, we have recorded your order and estimate it to be delivered by tomorrow afternoon at 3 pm. If there are any changes, we will contact you promptly.
+Speaker2: Goodbye, thank you.
+Speaker1: You're welcome. I hope your friend is happy when they receive the flower bouquet. Goodbye.
+Speaker2: Goodbye.

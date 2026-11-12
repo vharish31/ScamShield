@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the flower family customer service, do you have any problems with the air purifier you bought before? We received your feedback that the machine has noise, and we want to know the specific situation.
+Speaker2: Hmm, yes, the machine does have noise, I don't know if it's a normal phenomenon.
+Speaker1: We've encountered this situation before with user feedback. Most of the time it's because the filter is clogged or the internal parts are loose. You can first check if the filter is clean, if there's still noise, we can arrange a maintenance technician to come over and check.
+Speaker2: Okay, I'll check the filter first. If it's still not working, I'll contact you.
+Speaker1: Okay, if you need help, please feel free to contact us. Additionally, we have a customer care activity, users who purchase can get a free professional cleaning service, are you interested?
+Speaker2: Can I join this activity? It sounds good.
+Speaker1: Of course, you just need to book an appointment on our app, and we will arrange a time for door-to-door service.
+Speaker2: Okay, I'll book a later appointment on the app. Thank you for your help.
+Speaker1: You're welcome. If you have any questions, feel free to consult anytime. Wish you a happy life. Bye.
+Speaker2: Goodbye.

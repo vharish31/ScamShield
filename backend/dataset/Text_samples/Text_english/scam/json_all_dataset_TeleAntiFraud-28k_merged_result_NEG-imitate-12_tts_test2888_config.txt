@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Taobao, and I noticed that you recently purchased a product on our platform that had quality issues, and we need to process a refund for you.
+Speaker2: Is it true or false? I recently bought some things, but I haven't heard any problems.
+Speaker1: That's it, we have confirmed that the product has quality issues, in order not to affect your shopping experience, we want to give you a full refund.
+Speaker2: Okay, how do I quit?
+Speaker1: To ensure a smooth refund, please provide your bank account number so that we can directly deposit the amount into your account.
+Speaker2: Okay, then I'll send it over to you.
+Speaker1: Okay, for safety reasons, we also need you to provide a verification code. The verification code will be sent to the phone number you have reserved.
+Speaker2: Okay, I'll be right back.
+Speaker1: The verification code has been sent, please check the short message and tell me the verification code after receiving it.
+Speaker2: Received, verification code is six six six six.

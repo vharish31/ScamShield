@@ -1,0 +1,14 @@
+Speaker1: Hey, are you Lee Huai?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative from JD.com. You recently purchased a product on our platform with a quality issue, and we need to process a refund for you.
+Speaker2: Oh, really? Then what should I do?
+Speaker1: To quickly process, you need to download our specialized customer service app. Click this link to download.
+Speaker2: Link? Can't I handle it directly on your website?
+Speaker1: This link is specifically designed for quickly processing issues, the official website cannot currently handle it directly, download it and follow the instructions to operate it.
+Speaker2: Okay, let me try.
+Speaker1: After downloading is complete, please log in to your account, then click on customer service, select refund service, and follow instructions to operate.
+Speaker2: Downloaded it, I'm operating according to instructions.
+Speaker1: Hello, if you have any questions, feel free to contact me anytime. Additionally, to ensure the safety of your funds, you may need to provide your bank card information to complete the refund.
+Speaker2: I will provide my bank card information.
+Speaker1: Great, your problem will be solved quickly. If you have any questions, remember to add my WeChat, my WeChat number is LHservice, you can consult anytime.
+Speaker2: Okay, thank you for your help. I will add your WeChat.

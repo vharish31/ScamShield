@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Zhang, want to consult your delivery service.
+Speaker2: Hello, little Zhang, I am delivery customer service Li, what can I help you with?
+Speaker1: Can you tell me your delivery time? Approximately how long will it take to arrive?
+Speaker2: We usually deliver within 30 minutes after ordering, but the specific time may vary due to traffic and order volume.
+Speaker1: What is the delivery range of yours?
+Speaker2: We mainly cover the key areas within the city, the specific scope can be viewed on our app.
+Speaker1: What should I pay attention to when ordering food?
+Speaker2: You can specify special requirements when placing an order, such as less salt or more spicy, and if you have a specific delivery time, you can inform it in advance.
+Speaker1: What should I do if the food is not right or the delivery is delayed?
+Speaker2: If you encounter these problems, you can directly contact our customer service, and we will handle them quickly. For delayed delivery of food, we will also provide compensation.
+Speaker1: Okay, thank you for your answer. I will order when needed.
+Speaker2: You're welcome, feel free to ask any questions anytime. Enjoy your meal!

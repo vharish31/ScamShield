@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to ask about your restaurant's vegetarian set menu.
+Speaker2: Hello, we have various vegetarian options here, which one would you like to know more about?
+Speaker1: Can you tell me about the most popular one and how much it costs?
+Speaker2: Our most popular vegetarian dish is our four-season bean sprout stir-fry and our delicious mushroom soup, priced at 35 yuan.
+Speaker1: What are the dishes in this menu?
+Speaker2: This meal includes a soup and a dish, if you like, you can also add some other small dishes, such as stir-fried green vegetables, each portion for ten yuan.
+Speaker1: Okay, I plan to have lunch on the weekend. Do you have business hours?
+Speaker2: Our restaurant business hours are from 10 am to 9 pm, on weekends it's the same.
+Speaker1: Do I need to make an appointment in advance?
+Speaker2: I suggest you make a reservation in advance, especially on weekends, so we can reserve a spot for you.
+Speaker1: Okay, can I make a reservation for Saturday afternoon at 2 pm?
+Speaker2: Okay, your appointment has been successfully scheduled. See you later.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Zhang from the home appliance repair service center. You scheduled us to check your air conditioning service at your home between 2 pm and 4 pm today. Are you at home?
+Speaker2: Hey, how are you? I'm at home, come over, it seems like the air conditioner has been a bit off lately.
+Speaker1: Okay, I'll be there in about half an hour. You can open the door when I arrive, I brought tools, we can check it out and figure out where the problem is.
+Speaker2: Okay, I'm waiting for you. Right, how long do you think it will take?
+Speaker1: Generally speaking, checking and maintaining take about an hour, if the issue is not big, it should be solved quickly.
+Speaker2: That's great, the air conditioner has been broken for several days and it's too hot at home.
+Speaker1: I understand your feelings, I will handle it quickly, I will call you to confirm after it's done.
+Speaker2: Okay, okay. Thank you.
+Speaker1: No problem, this is my job, see you later.
+Speaker2: See you later.

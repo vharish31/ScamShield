@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural and Commercial Bank. The small loan you recently applied for at our bank has been approved. Now we need you to work with us on the next step.
+Speaker2: Oh, is that so? Then what do I need to do?
+Speaker1: To ensure the safety of your loan, we need you to pay a deposit upfront, which will be fully refunded to you after the loan is disbursed.
+Speaker2: This operation is quite tedious, how much deposit is required?
+Speaker1: The deposit is three thousand yuan. You just need to transfer it to our account via Alipay or WeChat, and it will be processed immediately after the transfer.
+Speaker2: How do I know this account is yours, bank?
+Speaker1: Don't worry, we are a regular bank, this account is specifically used for loan collateral, you can first transfer a small amount, like three hundred yuan, as soon as we confirm receiving it, you can put your mind at ease and transfer the rest.
+Speaker2: Okay, let me try.
+Speaker1: Okay, here is our account information. Please receive it and we will immediately process your loan application after.
+Speaker2: Okay, I'll go change.

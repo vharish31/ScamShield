@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you? I am a customer service representative for the point store, I see that you have a lot of points in your account that have not been redeemed.
+Speaker2: Oh, really? I've been neglecting it.
+Speaker1: Yes, points can be used to exchange products, directly deducting cash.
+Speaker2: Really? Then how come I haven't received any reminders?
+Speaker1: We recently sent a reminder text message, you might not have noticed. Your points will be cleared if they expire.
+Speaker2: How many points do I have now?
+Speaker1: You have over 26,000 points in your account, which can be exchanged for many products.
+Speaker2: Hey, do you have any recommendations?
+Speaker1: We have a set of four brand-name items including a white wine gift box, a high-definition TV, and a smartwatch, which are all great choices.
+Speaker2: It sounds good, I'll think about it.
+Speaker1: Okay, if you decide, you can contact me anytime. Also, if you have any remaining points after exchanging, we can help you keep them.
+Speaker2: That's great, thank you for your reminder.
+Speaker1: You're welcome, feel free to consult anytime if you have any questions.

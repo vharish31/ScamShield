@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Tianyang Bank. On this side, I have a special loan discount for you. Do you have any interest?
+Speaker2: Can you tell me more about the loan? I recently have some cash flow needs, can you provide me with more details?
+Speaker1: Of course, our current activity is a special discount for high-quality customers, no down payment, quick loan, and the interest rate is very low. If you're interested, you can first add my WeChat, and I'll send you detailed information.
+Speaker2: Wechat? This way won't it be unsafe? How can I confirm your real identity?
+Speaker1: Don't worry, I have my work certificate from the bank here. After adding WeChat, you can see it. Also, this activity has limited spots, so add WeChat first to get it.
+Speaker2: Okay, add me on WeChat. My WeChat ID is abc12345678.
+Speaker1: Okay, I'll add you right away. After I add you, I'll send you the materials, you can take a look and let me know which ones are appropriate, and we'll have a detailed discussion afterwards.
+Speaker2: Okay, I'll wait for your message.
+Speaker1: Okay, just wait a minute, I'll add you now. After the data is sent over, feel free to contact me if you have any questions.
+Speaker2: Okay, thank you.

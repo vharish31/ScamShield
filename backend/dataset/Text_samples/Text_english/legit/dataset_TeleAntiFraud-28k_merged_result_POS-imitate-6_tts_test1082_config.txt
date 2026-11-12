@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the quick help hand platform, your previous moving service consultation, I can now provide you with a detailed answer, are you convenient?
+Speaker2: Okay, now is a good time, you say it.
+Speaker1: Okay, our platform provides relocation services from the city center to the recreational area, including packing, moving, and transportation. Do you need a full car service or just partial furniture moving?
+Speaker2: I see, just some furniture, like a refrigerator, bed, and sofa, probably need a truck.
+Speaker1: Understood, in this case, our whole car service fee is six hundred yuan, including basic packaging materials and labor costs. Is this price acceptable to you?
+Speaker2: Hmm, the price is acceptable, when can you come specifically?
+Speaker1: Can we schedule it at a time that's convenient for you, like on the weekend or a weekday evening? Which day do you prefer?
+Speaker2: It's best on Saturday morning, I had free time that day.
+Speaker1: Okay, on Saturday at 9am, we will arrive at the location you specified on time. If there are any changes, we will notify you in advance.
+Speaker2: Okay, let's do it this way. Thank you.
+Speaker1: No problem, if you have other questions, please contact us anytime. Wish you a happy life, goodbye!

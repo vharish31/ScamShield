@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the property manager of the community, are you at home now?
+Speaker2: What do you have going on at home?
+Speaker1: Is it like that? We found your water and electricity bill is a bit abnormal. Do you want to confirm if there's any leakage situation at home?
+Speaker2: "Oh, can you check these for me? I don't understand them well."
+Speaker1: Sure, can we send a handyman over to your place to check it out? What time is convenient for you?
+Speaker2: Can we meet at four o'clock this afternoon?
+Speaker1: Okay, so we'll meet at four o'clock this afternoon, master will be on time.
+Speaker2: Okay, thank you, please you.
+Speaker1: No problem, this is what we should do, if you have any questions please contact us anytime.
+Speaker2: Okay, thank you, bye.

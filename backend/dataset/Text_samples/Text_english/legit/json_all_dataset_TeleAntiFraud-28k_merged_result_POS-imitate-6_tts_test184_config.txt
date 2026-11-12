@@ -1,0 +1,14 @@
+Speaker2: Hello
+Speaker1: I saw your job posting in Five Eight City, is it your company?
+Speaker2: Yes, we are recruiting. Are you interested in this position?
+Speaker1: Yes, I want to know the specific requirements for this position.
+Speaker2: Okay, this position mainly involves customer consultation, and requires good communication skills and teamwork spirit.
+Speaker1: Does this job require frequent overtime?
+Speaker2: In general, it's not necessary, unless there's a project peak period.
+Speaker1: How about the salary, benefits and working conditions?
+Speaker2: Salary structure is based on a fixed salary plus performance bonus, which can be discussed in detail. As for benefits, we provide five insurance and one gold, as well as paid vacation with salary.
+Speaker1: Can I come for an interview? It sounds good.
+Speaker2: Of course, can you come at nine in the morning tomorrow?
+Speaker1: Okay, I will definitely arrive on time tomorrow. Thank you.
+Speaker2: No problem, I'm looking forward to your arrival. Goodbye.
+Speaker1: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm Li, the customer manager at the construction bank. Based on our bank's records, you may meet our new credit loan conditions.
+Speaker2: Hello, who are you, how do you apply for a loan?
+Speaker1: Hello, our loan conditions this time are very favorable, interest rate is low, approval is fast, just need you provide some basic information, we can preview for you.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your identity card number, mobile phone number, and workplace to conduct an evaluation. For convenience, you can click on this link and fill in the relevant information.
+Speaker2: How do I know this link is safe?
+Speaker1: We are a construction bank, linking absolute safety. After clicking, you will directly jump to our official page, fill out the information, and we will feedback to you within a workday.
+Speaker2: Okay, let me try it out.
+Speaker1: Great, thank you for your cooperation. If you have any other questions, feel free to contact me anytime. Have a happy life!
+Speaker2: Thank you.

@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you?
+Speaker1: Hi, I'm little Li. Have you considered changing your phone recently? We have new smartphones on sale here.
+Speaker2: Hey, I'm thinking of switching my phone, do you have any recommendations?
+Speaker1: Our new phone has a high configuration, the camera effect is particularly good, and it also has a large battery capacity, which is very suitable for daily use.
+Speaker2: How much does this phone cost?
+Speaker1: The current promotional price is three thousand five hundred yuan, which is a significant discount from the original price.
+Speaker2: The price is still reasonable, I need to think about it.
+Speaker1: No problem, you can contact me anytime. If you decide to buy, I can help you apply for some extra discounts.
+Speaker2: Okay, thank you for your recommendation. I'll think about it and get back to you.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Did you order takeout?
+Speaker2: Okay, I ordered, what now?
+Speaker1: Which store did you order from?
+Speaker2: It's that new Sichuan restaurant, the food is quite good.
+Speaker1: Okay, I'll send it over in a bit.
+Speaker2: Okay, I'm waiting for you at home.
+Speaker1: Is your home address in that small community?
+Speaker2: Yes, that's the small community, there's a big stone at the door, you won't miss it.

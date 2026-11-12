@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Li, recently I've been looking for a house, saw your property info, want to know more details.
+Speaker2: Hello, little Li, I am Zhang Huang, the landlord of the house. Which community's house do you want to know about?
+Speaker1: I want to know more about the Yangguang Huanjuan Xiaojie in Chaoyang District, three-room apartment housing.
+Speaker2: Okay, the three-unit apartment in the Yángguāng huāyuán xiǎojīng, with an area of approximately 120 square meters, has good north-south ventilation and good lighting, on the sixth floor of the third floor.
+Speaker1: How much is the rent for this house?
+Speaker2: Rent is 6500 yuan per month, three months' deposit, water, electricity, gas and other expenses need to be paid by oneself.
+Speaker1: How are the transportation and living facilities around this house?
+Speaker2: This community has very convenient transportation, adjacent to Line 5 of the metro and many bus routes, with large supermarkets, hospitals, and schools nearby, and all necessary living facilities available.
+Speaker1: Can I schedule a time to see the house?
+Speaker2: Of course, when do you have time?
+Speaker1: Is three in the afternoon on Sunday okay?
+Speaker2: Sunday afternoon at three is okay, I'll wait for you at home, just give me a call before you come over.
+Speaker1: Okay, let's meet on Sunday afternoon. Thank you for your help.
+Speaker2: No problem, see you Sunday afternoon.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I want to ask, does this restaurant have a vegetarian set meal?
+Speaker2: Hello, we have a vegetarian set meal here, you can choose single dish or set meal, the set meal is more cost-effective.
+Speaker1: What are the dishes in the vegetable set meal?
+Speaker2: The vegetarian set meal includes a stir-fried vegetable dish, a five-color vegetable salad, a vegetable stir-fry, and a soup.
+Speaker1: Does today have any space for you?
+Speaker2: Yes, you are several people. I reserved a place for you.
+Speaker1: We are two people, around one o'clock in the afternoon.
+Speaker2: Okay, I have reserved two seats for you, at 1:30 PM, remember to bring your reservation information.
+Speaker1: Okay, thank you, is there anything else? My friend is allergic to seafood, do we need to be particularly careful?
+Speaker2: Of course, we will pay special attention to ensure that the seafood ingredients are not present in the dishes. You can rest assured.

@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm little Li, the customer service at the food square. We saw you ordered food here before, how was your dining experience today?
+Speaker2: No problem, it's just that the delivery time is a bit long.
+Speaker1: I'm very sorry, you've been waiting for a long time. We have indeed received a lot of orders recently, and we will optimize our delivery process as soon as possible.
+Speaker2: Okay, then.
+Speaker1: By the way, we have a new menu item this week with a very high price-to-value ratio. Would you be interested in learning more about it?
+Speaker2: What dish?
+Speaker1: We launched a two-person set meal, including main dish, soup and dessert, originally priced at 120 yuan, now only 80 yuan, very suitable for friends to enjoy together.
+Speaker2: Can I hear your business hours?
+Speaker1: Our business hours are from 11 am to 9 pm. You can arrange your own time.
+Speaker2: Okay, I have some free time this weekend. I'll make a reservation later. Thank you.
+Speaker1: You're welcome! We're looking forward to your return. If you have any other questions, feel free to contact us anytime. Have a great day!

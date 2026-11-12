@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I took a taxi here, where are you at the exit waiting for me?
+Speaker2: Hey, little Li, I'm over here, I see a blue sign on the top pointing to the exit, so I'm waiting for you down there.
+Speaker1: Okay, I see the sign, let's go over.
+Speaker2: Hey, be careful.
+Speaker1: Are you here?
+Speaker2: I see you, come here.
+Speaker1: Okay, let's go now.
+Speaker2: Sounds good, want to have dinner together tonight? I heard there's a new restaurant nearby that's pretty good.
+Speaker1: Great, I'm a little hungry too, let's go, you lead the way.
+Speaker2: Okay, follow me, we'll get there quickly.

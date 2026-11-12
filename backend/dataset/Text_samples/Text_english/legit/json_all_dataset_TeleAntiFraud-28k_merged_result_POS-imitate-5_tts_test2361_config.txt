@@ -1,0 +1,10 @@
+Speaker1: Hey, are you delivering food from Yongxiaopu?
+Speaker2: Hey, is that mine? Did you arrive?
+Speaker1: I'm not there yet, I'm on my way, it's about ten minutes left.
+Speaker2: Okay, I'll go downstairs first and wait for you. Our apartment is a bit hard to find.
+Speaker1: Okay, give me a location, I'll navigate over.
+Speaker2: Okay, I'll send it to you right away. If you can't find it later, call me.
+Speaker1: Okay, I will. Please give me the phone number too, just in case.
+Speaker2: Okay, I'll send it to you later.
+Speaker1: Don't worry, I'll be there soon.
+Speaker2: Okay, thank you, be careful on the road.

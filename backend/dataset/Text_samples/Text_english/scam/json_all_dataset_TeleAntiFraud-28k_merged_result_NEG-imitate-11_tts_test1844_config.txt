@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Laoban?
+Speaker2: Hello, I am.
+Speaker1: Mr. Zhang, I am the Li manager of the Huaihai Investment Company, which recently launched a high-yield, low-risk investment product. Would you be interested in learning more about it?
+Speaker2: Invest in financial products? Can you explain in detail?
+Speaker1: Of course, this product is specifically designed for customers like you, with a minimum investment of only 10,000 yuan, and a yearly return of 15%, it's also a principal and interest guarantee.
+Speaker2: Listen well, how do you operate it?
+Speaker1: You only need to download our official app, register an account and you can directly purchase. To ensure your financial safety, we need you to provide some personal information, such as identity card number, bank account.
+Speaker2: Okay, now I'll download your app.
+Speaker1: Great, Zhang Laoban, you are really wise in your choice. If you encounter any issues during the download process, please feel free to contact me anytime.
+Speaker2: Okay, thank you for your recommendation.

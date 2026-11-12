@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Wang?
+Speaker2: Yes, who are you?
+Speaker1: I am the manager of the Dongcheng Bank, our system has detected that your business license is not yet half a year old, we can provide you with a 20,000 yuan loan for your business, no collateral, fast payment.
+Speaker2: Really? I need cash flow right now.
+Speaker1: Yes, this is a great opportunity. To confirm your qualification, I need you to provide some basic information, including your ID number and bank card number.
+Speaker2: Okay, what should I do now?
+Speaker1: You can click on the link I sent you and fill in the relevant information, our work staff will quickly review it.
+Speaker2: Okay, I'll go operate.
+Speaker1: Thank you for your cooperation. If you have any questions, please feel free to contact me anytime. Best wishes for your business!
+Speaker2: Thank you, goodbye.

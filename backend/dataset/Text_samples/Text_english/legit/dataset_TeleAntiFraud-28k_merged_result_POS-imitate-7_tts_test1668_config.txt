@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer service of the point mall, I see that your points in the account have not been used for a long time.
+Speaker2: Is that so? How come I don't know there's such a score?
+Speaker1: Hey, your points are accumulated through daily consumption, which can be exchanged for goods.
+Speaker2: Really? I haven't received any notifications?
+Speaker1: We sent a text message reminder, which you might have ignored. Please use it before midnight tonight, otherwise it will be cleared.
+Speaker2: That's too bad, can't the usage period be extended?
+Speaker1: I'm sorry, this is the company rule, but I can help you apply for reserved unused points.
+Speaker2: That's great, thank you. What products can be exchanged?
+Speaker1: There are many choices, such as white wine gift box, famous brand four-piece set, high-definition TV, and smartwatch.
+Speaker2: Sounds good, I'll think about it, how do I exchange it?
+Speaker1: You can log in to our website or use the mobile app for exchange. If you need help, please contact me anytime.

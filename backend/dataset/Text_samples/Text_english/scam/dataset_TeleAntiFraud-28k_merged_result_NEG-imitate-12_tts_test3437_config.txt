@@ -1,0 +1,8 @@
+Speaker1: Hello, this is the loan service center of China Construction Bank, I am the manager, we have launched a low-interest loan product for high-quality customers, are you interested in learning more?
+Speaker2: I don't need a loan, thank you.
+Speaker1: This is the case, our product not only has low interest rates, but the procedures are also very simple, no need for any collateral, just provide some basic information, and it can be quickly approved.
+Speaker2: I really don't need it, don't call me.
+Speaker1: That's really too bad. But if your mind changes, you can call this phone number to contact us, or you can directly click on the link we sent you to download our app, which is more convenient to operate.
+Speaker2: I won't click on any links, and I won't download any apps.
+Speaker1: Okay, I won't disturb you anymore. But if you really have a cash flow problem, remember we're a good option here. Wish you a happy life, goodbye.
+Speaker2: Goodbye.

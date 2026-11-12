@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me about your home services, do you have any menu?
+Speaker2: Of course, we have daily cleaning, deep cleaning and specialized cleaning services, which one do you want to know more about?
+Speaker1: I want to know more about the contents and prices of daily cleaning services.
+Speaker2: Our daily cleaning service mainly includes sweeping, mopping, and wiping down furniture and tables, and it costs 200 yuan per time. If you need regular service, we also have discount packages.
+Speaker1: Are there any discounts for regular services?
+Speaker2: If you choose weekly service, you can enjoy an 80% discount, which means each time you pay 120 yuan.
+Speaker1: Can I schedule a weekly service starting next week?
+Speaker2: Sure, I'll arrange it for you. Do you need me to record your contact information and address?

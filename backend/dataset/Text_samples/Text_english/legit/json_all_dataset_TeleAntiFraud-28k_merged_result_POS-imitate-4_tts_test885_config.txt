@@ -1,0 +1,10 @@
+Speaker1: Hello, are you a 4S store for Volkswagen cars?
+Speaker2: Hello, yes, this is a Volkswagen dealership. What can I help you with?
+Speaker1: I recently wanted to buy a new car, and I wanted to know more about the Dacia Logan car models here.
+Speaker2: Okay, the Volkswagen Passat is very popular here. It has good fuel economy and a spacious interior. Do you want to know about the specific configuration and price?
+Speaker1: Yes, I want to know the basic configuration and price of this car model.
+Speaker2: The basic configuration of the Dongchang Lingxing includes a 1.5L natural suction engine, manual transmission, reverse radar, multi-function steering wheel, etc. The price of the basic model is 11,980 yuan.
+Speaker1: The car sounds good. Do you guys have a car? I plan to come see cars this weekend.
+Speaker2: We currently have new cars in our store, you can come directly to test drive. This weekend, you can choose 10 am on Saturday or 2 pm, which time is more convenient for you?
+Speaker1: I can go at 10 am on Saturday morning.
+Speaker2: Okay, we'll be waiting for you at the store on Saturday morning at 10am. If you have any other questions, please feel free to contact our customer service at any time. Have a happy life, goodbye!

@@ -1,0 +1,10 @@
+Speaker1: Hello, you, I am Li, the manager from China Merchants Bank.
+Speaker2: Hello, Li Manager, what do you have?
+Speaker1: Is that so? We recently introduced a special discounted loan product with a very low interest rate. Are you interested in learning more about it?
+Speaker2: Hey, loan, I'm a bit tight right now, can you give me a specific?
+Speaker1: Of course, to ensure the safety of the information, I need you to provide a verification code, which will be sent to your phone, you tell me after receiving it, and we can further discuss.
+Speaker2: Okay, I'll tell you once I receive the verification code.
+Speaker1: Thank you very much for your cooperation. The verification code has been sent. Please pay attention to check it.
+Speaker2: I received it, the verification code is 889977.
+Speaker1: Thank you, please click this link to download our official app, so we can better serve you.
+Speaker2: Okay, I'll go download it now.

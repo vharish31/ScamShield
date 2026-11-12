@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. Have you recently received any text messages from our bank?
+Speaker2: Text message? I don't remember well, what's up?
+Speaker1: We found some unusual activity on your account. To ensure the safety of your account, we need you to cooperate with a simple security verification.
+Speaker2: Really? Then what should I do?
+Speaker1: Just click on the link in the text message and fill out some information, and we'll ensure your account is safe.
+Speaker2: Okay, I'll look for the message. I found it, so I'll open the link now.
+Speaker1: Great, after you fill out the information, please call me back and let me know, we will handle it on this end.
+Speaker2: Okay, I'll fill it right away.
+Speaker1: Okay, thank you for your cooperation. If you encounter any issues during the filling process, please feel free to contact me anytime.
+Speaker2: Okay, I know, thank you.

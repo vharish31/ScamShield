@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural and Commercial Bank. Do you have any recent requirements for cash flow?
+Speaker2: Hello, I recently need some money, can you help me?
+Speaker1: We have a low interest loan product that is very suitable for your situation, no collateral is required, approval is fast, and you can get the loan today.
+Speaker2: How do I apply? It sounds good.
+Speaker1: You just need to download our bank's official app, fill out the relevant information, and upload some basic data to complete it.
+Speaker2: How can I know if the official app I download is authentic?
+Speaker1: You can rest assured, our app is available in all major app stores. You can directly search for our bank name to download it, there will be no issues.
+Speaker2: Okay, let me try.
+Speaker1: Additionally, to speed up the approval process, you can click on the "Quick Pass" on the homepage of the app after downloading it, enter the recommendation code 123456, and your application will be prioritized for processing.
+Speaker2: Recommendation code 123456, okay, I noted it down. Is there anything else to pay attention to?
+Speaker1: No problem, if you have any issues during the download or application process, please feel free to contact our customer service at any time. We wish you a successful application!

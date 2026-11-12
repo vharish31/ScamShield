@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm little Li, I saw your new IRQ smartwatch on your website and I want to know more about it.
+Speaker2: Hey, Li, we really have new IRQ smartwatches. What specific aspects do you want to know about?
+Speaker1: What are the features and price of this watch?
+Speaker2: This IRQ smartwatch supports heart rate monitoring, sleep quality analysis, and can connect to a phone to view information. It costs 2680 yuan.
+Speaker1: How long does the battery of this watch last?
+Speaker2: In general, this watch's battery can last about five days, and it doesn't need frequent charging when used normally.
+Speaker1: What time can I expect my order to ship if I place it today?
+Speaker2: If you place an order today, we can arrange delivery tomorrow, usually within three to five working days.
+Speaker1: Okay, thank you for your detailed introduction. I'll think it over before making a decision.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a great day!

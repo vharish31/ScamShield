@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: This is a customer service representative from the China Construction Bank. We have detected unusual activity on your account and need you to cooperate with us for a security verification.
+Speaker2: What unusual activity?
+Speaker1: We suspect that your account may have been illegally used, to ensure the safety of your funds, please provide your bank card number and verification code.
+Speaker2: How do I know you're a real bank employee?
+Speaker1: You can verify through our official phone, this is my work number, 1236565, you can check it out.
+Speaker2: Okay, I'll look it up.
+Speaker1: Okay, check it out. If it's fine, we can continue.
+Speaker2: I checked, everything is okay.
+Speaker1: Could you please provide your bank card number and verification code? We need to handle this issue urgently.
+Speaker2: The credit card number is 6228480000000000, the verification code is 1234.
+Speaker1: Okay, we have recorded your account issue and will process it quickly. Thank you for your cooperation.

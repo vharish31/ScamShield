@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the express delivery center of speedy delivery, I am customer service representative Lee Huai, your package was lost during transportation, we are very sorry to bring you inconvenience.
+Speaker2: Oh, really? Then what do we do?
+Speaker1: To compensate you, we can provide you with a compensation amount, but you need to first click on the link we send and fill out some personal information so that we can verify your identity.
+Speaker2: Okay, please send me the links.
+Speaker1: Okay, just a moment, I'll send it to you now. Moreover, to prevent such incidents from happening again, we suggest you install our official app, which allows you to track package dynamics in real-time.
+Speaker2: Can I install an app too? What's the name of the app?
+Speaker1: You can download our app called "Speed Delivery Official" from the mobile app store.
+Speaker2: Okay, I'll go download it. Thank you for your help.
+Speaker1: No problem, feel free to contact me if you have any questions. Have a nice life, bye.
+Speaker2: Goodbye.

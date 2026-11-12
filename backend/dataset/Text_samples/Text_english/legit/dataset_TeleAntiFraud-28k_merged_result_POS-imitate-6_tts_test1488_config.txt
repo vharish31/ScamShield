@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service girl at the food square, I saw that you bought a membership card from us before, but it seems like you haven't been using it.
+Speaker2: Oh, really? I really forgot. What discounts do member cards have?
+Speaker1: As a member, you can enjoy a 90% discount on all items and accumulate points to exchange for gifts. You currently have a lot of points that can be exchanged for practical items or food discount coupons.
+Speaker2: Listen well, then how do I check my points?
+Speaker1: You can log in to your account on our official website or mobile app to see your point balance at a glance.
+Speaker2: Okay, now I'll log in and take a look.
+Speaker1: Okay, if you have any issues during the login process, feel free to contact me anytime.
+Speaker2: Logged in successfully, I see there are quite a few points. So how do I redeem rewards?
+Speaker1: You can select your favorite gift in the point store and click on exchange after, follow the instructions to complete the transaction.
+Speaker2: Okay, thank you for your help. I'll check what appropriate gifts are available.

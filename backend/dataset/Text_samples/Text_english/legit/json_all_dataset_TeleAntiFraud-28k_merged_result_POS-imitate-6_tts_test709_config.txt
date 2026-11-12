@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: I saw your ad on Five Eight City saying you sell new energy bread trucks.
+Speaker2: Oh, new energy buses, we mainly sell small cars here, the buses are temporarily out.
+Speaker1: Do you have any other new energy vehicles?
+Speaker2: Yes, we have several new electric small cars here with long-lasting range, are you interested?
+Speaker1: Sure, can you introduce yourself?
+Speaker2: Of course. We have a small, new electric car with a range of about 300 kilometers, suitable for city walking, and there's a medium-sized one with a range of up to 400 kilometers, with a more complete configuration.
+Speaker1: The sound is great, I recently wanted to buy a new electric car, do you guys have a test drive service here?
+Speaker2: Yes, we provide test drive service, you can come to the store to experience it. What time is convenient for you?
+Speaker1: How was your weekend?
+Speaker2: Is this weekend good? Is Saturday and Sunday convenient too?
+Speaker1: Can I come at around 10 am on Saturday morning?
+Speaker2: Okay, I'll wait for you at the store on Saturday morning at 10 am.

@@ -1,0 +1,11 @@
+Speaker1: Hello, you are the customer service representative of Alibaba Group, I am Lee Huai, and you are Zhang Wei?
+Speaker2: Yes, hello, what do you have?
+Speaker1: We noticed that you recently purchased a smartwatch on our platform, but unfortunately, the smartwatch was lost during transportation.
+Speaker2: Really? What should I do, I'm still waiting.
+Speaker1: I'm very sorry to have caused you inconvenience. To make it up to you, we've decided to give you a refund and also a 200 yuan shopping voucher.
+Speaker2: Great, how do I operate it?
+Speaker1: To ensure safety, we need you to click a link to verify your identity, so we can process your refund.
+Speaker2: How do I click on a link?
+Speaker1: You can scan the QR code with WeChat or click on the link in the text message I sent you.
+Speaker2: Okay, I'll check my messages later, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Wishing you a happy life.

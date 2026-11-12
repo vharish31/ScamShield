@@ -1,0 +1,12 @@
+Speaker1: Hey, are there fresh apricots in your store?
+Speaker2: Yes, we have fresh apricots here, just arrived goods.
+Speaker1: If I order now, when will it arrive?
+Speaker2: If you place an order now, we will deliver it to you tomorrow morning.
+Speaker1: Okay, I'll place an order now. Which payment methods do you support?
+Speaker2: We support WeChat Pay, Alipay, and bank card payments.
+Speaker1: Can I pay with Alipay?
+Speaker2: Of course, after you place an order, you can choose to pay with Alipay.
+Speaker1: Okay, I placed an order, are your peaches sold by the pound?
+Speaker2: Yes, apricots are sold by the pound, a pound is thirty yuan.
+Speaker1: Okay, I'll buy two kilograms.
+Speaker2: Okay, two kilograms of peaches cost sixty yuan, delivered tomorrow morning.

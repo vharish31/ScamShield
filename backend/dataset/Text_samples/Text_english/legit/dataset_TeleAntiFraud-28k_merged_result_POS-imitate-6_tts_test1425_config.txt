@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I am Li Ming, looking for Zhang Huai has something to do.
+Speaker2: Oh, Li Ming, Zhang Huá is not here, say, what's up?
+Speaker1: He said he wanted to borrow a book from me last time, but I don't know when he'll come back.
+Speaker2: He may come back this afternoon, I'll have him contact you.
+Speaker1: Okay, can you help me out. And how has he been lately?
+Speaker2: That's okay, the work is busy, but the spirit is good.
+Speaker1: Okay, thank you for your message.
+Speaker2: No problem, contact me later if there's anything.

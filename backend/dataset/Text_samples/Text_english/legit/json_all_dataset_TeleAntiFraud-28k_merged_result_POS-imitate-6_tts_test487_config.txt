@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I want to consult your delivery service.
+Speaker2: Hello, Xiaoming, this is Meituan Waimai customer service, what can I help you with?
+Speaker1: Do your services cover the Happy Village community?
+Speaker2: Our service range includes happy communities, you can order with peace of mind.
+Speaker1: That's great, I want to order a spicy hot pot, when can you deliver it?
+Speaker2: Based on your location, we estimate delivery within 30 to 40 minutes. Please place your order now, and we will arrange it quickly.
+Speaker1: Okay, I'll add another serving of spicy stir-fried bean sprouts.
+Speaker2: Okay, one spicy pot of Sichuan hot pot, one spicy stir-fried bean sprouts, has already been added for you. Do you need any other help?
+Speaker1: Thank you for your service.
+Speaker2: No problem, please feel free to contact us if you have any questions. Enjoy your meal, goodbye.

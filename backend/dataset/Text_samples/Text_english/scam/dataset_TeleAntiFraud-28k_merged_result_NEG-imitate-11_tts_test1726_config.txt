@@ -1,0 +1,8 @@
+Speaker1: Hello, I am a customer service representative from SF Express, there might be a lost package for you recently, please verify your information.
+Speaker2: Really?
+Speaker1: Yes, in order to ensure that the package can be safely delivered, we need you to provide the recipient's name and contact information.
+Speaker2: I am Li Huai, my phone number is 13800000000.
+Speaker1: Okay, Li Huangshēng, we have recorded it. Moreover, for your convenience in querying the status of your package, you can download our official app, which provides detailed information.
+Speaker2: Okay, I'll download.
+Speaker1: After downloading, register and enter the verification code "13800000000", then you can directly query.
+Speaker2: Okay, thank you.

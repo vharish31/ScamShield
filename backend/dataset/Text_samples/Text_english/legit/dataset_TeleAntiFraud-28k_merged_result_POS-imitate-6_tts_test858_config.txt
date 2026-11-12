@@ -1,0 +1,13 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, I'm good, how are you?
+Speaker1: How have you been lately?
+Speaker2: I've been pretty busy lately, work has been a bit much. How about you?
+Speaker1: I'm also, work is quite tense. Weekend have space? Want not want out go relax one down?
+Speaker2: Great, what's a good place to go on the weekend?
+Speaker1: There's a new coffee shop that's nice, there's an exhibition too, we can check it out.
+Speaker2: Can you specify where it is?
+Speaker1: Right in the heart of the city's bright square, it's very easy to find.
+Speaker2: Okay, see you this weekend. What time will we meet there?
+Speaker1: Let's meet at two in the afternoon, it's perfect for a lunch break before we go.
+Speaker2: Okay, two o'clock meeting. Contact then. Bye.
+Speaker1: Okay, see you this weekend, goodbye.

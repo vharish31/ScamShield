@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm little Zhang, this is the customer service representative of Huatai Finance in Shenzhen, we have the latest credit loan policy here, the interest rate is very favorable, you can take a look.
+Speaker2: Hello, I recently need to convert funds, can you explain in detail?
+Speaker1: Of course, our latest loan product this time doesn't require collateral, interest rate is as low as 0.3%, approval speed is fast, and the fastest is to approve and disburse funds on the same day.
+Speaker2: What is the application process like?
+Speaker1: Please provide your ID and bank account number. After our review is approved, click on this link to complete the online application.
+Speaker2: Okay, how do I get this link?
+Speaker1: I'll send this to you now. Please pay attention to check the SMS, click on the link after receiving it, and follow the instructions.
+Speaker2: I got the text message, so I'm going to operate now.
+Speaker1: Okay, if you have any issues during the operation, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help.

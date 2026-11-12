@@ -1,0 +1,10 @@
+Speaker2: Hello, who are you?
+Speaker1: Hello, I am a waiter at some restaurant, want to confirm your 6 pm reservation tonight.
+Speaker2: I have reserved it.
+Speaker1: Okay, we have reserved a spot for you here. Do you need to prepare anything in advance?
+Speaker2: Just the two of us.
+Speaker1: Okay, do you have any special dietary requirements, such as allergies to certain foods?
+Speaker2: No, there are no special requirements.
+Speaker1: Okay, we'll be ready on this side. If you have any other needs, feel free to contact us anytime.
+Speaker2: Okay, thank you. Then we'll meet in the evening.
+Speaker1: Okay, see you later. Have a nice dinner. Bye.

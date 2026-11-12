@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Lee Huai?
+Speaker2: Hello, who are you?
+Speaker1: I am a customer service representative for SF Express, and recently one of your packages was intercepted, so we need your cooperation to handle it.
+Speaker2: Is it really? Why did my package get intercepted?
+Speaker1: According to our system, your package has been temporarily detained due to suspected prohibited items. Please provide some information to verify your identity.
+Speaker2: What do I need to do?
+Speaker1: You can click on the link we send, fill in the relevant information, and our system will automatically verify.
+Speaker2: Okay, how do I get that link?
+Speaker1: Please wait a moment, I will send the link via text message to your phone, you can click to fill out immediately after receiving.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Please complete the operation as soon as possible to quickly solve this problem.

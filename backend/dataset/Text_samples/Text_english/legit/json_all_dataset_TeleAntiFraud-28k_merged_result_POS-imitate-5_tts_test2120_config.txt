@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, you
+Speaker1: Is that taxi rentable without a deposit?
+Speaker2: Yes, we support credit card pre-authorization services via WeChat and Alipay.
+Speaker1: How much time do I need to be released?
+Speaker2: WeChat requires 650+ minutes, PayPal requires 600+ minutes.
+Speaker1: Okay, I'll try it later.
+Speaker2: Okay, you can directly operate it on your phone.
+Speaker1: Why wasn't this option available when I made the appointment yesterday?
+Speaker2: It's possible that your credit score hasn't met the requirements yet, or you haven't activated this service at the time.
+Speaker1: Can I check my account on Alipay or app now?
+Speaker2: Yes, I suggest you check it out on our app for convenience.
+Speaker1: Okay, thank you.
+Speaker2: No problem, feel free to contact me anytime if you have other issues.
+Speaker1: Goodbye.
+Speaker2: Goodbye.

@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, how are you? Do you still have sheep fried rice?
+Speaker2: Hello, the lamb fried rice is sold out, but there are other fried rice options, such as chicken fried rice, would you like to try?
+Speaker1: How much does a portion of chicken fried rice cost?
+Speaker2: The chicken fried rice is fifteen yuan per portion. If you want it, I'll place an order for you right away.
+Speaker1: Okay, I'll have a chicken fried rice, do you guys have fried buns and steamed buns here?
+Speaker2: Yes, fried buns and steamed buns are three in one, how many do you want?
+Speaker1: Do you have any free soup here?
+Speaker2: Yes, we have some free soup here. Your order is enough for you to eat a meal, right?
+Speaker1: Okay, thank you.
+Speaker2: No problem, please wait a moment, I'll prepare it right away.
+Speaker1: Okay, thank you, I'll come over later to pick it up.
+Speaker2: Okay, just tell us your name when you arrive.

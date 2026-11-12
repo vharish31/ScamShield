@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative of Tianyuan Investment Company. Have you registered on our platform before?
+Speaker2: Uh, is that so? I have a bit of trouble remembering.
+Speaker1: Yes, we noticed that you are interested in investing in finance, do you want to know about a recent investment project with high returns?
+Speaker2: Invest in finance? It sounds good, what project?
+Speaker1: This is a high-yield, low-risk investment project. We guarantee a minimum monthly return of 5%, and you can withdraw at any time.
+Speaker2: Listen sounds good, how to join?
+Speaker1: It's very simple. Just click on the link I send you, download our official app, register an account, and then you can start investing.
+Speaker2: Okay, let me try.
+Speaker1: Great! Here's the link. Click it to download directly. If you have any questions, feel free to contact me. Good luck with your investment! Bye!
+Speaker2: Thank you, goodbye.

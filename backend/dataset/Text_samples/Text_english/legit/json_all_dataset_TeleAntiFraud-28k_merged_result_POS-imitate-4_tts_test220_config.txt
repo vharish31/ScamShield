@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm a server at a fast food restaurant, you ordered food from us before, now there's some discount activities we want to notify you about.
+Speaker2: Hello, do you have any discount activities?
+Speaker1: That's it, our store is now offering a set menu, originally priced at 120 yuan, but now you can get it for 80 yuan and also receive a small food for free.
+Speaker2: Hey, this activity sounds great, when does it end?
+Speaker1: This activity ends by the end of this month. If you're interested, you can place an order anytime through our app.
+Speaker2: Okay, now I'll go take a look.
+Speaker1: Great, if you have any issues during the ordering process, feel free to contact me anytime. My phone number is 400123456.
+Speaker2: Okay, thank you for reminding me, I'll place an order soon.
+Speaker1: No problem, we're waiting for your order, wish you enjoy your meal.
+Speaker2: Okay, thank you, bye.

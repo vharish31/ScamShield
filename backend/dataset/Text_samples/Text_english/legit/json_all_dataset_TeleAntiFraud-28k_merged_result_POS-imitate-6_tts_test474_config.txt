@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you? I am a waiter at some restaurant, you reserved a table for tonight at seven o'clock, would you confirm again if you will come on time?
+Speaker2: Hello, I might be a little late, around 7:30 or so.
+Speaker1: Okay, no problem, we will reserve a seat for you. Do you have any special dietary requirements, such as not eating spicy or being allergic to certain foods?
+Speaker2: I don't eat spicy, and my friend is allergic to seafood.
+Speaker1: Understood, we will pay special attention when preparing the dishes. Moreover, what is your reservation for our which room?
+Speaker2: I reserved a window seat with a view of the street.
+Speaker1: Okay, the armchair by the window is ready for you. Just tell the front desk your reservation name when you arrive, and they will guide you.
+Speaker2: Okay, thank you for your reminder, see you later.
+Speaker1: You're welcome. We're looking forward to your visit. If you have any other needs, please contact us anytime.

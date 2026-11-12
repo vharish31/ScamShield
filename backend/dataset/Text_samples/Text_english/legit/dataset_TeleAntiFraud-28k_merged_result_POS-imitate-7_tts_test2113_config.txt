@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I want to consult your restaurant reservation service.
+Speaker2: Hello, Xiao Ming, welcome to consult, I am a waiter in the restaurant, you can call me Xiao Zhang. What can I help you with?
+Speaker1: Can you tell me about your signature dishes and their prices?
+Speaker2: Our restaurant special dishes include Kung Pao Chicken, Steamed Fish and Beef Stir Fry, priced at ¥38, ¥45 and ¥30 respectively.
+Speaker1: What time do you open?
+Speaker2: We open at eleven in the morning and close at nine in the evening. On weekends, we extend until ten at night.
+Speaker1: Okay, can I reserve a seat for 7 pm on Saturday evening?
+Speaker2: Of course, the 7 pm spot on Saturday has been reserved for you. How many spots do you need to reserve?
+Speaker1: Two people, thank you.
+Speaker2: Great, your two seats are reserved. See you on Saturday!

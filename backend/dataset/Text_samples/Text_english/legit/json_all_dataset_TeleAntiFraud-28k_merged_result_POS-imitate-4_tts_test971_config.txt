@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Liu, where are you?
+Speaker2: Hey, little Liu, I'm at the subway station exit, ready to walk to your place now.
+Speaker1: Okay, let's meet at the exit of the subway station. I'll wait for you at the door of the small community.
+Speaker2: Okay, I'll be there in about ten minutes or so, just wait for me.
+Speaker1: No problem, I happen to have a little time right now, be careful on your way.
+Speaker2: Thank you, you too, see you later.
+Speaker1: Uh-huh, do you remember to bring an umbrella? The weather forecast says there's a chance of rain today.
+Speaker2: Oh, really? I check my phone, okay, I know now, thank you for reminding me.
+Speaker1: No problem, just be careful on the road, see you later.
+Speaker2: Okay, see you later.

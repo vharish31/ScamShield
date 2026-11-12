@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at the door of your community, I can't find the property management office, can you help me find the way?
+Speaker2: Hello, you entered the community from the main entrance, walked about 200 meters, saw a small garden on the left, the property office was opposite the garden, you saw a blue sign on the property office, which read "property management office", that's it.
+Speaker1: Okay, thank you, how long do I need to walk?
+Speaker2: Walk slowly, about five minutes, almost there.
+Speaker1: Understood, there's another question. I'm here to pay water and electricity bills. Do you know if the property can pay now?
+Speaker2: Sure, you can directly go to the property management office, there's a specific window for collecting fees, they now support WeChat and Alipay payment, quite convenient.
+Speaker1: That's great, thank you for your help, I'll go now.
+Speaker2: No problem, you arrived at the place, if you have any questions, feel free to ask me anytime.
+Speaker1: Okay, thank you again, goodbye.
+Speaker2: Goodbye, wish you success.

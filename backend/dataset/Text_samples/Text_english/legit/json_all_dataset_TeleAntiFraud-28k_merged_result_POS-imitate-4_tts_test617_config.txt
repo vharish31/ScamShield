@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask about your fitness program
+Speaker2: Hello, I'm very happy to serve you. What time period are you interested in?
+Speaker1: Do you have a yoga class at seven o'clock in the evening?
+Speaker2: Yes, we have a beginner yoga class at seven o'clock in the evening that is very suitable for beginners.
+Speaker1: Do I need to make a reservation for this course?
+Speaker2: Yes, to ensure that each student has enough space, we suggest booking in advance.
+Speaker1: Okay, I'll make a reservation.
+Speaker2: Okay, please tell me your name and contact information, I will record it for you.
+Speaker1: I am Li Huai, my phone number is 1345678900.
+Speaker2: Okay, Li Huangshēng, I have already reserved the 7 pm yoga class for you today. Wish you a happy class!

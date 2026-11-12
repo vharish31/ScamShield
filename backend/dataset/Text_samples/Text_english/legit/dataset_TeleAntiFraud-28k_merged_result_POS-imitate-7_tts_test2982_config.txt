@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am customer service from an e-commerce platform, this is customer service representative Zhang.
+Speaker2: Hello, little Zhang, what can I help you with?
+Speaker1: Hey, I checked your account and some of your shopping points are about to expire, they'll clear out at midnight tonight.
+Speaker2: Oh, really? I don't know how.
+Speaker1: You have accumulated 26,800 points on your account, which can be exchanged for goods worth about 4,000 yuan.
+Speaker2: Uh, how do I exchange it?
+Speaker1: I have already sent you a text message containing an exchange link. Click on the link to enter the mall and select your desired products.
+Speaker2: Okay, I'll take a look. How are these points earned?
+Speaker1: These points are the ones you accumulated while shopping on our platform, and you will receive bonus points for every purchase of a certain amount.
+Speaker2: I was supposed to use it up last night, but I didn't. Thank you for reminding me.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Have a great shopping trip!

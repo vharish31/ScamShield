@@ -1,0 +1,10 @@
+Speaker1: Hello, is it little Li?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative from China Construction Bank, we recently introduced a no collateral small loan service, which can be quickly approved, to solve your cash flow problems.
+Speaker2: I'm having a bit of a cash flow problem lately, your service sounds great.
+Speaker1: Great, to serve you faster, you can first click on the link I send to you and fill out some basic information.
+Speaker2: Okay, I'll go fill it out later.
+Speaker1: Thank you very much, after filling out, please download our official app, so you can more conveniently manage your loan.
+Speaker2: What is the name of this app?
+Speaker1: You can directly search for China Construction Bank loans by downloading our official app.
+Speaker2: Okay, I understand, thank you for your help.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Zhang, I'm at the door of your community, can't find your house.
+Speaker2: Hello, little Zhang, I'm on the first floor of building three, have you seen the stone lions at the entrance?
+Speaker1: Can you see where the stone lion is?
+Speaker2: Just keep walking straight until you see the first turn, then turn left and keep walking until you reach the end, which is the third floor.
+Speaker1: Okay, then I'll go take a look.
+Speaker2: Okay, I'm waiting for you here, you arrived, give me a call.
+Speaker1: Okay, I'll call you as soon as I arrive.
+Speaker2: Okay, be careful on the road.

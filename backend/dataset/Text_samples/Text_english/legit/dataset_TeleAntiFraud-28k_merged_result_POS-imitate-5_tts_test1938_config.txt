@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I want to cut my hair, do you guys have a place?
+Speaker2: Hello, little Zhang, do you want to make a reservation at this place at what time?
+Speaker1: Can I make a reservation for tomorrow afternoon at 3:30 PM?
+Speaker2: Can I come at 3:30 PM tomorrow? What kind of haircut do you want, and do you have any special requirements?
+Speaker1: Can you cut my hair short, not too short, with some layers, please?
+Speaker2: Okay, you can relax, we will design according to your requirements. Remember to bring a mask when you come to the store.
+Speaker1: Okay, I understand. Thank you. By the way, I just moved to a new house, not very familiar with the road, can you tell me how to walk?
+Speaker2: Of course, where are you now? We are here at the new street corner, get off the subway line one at the new street corner station, walk north three hundred meters, there's a small park on the left hand side, we are just opposite the park.
+Speaker1: Okay, get off the subway at the new street corner station and walk north, there's a small park on the left side, and the bar is on the opposite side of the park?
+Speaker2: Okay, you can call me after you arrive, I'll be waiting for you at the door.

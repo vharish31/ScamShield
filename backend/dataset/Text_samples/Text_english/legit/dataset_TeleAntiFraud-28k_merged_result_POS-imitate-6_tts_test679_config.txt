@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am Meituan Waimai's customer service, your order needs to be confirmed.
+Speaker2: Hello, do you have any questions?
+Speaker1: The Hong Kong-style tea restaurant you ordered from yesterday said that their Hong Kong-style lemon tea and honeydew soup are out of stock today.
+Speaker2: Is there any alternative?
+Speaker1: They have apple juice, peach juice, lychee juice, and pineapple juice and ginger juice now.
+Speaker2: Can I have that plum juice?
+Speaker1: Sure, there's a Hong Kong version of plum juice too, how many cups do you want?
+Speaker2: Two beers, plus one more glass of bamboo juice.
+Speaker1: Okay, two cups of lychee juice and one cup of bamboo shoots juice, order now.
+Speaker2: Thank you, please.
+Speaker1: No problem, feel free to contact me anytime. Goodbye!
+Speaker2: Okay, bye!

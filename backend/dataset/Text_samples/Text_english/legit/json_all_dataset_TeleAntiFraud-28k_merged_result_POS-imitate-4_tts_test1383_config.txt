@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm little Li, can I consult your delivery service on this side?
+Speaker2: Hello, little Li. What can I help you with?
+Speaker1: I'm at the New Tian Di small community near you, want to order takeout, don't know if you can deliver here?
+Speaker2: Okay, we can cover New Tian Di Xiao Quan. What do you want to order for food?
+Speaker1: I want to order a beef stir-fry and a glass of iced red tea.
+Speaker2: Okay, beef stir-fry and red tea, total 30 yuan. Estimated delivery in 30 minutes.
+Speaker1: Okay, I'll pay online later. Do you have any discount coupons?
+Speaker2: Yes, first-time customers can use a 5 yuan discount coupon.
+Speaker1: Great, I'll place the order. Thank you.
+Speaker2: No problem, I'm looking forward to your order. If you have any other issues, feel free to contact me. Goodbye.
+Speaker1: Okay, bye.

@@ -1,0 +1,13 @@
+Speaker1: Hello, is this Zhang Wei?
+Speaker2: Hey, who are you?
+Speaker1: Hello, I am an AliExpress customer service representative. We found an anomaly in your account and need your cooperation to handle it.
+Speaker2: Is there a problem with my account?
+Speaker1: Yes, we suspect that your account has a risk of being stolen, in order to protect your property safely, we need you to provide some information.
+Speaker2: What information do you need?
+Speaker1: We need your ID number, bank account info, and recent transaction password to verify your identity.
+Speaker2: This sounds wrong, how do you verify my identity?
+Speaker1: This step is very important. We will use this information to ensure your account is safe. Additionally, we found out someone used your account for a large transaction on a certain platform, so please handle it quickly.
+Speaker2: What should I do now?
+Speaker1: You can click on the link we send to you, log in and follow the instructions, which will quickly solve the problem.
+Speaker2: Okay, I'll take a look.
+Speaker1: Okay, the link has been sent to your phone. Please handle it quickly to ensure account safety. If there are any other issues, feel free to contact me anytime. Bye.

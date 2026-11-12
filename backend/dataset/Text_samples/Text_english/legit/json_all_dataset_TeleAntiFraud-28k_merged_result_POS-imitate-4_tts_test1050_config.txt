@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from some e-commerce platform. There is a large amount of points in your account about to expire, and I want to confirm with you.
+Speaker2: Hello, yes, I received your text message, how do I use the points?
+Speaker1: You can redeem products with points, such as phones or electronics, or directly deduct cash. The points accumulated in your account can be used to deduct a lot of money.
+Speaker2: How can I check which products can be exchanged with points?
+Speaker1: You can log in to our platform and enter the point mall to view. There are detailed product lists and exchange rules there.
+Speaker2: Okay, I'm logging in now.
+Speaker1: Hello, if you encounter any issues while using, please contact our customer service at any time.
+Speaker2: When will the points expire?
+Speaker1: Points will be cleared at midnight tonight. It's recommended to use them quickly.
+Speaker2: I understand, thank you for your reminder.
+Speaker1: You're welcome. If you have any other questions, please contact us anytime. Have a happy shopping!

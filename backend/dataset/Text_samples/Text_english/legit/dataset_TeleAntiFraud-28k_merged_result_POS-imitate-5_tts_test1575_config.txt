@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Hi, I'm small Li, the customer service of the community, recently we added some convenience services in our community, do you have any interest?
+Speaker2: What kind of service is it?
+Speaker1: We have added a new express delivery pickup service, as well as housekeeping and repair services. If you need any of these, please contact us to schedule.
+Speaker2: How do you charge for housekeeping services?
+Speaker1: The fees for housekeeping services vary depending on the needs, such as a one-time fee of 100 yuan for regular cleaning and 200 yuan for deep cleaning.
+Speaker2: What is maintenance service?
+Speaker1: Our repair services are priced based on specific repair projects. For example, replacing a light bulb costs 20 yuan, and repairing a water pipe starts at 50 yuan. The exact price will be determined by a professional repair technician upon on-site evaluation.
+Speaker2: Okay, thank you for your introduction. I will contact you when I need it.

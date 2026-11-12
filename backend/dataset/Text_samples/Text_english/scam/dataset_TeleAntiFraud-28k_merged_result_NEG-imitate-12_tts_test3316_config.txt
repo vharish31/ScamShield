@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I'm little Li, from Xingyue Investment Company, specializing in high return investment consulting.
+Speaker2: Hello, what can I help you with?
+Speaker1: I have a great investment opportunity here with a yearly return rate of up to 30%, and it's very safe.
+Speaker2: Is there really such a good thing?
+Speaker1: Of course, this is a brand new investment product, and only a few customers can enjoy this opportunity now.
+Speaker2: What do I need to do?
+Speaker1: First, download our Starry Investment App, through which you can easily manage your investments.
+Speaker2: Do you want to download the app? I'm afraid it's not safe.
+Speaker1: No need to worry, our app has passed strict security tests and all transactions have bank-level encryption protection.
+Speaker2: Okay, let me try.
+Speaker1: Great, download it and register with me, I can provide you with detailed guidance after that.

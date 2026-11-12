@@ -1,0 +1,9 @@
+Speaker2: Hello, I am a loan officer at Commercial Bank, there is a great loan opportunity for you, which can solve your financial problems, have you recently had any financial needs?
+Speaker1: Hey, do you want a loan? I don't have any special needs right now.
+Speaker2: That's right, this loan has a very low interest rate and a fast approval speed, with no complicated procedures, making it ideal for temporary cash flow. You can consider it, and I can send you a link for more information.
+Speaker1: Can you send me the link? I'm afraid it's not safe.
+Speaker2: This link is safe, it's directly from the official website of the Commercial Bank, you can click it without any worries. If you have any other concerns, I can help you register and then guide you through the process by phone.
+Speaker1: I'm still a bit worried. What if something happens?
+Speaker2: We have a professional customer service team that can quickly solve any issues that arise. You can register an account and try it out, and if you're not satisfied, you can cancel at any time.
+Speaker1: Okay, how do I register?
+Speaker2: Okay, just a moment, I'll send you a link. After you click it, follow the instructions. Once you register, I'll call you to help you with the next steps.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at your store door, how come you can't find your store?
+Speaker2: Hello, where are you at the crossroads? Our store is at the intersection of People's Road and Liberation Road, walking north fifty meters will arrive.
+Speaker1: I'm on People's Road, but I didn't see your sign.
+Speaker2: Oh, maybe the sign was covered. You walk north and see the first store with a red sign is us.
+Speaker1: Okay, I'll try. Got it, what time do you close the door?
+Speaker2: We usually close the door at nine in the evening, but now it's four in the afternoon, so there are still a few hours left.
+Speaker1: That's great, I'll just go over there.
+Speaker2: Okay, I'm waiting for you at the store. Remember to say hello when you come in.
+Speaker1: Okay, thank you for your patience in answering, see you later.
+Speaker2: See you soon, be careful on the road.

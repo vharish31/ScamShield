@@ -1,0 +1,14 @@
+Speaker1: Hey, are you Liu boss?
+Speaker2: Hello, I am Liu boss, what's up?
+Speaker1: I am the client manager of Guangzhou Bank, we recently launched a low-interest loan product, very suitable for small and medium-sized enterprise owners to use.
+Speaker2: Can you tell me in detail?
+Speaker1: Of course, this loan product has an annual interest rate of only 4%, no collateral is required, the approval speed is fast, and it is very suitable for capital rotation.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: You just need to provide some basic company information and personal information, and then fill out our online application form.
+Speaker2: Where do I fill out the online application form?
+Speaker1: You can click on the link I sent you and fill it out directly on the webpage.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the link now. By the way, to ensure the safety of your data, it's best to add my WeChat first.
+Speaker2: Okay, let me add you on WeChat.
+Speaker1: Thank you very much, my WeChat number is: zhangxiaoguang123, see you later.
+Speaker2: Okay, see you later.

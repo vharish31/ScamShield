@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang, I want to consult your delivery service.
+Speaker2: Hello, I am the delivery customer service king, what can I help you with?
+Speaker1: What is the latest time we can order here?
+Speaker2: The latest we accepted orders was at 10 pm, but the specific delivery time may be adjusted based on your location.
+Speaker1: If you order at 9:30 PM, how long will it take to deliver?
+Speaker2: In general, if we place an order at 9:30 am, we will deliver it within 40 minutes or so, but if we encounter rush hour, there may be a slight delay.
+Speaker1: Okay, can you guarantee delivery by 9:30 pm?
+Speaker2: We will do our best to deliver on time, but if there are any special circumstances, we will contact you in advance. You can rest assured when placing your order.
+Speaker1: Can I place an order and try it out, and if there are any issues, can I still contact you guys?
+Speaker2: Of course, you will receive our order confirmation information after placing the order, which includes our customer service phone number. You can contact us anytime if you have any questions.

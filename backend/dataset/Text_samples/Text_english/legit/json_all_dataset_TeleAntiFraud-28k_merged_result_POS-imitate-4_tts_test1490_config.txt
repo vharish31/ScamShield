@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm from the community management, it seems there's an issue with the electricity in your house, do you need us to send someone over to take a look?
+Speaker2: Uh, is that so? I recently felt that the appliances at home are not normal. Can you send someone over to check it out?
+Speaker1: Okay, we will send someone over within an hour. Please keep the phone line open, our repairman will contact you.
+Speaker2: Okay, I understand. Thank you.
+Speaker1: No problem, this is what we should do. Are there any other things we can help with?
+Speaker2: I'm not available right now, but I'll get back to you if you need me.
+Speaker1: Okay, you can contact us anytime. After the master arrives, he will first check the circuit, ensure there are no safety hazards.
+Speaker2: Okay, thank you.
+Speaker1: No problem, you can call our service hotline anytime if you have any questions.
+Speaker2: Okay, I will. Bye.

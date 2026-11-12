@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how can I help you?
+Speaker1: Can you recommend any good restaurants here?
+Speaker2: Of course, do you want to eat Chinese or Western cuisine?
+Speaker1: I'd like to eat dinner, it's best if it's spicy.
+Speaker2: I recommend you to try the small restaurant on the old street, the Sichuan cuisine there is very delicious, many people recommend it.
+Speaker1: What time do they close shop?
+Speaker2: They are open from 10 am to 10 pm, you can choose a suitable time to go.
+Speaker1: Okay, thank you for your recommendation. I will check it out.
+Speaker2: No problem, I hope you enjoy your meal. If you have any other questions, feel free to ask me anytime.

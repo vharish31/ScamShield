@@ -1,0 +1,11 @@
+Speaker1: Hey, hi, I'm the little Zhang from the online food ordering platform, you ordered food from us before, now there's a new promotion, want to know more?
+Speaker2: Hello, can you, what new activities do you have?
+Speaker1: We have an activity that's 100% off, plus a 20% discount for new users' first order, which makes the discount quite substantial.
+Speaker2: When does this activity end?
+Speaker1: This activity ends by the end of the month, if you're interested, you can place an order quickly.
+Speaker2: Okay, I'll check if I have time tonight to go out with friends for dinner. If not, I'll order food on your platform.
+Speaker1: Okay, you can first check out our platform's restaurants, which have various flavors to choose from. If you decide, you can place an order directly, and if there are any issues, you can contact me anytime.
+Speaker2: Then I'll take a look, thank you for your recommendation.
+Speaker1: No problem, I hope you have a pleasant dining experience on our platform. If you have any other questions, please contact me anytime.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye, wish you a happy day.

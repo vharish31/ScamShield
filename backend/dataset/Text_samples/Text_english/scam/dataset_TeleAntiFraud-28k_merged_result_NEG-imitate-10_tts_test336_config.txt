@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the loan officer at Tian An Bank, I am Li Ming.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed that your company's recent cash flow might be a bit difficult, and I can provide a no-collateral loan of a certain amount, just need you to provide some basic information.
+Speaker2: Hmm, this sounds good, what do I need to do?
+Speaker1: It's very simple. Just download our official app, fill out the relevant information, and we'll have a specialist review it.
+Speaker2: Do you want to download the app? How do I know this is your bank's official app?
+Speaker1: Don't worry, you can easily find the Tianan Bank app in the app store by searching directly. It's very convenient. I can give you a link, just click to download directly.
+Speaker2: Okay, let me try it out.
+Speaker1: Okay, I will immediately send you the link, you can download it directly after receiving it, and feel free to contact me if you have any questions.
+Speaker2: Thank you, I will pay attention.

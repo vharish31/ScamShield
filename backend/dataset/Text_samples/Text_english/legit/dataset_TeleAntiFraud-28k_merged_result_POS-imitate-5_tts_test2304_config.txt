@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiaoming, do you have any space tomorrow in this place?
+Speaker2: Hello, Xiao Ming, I am customer service representative Xiao Zhang, do you want to book an appointment for tomorrow?
+Speaker1: Yes, I want to book a haircut for tomorrow morning, do you have any available spots?
+Speaker2: Okay, I'll look it up for you. Just a moment.
+Speaker1: Okay, thank you.
+Speaker2: Found it, there are a few available spots in the morning, which time slot would you like to reserve?
+Speaker1: Can I come at around nine?
+Speaker2: 9 am is available, I can help you book a haircut at 9 am. Please provide your contact information to confirm the appointment.
+Speaker1: Okay, my phone number is 13800138000.
+Speaker2: Okay, I have recorded your contact information. The appointment is successful. See you tomorrow at nine o'clock here. If there are any changes, please contact us in advance.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, goodbye.

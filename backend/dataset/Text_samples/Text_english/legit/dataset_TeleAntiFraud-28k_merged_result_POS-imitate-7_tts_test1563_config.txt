@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Li, I want to order some takeout today, do you have any recommendations?
+Speaker2: Hello, Mr. Li, I am small Zhang from the delivery platform, we have many choices here, such as Sichuan cuisine, Cantonese cuisine, and Western cuisine, what do you prefer?
+Speaker1: What are some good recommendations for something light and refreshing to eat?
+Speaker2: Okay, there's a halal restaurant here, the cuisine is simple, the taste is good, you can try their cold cucumber and steamed fish, both are very popular.
+Speaker1: How much does it cost to sound good?
+Speaker2: The prices at this restaurant are average. Stir-fried vegetables with cabbage cost twelve yuan, steamed fish with different sizes cost between thirty-five and fifty yuan.
+Speaker1: Okay, I'll take these two, can you send them?
+Speaker2: Of course, where is your address? I'll help you place an order here.
+Speaker1: The address is Yángguāng huāyuán xiǎozhuāng sān huǒ lóu èr dàn yī xīng yī yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yīng yī
+Speaker2: Okay, I have recorded it, it will be sent over in about half an hour. Do you need me to make any notes?
+Speaker1: No longer needed, thank you.
+Speaker2: Great, your dinner is all set. If you have any issues, please feel free to contact us anytime. Enjoy your meal!

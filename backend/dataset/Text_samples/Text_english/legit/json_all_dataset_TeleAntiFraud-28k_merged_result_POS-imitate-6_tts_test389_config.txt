@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you know of any places here that are suitable for weekend activities with children?
+Speaker2: Of course, we have a large children's playground here, with many playground equipment suitable for different age groups of children.
+Speaker1: How much does it cost to listen?
+Speaker2: An adult ticket costs 50 yuan and a child ticket costs 30 yuan.
+Speaker1: What were the opening hours on the weekend?
+Speaker2: The weekend is open from 9am to 6pm. You can come anytime.
+Speaker1: Okay, thank you for your information. We plan to go at 10 am on Saturday morning.
+Speaker2: Okay, see you at 10 am on Saturday, wish you all have fun!

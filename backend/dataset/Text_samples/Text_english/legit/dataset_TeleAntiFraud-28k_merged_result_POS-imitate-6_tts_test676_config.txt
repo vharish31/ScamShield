@@ -1,0 +1,12 @@
+Speaker1: Hello
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have any early morning 8 o'clock appointments here?
+Speaker2: What service do you need to book?
+Speaker1: I need to make an appointment for a haircut, see if there's a suitable time available.
+Speaker2: Okay, tomorrow morning at eight o'clock we have a free slot, are you sure to schedule this time?
+Speaker1: Sure, I confirm the appointment. Do you need any information?
+Speaker2: Please tell me your name and contact number so we can record it.
+Speaker1: My name is Zhang San, phone number is 13123123000.
+Speaker2: Okay, Mr. Zhang, your appointment has been successful. Remember to arrive ten minutes early.
+Speaker1: Okay, thank you. Bye.
+Speaker2: No problem, goodbye.

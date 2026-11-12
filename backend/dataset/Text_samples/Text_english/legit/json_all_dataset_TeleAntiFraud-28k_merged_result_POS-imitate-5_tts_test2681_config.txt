@@ -1,0 +1,9 @@
+Speaker1: Hello, I am the customer service monkey of the point store, I see that you have a lot of member points in your account that have not been used yet.
+Speaker2: Really? How did I miss that?
+Speaker1: Yes, your points will be cleared at midnight tonight, and you can use these points to redeem cash directly.
+Speaker2: How many points do I have?
+Speaker1: You have over 26,000 points in your account, which can be exchanged for many products, such as white wine gift boxes and high-definition TVs.
+Speaker2: How do I exchange it?
+Speaker1: You can select the products you want in our point store and directly exchange them with points. I can also help you apply for a special privilege, after which the remaining points will be retained and you will receive a sale after gift, enjoy free return service.
+Speaker2: Okay, I'll go take a look now. Thank you for reminding me.
+Speaker1: You're welcome! I hope your exchange goes smoothly. If you have any questions, feel free to contact me anytime. Goodbye!

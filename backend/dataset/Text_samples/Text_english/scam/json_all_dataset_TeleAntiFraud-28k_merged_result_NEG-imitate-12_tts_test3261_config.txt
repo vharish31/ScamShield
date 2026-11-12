@@ -1,0 +1,11 @@
+Speaker1: Hello, is this Li Huai's phone?
+Speaker2: Hello, which one?
+Speaker1: Hello, I am the manager of Tian An Investment, we have a special investment project here with very high returns, would you like to know more?
+Speaker2: Invest? It sounds good, can you give specific details?
+Speaker1: Of course, our project is specifically designed for high-net-worth customers, with an annual return rate of over 15%, it's very stable. You can first register our app, which contains a lot of detailed information.
+Speaker2: Register the app? How to register?
+Speaker1: Just click this link to download our app, register and you'll see detailed investment plans.
+Speaker2: Link? Safe?
+Speaker1: Absolutely safe, we are a legitimate investment company. You can trust us. If you're not sure about the link, you can also directly add my WeChat and I'll send you a QR code.
+Speaker2: WeChat? Okay, add WeChat.
+Speaker1: Okay, my WeChat number is tiananinvest. Add me and I'll send you the QR code. You can contact me directly if you have any questions.

@@ -1,0 +1,9 @@
+Speaker1: Hi, how are you? I'm a customer service representative from Zhilian recruitment. You have an interview scheduled for 9:30 am today, right?
+Speaker2: Hello, I'm the little assistant, the boss is not available to take the phone right now, what can I help you with?
+Speaker1: Okay, I just want to confirm your 9:30 AM interview appointment today and also the location is in the Chaoyang District branch office.
+Speaker2: Okay, I will convey this information to the boss. Are there any other things that need to be noted?
+Speaker1: Hey, please bring your personal resume and related documents to the interview, which should take about an hour. If there are any changes, please call us in advance.
+Speaker2: Okay, I will inform the boss about these, thank you for reminding me.
+Speaker1: No problem, if you have any other questions, feel free to contact me anytime, wish you a happy day.
+Speaker2: You too, goodbye.
+Speaker1: Goodbye.

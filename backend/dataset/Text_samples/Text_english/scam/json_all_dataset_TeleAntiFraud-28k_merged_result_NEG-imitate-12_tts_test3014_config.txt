@@ -1,0 +1,14 @@
+Speaker1: Hello, this is the customer service representative from Zhongqing Investment, my name is Zhang, I want to confirm your investment plan with you.
+Speaker2: Hello, who are you?
+Speaker1: Are you Li Ming? Our records show that you recently consulted our investment products.
+Speaker2: Oh, I remember now, you guys are doing investment.
+Speaker1: Yes, we have a great investment project here with a yearly return of 15%, and the risk is very low.
+Speaker2: Is it really that good?
+Speaker1: Yes, our company has a professional investment team to ensure the safety of funds. You can try investing a small amount first.
+Speaker2: How do I operate it?
+Speaker1: Just download our app, register an account, and follow the instructions to invest.
+Speaker2: Is the app safe to download?
+Speaker1: Our app is very safe and can be downloaded from all major app stores. We also have a professional customer service team to provide support.
+Speaker2: Okay, let me try.
+Speaker1: Great! If you have any issues after downloading, please contact our customer service, and we will solve them promptly. Best wishes for your investment!
+Speaker2: Thank you, I will try. Goodbye.

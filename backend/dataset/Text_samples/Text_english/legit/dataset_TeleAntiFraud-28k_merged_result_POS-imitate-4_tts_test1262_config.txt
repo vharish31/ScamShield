@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask, is your new washing machine on sale now?
+Speaker2: Hello, yes, our new washing machine has a promotion activity now.
+Speaker1: How much cheaper can it be?
+Speaker2: The original price was three thousand five hundred yuan, now it's discounted eighty percent, so it's two thousand eight hundred yuan.
+Speaker1: Hmm, this price can be considered. Are there any other discount activities?
+Speaker2: Yes, if you order now, we will also send a set of washing machine detergent.
+Speaker1: How much does it cost? Can I get it tomorrow?
+Speaker2: In general, after placing an order, delivery is usually within two to three days.
+Speaker1: Okay, I'll place the order now. Thank you for your service.
+Speaker2: You're welcome! Thank you for your purchase. I wish you a happy life. Goodbye!

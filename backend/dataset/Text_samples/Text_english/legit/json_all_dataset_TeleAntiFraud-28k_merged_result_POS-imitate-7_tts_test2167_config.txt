@@ -1,0 +1,12 @@
+Speaker1: Hello, are you the customer service center for the public car?
+Speaker2: Hello, yes, this is the Volkswagen Service Center, how can I help you?
+Speaker1: Can I schedule a car maintenance appointment for my car recently?
+Speaker2: Of course, what kind of car is yours?
+Speaker1: My car is a Volkswagen Passat, 2.016.
+Speaker2: Okay, Porsche 916. We have several time slots available here, 9am, 11am, 2pm and 4pm. Which time is most convenient for you?
+Speaker1: Can we meet at four in the afternoon?
+Speaker2: Can we meet at four o'clock? Please provide your car plate number and contact phone number so we can record it.
+Speaker1: Okay, the license plate number is Jing A 88888888, the phone number is 13800000000.
+Speaker2: Thank you for your cooperation. We will be ready by 4 pm. See you then.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, goodbye.

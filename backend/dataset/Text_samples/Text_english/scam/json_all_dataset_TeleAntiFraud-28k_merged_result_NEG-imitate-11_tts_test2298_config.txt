@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the commercial bank manager Li, have you ever considered taking out a credit loan?
+Speaker2: Hey, credit loan? I don't really need it now, what are your loan conditions like?
+Speaker1: This loan is specifically designed for high-quality customers, no collateral, low interest rate, fast approval, if you're interested, you can click on the link I sent you, which will provide you with detailed information on the loan process and conditions.
+Speaker2: Link? How did I miss your link?
+Speaker1: It might be a network issue. Why don't I send you a text message with a link, you can click on it to check it out.
+Speaker2: Let's go, what's special about that loan you mentioned?
+Speaker1: Our specialty lies in providing not only low interest rates, but also professional financial advisors to customize a wealth management plan for you, maximizing the efficiency of your funds.
+Speaker2: What should I do after clicking on the link?
+Speaker1: After clicking on the link, you just need to fill out some basic information, and our staff will quickly contact you to provide a detailed introduction and help you complete the application process.
+Speaker2: Okay, then I'll wait for your text message.

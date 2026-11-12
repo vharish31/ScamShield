@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Xiǎoqīn?
+Speaker2: Hello, I am Zhang Xiaojie, who are you?
+Speaker1: I am a customer service representative from Commercial Bank. Do you want to know more about applying for a certain amount of capital?
+Speaker2: Can you understand what the money is?
+Speaker1: This is a low-interest loan project, no collateral required, fast approval speed, do you have any recent funds needed?
+Speaker2: I'm a bit short on cash right now, can you give me some specifics?
+Speaker1: Okay, to make it easier for you to operate, you can download our app, and you can apply directly on it, very convenient.
+Speaker2: Is the app safe to download?
+Speaker1: Very safe, we are a regular bank, you can put your trust in us. After downloading, enter the invitation code 168, and enjoy more discounts.
+Speaker2: Okay, I'll give it a try. Thank you.

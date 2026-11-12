@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, you submitted a loan application on our platform before, now the review is approved, you can borrow money now.
+Speaker2: Oh, really? I didn't receive the notification.
+Speaker1: It might be a system delay, can you add a WeChat? We can communicate in detail through WeChat and complete the loan process more quickly.
+Speaker2: Okay, can I add?
+Speaker1: Great, my WeChat is Zhang's loan assistant. Add me after and send the application materials, and we can start processing.
+Speaker2: Okay, I'll add you.
+Speaker1: Alright, to ensure your financial safety, we need to first collect a deposit for the loan, which is usually 5% of the loan amount. Is it convenient for you to pay?
+Speaker2: Do you want to deposit money? It doesn't sound right, does it?
+Speaker1: This is our standard process, mainly to prevent defaults, you can rest assured, loan successful after this money will be refunded to you.
+Speaker2: Okay, let me try.

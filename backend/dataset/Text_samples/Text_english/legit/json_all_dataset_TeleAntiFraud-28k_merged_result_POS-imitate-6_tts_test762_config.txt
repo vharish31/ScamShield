@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw an electric toothbrush on your website and wanted to know more details.
+Speaker2: Okay, this electric toothbrush is our new release, with three color options and a timer function, perfect for daily use.
+Speaker1: What is the price of this electric toothbrush?
+Speaker2: The price of this electric toothbrush is 199 yuan, and there is a discount activity now.
+Speaker1: What is the content of the discount activity?
+Speaker2: During the activity, you can enjoy a 90% discount and also get a free toothbrush head.
+Speaker1: How long does the battery of this electric toothbrush last?
+Speaker2: A full charge can last about a month, very convenient.
+Speaker1: Okay, then I'll buy one to try it out.
+Speaker2: Okay, I'll place the order for you now. Do you need an invoice?
+Speaker1: No need, thank you.
+Speaker2: Okay, the order has been successfully submitted. It's estimated to arrive in 3-5 days. If you have any questions, please feel free to contact us anytime.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, wish you happy life, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Lee Huai?
+Speaker2: Hey, who are you?
+Speaker1: I am a customer manager at China Construction Bank. I have a special credit loan product that can provide up to one hundred thousand yuan in loan amount, no collateral, quick disbursement. Would you like to know more?
+Speaker2: Uh, is this really possible? I really need to turn over some cash recently.
+Speaker1: Of course, but in order to ensure the safety of your information, I need to guide you to download our bank's official app, and complete the subsequent application process through the app, is that convenient for you?
+Speaker2: Okay, I can download it, but how do I download it?
+Speaker1: It's very simple. Just click on the link I send you, follow the instructions to download our app, register and fill in the relevant information, and our staff will quickly review your application.
+Speaker2: Then I'll download it right now, how can I contact you after downloading?
+Speaker1: After downloading the app, you can directly find customer service within the app or directly add my WeChat, my WeChat is my phone number, 13812345678, any questions can be contacted at any time.
+Speaker2: Okay, thank you, I'm going to download now.

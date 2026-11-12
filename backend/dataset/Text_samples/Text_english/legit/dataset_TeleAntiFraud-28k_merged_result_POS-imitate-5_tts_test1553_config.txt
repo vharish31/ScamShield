@@ -1,0 +1,10 @@
+Speaker1: Hey, how's the weather today?
+Speaker2: Hello, today's weather is quite good, clear sky, going out to play is quite suitable.
+Speaker1: That's great, I plan to go for a walk in the park, do you have any recommended routes?
+Speaker2: You can go to the city center park, the scenery is good there, there's a lake, walking a circle is comfortable.
+Speaker1: What's the most convenient way to get from my house?
+Speaker2: You can take the second line of the bus, get off at the city center station, and walk east for five minutes to arrive.
+Speaker1: Okay, thank you for your advice. How long will it take to get there?
+Speaker2: Taking the bus usually takes about 30 minutes, plus the walking time after getting off, it should take about 45 minutes to arrive.
+Speaker1: Okay, I'll be ready in a moment and then I'll leave. Thank you for your help.
+Speaker2: No problem, wish you have fun.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you? I am a waiter at this restaurant.
+Speaker2: Hello, could you tell me about your signature dishes and their prices?
+Speaker1: Our restaurant special dishes are red braised pork and steamed fish, red braised pork is 35 yuan per portion, steamed fish is 50 yuan per piece.
+Speaker2: These dishes sound good, what is your restaurant's business hours?
+Speaker1: Our restaurant business hours are from 10 am to 10 pm every day, and on weekends they are extended to 11 pm.
+Speaker2: Okay, I plan to come at seven o'clock on Saturday night. Do I need to make a reservation in advance?
+Speaker1: It's usually more crowded on weekends, so it's recommended to book in advance to ensure a spot.
+Speaker2: Can I reserve a four-person table now?
+Speaker1: Of course, I have already reserved a table for four people at seven o'clock on Saturday night. See you then.
+Speaker2: Okay, thank you for your help, see you later.

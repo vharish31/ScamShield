@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Do you have any haircut appointment service here?
+Speaker2: What time would you like to make a reservation?
+Speaker1: Can I make a reservation for tomorrow afternoon at three o'clock?
+Speaker2: Can I see you at three in the afternoon tomorrow? Is it your first time at our store?
+Speaker1: Yes, first time.
+Speaker2: Okay, to save you time while waiting here, you can arrive ten minutes early, we will be ready for you.
+Speaker1: Okay, thank you. Yes, do I need to pay the deposit in advance?
+Speaker2: You can pay the service fee directly when you go to the store.
+Speaker1: That's it, now I can relax. See you tomorrow.
+Speaker2: See you tomorrow, looking forward to serving you.

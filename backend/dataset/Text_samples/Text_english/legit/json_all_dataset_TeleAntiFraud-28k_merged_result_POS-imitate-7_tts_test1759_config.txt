@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang, I recently want to study guitar, do you have guitar class here?
+Speaker2: Hello, little Zhang, do you want to know any information about the guitar class here?
+Speaker1: Can you tell me how the course schedule is arranged and how much the tuition fee is?
+Speaker2: Our guitar courses here are divided into beginner and advanced classes. The beginner class meets twice a week, each time for two hours, and the tuition fee is one thousand five hundred yuan per semester.
+Speaker1: What about the advanced class?
+Speaker2: Advanced class is two hours every week, and the tuition is slightly higher, 2500 yuan per semester.
+Speaker1: Okay, what do I need to prepare if I want to sign up for the beginner class?
+Speaker2: To sign up for the beginner class, you just need to bring your identity card and two photos, and fill out the registration form here.
+Speaker1: Do I need to prepare the guitar myself?
+Speaker2: We provide guitars for beginner class students here. You don't need to bring your own guitar. However, if you like, you can bring it.

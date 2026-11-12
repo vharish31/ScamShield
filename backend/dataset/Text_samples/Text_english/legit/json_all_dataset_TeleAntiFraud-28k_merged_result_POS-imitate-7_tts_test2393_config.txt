@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, which store are you?
+Speaker1: I am a customer service representative for small city electric appliances. Do you have anything you need to consult?
+Speaker2: Hey, I saw you guys have a promotion, want to know more about this air purifier?
+Speaker1: Okay, this air purifier is our best-selling product in the store, with multiple modes to choose from and a one-year warranty.
+Speaker2: Do you need to replace its filter regularly?
+Speaker1: Yes, it's recommended to change the filter every three months to maintain the best purification effect.
+Speaker2: Do you sell filters on this side?
+Speaker1: Yes, we have original filter nets for sale in our store, and we can also provide on-site replacement service.
+Speaker2: What's the price like?
+Speaker1: The price of a filter net is 200 yuan per set, and if you choose the door-to-door service, the service fee is 50 yuan.
+Speaker2: Okay, thank you for your detailed introduction. I will consider it.
+Speaker1: You're welcome, feel free to consult anytime if you have any questions, wishing you a happy life.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

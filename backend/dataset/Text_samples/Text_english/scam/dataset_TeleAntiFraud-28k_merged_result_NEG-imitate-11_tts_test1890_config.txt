@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao, a customer service representative from Speedy Express.
+Speaker2: Hello.
+Speaker1: We found a package for you that was delivered previously, there might have been an issue during transportation, to ensure your rights we need to handle it for you.
+Speaker2: Really? Then what do we do now?
+Speaker1: Don't worry, we have a specific claims process, you can handle it through our official app, very convenient.
+Speaker2: How do I download this app?
+Speaker1: You can search for the official version of Speedy Express in the mobile app store, download it and register with your phone number. Then contact me and I will give you a unique compensation code.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, download it and remember to add my WeChat, my WeChat number is the same as my phone number, feel free to contact me anytime with any questions.
+Speaker2: Okay, I understand, thank you for your help.

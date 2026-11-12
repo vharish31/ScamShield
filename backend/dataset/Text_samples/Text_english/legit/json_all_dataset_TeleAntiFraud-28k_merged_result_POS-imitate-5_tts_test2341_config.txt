@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I just placed an order for takeout at your store, why hasn't it been delivered yet?
+Speaker2: Hello, can you tell me your order number or phone number tail number?
+Speaker1: Okay, my phone number is six six seven eight.
+Speaker2: Six six seven eight, let me check. Hmm, this side shows your order is already in delivery, but there might be a little delay.
+Speaker1: How long will it take to send it?
+Speaker2: Based on the current situation, we estimate that it will take approximately twenty minutes. We sincerely apologize for any inconvenience caused.
+Speaker1: Okay, I'll wait a moment. If it's over 30 minutes and you haven't arrived yet, can you contact me?
+Speaker2: Of course, if it exceeds the time, you can contact us at any time, we will process it quickly. Thank you for your patience again.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, please feel free to contact us if you have any questions. Enjoy your meal!

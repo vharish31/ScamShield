@@ -1,0 +1,13 @@
+Speaker1: Hey, are your restaurant still open today?
+Speaker2: Hello, we are open for business today, our business hours are from 10 am to 10 pm.
+Speaker1: Can I reserve a seat around 5 pm this afternoon?
+Speaker2: Of course, are you coming alone or with friends?
+Speaker1: I am with two friends.
+Speaker2: Okay, I will reserve a two-person table for you. Do you have any special requirements or foods you dislike?
+Speaker1: No special requirements, just want to try your signature dish.
+Speaker2: Do you need to prepare these popular menu items with us, such as red braised pork, steamed fish with ginger and scallions, and stir-fried with garlic and basil?
+Speaker1: Let's prepare red cooked pork and steamed fish with ginger and scallions, it sounds delicious.
+Speaker2: Okay, we will prepare in advance to ensure that you can taste the delicious food when you arrive. Can you come at five o'clock, please?
+Speaker1: Okay, around that time. Thank you.
+Speaker2: You're welcome. If you need anything else, please feel free to contact us. Goodbye.
+Speaker1: Okay, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, I want to consult your hair service on this side.
+Speaker2: Hello, little Li, I am customer service Zhang, we have various hair services here, which one do you want to know specifically?
+Speaker1: Can I know more about your men's short haircuts? Do I need to make an appointment?
+Speaker2: A short haircut for men is quite popular on this side. It's recommended to make an appointment in advance to ensure there's time for service.
+Speaker1: Can I make a reservation for tomorrow afternoon at three o'clock?
+Speaker2: Tomorrow at three in the afternoon, okay, I will record it for you. Can you provide your name and contact information?
+Speaker1: My name is Xiao Li, phone number is 1381238123.
+Speaker2: Okay, Little Li, I have recorded your appointment information. Tomorrow at 3 pm, remember to come ten minutes early.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if your restaurant has any vegetarian options?
+Speaker2: Yes, we have many vegetarian dishes here, such as stir-fried vegetables, steamed dumplings, and vegetarian stew, are you interested in these?
+Speaker1: The sound is good, I want to make a reservation for the weekend dinner, do you have any special discount activities?
+Speaker2: This weekend we have a promotion, the top five customers who book in advance can enjoy an 80% discount, you can choose any menu.
+Speaker1: Great, I want to reserve a four-person spot, around 7 pm tonight.
+Speaker2: Okay, I have reserved a four-person table for you, the time is Saturday evening at seven o'clock, please arrive ten minutes in advance, we are ready for you.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, wish you a good day.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Is the hair salon you guys mentioned still recruiting students?
+Speaker2: Hey, are you still recruiting?
+Speaker1: Yes, I haven't done haircuts before, but I'm very interested, willing to learn.
+Speaker2: Okay, we can provide student training here. When do you have time to come for an interview?
+Speaker1: Can I come over in the afternoon tomorrow?
+Speaker2: Sure, come over at 2 pm tomorrow afternoon, we'll talk in detail then.
+Speaker1: Okay, thank you.
+Speaker2: No problem, see you tomorrow.

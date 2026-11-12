@@ -1,0 +1,10 @@
+Speaker1: Hey, are you free this afternoon?
+Speaker2: Hey, how are you? What do you have to do this afternoon?
+Speaker1: Hey, I just want to invite you to the library. I've been looking for a book for a long time and I heard that the library just got a new batch of books.
+Speaker2: Great, I want to go see it too. What time are we going?
+Speaker1: How are you at 3 o'clock?
+Speaker2: Three o'clock is fine, but I have a meeting at two o'clock, the meeting ends and then I'll go, it should take about two and a half.
+Speaker1: Okay, I passed by around 2:45, are we meeting at the library entrance?
+Speaker2: Okay, meet at 2:45 at the library entrance. Got it, remember to bring your student ID, some books require student ID to borrow.
+Speaker1: Oh, almost forgot, I brought my student ID. See you later.
+Speaker2: See you later, be careful on the road.

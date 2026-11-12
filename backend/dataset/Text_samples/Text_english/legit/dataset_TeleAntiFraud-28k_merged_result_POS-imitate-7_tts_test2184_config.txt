@@ -1,0 +1,11 @@
+Speaker1: Hey, how have you been lately?
+Speaker2: Hey, how are you? Have you been busy lately?
+Speaker1: Hey, how's it going? Do you have any free time lately?
+Speaker2: What are your plans when you have some free time?
+Speaker1: Can you recommend a place to eat well and celebrate this month's performance target?
+Speaker2: Hey, there's a new restaurant that got good reviews, the environment and service are both great, let's go there?
+Speaker1: What's the name of that restaurant?
+Speaker2: Call "Flavor Journey", just in the city center, convenient transportation.
+Speaker1: Great, when are we going?
+Speaker2: How was your weekend? I checked my schedule, it should be fine.
+Speaker1: Okay, let's set the weekend now. Specific time you can tell me later.

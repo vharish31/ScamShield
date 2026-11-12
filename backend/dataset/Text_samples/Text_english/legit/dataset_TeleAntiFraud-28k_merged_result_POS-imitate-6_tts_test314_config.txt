@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you the person I met yesterday to look at the house?
+Speaker2: Yes, I am a real estate agent. Have you arrived yet?
+Speaker1: I arrived, but this place doesn't look as new as you said it would.
+Speaker2: Ah, this house is a bit old, but the interior decoration is quite good, you can take a look first.
+Speaker1: Okay, I'll go take a look first.
+Speaker2: Okay, I'm here waiting for you. Any questions feel free to ask me anytime.
+Speaker1: Okay, I know, thank you.
+Speaker2: No problem, I hope you are satisfied.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I saw a rental shop info on the 58 city, is it a tea house?
+Speaker2: Yes, that's right, we changed the old hotel into a tea house.
+Speaker1: Oh, that's how it is. So, how much is your rent?
+Speaker2: Rent is 400 yuan per month for each room, with a total of nine rooms.
+Speaker1: Four hundred yuan for one room, nine rooms for three thousand six hundred yuan a month?
+Speaker2: Yes, three thousand six hundred yuan per month.
+Speaker1: What are the requirements for decoration?
+Speaker2: The environment here is quite old, you need to decorate it yourself, but there's no transfer fee.
+Speaker1: Okay, let me check the time, if it's right, I'll come take a look.
+Speaker2: Okay, you can come over anytime and I'll be here if you need to contact me.

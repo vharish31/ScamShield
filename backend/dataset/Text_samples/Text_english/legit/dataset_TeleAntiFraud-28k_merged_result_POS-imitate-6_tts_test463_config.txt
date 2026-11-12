@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of an e-commerce platform. You have a balance of one penny on your account, which will be cleared at twelve o'clock tonight.
+Speaker2: Hey, are you talking about the points I earned from buying things a few days ago?
+Speaker1: That's right, those points, if you don't use them in time, you'll lose three thousand dollars worth of discounts.
+Speaker2: Ugh, what do I do? I haven't had time to go online recently, can you help me postpone it for a bit?
+Speaker1: Please log in to your account and I can guide you through the extension of these points, but I cannot operate it directly for you.
+Speaker2: Okay, can you tell me how to operate it?
+Speaker1: Okay, open our app, log in to your account, find the right upper corner of the score management, click in, and you will see a button for delayed application.
+Speaker2: Okay, I'll give it a try, thank you for your help.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes for a smooth operation.
+Speaker2: Okay, I will, thank you again.

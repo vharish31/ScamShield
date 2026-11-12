@@ -1,0 +1,11 @@
+Speaker1: Hey, hi, I'm Lee Ming, can the haircut appointment time be changed a little?
+Speaker2: Hello, Li Ming, I am a customer service representative at the hair salon. What time do you want to change?
+Speaker1: Can you change our appointment from 10am tomorrow to 2pm today?
+Speaker2: Okay, let me check. There's a location available at 2 pm tomorrow afternoon. You can adjust the time.
+Speaker1: Okay, can you change it to 2 pm?
+Speaker2: I have already adjusted it for you. Remember to come at 2 pm tomorrow.
+Speaker1: Okay, thank you. Yes, it's the same hairdresser as last time?
+Speaker2: Yes, it's the same hairdresser you served last time. He's very skilled, you should be satisfied.
+Speaker1: That's great, I was very satisfied with the last cut.
+Speaker2: Thank you for your approval. We will continue to strive. See you tomorrow!
+Speaker1: Okay, see you tomorrow, thank you.

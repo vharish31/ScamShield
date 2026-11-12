@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I am Li Ming. Yesterday, I saw your rental housing information, and I wanted to know more about the specific situation.
+Speaker2: Okay, Li Ming, what specifically do you want to know?
+Speaker1: Can you tell me the specific location of the house, how much is the rent, and does it include property fees?
+Speaker2: The house in the Yánggāng huāyuán xiǎojī, rent is 2500 yuan per month, property management fee is calculated separately, 60 yuan per month.
+Speaker1: Hmm, this price is acceptable. What time can I come see the house?
+Speaker2: Can we meet at around 3 pm this afternoon?
+Speaker1: Can you tell me the address once again at 3 o'clock?
+Speaker2: Of course, it's the Yángguāng huāyuán xiǎozhuān, specifically located at Xìngfēn lù yī bǎozhēng bāo.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later.

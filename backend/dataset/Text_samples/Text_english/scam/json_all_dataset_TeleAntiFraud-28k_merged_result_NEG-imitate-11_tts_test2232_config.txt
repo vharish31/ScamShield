@@ -1,0 +1,11 @@
+Speaker1: Hello, hello, I am the customer manager of Agricultural and Commercial Bank, Li, can you talk on your side?
+Speaker2: Hey, convenient, who are you?
+Speaker1: I am Lee, our bank recently launched a special discount loan project, very suitable for small and medium-sized enterprises, do you know if your enterprise has a funding need?
+Speaker2: Loan, I'm having a hard time with the cash flow right now, but I'm not familiar with the loan process.
+Speaker1: No problem, all these are our bank's affairs. As long as you meet the conditions, provide all the information, the loan will be approved quickly, and the interest rate will be low.
+Speaker2: What materials do I need to prepare?
+Speaker1: Please provide your identity proof, enterprise business license and the latest financial report. We will handle the rest on this end.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: It's very simple. Just click on the link we send to you and fill out the basic information, and our staff will contact you quickly.
+Speaker2: Okay, I'll go operate later. Thank you, Li Manager. I hope this cooperation goes smoothly.
+Speaker1: I'm sure everything will be fine. If you have any questions, please contact me anytime. I wish your business will prosper.

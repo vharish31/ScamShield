@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Do you have any dinner set menu here suitable for two people?
+Speaker2: Sure, we have several dishes to choose from here. Do you want to see the specific menu items?
+Speaker1: Sure, what do you have to say?
+Speaker2: We have a special beef burger set for two people, including two portions of beef burger, one portion of Caesar salad, one portion of fries, and one portion of dessert and two glasses of drinks.
+Speaker1: How much does this dish cost?
+Speaker2: This meal is 450 yuan, now there's a 90% discount.
+Speaker1: Great, I want to book this menu, when can I use it?
+Speaker2: You can choose to eat between 6pm and 8pm tomorrow night, this time slot is relatively empty.
+Speaker1: Okay, let's set it for 7 pm tomorrow night.
+Speaker2: Okay, I have already booked for you, see you tomorrow night at seven.

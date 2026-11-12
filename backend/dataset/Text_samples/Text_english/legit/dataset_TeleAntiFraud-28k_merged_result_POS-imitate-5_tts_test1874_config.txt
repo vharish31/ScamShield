@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I ordered takeout at your place, why hasn't it arrived yet?
+Speaker2: Hello, we have received your order. The courier is on the road, there might be a little traffic, so it will be a bit late.
+Speaker1: How long will it take to send it? I'm waiting to eat dinner.
+Speaker2: My friend just texted me, it should take about fifteen minutes or so, please wait a moment longer.
+Speaker1: Okay, I'll wait a moment. If it exceeds the time limit, do you have any compensation measures?
+Speaker2: Yes, if the time is over, we will give you a certain discount coupon as compensation based on the actual situation.
+Speaker1: Okay, I understand that traffic can get congested sometimes. Thank you for your patience in answering.
+Speaker2: No problem, our goal is always to keep our customers satisfied. If you have any other questions, feel free to contact me anytime.
+Speaker1: Okay, thank you. I'll hang up, bye.
+Speaker2: Okay, bye, wish you enjoy your meal.

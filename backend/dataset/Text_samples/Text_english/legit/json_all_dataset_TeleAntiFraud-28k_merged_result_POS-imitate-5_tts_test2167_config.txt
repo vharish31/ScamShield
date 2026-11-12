@@ -1,0 +1,12 @@
+Speaker1: Hey, do you still hire courier delivery guys there?
+Speaker2: What do you want to know?
+Speaker1: Can you tell me what the work hours are?
+Speaker2: Generally, it's from eight in the morning to six in the evening, with a one-hour break in between.
+Speaker1: How do you calculate your salary?
+Speaker2: The base salary plus commission, the base salary is three thousand yuan per month, the commission is based on the number of packages dispatched, approximately five cents per package.
+Speaker1: Do you need a car?
+Speaker2: The company provides electric cars, but you can choose to use your own car, the company will have oil fee subsidy.
+Speaker1: How do I apply?
+Speaker2: You can directly come for the interview, bring your identity card and health card, the address is XX road XX number.
+Speaker1: Okay, thank you, I'll think about it.
+Speaker2: No problem, consider well to contact anytime.

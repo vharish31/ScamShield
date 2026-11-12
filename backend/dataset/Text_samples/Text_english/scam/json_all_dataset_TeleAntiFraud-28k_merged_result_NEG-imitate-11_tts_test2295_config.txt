@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Who are you?
+Speaker1: Hi, I'm Zhang Xiao, from somebao customer service. We found a problem with your order. Please cooperate to handle it.
+Speaker2: What's the issue?
+Speaker1: Your order has been mistakenly processed as a bulk order. Please cooperate with us to cancel it, otherwise it will be deducted twice.
+Speaker2: How should I operate it?
+Speaker1: You need to download our special processing software in order to safely cancel your order.
+Speaker2: Do you want to download software?
+Speaker1: Yes, that's our customer service software. You can download it from the app store by searching for "JD customer service assistant".
+Speaker2: Okay, I'll go download it now.

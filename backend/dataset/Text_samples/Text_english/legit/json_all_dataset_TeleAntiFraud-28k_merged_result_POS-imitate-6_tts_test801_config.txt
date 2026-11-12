@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your car wash service on this side.
+Speaker2: Hello, we provide car washing service here, do you want to know the specific service content?
+Speaker1: Okay, what are your service projects and how much do they cost?
+Speaker2: We have basic car washing, waxing, and interior cleaning services. Basic car washing is thirty yuan, waxing is fifty yuan, and interior cleaning is sixty yuan.
+Speaker1: If I went back in time today, would I need to make an appointment?
+Speaker2: I suggest you make an appointment, so you can avoid waiting in line. What time would you like to come?
+Speaker1: Can we meet at three in the afternoon?
+Speaker2: Sure, please write down our address. Come at 3:30 PM beforehand.
+Speaker1: Okay, where is the address?
+Speaker2: Our address is city road one hundredth, just opposite the city square, it's convenient for you to come over.
+Speaker1: Okay, thank you. Then I'll come at this time.
+Speaker2: Okay, see you later, wish you a happy day.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: That's right, I am the customer service of the fast car platform, I see that you have been using our services frequently recently, do you want to know how your experience with our platform is?
+Speaker2: Oh, that's okay, just sometimes it's hard to find the right car.
+Speaker1: We have noticed this issue as well, we are optimizing the car scheduling system, we hope to bring you a better experience.
+Speaker2: Okay, I hope to find the car faster after the improvement.
+Speaker1: For sure, by the way, we recently introduced a new feature, which allows you to book a car in advance. Do you know if you're interested?
+Speaker2: Would you like to make an appointment in advance? It sounds good, how do you operate it?
+Speaker1: It's very simple. You can select a booking service in our app, then fill in the departure time and location, and we will arrange a car for you.
+Speaker2: Okay, I'll give it a try, thank you for your recommendation.
+Speaker1: You're welcome. If you have any questions, please feel free to contact us anytime. Wish you a happy life. Bye.
+Speaker2: Okay, bye.

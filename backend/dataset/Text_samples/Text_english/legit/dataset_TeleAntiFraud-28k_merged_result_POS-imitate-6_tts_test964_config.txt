@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I reserved haircut service at your store tomorrow morning at 10 am, want to confirm?
+Speaker2: Hello, little king, I am the customer service of the beauty salon, your appointment time we have already recorded, tomorrow morning ten o'clock, on time come just can.
+Speaker1: Okay, can I just go directly tomorrow?
+Speaker2: Yes, come directly, our staff will serve you.
+Speaker1: If I arrive a little later, what impact will it have?
+Speaker2: No problem, if you're a little late, we can still wait for you, but it's best to come on time, otherwise it will affect the next customer's appointment.
+Speaker1: I understand, I will try my best to be on time. Moreover, I want to ask, do your store provide shampoo and hair care products?
+Speaker2: Yes, our store provides a full set of personal care products, all of which are brand products, you can rest assured to use them.
+Speaker1: Okay, I won't bring myself anymore. Thank you for your help. See you tomorrow!
+Speaker2: No problem, see you tomorrow, wish you a happy day!

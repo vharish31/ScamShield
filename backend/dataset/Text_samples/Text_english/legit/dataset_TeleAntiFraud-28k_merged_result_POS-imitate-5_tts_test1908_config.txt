@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Xiaoming, and I'd like to ask about your restaurant's special dishes.
+Speaker2: Hello, I am server Zhang, our restaurant's signboard menu has red braised pork, steamed fish and spicy pot, all very popular.
+Speaker1: What are the prices of these menus approximately?
+Speaker2: Red braised pork is 38 yuan per portion, steamed fish is priced differently based on size between 58 to 78 yuan, and spicy pot-stewed chicken is 48 yuan.
+Speaker1: Okay, can I reserve a four-person seat for tonight at 7 pm?
+Speaker2: Sure, I have a spot at seven o'clock in the evening. If you need it, I can reserve it for you.
+Speaker1: Great, can you reserve a bit for me?
+Speaker2: Okay, I have reserved a spot for you, just come directly to sign up when the time comes.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, see you later.

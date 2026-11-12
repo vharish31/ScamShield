@@ -1,0 +1,10 @@
+Speaker1: Hello, this is AliExpress customer service, I am customer service representative Zhang. We found that there is a problem with your order, please cooperate to handle it.
+Speaker2: What problem?
+Speaker1: Your order was lost during delivery, please provide your bank card number, we will quickly refund to your card.
+Speaker2: Okay, what information do I need to provide?
+Speaker1: Please provide your bank card number, account name, name and phone number. For security reasons, we also need you to provide a verification code, which we will send to your phone later.
+Speaker2: Okay, I'm waiting for the verification code.
+Speaker1: Okay, the verification code has been sent. Please check it. After you enter the verification code, we will immediately process your refund.
+Speaker2: The verification code is 123456.
+Speaker1: Okay, the verification code is correct. Your refund will be credited within 24 hours. Are there any other issues that need help?
+Speaker2: No more, thank you.

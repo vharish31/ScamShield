@@ -1,0 +1,12 @@
+Speaker1: Hey, are you at the Meishikitandi restaurant?
+Speaker2: Hello, yes, are you wanting to book a seat?
+Speaker1: Yes, I want to reserve a place for six people, can it be tomorrow night at seven o'clock?
+Speaker2: Okay, tomorrow at seven o'clock, for six people, no problem. What's your name and contact info?
+Speaker1: My name is Zhang Wei, phone number is 13801380138.
+Speaker2: Okay, Mr. Zhang Wei, your reservation has been successful. We will call you in advance to confirm.
+Speaker1: Okay, thank you. So, do you have any special dish recommendations at your restaurant?
+Speaker2: We have a signboard dish called spicy pot-stove, and also steamed fish, both are very popular. You can try.
+Speaker1: The sound is great, I'll consider it. Also, do I need to wait at the restaurant tomorrow?
+Speaker2: You have already reserved a spot, just come directly when the time comes, no need to wait for the position.
+Speaker1: Okay, I understand, thank you for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival. Goodbye!

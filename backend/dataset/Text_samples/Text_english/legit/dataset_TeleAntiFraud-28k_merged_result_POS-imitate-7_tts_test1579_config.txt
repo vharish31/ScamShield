@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm the person who called you earlier to ask about the haircut prices at your shop.
+Speaker2: Hello, I am the customer service at the store. Is there anything I can help you with?
+Speaker1: Can I come to cut my hair at two in the afternoon tomorrow?
+Speaker2: Sure, I have an opening at two o'clock in the afternoon tomorrow here. You can come directly.
+Speaker1: Okay, can I just go directly tomorrow?
+Speaker2: Yes, come tomorrow, remember to arrive a few minutes early, in case of traffic congestion on the way.
+Speaker1: Okay, there's one more thing. Can I bring my son with me when I go to school today?
+Speaker2: This place is mainly for adults, bringing a little friend may be a bit inconvenient.
+Speaker1: Hmm, is this right? If I give him a tablet to watch cartoons, should it work?
+Speaker2: Although I understand your difficulties, we still recommend not bringing a small friend, in case it affects other customers.
+Speaker1: Okay, I'll think of a solution, thank you.
+Speaker2: No problem, feel free to contact me anytime, see you tomorrow.

@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, this is Shanghai Bank, I am your customer service manager, Zhang.
+Speaker2: Hello, Zhang Manager.
+Speaker1: We noticed that you recently have a need for cash flow, we can provide you with a low interest loan, just need you to provide some basic information.
+Speaker2: Oh, really? I really need some money recently.
+Speaker1: Yes, we have a special loan product designed for your needs, with a very low interest rate. You can first click on the link we sent, and fill out the relevant information.
+Speaker2: How do I know this link is safe?
+Speaker1: You can rest assured, we are a legitimate bank, our link is absolutely safe. For your convenience, we have developed a special app that you can download to complete the application.
+Speaker2: Do I need to download the app?
+Speaker1: Yes, the operation of the APP is very convenient. You just need to scan the QR code with your phone, and you can quickly complete the application process.
+Speaker2: I understand, let me try.

@@ -1,0 +1,15 @@
+Speaker1: Hey, Li boss?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm Zhang, the customer manager at Guang Xing Bank. Recently, we launched a new loan product specifically designed for small and medium-sized enterprises. Would you like to know more about your needs in this area?
+Speaker2: Uh, loan, I recently have a bit of cash flow problems.
+Speaker1: Great, our loan products have very favorable interest rates, and the procedures are simple, you just need to provide some basic information.
+Speaker2: How do you operate it specifically?
+Speaker1: You can apply through our official website or download our app, it's very simple to operate.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, our app is authenticated, you can use it with confidence. If you're not convenient to download, I can give you a link, you can directly click on the link to apply.
+Speaker2: Okay, give me the link.
+Speaker1: Okay, I'll send it to you right away. Please pay attention to check the message, and once you receive it, just click on the link to fill out the information.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you have any issues during the operation, feel free to contact me anytime. Wish you a happy life and a prosperous business.
+Speaker2: Thank you, goodbye.
+Speaker1: Goodbye.

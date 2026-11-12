@@ -1,0 +1,10 @@
+Speaker1: Hello, I want to consult your household services.
+Speaker2: Hello, I am a customer service representative for home cleaning services. What can I help you with?
+Speaker1: I'd like to know more about your cleaning service, particularly window cleaning.
+Speaker2: We provide comprehensive cleaning services, including window cleaning. Our staff are all professionally trained.
+Speaker1: What is the fee for your service?
+Speaker2: Our fee standard is determined by the size of the house and the difficulty of cleaning, generally fifty yuan per hour.
+Speaker1: Can you schedule a time for me after I clean for three hours?
+Speaker2: Of course, which day would you like to make a reservation?
+Speaker1: Can I meet you at 3 pm on Thursday afternoon next week?
+Speaker2: Okay, I have already scheduled an appointment for you next Tuesday at 3 PM. Our staff will arrive on time.

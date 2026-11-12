@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm small Zhang, I want to book a haircut tomorrow afternoon.
+Speaker2: Hello, little Zhang, I am the customer service of the hair salon. Our business hours tomorrow afternoon are from one o'clock to seven o'clock. What time do you want to come?
+Speaker1: Can I make a reservation for 3 PM this afternoon?
+Speaker2: Sure, the 3:00 time slot is available. Are you a first-time customer at our store?
+Speaker1: Yes, it's my first time here.
+Speaker2: Okay, first-time customers at our store can enjoy a 90% discount. Do you have any special requirements, such as a preferred hairstyle or a particular preference for the barber?
+Speaker1: I want a short haircut, clean and refreshing. No specific requirements for the hairdresser, just recommend an experienced one.
+Speaker2: Understood, we will arrange a hairdresser with rich experience for you. The appointment is successful, see you tomorrow at three in the afternoon. Do I need to remind you?
+Speaker1: No need, I will come on time. Thank you for your service.
+Speaker2: No problem, I'm looking forward to your arrival. Goodbye.

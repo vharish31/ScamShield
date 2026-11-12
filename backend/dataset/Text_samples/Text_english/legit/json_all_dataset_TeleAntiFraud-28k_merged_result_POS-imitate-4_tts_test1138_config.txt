@@ -1,0 +1,11 @@
+Speaker1: Hi, are you the customer who ordered "A Hundred Years of Solitude" from the small bridge bookstore?
+Speaker2: Hello, yes, I am the customer who reserved this book.
+Speaker1: Okay, the book has arrived. You can pick it up at the store or we can deliver it to you quickly.
+Speaker2: That's okay, I'm pretty busy this week, so I might not have time to pick it up, let's have it delivered to my home for convenience.
+Speaker1: Okay, I'll register here, where is your address?
+Speaker2: My address is Xīn yuè lù shí wǔ hào, xiè xiè.
+Speaker1: Okay, New Moon Road 15th Number, I will arrange the express delivery immediately. I estimate it can be delivered tomorrow afternoon, is there any problem you can directly contact me.
+Speaker2: Okay, thank you for your help. I will pay attention tomorrow when the package arrives.
+Speaker1: No problem, please feel free to contact us if you have any questions. I hope you enjoy this book.
+Speaker2: I'll definitely see you again, thank you again, goodbye.
+Speaker1: Goodbye, wish you have a nice day.

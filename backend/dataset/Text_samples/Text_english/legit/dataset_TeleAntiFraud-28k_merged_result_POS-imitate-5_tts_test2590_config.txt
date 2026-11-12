@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, I recently want to buy a new phone, can you recommend anything?
+Speaker2: Hello, little Li, of course you can. What brand do you prefer, or do you have any special requirements? For example, do you like to take photos, or do you need a durable battery?
+Speaker1: I don't have any specific requirements for the brand, but I hope the camera on the phone takes good photos because I like to take photos.
+Speaker2: Got it, so I'll recommend some photography-effect phones to you, like A brand's new model, its camera function is particularly strong, and B brand's flagship phone is also very popular among photographers.
+Speaker1: Can you give me a detailed explanation of the new A brand products you mentioned?
+Speaker2: Of course. The new phone from the brand comes with four cameras, supports ultra-wide angle photography and night mode, and has a large battery capacity, with a long endurance.
+Speaker1: Does that phone sound good? Is it on sale now? How much does it cost?
+Speaker2: This phone is currently on promotion, the original price is 5999 yuan, the current promotion price is 5499 yuan, and it also comes with a protective case and a steel film.
+Speaker1: Okay, let me think about it. By the way, does this phone have any in stock?
+Speaker2: Yes, you can choose to have your order delivered the next day or pick it up at the store yourself.

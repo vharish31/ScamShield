@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you, where are you?
+Speaker1: I just arrived at your community gate, can't find the entrance, can you come out to meet me for a moment?
+Speaker2: Okay, wait for me a minute, I'll be right down. Have you seen the north gate of the community yet?
+Speaker1: I see you, I'm waiting for you here.
+Speaker2: Okay, I'll be there soon. Wait for me a few minutes.
+Speaker1: Okay, no problem.
+Speaker2: Did you see the security booth? I'm waiting for you there.
+Speaker1: I see you, I'll be right over. Thank you.
+Speaker2: No problem, see you later.

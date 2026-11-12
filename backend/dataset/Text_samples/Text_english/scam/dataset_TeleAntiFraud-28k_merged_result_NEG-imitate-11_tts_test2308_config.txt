@@ -1,0 +1,9 @@
+Speaker1: Hello, this is the Huaxia Bank customer service center. We noticed that you recently had some issues with your credit card. Now we can help you solve the problem. Are you convenient?
+Speaker2: No problem, you say.
+Speaker1: Okay, first we need to confirm your identity information. Could you please provide the last six digits of your ID number and your recent transaction amount?
+Speaker2: Okay, the last six digits of your ID are 336699, and your recent purchase was 188 yuan.
+Speaker1: Thank you, the information is confirmed. We found an unusual consumption record, and we need you to cooperate with us to perform a refund operation. To ensure your financial safety, please follow these steps.
+Speaker2: Okay, you say.
+Speaker1: First, please open your mobile banking app, click on the customer service button in the top right corner, then select online customer service, enter the keyword 'refund', and we will send you a link. Click on the link to complete identity verification, and the refund will be automatically processed.
+Speaker2: Okay, I'll try.
+Speaker1: Okay, if you encounter any issues during the operation, please directly call our customer service hotline, the phone number is 000-000-0000. I wish you a smooth operation, goodbye.

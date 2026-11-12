@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I just saw on your website that you have a blue sports shoe, I want to know more about it.
+Speaker2: Hello, this blue sports shoe is our latest model, very popular. What information do you want to know?
+Speaker1: Can you tell me the price of this shoe and if it comes in my size?
+Speaker2: The price of this sports shoe is 399 yuan, and the current stock size is between 39 and 44.
+Speaker1: That's great, I'm wearing size 40. What's your shoe size standard?
+Speaker2: Our shoe size is very standard, you can buy with confidence. This size fits most people.
+Speaker1: I'm usually worried about return/exchange issues when shopping online. How's your policy on that?
+Speaker2: We support seven-day no-reason return or exchange, as long as you ensure the product is unused and the label is intact, you can contact us within seven days to handle the return or exchange.
+Speaker1: What time can I place an order today to ensure it's shipped tomorrow?
+Speaker2: If you place an order before 5 pm today, we can guarantee delivery tomorrow.
+Speaker1: Okay, I'll go place the order now. Thank you for your detailed explanation.
+Speaker2: You're welcome, feel free to ask any questions anytime. Have a great shopping!

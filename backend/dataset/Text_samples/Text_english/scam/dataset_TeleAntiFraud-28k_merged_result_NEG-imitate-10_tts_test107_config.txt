@@ -1,0 +1,11 @@
+Speaker1: Hello, I'm Li Xiao, this is the Beijing Bank customer service representative.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed you've had some large recent expenses, and we wanted to know if you have any need for cash flow, we can provide low-interest loan services.
+Speaker2: Hmm, I can consider this. What's your loan process like?
+Speaker1: The process is very simple. Just download our official app, register, and fill out the relevant information. We will quickly review it for you.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, we are a regular bank, our app is also authenticated. And now there's a new user welcome package when you download, including some discount coupons and gifts.
+Speaker2: Listen well, then how should I download it?
+Speaker1: You can search our bank name in the mobile app store and download our official app directly. Alternatively, I can send you a download link, which is more convenient and quick.
+Speaker2: Please send me the link, I'm afraid I won't be able to find it.
+Speaker1: Okay, I'll send it to you right away. Just wait a moment and download the link, if you have any questions, feel free to contact me anytime.

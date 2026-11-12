@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little Zhang. I recently bought an icebox from your store. Can you tell me how the installation is going?
+Speaker2: Hello, Mr. Zhang, I am the customer service of the electric city, your refrigerator has been arranged for installation by the technician at your home, and it is estimated that it can be installed tomorrow afternoon, is this time convenient for you?
+Speaker1: Can we schedule for tomorrow afternoon? But I have other things at three o'clock, can we schedule after that?
+Speaker2: Okay, we will notify the master at 3 pm, is the address and contact information you left correct?
+Speaker1: Yes, the address and phone number are all fine, thank you very much.
+Speaker2: Okay, we will arrange door-to-door service on time, and if there are any changes, we will contact you in advance.
+Speaker1: Okay, thank you, I'll see you tomorrow with the teacher.
+Speaker2: No problem, do you have anything else you need to consult?
+Speaker1: No more, just wait for the fridge to be put together.
+Speaker2: Okay, don't worry, we will arrange everything. Goodbye.
+Speaker1: Goodbye, thank you.

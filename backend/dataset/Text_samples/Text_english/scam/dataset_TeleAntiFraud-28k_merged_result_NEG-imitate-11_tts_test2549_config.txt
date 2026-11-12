@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Hello, I am a customer manager at Commercial Bank, we have a special discount loan service here, are you interested in learning more?
+Speaker2: Loan, I'm not convenient now, what's your loan interest rate?
+Speaker1: This loan product is very affordable, with a monthly interest rate of just 0.45%, simple processing fees, quick approval, and the ability to disburse funds immediately.
+Speaker2: The sound is good, but I don't understand these.
+Speaker1: No problem, I can explain it in detail for your convenience in the future. You can add me on WeChat, and we can communicate anytime if you have any questions.
+Speaker2: Add WeChat, this is not good?
+Speaker1: Don't worry, we are a legitimate bank, after adding WeChat, I will send you a safe link, you can understand the details directly through this link, very convenient and safe.
+Speaker2: Okay, add WeChat then.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to check your restaurant's business hours.
+Speaker2: Hello, our restaurant business hours are from 10 am to 10 pm, no breaks in between.
+Speaker1: Can I reserve a seat for seven and a half in the evening?
+Speaker2: Of course, did you book several seats?
+Speaker1: Please reserve four seats, could you also ask if you have any special dishes to recommend?
+Speaker2: Our recommended special dishes include spicy Szechuan hot pot and steamed sea bass, very popular.
+Speaker1: Okay, I'll reserve four seats, 7:30, we'll arrive early.
+Speaker2: Okay, I have reserved a table for you at 7:30 for four people. Welcome when you arrive.
+Speaker1: Thank you, see you then.
+Speaker2: No problem, see you later, wish you a happy day.

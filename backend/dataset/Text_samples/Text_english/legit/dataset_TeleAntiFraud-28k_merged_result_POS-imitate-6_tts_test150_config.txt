@@ -1,0 +1,11 @@
+Speaker2: Hello
+Speaker1: How much does outside delivery cost there?
+Speaker2: Our delivery fee is 20 yuan, and the delivery fee is based on the distance, usually between 5 yuan and 10 yuan.
+Speaker1: If I order more, will the delivery fee be cheaper?
+Speaker2: If the order amount is over 100 yuan, the delivery fee can be halved.
+Speaker1: Okay, when do you start business on your side?
+Speaker2: We open business at 10 am and close at 10 pm.
+Speaker1: How long will it take for the order to be delivered?
+Speaker2: Based on the address you provided, it will take approximately 30 to 45 minutes.
+Speaker1: Okay, thank you.
+Speaker2: No problem, please feel free to contact us anytime if you have any questions.

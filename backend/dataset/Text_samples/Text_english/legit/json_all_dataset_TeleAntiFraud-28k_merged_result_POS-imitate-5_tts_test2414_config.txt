@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I reserved a seat at some restaurant for tonight at six, can you confirm it for me?
+Speaker2: Hello, this is some restaurant. What is your reservation name?
+Speaker1: I am Li Huai.
+Speaker2: Okay, Mr. Li Huang, let me check. I found it, your reservation is tonight at six o'clock, for four people, right?
+Speaker1: Yes, that's it.
+Speaker2: Okay, your reservation has been confirmed. Do you need us to prepare any special services?
+Speaker1: No thanks. Okay, do you have any recommended dishes at your place?
+Speaker2: Our menu here has steamed cod, ginger and green onion, and red braised pork, all very popular.
+Speaker1: Sounds good, I'll give it a try. So, when should I go directly then?
+Speaker2: Yes, you can directly come over, we will have someone to greet you at the entrance of the restaurant.
+Speaker1: Okay, thank you. I'll hang up first.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

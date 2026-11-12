@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Speedy Express customer service, I'm Zhang, there was a recent package of yours intercepted by our company, it may have some security risks, please cooperate to handle it.
+Speaker2: Really true or false?
+Speaker1: Yes, for your safety, we need you to provide us with your order number for purchasing this product, as well as your identity card number, to verify the information. After verification, we will process it for you.
+Speaker2: How do I know if you're a scammer?
+Speaker1: You can directly call our official customer service hotline to verify, but to prevent the package from being destroyed, you need to provide information quickly.
+Speaker2: Okay, let me tell you, my order number is one two three four five six seven, my identity card number is one two three four five six seven eight nine zero one two three.
+Speaker1: Okay, I have recorded it down. Next, for the sake of ensuring your information security, we need you to click on a link and download our official app, so we can better serve you.
+Speaker2: How do I download it?
+Speaker1: You can access this link through your phone browser: http://sudaexpress.com and then download the app.
+Speaker2: Okay, I'll download it right away. Thank you.

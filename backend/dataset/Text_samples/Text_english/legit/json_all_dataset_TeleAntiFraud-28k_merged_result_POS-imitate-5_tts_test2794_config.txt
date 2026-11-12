@@ -1,0 +1,16 @@
+Speaker1: Hello, I'm little Li, I saw you posted rental info online, I want to ask a few questions.
+Speaker2: Hello, do you have any questions you can directly ask me?
+Speaker1: Can you tell me if this house is rented out all or shared?
+Speaker2: This house is rented whole, not shared.
+Speaker1: How much is the rent for this house?
+Speaker2: Rent is 4500 yuan per month, with a deposit of three months.
+Speaker1: Hmm, 4500, that's still reasonable. What about the facilities of that house?
+Speaker2: The house is newly renovated, all furniture and appliances are complete, the internet is also set up, you can move in directly.
+Speaker1: Okay, can I go take a look at the house?
+Speaker2: Sure, when is it convenient for you, we can set a time.
+Speaker1: Is this weekend okay?
+Speaker2: What are we doing on Saturday morning at 10am?
+Speaker1: Okay, where is that location on Saturday morning at 10 am?
+Speaker2: I'll wait for you at the door of the Yangguang Xiǎojīng, which is located in the sunshine.
+Speaker1: Okay, see you later, thank you.
+Speaker2: No problem, see you later.

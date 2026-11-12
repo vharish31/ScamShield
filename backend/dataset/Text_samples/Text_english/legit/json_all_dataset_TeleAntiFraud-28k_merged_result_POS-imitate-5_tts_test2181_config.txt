@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: What's up? I'm at work.
+Speaker1: I just arrived at your company, let's have lunch together.
+Speaker2: Okay, wait a minute, I'll be right down.
+Speaker1: Okay, I'm waiting for you at the door.
+Speaker2: Okay, can you recommend any good food nearby?
+Speaker1: Let's go try that small restaurant up front. I heard the food is good.
+Speaker2: Okay, I'll go down now.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

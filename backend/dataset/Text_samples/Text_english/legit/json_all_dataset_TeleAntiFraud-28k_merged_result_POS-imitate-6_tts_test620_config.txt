@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I reserved a table for tonight at seven o'clock, can you confirm?
+Speaker2: Hello, yes, our reservation for seven o'clock tonight has already been recorded.
+Speaker1: Okay, I'll probably arrive around six and a half, can I come early?
+Speaker2: Okay, if you arrive early, we will also be ready to welcome you.
+Speaker1: Thank you so much, yes, I heard there are special dishes here, can you recommend one for me?
+Speaker2: Of course, we have a signature dish of red braised pork, steamed sea bass, and stir-fried crab cakes, all of which are very popular.
+Speaker1: The sea bass and shrimp dumplings sound good, I want to try them.
+Speaker2: Okay, I will pay special attention to these two dishes for your order.
+Speaker1: Is there a problem if two friends come together, one doesn't eat spicy and the other doesn't eat seafood?
+Speaker2: No problem, our menu has a variety of options to satisfy different tastes. Customers who don't like spicy food can try our braised pork, and customers who don't like seafood can try our steamed vegetables.
+Speaker1: That's great, now I feel relieved. See you tomorrow.
+Speaker2: See you tomorrow, looking forward to your arrival. Goodbye.

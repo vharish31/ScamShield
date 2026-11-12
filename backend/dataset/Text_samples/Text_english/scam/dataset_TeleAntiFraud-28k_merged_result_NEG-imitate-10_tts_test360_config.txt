@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from the courier company. There is a package that was returned because the address was not detailed, and you need to confirm it.
+Speaker2: Okay, how should I confirm?
+Speaker1: You can click on the link we sent you and fill in the correct address information, and we can re-ship it.
+Speaker2: Okay, I'll go confirm.
+Speaker1: Okay, click on the link and follow the instructions on the page. If you have any issues, feel free to contact our customer service at any time.
+Speaker2: Okay, thank you.
+Speaker1: No problem, by the way, we recently had a point exchange activity, you can click on the link to check it out, there are many discounts.
+Speaker2: Really? Then I definitely have to take a look.
+Speaker1: Okay, you can see it as soon as you go in, I hope you can choose a gift you like.
+Speaker2: Okay, I'll go now.

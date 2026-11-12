@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Xiao Zhang, and I want to consult your maintenance service on this side.
+Speaker2: Hello, little Zhang, we provide various repair services here, what do you need to repair?
+Speaker1: My washing machine at home is broken. Can you provide on-site repair service?
+Speaker2: Of course, we provide door-to-door service, but we need to understand the specific issues with the washing machine first.
+Speaker1: The main thing is not draining water, and there are abnormal noises during rotation.
+Speaker2: Understood, for this situation we recommend first booking an in-home checkup, approximately 50 yuan for the checkup fee.
+Speaker1: Okay, how do I make a reservation? Do I need to specify a time?
+Speaker2: Yes, you can tell me a convenient time, our teacher will arrive on time.
+Speaker1: Can I meet you at 10 am tomorrow morning?
+Speaker2: Tomorrow at 10 am, I will record it, master will arrive on time tomorrow.

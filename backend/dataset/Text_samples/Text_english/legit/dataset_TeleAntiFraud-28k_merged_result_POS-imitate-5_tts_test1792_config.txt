@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the delivery boy, your food is here now, can you come down and pick it up?
+Speaker2: Hello, so fast, I'll just come down now.
+Speaker1: Okay, I'm waiting for you at the community door. Be careful.
+Speaker2: Okay, thank you. Got it, I see a security booth at the door, can you put the food there and wait for me?
+Speaker1: The security booth may not have anyone, I'm afraid the food will get cold, let's wait for you to come down and get it.
+Speaker2: Okay, I'll try to hurry up.
+Speaker1: Okay, hurry up and come down, I'm waiting here.
+Speaker2: Okay, let's go.
+Speaker1: Hey, I got your text message, I'll give it to you right away.
+Speaker2: Okay, thank you.

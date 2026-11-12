@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, hi, I'm little Li, the customer service of the point mall, we see your points in your account haven't been used for a long time, tonight all the points will expire and clear zero, do you know?
+Speaker2: Oh, I received a text message, understood, thank you.
+Speaker1: Hey, these points are all from using your phone to pay, you have over 15,000 points in your account now, you can exchange them for white wine gift boxes, famous brand four-piece sets, even high-definition TVs and smartwatches, do you want to consider it?
+Speaker2: Okay, let me see what's suitable.
+Speaker1: Okay, I will apply for a special privilege for you. After you select your products to exchange, I will keep the remaining points and give you an additional after-sale gift package, so you can enjoy free return and exchange services.
+Speaker2: I know, thank you.
+Speaker1: No problem, if you have any unclear things, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to ask you about the closing time of your store tonight.
+Speaker2: Hello, we close at ten o'clock tonight, but we stop taking new orders at nine and a half.
+Speaker1: Oh, that way. Do you have outside delivery service here?
+Speaker2: Yes, we can order through delivery platforms or call us directly.
+Speaker1: That's great, I want to order a beef noodle soup, do you have any recommended dishes?
+Speaker2: Our beef and broccoli is very popular, and our spicy pot is also quite good. You can try it.
+Speaker1: Okay, I'll order a spicy beef and broccoli, and a spicy pot of hot pot.
+Speaker2: Okay, it's 120 yuan in total, do you have any discount coupons?
+Speaker1: No, then I'll just pay via WeChat.
+Speaker2: Okay, you can pay through our public account, the order number is 2023405.

@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of Agricultural Bank, Tianhe Branch, you can call me Zhang Manager.
+Speaker2: Hello, Zhang Manager.
+Speaker1: We recently launched a special loan project for information technology customers, providing a 50,000 RMB cash loan with a very low interest rate of only 2%.
+Speaker2: Oh, really? I happen to need some cash flow right now.
+Speaker1: Great, this exactly meets your needs. You can first download our app, fill out some basic info, and we'll quickly review.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Absolutely safe, this is our official app, you can directly download it through this link: (no link provided, simulating conversation scenario)
+Speaker2: Okay, let me try.
+Speaker1: After downloading, you can find the quick application for a loan on the homepage, fill out the information and we will contact you quickly.
+Speaker2: Thank you, Zhang Jingni.

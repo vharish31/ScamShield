@@ -1,0 +1,9 @@
+Speaker1: Hey, how are you? I'm little Li, the products you bought at our mall have arrived, do you want to confirm when it's convenient for you to pick them up?
+Speaker2: Hello, little Li, I've been busy lately, what time is most convenient for you to send it home?
+Speaker1: Okay, can I help you schedule a delivery this week? What time do you usually stay at home?
+Speaker2: I usually stay at home after 7 pm during weekdays, and I can stay all day on weekends.
+Speaker1: Can I deliver goods to you at 10 am on Saturday morning?
+Speaker2: I can come at 10 am on Saturday morning, so I'll wait for you at home.
+Speaker1: Okay, we will deliver on time at 10 am on Saturday. If there are any changes, we will contact you in advance.
+Speaker2: Okay, thank you for your arrangement, see you on Saturday.
+Speaker1: No problem, if you have other questions feel free to contact me, see you on Saturday.

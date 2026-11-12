@@ -1,0 +1,11 @@
+Speaker1: Hello, I am the property management of the community, want to confirm if there is any water fee and arrears in your family.
+Speaker2: Hey, can you specify how much you owe?
+Speaker1: According to our records, your family hasn't paid the 50 yuan water bill from last month.
+Speaker2: Fifty yuan, then I'll go back tonight to pay.
+Speaker1: Okay, you can directly go to the property management office to pay, or you can pay through our online platform.
+Speaker2: How do I operate online payment on a platform?
+Speaker1: You can find the payment entrance on our official website or mobile app, enter your room number and payment amount, follow the instructions to complete the payment.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, feel free to contact us if you have any other questions.
+Speaker2: Okay, bye.
+Speaker1: Goodbye.

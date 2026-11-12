@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Can you help me check if there are any train tickets from Beijing to Shanghai for tomorrow?
+Speaker2: Hello, wait a moment, I'll check. Are you taking a high-speed train or a regular train?
+Speaker1: Let's take the high-speed train, hurry up a bit.
+Speaker2: Okay, I found it. There are several high-speed train classes from Beijing to Shanghai tomorrow, the earliest is at 7 am and the latest is at 4 pm. Which time is convenient for you?
+Speaker1: Let's go in the afternoon, I couldn't wake up in the morning.
+Speaker2: Okay, there are still tickets for the four o'clock car. Do you need me to help you book it?
+Speaker1: Please help me book a second class ticket.
+Speaker2: Okay, the second-class seat tickets have been booked for you. The order number is 123456789. You can check and pay for the order on the 12306 website using this order number.
+Speaker1: Okay, thank you.
+Speaker2: No problem, if you have any other questions, feel free to contact me anytime. Have a nice trip!

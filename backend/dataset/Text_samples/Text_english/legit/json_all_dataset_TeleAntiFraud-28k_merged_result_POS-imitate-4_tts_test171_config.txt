@@ -1,0 +1,11 @@
+Speaker1: Hello, do you want to consult taxi service?
+Speaker2: Okay, how much money do I need to take a taxi to the city center?
+Speaker1: The taxi fare from here to the city center is approximately 50 yuan.
+Speaker2: Okay, how long will it take to get there?
+Speaker1: If there's no traffic, it should take about 30 minutes to get there.
+Speaker2: When will the taxi driver arrive at my place?
+Speaker1: I'll leave right away, I should arrive at your place in fifteen minutes.
+Speaker2: Okay, what is the license plate number? I can recognize it.
+Speaker1: The license plate number is Jing A eight eight eight eight eight, arrived to call you.
+Speaker2: Okay, thank you teacher, then I'll wait for you.
+Speaker1: No problem, be careful on the road, see you later.

@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little Ming, how about you recently?
+Speaker2: Hello, Xiaoming, I'm good, thank you. How are you?
+Speaker1: I'm good too, thank you. By the way, have you made any plans lately?
+Speaker2: I want to go to the library and look at some books to relax a bit.
+Speaker1: That idea is good, the library has recently received many books, you can go take a look.
+Speaker2: Really? Then I'll go tomorrow. Oh, do you know any good book recommendations lately?
+Speaker1: There's a book called "The Adventures of the Stars and the Sea," which is quite exciting. You can take a look.
+Speaker2: Sounds good, I'll remember it. Thanks for your recommendation.
+Speaker1: No problem, I hope you like it. By the way, the library is open from 9 am to 6 pm, don't forget.
+Speaker2: Okay, I know now, thank you for reminding me. See you tomorrow!
+Speaker1: Okay, see you tomorrow! I hope you can find the book you like.

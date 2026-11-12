@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager at Commercial Bank, we have a special discounted loan product with very low interest rate, are you interested in learning more about it?
+Speaker2: Hello, I need cash flow, but I'm not familiar with loans.
+Speaker1: No problem, I'll give you a detailed introduction. This loan product is specifically designed for small and medium-sized enterprises and individuals, with an interest rate of only 2.5%, and the loan disbursement speed is very fast.
+Speaker2: What materials do I need to prepare?
+Speaker1: You just need to provide your ID, income proof, and credit report. To facilitate your application, I recommend you download our bank's official app, which has detailed application procedures on it.
+Speaker2: Okay, what do I do after downloading the app?
+Speaker1: After downloading the app, register and log in, then find the loan application entrance on the homepage and fill out the information as prompted. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, I will download the app quickly. Also, if I encounter any issues, can I call you directly?
+Speaker1: Of course, my phone number is 400123456. You can contact me anytime if you have any questions, and I will do my best to help you.
+Speaker2: Okay, thank you, I will do it quickly.

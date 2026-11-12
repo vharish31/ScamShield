@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of the China Construction Bank's Tianhe Branch. Hello, recently we have a great loan product, specifically for customers with properties, up to a maximum of 50,000. Do you need to convert your funds recently?
+Speaker2: Hey, I recently need some cash flow, can you give me a detailed explanation?
+Speaker1: Of course, this loan product not only has a low interest rate, but also a fast repayment speed, you just need to provide the house proof and identity proof, we can process it for you. You just need to click on the link I sent you and fill in the relevant information.
+Speaker2: How can I ensure this link is safe?
+Speaker1: You can rest assured, we are a Chinese bank, and there will be no issues. After clicking on the link, you will be directly redirected to our bank's official website, which is very safe. If you are not confident, you can first understand our loan terms and then operate.
+Speaker2: Okay, let me try.
+Speaker1: Great, you're really smart. If you have any issues during the process, feel free to contact me anytime. My phone number is 4000000000. I hope our service meets your expectations.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome. I wish you all the best. Bye.
+Speaker2: Goodbye.

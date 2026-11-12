@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Li Xiaoling, how about you recently?
+Speaker2: Hello, little Li, I'm pretty good, thank you. How are you?
+Speaker1: I'm doing pretty well, recently changed jobs, pretty busy.
+Speaker2: Hey, are you still getting used to your new job?
+Speaker1: Never mind, it's quite a challenge, but there's a sense of accomplishment. By the way, do you have any free time this weekend?
+Speaker2: What do you have planned for the weekend?
+Speaker1: Do you want to go to the new coffee shop with me and try it out? It's supposed to be pretty good.
+Speaker2: Sounds good, I've heard that coffee shop is great, let's go try it out.
+Speaker1: Sounds good, how about we meet at the coffee shop at 2 PM on Saturday?
+Speaker2: Sure, meet on Saturday at 2 PM, no meeting if not scattered.

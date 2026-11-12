@@ -1,0 +1,10 @@
+Speaker1: Hello, can you hear me? Hi, I'm the customer service of Xiaoming Electric Repair Service. Your repair service has been scheduled for tomorrow morning at 10 am. The master will arrive on time.
+Speaker2: Okay, okay, thank you.
+Speaker1: Please prepare your equipment in advance for maintenance, so the technician can start checking immediately upon arrival.
+Speaker2: Okay, I understand.
+Speaker1: Also, if you have the repair card or purchase certificate for any electronic devices on this side, please prepare them, so you can enjoy the corresponding repair service.
+Speaker2: Okay, I will prepare.
+Speaker1: Okay, if you have any other questions, you can call our customer service hotline anytime.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, wish you all the best, bye.
+Speaker2: Goodbye.

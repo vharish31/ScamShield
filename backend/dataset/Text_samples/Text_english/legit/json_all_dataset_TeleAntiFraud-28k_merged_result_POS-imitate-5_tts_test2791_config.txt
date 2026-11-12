@@ -1,0 +1,11 @@
+Speaker1: Hello, are you the customer who just placed an order for takeout?
+Speaker2: Yes, I just placed an order. Can you confirm approximately how long it will take to be delivered?
+Speaker1: Okay, your delivery is estimated to arrive within 30 minutes. If it takes longer, we will prioritize your order.
+Speaker2: Okay, I'm living in the city garden small community, can you send it there?
+Speaker1: The city garden small community is deliverable, but the recent traffic is congested, so it may be a little late.
+Speaker2: How long will it take?
+Speaker1: I expect it to arrive around 45 minutes. If it's later than that, you can contact our customer service directly.
+Speaker2: Okay, that's the spicy hot pot and sour soup, right?
+Speaker1: That's right, you ordered spicy hot pot and sour soup, and two bottles of iced tea, which costs 50 yuan in total.
+Speaker2: Okay, thank you, I will pay attention to answering the phone at the right time.
+Speaker1: Okay, please pay attention when answering the phone and contact us if you have any questions. Enjoy your meal.

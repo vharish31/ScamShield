@@ -1,0 +1,10 @@
+Speaker1: Hey, are you free to talk now?
+Speaker2: Hello, can I help you with anything now?
+Speaker1: I am the customer service of the happy e-commerce platform. I see that you have a lot of unused points on your account. It will be cleared at twelve o'clock tonight.
+Speaker2: Can you tell me specifically what happened to clear my points?
+Speaker1: Of course. The points you accumulate while shopping on our platform can be used to exchange products or cash back. However, the points will be cleared every month, so you need to use them before the clearance.
+Speaker2: Oh, like that. Then how do I check my points?
+Speaker1: You can check through our app or website, or directly tell me your username, I'll help you look.
+Speaker2: I'll check it out on the app and tell you later.
+Speaker1: Okay, please let me know once you've found it, I'll handle it here.
+Speaker2: Found it, I have 26,800 points, really quickly cleared zero?

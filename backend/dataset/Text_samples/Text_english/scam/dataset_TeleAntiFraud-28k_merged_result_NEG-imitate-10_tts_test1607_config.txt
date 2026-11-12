@@ -1,0 +1,10 @@
+Speaker1: Hello, is it Lee Huam?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative at the Commercial Bank of China, my name is Wang. We noticed that you have had some issues with your loan application at our bank recently, so we are calling you specifically to help.
+Speaker2: Oh, really? I'm really urgent.
+Speaker1: That's right, we have a new loan product with low interest, quick approval, and it's very suitable for your current situation.
+Speaker2: Really? Then what do I need to do?
+Speaker1: You just need to download our bank's mobile app and fill out some basic information to apply.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can click this link to directly download our app.
+Speaker2: Okay, I'll download it right away. Thank you.

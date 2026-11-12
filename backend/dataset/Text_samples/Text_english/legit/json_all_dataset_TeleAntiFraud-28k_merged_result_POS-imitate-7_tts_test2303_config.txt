@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, just moved into this community, want to know more about the property's services.
+Speaker2: Hello, little Li, I am the property service customer service, you can call me small Zhang. What can I help you with?
+Speaker1: Hey, how do they collect parking fees in this community?
+Speaker2: The parking fee in our community is charged monthly, 100 yuan per month. If you're just parking temporarily, it's 5 yuan per hour.
+Speaker1: Uh, what materials do I need to prepare if I want to handle long-term parking?
+Speaker2: You need to provide copies of your ID, property certificate or rental contract, and vehicle registration certificate.
+Speaker1: Okay, where should I send these materials after they are ready?
+Speaker2: You can directly send to the property office, our office hours are from 8 am to 6 pm.
+Speaker1: Knowing that, there's another question. Recently, the weather has changed greatly. I want to know if there's any weather forecast service in the community?
+Speaker2: Our community updates the weekly weather forecast on the bulletin board every week, and you can also follow our community's WeChat public account to get real-time updates.

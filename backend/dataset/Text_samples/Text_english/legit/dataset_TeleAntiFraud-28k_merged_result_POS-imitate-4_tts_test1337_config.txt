@@ -1,0 +1,8 @@
+Speaker1: Hey, how are you? I'm Zhang San, I just placed an order for a delivery, can you help me check where it is?
+Speaker2: Hello, Zhang San, I am Li Xiao, the express delivery customer service, can you tell me your order number?
+Speaker1: Okay, my order number is 123456789.
+Speaker2: Okay, just a moment, I'll check. Hmm, your package has arrived at the city south delivery center, and it's estimated to be delivered tomorrow morning.
+Speaker1: That's great, I'll be at home in the morning. Also, could you please remind me if it's time, and give me a call.
+Speaker2: Okay, we will notify you on time. Do you have anything else you need help with?
+Speaker1: I'm not available right now, but if you have any questions, I'll get back to you. Thank you for your service.
+Speaker2: No problem, this is what we should do. If you need help, please contact us anytime. Wish you a happy day!

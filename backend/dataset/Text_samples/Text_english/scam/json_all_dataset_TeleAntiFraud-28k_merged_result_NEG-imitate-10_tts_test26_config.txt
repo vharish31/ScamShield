@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from the construction bank. Li Ming. We noticed that you recently applied for a loan on our platform, but it seems like you encountered some issues.
+Speaker2: Oh, really? I did apply, but I haven't gotten approval yet.
+Speaker1: Yes, I can see your information now. To help you quickly solve this problem, we can provide a special channel. You need to download our exclusive app to complete the final review process.
+Speaker2: Do you want to download the app? Is it the official one?
+Speaker1: Of course, this is specially prepared for our premium customers, very safe. You just need to scan this QR code, download it and follow the instructions after.
+Speaker2: Okay, let me try.
+Speaker1: Great, please complete the registration as soon as you download it. If you have any issues, feel free to contact me anytime. Additionally, to ensure your account's safety, you need to pay a security deposit first.
+Speaker2: Deposit? Do you need to pay?
+Speaker1: Yes, this is to prevent malicious applications, and once your loan application is approved, this deposit will be fully refunded to you.
+Speaker2: Okay, I'll pay the deposit first.

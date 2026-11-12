@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm Lee Ming, I want to consult your fitness courses.
+Speaker2: Hello, I am the customer service of the fitness center. What can I help you with?
+Speaker1: Can you explain the difference between your monthly and yearly membership plans?
+Speaker2: The main difference between monthly and yearly membership cards is the price and validity period. Monthly membership cards are suitable for friends who exercise occasionally, and the price is relatively higher. Yearly membership cards are more discounted, and they are suitable for frequent exercisers.
+Speaker1: What specific discounts were there that year?
+Speaker2: In addition to the lower prices, we will also provide some extra services, such as a free private coach course and a monthly member activity.
+Speaker1: The sound is good, I plan to do a year card, can you guys book an experience course on this side?
+Speaker2: Of course, we can arrange a free trial lesson for you to experience our environment and service.
+Speaker1: When can I come to try it out?
+Speaker2: You can choose 3 pm on Saturday this week, this time slot is less crowded, suitable for experience.

@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a customer manager of Agricultural and Commercial Bank, I see your information, do you have any need for capital rotation?
+Speaker2: Oh, now the funds are still sufficient, but listen to you talk.
+Speaker1: Okay, we have a low-interest business loan project that's perfect for your small enterprise. All you need to provide is your business license and some basic info.
+Speaker2: What are the specific steps to follow?
+Speaker1: It's very simple. Just download our bank's official app and follow the instructions to submit the data. After approval, you can quickly get the loan.
+Speaker2: Official App? What is the name of your bank's app?
+Speaker1: Our app is called "Farm Merchant Loan" and you can search and download it in the app store.
+Speaker2: Okay, I'll give it a try. Are there any other preparations needed?
+Speaker1: You just need to prepare your business license, ID, and the last three months' bank statements. If you have any other issues, you can directly contact me. My phone number is 13812345678.

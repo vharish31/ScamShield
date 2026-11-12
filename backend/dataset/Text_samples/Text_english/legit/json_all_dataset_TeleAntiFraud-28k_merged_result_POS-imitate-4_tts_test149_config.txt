@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, recently I bought a phone from your store and there's a problem, I want to consult it.
+Speaker2: Hello, Xiao Ming, I am customer service representative Zhang, what questions can I help you with?
+Speaker1: Sometimes my phone suddenly restarts, I don't know if it's a quality issue.
+Speaker2: In this situation, you can first check if it's because of software conflict or system update.
+Speaker1: I have checked and the software and system are up to date, yet this problem still occurs.
+Speaker2: You can bring your phone to our store, we'll check the hardware for you.
+Speaker1: Okay, where is the specific location of the store?
+Speaker2: Our store is on the third floor of the Star Light Square in the city district, near the elevator.
+Speaker1: Star Square, I know, can I go there tomorrow morning?
+Speaker2: Of course, from nine to twelve in the morning, there will be staff members present.

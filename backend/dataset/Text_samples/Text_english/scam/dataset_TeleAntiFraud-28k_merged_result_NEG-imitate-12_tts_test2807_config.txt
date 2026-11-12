@@ -1,0 +1,10 @@
+Speaker1: Hello, hello, how are you? I am small Liu, I am a credit officer at some bank.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, our bank recently introduced a very good loan project with extremely low interest, only requiring a cent and a half, and can be paid off in three years.
+Speaker2: I'm considering buying a car, but I'm still a bit tight on cash for the loan.
+Speaker1: This loan project is perfect for you. You can download our official app and find detailed information there.
+Speaker2: Do you want to download the app? I don't understand these.
+Speaker1: No problem, just use your phone to scan the QR code I sent you, download and install the app, then register an account, and you can see all the information.
+Speaker2: Oh, like that? Then I'll give it a try.
+Speaker1: Great, I'll send the QR code to your phone. If you have any issues during installation, feel free to contact me.
+Speaker2: Okay, thank you.

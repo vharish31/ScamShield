@@ -1,0 +1,13 @@
+Speaker1: Hi, how are you? I'm Li Xiao, this is Ping An Bank, have you consulted our bank loan products before?
+Speaker2: Hmm, okay? I have a little impression, but now my hands are a bit tight, I'm not sure whether to apply or not.
+Speaker1: No problem, I understand your concerns. But our this time's loan product is very cheap, monthly interest only one cent two, and the approval speed is fast, the fastest is the same day to put money.
+Speaker2: The sound is good, but I don't understand the loan process well, how to handle it?
+Speaker1: It's simple. Just provide your ID, bank statement, and income proof. We have a dedicated customer manager here to help you with it.
+Speaker2: Do I need to go to your bank?
+Speaker1: No need, we are online products, just download our app, register account, submit data, then you can apply online.
+Speaker2: Do you want to download the app? What is the name of your app?
+Speaker1: Our app is called "Anxin Loan". You can directly search and download it in the app store. After downloading, register an account, submit information, and our review team will quickly process it.
+Speaker2: Okay, what information do I need to fill out after downloading the app?
+Speaker1: You just need to fill out basic personal information, upload identity card front and back photos, bank flow and income proof, our system will automatically review.
+Speaker2: I understand, thank you for your help.
+Speaker1: No problem, if you have any issues during the process, please contact our customer service at any time, wish you a successful application.

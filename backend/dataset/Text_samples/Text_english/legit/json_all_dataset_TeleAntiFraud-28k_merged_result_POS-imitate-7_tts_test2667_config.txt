@@ -1,0 +1,14 @@
+Speaker1: Hello, I saw your house for rent in Five Eight City, is it true?
+Speaker2: Is it true, do you want to see?
+Speaker1: Yes, I want to know the size of this house.
+Speaker2: This house has a total area of 120 square meters and is divided into two floors.
+Speaker1: How much is the rent each month?
+Speaker2: The monthly rent is 12,000 yuan.
+Speaker1: Can I rent just one floor?
+Speaker2: This apartment must be rented in its entirety, not rented by the room.
+Speaker1: Oh, I understand. What was this house used for before?
+Speaker2: This was originally designed for small offices, you can redecorate it according to your needs.
+Speaker1: Can I go take a look?
+Speaker2: Of course, when is it convenient for you?
+Speaker1: Can I meet you at three in the afternoon tomorrow?
+Speaker2: Sure, I'll be there at 3:30 PM tomorrow.

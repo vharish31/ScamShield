@@ -1,0 +1,16 @@
+Speaker1: Hello, I want to consult your fitness programs.
+Speaker2: Hello, of course. What courses do you want to know about?
+Speaker1: Can you tell me more about the yoga classes, how many times a week are they, in the morning or at night?
+Speaker2: Our yoga classes are held three times a week, specifically on Monday, Wednesday, and Friday evenings from 7 to 8:30 p.m.
+Speaker1: Okay, what's the cost?
+Speaker2: The fee for a yoga class is one hundred yuan per session, and if you buy a monthly card, you can enjoy a nine-discounted price.
+Speaker1: Do I need to make a reservation?
+Speaker2: Yes, it's recommended to book in advance, so you can be sure of a place.
+Speaker1: Sure, can I try it out first before deciding whether to sign up?
+Speaker2: Of course, we have a trial class, the price is 120 yuan per session, and we'll buy a card if you're satisfied after the trial.
+Speaker1: Okay, I'll schedule this weekend experience class.
+Speaker2: Okay, is your appointment on Saturday or Sunday?
+Speaker1: I want to make a reservation for Saturday.
+Speaker2: Okay, the yoga class on Saturday starts at 7 pm, remember to arrive ten minutes early.
+Speaker1: Okay, thank you.
+Speaker2: Please come soon.

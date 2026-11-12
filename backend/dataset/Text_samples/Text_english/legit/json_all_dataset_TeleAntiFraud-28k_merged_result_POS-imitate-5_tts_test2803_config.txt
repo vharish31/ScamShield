@@ -1,0 +1,8 @@
+Speaker1: Hey, did you arrive?
+Speaker2: Are you there yet? I'm at the subway station.
+Speaker1: I'm standing in front of the library, you got off the subway station and walked to the left, see the second crossroad and turn right.
+Speaker2: Okay, I understand, roughly how long will it take?
+Speaker1: About ten minutes, this side pretty crowded, you pay attention safety.
+Speaker2: I understand, thank you, I'll leave right away.
+Speaker1: No problem, be careful on the road, contact after meeting face to face.
+Speaker2: Okay, see you later.

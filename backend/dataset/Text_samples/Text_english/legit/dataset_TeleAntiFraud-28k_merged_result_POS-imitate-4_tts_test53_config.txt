@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I saw on your website that you provide home services, want to know more about it?
+Speaker2: Hello, I'm very happy to serve you. What aspects of household services do you need to know?
+Speaker1: Can you provide a maid to clean my apartment once a week?
+Speaker2: Yes, we provide regular cleaning services. How many square meters is your home approximately? This way I can give you a more accurate quote.
+Speaker1: My house is about one hundred and twenty square meters.
+Speaker2: Okay, for a 120 square meter house, our regular cleaning service fee is 200 yuan per time. The service time is approximately 3 to 4 hours.
+Speaker1: What time do I need to make a reservation for this price?
+Speaker2: Can you choose any day of the week and let me know a day in advance? What is your convenient time?
+Speaker1: I find it convenient at nine o'clock on Saturday mornings.
+Speaker2: Okay, 9:00 AM on Saturday is fine. We will arrange a suitable nanny for you. Is there anything else I can help you with?
+Speaker1: Thanks for your help. I'm sorry, I don't have it right now.
+Speaker2: You're welcome. If you have any questions later, please feel free to contact us. Have a nice day. Goodbye!

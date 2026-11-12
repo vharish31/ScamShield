@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help with?
+Speaker1: Can I make an appointment for tomorrow's haircut time? What time do you open?
+Speaker2: We open at 9am, you can choose a time after 10am, this way people will be fewer.
+Speaker1: Okay, can I make a reservation for 10:30 in the morning?
+Speaker2: Okay, 10:30 is fine, I will reserve time for you.
+Speaker1: How long do I need to be early at the store?
+Speaker2: Arrive at the store about 10 minutes early, so you can rest a bit first and have a cup of water.
+Speaker1: Okay, I understand. I'll see you tomorrow.
+Speaker2: Okay, see you tomorrow, be careful on the road.

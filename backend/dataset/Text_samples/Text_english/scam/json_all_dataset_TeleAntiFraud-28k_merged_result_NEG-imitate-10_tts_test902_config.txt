@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer manager of Shanghai Bank, I am Lee Huai, are you Wang Sheng?
+Speaker2: Yes, hello, what do you have in mind?
+Speaker1: Mr. Wang, based on your credit record, you meet our bank's high-quality customer loan plan, and now there is an 80,000 yuan low-interest loan available for you, no collateral required, are you interested in learning more?
+Speaker2: The sound is good, but I don't have any special financial needs lately.
+Speaker1: Mr. Wang, this loan funds are very flexible, you can use them for any purpose, such as expanding business or investing in finance, and now there is an additional discount, such as free financial consulting service.
+Speaker2: What do I need to do to apply this way?
+Speaker1: It's very simple, Mr. Wang. You just need to click on the link I sent you and fill in the relevant information. Our staff will quickly review and contact you.
+Speaker2: Okay, let me try.
+Speaker1: Great, Mr. Wang, I will send you the link now, please pay attention to check it. Moreover, if you have any questions, feel free to contact me anytime, my phone number is 400123456.
+Speaker2: Okay, thank you.

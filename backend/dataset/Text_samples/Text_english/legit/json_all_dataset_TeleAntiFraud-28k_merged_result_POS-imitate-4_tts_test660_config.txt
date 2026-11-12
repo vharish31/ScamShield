@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from a courier company. Your package will be delivered to your home between 3 pm and 4 pm today. Can you confirm if you are at home?
+Speaker2: Hello, I should have been at home at that time, but there's a possibility I might go out for a bit.
+Speaker1: Okay, can we call you at 3 o'clock to confirm, you okay?
+Speaker2: Sure, but I usually don't take calls from strangers. What's your phone number?
+Speaker1: Our company's phone number is 400123456, you can save it, you won't miss our phone number later.
+Speaker2: Okay, I'll save it. What if I'm not at home when it's time?
+Speaker1: If you're not at home, we can temporarily store your package in a nearby delivery box, or schedule a delivery time for next time.
+Speaker2: Where is the delivery box?
+Speaker1: The parcel box is on the right side of the north gate of the community, and you can pick it up according to the short message prompt when the time comes.
+Speaker2: I understand, thank you for your help.

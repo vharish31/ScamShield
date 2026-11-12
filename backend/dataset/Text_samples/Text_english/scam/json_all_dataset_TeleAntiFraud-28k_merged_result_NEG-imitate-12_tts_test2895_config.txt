@@ -1,0 +1,10 @@
+Speaker1: Hello, I am Xiao Zhang, the customer service representative of the happy shopping platform. Recently, there was a problem with an order on our platform, which needs to be handled.
+Speaker2: What problem?
+Speaker1: Your order number is 123123, we checked and found that there may be some issues with the logistics process, please cooperate to handle it.
+Speaker2: What should we do?
+Speaker1: To ensure your rights, please click on a link, which will guide you to our official processing page, fill in some information, and we will process it quickly.
+Speaker2: Good, how do I order?
+Speaker1: Use your phone's text message function to send the number 888888888 to us, and we will immediately send a link to your phone.
+Speaker2: Okay, I'll send it right away.
+Speaker1: Okay, please send it and wait patiently for a moment, our system will automatically process it, once the link is sent, please click it quickly, don't miss the processing time.
+Speaker2: I know, thank you.

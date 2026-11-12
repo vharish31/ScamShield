@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, this is the East China Bank, you have consulted with us about a loan business before, now you can apply, do you have any recent financial needs?
+Speaker2: "Uh, I don't need a loan right now."
+Speaker1: Okay, let's understand it first, in case there's a need in the future. We also have a special promotion here, just apply through our app to enjoy extra discount.
+Speaker2: Is your app safe?
+Speaker1: Of course, our East China Banking App has undergone multiple security tests, so you can download it and register an account to learn more about our products after.
+Speaker2: What is the name of the app?
+Speaker1: The name of the app is "Dongcheng Jinrong". You can search and download it in the app store using this phone number to register and enjoy new user discounts.
+Speaker2: Okay, let me try.
+Speaker1: Great, feel free to contact me anytime if you have any questions. My phone number is 13812345678. I hope our service can assist you.

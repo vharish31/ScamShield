@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm a credit officer from Huaxia Bank. I saw that you applied for our loan services before. Do you still have a need for a loan?
+Speaker2: Ah, hello, I did submit an application before, but I haven't decided yet.
+Speaker1: Hmm, I understand. We have a new low-interest loan product here, the interest rate is very cheap, the maximum single loan amount is two hundred thousand yuan, no collateral is required, only basic personal information needs to be provided.
+Speaker2: Really? Then what do I need to do?
+Speaker1: Okay, first you need to download our official app, then submit personal information through the app, and our review team will review it. Once approved, the funds will be in your account within 24 hours.
+Speaker2: Does that sound convenient? Then I'll download the app now.
+Speaker1: Yes, you can directly click on the link I sent you to download it. It's official and very safe.
+Speaker2: Okay, I'm going to download now.
+Speaker1: Alright, after downloading is complete, if you have any questions, feel free to contact me directly. My phone number is 13812345678. Best of luck with the operation!
+Speaker2: Thank you, I will contact you.

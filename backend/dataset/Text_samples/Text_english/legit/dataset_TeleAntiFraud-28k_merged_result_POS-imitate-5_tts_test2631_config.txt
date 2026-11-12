@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer service of the community property, want to confirm with you, is there any leakage in your water tap?
+Speaker2: Hello, did you notice anything?
+Speaker1: We received some feedback here saying there's water noise in your neighborhood, maybe the water main is leaking.
+Speaker2: That's it, I'll go take a look later.
+Speaker1: Okay, if you really have issues, you can contact us anytime, we will come check on site.
+Speaker2: Okay, thank you for your reminder.
+Speaker1: No problem, this is what we should do. Are there any other things that need help?
+Speaker2: I don't have it now, I'll contact you if there are any issues.
+Speaker1: Okay, you can call our service hotline if you have any questions, and we will solve them quickly.
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye, wish you happy life.

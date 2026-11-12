@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Xiao Ming, recently I want to renovate my house, saw your company's ad, want to know more about your service.
+Speaker2: Hello, Xiao Ming, I am a customer service representative from a home decor company, and I am very happy to serve you. What specific information are you looking for?
+Speaker1: Can you tell me about your decoration process, roughly how long does it take?
+Speaker2: Our renovation process starts with a designer coming to your home to measure, based on your needs, design a renovation plan, then sign a contract, and start construction. A standard three-bedroom, two-living room renovation project usually takes about three months.
+Speaker1: What about materials? What brands of materials do you use?
+Speaker2: We always work with well-known brands like Dulux paint and Marble tiles to ensure the quality of decoration. Of course, if you have a specific brand preference, we can adjust accordingly based on your needs.
+Speaker1: Okay, what is your quote?
+Speaker2: The specific price depends on the design picture and the materials you choose, but we can give you a preliminary budget first, which you can see?
+Speaker1: Sure, when is it convenient for you to have a detailed discussion at your company?
+Speaker2: We have no work this week, you can choose a convenient time, I'll schedule it for you.

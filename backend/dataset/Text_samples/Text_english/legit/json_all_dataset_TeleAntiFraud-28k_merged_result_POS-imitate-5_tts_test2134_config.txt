@@ -1,0 +1,15 @@
+Speaker1: Hello
+Speaker1: Hello, I am the salesperson at Yángguāng dàodǎo's car dealership, have you recently inquired about our store's car models and which one do you want to know more about?
+Speaker2: Hey, what's the specific model of the SUV you're interested in?
+Speaker1: Which of the two SUV models do you prefer, the one that costs 21,600 or the one that costs 23,800?
+Speaker2: I look at model one, that twenty one thousand six.
+Speaker1: Okay, model one now has a promotion, directly reduced by 10,000, and there are also additional decorative gift packages.
+Speaker2: Oh, this way, what about maintenance policy?
+Speaker1: The first year of maintenance is free, and the subsequent maintenance fees are quite reasonable, and we also provide a door-to-door car pickup and delivery service.
+Speaker2: When is it convenient for me to go over and take a look?
+Speaker1: You can arrange to come over on the weekend, we will prepare the test drive car for you here.
+Speaker2: Okay, I went out on Saturday.
+Speaker1: I'll reserve a parking spot for you on Saturday morning around 10 am. See you then.
+Speaker2: Okay, thank you.
+Speaker1: Please wait for your arrival, goodbye.
+Speaker2: Goodbye.

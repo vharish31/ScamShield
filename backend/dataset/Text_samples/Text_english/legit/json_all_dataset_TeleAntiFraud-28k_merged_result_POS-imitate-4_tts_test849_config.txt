@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: I am at the subway station, where are you?
+Speaker1: I'm at the bus station, almost there.
+Speaker2: Okay, come to the metro station this side, I'm waiting for you here.
+Speaker1: Have you seen that big advertisement billboard yet?
+Speaker2: I saw it, it's on the right side of the exit at the subway station.
+Speaker1: I went to find you, it was probably about five minutes ago.
+Speaker2: Okay, I'm waiting for you here, be careful.
+Speaker1: I know, see you later.
+Speaker2: See you later.

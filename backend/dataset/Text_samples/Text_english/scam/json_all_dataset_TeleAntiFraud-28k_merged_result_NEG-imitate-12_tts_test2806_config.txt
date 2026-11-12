@@ -1,0 +1,11 @@
+Speaker1: Hello, I'm little Zhang, I introduced our company's investment financial products to you before, recently we have a new high return product, do you have any interest?
+Speaker2: Is there any discount?
+Speaker1: This is it, this product is specifically designed for our old customers, the top 50 investors can enjoy an additional 10% return, and the investment threshold is very low, as low as 10,000 yuan.
+Speaker2: Listen well, how to join in?
+Speaker1: Great, just download our app, register an account, and purchase our financial products through the app to get started.
+Speaker2: Where can I download the app?
+Speaker1: Click this link directly to download.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you encounter any issues during the download process, please feel free to contact me at any time. Additionally, in order to ensure the safety of your funds, you will need to provide a verification code. I will send you a text message with the code, please let me know how much it is.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the verification code has been sent, please check.

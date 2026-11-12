@@ -1,0 +1,12 @@
+Speaker1: Hey, are you the Little Ming Hair Salon?
+Speaker2: Hello, yes, what do you want to talk to us about?
+Speaker1: Can I make a haircut appointment for tomorrow? Do you have any available time?
+Speaker2: What time is convenient for you tomorrow morning between 10am and 2pm?
+Speaker1: Can you help me make an appointment at 10 am in the morning?
+Speaker2: Of course, what is your name and contact information?
+Speaker1: I am Li Huai, my phone number is 1351223455.
+Speaker2: Okay, Li Huangshan, I have already scheduled your haircut for tomorrow morning at 10 am. Remember to be on time.
+Speaker1: Okay, thank you. By the way, I want to cut my hair short, do you have any recommendations for a style?
+Speaker2: We have several popular short hair styles here, you can check our style book later, or let our hair stylist recommend one based on your face shape and preference.
+Speaker1: Sounds good, let's do it. See you tomorrow.
+Speaker2: See you tomorrow, Li Huangshan, be careful on the road.

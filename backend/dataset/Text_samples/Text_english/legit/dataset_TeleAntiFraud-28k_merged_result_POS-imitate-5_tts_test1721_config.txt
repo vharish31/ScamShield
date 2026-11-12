@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I saw on the internet that you guys have a rental house, can you give me more details?
+Speaker2: Hello, yes, we have several houses for rent, which one do you want to rent?
+Speaker1: Can you specifically describe that two-room one-hallway apartment?
+Speaker2: Of course. That apartment is on the third floor, not an elevator apartment, with a total area of 70 square meters, simply decorated, suitable for a small family to live in.
+Speaker1: How much is the rent?
+Speaker2: Rent is three thousand yuan per month, one month's deposit paid upfront, utilities self-paid.
+Speaker1: Can I take a look at the house?
+Speaker2: Sure, when do you have time? I can take you to see.
+Speaker1: Can I go out this weekend?
+Speaker2: What time this weekend?
+Speaker1: What's up on Saturday afternoon at 2 PM?
+Speaker2: Okay, Saturday afternoon at 2 pm, I'll be waiting for you at the community door.

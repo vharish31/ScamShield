@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Li Xiaoling, how about you recently?
+Speaker2: Hey, little Li, I'm doing pretty good, how about you? What have you been up to lately?
+Speaker1: I've been busy preparing a project lately. It's been quite hectic, but it's okay. Have you been free lately?
+Speaker2: Hi, what are your plans for this weekend?
+Speaker1: Let's go to the new coffee shop together and chat, it's said to have a good environment.
+Speaker2: Okay, I also want to go. What specific time?
+Speaker1: Let's meet at three in the afternoon on Saturday at the coffee shop. I'll be there waiting for you.
+Speaker2: Okay, see you at 3 pm on Saturday.
+Speaker1: Okay, see you later, be careful on the road.
+Speaker2: Okay, you too, see you on Saturday.

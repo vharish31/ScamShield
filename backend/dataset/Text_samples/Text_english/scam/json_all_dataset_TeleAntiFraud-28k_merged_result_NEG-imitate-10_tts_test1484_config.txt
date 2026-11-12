@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I am the customer manager of the Agricultural Bank's Tianhe Branch, and we have a new loan product that is particularly good, very suitable for you as a high-quality customer.
+Speaker2: Oh, really? I happen to need some cash flow.
+Speaker1: Great, this product has no collateral or guarantee, the maximum loan amount is 55,000, and the interest rate is very favorable.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: You just need to provide some basic information, such as your name, ID number, and phone number. We will have a specialist contact you to guide you through the next steps.
+Speaker2: Okay, how can I provide this information?
+Speaker1: You can click this link and fill out the relevant information, our staff will quickly contact you.
+Speaker2: Okay, let me try.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you at Xiaoming's takeout?
+Speaker2: Hello, can you tell me what kind of choices do you have for your fast food menu?
+Speaker1: What kind of burger set would you like to know more about here: chicken, beef, or vegetarian?
+Speaker2: Can you tell me the price of the chicken burger set meal?
+Speaker1: The price of the chicken leg burger set meal is 30 yuan, which includes one large chicken leg burger, one portion of fries and one cup of Coke.
+Speaker2: Can you send it to my house? It sounds good.
+Speaker1: Of course, can you tell me your address?
+Speaker2: I am in Happiness Village apartment 3, 2B, room 402.
+Speaker1: Okay, I have recorded your address. It will arrive in about half an hour. Is there anything else needed?
+Speaker2: No more, thank you.

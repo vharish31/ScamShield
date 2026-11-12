@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm Zhang, a server at Tiancheng Restaurant. Do you have any opinions on our new menu?
+Speaker2: Hey, hi, little Zhang, I'm Li Ming. New menu? I haven't noticed yet, can you give me a simple introduction?
+Speaker1: Okay, we've added several new menu items, such as spicy Sichuan hot pot and steamed sea bass with ginger, with a strong flavor, suitable for friends who like to try new things.
+Speaker2: Wow, that sounds great, especially the steamed sea bass, I personally prefer mild flavors.
+Speaker1: That's great, this season is perfect for eating salmon, the meat is fresh and delicious. By the way, we also introduced a midday set meal, you can take a look.
+Speaker2: Lunch set meal? Are there any discounts?
+Speaker1: Yes, the midday set meal is much cheaper than the regular menu, and there are also free drinks and small dishes.
+Speaker2: That sounds reasonable, I plan to try it this week.
+Speaker1: Hello, we are always welcome you. By the way, you can call in advance to make a reservation, so you don't have to wait when you come to the store.
+Speaker2: Okay, I will consider it. See you then.
+Speaker1: Okay, see you later. I hope you like our new dishes. Bye.
+Speaker2: Goodbye.

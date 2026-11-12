@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's special dishes?
+Speaker2: Our restaurant special dishes include spicy Szechuan, steamed fish and gong bao chicken, all very popular.
+Speaker1: How much do these dishes cost?
+Speaker2: The spicy pot is 60 yuan, steamed fish is 80 yuan, and gong bao chicken is 40 yuan.
+Speaker1: What is the restaurant's business hours?
+Speaker2: Our restaurant business hours are from 11 am to 10 pm every day.
+Speaker1: Sure, can I reserve a seat for 7 pm tomorrow evening?
+Speaker2: Of course, the 7:00 PM seat has been reserved for you for tomorrow night. How many seats do you need to book?
+Speaker1: Two people. Thank you.
+Speaker2: Okay, your seats are reserved. See you tomorrow!

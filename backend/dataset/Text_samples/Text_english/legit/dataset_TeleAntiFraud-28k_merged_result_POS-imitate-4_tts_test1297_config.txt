@@ -1,0 +1,12 @@
+Speaker1: Hey, are you at the restaurant of Xiaoming?
+Speaker2: Hello, yes, this is Xiaoming's restaurant, what can I help you with?
+Speaker1: What are your special dishes today?
+Speaker2: What do you think about trying our special dishes today, which are steamed sea bass and stir-fried pork, both very popular?
+Speaker1: How much do these menus cost?
+Speaker2: The steamed sea bass is 60 yuan per portion, the stir-fried pork is 40 yuan per portion, the prices are very reasonable.
+Speaker1: Okay, can you tell me your business hours?
+Speaker2: Our restaurant business hours are from 10 am to 10 pm, on weekends they will be extended to 11 pm.
+Speaker1: Do I need to reserve a seat in advance if I arrive at six and a half in the evening?
+Speaker2: Of course, at six and a half, there will be more people, so it's better to book in advance to ensure a seat. How many seats do you need to book?
+Speaker1: Please book four seats.
+Speaker2: Okay, I have already booked for you, at six and a half, four people, you can come directly when you arrive, we will be ready for everything.

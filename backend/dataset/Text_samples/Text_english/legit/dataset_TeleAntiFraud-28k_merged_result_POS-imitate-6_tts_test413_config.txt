@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? I saw your handmade mooncakes in the store, do you still have any?
+Speaker1: Yes, yes, there are still quite a few now, what flavor are you looking for?
+Speaker2: I want to buy two boxes of bean curd and lotus root.
+Speaker1: Okay, two boxes of soybean paste and lotus seed paste, that's four boxes. Do you want to pay online or offline?
+Speaker2: I plan to buy groceries at the store and pay cash on delivery.
+Speaker1: Okay, when would you like to pick up the goods?
+Speaker2: Can I have some space in the afternoon around three o'clock tomorrow?
+Speaker1: Okay, tomorrow afternoon at three o'clock, we'll wait for you at the store.
+Speaker2: Okay, thank you.
+Speaker1: No problem, what do you need to contact me urgently? Wish you a happy day!

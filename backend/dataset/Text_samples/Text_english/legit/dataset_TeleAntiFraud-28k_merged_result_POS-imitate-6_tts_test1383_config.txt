@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you tell me if there are any rooms here suitable for two people?
+Speaker2: Yes, we have several private rooms here that are suitable for two people. Do you want to see specific information?
+Speaker1: Sure, can you send it to me?
+Speaker2: Of course, just wait a moment, I'll send it to you right away.
+Speaker1: Okay, thank you. And, I want to know how much rent is for one month?
+Speaker2: Rent is one thousand five hundred yuan per month, including water and electricity.
+Speaker1: Hmm, that sounds good. Do we need to sign a contract?
+Speaker2: Yes, a lease agreement needs to be signed, which includes details such as rent, deposit, and lease term.
+Speaker1: I understand, then I'll take a look at the photos of the room to see if they are suitable.
+Speaker2: Okay, I've sent you the photos. If you have any questions, feel free to contact me.

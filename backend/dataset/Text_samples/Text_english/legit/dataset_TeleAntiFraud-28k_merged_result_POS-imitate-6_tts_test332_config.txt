@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you have a two-bedroom apartment for rent here?
+Speaker2: So, are you looking for a long-term or short-term lease?
+Speaker1: How much would it be to rent for a year?
+Speaker2: The rent for a two-room apartment is three thousand yuan per month.
+Speaker1: Does this price include property fees and electricity fees?
+Speaker2: The property fee and electricity fee are not included and need to be paid separately.
+Speaker1: Can I take you to see the house?
+Speaker2: Of course, when is it convenient for you?
+Speaker1: Can I have some time around three in the afternoon tomorrow?
+Speaker2: No problem, tomorrow afternoon three o'clock, I will be at the community door waiting for you.

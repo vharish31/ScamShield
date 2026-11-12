@@ -1,0 +1,15 @@
+Speaker1: Hello, this is the city bank credit department manager.
+Speaker2: Hello, where are you from?
+Speaker1: Hi, I work at the city bank. I saw that you had previously shown interest in our small loan services. Would you like to know if you have any funding needs?
+Speaker2: I recently need some cash flow, how much can you provide?
+Speaker1: We can provide the highest credit loan of 30,000 yuan with a very low interest rate, only 1 yuan and 5 cents.
+Speaker2: What interest rate is so low? What conditions do you need?
+Speaker1: The conditions are very simple. Just provide your ID and bank account number, and we'll approve it immediately after review. You can get the loan today.
+Speaker2: How long will it take for approval?
+Speaker1: In general, the review usually takes only one to two hours, which is very fast.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: You can click on the link we send, fill out the application form, or directly download our app for more convenient operation.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I will send you the link and download address for the app immediately. If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, I'll wait for your message.
+Speaker1: Okay, wish you happy life, bye.

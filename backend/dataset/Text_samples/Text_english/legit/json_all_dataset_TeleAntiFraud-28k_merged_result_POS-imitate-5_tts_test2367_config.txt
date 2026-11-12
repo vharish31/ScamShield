@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a waiter at the food square, you previously booked a dinner at our restaurant, I just wanted to remind you.
+Speaker2: Okay, I remember I made a reservation.
+Speaker1: You reserved a seat at six thirty eight PM in the restaurant at the third number of the public road in the city center.
+Speaker2: Okay, I know the place.
+Speaker1: Great, do you have any special dietary requirements, such as being allergic or vegetarian?
+Speaker2: No special requirements, just regular food.
+Speaker1: Okay, our restaurant has many menu items to choose from, do you have anything special you want to try?
+Speaker2: Do you have any recommendations for dishes?
+Speaker1: Our restaurant's signboard menu is spicy Sichuan hotpot and sweet and sour ribs, very popular.
+Speaker2: That sounds good, I'll give it a try.
+Speaker1: Okay, I'm looking forward to your arrival. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you for your reminder, see you later.

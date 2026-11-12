@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Tian An Material Flow, your package has encountered an issue during transportation, please assist us in handling it.
+Speaker2: Hello, what's the problem?
+Speaker1: Your package was damaged during transportation, we need some information to process compensation.
+Speaker2: Uh, what information do I need to provide?
+Speaker1: Firstly, could you please provide your name and contact number? We also need your bank card number so that we can directly transfer the compensation money into your account.
+Speaker2: Okay, my name is Li Ming, my phone number is 13812345678, and my bank card number is 62220812345678901234.
+Speaker1: Okay, Mr. Li, we have recorded everything. For safety reasons, we also need you to provide a verification code. The verification code will be sent to your phone, please check it.
+Speaker2: Okay, I received it. The verification code is 123456.
+Speaker1: Thank you for your cooperation. We will process your compensation claim quickly. Additionally, to express our apologies, we have prepared a small gift for you, which you can receive by clicking on the link we send.
+Speaker2: Okay, thank you, I will go pick it up.

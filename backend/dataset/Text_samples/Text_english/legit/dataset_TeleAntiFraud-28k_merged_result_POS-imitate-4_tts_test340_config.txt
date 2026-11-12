@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is a city restaurant, you made a reservation for dinner here before, do you want to confirm your reservation information?
+Speaker2: Hello, I did book it, but I'm not sure if it's tonight or tomorrow.
+Speaker1: Your reservation is for tomorrow evening at seven o'clock, for a table of four, correct?
+Speaker2: Yes, I remember there were four people, but maybe there will be another person coming.
+Speaker1: Okay, if another person comes, we can add another seat for you here. Do you need to confirm now?
+Speaker2: Okay, can you please add a chair?
+Speaker1: No problem, I have already added a seat for you. Do you have any special dietary requirements, such as vegetarian or seafood allergy?
+Speaker2: There's one person who doesn't eat spicy, the others have no special requirements.
+Speaker1: Okay, we will pay special attention to this point. Additionally, our restaurant has some special menu recommendations during this time. Do you have any interest in learning more about them?
+Speaker2: Sure, tell me what special dishes you have.

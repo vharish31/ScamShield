@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative for a food delivery platform. You placed an order with us before, and today you want to know if you were satisfied with the service from your last order?
+Speaker2: Hey, hello, it's okay, just a little longer for the delivery time.
+Speaker1: I'm very sorry to bring you an unpleasant experience, we're actively working to improve delivery efficiency.
+Speaker2: Hope you guys can do better.
+Speaker1: Hey, we have a new product online today, want to try it out?
+Speaker2: What is the new product?
+Speaker1: Our roast duck is very popular, served with special sauce.
+Speaker2: Listen good, how order?
+Speaker1: You can place an order directly on our App and enjoy a discount by inputting the code NEW2023.
+Speaker2: Okay, let me try.
+Speaker1: If you have any questions, please contact me anytime. I hope you enjoy your meal!

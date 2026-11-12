@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you?
+Speaker2: Hey, how are you? What's up?
+Speaker1: I'm at that street corner, can't find the road anymore.
+Speaker2: Hey, which street corner are you at?
+Speaker1: That big supermarket's front sidewalk
+Speaker2: Okay, wait a minute, I'll be right back to pick you up.
+Speaker1: Okay, thank you, wait for you.
+Speaker2: No problem, there might be a little congestion on the road, just wait for me for about ten minutes or so.
+Speaker1: Okay, no rush, pay attention to safety on the road.
+Speaker2: Okay, you too, see you later.

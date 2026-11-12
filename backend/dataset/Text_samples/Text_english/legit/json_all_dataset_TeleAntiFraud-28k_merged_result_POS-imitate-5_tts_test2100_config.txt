@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang, I ordered a birthday cake at your store, can you confirm the order information?
+Speaker2: Hello, Mr. Zhang, I am the waiter at the bakery, your order has been received, can you tell me the order number?
+Speaker1: Okay, my order number is one two three four five six seven.
+Speaker2: Okay, I'll check and wait for a moment.
+Speaker1: Okay, thank you.
+Speaker2: Found it, your order is an eight-inch strawberry milk cake, delivered tomorrow afternoon at three o'clock, right?
+Speaker1: Yes, that's it. Is it necessary to pay in advance?
+Speaker2: You don't need it, you can choose to pay on delivery. Our delivery man will bring a POS machine to your door when it's time.
+Speaker1: That's great, thank you for your service.
+Speaker2: You're welcome. If you need further assistance, please contact us anytime. Have a great day!

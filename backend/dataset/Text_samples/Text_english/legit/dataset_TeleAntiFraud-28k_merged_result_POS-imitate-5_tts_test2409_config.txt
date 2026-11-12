@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm Xiaoming, the smartwatch you were browsing on our website recently has an activity now.
+Speaker2: Oh, really? What are the functions of this watch?
+Speaker1: This watch not only can show time, also have health monitoring, phone reminder, weather forecast etc function, very suitable for daily use.
+Speaker2: How much does it cost to sound good?
+Speaker1: The original price was 1500 yuan, but now the promotion price is only 1200 yuan, and there is also free shipping service.
+Speaker2: Can I order now?
+Speaker1: Of course, I can help you now. What color do you need?
+Speaker2: I want to choose black.
+Speaker1: Okay, the black smartwatch has been added to your shopping cart. Please confirm the information and then you can pay.
+Speaker2: Okay, I'll go pay now, thank you for your help.
+Speaker1: You're welcome. If you have any other questions, please feel free to consult anytime. Have a happy shopping!

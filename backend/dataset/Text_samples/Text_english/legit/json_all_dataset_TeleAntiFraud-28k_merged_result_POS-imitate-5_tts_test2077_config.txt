@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer service monkey of the point store, see that you have a lot of member points, how come you have never used them before?
+Speaker2: What points?
+Speaker1: These points are the ones you accumulated while using your phone to pay for shopping, and you currently have over 26,000 member points in your account, which can be directly exchanged for products in the mall. You can exchange items like white wine gift boxes, famous brand suits, high-definition TVs, and smartwatches with these points.
+Speaker2: Really? How come I don't know?
+Speaker1: Hey, we sent a text message notification before, you might have missed it. Tonight all scores will be reset, so hurry up.
+Speaker2: What should I do to exchange it?
+Speaker1: You can log in to our point store, select your favorite products, and directly exchange them with points. If you need help, I can remotely guide you on the operation.
+Speaker2: Okay, let me try.

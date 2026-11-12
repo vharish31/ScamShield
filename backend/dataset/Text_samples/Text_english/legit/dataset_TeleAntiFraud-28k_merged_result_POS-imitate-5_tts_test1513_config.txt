@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, recently I've been considering buying a new phone, do you have any recommendations?
+Speaker2: Hello, Xiaoming, there are quite a few new phones on the market recently. Do you have any specific requirements, such as battery life, photography, or gaming?
+Speaker1: I mainly use it for taking photos and occasionally playing games, the battery life should be better.
+Speaker2: You can consider the latest X brand flagship phone for its excellent camera, large battery capacity, and smooth gameplay.
+Speaker1: How much does this phone cost?
+Speaker2: This phone is currently priced at 3,800 yuan, and there's still a chance to get a free phone case and screen protector with purchase.
+Speaker1: Are there any discount activities?
+Speaker2: Yes, if you place an order today, you can enjoy a 100 yuan cash discount and free shipping.
+Speaker1: Then I placed the order, thank you for your recommendation.
+Speaker2: No problem, feel free to contact me if you have any questions, happy shopping!

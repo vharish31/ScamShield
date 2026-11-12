@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask if there are any rent rooms there?
+Speaker2: Hello, yes, we have a rental room, where are you now?
+Speaker1: I am at the bus station, about at the city square.
+Speaker2: Okay, on the side of the city square, you can walk along the main street and turn right at the second red light.
+Speaker1: Okay, turn right at the second red light, and then?
+Speaker2: Then you will see a bank, next to the bank is a small road, walking along the small road to the bottom is it.
+Speaker1: Okay, is that room a single room or a shared room?
+Speaker2: We have both single rooms and shared rooms. The rent for single rooms is one thousand five hundred yuan per month, and the rent for shared rooms is eight hundred yuan.
+Speaker1: Is there air conditioning and internet in that room?
+Speaker2: Yes, all rooms are equipped with air conditioning and internet, you can relax.
+Speaker1: Okay, I'll go take a look in a little while.
+Speaker2: Okay, call me when you arrive, I'm waiting here for you.

@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I'm Xiaoming, I want to ask, do you still hire waiters here?
+Speaker2: Hello, do you want to come for an interview to be a waiter here?
+Speaker1: Yes, I saw the job information, I want to give it a try.
+Speaker2: Okay, have you done similar work before?
+Speaker1: I have worked at a fast food restaurant before, responsible for taking orders and cleaning.
+Speaker2: That's great, do you have time to come for an interview? Bring your ID.
+Speaker1: Okay, when is it convenient for me to come over?
+Speaker2: You can choose between 10 am and 2 pm, our manager is there.
+Speaker1: Then I'll choose 2 pm, this time is more convenient for me.
+Speaker2: Okay, let's meet at two in the afternoon. Remember to bring your ID.
+Speaker1: Okay, thank you, see you later.

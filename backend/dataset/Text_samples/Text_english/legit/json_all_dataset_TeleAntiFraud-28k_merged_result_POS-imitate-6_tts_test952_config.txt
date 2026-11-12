@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I saw your rental house information on your website, and I want to inquire about it.
+Speaker2: Hello, yes, we have a house for rent, what specific questions do you have?
+Speaker1: Can you tell me about the location and transportation of this house?
+Speaker2: This house is located near the city center, transportation is very convenient, there is a subway station nearby, and there are many bus lines.
+Speaker1: How much is the rent for that house? Do I need to pay a deposit?
+Speaker2: The monthly rent is three thousand yuan, and one month's rent must be paid as a deposit.
+Speaker1: Is there any furniture in the house? Like a bed or a table?
+Speaker2: Yes, the house is fully furnished with a bed, desk, wardrobe and other basic household items. You can directly move in with your luggage.
+Speaker1: Sure, can I see the photos of the house?
+Speaker2: Of course, I can send you photos of the house through WeChat or email. Which one is more convenient for you?
+Speaker1: WeChat is very convenient. You can add my WeChat, my number is this phone number.
+Speaker2: Okay, I will quickly add you on WeChat and send you photos. You can contact me anytime if you have any questions.

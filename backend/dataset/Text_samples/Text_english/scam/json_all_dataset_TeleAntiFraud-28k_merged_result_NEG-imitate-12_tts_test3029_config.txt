@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer manager of Shanghai Bank, Lee, according to our system, your credit status is good, we can provide you with a 15,000 yuan low-interest loan, with monthly interest of 225 yuan, do you have any recent financial needs?
+Speaker2: Hello, this loan sounds good, but I have enough money right now, so I don't need it temporarily.
+Speaker1: Okay, understood. However, this loan opportunity is quite rare, the interest rate is extremely favorable. If you need it, you can add my WeChat, feel free to contact me anytime.
+Speaker2: Sure, let's add a little bit, just in case we need it later.
+Speaker1: Okay, my WeChat number is shbankloan, add me, feel free to consult me anytime if you have any questions.
+Speaker2: Okay, I'll add one more.
+Speaker1: Okay, let me know after you add it, I will prepare relevant information for you.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me for any questions, wishing you all the best. Goodbye.
+Speaker2: Goodbye.

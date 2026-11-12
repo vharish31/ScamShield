@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao, an AliExpress customer service representative.
+Speaker2: Hello, what do you have?
+Speaker1: That's it, we noticed that the products you bought on our platform might be counterfeit or substandard products, so we're ready to initiate a refund process for you.
+Speaker2: Really? That's great, I've been worried about this issue all the time.
+Speaker1: Sure, to confirm your identity, we need you to provide some personal information, including your ID number and bank card number.
+Speaker2: This sounds a little off, don't you record these information?
+Speaker1: Don't worry, all these are for your protection, we will strictly keep confidential. Moreover, to speed up the processing speed, you can click on the link I sent you and fill in the relevant information.
+Speaker2: Okay, I understand. But I don't have a computer right now, can I use my phone?
+Speaker1: Sure, this link can be opened on a mobile phone. Just click on the link and follow the instructions.
+Speaker2: Let me try and see.

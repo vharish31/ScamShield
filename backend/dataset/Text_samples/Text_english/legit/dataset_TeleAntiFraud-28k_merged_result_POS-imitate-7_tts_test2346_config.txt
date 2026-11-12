@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you? I am the customer service of the car treasure platform. I want to consult with you if there is any intention to install the invisible car cloak on your car?
+Speaker2: Hello, are you interested? But how about the price?
+Speaker1: The current price for the entire car project is one thousand two hundred yuan. If it's acceptable, we can arrange construction for you and get it online for promotion on our platform.
+Speaker2: One thousand two hundred yuan, this price is reasonable, but how much will the platform deduct?
+Speaker1: Is it acceptable for the platform to deduct three points of fees?
+Speaker2: How much money will I have in hand after three points?
+Speaker1: It's approximately 1164 yuan in hand.
+Speaker2: This price is acceptable, but if it could be a little cheaper, that would be even better.
+Speaker1: Do you understand your requirement? We can adjust the price to one thousand one hundred yuan. Is that okay for you?
+Speaker2: One thousand one hundred yuan is acceptable, but how many points does the platform deduct?
+Speaker1: Yes, the platform deducts three points, so the actual amount in hand is approximately one thousand six hundred and sixty-seven yuan.
+Speaker2: That's fine, then let's do it that way.
+Speaker1: Okay, I will arrange construction time for you and get your service online on the platform. Thank you for your support. Best wishes for your business. Goodbye.

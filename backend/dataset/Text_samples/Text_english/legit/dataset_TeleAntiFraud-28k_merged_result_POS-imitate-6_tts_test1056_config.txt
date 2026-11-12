@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Zhang San, I have an appointment for therapy tomorrow, can you confirm the time?
+Speaker2: Hello, Zhang San, I am a service staff at the rehabilitation center, is your appointment tomorrow at 3 pm?
+Speaker1: Yes, that's the time.
+Speaker2: Okay, I have confirmed it for you. Tomorrow at 3 pm, remember to arrive ten minutes early.
+Speaker1: Okay, is that the same address as last time?
+Speaker2: Yes, the address hasn't changed, it's still the same place, get off the metro line two at Guangming station, and walk five hundred meters out after getting off to reach it.
+Speaker1: Okay, I noted it down, thank you.
+Speaker2: No problem, is there anything else you need help with?
+Speaker1: No more, thank you, see you tomorrow.
+Speaker2: Okay, see you tomorrow, wish you all the best.

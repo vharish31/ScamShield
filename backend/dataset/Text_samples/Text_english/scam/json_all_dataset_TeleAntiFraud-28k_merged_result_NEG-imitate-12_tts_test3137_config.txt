@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a loan officer at HSBC Bank. Recently we launched a special promotion for loans, no collateral required, interest rate is very low, are you interested in learning more?
+Speaker2: Can you introduce me to some capital recently?
+Speaker1: Of course, first you need to download our bank's official app, then register an account, I can send you a link, just click download, very convenient.
+Speaker2: Okay, how do I download this app?
+Speaker1: Just click on the link I sent you and you can download it directly. After downloading, use your phone number to register an account, and I can guide you through the process on this end.
+Speaker2: Okay, let me try.
+Speaker1: Okay, just a moment, I'll send you the link right away. Remember to download from this link to avoid downloading a fake app.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. After downloading, please let me know, and I can help you with the next steps in the application process.
+Speaker2: Okay, I'll go download it now.

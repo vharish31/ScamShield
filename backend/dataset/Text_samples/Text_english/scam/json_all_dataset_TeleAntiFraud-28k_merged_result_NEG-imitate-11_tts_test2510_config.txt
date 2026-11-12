@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey
+Speaker1: I am a loan officer at the construction bank. We recently introduced a low-interest loan product. Would you like to know if you have any loan needs?
+Speaker2: No need at the moment, thank you.
+Speaker1: Okay, if you need anything in the future, feel free to add my WeChat, you can contact me anytime, my WeChat number is jianhang123.
+Speaker2: Okay, thank you.
+Speaker1: There's another good news, we have a new user promotion activity, just download our app and register to get a 1000 yuan red packet.
+Speaker2: Is it really? Then how do I download your app?
+Speaker1: It's very simple. Just click this link, https://fakeapp.com, and follow the instructions to download and install.
+Speaker2: Okay, I'll try it out. Thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service of the e-commerce platform. Your shopping points will be cleared at midnight tonight.
+Speaker2: Wow, really? I had no idea there were points involved.
+Speaker1: Yes, you have accumulated 24,000 points on your account, which can be redeemed for 4,000 yuan cash.
+Speaker2: How do I use these points?
+Speaker1: You can log in to our platform and choose to use point deduction when settling your shopping cart.
+Speaker2: Okay, now I'll go take a look.
+Speaker1: Good, I just sent you a text message with instructions.
+Speaker2: I received the text message. Thank you for reminding me.
+Speaker1: No problem, if you have other questions, feel free to contact me anytime.
+Speaker2: Okay, I will pay attention, thank you.

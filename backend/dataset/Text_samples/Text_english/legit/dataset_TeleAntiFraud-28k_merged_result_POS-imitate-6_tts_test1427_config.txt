@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang. I heard your coffee is pretty popular lately. Can you tell me where you import your coffee beans from?
+Speaker2: Hello, little Zhang, I'm very happy to hear that you're interested in our coffee. Our coffee beans mainly come from Colombia and Ecuador, both of which are carefully selected high-quality beans.
+Speaker1: Oh, like this, then how many types of coffee does your store have?
+Speaker2: Our coffee selection is very diverse, from classic Americano and cortado to unique hand-pulled coffee, do you have a particular preference?
+Speaker1: I prefer hand-brewed coffee, I hear the flavor of hand-brewed coffee is more unique.
+Speaker2: Indeed, hand-brewed coffee can better showcase the original flavor and smooth mouthfeel of coffee beans. We have several recommended hand-brewed coffee options for you to try.
+Speaker1: That's great, I plan to go to your store this weekend. What are your store's weekend business hours?
+Speaker2: Our weekend business hours are from 9am to 9pm. You can choose any convenient time to come.
+Speaker1: Okay, thank you for your detailed introduction. See you this weekend.
+Speaker2: No problem, weekend meet, hope you like our coffee.

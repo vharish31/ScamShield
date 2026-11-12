@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to know more about your housekeeping services, particularly the cleaning services.
+Speaker2: Of course, our cleaning service includes daily cleaning, deep cleaning and moving furniture before and after. Which one do you specifically need?
+Speaker1: How often can I clean the house?
+Speaker2: We usually provide weekly service once, but we can adjust to twice weekly or monthly based on your needs.
+Speaker1: How is the price calculated?
+Speaker2: The price is calculated based on the cleaning area and frequency. For example, a one hundred square meter apartment that is cleaned once a week costs four hundred yuan.
+Speaker1: Listen sounds good, I need to make a reservation.
+Speaker2: Okay, I can help you make a reservation. Please provide your contact information and address.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey there
+Speaker1: Hi, I'm Li Xiao, when do you need help with housekeeping this week?
+Speaker2: Hello, little Li, how are you on Wednesday afternoon at three o'clock this week?
+Speaker1: We can come at three in the afternoon on Thursday. The maid will serve us at the door.
+Speaker2: What are the contents and fees for the service?
+Speaker1: The service content includes sweeping, cleaning the kitchen, and cleaning the bathroom, and the fee is 200 yuan per time.
+Speaker2: What do I need to prepare in advance before that time?
+Speaker1: No need to prepare specially, our housekeeper will bring cleaning tools and supplies.
+Speaker2: Okay, that's settled then, thank you.
+Speaker1: No problem, looking forward to working with you, see you on Wednesday.
+Speaker2: Okay, bye.

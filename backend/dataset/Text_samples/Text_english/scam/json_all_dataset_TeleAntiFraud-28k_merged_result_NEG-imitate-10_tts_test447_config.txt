@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the personal loan department at Commercial Bank, do you have any recent funding needs?
+Speaker2: Hello, temporarily not available.
+Speaker1: Oh, that's right. But now we have a special discount loan project with a very low interest rate. If you're interested, you can add my WeChat and I'll send you the detailed information.
+Speaker2: Are you sure? Then I'll add you on WeChat and see what's suitable.
+Speaker1: Great, my WeChat is 123456789. After adding WeChat, I will send you a QR code, you can scan it with WeChat, and there will be detailed information about our loan products inside.
+Speaker2: Okay, I'll add you on WeChat right away.
+Speaker1: Okay, let me know once you add WeChat, I'll send you the info right away.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me anytime. Goodbye.
+Speaker2: Goodbye.

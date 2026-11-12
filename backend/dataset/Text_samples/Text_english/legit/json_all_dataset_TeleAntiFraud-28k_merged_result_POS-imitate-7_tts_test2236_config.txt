@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little Li from the delivery platform. Have you been ordering food from us recently?
+Speaker2: Hey, yeah, lately I've been ordering your platform's food often.
+Speaker1: That's great, do you have any suggestions or opinions about our service that you'd like to share?
+Speaker2: "Hey, I suggest, I think delivery time is sometimes slow, but everything else is good."
+Speaker1: Thank you for your feedback. We will strive to improve delivery efficiency. By the way, have you tried our new restaurant on the platform recently?
+Speaker2: It seems like there's none, do you have any recommendations?
+Speaker1: Yes, for example, "Meiwei xuan," they make their Sichuan cuisine particularly well, you can try it.
+Speaker2: Okay, let's try again. Right, do you guys have any discount activities?
+Speaker1: Yes, we now have a new user first order discount activity, even for old users, recommending new users also has a reward.
+Speaker2: That's great, I'll give it a try and recommend it to my friend.
+Speaker1: Thank you very much for your support. If you have any other questions, please feel free to contact us. Enjoy your meal!

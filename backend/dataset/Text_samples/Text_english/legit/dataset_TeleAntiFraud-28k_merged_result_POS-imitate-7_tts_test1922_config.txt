@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I make an appointment for tomorrow afternoon at 2 PM for a haircut?
+Speaker2: Okay, two o'clock in the afternoon is fine. What service do you need to book?
+Speaker1: I want to cut a short hair, then make a simple style.
+Speaker2: Understood, this service will take approximately one hour. Have you been to our store before?
+Speaker1: Yes, the first time I came, my friend said that you guys did well here.
+Speaker2: Thank you for your trust. We will do our best to serve you well. Do you need to provide your contact information?
+Speaker1: Okay, my phone number is 13800138000.
+Speaker2: Okay, I've recorded it. See you tomorrow afternoon at two.
+Speaker1: Thank you, see you later.

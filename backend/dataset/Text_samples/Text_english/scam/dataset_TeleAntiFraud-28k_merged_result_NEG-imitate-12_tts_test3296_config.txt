@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Ninghai Dongfeng Bank. There is some good news to tell you on this side.
+Speaker2: Hello, do you have any good news?
+Speaker1: Our bank recently introduced a special loan activity, where you can enjoy super low interest rates and quick approval as long as you have a funding need.
+Speaker2: Oh, really? I really need some cash flow recently.
+Speaker1: Great, I can help you apply for this loan. However, to ensure your information is secure, you need to download our bank's official app first, so we can complete all processes directly on it.
+Speaker2: Okay, how do I download it?
+Speaker1: You can directly search our bank name in the mobile app store, download and install it, and then use my invitation code to register, ensuring the safety of information. The invitation code is 123456.
+Speaker2: I understand, I'll go download now.
+Speaker1: Okay, after downloading and installing, remember to use the invitation code to register, and then I will guide you through the remaining application steps via phone.
+Speaker2: Okay, thank you for your help.

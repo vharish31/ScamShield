@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hi, I'm the small Li from the community management, can I ask if your water and electricity bills for this month have been paid yet? It would be convenient for me to come over and pay them if they haven't.
+Speaker2: Hey, I know, I've been busy lately, want to go out tonight?
+Speaker1: Okay, you can come from seven to nine tonight. What time is convenient for you?
+Speaker2: Okay, I went around eight o'clock.
+Speaker1: Okay, see you around eight. Remember to bring your receipt card.
+Speaker2: Okay, I know, thank you for reminding.
+Speaker1: No problem, feel free to contact me anytime.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

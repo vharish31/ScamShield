@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at the Four Seasons Restaurant?
+Speaker2: Hello, I'd like to know more about your menu, especially the recommended dishes.
+Speaker1: Okay, our menu here has spicy Sichuan hot pot and steamed sea bass, both are very popular.
+Speaker2: How much do these menus cost?
+Speaker1: Ma la xiāng gǎng chǎo shì liù shì bā yuán, qīng zhēng hǎi huā yú shì jiǔ shì bā yuán.
+Speaker2: I still want to reserve a spot, around seven o'clock in the evening.
+Speaker1: Okay, what time is it for the reservation and how many people do you need to reserve?
+Speaker2: Thank you, thank you.
+Speaker1: Okay, your seats have been reserved. Do you need any further assistance?
+Speaker2: Thanks for your help, see you later.
+Speaker1: Okay, see you later. Enjoy your meal. Bye.

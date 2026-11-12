@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I saw your store had a new electric rice cooker on the internet yesterday, I want to ask about it.
+Speaker2: Hello, little Zhang, I am customer service Li, what information do you want to know about electric rice cooker?
+Speaker1: What is the capacity and features of this electric rice cooker?
+Speaker2: This electric rice cooker has a capacity of 5 liters, suitable for 3 to 5 people. It has multiple cooking modes, including steaming, boiling, and steaming vegetables, as well as preheating and warming functions.
+Speaker1: How much does that electric rice cooker cost?
+Speaker2: The price of this electric rice cooker is 499 yuan, and there is a promotion now, buy five and get a discount of 50 yuan.
+Speaker1: How long will it take for the order to be delivered?
+Speaker2: If you place an order now, we will ship it within 24 hours and it usually takes 2-3 days to arrive.
+Speaker1: Okay, I'll place an order today, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a nice shopping!

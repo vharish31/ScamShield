@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I'm near your house, your ordered book shelf arrived, can you come down and get a book?
+Speaker2: Hello, little Zhang, I'm a little busy right now, can you help me put it on the door?
+Speaker1: Okay, is your door that kind with a password lock? I need the password to get in.
+Speaker2: Yes, password lock, password is six-digit number, you wait a minute, I send short message to you.
+Speaker1: Okay, then I'll wait for your text message.
+Speaker2: It's already sent, take a look.
+Speaker1: I got it, thank you. I'll just leave it at the door, remember to bring it in later.
+Speaker2: Okay, can you please remind me later tonight?
+Speaker1: No problem, feel free to contact me anytime.
+Speaker2: Okay, thank you again, goodbye.

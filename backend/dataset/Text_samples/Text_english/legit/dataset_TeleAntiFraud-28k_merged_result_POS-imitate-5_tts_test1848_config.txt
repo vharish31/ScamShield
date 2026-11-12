@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: I'm still on the road, almost there, you too?
+Speaker1: I'm waiting for you at the community door, it's pretty easy to find here.
+Speaker2: Okay, I'll be there soon, you wear red clothes, I can see it at once.
+Speaker1: Okay, I'm wearing red, you arrived to make a phone call.
+Speaker2: Okay, see you later.
+Speaker1: See you later.
+Speaker2: How long have you been waiting?
+Speaker1: Soon, in a few minutes, don't worry.
+Speaker2: Okay, the road was a bit congested, we arrived quickly.

@@ -1,0 +1,12 @@
+Speaker1: Hello, that's how it is, my friend wants to buy a laptop, do you have any in stock here?
+Speaker2: Hey, what kind of notebook do you want?
+Speaker1: He wants a lightweight book, preferably suitable for office use, within a budget of about 5,000 to 6,000 yuan.
+Speaker2: Okay, we have several options within this budget, such as the lightweight laptop from brand A with an i5 processor, 8GB memory, 500GB solid-state drive, and a price of 5,500 yuan.
+Speaker1: Hmm, this configuration is okay, but he said he cares more about the battery life of this laptop, how is the battery life of this laptop?
+Speaker2: This notebook's battery life is approximately ten hours, which is sufficient for daily office use.
+Speaker1: Okay, do you guys have any goods here? If so, we want to come over quickly to pick them up.
+Speaker2: Yes, we have fresh produce here now, you can come over anytime to pick.
+Speaker1: Great, can we come around 4 pm in the afternoon?
+Speaker2: Of course, we close at five thirty here in the afternoon, you can come directly to me when you arrive.
+Speaker1: Okay, thank you, let's meet in the afternoon.
+Speaker2: Okay, see you in the afternoon, be careful on the road.

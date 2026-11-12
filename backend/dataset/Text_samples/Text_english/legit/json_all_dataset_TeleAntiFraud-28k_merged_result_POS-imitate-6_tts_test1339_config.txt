@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I'm little Zhang, I'm at the door of your community, I need to send a package, can you help me open the big door?
+Speaker2: Hello, little Zhang, I am not at home now, can you contact the property?
+Speaker1: Can you remotely control the property management system?
+Speaker2: No way, this function needs me to operate from home. Why don't you wait for me a bit? I should be home in about half an hour.
+Speaker1: Okay, I'll wait for you here first. Thank you.
+Speaker2: No problem, you've worked hard, I'll be right down soon.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Wait a minute, I'll be there as soon as possible.

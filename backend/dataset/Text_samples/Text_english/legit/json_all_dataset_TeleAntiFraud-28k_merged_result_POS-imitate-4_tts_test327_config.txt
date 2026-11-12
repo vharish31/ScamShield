@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your household services.
+Speaker2: Hello, I am a customer service representative for home services, what can I help you with?
+Speaker1: Can you tell me more about your clock point service, specifically how do you charge?
+Speaker2: Our clock point service is calculated at 30 yuan per hour, and the minimum requirement for booking is two hours in advance.
+Speaker1: How long do I need to book for cleaning the kitchen and bathroom?
+Speaker2: The cleaning of the kitchen and bathroom usually takes three to four hours, and the specific time depends on the actual situation.
+Speaker1: Uh, I understand. Can you guys schedule every day?
+Speaker2: Yes, we can make reservations every day, but we need to inform us one day in advance.
+Speaker1: Okay, I plan to make a reservation for 2:00 PM on Friday.
+Speaker2: Okay, I have scheduled a 2:00-5:00 PM appointment for you on Friday for your work attire service. A staff member will contact you in advance to confirm the specifics.
+Speaker1: Thank you, see you then.
+Speaker2: You're welcome. We're looking forward to serving you. Goodbye.

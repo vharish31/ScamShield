@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service staff at this pet store. Recently, we've been doing a promotion on pet food for cats. Would you be interested in learning more about it?
+Speaker2: Hello, I have a cat at home that is very interested in cat food, what special places are there in this cat food?
+Speaker1: This cat food is our store's star product, made with natural ingredients, no additives, perfect for cat digestion, and has a variety of flavors like chicken and fish, to satisfy different cat tastes.
+Speaker2: What's the price of this cat food? I'm so excited to hear you talk about it.
+Speaker1: The original price is 180 yuan per bag, now there's a promotion, only 150 yuan per bag, and if you buy two bags you get a free box of cat toys, it's very cheap.
+Speaker2: That's good, I plan to buy a bag first and try it out, if the cat likes it, I'll consider buying two bags.
+Speaker1: Okay, I'll record it down for you now. I'll send you a discount coupon in a few minutes. You can use it directly when you make a purchase. Do you have any other questions to ask?
+Speaker2: No more, thank you, I will go see later.
+Speaker1: You're welcome, if you need any help, please feel free to consult anytime, have a nice shopping, bye.
+Speaker2: Okay, bye.

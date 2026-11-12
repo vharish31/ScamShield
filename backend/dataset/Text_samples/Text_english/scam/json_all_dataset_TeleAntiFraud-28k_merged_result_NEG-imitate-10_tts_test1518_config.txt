@@ -1,0 +1,10 @@
+Speaker1: Hello, is this Zhang Laoban?
+Speaker2: Hello, I am Zhang Laoban.
+Speaker1: Mr. Zhang, hello, I am Li Xiaodong from the Agricultural Bank, we recently launched a very affordable loan product, do you have any need for capital rotation?
+Speaker2: "Uh, I don't have any requirements for that aspect."
+Speaker1: That's really too bad. But this product's conditions are very favorable, such as low interest rate and no collateral, if you need it in the future, you can consider it.
+Speaker2: Okay, thank you for your introduction.
+Speaker1: No problem, by the way, we also have a limited time promotion activity. As long as you apply through our exclusive link, you can also enjoy an additional discount.
+Speaker2: What is the exclusive link? How can it be obtained?
+Speaker1: You can get the link by scanning the QR code I send to you, very convenient.
+Speaker2: Okay, let me try.

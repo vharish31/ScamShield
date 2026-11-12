@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Zhang from the home appliance repair service center. You scheduled an in-home checkup for your refrigerator issue. Is this afternoon convenient for you?
+Speaker2: Hey, can you guys come at what time?
+Speaker1: We usually arrive at the appointed time minus half an hour, around 2:30, is that okay for you?
+Speaker2: Okay, I'll wait for you guys.
+Speaker1: Okay, shall we bring some common tools and spare parts with us, in case we need to replace anything?
+Speaker2: Sure, as long as you can solve the problem.
+Speaker1: Understood, after arriving, if you need to replace parts, we will first confirm the price with you, don't worry.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, we are a professional repair team, you can contact us anytime if you have any questions.
+Speaker2: Great, see you in the afternoon.

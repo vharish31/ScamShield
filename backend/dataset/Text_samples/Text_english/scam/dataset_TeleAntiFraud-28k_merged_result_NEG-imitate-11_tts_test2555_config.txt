@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, which one
+Speaker1: Hi, I'm a customer service representative at the Agricultural Bank's Tianhe Branch, my name is Li Xiaoxia, we noticed that you've been using your credit card less frequently recently, do you need any help from us?
+Speaker2: Uh, that's right, I haven't been using my credit card lately. Is there anything I can help with?
+Speaker1: To thank you for your support of the Agricultural Bank, we have specially prepared a small gift for you. At the same time, if you are interested, you can learn about our latest credit card service, which has many discount activities.
+Speaker2: The small gift sounds good, how to take it?
+Speaker1: You can click on the link in the text message we sent you, which contains a QR code that you can scan to redeem. Additionally, we have a special app with many discounts, you can download and take a look.
+Speaker2: Okay, I got the text message. What's the name of this application?
+Speaker1: The name of the application is "Farming Discounted Life", you can register with your phone number after downloading it, and there are many practical functions, such as querying discounts, exchanging points, etc.
+Speaker2: Thank you for your recommendation. I'll give it a try.

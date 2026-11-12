@@ -1,0 +1,10 @@
+Speaker1: Hello, you, this is Taobao customer service center, I am customer service specialist Li Xiao.
+Speaker2: Hello, what do you have?
+Speaker1: Hello, we found a small issue with the product you recently purchased on our platform and need to process a refund for you.
+Speaker2: Oh, is that so? Then what should we do about it?
+Speaker1: To facilitate your refund, we have prepared a refund link for you. Just click on this link and follow the instructions to complete the refund.
+Speaker2: Okay, how do I click?
+Speaker1: You can open your phone messages, we will send you a link, click the link and follow the page instructions.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the text message will be sent to your phone immediately. To ensure your funds are safe, we also need you to provide a verification code. This verification code will be sent to you after you click the link.
+Speaker2: Okay, I understand.

@@ -1,0 +1,14 @@
+Speaker1: Hey, hello, I saw that fitness course on your website and want to know more about it.
+Speaker2: Hello, we are the customer service staff of the fitness center, what courses do you want to know about?
+Speaker1: I want to know more about that yoga class, what time does it start, how long does it last per session?
+Speaker2: Our yoga classes are every Wednesday and Friday evening from 7 to 8:30 p.m., and there are eight classes per month.
+Speaker1: How much does it cost for a month?
+Speaker2: The fee for a yoga course for one month is three hundred yuan, which includes all classes and the use of the venue.
+Speaker1: Can I listen?
+Speaker2: Of course, we provide a free trial session, you can choose any course to experience.
+Speaker1: Do you need to make an appointment to listen?
+Speaker2: Yes, in order to ensure the smooth progress of the course, you need to book in advance. Can I help you book?
+Speaker1: Okay, let's schedule the classes for next Tuesday.
+Speaker2: Okay, I have already reserved the yoga class for you next Tuesday evening, just come directly at the time.
+Speaker1: Thank you, I'll go later. Goodbye.
+Speaker2: Please wait for your arrival, goodbye.

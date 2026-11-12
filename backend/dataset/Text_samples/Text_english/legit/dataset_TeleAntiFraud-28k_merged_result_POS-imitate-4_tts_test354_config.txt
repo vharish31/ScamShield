@@ -1,0 +1,13 @@
+Speaker1: Hello, this is a real estate agent, I called you in the morning.
+Speaker2: Hey, how are you?
+Speaker1: I took a client to see your house today, they were quite interested.
+Speaker2: What do you need me to do?
+Speaker1: Hmm, the customer mentioned the furniture in the house. How do you plan to handle those furniture?
+Speaker2: I don't plan on taking any of the old furniture.
+Speaker1: I suggest you hire someone to help clean up the house, it will look more organized and attractive to buyers.
+Speaker2: Okay, I will find someone to handle it.
+Speaker1: Are you ready to explain the history of the house, such as the previous residents' situation, if the customer asks?
+Speaker2: Okay, I will pay attention. Thank you for reminding me.
+Speaker1: No problem, please make sure these details are handled properly, it will greatly help the deal. If there are other issues, please contact me anytime.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

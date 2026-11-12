@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I found a house near your community, do you still rent it?
+Speaker2: Can I rent it, do you want to see the house now?
+Speaker1: Sure, what time is most convenient for you to come over?
+Speaker2: Is it convenient for you tomorrow afternoon? I have some free time then, so I can take you to see it.
+Speaker1: Can we meet tomorrow afternoon? What time?
+Speaker2: How are you in the afternoon at three o'clock?
+Speaker1: I'll go there at 3 o'clock tomorrow.
+Speaker2: Okay, you come directly tomorrow, I wait for you at the door.

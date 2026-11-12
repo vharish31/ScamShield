@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the bank's general manager.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed that you recently applied for a loan at our bank, but the information is still incomplete.
+Speaker2: Uh, okay? Then what information do I need to provide?
+Speaker1: You need to provide some personal identity proof and income proof to simplify the process. You can click on the link we sent you and directly upload the information online.
+Speaker2: Okay, I understand. Is that link safe?
+Speaker1: Of course, all links from our bank are encrypted processed, you can rest assured.
+Speaker2: Then I'll upload the data.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact me anytime.
+Speaker2: Thank you, Wang Jingni.

@@ -1,0 +1,10 @@
+Speaker1: Hello!
+Speaker2: Hey, how are you?
+Speaker1: Can I pick you up today? It should take about 30 minutes, right?
+Speaker2: Thirty minutes, okay, I can wait here.
+Speaker1: I checked and we're about twenty kilometers apart, so we really need some time.
+Speaker2: Be careful on the road that is twenty kilometers long.
+Speaker1: Okay, no problem. Got it, high-speed fee is about 30 yuan, how do you split it?
+Speaker2: Let me pay the toll fee, and you can pick it up.
+Speaker1: Okay, I'm leaving now, I'll call you when I arrive at your location.
+Speaker2: Okay, be careful on the road, I'll call you later.

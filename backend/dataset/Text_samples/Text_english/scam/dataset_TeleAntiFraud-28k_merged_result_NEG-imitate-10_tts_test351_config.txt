@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the enterprise manager of Agricultural and Commercial Bank. Based on your company's business license, we can provide you with a loan of eighty thousand yuan for your enterprise, with low interest and quick repayment. Would you be interested in learning more?
+Speaker2: Oh, I don't need this, thank you.
+Speaker1: No need to thank you, the interest rate is currently very favorable, and you can also enjoy some extra benefits. You just need to provide some basic information, and we can quickly approve.
+Speaker2: I don't need it anymore, I'm rich now.
+Speaker1: Okay, if you need anything, feel free to contact us anytime. By the way, we also have a high-yield investment financial product, are you interested in learning more about it?
+Speaker2: Invest in wealth management? It sounds good, what's the specifics?
+Speaker1: That's it, we have a special investment financial product for business owners with a yearly return rate of 15%, and the risk is extremely low. All you need to do is download our app, register an account, and you can start investing right away.
+Speaker2: Download the app? How do you download it?
+Speaker1: It's very simple. Just scan this QR code to download our app directly. After downloading, you can also get a red packet exclusive to new users.
+Speaker2: Okay, I'll give it a try. Thank you.
+Speaker1: No problem, you can contact me anytime if you have any questions. Best wishes for your investment! Bye!

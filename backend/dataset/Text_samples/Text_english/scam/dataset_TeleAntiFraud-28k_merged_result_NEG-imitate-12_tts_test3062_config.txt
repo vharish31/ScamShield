@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is a customer service representative from Huaxia Bank. We noticed that your recent activity on our platform has been quite high. Do you have any financial needs?
+Speaker2: Oh, hello, I don't have any funding needs, thank you.
+Speaker1: Okay, but we have a particularly good loan project recently with a very low interest rate and fast approval speed. Would you consider it?
+Speaker2: Hmm, sounds good, how do you operate it specifically?
+Speaker1: It's very simple. Just download our app and fill out some basic information, and we'll quickly review it.
+Speaker2: Where can I download the app?
+Speaker1: You can directly click this link, and we will send it to your phone, click it and you can download it.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues after downloading, feel free to contact me anytime. My phone number is 13812345678.
+Speaker2: Okay, thank you.

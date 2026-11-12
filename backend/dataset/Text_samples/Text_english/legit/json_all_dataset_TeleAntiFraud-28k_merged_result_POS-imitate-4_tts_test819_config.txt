@@ -1,0 +1,10 @@
+Speaker1: Hey, how do you make a hair appointment?
+Speaker2: Hello, you can directly book by phone or come to the store, need to provide your time and name.
+Speaker1: How far in advance do I need to make a reservation?
+Speaker2: It's best to make an appointment two days in advance, so we can arrange a time for you.
+Speaker1: Okay, can I meet you at two in the afternoon tomorrow?
+Speaker2: Sure, tomorrow at 2pm, we provide various haircut services here. Do you have any special requirements?
+Speaker1: I want to cut my hair short, clean and neat.
+Speaker2: Okay, we will arrange a barber who specializes in short haircuts for you. Do you need help with anything else?
+Speaker1: No more, thank you.
+Speaker2: No problem, see you tomorrow.

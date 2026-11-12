@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang, I want to consult your family's air conditioning repair service.
+Speaker2: Hello, this is Blue Sky Electronics Repair Center. How can I help you?
+Speaker1: Can you come over and check my air conditioner at home? It's not working properly lately.
+Speaker2: Of course, we provide door-to-door service. Please tell me a convenient time, and we will arrange for the master to come over.
+Speaker1: That's great, I have some free time at 3 pm tomorrow afternoon, can you come?
+Speaker2: Okay, tomorrow afternoon at three o'clock, we will arrive on time. Could you please provide specific address and contact information?
+Speaker1: Okay, I live in Happiness Small Community 20th floor, 3rd unit, 402 room, phone number is 13801380138.
+Speaker2: Okay, I have recorded it down. Tomorrow afternoon at three o'clock, we will arrive on time. Before the repair, we will first check the issues and then give you a quote, which you will agree to before we proceed with the repair.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow. Wish you have a happy day.

@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I know more about your hair cutting service? Do I need to make an appointment?
+Speaker2: Yes, to ensure service quality, we suggest booking in advance.
+Speaker1: How do I make a reservation?
+Speaker2: You can make an appointment through our official website or phone, very convenient.
+Speaker1: Okay, can I make a reservation for tomorrow afternoon at 2:00 PM?
+Speaker2: Sure, I can help you schedule an appointment for tomorrow afternoon at 2 PM.
+Speaker1: What information is needed?
+Speaker2: Please tell me your name and contact information, we will confirm the appointment information in advance.
+Speaker1: Okay, my name is Li Ming, phone number is 1345678900.
+Speaker2: Okay, Li Ming Xiāngshēng, your appointment has been successful. We will confirm again tomorrow before the scheduled date.
+Speaker1: Thank you, see you then.
+Speaker2: No problem, see you later, wish you happy life.

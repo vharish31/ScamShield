@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any playground equipment suitable for children here?
+Speaker2: Yes, we have an indoor playground here, designed specifically for children, safe and fun.
+Speaker1: Do I need to make a reservation if I'm taking my child to play outside?
+Speaker2: No reservation is needed, but there will be more people on weekends, so it's recommended to come early, which can avoid queues.
+Speaker1: Okay, thank you for your advice. By the way, is there a place to eat over there?
+Speaker2: Yes, there's a small restaurant inside the playground that provides various fast food and children's meals, the taste is good and it's very convenient.
+Speaker1: That's very convenient, we plan to go out on the weekend, around what time do we open the door?
+Speaker2: Both the playground and the restaurant open at nine in the morning and close at six in the evening. You can arrange a suitable time to come.
+Speaker1: Okay, thank you for your help, see you this weekend!
+Speaker2: No problem, see you this weekend, wish you all have fun!

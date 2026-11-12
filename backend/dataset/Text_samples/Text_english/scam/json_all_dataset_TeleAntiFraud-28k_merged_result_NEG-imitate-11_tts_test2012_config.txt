@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Yunhai Jingrong. You have a pre-approved credit limit of 30,000 yuan, do you need to understand it?
+Speaker2: Which bank are you from?
+Speaker1: We are Cloud Sea Finance, headquartered in Shanghai Lujiajie, you can query on our official website.
+Speaker2: I couldn't find your information online.
+Speaker1: It's probably because we're a new financial institution, so information updates take time. You can contact us directly through our customer service phone, which is 4001666888.
+Speaker2: How do I know you are legitimate?
+Speaker1: You can download our app first, register to see detailed company info and user reviews. If you have doubts, you can also apply for a small budget to try our service.
+Speaker2: How do I download your app?
+Speaker1: It's very simple. You can directly click on this link, and the link will automatically redirect you to our official download page.
+Speaker2: Okay, let me try.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, how about you recently?
+Speaker2: Hey, how are you, little Zhang? I'm doing pretty good. How about you? What have you been up to lately?
+Speaker1: I've been busy lately preparing to move, the new place is almost decorated.
+Speaker2: Wow, moving, that's really a big project, where's the new house?
+Speaker1: Right in the city center, transportation is quite convenient. If you have time, come to my house and sit for a while.
+Speaker2: Okay, wait for you to move, I'll definitely go. Right, do you need help moving?
+Speaker1: Great, I feel much better with you helping me. How was your weekend?
+Speaker2: This weekend is fine, I have some time on Saturday afternoon, and I'm available all day on Sunday.
+Speaker1: Great, let's fix on Saturday. Let's meet at my place in the morning on Saturday.
+Speaker2: Okay, see you on Monday morning, see you then.

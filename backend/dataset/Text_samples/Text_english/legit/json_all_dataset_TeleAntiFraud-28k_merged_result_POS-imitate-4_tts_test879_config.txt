@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Hey, I just arrived at the park gate, where are you?
+Speaker1: I'm still on the subway, just two more stops and I arrived.
+Speaker2: Okay, I'll wait for you here, the park gate is easy to find at the entrance.
+Speaker1: Hey, I got here right away after getting off the car, you can see I'm calling you on the phone.
+Speaker2: Okay, I'll wait here until that time, and you can call me when you arrive.
+Speaker1: Okay, I'll be there in a while, you put on some clothes, it's a bit cold today.
+Speaker2: I know, you too, pay attention to safety on the road.
+Speaker1: Okay, see you later.
+Speaker2: See you later.

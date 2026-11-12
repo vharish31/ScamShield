@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what do you have?
+Speaker1: That's right, I'm the customer service of the community property, want to confirm with you the recent water bill.
+Speaker2: Okay, you say, what do you need to confirm?
+Speaker1: We noticed some unusual activity in your water bill last month. It was significantly higher than usual. We just want to confirm if the water usage at home actually increased.
+Speaker2: I recently had a relative come over to my house, so I might have used more water.
+Speaker1: I understand, so that's how it is, this cost should be reasonable.
+Speaker2: No problem.
+Speaker1: Okay, let's follow this. If there are any issues later, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome, wish you happy life, bye.
+Speaker2: Goodbye.

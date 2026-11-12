@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you recommend a phone for me to buy recently?
+Speaker2: Of course, what do you usually do with your phone? Like playing games, taking photos, or watching videos?
+Speaker1: I mainly use it to watch videos and take photos, occasionally play games.
+Speaker2: I recommend a phone with a high price-to-performance ratio, good camera quality, and a long battery life, which is perfect for you to watch videos and take photos.
+Speaker1: How much does this phone cost?
+Speaker2: This phone is currently priced at 2500 yuan, and there is now a discount promotion, which includes a free phone case and screen protector.
+Speaker1: That's great, I plan to go to your store tomorrow.
+Speaker2: Okay, our store is open from 9am to 9pm every day. See you tomorrow!

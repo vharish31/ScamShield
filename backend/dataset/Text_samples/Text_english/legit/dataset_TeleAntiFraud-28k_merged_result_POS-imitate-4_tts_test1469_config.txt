@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Can you tell me if this store has any sugar-free tea drinks?
+Speaker2: Sure, we have several sugar-free tea drinks here. Would you like to know more about them?
+Speaker1: Sure, can you recommend a brand for me?
+Speaker2: Of course, our latest product is called "Clear Jade Green Tea," which is brewed with natural green tea leaves and no added sugar, with a refreshing taste that's very popular with customers.
+Speaker1: How much does this tea drink cost?
+Speaker2: The price of a cup of green tea is 35 yuan, and if you want to add ice or hot drink, you can adjust it for free.
+Speaker1: Can I come now to buy a cup and try it?
+Speaker2: Of course, we are open now, you can come over and order directly at the counter when you arrive.

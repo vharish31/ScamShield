@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, the items you bought in our store were lost during delivery, we need to process a refund for you.
+Speaker2: Well, what do we do now?
+Speaker1: Don't worry, we have already found your order information. To process it quickly, please provide your bank card number. We will directly transfer the refund to your card.
+Speaker2: Okay, my bank card number is...
+Speaker1: Okay, I've noted it down. For safety reasons, you need to provide a verification code. The verification code will be sent to your phone in a few minutes, please check it.
+Speaker2: Okay, I received it. The verification code is...
+Speaker1: Thank you, we have already processed it, the refund will be in your account within 24 hours, please contact us if you have any questions.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you have other needs for help, you can add my WeChat, feel free to contact me anytime, my WeChat number is...
+Speaker2: Okay, I'll add you on WeChat.

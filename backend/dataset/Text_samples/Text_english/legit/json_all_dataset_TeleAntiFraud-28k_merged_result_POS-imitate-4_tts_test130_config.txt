@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you please tell me your restaurant's business hours?
+Speaker2: Our restaurant is open from 10 am to 10 pm every day without any break in between.
+Speaker1: Can I go out at seven tonight?
+Speaker2: Of course, 7 am is our restaurant's business hours, welcome to come.
+Speaker1: Can I reserve a four-person table?
+Speaker2: Sure, there's room for four at the table. Do you have any special requirements?
+Speaker1: No special requirements, just hope the location isn't too noisy.
+Speaker2: Okay, I'll book a quiet spot for you, just come directly when the time comes.
+Speaker1: Thank you, I'll be there in a while.
+Speaker2: Please welcome, I hope you enjoy your meal.

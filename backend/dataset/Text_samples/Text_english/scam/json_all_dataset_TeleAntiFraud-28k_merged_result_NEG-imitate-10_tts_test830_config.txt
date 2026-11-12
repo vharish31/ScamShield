@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the manager of Commercial Bank Lee.
+Speaker2: Hello, do you have anything?
+Speaker1: We noticed you've been looking for a loan lately, we have a new product that's perfect for you.
+Speaker2: Yes, I really need some money recently.
+Speaker1: Yes, this loan product has no collateral, fast approval, low interest rate. You just need to provide some basic information.
+Speaker2: What do I need to do now?
+Speaker1: It's very simple. Just download our official app, fill out some information, and you can complete the application.
+Speaker2: Download the app? It won't be too troublesome, right?
+Speaker1: No problem, the whole process is very quick, just a few minutes. I'll send you the download link right away.
+Speaker2: Okay, let me try.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how can I help you?
+Speaker1: What happened to my food order that I placed on your platform yesterday? It hasn't been delivered yet.
+Speaker2: I'm so sorry to have caused you inconvenience, I'll help him look it up right away.
+Speaker1: Okay, I hope you can solve it quickly, I've been waiting for a long time.
+Speaker2: I just checked and it's possible that the delivery person encountered some small issues on the way to you and has already contacted him to speed up the delivery.
+Speaker1: How long do I need to wait now?
+Speaker2: Based on the latest feedback, it's roughly about ten minutes left, please wait a little longer.
+Speaker1: Okay, I'll wait a minute longer. If it's still not there, I'll call you.
+Speaker2: Okay, thank you very much for your understanding. If you have any questions, please feel free to contact me anytime.

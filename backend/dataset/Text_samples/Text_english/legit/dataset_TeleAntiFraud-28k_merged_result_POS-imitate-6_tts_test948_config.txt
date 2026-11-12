@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at the Food Paradise Restaurant?
+Speaker2: Hello, can you tell me what your special deals are today?
+Speaker1: Today our special dishes are steamed fish and red-braised fish, both very popular.
+Speaker2: How much does it cost to sound good?
+Speaker1: Red steamed fish is 50 yuan per portion, clear steamed crab is 60 yuan per portion.
+Speaker2: Okay, I plan to come over for dinner tonight, what time do you guys start business?
+Speaker1: We start business at 5 pm and end at 10 pm.
+Speaker2: Do I need to reserve a seat in advance if I arrive at seven o'clock?
+Speaker1: I suggest you book in advance to ensure you have a seat. How many people do you want to book for?
+Speaker2: Two people, thank you.
+Speaker1: Okay, I have already reserved a table for two at seven o'clock tonight. We are looking forward to your arrival!

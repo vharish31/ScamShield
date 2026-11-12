@@ -1,0 +1,9 @@
+Speaker1: Hey, how are you? I'm little Zhang, I just ordered a piece of clothing, when can it be delivered?
+Speaker2: Hello, Mr. Zhang, I am customer service Li, your order has been confirmed, we estimate it can be delivered tomorrow afternoon.
+Speaker1: Okay, I'll be at home tomorrow. By the way, if I'm not at home at that time, can I leave it at the community mailbox?
+Speaker2: Of course, we support the delivery service of the express box, you can choose the express box delivery option in the order details and fill in your express box address.
+Speaker1: That's great, I'll remember it. Is it possible to exchange the clothing if there are any unsuitable parts?
+Speaker2: Of course, we support seven-day no-reason return or exchange, as long as the product does not affect secondary sales, you can contact us to handle the return or exchange procedures within seven days of receiving the product.
+Speaker1: Okay, thank you for your detailed answer. Now I feel relieved. Can I contact you again if I have any more questions?
+Speaker2: Of course, you can contact us anytime if you have any questions. We will do our best to solve them. Have a nice life, bye!
+Speaker1: Okay, thank you, bye!

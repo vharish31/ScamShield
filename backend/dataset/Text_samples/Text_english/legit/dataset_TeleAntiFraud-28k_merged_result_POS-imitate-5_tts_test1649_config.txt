@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me? Who are you?
+Speaker1: I am a customer service representative for an e-commerce platform. Your accumulated shopping points on your account will be cleared at midnight tonight. What are you still doing without spending them? This credit can be redeemed for over three thousand nine hundred yuan in cash.
+Speaker2: Really? I don't know how.
+Speaker1: That's right, these points are the ones you get for free when you recharge your account with purchases. You can use these points to buy a lot of products on our platform, like phones, electronics, and home appliances.
+Speaker2: Oh, like that. Then how do I check my score?
+Speaker1: I have already sent you a free exchange SMS, just click on the link in the SMS to check your points and exchangeable products.
+Speaker2: Okay, I'll go take a look right away.
+Speaker1: Okay, you have 26,800 points on your account, which can be exchanged for products worth about 4,000 yuan. Remember to use them before midnight tonight, otherwise your points will be cleared and you'll lose them.
+Speaker2: Thank you for reminding me, I'll go check now.

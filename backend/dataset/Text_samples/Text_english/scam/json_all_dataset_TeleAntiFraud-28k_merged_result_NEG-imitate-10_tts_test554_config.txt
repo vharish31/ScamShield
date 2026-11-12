@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am Lee Xiaoming, the agricultural bank's customer manager.
+Speaker2: Hello, do you have anything?
+Speaker1: Is that so, our bank recently introduced a new financial product with high returns, are you interested in learning more about it?
+Speaker2: Is it so? What about the returns?
+Speaker1: The annual return can reach 15%, and the risk is very low, making it very suitable for newcomers to wealth management.
+Speaker2: Listen good, how buy?
+Speaker1: Just download our bank's wealth management app, register an account, and then you can buy.
+Speaker2: How do I download this app?
+Speaker1: You can scan the QR code I send you and download directly.
+Speaker2: Okay, give it to me.
+Speaker1: Okay, just a moment, I'll send you a text message.

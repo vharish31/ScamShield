@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at the door
+Speaker2: You arrived, you first come in, I give you open door
+Speaker1: Okay, I see it.
+Speaker2: Go straight in, turn right, elevator on that side
+Speaker1: Okay, I see the elevator.
+Speaker2: After you went upstairs, you walked straight ahead and turned left at the end. The front desk was there.
+Speaker1: Okay, thank you, I arrived to call you.
+Speaker2: Okay, you arrived directly find me, I here wait you
+Speaker1: Okay, see you later.
+Speaker2: See you soon, be careful on the road.

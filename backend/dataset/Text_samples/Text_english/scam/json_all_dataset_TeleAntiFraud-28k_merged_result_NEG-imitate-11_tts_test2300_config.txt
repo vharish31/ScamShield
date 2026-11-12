@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from the Agricultural Bank Credit Center. Recently, our bank has a special promotion for loan activity. Do you want to know more about it?
+Speaker2: What kind of discounts can there be for a loan?
+Speaker1: This is it, our this time activity is for high-quality customers, not only low rate, but also fast approval, and can be operated online, very convenient.
+Speaker2: Online operation? How do you operate it?
+Speaker1: Just download our Agricultural Bank official app, register and fill in the relevant information, and you can submit a loan application.
+Speaker2: Is the app safe to download?
+Speaker1: Our app is certified by the Chinese government and has a professional security team to ensure safety, so you can use it with peace of mind.
+Speaker2: Okay, let me try.
+Speaker1: Okay, to speed up the approval process, you can fill in the invitation code when applying, enter 'ABCD1234', which will prioritize your application.
+Speaker2: Okay, I'll go download it now.

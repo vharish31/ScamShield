@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the appointment for the haircut tomorrow morning at 10 o'clock.
+Speaker2: Okay, it's 10 o'clock, right?
+Speaker1: Sure, I might be a few minutes late, is that okay?
+Speaker2: No problem, you can come before 10:20.
+Speaker1: Okay, thank you. So, I'm going to do a full head cut, roughly how long will it take?
+Speaker2: A haircut usually takes about forty minutes.
+Speaker1: Okay, I'll probably arrive around 10:10.
+Speaker2: Okay, please come early, you can arrive at ten o'clock.
+Speaker1: Okay, thank you. Bye.
+Speaker2: Goodbye.

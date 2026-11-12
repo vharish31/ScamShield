@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you going?
+Speaker2: Just arrived at the crossroad, you?
+Speaker1: I'm standing at the door of the coffee shop in front, leaning against the right side.
+Speaker2: Oh, I see you, I'm coming right over.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Please wait a moment, I have a phone call to answer.
+Speaker1: No problem, you busy yourself, I first go get a cup of coffee.
+Speaker2: Okay, see you later.
+Speaker1: See you later, don't forget to bring an umbrella, it might rain today.
+Speaker2: I know, thank you for reminding me, see you later.

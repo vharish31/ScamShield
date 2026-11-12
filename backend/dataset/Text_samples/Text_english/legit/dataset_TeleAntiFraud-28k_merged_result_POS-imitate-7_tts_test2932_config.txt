@@ -1,0 +1,14 @@
+Speaker1: Hey, hi, I'm little Li, recently I've been considering buying a new phone, saw your store had an activity, want to know more about it.
+Speaker2: Hello, little Li, welcome to consult. We indeed have new phone promotion activity here, which brand and model do you want to know?
+Speaker1: I prefer apples, want to see the latest iPhone 14 series.
+Speaker2: Okay, we have iPhone 14 series in stock here with different storage capacities and colors. Do you have any specific requirements for the configuration?
+Speaker1: I want to see the 128GB one. As for the color, both blue and purple are okay.
+Speaker2: Both colors are very popular and are currently in stock. The price of the 128GB is 6999 yuan, and there is still an opportunity to get a 200 yuan gift package when purchasing.
+Speaker1: The sound is good, can you tell me about your after-sales policy if I buy it?
+Speaker2: We provide national all-in-one insurance service, free maintenance for non-human damage within one year, seven-day no-reason return, and fifteen-day exchange service.
+Speaker1: Okay, I plan to go to the movies in the afternoon tomorrow, what time do you guys finish work?
+Speaker2: Our business hours are from 9am to 6pm every day. Is there a convenient time for you to come tomorrow?
+Speaker1: Can I go there around 3 pm tomorrow afternoon?
+Speaker2: Sure, we'll wait for you at the store around 3 o'clock. Are there any other things we need to know in advance?
+Speaker1: No more, thank you for your detailed introduction. See you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

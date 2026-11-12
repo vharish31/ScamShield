@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what do you want from me?
+Speaker1: Yes, I saw you posted a job search ad, can you tell me more details?
+Speaker2: Okay, so what are your specific needs?
+Speaker1: Of course, our child is in the third grade of primary school this year, and their grades in math and English are not ideal. We want to find an experienced tutor to help with supplementary instruction.
+Speaker2: Okay, I have several teachers specializing in guidance for the primary school stage, all with many years of teaching experience.
+Speaker1: What are your pricing standards?
+Speaker2: Our fees vary based on the teacher's qualifications and experience, typically ranging from 100 to 150 yuan per hour.
+Speaker1: What time can we start the class with this price?
+Speaker2: We usually need to arrange a trial lesson first to assess the compatibility between the child and the teacher, and we can arrange the trial lesson time according to your convenience.
+Speaker1: Is this weekend okay?
+Speaker2: Can we do this weekend? What specific time works for you?
+Speaker1: You can go from two to four in the afternoon.
+Speaker2: Okay, I'll record it down. The teacher will contact you at 2 pm to 4 pm to confirm the specific time.

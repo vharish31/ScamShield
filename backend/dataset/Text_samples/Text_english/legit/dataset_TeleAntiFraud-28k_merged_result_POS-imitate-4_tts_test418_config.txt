@@ -1,0 +1,13 @@
+Speaker1: Hello, you.
+Speaker2: Hey, how are you?
+Speaker1: I am a customer service representative for the Ming family's household service. Did you contact us to schedule a household cleaning service before?
+Speaker2: Yeah, okay, sure.
+Speaker1: Okay, is two o'clock in the afternoon tomorrow still suitable for your service?
+Speaker2: Okay, but I have a meeting in the morning, so I might be late getting home.
+Speaker1: Can we adjust the time to 3 pm? That way you can arrive on time.
+Speaker2: Three o'clock is fine, this way is more convenient.
+Speaker1: Okay, let's change the appointment time to 3 pm. Is your address still the one you provided last time?
+Speaker2: Okay, the address hasn't changed.
+Speaker1: Okay, let's meet tomorrow. If you have any questions, you can contact us anytime.
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye, wish you a happy day.

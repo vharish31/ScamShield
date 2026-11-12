@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Xiaoming, I saw your job post online, want to know more about the specific job content and benefits?
+Speaker2: Hello little Ming, I'm very happy to hear that you're interested in our positions. Which job position are you looking at the recruitment information for?
+Speaker1: The position is sales, you require a bachelor's degree, and prioritize relevant work experience.
+Speaker2: Yes, our sales position does have these requirements. This job mainly involves market development and customer maintenance, and in terms of compensation, we provide a base plus commission model, specifically how much can be discussed based on your ability.
+Speaker1: What is the work schedule like?
+Speaker2: Work hours are from Monday to Friday, 9 am to 6 pm. Weekends are double rest days. We also provide five insurance and one gold, year-end bonus and other benefits.
+Speaker1: How do I apply for this position?
+Speaker2: You can send your resume to our email address hr@example.com, and we will schedule an interview with you within a week after receiving it.
+Speaker1: Okay, I'll prepare my resume now. Thank you for your detailed answer.
+Speaker2: No problem, feel free to contact me if you have any other questions. Best of luck with your interview!

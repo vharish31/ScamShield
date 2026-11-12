@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Hi, I'm a customer service representative from Meituan. I noticed that you have recently posted a job search record on our platform. I'd like to know how things are going for you now.
+Speaker2: Oh, hi, I'm still looking for a job.
+Speaker1: Are you interested in our delivery position?
+Speaker2: Deliveryman? What are you doing?
+Speaker1: Just the one responsible for delivering food to customers needs to know how to ride a bike and look at navigation.
+Speaker2: Have you never done this before? Do you need training?
+Speaker1: No special training is needed. We will provide some basic guidance, mainly familiarizing with the route.
+Speaker2: What about the salary and benefits?
+Speaker1: We're on the side of piecework, so busy, and we can make six or seven thousand on average per month.
+Speaker2: I can hear you, I can consider it.
+Speaker1: Okay, if you're interested, feel free to contact me anytime. My phone number is 555-666-7777.
+Speaker2: Okay, thank you. I will consider it. Goodbye.
+Speaker1: You're welcome, wish you all the best, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, is that your car?
+Speaker1: Hey, where are you going?
+Speaker2: Are you in building number two at the community entrance?
+Speaker1: Okay, I'm waiting for you here, come in.
+Speaker2: Okay, I'll come in now, you wait a minute.
+Speaker1: Okay, slow down when you come in, the road is narrow.
+Speaker2: I know, you can relax. It'll be there in a few minutes.
+Speaker1: Okay, pay attention to safety on the road.
+Speaker2: Okay, see you later.

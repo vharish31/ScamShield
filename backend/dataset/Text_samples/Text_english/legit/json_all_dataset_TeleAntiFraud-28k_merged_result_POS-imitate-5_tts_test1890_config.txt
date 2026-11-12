@@ -1,0 +1,16 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me? Who are you?
+Speaker1: Hello, I am the customer service of the home service platform you consulted before. Do you remember?
+Speaker2: Hey, what's up?
+Speaker1: Is that so? Recently our platform has a promotion for home service, do you have any interest?
+Speaker2: What specific services does household service include?
+Speaker1: This promotion includes daily cleaning, laundry, ironing, and cooking services, and you can enjoy an eighty percent discount, which is very cost-effective.
+Speaker2: Does it sound good? Then do I need to make a reservation in advance?
+Speaker1: Yes, it's necessary to make an appointment in advance. You can choose your convenient time, and we will arrange professional housekeeping service personnel to come to your home.
+Speaker2: How do I make a reservation?
+Speaker1: You can directly book an appointment online through our platform or tell us your contact information, our customer service specialist will contact you to confirm the specific details.
+Speaker2: What is your service time?
+Speaker1: We provide seven-day, twenty-four-hour service booking, the housekeeper will serve you at the time you book.
+Speaker2: I'll book a service for 9am on Saturday next week.
+Speaker1: Okay, your appointment has been successfully scheduled for next Saturday at 9am. A housekeeping staff member will contact you to confirm the address and specific requirements. Remember to answer the phone.
+Speaker2: Okay, thank you for your help.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, recently I've been looking for a house, I saw some houses on your website, want to know more details.
+Speaker2: Hello, little Zhang, I am little Li, the landlord of this apartment. Do you have any specific questions about the apartment?
+Speaker1: Is it like that? What is the area of the house?
+Speaker2: This apartment is one room one hall, with an area of 60 square meters, the interior decoration is very new, and the lighting is very good.
+Speaker1: How much is the rent for that house? Also, is it possible to keep pets?
+Speaker2: The monthly rent for the room is three thousand yuan, and the electricity and water fees are charged separately. As long as it doesn't affect the neighbors, it's okay to keep pets.
+Speaker1: Hmm, this price is still okay. Besides, I want to know about the traffic situation around the house.
+Speaker2: The house is close to the subway station, only a ten-minute walk away, and there are several bus stations nearby, making traveling very convenient.
+Speaker1: Can I go take a look at the house?
+Speaker2: Of course, when is convenient for you, I can arrange a time to take you to see the houses.

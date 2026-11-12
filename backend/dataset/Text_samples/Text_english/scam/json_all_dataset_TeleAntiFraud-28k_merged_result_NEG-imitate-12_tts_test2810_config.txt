@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the wealth management consulting center, I am the financial advisor Li Xiao.
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm Li Xiao, our company has recently launched a high-yield investment product, are you interested in learning more?
+Speaker2: Invest in wealth management? I don't have time, and I don't have interest.
+Speaker1: It's that way, this financial product is very simple, you just need to download our app, register an account, and you can start investing. Moreover, the returns are very stable, much more profitable than saving in a bank.
+Speaker2: Really? It sounds good, but I don't understand these.
+Speaker1: No problem, I can guide you step by step. First, download our app, then tell me, I'll guide you through the registration.
+Speaker2: Okay, let me try.
+Speaker1: Okay, open your phone's app store, search for "Wealth Treasure", download and install. After installation, open the APP, click on register, input your phone number and verification code.
+Speaker2: Okay, I found it, downloading now.

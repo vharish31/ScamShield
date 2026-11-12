@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hello, this is the customer service center of China Merchants Bank, I am customer service representative Zhang. Is it you, Mr. Li?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Zhang from the customer service department of China Merchants Bank. We noticed that your credit card hasn't been used for three consecutive months. We have a special promotion that can help increase your credit card limit, and we also have a series of gifts to offer. Would you like to know more about it?
+Speaker2: Oh, so that's how it is, then what do I need to do now?
+Speaker1: It's very simple. Just click on the link I send you, fill out some basic information, and you can complete the application. Can you provide your phone number?
+Speaker2: Okay, my phone number is 13612345678.
+Speaker1: Thank you, I will send you a text message with a link and verification code. After clicking on the link and entering the verification code, you can complete the application.
+Speaker2: Okay, I'll wait for a text message.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I'm little Zhang, we agreed to hang out yesterday.
+Speaker2: Oh, I remember now, where are you now?
+Speaker1: Just arrived at the subway station, you too?
+Speaker2: I'm at home, still have a little thing to finish up.
+Speaker1: Hurry up and handle it, I'm waiting for you here.
+Speaker2: Okay, I'll hurry up. I should be there in about twenty minutes, you can find a place to sit first.
+Speaker1: Be careful on the road.
+Speaker2: Okay, see you later.

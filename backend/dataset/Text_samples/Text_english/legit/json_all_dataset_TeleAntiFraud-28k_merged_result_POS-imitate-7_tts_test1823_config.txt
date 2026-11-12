@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: At home? How are you?
+Speaker1: Do you have any restaurant recommendations for me to go eat a meal?
+Speaker2: A new Sichuan restaurant just opened, the taste is quite good, you can try it.
+Speaker1: Okay, how do we go to that river restaurant?
+Speaker2: You left my house, turned left at the second red light, then turned right and walked straight for 500 meters until you arrived.
+Speaker1: Five hundred meters, a bit far, do you have a nearby point?
+Speaker2: You can try the small restaurant at the community door, it's quite good to eat.
+Speaker1: The little restaurant sounds good, I'll go take a look in a little while.
+Speaker2: Okay, you went. Remember to bring me back a copy.

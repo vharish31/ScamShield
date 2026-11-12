@@ -1,0 +1,11 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, I'm doing well, how about you lately?
+Speaker1: I'm fine, just a bit busy with work lately. How about you?
+Speaker2: I'm pretty much the same, things always seem to be incomplete. Hey, do you have any free time this weekend?
+Speaker1: What are your plans for the weekend?
+Speaker2: Do you want to go hiking together and relax a bit?
+Speaker1: The sound is great, I've always wanted to go to the mountain in the scenic area and take a look. When do we leave?
+Speaker2: Good morning at 8 o'clock? This way we can avoid traffic rush hour.
+Speaker1: Okay, let's meet at the subway station.
+Speaker2: Okay, let's go to the subway station. Remember to bring plenty of water, it's hard to find water sources on the mountain.
+Speaker1: No problem, I'll bring some snacks too. See you later!

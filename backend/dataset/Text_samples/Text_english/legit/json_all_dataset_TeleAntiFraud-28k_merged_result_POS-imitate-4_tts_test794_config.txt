@@ -1,0 +1,12 @@
+Speaker1: Hello, I found a washing machine on your website that I'm interested in, can I consult with you?
+Speaker2: Hello, I'm very happy to serve you. Which washing machine are you interested in?
+Speaker1: It's the fully automatic one, saying is the energy-saving silent one.
+Speaker2: Ah, you're talking about our energy-saving washing machine series, which is indeed very popular.
+Speaker1: What is the capacity of this washing machine? Is it suitable for a family of several people?
+Speaker2: This washing machine has a capacity of eight kilograms and is suitable for families of three to four people.
+Speaker1: What is its price?
+Speaker2: This washing machine's original price is three thousand yuan, but now there's a promotion, you can enjoy a nine-discount discount.
+Speaker1: Hmm, is that a good deal? Do delivery and installation require extra fees?
+Speaker2: Delivery and installation are free, we provide one-stop service.
+Speaker1: Okay, I'll place the order now. When can it be delivered?
+Speaker2: Typically, orders placed can be delivered within three to five days, with specific delivery times determined by your address.

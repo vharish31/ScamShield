@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Ningbo Bank. Recently we have launched a very affordable loan product with a very low interest rate, only 2.3 cents, are you interested in learning more?
+Speaker2: Oh, a loan, this thing has been pretty popular lately, but I don't seem to have any need for it.
+Speaker1: That's right, our loan products have both low interest rates and simple procedures, no collateral is required, and the approval process is very fast. If you're interested, you can add my WeChat, and I'll give you a detailed introduction.
+Speaker2: Add WeChat, is this thing safe?
+Speaker1: Very safe, our bank has a dedicated customer service team, you can consult anytime. After you add WeChat, I will send you an official link, you can apply directly through this link.
+Speaker2: Okay, let me try, what's your WeChat number?
+Speaker1: My WeChat number is nb_bank_loan, add me, I'm waiting for your message.
+Speaker2: Okay, I'll add you.
+Speaker1: Great, after you add me, I'll send you an official link, just follow the instructions and you're good to go.
+Speaker2: Okay, thank you.

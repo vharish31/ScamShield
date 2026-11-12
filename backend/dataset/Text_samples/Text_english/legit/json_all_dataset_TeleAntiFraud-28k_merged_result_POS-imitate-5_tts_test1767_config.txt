@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to know more about your repair service. My washing machine is broken.
+Speaker2: Okay, our repair service includes an on-site inspection and repair, you can schedule a convenient time.
+Speaker1: How long will it take?
+Speaker2: In general, we will arrive within twenty-four hours of the appointment, and the specific time can be arranged at your convenience.
+Speaker1: Okay, can I meet you at three in the afternoon tomorrow?
+Speaker2: Tomorrow at three in the afternoon, I will help you make a reservation.
+Speaker1: Thank you, how do you calculate the cost?
+Speaker2: Checking at the door is free, if you need to replace parts, the cost will be informed to you before repair, and you confirm before proceeding with replacement.
+Speaker1: I understand, so I'll wait for you guys at three in the afternoon tomorrow.
+Speaker2: Okay, see you tomorrow. If you have any other questions, feel free to contact me anytime.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the customer service of Huayang Electric?
+Speaker2: Hello, yes, this is the customer service center of Huayang Electric, what can I help you with?
+Speaker1: Can you tell me more about your latest air purifier model's performance?
+Speaker2: Our latest air purifier uses advanced HEPA filters, effectively removing PM2.5, pollen, dust, and other particles, making it ideal for family use.
+Speaker1: What's the price?
+Speaker2: The price of this air purifier is 2500 yuan, there is currently a promotion, and you can enjoy a 90% discount when purchasing.
+Speaker1: Hmm, if I decide to buy, how do I place an order?
+Speaker2: You can place an order directly through our official website or customer service hotline, or you can purchase at the nearest physical store.
+Speaker1: Okay, I need one at home, I'll check the time, I went to the store recently.
+Speaker2: Okay, welcome, we'll provide service anytime.

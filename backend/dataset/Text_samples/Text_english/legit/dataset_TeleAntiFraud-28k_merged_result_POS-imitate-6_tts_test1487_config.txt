@@ -1,0 +1,9 @@
+Speaker2: Hey, how are you, where are you?
+Speaker1: Just arrived, didn't see you, where are you?
+Speaker2: Can you see the red and green lights at the crossroad?
+Speaker1: What should I do now that I see it?
+Speaker2: You walked straight, passed the red light, I'm waiting for you here.
+Speaker1: Okay, I'll be right over.
+Speaker2: You arrived, I'm waiting for your call.
+Speaker1: Okay, I'll be there in a while.
+Speaker2: Okay, be careful on the road.

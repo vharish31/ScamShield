@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the property management service of the community, want to confirm if your home needs maintenance service recently?
+Speaker2: Hello, currently there is no need for repair, what repair services do you provide now?
+Speaker1: We offer a variety of services including water and electricity repairs, air conditioning cleaning, and window and door maintenance. If you need any of these services, please feel free to contact us at any time.
+Speaker2: My home's air conditioner has been a bit warm lately, maybe it needs to be cleaned.
+Speaker1: Okay, in this situation we can arrange professional technical personnel to come to our door for service. If it's convenient, we can go over there tomorrow afternoon.
+Speaker2: Can I come over tomorrow afternoon around what time?
+Speaker1: We usually arrive 30 minutes before the scheduled time, you can choose a time slot between 2 and 4 PM.
+Speaker2: Can I leave at 3 o'clock?
+Speaker1: 3 o'clock is fine, we will arrive on time. Please ensure there's someone at home, if there's any change, please inform us in advance.
+Speaker2: Okay, thank you, see you tomorrow.

@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Are you still hiring on this side?
+Speaker2: Hey, are you still hiring? Which position are you interested in?
+Speaker1: What exactly do you do as a fast delivery sorting employee?
+Speaker2: The main responsibility is to sort and sort out the express delivery, to ensure that the express delivery can be accurately and correctly sent to the sorting line.
+Speaker1: What are the requirements for this position?
+Speaker2: You need physical health, serious work responsibility, and age above eighteen.
+Speaker1: Can I be 199999?
+Speaker2: Sure, your age is just right.
+Speaker1: When can I go for an interview?
+Speaker2: You can come over at 2 pm tomorrow, we'll have a simple interview here.
+Speaker1: Okay, thank you. What is the address?
+Speaker2: The address is Dongcheng District Material Flow Park No. 3, you arrive at the door and say to the guard, they will guide you to the interview location.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: Hey, see you tomorrow, be careful on the road.

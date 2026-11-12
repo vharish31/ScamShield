@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Guangzhou Bank, and we have recently introduced a loan policy for small businesses with discounts. Are you interested in learning more about it?
+Speaker2: Hello, I'm feeling a bit tight on cash right now, do you have any specifics on how to get some funds?
+Speaker1: Of course, this loan product has a low interest rate, simple procedures, and quick disbursement, making it very suitable for your urgent funding needs. If you are interested, you can click on the link I sent you and apply online.
+Speaker2: How do I know this link is safe?
+Speaker1: You can rest assured that all of our bank links are encrypted for security, so there will be no issues. For your convenience, I have also prepared a QR code that you can scan to directly enter the application page, the operation is very simple.
+Speaker2: Okay, I'll give it a try.
+Speaker1: Great, after you scan the code, if you have any issues, feel free to contact me anytime. Also, as a thank you for using our service, if you successfully apply, you'll receive a small gift. I hope you like it.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish your application to be successful, feel free to contact me if you have any questions. Bye!
+Speaker2: Goodbye, thank you.

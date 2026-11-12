@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I want to reserve a seat for two people at noon tomorrow.
+Speaker2: Okay, what are the two people's positions at noon tomorrow? Can you confirm it for me?
+Speaker1: Can you recommend any dishes from your place?
+Speaker2: Our roast duck and steamed fish are both very popular among our guests.
+Speaker1: I'll order these two dishes.
+Speaker2: Okay, I have reserved the special roast duck and steamed fish for you, see you tomorrow at noon.
+Speaker1: Okay, thank you!
+Speaker2: Please welcome you.

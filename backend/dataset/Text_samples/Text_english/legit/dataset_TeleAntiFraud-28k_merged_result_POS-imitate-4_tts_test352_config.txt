@@ -1,0 +1,10 @@
+Speaker1: Hello, are your restaurant still open?
+Speaker2: Hello, are we open for business? Do you want to reserve a seat?
+Speaker1: Yes, I plan to arrive at seven o'clock in the evening. Do I need to make a reservation?
+Speaker2: Of course, at seven o'clock, there won't be too many people, but it's still a good idea to reserve a spot in advance.
+Speaker1: Okay, I'll reserve two seats for two people.
+Speaker2: Okay, the two seats have been reserved for you, just come directly when the time comes.
+Speaker1: Can I ask you a question, do you have any recommendations for vegetables?
+Speaker2: Yes, we have a clear stir-fried vegetable sign here, and the mushroom tofu soup is also very popular.
+Speaker1: Sounds good, I'll give it a try later.
+Speaker2: Okay, I hope you like it. If you have any other needs, please let me know.

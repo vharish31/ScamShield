@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I reserved a car maintenance at your store, want to confirm the time?
+Speaker2: Hello, I am customer service Li, your appointment time is tomorrow at 2 pm, right?
+Speaker1: Yes, at two o'clock, but I want to ask, how long does maintenance usually take?
+Speaker2: In general, a basic maintenance usually takes about an hour and a half, if there are additional services, it may be a little longer.
+Speaker1: Okay, when can I get the car?
+Speaker2: If everything goes smoothly, it should take around four o'clock to finish.
+Speaker1: Okay, I'll pick up the car at four o'clock. What else do I need to prepare in advance?
+Speaker2: No need to prepare anything special, as long as the car can start normally, we will handle everything on this end.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, feel free to contact us anytime if you have any questions, see you tomorrow.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little king?
+Speaker2: Hello, I'm little king, what's up?
+Speaker1: Can you introduce me to the surroundings of this neighborhood? I'm new here and not very familiar with the area yet.
+Speaker2: Of course, there are several good restaurants near our community, and there's a large shopping mall too. Do you like shopping?
+Speaker1: I really like it, do you have any recommendations for shops?
+Speaker2: There's a small shop that sells electronic products, the stuff's quite comprehensive and the prices are fair. There's also a fashion store, the styles are trendy, you have some time, you can go take a look.
+Speaker1: Okay, thank you for your recommendation. By the way, how do I get to the nearest hospital?
+Speaker2: From the community, walk about 300 meters to the left, you will see a bus station, you can take the bus number 10, get off at the People's Hospital station.
+Speaker1: I understand, thank you for your help, I will remember.
+Speaker2: No problem, feel free to ask for help anytime, wish you happy living here.

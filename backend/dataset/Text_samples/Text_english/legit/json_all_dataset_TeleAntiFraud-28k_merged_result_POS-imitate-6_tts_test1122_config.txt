@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I'd like to inquire about your restaurant's business hours and if you have any special recommendations for dishes.
+Speaker2: Our restaurant is open from 11 am to 9 pm. I recommend you try our signature dishes, palace chicken and steamed fish with ginger and scallions, both are very delicious.
+Speaker1: Sounds good, I'll probably be there at 7 pm, do I need to make a reservation?
+Speaker2: If it's convenient, please make an advance reservation, so we can reserve a spot for you.
+Speaker1: Okay, I'll book two seats for us, thanks.
+Speaker2: No problem, reservation successful, see you later.
+Speaker1: Thank you, see you later.
+Speaker2: Please welcome you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you the person who bought the phone from our store yesterday?
+Speaker2: Hello, little Zhang, that phone has a little problem, sometimes it will automatically restart.
+Speaker1: Okay, I'm sorry, let me check on this side, it might be due to some reason.
+Speaker2: Okay, thank you.
+Speaker1: I checked and it might be due to incomplete system update, you can try restarting your phone and updating the system again.
+Speaker2: Restart and update the system later, okay, I'll try it out.
+Speaker1: Hey, if you still have issues, feel free to bring them over anytime, we'll check them out.
+Speaker2: Okay, thank you for your help. I have questions and will contact you again.
+Speaker1: No problem, anytime welcome, hope your phone can recover quickly. Bye!
+Speaker2: Goodbye, thank you!

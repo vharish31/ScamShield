@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you still hire waiters in your restaurant?
+Speaker2: So, what aspect would you like to know more about the requirements?
+Speaker1: What are the conditions and what is the salary package like?
+Speaker2: First, one must have relevant work experience, age between 18 to 30, salary between 3000 to 4000, and personal performance and commission.
+Speaker1: I've been to a restaurant twice before, and it's the perfect age.
+Speaker2: That's great, you can come for an interview to see if it's suitable.
+Speaker1: What should I prepare for an interview?
+Speaker2: Bring your ID and resume, we'll take a look at your specific situation and then schedule a trial job.
+Speaker1: Okay, thank you, I will prepare quickly.
+Speaker2: No problem, feel free to contact me anytime if you have other issues.

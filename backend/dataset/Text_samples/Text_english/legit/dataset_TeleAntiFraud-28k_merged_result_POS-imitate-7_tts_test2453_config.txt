@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how can I help you?
+Speaker1: Can you tell me about your restaurant's special dishes and business hours?
+Speaker2: Our restaurant specialties include red braised pork, steamed fish and stir-fried chicken, very popular. Business hours are from 11am to 9pm.
+Speaker1: Can you reserve seats? It sounds good.
+Speaker2: Of course, what time slot do you need to reserve a seat?
+Speaker1: I want to reserve a table for two on Saturday evening at 7:00 PM.
+Speaker2: Okay, your Saturday evening 7:00 PM double-person seat has been reserved for you. Do you need to provide your name to confirm?
+Speaker1: Please, call me Li Wen.
+Speaker2: Okay, Li Wenxiāng, your appointment has been successful. Just show your name when you arrive. Is there anything else you need help with?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival. Goodbye!

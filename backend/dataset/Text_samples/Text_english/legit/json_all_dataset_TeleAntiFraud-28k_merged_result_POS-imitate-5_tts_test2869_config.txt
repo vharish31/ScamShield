@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of Meituan Waimai, your recent order has some issues, please confirm.
+Speaker2: Hello, what's the problem?
+Speaker1: The spicy hotpot you ordered has a note saying it's not spicy, but our chef says this dish is usually spicy by default.
+Speaker2: Hey, can you guys do a non-spicy version?
+Speaker1: Sure, but it will take a little more time because it needs to be made separately.
+Speaker2: Okay, can you do non-spicy ones?
+Speaker1: Okay, we will highlight it in the notes. Also, is your current address correct?
+Speaker2: The address is correct, it's the third floor, unit 2B in that small community.
+Speaker1: Okay, we will process your order quickly. It should take about forty minutes to arrive, can you accept it?
+Speaker2: Forty minutes is enough, thank you.

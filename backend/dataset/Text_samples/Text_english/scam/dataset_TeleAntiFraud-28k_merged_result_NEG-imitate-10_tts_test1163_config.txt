@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am your courier customer service representative. Your package was lost during transportation. To compensate you, we need you to provide your bank card information for a refund.
+Speaker2: Is it really so? What should I do, my package is very important.
+Speaker1: Don't worry, we will handle it properly. To quickly handle it, please click this link to fill out your bank card information.
+Speaker2: Okay, I'll go do it right away.
+Speaker1: That's fine, to ensure the safety of your assets, we will fully monitor. If there are any issues, please contact me anytime.
+Speaker2: Thank you, I'm going to handle it now.
+Speaker1: No problem, please let me know once you've finished processing, we'll quickly transfer the funds to your account.
+Speaker2: Okay, I will complete it quickly.
+Speaker1: Okay, wish you all the best.
+Speaker2: Thank you, goodbye.

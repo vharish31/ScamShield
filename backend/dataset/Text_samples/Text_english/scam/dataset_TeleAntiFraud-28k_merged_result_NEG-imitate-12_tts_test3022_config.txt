@@ -1,0 +1,10 @@
+Speaker1: Hello, hello, how are you? I am a customer service representative from the Agricultural Bank of China. Your loan application has been approved.
+Speaker2: Really? That's great.
+Speaker1: Yes, but in order to ensure safety, we need you to pay a deposit first, so we can release the funds.
+Speaker2: Deposit? How much is needed?
+Speaker1: Just need three thousand yuan, this is a small fee, as soon as the loan comes, we will immediately refund to you.
+Speaker2: How do I pay?
+Speaker1: You can pay through our official website, I'll give you a link, just click on it to pay.
+Speaker2: Okay, I'll go pay later.
+Speaker1: Okay, after you pay, please send me a screenshot of the successful payment, and I will handle the next steps.
+Speaker2: I understand, thank you.

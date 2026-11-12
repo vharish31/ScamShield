@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm Little Li from the Agricultural Bank's Tianqiao Branch. We have a great investment and wealth management project. Would you like to know more about it?
+Speaker2: Invest in financial projects?
+Speaker1: Yes, this is a high return low risk investment project, recently many customers have participated, you can first invest a small amount of money to try.
+Speaker2: How to join?
+Speaker1: Just download our official app, register an account, and follow the instructions to proceed.
+Speaker2: Where can I download the official app?
+Speaker1: I'll send you a link, just click it to download directly, very convenient.
+Speaker2: Okay, I'll take a look later.

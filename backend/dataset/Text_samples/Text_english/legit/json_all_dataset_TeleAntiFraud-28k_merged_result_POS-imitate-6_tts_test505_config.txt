@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I see an electric car for rent over there, want to know more details?
+Speaker2: Hello, I'm very happy to serve you. We do indeed provide electric car rental services here. What aspects would you like to know?
+Speaker1: Can you tell me how rent is calculated and how much deposit is required?
+Speaker2: Rent is calculated per day, with a daily rent of 50 yuan. The deposit is 300 yuan. When the car lease ends, if the vehicle is not damaged, the deposit will be fully refunded.
+Speaker1: Do I need to make a reservation in advance for renting for a day?
+Speaker2: Yes, to ensure there are cars available for rent, we suggest you book in advance.
+Speaker1: Okay, can I reserve it for tomorrow?
+Speaker2: Of course, I can help you make a reservation. Please provide your name and contact information so we can record it.
+Speaker1: My name is Zhang Huá, phone number is 13801380138.
+Speaker2: Okay, Zhang Huang, I have already reserved an electric car for you tomorrow. Remember to bring your ID and deposit, and come on time to pick up the car.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. If you have other questions, feel free to contact me anytime. Have a nice day!

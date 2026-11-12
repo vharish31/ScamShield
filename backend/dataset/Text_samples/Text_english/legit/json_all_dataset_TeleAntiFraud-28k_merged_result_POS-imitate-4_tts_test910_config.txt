@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your appointment service.
+Speaker2: Hello, I'm very happy to serve you. What service would you like to book?
+Speaker1: I'd like to make a beauty appointment, do you have any available time?
+Speaker2: Okay, what time would you like to make a reservation? Our business hours are from 10 am to 8 pm.
+Speaker1: I'd like to make a reservation for Saturday afternoon, around 3:30 to 5:30.
+Speaker2: Okay, let me check. There is still an available time slot from 3:30 PM to 5:30 PM on Saturday. You can book it.
+Speaker1: Great, let's book this time.
+Speaker2: Okay, your appointment has been successfully scheduled. Please arrive ten minutes early so we can prepare for you.
+Speaker1: Okay, thank you. By the way, do you have a parking lot there?
+Speaker2: We provide a free parking lot here. You can drive right in. Very convenient.
+Speaker1: That's great, thank you for your help.
+Speaker2: You're welcome. If you have other questions, please feel free to contact us anytime. Have a great day!

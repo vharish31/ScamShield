@@ -1,0 +1,7 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Can I find Li Ming? Is he there?
+Speaker2: Is Li Ming your friend?
+Speaker1: Yes, we are friends, do you know when he will come back?
+Speaker2: Have you anything to do at three in the afternoon?
+Speaker1: Can you tell him I want to have dinner with him tomorrow?

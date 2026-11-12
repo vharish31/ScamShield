@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I want to consult your car rental service
+Speaker2: Of course, we provide multiple car types for you to choose from, when do you plan to rent a car?
+Speaker1: I need to use a car this afternoon around 3 pm, roughly until 9 pm tonight
+Speaker2: Okay, this time slot is available. Do you want to pick up the car directly at the store, or do you need us to deliver it to your door?
+Speaker1: Can you tell me the location of the store directly when I go there to pick up my car?
+Speaker2: Of course. Our address is on the south side of the city, next to the commercial area near the train station, specifically at number three on Happiness Road.
+Speaker1: Okay, I know. Do I need to make a reservation in advance to take the car?
+Speaker2: I suggest you book in advance, so we can make sure we have a car ready for you. You can book now through our website or app.

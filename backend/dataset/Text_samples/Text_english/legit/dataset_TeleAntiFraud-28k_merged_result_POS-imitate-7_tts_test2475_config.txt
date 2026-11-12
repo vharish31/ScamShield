@@ -1,0 +1,13 @@
+Speaker2: Hey, how are you?
+Speaker1: Hi, I'm Little Li from the New Star Fitness Center, have you consulted our membership card before?
+Speaker2: Yeah, I remember
+Speaker1: How are you feeling now?
+Speaker2: Okay, just not very sure yet
+Speaker1: Is there any place that makes you hesitate? I can help you answer it
+Speaker2: The main thing is the price, and the distance from the fitness center to my home
+Speaker1: Regarding the price, we currently have a discount activity, you can enjoy an eighty percent discount. Besides, it's only about three kilometers from here to your home, it's quite convenient to ride a bike or drive a car.
+Speaker2: What time does the discount activity end?
+Speaker1: This activity ends by the end of the month, if you're interested, you can consider it.
+Speaker2: Okay, I'll think about it, and let you know my decision after these few days.
+Speaker1: No problem, the phone is always open for you, you decide when to contact me, wish you happy life, goodbye.
+Speaker2: Thank you, goodbye

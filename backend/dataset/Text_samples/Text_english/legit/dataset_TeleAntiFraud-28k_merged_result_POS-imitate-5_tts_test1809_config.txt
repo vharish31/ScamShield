@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Hello, I am the customer service monkey of the point store, I see that you have a lot of points in your account that have not been used yet. Tonight at twelve o'clock all the points will expire and be cleared zero, do you know?
+Speaker2: Really? I still don't know about this event.
+Speaker1: Yes, your points are accumulated through mobile payment, and now your account has over 26,000 points.
+Speaker2: So many, what can I exchange now?
+Speaker1: You can exchange white wine gift boxes, famous brand four-piece sets, high-definition TVs, smartwatches and other electronic products for direct cashback with points.
+Speaker2: Oh, I had better take a look.
+Speaker1: Okay, I will apply for a special privilege for you. After the exchange, the remaining points can be kept, and you will also receive an additional gift package, enjoy free return service.
+Speaker2: Okay, I'll go pick now. Thank you!

@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, hello, can you hear me, say something.
+Speaker1: Hello, I am a customer service representative for an e-commerce platform. You have accumulated a lot of shopping points on your account, and they will be cleared at midnight tonight.
+Speaker2: Oh, really? I haven't paid attention, what can these points be used for?
+Speaker1: These points can be used to deduct cash, purchase various products on the platform, such as electronic products and daily items.
+Speaker2: How do I check my points?
+Speaker1: You can see your points details as soon as you log in to our platform and enter your personal center.
+Speaker2: Okay, I'll try. If I don't have time today, can I exchange tomorrow?
+Speaker1: Your points will be cleared at midnight tonight. It's recommended that you process them quickly to avoid any loss.
+Speaker2: Understood, I'll handle it right away, thank you for reminding me.
+Speaker1: You're welcome. If you have any questions, please contact our customer service anytime. We wish you a happy shopping.

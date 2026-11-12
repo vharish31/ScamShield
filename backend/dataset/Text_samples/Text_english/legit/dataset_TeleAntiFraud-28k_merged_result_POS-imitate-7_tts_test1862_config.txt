@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm looking for the way to the train station, can you help me?
+Speaker2: Hello, where are you now?
+Speaker1: I am near the Big Huaxia supermarket.
+Speaker2: After leaving the Big Huai supermarket, walk about 500 meters to the left and you will see a red and green light.
+Speaker1: Okay, did you cross the red light after the green light?
+Speaker2: After passing the red light, you continue to walk straight, approximately three hundred meters, you will see a bus stop sign.
+Speaker1: Did you arrive at the bus stop?
+Speaker2: Take the second line bus from the bus stop, get off at the third station, then walk straight to the train station.
+Speaker1: Okay, thank you for your help. I'm off now.
+Speaker2: No problem, be careful on the road, wish you a happy journey.

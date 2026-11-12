@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of happy shopping, your shopping points on your account will expire tonight, you haven't used them yet.
+Speaker2: Hello, I haven't had time to shop recently, what's the use of these points?
+Speaker1: This score can be used to exchange products on the platform, equivalent to cash. You currently have 1,200 points on your account, which can be exchanged for a product worth 120 yuan.
+Speaker2: Uh, what can I exchange for a product?
+Speaker1: You can exchange daily necessities, electronic products accessories etc. The specific products can be found in the link I send you.
+Speaker2: Okay, I'll take a look. But I'm concerned about the quality of these free things.
+Speaker1: All products on our platform have been strictly screened, ensuring quality. You can rest assured when exchanging.
+Speaker2: Let me take a look and then we can talk again.
+Speaker1: Okay, if you have any questions, feel free to contact me anytime. I hope you're satisfied.
+Speaker2: Thank you, I will consider it.

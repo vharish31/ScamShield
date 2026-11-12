@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me what the menu is at this restaurant?
+Speaker2: Our restaurant's signboard menu is spicy Sichuan hotpot, many people recommend this dish.
+Speaker1: How much does this spicy pot cost?
+Speaker2: The price of the spicy pot is 38 yuan, the portion is enough.
+Speaker1: Hmm, sounds good. What time do you close shop today?
+Speaker2: Our restaurant is open until 9 pm tonight, welcome anytime.
+Speaker1: Okay, can I reserve a spot in advance for around seven o'clock tonight?
+Speaker2: Of course, I have already reserved a 7 o'clock spot for you, see you then.

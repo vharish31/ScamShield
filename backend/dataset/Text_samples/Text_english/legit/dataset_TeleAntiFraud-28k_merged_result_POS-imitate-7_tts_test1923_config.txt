@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Can you tell me if there is a haircut appointment time here?
+Speaker2: Yes, we can make a haircut appointment here, what time do you want to make an appointment?
+Speaker1: Can I meet you at three o'clock in the afternoon tomorrow?
+Speaker2: Can we meet at three in the afternoon tomorrow? Just need to confirm, can you leave your contact info?
+Speaker1: Okay, my phone number is 1381380138.
+Speaker2: Okay, I have recorded it down. Remember to come at exactly three o'clock in the afternoon tomorrow.
+Speaker1: Okay, thank you. And, it's my first time here, how do I navigate your store?
+Speaker2: Our store is at the intersection of Guangming Road and Xinghua Dajie, if you come from Guangming Road and see Xinghua Dajie turning right, just walk straight for about 500 meters, and our store will be on the left side.
+Speaker1: I understand, thank you for your detailed guidance.
+Speaker2: No problem, if you have other questions, feel free to contact me anytime. See you tomorrow!
+Speaker1: Okay, see you tomorrow, goodbye.

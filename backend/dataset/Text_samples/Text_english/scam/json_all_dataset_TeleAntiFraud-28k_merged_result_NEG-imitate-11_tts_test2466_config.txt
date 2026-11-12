@@ -1,0 +1,8 @@
+Speaker1: Hello, this is the customer service center. The product you bought online has a problem due to logistics reasons. We are ready to process a refund for you. Could you please provide your order number?
+Speaker2: Okay, I'll check the order number, just a moment.
+Speaker1: Okay, you can slowly look for it, I'll wait here for you.
+Speaker2: Found it, the order number is one two three four five six seven eight nine zero.
+Speaker1: Okay, we have found your order. To ensure a smooth refund process, please download our official app and operate it to refund, can you download it?
+Speaker2: Okay, how do I download it?
+Speaker1: You can download it by scanning the QR code or clicking the link. This link is our official one, very safe, just click it.
+Speaker2: Okay, let me try.

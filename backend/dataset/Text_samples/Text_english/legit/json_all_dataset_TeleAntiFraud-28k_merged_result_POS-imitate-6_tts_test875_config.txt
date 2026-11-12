@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang. I recently saw a nice apartment on your website. Can you give me more details?
+Speaker2: Hello, little Zhang, very happy to serve you. Which specific suite is this?
+Speaker1: That's the apartment located in the city center, next to the subway station with two bedrooms.
+Speaker2: Ah, that apartment is indeed very popular. Its features are convenient transportation, complete surrounding facilities, and very suitable for the working class.
+Speaker1: How about the price?
+Speaker2: The monthly rent is 3600 yuan, which includes property fees. If you decide to rent, you need to pay one month's deposit.
+Speaker1: Is the deposit three thousand six hundred yuan?
+Speaker2: Yes, the deposit is the same as one month's rent.
+Speaker1: Okay, when can I go see the house?
+Speaker2: Can you choose to go house hunting this weekend? Is 10 am on Saturday or 2 pm on Sunday more convenient for you?

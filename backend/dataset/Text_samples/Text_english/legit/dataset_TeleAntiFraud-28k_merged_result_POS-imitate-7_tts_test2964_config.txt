@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I saw your store's advertisement, do you have any new computers in stock?
+Speaker2: Hello, little king, we just got a batch of new computers, which models do you want to know about?
+Speaker1: Can you tell me the specific parameters of that game on the ad with high configuration?
+Speaker2: Of course, this game uses the latest processor, the graphics card is high-end NVIDIA GeForce RTX, and it has a large capacity solid-state drive, which is very suitable for playing games.
+Speaker1: How much does it cost to sound good?
+Speaker2: The price is 7999 yuan, now there's a limited-time discount, and you'll get a mouse and keyboard set as a gift.
+Speaker1: Hmm, I'll think about it. By the way, is your store open now?
+Speaker2: Our store is open from 9am to 9pm every day. You can come to the store at any time.
+Speaker1: Okay, I'll go take a look in the afternoon, see you later.
+Speaker2: Okay, we meet in the afternoon, welcome to come.

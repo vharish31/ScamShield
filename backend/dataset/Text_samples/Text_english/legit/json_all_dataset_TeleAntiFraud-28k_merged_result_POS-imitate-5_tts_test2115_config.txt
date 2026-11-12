@@ -1,0 +1,12 @@
+Speaker2: Hello, are you little king?
+Speaker1: Yes, it's me.
+Speaker2: Hi, I'm the property manager of the community, can you tell me if your electricity bill for this month has been paid yet?
+Speaker1: Hey, I've been busy lately and forgot to pay. Can you check how much I owe?
+Speaker2: Okay, just a moment. Your family's electricity bill this month is 360 yuan, and the water bill is 85 yuan.
+Speaker1: Okay, I know. I'm going to the trade tonight.
+Speaker2: Okay, you can directly go to the property office to pay, or you can pay through our WeChat public account.
+Speaker1: WeChat public account payment is convenient, I will use this method.
+Speaker2: Okay, paying through WeChat public account is very convenient. Follow our public account and you'll find the payment entrance.
+Speaker1: Okay, thank you for your reminder.
+Speaker2: No problem, feel free to contact me anytime. Goodbye.
+Speaker1: Goodbye.

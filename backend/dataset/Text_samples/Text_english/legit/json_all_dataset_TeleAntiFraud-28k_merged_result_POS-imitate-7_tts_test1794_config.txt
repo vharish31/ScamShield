@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the Qingyun Jiaoju Service Center. I see your needs. Do you need household services?
+Speaker2: Yeah, I want to find an aunt to help clean.
+Speaker1: Okay, do you need long-term or short-term service?
+Speaker2: I want to try a short-term one first to see how it works.
+Speaker1: Understood, we have an experienced aunt here who can provide high-quality service. What's your convenient time?
+Speaker2: Is this weekend okay?
+Speaker1: Sure, I'll arrange it for you. For the weekend, Auntie will come at nine in the morning. Would you like to go?
+Speaker2: 9 o'clock is okay, so how many small hours do we need?
+Speaker1: Based on your home situation, it usually takes about 3 to 4 hours to complete. If you need a more detailed cleaning, it may take a little longer.
+Speaker2: Okay, let's do it the way you said, thank you.
+Speaker1: No problem, I will send you detailed information to your phone, if you have any questions you can contact us anytime. Have a great weekend!

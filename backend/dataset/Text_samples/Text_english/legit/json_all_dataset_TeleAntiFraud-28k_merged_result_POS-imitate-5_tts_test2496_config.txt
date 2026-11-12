@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I see that you can make an appointment for a haircut here, I want to know more about it.
+Speaker2: Sure, what kind of service do you need? Regular haircut or special service?
+Speaker1: A normal hairstyle is enough. How long is your business hours?
+Speaker2: We open at 9 am and close at 8 pm.
+Speaker1: Can I schedule an appointment for tomorrow afternoon at two o'clock?
+Speaker2: Sure, I have a two o'clock slot tomorrow afternoon. Do you need me to book it for you?
+Speaker1: Okay, can you help me make a reservation?
+Speaker2: Okay, the reservation was successful. Tomorrow afternoon at two o'clock, please arrive ten minutes in advance.
+Speaker1: I know, thank you.
+Speaker2: No problem, feel free to contact us anytime if you have any questions. Goodbye!

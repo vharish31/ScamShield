@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I saw your rental information for your house in Five Eight City, and I want to ask a few questions.
+Speaker2: Hello, no problem, do you have any specific questions?
+Speaker1: Can you tell me the specific location of the house and how much is the rent?
+Speaker2: The house is located in the sunshine community, the rent is 2500 yuan per month, and the water, electricity, and gas are separately charged.
+Speaker1: How many rooms and halls are there in that house?
+Speaker2: It's a one-room, one-living-room apartment with an independent bathroom.
+Speaker1: Is the traffic around that house convenient?
+Speaker2: It's quite convenient. There's a bus station nearby. It's about a ten-minute walk from the subway station.
+Speaker1: Okay, can I go take a look at the house?
+Speaker2: Sure, when do you have time? I have time this weekend.
+Speaker1: Is three o'clock on Saturday afternoon okay?
+Speaker2: Sure, I'll meet you at three o'clock on Saturday afternoon.

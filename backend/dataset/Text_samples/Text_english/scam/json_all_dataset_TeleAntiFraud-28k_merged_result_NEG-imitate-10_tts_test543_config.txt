@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li Wei?
+Speaker2: Yes, who are you?
+Speaker1: Hello, I am the manager of the Longjiang Bank, recently we have launched a low interest loan product, do you have any interest in learning more about it?
+Speaker2: Hey, do you want a loan? I'm doing okay right now, no need for the time being.
+Speaker1: That's great, but what if there's a need in the future? You can consider it then. By the way, you can check the details of our product on our official website. Do you mind if I send you a link?
+Speaker2: Sure, tell me what the link is.
+Speaker1: Okay, wait a minute, I'll send you a text message. By the way, if you have any questions, you can directly add my WeChat, which is convenient for future consultation.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: My WeChat number is 1861022320, please add me and note down your name for easy identity verification.
+Speaker2: Okay, I noted it down, thank you.

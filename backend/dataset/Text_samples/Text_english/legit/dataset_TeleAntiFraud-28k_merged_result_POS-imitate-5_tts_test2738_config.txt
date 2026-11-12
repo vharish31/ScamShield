@@ -1,0 +1,10 @@
+Speaker1: Have any new phones come out recently?
+Speaker2: Hey, a new phone has recently come out, it's a new brand model, the performance has greatly improved.
+Speaker1: What is the price of this phone?
+Speaker2: This phone has different versions priced from 3,000 to 5,000 yuan, depending on your chosen configuration.
+Speaker1: Oh, I look at my budget. What are the colors for this phone that I can choose from?
+Speaker2: This phone comes in black, white, and blue, you can choose based on your preference.
+Speaker1: Sure, can I take a look at the real thing in your store?
+Speaker2: Of course, our store is on the third floor of the electronic city in the city center, you can come anytime.
+Speaker1: Okay, thank you. I'll go take a look this weekend.
+Speaker2: No problem, see you this weekend. I hope you can find a satisfying phone. Bye.

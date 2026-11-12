@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me if you have any job positions that suit my work experience?
+Speaker2: Of course, what was your previous work experience?
+Speaker1: I used to work as a salesperson and manager in a children's decor store.
+Speaker2: That's quite suitable, do you want to learn more about it?
+Speaker1: What are the main responsibilities of a sales manager?
+Speaker2: The main responsibility of the sales team is to manage the daily operations, formulate sales strategies, and improve the team's performance.
+Speaker1: The sales manager position sounds good, but I'm not very familiar with it.
+Speaker2: No problem, we can have a detailed chat, take a look at this job position to see if it's suitable for you.
+Speaker1: Okay, when is a convenient time for us to chat?
+Speaker2: What about tomorrow morning at ten? Can we discuss in detail at the company?
+Speaker1: Okay, let's meet at 10 am tomorrow morning.
+Speaker2: Okay, see you tomorrow, be careful on the road.

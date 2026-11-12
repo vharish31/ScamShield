@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Li?
+Speaker2: Hello, I am small Li, what do you want to find me for?
+Speaker1: I'm Little Wang, did we agree to meet at the library this afternoon to review, do you remember?
+Speaker2: Oh, okay, I remember. What time are you going to the library?
+Speaker1: What time do you plan to arrive in the afternoon?
+Speaker2: Let's go at two o'clock, it's a bit far on the way.
+Speaker1: Okay, let's meet at the first floor of the library, it's easier to find there.
+Speaker2: Okay, no problem. Right, did you bring study materials?
+Speaker1: Bringed math and English materials, you too?
+Speaker2: I brought some physical materials too, let's take a look together.

@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Did you just call me?
+Speaker2: Hi, are there any enterprise loan needs on this side of the bank?
+Speaker1: How did you know my phone number?
+Speaker2: We have relevant customer information here, we see that your enterprise matches our loan conditions, so contact us to see if you have a loan need.
+Speaker1: What are the conditions for a loan?
+Speaker2: Our loan conditions are very flexible. As long as you provide some basic enterprise information, you can quickly approve, and the interest rate is also very low.
+Speaker1: How do I know if you guys are a legitimate bank?
+Speaker2: You can search our bank name online or directly come to our bank branch. Our address is some city some district some road some number.
+Speaker1: If I'm not convenient now, can I add a WeChat first, and then contact later if needed?
+Speaker2: Of course, add my WeChat, my WeChat number is 12345, you can contact me anytime.

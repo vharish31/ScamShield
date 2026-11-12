@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you? It seems that you have some issues with the products you recently bought on our platform. We need to handle it for you.
+Speaker2: What problem?
+Speaker1: Your order number is 123456789, we found that this product may have quality issues, to protect your rights, we need to process a return and refund for you.
+Speaker2: Okay, how do we operate it?
+Speaker1: To facilitate the process, please add our customer service specialist's WeChat first, he will guide you through the refund process.
+Speaker2: Can I add?
+Speaker1: Of course, our customer service specialist's WeChat number is abc123456. Add it and let me know, and we will quickly process it for you.
+Speaker2: Okay, I'll add up.
+Speaker1: Okay, please let me know once you've added it, and we'll process it quickly. Thank you for your cooperation.
+Speaker2: Okay, thank you.

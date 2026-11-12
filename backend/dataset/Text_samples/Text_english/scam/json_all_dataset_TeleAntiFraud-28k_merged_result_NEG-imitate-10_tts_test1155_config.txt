@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao from Anxin Technology, our company recently launched a great financial product, are you interested in learning more?
+Speaker2: Hello, I currently don't have any financial needs.
+Speaker1: Hey, I highly recommend you to learn more about our product, it guarantees high returns with low risks, and there's currently a newbie discount promotion going on, you'll get a red packet after registering, and our app is easy to use once you download it.
+Speaker2: Okay, I'll think about it.
+Speaker1: That's great! Just consider it and you can contact me anytime, I have a special link here, just click it to download our app.
+Speaker2: Okay, thank you, I will take a look.
+Speaker1: No problem, please feel free to contact me anytime if you have any questions. By the way, for safety reasons, we need you to provide some basic information here, so we can better serve you.
+Speaker2: What do I need to provide then?
+Speaker1: That's your name, phone number, and identity card number. That way we can confirm you are the real operator.
+Speaker2: Okay, I understand, I will consider it.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm almost there, where are you?
+Speaker2: Hey, are you there? I'm waiting at the door for you, did you arrive yet?
+Speaker1: Okay, I'm almost there, don't hang up the phone, I'll call you back when I arrive.
+Speaker2: Okay, okay. I'll call you when you arrive.
+Speaker1: Okay, I'm in the middle lane, can you see me?
+Speaker2: I see you, you're walking towards the middle lane, I'm waiting for you here.
+Speaker1: Okay, I'm here now, you can see this car clearly.
+Speaker2: I see you, just move a little forward, I'll wait for you here.
+Speaker1: Okay, I arrived, I'll give you a call, don't worry.
+Speaker2: Okay, be careful, I'll wait for you here.

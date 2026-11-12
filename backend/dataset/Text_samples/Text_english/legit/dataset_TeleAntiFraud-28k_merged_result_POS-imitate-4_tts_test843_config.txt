@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: What's up? I'm at home.
+Speaker1: Just arrived nearby, want to eat a meal together.
+Speaker2: Hey, where are you? I went over there to find you.
+Speaker1: Can you come over to the Grand Huaxia Mall?
+Speaker2: Sure, wait for me ten minutes, I'll be there soon.
+Speaker1: Okay, I'm waiting for you at the mall entrance.
+Speaker2: Okay, I arrived to call you.
+Speaker1: Okay, I'll find a place and wait for you.
+Speaker2: Okay, see you later.

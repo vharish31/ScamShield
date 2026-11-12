@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the customer manager Li from Huaxia Bank.
+Speaker2: Hello, how are you?
+Speaker1: We noticed you recently have a loan demand, there's now a special opportunity to provide you with a no collateral loan at a very favorable interest rate.
+Speaker2: Is it really? How to apply?
+Speaker1: It's very simple. Just click on the link I sent you and fill out some basic information. Our review team will process it quickly.
+Speaker2: If I pass the review?
+Speaker1: Once approved, we'll immediately give you the loan, the whole process is very quick.
+Speaker2: How do I know you guys are legitimate?
+Speaker1: We are a regular channel of Huaxia Bank, you can query my information through our official website. For convenience, I can also add your WeChat, answer your questions anytime.
+Speaker2: Okay, send me your WeChat.

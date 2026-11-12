@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you still hire people at your home?
+Speaker2: What kind of job are you looking for lately?
+Speaker1: I'm looking for a job nearby home. I see your warehouse is quite close to my home.
+Speaker2: Yes, our warehouse location is quite convenient, but the recruitment for this month has already ended.
+Speaker1: What's next month?
+Speaker2: If there are any vacancies next month, we will start recruiting again, you can contact us later.
+Speaker1: Okay, I'll call you later to ask questions.
+Speaker2: Okay, please leave your contact information. I can notify you directly if there's a vacancy.

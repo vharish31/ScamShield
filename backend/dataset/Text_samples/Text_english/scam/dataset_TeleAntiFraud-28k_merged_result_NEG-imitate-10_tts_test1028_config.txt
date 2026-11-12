@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of the Agricultural Bank's Tianhe Branch, and we have just launched a new loan product. It's interest-free, and the interest rate is discounted. Would you be interested in learning more about it?
+Speaker2: Oh, a loan, I'm a bit short on funds right now, but I'll listen anyway.
+Speaker1: Okay, this loan product is very suitable for cash flow, the application process is very simple, you just need to download our bank's official app, fill in some basic information, and you can quickly apply.
+Speaker2: Do you download the app? Is there any guarantee of safety?
+Speaker1: Of course, our agricultural bank app is very safe, and absolutely will not leak your personal information. For your convenience, I have a special link here, just click it and you can download it directly.
+Speaker2: Okay, let me try.
+Speaker1: Great, click this link: http://example.com, download our app after, remember to fill in the referral code 123456, this way you can enjoy a lower rate.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Thank you very much for your trust. If you encounter any problems during the download process, please feel free to contact me at any time. My phone number is 13800138000.
+Speaker2: Okay, thank you for your help.

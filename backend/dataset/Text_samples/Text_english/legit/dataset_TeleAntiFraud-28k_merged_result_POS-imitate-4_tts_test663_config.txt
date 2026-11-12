@@ -1,0 +1,12 @@
+Speaker1: Hello, you.
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you introduce me to your hair service?
+Speaker2: Of course, we have hair cutting, hair dyeing, and hair styling services here, as well as professional hair stylists providing personalized hair style designs.
+Speaker1: Okay, I want to make a haircut appointment, how much does it cost approximately?
+Speaker2: The price of haircuts varies depending on the complexity of the style, usually between 100 to 200 yuan. Do you have a specific style in mind?
+Speaker1: I want to cut a short hair, clean and fresh.
+Speaker2: Okay, for short haircuts, our stylist will design a suitable style based on your face shape and requirements. Approximately 150 yuan.
+Speaker1: Can I come over when it sounds good?
+Speaker2: Is three in the afternoon convenient for you? There are fewer people at this time, so you can enjoy a more comfortable environment.
+Speaker1: I can make it at three in the afternoon tomorrow, so I booked it.
+Speaker2: Okay, I have already booked a haircut appointment for you tomorrow at 3 pm. See you then. Wish you a happy day!

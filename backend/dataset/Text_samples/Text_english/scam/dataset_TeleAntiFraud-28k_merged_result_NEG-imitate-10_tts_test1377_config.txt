@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager from Huaxia Bank, named Li Wen, have you recently considered applying for our low interest loan?
+Speaker2: Hello, I don't need a loan.
+Speaker1: Oh, this way, this loan product is very suitable for friends who have a need for cash flow, the operation is simple, the repayment speed is fast, and the interest rate is very favorable.
+Speaker2: I don't need it.
+Speaker1: Okay, to make it easier for you to understand in detail, I'll add you on WeChat and send you the materials to take a look, if you have any questions you can directly contact me on WeChat.
+Speaker2: I don't add WeChat either, really not necessary.
+Speaker1: Okay, I understand your concerns. But if you have any financial needs, you can contact me anytime, this is my contact information, you can call if needed.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you a happy life. If you have any financial service needs in the future, remember to find me. Bye.
+Speaker2: Goodbye.

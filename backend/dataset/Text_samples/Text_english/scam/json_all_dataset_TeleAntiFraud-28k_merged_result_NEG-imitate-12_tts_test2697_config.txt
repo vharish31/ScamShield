@@ -1,0 +1,12 @@
+Speaker1: Hey, are you Zhang Zong?
+Speaker2: Yes, I just am.
+Speaker1: I am the client manager of China Construction Bank, we have a special loan service that is suitable for your enterprise.
+Speaker2: Uh, is that so? What conditions?
+Speaker1: Based on our assessment, your enterprise meets the conditions, and you can apply for a one hundred and eighty thousand enterprise loan.
+Speaker2: How do I apply?
+Speaker1: It's simple. Just download our bank app and fill out the relevant information to complete the application.
+Speaker2: Is the app safe to download?
+Speaker1: Of course, our bank's app is certified by the government, very safe. You can rest assured using it.
+Speaker2: Okay, let me try.
+Speaker1: Great, after downloading, if you have any issues, feel free to contact me anytime. My phone number is 13588888888.
+Speaker2: Okay, thank you.

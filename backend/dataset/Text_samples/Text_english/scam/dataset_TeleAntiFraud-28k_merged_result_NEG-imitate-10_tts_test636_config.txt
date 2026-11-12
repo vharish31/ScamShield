@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Yes, hello, who are you?
+Speaker1: Hi, I'm Wang, the customer service representative for Speedy Express. We found out that you accidentally lost a package during transportation. To compensate for your loss, we need to guide you through the refund process.
+Speaker2: Really? That's too troublesome for you guys.
+Speaker1: No problem, this is what we should do. Please click on the link I sent to you and then follow the instructions.
+Speaker2: Okay, I'll go take a look.
+Speaker1: Okay, you can contact me anytime if you encounter any issues during your operation process.
+Speaker2: Is there a problem with the link not opening?
+Speaker1: It might be a network issue. You can try refreshing or waiting and trying again. If it still doesn't work, you can download our official app, which is more secure and convenient to use through the app.
+Speaker2: Okay, I'll try downloading the app.

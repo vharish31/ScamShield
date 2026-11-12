@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me?
+Speaker1: I am a customer service representative for an e-commerce platform. You have a large amount of shopping points on your account that are about to expire, and you haven't used them yet. Do you need help?
+Speaker2: Oh, my points expired? How did I miss it?
+Speaker1: Yes, your points will be cleared at midnight tonight, you can exchange these points for a product worth 4,000 yuan.
+Speaker2: Okay, let me check my text message, how do I exchange it?
+Speaker1: Okay, there's a detailed exchange link in the text message. Just click on it and you can operate it.
+Speaker2: Okay, I'll go take a look. Is there anything else to pay attention to?
+Speaker1: No problem, just complete the exchange before 12 pm. If there are any issues, feel free to contact me.
+Speaker2: Okay, thank you for your reminder.

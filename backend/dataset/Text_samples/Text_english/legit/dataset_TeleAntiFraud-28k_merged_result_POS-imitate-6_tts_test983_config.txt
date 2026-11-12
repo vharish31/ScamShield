@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, want to ask if your store has this sports shoe?
+Speaker2: Hello little Zhang, do we have this running shoe here? What information do you want to know?
+Speaker1: What is the size and price of this shoe, do you have any activities?
+Speaker2: These sports shoes come in sizes from 36 to 45, priced at ¥399, and there's currently a buy-one-get-one promotion, making it very cost-effective.
+Speaker1: Wow, that's great! I need two pairs, can I join this activity?
+Speaker2: Of course, if you decide to buy, you can directly come to the store, which is located at No. 100, Jingming Road. We can also place an order online.
+Speaker1: Okay, I plan to go to your store this afternoon around three o'clock, is that okay?
+Speaker2: Okay, our store opens at nine in the morning and closes at nine in the evening, exactly three in the afternoon. Just come over at that time.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you later, I hope you can choose comfortable shoes.

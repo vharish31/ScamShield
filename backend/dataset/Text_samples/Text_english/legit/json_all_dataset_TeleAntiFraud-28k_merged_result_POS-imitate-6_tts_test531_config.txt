@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me your restaurant's business hours?
+Speaker2: Our restaurant business hours are from 10 am to 10 pm, on weekends they will be extended to 11 pm.
+Speaker1: Do you have a place at your restaurant now?
+Speaker2: Is there any available seat for you and your group to dine?
+Speaker1: We are three people.
+Speaker2: Okay, there's a table for three, you can come directly over.
+Speaker1: Do we need to book in advance for about half an hour later?
+Speaker2: You don't need to wait, just come directly and we'll save your spot.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: Is there anything going on?
+Speaker1: I just arrived at your community gate, your package delivery arrived.
+Speaker2: Okay, I'll go get it.
+Speaker1: Okay, I'm waiting for you at the door.
+Speaker2: I'll put on a mask and go down.
+Speaker1: Hey, the weather forecast says it might rain today, remember to bring an umbrella.
+Speaker2: I know, thank you for reminding me.
+Speaker1: No problem, just come down quickly.
+Speaker2: Okay, come right away.

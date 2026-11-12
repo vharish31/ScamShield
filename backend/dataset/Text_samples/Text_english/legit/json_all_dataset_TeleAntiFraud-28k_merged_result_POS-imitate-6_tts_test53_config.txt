@@ -1,0 +1,10 @@
+Speaker1: Hey, are you out yet?
+Speaker2: Hey, just got out the door, where are you?
+Speaker1: I'm at the exit of the subway station, come over here, it's better to find it here.
+Speaker2: Okay, I'll go now, about five minutes.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Are you wearing blue clothes?
+Speaker1: Yes, I'm wearing a blue suit, very easy to find.
+Speaker2: I see, I'm going there right away.
+Speaker1: Okay, be careful.
+Speaker2: I know, see you later.

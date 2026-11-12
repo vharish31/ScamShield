@@ -1,0 +1,11 @@
+Speaker1: Hello, I'm Zhang Qiang.
+Speaker2: Hello, who are you?
+Speaker1: Hey, it's me, your old classmate. How have you been lately?
+Speaker2: Hey, Zhang Qiang, long time no see, I'm doing great, how about you?
+Speaker1: I'm doing well, lately I have some free time and money, I heard there's a good investment opportunity with high returns, do you want to make some quick money together?
+Speaker2: Invest in finance? It sounds good, what project?
+Speaker1: It's an online investment platform with a professional team managing it. The risk is low and the returns are stable. If you're interested, I can send you a link to register an account and try it out.
+Speaker2: Can you send me the link? Is it safe?
+Speaker1: It's absolutely safe, many of our colleagues and friends are already using it and have earned a lot. If you're not sure, just try a small amount first, no problem.
+Speaker2: Okay, send me the link, I'll take a look.
+Speaker1: Okay, I'll send it to you now. Just remember to register after you receive it, and feel free to contact me if you have any questions.

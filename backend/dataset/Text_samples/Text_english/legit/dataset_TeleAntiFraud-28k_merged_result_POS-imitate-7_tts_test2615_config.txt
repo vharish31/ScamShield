@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little king, I just booked an appointment for tomorrow morning at 10 am on your website, can you confirm the time?
+Speaker2: Hello, Mr. Wang, I am customer service Li, your appointment time is tomorrow morning at 10 o'clock, this time is correct, we will reserve this time slot for you.
+Speaker1: Okay, can I just go directly tomorrow?
+Speaker2: Yes, you can go directly to the store tomorrow. After you arrive, tell the front desk your name, and we will arrange it for you.
+Speaker1: What would happen if I was late?
+Speaker2: If you're late, we'll do our best to keep the appointment, but if you're more than thirty minutes late, it might be cancelled and you'll have to rebook.
+Speaker1: Understood, so I'll try to arrive on time. Oh, what hairstylist did you book?
+Speaker2: You have an appointment with senior hair stylist Liu, who has many years of experience and is very skilled.
+Speaker1: Great, I can relax now. Thank you for your help. Bye.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy day, goodbye.

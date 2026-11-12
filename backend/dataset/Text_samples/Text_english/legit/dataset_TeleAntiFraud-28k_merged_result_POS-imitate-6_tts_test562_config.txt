@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: What service do you want to consult?
+Speaker2: Hey, can you consult me about your hairdressing service, do you have any discount activities recently?
+Speaker1: Okay, we have a recent haircut package deal, originally priced at two hundred yuan, now only one hundred fifty yuan including cut, wash, and style.
+Speaker2: Can I make a reservation for this weekend?
+Speaker1: Is Saturday or Sunday more convenient for you?
+Speaker2: Is it okay to meet on Sunday morning at 10 am?
+Speaker1: On Sunday at 10 am, I have booked an appointment for you.
+Speaker2: Okay, thank you. And do you have a parking spot there?
+Speaker1: Yes, we have a small parking lot behind the store, which is free to park.
+Speaker2: That's great, thank you for your help.
+Speaker1: No problem, you can contact me anytime if you have any questions. See you this weekend!
+Speaker2: Okay, see you this weekend, goodbye.

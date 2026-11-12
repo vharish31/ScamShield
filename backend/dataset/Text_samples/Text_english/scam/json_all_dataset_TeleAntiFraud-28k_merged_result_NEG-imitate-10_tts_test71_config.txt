@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, currently working at XX bank. We have a really good loan project, want to know more about it?
+Speaker2: Hello, loan? I'm a bit short on cash right now, but what's the specific situation?
+Speaker1: This is the case, we this time is targeting local residents, provide no deposit loan service, the maximum amount can reach 30,000, and the interest rate is very low, only 2%.
+Speaker2: How do I apply for it?
+Speaker1: It's very simple. Just download our XX loan app, fill out some basic info, and we'll have a specialist contact you to explain the whole process in detail.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, our app is officially certified, you can directly search and download it in the app store, very convenient.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues after downloading, feel free to contact me. My phone number is 12345678901. Best wishes for your success.
+Speaker2: Thank you, I will contact you.

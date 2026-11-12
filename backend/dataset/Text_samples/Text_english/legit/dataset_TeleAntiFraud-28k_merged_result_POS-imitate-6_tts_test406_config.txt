@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, do you have anything?
+Speaker1: Hello, I am a customer service representative from some e-commerce platform. I see that you have a lot of unused shopping points on your account, they will be cleared at midnight tonight.
+Speaker2: Oh, really? I didn't notice that.
+Speaker1: Yes, these points can be redeemed for a lot of money, approximately saving 4,000 yuan.
+Speaker2: Is it really? Then how can I check my score?
+Speaker1: You can log in to our platform and enter the personal center to view. Or you can directly click on the link I just sent you, and directly view and exchange.
+Speaker2: Okay, I'll go take a look right away.
+Speaker1: Okay, feel free to contact me if you have any questions. Don't forget, it's 12 am tonight.
+Speaker2: Thank you for reminding me, I will handle it quickly.

@@ -1,0 +1,8 @@
+Speaker1: Hello, I'm delivering food, where do you live?
+Speaker2: Hello, I live in building three, unit two, apartment number one zero two.
+Speaker1: Okay, I see a building number 3, but there are several buildings number 3, can you be more specific?
+Speaker2: Oh, you came from the community gate, walked straight to the bottom, the second building on the left is.
+Speaker1: Okay, I found it. So, what floor are you on?
+Speaker2: 1st floor, door number is one zero two.
+Speaker1: Okay, I'll come over now, can you wait for a minute?
+Speaker2: Okay, I'll wait for you.

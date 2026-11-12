@@ -1,0 +1,9 @@
+Speaker2: Hello, I'm in the wealth tower near you, I can't find your location, can you see my position?
+Speaker1: I can't see your location. Maybe it's because we're using different map software.
+Speaker2: What should I do now? I'm standing at the entrance of the Finance Building.
+Speaker1: Wait a minute, I'll take a look around the front of the building.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Can you see me? I'm wearing a blue shirt.
+Speaker2: I see you, I'll be right there.
+Speaker1: Okay, let's meet at the front of the building.
+Speaker2: Okay, see you later.

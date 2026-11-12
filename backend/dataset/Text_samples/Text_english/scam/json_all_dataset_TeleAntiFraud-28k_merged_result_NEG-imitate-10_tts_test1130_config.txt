@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? I am the client manager of Huaxing Bank, Li. We noticed that you have recently had a loan requirement, right?
+Speaker2: Yes, I recently do need some cash flow.
+Speaker1: Great, we have a no-collateral loan product that can be quickly approved. You just need to provide some basic information, and we can evaluate your loan amount.
+Speaker2: Listen well, what do you need me to do?
+Speaker1: First, you need to download our bank's official app, then register an account and fill in the relevant information.
+Speaker2: Okay, I'll go download it now.
+Speaker1: After downloading, you can directly submit a loan application in the app, and if there are any issues, you can contact me anytime.
+Speaker2: Okay, I'll contact you after I download it. Thank you, Li.

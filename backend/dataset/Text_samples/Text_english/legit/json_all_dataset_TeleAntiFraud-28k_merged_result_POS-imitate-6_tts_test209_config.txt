@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm planning to go to the library on your side tomorrow, I heard that the bus route has been adjusted recently, can you confirm the latest bus route for me?
+Speaker2: Hey, how are you? Is there anything wrong? Where are you planning to start? I know there have been some route changes recently, but it depends on where you're starting from.
+Speaker1: Can I get to the library around 5 o'clock by taking a car from the train station?
+Speaker2: From the train station, you can take bus 306, which runs every 15 minutes, from 6 am to 8 pm.
+Speaker1: Is the bus 306 a direct one or do I need to transfer?
+Speaker2: Take bus 306 directly to the library. No need to transfer. It takes about 40 minutes on the road because there are several stops along the way.
+Speaker1: Should I leave at nine in the morning to arrive on time?
+Speaker2: You should arrive at the library on time if you leave at 9 am. The road should not be congested, and you should have enough time.
+Speaker1: What time does the library open?
+Speaker2: The library opens at 9:30 in the morning, so you can just make it if you're in a hurry. If there's an emergency, you can also call ahead to ask for advice.

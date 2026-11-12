@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw a blue self-bike in your store, can you tell me the specific price and model?
+Speaker2: Hello, can you tell me the specific model and price of the blue self-driving bike? We have multiple different models here.
+Speaker1: That's the one on display at the door, looks pretty new.
+Speaker2: Ah, you see our latest city bike model, City Explorer, priced at 1500 yuan.
+Speaker1: What special features does this bike model have?
+Speaker2: This bike comes equipped with anti-slip tires, suitable for various road surfaces, also has front and rear lights, safer nighttime riding, and a phone mount for easy navigation.
+Speaker1: Does the store have any discounts now?
+Speaker2: You can enjoy a 90% discount when buying now, and you'll also get a free helmet.
+Speaker1: That's great, I'll check out some places this weekend, can you reserve a car for me?
+Speaker2: Okay, I'll reserve a bike for you, you can try it out this weekend when you come.

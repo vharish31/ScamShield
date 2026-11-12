@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from some platform. We recently noticed some issues with the products you purchased on our platform and need to confirm with you.
+Speaker2: Hello, do you have any questions?
+Speaker1: Is that right, we noticed that the products you bought may have experienced shipping delays, do you want us to apply express service for you?
+Speaker2: Do you need to pay extra for urgent service?
+Speaker1: Express service is free of extra charge, we will prioritize your order and ensure timely delivery.
+Speaker2: Okay, can you help me handle it?
+Speaker1: No problem, I will immediately process it for you. Additionally, we have a small issue that needs to be confirmed, is your delivery address correct?
+Speaker2: The address should be fine, you can double check it.
+Speaker1: Okay, I'll check it right away. If everything goes smoothly, your order should be delivered within two days.
+Speaker2: Okay, thank you for your help.

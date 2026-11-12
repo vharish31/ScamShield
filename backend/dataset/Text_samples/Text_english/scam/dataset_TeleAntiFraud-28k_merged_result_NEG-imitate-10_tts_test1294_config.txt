@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer manager of China Construction Bank, Lee Huai.
+Speaker2: Hello, say something.
+Speaker1: That's right, we noticed you are one of our bank's VIP customers, so we specially prepared a low-interest loan for you with a loan amount of up to 50,000 yuan and an annual interest rate of only 0.02%.
+Speaker2: "Hmm, that sounds good, but I don't need money lately."
+Speaker1: That's really too bad, this kind of discount is not often available. Why don't you add my WeChat first, so you can contact me directly whenever you need, very convenient.
+Speaker2: Okay, let me add you on WeChat.
+Speaker1: Great, my WeChat number is CHINABANKER123. Add me and I'll send you some detailed info.
+Speaker2: Okay, I understand.
+Speaker1: Thank you again for your trust, please contact me anytime if you have any questions.
+Speaker2: Okay, bye.

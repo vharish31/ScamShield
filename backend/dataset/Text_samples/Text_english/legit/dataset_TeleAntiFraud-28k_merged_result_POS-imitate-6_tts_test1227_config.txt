@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is some restaurant. Do you have any suggestions for the dining experience of the last time?
+Speaker2: Hello, the dining experience was quite good last time, just the spicy red meat was a bit too sweet.
+Speaker1: Thank you very much for your feedback. We will adjust the sweetness of the red meat. Can we prepare some new dishes for you next time?
+Speaker2: Okay, next time can you try your new dishes?
+Speaker1: Great, we'll save a few special new dishes for you. Okay, can you tell us roughly when you'll come next time?
+Speaker2: Let's plan for this weekend, I'll confirm the specific time later.
+Speaker1: Would you like to reserve seats in advance for the weekend next week?
+Speaker2: It's best to reserve a window seat.
+Speaker1: Okay, I'll reserve the spot by the window for you. Are there any other special arrangements needed?
+Speaker2: No longer available, thank you.
+Speaker1: You're welcome, looking forward to your next visit, wish you a happy day.

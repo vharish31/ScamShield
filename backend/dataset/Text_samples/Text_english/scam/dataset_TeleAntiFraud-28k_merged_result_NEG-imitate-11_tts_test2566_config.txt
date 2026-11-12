@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer manager of the Agricultural Bank, Tianhe Branch. Recently, we have a new investment project for high-quality customers, with very attractive returns. Would you be interested in learning more about it?
+Speaker2: Hello, I recently have some spare money, can you give me some information about this project?
+Speaker1: Great, this project is perfect for you. To ensure your financial safety, I need you to provide some personal information first, such as your ID number and bank account, so we can conduct a risk assessment.
+Speaker2: What should I do now?
+Speaker1: You can directly tell me or click on the link I sent you and fill out the relevant information online.
+Speaker2: Okay, what link do I need to click?
+Speaker1: Please wait, I will send it to you soon. Click on the link and follow the instructions to complete the information filling.
+Speaker2: Okay, I'll send you the link.
+Speaker1: Okay, the link has been sent to your phone. Please check it out.
+Speaker2: I got it, I'll take a look right away. Thank you.
+Speaker1: No problem, you can contact me anytime if you have any questions.

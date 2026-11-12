@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, recently I bought a piece of clothing from your store and there's a little problem, I want to consult it a bit
+Speaker2: Hello, I am customer service representative Li, what issues can I help you with?
+Speaker1: That's great, my clothes size seems a bit small, can I exchange it for a bigger one?
+Speaker2: Sure, we support seven-day no-reason returns. Just send the clothes back to us and provide the order number and new size requirements.
+Speaker1: Okay, who will bear the shipping cost?
+Speaker2: If the reason for the return is due to an incorrect size, the shipping cost will be borne by us. You just need to send the clothes back, and we will handle the rest.
+Speaker1: Great, I'll be ready now, how long will it take to receive the new clothes?
+Speaker2: In general, we process refunds within two to three business days after receiving them, and the new clothes are sent out via express within three to five days, which can be delivered within that time frame.
+Speaker1: I understand, thank you for your help, so I'll go mail it back now.
+Speaker2: You're welcome. If you have any other questions, feel free to contact us anytime. Have a nice life, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I'm in XX apartment complex, have you arrived yet?
+Speaker2: Hello, little Zhang, I just arrived at the gate, did you see me?
+Speaker1: Which door, there are several doors here, I can't find.
+Speaker2: I'm at the small pavilion on the left side of the gate when you come out of the community.
+Speaker1: Okay, I'll go out now, you wait for me a moment.
+Speaker2: Okay, I'm waiting for you here. Hurry up, it's a bit cold today.
+Speaker1: I understand, I'm coming now.
+Speaker2: You came out, I saw you.
+Speaker1: Did you see me just now?
+Speaker2: Okay, come quickly, my car can't stop for long.

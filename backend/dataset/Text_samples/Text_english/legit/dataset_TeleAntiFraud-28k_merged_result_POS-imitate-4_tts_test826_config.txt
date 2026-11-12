@@ -1,0 +1,9 @@
+Speaker1: Hi, how are you? I'm little Li, the customer service of the point store. We noticed that you haven't used your points yet. Tonight at twelve o'clock, all the points will expire. Do you know this situation?
+Speaker2: Oh, really? I didn't notice.
+Speaker1: Yes, points can be directly deducted from cash. Your account currently has over 18,000 points, which can be exchanged for a variety of products, such as white wine gift boxes, brand-name suits, high-definition TVs, and smartwatches.
+Speaker2: Sounds good, I gotta hurry and take a look.
+Speaker1: If you exchange products today, I can help you apply for a special privilege, keeping the remaining points in your account, and also giving you an extra gift bag with free return service.
+Speaker2: Great, I'll go pick it up now.
+Speaker1: Okay, please let me know when you've made your choice, and I'll process it for you.
+Speaker2: Okay, thank you for your reminder, little Li.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Have a great shopping!

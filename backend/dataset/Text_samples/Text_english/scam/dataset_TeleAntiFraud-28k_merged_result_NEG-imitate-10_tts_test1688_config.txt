@@ -1,0 +1,10 @@
+Speaker1: Hello, you, this is the Public Security Bureau of Shenzhen City, I am Officer Lee Huai.
+Speaker2: Hello, do you have anything?
+Speaker1: We received a report that your bank card may have been involved in illegal transactions, and we need your cooperation for investigation.
+Speaker2: Really? Then what should I do?
+Speaker1: For your safety, we need you to temporarily transfer the funds in your card to a safe account, and we will fully refund you after the investigation is clear.
+Speaker2: How do I transfer?
+Speaker1: You can log in to our official website, click on the safe center, follow the instructions to complete the transfer.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Sure, can I add your WeChat?
+Speaker2: Sure, I'll add you.

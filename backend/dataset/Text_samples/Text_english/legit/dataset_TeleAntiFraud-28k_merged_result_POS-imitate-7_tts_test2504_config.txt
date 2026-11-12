@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to know more about your restaurant's special dishes.
+Speaker2: Hello, our restaurant special dishes include red braised pork head, steamed fish with clear broth and gong bao chicken, each dish is carefully made by our chef.
+Speaker1: Can you tell me how much these dishes cost?
+Speaker2: The price of a steamed lion's head is 68 yuan per portion, steamed fish is priced according to size, around 120 to 160 yuan per portion, and palace vegetable chicken is 45 yuan.
+Speaker1: Can you tell me if your restaurant has private rooms?
+Speaker2: Yes, we have several rooms of different sizes that you can book according to your needs.
+Speaker1: Can I reserve a five-person room on the left or right for tonight at seven o'clock?
+Speaker2: Okay, your private room for tonight at seven o'clock has been reserved for you.
+Speaker1: Thanks for your help.
+Speaker2: You're welcome. If you have any other needs, please contact us anytime. We're looking forward to your visit!

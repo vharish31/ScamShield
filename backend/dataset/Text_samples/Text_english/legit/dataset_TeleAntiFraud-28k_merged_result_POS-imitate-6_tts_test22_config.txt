@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the small Ming clinic?
+Speaker2: Hello, this is Xiaoming Clinic, what can I help you with?
+Speaker1: Can I book a room today to see if I can come over? I've been feeling sick lately.
+Speaker2: Okay, we still have a number source today. Can you come over? Is it more convenient in the morning or the afternoon?
+Speaker1: I can come in the morning around ten o'clock.
+Speaker2: Okay, we'll book you an appointment for 10 am. Remember to bring your ID and health insurance card when you come.
+Speaker1: Okay, thank you.
+Speaker2: No problem, if you have any other questions, please contact us anytime. Wish you a speedy recovery.
+Speaker1: Thank you, I'll come over later. Goodbye.
+Speaker2: Bye, be careful on the road.

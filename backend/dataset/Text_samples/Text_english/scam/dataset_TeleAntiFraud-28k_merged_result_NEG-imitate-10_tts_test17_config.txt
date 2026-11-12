@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Ming?
+Speaker2: Yes, who are you?
+Speaker1: I am the customer service manager of Agricultural and Commercial Bank, we noticed that you have previously inquired about loan information, we have a special promotion loan project, would you like to know more?
+Speaker2: Oh, really? I really need some cash flow recently.
+Speaker1: Yes, we have a very low interest rate, and the approval is very fast, no need for collateral. You only need to provide some basic personal information, and we can process it immediately.
+Speaker2: What do I need to do?
+Speaker1: Okay, just click this link and fill out the application form, we'll quickly review it.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much! If you have any questions, please feel free to contact me anytime. My WeChat is 13812345678.
+Speaker2: Okay, thank you.

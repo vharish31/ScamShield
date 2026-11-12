@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little king, want to consult your shop's delivery service.
+Speaker2: Hello, Little Wang, this is a delicious restaurant. What can I help you with?
+Speaker1: Do you have a vegetarian set meal, and how much does it cost?
+Speaker2: We have a vegetarian set meal, priced at 30 yuan, including three dishes and one soup, all freshly made.
+Speaker1: Can you start sending food at around 7 o'clock?
+Speaker2: We provide delivery service from 11 am to 9 pm every day. You can place an order at any time.
+Speaker1: Okay, I want to order a vegetarian set meal at one o'clock in the afternoon and have it delivered to Yangguang Xiǎojīng.
+Speaker2: Okay, your order has been recorded. We will deliver it on time to Yangguang Xiǎojī. Do you need to leave a phone number?
+Speaker1: Please, my phone number is 555-0000.
+Speaker2: Okay, 5:55 PM, we will contact you in advance to confirm delivery time. Is there anything else we can help with?
+Speaker1: No longer available, thank you.
+Speaker2: No problem, thank you for your order, enjoy your meal, goodbye!

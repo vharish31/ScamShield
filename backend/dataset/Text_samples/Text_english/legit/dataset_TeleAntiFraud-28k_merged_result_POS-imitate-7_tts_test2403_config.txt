@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Ming, can I pick up the cake I ordered yesterday at your store today?
+Speaker2: Hello, little Ming, wait a moment, I'll check your order.
+Speaker1: Okay, can you help me?
+Speaker2: Found it, your cake is ready now, you can take it anytime.
+Speaker1: Great, I'll be there in about half an hour.
+Speaker2: Okay, we'll keep your cake here, come get it later.
+Speaker1: Is the writing on the cake correct?
+Speaker2: You ordered a cake with "生日快乐" written on it, that's correct.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you later, be careful on the road.

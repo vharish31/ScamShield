@@ -1,0 +1,10 @@
+Speaker1: Hey, how come my takeout hasn't arrived yet?
+Speaker2: Hello, where are you delivering the food?
+Speaker1: I'm in building three, right next to that little park.
+Speaker2: Okay, I'll check your order, just a moment.
+Speaker1: Okay, can you help me?
+Speaker2: I found it, your takeout is on the road, estimated time of arrival is about ten minutes left or right.
+Speaker1: Where should I go to get it?
+Speaker2: You can directly go to the door of the community and the delivery person will contact you.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, feel free to contact us anytime if you have other questions.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the property service of the Spring Flower Community, have you noticed any garbage pile-up issues on the staircases recently?
+Speaker2: Hmm, I noticed that there are quite a few, sometimes there's an odd taste.
+Speaker1: So, we plan to have a comprehensive cleaning session on Monday. Could you confirm if you were at home on that day so we can proceed with the cleaning work?
+Speaker2: I could stay at home that day.
+Speaker1: Okay, we'll be at the door between 9 and 10 in the morning. If there are any areas that need to be cleaned, you can let us know in advance.
+Speaker2: Okay, I'll clean up first. Alright, will you help carry away the trash after you clean up?
+Speaker1: We will be responsible for taking out all the trash and ensuring the cleanliness of the corridor.
+Speaker2: That's great, thank you for your service.
+Speaker1: No problem, this is what we should do. If there are other places that need help, please contact us anytime.
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye.

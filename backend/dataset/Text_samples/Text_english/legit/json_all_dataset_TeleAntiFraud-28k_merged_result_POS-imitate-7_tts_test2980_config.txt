@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have a vegetarian set menu at your restaurant?
+Speaker2: Yes, we have several different vegetable dishes here, all freshly made, you can choose according to your taste.
+Speaker1: What are your business hours?
+Speaker2: We open the door at ten in the morning and close it at nine in the evening. On weekends, we slightly extend the time.
+Speaker1: Can I reserve a seat for around seven o'clock tonight?
+Speaker2: Of course, do you want to reserve a few seats for yourself?
+Speaker1: Thanks for two.
+Speaker2: Okay, I have reserved a 7:00 AM two-person seat for you. Just come directly when it's time.
+Speaker1: Thanks for your help.
+Speaker2: Please come soon.

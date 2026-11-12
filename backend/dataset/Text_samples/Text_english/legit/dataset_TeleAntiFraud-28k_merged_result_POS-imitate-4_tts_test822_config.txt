@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, can I reserve a seat for tomorrow's lunchtime here?
+Speaker2: Is it okay? How many seats would you like to reserve?
+Speaker1: We are four, around twelve thirty.
+Speaker2: Okay, what's your name?
+Speaker1: John Smith.
+Speaker2: Okay, Zhang Xiāngshēng, I have reserved a four-seat table for you at noon tomorrow.
+Speaker1: Thanks, and do you have any vegetables at your place?
+Speaker2: Yes, we have a lot of vegetable options here. Do you have any specific taste preferences?
+Speaker1: I just want to eat something light, not too greasy.
+Speaker2: I understand, our stir-fried vegetables and pickled cabbage are both very suitable, you can try.
+Speaker1: Okay, thank you for your recommendation.
+Speaker2: You're welcome. If you have any other questions, feel free to contact me anytime. I'm looking forward to your visit.

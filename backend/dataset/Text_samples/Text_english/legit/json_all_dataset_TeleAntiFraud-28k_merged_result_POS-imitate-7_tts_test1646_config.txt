@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm Lee Huai, I want to consult your hair service.
+Speaker2: Hello, Lee Huai, I am the customer service king of the hair salon, what can I help you with?
+Speaker1: Can you tell me more about your short hair men's set menu and what services are included?
+Speaker2: Our short haircut set includes washing, cutting, drying and a simple style, and also provides free ear cleaning service.
+Speaker1: How much does that suit cost?
+Speaker2: The price for the short-haired man's set meal is 50 yuan. If you're a first-time customer, we also have an additional discount.
+Speaker1: Okay, can I make a reservation for tomorrow afternoon at three o'clock?
+Speaker2: Can I meet you at three in the afternoon tomorrow? Just need to confirm, I'll check the appointment system first.
+Speaker1: Okay, can you help me?
+Speaker2: I have checked and there is an available slot at 3 pm tomorrow afternoon. I have successfully booked an appointment for you. Remember to bring your ID when you go to the store.

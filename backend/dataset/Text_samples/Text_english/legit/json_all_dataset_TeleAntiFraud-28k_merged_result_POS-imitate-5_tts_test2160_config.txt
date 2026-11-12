@@ -1,0 +1,14 @@
+Speaker1: Hi, I'm small Li, I saw your company is recruiting service personnel, I want to know more about the details.
+Speaker2: Hello, little Li, I am recruiter Wang, happy to get your call. We are indeed recruiting servers, what specific do you want to know?
+Speaker1: Can you tell me how many people you need to recruit?
+Speaker2: We plan to hire 5 waiters for this time, no gender restrictions, mainly responsible for restaurant service work.
+Speaker1: What are the requirements for age?
+Speaker2: The age requirement is between eighteen and thirty-five, and those with relevant work experience will be given priority consideration.
+Speaker1: I'm twenty-two years old, I've worked at a western restaurant before, so I should meet your requirements.
+Speaker2: That's great, your conditions match our requirements. You can prepare a resume, we can send it to you via email or WeChat.
+Speaker1: Great, my WeChat is Lili123, you can add me.
+Speaker2: Okay, I'll be there soon. Also, we have an interview at two o'clock tomorrow afternoon, can you come over?
+Speaker1: Tomorrow afternoon I have time, two o'clock is okay.
+Speaker2: Great, our address is 1 Huamei Road. Remember to bring your resume during the interview, and if you have any work certificates, bring them too.
+Speaker1: Okay, thank you, little king, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you all the best.

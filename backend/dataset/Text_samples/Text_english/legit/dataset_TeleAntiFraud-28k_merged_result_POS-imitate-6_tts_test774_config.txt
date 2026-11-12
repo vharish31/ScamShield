@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang, I want to consult your express service.
+Speaker2: Hello, little Zhang, I am a customer service representative of a courier company. Can I help you with anything?
+Speaker1: I want to know when my package will arrive, I placed the order yesterday.
+Speaker2: Sure, can you provide your order number so I can check it here?
+Speaker1: Okay, my order number is one two three four five six seven.
+Speaker2: Okay, I found it. Your package is expected to be delivered tonight before eight o'clock. Are you at home?
+Speaker1: Can you send it earlier in the evening if I'm at home?
+Speaker2: Is that okay? Can we arrange for delivery at 4 pm this afternoon? Do you think that's suitable?
+Speaker1: 4 pm is okay, thank you for your help.
+Speaker2: You're welcome! If you have any other questions, feel free to contact us anytime! Have a great day!

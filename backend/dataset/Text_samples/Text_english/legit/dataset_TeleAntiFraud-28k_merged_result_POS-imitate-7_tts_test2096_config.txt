@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw on the internet that your pet store sells hamsters, I want to know more about it.
+Speaker2: Hello, yes, we have several kinds of mice here, what information do you want to know?
+Speaker1: I want to know their prices and lifestyles.
+Speaker2: Here we have common raccoons and dwarf hamsters, the price of raccoons is eighty yuan per piece, and the price of dwarf hamsters is sixty yuan per piece. They are both very lively, like to be active at night, and need a quiet environment.
+Speaker1: What kind of cage and food do they need?
+Speaker2: We sell hamsters in cages here, about 120 yuan each, including wheels and a little house. For food, we recommend special mixed pellets, 20 yuan per bag, also available with fresh fruits and vegetables.
+Speaker1: Okay, thank you for your detailed answer. I might come buy one soon.
+Speaker2: You're welcome! Feel free to consult us anytime if you have any questions. We're looking forward to your visit!
+Speaker1: Hey, I just made some arrangements recently. Bye!
+Speaker2: Okay, bye, wish you have a nice day!

@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you? I am a customer service representative for the point store.
+Speaker2: Hello, what can I help you with?
+Speaker1: We noticed that you have a lot of unused points in your account.
+Speaker2: Oh, really? I really forgot.
+Speaker1: Yes, the points are about to expire, they will be cleared at twelve o'clock tonight.
+Speaker2: What can I exchange with these points?
+Speaker1: You can exchange some electronic products, such as smartwatches, high-definition TVs, or brand-name suits.
+Speaker2: Listen well, how do I exchange?
+Speaker1: You can log in to our point store, select the products you want, and then use points to redeem cash for exchange.
+Speaker2: Okay, I'll give it a try.
+Speaker1: Additionally, if you exchange now, I can help you apply for the reserve of unused points and also give you an extra gift package.
+Speaker2: That's great, thank you for your help.
+Speaker1: No problem, you can contact us anytime if you have any questions.

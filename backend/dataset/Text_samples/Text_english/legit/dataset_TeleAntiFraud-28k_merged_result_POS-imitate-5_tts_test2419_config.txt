@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the server at Xiaoming Huǒjiǔdiàn, you ordered a seat with us before, do you want to confirm if you'll come tonight?
+Speaker2: I'm going to the Xiao Ming Huǒ Kǎo Diàn tonight.
+Speaker1: Okay, when can you arrive approximately?
+Speaker2: I should arrive around seven in the evening.
+Speaker1: Okay, I'll reserve a spot for you at seven o'clock. Do you have any special requests? For example, do you prefer to sit by the window or in the middle?
+Speaker2: Standing by the window will be better, you can see the scenery outside.
+Speaker1: Okay, the window seat has been reserved for you. Additionally, do you have any special requirements for our menu or service?
+Speaker2: I'd like to try your store's signboard menu, and if possible, I'd like to know your menu in advance.
+Speaker1: No problem, I'll send our menu to your phone, you can take a look beforehand. What's your phone number?
+Speaker2: Okay, thank you, my phone number is 13800138000.

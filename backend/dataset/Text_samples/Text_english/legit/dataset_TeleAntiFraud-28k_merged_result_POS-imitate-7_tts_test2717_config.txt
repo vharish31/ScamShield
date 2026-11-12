@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, takeaway has arrived, are you in the big hall on the first floor of the company?
+Speaker2: Hello, I am at the front desk. Do you have a security guard?
+Speaker1: Okay, I'll tell the security guard and then take a photo to confirm the location.
+Speaker2: Okay, can you help me?
+Speaker1: No problem, please wait for a moment, I'll go to the front desk.
+Speaker2: Okay, thank you.
+Speaker1: Take a look at this photo. The delivery is on the left side of the counter in front of the cashier. The security guard is standing next to it.
+Speaker2: I see it, it's on the left, okay, thank you.
+Speaker1: No problem, if there's anything else needed, feel free to contact me anytime.
+Speaker2: Okay, thank you again.

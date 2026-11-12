@@ -1,0 +1,10 @@
+Speaker1: Hello, you are welcome to the beauty salon, I am customer service Li, you have an appointment for haircut service tomorrow at 2 pm, please confirm if it's convenient for you?
+Speaker2: Hello, can I meet you at 2 pm tomorrow? Thank you for reminding me.
+Speaker1: Okay, please remember to bring your membership card when you come tomorrow, we have member-exclusive discount activities.
+Speaker2: Okay, I will bring my membership card. Also, can you tell me roughly how much this haircut costs?
+Speaker1: Based on your previous haircut and style, the cost is approximately 360 yuan, if you need additional hair care services, there may be additional fees.
+Speaker2: Understood, then I'll just go directly tomorrow.
+Speaker1: Yes, you can go directly to the front desk after you arrive tomorrow. Just let us know if your time changes, so we won't be inconvenienced.
+Speaker2: Okay, I will pay attention. Thank you for your reminder.
+Speaker1: You're welcome, wish you happy life, see you tomorrow.
+Speaker2: Okay, see you tomorrow. Goodbye.

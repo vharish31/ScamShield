@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Xiao Ming, I rent a house in your neighborhood, do you have any suitable housing here?
+Speaker2: Hello, Xiaoming, we really have several good room sources here, how many rooms and apartments do you want?
+Speaker1: I want to find a two-bedroom apartment with a balcony, preferably not too expensive.
+Speaker2: We have several choices for a two-room, one-living-room apartment here. One is in the Flower Garden community, with a balcony, priced at 3,200 yuan per month, and the other is in the Sunlight community, without a balcony, but priced at 2,800 yuan per month.
+Speaker1: Can you take me to see the apartments in the flower garden community?
+Speaker2: Sure, I can arrange for you to visit the house in the garden community tomorrow morning at 10 am. Is that okay with you?
+Speaker1: Okay, I'll arrive at ten o'clock in the morning.
+Speaker2: Okay, Xiao Ming, I will meet you at the community door at the designated time. Remember to bring your ID and some cash. If you think it's appropriate, you can sign the contract directly.
+Speaker1: Okay, thank you for your reminder, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

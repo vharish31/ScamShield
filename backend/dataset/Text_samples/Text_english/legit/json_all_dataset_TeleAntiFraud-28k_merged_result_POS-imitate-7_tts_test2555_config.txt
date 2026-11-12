@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I want to consult about your gym membership card.
+Speaker2: Hello, Xiao Ming, I am the little king of the fitness center, very happy to serve you. What information do you want to know?
+Speaker1: I want to know the types and prices of member cards, and are there any discount activities.
+Speaker2: We have monthly, quarterly, and annual cards here. The monthly card is three hundred yuan, the quarterly card is eight hundred yuan, and the annual card is two thousand yuan. Currently we have a spring promotion activity, and the annual card only costs one thousand five hundred yuan, and also includes a free personal trainer experience course.
+Speaker1: Can I come to the gym anytime if I buy a year card?
+Speaker2: Of course, our fitness center is open 24 hours a day, after purchasing a year card you can come to exercise anytime, there is no limit on the number of times.
+Speaker1: How do I book a private coach experience course?
+Speaker2: After you purchase a year card, you can come to the front desk or call us to schedule a private coach, and we will arrange an appropriate coach based on your time.
+Speaker1: Okay, I'll think about it and contact you if I decide to apply for a card.
+Speaker2: Okay, little Ming, we welcome your arrival anytime. If you have other questions, you can contact us anytime. Wish you a happy life!

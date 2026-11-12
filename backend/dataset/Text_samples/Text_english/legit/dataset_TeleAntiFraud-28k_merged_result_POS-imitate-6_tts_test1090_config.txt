@@ -1,0 +1,10 @@
+Speaker1: Hello, I can't find the pickup location for takeout at your store.
+Speaker2: Hello, are you at the entrance of the first floor of the mall?
+Speaker1: Yes, it's the first floor of the mall.
+Speaker2: Walk to the right and you'll see a long table with a takeout sign on it. The takeout is on the table.
+Speaker1: Do you know if there is a sign on the table?
+Speaker2: Yes, there's a restaurant on the top floor, and there's a QR code attached.
+Speaker1: Okay, I'll go over there right away. Thank you!
+Speaker2: No problem, if there are any more questions, contact me again.
+Speaker1: Okay, thank you. Bye.
+Speaker2: Goodbye.

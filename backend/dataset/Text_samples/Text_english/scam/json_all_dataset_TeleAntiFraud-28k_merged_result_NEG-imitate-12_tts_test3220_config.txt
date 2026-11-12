@@ -1,0 +1,15 @@
+Speaker1: Hello, this is the customer service representative of the speed purchase network, I am Li Ming, your order has some issues, please cooperate to handle them.
+Speaker2: Hello, what's the problem with my order?
+Speaker1: Hey, there was a payment exception with your order during processing. To ensure your rights, please revalidate your payment information.
+Speaker2: How to verify it?
+Speaker1: You can click on the link in the text message we sent you, and then follow the instructions on the verification page to complete the process.
+Speaker2: Okay, I'll take a look at the text message.
+Speaker1: Hey, there are detailed steps in the text message. If you have any questions, feel free to contact me anytime.
+Speaker2: I can't find the message, maybe I accidentally deleted it.
+Speaker1: Okay, let me send you another one. Just a moment.
+Speaker2: Okay, thank you.
+Speaker1: I resend it, please check it again. If you can't find it, just add my Wechat, I'll help you handle it in the backend.
+Speaker2: Add WeChat? Is it safe?
+Speaker1: Don't worry, we're all following regular operations. After adding WeChat, I can directly help you handle it in the background, more convenient and quick.
+Speaker2: Okay, I'll add you on WeChat.
+Speaker1: Okay, my WeChat is xiaoming123, add me and tell me once. Thank you for your cooperation, wish you happy life!

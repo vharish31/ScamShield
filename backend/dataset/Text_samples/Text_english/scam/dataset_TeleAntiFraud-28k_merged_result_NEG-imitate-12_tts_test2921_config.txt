@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Shenzhen Bank, I am customer manager Li.
+Speaker2: Hello, little Li, what do you have?
+Speaker1: That's right, we noticed that your company's recent business situation is very good, and we want to recommend a special enterprise loan service to you.
+Speaker2: Hey, do you want a loan? I'm currently feeling pretty flush with cash.
+Speaker1: This loan service is very flexible, with a loan amount of up to two hundred thousand, and a very low interest rate, allowing for early repayment at any time, with no additional fees.
+Speaker2: Sounds good, but I need to consider it a bit more.
+Speaker1: Okay, I understand. However, to help you better understand more information, I have a specific link here, which you can click to directly view detailed loan plans.
+Speaker2: Link? How to click?
+Speaker1: You can receive this link through text message or add my WeChat directly, I will send it to you.
+Speaker2: Okay, let's add each other on WeChat.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Hey, who are you?
+Speaker1: I am a customer service representative for JD Finance. We noticed that you had quality issues with the products you purchased on JD previously. We can process a return or refund for you.
+Speaker2: Oh, really? I really did buy some stuff recently.
+Speaker1: Yes, to make it easier to process, you can click on the link we sent you and fill in the relevant information, and we will process it quickly.
+Speaker2: How do I know this link is safe?
+Speaker1: You can rest assured, this link is our official link, absolutely safe. Clicking will have detailed process guidance.
+Speaker2: Let me try it out.
+Speaker1: Okay, you will receive a text message with a link. Click on the link and follow the instructions. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

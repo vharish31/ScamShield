@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, could you please tell me what time your store is open?
+Speaker2: Our store's business hours are from 9 am to 9 pm every day, no holidays.
+Speaker1: Can I go out at seven tonight?
+Speaker2: Of course, it's early at seven, we're pretty comfortable here for a leisurely evening stroll after dinner.
+Speaker1: Okay, I'll probably buy some daily use items. Do you have any imported shampoo?
+Speaker2: Yes, we have various brands and specifications of imported shampoo here. You can come to the store to take a look, or you can tell me specifically which brand you want, and I can prepare it in advance for you.
+Speaker1: That's great, I want a 500ml bottle of Xiāngqíng, if there is one, I won't have to run around anymore.
+Speaker2: We have 500 milliliters of Xuanjing here, you can rest assured, I will keep it for you.
+Speaker1: Thank you, I went around 7 o'clock, goodbye.
+Speaker2: Okay, seven o'clock, see you later.

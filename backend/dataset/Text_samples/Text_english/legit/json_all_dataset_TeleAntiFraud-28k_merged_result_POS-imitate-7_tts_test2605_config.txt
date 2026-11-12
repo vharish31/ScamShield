@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to ask, have you recently launched any new phone plan?
+Speaker2: Hello, yes, we recently launched several new phone plans, suitable for different user needs. Which aspect would you like to know more about?
+Speaker1: Can you tell me about some dishes with higher volume, preferably at a discounted price?
+Speaker2: Okay, we have a high value-for-money meal plan that includes 30GB of data flow per month and sends 100 minutes of call time per month, all for only 120 yuan per month.
+Speaker1: The food sounds good, but I've been using this menu for half a year now, will there be any restrictions if I change it?
+Speaker2: Changing the menu is fine as long as your current menu is not within the contract period. If it is, you can consult our customer service to see if there is a solution.
+Speaker1: Can I directly go to your store to handle this menu that is not within the contract period?
+Speaker2: Sure, you can directly go to our nearby store to handle it, or you can apply online through our official website for more convenience and efficiency.
+Speaker1: Okay, what are your business hours tomorrow?
+Speaker2: Our business hours are from 9 am to 6 pm every day. If you come tomorrow, you can just come directly, no need to make an appointment.
+Speaker1: Goodbye, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you have a nice day.

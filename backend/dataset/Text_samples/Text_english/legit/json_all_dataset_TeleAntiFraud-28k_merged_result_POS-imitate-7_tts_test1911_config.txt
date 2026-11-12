@@ -1,0 +1,12 @@
+Speaker1: Hello, is this the Good Taste Restaurant?
+Speaker2: Hello, yes, do you have anything you need to consult?
+Speaker1: Do you provide delivery service?
+Speaker2: Yes, we provide delivery service, you can place an order through our official website or delivery platform.
+Speaker1: How much does your beef noodle soup cost?
+Speaker2: Our beef noodle soup is 35 yuan per portion, with extra toppings it's 40 yuan.
+Speaker1: What are your business hours?
+Speaker2: Our business hours are from 10 am to 10 pm, on weekends they will be extended by a little bit.
+Speaker1: Okay, when do you want to order takeout and have it delivered around what time?
+Speaker2: If you order now, we will deliver it to you in about an hour. The exact time depends on your location.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome back.

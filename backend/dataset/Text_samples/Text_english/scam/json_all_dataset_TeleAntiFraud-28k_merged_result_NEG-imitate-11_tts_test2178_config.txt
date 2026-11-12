@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Xiao Zhang, the customer service representative for Speedy Express. One of your packages was accidentally lost during transportation, and we apologize for the inconvenience. We have decided to fully compensate you. Are you ready now?
+Speaker2: Oh, is that so? Then how do you know my information?
+Speaker1: We obtained your order information through the system, in order to verify your identity, please provide your name and phone number, we are happy to handle your compensation matters.
+Speaker2: Okay, my name is Li Ming, my phone number is 13812345678.
+Speaker1: Okay, Li Ming Xiāngshēng, I have recorded the information. To facilitate us quickly processing your compensation, you can click on the link in the text message we send to you and fill in the relevant information, so we can quickly transfer the compensation to your account.
+Speaker2: Okay, will you send me a text message?
+Speaker1: Yes, we will immediately send you a text message. Please pay attention to check it. If you have any issues, you can directly contact me. My phone number is 15912345678.
+Speaker2: Okay, I'll check my messages later.
+Speaker1: Okay, thank you very much for your cooperation. If you have any questions, please contact me anytime. Have a happy life, goodbye.
+Speaker2: Thank you, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li Ming?
+Speaker2: Yes, who are you?
+Speaker1: I am the customer manager of the agricultural bank, Zhang Huai. We noticed that you have recently browsed many loan products on our platform and wanted to know if you have any loan needs?
+Speaker2: Hey, is that so? I recently have a bit of cash shortage, do you guys have any discounts?
+Speaker1: We have a special promotion for our high-quality customers, with the lowest monthly interest rate possible at zero point zero. If you're interested, you can add my WeChat and I'll give you a detailed explanation.
+Speaker2: Add WeChat? Will it not be a bit unsafe?
+Speaker1: Don't worry, we are all following regular operations. After adding WeChat, I can send you our official documents and my work certificate. This way, you can understand detailed information more easily.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: My WeChat number is abc123456. After you add me as a friend, I will send you the information. If you have any questions, feel free to ask anytime.
+Speaker2: Okay, I'll add you soon. Thank you.

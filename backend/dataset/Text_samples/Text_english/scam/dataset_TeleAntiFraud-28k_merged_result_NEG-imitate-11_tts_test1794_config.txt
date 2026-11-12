@@ -1,0 +1,13 @@
+Speaker1: Hello, are you Li Qiang?
+Speaker2: Yes, who are you?
+Speaker1: I am a loan manager at an agricultural bank. We recently introduced a low-interest loan product. Would you like to know if you have any needs for capital rotation?
+Speaker2: Loan? I don't really need it, thank you.
+Speaker1: Okay, it's good to understand a little, the interest rate is very low now, only need two cents, and the process is very simple.
+Speaker2: The sound is good, but I still have enough money in my hand.
+Speaker1: Okay, I understand. However, if you need anything, you can download our bank's app, which has detailed information on loan products and application procedures.
+Speaker2: Do you want to download the app? What's the benefit?
+Speaker1: After downloading, you can enjoy more discounts, such as reducing some of the application fees for the first loan. Additionally, we have a dedicated customer service team online to answer your questions.
+Speaker2: Can I try, how to download?
+Speaker1: Okay, you can search for the Agricultural Bank App in the mobile app store, download and install it, and then register an account to see the detailed information about the loan products.
+Speaker2: Okay, I'll give it a try. Thank you for your introduction.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wishing you all the best.

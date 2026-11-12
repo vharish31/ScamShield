@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I saw your store has an electric toothbrush on the internet, I want to ask about it.
+Speaker2: Hello, little Zhang, I am customer service representative Li Xiao, what can I help you with?
+Speaker1: I want to know more about the usage method and warranty policy of this electric toothbrush.
+Speaker2: This electric toothbrush is very convenient to use, with a charging design that can be used for about two weeks after charging. Our warranty service is free for one year, and if you encounter any problems while using it, you can contact our customer service.
+Speaker1: Is the head of the toothbrush supposed to be replaced regularly?
+Speaker2: Yes, to ensure a clean effect, we recommend changing the brush heads every three months. Our store also sells brush heads separately, which is very convenient to buy.
+Speaker1: Is this electric toothbrush currently active?
+Speaker2: There's a promotion going on right now, buy an electric toothbrush and get two heads for free, and you also have a chance to win a prize, which includes other popular products from our store.
+Speaker1: Sounds pretty good, so I'll order it.
+Speaker2: Thank you very much for your support! If you have any other questions, please feel free to consult anytime. Have a happy shopping!

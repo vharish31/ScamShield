@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Liu Xiao, the client manager of Agricultural Bank, we recently launched a new financial product with an annual interest rate of up to 100%, are you interested in learning more?
+Speaker2: Uh, yeah, I actually have some spare cash lately, can you give me a detailed explanation?
+Speaker1: Of course, this product is very safe, the returns are stable, and there is also one-on-one investment advisor service. You just need to register an account on our platform to start investing.
+Speaker2: How do I register on this platform?
+Speaker1: It's simple. Just download our app, register an account, fill out some basic info, and you can start investing.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can click this link to directly download our app, very convenient.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you encounter any issues during the registration process, feel free to contact me anytime. My WeChat is small Liu Li Finance Assistant. Adding WeChat makes communication more convenient.
+Speaker2: Okay, thank you for your help. I will contact you.

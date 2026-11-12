@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Li, just saw on your website that you have pet boarding services, want to know more.
+Speaker2: Hello, little Li, I am the customer service of the petting zoo, very happy to serve you. What information do you want to know?
+Speaker1: Can you tell me about your foster environment and how much it costs?
+Speaker2: We have a special pet boarding area here, with each small animal having its own small space. The environment is clean and tidy. As for pricing, small pets are thirty yuan a day, medium pets are fifty yuan, and large pets are eighty yuan.
+Speaker1: If the pet has special circumstances, such as needing special food or having a disease, can you take care of it?
+Speaker2: Of course, we have professional veterinarians and caretakers who can provide special diets and necessary medical care. If there are any special circumstances with the pet, please inform us before boarding, so we can make the necessary preparations.
+Speaker1: Does it sound good? Then do I need to make a reservation in advance?
+Speaker2: Yes, to ensure there's a place, it's recommended to book in advance one week. You can book through our website or phone.
+Speaker1: Okay, I plan to bring my pet next Saturday, and I'll contact you in advance.
+Speaker2: Okay, little Li, we will be ready for everything at the right time. Welcome you and your pet to the pet park. If you have any questions, please contact us anytime.
+Speaker1: Thank you, goodbye.
+Speaker2: No problem, goodbye.

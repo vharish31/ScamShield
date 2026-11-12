@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of some certain express, recently you have a problem with your express, need to check some information.
+Speaker2: What's the problem with the delivery?
+Speaker1: Your package was lost during transportation, we need to verify your personal information to process compensation.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your name, phone number, and ID number so we can apply for compensation.
+Speaker2: Okay, my name is Zhang Wei, my phone number is 13812345678, and my ID number is 123456789012345678.
+Speaker1: Okay, Zhang Wei, we have recorded your information. For convenience, please click on the link we sent and fill out some detailed information.
+Speaker2: Okay, how do I get the link?
+Speaker1: We will send you a link via text message. Please pay attention to receive it and click on the link after following the instructions.
+Speaker2: Okay, thank you, I will pay attention to the receipt.

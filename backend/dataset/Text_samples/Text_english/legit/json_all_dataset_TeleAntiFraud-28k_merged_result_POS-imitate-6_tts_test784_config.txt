@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you waiting for me at the community door?
+Speaker1: Hey, I'm at the community door, are you coming fast?
+Speaker2: Alright, I just passed the red light, it should take about five minutes to get there.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Please wait a moment, I have a package, let me stop for a moment to take it.
+Speaker1: Be careful on the road.
+Speaker2: Hey, I'm calling you now.
+Speaker1: Okay, wait for your call.
+Speaker2: Okay, see you later.

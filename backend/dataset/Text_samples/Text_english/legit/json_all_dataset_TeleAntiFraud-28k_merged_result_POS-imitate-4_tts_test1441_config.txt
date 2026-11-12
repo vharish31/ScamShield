@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I can't find my car in your underground parking lot.
+Speaker2: Hello, are you here to pick up a car?
+Speaker1: Yes, I searched the location according to the text message, but I couldn't find it.
+Speaker2: Are you in the underground several layers? What position is it on the text message?
+Speaker1: The text message said to get off the elevator on the second floor and walk twenty meters to the left.
+Speaker2: Yes, are you from the seventh floor?
+Speaker1: Yes, I got off the seventh floor elevator, but I didn't see my car.
+Speaker2: You should be able to see it if you walk straight out of the elevator and turn left, then walk forward a little.
+Speaker1: Okay, I'll take another look, thank you.
+Speaker2: No problem, if you can't find it, you can call me, I'll come help you find it.

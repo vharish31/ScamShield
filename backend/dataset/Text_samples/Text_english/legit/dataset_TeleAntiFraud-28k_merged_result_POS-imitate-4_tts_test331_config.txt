@@ -1,0 +1,16 @@
+Speaker1: Hey, hello, I'm little Zhang, yesterday your delivery service was particularly good, I want to order again.
+Speaker2: Hello, how are you? I am the delivery customer service king, very happy to serve you. What do you want to order?
+Speaker1: I want to order a beef stir-fry, a tomato and egg stir-fry, and a sweet and sour pork ribs.
+Speaker2: Okay, all these dishes are well-stocked. Do you need any drinks?
+Speaker1: Can I have two cups of iced red tea, please?
+Speaker2: Okay, two cups of iced red tea. Are you a regular customer? We have member discounts.
+Speaker1: Am I a regular customer? Can I enjoy member discounts?
+Speaker2: Of course, what is your member account number?
+Speaker1: My member account is 123456.
+Speaker2: Okay, 123456, your member information has been found. Members can enjoy a 95% discount.
+Speaker1: How much do I need to pay for this meal?
+Speaker2: Your order of 120 yuan originally was 120 yuan, with a 95% discount, you paid 114 yuan.
+Speaker1: Okay, I confirm the address, still the last address, right?
+Speaker2: Yes, the address of the last time was Happy Community 12th Floor, 3rd Unit, 402 Room.
+Speaker1: Yes, that's the address. Please send it quickly, thank you.
+Speaker2: Okay, we will arrange delivery as soon as possible. We estimate it will arrive in 30 minutes. Thank you for your order. Enjoy your meal.

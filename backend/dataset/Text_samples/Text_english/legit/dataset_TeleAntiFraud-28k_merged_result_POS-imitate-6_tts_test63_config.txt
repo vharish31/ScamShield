@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little king, I just made a haircut appointment on your website, but it seems like it wasn't successful, can you help me check it out?
+Speaker2: Hello, little Wang, can you tell me your appointment time and name?
+Speaker1: Okay, my name is Xiao Wang, the appointment time is tomorrow morning at 10 am.
+Speaker2: Okay, Mr. Little King, I found it. Your appointment is successful. The appointment time is tomorrow morning at ten o'clock. The location is our city center store.
+Speaker1: That's great, thank you for your help, can I go directly tomorrow?
+Speaker2: Yes, you can come directly, we will prepare in advance. If there are any changes, please contact us in advance.
+Speaker1: Okay, I will go on time. Right, do you have drinks in your store?
+Speaker2: Yes, we have free mineral water and coffee here, you can choose according to your preference.
+Speaker1: That's great, thank you for your service, see you tomorrow!
+Speaker2: No problem, see you tomorrow, wish you a happy day!

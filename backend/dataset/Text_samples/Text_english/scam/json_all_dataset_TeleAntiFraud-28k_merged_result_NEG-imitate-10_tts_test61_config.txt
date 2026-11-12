@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Zhao Shang Yin Hang, we recently introduced a special discounted credit loan, would you like to know more?
+Speaker2: Hello, I currently don't have a need for a loan.
+Speaker1: Okay, but this loan product has a very low interest rate, and the approval is fast, no collateral is required. If you're interested, you can add my WeChat, feel free to consult anytime.
+Speaker2: Add me on WeChat? It's not very convenient.
+Speaker1: No problem, you can find more information through our official app, which also has a dedicated customer service to answer your questions.
+Speaker2: Okay, let me take a look.
+Speaker1: Okay, you can search for our official app in the app store, named '招商银行贷款通', download it and register directly after.
+Speaker2: Okay, let me try.
+Speaker1: Great, you can directly contact us in the app if you have any questions. Have a nice day, bye.
+Speaker2: Thank you, goodbye.

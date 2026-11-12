@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little Li, I bought a pair of sports shoes from your store last time, could you tell me how to take care of them?
+Speaker2: Hello, little Li, I'm very happy to serve you. Our store's sports shoes maintenance mainly keeps them dry, avoids long-term exposure to the sun, and uses soft cloth to wipe them regularly.
+Speaker1: Oh, that's how it is. What do you do if the shoe sole is dirty?
+Speaker2: If there are stains, you can use a soft cloth to gently wipe them with clean water, but don't soak them in water, otherwise the shoes will be damaged.
+Speaker1: Okay, if I want to buy the same style but different color shoes, do you still have stock?
+Speaker2: Sure, we have several color options. If it's convenient for you, you can come to the store and take a look, or you can tell me your preferred color and I'll check the inventory for you.
+Speaker1: Can I have some time to check it out? What's the specific address of your store?
+Speaker2: Our store is located on the third floor of the city square, convenient transportation, a bus station is next to us, and you can take a taxi directly here.
+Speaker1: Okay, thank you for your help. If I went back, what time would your business usually be open?
+Speaker2: Our store's business hours are from 10 am to 9 pm. You can choose any time slot.
+Speaker1: Okay, I'll probably be there around 3 pm. See you then.
+Speaker2: Okay, see you in the afternoon, looking forward to your arrival.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform. Did you encounter any problems when ordering food from us before?
+Speaker2: Ugh, yes, the food I ordered yesterday hasn't been delivered yet.
+Speaker1: I'm very sorry to have caused you inconvenience, could you please tell me your order number?
+Speaker2: Okay, my order number is one two three four five six seven.
+Speaker1: Okay, I'll check. Sorry, I kept you waiting for a long time. According to the system, your order was delayed due to the restaurant's out-of-order, and it's currently being processed urgently.
+Speaker2: Is it like that, how long do we have to wait?
+Speaker1: We estimate it will take about 30 minutes, we will urge the delivery guy to arrive quickly.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, if you have any other questions, feel free to contact me anytime. Your satisfaction is our greatest pursuit.
+Speaker2: Okay, thank you.

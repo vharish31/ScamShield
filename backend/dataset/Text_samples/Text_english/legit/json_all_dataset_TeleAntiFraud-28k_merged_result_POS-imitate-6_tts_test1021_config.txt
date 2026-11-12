@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm the customer service at the food square, did you confirm that you'll come at 7 pm tonight for the window seat?
+Speaker2: Hey, I'll be there, but it might be a little late, around 7:30 I should arrive.
+Speaker1: Okay, I'll keep it until 7:30, remember to bring the phone number used for the appointment.
+Speaker2: Okay, no problem.
+Speaker1: Do you have any special requirements for the dishes, such as flavor preferences or allergies?
+Speaker2: I like spicy food, but don't put garlic, I'm a little sensitive to big garlic.
+Speaker1: Understood, we will pay special attention. The menu has been updated today, there are several new dishes, would you like to take a look in advance?
+Speaker2: Sure, show it to me.
+Speaker1: Okay, I'll send it to you now. By the way, our parking lot is free for outsiders today, you can park there when you come.
+Speaker2: You're welcome. Thank you for your reminder.
+Speaker1: No thanks, I hope you enjoy a good dining experience. Then we meet at 7:30.

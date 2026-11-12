@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, do you have any recommendations?
+Speaker2: Hello, Xiaoming, I can recommend several high-value phones on this side, what price range do you want?
+Speaker1: I plan to budget between 2000 and 3000 yuan, mainly for browsing the internet, watching videos, and occasionally playing games.
+Speaker2: I recommend you check out this new phone. Its performance is perfect for your needs and the price is within your budget.
+Speaker1: How long does the battery of this phone last? I usually use my phone for a long time.
+Speaker2: This phone's battery capacity is 4000mAh, which is enough for normal use for a whole day, especially suitable for users who often browse the internet and watch videos.
+Speaker1: What color options are available for this phone?
+Speaker2: This phone comes in black, blue, and white, you can choose based on your preference.
+Speaker1: Then I'll choose the blue one, when do you have goods?
+Speaker2: The blue goods are available now, you can pick them up at the store anytime or choose to have them delivered to your home, it's convenient, so I'll leave a machine for you?

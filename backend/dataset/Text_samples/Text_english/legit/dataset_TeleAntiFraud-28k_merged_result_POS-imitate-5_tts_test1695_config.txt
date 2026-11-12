@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform. You ordered a delivery from our platform today, but the delivery time was delayed. Do you know if you have received the food yet?
+Speaker2: Oh, not yet, I'm waiting, you say what's roughly the time it'll arrive?
+Speaker1: I'm very sorry to cause you inconvenience. Based on the current delivery situation, it's estimated to take about twenty minutes to arrive.
+Speaker2: Okay, I'll just wait a moment, thank you for your notification.
+Speaker1: No problem, we will do our best to speed up delivery, if there are any issues, please contact us anytime.
+Speaker2: Okay, thank you.
+Speaker1: Do you have any suggestions or opinions about our service?
+Speaker2: Hmm, I think your delivery time can be optimized a bit more, the others are pretty good.
+Speaker1: Thank you very much for your feedback. We will record your opinions and strive to improve.
+Speaker2: Okay, thank you, the food is here, I'll contact you later.
+Speaker1: Okay, have a nice meal, bye.
+Speaker2: Goodbye.

@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Hello, I am Xiao Zhang, the customer manager of the construction company, have you recently had any financial needs?
+Speaker2: Oh, temporarily not available, I can still use my funds.
+Speaker1: That's great, but if you need anything, we have a special discount loan project here with a very low interest rate. Just provide some basic information and it can be quickly approved.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: You can click on the link I sent you and fill in the relevant information, our system will automatically approve it, very convenient.
+Speaker2: Okay, please send me the link.
+Speaker1: Okay, just a moment, I'll send it to you right away. Moreover, to ensure your information is more comprehensive, you can download our official app, which has many convenient services.
+Speaker2: Okay, I'll take a look in a moment.

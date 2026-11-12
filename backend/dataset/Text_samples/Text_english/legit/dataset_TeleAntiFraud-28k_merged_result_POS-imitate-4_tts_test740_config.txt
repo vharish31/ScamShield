@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, just ordered your restaurant's takeout online, checked and it hasn't been delivered yet, want to know approximately how long it will take to arrive?
+Speaker2: Hello, Mr. Li, I am the waiter at the restaurant, your order is ready now, we estimate it will take about fifteen minutes to deliver.
+Speaker1: Okay, thank you. I just want to confirm, is the three Coke included in the set meal?
+Speaker2: Yes, the meal you ordered does contain three cans of Coke, and we will ensure that it is delivered to you without any mistakes.
+Speaker1: That's great, I'll go to the fourth floor cabinet later and get it. What should I do if I don't see it?
+Speaker2: There is a shelf in room 4 where your order number will be displayed on a label. If you don't see it, please feel free to contact us anytime.
+Speaker1: Okay, I will pay attention. If there are any issues when eating, can I contact you again?
+Speaker2: Of course, if you have any questions, please call our service hotline at any time, and we will quickly solve the problem for you.
+Speaker1: Thank you so much, I'm looking forward to the delicious food. Goodbye!
+Speaker2: You're welcome, hope you enjoy your meal, bye!

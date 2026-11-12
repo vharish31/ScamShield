@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to ask about the menu and prices at your restaurant.
+Speaker2: Hello, of course. Which dish are you interested in?
+Speaker1: Can you tell me what your menu items are and how much they cost?
+Speaker2: Our signboard menu is sweet and sour pork ribs, priced at 102 yuan per portion.
+Speaker1: The fried pork ribs sound good, what's your business hours?
+Speaker2: We start business at 11 am every morning and end at 10 pm every night.
+Speaker1: Okay, I plan to go to your restaurant for dinner on the weekend. Do I need to reserve a seat in advance?
+Speaker2: Of course, there are more weekend tourists, so it's recommended to book in advance to ensure a seat.
+Speaker1: I'll reserve a four-person table, around 6 pm on Saturday afternoon.
+Speaker2: Okay, your four-person table for Saturday afternoon at six o'clock has been reserved, see you then.

@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the manager of the Agricultural Bank of China, Tianhe Branch.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we noticed you recently have a loan need, we can provide a 50,000 loan without collateral, interest rate is low, and approval is fast.
+Speaker2: Really? Then how do I apply?
+Speaker1: You can first click this link, fill out some basic information, and then we will have a specialist contact you.
+Speaker2: Okay, let me try.
+Speaker1: Hello, we also have a limited-time promotion on our side, if you apply now, you can enjoy a lower interest rate.
+Speaker2: Great, I'll go fill it out right away.
+Speaker1: Please wait a moment, to ensure your information is secure, you need to first download our official app, all application processes are completed within the app.
+Speaker2: Okay, I'll go download it now.

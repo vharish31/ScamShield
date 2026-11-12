@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: What do you recommend for a new phone?
+Speaker2: Of course, what brand of phone are you using now?
+Speaker1: I used to use iPhone, but now I want a more affordable Android phone.
+Speaker2: Understood, there are many affordable smartphones on the market now, such as Xiaomi, Huawei, and Honor, you can choose based on your needs.
+Speaker1: What specific model do you recommend for battery life and camera quality?
+Speaker2: You can check out the Xiaomi Redmi Note series, which has a strong battery life and a good camera. Additionally, the Huawei nova series is also suitable for you.
+Speaker1: Sounds good, I plan to go to a physical store this weekend, do you have any physical stores nearby?
+Speaker2: There are no physical stores here, but you can check out the large electronics product market or the authorized phone retail stores, they have more models there.
+Speaker1: Okay, thank you for your advice. I will take a look.
+Speaker2: No problem, feel free to contact me if you have any other questions. Best wishes on your phone selection!

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I want to consult your repair service
+Speaker1: Okay, what aspects of repair services do you want to know about?
+Speaker2: My washing machine broke down, can you guys come over and fix it?
+Speaker1: Of course, we provide home appliance repair services. What brand and model is your washing machine?
+Speaker2: It's a Haier, the specific model I'm not quite clear, but it should be a few years old.
+Speaker1: Okay, no problem. Let's register your information first, so we can arrange the teacher to come over. Can you leave a contact phone number?
+Speaker2: Sure, my phone number is 1381238901.
+Speaker1: Okay, we will arrange for the teacher to come to your house for inspection within two workdays. Is there anyone at home?
+Speaker2: Okay, I will wait for the master at home. Thank you for your service.
+Speaker1: No problem, feel free to contact us anytime if you have any questions. Have a nice day.

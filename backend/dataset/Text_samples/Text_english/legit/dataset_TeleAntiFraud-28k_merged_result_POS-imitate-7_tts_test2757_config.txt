@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how can I help you?
+Speaker1: That's it, I saw your hair salon appointment information on Wuxi Five Eight City, and I wanted to know more about the details.
+Speaker2: Okay, what hair service would you like to book, a haircut, dye or straighten?
+Speaker1: I want to make a haircut appointment, can you tell me how much it costs?
+Speaker2: The haircut service fee is thirty yuan. If you're a first-time customer, we also have a first-time discount, which is eighty percent off.
+Speaker1: That sounds good, I plan to go there this afternoon, what time do you close?
+Speaker2: We are open from 9am to 9pm, you can choose a convenient time to come.
+Speaker1: Can I go at 2 pm tomorrow afternoon?
+Speaker2: Sure, I'll schedule an appointment for you tomorrow at 2 pm. Don't forget to bring your ID, as it's required for the first booking.
+Speaker1: Okay, I understand, thank you for your reminder.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, see you tomorrow.

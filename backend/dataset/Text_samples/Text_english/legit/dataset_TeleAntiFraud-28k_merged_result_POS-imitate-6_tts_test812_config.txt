@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, how about you recently?
+Speaker2: Hello little king, I'm good, you? What have you been up to lately?
+Speaker1: I've been busy looking for a rental house lately.
+Speaker2: Looking for a house, do you have any specific requirements? Like location, price, etc.
+Speaker1: It's best to be near the subway station, the price shouldn't exceed three thousand per month, and it's best to be able to move in immediately.
+Speaker2: Would you like to take a look at a friend's house in the entertainment district? The environment is good and the price is reasonable.
+Speaker1: The house in the recreational area is great, the environment is good, but I need to consider my commute time to work.
+Speaker2: Hmm, this is definitely something to consider, but the transportation on that side is quite convenient too, there are direct buses to the city center.
+Speaker1: Okay, I'll go take a look tomorrow first, thank you.
+Speaker2: No problem, I hope you can find a satisfying house, see you tomorrow.

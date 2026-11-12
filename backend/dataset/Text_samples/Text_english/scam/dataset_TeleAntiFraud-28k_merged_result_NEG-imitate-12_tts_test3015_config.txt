@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I am the customer manager of Shanghai Bank, Li Manager, there is a special credit loan for your kind of small micro enterprises on this side, do you want to know more?
+Speaker2: I'm doing well with my cash flow right now, so I'm not thinking about taking out a loan.
+Speaker1: That's great, but our loan product interest rate is very low, and the process is simple. If you need it, you can contact us anytime.
+Speaker2: How do you handle it?
+Speaker1: It's very simple. Just click this link and fill out some basic information, and we'll have a dedicated customer manager follow up.
+Speaker2: How do I get the link?
+Speaker1: Please wait a moment, I'll send it to your phone right away. Have you recently encountered any financial shortage situations?
+Speaker2: Sometimes I meet problems, but I can always solve them.
+Speaker1: That's great, now we have our loan product, you can easily solve this kind of situation in the future. The link has already been sent to your phone, just fill it out and we'll contact you right away.
+Speaker2: Okay, thank you.

@@ -1,0 +1,8 @@
+Speaker1: Hey, how are you? I'm at the company gate, how are you guys?
+Speaker2: Hey, are you okay? After you come in, turn left and see the elevator?
+Speaker1: Can you go up the escalator?
+Speaker2: Okay, take the elevator to the sixth floor, get off the elevator and walk straight, the third door on the left is it.
+Speaker1: Okay, the third door on the left of the sixth floor, I know it.
+Speaker2: You're right, you can come directly after, I'll wait for you there.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later.

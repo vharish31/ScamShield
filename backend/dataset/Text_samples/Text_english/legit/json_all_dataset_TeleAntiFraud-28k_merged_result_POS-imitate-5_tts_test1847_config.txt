@@ -1,0 +1,9 @@
+Speaker1: Hey, hello, I'm little Zhang, just got out of the subway, I saw your message, now I'm at exit A.
+Speaker2: Hey, I'm waiting for you here. Just come out from the A exit, keep walking straight, turn right at the first crossroads, and you'll see me.
+Speaker1: Okay, I'll go now, it might take a few minutes, just wait a bit.
+Speaker2: No worries, I have plenty of time here, you can take your time, be careful on the road.
+Speaker1: Thank you, I will be quick.
+Speaker2: No thanks, just send me a message.
+Speaker1: Okay, I understand, I'll contact you right away.
+Speaker2: Okay, be careful on the road, see you later.
+Speaker1: See you later.

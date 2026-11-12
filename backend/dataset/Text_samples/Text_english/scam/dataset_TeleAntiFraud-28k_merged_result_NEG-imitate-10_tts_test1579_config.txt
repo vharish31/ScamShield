@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the national express customer service, I am customer service representative Lee Ming, your parcel has been returned due to address issues, please confirm the information.
+Speaker2: Oh, really? How could my package be returned?
+Speaker1: It's possible that the address is incorrect or there's no one to sign for it. To confirm your information, please click on a link to verify your identity.
+Speaker2: How do I click on a link?
+Speaker1: You can receive a link through our official customer service QQ, which will guide you to complete the identity verification, and then we can rearrange the delivery after that.
+Speaker2: What do I need to download an app or software?
+Speaker1: You don't need to do anything, just click the link and follow the instructions on the page. It's very convenient and quick.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the link now. If you have any questions, feel free to contact me. Have a happy life.
+Speaker2: Thank you, please.

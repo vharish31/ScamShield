@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, our air conditioner is broken, can you consult the repair service?
+Speaker2: Hello, Xiao Ming, I am the small king of the maintenance service center, can you tell me specifically what the problem is?
+Speaker1: The air conditioner doesn't cool after turning on, and there's no wind coming out.
+Speaker2: Understood, this situation may be due to insufficient refrigerant or issues with the fan, and a door check is needed.
+Speaker1: Okay, when can you guys come the fastest?
+Speaker2: Can we reserve a time slot between 2pm and 4pm today?
+Speaker1: Okay, just remember to bring tools when you come to my house.
+Speaker2: Don't worry, we will prepare all the necessary tools in advance, and we will call you before we arrive.
+Speaker1: Okay, thank you, my home address is happiness road one hundredth.
+Speaker2: Okay, happy road 100, remember, see you in the afternoon.

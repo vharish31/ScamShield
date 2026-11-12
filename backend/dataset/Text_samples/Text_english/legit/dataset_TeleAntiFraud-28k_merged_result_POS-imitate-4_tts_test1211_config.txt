@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you? I am a customer service representative for the point store.
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: We noticed some unused points in your account. Do you need to exchange them?
+Speaker2: Oh, really? How did I miss that?
+Speaker1: That's right, we recently did an activity, your points can be exchanged for some products in our mall.
+Speaker2: What can I exchange these points for?
+Speaker1: You can exchange some daily items, such as shampoo, body lotion, and electronic products, like smartwatches.
+Speaker2: Listen well, then how do I exchange it?
+Speaker1: You can exchange through our official website or mobile app. If you need help, I can send you an operation guide.
+Speaker2: Great, can you give me an operation guide?
+Speaker1: Okay, I will immediately send it. Do you have any other questions I can help you with?
+Speaker2: No more, thank you for your help.
+Speaker1: You're welcome. If you have any questions later, please feel free to contact us anytime. Have a happy life.
+Speaker2: Okay, thank you, bye.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can I preorder takeout for tomorrow here?
+Speaker2: Is it okay? What time do you need to reserve a meal?
+Speaker1: At noon, I want to reserve a spicy chicken and rice dish and a fried rice dish.
+Speaker2: Okay, kung pao chicken with a side of rice, no problem. What's your address?
+Speaker1: The address is Dongcheng District, Xiangyang Road 12th Number.
+Speaker2: Okay, East Chang'an District Happiness Road 12th Number, we will arrive on time to deliver your food. Do you need any other services?
+Speaker1: No need, thank you. Yes, are your takeout packaging eco-friendly?
+Speaker2: We use biodegradable materials for packaging, which is very environmentally friendly.
+Speaker1: That's great, thank you.
+Speaker2: You're welcome. I hope you enjoy your meal. Please feel free to contact us if you have any questions.

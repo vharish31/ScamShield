@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer manager of the Agricultural Bank, Tianhe Branch, Li Ming. We noticed that you have recently had a need for capital rotation. We can provide you with a loan of up to 50,000 yuan without collateral. Is it convenient for you now?
+Speaker2: I'm pretty busy right now, but you can talk to me and I'll understand.
+Speaker1: Okay, our loan service is very convenient. Just fill out the information online and get approved, and we'll process the payment as soon as possible. Click on this link and follow the instructions to complete the process.
+Speaker2: Link? How do I click?
+Speaker1: That's how it is, I will send you a link via text message, you will follow the instructions, fill out personal information, upload relevant documents, and once approved, we will disburse the funds.
+Speaker2: Okay, I'll wait for the text message.
+Speaker1: Okay, the message will be sent to your phone soon. Additionally, to speed up the review process, it's best to download our bank's official app, which makes the operation more convenient.
+Speaker2: Download the app? How do I know it's real?
+Speaker1: We are a regular bank and there will be no risks. You can directly download the 'Agricultural Bank' app from the mobile app store or through the link I send you via text message.
+Speaker2: Okay, let me try.

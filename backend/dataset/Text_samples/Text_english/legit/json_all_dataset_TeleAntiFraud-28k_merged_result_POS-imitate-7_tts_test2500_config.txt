@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at the Happy Food Restaurant?
+Speaker2: Hello, I saw your restaurant menu, can you tell me about your signature dishes?
+Speaker1: Our restaurant specialties include sweet and sour pork ribs, steamed fish with ginger and scallions, and spicy and sour fish with basil, all of which are very popular.
+Speaker2: How do you eat steamed fish, what does it taste like?
+Speaker1: Steamed fish with fresh fish, ginger, and scallions is one of our special dishes. The taste is fresh and the meat is tender.
+Speaker2: Can I reserve a spot for two people at seven o'clock in the evening? It sounds great.
+Speaker1: Okay, the two seats for two people have been reserved for you at seven o'clock in the evening. Is there anything else you need help with?
+Speaker2: If there is a private room, it's best to arrange it, so the privacy will be better.
+Speaker1: We have a small room that's perfect for two people to use, and we can arrange it for you.
+Speaker2: Great, let's do it this way, thank you!
+Speaker1: Please welcome, any questions feel free to contact us anytime.

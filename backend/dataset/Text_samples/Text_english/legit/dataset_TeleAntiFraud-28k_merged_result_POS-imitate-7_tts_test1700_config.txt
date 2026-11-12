@@ -1,0 +1,11 @@
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Hey, do you guys have any free time this weekend? I want to make an appointment for a haircut.
+Speaker2: Okay, let me check. This weekend's schedule is relatively relaxed, which day do you want to schedule specifically?
+Speaker1: Is three o'clock on Saturday afternoon okay?
+Speaker2: Saturday afternoon at three o'clock is available. What names and contact information do we need to leave?
+Speaker1: Just call me Zhang Qiang, my phone number is 555-1234.
+Speaker2: Okay, Mr. Zhang Qiang, your appointment has been recorded. Come at 3 pm on Saturday afternoon.
+Speaker1: Okay, thank you. Is there a hair washing service at your place?
+Speaker2: Of course, during the haircutting process, we will first wash your head, ensuring the cutting effect.
+Speaker1: Great, thank you. See you on Saturday.
+Speaker2: See you on Saturday, wish you a happy day.

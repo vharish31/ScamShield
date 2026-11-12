@@ -1,0 +1,8 @@
+Speaker1: Did you arrive?
+Speaker2: I just arrived, I'm standing at the community door, come over quickly.
+Speaker1: Okay, I'll be there soon.
+Speaker2: This side is a bit congested, be careful when you come over.
+Speaker1: Okay, I'll pay attention to safety. Is there anything else you need help with on your side?
+Speaker2: No problem, everything here is fine, just waiting for you.
+Speaker1: Okay, I'm almost there, just wait a minute.
+Speaker2: Okay, I'm waiting for you here.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your delivery service.
+Speaker2: Hello, this is a delivery service for takeout, what can I help you with?
+Speaker1: What is your delivery range and time?
+Speaker2: We mainly provide services in the city center and surrounding areas, with delivery usually within 35 minutes after ordering.
+Speaker1: If I live outside the city, can I still send it?
+Speaker2: Depending on the specific location, some places may require additional delivery time.
+Speaker1: Can you deliver to Green Lake Community?
+Speaker2: The Green Lake community can be delivered, but it may take about forty minutes.
+Speaker1: Okay, I want to order a beef stir-fry tonight, when do you stop taking orders?
+Speaker2: We stop taking orders at 10 pm tonight. It's recommended to place your order in advance to avoid missing the delivery time.
+Speaker1: Okay, thank you for your help, I'll place an order at eight o'clock tonight.
+Speaker2: Okay, we'll process your order as soon as you place it. If you have any issues, feel free to contact us anytime.

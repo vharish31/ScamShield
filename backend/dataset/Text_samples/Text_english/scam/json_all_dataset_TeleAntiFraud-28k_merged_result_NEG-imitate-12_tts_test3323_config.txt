@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am a customer manager of commercial bank, Li.
+Speaker2: Hello, what do you have?
+Speaker1: Do you want to know about a recent investment opportunity with a very high return rate?
+Speaker2: Invest? It sounds good, can you give specific details?
+Speaker1: Of course, this project is a joint venture between our bank and a well-known investment company, and it's very safe. You just need to download our app, register and you'll see all the details.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, you can trust our bank's reputation. Moreover, to make you more comfortable, we also provide a link, you click this link directly download, very convenient.
+Speaker2: How do I know that this link is your bank's?
+Speaker1: Don't worry, this link is provided by our bank's official website, there will be no issues. After downloading, you can directly contact me through the app if you have any questions, I can help you solve them.
+Speaker2: Okay, let me try.
+Speaker1: Great, please contact me after you download it, and I will give you a detailed introduction to this project. Feel free to ask me any questions anytime.

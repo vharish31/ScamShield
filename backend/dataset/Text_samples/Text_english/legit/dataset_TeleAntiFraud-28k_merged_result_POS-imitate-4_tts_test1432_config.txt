@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, do you have any available seats in your restaurant?
+Speaker2: Hello, Xiao Ming, I am server Zhang, we have some seats here, you will come around 5 o'clock?
+Speaker1: Two people around seven in the evening.
+Speaker2: Okay, 7:00, two people, I reserve a window seat for you, how about it?
+Speaker1: Okay, the spot by the window is good, thank you.
+Speaker2: Please come in directly and give me the name of Xiaoming, I will arrange your seat.
+Speaker1: Okay, thank you. So, do you have any recommendations for dishes there?
+Speaker2: Our restaurant menu has red braised pork, steamed fish and stir-fried vegetables, all very popular, you can try them.
+Speaker1: Sounds good, I'll consider it. Let's meet later.
+Speaker2: Okay, I'm looking forward to your arrival. See you then.

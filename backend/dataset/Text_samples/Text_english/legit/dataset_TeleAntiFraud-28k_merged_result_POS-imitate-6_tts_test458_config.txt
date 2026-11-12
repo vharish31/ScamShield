@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: I just saw a phone on your website and wanted to ask a few questions
+Speaker2: Okay, which phone model are you asking about?
+Speaker1: That's the new X10, blue-colored one.
+Speaker2: What are the specific issues with the X10 blue color phone, which is our recent hot-selling phone?
+Speaker1: What is the price of this phone and is it covered by national insurance?
+Speaker2: This phone costs 3500 yuan, nationwide insurance, you can buy with peace of mind.
+Speaker1: If I buy it, how long will it take to deliver?
+Speaker2: We provide next-day delivery service. If you place an order today, you can receive it tomorrow.
+Speaker1: Okay, I'll place the order now, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, feel free to contact me anytime. Have a great shopping!

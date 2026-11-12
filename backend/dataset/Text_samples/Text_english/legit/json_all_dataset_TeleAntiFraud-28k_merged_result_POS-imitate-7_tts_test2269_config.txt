@@ -1,0 +1,10 @@
+Speaker1: Hi, are haircuts available for booking here?
+Speaker2: Hello, can I help you make a reservation for what time?
+Speaker1: Can I meet you at four o'clock tomorrow afternoon?
+Speaker2: Can I come at four in the afternoon tomorrow? Is it your first time here?
+Speaker1: Yes, first time, how many days in advance do you need to book here?
+Speaker2: It's usually recommended to make an appointment a day in advance to ensure you have enough time and service.
+Speaker1: Okay, I'll come over at four o'clock tomorrow. And how much does it cost to cut a middle-length hairstyle?
+Speaker2: A typical haircut for middle schoolers is around 150 yuan. If additional services like coloring or straightening are needed, the cost may vary.
+Speaker1: I understand, thank you. Then I will arrive on time tomorrow.
+Speaker2: Okay, see you tomorrow. If you have any other needs, feel free to contact us anytime.

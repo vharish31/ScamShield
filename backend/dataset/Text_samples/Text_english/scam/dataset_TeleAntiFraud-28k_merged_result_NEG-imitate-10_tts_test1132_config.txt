@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of Guangdian Yinhang, Zhang manager.
+Speaker2: Hello, do you have anything?
+Speaker1: So, our bank recently introduced a very attractive loan project with a very low interest rate. I want to know if you're interested.
+Speaker2: Hey, do you have a loan? I recently have some cash needs.
+Speaker1: Great, this loan product is perfect for you. For your convenience, I'll send you a link, you can apply directly through it.
+Speaker2: Okay, how do I receive this link?
+Speaker1: Please wait for a moment, I will send you the link via text message. Once you receive it, just click on it to enter the application page.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, in addition, to confirm your identity, I need you to provide a verification code, this verification code will be sent to your phone, you tell me after receiving it.
+Speaker2: Okay, I understand.

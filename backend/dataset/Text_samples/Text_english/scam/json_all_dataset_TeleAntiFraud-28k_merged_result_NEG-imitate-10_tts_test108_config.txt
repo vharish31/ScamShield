@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hello, I am the customer service manager of the construction bank loan center, your previous loan application has been approved, and we need to confirm some information.
+Speaker2: Oh, is that so? When did I apply for a loan?
+Speaker1: You submitted an application on our website last week, and your information has been reviewed and approved. However, we need you to click on the link to update some personal information so that we can quickly process the payment.
+Speaker2: Okay, how do I operate it?
+Speaker1: Just click on this link and fill out the relevant information as instructed. The link is: [fake link], please confirm.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, please let me know once the operation is done, we will quickly process your application.
+Speaker2: Okay, thank you.

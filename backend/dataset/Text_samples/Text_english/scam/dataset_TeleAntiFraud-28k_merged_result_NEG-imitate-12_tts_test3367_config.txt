@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Zhang Ming? This is the express delivery customer service, how can I help you?
+Speaker2: Yes, what's up?
+Speaker1: I had a package here before, but now it can't be delivered because of an address issue.
+Speaker2: What should we do?
+Speaker1: To ensure the safety of your package, we need you to provide some information to confirm your identity.
+Speaker2: What information do you need?
+Speaker1: Please provide the last six digits of your ID number and your bank card number, so we can ensure the safety of the package.
+Speaker2: This isn't good, I'm afraid of risks.
+Speaker1: Don't worry, this is our standard process, and we will protect your personal information. Moreover, for convenience, you can click on the links we provide to complete the verification online.
+Speaker2: Okay, I'll try.

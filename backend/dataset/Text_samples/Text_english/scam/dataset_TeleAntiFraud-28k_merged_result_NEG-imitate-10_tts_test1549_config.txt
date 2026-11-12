@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am a customer manager of China Construction Bank, Li.
+Speaker2: Hello, do you have anything?
+Speaker1: Is that so? We recently have a special discount loan activity for our sales staff, do you know if you're interested in learning more?
+Speaker2: Loan? I don't really need a loan.
+Speaker1: This loan activity is very favorable, interest rate is low, approval is fast, and there are no hidden fees. If you are interested, you can click on this link to learn more.
+Speaker2: Link? How do I click?
+Speaker1: You can add me on WeChat, I'll send you a link, you click on it and you'll see the detailed information.
+Speaker2: Wechat? I add you?
+Speaker1: Okay, add me on WeChat with the username abc123. After you add me, I'll send you a link.
+Speaker2: Okay, I'll add you.

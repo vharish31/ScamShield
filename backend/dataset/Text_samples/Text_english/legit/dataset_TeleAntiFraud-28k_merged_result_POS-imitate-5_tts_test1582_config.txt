@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm the customer service of the shared bike platform. I noticed that you've been using our platform quite frequently recently. Do you have any suggestions or opinions about our service?
+Speaker2: Oh, hello, I think your service is pretty good, just sometimes it's hard to find a car.
+Speaker1: Hmm, this is indeed the area we are actively optimizing, we are also increasing car deployment and optimizing car distribution.
+Speaker2: That's good, but sometimes we encounter breakdown cars, can we have a faster processing mechanism?
+Speaker1: Thank you very much for your suggestions. We have strengthened our quick response and maintenance team for faulty vehicles, if you encounter this situation again, please report it through the App at any time, we will handle it quickly.
+Speaker2: Okay, then I'll relax, but what about when the weather is bad and using a car takes longer, can this cost be reduced a bit?
+Speaker1: Understand your needs, in case of bad weather, we will have some discount measures, such as free extension of usage time, etc. You can check related notifications in the App.
+Speaker2: Okay, what about payment methods? Can we add more options?
+Speaker1: Currently we support WeChat payment and AliPay payment, and in the future we will consider adding more payment methods to meet the needs of different users.
+Speaker2: Okay, thank you for your reply, I hope your service keeps getting better.
+Speaker1: Thank you for your support and suggestions. If you have any questions, please contact our customer service at any time. Have a happy day.

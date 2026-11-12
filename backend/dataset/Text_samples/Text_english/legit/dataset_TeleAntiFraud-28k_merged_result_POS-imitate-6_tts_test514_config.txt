@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Uh, hello
+Speaker1: I have an appointment at 3 PM.
+Speaker2: Okay, are you the 3:00 PM appointment?
+Speaker1: Okay, but I might be a few minutes late.
+Speaker2: No problem, you can arrive between 3 and 3:30.
+Speaker1: Okay, thank you. How long will it take?
+Speaker2: In general, a haircut and head wash usually takes about 50 minutes.
+Speaker1: Okay, can we finish at around 4 o'clock?
+Speaker2: Hey, about this time, do you need to make an appointment for the next time?
+Speaker1: No need, thank you.
+Speaker2: Okay, just come directly in the afternoon, see you later.
+Speaker1: Okay, bye.

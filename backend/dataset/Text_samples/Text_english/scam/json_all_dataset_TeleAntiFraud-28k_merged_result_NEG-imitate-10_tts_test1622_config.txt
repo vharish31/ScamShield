@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hi, I'm a customer service representative from Beijing microfinance. I see that you have a loan record with us in the past. We have a new customer promotion now. Would you like to know more about it?
+Speaker2: Hey, is that so? Then what do you guys have in discounts?
+Speaker1: That's it, we now have a fast loan service that doesn't require collateral, approval is quick, and the interest rate is much lower than similar products on the market. If you're interested, you can click on the link we send to you and apply online.
+Speaker2: Is that so? Are your links safe?
+Speaker1: Of course, we are a legitimate financial institution, so all processes are strictly confidential. Simply click on the link and follow the instructions to complete the application. To ensure your information is secure, we recommend you complete the application as soon as possible to avoid missing out on the offer.
+Speaker2: Okay, let me try it out.
+Speaker1: Okay, I'll send you the link now. Please pay attention to the SMS. If you have any issues, feel free to call our customer service anytime.
+Speaker2: Okay, thank you.

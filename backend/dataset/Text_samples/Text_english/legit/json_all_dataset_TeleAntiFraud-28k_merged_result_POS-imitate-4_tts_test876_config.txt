@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of Xiǎnwèi rǎntiān, did you order takeout from us yesterday? Do you still think our service and dishes are satisfactory?
+Speaker2: Oh, hello, I remember that meal, it was quite good, especially your ma po tofu, the taste was great.
+Speaker1: Great, I'm so happy to hear your positive feedback on our dishes. How about our delivery speed and service attitude?
+Speaker2: The delivery speed was quite fast, and the service attitude was quite good, very satisfied.
+Speaker1: Thank you very much for your feedback. We will continue to strive to provide better service. By the way, do you have any suggestions for our dishes?
+Speaker2: I think your menu could have more vegetarian options, sometimes I don't eat meat and want something clean and simple.
+Speaker1: Hmm, this suggestion is great, we will consider adding more vegetarian options. Do you have any other questions or feedback?
+Speaker2: No more, I am very satisfied with your service, I will order again next time.
+Speaker1: Thank you very much for your support. I hope to serve you again next time. If you need anything, please feel free to contact us anytime.
+Speaker2: Okay, thank you, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, how are you? I'm good, how about you?
+Speaker1: I'm not bad, thank you. Are you busy lately?
+Speaker2: Hello, just work is a bit much. You?
+Speaker1: I'm doing well here, I've been preparing a project lately.
+Speaker2: Sounds good, do you need help?
+Speaker1: No need now, but thank you for your concern. Hey, do you have time this weekend? Want to go eat together?
+Speaker2: Sure, what do you like to eat? I have a few good places here.
+Speaker1: Whenever, your favorite place is good, you decide.
+Speaker2: I'll check and find a place, then notify you later.

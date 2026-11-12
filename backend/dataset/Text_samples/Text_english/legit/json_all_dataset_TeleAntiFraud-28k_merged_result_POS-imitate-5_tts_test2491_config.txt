@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Are you Liu Xiaoliu? Did you make an appointment for a haircut at 2 PM today?
+Speaker2: Uh, yes, it's my appointment, did I arrive?
+Speaker1: You arrived, that's great, come over here with me.
+Speaker2: Okay, thank you.
+Speaker1: No problem, what hairstyle do you want today?
+Speaker2: I want to cut my hair short, clean and fresh.
+Speaker1: Okay, we have several options here. Do you prefer Korean short hair or business short hair?
+Speaker2: Let's have a Korean short haircut, it looks younger.
+Speaker1: Okay, let's start now.

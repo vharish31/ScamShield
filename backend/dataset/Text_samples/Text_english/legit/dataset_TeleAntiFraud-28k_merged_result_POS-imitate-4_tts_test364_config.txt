@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you here to consult our in-store massage service?
+Speaker1: Yes, I want to know more about your service hours and prices here?
+Speaker2: Our service hours here are from 10 am to 10 pm, and the prices vary depending on the different massage projects, such as a full-body massage for 200 yuan per time, and a foot massage for 150 yuan.
+Speaker1: Hey, how far in advance do we need to make that appointment?
+Speaker2: We suggest booking a day in advance to ensure there's enough time.
+Speaker1: Okay, can I make a reservation for tomorrow afternoon at 2 pm?
+Speaker2: Sure, I'll book a full body massage for you tomorrow at 2 pm. Don't forget to bring your ID.
+Speaker1: Okay, thank you. Is there another question? How do I walk here for the first time?
+Speaker2: After getting off the subway station, walk straight along the main road, turn right at the first cross street, walk about 300 meters, and you'll see our store, which has a blue sign that says 'Relaxed Roof'.
+Speaker1: I understand, thank you for your help.
+Speaker2: No problem, if you have other questions, feel free to call me anytime. Have a nice day.

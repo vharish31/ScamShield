@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, how have you been recently?
+Speaker2: Hi, been busy lately. How about you?
+Speaker1: Yeah, work is pretty busy. Did you move to a new place?
+Speaker2: Yeah, just moved in and haven't had much time to organize things yet.
+Speaker1: Where is the new neighbor?
+Speaker2: Just in the city center, transportation is very convenient.
+Speaker1: Let's go to your house next time and bring some stuff with us.
+Speaker2: Great, welcome! What time is convenient for you?
+Speaker1: How was your weekend?
+Speaker2: I can go on weekends, I rested exactly on that day.

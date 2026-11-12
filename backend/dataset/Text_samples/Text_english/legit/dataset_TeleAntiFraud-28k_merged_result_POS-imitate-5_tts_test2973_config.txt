@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: I just saw a smartwatch on your website and wanted to know more about this product.
+Speaker2: Okay, this is our new smartwatch that supports heart rate monitoring, sleep analysis, multiple exercise modes, and waterproof functionality.
+Speaker1: How long does the battery of this watch last?
+Speaker2: This watch's battery life can last up to seven days in normal use, but if you frequently use all its features, it may be a little shorter.
+Speaker1: What about the price?
+Speaker2: This smartwatch is priced at 1,200 yuan, and you can now enjoy a 90% discount when purchasing.
+Speaker1: Okay, I'll think about it. Yes, do you have a seven-day no-reason return policy?
+Speaker2: Yes, we support seven-day no-reason return, as long as the product remains unopened and undamaged, it won't affect secondary sales.
+Speaker1: I understand, thank you for your detailed explanation.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. I hope you have a pleasant shopping experience.

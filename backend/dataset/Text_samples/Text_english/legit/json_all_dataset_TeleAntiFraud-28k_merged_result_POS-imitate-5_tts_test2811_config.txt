@@ -1,0 +1,9 @@
+Speaker1: Hey, are you little Zhang?
+Speaker2: Yes, who are you?
+Speaker1: I'm Little Li from the neighboring community, we agreed to go to the movie together today.
+Speaker2: Oh, okay, I almost forgot. Are you ready?
+Speaker1: Are you ready? When do you have time to come pick me up?
+Speaker2: I'll be at your community door in about fifteen minutes, okay?
+Speaker1: Okay, I'll wait for you at the door.
+Speaker2: Okay, be careful on the road, see you later.
+Speaker1: Okay, see you later.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Xiao Zhang, a customer service representative from the company, calling because there was an issue with the product you recently purchased on our website and we need to process a refund.
+Speaker2: What's the issue?
+Speaker1: Your product was lost during transportation, to compensate you, we need to process a refund, but you need to first click on a link to confirm your bank account information.
+Speaker2: Okay, how do I operate it?
+Speaker1: Just click this link and follow the instructions on the page to complete the operation. After completing the operation, your refund will be immediately credited to your account.
+Speaker2: Is this link safe?
+Speaker1: Absolutely safe, how can our work link possibly be unsafe? You don't have to worry.
+Speaker2: Okay, let me try.
+Speaker1: Okay, after you finish operating, if you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

@@ -1,0 +1,11 @@
+Speaker1: Hello, I'm a little elephant, I'm the customer service of the point store.
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: I see you have a lot of points in your account that haven't been used yet. If you don't use them by 12 am tonight, they will expire and be cleared.
+Speaker2: Really? I didn't receive any notification?
+Speaker1: It might be because you set up text message interception on your phone, or because your email was mistakenly identified as spam.
+Speaker2: How many points do I have in my account now?
+Speaker1: Your account currently has 120,000 points, which can be exchanged for many products.
+Speaker2: Can I exchange something?
+Speaker1: For example, white wine gift boxes, famous brand four-piece suits, high-definition TVs, and smartwatches are all electronic products that can be exchanged with points.
+Speaker2: Is there any other discount?
+Speaker1: Sure, if you exchange now, I can help you apply for a special privilege, the remaining points can be kept, and you will also receive an additional gift package, which includes free return and exchange service.

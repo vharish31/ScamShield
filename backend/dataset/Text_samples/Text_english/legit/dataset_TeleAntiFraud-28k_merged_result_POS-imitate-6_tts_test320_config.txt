@@ -1,0 +1,12 @@
+Speaker1: Hey, how's it going? Can you tell me how long it usually takes for your delivery service to arrive?
+Speaker2: Hello, in general, our express delivery service can be delivered within two days after ordering, if there is a holiday, it may be slightly delayed.
+Speaker1: Can I get it tomorrow?
+Speaker2: Okay, as long as you place your order before 4 pm today, it will be delivered tomorrow.
+Speaker1: Is it okay if I have an address that's quite far away, will it affect delivery?
+Speaker2: No problem, we cover most areas of the country, even remote areas, we can ensure delivery. You can place an order first, if there are any special circumstances, we will contact you promptly.
+Speaker1: That's great, I will place the order soon. Moreover, can you issue an invoice?
+Speaker2: Of course, you can choose to issue an electronic invoice when you place an order and fill in the relevant information.
+Speaker1: How do I operate electronic invoices? I'm not very clear.
+Speaker2: It's simple, when you place an order, there will be an option to make an invoice on the payment page. Click it and follow the instructions to fill in the invoice header and tax number etc. and submit.
+Speaker1: Okay, thank you for your patience in answering, I'll go place an order now.
+Speaker2: No problem, feel free to contact us if you have any other issues. Have a great shopping!

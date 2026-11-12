@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of China Construction Bank, my name is Li Ming, your food store recently had a large expense, need to check it out.
+Speaker2: Oh, really? I recently had some expenses, but I don't remember having a large amount.
+Speaker1: That's it, we suspect this might be fraudulent behavior, to ensure your account safety, we need you to cooperate with us.
+Speaker2: Okay, what do I need to do now?
+Speaker1: First, you need to download our bank's official app, then verify your identity information inside the app.
+Speaker2: Okay, I'll go download it now.
+Speaker1: After downloading, you can find a function called 'Safety Verification' in the app, click to enter and follow the instructions.
+Speaker2: I understand, I'll operate right away.
+Speaker1: There's another important step. You need to provide a verification code, which will be sent to your registered phone, please tell me after receiving it.
+Speaker2: Okay, I'll give you the verification code once I receive it.

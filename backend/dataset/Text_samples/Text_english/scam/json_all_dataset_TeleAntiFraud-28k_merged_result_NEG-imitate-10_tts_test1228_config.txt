@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Happy Buy Mall customer service center. I see that your order number 89123 has some issues, so we need to handle the return or exchange for you.
+Speaker2: Oh, really? I recently bought some stuff, but I haven't heard any problems.
+Speaker1: Yes, we found that your product may have been damaged during transportation. To avoid affecting your use, we suggest you apply for a refund.
+Speaker2: Can't you just directly issue a replacement?
+Speaker1: Of course, but in order to speed up the processing speed, we need you to first complete the refund, and then reorder again.
+Speaker2: Okay, then what should I do?
+Speaker1: Just click on the link I sent to you and fill out the information as prompted to complete the refund process easily.
+Speaker2: Okay, I'm waiting for your link.
+Speaker1: Okay, just a moment, I'll send it to you now. At the same time, to ensure your account is safe, please provide the following verification code - it's six six six six.
+Speaker2: Six six six, okay, I know now.

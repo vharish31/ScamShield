@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I want to order some takeout
+Speaker2: Hello, which restaurant do you want to order takeout from?
+Speaker1: Let's go to that new hot pot restaurant. I heard the taste is good.
+Speaker2: Okay, what type of hot pot do you want to order? We have beef hot pot, seafood hot pot and others to choose from here.
+Speaker1: The seafood hotpot sounds good, give me a portion please.
+Speaker2: Okay, seafood hotpot for one person. Do you need to add any small dishes or drinks?
+Speaker1: Let's have a small pizza and a Coke.
+Speaker2: Okay, one seafood hot pot, one small bun, one bottle of Coke. What's your address?
+Speaker1: The address is Happiness Villa No. 3, Building 2, Unit 402, Room 2
+Speaker2: Okay, your order has been recorded. It will arrive in about 30 minutes. If there are any issues, we will contact you promptly. Thank you for your purchase!

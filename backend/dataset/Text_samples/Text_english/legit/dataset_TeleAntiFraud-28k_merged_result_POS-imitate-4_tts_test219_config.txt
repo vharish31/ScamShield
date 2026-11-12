@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, are you there?
+Speaker2: Hello, little Li, I'm here, what's up?
+Speaker1: That's it, I recently made a reservation at your restaurant, but suddenly there's an urgent matter and I might be late a little.
+Speaker2: No problem, how long will you be able to arrive?
+Speaker1: Can we arrive around 4:40?
+Speaker2: Okay, we'll save your spot, just be careful on the road.
+Speaker1: Thank you, there's another question. I chose the window seat when I booked, can it be maintained?
+Speaker2: Of course, we will do our best to meet your requirements. However, if the window seat is already taken by another customer at the time, you may need to adjust a little.
+Speaker1: Okay, I understand, thank you for your cooperation.
+Speaker2: You're welcome. Feel free to contact us anytime if you have any questions. We're always here to serve you.

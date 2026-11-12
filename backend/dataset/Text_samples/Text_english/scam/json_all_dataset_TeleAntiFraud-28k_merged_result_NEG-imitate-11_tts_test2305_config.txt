@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Zong?
+Speaker2: Hey, who are you?
+Speaker1: I am the client manager of Agricultural and Commercial Bank, we recently launched a very affordable loan service, monthly interest only 0.02, do you have any recent funding needs?
+Speaker2: Well, I have enough money in my hand right now, but I'll understand it better if I know more.
+Speaker1: Great, our loan service is really cheap and the procedures are simple. You can add my WeChat first, I have some detailed info to send you.
+Speaker2: Add WeChat, okay, what's your WeChat number?
+Speaker1: My WeChat is LM123456, add me and I have some promotional activities that need your confirmation.
+Speaker2: Okay, I'll add one more.
+Speaker1: Thank you for your cooperation. I will send you the information as soon as possible. If you have any questions, please contact me anytime.
+Speaker2: Okay, thank you.

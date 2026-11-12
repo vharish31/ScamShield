@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform. Why hasn't your order been delivered yet?
+Speaker2: Hello, I'm Liu Xiaohuang, I'm on the road, there might be some traffic congestion.
+Speaker1: Where are you now? The customer is quite urgent.
+Speaker2: I am now at the intersection of Xingguang Daidao and Guangming Lu, and I estimate it will take me fifteen minutes to arrive.
+Speaker1: Okay, I'll inform the customer. By the way, remember to tell the customer that we're very sorry and will deliver quickly.
+Speaker2: No problem, I will explain clearly to the customer.
+Speaker1: Also, there's a customized hamburger in the order, make sure to confirm if it's made according to the customer's request.
+Speaker2: Okay, I'll check the order again. Thank you for reminding me.
+Speaker1: No problem, we're all here to provide better service to our customers. Be careful on the road.
+Speaker2: Thank you, I will pay attention. Goodbye.

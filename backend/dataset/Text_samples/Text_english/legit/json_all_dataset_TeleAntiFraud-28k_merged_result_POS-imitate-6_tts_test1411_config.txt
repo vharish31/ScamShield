@@ -1,0 +1,12 @@
+Speaker1: Hello, do you have any cake here?
+Speaker2: Yes, we have various flavors of cakes here. Which one would you like to know more about?
+Speaker1: I want to order a chocolate flavor, do you know how much it costs?
+Speaker2: The chocolate cake here is six inches tall and costs one hundred and twenty yuan, while the eight-inch cake costs two hundred yuan.
+Speaker1: Can I send the eight-inch one tomorrow afternoon?
+Speaker2: Is it okay, what time do you want me to send it?
+Speaker1: About three in the afternoon.
+Speaker2: Okay, we will deliver it in the afternoon of tomorrow around three o'clock. Do you need phone number and address?
+Speaker1: Please, my phone number is 13801380138, my address is Xinghua Lu 100.
+Speaker2: Okay, I have recorded it down. We will deliver it on time tomorrow afternoon at three o'clock. Is there anything else you need help with?
+Speaker1: No more, thank you.
+Speaker2: You're welcome. I wish you have a nice day. Bye.

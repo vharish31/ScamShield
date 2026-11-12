@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you sell that kind of household air purifier here?
+Speaker2: Yes, we have various models of air purifiers here. Which one do you want to know about?
+Speaker1: It's the kind that's suitable for small rooms and not too expensive.
+Speaker2: This is a good option for a small room, and we have a product with a very high value for money, priced at around one thousand yuan, with excellent filtration performance.
+Speaker1: Is there anything special about this air purifier that can be heard from thousands of people?
+Speaker2: This air purifier has a smart sensing function, can automatically adjust purification strength, and has a timer switch, very convenient to use.
+Speaker1: Can I go to your store now to take a look?
+Speaker2: Of course, our store is on the third floor of the electronic city in the city center. When you come, I will prepare a detailed introduction of this air purifier for you.

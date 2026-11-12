@@ -1,0 +1,12 @@
+Speaker1: Hello, are you here to book home services from Happy Family Home Company?
+Speaker2: Yes, I saw your advertisement, and I want to know more about your service content and price.
+Speaker1: Okay, we provide daily cleaning, moving and organizing, and electronic cleaning services among others. The specific prices are determined by the content of the service and the time taken.
+Speaker2: How do you charge for your daily cleaning service?
+Speaker1: We calculate our daily cleaning costs at eighty yuan per hour, but if the cleaning area is large or has special requirements, it may be slightly more expensive.
+Speaker2: How much would it cost for a four-hour service if I make a reservation?
+Speaker1: The service fee for four hours is three hundred and twenty yuan. If you book during non-peak hours, we also have a discount.
+Speaker2: Okay, I plan to book this weekend morning, can you arrange it?
+Speaker1: Of course, we have some free time on Saturday morning. What time do you want us to arrive?
+Speaker2: Can I leave at 9?
+Speaker1: 9 am is okay, so I'll book it for you. After booking is successful, we'll send you a confirmation text message, so please pay attention to check it.
+Speaker2: Okay, thank you.

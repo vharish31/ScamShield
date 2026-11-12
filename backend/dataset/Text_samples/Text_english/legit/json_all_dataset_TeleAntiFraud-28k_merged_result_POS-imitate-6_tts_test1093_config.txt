@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I'm the downstairs shop, your water is here, when are you free to come down and get it?
+Speaker2: Oh, I ordered water, I'll be right down, just wait for me a sec.
+Speaker1: Okay, I'll wait for you here. The water is at the door.
+Speaker2: Okay, it'll be a few minutes, can you wait?
+Speaker1: No problem, hurry down quickly, don't let the water get cold.
+Speaker2: Haha, it's no big deal if the water's cold, but I'll still hurry down.
+Speaker1: Okay, I'm still waiting to deliver goods to others here.
+Speaker2: Understood, I'll go now, you wait a minute.

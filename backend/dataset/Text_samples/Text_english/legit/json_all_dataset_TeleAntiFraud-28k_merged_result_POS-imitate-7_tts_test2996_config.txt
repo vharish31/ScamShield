@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you please tell me about your restaurant's menu and business hours?
+Speaker2: Of course, our restaurant provides both Chinese and Western cuisine, business hours are from 10 am to 10 pm.
+Speaker1: What do you recommend dishes?
+Speaker2: Our store's signboard menu has kung pao chicken and beef bulgogi, very popular.
+Speaker1: What is the approximate price range of these dishes?
+Speaker2: Kung Pao Chicken is around 35 yuan, and beef ribs are priced differently based on portion size between 100 to 150 yuan.
+Speaker1: Sure, can I reserve a spot for 7 pm tomorrow evening?
+Speaker2: Of course, the seven o'clock position for tomorrow night hasn't been reserved yet, I can reserve a four-person seat for you.
+Speaker1: Great, we'll arrive on time. Also, do you accept food delivery orders?
+Speaker2: We accept takeout orders, but please notify us two hours in advance to ensure the freshness and taste of the food.

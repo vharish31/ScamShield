@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to consult your household services.
+Speaker2: Of course, we provide various services such as cleaning, maid, moving, etc. Which one do you specifically need?
+Speaker1: Have you got any recommendations for a babysitter for my kids? I'm a bit busy at home lately.
+Speaker2: Yes, we have many experienced maids. You can tell us your specific requirements, such as working hours, salary and benefits, and we will match you with the most suitable person.
+Speaker1: I hope it's a full-time job, we can negotiate on the salary, but mainly I hope to find someone patient and meticulous for my child.
+Speaker2: Understood, I will record your requirements and then quickly recommend suitable nannies. What time is convenient for you, we can arrange an interview time.
+Speaker1: Is this weekend okay?
+Speaker2: Okay, I will arrange it for the weekend. I will notify you the specific time through phone or text message. Is there anything else you need me to help with?
+Speaker1: Thanks for your help. I'm sorry, I don't have it right now.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Have a great day, goodbye.
+Speaker1: Goodbye.

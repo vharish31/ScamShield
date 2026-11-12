@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me how to order your taxi service?
+Speaker2: Okay, you can place an order through our app, open the app and select the car hailing service, enter your destination, and then confirm the order.
+Speaker1: If I'm using it for the first time, do I need to register?
+Speaker2: Yes, first-time users need to register, the registration process is very simple, just need to provide phone number, set password, then can complete registration.
+Speaker1: Can I use it immediately after registering?
+Speaker2: Of course, after registering you can immediately use our service.
+Speaker1: What's the best way to contact your customer service if I have any issues?
+Speaker2: You can find the customer service entrance in the app and click on it to directly contact our customer service specialist. You can also call the customer service hotline, the phone number is in the app's help center.
+Speaker1: Thanks for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy use.

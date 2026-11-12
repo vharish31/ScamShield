@@ -1,0 +1,10 @@
+Speaker1: Hello, I am small Li, from Tian Tian Gou Wuo Ping Tai's customer service team.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed some issues with your recent order. It might be due to the system upgrade.
+Speaker2: Is that so? My order has issues?
+Speaker1: Yes, don't worry, we have already prepared a solution for you.
+Speaker2: Great, what's the solution?
+Speaker1: Just click on the link we send to you, download our latest version of the app, and then reorder, and we'll have a dedicated customer service handle it for you.
+Speaker2: Okay, what should I do?
+Speaker1: Just click this link, it will automatically redirect to the download page.
+Speaker2: Okay, I'm downloading now. Thank you for your help.

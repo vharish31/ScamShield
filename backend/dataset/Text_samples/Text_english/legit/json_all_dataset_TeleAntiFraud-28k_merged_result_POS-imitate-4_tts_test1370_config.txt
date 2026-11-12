@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I just moved to a new community, I want to know about some policies of the property management, can you help me out?
+Speaker2: Hello, little Zhang, I am small Li from the property service center, what can I help you with?
+Speaker1: What should I do if there's a leak in the water pipes at home?
+Speaker2: You can call our service hotline at any time, and we will send a professional repairman to your door. If it's an emergency, we also provide 24-hour emergency repair service.
+Speaker1: If I discover a leak at ten o'clock at night, can I call someone?
+Speaker2: Of course, we have 24-hour on-call staff, you can contact us anytime.
+Speaker1: Okay, if I just want to consult some questions and not involve urgent repairs, can I come to the property management office during the day?
+Speaker2: Sure, our work hours are from 9am to 5pm, you can come to the office to consult during this time.
+Speaker1: Can I come over at around 10 am tomorrow morning?
+Speaker2: Of course, tomorrow at 10 am we'll be in the office waiting for you. Any questions can be resolved face-to-face.

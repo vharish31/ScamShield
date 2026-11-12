@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the express delivery company's customer service representative. You have a package that needs to be confirmed for delivery, but we found some issues with your information in the system. Please assist us in handling it.
+Speaker2: What problem?
+Speaker1: Your phone number might be incorrect, please provide a correct phone number to ensure smooth delivery.
+Speaker2: Okay, my phone number is 000-000-0000.
+Speaker1: Okay, we have recorded your phone number. Additionally, to ensure the safety of your package, we need you to click on a link to verify your identity.
+Speaker2: Link? How do you send it to me?
+Speaker1: Can you add our customer service WeChat, we will send you a link through WeChat? Add WeChat?
+Speaker2: Okay, let's go.
+Speaker1: Great, our WeChat number is speed delivery customer service one, add it and tell me once, we will handle your express issue immediately.
+Speaker2: Okay, I'll add now.

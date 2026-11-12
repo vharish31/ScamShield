@@ -1,0 +1,10 @@
+Speaker1: Hello, hello, are you Lee Huai? I am Zhang Wei, the customer manager of the Agricultural Bank of China, Tianhe Branch.
+Speaker2: Yes, hello, what can I help you with?
+Speaker1: We recently launched a special loan project, mainly targeting customers with properties, if you're interested, you can first take a look.
+Speaker2: Loan project? I recently have some capital needs, can you give me a detailed explanation?
+Speaker1: Of course, this project is called "Business Loan", and the maximum credit amount is 50,000, and the procedures are simple, and the approval is fast.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: You just need to provide copies of your property certificate and related documents, then fill out an application form. For your convenience, I can send you a link, and you can apply online by clicking on it.
+Speaker2: That's quite convenient. I'll try it out. Can you send me the link?
+Speaker1: Okay, I'll send it to you right away. Additionally, to ensure your rights, we recommend downloading our official app for operation, which can avoid unnecessary troubles.
+Speaker2: Okay, I'll download it now. Thank you for your help.

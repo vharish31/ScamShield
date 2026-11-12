@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am an e-commerce platform customer service representative. I want to confirm your order status.
+Speaker2: Hello, did you have any questions about the recent exam I took?
+Speaker1: Is it like this? Your order shows processing, do you want to confirm your shipping address is correct?
+Speaker2: Okay, could you please review the address: Shanghai City Pudong New District Century Avenue 800.
+Speaker1: Okay, the address I see here is correct.
+Speaker2: Okay, no problem.
+Speaker1: Okay, by the way, do you know our platform has a point activity now?
+Speaker2: What is the specifics of the point accumulation activity?
+Speaker1: That's right, for every 100 yuan spent, you can earn 10 points, which can be used to redeem products or discounts on the platform.
+Speaker2: Oh, like this, then how do I check my points?
+Speaker1: You can log in to your account in our app, enter the personal center, click on the points management, and then you can view and use your points.
+Speaker2: Okay, thank you for your reminder. I will check it out.

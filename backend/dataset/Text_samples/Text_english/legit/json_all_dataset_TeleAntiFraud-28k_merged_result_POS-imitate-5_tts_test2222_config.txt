@@ -1,0 +1,12 @@
+Speaker1: Hi, I'm little Zhang, I reserved a place for you at three o'clock.
+Speaker2: Hello, little Zhang, what time slot did you book?
+Speaker1: I reserved a four-person table from 3 to 5 pm.
+Speaker2: Okay, let's check. Hmm, your reservation information has been found.
+Speaker1: Okay, I'll be there around 3:00, is that okay?
+Speaker2: Sure, little Zhang, you can arrive at three o'clock without any problems.
+Speaker1: When I arrived, was it possible to go directly to the seat, or did I need to first go to the front desk to register?
+Speaker2: You can directly go to the reserved seats, the waiter will confirm your reservation information.
+Speaker1: Okay, what if there are any changes, how can I contact you guys?
+Speaker2: You can directly dial our phone, the front desk will help you.
+Speaker1: Okay, thank you, I'll see you later.
+Speaker2: No problem, see you later, hope you have a nice dining experience.

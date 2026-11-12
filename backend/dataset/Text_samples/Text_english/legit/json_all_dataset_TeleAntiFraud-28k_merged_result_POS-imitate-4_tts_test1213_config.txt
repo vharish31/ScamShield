@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, this is the happy restaurant, the spicy chicken you ordered just now is sold out here, can you try another menu?
+Speaker2: Oh, the spicy chicken vendor is done, what other recommendations do you have?
+Speaker1: We have fish and chips, kung pao chicken and spicy stir-fried bean sprouts, all of which are quite popular, would you like to try?
+Speaker2: Fish and pork ribs sound good, so I'll switch to fish and pork ribs.
+Speaker1: Okay, fish and pork ribbons, are there any other things that need to be added?
+Speaker2: Let's add another portion of stir-fried green vegetables, a little refreshing.
+Speaker1: Okay, one portion of stir-fried green vegetables, your order has been recorded, it will be delivered in about thirty minutes, the address is happiness road twelve number?
+Speaker2: Okay, happiness road twelve, no problem.
+Speaker1: Okay, thank you for your order. If you have any issues, please contact us anytime. Enjoy your meal.
+Speaker2: Okay, thank you, goodbye.

@@ -1,0 +1,13 @@
+Speaker2: Hello, you good?
+Speaker1: Is that true that you guys are hiring at the hair salon?
+Speaker2: Yes, we really have this requirement.
+Speaker1: What conditions do I need?
+Speaker2: It's mainly about having a hairdresser license, some work experience, of course if you're new, we also have training.
+Speaker1: I'm a newbie, but I'm eager to learn.
+Speaker2: That's fine, our focus here is on learning and growth. You can come for an interview to see if it's suitable.
+Speaker1: Okay, when can I come for the interview?
+Speaker2: Do you have time tomorrow afternoon? Can you come to our store? I'll give you a detailed introduction.
+Speaker1: Can I come at 2 PM tomorrow?
+Speaker2: To the left or right of three o'clock, this side is relatively quiet, won't disturb you.
+Speaker1: Okay, I'll be there at three o'clock tomorrow, thank you.
+Speaker2: No problem, see you tomorrow.

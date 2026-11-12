@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there?
+Speaker2: What's up?
+Speaker1: Do you know any good hair salon nearby?
+Speaker2: Hey, I know a pretty good one called "Hair Salon", their skills are pretty good.
+Speaker1: Do I need to make a reservation?
+Speaker2: It's best to make a reservation, especially on weekends when there are more people.
+Speaker1: How do I make a reservation?
+Speaker2: You can directly call them at 555-888-8888 and tell them you want to make an appointment.
+Speaker1: Okay, thank you, I'll call to make an appointment soon.
+Speaker2: No problem, I hope you cut a satisfying hairstyle.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's menu today? Do you have any recommended dishes?
+Speaker2: Hello, we have several special dishes today, such as ginger and broccoli and spicy pork, as well as fresh seafood skewers, which are all very popular with customers.
+Speaker1: The sound is good, I want to book two seats for two people, around 7 pm we will arrive.
+Speaker2: Okay, two people's positions, seven o'clock in the evening, no problem, I will reserve it for you. Do you have any special requirements, such as a window position?
+Speaker1: If there's a spot by the window, that's great. If not, it's okay too.
+Speaker2: Okay, I will do my best to arrange a window seat. Could you please provide your name and contact information so we can confirm the reservation?
+Speaker1: My name is Zhang Huá, phone number is 555-369-888.
+Speaker2: Okay, Mr. Zhang Huang, we have reserved a table for you at seven o'clock tonight. If there are any changes, we will contact you in advance. Enjoy your meal!

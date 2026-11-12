@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you still have the washing machine I saw in your store last time?
+Speaker2: Hello, the washing machine is currently low on stock, only one left.
+Speaker1: That's great, I still want to ask, how long is the repair period for this washing machine?
+Speaker2: The warranty period for our washing machines here is three years. If there are any issues, please contact our after-sales service.
+Speaker1: Then I'll relax, I'll plan to go out and have a look tomorrow.
+Speaker2: Okay, what time is most convenient for you to come over tomorrow morning at 10am?
+Speaker1: I should arrive around eleven.
+Speaker2: Okay, I'll be at the store at 11:00. Just find me there when you arrive.
+Speaker1: Okay, thank you.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, goodbye.

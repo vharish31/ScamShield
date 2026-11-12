@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the princess?
+Speaker2: Hey, who are you?
+Speaker1: Hello, I am a customer service representative from JD.com, there is an unprocessed refund for you here, please cooperate with us to complete the refund process.
+Speaker2: Refund? I haven't bought anything recently.
+Speaker1: "Oh, it's possible that your information has been stolen. For your financial safety, please click on the link we sent and install our security software, so we can track the issue."
+Speaker2: Okay, what should I do?
+Speaker1: Just download and open our safe software, then follow the instructions and our staff will guide you online.
+Speaker2: Is this safe?
+Speaker1: Extremely safe, we are a regular company, this software is designed to protect your personal information and assets. You can rest assured to use it.
+Speaker2: Let's try it out.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service of the food platform. Have you recently ordered takeout from us? Can you give us some feedback?
+Speaker2: Oh, sure, your service is great, and the food is great too.
+Speaker1: Great, thank you for your support. By the way, have you noticed our recent member activity?
+Speaker2: Member activity? Did you notice any discounts?
+Speaker1: Yes, after becoming our member, you can enjoy extra discounts every Tuesday, and your points will be doubled too.
+Speaker2: What's the way to join the members? It sounds good to double the points.
+Speaker1: It's simple. You can apply directly in our app or choose to join during ordering, both have detailed explanations.
+Speaker2: Okay, let me try. Are there any other discount activities?
+Speaker1: Yes, we also have activities to recommend friends to join, for every successful recommendation of a friend, you and your friend will both have a chance to get a free delivery fee.
+Speaker2: This activity is not bad, I can try it out. Thank you for your introduction.

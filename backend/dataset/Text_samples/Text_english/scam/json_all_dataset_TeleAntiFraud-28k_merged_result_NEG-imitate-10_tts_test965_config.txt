@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service of Tiancheng Yinhang's loan, we have a special loan product that is suitable for you, no collateral is required, the approval is fast, the interest rate is low, are you interested in learning more?
+Speaker2: Hello, I'm interested in loan products. Can you give me more details?
+Speaker1: Of course, this loan product is specifically designed for high-quality customers, you just need to provide some basic information, and we can quickly approve you. To ensure safety, I need you to download our bank's official app, this way the information is more secure, and the operation is more convenient. Are you willing to download it?
+Speaker2: Do you want to download the app? It sounds pretty convenient, how do you download this app?
+Speaker1: Okay, just click this link and follow the instructions to download and install. After installation, remember to use your phone number to register, and I will guide you on how to apply for a loan after successful registration.
+Speaker2: Okay, I'll try it out. Is this link safe?
+Speaker1: Absolutely safe, all our bank operations are conducted in a secure environment. You can rest assured, following the link for download, there will be no issues.
+Speaker2: Then I'll try, if there's a problem with the download or anything, how can I contact you?
+Speaker1: You can directly add my WeChat, my WeChat number is abcdef12345, if you have any questions, please contact me at any time, I will help you solve the problem as soon as possible.
+Speaker2: Okay, I'll download it right away. Thank you for your help.

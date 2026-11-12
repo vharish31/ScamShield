@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm Xiaoming, want to consult your hair service.
+Speaker2: Hello, Xiaoming, our hairdressing service here is very professional. What information do you want to know about?
+Speaker1: Can you tell me your business hours and how much does a haircut cost?
+Speaker2: Our store's business hours are from 9am to 9pm, the prices for haircuts vary depending on the different services provided, the basic haircut service is 50 yuan, if you need a hairstyle or hair dyeing, the prices will be higher.
+Speaker1: Can I make an appointment for 2 pm tomorrow at the hair salon?
+Speaker2: Of course, we have a free slot at two o'clock tomorrow afternoon. You can book this time.
+Speaker1: Okay, do I need to pay the deposit in advance?
+Speaker2: You don't have to pay a deposit in advance, you can pay when you come to the salon. However, to ensure your appointment time, it's recommended that you arrive ten minutes early.
+Speaker1: If I have an urgent matter and can't come, how much advance notice do I need to give you guys?
+Speaker2: If you have a special situation and can't come on time, please notify us two hours in advance so we can adjust the schedule accordingly.
+Speaker1: Okay, thank you very much for your detailed answer. I'll see you tomorrow afternoon at two.
+Speaker2: Okay, see you tomorrow, wish you a happy day.

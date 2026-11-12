@@ -1,0 +1,10 @@
+Speaker1: Hello!
+Speaker2: Hello
+Speaker1: Hello, I am Liu from Tiancheng Yinhang's customer service department. We noticed that you applied for a small loan from us previously. Do you know if you are satisfied with our service?
+Speaker2: Great, thank you.
+Speaker1: That's great, our bank has just introduced a new promotion policy, which offers higher loan amounts to our high-quality old customers, with the lowest interest rate at only 0.3%, are you interested in learning more?
+Speaker2: Sure, but I don't have many places to spend money right now.
+Speaker1: Oh, that's how it is. Anyway, opportunities are rare, if you need anything in the future, you can contact us anytime. To make it easy for you to keep up with our latest policies, can I add a WeChat for you?
+Speaker2: Okay, sure.
+Speaker1: Great, I'll add you now. After I finish, I'll send you some detailed info via WeChat. Feel free to contact me anytime if you have any questions.
+Speaker2: Okay, thank you.

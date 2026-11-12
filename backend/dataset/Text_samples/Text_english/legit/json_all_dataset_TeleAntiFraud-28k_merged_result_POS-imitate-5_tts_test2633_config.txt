@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am small Li from the community management, want to confirm with you, is your water fee still unpaid?
+Speaker2: Oh, I've been pretty busy lately, haven't paid the water bill for how long?
+Speaker1: You haven't paid your water bill for two months now, if you don't pay this month, it may affect the water supply.
+Speaker2: What should I do, I've been out lately, not very convenient to go back home.
+Speaker1: You can pay online through our WeChat public account or have someone help you handle it.
+Speaker2: WeChat public account payment sounds convenient, I'll try it out.
+Speaker1: Okay, please open WeChat, search for our public account, click on the online payment, and follow the instructions to complete the payment.
+Speaker2: Okay, thank you for your reminder, I'll go take care of it right away.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you a happy life.
+Speaker2: Okay, bye.

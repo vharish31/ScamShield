@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am small Li, the customer service representative of the commercial bank, there is an important message that needs to be notified to you.
+Speaker2: Hello, what do you have?
+Speaker1: That's it, we found out you have some capital that can be used for investment, there's a particularly good opportunity with very high returns.
+Speaker2: Invest? What specific situation are we talking about?
+Speaker1: This is an internal investment project that is very safe and has stable returns. Just click on this link, fill out the information, and you can start.
+Speaker2: Link? How do I know this is safe?
+Speaker1: This is our official link, absolutely safe. You can try investing a small amount first and the returns are highly observable.
+Speaker2: Okay, let me try.
+Speaker1: Okay, click this link: [link], follow the instructions and you'll be fine. If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, I will try.

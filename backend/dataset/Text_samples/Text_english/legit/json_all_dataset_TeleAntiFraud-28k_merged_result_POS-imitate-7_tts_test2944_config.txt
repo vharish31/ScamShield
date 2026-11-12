@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, can you hear me? Who are you?
+Speaker1: I am the supermarket customer service, just the one you bought cat food from last time at our store, we now have a new promotion, want to notify you.
+Speaker2: Hey, what activities?
+Speaker1: Our cat food is currently on sale for 80% off, and there's also a 100-yuan discount coupon for purchases of 500 yuan or more. If you need it, I can reserve it for you.
+Speaker2: Can I also enjoy this discount on the cat food I bought before?
+Speaker1: This discount is for new orders only, and it cannot be traced back to previous orders. However, if you place an order now, you can enjoy this discount.
+Speaker2: Okay, now I'm placing an order, how do I do it?
+Speaker1: You can directly order cat food on our supermarket app, select the food you need, and input the discount coupon code during checkout.
+Speaker2: Okay, thank you for your reminder, I'm going to place an order now.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you a happy shopping.

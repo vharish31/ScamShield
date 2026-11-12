@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I bought a piece of clothing from your store yesterday, and I found a problem today, and I want to consult how to handle it.
+Speaker2: Hello, what questions can I help you with?
+Speaker1: The sleeves of the clothes are a little off, can I exchange or withdraw?
+Speaker2: You can bring the receipt and clothes to our store, and we will check if it meets the conditions for refund or exchange if it does, we will process it for you.
+Speaker1: Can I go back now?
+Speaker2: Sure, we are open now, you can come anytime.
+Speaker1: Okay, I'll be there in about half an hour. Where are you guys?
+Speaker2: We are on the third floor of the city square, you can come and call to confirm beforehand, the phone number is 0216666666.
+Speaker1: Okay, I understand, thank you, see you later.
+Speaker2: No problem, see you later.

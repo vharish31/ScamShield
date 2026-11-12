@@ -1,0 +1,12 @@
+Speaker1: Hello, are you a courier company?
+Speaker2: Hello, yes, this is the post office. What can I help you with?
+Speaker1: Can you help me check the delivery information for my package?
+Speaker2: Of course, could you please tell me your order number or the sender and recipient's information?
+Speaker1: The order number is 87651324.
+Speaker2: Okay, just a moment, I'll look it up for you.
+Speaker1: Okay, thank you.
+Speaker2: Your package arrived in your city yesterday and should be delivered to your address today.
+Speaker1: Why can't I find the logistics update?
+Speaker2: There might be a delay in the system update, please check again later, you should have the latest logistics info then.
+Speaker1: Okay, I'll wait a moment and check again. If there's still no update, I'll contact you.
+Speaker2: Okay, no problem. If you have any questions, please feel free to contact our customer service anytime. Have a nice day!

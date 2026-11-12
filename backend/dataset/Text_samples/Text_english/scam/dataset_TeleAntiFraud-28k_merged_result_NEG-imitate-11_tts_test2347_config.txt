@@ -1,0 +1,12 @@
+Speaker1: Hello, this is the customer service center, I am Xiao Zhang.
+Speaker2: Hello, what do you have?
+Speaker1: Hey, that's right, we noticed some unusual activity on your account recently, it might be because of a system upgrade issue with data synchronization.
+Speaker2: Ugh, what should we do now?
+Speaker1: To ensure the safety of your account, we need you to cooperate with a simple identity verification.
+Speaker2: Okay, what do I need to do?
+Speaker1: You can click this link to download our official app, and then follow the instructions.
+Speaker2: Download the app? Is it safe?
+Speaker1: Of course, this is our official channel, and you can be sure that your personal information will not be leaked.
+Speaker2: Okay, let me try.
+Speaker1: Okay, download it and log in to complete the verification as instructed. If you have any issues, feel free to contact me anytime.
+Speaker2: Thank you, I will try.

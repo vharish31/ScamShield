@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am Xiaoming, I reserved a place for you in your store tonight at 7 pm.
+Speaker2: Hello, Xiao Ming, yes, we found your reservation here. Is it for two people?
+Speaker1: Yes, that's me and my friend.
+Speaker2: Okay, we will prepare a place for you. Do you have any special requirements? Like a window seat or a quiet corner?
+Speaker1: If there's a quiet corner, that'd be great. We just want to chat.
+Speaker2: No problem, we will do our best to arrange it. What do you prefer for the menu?
+Speaker1: We want to try your shop's signature dish, we heard your sweet and sour pork ribs are famous.
+Speaker2: Yes, sweet and sour pork ribs is one of our signature dishes, very popular. If you like it, we can prepare it in advance for you.
+Speaker1: Goodbye, thank you. So, see you tonight.
+Speaker2: Okay, see you later. Wish you a happy day!

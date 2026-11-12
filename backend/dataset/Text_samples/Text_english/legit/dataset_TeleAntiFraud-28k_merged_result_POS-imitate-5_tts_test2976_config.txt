@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer service of a travel consulting company. I saw that you had browsed our website for travel routes to Guilin before. Do you still have any interest?
+Speaker2: Hey, I'm a little interested, can you introduce me?
+Speaker1: Of course. We have a four-day, three-night trip to Suzhou, which includes a boat ride on the Pingjiang River, a visit to Yuanjie West Street, and other classic sights such as the Two Lakes and Four Ponds, priced at 1,500 yuan per person, including accommodation, transportation, and meals.
+Speaker2: Does the price include the entrance fee?
+Speaker1: Yes, this price already includes all ticket fees, you don't need to pay extra.
+Speaker2: What about the tour guide service?
+Speaker1: Tour guide service is included. We will have professional tour guides accompany us, ensuring you fully understand each site's history and culture.
+Speaker2: When can I leave?
+Speaker1: This line has a tour every week. You can choose a suitable time for yourself. The latest tour is on Friday next week. Do you have time?
+Speaker2: I can next Friday, but I need to discuss with my family.
+Speaker1: Okay, no problem. You can contact me anytime after you've thought it over. My phone number is 400123456. I wish you a happy day!

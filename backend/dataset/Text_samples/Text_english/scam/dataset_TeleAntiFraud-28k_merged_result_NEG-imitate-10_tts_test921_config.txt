@@ -1,0 +1,14 @@
+Speaker1: Hello, you good, this side south bank customer service center, I is customer service manager Lee Huang.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed some recent transactions on your account at our bank, to ensure the safety of your account, we're calling to confirm.
+Speaker2: Okay, what do you need to confirm?
+Speaker1: We found out you had a suspicious transaction recently, which may have involved fraud, to prevent any damage to your assets, we need you to provide some information to verify.
+Speaker2: Okay, what information do you need from me?
+Speaker1: Please provide your ID number and the last four digits of your bank account, we will verify in the system.
+Speaker2: My identity card number is 123456789012345678, the last four digits of my bank account are 1234.
+Speaker1: Okay, the information has been recorded. To further ensure the safety of your account, we recommend downloading our official app, which allows you to monitor your account activity in real-time.
+Speaker2: Okay, how do I download your app?
+Speaker1: You can directly click on this link, https://example.com/download, to download our official app.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Thank you for your cooperation. If you have any questions, please feel free to contact our customer service at any time.
+Speaker2: Okay, thank you.

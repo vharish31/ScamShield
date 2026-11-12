@@ -1,0 +1,10 @@
+Speaker1: Hey, how's the takeout service at your store?
+Speaker2: Hello, Xiaoming, our takeout service is very convenient and quick, you can place an order directly through our App or phone.
+Speaker1: Can I add some spiciness to my beef and onion omelette today?
+Speaker2: Of course, our beef and onion omelette can be adjusted to your taste according to your spiciness preference, how spicy do you want it to be?
+Speaker1: Are you kidding? Do you guys have any discount activities now?
+Speaker2: Yes, now you can get a discount of ten yuan when ordering a meal for fifty yuan, and you will also get a free drink as a gift.
+Speaker1: Great, I just want to drink some drinks. How long will you be able to deliver?
+Speaker2: In general, we will deliver within 30 minutes after ordering, but the specific time may vary depending on the order quantity and traffic conditions.
+Speaker1: Okay, I placed an order, the address is Heping Road 100, can you deliver it?
+Speaker2: Sure, this address is within our delivery range, I will arrange it as soon as possible.

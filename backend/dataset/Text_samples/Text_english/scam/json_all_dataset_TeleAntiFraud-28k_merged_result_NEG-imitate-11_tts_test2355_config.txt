@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the small Li wealth management consulting center, I am your exclusive wealth management advisor Li.
+Speaker2: Hello, what do you have?
+Speaker1: Have you heard about a recent investment opportunity that has a very high return and low risk?
+Speaker2: Can you please tell me in detail?
+Speaker1: Of course. This is a new investment project that requires only a small amount of capital to gain a high return. Just download our app, register an account, and you can start investing.
+Speaker2: Is the app safe to download?
+Speaker1: Completely safe, our app is officially certified, just scan the QR code I send you and you can download it directly.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the QR code now. Remember to download it and register, then tell me your registration info, I can guide you on how to operate it.
+Speaker2: Okay, thank you.

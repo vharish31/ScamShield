@@ -1,0 +1,17 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Can you tell me about your discount activities this week?
+Speaker2: Hey, this week we have a buy one get one free activity, and a full 200 discount coupon, are you interested?
+Speaker1: Great, I'm planning to buy a new phone, do you guys have the style I want here?
+Speaker2: What brand of cards do you want? We have Apple, Huawei, Xiaomi, etc. brands here, and the styles are quite comprehensive.
+Speaker1: Can you introduce me to the Huawei Mate series?
+Speaker2: Of course. Our store's best-selling product is the Huawei Mate series, which has stable performance, long battery life, and a high-resolution camera. This phone is perfect for business people to use.
+Speaker1: How much does it cost to listen?
+Speaker2: This phone is currently priced at 4999 yuan, and there's a discount if you join the activity.
+Speaker1: Can I go to your store and take a look?
+Speaker2: Of course, our store is on the third floor of the electronic mall in the city center square. When is it convenient for you to come?
+Speaker1: I have some free time tomorrow afternoon around three o'clock.
+Speaker2: Okay, tomorrow afternoon at three o'clock, we'll wait for you at the store. Do you need me to reserve a phone for you?
+Speaker1: Okay, can you reserve a room for me?
+Speaker2: No problem, see you tomorrow.
+Speaker1: See you tomorrow.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you, have you recently bought something on Taobao?
+Speaker2: Yes, I indeed bought a piece of clothing yesterday.
+Speaker1: Hey, I'm a customer service representative from Taobao platform. We found an issue with your order. Please work with us to handle it.
+Speaker2: What's the problem?
+Speaker1: That's it, our system encountered a fault, causing your order status to display incorrectly. We need you to scan a QR code to help us investigate the issue.
+Speaker2: How do I operate it?
+Speaker1: Just open WeChat, scan the QR code I sent you, and follow the instructions.
+Speaker2: Okay, I'll get ready now.
+Speaker1: Okay, just a moment, I'll send you the QR code right away.
+Speaker2: Thank you, I'm waiting.

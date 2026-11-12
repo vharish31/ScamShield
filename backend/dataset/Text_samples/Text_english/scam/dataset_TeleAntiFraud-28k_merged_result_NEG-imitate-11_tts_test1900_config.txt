@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of the East China logistics, your package encountered problems during transportation, please cooperate to handle it.
+Speaker2: What's the problem?
+Speaker1: Your package was mistakenly lost at the transfer station, but please rest assured, we will quickly handle the compensation matter.
+Speaker2: What do we do, things are so important.
+Speaker1: To quickly process your issue, we need some basic info, such as name, phone and order number.
+Speaker2: Okay, my name is Li Ming, my phone number is 13812345678, and my order number is 123456789.
+Speaker1: Okay, Li Ming, we have recorded your information. For convenience, you can click on the link we sent and fill out the relevant information.
+Speaker2: Okay, I will pay attention.
+Speaker1: There's a link where you need to input your bank card info to quickly refund, please cooperate.
+Speaker2: Okay, I understand, thank you.

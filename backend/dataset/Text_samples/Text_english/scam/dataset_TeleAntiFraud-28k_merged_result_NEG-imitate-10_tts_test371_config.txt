@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hi, I'm Li Xiao, this is the China Merchants Bank. We noticed some unusual activity in your recent purchases on our platform. There might be an issue with one of your orders. Please work with us to verify.
+Speaker2: Really? Then what do we do?
+Speaker1: Don't worry, we have already prepared a solution for you on this side. To ensure the safety of your account, we need you to provide us with your bank card number, so that we can verify the information.
+Speaker2: How do I know you guys are for real?
+Speaker1: You can contact us through our bank's official phone number, but for convenience and efficiency, you can directly click on the link I sent you to verify your identity information.
+Speaker2: How do I click on a link?
+Speaker1: Okay, wait a minute, I will send you a link via text message. Just click on the link and follow the instructions.
+Speaker2: Okay, I'm waiting for your text message.

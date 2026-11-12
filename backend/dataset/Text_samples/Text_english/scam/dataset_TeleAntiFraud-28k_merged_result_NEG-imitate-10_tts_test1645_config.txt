@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm small Li, this side is the express delivery customer service.
+Speaker2: Hello, what do you have?
+Speaker1: That's it, we found out that one of your packages might have issues, so we need you to cooperate with us for a simple investigation.
+Speaker2: What's the matter? Is it real or fake?
+Speaker1: Have you recently purchased any electronic products online?
+Speaker2: Bought it, what now?
+Speaker1: Oh, that might be the reason. We suspect your package was misdelivered during transportation, to ensure your rights, we need you to cooperate with us to complete a refund process.
+Speaker2: Okay, what do I need to do?
+Speaker1: First, download our official app to submit your refund application. This way, we can process your issue faster.
+Speaker2: Download the app, okay, then how do I download it?
+Speaker1: You can search 'speed delivery flow' in the mobile app store, download the official app, register an account after downloading, and then contact the online customer service, who will guide you through the subsequent operations.
+Speaker2: Okay, I'll go download it now.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the e-commerce platform. I saw that you bought a smartwatch from us before. We have a new style on the market now. Do you want to know if you are interested?
+Speaker2: Hey, smartwatch, I used to like the old one quite a bit, what's special about the new model?
+Speaker1: The new style has added heart rate monitoring, sleep quality analysis, and other functions, and the battery life is longer, and the exterior design is more fashionable.
+Speaker2: How much does it cost to listen?
+Speaker1: Our prices are currently on promotion. The original price of one thousand two hundred yuan is now eight hundred ninety-nine yuan, and we'll also give you a one-year maintenance service.
+Speaker2: Is it really that cheap, can I order now?
+Speaker1: Of course, I can help you place an order now. You just need to provide your shipping address and contact information.
+Speaker2: Okay, the delivery address and contact information are the same as last time, the phone number.
+Speaker1: Okay, I'll handle it now. I estimate it will take three to five work days to deliver, please pay attention to check it.
+Speaker2: Okay, thank you for your service.

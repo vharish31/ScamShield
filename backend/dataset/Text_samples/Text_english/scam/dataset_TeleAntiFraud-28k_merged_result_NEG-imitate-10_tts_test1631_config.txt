@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from the Agricultural Bank, Tianhe Branch. I would like to introduce to you a special loan project with a very low interest rate, which can help you solve your cash flow problems. Would you be interested in learning more about it?
+Speaker2: Do you want a loan? I have some money now, but you can say something, in case it's useful later.
+Speaker1: Great, this loan product is very flexible, you can repay it at any time, and the application process is very simple. Just download our bank's official app, fill in some basic information and you can apply.
+Speaker2: Official app? It should be safe, right?
+Speaker1: Of course, our bank's app is very safe. To make it convenient for you to operate, I can send you a link, and you can download it directly by clicking on the link.
+Speaker2: Okay, then send me a link.
+Speaker1: Okay, I'll send it to you now. However, for security reasons, it's best if you first provide your phone number, I'll send you a verification code via text message, which you need to verify before the link becomes effective.
+Speaker2: Okay, my phone number is 13800138000, you can send a text message over.
+Speaker1: Okay, the message has been sent. Please pay attention to check it. After you receive the verification code, follow the instructions to download the app successfully.
+Speaker2: Okay, I'll take a look. Thank you for the introduction.

@@ -1,0 +1,12 @@
+Speaker1: Hello, is this the electric car repair shop of little Li?
+Speaker2: Yes, do you need to repair an electric vehicle?
+Speaker1: Yes, my electric car suddenly wouldn't start this morning. I thought I'd check if it could be fixed.
+Speaker2: Sure, you can ride your bike directly over here, we'll check the issues first.
+Speaker1: How much money do we need?
+Speaker2: Let's look at specific issues now. If it's a battery issue, you may need to replace the battery, which will be more expensive. If it's just a small issue, like loose connections, then it'll be cheaper.
+Speaker1: What is your working hours here?
+Speaker2: We are open from nine in the morning to six in the evening, even on weekends.
+Speaker1: Can I go out in the afternoon around three o'clock?
+Speaker2: Okay, you can come at 3 o'clock, we will be ready with the tools on this side.
+Speaker1: Thank you, I'll be back in a while. Goodbye!
+Speaker2: Okay, please be careful on your way, goodbye!

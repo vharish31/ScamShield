@@ -1,0 +1,12 @@
+Speaker1: Hey, are you Lee Huai?
+Speaker2: Yes, hello, who are you?
+Speaker1: I'm little Zhang, we met at the library last month, did you forget?
+Speaker2: Hey, I remember now, how are you little Zhang, what do you want to find me for?
+Speaker1: So, I have a project here and I want to ask you to take a look, don't know how your recent time has been?
+Speaker2: Sure, what project?
+Speaker1: It's our new smart home product development, would you help us test the user experience, how about it?
+Speaker2: That sounds interesting, I've been pretty flexible lately, let's give it a try.
+Speaker1: Okay, I'll send the sample machine to your home tomorrow, will you be okay with that?
+Speaker2: Okay, let's go back to the old place, I know it.
+Speaker1: Okay, let's meet tomorrow, thank you for your help.
+Speaker2: No problem, I'm looking forward to your new product, see you tomorrow.

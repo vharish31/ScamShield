@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I just placed an order for delivery, can you give me an approximate delivery time?
+Speaker2: Hello, we have received your order. We estimate it will take about 30 minutes to deliver. Is that okay with you?
+Speaker1: Sure, no rush. Hey, I just saw the address in the order seems a bit problematic, can you help me confirm it?
+Speaker2: Okay, could you please tell me the correct address, I'll help you modify it on this end.
+Speaker1: The address is 123 Xiang Road, the guard at the door of the small community will wait for me, I will go there to pick up later.
+Speaker2: Okay, I have already made the changes for you. We will deliver the takeout to the security post later, please pay attention.
+Speaker1: Okay, thank you. Is the "no spicy peppers" note in your records confirmed?
+Speaker2: Confirmed, your order note we already noted don't put chili, don't worry, won't put.
+Speaker1: Okay, thank you for your cooperation, looking forward to your delivery.
+Speaker2: You're welcome, hope you enjoy your meal, feel free to contact us anytime.

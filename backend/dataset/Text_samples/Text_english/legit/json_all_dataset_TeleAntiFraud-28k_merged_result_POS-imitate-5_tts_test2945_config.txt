@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, recently I want to buy a new phone, my friend said your store's phone is good, want to ask you a little.
+Speaker2: Hello, Xiao Wang, I am small Li from the mobile phone store, what can I help you with?
+Speaker1: I want to know more about the latest smartphone, specifically the battery life and camera function.
+Speaker2: The new smartphone is really good, the battery life is long, it can usually be used all day, the camera pixel is high, the photo effect is excellent.
+Speaker1: What about the price?
+Speaker2: The prices vary depending on the configuration, ranging from two thousand to five thousand, you can check it out in the store or I can send you some pictures and detailed information via WeChat.
+Speaker1: Okay, I take a look at my budget, which is roughly around three thousand, can you recommend a car for me?
+Speaker2: Of course, for around three thousand yuan, we have several options with high value for money. For example, this one has a fashionable design and its performance is very stable. You may want to consider it.
+Speaker1: Sounds good, I'm free this weekend, can I come to your store and take a look?
+Speaker2: Of course, I'm here all weekend, you can come anytime, I'm waiting for you here.

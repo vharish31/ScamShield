@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the construction bank customer manager, Li Ming.
+Speaker2: Hello, what do you have?
+Speaker1: Have you recently had a need for cash flow? I have a fast loan product that doesn't require collateral, quick approval, low interest rate, would you be interested in learning more?
+Speaker2: I don't need a loan right now.
+Speaker1: Hmm, that's right. But there's an extra discount for applying now, like a reduced first month interest. You might want to consider it, who knows if you'll need it in the future.
+Speaker2: How do I apply?
+Speaker1: You can add my WeChat first, I will send you an application link, fill out the information after, and I can quickly review it on this end.
+Speaker2: What is your WeChat number?
+Speaker1: My WeChat number is LM123456. After adding me as a friend, I will send you a link.
+Speaker2: Okay, I'll add you on WeChat.

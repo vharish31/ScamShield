@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Is that a small horse taxi?
+Speaker2: Hey, yes, do you need a car service?
+Speaker1: How much does it cost to take a taxi from Chaoyang Park to Beijing Capital Airport?
+Speaker2: Is 120 yuan enough for a taxi from Chaoyang Park to Beijing Airport, which is about 50 kilometers?
+Speaker1: Can you tell me how long it will take to arrive?
+Speaker2: If there's no traffic, it would take about an hour left and right. But it's rush hour now, so it might take a little longer.
+Speaker1: Okay, I'll make a reservation now, it's about half an hour before I leave.
+Speaker2: Okay, I will arrange a car for you, approximately half an hour later arrive, please prepare yourself, pay attention to safety.
+Speaker1: Okay, thank you.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, goodbye.

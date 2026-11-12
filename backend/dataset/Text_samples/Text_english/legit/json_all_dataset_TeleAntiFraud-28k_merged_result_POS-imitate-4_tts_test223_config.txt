@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about your restaurant's vegetarian menu? Do you have any?
+Speaker2: Yes, we have many vegetarian options here, such as jiaozi, mapo tofu, and various vegetable salads.
+Speaker1: What is your business hours?
+Speaker2: Our restaurant is open from 10 am to 10 pm, you can come anytime.
+Speaker1: Okay, I plan to come at noon tomorrow. Do I need to make an appointment in advance?
+Speaker2: If you want a quiet seat, it's best to reserve in advance. Can I help you reserve a window seat?
+Speaker1: Great, let's reserve a window seat.
+Speaker2: Okay, I have made an appointment for you, see you tomorrow at noon.
+Speaker1: Thank you, see you later.
+Speaker2: No problem, I'm looking forward to your arrival. Goodbye.

@@ -1,0 +1,13 @@
+Speaker1: Hey, are you little Li?
+Speaker2: Yes, hello, who are you?
+Speaker1: Hey, it's me, your friend Zhang. How have you been lately?
+Speaker2: Hey, little Zhang, how have you been lately? Just busy with work. How about you?
+Speaker1: I'm also, recently preparing a project, quite nervous.
+Speaker2: How's the project progress?
+Speaker1: It's still going smoothly, but there's a bit of pressure. Hey, do you have any free time this weekend? Want to go out and eat a meal together?
+Speaker2: Great, I should have some free time this weekend. Let's go to which restaurant?
+Speaker1: I think the new bakery is not bad, I heard the taste is quite good.
+Speaker2: That sounds good, let's book that place. What time do we meet?
+Speaker1: What about meeting at six in the afternoon?
+Speaker2: Okay, six o'clock. Then we'll meet later.
+Speaker1: Okay, see you later. Weekend see you!

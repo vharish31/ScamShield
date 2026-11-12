@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey there
+Speaker1: Is this a flower family housekeeping service company?
+Speaker2: Yes, do you need to book housekeeping service?
+Speaker1: Yes, I recently need to move, want to book a big cleaning service.
+Speaker2: Okay, we provide cleaning services before and after moving. What time do you need our services?
+Speaker1: I plan to move next weekend, so I want to book a cleaning service on Saturday morning.
+Speaker2: Saturday morning is fine, we usually arrive 15 minutes before the scheduled time.
+Speaker1: That's great, I'll be waiting for you guys at home at 10 am on Saturday.
+Speaker2: Okay, we will arrive on time. Are there any other things that need special mention?
+Speaker1: There are pets at home, so pay attention when cleaning.
+Speaker2: Understood, we will bring along specialized cleaning tools to handle pet hair. Are there any other things we need to prepare?
+Speaker1: I'm not available at the moment, but if there are any other questions, I'll get back to you.
+Speaker2: Okay, do you have our company's contact information? You can contact us anytime. Wish you a smooth move. See you on Saturday!
+Speaker1: Thank you, see you on Saturday!

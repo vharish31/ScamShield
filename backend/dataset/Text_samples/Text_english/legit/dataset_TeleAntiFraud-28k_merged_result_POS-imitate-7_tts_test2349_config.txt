@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, this is Xiao Zhang
+Speaker2: Hello, little Zhang, I am little Li, today weekend, do you have time to play out?
+Speaker1: What do you want to do when you have time?
+Speaker2: Have you heard that a new restaurant has opened? The reviews are good, let's go try it out.
+Speaker1: Good idea, what is the name of that restaurant?
+Speaker2: Have you tried the spicy chicken with flower peppers? It's quite delicious. I also saw some special menu recommendations online.
+Speaker1: Sounds good, when do we leave?
+Speaker2: Let's leave at 1:30 in the afternoon, so we'll arrive right at dinner time.
+Speaker1: Okay, send me the address, I'll navigate there.
+Speaker2: Okay, I'll send you WeChat right away. See you soon!

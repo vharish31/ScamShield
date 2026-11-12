@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Zhang Jingni, I am the loan service department of the Commercial Bank, have you recently had any capital needs?
+Speaker2: Hello, I currently don't need a loan.
+Speaker1: That's okay, but you should consider our policy, which has a low interest rate, quick approval, no down payment, you can apply first to take a look.
+Speaker2: How do I apply?
+Speaker1: Just download our official app, fill out some basic info, and we'll have a specialist follow up.
+Speaker2: Is the app safe to download?
+Speaker1: Of course, our app is authenticated, you can consult it first after downloading, then decide.
+Speaker2: How do I download your app?
+Speaker1: You can download it through this link. I'll send you a text message with a download link.
+Speaker2: Okay, I'll take a look in a moment. Thank you.

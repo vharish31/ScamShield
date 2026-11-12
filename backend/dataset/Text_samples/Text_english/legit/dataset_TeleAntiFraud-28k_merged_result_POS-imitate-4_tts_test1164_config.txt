@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, hi, I'm waiting for you by the public restroom next to the parking lot.
+Speaker1: Okay, I'll be there soon. Are you at the public restroom next to the parking lot?
+Speaker2: Yes, there's a public restroom next to the exit of the parking lot.
+Speaker1: Okay, I'll be there in about five minutes. Wait for me there.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: How's the weather on your side? It's a bit hot today.
+Speaker2: It's pretty hot here, remember to bring some water when you come.
+Speaker1: Okay, thank you for reminding me. Let's meet later.
+Speaker2: Okay, see you later.

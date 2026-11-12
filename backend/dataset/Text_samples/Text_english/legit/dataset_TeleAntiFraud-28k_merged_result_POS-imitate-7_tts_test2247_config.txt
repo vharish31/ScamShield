@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I can't find the way out of the subway station, can you help me with directions?
+Speaker2: Hello, where are you going?
+Speaker1: I want to go to the Tianyuan Rent-a-Car Center, but there are many exits here, I don't know which one to walk.
+Speaker2: From your exit, there's a signboard on your right hand, indicating the direction to the parking lot.
+Speaker1: Okay, I see it. Then what?
+Speaker2: Follow the signpost to the parking lot, you will see a glass house there, which is the Tianyuan Rent-a-Car Center.
+Speaker1: Glass house, okay, I remember. What if I can't find it?
+Speaker2: You can call the rental car center customer service, they will send a special person to pick you up.
+Speaker1: Okay, thank you for your help. I'm off now.
+Speaker2: No problem, wish you a smooth journey.

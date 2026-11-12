@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural Bank. We have a special promotion for loan recently. Would you like to know more about it?
+Speaker2: Can you give me a loan? I recently have some cash flow problems, can you give me some specific details?
+Speaker1: Okay, this is a loan product with no collateral, fast approval, low interest, and just requires some basic information to apply.
+Speaker2: What do I need to do?
+Speaker1: Just download our official app and fill out some personal info, and we'll quickly review it.
+Speaker2: Is the app safe to download?
+Speaker1: Of course, our app has passed the national information security certification, so you can use it with peace of mind. To speed up the review process, you can also directly click on the link I sent you.
+Speaker2: Okay, how do I receive the link?
+Speaker1: I will send you a text message with the link to the application page. Please pay attention to it and click on the link after receiving it.
+Speaker2: Okay, I'll check my phone later, thank you.

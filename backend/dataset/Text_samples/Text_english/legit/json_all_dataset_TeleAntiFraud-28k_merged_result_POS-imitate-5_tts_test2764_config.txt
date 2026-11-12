@@ -1,0 +1,15 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, hello, I'm at the Meiyigia Bianlidian store. Do you guys have any delivery services for products here?
+Speaker2: Where are you staying?
+Speaker1: I'm at the branch in Tianhe District, which is not far from your company, about a 5-minute drive.
+Speaker2: That's quite convenient. We sometimes need some convenient snacks and drinks here. Can you deliver them?
+Speaker1: Of course, we provide delivery service here, as long as the order is over 50 yuan, we can deliver it for free.
+Speaker2: Okay, we want some drinks and snacks now, can you deliver them to us?
+Speaker1: Sure, I can record the products you need and arrange for quick delivery as soon as possible.
+Speaker2: Okay, we need five bottles of mineral water, two packs of snacks, and a box of chocolate.
+Speaker1: Okay, five bottles of mineral water, two packs of snacks, one box of chocolate, the total is 60 yuan, please confirm the order information, is it sending to your company?
+Speaker2: Okay, the address is Tianhe District, Xiangxiang Building, Xiangxiang Floor. How long will it take to deliver?
+Speaker1: It should take about twenty minutes to arrive, please pay attention to receiving it.
+Speaker2: Okay, thank you, looking forward to your service.
+Speaker1: No problem, we will process it quickly, any issues please contact me anytime. Goodbye!
+Speaker2: Goodbye!

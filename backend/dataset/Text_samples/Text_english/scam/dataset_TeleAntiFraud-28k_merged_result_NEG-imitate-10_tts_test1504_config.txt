@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hello, I am the customer manager of the Agricultural Bank's Tianhe Branch, and we have a very good investment project with a high return rate. Are you interested?
+Speaker2: Oh, really?
+Speaker1: Yes, this project is a joint venture between our bank and a well-known investment company, it's very safe and the returns are much higher than the market average.
+Speaker2: What are the specific steps to do it?
+Speaker1: You can first download our bank's official app, then find this project in the wealth management section and register an account to start investing.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you encounter any issues during the registration process, feel free to contact me anytime. My phone number is 13812345678.
+Speaker2: Okay, thank you for your recommendation.

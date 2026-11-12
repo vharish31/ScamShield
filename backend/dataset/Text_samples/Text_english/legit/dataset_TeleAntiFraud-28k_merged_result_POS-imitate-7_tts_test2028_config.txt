@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am a customer service representative from a food delivery platform. You placed an order on our platform before, but there were some issues with the delivery. I want to know more about your situation.
+Speaker2: Oh, I really encountered a problem, the food wasn't delivered on time, I waited for a long time.
+Speaker1: I'm so sorry for the inconvenience I've caused you. There was a mistake on our platform this time. Can you see this way? We're offering you a 50% discount on your order this time. You can also enjoy an 80% discount on your next order.
+Speaker2: Okay, fine. But I hope you guys improve later.
+Speaker1: We will provide feedback to the relevant department on your suggestions to ensure that such situations do not occur again. Do you need to update your account information?
+Speaker2: No need, my address and phone number haven't changed.
+Speaker1: Okay, thank you again for your feedback and support. If you have any other questions, feel free to contact us anytime.
+Speaker2: Okay, thank you.

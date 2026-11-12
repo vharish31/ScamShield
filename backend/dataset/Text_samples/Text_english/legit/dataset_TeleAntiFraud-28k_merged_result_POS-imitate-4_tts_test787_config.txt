@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you, talk to me.
+Speaker2: Hey, what do you say?
+Speaker1: Hey, did you call a car?
+Speaker2: "Ugh, I just called a taxi and the order failed to send, now my phone won't connect to the internet."
+Speaker1: I'm at the school gate now, where are you?
+Speaker2: I'm still unable to check my order status online while sitting under the teaching building.
+Speaker1: Can you try to connect to the internet first, I'm waiting for you here.
+Speaker2: Okay, let me try.
+Speaker1: Okay, wait for your message.
+Speaker2: Are you still at the school gate?
+Speaker1: Still here, you come out, I here wait you.
+Speaker2: Okay, I'll go out right away.

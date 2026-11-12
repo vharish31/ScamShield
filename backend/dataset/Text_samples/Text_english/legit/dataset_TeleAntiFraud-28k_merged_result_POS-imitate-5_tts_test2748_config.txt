@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Liu, I just booked a haircut appointment for tomorrow morning at 10 am on your website, can you confirm the time is correct?
+Speaker2: Hello, little Liu, I am a hair salon employee, your appointment time is indeed tomorrow morning at ten o'clock, no problem.
+Speaker1: How long do I need to arrive at the store?
+Speaker2: We suggest you arrive ten minutes early, so if there are any sudden situations, we still have time to adjust.
+Speaker1: Understood, is it true that you charge 80 yuan for cutting hair and washing head on your website?
+Speaker2: The hair dyeing service is an additional service, and the price varies depending on the complexity of the hairstyle, usually between 150 and 300 yuan.
+Speaker1: Okay, then I'll just do haircuts and head washes tomorrow. If there's time, I might consider doing some facial care.
+Speaker2: Okay, we also have facial care, it's 60 yuan per time, approximately 30 minutes, if you're interested, we can arrange it for you tomorrow.
+Speaker1: That's great, thank you for your patience in answering, see you tomorrow.
+Speaker2: No problem, see you tomorrow, be careful on the road.

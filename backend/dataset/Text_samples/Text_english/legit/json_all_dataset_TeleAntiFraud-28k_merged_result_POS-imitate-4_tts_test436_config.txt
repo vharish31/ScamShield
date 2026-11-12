@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the food square service counter in the south of the city. You have a dinner reservation tonight, please confirm the number of people and time.
+Speaker2: Hey, I made a reservation for tonight at seven for four people.
+Speaker1: Okay, 7:00 am, four people, the location is ready for you. Do you have any special dietary requirements?
+Speaker2: One friend doesn't eat spicy, the others have no special requirements.
+Speaker1: Understood, we will pay special attention to that. Additionally, we have fresh seafood and special flavor grilled meat tonight, do you need us to prepare it in advance?
+Speaker2: Fresh seafood and grilled meat can come, thank you.
+Speaker1: Okay, seafood and roast meat are both noted down, will be prepared in advance for you. Is there anything else you need help with?
+Speaker2: No more, thank you for your service.
+Speaker1: No problem, just come to the service counter and sign up when it's your turn. Enjoy your meal, goodbye.
+Speaker2: Okay, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service center of China Construction Bank, I am Li Xiao, we noticed some abnormalities in your credit card transaction records, need to verify.
+Speaker2: Is it?
+Speaker1: Yes, in order to ensure your financial security, we need you to provide us with your identity card number and the last four digits of your credit card, as well as the verification code you received, to confirm your identity.
+Speaker2: Okay, how can I confirm your identity?
+Speaker1: You can call our official customer service hotline at 010-12345678 by dialing the number we provide.
+Speaker2: Okay, I'll jot down this phone number first.
+Speaker1: Okay, by the way, we also found out that you might have a loan need recently, we have a product that is interest-free and has a low interest rate, which is very suitable for you.
+Speaker2: Really? Then what do I need to do?
+Speaker1: You can download our official app for China Construction Bank, fill out some basic information, and we will quickly review your loan application.
+Speaker2: Okay, I'll download it now. Thank you!

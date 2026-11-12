@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm from the delivery service of express delivery, there's a package here, but due to some issues, we need your cooperation to handle it.
+Speaker2: Hello, do you have any questions?
+Speaker1: There was an issue with one of your delivery packages during transportation. To ensure the safety of your package, please click on this link to complete a simple verification.
+Speaker2: Do you really need to click on the link?
+Speaker1: Yes, these are necessary steps, otherwise the package may be returned.
+Speaker2: Okay, I understand.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact me directly.
+Speaker2: Thank you, I will take a look.
+Speaker1: Also, we recently launched a promotion, if you're interested, you can download our app for more details.
+Speaker2: What discounts can I get by downloading the app?
+Speaker1: After downloading, register as a member to get a free express service and enjoy more discounts.
+Speaker2: Listen well, I'll give it a try.

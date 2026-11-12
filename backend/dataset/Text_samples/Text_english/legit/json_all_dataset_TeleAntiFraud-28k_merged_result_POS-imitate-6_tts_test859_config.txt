@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your restaurant has any vegetarian options?
+Speaker2: Hello, yes, we have many vegetables here, such as stir-fried vegetables, steamed vegetables, and stir-fried noodles. Which one would you like to know more about?
+Speaker1: What is the price and ingredients for stir-fried noodles?
+Speaker2: The price of stir-fried noodles is 30 yuan, the toppings include bean sprouts, carrots, green onions, and red pepper, and there is a little bit of ginger and garlic.
+Speaker1: Sounds good, do you guys have any free seats now? I'm planning to go over and eat.
+Speaker2: Yes, it's dinner time now, there aren't many people, you can come directly, we will arrange a seat for you.
+Speaker1: Okay, I'll be there in about twenty minutes, thank you.
+Speaker2: No problem, we'll wait for you, be careful on the road.
+Speaker1: Okay, thank you, bye.
+Speaker2: Goodbye, welcome to come.

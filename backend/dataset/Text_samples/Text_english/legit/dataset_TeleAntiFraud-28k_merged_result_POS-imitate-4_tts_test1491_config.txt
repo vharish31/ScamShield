@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Are you waiting at the subway station?
+Speaker2: Okay, I'm waiting for you at the third exit.
+Speaker1: Okay, I'm driving to pick you up. Did you see a black sedan?
+Speaker2: Can you see that? That's the one in front of the security room, right?
+Speaker1: Yes, that's it. Can you come over now?
+Speaker2: Okay, I'll go now.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Thank you, see you later.

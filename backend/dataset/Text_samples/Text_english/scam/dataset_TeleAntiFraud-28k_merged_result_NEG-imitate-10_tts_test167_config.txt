@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the customer service center of Tian An Bank, I am the customer service manager Li Huai, we recently launched a low interest loan, are you interested in learning more?
+Speaker2: Hello, I recently have some cash needs, can you give me more info?
+Speaker1: Of course, this loan's interest rate is very favorable, only needs 1.5 yuan, and the approval process is very fast, the fastest is the same day to disburse funds.
+Speaker2: The sound is good, but I don't understand the bank loan process well, how to handle it?
+Speaker1: It's simple. Just download our bank's official app, fill out some basic information, upload your identity card photo, and wait for approval.
+Speaker2: What kind of guarantee do I need to provide?
+Speaker1: No collateral is needed for this loan, which is a credit loan based on creditworthiness. The probability of approval is very high if your credit is good.
+Speaker2: Okay, how do I download your app?
+Speaker1: You can directly click on the link I sent you to download our official app, or you can scan the QR code I sent you for a more convenient and quick way.
+Speaker2: Okay, I'll give it a try. Thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes for a successful transaction!

@@ -1,0 +1,16 @@
+Speaker1: Hey, hi, I saw your apartment in Five Eight City, want to know more about it?
+Speaker2: Hello, what can I help you with?
+Speaker1: What is the specific location of this room?
+Speaker2: It's located near the city center, convenient for transportation, and has all the necessary facilities for life.
+Speaker1: What is the environment around here?
+Speaker2: There are several small parks around, convenient for life, nearby are several supermarkets and some restaurants.
+Speaker1: Is this house rented whole or shared?
+Speaker2: This apartment is a whole rent, two rooms one living room, suitable for two people to live.
+Speaker1: How much is the rent? How much deposit is needed and how much should be paid monthly?
+Speaker2: The monthly rent is one thousand five hundred yuan, the deposit is one thousand yuan paid in three installments, the contract is for one year and signed once.
+Speaker1: How do you calculate property fees and electricity fees?
+Speaker2: The property fee is eighty yuan per month, and the water and electricity fees are allocated based on actual usage.
+Speaker1: Can I take a look at the room?
+Speaker2: Sure, when do you have time? I can schedule time on this end.
+Speaker1: Are you going out this weekend? Can you be there at around ten in the morning?
+Speaker2: Can we meet at ten in the morning this weekend?

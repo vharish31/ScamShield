@@ -1,0 +1,10 @@
+Speaker1: Hello, this is small Li, there's a problem with your delivery, I'm the delivery customer service representative.
+Speaker2: Hey, how's my package?
+Speaker1: Your package was lost during transportation, so we need you to provide some personal information to process a refund.
+Speaker2: What information do I need to provide?
+Speaker1: You just need to provide your name, phone number, and bank card number, and we will directly refund the money back to your bank card.
+Speaker2: Okay, my name is Wang Xiǎodōng, my phone number is 13800138000, my bank card number is 62220812345678901234.
+Speaker1: Okay, Wang Xiandong, I have recorded the details. Later we will handle the refund issue. To speed up the refund process, please click on this link to confirm the information.
+Speaker2: Okay, I'm going to click now.
+Speaker1: Thank you very much for your cooperation. We will process it quickly. If there are any issues, please feel free to contact me anytime.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to consult your delivery service.
+Speaker2: Hello, I'm very happy to serve you, what information do you want to know?
+Speaker1: What's the latest time you can deliver food?
+Speaker2: Can we deliver it latest by 10 pm tonight? Do you need to book it?
+Speaker1: Uh, I might need dinner around 9:30, is that okay?
+Speaker2: Of course, you can place an order in advance through our app or mini-program, and we will deliver it on time.
+Speaker1: Sure, can I place an order one hour in advance?
+Speaker2: Of course, please place your order in advance, we will also make necessary preparations, ensure timely delivery.
+Speaker1: That's great, thank you for your patience in answering.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, hope you enjoy your meal.

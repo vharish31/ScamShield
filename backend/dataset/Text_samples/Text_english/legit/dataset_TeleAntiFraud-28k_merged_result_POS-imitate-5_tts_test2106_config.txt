@@ -1,0 +1,14 @@
+Speaker1: Hi, I'm little Li, I'm looking for a new job recently, could you tell me about your company's recruitment situation?
+Speaker2: Hello, I am Zhang from the human resources department. Our company does have some positions currently recruiting. Which department are you interested in at our company?
+Speaker1: Can you give me a detailed introduction of the software development position in the technology department?
+Speaker2: Okay, our software development team is mainly responsible for product development and maintenance. Having some project experience and technical background will be an advantage.
+Speaker1: What are the educational requirements for this position?
+Speaker2: We require applicants to have at least a bachelor's degree, preferably in computer-related fields.
+Speaker1: Where is the location of this job position?
+Speaker2: Our company's headquarters is located in the tech park in the city center, where our work location is.
+Speaker1: What is the salary and benefits for this position?
+Speaker2: Specific salaries will be determined based on individual ability and experience. We provide competitive compensation, annual bonuses, and various benefits.
+Speaker1: Can I send you my resume after listening to it?
+Speaker2: Of course, you can send your resume to hr@company.com, we will arrange an interview as soon as possible.
+Speaker1: Okay, thank you for your help. I will send my resume soon.
+Speaker2: No problem, I'm looking forward to your resume, wish you all the best.

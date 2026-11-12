@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, you have an unclaimed gift here, need me to help you handle it?
+Speaker2: Hello, what gift?
+Speaker1: That's right, you attended an activity and received this gift, but we tried to contact you multiple times without success, so now we need you to provide some information to confirm your identity.
+Speaker2: Uh, in this way, what information do you need?
+Speaker1: Just need your ID number last four digits and phone number, then we can confirm.
+Speaker2: Okay, then I will provide it.
+Speaker1: Thank you very much, I have recorded it on this side. You can click on the link I send to you to complete the final steps.
+Speaker2: Okay, I'll check right away.
+Speaker1: Okay, after clicking on the link, you may be prompted to install our app, which is to better serve you. After installation, complete the verification inside the app to receive the gift.
+Speaker2: I understand, thank you for your help.

@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, this is the hair salon you booked, how about you come over today at what time is convenient for you?
+Speaker2: Hello, I have some free time in the afternoon around two o'clock, can I?
+Speaker1: Okay, we have a two-point time slot, you come right on time.
+Speaker2: How long do I need to arrive beforehand?
+Speaker1: Please arrive ten minutes early, we'll give you a glass of water first and then start cutting your hair.
+Speaker2: That's great, I'll probably arrive around 5:30, if I arrive early, can I?
+Speaker1: No problem, you're early too, we're always ready.
+Speaker2: Okay, thank you. Right, I want to cut a short hair, not too complicated, simple and clear, can I?
+Speaker1: Of course, we have several barbers who are very skilled at cutting short hair. When you come, please tell us your specific requirements, and we will do our best to meet them.
+Speaker2: That's great, thank you. See you later.
+Speaker1: See you later, be careful on the way.

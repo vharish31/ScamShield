@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li boss?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for speed delivery, regarding your recent package, we need to confirm some information with you.
+Speaker2: Okay, you say.
+Speaker1: Your package was lost during transportation, and now we need you to provide some information for compensation.
+Speaker2: What information do I need to provide?
+Speaker1: First, we need you to provide your identity card number and bank card number so that we can verify your identity and process compensation. Of course, we will also send you a link so that you can fill out the relevant information online.
+Speaker2: Okay, I understand.
+Speaker1: Thank you for your cooperation. We will send the link to your phone later, please pay attention to check it.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Lee Huai?
+Speaker2: Yes, hello, what do you have?
+Speaker1: Hello, this is the customer service representative of Speedy Express, we found that one of your packages was lost during transportation, as compensation, we will process a refund for you, please cooperate with us for a moment?
+Speaker2: Is it really that? That's too troublesome for you, what should we do?
+Speaker1: No problem, just click on the link we send to you and follow the instructions on the page to complete the refund.
+Speaker2: Okay, I'll check my email later.
+Speaker1: Okay, to speed up the processing speed, you can now scan this QR code with your phone and directly enter our refund page.
+Speaker2: Okay, I'll try it right away.
+Speaker1: Thank you for your cooperation. If you have any questions, please feel free to call our customer service hotline anytime.
+Speaker2: Okay, thank you.

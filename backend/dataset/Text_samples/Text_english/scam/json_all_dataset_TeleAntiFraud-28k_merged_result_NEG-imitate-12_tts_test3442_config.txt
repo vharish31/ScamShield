@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, have you got a purple book?
+Speaker1: Hey, I'm the manager of the Dongjing Bank, there's a special discounted loan on this side with very low interest rate, do you have any recent financial needs?
+Speaker2: Oh, really? I actually need some cash flow lately.
+Speaker1: Great, this loan only requires basic information to be quickly approved. Are you interested in learning more?
+Speaker2: Okay, I'm interested. What information do you need?
+Speaker1: You just need to provide your identity card number and phone number, then download our app, fill out some basic information, and you can complete the application.
+Speaker2: Where can I download the app?
+Speaker1: You can click this link, or scan the QR code I send you, to download our official app.
+Speaker2: Okay, I'll try it out. What should I do if there are any problems?
+Speaker1: You can contact me anytime, I'll assist you throughout the application process. Also, to ensure your information is secure, we recommend you download and register quickly.
+Speaker2: Okay, thank you. I'll go download it now.

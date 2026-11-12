@@ -1,0 +1,10 @@
+Speaker1: Hello, is this Zhang Wei?
+Speaker2: Yes, who are you?
+Speaker1: This is the customer service representative of Huatai Technology Company. We noticed that you have had a transaction on our platform before, and now there is a promotion for old customers, which you can receive another discount amount.
+Speaker2: Really? That's good.
+Speaker1: Yes, in order to thank you for your support, we have specially launched this promotion. However, you need to click on the link to confirm, I can send you a link, you click on confirm and then you can enjoy the promotion.
+Speaker2: Okay, you go first, I'm waiting.
+Speaker1: Okay, just a moment, I'll send it over now. By the way, for your account safety, please provide your bank card number and verification code, so we can ensure the discount amount is successfully issued.
+Speaker2: Okay, bank card number is..., verification code is...
+Speaker1: Thank you for your cooperation. We have already processed it, and you will receive our discount notice soon. Moreover, you can add our customer service WeChat, and you can consult us anytime you have any questions.
+Speaker2: Okay, I'll add it. Thank you.

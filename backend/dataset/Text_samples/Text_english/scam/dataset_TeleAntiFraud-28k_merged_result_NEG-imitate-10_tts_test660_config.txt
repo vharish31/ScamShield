@@ -1,0 +1,10 @@
+Speaker1: Hello, you are Lee Huai? This is the customer service representative of China Post.
+Speaker2: Yes, hello, what do you have?
+Speaker1: We found out your package was lost during transportation. Now you can process a refund, but we need some personal information from you.
+Speaker2: Really? That's too troublesome. What information do you need?
+Speaker1: Just need your name, phone and bank card number, we will directly refund to your bank card.
+Speaker2: Okay, my bank card number is 622580622580622580.
+Speaker1: Okay, we have recorded it down, but for the sake of security, we need you to provide the verification code sent by the bank.
+Speaker2: Okay, I received the verification code is eight two six four, you guys can operate now.
+Speaker1: Okay, we have processed it and the refund will be in your account within an hour, please pay attention to check it.
+Speaker2: Okay, thank you.

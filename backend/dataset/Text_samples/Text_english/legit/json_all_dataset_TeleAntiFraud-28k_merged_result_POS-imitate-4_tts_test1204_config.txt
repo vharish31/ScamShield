@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from a courier company. You have a package that needs to be confirmed for delivery.
+Speaker2: Hello, how is my delivery?
+Speaker1: Your package has arrived at the nearby delivery station. We want to confirm your address is correct.
+Speaker2: The address should be correct, I have received all the packages before.
+Speaker1: Okay, let me double-check. Is your phone number 1352345645?
+Speaker2: Yes, this phone number is correct.
+Speaker1: Okay, your address and phone number are confirmed. The delivery will be today at afternoon. Are you at home?
+Speaker2: I can send it in the afternoon.
+Speaker1: Okay, we'll arrange delivery this afternoon. If you have any issues, feel free to contact us anytime.
+Speaker2: Okay, thank you.

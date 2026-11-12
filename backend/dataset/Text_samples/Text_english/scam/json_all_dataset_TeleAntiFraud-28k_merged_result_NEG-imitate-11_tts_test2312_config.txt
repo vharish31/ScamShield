@@ -1,0 +1,9 @@
+Speaker2: Hey, you talk
+Speaker1: Hello, I am a customer service representative from Commercial Bank, the loan application information you submitted to us has been approved, and you can now disburse the funds.
+Speaker2: Really? That's great, I really need cash flow recently.
+Speaker1: Yes, but in order to ensure safety, we need you to pay a deposit first, and then refund it to you after the loan is issued.
+Speaker2: Deposit? How much money is needed?
+Speaker1: Just need to pay three thousand yuan, this is to ensure the safety of the loan, after the loan comes down will fully refund.
+Speaker2: Okay, how do I pay?
+Speaker1: You can pay through scanning the QR code I send, and once the payment is successful, we will immediately start processing the loan application.
+Speaker2: Okay, I'll go pay now.

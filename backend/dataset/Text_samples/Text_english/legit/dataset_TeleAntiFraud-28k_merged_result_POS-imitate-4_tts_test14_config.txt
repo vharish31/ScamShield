@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: What, the takeout I ordered just now hasn't arrived yet?
+Speaker2: Where are you?
+Speaker1: That's the sunshine apartment, 3rd floor, room 102.
+Speaker2: Okay, I'll check here. Wait a minute, I'll take a look at your order.
+Speaker1: Okay, you check it.
+Speaker2: Your takeout should have been delivered to the third floor by now, but it might be in the delivery box outside.
+Speaker1: Takeout counter? I can't see it.
+Speaker2: Take a closer look, the takeout counter is at the door of building three, on the left side there's a small pavilion.
+Speaker1: Ah, found it, found it, thank you.
+Speaker2: No problem, eat slowly. Contact me if you have other questions.

@@ -1,0 +1,12 @@
+Speaker1: Hey, are you at home?
+Speaker2: Hey, I'm here, how are you?
+Speaker1: I'll go to your side in a while, please keep an eye on the delivery for me.
+Speaker2: Okay, no problem, what time are you arriving?
+Speaker1: About half an hour later, the road was congested.
+Speaker2: Okay, I'll take a look later. Which roadblock on your route is most likely to get stuck?
+Speaker1: That intersection near the big mall is always crowded with cars.
+Speaker2: Oh, I know. Maybe you should take the side road to get there faster.
+Speaker1: Which side? That road looks like I haven't walked on it before.
+Speaker2: That's the small road next to the park, just keep walking straight to the end, turn left and you'll be at my house.
+Speaker1: Okay, thank you, I'll try it out.
+Speaker2: No problem, see you later.

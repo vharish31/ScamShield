@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Mr. Li? I am Zhang, the waiter at Happy Restaurant.
+Speaker2: Hello, I am, what do you have?
+Speaker1: Our restaurant recently introduced some new dishes, would you like to invite you to taste them, do you know if you are available recently?
+Speaker2: Oh, that's right, I've been pretty busy lately, but I should have some free time this weekend.
+Speaker1: That's great, we have a spot at six o'clock on Saturday night. Is that okay for you?
+Speaker2: I can make it at six o'clock on Saturday night, but I'll probably arrive around seven.
+Speaker1: No problem, you can come later, we will save you a seat.
+Speaker2: Okay, thank you.
+Speaker1: No problem, by the way, our restaurant now provides free parking service, if you drive here, you can directly park in the underground parking lot.
+Speaker2: Great, I'm driving right now. See you on Saturday.
+Speaker1: Okay, see you on Saturday, looking forward to your arrival.

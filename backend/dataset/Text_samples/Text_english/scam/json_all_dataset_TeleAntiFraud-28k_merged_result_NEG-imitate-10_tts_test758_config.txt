@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of the speed purchase platform. We detected a problem with your order. Please cooperate to handle it.
+Speaker2: Hello, what's the issue?
+Speaker1: An error occurred with your order during the payment process. Please click on the link we sent to confirm the information in order to complete the payment.
+Speaker2: Okay, how to confirm?
+Speaker1: Just click this link, enter your order number and phone number, and we'll solve it for you.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, if you have any issues during the operation, feel free to contact our customer service at any time.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you happy life, bye.
+Speaker2: Goodbye.

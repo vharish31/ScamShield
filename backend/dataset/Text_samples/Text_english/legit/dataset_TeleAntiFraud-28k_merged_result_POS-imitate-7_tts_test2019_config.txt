@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, this is the Sky Blue Food Restaurant, your dinner reservation time is almost up, please remind.
+Speaker2: Hi, I want to confirm my reservation for the table and the number of people.
+Speaker1: Of course, your reservation is for a four-person table, at seven o'clock in the evening, right?
+Speaker2: Yes, I remember you specifically requested the window position.
+Speaker1: Yes, I have reserved a window seat for you. Is there anything else I can help you with?
+Speaker2: Can you tell me what types of dishes the restaurant offers, and do they have any special recommendations?
+Speaker1: Our restaurant specializes in Sichuan and Cantonese cuisine, with signature dishes including Kung Pao Chicken, Clear Steamed Sea Bass, and our famous Stir-Fried Frog.
+Speaker2: It sounds great, let's try some later.
+Speaker1: Hello, all our dishes use fresh ingredients, guaranteed to satisfy you.
+Speaker2: Okay, thank you for your reminder and introduction. See you later.
+Speaker1: No problem, see you later, wish you enjoy your meal.

@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw a custom wooden table in your store. Can you tell me more about it?
+Speaker2: Okay, our wooden table is handcrafted, and it can be adjusted in size and style according to your needs.
+Speaker1: What's the price?
+Speaker2: The price will vary depending on the materials and size, around two to five thousand.
+Speaker1: Can we customize the color?
+Speaker2: Of course, we provide multiple color options for you to choose from, what's your preference?
+Speaker1: I want to make a deep brown, about one meter long, that can be placed in my home's living room.
+Speaker2: Okay, we can fully meet this requirement. You can leave your contact information, and our designer will quickly contact you to further confirm the details.
+Speaker1: Okay, my phone number is 1381380138.
+Speaker2: Got it, we will contact you soon. Are there any other questions?
+Speaker1: No longer available, thank you.
+Speaker2: You're welcome. I'm looking forward to your arrival. Goodbye.
+Speaker1: Goodbye.

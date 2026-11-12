@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, do you have anything to talk about?
+Speaker1: I am the customer who bought an electric water kettle from your store last time. The kettle has some problems now and I want to ask if it can be repaired.
+Speaker2: Hello, when is the electric water kettle bought? Is there a warranty period?
+Speaker1: It should still be under warranty since it was bought last December.
+Speaker2: Okay, what's the specific issue? I can help you figure out how to solve it.
+Speaker1: Just recently started leaking, not feeling too confident using it.
+Speaker2: That's right, the electric water heater is still in the warranty period, you can bring it to the store for us to check it out, if it needs repairs we can do it for free.
+Speaker1: That's great, can I come over in the afternoon tomorrow?
+Speaker2: Sure, what time in the afternoon works for you? We have people here from two in the afternoon to six.
+Speaker1: I'll be there at 3 pm tomorrow, thank you.
+Speaker2: No problem, see you tomorrow.

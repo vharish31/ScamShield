@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm Lee Ming, I want to consult with you about the weekend housekeeping service reservation.
+Speaker2: Hello, Li Ming, I am a customer service representative for home service, can I help you with anything?
+Speaker1: I want to book a weekend cleaning service, do you guys provide service on Sunday too?
+Speaker2: On Sunday we provide cleaning services. Please specify the time and address, and I will arrange it for you.
+Speaker1: Sounds good, can we meet at 9am on Sunday? The address is in Chaoyang District, Happiness Small Community.
+Speaker2: Okay, Sunday morning at 9am, in the Happiness Small Community in Chaoyang District, I have recorded it down. Do you need to book standard or deep cleaning?
+Speaker1: The home is quite clean, just standard clean is enough.
+Speaker2: Understood, the standard fee is 100 yuan per hour, and it usually takes 2 to 3 hours for a family to complete it. How much time do you need to book the service in advance?
+Speaker1: Let's book a three-hour service, should be enough.
+Speaker2: Okay, three-hour service, total of 300 yuan. Please prepare the door key in advance and keep the door clean, we will arrive on time.
+Speaker1: Okay, thank you for your reminder. I'll wait for you at your door on Sunday.
+Speaker2: You're welcome. If you have any questions, please feel free to contact our customer service at any time. Have a great day!

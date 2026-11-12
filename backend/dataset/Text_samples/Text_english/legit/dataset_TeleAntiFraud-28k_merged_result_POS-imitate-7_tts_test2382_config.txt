@@ -1,0 +1,13 @@
+Speaker1: Hey, how are you? I'm little Li. I saw you posted a job search info online. Are you still looking now?
+Speaker2: Hey, hello, yes, I'm still looking now.
+Speaker1: Great, we have a perfect position for you here, it's about customer service, mainly responsible for answering customer's consultation calls and solving their problems, are you interested in learning more?
+Speaker2: Hey, I'm quite interested in customer service, can you specifically talk about the responsibilities and requirements of this position?
+Speaker1: Of course. This position requires you to have good communication skills, the ability to patiently solve customer problems, the work schedule is from Monday to Friday, from 9 am to 6 pm, with a break in between.
+Speaker2: What's the location of that job?
+Speaker1: The workplace is in the central business district of the city, transportation is very convenient, and there are subway and bus stations nearby.
+Speaker2: Is there a probation period for this position? What is the probationary salary?
+Speaker1: Yes, the probation period is three months, and the monthly salary during this period is three thousand yuan. After the probation period, the salary will be increased.
+Speaker2: Okay, what should I do next if I'm interested?
+Speaker1: If you're interested, please send your resume to our email first, and we'll schedule a time for an interview. Make sure to include your contact info and work experience on the resume.
+Speaker2: I understand, thank you for your introduction, I will consider it.
+Speaker1: No problem, if you have any other questions, please feel free to contact me anytime. I hope you'll consider joining us in the future.

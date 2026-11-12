@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me about your restaurant's special dishes? Do you have any recommendations?
+Speaker2: Our menu here has red braised pork, steamed fish, and gong bao chicken, all of which are highly rated by customers.
+Speaker1: How much do these dishes cost?
+Speaker2: Red braised pork costs 58 yuan per portion, steamed fish is priced differently based on size between 78 to 108 yuan, and palace vegetable chicken is 48 yuan.
+Speaker1: Okay, what are your business hours?
+Speaker2: Our business hours are from 11 am to 10 pm every day, and they are extended to 11 pm on weekends.
+Speaker1: How many days in advance do I need to book a window seat?
+Speaker2: To ensure a place, we suggest you book at least a day in advance, especially on weekends and holidays.
+Speaker1: Okay, can I reserve this Saturday evening 7:00 PM seat?
+Speaker2: Okay, I'll take note of it. Please arrive ten minutes in advance, and if there are any changes, please inform us promptly.

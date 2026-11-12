@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: I saw your new phones and wanted to know more.
+Speaker2: Okay, we have several new phones out, which one specifically do you want to know about?
+Speaker1: That's the one I saw in the recent ads, black, named "Star Exploration".
+Speaker2: Oh, you're talking about the interstellar exploration phone. This phone's configuration is very high, it uses the latest processor, and the camera is at the flagship level.
+Speaker1: What's the price?
+Speaker2: The price is three thousand eight hundred yuan, our store now has an activity, you can enjoy one year of maintenance service when purchasing.
+Speaker1: Can I go to the store and take a look?
+Speaker2: Of course, our store is open from 9 am to 9 pm every day, you can come anytime.
+Speaker1: Okay, I'll come in the afternoon tomorrow.
+Speaker2: Okay, see you tomorrow.

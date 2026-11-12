@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am small Li, the client manager of Agricultural Bank.
+Speaker2: Hello, what do you have?
+Speaker1: Have you heard about our recently launched special discount loan product? The interest rate is extremely low and the approval speed is fast.
+Speaker2: I'm a bit tight-handed right now, I really need to turn over some cash.
+Speaker1: Great, this loan is perfect for you. If you're interested, you can click on the link I sent you and apply online.
+Speaker2: Okay, can you show it to me?
+Speaker1: Please wait a moment. I'll send it to you soon. In order to speed up the approval process, you need to provide some personal information, including your identity card number and bank account.
+Speaker2: What do I need to do now?
+Speaker1: After clicking on the link, please fill out the information according to the instructions and submit it. We will have a specialist review it. To ensure the safety of your information, it's best to add me on WeChat for future communication.
+Speaker2: Okay, I'll add you on WeChat now.

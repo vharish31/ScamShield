@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Zhang Huai.
+Speaker2: Hello, Zhang Huang, I am Li Ming.
+Speaker1: Li Ming, how have you been lately?
+Speaker2: Hi, how are you?
+Speaker1: I'm also, recently been preparing to move, quite busy.
+Speaker2: Moving? Do you need help?
+Speaker1: Okay, if you have time, help me move some stuff.
+Speaker2: No problem, do you have any specific time for the weekend?
+Speaker1: How about two in the afternoon on Saturday? Is that convenient for you?
+Speaker2: Two o'clock is fine, give me the address, I'll go there later.

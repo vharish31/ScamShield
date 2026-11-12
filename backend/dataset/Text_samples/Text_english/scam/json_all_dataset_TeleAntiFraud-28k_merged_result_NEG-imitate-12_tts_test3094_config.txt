@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Agricultural and Commercial Bank, I am Lee Manager.
+Speaker2: Hello, Li Manager.
+Speaker1: We noticed your company recently has a funding need, we have a special loan project now that can provide a 45,000 support loan, no collateral, quick disbursement.
+Speaker2: Hmm, this sounds good, but I'm not familiar with loans.
+Speaker1: No problem, this project is very simple. You just need to provide some basic company information, and we will review it in an hour.
+Speaker2: What do I need to do?
+Speaker1: Just click this link, fill out some info, and we'll process immediately.
+Speaker2: Okay, let me try.
+Speaker1: Great! Click on the link and you'll see a QR code. Scan it to download our app, it's more convenient to operate.
+Speaker2: Okay, I'll go do it right away.

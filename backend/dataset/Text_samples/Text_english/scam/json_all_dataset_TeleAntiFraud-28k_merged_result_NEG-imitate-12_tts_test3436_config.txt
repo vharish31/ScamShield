@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here is speedy express customer service center, I is customer service specialist Zhang.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we found out that your package was accidentally lost during transportation, to show our apology, we are ready to compensate you one for one.
+Speaker2: Oh, that's really too annoying.
+Speaker1: No problem, for convenience in processing, please download our latest compensation-specific app, so you can quickly handle compensation matters.
+Speaker2: Why can't I directly handle it in my phone when downloading the app?
+Speaker1: Since the claims process requires you to upload some necessary information such as identity proof and order screenshot, it is more secure and convenient to process it through the app.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you a link. Click to download the app. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

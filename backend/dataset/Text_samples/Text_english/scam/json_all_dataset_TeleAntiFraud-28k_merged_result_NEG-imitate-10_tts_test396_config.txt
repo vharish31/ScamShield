@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Lee Huai? This is the credit card center of Huaxia Bank.
+Speaker2: Hello, how can I help you?
+Speaker1: Lee, your credit card application has been approved. We can provide you with quick activation service, but you need to complete a small task first.
+Speaker2: What task?
+Speaker1: It's simple, just click on the link I send you, download our official app, enter the verification code to activate your credit card, and your credit card will be usable normally after that.
+Speaker2: Okay, how do I get the verification code?
+Speaker1: Just click on the link, follow the instructions on the page, and the verification code will be automatically sent to the phone number you provided when applying for the credit card.
+Speaker2: Understood, I'll go operate now.
+Speaker1: Okay, if you encounter any issues during the operation, please contact me anytime. Additionally, to ensure your account's safety, we recommend not disclosing your verification code to anyone.
+Speaker2: Okay, thank you for your reminder.

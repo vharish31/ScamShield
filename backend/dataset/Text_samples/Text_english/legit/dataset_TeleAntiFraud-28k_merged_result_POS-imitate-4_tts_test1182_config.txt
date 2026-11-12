@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I'm the customer service of Meituan Waimai, you ordered food from our platform before, now there's a small activity we want to confirm with you.
+Speaker2: Hey, what activity is it?
+Speaker1: We have a point redemption activity, your account has accumulated a lot of points, now you can exchange some discount coupons, valid until midnight tonight.
+Speaker2: Can I exchange points for discount coupons? I didn't receive the SMS notification.
+Speaker1: It's possible that there was a mistake, so I'll resend it. But the points are real, you can check them on our platform.
+Speaker2: Okay, thank you. How do I check my points?
+Speaker1: Log in to my Meituan Waimai account, enter my page, and click on the Integral Center to see how many points you have.
+Speaker2: What discount coupons can these points be exchanged for?
+Speaker1: You can exchange full-discount coupons, shipping fee discount coupons, and some partner store discount coupons.
+Speaker2: Sounds good, I'll check it out later. Thanks for the reminder.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. I hope you enjoy your meal!

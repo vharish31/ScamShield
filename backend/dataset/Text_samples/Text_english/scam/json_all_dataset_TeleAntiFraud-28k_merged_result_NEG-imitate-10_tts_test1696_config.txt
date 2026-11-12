@@ -1,0 +1,10 @@
+Speaker1: Hello, you are Mr. Zhang? I am Lee, the manager of Agricultural and Commercial Bank.
+Speaker2: Hey, how are you? I'm Zhang. What's up?
+Speaker1: That's right, we noticed that your recent loan application at our bank was rejected due to your credit situation. Considering your credit status, we have specially prepared a low-interest loan plan for you.
+Speaker2: Oh, really? That's great, I really need to turn over some cash recently.
+Speaker1: Yeah, you're really lucky. This plan's interest rate is very low, only need one cent eight, and can be paid off in three years.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: It's very simple. Just download our bank app, register and fill in the relevant information. I have the download link here. You'll receive a short message later.
+Speaker2: Okay, I'll download it later. Do I need to prepare any materials?
+Speaker1: Just prepare your ID and pay stub, upload to the app and you're done. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you for your help.

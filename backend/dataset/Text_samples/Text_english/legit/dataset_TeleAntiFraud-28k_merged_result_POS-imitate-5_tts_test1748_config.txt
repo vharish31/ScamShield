@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am customer service Li from the point store
+Speaker2: Hello, what do you have?
+Speaker1: Can you see that there are many member points in your account that haven't been used or redeemed?
+Speaker2: Oh, really? How did I miss that?
+Speaker1: Yes, all scores will be cleared at midnight tonight.
+Speaker2: What can I do with the points? Can I exchange them for anything?
+Speaker1: Of course, you can exchange some practical products, such as smartwatches, kitchen appliances, etc.
+Speaker2: Listen well, then how do I exchange it?
+Speaker1: You just need to log in to our point store, select your favorite products, and then use points to exchange them.
+Speaker2: Okay, I'll give it a try. Thank you for reminding me.
+Speaker1: No problem, if you have any issues during the exchange process, please feel free to contact me anytime.

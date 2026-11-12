@@ -1,0 +1,12 @@
+Speaker1: Hello, I'm little Li, I saw you guys are looking for part-time jobs, I want to know more about it.
+Speaker2: Hello, I am Zhang, the recruiter in charge. We do have a part-time position open. Could you tell me which specific position you are interested in?
+Speaker1: What are the specific requirements for the data entry position mentioned in the job advertisement that I saw?
+Speaker2: The data entry clerk is mainly responsible for converting paper records into electronic documents, requiring fast typing speed and high accuracy, with basic computer operation ability.
+Speaker1: How long do I have to work on this computer job?
+Speaker2: Our part-time jobs are quite flexible during work hours. The specific times can be arranged according to your free time.
+Speaker1: What is the salary and benefits for this position?
+Speaker2: Salary is calculated per hour, with an hourly wage of 15 yuan, and monthly payment.
+Speaker1: What materials do I need to apply for this position?
+Speaker2: Please provide a resume and a copy of your ID card, and if you have relevant work experience, please submit the corresponding materials along with it.
+Speaker1: Okay, I will quickly prepare these materials and then send them to your email.
+Speaker2: Okay, I'm waiting for your email. If you have any other questions, feel free to contact me anytime.

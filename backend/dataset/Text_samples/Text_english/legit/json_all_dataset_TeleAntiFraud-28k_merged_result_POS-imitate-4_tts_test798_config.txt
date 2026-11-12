@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I reserved a table for two at your store for tonight at six and a half.
+Speaker2: Hello, Small Li, let's check the reservation information. Found it, yes, you reserved tonight at 6:30 for two people, right?
+Speaker1: That's this time.
+Speaker2: Okay, no problem, we will prepare for you. Do you have any special requirements, such as sitting by the window or anything you dislike?
+Speaker1: Stand by the window, and also, my friend doesn't eat spicy, so don't put too much chili peppers in the food.
+Speaker2: Understood, we will pay special attention to these. Moreover, do you know our restaurant's special dish is the braised pork belly, very popular, would you consider it?
+Speaker1: That sounds good, let's add one more copy.
+Speaker2: Okay, I have noted it down. So, tonight at six and a half, we will meet at the restaurant.
+Speaker1: Okay, thank you, see you later.
+Speaker2: You're welcome, you can go slowly. Goodbye.

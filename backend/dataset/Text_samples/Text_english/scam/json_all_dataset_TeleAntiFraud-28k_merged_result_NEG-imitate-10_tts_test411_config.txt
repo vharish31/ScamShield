@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. Your recent credit score with us is very high. We have a new credit loan product that is very suitable for you.
+Speaker2: Is that so? What are the conditions for this loan?
+Speaker1: This loan product does not require collateral, approval is quick, the maximum loan amount is up to 50,000 yuan, and the interest rate is also very favorable. If you are interested, you can click on the link I send you and fill out the relevant information, and we will quickly approve it for you.
+Speaker2: Okay, how can I confirm this is true?
+Speaker1: You can verify my identity through the official website of the Commercial Bank, or you can directly call our bank's customer service hotline for confirmation. For your convenience, I have provided a link here that will take you directly to the application page.
+Speaker2: Okay, let me try.
+Speaker1: Great, I'll send the link to your phone right away. Please make sure your phone's network is available, so you can receive it promptly. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish your application to be successful. If you need any other help, feel free to contact me anytime. Bye!
+Speaker2: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I work at the east north bank, we have a special activity for our high quality customers here, do you want to know more about it?
+Speaker2: What activity?
+Speaker1: We recently introduced a no collateral loan with a maximum credit limit of up to 50,000 US dollars, which is very convenient, and the application process is very simple.
+Speaker2: Sounds good, but I'm pretty busy right now, not very convenient.
+Speaker1: No problem, this loan is interest-compounded daily, no fees are charged when not in use, and you can contact us at any time if you need it.
+Speaker2: What is your interest rate?
+Speaker1: The interest rate is very low, only 0.03%, much lower than other loan products on the market.
+Speaker2: So low? How can I apply then?
+Speaker1: You can click this link, we have a specialized online platform for applying, very convenient and quick.
+Speaker2: Okay, let me try.

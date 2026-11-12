@@ -1,0 +1,12 @@
+Speaker1: Hello, I am a customer service representative from Zhilink, how is the recent recruitment situation in your company?
+Speaker2: Hello, the recruitment situation is good, we are currently screening resumes.
+Speaker1: Is the resume I recommended earlier suitable?
+Speaker2: Some initial candidates are still in the selection process.
+Speaker1: Do you consider local candidates for the sales position recruitment?
+Speaker2: Yes, we prefer to hire local salespeople.
+Speaker1: Understood, then I will recommend some local candidates to you again.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, by the way, we have a chat card activity that we can give you for free, so you can easily filter candidates online.
+Speaker2: Listen well, how to take it?
+Speaker1: You can take it from my wallet, valid for one month, remember to use it in time.
+Speaker2: Okay, I will pay attention, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Qiang?
+Speaker2: Yes, you are?
+Speaker1: I am the customer manager of Agricultural and Commercial Bank, Lee Huai. We noticed that your company recently has a need for capital rotation, so we called you to understand if you have any intention of borrowing?
+Speaker2: Uh, is that so? I've been having some difficulties with cash flow lately, can you give me a detailed explanation?
+Speaker1: Of course. We have a product specifically designed for enterprises that offers low interest rates, quick approval, and no collateral is required. If you're interested, I can send you a link with a detailed explanation.
+Speaker2: Okay, send me a link, I'll take a look and then we can talk.
+Speaker1: Okay, just a moment, I'll send it to you now. To streamline the process, you can first download our app, which allows you to apply directly.
+Speaker2: Okay, let's download and take a look.
+Speaker1: Great, if you have any issues after downloading, feel free to contact me anytime. By the way, to speed up the approval process, it's best to prepare the relevant data in advance, which will save a lot of time.
+Speaker2: Okay, I will be ready. Thank you for your help.

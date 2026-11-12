@@ -1,0 +1,10 @@
+Speaker1: Hey, are you free now?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: What are some good phone brands for a new phone?
+Speaker2: What brand do you prefer among the popular ones in the market now, Huawei, Xiaomi or Apple?
+Speaker1: I prefer Huawei, what do you think is the best Huawei series?
+Speaker2: Both the Mate and P series from Huawei are quite popular, with high configurations. You can check out the latest Mate or P series.
+Speaker1: Okay, I'll take a look at the latest Mate series. By the way, how have you been lately? Is your work still going smoothly?
+Speaker2: Hi, I've been busy lately with a lot of projects. How about you, do you have any new plans?
+Speaker1: I'm planning a trip at the end of the year, what are some good recommendations for scenic spots?
+Speaker2: If you like natural scenery, you can go to Yunnan or Sichuan, the scenery there is very beautiful. If you like city culture, you can go to Shanghai or Beijing.

@@ -1,0 +1,11 @@
+Speaker1: Hello, are you familiar with the city restaurant we have?
+Speaker2: Oh, hi, have you tried it? It's pretty good.
+Speaker1: Great, we recently introduced a new dish, would you like to come over and try it out? Do you have any time lately?
+Speaker2: Hey, how about next week?
+Speaker1: What time slots are convenient for you next week, between Monday and Friday, from noon to evening?
+Speaker2: I'm not sure about Wednesday night, but I'll confirm the specific time with you.
+Speaker1: Okay, can you give me a rough time? So I can reserve a spot for you in advance.
+Speaker2: About 7 o'clock, but maybe a little later.
+Speaker1: No problem, we will reserve a seat for you before 7:30 pm. If you arrive later, you can contact our service staff.
+Speaker2: Okay, thank you, see you later.
+Speaker1: You're welcome, I'm looking forward to your arrival, goodbye.

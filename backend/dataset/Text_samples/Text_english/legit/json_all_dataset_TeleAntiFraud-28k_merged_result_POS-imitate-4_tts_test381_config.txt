@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Can you find Li Ming? Is he at home?
+Speaker2: Hey, are you his friend? He just left, do you have anything I can tell him for you?
+Speaker1: That's really lucky, I have a party to invite him to, if he comes back, please tell him to call me back.
+Speaker2: Okay, no problem, I will make him call you back. What's your phone number? I'll write it down.
+Speaker1: Okay, my phone number is 1381380138.
+Speaker2: Okay, I'll note it down. Li Ming will contact you as soon as he returns.
+Speaker1: Sorry to bother you, really not good.
+Speaker2: No problem, this is what should be. Do you have other things to do?
+Speaker1: No more, thank you, goodbye.
+Speaker2: Goodbye, I hope Li Ming can attend your party.

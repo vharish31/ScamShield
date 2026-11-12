@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hi, I'm the property manager of the community. Do you have any maintenance needs at home recently?
+Speaker2: "Ah, yes, my home's water pipe has a little leak, want to know how to fix it?"
+Speaker1: Okay, we have a professional mechanic who can come to your home for a checkup at a scheduled time.
+Speaker2: Great, could you help me schedule a master, preferably tomorrow morning, I'm free then.
+Speaker1: Okay, I'll arrange it. Your home address is three number two unit, right?
+Speaker2: Yes, that's it.
+Speaker1: Okay, master will arrive at around 10 am tomorrow morning. Wait for him at home.
+Speaker2: Okay, thank you, hardworking master.
+Speaker1: No problem, please contact property management anytime if you have any questions. Wish you a happy life.
+Speaker2: Okay, bye.

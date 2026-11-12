@@ -1,0 +1,11 @@
+Speaker1: Hello, this is Qingyun Restaurant. Is there anything I can help you with?
+Speaker2: Hello, what are your special dishes?
+Speaker1: What special dish from our recommendations would you like to try - red braised pork, steamed fish or stir-fried mushroom chicken?
+Speaker2: How much do these dishes cost to hear them sound good?
+Speaker1: Red braised pork is 35 yuan, steamed fish is priced differently based on the size of the fish, usually between 50 to 100 yuan, and palm chicken is 25 yuan.
+Speaker2: I plan to reserve a two-person table, around 7 pm to arrive.
+Speaker1: Okay, the 7 o'clock table for two people has been reserved for you. Just let them know your name when you arrive.
+Speaker2: Okay, thank you. Got it, I want to ask, do you have parking spaces here?
+Speaker1: Yes, we provide free parking spaces for customers, just behind the restaurant.
+Speaker2: Okay, I'll see you later.
+Speaker1: Okay, see you tonight, looking forward to your arrival.

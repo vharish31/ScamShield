@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am an AliCloud customer service representative. We have found some unusual activity on your account and need to handle it immediately. Can you please talk to us now?
+Speaker2: Okay, you say, what's the question?
+Speaker1: To ensure your account safety, we need you to provide your identity card number and bank card information. We will immediately freeze your account to prevent funds from being stolen.
+Speaker2: Okay, my ID number is 1234567890123 and my bank card number is 1234567890123.
+Speaker1: Okay, I have recorded your information. A specialist will contact you later to complete the account verification. Additionally, we have a safe small program that you can download if you want, which will be more convenient for managing your account.
+Speaker2: Download the small program? How to download?
+Speaker1: Yes, you can download the "Aliyun Security Assistant" app from the mobile app store by searching for it, or I can send you a link, and you can download it directly by clicking on it.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the link now. To ensure your account's safety, I suggest you download and verify it as soon as possible.
+Speaker2: Okay, thank you.

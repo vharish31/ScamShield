@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I want to know more about the signature dishes of your restaurant.
+Speaker2: Hello, our restaurant special dishes include red braised pork, steamed fish and kung pao chicken, all of which are very popular.
+Speaker1: Does the red meat taste sweet or salty?
+Speaker2: Our red meat is sweet, we add a little sugar and freshness when cooking, which is more suitable for most people's taste.
+Speaker1: Okay, I plan to come over for dinner tonight, when do you guys start business?
+Speaker2: Our restaurant is open from 5 pm to 10 pm. You can come anytime.
+Speaker1: Great, I'll probably arrive at six and a half, do I need to reserve a spot?
+Speaker2: 6:30 is a busy time, I suggest you book in advance, I can help you book a spot.
+Speaker1: Okay, that's it, thanks.
+Speaker2: No problem, see you later.

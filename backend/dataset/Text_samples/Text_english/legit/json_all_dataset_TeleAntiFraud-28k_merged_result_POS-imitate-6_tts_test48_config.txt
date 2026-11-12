@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Ming?
+Speaker2: Yes, who are you?
+Speaker1: Do you remember me, Liu Xiaoliu, your colleague?
+Speaker2: Hey Liu, remember remember, how are you, what's up?
+Speaker1: Is it like that? Do you want to come to the dinner tonight?
+Speaker2: What time is it?
+Speaker1: 7 o'clock, at the old restaurant, do you remember?
+Speaker2: Remember remember, then I arrive on time.
+Speaker1: Okay, see you then.
+Speaker2: See you later, goodbye.

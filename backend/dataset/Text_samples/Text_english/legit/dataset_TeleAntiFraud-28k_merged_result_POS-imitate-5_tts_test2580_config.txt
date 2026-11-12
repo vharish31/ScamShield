@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm waiting for you at the exit of the subway station.
+Speaker2: Good, I'm out now, can you see me?
+Speaker1: No, what are you wearing? I can recognize you.
+Speaker2: I am wearing a blue jacket and standing to the right of the exit.
+Speaker1: I see you, I'll be there soon.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Have you eaten yet?
+Speaker2: Not yet, you?
+Speaker1: Let's go eat something together.
+Speaker2: Want to go to a small face shop nearby? It's pretty good.

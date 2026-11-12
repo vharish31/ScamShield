@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm Wang, a credit officer at the bank. Recently, our bank introduced a special discounted loan product with a very low interest rate. Would you like to know if you have any funding needs?
+Speaker2: I don't need it now, thank you.
+Speaker1: Yeah, that's convenient. Can you add a WeChat? Sometimes banks have internal promotions, they'll notify you first, pretty good deal.
+Speaker2: Okay, can you say your WeChat number?
+Speaker1: Okay, my WeChat is abc123, add me as a friend, I'll tell you about any promotional activities immediately.
+Speaker2: Okay, I'll add you.
+Speaker1: Great, there's also a small reward. After you add me, download our bank's app through the link I recommend, and you can get a 100 yuan new user red packet.
+Speaker2: This one's okay, let me give it a try.
+Speaker1: Hello, this link is: http://example.com/app. After you download it, remember to use my recommendation code to register, the recommendation code is 123456.
+Speaker2: Okay, I'll take a look. Thank you.

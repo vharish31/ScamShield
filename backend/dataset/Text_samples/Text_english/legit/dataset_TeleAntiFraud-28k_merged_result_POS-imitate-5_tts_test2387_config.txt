@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you?
+Speaker2: Hello, are you looking for me to consult about renting a house?
+Speaker1: I'm looking for a two-bedroom apartment, preferably new.
+Speaker2: Okay, I have a few options, one is on the first floor, the environment is not bad, do you think it's suitable?
+Speaker1: Does this house have a balcony?
+Speaker2: Yes, that house has a small balcony, suitable for drying clothes, and also can cultivate some flowers and grass.
+Speaker1: How much is the rent for a month?
+Speaker2: The rent for this house is 3,000 yuan per month, with a one-month deposit, and there are no additional fees.
+Speaker1: Hmm, sounds good, when can I go take a look?
+Speaker2: Are you free this weekend? I have some free time on Saturday, can I take you out?
+Speaker1: Sounds good, can we meet at 3 PM on Sunday?
+Speaker2: Sure, let's meet on Sunday afternoon at 3 pm at the address of Happiness Small Community, 3rd floor, 1st unit.

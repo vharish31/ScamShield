@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your family's massage service
+Speaker2: Hello, I am the customer service representative here, can I help you with anything?
+Speaker1: What massage projects do you have?
+Speaker2: We provide full-body relaxation massage, neck and shoulder massage, and foot massage services here. You can choose according to your needs.
+Speaker1: How long does a full-body relaxation massage usually take?
+Speaker2: A full-body massage usually takes 60 minutes. If you want a deeper service, you can appropriately extend the time.
+Speaker1: Okay, what's the price?
+Speaker2: A full-body relaxation massage for 60 minutes costs 200 yuan. If you're a first-time customer, we have a new customer discount and you can enjoy an 80% discount.
+Speaker1: Can I schedule an appointment for tomorrow afternoon at three o'clock?
+Speaker2: Of course, there is still a time slot available at 3 pm tomorrow afternoon. I will reserve it for you. Please arrive ten minutes early.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you later, wish you a happy day.

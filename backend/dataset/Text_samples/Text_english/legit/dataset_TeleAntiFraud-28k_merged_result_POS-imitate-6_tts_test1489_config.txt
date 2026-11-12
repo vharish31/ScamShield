@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, I recently decided to buy a new phone, do you have any recommendations?
+Speaker2: Hey, little Li, long time no see. Buy a phone, what do you usually consider when choosing? Is it performance, price or brand?
+Speaker1: The most important thing is that the performance is good, and the price also cannot be too expensive, because we are still saving money.
+Speaker2: You can take a look at the recent mid-range phones, the price-performance ratio is quite good, for example, the latest model of brand A has a good configuration.
+Speaker1: Can you give me a specific description of Brand A?
+Speaker2: Of course. This phone's processor is relatively new on the market, its performance is stable, the battery capacity is large, the endurance is strong, and the camera is not bad, suitable for daily photography.
+Speaker1: How much does it cost?
+Speaker2: The price of this phone is currently between two thousand and three thousand, and if you buy it now, you'll catch the promotion and get a discount.
+Speaker1: Between 2000 and 3000, that's still quite reasonable. Can you help me keep an eye on when there are promotional activities?
+Speaker2: No problem, I'll keep an eye out for you and let you know if there's any news.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I just saw a phone on your website, want to ask a few questions.
+Speaker2: Hello, little Li, I am customer service Zhang, very happy to serve you. Which phone are you interested in?
+Speaker1: That's the latest model, I saw the reviews were pretty good.
+Speaker2: You said it's the latest flagship phone, which is indeed very popular. This phone comes with the latest processor and has a long battery life.
+Speaker1: Is this phone in stock now?
+Speaker2: Our online inventory is currently available, but the quantity is limited. If you're interested, we recommend placing your order as soon as possible.
+Speaker1: Okay, I plan to buy one, but I also want to know your delivery time roughly how long?
+Speaker2: In general, we will ship your order within 24 hours after you place it, based on the address you provide, it will take approximately 2 to 3 days to arrive.
+Speaker1: If I receive my phone after finding out there's a problem, can I return it?
+Speaker2: Of course, we provide a seven-day no-questions-asked return service, as long as the phone hasn't been damaged and doesn't affect resale, you can apply for a refund.

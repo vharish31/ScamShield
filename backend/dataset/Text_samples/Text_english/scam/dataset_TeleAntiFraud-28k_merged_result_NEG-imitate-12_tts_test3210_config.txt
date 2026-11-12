@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of the happy shopping platform. Your order has a problem, please cooperate with us to handle it.
+Speaker2: Hello, what's the problem with my order?
+Speaker1: An error occurred with your order during payment. To ensure the safety of your funds, please click on the link to confirm your payment information again.
+Speaker2: Okay, how do I confirm?
+Speaker1: Just click this link and follow the on-page instructions.
+Speaker2: I'm worried clicking on the link will have problems, won't it be a scam?
+Speaker1: You can rest assured that our platform is legitimate and the links are safe. If you're not sure, you can add our customer service WeChat and we'll have a specialist guide you through the process.
+Speaker2: Okay, I'll add WeChat. What's the number?
+Speaker1: Our customer service on WeChat is for Happy Shopping, tell me one sound after adding it, I let the specialist contact you.
+Speaker2: Okay, thank you.

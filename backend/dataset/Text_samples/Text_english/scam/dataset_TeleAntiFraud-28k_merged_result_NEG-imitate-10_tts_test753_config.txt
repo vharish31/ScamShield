@@ -1,0 +1,10 @@
+Speaker1: Hello, this is some bank's customer service representative, I am small Li.
+Speaker2: Hello, what do you have?
+Speaker1: So, we noticed that you recently have a funding need, and do you have any interest in learning more about our newly launched loan service?
+Speaker2: Uh, I recently need some cash flow.
+Speaker1: Great, our loan service is very convenient, no collateral is required, and the approval is very fast. You just need to download our app, fill out some basic information, and you're good to go.
+Speaker2: Download the app? Is it convenient this way?
+Speaker1: It's very convenient, and there's a specific customer service available on the app to answer any questions you have. Just scan this QR code to download our app.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues after downloading, feel free to contact me anytime. My phone number is 12345678901.
+Speaker2: Okay, thank you.

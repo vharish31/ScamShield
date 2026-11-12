@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Li Zong?
+Speaker2: Who are you?
+Speaker1: Hello, I am the manager of Zhang at China Construction Bank. We noticed some unusual activity on your account recently. It's possible that you need to use some funds.
+Speaker2: Oh, really? I actually need some cash flow recently.
+Speaker1: That's great, we have a new small business loan project at the bank with low interest and quick repayment, which is perfect for your situation.
+Speaker2: How do I apply?
+Speaker1: It's very simple. Just click this link and fill out some basic information, and we'll quickly review it.
+Speaker2: Okay, let me try.
+Speaker1: Great, in addition, to speed up the review process, you can pay a small fee first, which will prioritize your application.
+Speaker2: Okay, I understand, so I'll go operate first.
+Speaker1: Okay, Li boss, please contact me to confirm after you finish operating, wish you all the best.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are your hair appointment for tomorrow still valid?
+Speaker2: Hello, the appointment for tomorrow is still at 10 am, right?
+Speaker1: Okay, it's ten o'clock. I just want to confirm, because I suddenly have a meeting, maybe I'll be late.
+Speaker2: No problem, you can be late a little, we will leave a spot for you here.
+Speaker1: Okay, it's probably around half an hour, can I?
+Speaker2: Of course, you'll probably be there around 10:30, right?
+Speaker1: Okay, it's 10:30, thank you.
+Speaker2: No problem, you can come directly after you arrive.
+Speaker1: Okay, see you later.
+Speaker2: See you later, be careful on the road.

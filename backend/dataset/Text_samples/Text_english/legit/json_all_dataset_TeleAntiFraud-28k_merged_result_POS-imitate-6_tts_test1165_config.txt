@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you, where are you?
+Speaker2: Just got off the subway station, now at exit A, how did I get here?
+Speaker1: Oh, you come out from the A exit, turn right and walk 100 meters left and right, there's a sky bridge there, cross the sky bridge and that's our store.
+Speaker2: The door at Tianqiao was locked, I couldn't go through.
+Speaker1: You can try exiting from B exit, the road on that side should be smoother.
+Speaker2: Okay, I'll go out from B exit, can you wait for me a moment?
+Speaker1: No problem, you come slowly, I am waiting for you here.
+Speaker2: Thank you, I'll go over there right away.
+Speaker1: Okay, be careful on the road.
+Speaker2: I know, see you later.

@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: I am an UberEats delivery person. Your food has arrived, but there's a little problem.
+Speaker2: Okay, what's the issue?
+Speaker1: Because the road was a bit bumpy, your soup got a little spilled, but the food is still hot.
+Speaker2: What do I do, can I still eat after spilling soup?
+Speaker1: If you don't mind, I can help you apply for a refund, or resend it to you.
+Speaker2: Please resend the document, I'm sorry, I'll handle it myself.
+Speaker1: Okay, thank you so much, I'll go upstairs and deliver it to you
+Speaker2: Knock on the door, I'm waiting for you.
+Speaker1: Okay, I'll be there soon. Thank you for your understanding.

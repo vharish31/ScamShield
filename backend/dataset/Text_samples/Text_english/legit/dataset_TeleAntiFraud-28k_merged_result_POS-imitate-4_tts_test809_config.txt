@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, what's been up lately?
+Speaker2: Hello, little Zhang, I'm pretty good, just a bit busy with work lately. How about you?
+Speaker1: I'm doing well, just busy preparing to move, a lot of things to do.
+Speaker2: Moving, huh? You must be pretty busy, right? Need help?
+Speaker1: Thanks a lot, can you help me move some stuff if it's convenient?
+Speaker2: No problem, when?
+Speaker1: Is this weekend okay?
+Speaker2: Sure, what time this weekend?
+Speaker1: Can I come at around 10 in the morning?
+Speaker2: Okay, I'll arrive at ten o'clock. Can you send me that address?

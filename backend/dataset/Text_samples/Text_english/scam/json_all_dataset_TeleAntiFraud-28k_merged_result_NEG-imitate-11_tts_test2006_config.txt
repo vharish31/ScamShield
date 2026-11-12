@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm the customer manager of Huatai Bank, Lee Huai. We noticed that you've been having some difficulties with your credit card payments recently, so we're calling to see if we can help you out with any specific issues you're facing.
+Speaker2: Oh, really? I'm really short of funds lately.
+Speaker1: That's right, our bank offers a low-interest loan product specifically designed for high-quality customers to help you solve your short-term cash flow problems.
+Speaker2: The sound is good, but I'm not familiar with loans.
+Speaker1: No problem, I can give you a detailed introduction. For convenience of communication, I added you on WeChat, and sent you detailed product information. You can take a look first.
+Speaker2: Okay, can you add, what is your WeChat number?
+Speaker1: My WeChat number is 13712345678. After you add me, I will send you the information. You can contact me anytime if you have any questions.
+Speaker2: Okay, I added you.

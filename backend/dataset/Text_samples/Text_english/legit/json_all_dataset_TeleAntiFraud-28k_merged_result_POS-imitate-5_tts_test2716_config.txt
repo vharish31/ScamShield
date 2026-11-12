@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I've been considering buying a new phone recently, could you give me some advice?
+Speaker2: Hey, what brand are you planning to buy?
+Speaker1: I prefer Apple or Huawei, but I don't know which one is better for me.
+Speaker2: The iPhone system is smooth, the design is simple, and it's suitable for users who pursue quality. As for Huawei, the price-performance ratio is high, and the camera function is also quite good.
+Speaker1: What do you think is more suitable for me, taking photos or handling work-related matters?
+Speaker2: You can consider Huawei, the photo quality is excellent, and the processing work is smooth. Apple's, the system is stable, but also quite suitable for photography.
+Speaker1: What about the price? Is the flagship phone of Huawei and Apple so different in price?
+Speaker2: The price of Huawei's flagship phone is usually between 4,000 and 6,000 yuan, while the price of Apple's flagship phone may be between 6,000 and 9,000 yuan.
+Speaker1: Okay, I'll think about it again. By the way, what brand of phone do you usually use?
+Speaker2: I've been using Huawei, and it feels pretty good. It's especially good for photography and processing work.

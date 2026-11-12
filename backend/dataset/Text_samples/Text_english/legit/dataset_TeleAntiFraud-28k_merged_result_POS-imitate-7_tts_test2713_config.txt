@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Hi, I'm little Zhang, can you consult me about your store's cakes?
+Speaker2: Hey, how are you, little Zhang, what can I help you with?
+Speaker1: Can you recommend anything for birthday cakes in your store?
+Speaker2: We have several series of birthday cakes here, such as the fruit series, chocolate series, and butter series, all very popular. Do you have any special taste preference?
+Speaker1: I like fruits more, what fruits do you use for your fruit cakes?
+Speaker2: We usually use fresh strawberries, blueberries, and raspberries, which are the freshest seasonal fruits.
+Speaker1: What's the price like?
+Speaker2: The price of fruit cakes varies depending on size and style, generally ranging from 150 to 300 yuan.
+Speaker1: Can I order a cake with fruit and around 200 yuan?
+Speaker2: Of course, what time do you want to pick it up?
+Speaker1: Tomorrow afternoon at three o'clock.
+Speaker2: Okay, I'll remember it for you. Remember to come a minute early at 3 pm in the afternoon.
+Speaker1: Okay, thank you. See you later.
+Speaker2: No problem, see you later.

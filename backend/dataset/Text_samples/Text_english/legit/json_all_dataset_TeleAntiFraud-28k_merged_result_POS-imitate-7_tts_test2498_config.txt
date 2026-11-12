@@ -1,0 +1,14 @@
+Speaker1: Hey, hello, I'm little Li, I reserved a car from your store before, now I want to cancel the order, can you help me handle it?
+Speaker2: Hello, Small Li, what is the scheduled car type and time?
+Speaker1: The reservation is for the day production Xiān hé xiàng, time is tomorrow morning before ten o'clock.
+Speaker2: What net point did you book through?
+Speaker1: I made a reservation at the big Ming Road store in the east of the city.
+Speaker2: Okay, I'll check here. What's your phone number?
+Speaker1: My phone number is 6901888.
+Speaker2: Found it, your order can be cancelled before 10 am tomorrow, but there will be a certain handling fee, can you accept it?
+Speaker1: How much is the handling fee?
+Speaker2: The service fee is 10% of the predefined amount.
+Speaker1: Okay, I accept, then follow this.
+Speaker2: Okay, I'll handle it. Once it's done, I'll notify you via text message. Please pay attention to check it.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, please feel free to contact us anytime if you have any questions. Goodbye.

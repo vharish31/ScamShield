@@ -1,0 +1,9 @@
+Speaker2: Hello!
+Speaker1: Where are you?
+Speaker2: I'm in the 21st floor parking lot, come over.
+Speaker1: Okay, okay, I'll be there soon.
+Speaker2: Hey, I'm waiting for you at the entrance of the parking lot.
+Speaker1: I saw it, but it's a bit hard to find here, can you give me directions?
+Speaker2: Sure, just walk straight along this road and turn right at the twenty-fourth building, and you'll see the entrance to the twenty-first building.
+Speaker1: Okay, I understand, thank you.
+Speaker2: No problem, see you later.

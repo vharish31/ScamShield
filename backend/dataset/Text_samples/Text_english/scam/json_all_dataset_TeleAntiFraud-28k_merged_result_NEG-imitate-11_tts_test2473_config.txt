@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. We have a special promotion going on here, and I would like to invite you to join.
+Speaker2: Hello, what activity is it?
+Speaker1: We recently launched a high-yield investment product with a yearly return rate of 15%, it's very cost-effective.
+Speaker2: Does the high return of this product come with a big risk?
+Speaker1: Don't worry, our product has undergone strict risk assessment and there is almost no risk. As long as you are willing to invest, I can open a private investment account for you on this side.
+Speaker2: How do I operate it?
+Speaker1: It's very simple. Just click on the link I send you, download our investment app, and follow the instructions to register an account, and you can start investing.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the link right away. By the way, to ensure the safety of your account, you need to provide a verification code. The verification code will be sent to your phone, you can tell me once you get it.
+Speaker2: Okay, I'll tell you later.

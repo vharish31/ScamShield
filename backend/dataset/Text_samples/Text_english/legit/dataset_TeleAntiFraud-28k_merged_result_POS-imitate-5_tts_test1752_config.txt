@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I'm little Li, yesterday I made an appointment at your shop for a haircut, want to confirm the appointment time.
+Speaker2: Okay, just a moment, I'll check your appointment record.
+Speaker1: Okay, thank you.
+Speaker2: Found it, you are scheduled for this Friday afternoon at 3 PM, right?
+Speaker1: Okay, I just want to confirm, because there's a meeting today and it might be late.
+Speaker2: No problem, you can come late, we will save a spot for you.
+Speaker1: That's great, thank you for your understanding.
+Speaker2: No problem, please let us know of any changes and we'll meet on Friday.

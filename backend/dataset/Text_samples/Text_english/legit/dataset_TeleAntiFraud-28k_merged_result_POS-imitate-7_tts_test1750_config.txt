@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I want to buy a new phone recently, do you guys have any recommendations in your store?
+Speaker2: Hello, Mr. Zhang, we have several new smartphones with high value for money, what do you mainly use your phone for?
+Speaker1: The main purpose is to take photos and surf the internet, occasionally play games, I hope the performance is not too poor.
+Speaker2: I recommend you check out our latest X10 intergalactic explorer, its camera is incredibly powerful and its processor is the best on the market, so it's perfect for gaming.
+Speaker1: How much does this phone cost?
+Speaker2: This phone is currently selling for 3200 yuan, originally priced at 3600 yuan, and now comes with a free earphone and phone case when purchased.
+Speaker1: There are still gifts, that's great. I'll come over now, I should be there in about twenty minutes.
+Speaker2: Okay, Mr. Zhang, our business hours are from 9 am to 9 pm, twenty minutes later we'll meet.
+Speaker1: Okay, see you in twenty minutes, thank you.
+Speaker2: Please welcome you.

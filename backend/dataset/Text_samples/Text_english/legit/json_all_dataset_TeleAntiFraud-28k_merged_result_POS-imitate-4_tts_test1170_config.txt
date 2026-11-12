@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm the small Zhang from the repair station. Do you guys offer maintenance services for luxury cars?
+Speaker2: Hello, little Zhang, we mainly do car painting and interior decoration here, and we don't provide maintenance services on this side.
+Speaker1: Hmm, like this, what kind of services can you do?
+Speaker2: We can do car waxing, painting, interior cleaning, and seat covers replacement for these.
+Speaker1: Can you guys clean the interior of my BMW?
+Speaker2: Of course, we have professional cleaning tools and materials, and the effect is very good.
+Speaker1: What about the price?
+Speaker2: The interior cleaning is generally between 500 and 800 yuan, depending on the size of the car and the degree of dirtiness.
+Speaker1: Okay, when can I come?
+Speaker2: You can come in the morning of tomorrow, we open the door at nine o'clock, and you can confirm a place with an advance reservation.
+Speaker1: Okay, I'll come over at 10 am tomorrow, thank you!
+Speaker2: No problem, see you tomorrow!

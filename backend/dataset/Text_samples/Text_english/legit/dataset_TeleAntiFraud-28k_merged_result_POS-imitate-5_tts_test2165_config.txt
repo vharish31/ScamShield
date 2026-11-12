@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of Meituan Waimai. Your Waimai order has a little problem that needs to be confirmed.
+Speaker2: Hello, what's the problem?
+Speaker1: Your order has just been delivered, and the delivery person found out that the restaurant you ordered from doesn't have the dish you ordered anymore. They just updated their menu.
+Speaker2: Ugh, what do we do now?
+Speaker1: Do you agree to change the restaurant menu to other dishes at the same price?
+Speaker2: Can you give me something similar to that dish, as long as the price is roughly the same.
+Speaker1: Okay, I'll handle the restaurant for you now. Just wait for a moment, we'll confirm your order details again.
+Speaker2: Okay, can you help me?
+Speaker1: No problem, this is what we should do. Moreover, if you have other requirements or suggestions, you can tell me anytime.
+Speaker2: No longer available, thank you.

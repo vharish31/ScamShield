@@ -1,0 +1,15 @@
+Speaker1: Hey, how are you, do you have any new handbag models?
+Speaker2: Hello, yes, we just received a new batch of goods, with many styles. What style do you want?
+Speaker1: I want a simple style with black or deep blue color.
+Speaker2: Okay, we have a black, simple style handbag here with good quality. Would you like to see the pictures?
+Speaker1: Sure, can you show it to me?
+Speaker2: Okay, just a moment, I'll send it to you now.
+Speaker1: Okay, I'll be right back.
+Speaker2: Have you received it yet? Do you like it?
+Speaker1: Looks good, how much does it cost?
+Speaker2: This handbag's original price is 500 yuan, but now there's a promotion, eighty percent off, only 400 yuan.
+Speaker1: Can I pay 400 yuan with cash?
+Speaker2: You can pay through WeChat or Alipay, I'll send you a payment link.
+Speaker1: Okay, I'll pay in a moment.
+Speaker2: Okay, just a moment, I'll send it to you now. After the payment is successful, we'll quickly arrange delivery.
+Speaker1: Okay, thank you.

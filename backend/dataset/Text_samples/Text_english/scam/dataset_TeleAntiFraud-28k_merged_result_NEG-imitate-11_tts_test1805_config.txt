@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am Li Ming, the credit manager of Hangzhou Bank. Our bank recently launched a new loan product with very low interest rates and no collateral required. Do you have any recent financial needs?
+Speaker2: Oh, I haven't considered taking out a loan.
+Speaker1: Okay, if you need anything, you can consider it. By the way, how often do you shop online?
+Speaker2: Yeah, it's okay, I often shop online.
+Speaker1: That's great, we also have a promotion for online shoppers here, you can enjoy more discounts by downloading our app, are you interested in learning more?
+Speaker2: Can I, how to download?
+Speaker1: Okay, I'll send you a link to your phone, just click on the link to download directly.
+Speaker2: Okay, thank you.
+Speaker1: No problem, feel free to contact me if you have any questions, wish you a happy life, goodbye.

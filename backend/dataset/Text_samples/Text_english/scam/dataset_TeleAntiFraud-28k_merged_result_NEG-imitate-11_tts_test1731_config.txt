@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Zhang, a customer service representative from Agricultural and Commercial Bank, we recently introduced a low-interest loan product, do you have any needs in this area?
+Speaker2: "Oh, a loan, I have enough funds now, I don't need it temporarily."
+Speaker1: That's great. But if you have friends or family who need it, you can let them contact me, I can provide some discount conditions.
+Speaker2: What do you need for the loan?
+Speaker1: The loan amount and interest rate for this product are determined based on the customer's credit level. As long as you have a stable income source and good credit, the application process is simple and quick.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: You can directly click on the link I send to you or download our official app to apply, which has detailed application procedures inside.
+Speaker2: Okay, let me try.
+Speaker1: Great, you can contact me anytime if you have any questions, I will provide full service to you.
+Speaker2: Thank you, little Zhang.

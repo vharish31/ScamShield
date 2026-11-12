@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Is your repair shop still open?
+Speaker2: The store is open now, the business hours are from 9 am to 6 pm.
+Speaker1: I have a broken washing machine on this side, can it be repaired?
+Speaker2: Can you come to the store with me? Let's take a look at the specific issue.
+Speaker1: Did you spend the afternoon?
+Speaker2: Okay, come over in the afternoon, there aren't many people here now, you can come directly and take a look.
+Speaker1: Okay, I'll probably arrive around two in the afternoon.
+Speaker2: Okay, two o'clock left or right, we'll wait for you.

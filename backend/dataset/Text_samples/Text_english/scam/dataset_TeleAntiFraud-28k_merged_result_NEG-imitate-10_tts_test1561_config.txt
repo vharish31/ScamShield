@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Bank of China customer service center. I am the customer service manager Li Huai. Have you recently paid attention to our financial products?
+Speaker2: Hey, Li Manager, I haven't followed yet, do you have any good recommendations?
+Speaker1: We have recently launched a high-yield short-term financial product with an annual return rate of 10%, which is very suitable for short-term investment. Are you interested in learning more about it?
+Speaker2: Can you give me a detailed introduction of this product?
+Speaker1: Of course, to make it easier for you to understand, I will send you a link, which contains detailed information about the product, and you can see it by clicking on the link.
+Speaker2: Okay, I'll take a look, thank you, Li Manager.
+Speaker1: No problem, there's just one more important thing, to ensure your funds are safe, we need you to provide your bank card information, so we can set up a dedicated investment account for you.
+Speaker2: Is this account specifically for investing?
+Speaker1: Yes, this account can only be used for investing in our recommended financial products, which are very safe. You just need to provide your bank card number and verification code, and we'll take care of the rest.
+Speaker2: Okay, I trust you, Li Manager, I will go operate as you said.

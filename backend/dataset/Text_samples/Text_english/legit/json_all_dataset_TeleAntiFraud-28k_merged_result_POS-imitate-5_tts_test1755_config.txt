@@ -1,0 +1,9 @@
+Speaker1: Hey, hello, I'm a delivery guy, you have a package delivered, can you come down to pick it up?
+Speaker2: Okay, I'll be there in a few minutes.
+Speaker1: Let's say ten minutes, you come downstairs and give me a call, I'll help you find your package.
+Speaker2: Okay, I'll be there in about ten minutes. I see, the package is a bit big, maybe I can't carry it by myself.
+Speaker1: No problem, I'll help you carry it up. What floor and unit are you on in building number 5?
+Speaker2: I live in apartment 3, unit 2. Thank you.
+Speaker1: Okay, three-numbered building, second floor, remember. You arrived, give me a call.
+Speaker2: Okay, see you later.
+Speaker1: See you later, be careful on the road.

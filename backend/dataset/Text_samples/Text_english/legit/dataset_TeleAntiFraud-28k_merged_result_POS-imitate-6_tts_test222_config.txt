@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if there is stir-fried vegetables here?
+Speaker2: Yes, we have stir-fried vegetables here, and there are several different vegetable combinations to choose from.
+Speaker1: What's the price?
+Speaker2: The price of a steamed vegetable dish is 20 yuan per portion.
+Speaker1: Okay, I still want to reserve a place, around six thirty in the evening, for two people.
+Speaker2: Okay, two spots have been reserved for you at six and a half, just come directly when the time comes.
+Speaker1: Do I need to call ahead and confirm beforehand?
+Speaker2: No need, we'll keep it for you until 7 pm, if there's any change, you can contact us anytime.

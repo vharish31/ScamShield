@@ -1,0 +1,10 @@
+Speaker1: Hello, you are welcome to Nanjing Bank. I am customer manager Zhang.
+Speaker2: Hello, little Zhang, what do you have?
+Speaker1: Is that so? We recently introduced a special discounted enterprise loan with an annual interest rate of only 0.3%, are you interested in learning more?
+Speaker2: Hey, I'm kind of interested in this, can you give me a detailed explanation?
+Speaker1: Of course, as long as you have a business license, you can apply. Moreover, the approval process is very fast, and the fastest is within three days to disburse funds.
+Speaker2: The sound is good, but I still have some doubts, how to apply?
+Speaker1: It's simple. Just download our "金服贷" APP, fill out the relevant information, upload your business license and other necessary documents, and you'll be approved for a loan once it's reviewed.
+Speaker2: I really need some cash flow lately, so I'm downloading this app today.
+Speaker1: Great! If you have any issues after downloading, please feel free to contact me anytime. My phone number is 12345678901. Best wishes for your application!
+Speaker2: Okay, thank you for your help, Xiao Zhang.

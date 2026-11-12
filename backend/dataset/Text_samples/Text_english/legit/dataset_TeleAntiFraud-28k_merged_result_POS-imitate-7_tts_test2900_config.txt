@@ -1,0 +1,11 @@
+Speaker2: Hello, who are you?
+Speaker1: Hello, I am the customer service of the food square, can you give me some suggestions about your dining experience last time?
+Speaker2: Oh, hi, the food is really good, just the queue time is a bit long.
+Speaker1: Thank you very much for your feedback. We will improve quickly. By the way, we have recently launched a new dish. You can try it if you're interested.
+Speaker2: Okay, thank you for your recommendation.
+Speaker1: You're welcome, you can come anytime it's convenient for you. Our business hours here are from 10 am to 10 pm every day.
+Speaker2: Okay, I understand. So, do you guys have any discount activities?
+Speaker1: Yes, we have a buy one get one activity every week from Monday to Friday, and you can also get a 10 yuan discount coupon by following our public account now.
+Speaker2: Great, I happen to have time, I'll try it out this week. Thank you for the information.
+Speaker1: You're welcome. I'm looking forward to your visit. Wish you a happy day.
+Speaker2: You too, goodbye.

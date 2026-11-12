@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I am the customer service of the food delivery platform. You have a discount activity on your recent order on our platform. Would you like to know more about it?
+Speaker2: Hello, of course there's a discount activity, can you introduce it to me?
+Speaker1: Of course, we have a new user recommendation activity on our platform now. Recommend your friend to place an order, and both of you will get a 50 yuan discount.
+Speaker2: What are the conditions for using this discount coupon?
+Speaker1: The discount coupon has no restrictions on the amount spent, and can be used as soon as ten yuan is reached. The validity period is one month. You can find more detailed information on my discount coupon page.
+Speaker2: How do I recommend a friend to someone?
+Speaker1: You can find the recommended links on my page and send them to your friends. Once your friends complete their first order on our platform, the discount coupon will be automatically credited to your account.
+Speaker2: Okay, let me try. Are there any other activities?
+Speaker1: We currently have a discount promotion, buy one hundred yuan and get twenty yuan off, this activity is particularly suitable for weekends, you can pay more attention to it.
+Speaker2: Okay, thank you for your introduction, I will consider it.
+Speaker1: You're welcome. If you have any questions, please feel free to consult anytime. Wishing you a happy life!

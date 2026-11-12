@@ -1,0 +1,10 @@
+Speaker1: Hey, are your takeout orders here yet?
+Speaker2: Hello, not yet arrived, I am waiting here.
+Speaker1: Okay, I have sent it over to you now. It should arrive in about ten minutes.
+Speaker2: Okay, thank you.
+Speaker1: No problem, you ordered two portions of beef and fried rice and one portion of vegetable salad, right?
+Speaker2: Yes, that's true.
+Speaker1: Okay, please confirm if the menu is complete. If there are any issues, feel free to contact me anytime.
+Speaker2: Okay, I will.
+Speaker1: Additionally, as a first-time user of our service, you can enjoy a new user discount next time you use it.
+Speaker2: Goodbye, thank you.

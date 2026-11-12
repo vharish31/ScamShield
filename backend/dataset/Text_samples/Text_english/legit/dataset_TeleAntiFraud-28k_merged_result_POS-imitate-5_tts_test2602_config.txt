@@ -1,0 +1,8 @@
+Speaker1: Hey, are you there? I'm at the Rainbow Supermarket nearby. Can you see me?
+Speaker2: Hey, can you see if there's a lamp lit up next to you?
+Speaker1: Yes, that's this lamp, but I'm on the negative third floor, can you come down to me?
+Speaker2: Okay, I'll come down right away, you wait.
+Speaker1: Okay, I'm waiting for you here. Thank you.
+Speaker2: No problem, see you later.
+Speaker1: See you soon, be careful on the road.
+Speaker2: Hey, pay attention to safety too.

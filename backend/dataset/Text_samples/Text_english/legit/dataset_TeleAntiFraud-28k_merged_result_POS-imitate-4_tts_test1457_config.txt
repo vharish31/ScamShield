@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you?
+Speaker1: How have you been lately?
+Speaker2: Hello, just work is a bit busy. You?
+Speaker1: Yeah, I've been working a lot of overtime lately. Hey, do you have any free time this weekend? Let's go hiking together.
+Speaker2: Great, I should have some time off this weekend. Then, when do we leave?
+Speaker1: Good morning at eight o'clock?
+Speaker2: Can I leave at 7:30? But I need to eat breakfast first, can I leave at 8?
+Speaker1: 7:30 is good, let's meet at the foot of the mountain.
+Speaker2: Okay, see you this weekend.

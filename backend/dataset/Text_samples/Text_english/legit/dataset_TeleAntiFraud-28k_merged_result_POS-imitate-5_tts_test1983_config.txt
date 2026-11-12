@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm waiting for you at the community door.
+Speaker2: Hello, I just arrived at the community door, didn't see you, what are you wearing?
+Speaker1: I'm wearing a blue jacket and standing to the left of the front door.
+Speaker2: I see you, I'm walking towards you.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Wait a minute, I'll be there soon.
+Speaker1: Okay, slow down, be careful on the road.
+Speaker2: Okay, thank you.
+Speaker1: Master, can you take me to the train station on this side?
+Speaker2: Okay, let's get in the car and go straight to the train station.

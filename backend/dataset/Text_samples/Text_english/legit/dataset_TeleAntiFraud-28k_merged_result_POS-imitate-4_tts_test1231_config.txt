@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw a smartwatch on your website and wanted to know more about it.
+Speaker2: Okay, this is our latest smartwatch that supports health monitoring, receiving message reminders and more.
+Speaker1: What is the price of this watch?
+Speaker2: This smartwatch costs 999 yuan, and there's a discount promotion now.
+Speaker1: Hey, do you have any discount activities? Can you give me specific details?
+Speaker2: Yes, you can enjoy a discount of one hundred yuan when you buy this watch, and there's also a chance to get a sports band worth one hundred and fifty yuan for free.
+Speaker1: How long does the battery of this watch last?
+Speaker2: This watch can be used for about five days when fully charged, but if GPS or frequent Bluetooth connections are used, the battery life will be shorter.
+Speaker1: Okay, thank you for your detailed introduction. I will consider it.
+Speaker2: You're welcome, feel free to consult us anytime if you have any questions. We hope our products can be helpful to you. Goodbye!

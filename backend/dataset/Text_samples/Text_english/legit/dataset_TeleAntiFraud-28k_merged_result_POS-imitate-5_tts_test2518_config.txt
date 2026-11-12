@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a waiter at the restaurant, did you reserve a seat for tonight at six o'clock?
+Speaker2: Okay, I made a reservation. Where is your restaurant?
+Speaker1: Our restaurant is on the 80th street of the main road in the city center, next to the library. You can walk straight for five minutes from the subway station to get there.
+Speaker2: Okay, I know. Is my reserved seat by the window?
+Speaker1: Yes, we have reserved a window seat for you, so you can see the scenery, we hope you will like it.
+Speaker2: Great, I really like sitting by the window. Do I need to add a chair for my friend?
+Speaker1: Your reservation is for four people. If you need additional seats, please inform me in advance, and we will adjust for you.
+Speaker2: I might bring five friends, so I need an extra seat.
+Speaker1: Okay, I will prepare five seats for you. Additionally, do you have any special requirements for our menu?
+Speaker2: I don't have any specific requirements, but I'm allergic to seafood, so please avoid seafood-containing dishes.
+Speaker1: Understood, we will pay special attention to ensure your dining experience is enjoyable. If there's anything else needed, please let me know.

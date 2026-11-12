@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm a delivery person for Ele.me, your food is here, would you be convenient to come down and take it now?
+Speaker2: Okay, I'll come down right away.
+Speaker1: Okay, I'm waiting for you at the community door.
+Speaker2: So, how was this meal? I almost couldn't finish the last time I ate at that spicy place.
+Speaker1: This meal is slightly spicy, it should be suitable for you.
+Speaker2: That's great, I'm most afraid of eating spicy.
+Speaker1: Yes, this dish has a mild flavor, you can try it.
+Speaker2: Okay, thank you for your reminder.
+Speaker1: No problem, if you're satisfied, I hope you can give us a good review.
+Speaker2: No problem, this service is quite good, I will comment later.

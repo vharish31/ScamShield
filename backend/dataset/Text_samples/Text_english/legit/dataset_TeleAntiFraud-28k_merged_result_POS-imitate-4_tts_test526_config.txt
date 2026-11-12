@@ -1,0 +1,10 @@
+Speaker1: Hello, I want to inquire about your store's business hours.
+Speaker2: Hello, our store is usually open at 9 am and closes at 10 pm.
+Speaker1: Can I go back now?
+Speaker2: Sure, we are now open for business.
+Speaker1: Do you have any special dishes to recommend?
+Speaker2: Our store's signboard menu has spicy Sichuan hotpot and steamed fish, very popular.
+Speaker1: Sounds good, I'll go take a look in a bit.
+Speaker2: Okay, welcome you, you can call in advance to reserve the location.
+Speaker1: Okay, I noted it down. Thank you for your help.
+Speaker2: Please wait for your arrival.

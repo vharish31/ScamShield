@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm the community property manager. Can we confirm the time for the water and electricity repairs? Is that okay with you?
+Speaker2: Hey, how are you? I'm good here, do you have any plans?
+Speaker1: Can you come to fix the leaky water dragon head at 2 PM this afternoon, as we saw the issue you previously reported?
+Speaker2: Sure, but I have something to do in the afternoon, after three o'clock.
+Speaker1: Okay, let's meet at three o'clock. It won't take up too much of your time, right?
+Speaker2: No problem, exactly three o'clock.
+Speaker1: Okay, I will notify the repairman to arrive on time, do you have any other issues to handle?
+Speaker2: I'm not available at the moment. If there's anything, I'll contact you again. Thank you for your service.
+Speaker1: You're welcome, please feel free to contact us if you have any questions. Have a nice day, goodbye.
+Speaker2: Okay, bye.

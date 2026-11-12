@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can you tell me more about your housekeeping services here?
+Speaker2: Okay, you can contact us through our WeChat public account or phone, and we will provide you with clean, moving, repair and other services according to your needs.
+Speaker1: Uh, if I need to book a cleaning service, how do I book it?
+Speaker2: You can directly select home services on our WeChat public account, then select cleaning services, fill in your appointment time and address, and we will quickly contact you to confirm the details.
+Speaker1: How is the price of the clean service calculated?
+Speaker2: The price of cleaning services is calculated based on the content and time of the service, and the specific price you can see at the time of booking. We also have multiple packages for you to choose from.
+Speaker1: Can I cancel a reservation if I made it later?
+Speaker2: Sure, if you need to cancel the appointment, please notify us at least one day in advance, we will cancel the appointment in the system.
+Speaker1: Okay, thank you for your answer. I'll think about it and schedule again.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy life.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, recently I want to buy a new phone, do you have any latest Huawei models in your store?
+Speaker2: Hello, little Zhang, we have the latest Huawei models here, which ones do you want to know about?
+Speaker1: Have you guys got any fresh Mate in stock?
+Speaker2: Do you have a favorite color in the Mate series?
+Speaker1: I prefer black, do black still have none?
+Speaker2: We still have a few black ones, you can come and pick one, or I can reserve one for you, what time is convenient for you to come?
+Speaker1: That's great, can I go there around 3 pm tomorrow afternoon?
+Speaker2: Okay, tomorrow afternoon at three o'clock, I will be here waiting for you, remember to bring your ID, buying a new phone requires real name registration.
+Speaker1: Okay, thank you for your reminder, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

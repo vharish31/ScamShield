@@ -1,0 +1,13 @@
+Speaker1: Hello, nice to meet you, I am the customer manager of Guangdian Yinhang, Li manager.
+Speaker2: Hello, Li Manager.
+Speaker1: We found your company's business license information. Your electronic factory meets our bank's small business loan conditions. You can apply for a 50,000 yuan loan without collateral. Is it suitable for you?
+Speaker2: Fifty thousand? Such a high budget?
+Speaker1: Yes, we introduced this low-interest loan for small microenterprises at the bank. The interest rate is between 0.03 and 0.05, and no collateral is required.
+Speaker2: The sound is good, but I can still manage my cash flow.
+Speaker1: Understood, but if you need it, I can give you a link, you can apply online, very convenient.
+Speaker2: Can you send a link? How do you send it?
+Speaker1: Okay, please wait for a moment, I will send you a link via text message, you can click on it to fill out the relevant information and apply.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, after receiving the message, please click on the link quickly. If you have any questions, feel free to contact me anytime. I can also add you on WeChat for future communication.
+Speaker2: Okay, add me on WeChat.
+Speaker1: Okay, I'll send you a WeChat message later with some good investment opportunities. You can also contact me.

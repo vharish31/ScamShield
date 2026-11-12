@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Hey, how are you? I'm the customer service of Food Paradise, have you recently made a restaurant reservation on our platform?
+Speaker2: Yes, I ordered a meal yesterday, it was quite good.
+Speaker1: That's great, we'd like to invite you to our customer satisfaction survey, it only takes a few minutes, and after you complete it, we'll send you a 50 yuan discount coupon.
+Speaker2: Oh, that's okay, then I can join, but I'm a bit busy today, I have time in the evening.
+Speaker1: No problem, can I call you at eight o'clock tonight? Okay?
+Speaker2: Okay, let's meet at eight o'clock in the evening.
+Speaker1: Okay, let's meet in the evening, remember to keep the phone line open.
+Speaker2: Okay, I will, thank you.

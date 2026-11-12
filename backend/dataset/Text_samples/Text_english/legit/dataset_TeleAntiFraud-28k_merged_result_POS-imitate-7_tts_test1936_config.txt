@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a waiter at a restaurant, you made a reservation for our restaurant's seat yesterday, tonight at seven, are you sure you will come?
+Speaker2: Hey, hello, I want to confirm, is that the restaurant in the city center?
+Speaker1: Yes, that's it. Our address is 100 Jianghuai Street in the city center bustling street, please bring the phone number you remembered when you made the reservation.
+Speaker2: Okay, I know, but I'm currently abroad, so I might be late, around 8:30 I should arrive.
+Speaker1: No problem, you can be late, but please call us in advance to reserve a seat.
+Speaker2: Okay, I will call ahead, thank you for reminding me.
+Speaker1: No problem, by the way, we have a special discount activity tonight, you can enjoy an eighty percent discount if you come, remember to bring your ID.
+Speaker2: That's great, I'll bring my ID. Thank you for your information.
+Speaker1: Okay, see you later, wish you a smooth journey.
+Speaker2: Thank you, goodbye.

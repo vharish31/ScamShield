@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, recently I want to buy a new phone, can you recommend me one?
+Speaker2: Hello, little Li, I am customer service king Wang. Of course, what special requirements do you have for the phone you want? Like brand, price range, features, etc.
+Speaker1: I want a phone with good photo effects, roughly within a budget of 3,000 yuan.
+Speaker2: Okay, based on your requirements, I recommend you consider the new Xiaomi phone, which has excellent camera quality and is within your budget range.
+Speaker1: What are the highlights of this Xiaomi phone?
+Speaker2: This phone has great photo quality and a long battery life, so you won't have any issues using it all day. Additionally, its system is smooth and it supports fast charging.
+Speaker1: Does this phone have any in stock?
+Speaker2: Sure, we have fresh produce here now. If you're convenient, you can come to the store to see the actual effect.
+Speaker1: Okay, where is your store location?
+Speaker2: We are located on the third floor of the electronic city in the city center. If you come, I'll be waiting for you here.

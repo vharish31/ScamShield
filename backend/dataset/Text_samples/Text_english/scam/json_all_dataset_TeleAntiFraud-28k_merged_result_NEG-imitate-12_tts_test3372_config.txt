@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, this is the manager, I see you have browsed our investment products before, do you have any investment plans?
+Speaker2: Hello, I have seen it, but I am still considering it.
+Speaker1: Hey, understand. We recently launched a high-yield investment product with a yearly return rate of 12%, and the risk is very low. Would you like to know more about it?
+Speaker2: This high return? It sounds good, how to join?
+Speaker1: Great, just download our exclusive app, register, and then select this product to start investing.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Absolutely safe, we are a legitimate financial institution, our app has undergone strict review. Any issues you have after downloading, you can contact me anytime.
+Speaker2: Then let's try and see.
+Speaker1: Hello, I send you a message with a download link, just follow the instructions to download.
+Speaker2: Okay, thank you.

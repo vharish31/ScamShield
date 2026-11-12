@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? Your takeout is here, where are you?
+Speaker2: Hello, I'm at the company gate, can you take me here?
+Speaker1: Okay, I'll be there in about five minutes.
+Speaker2: Okay, I'll wait for you.
+Speaker1: What did you order?
+Speaker2: I ordered beef stir-fry with a side of sweet and sour pork ribs.
+Speaker1: Okay, I know, you wait, it's coming soon.
+Speaker2: Okay, thank you.
+Speaker1: No problem, do you have anything else you need?
+Speaker2: No more, just these, thank you.
+Speaker1: Okay, see you later.

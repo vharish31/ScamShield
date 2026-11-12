@@ -1,0 +1,10 @@
+Speaker1: Are you little Ming?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm your classmate Xiao Huang, how have you been lately?
+Speaker2: Good, you? Busy lately?
+Speaker1: Hi, just busy with work. What's new lately?
+Speaker2: I recently changed jobs and am still getting used to it. What are your plans?
+Speaker1: Do you want to go on a trip this weekend and relax?
+Speaker2: Sounds good, but I have something to do this weekend, let's try again next time.
+Speaker1: Okay, next time I'll call you. The weather has been cold lately, so wear some clothes, don't get cold.
+Speaker2: Okay, thank you. You too take care of your body.

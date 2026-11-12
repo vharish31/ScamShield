@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, do you have anything?
+Speaker1: Hi, I'm the customer service of the community management. I want to know if there have been any issues in your home recently, such as water or electricity repairs.
+Speaker2: I'm fine recently. Just a little leak in the water pipe last week, fixed now.
+Speaker1: That's great! If you have any questions, feel free to contact us anytime.
+Speaker2: Okay, thank you. There's another issue. Recently, the delivery person always leaves the package with the doorman, and sometimes I forget and can't get it.
+Speaker1: We have noticed this issue too, and we are considering setting up a delivery box to make it more convenient for everyone to pick up.
+Speaker2: That's great, I hope it can be implemented quickly.
+Speaker1: We will implement it quickly, thank you for your suggestions. Are there any other issues that need our help to solve?
+Speaker2: No longer available, thank you.
+Speaker1: Okay, if you have any questions, please contact us anytime, wish you happy life.
+Speaker2: Thank you, goodbye.

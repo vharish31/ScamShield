@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you? I want to consult your household services.
+Speaker2: Hello, I am a customer service representative. What can I help you with?
+Speaker1: Can you tell me more about your cleaning service, specifically what it includes?
+Speaker2: Our cleaning service includes daily cleaning, deep cleaning and special cleaning, you can choose according to your needs.
+Speaker1: How long would it take to book a deep cleaning session?
+Speaker2: A typical deep cleaning session takes 3 to 4 hours, but the specific time depends on the actual area of your home and the scope of the cleaning needed.
+Speaker1: How is the pricing calculated?
+Speaker2: The price of deep-cleaned is calculated by square meter, 20 yuan per square meter. If your home is large, we can provide a more discounted price.
+Speaker1: I understand, can I make a reservation for this weekend?
+Speaker2: Do you have any specific dates in mind for the weekend, morning or afternoon?
+Speaker1: Is it okay to meet at 10 am on Saturday morning?
+Speaker2: Okay, we will arrive on time at 10 am on Saturday. See you then.
+Speaker1: Okay, thank you.

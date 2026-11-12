@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the delivery boy for your order, I've arrived at your community, are you home now?
+Speaker2: Okay, I'll be right down, just wait for me a minute or two.
+Speaker1: Okay, I'm waiting for you here, remember to give me a phone number when you come out.
+Speaker2: Okay, no problem, I'll contact you later.
+Speaker1: I'm waiting for you here, which door are you coming out of?
+Speaker2: Did you see the red sign at the east gate when I came out?
+Speaker1: I see you, I'm waiting here, come over quickly.
+Speaker2: Okay, I'll try to be quick.
+Speaker1: Okay, pay attention to safety on the road.
+Speaker2: Thank you, see you later.

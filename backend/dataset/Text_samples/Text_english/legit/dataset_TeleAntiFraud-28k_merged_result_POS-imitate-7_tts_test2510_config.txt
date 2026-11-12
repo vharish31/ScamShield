@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to consult your repair service.
+Speaker2: Hello, I am a customer service representative for maintenance services. What can I help you with?
+Speaker1: My home air conditioner is not working properly, can you give me an estimate of the repair cost?
+Speaker2: This needs to be checked first at the door, the specific cost depends on the issue. If it's a small issue, like adding chlorine, the cost is probably between one hundred to two hundred. If it's a big replacement, like a compressor, the cost may be around one thousand.
+Speaker1: When can you send someone to check?
+Speaker2: We have an afternoon break today, you can choose the time slot from 3 to 5 pm, or schedule for tomorrow morning.
+Speaker1: Can we schedule for tomorrow morning around 9am?
+Speaker2: Okay, we'll schedule a checkup for tomorrow morning at 9am at your place. Please keep the phone line open, our repairman will contact you in advance.
+Speaker1: Okay, thank you. What do I need to prepare?
+Speaker2: You don't need to prepare anything special, the master will check the air conditioner issues first and then confirm the specific repair plan and cost with you.

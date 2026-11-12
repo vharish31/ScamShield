@@ -1,0 +1,11 @@
+Speaker1: Hello, you, I am from Ping An Bank customer service, I am Lee Huai.
+Speaker2: Hello, what do you have?
+Speaker1: Is this right, we noticed that your recent loan application on our platform didn't pass, do you still have any funding needs?
+Speaker2: Hmm, I need it a bit, but I didn't pass it before, I don't know if I can succeed this time.
+Speaker1: This time we have a special loan project with very relaxed approval conditions and a very favorable interest rate. All you need to do is provide some information and we'll quickly process it for you.
+Speaker2: What information is needed?
+Speaker1: Please provide your ID number and bank account number. We will have a link for you to click and follow the instructions after.
+Speaker2: Is the link safe? How can I know this isn't a scam?
+Speaker1: You can rest assured that we are a legitimate bank, and the link is absolutely safe. If you're not sure, you can add my WeChat, and I'll send you the official file directly.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: Add my WeChat number LH2023, I'll send you a file.

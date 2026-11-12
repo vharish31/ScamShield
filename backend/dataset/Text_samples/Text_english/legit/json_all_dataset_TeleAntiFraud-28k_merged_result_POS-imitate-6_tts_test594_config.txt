@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I just ordered a piece of clothing on your website, can you tell me when it will arrive?
+Speaker2: Hello, Mr. Wang, I am customer service Li, your order has been received, we estimate it will arrive in three to five days, do you need to query specific time?
+Speaker1: Yes, because I need to travel, can you specify which exact day I can arrive?
+Speaker2: Understood, I can help you query it, can you tell me the order number?
+Speaker1: Okay, the order number is one two three four five six seven.
+Speaker2: Okay, I'll check it out... Hmm, your order shows it will be delivered tomorrow at 4:00 PM. Can you see that time?
+Speaker1: Can you guys send me home later if I have a meeting in the afternoon and it might be late?
+Speaker2: Sure, I can help you note down that the delivery man should deliver after 6 pm, is that okay?
+Speaker1: That's great, thank you, Mr. Li.
+Speaker2: No problem, this is what we should do. If there are any other issues, please feel free to contact us anytime. Have a nice day!

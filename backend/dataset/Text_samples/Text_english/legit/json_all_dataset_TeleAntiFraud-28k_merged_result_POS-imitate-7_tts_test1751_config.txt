@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, recently I want to buy a new phone, do you have any discount activities in your store?
+Speaker2: Hello, little Li, I am the customer service king at the store, we recently have a promotion, which brands of phones do you want to know about?
+Speaker1: Can you tell me about the latest iPhone 13 from Apple and if there are any special discounts available?
+Speaker2: The iPhone 13 does have a discount, you can now buy it with a 95% off promotion, and there's also a giveaway of the original earphones, would you like to consider it?
+Speaker1: The iPhone 13 Pro is worth buying at a 9.5% discount.
+Speaker2: The iPhone 13 Pro also has a discount, the same 9.5%, but it also comes with an extra year of warranty service, which is very cost-effective.
+Speaker1: If I order now, how long will it take to deliver?
+Speaker2: If you place an order now, we usually arrange delivery within 48 hours, and the exact delivery time depends on your location.
+Speaker1: Okay, do I have any notes after I place the order?
+Speaker2: After placing an order, you can view the logistics information on the order details page. If you have any issues, please feel free to contact our customer service, and we will promptly resolve them for you.

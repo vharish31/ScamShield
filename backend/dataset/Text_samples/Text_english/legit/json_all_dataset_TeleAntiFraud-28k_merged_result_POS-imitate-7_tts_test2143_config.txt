@@ -1,0 +1,9 @@
+Speaker1: Hello, you, I am small Li, your delivery has arrived, can you come down now?
+Speaker2: Little Li, I'm a bit busy right now, it should take about ten minutes or so, can you wait for me a bit?
+Speaker1: Okay, no problem, I'm waiting for you here, is your address the Xiānggōu xiǎozhuāng sìnú lóu yì?
+Speaker2: Yes, the red mailbox is at the door of building 4 in Xingguang Xianguan, did you see it?
+Speaker1: I see, the red mailbox is at the door, I'm waiting for you here.
+Speaker2: Okay, I'll come down quickly, thank you for waiting for me.
+Speaker1: No problem, take it slow, don't rush.
+Speaker2: I'll hang up, see you later.
+Speaker1: Okay, see you later.

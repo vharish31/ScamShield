@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the community property, regarding the maintenance of the water and electricity in your home, do you have time?
+Speaker2: Hello, do you have time? You say, how is the water and electricity maintenance at my home?
+Speaker1: Have you arranged for a repairman to come to your house? He will arrive in about two hours. Is that convenient for you?
+Speaker2: Two hours from now, that should be no problem, can you help me solve this problem?
+Speaker1: Of course, we will do our best to help you solve the problem, and the repairman will bring all the necessary tools and materials to ensure a perfect repair.
+Speaker2: Alright, there were issues last time we made changes, I hope we can fully resolve them this time.
+Speaker1: We will pay special attention this time and conduct a detailed check based on the previous situation to ensure that the problem does not reoccur.
+Speaker2: Okay, then please bother me, if you need me to do anything in advance, please tell me.
+Speaker1: No need for you to prepare anything special, the repairman will check first when he arrives, and he will communicate with you if there are any issues.
+Speaker2: Okay, I'll wait for them to arrive. Thank you for your help.

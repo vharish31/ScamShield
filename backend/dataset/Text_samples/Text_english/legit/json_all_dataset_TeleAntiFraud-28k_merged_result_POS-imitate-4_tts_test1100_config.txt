@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I just ordered takeout at your store, can you confirm where it's being delivered now?
+Speaker2: Hello, little Li, I am a delivery boy, your food has already left the store, now I'm on the way to deliver it.
+Speaker1: Okay, thank you. I am staying at the Han Ting Ji Dian Hotel, room number is 212, please deliver it here.
+Speaker2: No problem, I arrived, I will call you when you come down, or let me stay at the front desk.
+Speaker1: Okay, I might be a little busy, you can just go straight to the front desk, I'll come back later.
+Speaker2: Okay, I will tell the front desk clearly, what time can you come?
+Speaker1: Can I come in about twenty minutes?
+Speaker2: Okay, I will arrive on time, you can come down later and pick it up.
+Speaker1: Okay, thank you for your service, you worked hard.
+Speaker2: No problem, this is my job, wish you happy life.

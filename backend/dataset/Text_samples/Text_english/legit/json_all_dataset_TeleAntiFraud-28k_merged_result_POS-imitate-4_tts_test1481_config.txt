@@ -1,0 +1,14 @@
+Speaker2: Hello, you good?
+Speaker1: Are you little Li?
+Speaker2: Yes, are you little king?
+Speaker1: Yes, I'm Little King. Do you have time tonight?
+Speaker2: What's up?
+Speaker1: I'd like to invite you to dinner to celebrate the successful completion of our project.
+Speaker2: Great, thank you so much. Where do you want to eat?
+Speaker1: Do you prefer Cantonese or Sichuan cuisine?
+Speaker2: Let's go eat Sichuan cuisine, it's been a long time since we last ate spicy food.
+Speaker1: Let's go to the old Sichuan then, the food there is really good.
+Speaker2: Okay, what time did you go?
+Speaker1: What's it like at 6:30?
+Speaker2: 6:30 is perfect, then we won't see each other again.
+Speaker1: See you later.

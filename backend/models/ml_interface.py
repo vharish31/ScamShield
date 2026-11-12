@@ -54,6 +54,13 @@ class ConfigurableMLAdapter(BaseScamModel):
 
     def load(self, model_path: Path, vectorizer_path: Optional[Path] = None) -> bool:
         """Attempt to load trained artifacts using joblib or pickle."""
+        model_path = Path(model_path)
+        if not model_path.exists():
+            from backend.config import BASE_DIR
+            candidate = BASE_DIR / model_path
+            if candidate.exists():
+                model_path = candidate
+
         if not model_path.exists():
             logger.info(f"ML model file not found at '{model_path}'. Running in rule-based baseline mode.")
             self._is_loaded = False
@@ -65,9 +72,17 @@ class ConfigurableMLAdapter(BaseScamModel):
             self._model = joblib.load(str(model_path))
             logger.info(f"Loaded ML model from {model_path}")
 
-            if vectorizer_path and vectorizer_path.exists():
-                self._vectorizer = joblib.load(str(vectorizer_path))
-                logger.info(f"Loaded vectorizer from {vectorizer_path}")
+            if vectorizer_path:
+                vectorizer_path = Path(vectorizer_path)
+                if not vectorizer_path.exists():
+                    from backend.config import BASE_DIR
+                    candidate_vec = BASE_DIR / vectorizer_path
+                    if candidate_vec.exists():
+                        vectorizer_path = candidate_vec
+
+                if vectorizer_path.exists():
+                    self._vectorizer = joblib.load(str(vectorizer_path))
+                    logger.info(f"Loaded vectorizer from {vectorizer_path}")
 
             self._is_loaded = True
             return True

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you at home?
+Speaker2: Hey, what's up?
+Speaker1: Can I ask if you have time tomorrow? Let's make a plan to eat out.
+Speaker2: Tomorrow, I'll check, should be possible, what time?
+Speaker1: Let's meet at the new restaurant at 5 pm this afternoon, the one that serves grilled fish.
+Speaker2: Okay, I know that place, just near the subway station right?
+Speaker1: Yes, just outside the metro station turn left at the second crossroad, there's a big signboard on the door, easy to find.
+Speaker2: Okay, I'll just go directly when the time comes, what time will you arrive?
+Speaker1: I arrived ten minutes early, so I took a seat first.
+Speaker2: Okay, see you then.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, do you have any new fresh fruits at home today?
+Speaker2: Hello, Xiaoming, we have fresh apples, bananas, and oranges, all of which are just arrived this morning.
+Speaker1: How much do these fruits cost?
+Speaker2: Apples cost 10 cents a pound, bananas cost 5 cents a pound, oranges cost 8 cents a pound.
+Speaker1: Hey, can you send me two pounds of apples and two pounds of oranges?
+Speaker2: Okay, where is your home address?
+Speaker1: I live in the Flower Garden community, building 3, unit 2, 602.
+Speaker2: Okay, I noted it down. Approximately 20 minutes later it will be delivered.
+Speaker1: Okay, thank you. Got it, do you have a membership card at your home?
+Speaker2: Sure, buying a membership card also entitles you to more discounts. Would you like to do it together?

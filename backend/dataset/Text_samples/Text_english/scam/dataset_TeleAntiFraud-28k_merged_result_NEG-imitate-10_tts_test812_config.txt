@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Lee Huai?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for SF Express, your package was lost during transportation, we have already prepared compensation for you.
+Speaker2: Really? Then what do we do?
+Speaker1: To quickly process compensation, we need you to provide some personal information, including your identity card number and bank account.
+Speaker2: So, how can I provide this information?
+Speaker1: You can click on the link we send to you and fill in the relevant information.
+Speaker2: Okay, I will check my emails. Thank you for your help.
+Speaker1: No problem, feel free to contact me if you have any other questions. Have a nice life.
+Speaker2: Thank you, goodbye.

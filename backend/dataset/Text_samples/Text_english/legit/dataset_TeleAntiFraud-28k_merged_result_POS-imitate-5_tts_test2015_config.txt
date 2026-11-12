@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, are you looking for me to fix your home's air conditioner?
+Speaker1: Yeah, my air conditioner seems broken, do you have any free time to come take a look?
+Speaker2: Okay, sure, I have some free time in the morning around 10 o'clock tomorrow, can you come over and check it out?
+Speaker1: That's great, our home address is Happiness Villa No. 2, Building 3, Unit 602.
+Speaker2: Okay, I know that place. See you tomorrow.
+Speaker1: Hey, can you please let me know if you need anything to bring?
+Speaker2: No need to worry, I brought the tools, as long as we can solve the problem, that's enough.
+Speaker1: Okay, I'll see you tomorrow, thank you.
+Speaker2: No problem, this is my job, see you tomorrow.

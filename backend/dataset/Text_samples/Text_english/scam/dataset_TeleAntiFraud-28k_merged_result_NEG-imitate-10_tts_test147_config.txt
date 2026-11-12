@@ -1,0 +1,10 @@
+Speaker1: Hello, this is from JD customer service, I have a package that was lost during transportation, we need to process a refund, is that okay with you?
+Speaker2: Okay, you say, how to handle?
+Speaker1: Okay, for convenience and efficiency, I have a refund link here. Please click it and input your personal information to facilitate the refund process.
+Speaker2: Okay, I'll operate now.
+Speaker1: Please provide your bank card number and verification code for account security. We will immediately process your refund.
+Speaker2: This one's okay, I'll give it to you.
+Speaker1: Thank you very much for your cooperation. You will receive a verification code via SMS shortly, please inform me of the code.
+Speaker2: I have received it. The verification code is 123654.
+Speaker1: Okay, I have recorded it down, your refund will be credited to your account within one business day, if you have any other issues, please feel free to contact me, you are our VIP customer, we will have a dedicated staff to serve you.
+Speaker2: That's great, thank you for your help.

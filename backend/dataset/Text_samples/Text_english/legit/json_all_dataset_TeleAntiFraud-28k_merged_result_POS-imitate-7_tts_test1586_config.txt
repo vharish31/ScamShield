@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm little Li, I want to take my friend to a good restaurant to eat today.
+Speaker2: Hello, little Li, I am a server of Meishikitianzhi. When will you guys come?
+Speaker1: We plan to arrive at seven o'clock or so in the evening.
+Speaker2: Okay, we'll reserve a spot at 7 o'clock. How many of you are there?
+Speaker1: About five people.
+Speaker2: Okay, the five seats are reserved for you. Do you need to order ahead?
+Speaker1: We want to eat your store's special dishes, especially seafood.
+Speaker2: Okay, our signature dishes include Kung Pao Chicken, Clear Steamed Sea Bass, and Sautéed Scallops with Ginger, all of which are very popular.
+Speaker1: Let's order first, one portion of palace chicken drumsticks, one steamed sea bass fillet, six steamed oysters with ginger.
+Speaker2: Okay, your order has been recorded. We'll be ready at seven. Is there anything else I can help with?
+Speaker1: No more, thank you for your help, see you later.
+Speaker2: No problem, see you later, wish you enjoy your meal.

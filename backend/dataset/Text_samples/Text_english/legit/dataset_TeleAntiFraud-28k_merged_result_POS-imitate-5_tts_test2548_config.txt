@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to know more about your hair appointment service on this side.
+Speaker2: Hello, can we book a haircut here, what time slot do you want to book?
+Speaker1: What's the plan for Saturday afternoon next week?
+Speaker2: Is there a specific time you would like to reserve on Saturday afternoon?
+Speaker1: Can we meet at 2 o'clock?
+Speaker2: Can we meet at 2:00 PM? But there's only one location. Are you sure you want to schedule this time?
+Speaker1: Okay, then two o'clock.
+Speaker2: Okay, your appointment has been scheduled. It's on Saturday at 2 pm. Please come ten minutes early, and if there are any changes, please notify us in advance.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

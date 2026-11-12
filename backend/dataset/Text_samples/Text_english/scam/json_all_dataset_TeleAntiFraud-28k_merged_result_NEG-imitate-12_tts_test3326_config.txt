@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, this is Huaxia Bank, I am customer manager Week, we have the latest loan products here, no collateral, low interest rate, fast approval, do you have any recent funding needs?
+Speaker2: Hey, I recently need some money, can you give me a detailed explanation?
+Speaker1: Of course, our loan product can lend up to one hundred thousand yuan, as long as you provide identity proof and bank flow water, and the application is approved, you can get the loan on the same day. There is currently a promotion, and the first one hundred users to apply can also reduce some of the fees.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: You just need to download our bank's official app, register and fill out the relevant information, submit the application and a specialist will contact you for review.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Hello, the name of the app is Huaxia Yinhang Jinrong. Remember to register with this phone number after downloading.
+Speaker2: Okay, I understand, thank you for your help.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. I hope our service can assist you. Goodbye.

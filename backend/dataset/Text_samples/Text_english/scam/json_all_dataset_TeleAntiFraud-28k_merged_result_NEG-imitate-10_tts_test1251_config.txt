@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a customer service representative from Taobao, and I noticed that you recently purchased a product on our platform that has issues, so we need to process a refund for you.
+Speaker2: Uh, is that so? What's the problem with the products I bought?
+Speaker1: The air purifier you bought is recalled due to a safety hazard caused by the manufacturer.
+Speaker2: What do I need to do to cooperate with a refund?
+Speaker1: To ensure your funds are safe, we need you to download our official handling software first, then complete the refund process through the software.
+Speaker2: Okay, can you tell me how to download it?
+Speaker1: You can click on the link I sent you, download our official software, install it and follow the instructions.
+Speaker2: I got the link, now I'll download it. Do I need to provide any information after downloading?
+Speaker1: After downloading and installing, you need to register an account and provide your phone number and bank card information to verify the information and process refunds.
+Speaker2: I understand, thank you for your help, I will handle it quickly.
+Speaker1: No problem, if you encounter any issues during the operation, please contact our customer service, wish you a happy life.
+Speaker2: Okay, thank you, bye.

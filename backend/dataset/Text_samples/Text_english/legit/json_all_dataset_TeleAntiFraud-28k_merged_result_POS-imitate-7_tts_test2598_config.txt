@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you provide on-site installation of air conditioning service here?
+Speaker2: Yes, do we provide on-site installation service? Do you need to make an appointment?
+Speaker1: Yes, I need to make a reservation. Can you tell me the approximate cost of the fees for my apartment in Xin Ming Huang Yuan Xiao Qu?
+Speaker2: The installation fee for the New Moon Garden small community is approximately 300 yuan. The exact cost will depend on the type of air conditioning and the installation difficulty.
+Speaker1: Okay, when can I schedule an installation appointment?
+Speaker2: You can choose this weekend, our master's time is quite rich, you can choose Saturday morning or afternoon?
+Speaker1: I had time on Saturday morning.
+Speaker2: Okay, I'll schedule the installation service for you on Saturday morning between 9am and 10am. Please keep the phone line open.
+Speaker1: Okay, thank you, goodbye.
+Speaker2: No problem, if you have other questions, please contact us anytime, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there? I'm at the mall entrance. Can you see me?
+Speaker2: Oh, I'm about to come out, where are you at the door?
+Speaker1: I'm at the door number three, hurry up and come out.
+Speaker2: Okay, okay. I'll be there soon.
+Speaker1: Hurry up, I'm waiting for you here.
+Speaker2: Okay, I'll be there in a while, you wait for me at the door.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Can you see the security booth?
+Speaker1: I'm standing next to the security booth.
+Speaker2: Okay, I'll be there soon.

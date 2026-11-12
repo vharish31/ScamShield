@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the food delivery platform. You have an unused discount coupon in your account that will expire at midnight tonight. Have you used it yet?
+Speaker2: No evidence?
+Speaker1: These discount coupons were obtained by you at our previous activity, which can be used to offset food expenses. You can check the details in your account or log in to our App.
+Speaker2: What if the agreement really expires?
+Speaker1: If you don't use the coupon by 12 am tonight, it will expire, but don't worry, I can help you apply for an extension.
+Speaker2: What if there's no opinion, how to apply?
+Speaker1: Just log in to the App and click on the "Delayed Application" button on the coupon page. We will review it and get back to you soon, usually within a short time.
+Speaker2: No opinion, okay, I will try to see.
+Speaker1: Okay, if you have any questions, please contact our customer service anytime, hope you enjoy your meal!
+Speaker2: No dissent, thank you for your help.

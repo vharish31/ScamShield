@@ -1,0 +1,12 @@
+Speaker1: Hey, you
+Speaker2: Hey, how are you?
+Speaker1: What time will the delivery arrive for the takeout I just ordered online from your place?
+Speaker2: Hello, we have received your order, it's now being prepared, it should take about 30 minutes to deliver.
+Speaker1: Okay, what is the specific location of the package you sent?
+Speaker2: We will deliver to the address you provided at the time of your order, which is the main entrance of the XX community.
+Speaker1: Can you send someone to the small garden downstairs?
+Speaker2: Okay, we'll do our best to send it to the small garden. But if there's a special situation, like traffic congestion, we might be a little late.
+Speaker1: Okay, I'll go pick it up later. If it's not there after 40 minutes, I'll call you again.
+Speaker2: Okay, no problem, we will do our best to deliver on time. If there are any issues, please contact our customer service anytime.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, hope you enjoy your meal. Bye.

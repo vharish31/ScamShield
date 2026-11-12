@@ -1,0 +1,8 @@
+Speaker1: Hello, I'm waiting for you at the exit of the subway station. Are you here yet?
+Speaker2: I've already left, but there are so many people here, it's a bit hard to find. Where are you standing at the exit?
+Speaker1: I'm standing next to the big billboard. Can you see it?
+Speaker2: I see, I'll go over there right away. Do you have a flower stand nearby?
+Speaker1: Yes, just next to the billboard. You can see the flower stand, I'm just next to it waiting for you.
+Speaker2: Okay, I see the flower stand, let's go over there.
+Speaker1: Be careful on the road.
+Speaker2: Thank you, see you later.

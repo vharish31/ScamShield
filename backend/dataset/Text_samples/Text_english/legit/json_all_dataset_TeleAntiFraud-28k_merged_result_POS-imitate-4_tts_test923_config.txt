@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I'm little Zhang, I'm at the door of Baiwei Tang, why hasn't my takeout arrived yet?
+Speaker2: Hello, little Zhang, I am a delivery boy, I am rushing to your place, there might be some traffic on the way, please wait for a moment.
+Speaker1: Okay, okay, can you help me? I see you are two stations away from me, how long will it take to get there?
+Speaker2: I'll need about ten minutes or so, just wait a minute or two, I'll call you when I'm there.
+Speaker1: Okay, I'll wait for your call, thank you.
+Speaker2: No problem, this is my job, you wait for my call, I will send it over as soon as I get it.
+Speaker1: Okay, I'll hang up first, wait for your call.
+Speaker2: Okay, you hang up first, I'll contact you as soon as I arrive.

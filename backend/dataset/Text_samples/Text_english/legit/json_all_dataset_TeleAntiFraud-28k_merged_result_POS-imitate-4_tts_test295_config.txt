@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiao Zhou. I recently saw your store's promotional activities and wanted to know more about them.
+Speaker2: Hello, Xiao Zhou, I am the customer service clerk at the store, which product are you interested in?
+Speaker1: Can you tell me more information about that new smartwatch I'm interested in?
+Speaker2: Of course. This smartwatch not only has a fashionable appearance, but also has health monitoring, message reminders, location tracking, and many other functions, making it very suitable for daily use.
+Speaker1: How much does that watch cost?
+Speaker2: The original price is one thousand nine hundred ninety-nine yuan, but the promotion is currently in progress, and during the promotion period, you can enjoy a nine-discount discount when purchasing.
+Speaker1: The discount of 90% is quite reasonable. So I'll place an order now. How long will it take to deliver?
+Speaker2: We provide express delivery service. Generally, after ordering, it will be delivered on the second day. If you choose urgent service, you can receive it on the same day.
+Speaker1: Okay, I decided to buy it. What information do I need to provide?
+Speaker2: You can place an order through our official website or mobile app, fill in the delivery address and select the payment method to complete the purchase. If you have any questions, please feel free to contact me.
+Speaker1: I understand, thank you for your detailed answer, I'm going to place an order now.
+Speaker2: You're welcome. If you have any questions later, please feel free to contact us. Have a nice shopping!

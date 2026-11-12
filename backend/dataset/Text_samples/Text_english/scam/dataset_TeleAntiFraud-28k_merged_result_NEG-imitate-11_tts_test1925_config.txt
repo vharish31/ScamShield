@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you? I am a customer manager at Tian An Yin Hang, we have a special promotion for a credit loan, do you want to know more about it?
+Speaker2: Uh, I recently need some cash flow.
+Speaker1: Great, our loan application has been approved quickly with a low interest rate, no collateral, and no guarantee. You just need to provide some basic information, and I can help you apply on this end.
+Speaker2: What do I need to do?
+Speaker1: Great, just click on the link I sent you and fill out the relevant information.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, this link will directly take you to our application page. If you encounter any issues, feel free to contact me anytime.
+Speaker2: Thank you, I will process it quickly.
+Speaker1: No problem, you can contact me anytime if you have any questions. By the way, have you recently encountered any problems with lost packages?
+Speaker2: Yes, my package was lost two days ago.
+Speaker1: It's really too bad. But we can help you apply for express compensation here, you just need to provide the delivery number.
+Speaker2: Really? That's great! The delivery number is 123456789.
+Speaker1: Okay, I'll help you process it right away. You'll receive a link shortly, click on the link to fill out the relevant information and you can apply for compensation.
+Speaker2: Okay, thank you.

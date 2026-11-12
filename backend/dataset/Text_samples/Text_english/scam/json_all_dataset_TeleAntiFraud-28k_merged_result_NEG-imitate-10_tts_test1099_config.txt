@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of the Shenzhen Bank. Li, have you recently had any need for capital rotation? We have a special loan product with an interest rate as low as two cents. Would you like to know more about it?
+Speaker2: Hello, temporarily no need for this.
+Speaker1: Okay, but I still want to introduce you to it just in case you need it in the future. You only need to provide some basic information, and we can customize a loan plan for you.
+Speaker2: Can you tell me specifically what information is needed?
+Speaker1: Please provide your identity card number, mobile phone number, and bank account flow, these information can help us better evaluate your credit.
+Speaker2: Let's go, how do I apply?
+Speaker1: It's very simple. Just click this link, fill out the relevant information, and our staff will contact you quickly.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you click on the link, remember to save the verification code, and our work staff will contact you later. Then you can tell them the verification code to complete the application.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what do you have?
+Speaker1: I am a customer service representative for a certain lending platform. We have a special loan project here with an extremely low interest rate and no collateral required. Would you be interested in learning more about it?
+Speaker2: Loan? I don't need a loan right now.
+Speaker1: Oh, that's how it is. Anyway, if you need anything in the future, you can think about it. I have a link here, you can click it to download our app, which allows you to easily check loan information anytime, anywhere.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Absolutely safe, our platform is certified by the country, you can rest assured now. Moreover, there is a newbie gift package when registering now, don't miss the chance.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you download it, remember to register an account and then contact me, I can help you operate it. This is my WeChat number, add me.
+Speaker2: Wechat? This isn't good, can't we just operate directly on the app?

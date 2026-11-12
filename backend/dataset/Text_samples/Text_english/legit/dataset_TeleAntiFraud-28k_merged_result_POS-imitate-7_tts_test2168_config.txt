@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Can I ask if there are any available seats at your tea house now?
+Speaker2: Hey, hello, do you have any time in mind to come to the tea house?
+Speaker1: I saw your ad on the 58th city, is it possible to rent a room in a tea house like this?
+Speaker2: Yes, our tea house allows private rooms, each room has a mahjong table and a sofa, the environment is very comfortable.
+Speaker1: How much does the price of the bag in that room cost?
+Speaker2: The room price is 400 yuan per day, and 3600 yuan per month.
+Speaker1: Hey, are all the facilities in the room complete after three months and six thousand yuan?
+Speaker2: Yes, each room has a mahjong table, chairs, tea and water, and all facilities are complete.
+Speaker1: Okay, I plan to bring my friend to play on the weekend, are your weekend prices the same?
+Speaker2: The weekend price is four hundred yuan per day, just as peaceful, you can rest assured.

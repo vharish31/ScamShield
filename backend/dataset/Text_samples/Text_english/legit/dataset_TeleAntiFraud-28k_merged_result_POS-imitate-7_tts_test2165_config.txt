@@ -1,0 +1,9 @@
+Speaker1: Hey, hello, I'm your delivery boy, your food is here, now I'm at the door of building six.
+Speaker2: Okay, I'm at building 6, which door are you at?
+Speaker1: Can you come down here at the door number one and get something for me?
+Speaker2: Can you wait for a while? I'm still in a meeting and it might take ten minutes.
+Speaker1: Okay, I'll wait for you here. Just remember to come down quickly, the food will get cold if you take too long.
+Speaker2: Okay, okay. I will come down quickly. Thank you for understanding.
+Speaker1: No problem, can I call you later, you come down to give me a call?
+Speaker2: Okay, I'll finish this meeting and then go right away. Bye.
+Speaker1: Okay, bye.

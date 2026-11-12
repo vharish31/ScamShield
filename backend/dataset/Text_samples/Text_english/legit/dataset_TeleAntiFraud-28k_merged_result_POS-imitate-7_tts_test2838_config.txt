@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a customer service representative from some food delivery platform. It seems that you had some issues with your previous order. Could you please confirm it?
+Speaker2: Hey, okay, you say, what's the question?
+Speaker1: Can you try something else instead of beef rice since the store is low on beef rice and the shopkeeper said so?
+Speaker2: Can we change it to something else?
+Speaker1: What do you want to eat? The store has chicken rice or vegetable rice, which one do you want?
+Speaker2: How about chicken rice instead? Is the price the same?
+Speaker1: Is the price the same, all twenty-five yuan, can it be?
+Speaker2: Okay, let's do it this way.
+Speaker1: Okay, I will notify the merchant to change the order, and it will arrive in about 30 minutes, please pay attention to receiving the phone call.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you have any more questions, feel free to contact me. Goodbye.
+Speaker2: Goodbye.

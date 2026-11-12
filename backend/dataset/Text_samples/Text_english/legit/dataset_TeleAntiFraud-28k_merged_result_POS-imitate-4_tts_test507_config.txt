@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me about the menu at your store, and what are the special deals today?
+Speaker2: Our store signboard menu has red braised pork, steamed fish, today's special is gong bao chicken wing, the price is very reasonable.
+Speaker1: How much does a palace spicy chicken wing cost?
+Speaker2: The palace chicken drumstick is on special today, for only 35 yuan per portion.
+Speaker1: I want to reserve a four-person seat, around 7 pm tonight.
+Speaker2: Okay, four seats are reserved for you, see you at seven o'clock tonight, please report your name upon arrival.
+Speaker1: Okay, thank you. Do I need to pay the deposit in advance?
+Speaker2: No need, you come directly order food, hope you have a nice dining experience.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what service do you want to consult?
+Speaker1: Can you tell me more about your hairdressing service, specifically how do you charge for it?
+Speaker2: Our haircut service here, the basic cut is 50 yuan, if you need washing, drying and styling, it will be an additional 20 yuan.
+Speaker1: How far in advance do I need to make that appointment?
+Speaker2: It's best to make an appointment a day in advance so we can arrange an appropriate time slot based on your schedule.
+Speaker1: Okay, can I come over on Saturday afternoon this week?
+Speaker2: Sure, we have some free time on Saturday afternoon. Would 2 or 4 o'clock be more convenient for you?
+Speaker1: 4 o'clock, can I just come directly at that time?
+Speaker2: Yes, you can come directly when the time comes. If the time changes, please notify us in advance.

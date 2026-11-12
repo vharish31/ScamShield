@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am a loan manager from XYZ bank, we have a special low interest loan product that can help you with your current cash flow problem, would you have time to take a closer look?
+Speaker2: Okay, tell me to see.
+Speaker1: Great, this product doesn't require a down payment. You just need to provide a business license and ID proof to apply, and the approval process is very fast. You can apply today and get the loan tomorrow.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Just click on the links we provide, fill out some basic info, and upload the necessary files, and we'll quickly process your application on this end.
+Speaker2: How do I get the link?
+Speaker1: I'll send you a text message with a link. Click the link to start applying.
+Speaker2: Okay, I'll wait for the text message.
+Speaker1: Okay, the text message will arrive on your phone shortly. Are there any other questions?
+Speaker2: No more, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Have a nice day, bye.

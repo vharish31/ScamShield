@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me how to use your delivery service?
+Speaker2: You can place an order on our app, select your favorite restaurant and dish, fill in the delivery address and contact information, confirm the order and wait for delivery.
+Speaker1: How much is the delivery fee?
+Speaker2: Delivery fees vary based on distance and region, typically ranging from five to ten yuan, with the exact amount displayed at the time of ordering.
+Speaker1: Okay, so now I'm placing an order, how long will it take to deliver?
+Speaker2: Based on your location and current order quantity, it's usually between 30 minutes and an hour.
+Speaker1: If I want to cancel an order, how do I operate?
+Speaker2: Before the order is served, you can cancel it through the app. If it's already served, you may need to negotiate with the restaurant.
+Speaker1: Understood, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Enjoy your meal!

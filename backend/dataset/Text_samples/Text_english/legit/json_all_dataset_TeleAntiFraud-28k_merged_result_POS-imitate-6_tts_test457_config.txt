@@ -1,0 +1,11 @@
+Speaker1: Hello, you, I am customer service little Li from supermarket Zhongmian.
+Speaker2: Hello, what do you have?
+Speaker1: Can you tell us if you are satisfied with our services and products based on your recent purchase at our supermarket?
+Speaker2: Great, the service attitude is good, and the product quality is satisfactory.
+Speaker1: That's great, thank you for your feedback. We also have a new promotion activity, are you interested in learning more?
+Speaker2: Sure, you can introduce yourself.
+Speaker1: From today on, customers who spend over two hundred yuan at our supermarket will enjoy a nine-discount and have a chance to win a beautiful gift.
+Speaker2: I'll pay attention to it next time I go shopping.
+Speaker1: Thank you very much for your support. If you have any questions, please feel free to contact us anytime.
+Speaker2: Okay, thank you for your introduction, goodbye.
+Speaker1: Goodbye, wish you happy life.

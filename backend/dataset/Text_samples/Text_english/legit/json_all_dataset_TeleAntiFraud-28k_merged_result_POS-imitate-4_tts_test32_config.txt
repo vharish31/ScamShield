@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything to talk about?
+Speaker1: Hey, I saw your job posting online and wanted to know more about it
+Speaker2: Okay, which position do you want to consult?
+Speaker1: I'm looking at the maintenance technician position
+Speaker2: Hey, what do you think about the mechanic's words? Do you have any relevant experience?
+Speaker1: I used to work at an auto repair shop, so I have some basics.
+Speaker2: That's good, our work hours are eight hours a day, including meals, and wages are discussed.
+Speaker1: Is there a fee for overtime?
+Speaker2: For overtime, we will pay according to national regulations.
+Speaker1: Okay, when can I go for an interview?
+Speaker2: You can come at 9 am tomorrow, we'll start with a simple interview.
+Speaker1: Okay, thank you, I will arrive on time tomorrow. Goodbye.
+Speaker2: Okay, see you tomorrow.

@@ -1,0 +1,20 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I see your shop in the salesperson and customer service section?
+Speaker2: Yes, we are indeed recruiting customer service representatives.
+Speaker1: I used to work customer service at an e-commerce platform several years ago.
+Speaker2: Do you have any relevant work experience that you can share?
+Speaker1: The main responsibility is to handle customer inquiries and complaints, as well as some after-sales service, such as returns and exchanges.
+Speaker2: How much do you expect to be paid for this job, as it sounds good?
+Speaker1: I just left my last job and haven't thought about the salary yet.
+Speaker2: Understood, then you can first understand the market situation, and then give us a rough idea.
+Speaker1: Okay, I understand. So what is your work schedule like?
+Speaker2: We are on a shift system, working eight hours a day for a week and having two days off.
+Speaker1: So, it sounds good. Then what do I need to prepare for the interview?
+Speaker2: Please bring your resume and ID, we will arrange a simple interview here.
+Speaker1: Okay, thank you. What about what time can I go for an interview?
+Speaker2: You can choose any of these days, we'll confirm in advance on this side.
+Speaker1: Can we meet in the afternoon of tomorrow?
+Speaker2: Okay, let's meet at 2 pm tomorrow afternoon. See you then.
+Speaker1: Okay, see you later. Bye.
+Speaker2: Goodbye.

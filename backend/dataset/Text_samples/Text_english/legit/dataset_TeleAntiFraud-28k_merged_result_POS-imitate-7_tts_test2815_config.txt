@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I bought that phone from your store, it's a bit problematic now, I want to consult it.
+Speaker2: Hello, I am a customer service representative. What questions can you tell me, I will do my best to help you solve them.
+Speaker1: This phone sometimes restarts automatically, I don't know if it's a quality issue.
+Speaker2: This situation may be caused by software conflicts or hardware issues. You can try restoring the factory settings to see if the problem persists.
+Speaker1: What about my phone data when restoring factory settings?
+Speaker2: Before restoring factory settings, it's best to backup important data first. If the issue persists after backing up, bring it over and we'll check it out.
+Speaker1: Okay, can I come over tomorrow if you have time?
+Speaker2: Of course, what time is convenient for you tomorrow?
+Speaker1: 3:00 PM.
+Speaker2: Okay, tomorrow afternoon at three o'clock, we'll be waiting for you here. If there are any changes, please contact me in advance.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, goodbye.

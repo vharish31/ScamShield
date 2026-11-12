@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Ming, how about you lately?
+Speaker2: Hey, Xiaoming, I'm doing pretty good, lately work has been a bit busy. How about you?
+Speaker1: I'm good too, I've been preparing a new project lately, it's quite interesting. Hey, do you have any free time this weekend? Let's grab a meal together.
+Speaker2: Great, I'm free this weekend. Do you have any restaurant recommendations?
+Speaker1: Have you heard of the new restaurant called "Hua Jiā Yú Yáng"? It's said to be quite good and the environment is nice too.
+Speaker2: Never heard of it, but it sounds good, let's go there. What time do we meet?
+Speaker1: How about six o'clock in the afternoon? I'll be waiting for you at the restaurant. How are you?
+Speaker2: Okay, six o'clock meeting. See you then.
+Speaker1: See you later, be careful on the way. Bye.
+Speaker2: Okay, bye.

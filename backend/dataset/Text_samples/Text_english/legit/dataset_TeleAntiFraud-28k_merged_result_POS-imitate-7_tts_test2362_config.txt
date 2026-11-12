@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: Hi, I'm little Zhang, want to know more about your new menu items, heard that you recently introduced several special dishes?
+Speaker2: Oh, it's little Zhang. Yes, we recently launched several new dishes, including spicy crab, stir-fried frog and ginger powder shrimp, all of which are very popular.
+Speaker1: How are the prices of these dishes?
+Speaker2: Sixty-eight yuan for lobster, forty-eight yuan for steamed frog, fifty-eight yuan for scallops.
+Speaker1: It sounds good. What are your business hours now?
+Speaker2: We are open from 11 am to 10 pm during weekdays and extend to 10:30 pm on weekends.
+Speaker1: Okay, I'm planning to go out with friends this weekend. Do I need to make reservations in advance?
+Speaker2: It's usually more crowded on weekends, so it's recommended to call ahead and make a reservation to ensure a spot.
+Speaker1: Okay, thank you for your suggestions. I will contact you in advance beforehand.
+Speaker2: No problem, you can contact us anytime. We're looking forward to your arrival, goodbye!
+Speaker1: Okay, bye!

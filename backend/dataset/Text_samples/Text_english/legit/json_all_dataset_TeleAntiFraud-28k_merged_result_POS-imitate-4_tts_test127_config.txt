@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I saw on the internet that you guys have a smartwatch, want to know more about it?
+Speaker2: Hello, I'm very happy to serve you. This smartwatch comes in various colors and functions. Could you please specify which function you're interested in?
+Speaker1: I mainly want to see how its navigation ability is, and can it connect to the phone.
+Speaker2: This smartwatch has a strong battery life, it can last up to seven days with normal use. Of course, it can also be connected to a phone and supports multiple smartphone brands.
+Speaker1: If I exercise outside, can it protect from water?
+Speaker2: Sure, this smartwatch has good waterproof functionality, even when wearing it while swimming.
+Speaker1: Can I enjoy any discounts if I order now?
+Speaker2: We currently have a discount promotion for new users, which you can enjoy if you are a new user. Additionally, we also give away a year of free maintenance service.
+Speaker1: Great, I'll place the order now. Oh, do you support cash on delivery?
+Speaker2: You can choose the delivery payment method when placing an order. If you have any other issues, please feel free to contact us anytime.

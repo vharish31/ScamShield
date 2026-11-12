@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Can I ask if there's a private room here for two people?
+Speaker2: Hello, yes, we have different sizes of rooms here that can meet different needs.
+Speaker1: That's great, can I reserve a private room for Saturday evening at 7 pm?
+Speaker2: Sure, reserving the private room at seven o'clock on Saturday night is okay. How many people do you need to reserve?
+Speaker1: Two people.
+Speaker2: Okay, the two private rooms have been reserved for you. Do you need to pay a deposit in advance?
+Speaker1: Do you need it?
+Speaker2: To guarantee your reservation, we suggest paying a deposit of 50 yuan in advance, which will help you secure your room.
+Speaker1: Okay, I'll go pay the deposit later.
+Speaker2: Okay, we are waiting for you here. If there are any changes, please contact us anytime. We hope you have a pleasant dining experience.

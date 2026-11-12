@@ -1,0 +1,12 @@
+Speaker1: Hey, are you free to talk now?
+Speaker2: Hello, I'm here pretty conveniently, what do you have in mind?
+Speaker1: What do you recommend for takeout today?
+Speaker2: We have several signature dishes here, such as spicy Sichuan hot pot, sweet and sour ribs, and also ginger and green onion, all of which are very popular.
+Speaker1: Let's have a spicy pot of Sichuan peppercorns and garlic with basil, right? And by the way, do you have any free cutlery on your side?
+Speaker2: Yes, we provide free one-time cutlery. If you need it, I can help you note it down.
+Speaker1: Okay, can you help me note down that I need two sets of utensils?
+Speaker2: No problem, I have already noted it down for you. What time do you want it sent at?
+Speaker1: Can you pick me up around one in the afternoon?
+Speaker2: Okay, we will deliver on time. Is there anything else you need me to help with?
+Speaker1: No more, thank you for your service.
+Speaker2: You're welcome, hope you enjoy your meal, bye!

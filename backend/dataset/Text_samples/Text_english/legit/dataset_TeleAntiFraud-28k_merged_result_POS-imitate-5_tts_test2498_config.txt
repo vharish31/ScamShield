@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Can you hear me?
+Speaker2: Yes, I can hear you.
+Speaker1: Oh, that's great. Do you have a pet store here?
+Speaker2: Yes, we mainly sell pet supplies and food here.
+Speaker1: Do you have a pet dog?
+Speaker2: Yes, we have various brands of dog food here, including imported ones.
+Speaker1: Do you have any recommended brands for dog food?
+Speaker2: The best food here is royal dog food, suitable for all kinds of dogs, and balanced nutrition.
+Speaker1: That sounds good, let me spend the weekend checking it out.
+Speaker2: Okay, this weekend, we open the store at nine in the morning.
+Speaker1: Okay, thank you for your information. See you this weekend!
+Speaker2: No problem, see you this weekend, wish you have a nice day.

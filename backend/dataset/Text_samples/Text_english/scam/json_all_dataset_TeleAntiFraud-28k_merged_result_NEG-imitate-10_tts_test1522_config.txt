@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am Liu, the customer manager of China Construction Bank.
+Speaker2: Hello, Liu Manager.
+Speaker1: Have you recently had any funding needs? Our recent loan project has a high credit limit, low interest rate, and fast approval.
+Speaker2: Uh, I recently have a bit of cash flow that needs attention.
+Speaker1: Great, I have a special link here. Just click it and fill out your personal information, and we can quickly approve.
+Speaker2: Okay, I'll click on it.
+Speaker1: Thank you very much. After you fill out the information, we will quickly review it. Also, for security reasons, you may need to download our official app, which makes the operation more convenient.
+Speaker2: Okay, I understand.
+Speaker1: After downloading the app, remember to register with this phone number. Once registered successfully, we will have a specialist contact you.
+Speaker2: Okay, thank you for your help.

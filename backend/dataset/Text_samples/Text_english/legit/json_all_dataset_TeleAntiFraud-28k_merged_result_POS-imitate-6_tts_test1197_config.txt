@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from some food delivery platform. There might be a delay with your previous order. Would you like to confirm if you can accept a longer delivery time for your food?
+Speaker2: Okay, can you please tell me how long it will take?
+Speaker1: I estimate it will take around 30 minutes, because recently the order volume has been quite high, and the delivery riders have been busy on the road.
+Speaker2: Okay, I can wait here. But if it's not sent within forty minutes, can you call me?
+Speaker1: Of course, we will contact you promptly. Moreover, if the delay caused you any inconvenience, we can offer you a free shipping once. How about it?
+Speaker2: That's it, that's great, thank you for your understanding.
+Speaker1: You're welcome. We always prioritize customer satisfaction. If you have any other needs, please contact us anytime.
+Speaker2: Okay, I understand, thank you.
+Speaker1: You're welcome, hope you enjoy your meal, bye.
+Speaker2: Goodbye.

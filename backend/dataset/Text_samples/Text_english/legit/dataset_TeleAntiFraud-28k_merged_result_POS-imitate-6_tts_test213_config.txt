@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little king, I bought a piece of clothing in your mall, but I found it a bit small after wearing it once, can I exchange or refund?
+Speaker2: Hello, little king, I am customer service representative little Li, can I help you with return or exchange, how long have you bought the clothes, do you have the invoice?
+Speaker1: I bought a three-day ticket, the receipt is still there.
+Speaker2: Okay, your situation matches our return policy, you can submit a return application through our official app or directly to the store, we have a dedicated return window here.
+Speaker1: Can I come directly?
+Speaker2: Of course, you can bring your receipt and the items you want to exchange or refund, and go directly to our store's third-floor customer service desk.
+Speaker1: Okay, I should be able to get there around two in the afternoon. Do you have anyone then?
+Speaker2: Yes, our customer service center's working hours are from 9 am to 8 pm. You will definitely have someone to meet at 2 pm in the afternoon.
+Speaker1: Okay, I'll go in the afternoon. Thank you for your help.
+Speaker2: You're welcome. If you have any questions, feel free to contact us anytime. Have a nice day.

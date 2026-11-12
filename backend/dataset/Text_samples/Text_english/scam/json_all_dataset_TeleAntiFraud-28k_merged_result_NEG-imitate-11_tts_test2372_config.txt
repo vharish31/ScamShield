@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am small Li, the client manager of Agricultural Bank.
+Speaker2: Hello, what do you have?
+Speaker1: Our bank recently introduced a special low-interest credit loan for customers in Dongguan city, with monthly interest rates as low as two cents.
+Speaker2: What are the conditions for this loan?
+Speaker1: As long as you have purchased social security public funds, you can apply. The procedures are very simple, just need to provide some basic information.
+Speaker2: The sound is good, but I recently haven't had any need for money.
+Speaker1: Okay, but if you need anything in the future, feel free to contact me anytime. Add me on WeChat for easy communication.
+Speaker2: Okay, add my WeChat. What's your WeChat number?
+Speaker1: My WeChat number is abcd123456. After adding WeChat, you can consult me anytime.
+Speaker2: Okay, I will add your WeChat. Thank you.
+Speaker1: No problem, any questions can be found anytime. Goodbye.

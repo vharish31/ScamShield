@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at your store door, how come you can't find me?
+Speaker2: Hello, can you see a small alley on the left? Our store is inside.
+Speaker1: Oh, I see that little alley, but it's so dark in there, is it safe?
+Speaker2: Don't worry, you'll see the store as soon as you go in, we have a light at the door, don't worry.
+Speaker1: Okay, I'll go in now. By the way, what time does your store close?
+Speaker2: Our store closes at ten o'clock at night, and you just arrived right now.
+Speaker1: Okay, I'll go there. Do you have any recommendations for dishes?
+Speaker2: Our store's signboard menu is red braised pork and ginger white pepper, many people like it, you can try it.
+Speaker1: Okay, I'll try. Yes, you can swipe cards here?
+Speaker2: Sure, we support both swipe card and mobile payment here, you can choose either one.

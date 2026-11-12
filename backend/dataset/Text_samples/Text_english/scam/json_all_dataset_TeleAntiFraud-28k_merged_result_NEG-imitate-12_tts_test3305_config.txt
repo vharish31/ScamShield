@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative for express delivery, you recently lost a package and we are currently processing the refund, please provide some information to assist.
+Speaker2: Oh, really? I recently had a package that hasn't been delivered yet.
+Speaker1: Yes, in order to quickly process your issue, we need you to provide us with your phone number and bank account number, so that we can directly deposit the compensation amount into your account.
+Speaker2: Is it like that, then do I need to provide a verification code?
+Speaker1: No, we only need your bank card number. However, for safety reasons, we will send you a verification code before reimbursement, please tell me after you receive it, so we can process immediately.
+Speaker2: Okay, I understand. My bank card number is 1234 5678 9012 3456.
+Speaker1: Okay, we have recorded it down. Please keep your phone connected, the verification code will be sent to your phone in a few minutes. Once you receive it, tell me and we can process it immediately.
+Speaker2: Okay, I'll be right back.
+Speaker1: Okay, feel free to contact me anytime if you have any questions.
+Speaker2: Thank you, I will contact you as soon as I receive the verification code.

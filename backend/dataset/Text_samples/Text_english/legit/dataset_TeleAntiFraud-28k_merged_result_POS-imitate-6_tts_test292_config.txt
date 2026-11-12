@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Are you here yet? I'm waiting for you at the bus station.
+Speaker1: I'm still on the road, there's a bit of a jam up front, it might take another ten minutes or so.
+Speaker2: Okay, just be careful on the road, I'll wait for you here.
+Speaker1: Okay, I'm calling you now.
+Speaker2: Remember to bring an umbrella, the weather forecast says there's a chance of rain today.
+Speaker1: Oh, really? I take a look, hmm, found it, thank you for reminding.
+Speaker2: No problem, go out first, safety first.
+Speaker1: I understand, I will be careful, see you later.
+Speaker2: Okay, see you later, be careful on the road.

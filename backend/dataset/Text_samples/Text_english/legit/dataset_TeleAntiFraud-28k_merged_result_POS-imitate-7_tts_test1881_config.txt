@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm little Ming. You dropped a phone at our community door last time, I found it today, would you mind coming over to pick it up?
+Speaker2: Wow, really? Thank you so much! I'm just outside the community now, I'll be there soon.
+Speaker1: Okay, I'm waiting for you at the community door.
+Speaker2: Okay, I'll be there in about ten minutes.
+Speaker1: Okay, I'm waiting at the door, you call me when you arrive.
+Speaker2: Okay, I arrived soon. Thank you, Xiaoming.
+Speaker1: No problem, returning lost items to their owner is what should be done.

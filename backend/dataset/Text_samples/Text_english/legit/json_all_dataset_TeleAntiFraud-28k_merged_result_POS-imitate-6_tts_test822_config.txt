@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, I just ordered takeout, can you help me deliver it quickly?
+Speaker2: Hello, little king, I'm a delivery boy, on the road now, the weather's a bit bad, might be a little late, just wait a minute.
+Speaker1: Okay, thank you, how long do I need to wait?
+Speaker2: I'll be there in about twenty minutes.
+Speaker1: Okay, I'll wait for you at home and call you when you arrive.
+Speaker2: Okay, I'll call you when I arrive. What is your apartment number?
+Speaker1: Sunlight Flower Garden Apartment, 3rd Floor, 2nd Unit.
+Speaker2: Okay, I know, be careful on the road, see you later.
+Speaker1: Okay, thank you, be careful on the road.
+Speaker2: Okay, bye.

@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm Xiaoming, I saw your shop's phone number, want to ask about your shop's bikes?
+Speaker2: Hello, Xiao Ming. I am Zhang, the customer service at this store. We have a variety of bike options here, what specific needs do you have?
+Speaker1: I want to buy a car suitable for commuting to work, within the price range of 2,000 to 3,000 yuan.
+Speaker2: Okay, we have a city commuter bike here that is lightweight and durable, very suitable for your needs, and there's a promotion going on right now, the original price of three thousand yuan is now two thousand five hundred yuan.
+Speaker1: Does this car come in different colors to choose from?
+Speaker2: This bike comes in black, blue, and orange colors, you can choose based on your preference.
+Speaker1: Is the tire of this self-bike slippery? I'm worried about riding safely on rainy days.
+Speaker2: This bike's tire is a special anti-slip tire, which can maintain good grip even in rainy weather, very safe.
+Speaker1: Sure, can I come to the store this weekend?
+Speaker2: Of course, we are open on weekends, you can come directly, we will introduce you in detail.
+Speaker1: Okay, thank you, see you this weekend.
+Speaker2: No problem, looking forward to your arrival, see you this weekend.

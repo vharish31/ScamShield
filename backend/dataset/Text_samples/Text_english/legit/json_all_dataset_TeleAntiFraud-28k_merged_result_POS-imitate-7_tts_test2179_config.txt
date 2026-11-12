@@ -1,0 +1,11 @@
+Speaker1: Hello, you.
+Speaker2: Hello, are you looking for a way?
+Speaker1: Yes, I can't find the North Gate of the university, can you help me with the directions?
+Speaker2: Of course, are you at the station exit of the subway?
+Speaker1: Yes, I am at the subway station exit.
+Speaker2: After getting off the subway station, walk straight ahead, then turn left, you will see a small road, walk along the small road for about 500 meters, and you will see the north gate of the university.
+Speaker1: Is this road safe? Will it be inconvenient to walk at night?
+Speaker2: This road also has streetlights at night, and there are many people, so it's quite safe. However, if you're not confident, you can take a taxi, which is very convenient.
+Speaker1: Thanks for your detailed guidance. I'll take a taxi.
+Speaker2: No problem, be careful on the road, let me know when you arrive. Bye.
+Speaker1: Okay, bye.

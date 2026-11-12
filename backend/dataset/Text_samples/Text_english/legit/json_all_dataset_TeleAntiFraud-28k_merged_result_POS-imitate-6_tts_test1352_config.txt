@@ -1,0 +1,12 @@
+Speaker1: Hello, is this the customer service of Wanxiangcheng?
+Speaker2: Hello, yes, this is the customer service center of Wanxiang City, what can I help you with?
+Speaker1: Can you tell me what time the children's playground in your mall is open?
+Speaker2: The opening hours of the playground for children are from 10 am to 9 pm every day. On weekends and holidays, they will be extended to 10 pm.
+Speaker1: Can the weekend end at ten o'clock at night? How much is the ticket for that door?
+Speaker2: Yes, the weekend and holidays will be extended to 10 pm. For tickets, adults can accompany a free ticket, and a child's ticket is 50 yuan per person.
+Speaker1: Fifty yuan for one person, do you have a membership card? What discounts do membership cards offer?
+Speaker2: We have membership cards, buying membership cards can enjoy a 50% discount on amusement park tickets, and also enjoy extra discounts in other stores in the mall.
+Speaker1: What do I need to bring when I go to sign up for a membership card?
+Speaker2: Just bring a valid ID and fill out an application form at the counter to apply.
+Speaker1: Okay, thank you for your help. I will take my child to play on the weekend.
+Speaker2: No problem, wish you and your family have fun this weekend, see you!

@@ -1,0 +1,10 @@
+Speaker1: Hey, how's the weather lately? I'm Zhang.
+Speaker2: Hello, little Zhang, this side the weather is quite good, just a bit hot, how about your side?
+Speaker1: It's hot here too, have you heard that there's a cool breeze this weekend? Would you like to go for a walk?
+Speaker2: The haircut sounds good, but I need to go to the barber, I have an appointment on Saturday at 3 pm.
+Speaker1: That's really too clever, I also want to buy a haircut, where are you going to shop?
+Speaker2: I'll go to the barber shop nearby, their skills are good and the prices are reasonable.
+Speaker1: Can I go to that place too? I have some time now, so can we go together?
+Speaker2: Of course, you can make an appointment in advance, and we can go together.
+Speaker1: Okay, I'll make a reservation now, so we can meet on Saturday.
+Speaker2: See you on Saturday, be careful on the road.

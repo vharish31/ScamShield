@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you little king?
+Speaker1: Yes, it's me. What do you want to talk to me about?
+Speaker2: Can I consult your hair salon services on your side, and book a time?
+Speaker1: Okay, we have various haircut services here, which one do you want?
+Speaker2: I want to cut my hair short, not too complicated, clean and simple.
+Speaker1: I understand, this style we are very skilled at here. What time do you plan to come?
+Speaker2: Is 2 PM tomorrow a good time for you?
+Speaker1: What time do you think is suitable between 4:00 PM and 6:00 PM tomorrow?
+Speaker2: Can I leave at 4:30?
+Speaker1: Okay, remember the time, 4:30 we meet here.
+Speaker2: Okay, thank you. See you later.

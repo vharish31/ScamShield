@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear it over there?
+Speaker2: I can hear your voice clearly on the other side.
+Speaker1: Great, I want to take a look at the new phones in your store today. I'm planning to buy a new one soon.
+Speaker2: Okay, we have several new phones out, can you tell me your budget and specific needs, I can recommend a few for you.
+Speaker1: The budget is around three to four thousand, mainly for watching videos and playing games, the phone should be lightweight.
+Speaker2: Understood, based on your requirements, I recommend you take a look at our new lightweight phone, this phone not only has a fashionable appearance, but its performance is also very powerful, especially suitable for watching videos and playing games.
+Speaker1: How long does the battery of this phone last?
+Speaker2: This phone's battery capacity is 4000mAh, which can be used all day with normal use, and supports fast charging, half an hour can charge to 50%.
+Speaker1: Is this phone in stock?
+Speaker2: This phone is currently in stock. If it's convenient for you, you can come to the store to take a look. Alternatively, I can send you a sample machine, and you can let me know what you think?

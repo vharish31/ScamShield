@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Huai?
+Speaker2: Who are you?
+Speaker1: I am a loan officer at Hua Xiang Bank, named Li Ming, we have a special low-interest loan project here that can help you solve your cash flow problems in the short term.
+Speaker2: Can you give me a specific explanation of my recent lack of cash flow?
+Speaker1: Of course, this loan project is very simple, no collateral is required, just need to provide identity information, can quickly issue loans. To better understand the project details, you can click on the link I sent you, download our official app, inside has detailed introduction and application process.
+Speaker2: Download the app? Is it safe?
+Speaker1: Our app is officially certified, so you can contact me directly if you have any issues after downloading. As a token of appreciation, we'll send you a small gift if you download and register.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the link now. Let me know once you download it, and we'll continue chatting.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm a customer service representative for a food delivery platform. Can you confirm your order information?
+Speaker2: Okay, you say.
+Speaker1: Did you order a beef stir-fry and a sweet and sour pork ribs, yes?
+Speaker2: Yes, no problem.
+Speaker1: Okay, your address is Happiness Villa No. 2, Unit 3, Room 402, right?
+Speaker2: Yes.
+Speaker1: About 30 minutes should arrive, are you convenient to receive on this side?
+Speaker2: Sure, I'll be home later.

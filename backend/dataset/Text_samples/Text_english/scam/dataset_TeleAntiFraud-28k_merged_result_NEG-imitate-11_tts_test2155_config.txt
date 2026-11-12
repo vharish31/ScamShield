@@ -1,0 +1,10 @@
+Speaker1: Hello, you, this side is Suning customer service center, I am customer service specialist Li Xiao.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed that there might be an issue with your recent order, so we need to handle it for you.
+Speaker2: Oh, really? I indeed recently bought a phone at your place.
+Speaker1: Yes, that's this order. We found that your phone may have been damaged during transportation, so we want to process a refund for you.
+Speaker2: How do I get a refund?
+Speaker1: Just click on the link we send to you, fill out the necessary information, and we'll refund the money to your payment account.
+Speaker2: Okay, I'll go operate.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact me anytime. This is my WeChat, you can add me to facilitate future communication.
+Speaker2: Okay, let's add each other on WeChat.

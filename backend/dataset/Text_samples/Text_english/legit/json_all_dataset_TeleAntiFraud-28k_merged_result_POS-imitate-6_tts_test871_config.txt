@@ -1,0 +1,10 @@
+Speaker1: Hi, are you scheduled for a haircut tomorrow morning on our platform?
+Speaker2: Hi, hello, yes, I have an appointment for haircut tomorrow morning.
+Speaker1: Okay, your appointment time is 10 am, the address is Happiness Road No. 2 Happiness Hair Salon, remember to arrive 10 minutes early.
+Speaker2: Okay, I understand, thank you for reminding me. By the way, do I need to prepare anything in advance?
+Speaker1: No need to prepare anything, just come on time and we'll have everything ready for you on this side.
+Speaker2: That's great, there's another question, I want to cut my hair short, but I'm not very sure, can you guys provide some suggestions on your side?
+Speaker1: Of course, our hairdresser will give you professional advice based on your face shape and lifestyle, and you can directly communicate your needs to the hairdresser at that time.
+Speaker2: Okay, I understand now, thank you for your help.
+Speaker1: No problem, if you have any other questions, feel free to contact me anytime. See you tomorrow.
+Speaker2: Okay, see you tomorrow.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I saw your computer on your website, it's really good, want to know more?
+Speaker2: Hello, little Zhang, I am customer service king, very happy to serve you. Which computer do you want to know about?
+Speaker1: What are the configuration settings for the game recommended on your website's homepage?
+Speaker2: This game has a very high configuration, the processor is the latest, the graphics card is high-end, very suitable for playing games.
+Speaker1: What's the price?
+Speaker2: This computer costs 899 yuan, there's a promotion now, you can get a 90% discount.
+Speaker1: Nine-discount promotion, that's quite a good deal. What's the estimated delivery time?
+Speaker2: We usually ship within two to three business days after ordering, and in general, you can receive your order within a week after placing it.
+Speaker1: Okay, I'll think about it, thank you for your answer.
+Speaker2: You're welcome, feel free to consult anytime if you have any questions, wishing you a happy life.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Hi, I'm the property manager of the community. I just wanted to let you know that the community will have a power outage tomorrow, it's estimated to be from 9am to 5pm.
+Speaker2: Ugh, it's been so long, I have to work on my computer early tomorrow morning. Is there any solution?
+Speaker1: It's good to charge your phone and computer in advance, and to prepare some power banks as backup.
+Speaker2: Okay, I'll try to charge my phone in advance. By the way, is there a backup power source at the property management office?
+Speaker1: We have some backup power sources here, but the quantity is limited, mainly for public areas. If you really need it urgently, you can contact me to see if we can coordinate.
+Speaker2: That's great, if it's really not possible, I'll contact you. Thank you!
+Speaker1: No problem, feel free to contact us anytime. Best wishes for your work!
+Speaker2: Okay, thank you! Bye.
+Speaker1: Goodbye.

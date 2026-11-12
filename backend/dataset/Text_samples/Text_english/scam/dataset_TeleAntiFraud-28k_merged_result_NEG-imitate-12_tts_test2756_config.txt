@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Hello, I am small Zhang from Huaxing Bank, you have applied for a loan from our bank before, now we have a new loan service with very low interest rate, are you interested in learning more?
+Speaker2: Hey, I recently need some cash flow, can you give me a detailed explanation?
+Speaker1: Okay, this loan service does not require any collateral, the approval speed is very fast, you just need to provide some basic information, and we can pre-approve the loan amount for you.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Just click this link and fill out the relevant information, and we'll have a specialist contact you.
+Speaker2: Okay, I'll click on the link now.
+Speaker1: Great, please fill out the information and we will get back to you quickly. If you have any questions, feel free to add my WeChat and contact me anytime.
+Speaker2: Okay, thank you, I add you WeChat.

@@ -1,0 +1,10 @@
+Speaker1: Hello, do you have any vegetarian options at your restaurant?
+Speaker2: Hello, our restaurant has many vegetarian dishes, including stir-fried vegetables, vegetarian salad and vegetarian spring rolls. Are you interested in these?
+Speaker1: Hey, I'm interested in stir-fried vegetables, can you tell me the price?
+Speaker2: The price of stir-fried vegetables is thirty-five yuan. If you need, I can help you book.
+Speaker1: Okay, I want to reserve a spot for two people, tomorrow evening at seven o'clock?
+Speaker2: Okay, the 7 pm location for tomorrow night has been reserved for you. What is your name?
+Speaker1: The name of the person who made a reservation is Li Wenbo Yuan.
+Speaker2: Okay, Li Wenbo Yuan Xiāngshēng, tomorrow evening at seven, we will prepare a place for you. Do you have any other questions?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

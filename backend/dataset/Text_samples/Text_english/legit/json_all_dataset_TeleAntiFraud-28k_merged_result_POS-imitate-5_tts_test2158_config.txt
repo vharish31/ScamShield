@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hey, I saw your coffee machine on the internet and I want to ask you about it
+Speaker2: Okay, what kind of coffee machine are you interested in?
+Speaker1: That's the EC685 black dragon.
+Speaker2: Hey, this coffee maker is our best-selling product in the store. Do you want to know about its features or price?
+Speaker1: The main thing is the price, and do you have any goods now?
+Speaker2: The price of this coffee machine is three thousand two hundred eighty-eight yuan. It's currently in stock, so you can come and pick it up anytime, or we can deliver it to your door.
+Speaker1: Okay, can I come and pick up the goods at around 3 pm in the afternoon?
+Speaker2: Of course, you can come at three o'clock, we will be ready for you here.
+Speaker1: Okay, thank you, see you in the afternoon.
+Speaker2: Okay, see you in the afternoon, be careful on the road.

@@ -1,0 +1,13 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can I help you with anything?
+Speaker1: Hello, I am a customer service representative from some e-commerce platform. You have accumulated a lot of shopping points on your account, and they will be cleared at midnight tonight.
+Speaker2: Oh, really? I forgot this event.
+Speaker1: Yes, these points can help you redeem three thousand nine hundred dollars or more in cash, otherwise they will be deducted from your account.
+Speaker2: That's too bad, how do you get points?
+Speaker1: These points are all the points you earned by charging when shopping on our platform, you can use these points to buy many products, many users have already saved a lot of money with these points.
+Speaker2: How many points do I have in my account?
+Speaker1: Your account has accumulated 26,800 points, which can be redeemed for nearly 4,000 yuan worth of goods.
+Speaker2: Okay, how do I operate it?
+Speaker1: I've already sent you a free exchange SMS, just click on the link in the SMS to enter our mall and select the products you want.
+Speaker2: Okay, thank you for your reminder. I will go take a look.
+Speaker1: No problem, feel free to contact us anytime if you have any questions. We hope you have a great shopping experience!

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the delivery boy, your food is here, now at your neighborhood's north gate.
+Speaker2: Okay, North Gate is it, I'll go down now.
+Speaker1: Hey, just outside the north gate, there's a little pavilion at the door, you'll know when you see me.
+Speaker2: Okay, I'll go down now, it should take about a few minutes to get there.
+Speaker1: Okay, take your time, I'm waiting for you here.
+Speaker2: Sure, can you keep an eye on the door for my package? I just saw someone delivered it.
+Speaker1: Sure, hurry up and come down, I'll help you look.
+Speaker2: Thank you so much, you've really been a bother.
+Speaker1: No problem, this is what I should do, you hurry down now.
+Speaker2: Okay, let's go.

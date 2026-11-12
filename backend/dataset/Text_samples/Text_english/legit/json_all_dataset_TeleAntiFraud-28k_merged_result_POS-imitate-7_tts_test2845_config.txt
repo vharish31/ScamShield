@@ -1,0 +1,9 @@
+Speaker2: Hey, how are you?
+Speaker1: Where are you? I followed the navigation, how come I can't find you?
+Speaker2: Did you take a wrong turn?
+Speaker1: I'll take a look at the map, just a moment, I'll be there soon.
+Speaker2: Okay, no rush, be careful.
+Speaker1: I see you, I'm at the red light in front of you, you turn left, I stop my car here.
+Speaker2: Okay, I see you, come over right away.
+Speaker1: Wait a minute, I'm just sitting here for a moment, don't rush.
+Speaker2: No problem, safety first, I'll wait for you.

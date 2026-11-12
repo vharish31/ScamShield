@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer manager of the commercial bank, Lee Huai.
+Speaker2: Hello, which department are you from?
+Speaker1: I work in the loan department, we have a special promotion loan project recently, the interest rate is very low, have you recently had any need for cash flow?
+Speaker2: No need for this at the moment.
+Speaker1: Okay, I can provide other services here, such as financial consulting, or if you have any questions about your finances, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: By the way, we have a new financial product with very high returns and low risk. Would you be interested in learning more about it?
+Speaker2: What do you know about this one that sounds good?
+Speaker1: You can click on the link I sent you, which contains a detailed introduction and our customer service phone number, you can contact them anytime.
+Speaker2: Okay, I'll take a look.

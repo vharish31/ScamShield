@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask if there's a two-person set menu here?
+Speaker2: Hello, do you want to book a two-person set menu now?
+Speaker1: Yes, I want to book a room. Do you have any recommendations now?
+Speaker2: On our side, we recommend the beef and red wine set for couples, as well as the seafood platter, both of which are very popular.
+Speaker1: Does the beef and broccoli dish take 5 minutes to cook?
+Speaker2: The default for the beef and broccoli dish is five minutes of cooking. If you have any other requirements, please specify them when placing your order.
+Speaker1: I'll have the beef burger set meal, medium-rare. What time do you close shop?
+Speaker2: What time do you plan to come to our restaurant, which is open from 11 am to 9 pm?
+Speaker1: I can arrive around six and a half in the evening.
+Speaker2: Okay, at six and a half we'll be ready with the beef burger set, do you need anything else prepared in advance?
+Speaker1: I don't have any more, just these. Thank you.
+Speaker2: You're welcome. If you have any questions, please contact us anytime. Enjoy your meal.

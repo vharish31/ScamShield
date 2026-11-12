@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a waiter at Xiao Ming restaurant. Did you reserve a private room at our restaurant last night?
+Speaker2: Yes, it's my appointment.
+Speaker1: Okay, what time is it?
+Speaker2: I am seven o'clock.
+Speaker1: Okay, can you confirm that you reserved eight seats, right?
+Speaker2: Yes, there are eight people.
+Speaker1: Okay, do you have any special requirements, such as no smoking in designated smoking areas or special layout?
+Speaker2: No special arrangement is needed. It's best if it's a non-smoking area.
+Speaker1: Okay, I have noted it down. So, what is the payment through Alipay or Wechat?
+Speaker2: I use WeChat Pay.

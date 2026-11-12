@@ -1,0 +1,11 @@
+Speaker1: Hey, are you okay? Is it convenient to talk now?
+Speaker2: Sure, you say.
+Speaker1: Do you know if your family's air conditioner is still being sold?
+Speaker2: Is there any goods left? Do you want to know more about it?
+Speaker1: Yes, I want to know the specific price and warranty policy of this air conditioner.
+Speaker2: This air conditioner costs 3,800 yuan, with a one-year full-unit warranty and a three-year warranty for major parts.
+Speaker1: If I order now, how long will it take to deliver?
+Speaker2: In general, we will arrange for delivery and installation within three to five days after placing an order.
+Speaker1: Okay, I'll think it over and get back to you later.
+Speaker2: Okay, please consider contacting us anytime. We hope our product brings you a comfortable life experience. Goodbye!
+Speaker1: Thank you, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: I'm a new user on your platform, and I want to know more about your return/exchange policy.
+Speaker2: Hello, regarding the return policy, we have the following rules: Products can be returned within seven days of delivery if they are damaged due to non-human factors.
+Speaker1: If there are any issues with the product, how can we contact you to handle them?
+Speaker2: You can directly click on the "Apply for After-Sale" button on the order details page and fill in the relevant information. Our customer service specialist will quickly contact you to handle the issue.
+Speaker1: What is the delivery time?
+Speaker2: By default, we deliver through express, usually within 24 hours after ordering, the delivery time may vary depending on your location.
+Speaker1: I understand, thank you for your patience in answering.
+Speaker2: You're welcome. If you have any other questions, feel free to consult anytime. Have a happy shopping!

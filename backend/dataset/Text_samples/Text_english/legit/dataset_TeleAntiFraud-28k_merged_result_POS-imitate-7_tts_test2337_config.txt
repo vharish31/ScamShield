@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask, do you have any vegetarian set meals here?
+Speaker2: Hello, yes, we have many vegetable set meals here, which one do you want to know about?
+Speaker1: Can you tell me the cheapest vegetarian set meal and how much it costs?
+Speaker2: The cheapest vegetarian set meal is 45 yuan, including one dish and one soup, but if you don't want meat, you can switch to two vegetable dishes.
+Speaker1: Can I have two portions of steamed vegetables without soup, please?
+Speaker2: Okay, if that's the case, the menu price is 40 yuan.
+Speaker1: Okay, when can I pick up my order?
+Speaker2: Is your scheduled time now? If it is now, you will need to wait approximately twenty minutes because it needs to be done immediately.
+Speaker1: Okay, I'll come back in twenty minutes to pick up my meal.
+Speaker2: Okay, please tell me your order information when you arrive, so we can be ready.

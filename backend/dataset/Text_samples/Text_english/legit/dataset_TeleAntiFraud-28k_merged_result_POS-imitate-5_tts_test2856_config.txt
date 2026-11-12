@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? This is the happy delivery platform, I am the customer service little music. Are all the dishes you ordered before satisfied?
+Speaker2: Yeah, everything's good, thanks.
+Speaker1: That's fine, our platform is always committed to providing high-quality dining services to our customers.
+Speaker2: Hmm, not bad.
+Speaker1: Do you have any suggestions for our delivery time and service attitude?
+Speaker2: The delivery speed was quite fast, and the service attitude was very good. There was nothing particularly special about my opinion.
+Speaker1: Thank you very much for your feedback. We will continue to maintain. If you need again, please consider using our member service, there are more discounts.
+Speaker2: Okay, I will consider it.
+Speaker1: By the way, we recently introduced several new dishes, do you have any interest in trying them?
+Speaker2: Sure, the new menu sounds pretty good.
+Speaker1: Okay, next time you place an order, please take a look. We hope you like it. If you have any questions, please contact us anytime.
+Speaker2: Okay, thank you.

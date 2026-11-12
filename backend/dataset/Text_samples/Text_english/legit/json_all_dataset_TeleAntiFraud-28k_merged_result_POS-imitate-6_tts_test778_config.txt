@@ -1,0 +1,10 @@
+Speaker1: Hey, are you from the Xiao Ming family?
+Speaker2: Hello, I am Xiaoming, who are you?
+Speaker1: Hi, I'm your classmate Xiao Huang, how have you been lately?
+Speaker2: Hello, I've been feeling a bit anxious lately about my studies. How about you?
+Speaker1: Yeah, I heard you're preparing for a competition lately.
+Speaker2: Yes, I'm ready for the math competition. Do you have any good suggestions?
+Speaker1: I think it's good to do more old exams and if you don't understand, you can ask me.
+Speaker2: Okay, thank you, do you have time to discuss together?
+Speaker1: No problem, do you have any free time this weekend?
+Speaker2: Let's go this weekend.

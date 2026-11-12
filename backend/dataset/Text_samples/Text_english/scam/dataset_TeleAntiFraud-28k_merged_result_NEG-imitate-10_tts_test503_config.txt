@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Laoban?
+Speaker2: Hello, I am Zhang Laoban, what do you have?
+Speaker1: Good morning, Mr. Zhang. I am the credit manager of the China Bank. I noticed your recent gold processing store. We have a loan product for individual entrepreneurs with loan amounts ranging from 10,000 to 30,000 yuan. The interest rate is also very favorable. Do you have any recent funding needs?
+Speaker2: Oh, thank you, we don't have any plans for that yet.
+Speaker1: Okay, please consider contacting us if needed. By the way, do you use WeChat? We can add a WeChat contact for future communication.
+Speaker2: Sure, my WeChat is my phone number. Add me.
+Speaker1: Okay, I'll add you. Additionally, we have a recent promotion, if you apply for a loan through our app, you'll enjoy a lower interest rate. Would you be convenient to scan the QR code now?
+Speaker2: Okay, let me try.
+Speaker1: Great, open WeChat and scan the QR code I send you, follow the instructions and you're good to go. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Yes, who are you?
+Speaker1: I am the general manager of the commercial bank, we have a special discount loan project, do you want to know more?
+Speaker2: Loan, I recently need it, how's your interest rate?
+Speaker1: This project is particularly discounted, interest rate is extremely low, and the approval is fast, no down payment. To understand the detailed information more easily, can you add a WeChat to chat?
+Speaker2: Add me on WeChat, are you guys scammers?
+Speaker1: Mr. Li, we are a regular bank and will not do such things. To prove our professionalism, I will send you a QR code, which you can scan to see detailed loan information and our qualifications.
+Speaker2: Okay, let me try.
+Speaker1: Okay, after scanning this QR code, please enter your personal information, and we will have a dedicated customer manager contact you.
+Speaker2: Okay, let me try.

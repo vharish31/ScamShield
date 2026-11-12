@@ -1,0 +1,14 @@
+Speaker1: Hey, are you little Zhang?
+Speaker2: Hi there, who are you?
+Speaker1: I am the customer service representative of the cleaning service company you previously booked, is that correct?
+Speaker2: Oh, okay, that's how it is.
+Speaker1: Okay, let's confirm the time, is it 9 am tomorrow?
+Speaker2: Okay, nine o'clock.
+Speaker1: What's the address? Won't it change?
+Speaker2: The address won't change, it's still the previous address.
+Speaker1: Okay, our staff will arrive on time tomorrow. If there are any changes, we will contact you in advance.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you have any special requirements, you can tell me now.
+Speaker2: I don't have it now, but if I do, I'll contact you.
+Speaker1: Okay, see you tomorrow.
+Speaker2: See you tomorrow.

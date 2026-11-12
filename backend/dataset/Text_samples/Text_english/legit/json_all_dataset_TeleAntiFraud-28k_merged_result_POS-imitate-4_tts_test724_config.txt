@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Do you have any new sports shoes here?
+Speaker2: Yes, we recently bought a batch of new sports shoes. Which brand do you want to know about?
+Speaker1: Do you have the latest Nike shoes?
+Speaker2: Yes, we have the latest Nike running shoes and a limited-time discount activity. You can come to the store to take a look or I can send you a link, and you can check it out online.
+Speaker1: Can you tell me the address of your store? I'll take a look to see how far it is from my home.
+Speaker2: Our store is on the third floor of Happiness Shopping Center, take the public bus number two to Happiness Square Station, get off and walk five minutes to reach there.
+Speaker1: Okay, I'll go take a look this afternoon, thank you.
+Speaker2: No problem, I'm looking forward to your arrival. If you have any questions, feel free to contact me anytime. Goodbye!
+Speaker1: Okay, bye.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how can I help you?
+Speaker1: Can I consult your restaurant reservation service, please?
+Speaker2: Of course, our menu here is very rich, do you have any special requirements?
+Speaker1: I saw your family's signboard for beef noodles, how much is it per bowl?
+Speaker2: The signboard for beef noodle soup is thirty yuan per bowl, the portion is generous, and it is very popular among customers.
+Speaker1: Can I reserve a table for six o'clock on Saturday evening?
+Speaker2: Sure, I'll book a two-person table for you at six o'clock on Saturday night. Is that okay?
+Speaker1: Is there any problem if I arrive early at the meeting?
+Speaker2: No problem, you arrived early, you can rest in the resting area for a while first, if you arrive early we will quickly arrange you to sit down.
+Speaker1: Okay, I'll see you on Saturday. Thank you for your help!
+Speaker2: No problem, see you on Saturday! Wish you a happy day!

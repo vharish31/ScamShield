@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, want to know your store's business hours?
+Speaker2: Hello, Little Wang, our store is open from 10 am to 10 pm every day, and on weekends it will be open until 11 pm.
+Speaker1: Yeah, that's fine, so I should be able to go out for dinner on Saturday night without any problems, right?
+Speaker2: Of course, there will be more guests at our place on weekends in the evening, so I suggest you book in advance to ensure a spot.
+Speaker1: Okay, can I reserve a seat for me at seven o'clock on Friday evening?
+Speaker2: No problem, on Friday evening at 7 pm, I will reserve a seat for you. Do you need a specific seat, like by the window or a quiet corner?
+Speaker1: Let's go to a quiet corner, I brought a friend with me, I hope the environment is comfortable.
+Speaker2: Okay, I'll arrange a quiet corner for you. Do you need to order ahead?
+Speaker1: No need, see you later. Thank you for your service. See you on Friday.
+Speaker2: No problem, see you on Friday, wish you a happy day.

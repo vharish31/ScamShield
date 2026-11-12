@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, do you have my cake from yesterday at the store? I want to pick it up today.
+Speaker2: Hello, Xiaoming, I am the small clerk at the dessert store, you really ordered a cake yesterday, you probably came at around what time?
+Speaker1: What time will you be open in the afternoon around three o'clock?
+Speaker2: Our business hours are from 9am to 9pm, and it's fine to take a break at 3pm.
+Speaker1: Is it necessary to prepare the cake in advance?
+Speaker2: It's ready for you now, just take it directly when you come.
+Speaker1: How much does the cake cost?
+Speaker2: Your order is for our popular strawberry muffins, priced at 258 yuan.
+Speaker1: Can I pay directly at the time?
+Speaker2: Yes, you can pay upon picking up. We support cash, Wechat, Alipay and other payment methods.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you little Li?
+Speaker1: Yes, I am, who are you?
+Speaker2: I'm the small king of the community property, want to confirm with you the water and electricity repair appointment.
+Speaker1: Okay, I remember it's scheduled for tomorrow morning.
+Speaker2: Yes, the teacher will arrive at your home at nine in the morning on time tomorrow.
+Speaker1: Okay, I'll wait at home. And what about the broken floor lamp in the last feedback? When can it be fixed?
+Speaker2: The issue with the street lamps has been recorded, and we expect to schedule repairs within this week.
+Speaker1: Okay, thank you.
+Speaker2: No problem, please feel free to contact us anytime if you have other questions.

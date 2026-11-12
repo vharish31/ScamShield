@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, where are you?
+Speaker1: I couldn't find your store at the intersection of Mingguang Road and Xingfu Daodao.
+Speaker2: Oh, you're at the end of the Mingguang road, you're walking towards the Xingfu dào, see the second red and green light turning left.
+Speaker1: Okay, turn left after that?
+Speaker2: Turn left after that, about 500 meters, you will see a blue sign, that's our store.
+Speaker1: 500 meters, how long would it take me to walk?
+Speaker2: Walking takes about ten minutes, if you ride a bike, you can get there in five minutes.
+Speaker1: Okay, I'll ride my bike over there and call you when I arrive.
+Speaker2: Okay, I'm waiting for you at the store. Be careful on the way.

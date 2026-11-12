@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What's up?
+Speaker1: I just placed an order for takeout at your store, why hasn't it been delivered yet?
+Speaker2: How long have you been placing orders?
+Speaker1: About half an hour.
+Speaker2: Hmm, let me check. Just a moment.
+Speaker1: Okay, thank you.
+Speaker2: I found it, your order has been delivered to the courier, there might be some traffic on the way.
+Speaker1: How long will it take to send it?
+Speaker2: According to the current road conditions, it will take approximately twenty minutes.
+Speaker1: Okay, I'll wait a moment. Thank you.
+Speaker2: No problem, feel free to contact me anytime if you have other issues.

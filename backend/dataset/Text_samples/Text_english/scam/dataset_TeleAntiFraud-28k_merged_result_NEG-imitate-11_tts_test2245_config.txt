@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the customer service center of Guangxing Bank, I am Li Ming, the customer service manager, please tell me if you are Zhang Wei?
+Speaker2: Yes, hello, what do you have?
+Speaker1: Have you noticed any problems with your credit card usage recently? There's a special discount available now that can help you solve those problems. Would you like to know more about it?
+Speaker2: Really? Can you help me solve what problem?
+Speaker1: We have a specialized credit card optimization service that can help you increase your credit limit, lower your interest rate, and even clear your bad records. If you're interested, I can give you a link, and you can follow the instructions after clicking it.
+Speaker2: Can you explain these operations in detail?
+Speaker1: Of course, this link will lead you to a safe page, you just need to fill out some basic information, and our professional team will provide you with one-on-one service.
+Speaker2: Is there a fee for this service?
+Speaker1: Completely free, this is our special service for long-term customers to show appreciation for their support. Just click the link, and we'll start processing.
+Speaker2: Okay, let me try.
+Speaker1: Great, here's the link [fake link], just click it and follow the instructions. If you have any questions, feel free to contact me anytime.

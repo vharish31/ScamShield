@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service representative of the community property management, and I want to confirm the water and electricity repair appointment situation with you.
+Speaker2: Okay, what's the water and electricity repair appointment time at my house?
+Speaker1: The repairman will come to check at 10 am tomorrow as per your previous appointment.
+Speaker2: Oh, I remember this time. The master will probably come with several people?
+Speaker1: In general, two masters come to the door, they bring all the necessary tools, to ensure that they can solve the problem in time.
+Speaker2: Okay, what else do I need to prepare?
+Speaker1: You don't need to prepare anything, master will bring all the necessary things. If convenient, you can pre-clean the repair areas beforehand.
+Speaker2: Okay, I will prepare in advance. If maintenance requires replacement of parts, how will the cost be calculated?
+Speaker1: If it's a small part, the cost will be very low, we will inform you of the specific cost beforehand; if it's a large item that needs to be replaced, we will first provide a quote, you confirm and then we proceed with the replacement.
+Speaker2: I understand, thank you for your detailed answer.

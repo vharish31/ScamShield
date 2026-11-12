@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm little king, want to consult your appointment service.
+Speaker2: Hello, little king, I am customer service little Zhang, what can I help you with?
+Speaker1: Can I schedule a car maintenance service for next Tuesday, is your place open on Saturday too?
+Speaker2: We are open on Saturday, but our appointment on Tuesday next week is quite full, what specific time are you coming?
+Speaker1: Can I go out at around 3 pm in the afternoon?
+Speaker2: Three o'clock is fine, I'll help you make an appointment. What's your license plate number?
+Speaker1: My license plate number is Beijing A12345, approximately the contents that need maintenance include changing the engine oil and checking the brake system.
+Speaker2: Okay, Jin A12345, we will be ready at 3 pm on next Tuesday afternoon. We need to change the engine oil and check the brake system. Are there any other special things we need to pay attention to?
+Speaker1: If you find any other issues during the check process, please call me in advance.
+Speaker2: No problem, we will contact you promptly. The appointment has been successful. Is there anything else we can help you with?
+Speaker1: No more, thank you for your help, goodbye.
+Speaker2: You're welcome, wish you a happy day, bye.

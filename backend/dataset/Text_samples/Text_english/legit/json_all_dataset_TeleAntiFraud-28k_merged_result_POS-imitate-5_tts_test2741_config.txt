@@ -1,0 +1,8 @@
+Speaker1: Hey, where are you?
+Speaker2: I'm at the mall entrance now, are you?
+Speaker1: I'm still on the subway, probably about ten minutes left.
+Speaker2: Okay, I'll wait for you at the door first.
+Speaker1: Okay, can you see the big billboard at the mall entrance? I'll be waiting for you there.
+Speaker2: I know the location of the billboards. You arrived to send me a message.
+Speaker1: Okay, I'll call you when I arrive. See you later.
+Speaker2: See you later.

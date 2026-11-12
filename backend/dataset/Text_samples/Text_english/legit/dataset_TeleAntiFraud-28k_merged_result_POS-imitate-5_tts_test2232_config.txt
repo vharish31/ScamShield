@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, you good?
+Speaker1: Hi, I'm little Li. Did you come to the store to check out the new phones?
+Speaker2: Oh, little Li, I just arrived at the parking lot, and haven't found your store's location yet.
+Speaker1: Okay, walk straight along the main road of the parking lot, turn right at the first crossroad, our store is on the right side, there's a big sign.
+Speaker2: Okay, I'll be there in about five minutes.
+Speaker1: No problem, I'm waiting for you here. Oh, which smartphone do you like?
+Speaker2: I want to see your new flagship machine, I heard its performance is very good.
+Speaker1: That phone is indeed very popular, the configuration is also very high, I will introduce it to you directly when you come.
+Speaker2: Thanks for your help, see you later.

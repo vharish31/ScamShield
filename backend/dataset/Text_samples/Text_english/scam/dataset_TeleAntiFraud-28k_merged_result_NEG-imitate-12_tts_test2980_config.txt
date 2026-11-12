@@ -1,0 +1,10 @@
+Speaker1: Hello, I am small Li, from Tianhai City Yintong Yinhang's customer service staff, have you recently applied for a loan online?
+Speaker2: Oh, really? I haven't applied for any loans yet.
+Speaker1: It's probably your friend who applied for the loan, we have a loan application of ten thousand yuan on our side, can you confirm it?
+Speaker2: That's impossible, I don't know anything about that.
+Speaker1: Okay, that might be a system error. But for your safety, I recommend you download our bank's official app to confirm your account security.
+Speaker2: Do you need to download the app?
+Speaker1: It is very important. This way, you can ensure that your personal information is not leaked, and you can also enjoy our bank's discount services.
+Speaker2: Okay, how do you download it?
+Speaker1: Okay, open your phone's app store, search for 'Yin Tong Yin Hang', download and install, then register and log in, and input the verification code, and you can view your account information.
+Speaker2: Okay, let me try.

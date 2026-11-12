@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I just arrived at your hospital door, how come you can't find the registration place?
+Speaker2: Hey, hello, are you at the hospital entrance? The registration desk is on the left side of the entrance, there's a clear registration sign.
+Speaker1: Ah, found it, thank you. Then I go directly to the department after hanging up?
+Speaker2: Okay, after you register, you can go to the corresponding department. The registration form will have detailed information about the department location and doctor information.
+Speaker1: Okay, how long do you think it will take?
+Speaker2: In general, there are more patients in the morning, so you may have to wait around 30 minutes. There are fewer patients in the afternoon, so the waiting time will be shorter.
+Speaker1: I understand, then I'll go register first. See you later.
+Speaker2: Okay, see you later, wish you a speedy recovery soon.

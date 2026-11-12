@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if this store has any new sports shoes?
+Speaker2: Yes, we just got a batch of new sports shoes with various styles and all colors. Which one do you want to know about?
+Speaker1: Do you have any lightweight running shoes?
+Speaker2: We have a special shoe for running, the sole is made of lightweight material, breathable, very suitable for running. You can try it on in the store.
+Speaker1: How much does this shoe cost?
+Speaker2: This shoe's active price is 399 yuan, now buy with 9 discount.
+Speaker1: That sounds good, I can go take a look. What's the address of your store?
+Speaker2: Our address is No. 1, Central Square, you can see our store about 500 meters east from the metro station when you walk out towards the east.
+Speaker1: Okay, I should arrive around three in the afternoon.
+Speaker2: Okay, we'll wait for you here at the time. I hope you like our product.

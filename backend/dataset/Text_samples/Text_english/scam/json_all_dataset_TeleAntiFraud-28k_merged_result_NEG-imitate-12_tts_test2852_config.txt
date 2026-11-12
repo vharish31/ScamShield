@@ -1,0 +1,10 @@
+Speaker1: Hello, you are welcome to the Agricultural Bank of China, Tianhe Branch, I am the customer manager, Li Xiaoyu.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we noticed some unusual activity on your account recently, for your financial safety, we need you to cooperate and do some confirmation.
+Speaker2: Uh, what do I need to do?
+Speaker1: Please log in to our bank's official app and follow the instructions to confirm your identity information.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Thank you very much for your cooperation. Please complete the identity verification as soon as possible after downloading. If you have any questions, please feel free to contact me at any time.
+Speaker2: Okay, I understand.
+Speaker1: Got it, if you have any questions, you can add my WeChat, my WeChat number is 13800000000, I will answer you anytime.
+Speaker2: Okay, thank you.

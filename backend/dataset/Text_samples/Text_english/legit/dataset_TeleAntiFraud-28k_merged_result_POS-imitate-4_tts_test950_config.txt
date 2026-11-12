@@ -1,0 +1,12 @@
+Speaker1: Hi, hello, I'm the person who called you yesterday, I want to consult your home service today.
+Speaker2: Hello, I am a customer service representative for home services, what can I help you with?
+Speaker1: Can you tell me more about your cleaning service, specifically how you charge?
+Speaker2: Our cleaning service is charged by the hour, fifty yuan per hour, and if it exceeds three hours, the excess is forty yuan per hour.
+Speaker1: If it's a one-time big cleaning, will the price be discounted a bit?
+Speaker2: If it's a big cleaning, we'll evaluate based on the actual situation and give a reasonable quote. You can schedule a time, our workmen will come to evaluate.
+Speaker1: Sure, can I schedule an appraisal for tomorrow morning at 10am?
+Speaker2: Okay, tomorrow at 10 am, we will send workers to the location. Please provide an address to ensure timely arrival.
+Speaker1: The address is Happiness Villa 108, don't forget to bring your tools.
+Speaker2: Okay, happy community 108, we will arrive on time. Is there anything we need to prepare in advance?
+Speaker1: There's nothing special to prepare, mainly the living room and bedroom need to be cleaned.
+Speaker2: Understood, then we'll meet tomorrow.

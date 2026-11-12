@@ -1,0 +1,12 @@
+Speaker1: Hello, are you the small Wang fruit store?
+Speaker2: Hello, this is Xiao Wang's fruit store. What can I help you with?
+Speaker1: Can you tell me about your car parts, do you have any goods now?
+Speaker2: Yes, our car is very fresh, just arrived goods.
+Speaker1: What is the price?
+Speaker2: A car license plate now costs one hundred and twenty yuan per kilogram.
+Speaker1: Can I send ten kilograms home?
+Speaker2: Of course, we provide delivery service, where is your home address?
+Speaker1: What time will I be able to move into the Happy Community?
+Speaker2: Do you know if I can deliver your package at around 3 pm this afternoon?
+Speaker1: Okay, I'll wait for your goods, thank you.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy life, goodbye.

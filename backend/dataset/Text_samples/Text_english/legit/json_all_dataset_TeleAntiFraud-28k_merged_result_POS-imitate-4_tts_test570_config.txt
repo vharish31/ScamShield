@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you guys still have a place nearby?
+Speaker2: Okay, we have a few places here, how about you come around 5 o'clock?
+Speaker1: Can I come in about half an hour?
+Speaker2: Okay, I'll be here in half an hour.
+Speaker1: Okay, I want to reserve two seats.
+Speaker2: Okay, two seats have been reserved for you.
+Speaker1: Is there a parking lot here?
+Speaker2: Yes, the parking lot is right behind the restaurant, you can park there directly when you come in.
+Speaker1: Okay, thank you.
+Speaker2: No problem, wait for you, be careful on the road.

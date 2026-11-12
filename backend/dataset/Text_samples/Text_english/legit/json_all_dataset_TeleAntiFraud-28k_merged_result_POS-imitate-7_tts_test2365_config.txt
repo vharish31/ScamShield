@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm the guy with the last digit of 0024. My address here is a bit changing, can you come over for a sec?
+Speaker2: Okay, is it the East Gate you're talking about?
+Speaker1: Okay, but after you arrive, you must walk to the right continuously until you reach the end, there's a small door to enter from there.
+Speaker2: Can you see my location? Are you at apartment 42?
+Speaker1: Yes, apartment 4207, location sometimes isn't accurate, you arrived at the communication center now.
+Speaker2: Okay, I'll probably need fifteen minutes, you wait for me on the road.
+Speaker1: Okay, the road is a bit far, can you directly enter the community from the road?
+Speaker2: No entry allowed in the community at will, you can still come out and wait for me, this way is faster.
+Speaker1: Okay, I'll go out and wait for you, call me when you arrive.
+Speaker2: Okay, see you later!

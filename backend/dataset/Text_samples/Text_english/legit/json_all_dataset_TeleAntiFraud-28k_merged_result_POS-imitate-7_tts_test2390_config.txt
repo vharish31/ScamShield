@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I see you have a housekeeping service, want to know more about it?
+Speaker2: Okay, we provide clean, moving, taking care of the elderly, etc. services. What specific service do you need?
+Speaker1: I want to find a nanny to help clean and disinfect, how many times would it take about a month?
+Speaker2: We usually recommend once a week, but you can also adjust it based on your actual needs.
+Speaker1: How do you calculate the price?
+Speaker2: Each cleaning service is 200 yuan, if it's a monthly package, there's a discount per month.
+Speaker1: Okay, can I make a reservation for a later time? When can I start?
+Speaker2: Can we start the earliest tomorrow? Is the time convenient for you?
+Speaker1: Tomorrow is okay, then how do I pay?
+Speaker2: You can pay through Wechat or Alipay, or choose cash on delivery.
+Speaker1: Okay, I'll transfer money to you via WeChat at the specified time, thank you.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, wish you a happy life.

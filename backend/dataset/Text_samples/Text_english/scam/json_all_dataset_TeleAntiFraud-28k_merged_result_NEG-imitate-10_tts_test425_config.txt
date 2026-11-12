@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li Xiaojie?
+Speaker2: Yes, what do you have?
+Speaker1: I am an AliCloud customer service representative. We noticed that you may have encountered some issues with your account during your recent shopping. We need to handle it.
+Speaker2: Really? I recently discovered some issues with certain orders.
+Speaker1: Yes, to ensure your rights, we need you to cooperate with a simple verification. You can click this link, then follow the instructions.
+Speaker2: How do I know this link is safe?
+Speaker1: Don't worry, we are official customer service, and the link has been verified. You can click on the link first to check it out, and if you have any questions, feel free to contact me anytime.
+Speaker2: Okay, let me try.
+Speaker1: Okay, thank you for your cooperation. If you encounter any issues during the operation, remember to come back to me.
+Speaker2: Thanks.

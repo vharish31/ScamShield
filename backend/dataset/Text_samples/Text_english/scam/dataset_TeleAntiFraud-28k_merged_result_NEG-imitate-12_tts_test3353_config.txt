@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Mr. Zhang?
+Speaker2: Yes, who are you?
+Speaker1: I am the customer manager of the Commercial Bank, Lee Huai. We noticed that there have been large-scale financial transactions in your account recently. Do you have any needs for financial management?
+Speaker2: Uh, haven't considered it yet.
+Speaker1: Understood, Mr. Zhang, we recently launched a high-yield investment financial product with a yearly return rate of up to 10%, are you interested in learning more?
+Speaker2: This sounds good, but I don't understand these well.
+Speaker1: No problem, Mr. Zhang, this product is very simple, you just need to click on the link I sent you and fill out the basic information to get the investment qualification.
+Speaker2: Okay, let me try it out.
+Speaker1: Okay, I'll send you the link now, Mr. Zhang, please pay attention to check the SMS.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you have any questions during the operation process, please feel free to contact me at any time. Mr. Zhang, your financial safety is our top priority, so please feel confident to invest.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Hey, that's right, you previously booked a household service on our website and want to confirm the specific time and address.
+Speaker2: Okay, I have reserved a cleaning service, the time is this Saturday morning at 10 am, the address is Tian An Community Three Number Building One Unit.
+Speaker1: Okay, we have recorded it down. Do you need us to provide any special cleaning supplies?
+Speaker2: No need, I can do it myself. But, my cat at home needs to be cleaned carefully.
+Speaker1: Understood, we will pay special attention to it. If there are any issues, we will contact you in advance.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome. We hope to provide you with satisfactory service. If you have other needs, please contact us anytime.
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye, wish you have a nice day.

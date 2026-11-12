@@ -1,0 +1,12 @@
+Speaker1: Hello, are you the property management of the community?
+Speaker2: Hello, this is the community management, how can I help you?
+Speaker1: Can you tell me how the parking spots in our community are charged?
+Speaker2: Hey, the parking spots in our community, the monthly rent is three hundred yuan, and the temporary parking is five yuan per hour.
+Speaker1: Uh, if I rent for a month, can I come and go as I please?
+Speaker2: Okay, you can rent a parking spot for a month, which will be your designated parking spot, and you can come and go as you please.
+Speaker1: Okay, if I don't stay, can I leave?
+Speaker2: You can leave, but you need to inform us three days in advance, and we will deduct a certain handling fee.
+Speaker1: Understood, can I spend this weekend watching, okay?
+Speaker2: Of course, there are people at the weekend, you can come directly.
+Speaker1: Okay, thank you, see you this weekend.
+Speaker2: No problem, see you this weekend, wish you have a nice day.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Can I inquire about the hairdressing service on your side, when can I make a reservation?
+Speaker2: Hello, our hairdressing time slots are quite flexible, could you tell me roughly which time slot you want to book, I'll check for you.
+Speaker1: Can I see the schedule for tomorrow afternoon at three o'clock?
+Speaker2: Tomorrow at three in the afternoon is fine, this time slot is still relatively free, you can come at this time.
+Speaker1: Okay, I'll come over at three in the afternoon tomorrow.
+Speaker2: Okay, tomorrow afternoon at three o'clock we'll be waiting for you at the store. Remember to bring your ID, because we need to register here.
+Speaker1: Okay, I understand, thank you.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, wish you a happy day.

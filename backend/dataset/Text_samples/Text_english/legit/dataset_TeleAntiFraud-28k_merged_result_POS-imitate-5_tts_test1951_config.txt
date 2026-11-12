@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at the subway station, not quite clear how to walk.
+Speaker2: Hello, which exit are you at?
+Speaker1: I am at the second exit, but it looks different from the map.
+Speaker2: Hey, after exiting through the second exit, walk about 100 meters and you'll see a big billboard, then turn right.
+Speaker1: Okay, I know, then turn right?
+Speaker2: Turn right after that and walk about 200 meters, you will see a red building, that's our destination.
+Speaker1: The red building, okay, I think I understand now, thank you for your guidance.
+Speaker2: No problem, if there are any unclear parts, please contact me anytime.
+Speaker1: Okay, I will, thank you again, goodbye.
+Speaker2: Goodbye, be careful on the road.

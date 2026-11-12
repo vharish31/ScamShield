@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little Li, have you been looking for rental housing information lately?
+Speaker2: Hello, yes, I recently have this requirement.
+Speaker1: That's great, I have a two-bedroom apartment in the city garden, located near the metro station, is it suitable for you?
+Speaker2: City garden, I went there before, the environment is good. How much is the rent?
+Speaker1: Rent is 3,000 yuan per month, deposit is one month, and all utilities are included.
+Speaker2: Can I go take a look?
+Speaker1: Of course, when is it convenient for you?
+Speaker2: Can I have some free time on the weekend afternoon?
+Speaker1: Weekend afternoon is fine, I will send you the specific address later, you can contact me directly when you arrive.
+Speaker2: Okay, thank you, see you this weekend.
+Speaker1: No problem, see you this weekend, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, can you hear me? Hi, I'm the customer service of the food square, you ordered a four-person table for tonight at seven o'clock, do you remember?
+Speaker2: Oh, I remember now, hello, yes, I booked it.
+Speaker1: Okay, can you confirm if you need to keep this reservation? Because if it's over the scheduled time by fifteen minutes, we need to reschedule.
+Speaker2: Can we arrive a little late, around 7:30 or so, okay?
+Speaker1: Okay, 7:30 we'll hold the reservation for you. But please be on time, because other customers are waiting.
+Speaker2: Okay, we'll try to be on time. Also, do you have any children's chairs at your place?
+Speaker1: Yes, we have prepared children's chairs and children's utensils for your child. You can rest assured to bring your child.
+Speaker2: Great, thank you. What do you recommend for seafood dishes?
+Speaker1: Our menu here has fresh steamed sea bass and ginger-fried shrimp, both made with fresh ingredients, very popular.
+Speaker2: Sounds great, let's try these two when we get there. Thank you for your advice.

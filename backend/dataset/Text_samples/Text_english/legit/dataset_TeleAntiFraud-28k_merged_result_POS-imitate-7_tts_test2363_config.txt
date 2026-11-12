@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, can you hear me?
+Speaker2: Hello, little Li, can you hear, what do you have any events?
+Speaker1: I just checked your website for rental housing information, and I want to know more about the specifics.
+Speaker2: Okay, what specific information are you looking for?
+Speaker1: Can you tell me what's included in the rent and the specific location of the house?
+Speaker2: The monthly rent is 700 yuan, not including water, electricity, and gas fees. The location is near the city center, and transportation is convenient.
+Speaker1: How do you calculate the cost of warm air?
+Speaker2: Heating costs are calculated based on square meters, with three yuan per square meter per month.
+Speaker1: Oh, I understand. Is there any discount for long-term rental?
+Speaker2: If you sign a contract for one year or more, you can enjoy a one-month discount.

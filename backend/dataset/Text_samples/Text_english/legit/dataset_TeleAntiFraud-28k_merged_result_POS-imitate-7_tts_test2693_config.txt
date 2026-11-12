@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am Xiao Lin, you previously booked a household service on our website, now you want to confirm the time, do you have time tomorrow afternoon?
+Speaker2: Hey, what time is it tomorrow afternoon?
+Speaker1: Okay, we can arrange from 3 to 5 pm, can you see?
+Speaker2: Okay, I'll wait at home later.
+Speaker1: Okay, I'll confirm it for you. Yes, do you need us to bring cleaning tools over or are you ready yourself?
+Speaker2: You guys can take me there best, I won't prepare anymore on this side.
+Speaker1: Okay, we will prepare all the tools and start working immediately after. Are there any other things that need special attention?
+Speaker2: No more, just follow the standard and clean up, thank you.
+Speaker1: Okay, you can relax, we will complete on time and on quality. See you tomorrow.
+Speaker2: Okay, see you tomorrow.

@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: I am the customer service at the food square, you ordered food from us before, and you want to check in today, are you satisfied with the service you received last time?
+Speaker2: Great, thank you.
+Speaker1: Great, we have a new dish here, do you want to know more about it?
+Speaker2: Sure, tell me to see.
+Speaker1: This set meal includes one signature dish, one dessert, and one drink, priced at only 60 yuan.
+Speaker2: That sounds good, I've been pretty busy lately with work, do you guys deliver food?
+Speaker1: Of course, we cooperate with many delivery platforms, you can directly order our restaurant on the platform.
+Speaker2: Okay, thank you for your recommendation, I will consider it.
+Speaker1: No problem, if you have any other requirements or issues, feel free to contact me anytime. Wish you a successful work and a happy life. Goodbye.
+Speaker2: Thank you, goodbye.

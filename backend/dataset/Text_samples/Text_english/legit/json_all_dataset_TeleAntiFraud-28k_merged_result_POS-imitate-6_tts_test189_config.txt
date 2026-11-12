@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have any recommendations for takeout here?
+Speaker2: Of course, we have several popular choices here, such as spicy hot pot, beef noodle soup and grilled skewers, which one do you like?
+Speaker1: What is the content of your grilled skewers?
+Speaker2: The skewered meat, chicken wings, mushrooms, and sweet and spicy, also includes a small dish of vegetables and a bowl of soup, very suitable for one person to enjoy.
+Speaker1: How much does it cost to sound good?
+Speaker2: The price of the skewered dishes is 35 yuan, there's a discount now.
+Speaker1: Okay, I'll take this one. How long will you be able to send it?
+Speaker2: We will deliver within thirty minutes after ordering. Please provide an address and phone number for us to contact you.
+Speaker1: Okay, the address is Xiàngfú xiǎojīng èr niǎo lóu sān dān yī, diànhuā is yī shēng bāo yī, yīnhuā shì yī shēng bāo yī.
+Speaker2: Okay, we have recorded your order and will send it to you as soon as possible. Do you need any further assistance?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, hope you enjoy your meal, bye!

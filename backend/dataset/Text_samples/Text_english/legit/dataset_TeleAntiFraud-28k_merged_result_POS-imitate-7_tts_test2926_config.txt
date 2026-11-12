@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I see you guys have an electric repair service online, right?
+Speaker2: We provide home appliance repair services.
+Speaker1: Can you provide door-to-door service?
+Speaker2: Of course, we provide on-site repair services.
+Speaker1: Okay, does your service range include the city and the recreation area?
+Speaker2: Our service coverage includes the entire city, including the entertainment district.
+Speaker1: I have a broken washing machine here, it might be a problem with the power line, can you guys come take a look?
+Speaker2: Okay, you can tell me your address, we will arrange a technician to come check it out soon.
+Speaker1: Okay, I live in Yánggōng xiǎojī, sānzhù lóu liǎngyī, èr dàn yī xīngyìng sì xiàng yī rèng.
+Speaker2: Okay, I noted it down. We expect our tech team to arrive around 10 am tomorrow morning.
+Speaker1: Okay, thank you. I'll wait at home then.
+Speaker2: You're welcome. Feel free to contact us anytime if you have any questions. Have a happy life.

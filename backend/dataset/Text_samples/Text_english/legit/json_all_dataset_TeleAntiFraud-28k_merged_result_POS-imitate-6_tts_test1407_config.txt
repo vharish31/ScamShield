@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at your doorstep.
+Speaker2: Okay, I'll come down right away.
+Speaker1: Okay, come down now, I'm waiting for you here.
+Speaker2: I see you, put things here.
+Speaker1: Okay, this thing is a bit heavy, do you want to help me carry it?
+Speaker2: No problem, I'll come by myself, just put the things on the ground.
+Speaker1: Be careful, pay attention to safety.
+Speaker2: Okay, thank you.
+Speaker1: No thanks, I'll go first.
+Speaker2: Okay, let's walk slowly.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Hello, do you have any restaurant recommendations for two people here?
+Speaker2: Of course, what kind of cuisine do you want to eat? For example, Sichuan, Cantonese or Western?
+Speaker1: We want to eat Sichuan cuisine, we like the spicy kind.
+Speaker2: Okay, I recommend you guys go to 'Laofu', the environment and service there are both great, and the Sichuan cuisine is very authentic.
+Speaker1: Does your company have a phone reservation service?
+Speaker2: Yes, you can directly call the restaurant reservation hotline, which is 010-12345678, and they will help you arrange a seat.
+Speaker1: Okay, thank you. What time do I need to reserve a seat for six o'clock and a half?
+Speaker2: It's safer to book two hours in advance.
+Speaker1: Okay, thank you for your advice, see you later.
+Speaker2: No problem, see you tonight, wish you enjoy your dinner.

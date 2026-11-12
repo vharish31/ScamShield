@@ -1,0 +1,11 @@
+Speaker1: Hello, you good, here is Taobao customer service center, I is customer service specialist Li.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we detected that the products you recently purchased may have quality issues, to protect your rights, we can now provide you with a refund service.
+Speaker2: Really? That's great, I'm just about to contact you now.
+Speaker1: Yes, for convenience in processing, we need you to provide your bank card information used during purchase so we can quickly issue a refund.
+Speaker2: Okay, what do I need to do?
+Speaker1: You can click this link to fill out the relevant information, and we will process your refund quickly.
+Speaker2: Is this link safe?
+Speaker1: Very safe, this is our official handling page, you can rest assured to use it.
+Speaker2: Then I'll try to see.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact me anytime. Have a nice life, bye.

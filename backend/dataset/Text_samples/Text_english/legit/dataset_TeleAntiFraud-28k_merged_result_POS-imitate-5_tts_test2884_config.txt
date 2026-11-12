@@ -1,0 +1,10 @@
+Speaker1: Hello, I saw on the internet that you have new sports shoes, I want to consult.
+Speaker2: Hello, I'm very happy to serve you. Which running shoe information do you want to know?
+Speaker1: Is that red one available in stock?
+Speaker2: The red one is currently in stock, priced at 399 yuan, sizes 38 to 43 are available.
+Speaker1: If I buy it, can I return it within seven days without any reason?
+Speaker2: Yes, we support seven-day no-reason return, as long as the product remains original, it won't affect secondary sales.
+Speaker1: Okay, when can I go to your store and where is it located?
+Speaker2: Our store is on the first floor of Tianxing Square in the city center. You can take the metro line 2 from Tianxing Station and walk five hundred meters after getting off to reach us.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult anytime. Have a nice day!

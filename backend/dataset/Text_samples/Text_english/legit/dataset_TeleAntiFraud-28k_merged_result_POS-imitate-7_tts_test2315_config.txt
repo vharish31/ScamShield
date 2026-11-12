@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, hello, I'll find one of your waiters
+Speaker1: Okay, wait a minute, do you have anything?
+Speaker2: I just ordered a beef stir-fry here, but now I found a hair in it.
+Speaker1: Oh, I'm so sorry, I'll help you handle this issue right away
+Speaker2: Thank you, and what are your business hours?
+Speaker1: Our business hours are from 10 am to 10 pm all year round.
+Speaker2: Okay, do you guys provide packaging services?
+Speaker1: Yes, we provide packaging service. If you need it, just tell the server.
+Speaker2: I know, thank you for your help, I hope your service can be better
+Speaker1: We will make efforts to improve again, and we apologize for your inconvenience once again, thank you for your feedback.

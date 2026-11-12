@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I'm the delivery guy, your food is here, could you please come out for a sec, I'm right outside this building, but there are a few entrances here, not sure which one is correct.
+Speaker2: Okay, I'll go out right away.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: I came out, didn't see you.
+Speaker1: Uh, I'm over here, I might have gone a little wrong, can you walk a little to the left?
+Speaker2: Okay, I went over there.
+Speaker1: Can you see the streetlights over there? I'm standing next to them.
+Speaker2: I see, so I'll come over here.
+Speaker1: Okay, I'll wait for you.
+Speaker2: Here, give me the food, thank you.
+Speaker1: Okay, here's your meal, enjoy your meal.

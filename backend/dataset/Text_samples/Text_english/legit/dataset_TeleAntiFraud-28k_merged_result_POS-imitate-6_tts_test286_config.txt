@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service at the small beauty store. We have a new discounted wind jacket in stock recently. Do you have any interest?
+Speaker2: Hello, I'm not very convenient right now, do you have any special colors in your store?
+Speaker1: This jacket has classic black and fashionable military green, and is very suitable for autumn wear. You can take a look.
+Speaker2: Is all sizes available for this green and military-style jacket?
+Speaker1: Our store has stock of green military-style jackets in sizes S to XL. You can choose based on your needs.
+Speaker2: What is the price of this wind jacket?
+Speaker1: The original price was five hundred ninety-nine yuan, now it's on sale for seven yuan off, so it's only four hundred and eighteen yuan now.
+Speaker2: Can I place an order now for 419 yuan three-sided?
+Speaker1: Of course, you can place an order directly on our official website, or you can tell me your address and contact information, and I can help you place an order.
+Speaker2: Okay, I'll give you my information, you help me place an order.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? This is the world of flowers, I am customer service flower, want to consult your opinion.
+Speaker2: Hello, what can I help you with?
+Speaker1: Have you decided to buy any plants from our website recently?
+Speaker2: Not yet, still considering.
+Speaker1: Hey, that's great! We have some activities lately, buy any three plants and get an 80% discount, plus free shipping.
+Speaker2: Really? That's good. I'll take a look and see what's suitable.
+Speaker1: Okay, what plants can you directly tell me, I can help you query the inventory.
+Speaker2: I want to see the blue hyacinths and the purple roses.
+Speaker1: Okay, let me check. Hmm, both of these plants are in stock, do you want to buy them together?
+Speaker2: Yes, I want to buy these two pots.
+Speaker1: Okay, I'll place an order for you. Since it's during the promotion period, we'll arrange for shipping as soon as possible, usually within three to five days.
+Speaker2: Okay, thank you for your help.

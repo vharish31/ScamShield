@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I'm little Zhang, want to know your service time
+Speaker2: Hello, our service time is from 8am to 8pm. What can we help you with?
+Speaker1: Can I make an appointment for tomorrow afternoon at 2 PM for a haircut?
+Speaker2: Sure, I can help you book a spot at 2 PM tomorrow afternoon. Do you need to provide any personal information?
+Speaker1: Okay, my name is Zhang San, phone number is 13800000000.
+Speaker2: Okay, Mr. Zhang Three, I have successfully reserved, tomorrow afternoon two o'clock, please remember to be on time.
+Speaker1: Okay, thank you. Got it, where is your store?
+Speaker2: Our store is located on the third floor of the Sunlight Building, which faces the city center square, and is convenient for transportation.
+Speaker1: That's great, I'll arrive on time tomorrow. Moreover, I want a short haircut, not too long.
+Speaker2: Okay, I will explain your requirements to the hairdresser and make sure you are satisfied. See you tomorrow.
+Speaker1: Okay, see you tomorrow, thank you.

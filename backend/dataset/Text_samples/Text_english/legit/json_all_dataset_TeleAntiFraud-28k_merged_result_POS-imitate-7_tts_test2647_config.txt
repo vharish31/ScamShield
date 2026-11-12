@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I'm at the airport, how can I not find the rental car's location?
+Speaker2: Hello, Xiaoming, the car rental place is at the airport exit to the right, the second door, have you seen it?
+Speaker1: I see, I see, but there are many counters there, I don't know which one is yours.
+Speaker2: Look for the blue color sign that says "快租" on our counter.
+Speaker1: Ah, found it, found it, thank you.
+Speaker2: No problem, do you need any help?
+Speaker1: I want to rent a small car for one day today.
+Speaker2: Okay, do you have a driver's license? Please provide your ID and credit card.
+Speaker1: Everything is here.
+Speaker2: Okay, please sign here, this is your car key, wish you enjoy driving, be careful.

@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little Li, do you have any new hot pot dishes here?
+Speaker2: Hello, yes, we recently introduced a new flavor for hot pot set, are you interested?
+Speaker1: That sounds interesting, can you introduce me to it?
+Speaker2: Of course, this time our main dish is tomato sauce, and we have spicy and clear soup as two options, all ingredients are carefully selected, you can choose according to your taste.
+Speaker1: How much does it cost to sound good?
+Speaker2: The eighty-yuan set meal on the bottom of the pot includes one portion of the bottom and six kinds of selected ingredients, the seventy-yuan set meal with spicy and clear soup includes.
+Speaker1: Okay, I want to order a spicy set menu, when can I come to eat?
+Speaker2: What time would you come during our business hours, which are from 11 am to 9 pm?
+Speaker1: Can I come at around seven in the evening?
+Speaker2: Of course, I will reserve a spot for you, see you later!
+Speaker1: Okay, thank you, see you later!

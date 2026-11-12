@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, can I consult taxi service here?
+Speaker1: Okay, where do you want to go?
+Speaker2: How long does it take to get from the train station to the hotel in the city center?
+Speaker1: It takes about 30 minutes to walk from the train station to the hotel in the city center. If the road is good, it might be a little faster.
+Speaker2: Okay, how much money do we need?
+Speaker1: The cost will vary depending on the car type. A standard car is around 50 yuan, while a comfortable car may be around 65 yuan.
+Speaker2: I want to be comfortable, so let's choose the comfortable type.
+Speaker1: Okay, I'll book a comfortable car for you. Where are you exiting the train station now?
+Speaker2: Can I get there in about five minutes from the north exit?
+Speaker1: The driver should arrive in about ten minutes. Remember the car plate number to avoid getting lost.
+Speaker2: Okay, thank you, see you later.

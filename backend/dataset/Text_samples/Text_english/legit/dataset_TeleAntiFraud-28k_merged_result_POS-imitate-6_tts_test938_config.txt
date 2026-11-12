@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I want to consult your repair service
+Speaker1: Okay, what do you need to repair?
+Speaker2: Can you send someone to check my washing machine at home? It seems to be broken.
+Speaker1: Sure, can you schedule a time for us to come over and check on the teacher?
+Speaker2: Okay, can we meet at around 10 am tomorrow morning?
+Speaker1: Sure, I'll book a meeting for tomorrow morning at 10am. The teacher will arrive on time.
+Speaker2: Okay, thank you. And what is the approximate cost of maintenance fees?
+Speaker1: The repair cost will be determined by the master after on-site inspection, but we have a clear fee standard, and we won't charge any extra fees.
+Speaker2: Okay, I understand, so please bother me now.
+Speaker1: No problem, this is our work. If you have other issues, please feel free to consult anytime. See you tomorrow!
+Speaker2: Okay, see you tomorrow. Thank you, goodbye!

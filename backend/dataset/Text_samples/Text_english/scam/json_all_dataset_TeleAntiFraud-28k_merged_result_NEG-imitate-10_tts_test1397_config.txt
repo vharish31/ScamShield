@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of Agricultural and Commercial Bank, and I am calling to understand your financial needs.
+Speaker2: Hello, I'm doing well financially, no special needs.
+Speaker1: I understand. However, our bank has a particularly good loan project recently, with a very low interest rate, and the procedures are simple, the approval is fast, and it is very suitable for your small enterprise.
+Speaker2: Yeah, I have some plans to expand my business recently. Can you tell me more about it?
+Speaker1: Of course, this project is specifically designed for small microenterprises. As long as you provide some basic enterprise information, we can provide you with the highest loan amount of one hundred thousand yuan, and there is currently an additional interest rate discount for applying.
+Speaker2: How do I apply? It sounds good.
+Speaker1: It's very simple. Just click on the links we provide, fill out some basic information, and our customer manager will quickly contact you to complete the rest of the application process.
+Speaker2: How do I get this link?
+Speaker1: I'll send you a link via text message right away. Just click on it after you receive it to start applying. Feel free to contact me if you have any questions.
+Speaker2: Okay, thank you, I will pay attention to checking my messages.

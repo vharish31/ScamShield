@@ -1,0 +1,9 @@
+Speaker2: Hello!
+Speaker1: Hello, I am Lee, the wealth management advisor at the construction bank. We recently launched a high-yield investment product. Would you be interested in learning more about it?
+Speaker2: Invest? How about safety?
+Speaker1: Extremely safe, this product is directly managed by our bank, with stable returns and a guarantee of the principal, all you need to do is download our bank's official app, register and you can view detailed information.
+Speaker2: How do I download this app?
+Speaker1: Very simple, I can send you the download link via text message, you just need to click on the link to download directly, very convenient.
+Speaker2: Okay, can you send me a short message?
+Speaker1: Okay, I'll send it over now. Just make sure to check the message and click the link to download once you receive it. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you.

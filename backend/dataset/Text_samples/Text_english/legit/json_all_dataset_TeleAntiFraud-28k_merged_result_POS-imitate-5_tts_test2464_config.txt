@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there? I'm at the bridge. Can you see me?
+Speaker2: Hey, hello, can I see the bridge, is there a tea shop nearby?
+Speaker1: Okay, okay, I am here, you walk from this side to the right, then you will see an iron door.
+Speaker2: Okay, can you see if the iron gate is open?
+Speaker1: Yes, the iron door has no lock, you can directly enter just fine.
+Speaker2: Okay, I came in, then what?
+Speaker1: After you come in, you will see number 86, the elevator is there, just take it up.
+Speaker2: Okay, I saw it, there's a sign on the staircase door that says eighty-six, I went up.
+Speaker1: Okay, you can start now, I'll wait for you upstairs.
+Speaker2: Okay, I'll be there soon.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Do you have any new phone recommendations on that side?
+Speaker2: Of course, which brand of phone do you want?
+Speaker1: It's best if it has a high price-to-value ratio and a wide range of functions.
+Speaker2: We have a new high-configured phone with a reasonable price. You may consider it.
+Speaker1: How long does the battery of this phone last?
+Speaker2: This phone's battery capacity is 4000mAh, and it's enough for a whole day of normal use.
+Speaker1: I recently decided to change my phone.
+Speaker2: You can come to our store and experience it in person.
+Speaker1: Okay, I have some free time this weekend to check it out. Thank you for your recommendation.
+Speaker2: No problem, I'm looking forward to your arrival. Wish you a happy weekend.

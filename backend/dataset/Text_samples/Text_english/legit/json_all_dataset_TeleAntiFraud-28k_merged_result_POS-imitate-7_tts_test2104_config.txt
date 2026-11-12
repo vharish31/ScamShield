@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a smart TV for my home, do you have any good recommendations here?
+Speaker2: Hello little Ming, we have many smart TVs here. Firstly, may I know your budget roughly? Also, do you have any specific requirements for brand and size?
+Speaker1: My budget is roughly between three thousand and four thousand, I prefer small mi and huawei brands, and I hope the size is about fifty inches left and right.
+Speaker2: Okay, based on your needs, we have a smallmi TV here, priced at 3500 yuan, 50 inches, and supports multiple intelligent functions, making it perfect for family use.
+Speaker1: How is the picture quality of this TV?
+Speaker2: This TV uses high-definition liquid crystal screens, the picture quality is extremely clear, the color reproduction is high, and the viewing experience is very good.
+Speaker1: How is the after-sales service? Can you provide on-site service if there are any issues?
+Speaker2: We provide a one-year warranty service. If any problem occurs during use, please contact us at any time, and we will provide on-site repair or replacement service based on the situation.
+Speaker1: Okay, I'll decide to buy this one. How do you pay on your side?
+Speaker2: You can choose online payment or cash on delivery. If you choose online payment, we support payment via Alipay, Wechat and bank card here.

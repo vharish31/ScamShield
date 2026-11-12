@@ -1,0 +1,10 @@
+Speaker1: Hey, are you small Li fixing cars?
+Speaker2: Hello, yes, this is Xiao Li's car repair shop, what can I help you with?
+Speaker1: Can you help my friend reinstall the car's GPS recorder? The last time he checked, the rearview camera image wasn't connected properly.
+Speaker2: Of course, in this situation we can provide a free reinstallation.
+Speaker1: Is that okay? Can he go over there right away?
+Speaker2: Sure, but we might need to wait a little bit longer, there are a few customers waiting here.
+Speaker1: How long do we need to wait?
+Speaker2: It might take around an hour or so, if possible, it's recommended to call and confirm beforehand.
+Speaker1: Okay, let me confirm first, if possible, we just go directly. Thank you!
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wishing you a happy day!

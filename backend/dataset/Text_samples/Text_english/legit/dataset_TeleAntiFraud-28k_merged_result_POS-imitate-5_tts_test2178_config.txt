@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, can you make an appointment for a haircut here?
+Speaker2: Can I help you schedule a time?
+Speaker1: Is three o'clock in the afternoon okay for this weekend?
+Speaker2: Is this your first time here?
+Speaker1: Yes, it's my first time here.
+Speaker2: Okay, first-time clients at our salon can enjoy a 90% discount.
+Speaker1: Is there any laundry service here?
+Speaker2: Yes, our hairdressing service includes washing and conditioning. If you need additional hair care products, we have many brands to choose from here.
+Speaker1: Okay, I'll come over at 3 pm on Saturday afternoon.
+Speaker2: Okay, Saturday afternoon at three o'clock, we will be ready for you. We are looking forward to your arrival.

@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Hey, are you walking the wrong direction at the Longxing City Government Office?
+Speaker2: Your location shows you are at the bottom of Tianqiao, I am here according to positioning.
+Speaker1: Okay, like this, then you turn left at the first crossroad from your current position.
+Speaker2: Okay, I'll turn left after turning the head.
+Speaker1: Okay, just walk straight and you'll see the building of my lifetime, I'm on the second floor of the building, waiting for you.
+Speaker2: Can you tell me how long it will take to get to the building in my lifetime?
+Speaker1: Okay, take about five minutes. Be careful on the road.
+Speaker2: Okay, thank you, see you soon.

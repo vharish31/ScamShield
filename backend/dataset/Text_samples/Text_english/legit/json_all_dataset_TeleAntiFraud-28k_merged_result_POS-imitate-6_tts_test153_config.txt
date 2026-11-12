@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to consult your car hailing service.
+Speaker2: Hello, I am a customer service representative. What can I help you with?
+Speaker1: Can you tell me about your car models and how the prices are calculated?
+Speaker2: We have three types of cars: economic, comfortable, and luxury. The economic type starts at 10 yuan, adds 2 yuan per kilometer; the comfortable type starts at 12 yuan, adds 2.5 yuan per kilometer; and the luxury type starts at 15 yuan, adds 3 yuan per kilometer.
+Speaker1: If I want to book a comfortable car, when can I arrive?
+Speaker2: Please provide me with your specific location and appointment time, we will do our best to arrange a car to arrive within fifteen minutes.
+Speaker1: Okay, I'm currently at home, address is Happiness Road 100, can you arrange it quickly?
+Speaker2: Okay, I will arrange it immediately. We expect a vehicle to arrive within fifteen minutes, please pay attention to the phone, the driver may contact you to confirm the location.
+Speaker1: Okay, thank you. If I have a special situation and need to cancel the order, how many days do I need to notify you in advance?
+Speaker2: If you need to cancel an order, please notify us at least 10 minutes in advance to avoid unnecessary costs.

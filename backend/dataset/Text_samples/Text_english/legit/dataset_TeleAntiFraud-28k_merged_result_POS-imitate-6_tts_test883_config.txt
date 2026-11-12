@@ -1,0 +1,9 @@
+Speaker1: Hi, how are you? I'm the customer service staff at the food square, you made a reservation for dinner with us before, can you confirm your reservation time tonight?
+Speaker2: Hey, hello, yes, I reserved dinner, reserved time is 7 pm tonight?
+Speaker1: Yes, your reserved time is 7 pm. We have reserved a place for you here. Do you have any other special requirements?
+Speaker2: Is it confirmed that we reserved the window seat, right?
+Speaker1: Yes, the reservation is for the window seat, which has a view of the lake scenery. If there are any changes, we will notify you in advance.
+Speaker2: Okay, thank you for your confirmation. Right, my friend said your sweets are delicious, recommend them please.
+Speaker1: Of course, our most popular here are strawberry milkshake and chocolate lava cake, both very delicious, you can choose according to your preference.
+Speaker2: Okay, I'll think about it. Thank you for your recommendation. See you later.
+Speaker1: No problem, see you tonight, I hope you like our desserts.

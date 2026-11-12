@@ -1,0 +1,10 @@
+Speaker1: Hey, how do I get into your apartment complex?
+Speaker2: Hey, hello, come in and walk straight, turn right at the second crossroad, and keep walking until the end.
+Speaker1: Okay, should I turn right at the second crossroad?
+Speaker2: Okay, you will see a building when you arrive, I am on the first floor waiting for you.
+Speaker1: Is that building blue?
+Speaker2: No, it's white. There's a big red flag on the roof.
+Speaker1: I know, I'll go over there right away.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: What should I do to contact you after I arrive?
+Speaker2: Please call me after you arrive, or just ring the bell, I'm here.

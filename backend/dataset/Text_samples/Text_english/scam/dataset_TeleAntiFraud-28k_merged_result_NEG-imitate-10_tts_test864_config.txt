@@ -1,0 +1,10 @@
+Speaker1: Hello, I am a customer service representative from the Sincere Loan Company. Can you hear me?
+Speaker2: Can you hear anything?
+Speaker1: Have you noticed that you've been looking for loan services recently? Our company can provide no-collateral, low-interest loans. Would you be interested in learning more?
+Speaker2: I really need some capital rotation, what are your loan conditions?
+Speaker1: It's very simple. Just provide some basic information and we'll quickly approve. You can download our app, fill out the application form, and we'll review it quickly.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Of course, we are a legitimate lending company with detailed information and terms on our app. After you download it, I can also provide you with a discount code to reduce some transaction fees.
+Speaker2: Okay, I'll try. What's the name of the app?
+Speaker1: You can download the app named "Trust Loan" from the app store. After downloading, enter the invitation code "XY1234" to enjoy more discounts.
+Speaker2: Thank you, I will try to see.

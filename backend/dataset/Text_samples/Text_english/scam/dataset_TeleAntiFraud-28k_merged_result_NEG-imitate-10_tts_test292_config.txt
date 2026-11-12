@@ -1,0 +1,10 @@
+Speaker2: Hello, how are you?
+Speaker1: Hey, are you Li boss, I'm JD customer service rep Lin, we got some complaints about your orders recently, need you to work with us on it.
+Speaker2: What complaint? I don't remember this happening.
+Speaker1: There might have been some mistakes with your order information, to ensure your rights we need your recent order number, let's check the specifics.
+Speaker2: Okay, how can I provide it to you?
+Speaker1: You can click this link, enter your order number and verification code, and we can handle it for you.
+Speaker2: Can I give you the order number directly?
+Speaker1: Hmm, this isn't convenient because we need to verify your identity, this link is safe, don't worry.
+Speaker2: Okay, I'll try.
+Speaker1: Okay, thank you for your cooperation. If you have any questions, feel free to contact me anytime.

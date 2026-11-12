@@ -1,0 +1,10 @@
+Speaker1: Hello, hello, how are you? I am the customer manager of China Construction Bank, my name is Li, recently our bank introduced a special discounted credit loan with an annual interest rate of only 0.03%, do you have any interest in learning more about it?
+Speaker2: Okay, can you hear me out, I'm really feeling a bit tight right now.
+Speaker1: Great, this loan product is very suitable for cash flow, and the approval speed is fast, you can apply and get the loan on the same day. You only need to provide some basic personal information, and we can immediately process it for you.
+Speaker2: What materials do I need to prepare?
+Speaker1: You just need to provide your ID, bank card, and the latest salary slip. However, to speed up the approval process, you can first scan the QR code I send you to download our official app, which will make the operation more convenient.
+Speaker2: Okay, do you have a 2D code scanning function on your phone?
+Speaker1: If you have the words, just scan them. If not, I can send you a short message with a download link. You can click the link to download directly.
+Speaker2: Okay, you can send me a short message.
+Speaker1: Okay, is your phone number 13812345678? I'll send you a text message right away.
+Speaker2: Yes, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at the Xiangyang Square, can't find your store.
+Speaker2: Hello, Xingyu Square, you enter from the main entrance and walk straight inside, there's an elevator on the left, take the elevator to the third floor.
+Speaker1: Oh, I see it, where is your store on the third floor?
+Speaker2: After getting off the third floor, you walk to the right and see a flower stand, then turn around and our store is in front of you, the signboard is big and says "Xingyue Bookstore".
+Speaker1: Okay, I'll be there in about five minutes.
+Speaker2: Okay, five minutes is enough, we're waiting for you here.
+Speaker1: Do you have "White Night Journey" book in your store?
+Speaker2: Yes, we have "The White Night Walk" here, by Dongyang Guanxu, which is very popular, you can come here directly and find me, I will give it to you.
+Speaker1: Okay, I'll go now.
+Speaker2: Okay, we'll wait for you. Be careful on the road.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: I'd like to inquire about your restaurant's special dishes and today's business hours until what time?
+Speaker2: Our signature dishes include spicy Sichuan hot pot and steamed fish with ginger, very popular, our business hours today are until 10 pm.
+Speaker1: Okay, can I reserve a window seat for two people at 7:30 pm tonight?
+Speaker2: Okay, the 7:30 spot has been reserved for you. Just show up with your name when the time comes.
+Speaker1: Thanks for your help, we'll arrive on time.
+Speaker2: You're welcome. I'm looking forward to your visit. If you have any other needs, feel free to contact me anytime.
+Speaker1: Okay, thank you again, see you later tonight.
+Speaker2: Okay, see you later, wish you a happy day.

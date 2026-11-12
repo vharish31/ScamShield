@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hello, I am Li, the credit manager of Guangfa Bank, based on our system assessment, you meet our bank's standard for high-quality customers, and we can provide you with a personal loan of 30,000 yuan.
+Speaker2: Really? I also need a penny.
+Speaker1: Yes, our bank has launched this service, which allows for quick loans, no collateral, and no guarantee. However, you need to first download our official app, submit some information through the app, and we'll approve it before we can disburse the funds.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can download our app through this link: [fake link]. After downloading, follow the instructions.
+Speaker2: What information do I need to provide after downloading?
+Speaker1: You need to provide your identity card photo, bank card information and some basic personal information. The review process is very quick, usually within a few hours it can be completed.
+Speaker2: Okay, I'll download it now. Thank you for your help.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. My phone number is 1234567890. Best wishes for all your endeavors.

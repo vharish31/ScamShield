@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Li, recently I saw a new smartwatch in your side, it's quite interesting, want to know more details?
+Speaker2: Okay, Mr. Li, this new product is an intelligent wristwatch with a wide range of functions, including health monitoring, message reminders, and exercise tracking. Would you like to know the specific price?
+Speaker1: How much is the price?
+Speaker2: This smartwatch costs 2999 yuan, and there's a discount activity now, you can get a 90% discount.
+Speaker1: How long does delivery usually take?
+Speaker2: In general, we will ship your order within 24 hours after purchase, and delivery time varies depending on your location, usually within 1-3 business days.
+Speaker1: Is there any warranty for after-sales service?
+Speaker2: Of course, we provide a one-year warranty service, any non-human damage issues can be repaired for free, you can buy with confidence.
+Speaker1: That's great, I'll consider it and contact you if I decide to buy.
+Speaker2: Okay, Mr. Li, if you have any questions, please feel free to consult anytime, wish you happy life, bye.
+Speaker1: Goodbye

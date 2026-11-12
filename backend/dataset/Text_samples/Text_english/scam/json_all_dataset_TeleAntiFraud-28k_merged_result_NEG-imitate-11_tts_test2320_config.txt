@@ -1,0 +1,12 @@
+Speaker1: Hey, are you Zhang Ming?
+Speaker2: Hey, who are you?
+Speaker1: I'm your old classmate Wang Xiu, recently I'm doing an investment and finance project, the returns are very observable, do you want to know more about it?
+Speaker2: Invest in wealth management? I'm a bit tight-handed lately, not very convenient.
+Speaker1: No problem, the investment amount can be flexible adjusted, and our project risk is very low, the return is stable, very suitable for your conservative type of investor.
+Speaker2: How do you operate it specifically?
+Speaker1: Just download our app, register an account, and follow the instructions. If you're interested, I can send you a download link.
+Speaker2: How do I know this app is safe?
+Speaker1: Our company is a legally certified regular investment platform, and there will be no issues. You can first download and try it out, experience our service.
+Speaker2: Okay, then send me a link.
+Speaker1: Okay, I'll send it to you right away. Please download it as soon as you receive it, then register your account, and feel free to contact me if you have any questions.
+Speaker2: Okay, thank you.

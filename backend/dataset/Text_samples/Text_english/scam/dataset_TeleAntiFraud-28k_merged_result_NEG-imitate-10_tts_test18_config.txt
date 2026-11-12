@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what do you have?
+Speaker1: Hello, this is Huaxing Bank, I am customer manager Liu, we have a low interest loan product, very suitable for you, are you interested in learning more?
+Speaker2: Loan? I don't need a loan now, thank you.
+Speaker1: Don't rush to reject it yet, this product has a low interest rate and simple procedures, quick approval, and can solve your cash flow problem.
+Speaker2: It sounds good, but I'm not really interested.
+Speaker1: Are you worried about the complicated procedures or long approval time? Our product is particularly fast. As long as you provide some basic information, you can get approved today.
+Speaker2: How do I apply?
+Speaker1: Great, just download our Huaxing Bank app, register an account, fill out the application form, upload some ID photos, and we'll immediately review it.
+Speaker2: Okay, let me try.
+Speaker1: Great! After you download the app, if you have any questions, feel free to contact me anytime. My phone number is 1334556677. Best of luck with your application!

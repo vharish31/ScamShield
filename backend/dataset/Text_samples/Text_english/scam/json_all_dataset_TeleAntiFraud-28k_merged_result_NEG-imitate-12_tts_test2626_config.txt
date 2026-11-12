@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the loan manager of Shanghai Bank, Zhang Wei. Do you have any recent need for capital rotation?
+Speaker2: No, thank you.
+Speaker1: Okay, but we have a really good loan project at the bank recently, the interest rate is very low, and the procedures are simple, if you need it, you can consider it.
+Speaker2: What exactly happened?
+Speaker1: You just need to provide some basic information, such as ID and bank account number, and we can quickly approve. And once you pass the approval, the funds will be credited to your account immediately.
+Speaker2: How do I apply?
+Speaker1: It's very simple. You can click on the link I send you and fill in the relevant information, and we will have a dedicated person follow up.
+Speaker2: Okay, I will take a look.
+Speaker1: Okay, here's the link: http://example.com/loan. Just follow the instructions after you click in. If you have any issues, feel free to contact me.
+Speaker2: Okay, thank you.

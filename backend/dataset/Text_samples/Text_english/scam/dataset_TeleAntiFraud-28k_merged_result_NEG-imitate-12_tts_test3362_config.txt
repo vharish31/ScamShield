@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang? I am Lee, the manager of China Information Bank.
+Speaker2: Hello, I'm Zhang, what do you have?
+Speaker1: That's right, we noticed you are one of our bank's VIP customers, and now there's a special promotion going on, we hope you can participate.
+Speaker2: What activity?
+Speaker1: We have a no-interest loan project where you just need to provide some basic info to quickly get a sum of money to support.
+Speaker2: The sound is good, but I don't need a loan now.
+Speaker1: Understand, but this opportunity is very rare, you just need to click on the link we provide, fill out the information, and you can get approval.
+Speaker2: Link? Where?
+Speaker1: Wait a minute, I'll send you a short message with a link. Just click the link and follow the instructions.
+Speaker2: Okay, I'll wait for a text message.

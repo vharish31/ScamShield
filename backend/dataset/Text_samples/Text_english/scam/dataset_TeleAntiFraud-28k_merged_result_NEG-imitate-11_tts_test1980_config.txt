@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Huaxing Bank, do you have any recent capital rotation needs?
+Speaker2: Hello, temporarily not available, thank you.
+Speaker1: Okay, I understand. But if you need it, we have a special app that provides low-interest loan services, very convenient.
+Speaker2: Is that so? What is the name of your app?
+Speaker1: Our app is called "Hua Xing Kuai Dai", you can search and download it in the app store, very convenient.
+Speaker2: Okay, I understand. Are there any other things to pay attention to?
+Speaker1: Hey, you can register directly after downloading. Just fill out some basic info, and we'll have a specialist review it. If you have any questions, feel free to consult my WeChat, my WeChat is just my phone number.
+Speaker2: Okay, I will consider it. Thank you for your recommendation.
+Speaker1: No problem, I hope our service can help you. Have a nice life, bye.
+Speaker2: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Shenzhen Bank customer service. We have a special good credit loan service recently, no collateral, low interest, fast approval. Do you have any recent need for funds?
+Speaker2: Hmm, this sounds good, but I'm still using my funds, can you give me more details about this loan situation?
+Speaker1: Of course, our loan service is specifically designed for high-quality customers, with a maximum loan amount of 50,000, as long as you provide your ID and salary slip, you can quickly get approved.
+Speaker2: Hmm, that sounds good, but I still want to know more about the specific repayment method and interest rate.
+Speaker1: The repayment method is very flexible, you can choose equal monthly installments or interest-only first, and the annual interest rate is only 5%, very cost-effective.
+Speaker2: Okay, what do I need to apply for?
+Speaker1: You can add my WeChat first, I will send you detailed information, you look at it.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: Add my WeChat number szbankloan, I'll quickly approve your application and send you the documents.
+Speaker2: Okay, I'll add you soon.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Shenzhen Telecom, there is an important package for you here, but due to incomplete information, it has been delayed, do you mind helping us complete the information update?
+Speaker2: Okay, what do you need me to do?
+Speaker1: Okay, to ensure that the package is delivered smoothly, please click on the link we send and fill out the relevant information as instructed.
+Speaker2: Okay, I'll wait for the link.
+Speaker1: Okay, the link has been sent to your phone, check it out.
+Speaker2: I got it, I'll fill it out now.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact me directly, and I will solve them for you as soon as possible.
+Speaker2: Okay, thank you.
+Speaker1: No problem, all our services are for the sake of customer satisfaction. After filling out the information, please call me to confirm.
+Speaker2: Okay, I understand, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm looking for a bookstore nearby, do you know where it is?
+Speaker2: Hey, how are you? Do you want to buy books or do you need to look up some information?
+Speaker1: I want to buy a few novels, do you know if there's a bookstore nearby?
+Speaker2: You can go to the cultural street and find some good bookstores there.
+Speaker1: Is Culture Street far from here?
+Speaker2: Just a short distance away, you take the three-line bus and get off at the cultural street station.
+Speaker1: How long will it take for me to arrive?
+Speaker2: The bus took about twenty minutes, and walking for five minutes after getting off it arrived.
+Speaker1: Thank you, now I'm off.
+Speaker2: No problem, be careful on the road.

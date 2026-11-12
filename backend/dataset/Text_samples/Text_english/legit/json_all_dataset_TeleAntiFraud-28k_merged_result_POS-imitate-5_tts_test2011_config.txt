@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how can I help you?
+Speaker1: Can you tell me if you have any new smartwatches here? I saw online that they're really popular.
+Speaker2: Yes, we have the latest smartwatch in stock here. Do you have any specific color requirements?
+Speaker1: Do you have black ones?
+Speaker2: Yes, black is one of our most popular colors.
+Speaker1: How much is it?
+Speaker2: The price of the smartwatch is 399 yuan, there is no promotion currently, but we offer installment payment service.
+Speaker1: How do you calculate interest for installment payments?
+Speaker2: We cooperate with multiple banks, you can choose interest-free installment plans, specifically three or six periods.
+Speaker1: Okay, I'll think about it, thank you for your patience in answering.
+Speaker2: No problem, feel free to consult us anytime if you have any questions. We hope you'll consider our products later.

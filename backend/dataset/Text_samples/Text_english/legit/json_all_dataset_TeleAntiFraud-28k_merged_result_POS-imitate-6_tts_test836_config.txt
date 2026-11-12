@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw your ads online, right? You can rent a meeting room here, right?
+Speaker2: Are you interested in knowing more about the meeting rooms for rent here?
+Speaker1: Yes, I want to know more about your meeting room, how is it generally, and how is the rent calculated?
+Speaker2: We have three different sized meeting rooms here, small ones are suitable for meetings of 10 people, medium ones can hold 20 to 30 people, and large ones are for meetings of 50 people or more. The prices are 100 yuan per hour for small rooms, 200 yuan per hour for medium rooms, and 500 yuan per hour for large rooms.
+Speaker1: Hey, can we reserve a medium-sized conference room for about two to three hours in advance?
+Speaker2: Of course, you can book through our website or directly call us. What time do you plan to use the conference room?
+Speaker1: Can we reserve for next Friday at 10 am in the morning?
+Speaker2: Let me check... Okay, there's an available slot in the middle-sized meeting room on Friday at 10 am. You can reserve it.
+Speaker1: Great, I've reserved this time slot. What do I need to prepare?
+Speaker2: Please arrive at the meeting room 30 minutes in advance, we will prepare everything for you in advance. If you need a projector or whiteboard, please inform us in advance.

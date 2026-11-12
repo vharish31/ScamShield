@@ -1,0 +1,10 @@
+Speaker1: Hey, are you there?
+Speaker2: Hey, hi, I'm here.
+Speaker1: The phone I just bought at your store isn't charging.
+Speaker2: Please wait a moment, I'll check if it's a problem with the charger.
+Speaker1: I've tried several chargers, but they're still not working.
+Speaker2: It might be a problem with your phone battery. Would you mind coming to the store for a quick check? I can help you with that.
+Speaker1: I'm currently abroad and it's inconvenient to go back. Is there any solution?
+Speaker2: You can find an authorized repair point nearby, we can guide you remotely here.
+Speaker1: Sure, where are the recent maintenance points?
+Speaker2: Please tell me your current location, I'll look it up for you.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Zhang, I ordered a cake at your store for tomorrow, can you confirm?
+Speaker2: Hello, little Zhang, I am a server at the dessert shop, what time did you order the cake?
+Speaker1: I ordered a chocolate cake at three in the afternoon.
+Speaker2: Okay, the chocolate cake is ready for you now. You can pick it up directly at three o'clock in the afternoon tomorrow.
+Speaker1: If I arrive early, can I pick up?
+Speaker2: Okay, as long as the cake is made ahead of time, you can come early and pick it up.
+Speaker1: Is the cake cold?
+Speaker2: Yes, chocolate cake is best stored in the refrigerator, this way the taste will be better.
+Speaker1: Understood, thank you for your reminder, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you a happy day.

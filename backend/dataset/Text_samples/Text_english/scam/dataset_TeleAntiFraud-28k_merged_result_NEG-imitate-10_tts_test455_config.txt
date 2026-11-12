@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the China Construction Bank Credit Center, I am your financial advisor Li Xiao.
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm Li Xiao, a financial advisor at the China Construction Bank's wealth management center. We noticed that you may have recently had a need for cash flow, so we're calling to offer you a low-interest loan service.
+Speaker2: Is that so? What are the conditions for your loan?
+Speaker1: Our conditions are extremely favorable, monthly interest as low as 0.3%, no down payment required, and immediate loan approval upon receipt of application. If you need more information, please click on the link we sent you.
+Speaker2: Can you send me a link?
+Speaker1: Yes, we will send you a link via text message. You will fill out some basic information after clicking the link, and we will quickly review it.
+Speaker2: Okay, I'll wait for the text message.
+Speaker1: Okay, thank you for your cooperation. If you have any questions, please call our service hotline anytime.
+Speaker2: Okay, thank you.

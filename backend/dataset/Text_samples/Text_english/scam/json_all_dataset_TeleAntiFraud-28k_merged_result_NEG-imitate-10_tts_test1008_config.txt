@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Liu Xiao, a customer service representative from JD.com. We've detected a quality issue with the recent product you purchased, and we'll process a refund for you.
+Speaker2: Is it really? That's great, how do I refund?
+Speaker1: To ensure that your refund can be processed quickly and efficiently, we need you to download the official app, and use it to handle all refund matters.
+Speaker2: Okay, then what should I do?
+Speaker1: Just click on the link I send to you, follow the instructions to download the application, enter your order number and bank card information, and you'll complete the refund.
+Speaker2: Can I get a refund directly to my payment account because I'm afraid it's not safe?
+Speaker1: This method is indeed effective, but due to system upgrade, it can only be processed through this application at the moment, I hope you understand.
+Speaker2: Okay, give me the link.
+Speaker1: Okay, please wait a moment, I have already sent it to you. Please pay attention to check it and operate it quickly according to the instructions. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you, I will pay attention.

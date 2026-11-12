@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you the person who made the reservation for the wind car?
+Speaker1: Yes, are you sure you want to start from the library?
+Speaker2: Yes, I'm leaving the library now, going to the train station.
+Speaker1: Okay, can you confirm the order information?
+Speaker2: Okay, I have confirmed it.
+Speaker1: Can we leave at six and a half?
+Speaker2: Sure, but it might be a bit late, there's a chance it will get stuck in traffic.
+Speaker1: Let's leave twenty minutes earlier, at 6:25.
+Speaker2: Okay, let me adjust the time, six twenty-five past six.
+Speaker1: Okay, I'll arrive a few minutes early, please wait for me at the library entrance.
+Speaker2: Okay, I will wait for you at the library entrance at the designated time. Thank you!

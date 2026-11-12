@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm the person who ordered takeout from your store yesterday, I have a question to consult.
+Speaker2: Hello, I am a customer service representative. What issues can I help you with?
+Speaker1: The bottle of drink in my ordered food is open when it arrived, will it be a bit unhygienic?
+Speaker2: I'm very sorry to bring you an unpleasant experience, our delivery personnel should ensure all food packaging is intact and undamaged.
+Speaker1: Hmm, I think it might have been accidentally opened during delivery, but this way I always feel a bit uneasy when drinking it.
+Speaker2: We understand your concerns and as compensation, we can offer you a free drink, which you can use on your next order.
+Speaker1: Well, the main thing is to hope that this situation doesn't happen again next time.
+Speaker2: We will definitely strengthen the training of delivery personnel to ensure that every meal is delivered to you perfectly.
+Speaker1: Okay, thank you for your handling. I will consider ordering food at your place next time.
+Speaker2: Thank you very much for your understanding and support. I look forward to your next visit. Wish you a happy life!
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye.

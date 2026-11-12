@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Sure, hello, what's up?
+Speaker1: I am a customer service representative for an e-commerce platform. There are some points in your account that will be cleared at midnight tonight. Have you used them yet?
+Speaker2: Oh, really? I didn't notice that.
+Speaker1: Yes, these points were sent from the previous purchase, they can be used to deduct some cash, if you don't use them, they will automatically clear zero.
+Speaker2: How do I check these points?
+Speaker1: I have already sent you a text message with a link to the exchangeable products. Just click on the link in the text message to see them.
+Speaker2: Okay, I'll go take a look right away.
+Speaker1: Hey, feel free to contact me anytime if you have any questions.
+Speaker2: Thank you for your reminder, it really helped a lot.

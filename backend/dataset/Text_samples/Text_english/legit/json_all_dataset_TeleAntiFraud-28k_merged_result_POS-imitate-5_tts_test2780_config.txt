@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the happy restaurant. Is there anything we can help you with?
+Speaker2: Hello, what are your special dishes?
+Speaker1: Our signature dishes here include red braised pork, steamed fish with clear broth, and spicy stir-fry with ginger and chili, all of which are very popular.
+Speaker2: What are the prices of these menus approximately?
+Speaker1: Red braised pork is 38 yuan, steamed fish is priced differently based on the size of the fish, around 68 to 120 yuan, and spicy pot-stewed chicken is 45 yuan.
+Speaker2: Okay, do you want to ask one more thing, what time do you start your business?
+Speaker1: We open at 11 am and close at 9 pm.
+Speaker2: Can I reserve a four-person table for seven o'clock in the evening?
+Speaker1: Of course, I will reserve a four-person table for you. Do you need me to record your phone number to confirm?
+Speaker2: Okay, my phone number is 13800000000.
+Speaker1: Okay, your appointment has been successfully scheduled for tonight at seven o'clock!

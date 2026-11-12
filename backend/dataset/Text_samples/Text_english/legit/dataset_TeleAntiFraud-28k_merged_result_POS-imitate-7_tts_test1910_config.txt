@@ -1,0 +1,10 @@
+Speaker1: Hello, I have made a haircut appointment at your shop
+Speaker2: Hello, I am the customer service at the store. Is your appointment today at 3 pm?
+Speaker1: Okay, but I have something to do now, I might be late, around 4 o'clock I should arrive.
+Speaker2: No problem, just be careful on the road and come straight over when you arrive.
+Speaker1: Okay, thank you for understanding. Can you confirm the hairstyle now?
+Speaker2: Of course, what hairstyle do you want? Short or long, do you have a particular style you like?
+Speaker1: I want a relatively clean short haircut, summer's here, it's too long and hot.
+Speaker2: I understand, our senior hair stylist will design a suitable short haircut for you based on your needs for the summer.
+Speaker1: Great, really thank you.
+Speaker2: You're welcome, we welcome you anytime. See you later!

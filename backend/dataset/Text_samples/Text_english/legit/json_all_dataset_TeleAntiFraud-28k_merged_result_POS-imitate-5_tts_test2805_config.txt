@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm at the location you sent, but it seems like I can't find it, where are you?
+Speaker2: Have you seen the big billboard at the exit of the subway station?
+Speaker1: I saw you, I went looking for you.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: Can you see me? Is that the place we're going to?
+Speaker2: Yes, turning right at the front led us here, there's a very obvious sign.
+Speaker1: Okay, I'm turning right now, you follow me.
+Speaker2: Okay, stick with me.

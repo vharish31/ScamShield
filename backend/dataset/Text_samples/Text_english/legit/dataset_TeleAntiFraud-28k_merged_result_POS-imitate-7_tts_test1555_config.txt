@@ -1,0 +1,12 @@
+Speaker2: Hello
+Speaker1: Hello, I am the service staff at the food square, I saw that you have reserved a seat with us before, do you know if you are satisfied with our service and menu?
+Speaker2: Oh, you're from the food square, I went there before, it was pretty good.
+Speaker1: Thank you for your feedback. We are constantly working to improve the quality of our service. By the way, do you know that we recently introduced a new dish?
+Speaker2: Do you know what new dishes are there?
+Speaker1: We've added several new signature dishes, such as spicy crab, steamed sea bass, and various fine snacks. Don't miss them next time you come.
+Speaker2: Can you reserve a seat for me next time when we go? I'm getting hungry from listening to you talk.
+Speaker1: Of course, when do you plan to come? I can book in advance for you.
+Speaker2: Let's confirm the specific time for this weekend.
+Speaker1: Okay, I'll reserve a seat for you this weekend. You can confirm the time later and get back to me.
+Speaker2: Okay, thank you, see you later.
+Speaker1: No problem, looking forward to your arrival. See you this weekend!

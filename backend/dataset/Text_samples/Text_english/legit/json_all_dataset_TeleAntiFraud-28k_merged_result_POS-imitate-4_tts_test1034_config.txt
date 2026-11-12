@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I bought a phone from your store, but now I can't use it, can you help me figure out what's wrong?
+Speaker2: Hello, Xiao Ming, I am customer service representative Zhang, can you tell me your order number? So I can help you check it.
+Speaker1: Okay, my order number is 123456789, it's yesterday's order, I received it today, but the computer didn't react when I turned it on.
+Speaker2: Thank you for providing the order number. I will check it out. It's usually the battery is dead or the connection is faulty. You can try charging it to see.
+Speaker1: I've already tried it, but it's still not working. Is it possible that the problem is with the phone itself?
+Speaker2: There's a possibility that we can first confirm if you can bring your phone to our store, and we can check it for you.
+Speaker1: I'm pretty busy today, I might be late, what time do you guys close the door?
+Speaker2: Our business hours are from 9am to 8pm. You can arrange your own time accordingly.
+Speaker1: Can I come at 6 pm in the evening?
+Speaker2: Of course, I'll wait for you at the store at 6 o'clock. Remember to bring your phone and charger.

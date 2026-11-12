@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for speedy express, regarding your recent lost package issue, we have found a solution.
+Speaker2: Really? That's great, the things in the package are quite important.
+Speaker1: Yes, we recommend that you process your claim through our official website to ensure the safety of your information.
+Speaker2: Okay, then what should I do?
+Speaker1: You can click on the link I sent you and follow the instructions.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact me anytime. My contact info is customer service representative Wang.
+Speaker2: Okay, thank you for your help.

@@ -1,0 +1,12 @@
+Speaker1: Hey, are you making cakes over there?
+Speaker2: Yes, I am the cake shop, do you want to order a cake?
+Speaker1: Hey, my friend's birthday is tomorrow, want to order a birthday cake?
+Speaker2: Okay, we have several flavors here, fruit, chocolate, and butter, which one do you want?
+Speaker1: Can you add some strawberries and blueberries to my friend's fruit flavor?
+Speaker2: Sure, we can also write a wish on the cake, what do you want to write?
+Speaker1: Happy Birthday, wish you always smile.
+Speaker2: Okay, this wishing phrase is great. What time do you want to send it?
+Speaker1: Tomorrow at three in the afternoon, deliver to Happy Community.
+Speaker2: Okay, tomorrow afternoon at three o'clock, deliver to Happy Community, do you have anything else?
+Speaker1: No more, thank you.
+Speaker2: No problem, wish your friend a happy birthday, we arrive on time.

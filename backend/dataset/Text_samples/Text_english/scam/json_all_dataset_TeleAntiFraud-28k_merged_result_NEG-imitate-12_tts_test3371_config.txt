@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? This is Taobao net customer service. You recently purchased makeup products on our platform and have issues, we have decided to give you a refund, can you cooperate?
+Speaker2: Yeah, it's true or false, I recently bought makeup products, but I haven't received them yet.
+Speaker1: Yes, the product you bought was damaged during transportation, so we decided to give you a refund. However, we need you to provide your bank card information, so we can directly transfer the refund amount to your bank account.
+Speaker2: Okay, how do you confirm it's me?
+Speaker1: To confirm your identity, we need you to provide your phone number and order number at the time of purchase. Then we will send a verification code to your phone, and you can tell us after receiving it, and we can process the refund.
+Speaker2: Okay, my phone number is this one, the order number is 123456789.
+Speaker1: Okay, I have recorded it down, the verification code has been sent to your phone, please check.
+Speaker2: I received it. The verification code is 1234.
+Speaker1: Okay, to speed up the refund process, please provide your bank card number and account information, we will directly transfer the funds to your account.
+Speaker2: Don't you deceive me?
+Speaker1: We are official customer service, we will never deceive you, you can relax. Please provide some information, and we can handle it.
+Speaker2: Okay, my bank card number is 6222080000000000000, the opening bank is China Construction Bank.

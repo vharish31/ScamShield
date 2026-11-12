@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently want to buy a new phone, do you have any good recommendations?
+Speaker2: Hello, little Zhang, what do you mainly use your phone for? Like games, photos, or daily use?
+Speaker1: I mainly use my phone for taking photos and occasionally playing games, I hope the camera is good and the battery life is long.
+Speaker2: You can consider the small star card's starburst series, its camera function is very powerful, and the battery life is not bad.
+Speaker1: How are the prices of the Starry Series?
+Speaker2: The prices of the Starry series are around 3,000 to 4,000 yuan, please check the configuration.
+Speaker1: Okay, this price is acceptable. Are there any other recommendations?
+Speaker2: There's also a choice of the lightning version of the speed card, its performance is also very good, the price is a little lower, around two thousand five hundred yuan.
+Speaker1: I'll check out the phones on those two cards, thanks for your advice.
+Speaker2: No problem, I hope you picked a phone that you're satisfied with. If you have any other questions, feel free to ask me anytime.

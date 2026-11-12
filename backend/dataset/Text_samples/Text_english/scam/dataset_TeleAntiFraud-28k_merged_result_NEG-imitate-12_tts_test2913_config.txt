@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from SF Express, have you lost a package and need our help?
+Speaker2: Really? I've had a package for a long time without receiving it.
+Speaker1: Yes, we have confirmed that in order to compensate you, we need you to click on a link to fill out some information, and then we will transfer the compensation amount to your account.
+Speaker2: Okay, how do I click on a link?
+Speaker1: Just open your message, we'll send you a link, click it and follow the instructions.
+Speaker2: Okay, I'll check my messages later.
+Speaker1: Okay, the message will be sent to you shortly. Please fill out the information after receiving it. We will process it within 24 hours. If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, I will pay attention to checking my text messages.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Wish you a happy life. Goodbye.
+Speaker2: Goodbye.

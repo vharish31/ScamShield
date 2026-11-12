@@ -1,0 +1,10 @@
+Speaker1: Hello, you are welcome to the China Southern Airlines customer service center. I am customer service representative Li.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we noticed some unusual transactions on your credit card recently, for safety reasons, we need you to cooperate with us to do a simple verification.
+Speaker2: Is it really? How can it be verified?
+Speaker1: It's very simple. Just click on the link we send you via text message and follow the instructions.
+Speaker2: Okay, I received the message and the link is open. What do we do next?
+Speaker1: Great, just input your bank card number and verification code, and we'll ensure your account is secure.
+Speaker2: Is this okay?
+Speaker1: Yes, this way ensures your account safety. We will also send you a small gift to thank you.
+Speaker2: Okay, thank you.

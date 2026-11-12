@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at the Happy Restaurant?
+Speaker2: Hello, can I reserve a table for tonight at 7pm?
+Speaker1: Of course, how many would you like to reserve?
+Speaker2: Four people, do you have any recommendations for dishes?
+Speaker1: Do you want to preorder some of our popular special dishes, such as steamed sea bass, spicy chicken and stir-fried frog, before they run out?
+Speaker2: Okay, let's order these three dishes. Do you provide free parking service as well?
+Speaker1: Our restaurant provides free parking service. Please show your reservation information upon arrival.
+Speaker2: That's great, I'm still worried about the parking issue.
+Speaker1: Don't worry, our parking lot is very spacious. You can relax now. Is there anything else you need help with?
+Speaker2: Thanks for your help. I'm sorry, I don't have it right now.
+Speaker1: You're welcome, please feel free to contact us if you have any questions. We're looking forward to your visit, goodbye!

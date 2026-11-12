@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Wang Xiaojie?
+Speaker2: Hey, it's me.
+Speaker1: Hello, I am Liu, a loan officer at Commercial Bank, we have a special loan project that is very suitable for you.
+Speaker2: Loan? I'm not very interested.
+Speaker1: This loan project has a very low interest rate, no collateral is required, and the approval is quick. You can first learn more about it, and if you're interested, you can consult it in detail.
+Speaker2: How do I understand that?
+Speaker1: You can first download our bank's official app, then register an account, I will give you an invitation code, so you can see detailed loan information.
+Speaker2: Do you want to download the app? I'm afraid of the risk.
+Speaker1: Don't worry, our app is officially certified and very safe. If you're not comfortable downloading, you can also click this link and I'll send you a text message.
+Speaker2: I'll just download the app directly.
+Speaker1: Okay, I'll send you a download link. Just click on it to download. After downloading, please use the code ABCD1234 to register.
+Speaker2: Okay, thank you.

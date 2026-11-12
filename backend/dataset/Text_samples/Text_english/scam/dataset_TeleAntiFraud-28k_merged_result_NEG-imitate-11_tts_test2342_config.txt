@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Hello, who are you?
+Speaker1: Hello, I am the manager of the commercial bank's credit department, and we have recently introduced a low-interest loan product. Would you like to know if you have any need for capital rotation?
+Speaker2: Hey, I recently need some money, can you give me some specifics?
+Speaker1: Of course. Our loan product interest rate is very low, and the approval speed is fast, no need for collateral. If you are interested, please click on the link I sent you and fill out your personal information, and our staff will contact you quickly.
+Speaker2: Okay, but how do I click on a link?
+Speaker1: Just add my WeChat and I'll send you the link, very convenient.
+Speaker2: Can I add you on WeChat? What's your WeChat number?
+Speaker1: My WeChat number is ABCD1234. Tell me once you add me, I'll send you the link right away.
+Speaker2: Okay, I'll add you soon.

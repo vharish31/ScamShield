@@ -1,0 +1,12 @@
+Speaker1: Hello, this is Happiness Bank Loan Department, I am your personal customer manager, Lee Huai. We noticed that you have been recently paying attention to our loan products. Do you have any funding requirements?
+Speaker2: I recently had some issues with cash flow, can you specifically explain your loan products?
+Speaker1: Of course, our bank's loan products are very flexible, with low interest rates, quick disbursement, and no collateral required. As long as you provide some basic information, we can initially assess your loan amount.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Great, I'll send you a link now. Just click on the link to download our app and fill out the relevant information. Our customer service will quickly review your data.
+Speaker2: Okay, I'll download it later.
+Speaker1: Thank you very much for your cooperation. If you have any issues during the download process, please feel free to contact me at any time. Additionally, to speed up the review process, please provide me with some necessary personal information first.
+Speaker2: What information do you need me to provide now?
+Speaker1: Just need your ID number and bank account info, so we can quickly verify your identity.
+Speaker2: Okay, my ID number is 1234567890123, my bank account is 622208765643210.
+Speaker1: Okay, I have recorded it down. We will process it quickly. Thank you for your cooperation. Wish you a happy life. Bye.
+Speaker2: Thank you, goodbye.

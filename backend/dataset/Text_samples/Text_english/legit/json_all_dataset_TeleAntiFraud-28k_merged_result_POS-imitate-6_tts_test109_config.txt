@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your restaurant has vegetable salad?
+Speaker2: Hello, we have many kinds of salad here, you can check the menu, or I recommend a popular one for you?
+Speaker1: Alright, what's the most popular one among you?
+Speaker2: The most popular is the Mediterranean flavor salad with fresh tomatoes, cabbage, cucumbers, jalapenos, and olives, and special sauce.
+Speaker1: How much does this salad cost?
+Speaker2: This salad costs 35 yuan, if you need it, I can reserve it for you.
+Speaker1: Okay, I want to make a reservation, what time does your restaurant open?
+Speaker2: Our restaurant is open from 11 am, you can choose any time to take a meal.
+Speaker1: Can I come at twelve o'clock?
+Speaker2: Of course, if you come at twelve, I will prepare your salad in advance.

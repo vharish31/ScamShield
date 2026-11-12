@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Li, are you still hiring servers?
+Speaker2: Hello, little Li, yes, we are still hiring, what time is convenient for you to come for an interview?
+Speaker1: Can I meet you at two in the afternoon tomorrow?
+Speaker2: Sure, come over at two o'clock tomorrow and bring the certificates you need for the interview.
+Speaker1: Okay, I will be ready. So, what kind of cuisine does your store specialize in?
+Speaker2: We mainly do Sichuan and Hunan cuisine, the taste is quite heavy, do you like spicy?
+Speaker1: It's still okay, I can't eat very spicy, but I can adapt.
+Speaker2: Okay, our work hours are from 10 am to 10 pm, with a two-hour break in the middle.
+Speaker1: How is the workload?
+Speaker2: During peak season, we'll be busy, but we'll reasonably allocate work and rest, so you won't get too tired.
+Speaker1: Okay, thank you for your understanding. See you tomorrow.
+Speaker2: Okay, see you tomorrow, be careful on the road.

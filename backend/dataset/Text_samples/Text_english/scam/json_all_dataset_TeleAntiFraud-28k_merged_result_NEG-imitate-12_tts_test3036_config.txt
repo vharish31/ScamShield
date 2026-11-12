@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm Lee, the manager of the Happy Buy Platform customer service center. You had some issues with the products you bought from us previously, so we need to handle them now.
+Speaker2: Oh, is that so? What's the problem?
+Speaker1: That's right, the product you bought got damaged during shipping, we plan to process a return and refund for you, please cooperate.
+Speaker2: Okay, what do you need me to do?
+Speaker1: Just click on the link we send, fill in the relevant information, and the refund will be returned to your account within 24 hours.
+Speaker2: Okay, I'll check my email later.
+Speaker1: To make it easier for you to operate, I will directly send you a link via phone, just click it and you'll see the operation interface.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, just a moment, I'll send it now.
+Speaker2: Okay, thank you.
+Speaker1: Excuse me, to ensure the safety of your information, please confirm the correctness of the website during operation. If you encounter any problems, please contact our customer service at any time.
+Speaker2: Okay, I will pay attention. Thank you.

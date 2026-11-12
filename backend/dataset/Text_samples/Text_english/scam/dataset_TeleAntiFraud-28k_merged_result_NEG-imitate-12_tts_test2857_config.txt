@@ -1,0 +1,11 @@
+Speaker1: Hello, is this Mr. Zhang?
+Speaker2: Hello, yes.
+Speaker1: Hello, I am the customer manager of the construction bank's credit department. We noticed that your credit status is very good, and we would like to invite you to our loan discount activity.
+Speaker2: Loan? I don't need it.
+Speaker1: Okay, I understand. But our activity this time is very discounted, interest rate is low, procedures are simple, and approval speed is fast. You can consider it.
+Speaker2: Is it really that good?
+Speaker1: Of course, as long as you meet our conditions, you can easily get a loan. Just download our app, fill out some basic information, and we can start reviewing.
+Speaker2: Where can I download the app?
+Speaker1: You can search our bank name in the app store and download the official app. I can send you a link, just click on it to download.
+Speaker2: Okay, give it to me.
+Speaker1: Okay, just a moment, I'll send you a text message with a download link. After you download it, feel free to contact me if you have any questions. I'll guide you through the entire process.

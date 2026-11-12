@@ -1,0 +1,10 @@
+Speaker1: Hello, you are welcome to the Bank of China, I am the customer service manager, Zhang Wei.
+Speaker2: Hello, what can I help you with?
+Speaker1: Is that so? We recently launched a new financial product with a yearly return rate of up to 100%, and the risk is very low. Would you be interested in learning more about it?
+Speaker2: Sounds good, but how do I know this product is real?
+Speaker1: You can rest assured, we are a legitimate bank, all of our financial products are regulated by the government. For more information, you can download our official app, which has detailed product introductions.
+Speaker2: Okay, let me try.
+Speaker1: Thank you for your trust. After downloading the app, you can find this product directly on the homepage, and feel free to contact me anytime if you have any questions.
+Speaker2: Then I downloaded it, how can I contact you?
+Speaker1: You can find my contact info in the app or directly call me at 1513454321.
+Speaker2: Okay, thank you for your help. I will consider it.

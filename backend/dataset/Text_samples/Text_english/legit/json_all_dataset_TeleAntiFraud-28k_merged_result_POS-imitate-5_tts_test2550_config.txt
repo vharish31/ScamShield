@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Do you have any vegetarian options at your store?
+Speaker2: Sure, we have many kinds of vegetables, such as stir-fried vegetables, stir-fried four seasons beans, scallion oyster mushrooms, do you want to know more?
+Speaker1: How much does a portion of stir-fried vegetables cost during the clear cooking process?
+Speaker2: Stir-frying vegetables is eighteen cents a pound, and the portions are generous.
+Speaker1: Can I have two portions of stir-fried vegetables and one portion of stir-fried four season beans, please?
+Speaker2: Is it okay, the total is 54 yuan, do you want to pick it up in store or need it delivered?
+Speaker1: Please deliver, address is Huayang Road 33rd number, 3rd building 5th floor.
+Speaker2: Okay, I have recorded your order. It will arrive in about thirty minutes. Please keep your phone line open.

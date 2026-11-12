@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Lee Ming, I want to consult your hair service.
+Speaker2: Hello, Li Ming, I am the customer service of the hair salon, what can I help you with?
+Speaker1: Do you have any discounts for cutting students' heads here?
+Speaker2: Yes, we have a student discount here, you can enjoy a 90% discount with your student ID.
+Speaker1: Can I go on the weekend?
+Speaker2: Of course, we are open on weekends too, but there might be more people, so I suggest you make an appointment in advance.
+Speaker1: Okay, can I make an appointment for tomorrow afternoon at 2 pm?
+Speaker2: Tomorrow at 2 pm is okay, I will help you book an appointment. Please provide your name and contact information.
+Speaker1: My name is Li Ming, phone number is 13500000000.
+Speaker2: Okay, Li Ming Xiāngshēng, I have already reserved a haircut for you tomorrow at 2 pm. Remember to bring your student ID.

@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little king?
+Speaker2: Who are you?
+Speaker1: Hello, I am Zhang from China Xing, our bank recently launched a special promotion for a low-interest credit loan project. Would you be interested in learning more?
+Speaker2: Loan, I recently have a bit of cash flow problems.
+Speaker1: Great, this project is perfect for you. Just download our bank's official app, fill out some basic information, and you can apply.
+Speaker2: Do you want to download the app? It sounds pretty convenient.
+Speaker1: Yes, it's very convenient. And if you download and complete registration now, we also have additional gifts to send, like points exchange, discount coupons, etc.
+Speaker2: The gift sounds good. How do I download this app?
+Speaker1: You can directly click on the link I send you or search for our bank name to download. Clicking on the link is more convenient, I can send it to you.
+Speaker2: Okay, give it to me.

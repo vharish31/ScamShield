@@ -1,0 +1,10 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, I'm good, you?
+Speaker1: I'm good too, the weather has gotten colder lately, how's the weather on your side?
+Speaker2: It's getting a bit chilly here, how about over there?
+Speaker1: I'm here too, I put on a coat this morning. What are your plans lately?
+Speaker2: I plan to go to a new park this weekend. It's said the scenery is great.
+Speaker1: That sounds good, I also want to go. Do you know how to go?
+Speaker2: Okay, take the bus three from here to the park station, just get off at the station.
+Speaker1: Okay, thank you. Let's hang out this weekend, how about it?
+Speaker2: See you this weekend.

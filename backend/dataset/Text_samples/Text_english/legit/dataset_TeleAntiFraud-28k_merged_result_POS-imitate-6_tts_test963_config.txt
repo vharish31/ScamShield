@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm Zhang San, I saw your rental information before, want to know more details?
+Speaker2: Hello, Zhang San, I am the landlord of this apartment, what can I help you with?
+Speaker1: Hey, can you tell me the specific location of this house? Are there any life facilities around?
+Speaker2: This apartment is located in the Happy Small Community in the city district, with a supermarket, hospital, and school nearby, making life very convenient.
+Speaker1: Does that house look newly decorated?
+Speaker2: Yes, the house is fully decorated, all furniture and appliances are complete, you can move in directly.
+Speaker1: How much is the rent for that house? Is there any discount?
+Speaker2: The monthly rent is three thousand yuan. If you sign a one-year contract, you can get a one-month discount on the rent.
+Speaker1: Can I go take a look at the house now that it sounds so cheap?
+Speaker2: Of course, whenever you're convenient, we can set a time.
+Speaker1: Can you meet me at three in the afternoon tomorrow?
+Speaker2: Okay, tomorrow afternoon at three o'clock, I will be waiting for you here.

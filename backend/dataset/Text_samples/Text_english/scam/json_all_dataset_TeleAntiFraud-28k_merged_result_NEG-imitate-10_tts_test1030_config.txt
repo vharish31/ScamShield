@@ -1,0 +1,11 @@
+Speaker1: Hello, this is Lee Huai, I am Meituan's customer service representative, there may have been issues with your delivery during the delivery process, please cooperate to solve them.
+Speaker2: What's up? What's the problem with my takeout?
+Speaker1: Don't worry, we've reordered your takeout.
+Speaker2: Okay, but what do I need to do?
+Speaker1: To compensate for your loss, we provide a free food delivery experience. Click on the link to redeem.
+Speaker2: Okay, how do I pick it up?
+Speaker1: Please open the message and there will be a link. Click on it and follow the instructions.
+Speaker2: I got the text message, so I'll open it now.
+Speaker1: Okay, feel free to contact me if you have any issues during the operation.
+Speaker2: Okay, thank you.
+Speaker1: You're welcome. I hope you're satisfied. Please feel free to contact us anytime if you have any questions. Goodbye.

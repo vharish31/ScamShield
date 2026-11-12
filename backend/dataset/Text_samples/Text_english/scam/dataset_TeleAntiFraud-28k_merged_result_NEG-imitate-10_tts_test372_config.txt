@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Lee manager, this is somebao customer service center, you bought some products on our platform and there are some issues, do you need refund, can you take the call?
+Speaker2: Okay, you say, what's the problem?
+Speaker1: Your order was mistakenly operated, resulting in you paying twice, we now need to process a refund, but for safety reasons, we need you to download our customer service exclusive app to ensure information security.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Very safe, this app is specifically designed for our customers, you can rest assured to use it, download it and I can guide you step by step.
+Speaker2: Okay, how do I download it?
+Speaker1: Open the mobile app store on your phone, search for "JD customer service", download and install it, and then register and log in using your phone number after installation.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Okay, download and install it first, then give me a call back, we'll continue to handle the refund issue.
+Speaker2: Okay, thank you.

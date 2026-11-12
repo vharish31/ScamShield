@@ -1,0 +1,12 @@
+Speaker1: Hey, are your store still open?
+Speaker2: Hello, are there anything we can help you with since our store is still open?
+Speaker1: Do you guys have any vegetables?
+Speaker2: Yes, we have a variety of vegetable options here, such as stir-fried vegetables, stir-fried mushrooms, you can check the menu.
+Speaker1: Do you provide delivery service for outside food?
+Speaker2: Yes, we can order through delivery platforms or call ahead, and then our staff will deliver the food.
+Speaker1: How long will it take for the order to be delivered?
+Speaker2: Based on your location, it usually takes 30 minutes to an hour to deliver.
+Speaker1: Okay, I placed an order, what's your phone number?
+Speaker2: Our takeout phone number is 1352468222, you can directly dial this number.
+Speaker1: Okay, thank you, we'll order food later.
+Speaker2: No problem, we're waiting for your order. Feel free to contact us if you have any questions.

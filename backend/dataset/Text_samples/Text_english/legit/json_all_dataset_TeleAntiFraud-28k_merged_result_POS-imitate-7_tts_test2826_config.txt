@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Can you help me out?
+Speaker2: Hey, what are you busy with?
+Speaker1: Can you tell me how to get to the library?
+Speaker2: From which direction did you come?
+Speaker1: I came in from the south gate.
+Speaker2: Oh, you walk straight along the main road and turn right at the third crossroad.
+Speaker1: Turn right at the third crossroad, and then?
+Speaker2: Then you will see a red big building, the library is behind it.
+Speaker1: Okay, I understand, thank you for your help.
+Speaker2: No problem, if there's anything unclear, feel free to ask me anytime.

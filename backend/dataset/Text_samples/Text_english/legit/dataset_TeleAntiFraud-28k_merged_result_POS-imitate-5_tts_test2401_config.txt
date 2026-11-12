@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, want to know your business hours tomorrow?
+Speaker2: Hello, we are open from 9am to 9pm tomorrow. Is there anything we can help you with?
+Speaker1: Can I make an appointment for tomorrow afternoon at 3 PM for a haircut?
+Speaker2: Sure, I can help you make an appointment tomorrow at 3 pm. Please provide your name and contact information.
+Speaker1: Okay, my name is Zhang San, phone number is 13801380138.
+Speaker2: Okay, Mr. Zhang Three, I have recorded it down. See you tomorrow afternoon three o'clock, remember to come early, we'll first help you choose a suitable hairstyle.
+Speaker1: Okay, thank you. Is there a convenient place to park nearby?
+Speaker2: There's a large parking lot next to our store, parking is very convenient, and it's free for the first two hours.
+Speaker1: Great, I'll drive over there tomorrow. Thank you, goodbye.
+Speaker2: No problem, see you tomorrow, be careful on the road. Bye.

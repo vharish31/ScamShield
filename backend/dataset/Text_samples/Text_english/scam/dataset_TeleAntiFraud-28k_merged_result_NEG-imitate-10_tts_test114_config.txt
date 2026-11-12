@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Agricultural Bank, Zhang Wei. Have you recently had any adjustments to your loan amount with us? Would you like to know more about it?
+Speaker2: Uh, I recently had some issues with cash flow, can you tell me specifically what's going on?
+Speaker1: Of course, our new loan product is very flexible, no collateral is required, the interest rate is very low, just provide some personal information, and it can be quickly approved.
+Speaker2: What does it sound like? What do I need to do?
+Speaker1: Just download our new app, register an account, and fill out some basic info, and we'll have a specialist contact you.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can click this link to download our official app directly, very convenient.
+Speaker2: Okay, I'll download it now. Thank you for your recommendation.
+Speaker1: You're welcome. If you have any questions, feel free to contact me anytime. Have a nice day!
+Speaker2: Okay, bye.

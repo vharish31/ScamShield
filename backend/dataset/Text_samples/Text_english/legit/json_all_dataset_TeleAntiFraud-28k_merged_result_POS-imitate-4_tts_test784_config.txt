@@ -1,0 +1,10 @@
+Speaker1: Hey, are your store still open?
+Speaker2: Hello, are your store still open? What would you like to eat?
+Speaker1: I'd like to reserve a table for two people, around 7 pm tonight.
+Speaker2: Okay, two people's location, seven o'clock tonight, can be reserved for you. Are there any other special requirements?
+Speaker1: Hey, my friend is a vegetarian, do you guys have a vegetarian menu?
+Speaker2: Yes, we have a special vegetarian menu, you can take a look beforehand, choose your favorite dishes.
+Speaker1: That's great, can you send me your vegetarian menu via email?
+Speaker2: Of course, what is your email address?
+Speaker1: My email address is example@example.com.
+Speaker2: Okay, I'll send you the vegetarian menu right away. See you at seven!

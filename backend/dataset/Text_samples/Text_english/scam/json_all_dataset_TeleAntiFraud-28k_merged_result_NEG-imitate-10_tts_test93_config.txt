@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm small Zhang, I'm the financial advisor at Xingyue Investment Company.
+Speaker2: Hello, what can I help you with?
+Speaker1: We have a great investment opportunity here, low risk high return, perfect for investors like you.
+Speaker2: What are the specifics of your investment projects?
+Speaker1: This is a new technology project that has already received recognition from many well-known investment institutions. If you're interested, you can try investing a small amount of money first.
+Speaker2: The sound is good, but I need to understand more details.
+Speaker1: Okay, I can send you a link that contains detailed project introduction and profit prediction. Just click on this link to view it.
+Speaker2: Okay, then give it to me.
+Speaker1: Okay, just a moment, I'll send you a short message with a link that you can directly open to view.
+Speaker2: Okay, thank you.

@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Li, I bought a pair of shoes from your store last time, there were some problems, I want to ask you about it.
+Speaker2: Hello, little Li, I am customer service king Wang, what questions can you tell me, I will do my best to help you solve them.
+Speaker1: That's good, it's just the sole of the shoes is a little bit cracked, don't know if it can be repaired.
+Speaker2: In this situation, we can repair your shoes for free. You can send them to the store or if you're not convenient, we can pick them up at your door with express delivery.
+Speaker1: Can I still send it myself? What is the specific address of your store?
+Speaker2: Our store is on the third floor of the shopping mall in the city center, which is bathed in sunlight. You can come on weekends, and at that time, there won't be too many people.
+Speaker1: Okay, what time is best for me to go over the weekend?
+Speaker2: You can come anytime between 10am and 6pm, there will be people here during that time.
+Speaker1: Can I choose a time, and then call you to confirm once I arrive, okay?
+Speaker2: Of course, you can call me after you arrive, I will wait for you at the door.
+Speaker1: Okay, thank you, see you this weekend.
+Speaker2: Have a nice weekend, wish you all the best.

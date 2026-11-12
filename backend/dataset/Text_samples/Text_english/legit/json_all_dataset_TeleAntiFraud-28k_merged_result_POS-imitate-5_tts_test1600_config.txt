@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is it possible to make an appointment to cut my hair here?
+Speaker1: Yes, this is a trendy hair salon, you can make an appointment for hair cutting service.
+Speaker2: Can I come over at three in the afternoon tomorrow?
+Speaker1: Sure, we have a free slot at three in the afternoon tomorrow.
+Speaker2: Okay, I'll make an appointment for tomorrow afternoon at three o'clock.
+Speaker1: Okay, your appointment has been recorded. Do you need me to remind you?
+Speaker2: If possible, could you send me a text message reminder early tomorrow morning?
+Speaker1: No problem, I will send you a text message reminder before the time comes.
+Speaker2: Thank you, see you tomorrow.
+Speaker1: Okay, see you tomorrow, be careful on the road.

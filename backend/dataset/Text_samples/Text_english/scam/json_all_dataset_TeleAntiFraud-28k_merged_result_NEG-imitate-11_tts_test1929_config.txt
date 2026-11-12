@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm small Zhang, this is the customer service representative of the Shenzhen Bank, you have applied for a credit card with us before, now there is a promotion activity, you can increase your credit limit.
+Speaker2: Oh, really? I didn't receive the text message notification.
+Speaker1: It's possible that your phone is set to block, or there was an issue with the system sending. To confirm your identity, I need you to provide your ID number and bank card number.
+Speaker2: Okay, my ID number is 123456789012345678, and my bank card number is 6222020000000000000.
+Speaker1: Okay, I have recorded it down. To complete identity verification, you need to click on a link and fill out some basic information.
+Speaker2: Okay, what is the link?
+Speaker1: Click on the link: http://example.com/verify and follow the instructions.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Thank you for your cooperation. After the operation is completed, we will quickly increase your credit limit. If there are any other issues, please feel free to contact us.
+Speaker2: Okay, thank you.

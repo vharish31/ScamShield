@@ -1,0 +1,11 @@
+Speaker2: Hello
+Speaker1: Is this a small king hair salon?
+Speaker2: Yes, are you here for a haircut by appointment?
+Speaker1: Yes, I am through Meituan booking, name is Li Ming.
+Speaker2: Okay, Mr. Li Ming, what time did you book?
+Speaker1: I have an appointment at three in the afternoon.
+Speaker2: Okay, are you coming now or do you want to wait until the time comes?
+Speaker1: I plan to go over now and see if I can cut it early.
+Speaker2: Okay, there aren't many people around now, you can come directly and cut.
+Speaker1: Great, I'm leaving now.
+Speaker2: Okay, please pay attention to safety on the road and let us know when you arrive.

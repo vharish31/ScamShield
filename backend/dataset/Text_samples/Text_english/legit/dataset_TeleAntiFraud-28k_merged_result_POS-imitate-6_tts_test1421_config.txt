@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you please tell me your restaurant's business hours?
+Speaker2: Our restaurant business hours are from 10 am to 10 pm every day, no holidays.
+Speaker1: Are you guys having a room?
+Speaker2: Yes, we have different-sized rooms that can accommodate four to twenty people.
+Speaker1: Can I book a room for 6:30 PM tomorrow night?
+Speaker2: Of course, do you need to reserve several seats?
+Speaker1: We reserved eight seats, we are a family having dinner.
+Speaker2: Okay, I have reserved a room for you for tomorrow night at 6:30 PM with a total of eight seats. Do you have any special requirements?
+Speaker1: No special requirements, thank you.
+Speaker2: You're welcome. If you have any questions, please contact us anytime. We're looking forward to your visit.

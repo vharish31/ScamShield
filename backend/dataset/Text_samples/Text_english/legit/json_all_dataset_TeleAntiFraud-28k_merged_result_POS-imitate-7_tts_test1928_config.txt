@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Zhang San. I bought a fan from your store two days ago, but I found some problems today. Can you help me fix it?
+Speaker2: Hello, Zhang San, I am customer service Li Xiao, can you please describe the specific problem? This way I can better help you solve it.
+Speaker1: Alright, after using the fan once, I found that the wind power was significantly less than before, and the sound was very loud.
+Speaker2: I understand, this situation may be due to the clogging of the internal filter, you can first try to clean the filter, if it still doesn't work, we can arrange maintenance.
+Speaker1: Could you please tell me how to clean the filter net?
+Speaker2: Of course. You first open the fan's back cover, you can see a circular filter, use a small brush or the fan's cleaning brush to clean it, then put it back and try again.
+Speaker1: Okay, I'll give it a try. If it's still not working, how do I contact you?
+Speaker2: You can directly dial our customer service hotline or click on the online customer service on the order page when purchasing, and we will handle it quickly.
+Speaker1: Okay, thank you for your help. I will first try to clean the filter net.
+Speaker2: No problem, I hope the issue can be resolved smoothly. If there are any other issues, please feel free to contact us anytime. Wish you a happy day!

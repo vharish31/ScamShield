@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Liu, are you there?
+Speaker2: Hello little Liu, I'm here, what do you have?
+Speaker1: Is this so, I just bought a phone from your store and found the screen has some issues, can I exchange it?
+Speaker2: Sure, we have a seven-day no-reason return policy here. Bring your receipt and phone over.
+Speaker1: Okay, can I go at around two in the afternoon?
+Speaker2: Two o'clock is fine, we'll close shop at six in the afternoon, you come early, we'll handle it early.
+Speaker1: Okay, I'll go directly to your service counter when the time comes. Yes, I don't remember the address clearly, can you tell me again?
+Speaker2: Of course, our store is on the second floor of the shopping center in the city center, coming from the south entrance and walking straight to the bottom, turning right you can see our store's sign.
+Speaker1: Okay, I understand, thank you for your help, see you in the afternoon.
+Speaker2: No problem, see you in the afternoon, be careful on the road.

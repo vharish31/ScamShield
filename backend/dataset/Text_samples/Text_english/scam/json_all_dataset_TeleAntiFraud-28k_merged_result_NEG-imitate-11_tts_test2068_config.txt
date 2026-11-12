@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Xiao Zhang, are you Li Laoban?
+Speaker2: Hello, I am. What do you have in mind?
+Speaker1: Mr. Li, I am small Zhang, currently working at an investment company. We recently have a very good investment opportunity with a very high return rate. Would you be interested in knowing more about it?
+Speaker2: Invest opportunity? What specifically?
+Speaker1: This is a new emerging industry investment project with great prospects. Many of our customers have already obtained high returns through this project. If you're interested, I can send you a link with detailed introduction.
+Speaker2: Can you send a link? Okay, you send it.
+Speaker1: Okay, just a moment, I'll send it to you now. Click on this link to download our app, register and you can view detailed information.
+Speaker2: Okay, I'll be right back.
+Speaker1: Li Laoban, the link has been sent to you, please click it to download our app, register and you can view the detailed investment projects.
+Speaker2: Okay, I'll go take a look. Thank you.

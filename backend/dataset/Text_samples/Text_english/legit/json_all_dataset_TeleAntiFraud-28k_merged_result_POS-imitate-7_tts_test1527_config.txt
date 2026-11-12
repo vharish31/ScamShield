@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: How is your pizza? My friend recommended it, I want to try it.
+Speaker2: Hello, our family's pizza is very popular, especially seafood pizza and Italian sausage pizza, the taste is great.
+Speaker1: Let's try seafood pizza, when do you guys start business?
+Speaker2: Our restaurant opens at 11 am in the morning and closes at 10 pm at night. What time would you like to come to be more convenient?
+Speaker1: Can you help me reserve a place around six o'clock in the evening?
+Speaker2: Of course, I have reserved a 6 pm table for you. How many people will be attending?
+Speaker1: Thank you, the two of us.
+Speaker2: Okay, the two seats have been reserved for you, see you tonight!

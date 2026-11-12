@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little Zhang. Can you tell me what the business hours are for this store?
+Speaker2: Hello, little Zhang, our store is open from 9 am to 9 pm.
+Speaker1: Okay, what's the address of your store?
+Speaker2: We are in the city center square, specifically at Guangming Road 36th number.
+Speaker1: Okay, I'll probably be there around 3 pm, is that okay?
+Speaker2: Of course, we have no problems at three o'clock here.
+Speaker1: Okay, I'll come directly when the time comes. Yes, what special products do you have in your store?
+Speaker2: Our store's most distinctive feature is handmade wooden crafts, each one unique.
+Speaker1: Sounds good, I'll take a closer look later, thanks for the introduction.
+Speaker2: No problem, little Zhang, I'm looking forward to your arrival, please let me know if you need anything at any time. Goodbye!
+Speaker1: Okay, bye!

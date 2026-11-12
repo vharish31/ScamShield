@@ -1,0 +1,8 @@
+Speaker1: Hey, how are you? I'm at the subway station exit, where are you?
+Speaker2: Hey, I just arrived at the parking lot, you walk along the main road towards the front, see the first red light and turn right.
+Speaker1: Okay, how long will it take for me to arrive?
+Speaker2: About fifteen minutes, traffic here is okay.
+Speaker1: Okay, I'm leaving now, are there any obvious landmarks on the way?
+Speaker2: Yes, after passing the red light, you will see a big supermarket, then turn right onto the small road and walk straight to the end, which is the parking lot.
+Speaker1: Okay, I'll wait for you in the parking lot.
+Speaker2: Okay, I'll go over there now, see you.

@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Liu, recently I want to buy a new phone, I heard your store has a phone activity recently, I want to know more about it.
+Speaker2: Hello, little Liu, I am the customer service staff at the store, we do have a phone promotion activity, which brand of phone are you interested in?
+Speaker1: Do you want to see the iPhone 13 of Apple? I heard it's on sale, is it true?
+Speaker2: Yes, iPhone 13 is currently on sale. The original price is five thousand eight hundred yuan, and now you can buy it for five thousand five hundred yuan and get a protective case and a metal screen protector for free.
+Speaker1: That's great, I plan to go to your store on the weekend and can you help me reserve a table?
+Speaker2: Of course, I reserved a machine for you, what time is convenient for you this weekend?
+Speaker1: Can I go at three in the afternoon on Saturday?
+Speaker2: Okay, on Saturday at 3 pm, I will be here waiting for you. Remember to bring your ID, if you need to pay in installments.
+Speaker1: Okay, thank you for your help, see you on Saturday.
+Speaker2: No problem, see you on Saturday, wish you a happy day.

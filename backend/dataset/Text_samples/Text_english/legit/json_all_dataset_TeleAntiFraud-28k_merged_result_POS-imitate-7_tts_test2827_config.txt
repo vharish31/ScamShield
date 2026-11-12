@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm here to pick you up now, is your location correct?
+Speaker2: Hmm, the location is right, but my order seems to have been canceled.
+Speaker1: Hmm, is it a phone network issue? Try refreshing and see?
+Speaker2: I refreshed, but it still shows canceled.
+Speaker1: I'll place a new order here, just wait for me a minute or two, it should arrive soon.
+Speaker2: Okay, thank you, please.
+Speaker1: No problem, you wait for me, I will come quickly.
+Speaker2: Okay, I'm waiting for you here, be careful on the road.
+Speaker1: Okay, you can relax, we'll be there soon.
+Speaker2: Okay, thank you.

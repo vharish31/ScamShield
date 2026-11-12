@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, what do you need me for?
+Speaker2: Hello, I am small Li, I want to consult your household service.
+Speaker1: Okay, our household services include cleaning, moving, and nanny, what specific service do you need?
+Speaker2: Can you provide a weekend cleaning service?
+Speaker1: Of course, we have a professional cleaning team that can provide comprehensive cleaning services. What is the area of your home?
+Speaker2: About 120 centimeters.
+Speaker1: Okay, for a 120-meter conversation, we usually need three to four hours to complete, and the cost is 200 yuan per hour. Is that suitable for you?
+Speaker2: Is this price acceptable? I plan to start at 2 pm on Saturday afternoon. Is that okay?
+Speaker1: Okay, on Saturday at 2 pm, we will arrange for our staff to arrive on time. What is the specific address of your home?
+Speaker2: The address is 33 Yangguang Road, Yangguang Xiaoju, Sanghua Lou, Erdān yīn, Lǐng'èr bāi shì.

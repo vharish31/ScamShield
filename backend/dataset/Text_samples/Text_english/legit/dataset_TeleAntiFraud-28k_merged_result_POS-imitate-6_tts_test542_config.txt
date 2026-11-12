@@ -1,0 +1,10 @@
+Speaker1: Hey, can you check the weather forecast for tomorrow?
+Speaker2: Hello, the weather forecast for tomorrow shows it will be clear, with temperatures around 23 to 28 degrees, perfect for outdoor activities.
+Speaker1: Okay, I plan to go to the zoo, do you know how to get there?
+Speaker2: Okay, you can take the third line of the subway to the zoo station and get off, then walk along the signboard for a few minutes to reach there.
+Speaker1: How do I buy a subway ticket?
+Speaker2: You can buy electronic tickets on your phone through the official subway app or directly at the subway station's automatic ticket machine. The operation is quite simple.
+Speaker1: How early should I arrive at the zoo to be good?
+Speaker2: I suggest you arrive around 9 am to avoid peak hour crowds and better enjoy the animals.
+Speaker1: Thank you for your advice. I will definitely arrive on time.
+Speaker2: No problem, feel free to ask me if you have any other questions. Have a great time!

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you King Ming?
+Speaker2: Yes, you are?
+Speaker1: I am a customer service representative at China Construction Bank, my name is Li Xiaoxia, recently our bank has a special promotion for a loan project, do you want to know more about it?
+Speaker2: Loan? I don't have this need at the moment.
+Speaker1: Understood. However, the interest rate of this project is very low, and the approval speed is fast, no need for deposit, if you consider carefully, you can click on the link I sent you and apply online.
+Speaker2: What's the link you sent? How do I know it's real?
+Speaker1: We can have a video call, I will show you my work certificate, so you can rest assured. Moreover, I can also help you book a specialized customer manager, he can introduce this project to you in detail.
+Speaker2: I'm still not very confident, what's the bank's customer service phone number? I'll call directly to confirm.
+Speaker1: This is a good idea, but I suggest you apply directly through this link, it's more convenient and quick. If you're worried, you can first apply and then contact our official customer service through the phone to confirm the information.
+Speaker2: Okay, let me try.

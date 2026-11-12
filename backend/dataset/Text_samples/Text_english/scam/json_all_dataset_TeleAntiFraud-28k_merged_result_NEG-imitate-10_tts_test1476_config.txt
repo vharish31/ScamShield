@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is some bank customer service center. Your credit card bill has an anomaly, and you need to cooperate with us to handle it. Can you?
+Speaker2: Really? I haven't used my credit card recently.
+Speaker1: Yes, we suspect that there are illegal substances using your credit card, for safety reasons, we need you to provide some information to confirm your identity.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your ID number and bank card number, as well as the verification code you received on your phone, we need to verify your identity.
+Speaker2: Okay, I'll send it to you right away.
+Speaker1: Thank you very much, to quickly process this issue, you can click on the link we sent, input relevant information.
+Speaker2: Okay, I'm going to operate now.
+Speaker1: Okay, if you have any issues during the operation, feel free to contact our customer service anytime.
+Speaker2: Okay, thank you.

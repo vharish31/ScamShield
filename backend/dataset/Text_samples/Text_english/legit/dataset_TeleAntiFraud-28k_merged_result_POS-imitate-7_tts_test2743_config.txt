@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Hi, I'm Little King, can you confirm your delivery address and contact phone number for the recent purchase of a laptop on our website?
+Speaker2: Okay, my delivery address is Happiness Small Community No. 2 Building, No. 3 Unit, No. 402 Room, contact phone is 13801380138.
+Speaker1: Okay, I've recorded it down. Your order is estimated to arrive tomorrow afternoon around 3 pm, you can pay attention to the delivery information.
+Speaker2: Tomorrow at three in the afternoon, okay, I understand. Right, if I'm not at home, can I leave it at the property office?
+Speaker1: Of course, if you're not convenient to receive, we can temporarily put the package in the property, and you can pick it up whenever you have time.
+Speaker2: That's great, thank you. And one more thing, is this notebook computer with warranty service?
+Speaker1: Yes, this laptop enjoys two years of warranty service. If any issues arise during the warranty period, you can contact us for free maintenance.
+Speaker2: Okay, now I can relax. Thank you for your help. Bye.
+Speaker1: No problem, please feel free to contact us if you have any questions. Goodbye.

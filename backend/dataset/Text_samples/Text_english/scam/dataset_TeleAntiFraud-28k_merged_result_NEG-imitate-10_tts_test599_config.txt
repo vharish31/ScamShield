@@ -1,0 +1,10 @@
+Speaker1: Hello, can you hear my voice?
+Speaker2: Can you hear me? Who are you?
+Speaker1: I am Zhang Jīngnǐ, from Huáxià Yínkōng, specialized in providing financial services to high-quality clients.
+Speaker2: Hey, what's up?
+Speaker1: Have you heard about our recently launched financial product with high returns?
+Speaker2: Is the return high? How much is it?
+Speaker1: The annual return rate can reach 15%, and the risk is very low, which is very suitable for you as a high-quality customer.
+Speaker2: Is this return so high, real or fake?
+Speaker1: "Absolutely true, our product has been approved by the China Banking Regulatory Commission. You can rest assured. For more detailed information, please click on the link I sent you and download our official app."
+Speaker2: Please send me a link, I'll take a look.

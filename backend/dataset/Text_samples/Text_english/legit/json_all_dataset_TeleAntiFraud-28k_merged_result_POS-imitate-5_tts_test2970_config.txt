@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I want to know more about your fitness programs.
+Speaker2: Hello, I am a service staff at the fitness center, we have various fitness programs here, including yoga, aerobics, strength training, etc. Which one are you interested in?
+Speaker1: Can I try out a yoga class first?
+Speaker2: Of course, we provide a free trial class. What time is convenient for you to come?
+Speaker1: Is this weekend okay?
+Speaker2: What time slot is most convenient for you during the weekend classes from 9am to 11am in the morning and 3pm to 5pm in the afternoon?
+Speaker1: 3:00 PM is fine.
+Speaker2: Okay, I'll book a yoga class for you on Saturday afternoon at 3 pm. Please arrive ten minutes early to prepare.
+Speaker1: Okay, thank you. Do I need to bring anything else?
+Speaker2: We will provide yoga mats and necessary fitness equipment here. Just wear comfortable athletic wear.
+Speaker1: Okay, see you on Saturday.
+Speaker2: See you on Saturday, looking forward to your arrival. Goodbye!

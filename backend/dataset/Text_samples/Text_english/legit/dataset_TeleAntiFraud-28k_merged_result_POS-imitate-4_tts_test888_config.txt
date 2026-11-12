@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Are you the one who made the hair appointment for tomorrow morning at 10 o'clock?
+Speaker2: Sure, but I might arrive at eleven, there's a bit going on.
+Speaker1: Okay, I'll leave it for you at eleven o'clock.
+Speaker2: Goodbye, thank you.
+Speaker1: No problem, do you need anything else to bring?
+Speaker2: I don't need it, I just want to cut my hair short, clean it up a bit.
+Speaker1: Okay, then we'll see each other tomorrow.
+Speaker2: Okay, see you tomorrow.

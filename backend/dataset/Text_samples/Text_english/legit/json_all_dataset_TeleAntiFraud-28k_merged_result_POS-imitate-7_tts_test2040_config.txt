@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiao Zhang, and I want to consult your household services on the other side.
+Speaker2: Hello, little Zhang, I am small Liu from the household service. What can I help you with?
+Speaker1: Can you tell me more about your deep cleaning service and how much it costs?
+Speaker2: Our deep cleaning service prices are determined based on the size of the house and the specific cleaning requirements. Generally, the price for one room one apartment is two hundred yuan, and two rooms one apartment is two hundred and fifty yuan.
+Speaker1: If there are children in my home, are there any additional costs that need special attention?
+Speaker2: If there are special requirements, we will charge an additional 50 yuan for our service fee, but we will ensure to provide more detailed and secure services.
+Speaker1: Sure, can I book a service for tomorrow morning at 10am?
+Speaker2: Can we meet at 10 am tomorrow? However, we need to confirm the address and specific requirements beforehand to prepare.
+Speaker1: My home address is Happiness Community No. 10, Unit 3, Room 402, which is mainly for the deep cleaning of the kitchen and bathroom.
+Speaker2: Okay, little Zhang, we will arrive on time. If there are any changes, we will contact you in advance. Thank you for your trust. Wish you have a good day.

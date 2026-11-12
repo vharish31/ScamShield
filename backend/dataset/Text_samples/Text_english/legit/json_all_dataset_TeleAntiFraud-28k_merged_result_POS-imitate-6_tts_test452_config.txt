@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? Do you have any available appointments for beauty services now?
+Speaker2: Hello, do you want to book a time slot?
+Speaker1: Can you schedule a meeting next Tuesday afternoon? Do you have any available slots?
+Speaker2: Can you check for me, are there any available slots between 3pm and 5pm on Tuesday next week? Which time do you think is more convenient for you?
+Speaker1: Can I leave at 3 o'clock?
+Speaker2: Okay, let's schedule a meeting next Tuesday at 3 PM. Please bring your ID to confirm the appointment when you arrive.
+Speaker1: Okay, I know. Right, it's my first time here, is your place good to find things?
+Speaker2: We are in the city center square, transportation is very convenient, getting off at the subway station three line square station is just out.
+Speaker1: That's great, I'll just go directly there when the time comes. Thank you for your help!
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Have a great day!

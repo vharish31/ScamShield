@@ -1,0 +1,10 @@
+Speaker1: Hello, I am small Li, I want to consult your restaurant's special dishes are what?
+Speaker2: Hello, our restaurant special dishes include Kung Pao Chicken, Steamed Fish and Roast Duck, all very popular.
+Speaker1: How much do these menus cost?
+Speaker2: The palace chicken drumstick is 38 yuan, the steamed fish is 68 yuan, the roast duck is a little more expensive, 108 yuan per portion.
+Speaker1: Okay, can I reserve a four-person booth for tomorrow night at seven o'clock?
+Speaker2: Is it okay, the four-person private room is available tomorrow night at seven o'clock. Do we need to pay a deposit in advance?
+Speaker1: Do you need to pay a deposit?
+Speaker2: To ensure your seat, we recommend paying a 50 yuan deposit, which can be deducted from your bill upon dining.
+Speaker1: Okay, can I pay the deposit through WeChat later?
+Speaker2: Okay, please send us the payment screenshot after you complete the payment, and we will confirm your reservation.

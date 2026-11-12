@@ -1,0 +1,9 @@
+Speaker1: Hey, hello, I'm waiting for you at the bus station.
+Speaker2: Hey, I just got off the car, wait a minute, I'll be there soon.
+Speaker1: Okay, be careful, don't run fast.
+Speaker2: Don't worry, I'm not in a hurry, what's your specific location?
+Speaker1: I'm standing next to the bus station sign, there's a small shop, you can see me if you see it.
+Speaker2: Oh, I know, there are a lot of people here, maybe I need to squeeze a little.
+Speaker1: No problem, this is still spacious, come over.
+Speaker2: Okay, I'll go now, see you later.
+Speaker1: Okay, see you later, be careful on the road.

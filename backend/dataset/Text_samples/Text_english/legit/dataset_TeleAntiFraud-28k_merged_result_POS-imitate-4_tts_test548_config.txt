@@ -1,0 +1,15 @@
+Speaker1: Hello, are you a taxi service?
+Speaker2: Hey, hello, yes, I want to know more about car rental.
+Speaker1: Okay, what car type are you looking to rent? We have three options here: economy, comfortable, and luxury.
+Speaker2: Hmm, I plan to rent a comfortable type, mainly for weekend outings.
+Speaker1: Okay, comfortable car types are suitable for short-distance travel. Do you have a driver's license?
+Speaker2: Yes, I just got my driver's license a month or so ago.
+Speaker1: No problem, new drivers can also rent cars, but need to pay a new driver fee.
+Speaker2: How much is the fee for a new driver?
+Speaker1: The new driver fee is a one-time collection of 200 yuan. Additionally, a deposit of 5,000 yuan is required when renting a car.
+Speaker2: Oh, what payment method can be used for the deposit? Is WeChat acceptable?
+Speaker1: Sure, you can pay with WeChat too. If your WeChat credit is not enough, you may need to use Alipay to pay.
+Speaker2: Okay, I know. Do we need to make a reservation in advance for the rental car?
+Speaker1: Yes, I recommend you book in advance, so we can prepare the vehicle for you.
+Speaker2: Okay, I plan to rent a car this weekend. Let's touch base later. Thanks!
+Speaker1: No problem, feel free to contact us anytime if you have any questions. Have a great weekend!

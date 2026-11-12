@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm at your apartment complex gate, how can I get to your house?
+Speaker2: Hey, hello, you come in from the front door, straight walk to the end, then left turn, you will see a red mailbox, then walk a little forward, the blue door on the right hand side is my house.
+Speaker1: Okay, I see a red mailbox and a blue door, that's this one?
+Speaker2: Okay, it's this one. You come up now, I heard the doorbell ring.
+Speaker1: Okay, let's go.
+Speaker2: Okay, let's go, I'm waiting for you here.
+Speaker1: I arrived, your home decoration is so stylish.
+Speaker2: Thank you, this is my own design, you like it just fine.
+Speaker1: Are you doing creative work?
+Speaker2: Are you interested in interior design?
+Speaker1: I'm a little interested, my family is also considering renovating our home.
+Speaker2: You can tell me your ideas, I can help you design.

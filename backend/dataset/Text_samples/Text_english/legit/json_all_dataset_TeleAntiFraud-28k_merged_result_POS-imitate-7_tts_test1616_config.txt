@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am 85 degrees C customer service, there might be some issues with the food you ordered recently, could you please check your order and see if it's correct?
+Speaker2: Wait a minute, I'll take a look.
+Speaker1: Okay, thank you for your cooperation.
+Speaker2: I made a mistake, it should have been sweet milk, but it turned out to be salty beef flavor.
+Speaker1: I'm so sorry to cause you inconvenience, I'll prepare a new copy of the milk tea for you right away, it will take about 10 minutes, is that okay?
+Speaker2: Sure, thank you.
+Speaker1: Okay, let's get ready again. We will send it over quickly. We apologize for the inconvenience again.
+Speaker2: Okay, thank you for your service.
+Speaker1: No thanks, this is what we should do, wish you enjoy your meal, bye.
+Speaker2: Goodbye

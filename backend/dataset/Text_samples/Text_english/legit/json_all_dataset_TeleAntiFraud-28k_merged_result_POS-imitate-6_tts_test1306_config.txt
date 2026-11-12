@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to inquire about your hairdressing appointment service.
+Speaker2: Hello, this is a beautiful sunny beach, what can I help you with?
+Speaker1: Can I make an appointment for Saturday morning at 10am to get a haircut?
+Speaker2: Is it okay? There's an opening at 10 am on Saturday morning. What service do you need to book?
+Speaker1: I want a short haired man and facial contouring.
+Speaker2: Okay, gentleman short hair and face trimming, total is eighty yuan, do you need to pay the deposit in advance?
+Speaker1: Do you need to pay a deposit?
+Speaker2: We suggest paying a deposit of 30 yuan to secure the appointment, which can be deducted from the service fee upon arrival.
+Speaker1: Okay, then I pay the deposit, how do I pay?
+Speaker2: You can pay through WeChat or Alipay, I will send you the payment code.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to check your restaurant's business hours.
+Speaker2: Hello, our restaurant is open from 10 am to 10 pm, no breaks in between.
+Speaker1: Do you have a room?
+Speaker2: Yes, we have various sized rooms here that you can book according to your needs.
+Speaker1: Okay, I want to reserve a room that can seat ten people, around 7 pm on Saturday night.
+Speaker2: Okay, the reservation for the room on Saturday night at 7:00 PM is confirmed. Do you need me to record your contact information?
+Speaker1: Please, my phone number is 13813801380.
+Speaker2: Okay, I have recorded it down. We will confirm via phone beforehand. Are there any other requirements?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival. Goodbye!

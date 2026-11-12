@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how can I help you?
+Speaker1: I'm little Zhang, yesterday on your platform I booked car maintenance service, want to confirm time and location of appointment.
+Speaker2: Okay, little Zhang, what is your appointment time?
+Speaker1: Is the location at the service station on Lightning Road at three in the afternoon?
+Speaker2: Yes, your memory is correct. The meeting point is at the service station on Guangming Road. We will be ready for everything when you come.
+Speaker1: Okay, I'll leave around 2:40, I should arrive on time.
+Speaker2: That's great, please contact us immediately if there are any changes.
+Speaker1: Thank you for reminding me. If there are no other questions, I'll hang up the phone.
+Speaker2: Okay, wish you all the best, bye.

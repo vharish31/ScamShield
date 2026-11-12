@@ -1,0 +1,12 @@
+Speaker1: Hey, are you coming to our company for an interview tomorrow?
+Speaker2: Hello, yes, I will go to your company for an interview tomorrow.
+Speaker1: Okay, what time do you think you'll arrive?
+Speaker2: Can I arrive at nine o'clock?
+Speaker1: 9:00 is fine, our company's address is the first big building in the city center. Remember to leave early, traffic here is a bit congested.
+Speaker2: Okay, I will leave early.
+Speaker1: Remember to bring your resume and related documents during the interview. We will meet you at the front desk.
+Speaker2: Okay, I know now, thank you for reminding.
+Speaker1: Also, parking is not good near our company. It's best to take public transportation.
+Speaker2: Okay, I will take the subway.
+Speaker1: Okay, just be careful on the road, see you tomorrow.
+Speaker2: Okay, see you tomorrow, thank you.

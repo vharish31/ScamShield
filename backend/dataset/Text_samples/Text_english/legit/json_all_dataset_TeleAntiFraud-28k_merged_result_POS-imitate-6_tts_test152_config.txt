@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Hey, do you know of any good hot pot restaurants in your area?
+Speaker2: Yes, there's a famous hot pot restaurant here called "Hong Huohuo," have you been there before?
+Speaker1: I haven't been there, but my friend said it's not bad, I want to go try it out.
+Speaker2: You can try, their beef and tofu are both delicious.
+Speaker1: Great, how do I get to that store?
+Speaker2: Walk straight from here to the second crossroad, then turn right and keep going until you reach the end, and you'll see the hotpot shop.
+Speaker1: Okay, I know, roughly how long will it take?
+Speaker2: Let's walk for about fifteen minutes.
+Speaker1: Thank you for your help, now I'm off.
+Speaker2: You're welcome, I hope you enjoy your meal, feel free to contact me if you need further assistance.

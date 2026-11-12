@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? I am the property manager of your community, your water and electricity meter readings are not accurate, can I come take a look?
+Speaker2: Okay, when do you have time to come over?
+Speaker1: Can we meet at three in the afternoon?
+Speaker2: Sure, just ring the bell when you arrive.
+Speaker1: Okay, I arrived at the meeting. Also, recently there's a stray cat in the neighborhood, if you see it, please keep an eye on it.
+Speaker2: Okay, I will pay attention. Thank you.
+Speaker1: No problem, we will also strengthen patrols. See you in the afternoon.
+Speaker2: Okay, see you in the afternoon.

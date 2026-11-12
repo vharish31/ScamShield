@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Li, do you guys have any new products on the shelf?
+Speaker2: Hello, little Li, I am store employee Wang, we recently launched a batch of new products, quite a variety, which product do you want to know about?
+Speaker1: Do you have any recommendations for electronic products like phones and earphones?
+Speaker2: We've recently received a batch of new smartphones with excellent performance, and there are also several blue tooth earphones with great sound quality and battery life. Do you have any requirements for the price?
+Speaker1: My budget is roughly between one thousand to two thousand, mainly looking at value for money.
+Speaker2: In this price range, we have a balanced-configured smartphone suitable for daily use, as well as two high-value earphones with a great price-to-value ratio. You can come to the store to try them out yourself.
+Speaker1: Can I make a reservation for a time to look?
+Speaker2: Of course, when do you want to come? We are open from 9am to 9pm every day.
+Speaker1: Can I come at three in the afternoon tomorrow?
+Speaker2: Okay, tomorrow afternoon at three o'clock, I will be here waiting for you. If you have any other questions, please contact me anytime.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

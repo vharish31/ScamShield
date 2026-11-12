@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer manager of the construction bank, based on our system's evaluation, you can get a personal consumption loan of 30,000 yuan, do you have any recent financial needs?
+Speaker2: Okay, no need at the moment.
+Speaker1: Okay, no problem. But if you need anything in the future, you can consider our product, it's very convenient and quick. By the way, can you add my WeChat? It's convenient for future contact.
+Speaker2: Add me on WeChat?
+Speaker1: Yes, we have a special microphone for customers to provide service. You can ask any questions at any time. Add my microphone, I will send you a code in a moment.
+Speaker2: Okay, let's go.
+Speaker1: Okay, I will immediately send it to you, please pay attention to check it. Moreover, we also have a special app for online loan processing, which is very simple to operate, you can also download and try it.
+Speaker2: What's the name of the app?
+Speaker1: You can download "Light Loan" from the app store and register to enjoy more discounts.
+Speaker2: Okay, thank you for your recommendation. I will take a look.

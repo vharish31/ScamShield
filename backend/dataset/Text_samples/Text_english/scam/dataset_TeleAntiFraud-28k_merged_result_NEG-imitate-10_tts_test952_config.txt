@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm small Li, the customer manager of commercial bank. We noticed that your credit card limit hasn't been used for a while. There's a special promotion now that can help you increase your credit limit. Are you interested in learning more?
+Speaker2: Sure, but I'm still using it pretty well, why do you want to increase the limit?
+Speaker1: Increasing credit limits can provide you with more financial flexibility when you need it, especially in emergencies such as home renovation, travel, or purchasing large items, which can be very convenient.
+Speaker2: What should I do now that it sounds good?
+Speaker1: It's very simple. Just click this link, follow the instructions to fill out the information, and you can complete the application in a few minutes.
+Speaker2: Link? How do I get this link?
+Speaker1: Okay, I'll send you a text message with a link right away. Just click on it to complete the task.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, wait a moment, the text message has been sent successfully. Please handle it as soon as you receive it. This activity has limited spots, first come first served.
+Speaker2: Okay, thank you for your recommendation. I will take a look.

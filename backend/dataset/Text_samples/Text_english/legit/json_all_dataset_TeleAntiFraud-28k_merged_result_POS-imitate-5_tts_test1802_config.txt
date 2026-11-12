@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me? Who are you?
+Speaker1: Hello, I am the customer service of the happy shopping platform, your account has a penny of integration that is about to expire tonight at twelve o'clock, have you used it yet?
+Speaker2: Oh, really? How did I miss that?
+Speaker1: Yes, you have 30,000 points on your account, which can be exchanged for goods worth over 4,000 yuan. Please log in to your account and take a look.
+Speaker2: Okay, I'll take a look. How do these points come about?
+Speaker1: These points are the ones you accumulated while shopping on our platform, and you will receive bonus points for every purchase of a certain amount.
+Speaker2: What can I exchange now?
+Speaker1: You can exchange various products, such as electronic products, daily necessities, and food, and you can check the specifics by logging in to your account.
+Speaker2: Okay, thank you for your reminder. I'll go take a look.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, happy shopping!

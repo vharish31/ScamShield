@@ -1,0 +1,8 @@
+Speaker1: Hello, this is the official customer service center. I am customer service representative Li. Have you recently purchased a product on our platform?
+Speaker2: Yes, I bought a pair of shoes.
+Speaker1: Okay, we noticed that the products you bought may have quality issues, to protect your rights, we need to handle the refund process for you.
+Speaker2: Uh, how do we handle that?
+Speaker1: To quickly process, you need to first download our official app, click here, I send a link to your phone.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, to ensure your funds are safe, we need your bank account and verification code to quickly refund you.
+Speaker2: Okay, I'll provide it later.

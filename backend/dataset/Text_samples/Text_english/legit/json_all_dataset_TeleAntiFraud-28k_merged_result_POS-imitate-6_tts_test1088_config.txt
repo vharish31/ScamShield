@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I assist you with the new phone models you recently browsed on our website?
+Speaker2: Oh, hi, it's like this, I think this phone's configuration is pretty good, but I don't know how to use it specifically, how's the battery life?
+Speaker1: This phone's battery capacity is 4000mAh, which is enough for normal use for a whole day, and many users have reported that they can use it for half a day to two days.
+Speaker2: How is the photo effect?
+Speaker1: The camera of this phone has a 48-megapixel main camera, as well as a wide-angle and macro lens, which can capture clear and high-quality photos for both daily use and travel records.
+Speaker2: Does this phone have any discounts now?
+Speaker1: Our store is currently running a spring promotion campaign. Buy this phone and enjoy a discount of three hundred yuan, and also receive a handphone case worth one hundred eighty-eight yuan for free.
+Speaker2: If I buy it and then don't like it, can I return it?
+Speaker1: Of course, our store supports seven-day no-reason return and exchange, as long as you keep the product in its original packaging and it doesn't affect secondary sales, you can apply for a return.
+Speaker2: Okay, thank you for your detailed introduction. I will consider it.
+Speaker1: You're welcome, feel free to contact me anytime if you have any questions, I hope you have a pleasant shopping experience in our store.

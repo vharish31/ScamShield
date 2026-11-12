@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer manager of the Agricultural Bank, Tianhe Branch, Li Xiaoyu. Do you have any recent loan needs?
+Speaker2: Hey, a loan, I actually need one recently, can you introduce me to one?
+Speaker1: Of course, we have a special discount loan project here, with low interest rates and fast approval, just download our app and fill out some basic information to quickly complete the application.
+Speaker2: What's the name of this app, and how do I download it?
+Speaker1: Download and install the app called "Speed Loan King" from the app store on your phone, register with your phone number, and fill out the relevant information to start using it.
+Speaker2: Okay, let me try to see, but what documents do I need to provide for this loan application?
+Speaker1: It's very simple. Just provide your ID and some basic income proof, and our specialized staff will review it. Generally, it takes 24 hours to complete the approval.
+Speaker2: What fees do I need to pay when I apply?
+Speaker1: No need at all, our project is free to apply for, we only charge a certain service fee after the loan is successful, and this fee is very low, almost negligible.
+Speaker2: Okay, I'll go download the app now, thanks for the introduction.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you a successful application.

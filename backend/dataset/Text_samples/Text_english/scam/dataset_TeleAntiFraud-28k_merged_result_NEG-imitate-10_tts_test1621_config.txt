@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Zong?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Zhang, the customer manager at China Construction Bank. We noticed that you recently have a need for cash flow, so we've specially prepared a low-interest loan product for you. Would you be interested in learning more about it?
+Speaker2: Loan? I don't need it now, thank you.
+Speaker1: Li Zhōng, this loan product is very flexible, no collateral, approval speed is fast, and the interest rate is very low, just provide some basic information, and we can quickly process it for you.
+Speaker2: No need, I am recently rich.
+Speaker1: Li Zhòng, wǒ míng dào nián de huì gù, dàn zhè kuàn shòu pò dì fēi héng zhōng xiǎo qǐ yè hóu, rú guān yī xiàng zhòng de wèi xiàn, héng yī xiàng zhòng de wèi xiàn, yǒu yīng yīng yòng
+Speaker2: Add me on WeChat? I'm not very convenient.
+Speaker1: Li zhōng, jiā gè wēixīn bù nào shì, zhè shì fāng biàn gōng xué, wǒ de wēixīn huǒ shì zhāng xiǎolǐ 123, jiā gè hǎoyǒu, yǒu shì qiǎn shì liàn xià, liú xiàng liú xiàng.
+Speaker2: Okay, I'll add you on WeChat, but that doesn't mean I'll definitely lend you money.

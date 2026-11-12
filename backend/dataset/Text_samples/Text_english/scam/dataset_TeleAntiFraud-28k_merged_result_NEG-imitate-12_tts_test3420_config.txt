@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of South Lake Agricultural and Commercial Bank, Li Huai. We have just launched a very favorable loan product on this side. Are you interested in learning more about it?
+Speaker2: Hello, I don't need a loan at the moment, thank you.
+Speaker1: Understood, but our loan products are very flexible, no collateral is required, and the approval process is very fast. If you need it, you can contact us anytime.
+Speaker2: Well, I'll consider it first, thank you for your recommendation.
+Speaker1: Okay, I can send you a detailed introduction of our product and the application link. Let me know if you have time to take a look and what you think.
+Speaker2: Okay, send it over, I'll take a look.
+Speaker1: Okay, I'll send it to your phone later. If you have any questions, feel free to call our customer service hotline anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, I hope our service can help you, wish you a happy life, goodbye.
+Speaker2: Goodbye.

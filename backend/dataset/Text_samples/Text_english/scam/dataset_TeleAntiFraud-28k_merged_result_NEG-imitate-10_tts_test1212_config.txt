@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative for Yunshanfu, you previously applied for a loan with us, and now the review has been approved, the amount is ten thousand yuan.
+Speaker2: Oh, really? I didn't receive the text message notification.
+Speaker1: It's probably just a system delay, don't worry, I can confirm it for you.
+Speaker2: Okay, thank you.
+Speaker1: No problem, in order to ensure the safety of the funds, we need you to pay a deposit of three thousand yuan first, which will be returned to you after the loan is disbursed.
+Speaker2: Deposit? This sounds a bit off.
+Speaker1: That's it, that's the bank policy to prevent malicious lending, you can rest assured, this step is necessary.
+Speaker2: How do I pay?
+Speaker1: You can pay through our official app, I'll send you a link in a sec, just click on it to download the app and follow the instructions to complete the payment.
+Speaker2: Okay, I'll take a look in a moment.

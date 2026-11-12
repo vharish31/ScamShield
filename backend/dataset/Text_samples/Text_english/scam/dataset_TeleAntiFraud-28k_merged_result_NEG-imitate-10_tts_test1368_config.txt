@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of Sequoia Express, there is a package delivered for you, but due to some reasons, you need to confirm it.
+Speaker2: Hello, do you have any questions?
+Speaker1: Your package may be held at customs if you don't provide additional information.
+Speaker2: What do I need to do?
+Speaker1: You can click on the links we provide and fill in the relevant information, so we can help you handle it.
+Speaker2: How do I know this link is safe?
+Speaker1: We are a legitimate express company, the link is safe, you can trust clicking. If you're not sure, you can add my WeChat, I'll send it directly to you.
+Speaker2: Okay, let me try it out.
+Speaker1: Great, add my WeChat, my WeChat number is the last digit nine three two, I will directly send you the link.
+Speaker2: Okay, I'll add you on WeChat.

@@ -1,0 +1,8 @@
+Speaker1: Hey, how are you? I'm little Zhang, I want to make an appointment for a haircut, do you guys have any available time here?
+Speaker2: Hello, little Zhang, I am the hair salon customer service king, we have a new vacancy here tomorrow afternoon at three o'clock, can you?
+Speaker1: Can we meet at 3 o'clock? What time do I need to leave to get there from my place?
+Speaker2: The journey from your home to the conversation is about twenty minutes, but the traffic situation may be different, so it's recommended to leave a little earlier.
+Speaker1: Okay, I'll probably leave at 2:40, if I encounter any problems on the road, can I call you in advance?
+Speaker2: Of course, our phone number here is 13456789, feel free to contact us anytime.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: Okay, see you tomorrow, be careful on the road.

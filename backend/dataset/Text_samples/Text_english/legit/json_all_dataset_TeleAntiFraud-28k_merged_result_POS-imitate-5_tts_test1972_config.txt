@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Li, the customer service of the point mall, I see that your points in your account haven't been used for a long time, and all your points will be cleared tonight, do you know?
+Speaker2: Oh, really? I didn't receive the text message notification?
+Speaker1: It's possible that your message was intercepted. You now have over ten thousand points in your account, which you can exchange for many great things, like smartwatches or high-definition TVs.
+Speaker2: How do I exchange it?
+Speaker1: You can select your favorite products on our point store webpage and directly deduct cash with points. I apply for a special privilege for you, and the remaining points after exchange can be saved in your account.
+Speaker2: Okay, then I'll go try it now.
+Speaker1: Okay, if you have any issues during the process, feel free to contact me. Have a great exchange!
+Speaker2: Thank you for your help, it's really inconvenient for you.
+Speaker1: No problem, this is my job, I hope you're satisfied. Please feel free to contact us anytime if you need anything.
+Speaker2: Okay, I will remember. Goodbye.

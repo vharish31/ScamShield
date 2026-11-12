@@ -1,0 +1,9 @@
+Speaker2: Hi, how are you? I'm wondering about your hotel's accommodation and price.
+Speaker1: Hello, our hotel has various room types. Do you want to stay in a standard room or a luxury room?
+Speaker2: I look at the standard between, two people live
+Speaker1: What is the standard price per night, including breakfast, and how many days do you plan to stay?
+Speaker2: Can I reserve a room for three nights?
+Speaker1: Okay, but you need to provide your ID information so we can register.
+Speaker2: Okay, my ID number is 1234567890123, move-in time is next Monday.
+Speaker1: Okay, I have already booked for you. You will check in next Monday. Don't forget to bring your ID.
+Speaker2: Okay, thank you, see you later.

@@ -1,0 +1,11 @@
+Speaker1: Hi, how are you? I want to reserve a seat for tomorrow at noon, is it possible?
+Speaker2: Hello, is it possible, how many seats are you reserving?
+Speaker1: Two people, my friend and I.
+Speaker2: Okay, two seats have been reserved for you. What's your name and contact number so we can confirm the reservation?
+Speaker1: I am Li Huai, my phone number is 13800138000.
+Speaker2: Okay, Li Huangshēng, I have recorded your information. Please arrive on time tomorrow. If there are any changes, please contact us in advance.
+Speaker1: Okay, thank you. Is there another question? Do you have any special menu recommendations?
+Speaker2: Our menu here has steamed cod and spicy chicken wings, both very popular. You can try them.
+Speaker1: That sounds good, we will consider it. Thank you for your recommendation.
+Speaker2: You're welcome. I'm looking forward to your visit. If you need any further assistance, please feel free to call. Goodbye.
+Speaker1: Okay, bye.

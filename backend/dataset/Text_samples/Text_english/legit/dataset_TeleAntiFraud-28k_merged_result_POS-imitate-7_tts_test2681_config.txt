@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Zhang San, my friend said there's a new BBQ place in your area, I want to know more about it.
+Speaker2: Hello, I'm little Li from the barbecue shop. Yes, our shop is just newly opened. What can we help you with?
+Speaker1: Do you have any special recommendations in your store?
+Speaker2: Our store's special recommendations are lamb skewers, grilled fish, and seafood platter, all very popular, are you interested in trying them?
+Speaker1: How is your business hours?
+Speaker2: We are open from 11 am to 10 pm every day, and on weekends we extend until 11 pm.
+Speaker1: Can I reserve a spot in advance?
+Speaker2: Of course, when do you plan to come? Do you need to reserve several seats?
+Speaker1: This weekend at 7 pm, book a table for four.
+Speaker2: Okay, I have already booked for you, this weekend at seven o'clock, four people, just come directly at the time.

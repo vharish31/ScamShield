@@ -1,0 +1,12 @@
+Speaker1: Hello, you are a customer service representative from Commercial Bank, Li, how are you?
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed your recent loan application at our bank, and your information has been approved.
+Speaker2: Oh, really? That's great, I really need to turn over some cash recently.
+Speaker1: Yes, we can provide you with a loan without collateral, with a very low interest rate.
+Speaker2: What do I need to do?
+Speaker1: You need to download our bank's official app and complete the final signing process through the app.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can download it through this link. I sent you a text message with a download link. Just open the link and you can download it.
+Speaker2: Okay, I'll take a look at my text messages in a moment.
+Speaker1: Okay, the message has been sent to you. After downloading the app, follow the instructions to proceed. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

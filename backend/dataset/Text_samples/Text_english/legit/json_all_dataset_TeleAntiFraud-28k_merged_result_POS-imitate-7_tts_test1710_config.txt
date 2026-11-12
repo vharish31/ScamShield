@@ -1,0 +1,10 @@
+Speaker2: Hello, do you have something to talk to me about?
+Speaker1: So, I have a package that needs to be delivered to you, how can I send it over to you?
+Speaker2: Okay, you can deliver it to the door of the community, I'll wait for you at the door.
+Speaker1: Okay, roughly how long will it take you to get there?
+Speaker2: Where are you starting from?
+Speaker1: I'm leaving from the station side, I think it will take about twenty minutes.
+Speaker2: Okay, I'll wait for you at the community door. Remember to call me.
+Speaker1: Okay, I'll call you when I arrive.
+Speaker2: Okay, be careful on the road. Bye.
+Speaker1: Okay, bye.

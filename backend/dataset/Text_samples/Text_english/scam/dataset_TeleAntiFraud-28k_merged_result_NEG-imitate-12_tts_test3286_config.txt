@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Xingguang E-commerce Platform. Recently, you purchased a smartwatch from our platform because of a production batch issue, and the manufacturer needs to recall it for a free replacement. Would you be able to handle it?
+Speaker2: What? My watch has a problem? What should I do now?
+Speaker1: Don't worry, we have already prepared a new watch for you. To ensure your information is safe, you need to download our official app first to complete the exchange process. It's very simple, are you ready to download now?
+Speaker2: Okay, let me try.
+Speaker1: Great! After downloading, please use your phone number to register and log in, then click the "Call Back Service" button on the homepage and follow the instructions. If you have any issues, feel free to contact me anytime.
+Speaker2: What information do I need to provide?
+Speaker1: Yes, you need to provide your purchase order number and delivery address, so we can confirm your identity and arrange for a courier to pick up at your door.
+Speaker2: Okay, I know, I'm going to download the app now.
+Speaker1: Thank you very much for your cooperation. We will provide detailed guidance on the app. If you have any questions, please contact me anytime. Have a happy life!
+Speaker2: Thank you, goodbye.

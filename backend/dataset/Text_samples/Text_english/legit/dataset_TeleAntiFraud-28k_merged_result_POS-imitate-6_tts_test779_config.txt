@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to know what are the special dishes in your restaurant?
+Speaker2: Hello, our restaurant special dishes include spicy and sour hot pot, steamed fish with clear broth and our signature beef noodle soup, all of which are very popular.
+Speaker1: "Hmm, that sounds good. I want to reserve a window seat for two people, around 7 pm tomorrow night."
+Speaker2: Okay, the two-person window position for 7 pm tomorrow night has been reserved for you. Do you need to inform me of your name in advance to confirm?
+Speaker1: I am Li Ming.
+Speaker2: Okay, Li Ming Xiāngshēng, we have recorded it down. See you tomorrow evening at seven.
+Speaker1: Okay, thank you. Is there another question? Do your restaurant provide free parking service?
+Speaker2: We provide free parking service, but parking spots are limited, suggest you come early.
+Speaker1: I understand, thank you for your help.
+Speaker2: You're welcome. If you need any other help, please feel free to contact us anytime. Goodbye.

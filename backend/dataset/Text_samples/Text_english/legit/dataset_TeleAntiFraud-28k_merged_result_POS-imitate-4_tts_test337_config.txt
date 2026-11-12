@@ -1,0 +1,12 @@
+Speaker1: Hello
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you recommend a phone for a newbie?
+Speaker2: Of course, what do you usually do with your phone? Play games, watch videos, or work?
+Speaker1: I mainly use it to watch videos and occasionally play games, and sometimes I process work emails.
+Speaker2: I recommend a phone with a high price-to-performance ratio. The screen display is excellent, the gameplay is smooth, and the battery life is good.
+Speaker1: How much does this phone cost?
+Speaker2: This phone costs 3200 yuan, and now there's a gift included when you buy it.
+Speaker1: When can I come pick up the gift?
+Speaker2: You can choose to pick up directly from our store or choose fast delivery, it will arrive the fastest by tomorrow.
+Speaker1: Can I choose delivery, do you support cash on delivery?
+Speaker2: We support multiple payment methods, including cash on delivery.

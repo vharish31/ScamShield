@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm the customer service of the food square, you ordered dinner from us before, want to confirm your order details?
+Speaker2: Hey, hello, I did book a table, where am I eating now?
+Speaker1: You can find our staff on the third floor of the food square, where there is a sign saying 'takeout'.
+Speaker2: Okay, how long will it take for me to go over there?
+Speaker1: Typically, waiting time is around fifteen minutes because it's peak mealtime now, so it might take a little longer.
+Speaker2: Can I go for a stroll first and then come back to have dinner later?
+Speaker1: Of course, as long as you remember your order number, just tell the staff when you come back, and they will prepare it for you.
+Speaker2: Okay, thank you for your reminder, I'll go for a stroll first.
+Speaker1: You're welcome, hope you enjoy your meal, feel free to contact us if you have any questions.
+Speaker2: Okay, thank you again, goodbye.

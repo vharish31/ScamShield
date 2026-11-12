@@ -1,0 +1,11 @@
+Speaker1: Hello, this is Shenzhen Bank, I am customer service manager Zhang.
+Speaker2: Hello, what do you have?
+Speaker1: Have you noticed our recent loan application at our bank? Do you need an urgent cash advance?
+Speaker2: I haven't applied for a loan yet.
+Speaker1: It's possible that our system misjudged, but if you have a financial need, we can provide a no-collateral loan of a certain amount, no need for review.
+Speaker2: Really? Then what do I need to do?
+Speaker1: You just need to download our bank app, register an account, and fill out some basic information to apply.
+Speaker2: Where can I download the app?
+Speaker1: You can scan the link I send you and download directly.
+Speaker2: Okay, I'll try.
+Speaker1: Okay, if you have any issues during the operation, feel free to contact me anytime.

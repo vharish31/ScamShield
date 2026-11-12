@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is a delicious restaurant. Is there anything I can help you with?
+Speaker2: Hello, what is your special dish today?
+Speaker1: Our special dishes today are red braised pork and steamed fish, very popular, would you like to try?
+Speaker2: Okay, I want to reserve a spot, around 7 pm, for two people.
+Speaker1: Okay, the 7:00 PM two-person position has been reserved for you. Do you have any special seat requirements?
+Speaker2: It's best to sit by the window, so you can see the scenery outside.
+Speaker1: I understand. We will prioritize the window seat for you. What's your name?
+Speaker2: I am Li Ming.
+Speaker1: Okay, Mr. Li, the window seat at 7:00 has been reserved for you. Just go to the front desk and give your name when you arrive.
+Speaker2: Okay, thank you for your service, see you later.
+Speaker1: No problem, Li First Surname, see you later, wish you a happy day!

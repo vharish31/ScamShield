@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I ordered a car on your website yesterday, but this morning I found out it couldn't be used, what happened?
+Speaker2: Hello, I am a customer service representative. What specific problem have you encountered?
+Speaker1: My WeChat balance can't be used anymore. It could be used for orders yesterday, but now it says my WeChat balance is insufficient.
+Speaker2: Your WeChat credit score is a comprehensive evaluation based on your usage, even if it meets the standard, it may be temporarily unavailable due to other reasons.
+Speaker1: What happened? I could use it yesterday, but suddenly I can't use it today.
+Speaker2: It's possible that you've recently used WeChat to make multiple guarantees, or there are unfinished orders, which is temporarily preventing you from using it again.
+Speaker1: Uh, did I cancel an order yesterday because of this?
+Speaker2: There's a chance that your situation is special, so we suggest you try using Alipay's JD credit, see if you can place an order successfully.
+Speaker1: Okay, I'll try using Alipay, thank you.
+Speaker2: No problem, feel free to contact me if you have any questions. Have a nice trip!

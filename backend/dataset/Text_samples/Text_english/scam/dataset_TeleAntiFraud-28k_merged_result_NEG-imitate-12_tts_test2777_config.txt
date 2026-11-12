@@ -1,0 +1,10 @@
+Speaker1: Hello, hello, hello. Hi, I'm small Li. I'm the credit manager of China Information Bank. You're the boss?
+Speaker2: Hello, I am Zhang Zhòng, what do you have?
+Speaker1: John, we have launched a special discounted loan product on this side, with a low interest rate, quick disbursement, no collateral required, and it is very suitable for you as a small business owner.
+Speaker2: Oh, really? I need a capital rotation right now, can you introduce it in detail?
+Speaker1: Of course, Zhang Zong, in order to better understand your needs, I need you to provide some basic information, such as your identity card number and bank card number.
+Speaker2: Okay, how can I provide it to you?
+Speaker1: John, you can fill out the relevant information by scanning the QR code I sent you, and our backend will process it immediately.
+Speaker2: QR code? How do I get it?
+Speaker1: John, please wait for a moment, I will send you a link via text message, you can scan the QR code after clicking the link.
+Speaker2: Okay, I'll take a look later.

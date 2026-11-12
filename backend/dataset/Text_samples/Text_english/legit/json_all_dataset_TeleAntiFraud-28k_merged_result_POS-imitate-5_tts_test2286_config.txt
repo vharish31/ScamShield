@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I want to ask if your restaurant has a vegetarian set meal?
+Speaker2: Hello, we have several vegetable set meals here, do you want to know the specific dishes and prices?
+Speaker1: Yes, can you tell me all the dishes?
+Speaker2: Of course, our vegetable set meal includes pickled cabbage, stir-fried vegetables, tofu soup, set meal two is mushroom stir-fried green pepper, ginger and green onion, tomato stew tofu.
+Speaker1: How much do they cost?
+Speaker2: The price of set meal one is 35 yuan, the price of set meal two is 40 yuan.
+Speaker1: Okay, can I reserve a set menu one?
+Speaker2: Of course, what time do you plan to come for dinner?
+Speaker1: What time do I need to book in advance for a 5:30 PM arrival?
+Speaker2: We suggest booking an hour in advance to prepare your meal. If it's 5:30 now, that's perfect.
+Speaker1: Okay, I'll book a table for one, thank you.
+Speaker2: Okay, I have reserved a table for you at 5:30. Welcome!

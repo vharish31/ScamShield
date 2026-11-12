@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is Huaxin Bank. I see you recently submitted a loan application on our website. Do you have any funding needs?
+Speaker2: Hey, is this how it is, I recently really need some rotating capital, can you provide it?
+Speaker1: Of course, we have a special loan product that is particularly suitable for small and medium-sized enterprises, with a low interest rate and fast approval, you only need to provide some basic information, and we can start the review immediately.
+Speaker2: What materials do I need to prepare?
+Speaker1: You just need to provide your ID, business license, and the last three months' financial report. We have a specialist who can help you. To speed up the approval process, you can first add my WeChat, I'll send you the list of required materials.
+Speaker2: Okay, let me add your WeChat. Can you send me your WeChat number?
+Speaker1: Okay, my WeChat number is HXBANK2023, add me after and I'll send you the list of materials right away.
+Speaker2: I'll add you now, just a moment.
+Speaker1: Okay, after you add me, I will send you the materials immediately. Also, to ensure your financial safety, we need you to pay a deposit first, so we can open up the loan channel for you.
+Speaker2: Deposit? How much is needed to be paid?
+Speaker1: Just need to pay one thousand yuan as collateral, loan approval will refund in full after. You can transfer through bank card to our designated account.

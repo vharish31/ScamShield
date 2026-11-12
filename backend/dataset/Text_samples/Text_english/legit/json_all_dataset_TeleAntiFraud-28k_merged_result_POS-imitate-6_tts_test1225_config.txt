@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of an e-commerce platform. You have a credit on your account that will expire tonight at midnight. Have you redeemed it yet?
+Speaker2: Really? I didn't see the notification.
+Speaker1: I just checked your account and there is indeed a balance of 26,800 yuan, which can be used to redeem over 3,900 yuan worth of products.
+Speaker2: Oh, how did I miss that?
+Speaker1: You might have missed the text message reminder. You can check it on our platform or I can send you another text message to confirm.
+Speaker2: Okay, send another text message.
+Speaker1: Okay, I'll send it to you right away. After you receive the text message, remember to go exchange it quickly, otherwise you'll waste it.
+Speaker2: Okay, thank you for your reminder.
+Speaker1: No problem, feel free to contact me anytime.
+Speaker2: Okay, I will pay attention. Thank you!

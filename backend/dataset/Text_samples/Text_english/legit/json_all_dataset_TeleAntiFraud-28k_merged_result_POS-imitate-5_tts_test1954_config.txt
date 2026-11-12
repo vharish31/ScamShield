@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, do you have any recommendations here?
+Speaker2: Hello, Xiaoming, we have many styles of phones here. What do you mainly use your phone for? For example, playing games, taking photos, or daily use?
+Speaker1: It's mainly for daily use, sometimes I like to play games, and taking photos is quite important.
+Speaker2: I recommend a high-value phone with great camera quality and sufficient performance for daily use and gaming.
+Speaker1: How much does this phone cost?
+Speaker2: This phone costs 2500 yuan, there's a discount now, you can get 90% off.
+Speaker1: Nine discounts, that's quite a good deal. Is this phone in stock now?
+Speaker2: Yes, this phone is currently in stock, you can directly go to the store to take a look, or we can also give you a quick delivery.
+Speaker1: Can you tell me the specific address of your store?
+Speaker2: Of course, our store is on the third floor of the electronic city in the city center. You can easily find it when you come, and if you can't find it, you can call me.

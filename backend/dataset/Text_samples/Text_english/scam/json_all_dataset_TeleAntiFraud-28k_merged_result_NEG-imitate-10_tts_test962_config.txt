@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Hello, I am Lee, who are you?
+Speaker1: Hello, I am an electronic commerce customer service representative from Starry Electronics, we noticed that there were issues with your order during delivery, please cooperate to handle them.
+Speaker2: Is there a problem with my order?
+Speaker1: Yes, your package was accidentally lost during transportation. To compensate for your loss, we need you to provide some information so we can process your refund.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your bank card number and verification code. We will return the funds to your account within twenty-four hours.
+Speaker2: How do I know you guys are legitimate?
+Speaker1: You can access our official website or directly download our official app from the mobile app store, and operate it more safely through the app.
+Speaker2: Okay, let me try.

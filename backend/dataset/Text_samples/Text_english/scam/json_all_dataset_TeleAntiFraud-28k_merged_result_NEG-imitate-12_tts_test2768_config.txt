@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Zhang, a loan advisor at Commercial Bank, we have a new loan project with a very low interest rate, want to know more about it?
+Speaker2: Hello, I'm not interested in loans.
+Speaker1: Okay, that's really too bad. But our activity this time is really beneficial, just need you to provide some basic information, enjoy a low interest rate of up to 4%, and the approval speed is fast, consider it?
+Speaker2: Can you hear it? Then what do I need to do?
+Speaker1: Great, just click this link and fill out a simple application form, and we'll have a dedicated customer manager contact you.
+Speaker2: Okay, let me take a look.
+Speaker1: Hello, this is the link: http://example.com/loan_apply. You can apply directly on this page. If you have any questions, please feel free to contact me anytime. My phone number is 12345678901.
+Speaker2: Okay, thank you for your recommendation.
+Speaker1: No problem, I hope our service can help you. If you're interested in other financial products, feel free to contact me anytime. Have a nice life, goodbye!
+Speaker2: Thank you, goodbye.

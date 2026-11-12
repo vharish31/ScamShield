@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Shenzhen Bank, I am customer manager Li.
+Speaker2: Hello, do you have anything?
+Speaker1: Is that right, we noticed that your store recently has some cash flow needs, our bank has a special loan product for small business owners, the interest rate is very low, only 2.99%, are you interested in learning more?
+Speaker2: Okay, can you show me how to do it specifically?
+Speaker1: Okay, just download our bank app, register an account, fill out the relevant information, and get approved for a quick loan once it's reviewed.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Of course we are a safe bank, our app is officially released through authorized channels. For your convenience, I can send you a link, just click to download, very convenient.
+Speaker2: Okay, give it to me.
+Speaker1: Okay, I will send the link to the phone number you just called, please pay attention to check it. Additionally, if you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

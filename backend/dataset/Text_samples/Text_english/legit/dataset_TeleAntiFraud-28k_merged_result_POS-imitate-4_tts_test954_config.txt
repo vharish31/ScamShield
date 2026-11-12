@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm little Zhang, I saw job information on your website, want to know more
+Speaker2: Hello, I am small Li from the human resources department. Can you specifically say which position you want to know about?
+Speaker1: Hey, I saw you guys are looking for embedded software development engineers, can you tell me more about the specific requirements for this position?
+Speaker2: Okay, this position primarily involves software development for embedded control systems, requires relevant development experience, is proficient in C or C++ programming languages, and understands the architecture of embedded systems.
+Speaker1: What is the salary and benefits for that position?
+Speaker2: Salaries are generally between 8,000 to 12,000 yuan per month, with performance bonuses and year-end bonuses.
+Speaker1: What materials do I need to prepare for the interview?
+Speaker2: You can prepare a detailed resume that includes project experience and personal skills, and if you have a portfolio or certificates, you can send them together.
+Speaker1: Okay, I will prepare quickly, thank you, little Li.
+Speaker2: No problem, I'm looking forward to your resume. If you have any other questions, feel free to contact me anytime. Goodbye.

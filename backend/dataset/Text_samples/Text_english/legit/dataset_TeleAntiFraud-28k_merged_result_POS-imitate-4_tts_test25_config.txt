@@ -1,0 +1,9 @@
+Speaker2: Hey, did you arrive?
+Speaker1: I haven't found the place you mentioned yet, it's hard to find.
+Speaker2: Hey, are you at the market?
+Speaker1: Yes, I'm at the market, but I can't find the store you mentioned.
+Speaker2: You can find the Welfare Clinic or Xinshin Convenience Store nearby by searching.
+Speaker1: Okay, I'll try to find it. I found it, now let's walk that way.
+Speaker2: Okay, you see the iron gate, the stairs are behind it.
+Speaker1: I see it, thank you.
+Speaker2: No problem, come up, I'm waiting for you on the floor above.

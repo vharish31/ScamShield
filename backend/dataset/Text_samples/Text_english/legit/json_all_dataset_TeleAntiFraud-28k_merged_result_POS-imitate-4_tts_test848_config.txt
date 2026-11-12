@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm the delivery boy, your delivery is here, where are you waiting for me?
+Speaker2: I'm at the community gate, come over, I see you.
+Speaker1: Okay, I'll go now. Are you the spicy Sichuan peppercorn pot?
+Speaker2: Yes, that's it.
+Speaker1: Okay, here's your takeout. Don't forget to leave a good review.
+Speaker2: Okay, thank you, you worked hard.
+Speaker1: No problem, what do you need to contact me urgently?
+Speaker2: Okay, bye.

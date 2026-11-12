@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm little Li, I want to consult your restaurant reservation service.
+Speaker2: Hello, little Li, very happy to serve you. What can I help you with?
+Speaker1: I'd like to reserve a table for two people, around 7 pm tonight.
+Speaker2: Okay, do you want to be indoors or outdoors? We have great scenery here both indoors and outdoors.
+Speaker1: The indoor is good, a quiet place.
+Speaker2: Okay, we have reserved a quiet indoor location for you. Do you have any special dietary requirements?
+Speaker1: I'm allergic to seafood, everything else is okay.
+Speaker2: Understood, we will clearly mark it for you to avoid seafood items. Are there any other special things to pay attention to?
+Speaker1: No more, thank you.
+Speaker2: No problem, we will be ready for your location at seven o'clock before. We are looking forward to your arrival.

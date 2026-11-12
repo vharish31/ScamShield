@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Agricultural Bank's customer service center. I am the customer service manager Li Ming. We currently have a special promotion for our high-quality customers, which provides interest-free loans, very competitive interest rates. Are you interested in learning more?
+Speaker2: Hello, I don't have any need for this at the moment.
+Speaker1: Understood, but if you need help in the future, I can add you on WeChat and answer your questions anytime, is that okay?
+Speaker2: Okay, add me on WeChat.
+Speaker1: Great, my WeChat number is abclm12345. After you add me, I'll send you a detailed loan info. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, I will add your WeChat.
+Speaker1: Thank you very much. If you have friends who also need this kind of service, please recommend them to us. We also have some other promotional activities, such as investing in financial products with high returns, are you interested?
+Speaker2: Investing in wealth management sounds good, can you introduce me to it?
+Speaker1: Of course, we have a product that is particularly suitable for new investors, with a guaranteed principal and stable returns, you can try investing a small amount first to see if you're interested. I can send you some information through WeChat to take a look.
+Speaker2: Okay, thank you for your recommendation, I will consider it.

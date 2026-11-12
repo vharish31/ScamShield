@@ -1,0 +1,10 @@
+Speaker1: Hello!
+Speaker2: Hello
+Speaker1: I am Zhang from the Financial Services Center, your previous loan application has been approved, and we can provide you with a 50,000 credit loan at a very favorable interest rate, and no collateral is required.
+Speaker2: Really? That's great, I need cash flow right now.
+Speaker1: Yes, in order to ensure that the funds can be quickly accounted for, I need you to first download our financial service center's official software, and then complete the personal information in the software.
+Speaker2: Okay, how do I download this software?
+Speaker1: You can directly click on the link I send to you, follow the instructions to download and install, and I will guide you on how to operate after installation is complete.
+Speaker2: Okay, I'll download it now.
+Speaker1: Okay, please download and install the software, and then follow the instructions to register an account and provide some basic information. This way we can quickly process your loan application.
+Speaker2: I understand, I'll operate right away.

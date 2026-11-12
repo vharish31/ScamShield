@@ -1,0 +1,12 @@
+Speaker1: Hello, you are welcome to the China Southern Customer Service Center. I am customer service representative Lee.
+Speaker2: Hello, how are you?
+Speaker1: We found some unusual activity in your recent transaction records on our platform. It's possible you encountered some issues.
+Speaker2: Is there an anomaly in the transaction record? Why didn't I receive the notification?
+Speaker1: That's right, to ensure your account's safety, we suggest you contact us immediately.
+Speaker2: What should I do now?
+Speaker1: You can click on the link we send, install our official app, and verify your identity through the app.
+Speaker2: Do you want to install the app? Is it safe?
+Speaker1: Of course, this is our official channel, and you can be sure your information is safe.
+Speaker2: Okay, let me try.
+Speaker1: Okay, after you download and install, enter the verification code 123456, we will immediately help you process on this end.
+Speaker2: I know, thank you.

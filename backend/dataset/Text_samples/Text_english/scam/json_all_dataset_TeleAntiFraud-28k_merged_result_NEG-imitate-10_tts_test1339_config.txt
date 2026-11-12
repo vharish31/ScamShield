@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager at an agricultural bank. We have special loan services for high-quality customers here, which can be quickly approved without collateral. Would you be interested in learning more?
+Speaker2: Oh, no collateral loan? This sounds good, how does it work exactly?
+Speaker1: It's that way, our this time's loan service is very convenient, only need you provide some basic personal information, like identity card number, bank flow water, we can for you pre-approve a loan.
+Speaker2: What do I need to do then?
+Speaker1: First, download our official app, complete identity verification and data submission through the app, and get approved, and the money will be directly deposited into your account.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can download our official app from the bank's name in the mobile app store, or I can send you a link, just click on the link to download it directly.
+Speaker2: Just send me a link, I'll download it directly.
+Speaker1: Okay, I'll send you a text message right away. Please pay attention to check it. Also, to ensure your information is safe, we may need you to provide some verification codes or passwords during the review process, so please keep an eye on it.
+Speaker2: Okay, I understand, thank you.

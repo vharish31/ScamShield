@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the waiter of this restaurant, did you book a table for tonight at six o'clock through phone call?
+Speaker2: Hey, is it me who ordered it? Can you come on time today?
+Speaker1: Of course, we have reserved a spot for you, you can just sign up when you arrive.
+Speaker2: Okay, what special dishes do you have?
+Speaker1: We have a signboard for roast duck here, and also steamed fish, both of which are very popular.
+Speaker2: The menu looks good, I'll book these two dishes.
+Speaker1: Okay, I will prepare these two dishes in advance. Do you need anything else?
+Speaker2: Do you have red wine?
+Speaker1: Yes, we have several different vineyards of red wine here, you can choose at your convenience.
+Speaker2: Okay, thank you, see you later.
+Speaker1: No problem, welcome to come, hope you enjoy your meal.

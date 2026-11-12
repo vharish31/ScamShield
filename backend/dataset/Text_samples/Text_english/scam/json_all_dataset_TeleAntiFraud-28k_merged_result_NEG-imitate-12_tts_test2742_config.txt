@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is Shenzhen City Tiancheng Network Technology Co., Ltd., I am customer service representative Lee Huai, we noticed some abnormalities in your recent transactions on our platform, and we want to confirm your account security issue.
+Speaker2: Oh, really? How did I miss that?
+Speaker1: That's right, to ensure the safety of your account, we need you to cooperate with us to do a simple verification.
+Speaker2: Okay, you say, what do I need to cooperate with?
+Speaker1: Please provide your name, ID number, and bound mobile phone number, we will verify the information for you.
+Speaker2: My name is Zhang Wei, my ID number is 421119111, my phone number is 1370000000.
+Speaker1: Okay, Mr. Zhang, we have recorded your information. To further confirm your identity, please click on the short message link we sent, and complete the identity verification.
+Speaker2: Okay, I'll go check my messages in a minute.
+Speaker1: Thank you for your cooperation, Mr. Zhang. If you have any questions, please feel free to contact us anytime.
+Speaker2: Okay, thank you.

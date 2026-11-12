@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: Did you see the green dot 20 apartment in Five Eight City Center yesterday? Is it still rented out now?
+Speaker2: Hey, it's still rented, are you interested?
+Speaker1: Yes, can you tell me the specific location and price of the single room I saw?
+Speaker2: Okay, the single room in Green Dot No. 20 on the third floor of the Green Dot building, rents for 1,500 yuan per month, with a deposit of 1,500 yuan paid in three installments, and water and electricity bills are self-paid.
+Speaker1: Okay, can I go take a look?
+Speaker2: Okay, when is it convenient for you?
+Speaker1: Can I meet you at four o'clock tomorrow afternoon?
+Speaker2: Sure, I'll be there at 4 pm tomorrow.
+Speaker1: Okay, see you tomorrow, thank you.
+Speaker2: No problem, see you tomorrow.

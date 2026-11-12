@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm Xiao Ming, just moved here recently, do you have any good restaurant recommendations in the area?
+Speaker2: Hey, are you referring to Chinese or Western cuisine? Do you have any specific flavor preferences?
+Speaker1: I mainly want to eat some Chinese cuisine, either Sichuan or Cantonese, as long as it's highly rated.
+Speaker2: Oh, this way, I recommend you to try the old-style Sichuan cuisine restaurant, the taste is very authentic, and there are also several Cantonese restaurants that are quite good, such as Four Seasons.
+Speaker1: What time do these restaurants usually open?
+Speaker2: These restaurants usually start business at 11 am in the morning and end at around 9:30 pm in the evening.
+Speaker1: Okay, thank you for your recommendation. I plan to try it out this weekend.
+Speaker2: No problem, I hope you enjoy your meal. If you need to make a reservation, please call ahead, it's more convenient.
+Speaker1: Okay, I will consider it. Thank you again, goodbye!
+Speaker2: Bye, wish you have a nice weekend!

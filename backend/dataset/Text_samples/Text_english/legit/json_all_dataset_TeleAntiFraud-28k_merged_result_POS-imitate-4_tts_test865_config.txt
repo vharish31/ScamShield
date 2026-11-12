@@ -1,0 +1,10 @@
+Speaker1: Hey, are your takeout services still normal?
+Speaker2: Hello, little Li, our takeout service has been operating normally. Is there anything we can help you with?
+Speaker1: That's great, I recently want to try your sour fish, heard it's delicious.
+Speaker2: Yes, our sour fish is very popular, and you can enjoy a 90% discount if you order now.
+Speaker1: That's great, I'll place an order right away. By the way, when do you start delivering?
+Speaker2: We start delivery at 11 am in the afternoon and end at 9 pm in the evening. You can choose a convenient time.
+Speaker1: Okay, I plan to order at noon, should it arrive in about an hour?
+Speaker2: Yes, you ordered at 12:00, approximately one o'clock left and right can be delivered, we will expedite the delivery for you.
+Speaker1: That's great, thank you for your service, looking forward to tasting.
+Speaker2: No problem, we're looking forward to your review, wish you a happy meal!

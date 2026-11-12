@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiao Wang, recently I've been considering buying a new phone, I heard your store has new models out, want to know more?
+Speaker2: Hello, Little Wang, we just got a batch of new phones here. Which brand are you interested in?
+Speaker1: I want to know more about the latest iPhone, I heard its performance is very powerful.
+Speaker2: Yes, the new iPhone's performance has been greatly improved, and the camera function is also very powerful. When do you plan to go to the store and take a look?
+Speaker1: I planned to spend this weekend, do you know if you're opening on Sunday?
+Speaker2: We are open on weekends from 10 am to 8 pm. You can come anytime.
+Speaker1: Okay, I'll probably be there around two in the afternoon. Can you please hold a display machine for me then?
+Speaker2: No problem, I will prepare in advance for you. Moreover, if you decide to buy, there is now a discount activity, which you can enjoy a certain discount.
+Speaker1: Sounds good, I'll check the specifics later. Thanks, see you this weekend.
+Speaker2: No problem, see you this weekend, wish you all the best.

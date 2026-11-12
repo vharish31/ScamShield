@@ -1,0 +1,13 @@
+Speaker1: Hi, how are you? I'm little Zhang. Yesterday I called to schedule a repair for today on my air conditioner. Are you the Blue Sky Electrical Repair Center?
+Speaker2: Hello, little Zhang, this is the Blue Sky Electronics Repair Center, what time is your appointment?
+Speaker1: I had an appointment at two in the afternoon, but I have some things at home now, maybe I'll be a little late, is that okay?
+Speaker2: Okay, we can adjust the time here, is your home address Happiness Villa 16th floor, unit 1?
+Speaker1: Yes, that's the address. Thank you for adjusting the time.
+Speaker2: No problem, we will probably arrive between 2:30 and 3:30, please prepare the air conditioning in advance for any maintenance needed, and feel free to inform me of any other issues.
+Speaker1: Okay, I know, roughly how long will it take to fix it?
+Speaker2: It depends on the specific issue. If it's a small problem, it can probably be solved in one or two hours. If it's a big problem, it may take longer time or require replacement parts.
+Speaker1: What's the way to calculate the cost?
+Speaker2: We charge by project, usually two hundred yuan for small repairs, and the cost of replacement parts will be calculated separately, roughly speaking, I will let the master explain the details on site.
+Speaker1: Okay, thank you for your answer. I will wait for you guys to come over.
+Speaker2: No need to thank you, we will arrive on time, you can contact me anytime if you have any questions. Bye!
+Speaker1: Okay, bye!

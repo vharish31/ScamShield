@@ -1,0 +1,11 @@
+Speaker1: Hello, this is Shanghai Bank, I am Lee Manager, we noticed you recently consulted loan service on our bank's activity page, do you mind now, we can have a detailed chat?
+Speaker2: Hey, how are you now? Say something.
+Speaker1: Great, we have a loan product for small business owners with a very low interest rate and fast disbursement, do you have any needs in this area?
+Speaker2: I have some cash flow needs, can you give me specifics?
+Speaker1: Of course, this loan product has a maximum loan amount of one hundred thousand yuan, interest rate as low as five cents, and only requires online submission of the application. After approval, the funds can be disbursed immediately.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: It's simple. You can click on the link I sent you to enter our official page and follow the instructions to complete the application process.
+Speaker2: Okay, I'll give it a try.
+Speaker1: Great, if you encounter any issues during the operation, feel free to contact me anytime. Additionally, to ensure your information security, I will first send you operation instructions via WeChat, is that convenient for you?
+Speaker2: Okay, then you first add me WeChat.
+Speaker1: Okay, my WeChat number is L-Manager888. Add me after and I will send you the operation guide immediately. Best wishes for your application. Bye!

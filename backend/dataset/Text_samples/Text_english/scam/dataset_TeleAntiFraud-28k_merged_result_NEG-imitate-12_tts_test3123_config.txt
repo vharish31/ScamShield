@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from China Post. On this side, it shows that you have lost a parcel. You can apply for compensation.
+Speaker2: Really? How did my package get lost?
+Speaker1: Yes, we have confirmed on this side, in order to process quickly, please provide some information.
+Speaker2: Okay, what information do I need to provide?
+Speaker1: First, please tell me your name and phone number, so we can proceed with the next step of processing.
+Speaker2: My name is Li Ming, my phone number is 13800138000.
+Speaker1: Okay, Li Ming Xiāngshēng, please click this link and fill out a simple form.
+Speaker2: Okay, what should I do after clicking on the link?
+Speaker1: Click on the link, fill in your personal information, including your bank card number, so that the indemnification money can be directly credited to your card.
+Speaker2: Okay, I'll go operate now. Thank you for your help.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. I hope you resolve the issue quickly. Goodbye.

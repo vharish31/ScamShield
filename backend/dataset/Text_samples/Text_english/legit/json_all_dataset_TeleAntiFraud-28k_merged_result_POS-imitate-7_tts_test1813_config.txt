@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm here to inquire about your hair salon's hairdressing services.
+Speaker2: Hello, I'm very happy to serve you. What information do you want to know?
+Speaker1: Can you tell me about your haircut prices and how to make an appointment?
+Speaker2: Our haircut prices are 50 yuan. If you need to make an appointment, you can directly contact us through the phone or through our WeChat public account.
+Speaker1: If I make a reservation but can't come due to unexpected events, how much advance notice do I need to give you?
+Speaker2: If you have an appointment but can't make it on time, please notify us two hours in advance so we can adjust the schedule.
+Speaker1: Is there shampoo and conditioner available here?
+Speaker2: Yes, our store provides various brands of shampoo and conditioner for you to choose from based on your preference.
+Speaker1: That's great, can I make an appointment for tomorrow afternoon at 2:00?
+Speaker2: Of course, I can make an appointment for you tomorrow at 2 pm. Could you please tell me your name and contact information?
+Speaker1: My name is Li Ming, phone number is 13801380138.
+Speaker2: Okay, Li Ming Xiāngshēng, I have already booked an appointment for you tomorrow at 2 pm for a haircut service. If there are any changes, please contact us in advance. We look forward to your visit!

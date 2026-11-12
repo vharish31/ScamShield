@@ -1,0 +1,10 @@
+Speaker1: Hi, are there any haircuts available for booking here?
+Speaker2: Hello, yes, we provide hair appointment service, what time do you need to make an appointment?
+Speaker1: Can I make a reservation for tomorrow afternoon at three o'clock?
+Speaker2: Can I know if you're a man or a woman at three o'clock tomorrow afternoon?
+Speaker1: I'm a man, I want to cut short hair, clean and neat.
+Speaker2: Okay, short hair, clean style, understood. Do you have any special requirements, such as length or shape?
+Speaker1: No specific requirements, just follow your professional opinions to cut it.
+Speaker2: Okay, we will recommend a suitable hairstyle based on your face shape and style. Could you please provide your name and contact information?
+Speaker1: My name is Zhang Ming, phone number is 13500000000.
+Speaker2: Okay, Mr. Zhang Ming, your appointment has been successful. Tomorrow afternoon at three o'clock, we will wait for you at the store.

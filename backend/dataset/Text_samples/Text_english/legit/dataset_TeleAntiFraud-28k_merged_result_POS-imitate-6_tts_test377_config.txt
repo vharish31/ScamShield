@@ -1,0 +1,12 @@
+Speaker1: Hey, are you little king?
+Speaker2: Hello, who are you?
+Speaker1: Hey, it's me, your friend Li. How have you been lately?
+Speaker2: Hello, how have you been lately?
+Speaker1: I also, recently changed a new project, quite busy.
+Speaker2: How are you? Is the new project difficult?
+Speaker1: Hello, the challenge is quite big, but it's also quite interesting. What new changes do you have on your side of work?
+Speaker2: Recently, our company has started to implement remote work, gradually getting used to it.
+Speaker1: That's pretty good, remote work is indeed pretty convenient. How about we hang out together this weekend?
+Speaker2: Hey, what do you want to do this weekend?
+Speaker1: Have you heard that a new restaurant just opened up? Let's go try it out.
+Speaker2: Okay, let's set it for Saturday night.

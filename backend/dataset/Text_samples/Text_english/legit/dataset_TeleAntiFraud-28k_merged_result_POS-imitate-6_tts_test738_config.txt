@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Can you recommend any good nearby takeout options for me?
+Speaker2: Of course, what type of food do you want? For example, Chinese, Western, or fast food?
+Speaker1: What do you recommend for Chinese food?
+Speaker2: There's a restaurant nearby called "Old Beijing Stir-Fry Noodles" with great reviews and lots of options. You can check it out.
+Speaker1: Great, I'll order this one. Can you help me place an order?
+Speaker2: Sure, what do you need?
+Speaker1: One portion of fried sauce noodles, one portion of palace soup chicken, and one bottle of ice red tea.
+Speaker2: Okay, your order has been submitted. It's estimated to arrive in 40 minutes. Do you need a phone number?
+Speaker1: Please, my phone number is 131233456.
+Speaker2: Okay, I have recorded it down. If you have any questions, the delivery person will contact you. Thank you for your order. Enjoy your meal!

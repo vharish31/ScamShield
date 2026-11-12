@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, disturb me for a moment, I'm little Liu from Guangyuan Bank, here's about the loan project you consulted before.
+Speaker2: Hey, I don't need a loan.
+Speaker1: That's right, we currently have a special promotion on loans with a very low interest rate, almost zero, and no collateral is required, and the paperwork is very simple.
+Speaker2: Really? This is so good?
+Speaker1: It's true, this activity is for our old customers, if you're interested, you can first download our app, register and then see the detailed information.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Of course, we are a regular bank, and if you have any issues after downloading, you can directly contact me. Moreover, there is a small gift sent with the current download and registration.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you download it, I will send you a verification code, enter the verification code to complete the registration, and then I will guide you through the next steps.
+Speaker2: Okay, thank you.

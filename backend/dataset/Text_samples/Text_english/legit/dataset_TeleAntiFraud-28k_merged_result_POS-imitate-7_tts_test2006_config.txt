@@ -1,0 +1,10 @@
+Speaker1: Hello, are there any available seats at your restaurant?
+Speaker2: Hello, how are you? Is there someone with you?
+Speaker1: We are four people, wanting to reserve a window seat.
+Speaker2: Okay, the spot by the window we still have, what time are you arriving?
+Speaker1: We arrive around six thirty.
+Speaker2: Okay, 6:30, I will reserve this spot for you. Do you have any special dietary requirements?
+Speaker1: One friend doesn't eat spicy, the others have no special requirements.
+Speaker2: Understood, we will pay special attention. Are there any other tasks that need help?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

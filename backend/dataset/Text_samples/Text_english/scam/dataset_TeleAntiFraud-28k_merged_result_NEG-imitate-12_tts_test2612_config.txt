@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm small Zhang, this is the happy shopping platform customer service, your previous purchase has some issues, we need to handle return or exchange.
+Speaker2: Uh, really? I recently bought a piece of clothing and there's an issue that needs to be returned?
+Speaker1: Yes, in order not to affect your rights, we need you to provide us with your purchase order number at the time of purchase, so we can process it.
+Speaker2: Okay, my order number is 123456789, can you take a look for me?
+Speaker1: Okay, I have found it. To process it faster, please download our latest customer service app, which can quickly handle it.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Very safe, this app is our official one, many users are using it, you can download it without any worries.
+Speaker2: Okay, let me try.
+Speaker1: Great, download it and then register and log in, then find the refund/exchange service and follow the instructions to complete it.
+Speaker2: Okay, thank you for your help.

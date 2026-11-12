@@ -1,0 +1,15 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Yes, who are you?
+Speaker1: Hello, I am a customer service representative from Zhongyue Finance, and we noticed that you have recently been looking for loan services. We would like to contact you to provide assistance.
+Speaker2: Oh, that's how it is. But I recently haven't had a need for a loan.
+Speaker1: That's great, but if you need it in the future, we have a special product here that's perfect for small business owners, with quick approval and low interest rates.
+Speaker2: So, what is the interest rate on your loans?
+Speaker1: Our loan interest rate can be as low as 0.5%, and the approval process is very fast, usually we can issue the loan on the same day.
+Speaker2: The sound is good, but I want to know the specific application process.
+Speaker1: Of course, you just need to click on the link we provide, fill in the relevant information, and then submit the application, and our staff will quickly review it.
+Speaker2: Is this link safe?
+Speaker1: Extremely safe, we are a legitimate financial institution, all information will strictly be kept confidential. For your convenience, I can directly send it to you through WeChat, which is more convenient.
+Speaker2: Sure, can you add me on WeChat?
+Speaker1: Okay, what's your WeChat number? My WeChat number is: zhōngqìng jīn róu kè fù. Add me and I'll send you the link.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you have any questions, please contact me anytime. Wish you happy life, bye.

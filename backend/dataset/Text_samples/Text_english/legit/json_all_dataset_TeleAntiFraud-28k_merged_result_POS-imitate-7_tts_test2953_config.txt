@@ -1,0 +1,14 @@
+Speaker1: Hello, are you a customer service representative from the Xiao Wang household service?
+Speaker2: Hello, I am a customer service representative from Xiao Wang's household service, what can I help you with?
+Speaker1: Can you tell me about your cleaning service and how much it costs per time?
+Speaker2: Our cleaning service is priced based on area and cleaning level, generally speaking, a one hundred square meter house, deep cleaning once is three hundred yuan.
+Speaker1: If it's 150 meters, then?
+Speaker2: A hundred and fifty meters deep, four hundred and fifty yuan once.
+Speaker1: Understood, can you schedule a specific time?
+Speaker2: Of course, you can tell me the specific time, we will arrange our staff to provide door-to-door service.
+Speaker1: Can I go to the beach on Saturday morning at 10 am?
+Speaker2: On Saturday at 10 am, I will book an appointment for you in the system.
+Speaker1: Okay, thank you. Have all of your cleaners undergone training?
+Speaker2: Yes, our cleaners have undergone specialized training, ensuring service quality.
+Speaker1: Now I can relax, thank you for your help.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy life.

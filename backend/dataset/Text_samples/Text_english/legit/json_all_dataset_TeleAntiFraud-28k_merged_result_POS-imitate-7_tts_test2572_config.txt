@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am near your restaurant, can you confirm if there is a place available now?
+Speaker2: Hello, are you a few people?
+Speaker1: We are two.
+Speaker2: Okay, two guests, you can come now, we will reserve a place for you.
+Speaker1: Okay, we'll be there in about twenty minutes.
+Speaker2: Okay, see you in twenty minutes. The restaurant is at 108 Culture Road. Just go up to the second floor when you arrive.
+Speaker1: Culture Road 108, 2nd floor, okay, thank you.
+Speaker2: No problem, we have a free parking lot here, if you drive over it will be very convenient.
+Speaker1: Great, let's drive over there. See you later.
+Speaker2: Okay, see you later, be careful on the road.

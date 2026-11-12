@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am small Li, this is the customer service representative of China Bank.
+Speaker2: Hello, do you have anything?
+Speaker1: That's it, we found out your credit card might have been stolen, you need to immediately work with us to handle it.
+Speaker2: Really? Then what should I do?
+Speaker1: First, please provide your ID number and credit card number, we'll verify the information.
+Speaker2: Okay, my ID number is 123456789012345678, and my credit card number is 1234567890123456.
+Speaker1: Thank you for your cooperation. Next, please click on the link we send to you to complete identity verification.
+Speaker2: Okay, I'll keep an eye on checking later.
+Speaker1: Okay, please click the link as soon as you receive it, we will process this issue quickly.
+Speaker2: Okay, thank you for your help.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of the Quick Loan Company, I am Li Xiao, I saw that you had consulted our loan services before, do you still have a funding need now?
+Speaker2: "Oh, hello, I did consult with you before, but now I don't have any need."
+Speaker1: Okay, but if you need it, I can recommend a very affordable loan plan. The interest rate is currently very low, and the approval is very fast.
+Speaker2: Is it really? How do I apply?
+Speaker1: It's very simple. Just download our app, submit your application through the app, and it will be approved in a few minutes.
+Speaker2: Is the app safe to download?
+Speaker1: Absolutely safe, we are a legitimate financial institution, all operations are conducted under legal and regulatory premises. Just scan this QR code with your phone to download our app.
+Speaker2: How do I know this QR code is real?
+Speaker1: You can verify the authenticity of the QR code through phone or our official website. The link we provide here is official and there's no risk involved.
+Speaker2: Okay, let me try.

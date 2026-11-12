@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you tell me about your new products? Do you have any recommendations recently?
+Speaker2: We recently introduced a new batch of summer clothing, with various styles and very clean colors, you can come take a look, definitely there will be something you like.
+Speaker1: Sounds good, are you guys open now? I'm gonna go take a look.
+Speaker2: We are open now, business hours are from 10 am to 9 pm, you can come anytime.
+Speaker1: Okay, I'll be there in about twenty minutes. Which floor are you guys on in the mall?
+Speaker2: We are on the third floor of the mall, near the elevator door, easy to find.
+Speaker1: Third floor, okay, then how do I contact you guys after I arrive?
+Speaker2: You can directly come to the store or call us, our phone number is 021-66666666, our store employee will warmly welcome you.
+Speaker1: Okay, thank you for your help. I'll see you later.
+Speaker2: No problem, see you later, wish you happy shopping!

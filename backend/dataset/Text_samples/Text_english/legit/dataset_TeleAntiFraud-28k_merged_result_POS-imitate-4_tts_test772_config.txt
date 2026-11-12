@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you?
+Speaker1: Hello, this is the coffee shop on Flower Street. I want to ask if you have any seats available, my friend wants to come over and sit for a while.
+Speaker2: Hello, do we have any space left here now? When will you guys come over?
+Speaker1: About three in the afternoon, two people.
+Speaker2: Okay, no problem, 3 pm, two people, we'll reserve a spot for you at that time.
+Speaker1: Sure, another friend might be late, can you wait for a while?
+Speaker2: Sure, we can wait for a while. But if it's more than half an hour, we might need to confirm again.
+Speaker1: Okay, I understand now, thank you for your cooperation.
+Speaker2: No problem, feel free to contact us anytime.
+Speaker1: Okay, see you later. Goodbye.
+Speaker2: Goodbye.

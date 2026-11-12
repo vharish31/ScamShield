@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Lee Ming, I just placed an order for takeout at your store, why hasn't it been delivered yet?
+Speaker2: Hello, I'm the delivery boy, your delivery has arrived at the community door, can you come down to pick it up?
+Speaker1: Can you please bring it down from the floor?
+Speaker2: Can you tell me which building, unit, and floor you live on?
+Speaker1: I live in building 3, unit 2, floor 6. Just drop it off at the elevator door and I'll get it.
+Speaker2: Okay, I'll be there in a few minutes.
+Speaker1: I'll be down in about five minutes, thank you.
+Speaker2: No problem, just give me a call when you arrive at the elevator, I'll wait for you.
+Speaker1: Okay, I'll see you later.
+Speaker2: Okay, see you later.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Are you there? I just ordered takeout, why hasn't it arrived yet?
+Speaker2: Oh no, I'm sorry, maybe I had a problem on my bike, I'll check it out right away.
+Speaker1: Okay, thank you. I've been waiting for half an hour already.
+Speaker2: I checked here and there, I did encounter some traffic congestion on my bike, but it should be resolved soon.
+Speaker1: Can you please remind me again, I'm a bit anxious.
+Speaker2: Okay, I'll contact the courier right away to deliver it to you as soon as possible.
+Speaker1: Thank you, please.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, I hope you enjoy your meal.

@@ -1,0 +1,12 @@
+Speaker1: Hello, this is Liu Xiao, from XX Express company's customer service, there's a package that couldn't be delivered due to address issues, we need you to confirm some info.
+Speaker2: What package? I haven't bought anything recently.
+Speaker1: It's probably a friend of yours who sent it, take a look and click to confirm your address info.
+Speaker2: Link? I'll go directly to your courier company to confirm.
+Speaker1: That's also okay, but for your convenience, I provide a link here. Clicking it can quickly confirm the information and also check the detailed package information.
+Speaker2: Okay, let me try.
+Speaker1: Okay, please wait a moment while I send you the link. Once you receive it, please click to confirm as soon as possible. If you have any issues, feel free to contact me anytime.
+Speaker2: I got the link, I'll take a look.
+Speaker1: Okay, please take a look and let me know if you need help.
+Speaker2: Is this link supposed to require bank card information after opening it?
+Speaker1: Yes, to ensure the safety of the package, we need to verify your identity, inputting your bank card information is to confirm your identity, there will be no cost.
+Speaker2: Okay, let me try.

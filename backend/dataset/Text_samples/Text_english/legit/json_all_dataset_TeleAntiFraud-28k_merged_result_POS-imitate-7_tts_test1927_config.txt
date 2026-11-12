@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I want to ask, can you make an appointment for a haircut here?
+Speaker2: Hello, can you make an appointment now? What time do you want to make it?
+Speaker1: Can we meet around two in the afternoon tomorrow?
+Speaker2: Can you please let me know if you need to make an appointment for men's haircut or women's haircut tomorrow at 2 pm?
+Speaker1: Man's haircut.
+Speaker2: Okay, the gentleman's haircut appointment is successful. Tomorrow afternoon at two o'clock, please remember to arrive on time.
+Speaker1: Okay, thank you. So, how much earlier should I arrive to be good?
+Speaker2: I suggest you arrive ten minutes early, so you have enough time to prepare.
+Speaker1: Got it, what's the specific location of your store?
+Speaker2: We are located in the third building of the north side of the city center square, after arriving at the square, walk straight along the north side of the pedestrian street, you will see the third building when you arrive.
+Speaker1: Okay, I will pay attention. Thank you for your help.
+Speaker2: Please welcome you.

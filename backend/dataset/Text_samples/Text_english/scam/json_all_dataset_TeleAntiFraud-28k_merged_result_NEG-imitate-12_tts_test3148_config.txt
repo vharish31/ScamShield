@@ -1,0 +1,10 @@
+Speaker1: Hello, how can I help you? I am a customer service representative from China Excelsior Technology. You recently purchased a smartwatch from our platform and experienced a quality issue. We have already applied for a refund on your behalf. Could you please provide your bank card information?
+Speaker2: Oh, really? That's great, I've been waiting for this refund recently.
+Speaker1: Yes, to speed up the refund process, you need to provide your bank card number and account information, we will process it within 24 hours.
+Speaker2: Okay, my bank card number is...
+Speaker1: Okay, I have recorded it down. Additionally, to ensure your information is secure, we need you to provide a verification code. The verification code has already been sent to the phone number you registered with, please check.
+Speaker2: Okay, I received it. The verification code is...
+Speaker1: Thank you very much, we have already processed your refund application, it will be in your account soon. Moreover, you can download our newly launched app, which has many discount activities.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, download it and register and bind your bank card with your phone number after, so you can quickly enjoy the discount.
+Speaker2: Okay, thank you for your help.

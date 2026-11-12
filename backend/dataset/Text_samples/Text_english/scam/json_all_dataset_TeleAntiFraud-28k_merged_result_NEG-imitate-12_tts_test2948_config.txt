@@ -1,0 +1,12 @@
+Speaker1: Hello, this is Tianlan Technology, I am customer service representative Li Xiao, how was your recent shopping experience on our platform?
+Speaker2: Shopping was good, still can do it, no special issues.
+Speaker1: Great, we highly value every customer's experience. Yes, we recently have a special promotion activity, just download our APP and you can get a free 100 yuan coupon.
+Speaker2: Is it true? Where can I download this app?
+Speaker1: It's very simple. Just click this link to download our app directly.
+Speaker2: Okay, let me try.
+Speaker1: Alright, after downloading is complete, remember to register and input the invitation code: 123546, so your discount coupon will automatically be credited.
+Speaker2: Okay, I understand.
+Speaker1: Alright, to ensure the safety of your account, we will send the discount coupon to your account after you complete a small transaction, is that convenient for you?
+Speaker2: How much money do I need for a small transaction?
+Speaker1: You just need 5 yuan to verify your account is real and effective. You can use this 5 yuan on any product on our platform.
+Speaker2: Okay, I'll try.

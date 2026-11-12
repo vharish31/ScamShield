@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Ming, can your store deliver takeout here?
+Speaker2: Hello, can you specify your exact address?
+Speaker1: Can you deliver to this address on Xin Village Road No. 8?
+Speaker2: Sure, we have delivery service here. What do you want to order?
+Speaker1: Can I order a beef stir-fry and a sweet and sour pork ribs, please?
+Speaker2: Okay, one portion of beef stir-fry, one portion of sweet and sour pork ribs, do you need anything else?
+Speaker1: Let's add another bowl of red cabbage soup.
+Speaker2: Okay, one portion of beef stir-fry, one portion of sweet and sour pork ribs, and one portion of red pepper and egg soup, that's a total of 36 yuan.
+Speaker1: Okay, I'll pay via WeChat, can you please?
+Speaker2: Okay, we will prepare quickly. Approximately 30 minutes later, we will deliver it. If there are any changes, we will contact you in advance.

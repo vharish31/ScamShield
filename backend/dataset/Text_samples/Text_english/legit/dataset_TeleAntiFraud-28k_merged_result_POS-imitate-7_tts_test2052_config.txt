@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I reserved a spot at your store for tonight at seven.
+Speaker2: Hello, who are you? Can you confirm your reservation information?
+Speaker1: My name is Zhang, the reserved table is for four people, the contact phone number is 13123456.
+Speaker2: Okay, Zhang Xiāngshēng, I checked. I found it. Your reservation is for tonight at seven o'clock for a table of four, right?
+Speaker1: Yes, that's this time.
+Speaker2: No problem, Mr. Zhang, we are ready for you now, just come directly when the time comes.
+Speaker1: Okay, there's just one more thing. I have a friend who might be late, can you guys help me order a few cold dishes first?
+Speaker2: Of course, you can tell us in advance what you want to order for cold dishes, and we'll be ready when your friend arrives, you can directly sit down at the table.
+Speaker1: Great, I'll bother you guys later.
+Speaker2: No problem, this is what we should do, Zhang First Seng has something that needs to be contacted us anytime.

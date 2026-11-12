@@ -1,0 +1,10 @@
+Speaker1: Hey, are you open now?
+Speaker2: Hello, our store is currently open for business, what can we help you with?
+Speaker1: Can you tell me about your signature dishes and prices?
+Speaker2: Our menu here has Kung Pao Chicken, Red Braised Pork, and Steamed Fish, priced at 35 yuan, 45 yuan, and 60 yuan respectively.
+Speaker1: Sounds good. What time do you close shop at night?
+Speaker2: What time is most convenient for you to come over in the evening? Our store closes at ten o'clock.
+Speaker1: Can I reserve a spot in advance for around seven o'clock in the evening?
+Speaker2: Of course, I will reserve a table for you. How many people do you need to book a table for?
+Speaker1: Two people are fine, thank you.
+Speaker2: Okay, the table for two has been reserved for tonight at seven o'clock.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Agricultural and Commercial Bank, Lee Huai. We have a very good loan project here, which can be quickly approved without collateral, with a loan amount of up to 50,000 yuan. Do you have any funding needs?
+Speaker2: Hello, I currently don't have a loan need, thank you.
+Speaker1: Oh, that's right. We also have a credit card application activity, where you can get a beautiful gift if you apply, are you interested in learning more?
+Speaker2: Can you understand a bit more about it after I send you a gift?
+Speaker1: Great, just provide some basic info and scan this QR code to complete the application.
+Speaker2: How do I get this QR code?
+Speaker1: I'll send you a link via text message, just click on it to see the QR code.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Okay, the text message will be sent to your phone immediately. You can contact me anytime if you have any questions, my phone number is 13812345678.
+Speaker2: Okay, thank you for your help.

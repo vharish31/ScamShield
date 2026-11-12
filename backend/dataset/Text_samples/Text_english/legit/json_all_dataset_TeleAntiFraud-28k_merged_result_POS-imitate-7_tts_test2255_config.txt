@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Do you still rent that suite of rooms?
+Speaker2: Still renting.
+Speaker1: How much is the rent for that house per month?
+Speaker2: Rent is 1500 yuan per month.
+Speaker1: Can I take a look at the house?
+Speaker2: Sure, but the landlord has been busy lately, so it's best to book in advance.
+Speaker1: When is it convenient?
+Speaker2: How was your weekend?
+Speaker1: Can we go on the weekend? What specific time?
+Speaker2: How was it in the afternoon around three o'clock?
+Speaker1: Okay, let's meet at three o'clock on Saturday afternoon.
+Speaker2: Okay, see you later.

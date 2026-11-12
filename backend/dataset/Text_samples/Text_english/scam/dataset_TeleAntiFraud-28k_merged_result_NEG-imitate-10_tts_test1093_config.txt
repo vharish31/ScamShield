@@ -1,0 +1,9 @@
+Speaker2: Hey there, who are you?
+Speaker1: Hello, I am a customer service representative from the courier company. One of your packages was returned because the address was not detailed, please confirm the address again.
+Speaker2: Really or not, I haven't bought anything recently.
+Speaker1: It's probably your friend who bought it for you, can you add my WeChat and we can verify the details on this side?
+Speaker2: Okay, like that, then let's do it. I'll add you on WeChat.
+Speaker1: Great, my WeChat number is wxy123456. Add me and remember to put a note down, we need you to provide a delivery address and contact phone number on this end.
+Speaker2: Okay, okay. I'll add you on WeChat now.
+Speaker1: Okay, after you add it, we'll process it right away, the courier company will arrange for a quick re-delivery.
+Speaker2: Okay, thank you.

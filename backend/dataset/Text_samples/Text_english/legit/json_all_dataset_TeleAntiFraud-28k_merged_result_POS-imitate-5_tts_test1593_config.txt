@@ -1,0 +1,11 @@
+Speaker2: Hello, how can I help you?
+Speaker1: Hello, I see your restaurant has a special dish called "ma la xiāng gǎng," and I want to know more about this dish.
+Speaker2: Okay, spicy chicken pot is one of our restaurant's signature dishes, the main ingredients are chicken, frog, lotus, and cabbage, very spicy and delicious, suitable for customers who like strong flavors.
+Speaker1: How much does this dish cost?
+Speaker2: The price of a spicy pot is 68 yuan per portion, which is enough for two people to eat.
+Speaker1: How many days in advance do I need to book a place?
+Speaker2: Please book two to three hours in advance, so we can ensure the location and menu are ready for you.
+Speaker1: Sure, can I reserve a seat for 7 pm tomorrow evening?
+Speaker2: Of course, I have reserved a place for you at 7 pm tomorrow night. Remember to bring the reservation information with you.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, please feel free to contact us anytime if you have any questions. Have a nice day. Goodbye.

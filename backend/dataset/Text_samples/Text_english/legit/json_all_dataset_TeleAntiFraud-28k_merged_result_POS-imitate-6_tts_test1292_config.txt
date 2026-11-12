@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I reserved a table for tonight at six o'clock in your restaurant. Can you confirm please?
+Speaker2: Hello, is it for how many people?
+Speaker1: The four of us agreed on the window seats.
+Speaker2: Okay, I'll check. Hmm, I've confirmed it for you now, tonight at six, four people, window side.
+Speaker1: Goodbye, thank you.
+Speaker2: Please arrive ten minutes early to your scheduled time, so we can prepare for you.
+Speaker1: Okay, I will arrive on time. Also, do you have a vegetarian menu?
+Speaker2: Yes, we offer a variety of vegetarian options. You can ask the server for more details after you go to the store.
+Speaker1: That's great, thank you for your help.
+Speaker2: You're welcome, looking forward to your arrival, wish you a happy day.

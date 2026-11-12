@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'm near your restaurant. Do you have a vegetarian set meal?
+Speaker2: Yes, we have a vegetable set meal, including stir-fried vegetables, stir-fried tofu and a bowl of purple cabbage soup, served with white rice.
+Speaker1: How much does this menu cost?
+Speaker2: The price of the vegetable set meal is 35 yuan, and now you can enjoy a 9-discount discount.
+Speaker1: Okay, I'll go eat. What time do you close the door?
+Speaker2: We close business at nine o'clock in the evening, you can come anytime.
+Speaker1: Okay, I'll be there in about twenty minutes.
+Speaker2: Okay, we'll meet you at the restaurant at the specified time. Be careful on the road.

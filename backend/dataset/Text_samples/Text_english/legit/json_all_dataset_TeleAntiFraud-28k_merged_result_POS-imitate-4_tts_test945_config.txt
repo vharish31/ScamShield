@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any vegetarian options at this store?
+Speaker2: Yes, we have a lot of vegetables here, such as stir-fried vegetables and stir-fried tofu, do you have any special taste requirements?
+Speaker1: No specific requirements, just want to eat something simple.
+Speaker2: Okay, I recommend you try our stir-fried vegetables and tofu, both are very fresh and delicious.
+Speaker1: How about you guys start your business at 9 o'clock?
+Speaker2: We open at 10 am and close at 9 pm.
+Speaker1: Okay, I was at noon twelve, can I?
+Speaker2: Of course, at twelve o'clock precisely, I will prepare a place for you.

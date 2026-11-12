@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: I am the one who scheduled a haircut appointment on your platform.
+Speaker2: Okay, your appointment is tomorrow morning at 10:30, right?
+Speaker1: Yes, can you confirm if there is a hairstylist at your place that I need?
+Speaker2: Okay, your hairdresser is Li Master, he is very skilled, you can relax.
+Speaker1: Great, can you tell me how long it usually takes for a haircut?
+Speaker2: In general, a haircut takes about an hour, but if you have special requirements, it might take a little longer.
+Speaker1: Okay, I understand. Then I will arrive on time tomorrow.
+Speaker2: Okay, see you tomorrow, remember to bring a mask when you come.
+Speaker1: Okay, thank you. Bye.
+Speaker2: Goodbye.

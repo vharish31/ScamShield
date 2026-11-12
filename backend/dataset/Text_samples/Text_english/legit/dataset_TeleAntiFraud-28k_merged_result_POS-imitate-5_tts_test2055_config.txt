@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the property management service of the community, and I want to confirm the repair situation of your water pipe, is that okay?
+Speaker2: Hello, is my water pipe fixed yet?
+Speaker1: That's it, we have already arranged for a plumber to come and check, but the plumber says he needs to replace some pipes, which needs your approval.
+Speaker2: What do you need me to do?
+Speaker1: You can choose a time to book, the master will come back to change. The change fee is about 300 yuan, this fee needs you to pay.
+Speaker2: Okay, can I meet you at three in the afternoon tomorrow?
+Speaker1: Can I help you schedule a meeting for tomorrow at 3 PM? Do you need any other assistance?
+Speaker2: No more, just quickly solve this problem.
+Speaker1: Understood, we will process it quickly. If there are any issues, you can contact us anytime. Have a nice life, goodbye.
+Speaker2: Okay, thank you, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, I recently want to make a personal hair appointment, do you have any suitable time?
+Speaker1: Okay, which day do you want to make a reservation for?
+Speaker2: It's best if it's this weekend, either Saturday or Sunday.
+Speaker1: Okay, I'll check. Saturday morning from 10 to 3 and Sunday from 11 to 4 also have a gap.
+Speaker2: I'll choose Saturday morning at 10 am.
+Speaker1: Okay, Saturday at 10 am. Do I need to confirm your contact info again?
+Speaker2: Okay, my phone number is 13800138000.
+Speaker1: Knowing this, 13800138000, we will send you a text message reminder one day in advance.
+Speaker2: Okay, thank you.

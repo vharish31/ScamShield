@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you recommend a one-day tour package for a weekend outing here?
+Speaker2: Of course, we have many one-day tour packages suitable for weekend outings here. Which type of scenery do you prefer?
+Speaker1: I prefer natural scenery, such as mountains and water, can you recommend some places?
+Speaker2: Okay, we have a road to go to the Cloud Mountain Lake Scenic Area, the scenery there is very beautiful, and there is a hiking trail that you can walk, which is very suitable for relaxing your mind.
+Speaker1: How long does this trip approximately take to hear?
+Speaker2: The trip takes about 8 hours, leaving at 8 am and returning around 4 pm in the afternoon.
+Speaker1: How much does this menu item cost?
+Speaker2: The price of this meal is 150 yuan per person, which includes round-trip transportation, lunch, and admission to the sights.
+Speaker1: Okay, I'll think about it, if I decide to go, how do I book it?
+Speaker2: You can directly book on our official website or call our customer service hotline to book, the hotline is 400151515, customer service time is from 9am to 6pm.
+Speaker1: Okay, thank you for your detailed introduction. I will consider it.
+Speaker2: You're welcome. If you have any other questions, feel free to consult anytime. Have a nice day!

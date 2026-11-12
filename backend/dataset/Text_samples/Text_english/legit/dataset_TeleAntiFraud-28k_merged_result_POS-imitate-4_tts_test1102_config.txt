@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Zhang, I recently want to buy a computer, can you recommend me one?
+Speaker2: Hello, little Zhang, of course you can. What are you mainly using the computer for? Work or play games?
+Speaker1: Mainly work, sometimes play games.
+Speaker2: Understood, then I recommend you a computer with a high price-performance ratio. The processor is Intel Core i10, the memory is 8G, the solid-state drive is 500G, and the price is around five thousand.
+Speaker1: How long does the battery of this computer last?
+Speaker2: This laptop's battery life is quite good, it can reach about 8 hours of normal use.
+Speaker1: Then I decided to buy this one, do you have any in stock?
+Speaker2: Currently there is in-stock, you can directly pick up at the store, or we can also deliver it to you quickly by express.
+Speaker1: How long will it take for my package to arrive in Tianan Quan?
+Speaker2: Based on the address you provide, it usually takes 2 to 3 days to arrive.

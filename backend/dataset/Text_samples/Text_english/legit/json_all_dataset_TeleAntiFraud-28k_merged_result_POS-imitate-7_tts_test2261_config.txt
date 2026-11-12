@@ -1,0 +1,14 @@
+Speaker2: Hello, how are you?
+Speaker1: Were you the customer who bought a pet cage at our store yesterday?
+Speaker2: Yes, what's the problem?
+Speaker1: Hey, do you need some pet supplies like bedding or wood chips?
+Speaker2: Did you guys have any more cushion covers? I used up the ones I bought before.
+Speaker1: The cushioning is temporarily out of stock, but we have wood chips, which are also very effective, you can try it out.
+Speaker2: How much does wood chips cost?
+Speaker1: The price of wood chips is one package for ten yuan, one package is one kilogram.
+Speaker2: Okay, how do I pay?
+Speaker1: You can pay directly at the store, or we can deliver it to you by express, the delivery fee will be calculated separately.
+Speaker2: Then just have it delivered by express, the address is still the same as last time.
+Speaker1: Okay, I'll arrange it for you. You should be able to arrive tomorrow. Is there anything else you need?
+Speaker2: No more, thank you.
+Speaker1: No problem, feel free to contact us anytime. Goodbye!

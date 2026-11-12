@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at the north gate, can't find your store's location.
+Speaker2: Hello, you come from the north gate, straight walk to the bottom, see the first crossroad left turn, our store is on your right hand side, the door has a big red color sign.
+Speaker1: Okay, I saw the crossroad, turning left there's a small park, are your store on the park side?
+Speaker2: Yes, there's a three-story building next to the park, the first floor is our store.
+Speaker1: Okay, I'll be there soon. Do you have a parking spot?
+Speaker2: Yes, there's a small parking lot behind our store. You can enter it from the side road.
+Speaker1: Thanks for your help.
+Speaker2: No problem, feel free to call me if you have any other questions.
+Speaker1: Okay, I'll hang up the phone now, see you later.
+Speaker2: Okay, see you later.

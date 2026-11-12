@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I've been considering buying a new phone lately, do you guys have any suitable products in your store?
+Speaker2: Hello, Xiao Ming, I am the customer service king of the electronic city, we have various brands of mobile phones here, what specific configuration or budget range do you want?
+Speaker1: I plan to buy a high-end one, with a budget of around 3,000 to 4,000 yuan, preferably a newly released model.
+Speaker2: Okay, we have several new brands in this price range, such as Xiaomi's latest and Huawei's high-end series. Do you have a preference for brands?
+Speaker1: Can you give me a detailed introduction of Xiaomi's phone?
+Speaker2: Of course, the new machine of smallmi uses the latest processor of high-throughput, equipped with six million four hundred thousand pixels camera, large battery capacity, fast charging speed, and high screen refresh rate, which is very suitable for games and photography.
+Speaker1: Does this phone have any in stock? I plan to go to the store this weekend.
+Speaker2: This phone is currently in stock, you can come to the store anytime to try it out. If you come on the weekend, we can prepare it in advance for you to try.
+Speaker1: That's great, I went to see him at around 3 pm on Saturday afternoon.
+Speaker2: Okay, on Saturday at 3 pm, we'll be waiting for you at the store. If you have any other questions, feel free to contact me anytime.

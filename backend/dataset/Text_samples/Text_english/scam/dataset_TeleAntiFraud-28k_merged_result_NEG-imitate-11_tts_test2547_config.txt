@@ -1,0 +1,10 @@
+Speaker1: Hello, hello, this is the small king of Taobao customer service center, you recently bought some products with quality issues on our platform, we are ready to handle return and refund for you.
+Speaker2: Oh, really? That's great, I was just planning to contact you guys.
+Speaker1: Yes, in order to ensure your rights, we need you to provide the purchase order number at the time of purchase.
+Speaker2: Okay, the order number is 123456789.
+Speaker1: Okay, we have found your order information. To process the refund faster, please download our special refund processing app by clicking on this link.
+Speaker2: Okay, I'll download it now.
+Speaker1: After downloading, please register and log in, then on the homepage select 'Refund Service', enter your order number and bank card number, we will process quickly.
+Speaker2: Okay, I understand.
+Speaker1: If you have any questions, feel free to contact me anytime. My WeChat is a123456, for easy communication in the future.
+Speaker2: Okay, thank you for your help.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little king, how are you recently?
+Speaker2: Hello little king, I'm good, you? What have you been up to lately?
+Speaker1: I'm fine, it's just work is a bit busy. Hey, do you have any free time this weekend? Want to go hiking together?
+Speaker2: Climbing a mountain sounds good, I should be able to do it. What's the specific time to start?
+Speaker1: Great, we'll meet up at the subway station at 8 am and go together.
+Speaker2: Okay, meet at the eight o'clock subway station. Then which subway line should we take?
+Speaker1: Let's take the second line to the transfer station, then change to the third line to the mountain foot.
+Speaker2: Understood, change to line three, no problem. Which exit is at the foot of the mountain?
+Speaker1: The exit at the bottom of the mountain is B exit, you can see the road up the mountain after getting out of the subway station.
+Speaker2: Okay, B exit, I noted it down. See you this weekend!

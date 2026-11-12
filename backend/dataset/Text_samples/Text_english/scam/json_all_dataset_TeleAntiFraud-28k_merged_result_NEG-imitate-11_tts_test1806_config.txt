@@ -1,0 +1,11 @@
+Speaker1: Hello, are you the boss?
+Speaker2: Hello, I am.
+Speaker1: Hello, I am the customer service manager of Huatai Bank. We recently launched a special loan service for our high-quality customers, with a loan amount of up to 50,000 yuan and a very favorable interest rate. Would you be interested in learning more about it?
+Speaker2: I'm currently in a good financial situation, so I don't need a loan at the moment.
+Speaker1: Oh, that's it. But this opportunity is rare, our this time's loan service is zero down payment, zero collateral, and the approval is particularly fast, today apply, today disburse.
+Speaker2: It sounds good, but I think I'll consider it more first.
+Speaker1: Mr. Wang, considering your situation, we can provide you with a special link to apply for additional discounts. You just need to provide some basic information, and we will process it quickly.
+Speaker2: How do I get this link?
+Speaker1: You can directly click on the link in the text message I sent you, or I can send you a QR code, which you can scan to directly enter the application page.
+Speaker2: Okay, then send me a QR code.
+Speaker1: Okay, Wang Zhong, I will immediately send you the QR code. Please pay attention to the SMS and scan it after receiving. If you have any questions, please contact me anytime. Have a happy life, bye.

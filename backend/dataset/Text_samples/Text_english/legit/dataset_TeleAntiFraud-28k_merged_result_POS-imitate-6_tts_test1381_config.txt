@@ -1,0 +1,7 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform. Your food has arrived, but the delivery boy couldn't contact you by phone. Could you please come to the door of the community to pick it up?
+Speaker2: Okay, I'll go down now.
+Speaker1: Okay, can you please pick up your food from the delivery box outside the community door? Remember to take it.
+Speaker2: I know, thank you.
+Speaker1: No problem, feel free to contact me if you have any questions, enjoy your meal.
+Speaker2: Okay, bye.
+Speaker1: Goodbye.

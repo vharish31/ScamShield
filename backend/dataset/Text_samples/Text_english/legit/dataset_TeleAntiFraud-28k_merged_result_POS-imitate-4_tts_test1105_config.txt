@@ -1,0 +1,13 @@
+Speaker2: Hello
+Speaker1: Do you still hire people there?
+Speaker2: Hey, still recruiting, but lately there aren't many people, you can come take a look.
+Speaker1: What is the work content like? Do I have to stand?
+Speaker2: Yes, work mainly involves standing and walking between different work stations, responsible for packaging and sorting.
+Speaker1: How is the workload?
+Speaker2: The workload is manageable, it's just the actions need to be a bit faster. If you can adapt, there shouldn't be any problems.
+Speaker1: Can I come over in the afternoon?
+Speaker2: Sure, you come in the afternoon at exactly two o'clock, our afternoon class starts at two o'clock here.
+Speaker1: Okay, I'll go at 2 pm.
+Speaker2: Okay, see you then, call before to confirm.
+Speaker1: Okay, thank you, bye.
+Speaker2: No problem, goodbye.

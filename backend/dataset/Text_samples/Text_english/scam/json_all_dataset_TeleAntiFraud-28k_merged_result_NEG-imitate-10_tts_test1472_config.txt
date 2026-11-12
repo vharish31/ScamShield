@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the middle of the customer service center, I am the customer service manager Zhang, we found that you have a lost package, need to handle the refund, are you convenient?
+Speaker2: Oh, really? I was yesterday's single, how did the delivery lose?
+Speaker1: Yes, we have confirmed that your package has been lost. To compensate you, we are preparing to refund your money and also give you an extra discount coupon. All you need to do is provide your bank card number and verification code, and we can process it immediately.
+Speaker2: Okay, how can I provide this information?
+Speaker1: You can click on the link I sent you and fill in the relevant information, and we will process it immediately.
+Speaker2: Okay, send me the link.
+Speaker1: Okay, just a moment, I'll send it to you right away.
+Speaker2: Okay, I'll be right back.
+Speaker1: The link has been sent to you, please check it and fill out the information. We will immediately process your refund after you complete it.
+Speaker2: Okay, I see it now, I'll fill it out.

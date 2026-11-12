@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Laoban?
+Speaker2: Hello, I am Zhang Laoban, what do you have?
+Speaker1: I am the manager of the Agricultural and Commercial Bank, we noticed your company recently has a need for capital rotation, we have a special discounted loan project that can be provided to you.
+Speaker2: Oh, really? I'm actually a bit short on cash lately.
+Speaker1: Yes, this loan project has a low interest rate, fast approval, no collateral required, and is very suitable for small and medium-sized enterprises. Are you interested in learning more?
+Speaker2: How do I apply? It sounds good.
+Speaker1: It's very simple. Just download our official app, register and fill in the relevant information, and our customer manager will contact you quickly.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can click on the link in the text message we sent, and directly download the app. The text message contains detailed steps, very convenient.
+Speaker2: Okay, I'll check it out later. Thank you for your recommendation.

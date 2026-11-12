@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Xiaohua car sales center. I see you've recently browsed some car models on our website and are interested in learning more about which one you like best?
+Speaker2: Hey, hi, I checked out your SUV series, I think it's pretty good, but I haven't decided which specific model yet.
+Speaker1: Okay, SUV series is very popular here, you can come to the store and try it out when you have time, we can introduce it to you in detail.
+Speaker2: This week might not be convenient, but there's a free weekend next weekend.
+Speaker1: Great, what specific day next weekend is most convenient for you? We can arrange it for you.
+Speaker2: I can meet you on Saturday afternoon around three o'clock.
+Speaker1: Okay, on Saturday at 3 PM, I will make an appointment for you, and there will be a specialist to greet you upon arrival.
+Speaker2: Okay, thank you.
+Speaker1: No problem, are there any other questions or needs?
+Speaker2: No longer available, thank you.

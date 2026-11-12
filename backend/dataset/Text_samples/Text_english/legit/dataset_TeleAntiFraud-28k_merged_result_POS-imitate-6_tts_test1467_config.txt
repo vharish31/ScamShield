@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I have an appointment at your salon tomorrow for a haircut, can you confirm the time?
+Speaker2: Hello, I'm very happy to serve you. What's your name and what's your appointment time?
+Speaker1: I'm Li Ming, the appointment is tomorrow afternoon three o'clock.
+Speaker2: Okay, Li Ming Xiāngshēng, I have found your appointment information. The time of three o'clock in the afternoon is reserved for you tomorrow.
+Speaker1: That's great, thank you. By the way, I want to ask, if I arrive early, will there be any problems?
+Speaker2: There won't be any problems if you arrive early. Our staff will be ready for you. However, if other appointments are tight, you may need to wait a little.
+Speaker1: I understand, I will do my best to arrive on time. Additionally, do you have any drinks available in your store?
+Speaker2: Yes, we provide free mineral water and coffee, you can choose according to your preference.
+Speaker1: That's really too perfect, thank you for your patience in answering, see you tomorrow.
+Speaker2: You're welcome, see you tomorrow, looking forward to serving you. Wishing you a happy day.

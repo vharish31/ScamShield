@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I'm the customer service representative you spoke with before, and one of your customers wants to know more about your hairdressing services.
+Speaker2: Hello, is there any problem? What aspects do your customers want to know about?
+Speaker1: He mainly wants to know about your service projects and prices, and also if there have been any recent discount activities.
+Speaker2: We provide hair cutting, hair straightening, and hair dyeing services here. The price for hair cutting is 60 yuan. The price for hair straightening and hair dyeing varies based on the hair style and the materials used, usually between 200 and 500 yuan.
+Speaker1: Hey, what kind of discount activities have you guys had recently?
+Speaker2: Yes, this month, if you sign up for our membership card, you can enjoy a 90% discount, as well as free shampoo and haircut services.
+Speaker1: Okay, how do we arrange the appointment?
+Speaker2: You can tell me a convenient time for the customer, I can help him book.
+Speaker1: He might have more free time this weekend, either on Saturday or Sunday.
+Speaker2: Okay, I'll record it down. Both Saturday and Sunday are fine, I'll call you ahead of time to confirm the scheduled time.
+Speaker1: Okay, is that bothering you? And if there are any changes, we will contact you promptly.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. I hope your customers have a great experience here.

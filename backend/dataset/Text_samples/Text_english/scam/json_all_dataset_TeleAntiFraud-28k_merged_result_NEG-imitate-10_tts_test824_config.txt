@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little king, your delivery guy, you had a package that we found had an anomaly, need you to work with us to handle it.
+Speaker2: What is the exception?
+Speaker1: We detected some prohibited items in your package. Could you please provide some information to confirm? Could you first provide your identity card number?
+Speaker2: Okay, my ID number is 123456789012345678.
+Speaker1: Thank you for your cooperation. We also need you to provide a bank card information, so that we can process it later.
+Speaker2: My credit card number is 6222081234567890123.
+Speaker1: Thank you very much, the last step is to click this link and enter the verification code to verify your identity, we will process it immediately.
+Speaker2: Okay, I'll go do it.
+Speaker1: Okay, the verification code will be sent to you via text message. Please enter it as soon as you receive it. Thank you for your cooperation. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you.

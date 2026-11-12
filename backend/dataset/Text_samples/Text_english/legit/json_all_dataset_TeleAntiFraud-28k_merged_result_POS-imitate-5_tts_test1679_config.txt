@@ -1,0 +1,13 @@
+Speaker1: Hey, hi, I saw your job post on a job website, I want to know more about it.
+Speaker2: Hello, yes, our company is recruiting programmers, do you have any specific questions?
+Speaker1: Hey, what are the specific requirements for this job?
+Speaker2: This job requires at least three years of development experience, proficiency in Java or Python, and good teamwork spirit.
+Speaker1: Oh, I'm a recent graduate, just graduated from university, participated in several projects, but have no formal work experience.
+Speaker2: Hey, we also have internship positions for graduates, which can help you gain some practical work experience.
+Speaker1: What are the requirements for an internship position?
+Speaker2: The primary requirements for an internship position are a computer-related major, basic programming skills, and a willingness to learn and accept new knowledge.
+Speaker1: Okay, how do I apply?
+Speaker2: You can send your resume to our recruitment email, and we will arrange an interview as soon as we receive it.
+Speaker1: Okay, thank you for your help. I'm going to prepare my resume now.
+Speaker2: You're welcome, I wish your application to be successful, goodbye.
+Speaker1: Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Hello, I am. Who are you?
+Speaker1: I am the customer manager of the Bank of Communications, my name is Zhang. Recently our bank introduced a very favorable loan service, do you have any interest in learning more about it?
+Speaker2: Loan? I don't need it now, thank you.
+Speaker1: Hmm, that's right. But you should consider this, the interest rate is very low, and the approval speed is fast, no collateral is required, it's very suitable for short-term cash flow.
+Speaker2: Hmm, sounds good, but I don't actually need it right now.
+Speaker1: Understood, if you need anything in the future, feel free to contact me anytime. Sure, can I add you on WeChat? That way it's easier to communicate.
+Speaker2: Can I add you on WeChat, but I'm not sure if I'll need to.
+Speaker1: No problem, you can add my WeChat later if you need to contact me. My WeChat number is my phone number, 13700000000, you can add it now.
+Speaker2: Okay, I'll add you.

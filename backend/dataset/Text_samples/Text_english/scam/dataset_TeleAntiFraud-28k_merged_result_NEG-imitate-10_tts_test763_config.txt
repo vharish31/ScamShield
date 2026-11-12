@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm small Li, the customer manager of the construction bank, we recently launched a special discounted loan product, interest rate is very low, want to know more?
+Speaker2: Is this loan really not secured?
+Speaker1: Yes, this loan product is unsecured. As long as your credit is good and your repayment ability is not a problem, you can apply for it.
+Speaker2: Can I apply even though I had a late payment before?
+Speaker1: As long as you can provide recent bank statements and stable income proof, the overdue issue won't be big, we can help you adjust it in the system.
+Speaker2: How do I apply?
+Speaker1: Just download our official app, register, fill out some basic info, upload necessary files, and you'll be able to withdraw after approval.
+Speaker2: Is this app safe?
+Speaker1: Absolutely safe, we are a regular bank, all transactions are encrypted processed, you can put your mind at ease.
+Speaker2: How do I download your app?
+Speaker1: You can download it through this link. I'll send you a short message, and once you receive it, click on the link and follow the instructions to download it.
+Speaker2: Okay, thank you.

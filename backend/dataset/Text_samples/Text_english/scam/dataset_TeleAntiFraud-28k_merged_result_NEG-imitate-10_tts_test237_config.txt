@@ -1,0 +1,11 @@
+Speaker1: Hello, I'm the customer manager of the Agricultural Bank's Tianhe Branch, Lee Huai.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we recently launched a new credit product with a high limit, low interest rate, and fast approval, which is very suitable for the current market environment.
+Speaker2: "Ugh, I'm not interested in loans."
+Speaker1: That's too bad, this product is very suitable for friends with financial needs. If your mind changes, you can contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, okay, we also have a special promotion activity, as long as you apply through our app, you can enjoy extra discounts.
+Speaker2: Really? Then how do I apply?
+Speaker1: It's very simple. Just scan this QR code, download our app, and follow the instructions.
+Speaker2: Okay, I'll give it a try. Thank you for your recommendation.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Have a happy life!

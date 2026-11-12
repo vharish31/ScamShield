@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Lee Huai?
+Speaker2: Hello, who are you?
+Speaker1: How have you been lately?
+Speaker2: Hey, long time no see, how are you? Been busy lately.
+Speaker1: How's it going? Have you started your new job?
+Speaker2: Hey, not bad, just a bit busy, how about you? Still at the old company?
+Speaker1: Yeah, there are quite a few projects lately at the old company.
+Speaker2: That's great, let's hang out together when we have time.
+Speaker1: Hey, how was your weekend?
+Speaker2: How about we meet up this weekend?
+Speaker1: Let's meet at two o'clock in the old place?
+Speaker2: Okay, see you later.

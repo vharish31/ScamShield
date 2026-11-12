@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I'm the small king of the express delivery query platform, you have a package that needs to be confirmed for delivery.
+Speaker2: Sure, I'm at home, can you send it over?
+Speaker1: Okay, your package is expected to arrive at your home around 4 pm this afternoon.
+Speaker2: Okay, I was at home all afternoon, no problem
+Speaker1: Please remember to sign for your package upon delivery, and feel free to contact me if you have any issues.
+Speaker2: Okay, I understand, thank you.
+Speaker1: You're welcome. If you have any other needs to help, you can contact us anytime.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye

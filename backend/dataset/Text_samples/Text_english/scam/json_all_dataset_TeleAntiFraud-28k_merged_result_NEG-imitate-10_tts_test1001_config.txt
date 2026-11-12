@@ -1,0 +1,11 @@
+Speaker1: Hello, is it Zhang Huaman?
+Speaker2: Who are you?
+Speaker1: I am a customer service representative for JD Finance, we noticed you have previously browsed our loan products, now we have a special discounted loan plan, are you interested in learning more?
+Speaker2: Loan? I'm okay for now, I'm not considering it temporarily.
+Speaker1: Oh, that's how it is. But do you have any need for capital rotation? Our loan product has a very low interest rate and quick approval, making it very suitable for temporary rotation.
+Speaker2: That sounds good, but I already have loans at other banks, I don't want to add more.
+Speaker1: I understand your concerns, but our product doesn't require collateral, the approval process is simple, even if you have a loan from another bank, it won't affect your application. You just need to download our app, fill out the relevant information, and you can quickly complete the application.
+Speaker2: Do you want to download the app? It sounds a bit tedious.
+Speaker1: It's really simple. Just scan the QR code I send you and you can directly download the app. We also have a dedicated customer service team to guide you through the entire process online.
+Speaker2: Okay, let me try. You send me the QR code.
+Speaker1: Okay, I'll send it to you right away. Please pay attention to check the message, there will be a link inside, clicking on the link will allow you to download the app. If you have any issues, please contact me anytime. Best of luck!

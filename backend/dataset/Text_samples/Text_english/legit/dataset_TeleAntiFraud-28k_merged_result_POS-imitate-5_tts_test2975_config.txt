@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm at the mall near your house and can't find your store. Can you tell me how to get there?
+Speaker2: Okay, you first find the east door of the mall, then walk straight out, turn left at the second crossroad, our store is on the right side, there's a big red sign.
+Speaker1: Okay, I understand. How long will it take to get there?
+Speaker2: Walking takes about five minutes, just take it slow and don't rush.
+Speaker1: Okay, I'll leave right away and call you to confirm once I arrive.
+Speaker2: Okay, I'm waiting for you at the store. If you have any questions, feel free to contact me anytime.
+Speaker1: Thank you, I'll hang up first.
+Speaker2: Okay, be careful on the road.

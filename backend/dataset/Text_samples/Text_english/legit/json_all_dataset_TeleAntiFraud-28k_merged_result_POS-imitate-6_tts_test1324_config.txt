@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Liu, recently I want to buy a new phone, want to know your store's phone situation.
+Speaker2: Hello, little Liu, I am the customer service king in the store, very happy to serve you. What special requirements do you have for the phone? Like brand, price or function?
+Speaker1: I want a phone with a high price-to-value ratio, preferably around 5,000 yuan, and preferably new.
+Speaker2: Okay, we have a new phone in stock that just came out, it's from a popular brand, the configuration is great, the price is around five thousand, are you interested in learning more?
+Speaker1: Is it okay, how is the battery life of this phone, I use my phone quite frequently.
+Speaker2: This phone's battery capacity is 4000mAh, it's enough for a whole day of normal use, and if you use it lightly, you can go two days on a single charge.
+Speaker1: Is this phone in stock?
+Speaker2: Okay, we can reserve a machine for you. What time is it convenient for you to pick it up at the store?
+Speaker1: Can I come and pick up tomorrow afternoon?
+Speaker2: Of course, tomorrow afternoon we'll wait for you here. If you have any other questions, feel free to contact me anytime.

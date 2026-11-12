@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer service of Meituan Waimai. I see your record. Have you used our service before?
+Speaker2: Hmm, used several times, quite convenient.
+Speaker1: That's great, do you want to know more about our new activity?
+Speaker2: Sure, what activities?
+Speaker1: As a new user, you can enjoy a 50% discount on your first order, and the shipping fee is also free.
+Speaker2: Listen well, how can I join in?
+Speaker1: Sign up for a new account on the Meituan Waimai App and use the discount code on your first order to enjoy the discount.
+Speaker2: If I used it before but haven't used it for a long time, can I still enjoy this discount?
+Speaker1: If your account has no order record for over a year, you can also be considered a new user and enjoy the same discount.
+Speaker2: Okay, thank you for your information. I will consider it.
+Speaker1: You're welcome, feel free to consult anytime if you have any questions, wish you a happy life.

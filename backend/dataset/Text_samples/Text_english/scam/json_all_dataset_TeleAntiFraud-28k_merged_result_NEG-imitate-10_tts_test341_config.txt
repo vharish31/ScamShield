@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Qiang?
+Speaker2: Hello, I am Zhang Qiang, what are you?
+Speaker1: Hello, I am a customer service representative from Huaxing Finance, we noticed that you recently applied for a loan on our platform but have not yet confirmed, I can provide you with some special discounts here, such as zero down payment, no collateral, fast loan, are you interested?
+Speaker2: The sound is good, but I need to know more details.
+Speaker1: Of course, to make it more convenient for you to operate, you can click on the link we send to you and download our latest version of the app, which will make the operation more convenient and quick.
+Speaker2: Okay, I'll take a look.
+Speaker1: After you download it, I will guide you through the application process step by step via phone, and we will also give you a one thousand yuan red packet as a gift for your first use, it's really a great deal.
+Speaker2: Really? Then I'll hurry down to download and take a look.
+Speaker1: Great, give me a call after you download it, and we'll start working right away.
+Speaker2: Okay, thank you for your help.

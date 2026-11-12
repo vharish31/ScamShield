@@ -1,0 +1,12 @@
+Speaker2: Hello, I made a reservation on your platform just now, can you confirm the time?
+Speaker1: Okay, can you tell me your appointment number or service project?
+Speaker2: I have an appointment for a massage service tomorrow at 2 pm. The number is one two three four five six seven.
+Speaker1: Found it, your appointment for a full body relaxation massage tomorrow at 2 pm is confirmed, right?
+Speaker2: Yes, I want to confirm one thing, is that address correct?
+Speaker1: The address is fine, it's at 101 Lighting Road Health Center.
+Speaker2: Okay, can I just go directly tomorrow?
+Speaker1: Yes, you can come directly. If there are any changes, we will contact you in advance.
+Speaker2: Okay, thank you. And how far in advance do I need to arrive?
+Speaker1: We suggest you arrive ten minutes early, so you can have time to fill out some necessary information.
+Speaker2: I understand, thank you for your help.
+Speaker1: No problem, feel free to contact us if you have any other questions. Best wishes!

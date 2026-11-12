@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw on your website a smartwatch, I want to know more about the specific information.
+Speaker2: Okay, our smartwatch comes in various styles. Which specific information about a particular style are you looking for?
+Speaker1: That black one with heart rate monitoring functionality.
+Speaker2: This watch is our latest product, besides heart rate monitoring, it also supports sleep analysis, step count and other functions. The price is 988 yuan, there's a discount promotion now when you place an order.
+Speaker1: Can you tell me specifically what discount activities are available?
+Speaker2: We currently have a promotion activity, the first 100 customers who place an order can enjoy a 90% discount, and also receive a handbag worth 199 yuan as a gift.
+Speaker1: Great, I decided to buy it. How do I place an order?
+Speaker2: You can place an order directly on our website or through a customer service representative. Do you need me to help you with it?
+Speaker1: I'll give it a try, thank you for your help.
+Speaker2: You're welcome. If you have any issues during the purchasing process, please feel free to contact us. Have a happy shopping!

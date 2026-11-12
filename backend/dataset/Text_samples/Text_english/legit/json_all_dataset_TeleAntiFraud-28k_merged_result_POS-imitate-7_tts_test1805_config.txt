@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to ask if your restaurant has a vegetarian menu?
+Speaker2: Hello, yes, we have a special vegetarian menu here, you can take a look.
+Speaker1: Sure, can I order half of the vegetarian menu items?
+Speaker2: Sure, most of the dishes here can be ordered in half portions.
+Speaker1: Great, I want to reserve a two-person table for around 6:30 PM tonight.
+Speaker2: Okay, 6:30 for two people, no problem. Do you need me to record your contact information?
+Speaker1: Please, my phone number is 13813801380.
+Speaker2: Okay, I have recorded it down. We will call you ahead of time to confirm.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later, wish you a happy day.

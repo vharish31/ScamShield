@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I saw some new electric cars in your store and wanted to know more about them.
+Speaker2: Okay, our new electric car has a maximum range of three hundred kilometers, the battery capacity is sixty degrees.
+Speaker1: How long does it take to charge?
+Speaker2: Fast charging takes about an hour to charge from zero to eighty, while slow charging takes six to eight hours.
+Speaker1: What special features does this car have?
+Speaker2: This car comes equipped with an intelligent navigation system, supports phone remote control, and also has an automatic parking function.
+Speaker1: How much does it cost to sound good?
+Speaker2: The price of this electric car is 21,000 yuan, and there is currently a certain discount for purchasing.
+Speaker1: Okay, I will consider it. Thank you for your detailed introduction.
+Speaker2: You're welcome, feel free to consult anytime if you have any questions.

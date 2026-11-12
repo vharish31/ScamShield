@@ -1,0 +1,9 @@
+Speaker2: Hello, how can I help you?
+Speaker1: Hello, I saw on the internet that your pet store has a pet boarding service, I want to know more details.
+Speaker2: Yes, we do provide pet boarding services. Which kind of pet are you interested in boarding?
+Speaker1: I want to know more about dog boarding services, my dog is a Labrador Retriever.
+Speaker2: Okay, for large dogs like Labrador, we provide special boarding areas to ensure they have enough space for exercise. We arrange three walking times a day and have specialized caretakers to take care of their food and health.
+Speaker1: How much does it cost to keep it?
+Speaker2: The cost of boarding a large dog is 150 yuan per day, which includes basic care and food expenses. Additional services, such as bathing or grooming, will be charged separately.
+Speaker1: How far in advance do I need to make a reservation?
+Speaker2: I suggest you book in advance about a week or so, so we can arrange the right boarding time for your dog. It's especially important during holidays, as demand is high, the earlier you book the better.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from an e-commerce platform. Today, I am calling to remind you that the shopping points in your account will expire and be cleared at midnight tonight.
+Speaker2: Really? What can I exchange these points for?
+Speaker1: You can exchange these points for a variety of products, such as daily necessities and electronic products, and even deduct some cash.
+Speaker2: That's great, I didn't pay attention to these points before.
+Speaker1: Yes, many users don't know the power of points yet. What do you want to exchange, I can help you check.
+Speaker2: I want to see if there are any suitable electronic products, like headphones or speakers.
+Speaker1: Okay, let me check. Hmm, we have several headphones and speakers here doing a point exchange activity, the style and performance are both good.
+Speaker2: Great, can I exchange it immediately?
+Speaker1: Of course, I can help you now. However, please confirm which model you want to exchange, and your delivery address and contact information.
+Speaker2: Okay, I'll choose this headphones. The address is some certain small community, the phone number is 123456789.

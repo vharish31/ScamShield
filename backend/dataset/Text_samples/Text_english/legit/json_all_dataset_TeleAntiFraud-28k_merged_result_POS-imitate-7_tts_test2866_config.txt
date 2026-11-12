@@ -1,0 +1,15 @@
+Speaker2: Hello
+Speaker1: I am your property maintenance staff, I have a few questions to ask you.
+Speaker2: Okay, you say.
+Speaker1: Is this house your only property?
+Speaker2: No, I have others.
+Speaker1: Is this house limited purchase?
+Speaker2: It's on sale.
+Speaker1: Can I directly transfer ownership of this house if I sell it?
+Speaker2: Okay.
+Speaker1: What is the parking situation for this house?
+Speaker2: There is no designated parking spot, whoever arrives first parks.
+Speaker1: Understood, can you take a few photos of the house for me?
+Speaker2: Okay, when do you want me to take the picture and contact you again?
+Speaker1: Okay, thank you, my phone number is virtual, add me on WeChat.
+Speaker2: Okay, I'll add you on WeChat.

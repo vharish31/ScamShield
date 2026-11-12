@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the happy shopping website customer service center. I am customer service representative Li. You recently purchased products on our website and have the latest shipping information. Please confirm.
+Speaker2: Okay, say my order number please.
+Speaker1: Your order number is HXS2023456789, but we found a small issue with your order and need your cooperation to handle it.
+Speaker2: What problem?
+Speaker1: An error occurred with your order during processing. It may be due to system failure. To confirm your order info, please click on the link.
+Speaker2: Okay, how do I click?
+Speaker1: You can receive the link through SMS on your phone or download our official app directly. Now I can send you a text message or guide you to download the app, which one do you find more convenient?
+Speaker2: Send a text message.
+Speaker1: Okay, I'll send you a text message right away. Please keep your phone connected, and click on the link after receiving the message, then follow the instructions.
+Speaker2: Okay, thank you.

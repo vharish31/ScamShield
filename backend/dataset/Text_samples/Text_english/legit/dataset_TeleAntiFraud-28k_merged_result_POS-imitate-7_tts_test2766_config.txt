@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: What do you recommend for a new phone?
+Speaker2: What's your budget? What features do you want?
+Speaker1: About three thousand, mainly just take photos, battery durable.
+Speaker2: You can take a look at this one, the photo effect is particularly good, the battery life is very strong.
+Speaker1: Is this product in stock?
+Speaker2: Yes, there's a discount now for buying.
+Speaker1: What was the specific address of the place you visited over the weekend?
+Speaker2: Our store is located in the electronic city in the city center, specifically at XX road XX number.
+Speaker1: Okay, thank you. See you this weekend.
+Speaker2: No problem, see you this weekend.

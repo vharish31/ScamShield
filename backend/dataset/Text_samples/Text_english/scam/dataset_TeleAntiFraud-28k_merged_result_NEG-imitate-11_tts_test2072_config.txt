@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Lee Huai?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative for a courier company. You have a package that needs to be reconfirmed due to an incorrect address. Please cooperate.
+Speaker2: Oh, so that's how it is, then what do I need to do?
+Speaker1: That's right, in order to successfully deliver, we need you to click on the link to confirm the details, you can provide your phone number, I'll send you a link.
+Speaker2: Okay, my phone number is 13700000000.
+Speaker1: Okay, I'll send it to you now. Please pay attention to the SMS and confirm the link as soon as you receive it.
+Speaker2: Okay, I'll take a look in a moment.
+Speaker1: Okay, if you have any questions, you can contact me anytime, my phone number is 13500000000.
+Speaker2: Okay, thank you.

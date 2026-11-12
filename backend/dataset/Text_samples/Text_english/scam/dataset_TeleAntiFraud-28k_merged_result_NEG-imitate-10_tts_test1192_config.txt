@@ -1,0 +1,7 @@
+Speaker1: Hello, this is the customer service representative for Speedy Express. One of your packages was returned because the address was not detailed, please provide a detailed address to resend it.
+Speaker2: Oh, really? Then what do I need to do?
+Speaker1: To make it convenient for you, you can click on the link we send to you and fill out the relevant information, and we will process it quickly.
+Speaker2: Okay, I'll go check my emails now.
+Speaker1: You're welcome. If you encounter any issues during the operation, please feel free to contact our customer service at any time.
+Speaker2: Thank you, I'll handle it right away.
+Speaker1: Okay, thank you again for your cooperation, wish you happy life.

@@ -1,0 +1,11 @@
+Speaker1: Hello, are you Li Xiaojie?
+Speaker2: Hello, who are you?
+Speaker1: Hello, I am Tmall customer service, we found that the product you bought was lost during transportation, to compensate you, we need you to cooperate with us to handle it.
+Speaker2: What should we do?
+Speaker1: You can click on the links we provide, fill in the relevant information, and we will quickly transfer the compensation money to your account.
+Speaker2: How can I confirm this is safe?
+Speaker1: Please rest assured, we are official Taobao customer service, the link is official, you can first check the company information on the website, and confirm it before operating.
+Speaker2: Let me try it out.
+Speaker1: Okay, here's the link. Please handle it as soon as possible. We'll verify the information in the background and process the compensation immediately after.
+Speaker2: Okay, I'll go operate now. Thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Have a nice life, bye.

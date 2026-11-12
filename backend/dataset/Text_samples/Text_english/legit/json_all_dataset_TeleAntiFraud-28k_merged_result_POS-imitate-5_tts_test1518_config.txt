@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I just arrived at your store door, can you come out for a sec?
+Speaker2: Okay, I'm going out now.
+Speaker1: Okay, I'm waiting for you at the door.
+Speaker2: Hey, I'm almost there.
+Speaker1: The weather is nice today, remember to bring an outer layer when you go out.
+Speaker2: Okay, I know. How's the weather on your side?
+Speaker1: It's still good, just a little wind, come out, don't stay cold.
+Speaker2: Okay, I'll go out right away.
+Speaker1: Do you have time tonight? Let's go eat dinner together.
+Speaker2: Great, I'm also thinking of going out to eat something good.

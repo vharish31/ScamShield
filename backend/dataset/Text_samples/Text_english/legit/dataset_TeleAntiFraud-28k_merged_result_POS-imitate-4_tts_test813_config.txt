@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the property manager of the community.
+Speaker2: Hello, property manager.
+Speaker1: Is this so, do you have any recent renovations at home?
+Speaker2: Hey, what's up? I've been renovating lately, do you have any issues?
+Speaker1: Hey, just want to confirm, have you already completed the application process for home renovation as per the rules?
+Speaker2: Oh, I have already done this one, I paid the deposit at the time.
+Speaker1: Okay, please keep noise control in mind during the renovation process to avoid disturbing other residents.
+Speaker2: Got it, I'll pay attention, since we're neighbors after all.
+Speaker1: The decoration time is limited to 6 pm according to the community regulations.
+Speaker2: Okay, I will clearly explain to the decoration team, thank you for reminding me.

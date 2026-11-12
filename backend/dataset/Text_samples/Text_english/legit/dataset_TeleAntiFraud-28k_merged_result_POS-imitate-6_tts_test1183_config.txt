@@ -1,0 +1,9 @@
+Speaker2: Hey, did you arrive?
+Speaker1: Just arrived at the community door, where are you?
+Speaker2: I'm in the community, you come from the north gate, walk straight to the bottom, turn left at the second crossroads, wait for me.
+Speaker1: Okay, I'm going over there now. Don't hang up the phone, I'm almost there.
+Speaker2: Okay, okay, I'm watching you.
+Speaker1: Are you at the last road junction?
+Speaker2: Okay, I'm waiting for you at the last road corner.
+Speaker1: Okay, I'll be there soon.
+Speaker2: I see you, turn left at the second road junction and walk forward.

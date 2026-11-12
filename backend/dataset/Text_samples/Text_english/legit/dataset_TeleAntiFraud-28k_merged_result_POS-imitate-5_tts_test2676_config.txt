@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Are you little Liu?
+Speaker2: Yes, I am, you are small Zhang?
+Speaker1: Hey, I just am. I've been looking for a new place to live lately, have you heard about any rentals on your side?
+Speaker2: Yeah, that's right, I have a one-room apartment, fully furnished, suitable for one person to live in.
+Speaker1: How much is the rent?
+Speaker2: The monthly rent is 2500 yuan, with a deposit of three months paid upfront, and utilities are self-paid.
+Speaker1: How long is the contract?
+Speaker2: Usually it's a year. If you're satisfied, you can renew the lease.
+Speaker1: Can I take a look at the room beforehand?
+Speaker2: Of course, when do you have time?
+Speaker1: Can I come at three in the afternoon tomorrow?
+Speaker2: Okay, I'll wait for you at my home at 3 pm tomorrow.

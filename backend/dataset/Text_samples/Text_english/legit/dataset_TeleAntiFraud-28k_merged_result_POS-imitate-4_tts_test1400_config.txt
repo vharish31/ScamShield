@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me talk?
+Speaker2: Can you hear me? Hello, what can I help you with?
+Speaker1: You are Little King, your shopping points on our platform will expire today, you haven't used them yet, do you know?
+Speaker2: Oh, what happens when points expire?
+Speaker1: After the points expire, they will be deleted from your account, and you won't be able to use the points you accumulated before.
+Speaker2: How can I use these points?
+Speaker1: You can log in to our platform, select the products to exchange with points, and use points to deduct the corresponding amount of money.
+Speaker2: Okay, I'll go take a look. Are there any products that can be exchanged with points?
+Speaker1: There are many products available, such as electronic products, daily use items, and food, you can view the detailed list after logging into the platform.
+Speaker2: Thank you for your reminder. I'm going to exchange now.

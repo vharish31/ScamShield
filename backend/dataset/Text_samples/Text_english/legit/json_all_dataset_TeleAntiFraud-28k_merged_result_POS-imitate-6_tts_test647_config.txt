@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am small Li, want to consult your store new phone
+Speaker2: Hello, little Li, I am the customer service staff at the store, which phone do you want to know about?
+Speaker1: That's the latest one, I heard it's great for taking photos.
+Speaker2: You're talking about our new flagship phone, right? The photo quality is really good, it has a 48-megapixel camera.
+Speaker1: How much does this phone cost?
+Speaker2: This phone currently costs 3999 yuan, and you can enjoy one year of free repair service when you buy it now.
+Speaker1: Hmm, let me think, do you guys have any goods in your store?
+Speaker2: Yes, we have enough stock now, you can come to buy anytime, or I can reserve one for you.
+Speaker1: Great, I plan to go over there tomorrow, what time do you open?
+Speaker2: What time would you come tomorrow morning at ten o'clock?
+Speaker1: Can I go at three in the afternoon?
+Speaker2: Of course, I will wait for you at the store when the time comes, and you can directly contact me if you have any questions.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, be careful on the road.

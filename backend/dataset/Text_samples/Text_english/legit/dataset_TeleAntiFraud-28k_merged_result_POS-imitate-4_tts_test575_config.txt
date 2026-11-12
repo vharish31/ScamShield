@@ -1,0 +1,14 @@
+Speaker1: Hello, is that the Xiǎomíng restaurant over there?
+Speaker2: Hey, how are you? Yes, what do you want from us?
+Speaker1: Can you tell me more about your menu and do you have any recommendations for today's dishes?
+Speaker2: We have several special dishes today, such as spicy Sichuan hot pot and steamed fish with ginger, both of which are very popular.
+Speaker1: How much do these menus cost?
+Speaker2: The spicy pot is 50 yuan, the steamed fish is 80 yuan, both are very affordable prices.
+Speaker1: Can you tell me your business hours?
+Speaker2: We are open from 11 am to 10 pm every day. Welcome to come anytime.
+Speaker1: Okay, I'll probably arrive at six in the evening. Do I need to reserve a seat in advance?
+Speaker2: If you're convenient, you can pre-order, which is more convenient. How many people are you ordering for?
+Speaker1: Reserve four seats, thank you.
+Speaker2: Okay, I have reserved a 4-person table for you tonight at 6 pm. See you then.
+Speaker1: Okay, thank you, see you later.
+Speaker2: You're welcome. I'm looking forward to your arrival. Goodbye.

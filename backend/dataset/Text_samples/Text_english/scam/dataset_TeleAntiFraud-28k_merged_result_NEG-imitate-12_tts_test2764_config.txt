@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Lee Huang, the customer manager of Commercial Bank, we have a new credit loan product, the maximum amount you can borrow is 50,000, the interest rate is very favorable, do you have any funding needs?
+Speaker2: Uh, really? I recently need some money, can you explain in detail?
+Speaker1: Of course, this loan product has no collateral or guarantee, and after approval, the funds can be disbursed immediately. You just need to provide your ID and bank statement, and we'll take care of the rest.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: It's very simple. Just add my WeChat, I'll send you an application link, fill it out and our backend will review it. Once approved, the money will be directly deposited into your account.
+Speaker2: Okay, what's your WeChat number?
+Speaker1: Add my WeChat number LH8888, let's communicate in detail.
+Speaker2: Okay, I'll add you.
+Speaker1: Okay, let me know once you've added it, I'll send you the link.
+Speaker2: Okay, thank you.

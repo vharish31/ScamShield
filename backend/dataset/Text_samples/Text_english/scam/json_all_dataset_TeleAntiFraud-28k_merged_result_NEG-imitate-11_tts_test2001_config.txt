@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, who are you?
+Speaker1: Hi, I'm small Li from the Agricultural and Commercial Bank's Credit Center. We noticed that you might have recently needed some cash flow. You may want to consider our startup loan service, which has a low interest rate and simple procedures.
+Speaker2: Oh, is that so? I don't have any particularly urgent money right now.
+Speaker1: Okay, if you need anything in the future, feel free to contact us anytime. By the way, let's add a WeChat for easy contact in the future.
+Speaker2: Wechat? Okay, then I'll add you.
+Speaker1: Great, add this phone number and once it's verified, I'll send you some info on loan products, feel free to ask me any questions.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, if you have friends who need capital, you can also recommend them to come find me, we have special rewards for recommendations here.
+Speaker2: Okay, I will consider it, thank you.

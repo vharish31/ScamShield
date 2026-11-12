@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at your store door, can I see your sign?
+Speaker2: Sure, our sign is on the left, you can see the big characters, that's it.
+Speaker1: I see you, I see you, so I'll come in.
+Speaker2: Hey, come in, what service do you need, cut hair or dye hair?
+Speaker1: Can you recommend a short haircut style for me here?
+Speaker2: Yes, we have many styles of photos, you can take a look, feel which one is suitable for us to design specifically.
+Speaker1: Okay, then I'll take a look. So, how long does it usually take to cut hair?
+Speaker2: In general, short haircuts take about an hour, if you're sure about the style, we can serve you quickly.
+Speaker1: Okay, I'll tell you the styles I've chosen.
+Speaker2: Okay, take your time choosing. Let me know if you need help anytime.

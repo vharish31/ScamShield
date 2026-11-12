@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the e-commerce customer service center.
+Speaker2: Hello, what do you have?
+Speaker1: There seems to be an issue with your order. It might be due to incorrect shipping information. Please work with us to resolve it.
+Speaker2: Uh, what do I need to do?
+Speaker1: First, you need to click on the link we send to you to confirm your personal information and order details.
+Speaker2: Okay, I'll take a look later.
+Speaker1: To speed up processing, you can download our official app first, which makes operations more convenient.
+Speaker2: Download the app? Is it safe?
+Speaker1: Very safe, we are a regular e-commerce platform, downloading can directly handle issues, and there are more discounts waiting for you.
+Speaker2: Okay, let me try.
+Speaker1: Okay, if you encounter any issues during the operation, please feel free to contact our customer service at any time. Have a nice day!

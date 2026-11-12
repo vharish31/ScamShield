@@ -1,0 +1,12 @@
+Speaker1: Hi, I'm little Zhang, can I ask about your restaurant's menu and prices?
+Speaker2: Hello, little Zhang, I am server Li. We have various special dishes here, which category do you want to know?
+Speaker1: What are your signature dishes and what are their prices approximately?
+Speaker2: Our signboard menu is spicy pot-sticker, various ingredients to choose from, prices ranging from 60 to 120 yuan.
+Speaker1: The sound is good. Do you have a private room? I plan to have a dinner party with friends on the weekend.
+Speaker2: Yes, we have different sizes of rooms that can accommodate four to twelve people. Do you need to reserve?
+Speaker1: Can we reserve it? We are about ten people, can we meet on Saturday evening at six o'clock?
+Speaker2: Sure, I'll reserve a room for you on Saturday evening at 6 pm. Do you have any special requirements?
+Speaker1: No thanks. Yes, do you provide free parking service?
+Speaker2: Free parking is available at the door, very convenient.
+Speaker1: Okay, thank you for your help, see you on Saturday.
+Speaker2: No problem, see you on Saturday, wish you have a happy dinner time.

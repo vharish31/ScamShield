@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: I'm right here next to this location.
+Speaker1: Is there nobody on the side?
+Speaker2: Yes, there's a small clinic here.
+Speaker1: Do you know that clinic, is it near the convenience store?
+Speaker2: Yes, it's the convenience store.
+Speaker1: I am signing up for a course, I might be late a bit.
+Speaker2: Can you send me your location, I'll wait for you.
+Speaker1: Okay, I'll send it right away.
+Speaker2: I received it. I'm waiting for you here.

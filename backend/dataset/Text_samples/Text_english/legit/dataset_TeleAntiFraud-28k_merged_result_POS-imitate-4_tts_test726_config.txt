@@ -1,0 +1,10 @@
+Speaker1: Hey, are you here yet?
+Speaker2: Hey, just arrived, I'm at the entrance of the parking lot.
+Speaker1: Okay, walk along the entrance and turn right at the first crossroad.
+Speaker2: Okay, I know, roughly how long will it take?
+Speaker1: Let's walk for about five minutes. You keep walking forward, and you'll see a blue signboard up ahead, which is our location.
+Speaker2: Okay, I see it, I'll just go over there.
+Speaker1: I'm waiting for you here, call me when you arrive.
+Speaker2: Okay, I'll call you as soon as I arrive.
+Speaker1: Okay, pay attention to safety on the road.
+Speaker2: Thank you, see you later.

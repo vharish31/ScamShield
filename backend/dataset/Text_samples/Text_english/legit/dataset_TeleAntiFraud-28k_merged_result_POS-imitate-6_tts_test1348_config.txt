@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you? I want to inquire about your restaurant reservation service.
+Speaker2: Hello, I'm very happy to serve you. What time slot would you like to book a seat?
+Speaker1: I want to reserve a seat for two people at seven o'clock tomorrow night.
+Speaker2: Okay, tomorrow evening at seven, two people. Do you have any special requirements or need to reserve a specific location, such as by the window or in a quiet corner?
+Speaker1: If there's a quiet corner, please book it, thank you.
+Speaker2: Okay, we will arrange a quiet corner for you. What is your name and contact number?
+Speaker1: I am Li Huai, my phone number is 13801380138.
+Speaker2: Okay, Mr. Li, I have already reserved a seat for you at seven o'clock tomorrow night. If there are any changes, we will contact you in advance. Do you need me to recommend some of our special dishes to you?
+Speaker1: Sure, do you have any recommendations for special dishes?
+Speaker2: Our menu has steamed sea bass, stir-fried pork, and pan-fried frog, all of which are very popular dishes. There's also a highly recommended vegetable dish, ginger and broccoli, fresh and delicious.
+Speaker1: Everything sounds great, I'll try some when it's time. Thank you for your recommendation.
+Speaker2: Welcome. We are looking forward to your arrival. We hope you have a pleasant dining experience in our restaurant. Goodbye.
+Speaker1: Goodbye.

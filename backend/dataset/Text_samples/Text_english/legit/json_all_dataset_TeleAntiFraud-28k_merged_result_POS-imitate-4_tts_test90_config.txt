@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I saw your store is hiring service staff, can you tell me more about this position?
+Speaker2: Hello, yes, we are indeed hiring waiters, are you interested in this position?
+Speaker1: Yes, I am quite interested in this position. Can you tell me the working hours and salary conditions?
+Speaker2: Of course, the working hours for this position are from 10 am to 8 pm every day, with two days off per week. The salary is based on a fixed amount plus a commission, with the fixed amount being 3,000 yuan and the commission determined based on individual performance.
+Speaker1: Does my previous experience in restaurant and food service align with your requirements?
+Speaker2: Having relevant experience is definitely a plus, you can come to our store to try, we can further understand your specific situation on site.
+Speaker1: Okay, when can I come for the interview?
+Speaker2: Is two o'clock in the afternoon on tomorrow convenient for you to come for an interview?
+Speaker1: Can we meet at two in the afternoon tomorrow? I noted it down, the location is at your store right?
+Speaker2: That's right, the address is XX road XX number. There will be someone to meet you at the time. If you have any questions, you can call us in advance.
+Speaker1: Okay, thank you for your detailed answer. I will arrive on time.
+Speaker2: No problem, I'm looking forward to your arrival, wish you a smooth journey.

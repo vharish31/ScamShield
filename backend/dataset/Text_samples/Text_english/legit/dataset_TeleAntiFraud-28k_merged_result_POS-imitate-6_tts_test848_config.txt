@@ -1,0 +1,10 @@
+Speaker1: Hello, I saw you guys have a for rent single room on the fifth floor of Xiangcheng, are you still renting it?
+Speaker2: Hello, yes, single room is still available. Which room information did you see?
+Speaker1: That's the one-room apartment in the new mall, which costs 2,000 yuan per month.
+Speaker2: Okay, that apartment is still available. When is it convenient for you to come see the apartment?
+Speaker1: Can I see a house on Sunday?
+Speaker2: Is Sunday morning or afternoon more convenient?
+Speaker1: Can we meet at two in the afternoon?
+Speaker2: Sure, let's meet at the community door at 2 pm on Sunday.
+Speaker1: Okay, let's meet then. Also, can we keep a small cat in this room?
+Speaker2: Okay, we don't allow pets here, but we need to be mindful of keeping the room clean.

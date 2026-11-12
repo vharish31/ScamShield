@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm little Li, this is the customer service of China Southern Bank, have you recently paid attention to our credit products?
+Speaker2: Hello, I am temporarily not considering a loan.
+Speaker1: Understood, but considering your possible need for cash flow, we have a special loan product designed for small and medium-sized enterprises, which is unsecured, has no collateral, is quickly approved, and has a low interest rate.
+Speaker2: Really? Then what do I need to apply for?
+Speaker1: It's very simple. Just click on the link I sent you and fill out some basic information, and our staff will quickly get in touch with you.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the link right away. Also, to ensure your information is safe, please confirm the link address when filling out the information, to prevent personal information leakage.
+Speaker2: Okay, I know, thank you for reminding me.
+Speaker1: No problem, if you have any issues during the application process, please feel free to contact me directly. My phone number is 13801380138. Best wishes.
+Speaker2: Okay, thank you, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Lee Ming, I want to inquire about your restaurant reservation service.
+Speaker2: Hello, Li Ming, I am server small Zhang, very happy to serve you. What can I help you with?
+Speaker1: Can you tell me about your special dishes and also your weekend business hours?
+Speaker2: Our restaurant special dishes include red braised pork head, steamed fish with ginger and scallions, and stir-fried shrimp with ginger, all of which are very popular. Our weekend business hours are from 10 am to 10 pm.
+Speaker1: The sound is great, I want to book a four-person seat, preferably with a view of the scenery outside.
+Speaker2: Okay, our restaurant has several large windows with a nice view. I will help you book a table by the window. What time would you like to book for?
+Speaker1: Can we arrive at around seven in the evening?
+Speaker2: Of course, the 7 o'clock spot has been reserved for you, just tell the front desk your name when you arrive.
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: You're welcome, I'm looking forward to your arrival, wish you a happy day. Goodbye!

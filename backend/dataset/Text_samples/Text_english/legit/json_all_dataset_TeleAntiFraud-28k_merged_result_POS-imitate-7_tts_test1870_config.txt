@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming. I ordered a piece of clothing online yesterday, but I haven't received it yet. Can you help me check it out?
+Speaker2: Hello, Xiao Ming, I am customer service representative Zhang. Can I help you with a query? Please provide your order number, and I will handle it for you.
+Speaker1: Okay, the order number is one two three four five.
+Speaker2: Okay, I'll check. Just a moment, little Ming.
+Speaker1: Okay, thank you.
+Speaker2: Found it, your order has been shipped, is currently being delivered, estimated delivery tomorrow afternoon.
+Speaker1: Wow, that's great, thank you for your help.
+Speaker2: You're welcome. If you have any other questions, feel free to contact us anytime.
+Speaker1: Okay, thank you again, goodbye.
+Speaker2: Goodbye, wish you a happy day.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the National Consumer Protection Center. You recently purchased a product online with quality issues, and we need to handle your refund.
+Speaker2: Really? I recently bought a piece of clothing, but I'm not satisfied with it, but I didn't plan to return it.
+Speaker1: Yes, we have verified, the quality issue of the clothing you purchased is confirmed, to protect your rights, we need to process a return and refund for you.
+Speaker2: Great, how do I operate it?
+Speaker1: Just click on the link I sent you and follow the instructions to complete the refund process.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Please wait, in order to confirm your information security, I need you to provide your bank card number and verification code, so that we can verify your identity.
+Speaker2: Okay, then my bank card number is...
+Speaker1: Thank you for your cooperation. We will process your refund within 24 hours.
+Speaker2: Okay, thank you.

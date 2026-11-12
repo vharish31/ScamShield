@@ -1,0 +1,10 @@
+Speaker1: Afternoon, have you recently encountered any financial difficulties?
+Speaker2: Hello, I don't have any big problems now, how are you?
+Speaker1: I am a customer manager at Agricultural Bank, and I can provide you with a loan of up to 50,000 yuan without collateral, with an extremely low interest rate. Would you be interested in learning more?
+Speaker2: Fifty thousand? It sounds good, but I'm good for now, no need.
+Speaker1: This loan is very flexible, you can borrow and repay at any time, and it can handle sudden events. Just download our app, fill out some information, and the approval is very fast. The money will be in your account the same day.
+Speaker2: Do you want to download the app? It sounds pretty convenient, but is it safe?
+Speaker1: Absolutely safe, our app is strictly certified. Just scan this QR code with your phone, download and register, then follow the instructions to operate.
+Speaker2: Okay, let me try. How do I send this QR code to me?
+Speaker1: Add me on WeChat, I'll send you the QR code directly, if you have any issues during the process, I can help you solve them promptly.
+Speaker2: Okay, can you send me WeChat?

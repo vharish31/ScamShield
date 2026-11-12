@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you the courier?
+Speaker2: Yes, your package has arrived.
+Speaker1: Okay, where is it?
+Speaker2: The parcel has been placed in the mailbox at the community door, do you have a pickup code?
+Speaker1: Okay, I'll go get it in a minute.
+Speaker2: Okay, please check and confirm, and feel free to contact me if there are any issues.
+Speaker1: Okay, thank you, little brother.
+Speaker2: No problem, this is my job. If you need help again, find me.

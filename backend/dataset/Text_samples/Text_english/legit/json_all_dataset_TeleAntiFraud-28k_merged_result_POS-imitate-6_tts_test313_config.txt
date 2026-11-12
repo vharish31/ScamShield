@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service from the Hong Kong flavor. You previously ordered five ice creams, but we only have three left in stock now. Would you like a different flavor, or would you like me to refund the difference?
+Speaker2: Hmm, like this? What other flavors can you try?
+Speaker1: Do you like the taste of strawberries and watermelon?
+Speaker2: How about we change to longguo? How much?
+Speaker1: The taste of the glutinous rice cakes is the same, it's still 15 yuan per piece, the total price is still 45 yuan, which is the same as the original price, no need to make up the difference.
+Speaker2: Okay, that's bothersome to you.
+Speaker1: No problem, I will handle it quickly. Do you need help with anything else?
+Speaker2: No longer available, thank you.
+Speaker1: Okay, thank you for your understanding and support. Wish you a happy day.
+Speaker2: You too, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me about any promotions you have going on right now?
+Speaker2: We recently introduced a discount of 50% off for items over 200, and some selected products are also on sale at 80%, you can take a look.
+Speaker1: Can I return the things I bought if I don't like them?
+Speaker2: Of course, we support a seven-day no-reason return policy, as long as the product remains in its original packaging and does not affect secondary sales.
+Speaker1: Okay, when I place an order now, approximately when will it be delivered?
+Speaker2: If you order now, we usually ship within 24 hours and deliver within 3-5 days.
+Speaker1: What information do I need to provide?
+Speaker2: Please provide your shipping address, contact phone number, and select your payment method. If you have any special requirements, please note them down.

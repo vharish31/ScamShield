@@ -1,0 +1,11 @@
+Speaker1: Hello, this is the customer service of Commercial Bank, I am Zhang Xiangjun.
+Speaker2: Hello, what do you have?
+Speaker1: We noticed your credit record is excellent, would like to invite you to our low interest loan activity, interest only 2.5%, very affordable.
+Speaker2: Oh, really? I really need some money lately.
+Speaker1: Yes, this activity is very suitable for you. However, in order to ensure that your information is accurate and error-free, we need you to provide some personal information, such as your identity card number and bank account.
+Speaker2: Okay, how can I provide this information?
+Speaker1: You can click on the link we sent, fill in the relevant information, and we will quickly review it.
+Speaker2: Link? Is it safe?
+Speaker1: Absolutely safe, this is our official link, you can operate with confidence.
+Speaker2: Okay, let me try.
+Speaker1: Great! If you have any questions, feel free to contact us anytime. Best wishes!

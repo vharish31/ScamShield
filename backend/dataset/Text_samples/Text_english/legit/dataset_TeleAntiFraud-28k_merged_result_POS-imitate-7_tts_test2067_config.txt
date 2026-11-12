@@ -1,0 +1,11 @@
+Speaker1: Hey, hello, I'm little Li, my friend said there's a good hair salon here, can you help me book a time?
+Speaker2: Hello, I am the customer service king of the hair salon. Can I help you book an appointment? What time slot do you want to book?
+Speaker1: Is three in the afternoon tomorrow okay?
+Speaker2: Would you like to reserve a spot at 3:30 PM tomorrow afternoon?
+Speaker1: Can I reserve a spot, I'll arrive on time tomorrow. Also, I want to cut my hair short, do you have any hairdresser recommendations?
+Speaker2: Okay, I'll reserve a spot for you. Our small Zhang master is very skilled at handicrafts, many people recommend him to cut short hair, can you see?
+Speaker1: I feel reassured after listening to you. Let's book Small Zhang Master. Thank you for your recommendation.
+Speaker2: No problem, I will make sure to note it down clearly. Can I please have your contact information so that we can get in touch later?
+Speaker1: Okay, my phone number is 1381380138.
+Speaker2: Okay, I have recorded it down. Tomorrow at 3:30 PM, Mr. Zhang will serve you. If there are any changes, we will contact you in advance. Goodbye!
+Speaker1: Okay, thank you, bye!

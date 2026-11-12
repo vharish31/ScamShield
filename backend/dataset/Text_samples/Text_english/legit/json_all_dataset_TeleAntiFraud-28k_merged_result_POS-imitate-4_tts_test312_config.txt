@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, hello
+Speaker1: I'm Zhang Xiao, did you say you wanted to come visit our company before?
+Speaker2: Okay, it's my appointment, what time is it convenient for us to go?
+Speaker1: How about this weekend?
+Speaker2: Is it okay on Thursday afternoon?
+Speaker1: Can I come on Thursday afternoon? What time?
+Speaker2: Can we get there in two points left or right?
+Speaker1: You can come at 2 o'clock, just go straight to the front desk and find me.
+Speaker2: Okay, thank you. So, we meet on Tuesday.
+Speaker1: Okay, see you on Tuesday. If there are any changes, please let me know in advance.
+Speaker2: Knowing, thank you. Goodbye.
+Speaker1: Goodbye.

@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: Hello, I am the manager of the Agricultural and Commercial Bank, we have a special discounted enterprise loan project, do you have any recent capital circulation needs?
+Speaker2: No need at the moment, thank you.
+Speaker1: Oh, that's how it is. Have you considered investing in finance? Our bank recently has a high return financial product, are you interested?
+Speaker2: Invest in wealth management? I'm not very clear.
+Speaker1: No problem, I'll give you a simple introduction. This product has an annual return rate of 12%, and the risk is very low. If you're interested, I can send you a link, and you can click on it to learn more in detail.
+Speaker2: Can you show it to me?
+Speaker1: Okay, I'll send it to you right away. Just remember to click on the link after you receive it.
+Speaker2: Okay, thank you.

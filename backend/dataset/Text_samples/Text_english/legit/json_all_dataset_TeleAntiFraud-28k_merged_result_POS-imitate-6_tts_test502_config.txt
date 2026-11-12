@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Just arrived at the mall, do you want to find me?
+Speaker1: OK, I'm about to arrive, where are you waiting for me at the door?
+Speaker2: I'm at the north gate, hurry up and come over.
+Speaker1: Okay, I'm going now, don't leave.
+Speaker2: Okay, I'm waiting for you here.
+Speaker1: How's the weather on your side?
+Speaker2: That's good, a bit cold, how about your side?
+Speaker1: It's about the same, you wear some clothes, don't get cold.
+Speaker2: Okay, thank you. Be careful on the road.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of the construction bank, and there is a special discount loan project that I would like to recommend to you.
+Speaker2: Hey, do you want a loan? I'm doing okay financially right now, so I don't need one.
+Speaker1: That's right, this loan project has a very low interest rate, fast approval speed, high credit limit, and is very suitable for your current situation.
+Speaker2: Can you provide me with more specific information?
+Speaker1: Of course, you just need to download our bank's official app, register and fill in some basic information, and our customer service will contact you for detailed explanation.
+Speaker2: Okay, let me try.
+Speaker1: Great, here's a link for you to download our app directly.
+Speaker2: Okay, I'll download it right away.
+Speaker1: After downloading, remember to register with your phone number. If you have any issues, feel free to contact our customer service anytime.
+Speaker2: Okay, thank you for your recommendation.

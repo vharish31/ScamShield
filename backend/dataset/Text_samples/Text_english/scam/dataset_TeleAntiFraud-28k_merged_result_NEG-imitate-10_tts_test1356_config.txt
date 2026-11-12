@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural Bank. I have a special discount loan plan to recommend to you.
+Speaker2: Hello, loan? I don't need it now.
+Speaker1: This is special, our activity this time doesn't require any deposit, and the interest rate is very low, very suitable for short-term cash flow.
+Speaker2: Okay, I'll understand it too, but I'm not convenient right now, I'll have time later.
+Speaker1: Okay, I'll contact you later. But for your convenience, you can download our app first, which has detailed information.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Of course, our app is authenticated, after you download it, register an account, what issues do you have? I'll give you a detailed answer later.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send you the download link for the app on my phone right away. You can check it out later when you have some free time. I'll contact you again later.
+Speaker2: Okay, thank you.

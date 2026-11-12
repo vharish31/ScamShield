@@ -1,0 +1,13 @@
+Speaker1: Hello, how can I assist you?
+Speaker2: Hello, can you tell me what new movies are showing at the cinema recently?
+Speaker1: Hello, there are several new movies recently released, such as "Spirit Capture Hand", "Future Warrior" and "Magic Forest", which one do you like?
+Speaker2: How much does the ticket for the movie "未来战士" cost?
+Speaker1: What is the ticket price for "The Future Warrior"? Thirty-five yuan for adults, twenty yuan for students. Are you planning to watch it alone or with others?
+Speaker2: I am with a friend and two other people, all adults. Do you have any discount activities there?
+Speaker1: Yes, if you buy two tickets, you can enjoy a 90% discount. That is, two tickets together cost 63 yuan.
+Speaker2: Okay, then I decided to buy it. When does the movie start showing?
+Speaker1: What time do you prefer to watch the movie "Future Warrior"? Is it 2 pm or 7 pm?
+Speaker2: Let's choose the 7 pm session.
+Speaker1: Okay, I booked two tickets for the 7 pm "Avengers" movie tonight. Please arrive at the theater 10 minutes early and just pick up your tickets at the ticket counter with your phone number.
+Speaker2: Okay, thank you, see you later.
+Speaker1: You're welcome! Enjoy your movie! Bye!

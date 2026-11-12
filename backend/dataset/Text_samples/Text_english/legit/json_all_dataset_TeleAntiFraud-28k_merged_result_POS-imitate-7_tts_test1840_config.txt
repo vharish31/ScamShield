@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if there are any two-person dishes available here?
+Speaker2: Yes, we have several two-person set meals with different combinations of dishes. Do you want a romantic dinner or a casual lunch?
+Speaker1: We plan to come in the evening, want a romantic one.
+Speaker2: Okay, I recommend you try our "Moonlight Dinner", which includes two appetizers, two main courses, one dessert and two glasses of red wine, the environment is also very suitable for a romantic date.
+Speaker1: Sounds good, let's go with this one. What time do you guys start business?
+Speaker2: What time do you plan to come in the evening at 5 o'clock?
+Speaker1: Can we meet around 7:30?
+Speaker2: Sure, I'll book a 7:30 spot for you. Do you need to leave contact info?
+Speaker1: Okay, my phone number is 13800000000.
+Speaker2: Okay, I have made a reservation for you at 7:30 PM at the restaurant. If there are any changes, please contact us in advance.
+Speaker1: Okay, thank you. See you later.
+Speaker2: You're welcome. I'm looking forward to your arrival. Goodbye.

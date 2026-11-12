@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Are you looking for takeout?
+Speaker2: Yes, I want to order takeout.
+Speaker1: Okay, which restaurant do you want to order takeout from?
+Speaker2: Do you have a restaurant in Beijing that serves fried rice with Sichuan sauce?
+Speaker1: Yes, North Beijing fried sauce noodles is one of our popular shops on the platform. Which kind of dish do you want?
+Speaker2: I want a single person set meal, and a bottle of iced red tea.
+Speaker1: Okay, one person set meal with one bottle of iced red tea, total is 35 yuan, do you need to pay now?
+Speaker2: Okay, I'll pay now.
+Speaker1: Okay, payment successful. Your order we already record down. Approximately forty minutes later delivered. Anything else need help?
+Speaker2: No need, thank you, hard work.
+Speaker1: Okay, wish you enjoy your meal, bye.
+Speaker2: Goodbye.

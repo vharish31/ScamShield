@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: What are the special deals this week?
+Speaker2: This week we have a special roast duck and spicy Sichuan hot pot, both very popular, do you want to try?
+Speaker1: Sounds good, I plan to go out for food on Saturday, what time do you open?
+Speaker2: We open at 11am in the morning and close at 9pm in the evening. We don't rest on weekends.
+Speaker1: Okay, I'll arrive around 2 pm. Do I need to make a reservation in advance?
+Speaker2: It's best to book two hours in advance, weekends are crowded, so you can ensure a spot.
+Speaker1: Okay, can I reserve a table for four people?
+Speaker2: Of course, I have already reserved it for you. Just give your name when you arrive.
+Speaker1: Great, thank you. Okay, do you have an outdoor seat?
+Speaker2: Yes, we have a special outdoor air conditioning zone, the environment is very comfortable.
+Speaker1: That's great, we'll sit there when the time comes. Thank you for your help.
+Speaker2: No problem, I'm looking forward to your arrival, please feel free to contact me if you have any questions.

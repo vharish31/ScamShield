@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm little Zhang. Do you have time? I want to ask you something.
+Speaker2: Hey, little Zhang, what's up? Do you have anything?
+Speaker1: Do you have time to go to the library this weekend?
+Speaker2: What did you plan to do on the weekend? Did you plan to go to the library? What time did you plan to go?
+Speaker1: Can you meet me around 10am?
+Speaker2: Let's meet at the library at 10 o'clock.
+Speaker1: Okay, see you then, remember to bring your notebook.
+Speaker2: Okay, I will bring it along, so you also need to remember to bring a bookmark, convenient for taking notes.
+Speaker1: Haha, you're so attentive, see you later.

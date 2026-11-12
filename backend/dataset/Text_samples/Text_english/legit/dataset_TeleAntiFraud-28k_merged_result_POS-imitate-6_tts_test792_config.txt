@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm the customer service of the point store, I see you have a lot of points in your account that haven't been used, do you know?
+Speaker2: Oh, really? I didn't notice. What use are these points?
+Speaker1: Points can be exchanged for many products, such as electronic products and daily necessities, and can also be deducted from cash.
+Speaker2: What? I didn't receive a reminder?
+Speaker1: It's possible that the message was mistakenly recognized as trash information. Your account has over 20,000 points, not exchanging will clear zero.
+Speaker2: So many? Then I had better hurry and see what I can exchange them for.
+Speaker1: Yes, you can log in to our website or app to view. After selecting the goods, I can help you apply for the preservation of unused credits.
+Speaker2: Great, I'll go take a look now. Thank you for reminding me.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. I hope you find a satisfactory product.
+Speaker2: Okay, thank you again. Goodbye.

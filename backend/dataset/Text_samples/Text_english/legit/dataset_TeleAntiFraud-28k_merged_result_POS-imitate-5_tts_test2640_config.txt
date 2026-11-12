@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm little Li, recently I've been considering buying a new car, do you have any good recommendations on your side?
+Speaker2: Hello, little Li, I am car sales consultant Wang, there are many car models on the market now, do you have any special requirements for car types, such as brand, budget or function?
+Speaker1: I don't have specific requirements for brands, mainly I care about safety and economy, my budget is approximately 15,000.
+Speaker2: Okay, about 15,000 yuan, we have a few car models that are quite suitable for you, such as this SUV, the safety performance is very good, the fuel consumption is low, are you interested in learning more?
+Speaker1: Hey, can you tell me about the configuration of this SUV?
+Speaker2: This SUV is equipped with backup camera imaging, automatic parking, uphill assist, and other safety configurations, as well as automatic air conditioning and a multi-functional steering wheel for comfortable configurations. It is very suitable for family use.
+Speaker1: Does this car have any discounts currently?
+Speaker2: You can enjoy a 3,000 yuan cash discount and five years of free maintenance service when buying this car now.
+Speaker1: Five-year, ten-thousand mile free maintenance service sounds great, can I try it out first?
+Speaker2: Of course, we can arrange a test drive time, what time is convenient for you?
+Speaker1: Can I come at 10 am on Saturday morning this weekend?
+Speaker2: Saturday morning at 10 am is fine, I'll book an appointment for you, see you then.

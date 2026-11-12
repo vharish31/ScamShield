@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any new sports shoes here?
+Speaker2: Okay, we just got a new batch of sports shoes here. What brand do you want?
+Speaker1: Do you have any stock of Nike?
+Speaker2: Do you want what style of Nike running shoes do we have in stock here?
+Speaker1: I want a pair of white running shoes.
+Speaker2: Okay, we have several white running shoes here. You can take a look at this one. It's very lightweight and comfortable for long-distance running.
+Speaker1: What is the price?
+Speaker2: The price of this sports shoe is 599 yuan, with a 90% discount currently available.

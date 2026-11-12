@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your household services.
+Speaker2: Hello, I am a customer service representative. What can I help you with?
+Speaker1: Can you tell me more about your cleaning service, specifically how you charge?
+Speaker2: Our cleaning service has different pricing standards based on different needs. For general household cleaning, we charge 80 yuan per hour. If it's deep cleaning, the price will be slightly higher.
+Speaker1: What is the specific depth of clarity?
+Speaker2: The deep cleaning is charged one hundred yuan per hour, which includes the deep cleaning of the kitchen and bathroom, as well as some difficult-to-clean corners.
+Speaker1: Can you schedule for about three to four hours at my home?
+Speaker2: Of course, which day would you like to book the service?
+Speaker1: Can we meet at 2 PM on Friday next week?
+Speaker2: Okay, next Friday at 2 PM, I will arrange a service person for you. Do you need any other help?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, please feel free to contact us anytime if you have any questions. Goodbye.

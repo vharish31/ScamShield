@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from the China Bank. You have previously consulted with us about our credit loan product, and now there is a promotion, which can help you quickly approve, no collateral, low interest rate.
+Speaker2: Really? I need a penny right now, it can solve some things.
+Speaker1: Of course, but for the sake of safety, I need you to download our bank's official app first, and complete the identity verification and loan application through the app.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Thank you very much for your cooperation. After downloading, please open the APP and click on the "Quick Loan" button on the first page. Then follow the instructions. If you have any questions, please feel free to contact me at any time.
+Speaker2: Okay, I understand, thank you for your help.
+Speaker1: No problem, to speed up the approval process, I suggest you first receive the verification code through the phone number provided by the bank, to confirm your identity.
+Speaker2: I understand, I'll go do it now.
+Speaker1: Okay, the verification code will be sent to your phone immediately. Please enter it as soon as you receive it to complete the verification. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, I will pay attention, thank you for your patience guidance.

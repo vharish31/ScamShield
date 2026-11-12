@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm at the community door.
+Speaker2: Hello, have you arrived? Just a moment, I'll be right down.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Have you seen the security booth at the door?
+Speaker1: I see it, it's at the entrance.
+Speaker2: Tell the guard your name, I'll call him to let you in.
+Speaker1: Okay, I know, you hurry down.
+Speaker2: Okay, I'll go down now, you wait for a moment.
+Speaker1: Okay, no rush, be careful on the road.
+Speaker2: Thank you, see you later.

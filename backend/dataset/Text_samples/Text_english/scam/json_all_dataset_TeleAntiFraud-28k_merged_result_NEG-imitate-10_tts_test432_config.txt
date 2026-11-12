@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Lee Manager, this is the customer service representative of Tian An Jing Rong, did you apply for a loan on our platform two days ago?
+Speaker2: Yes, I applied, but it hasn't been approved yet.
+Speaker1: That's it. There are some issues with your application materials. You need to provide some additional information. I can help you with that, but you need to download our official app.
+Speaker2: How do I download the app?
+Speaker1: Just open the phone app store, search 'Tian An Jing Rong', download the official app, register and log in, then I will guide you to complete the information.
+Speaker2: Okay, let me try.
+Speaker1: Okay, to facilitate communication, can you add my WeChat? I can answer your questions anytime.
+Speaker2: Wechat? I'm afraid you guys will keep bothering me after I added Wechat.
+Speaker1: No worries, adding WeChat is just to better serve you, you can relax. How many WeChat do you have? I add you.
+Speaker2: Okay, my WeChat number is 12345678901.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I just ordered takeout from your store, it's the roast duck set meal, but I can't accept spicy things, can you help me change to non-spicy please?
+Speaker2: Hello, no problem, we can help you change to a lemongrass flavor here, this is completely not spicy, you can try it.
+Speaker1: Is the flavor of jasmine tea also good to eat?
+Speaker2: Yes, the taste of ginger is very popular, many customers have feedback that the taste is very good, and the ginger flavor is very strong and sticky, you will definitely like it too.
+Speaker1: That's great, thank you for your recommendation, so I'll give it a try.
+Speaker2: No thanks, if there are other things you need help with, please let me know. What time do you think it will be convenient to receive takeout?
+Speaker1: I'll be there in about an hour. I'm waiting at home right now.
+Speaker2: Okay, I'll arrange for it to be delivered in one hour. If there are any changes, we'll contact you in advance.
+Speaker1: Okay, thank you, then I'll wait for your message.
+Speaker2: Okay, have a nice meal, bye.

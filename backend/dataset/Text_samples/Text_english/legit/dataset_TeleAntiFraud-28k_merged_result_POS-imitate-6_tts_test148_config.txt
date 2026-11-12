@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from a courier company. Your package will be delivered this afternoon. Are you at home?
+Speaker2: Oh, I'm at home, but I need to go out for a bit, I should be back around three in the afternoon.
+Speaker1: Okay, can I have the delivery guy deliver it to you at 3 pm this afternoon?
+Speaker2: Sure, thank you, that's much easier now.
+Speaker1: No problem, by the way, your package needs to be signed for, remember to bring your ID later.
+Speaker2: Okay, I know, I will be ready at the time.
+Speaker1: Do you have any other questions?
+Speaker2: No more worries, now I'm not concerned about not getting home.
+Speaker1: Okay, feel free to call our service hotline anytime if you have any questions.
+Speaker2: Okay, thank you for your help.

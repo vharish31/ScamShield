@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the manager of Huaxia Bank, and we have a special loan offer that is suitable for your needs. Would you be interested in learning more?
+Speaker2: Hello, loan service, I'm currently pretty rich, but I can still learn a little.
+Speaker1: Great, this loan service is very suitable for small business owners and individual entrepreneurs, no collateral, quick approval, and the interest rate is very favorable.
+Speaker2: Can you explain these loan processes in detail?
+Speaker1: Of course, first you need to register on our official app, then fill out basic information, upload relevant documents, and after approval, you can quickly disburse funds.
+Speaker2: How do I know if your app is official?
+Speaker1: We have a special link, you can click this link to directly download our official app, so you won't worry about downloading fake software anymore.
+Speaker2: Would it be okay if I directly search for your bank's name and download the app?
+Speaker1: You can directly search, but to ensure safety, I still recommend downloading through the links I provide, which is safer.
+Speaker2: Okay, I'll give it a try. Thank you for your recommendation.
+Speaker1: You're welcome, feel free to contact me anytime if you have any questions, hope you enjoy it, bye!

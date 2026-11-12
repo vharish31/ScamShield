@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the manager of the Huainan Bank, are you Mr. Zhang?
+Speaker2: Yes, I am.
+Speaker1: Great, Mr. Zhang, our bank recently introduced a high-yield investment product for our premium customers, with an annual interest rate of 12%, would you be interested in learning more about it?
+Speaker2: This high return? It sounds good, but I'm not familiar with these.
+Speaker1: Mr. Zhang, please rest assured that our products are very safe and have a professional team management. To better understand detailed information, please click on this link to download our official app, which contains detailed introductions.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much for your cooperation, Mr. Zhang. After downloading, you can directly contact our customer service specialist through the app, who will introduce and guide you in detail on the operation.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Okay, Mr. Zhang, if you have any questions, you can call our customer service hotline anytime, and we will answer you promptly. Have a happy life, goodbye.
+Speaker2: Thank you, goodbye.

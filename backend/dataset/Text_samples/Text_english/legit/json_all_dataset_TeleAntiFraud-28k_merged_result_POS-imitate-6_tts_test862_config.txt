@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any suitable places for kids to go on weekends here?
+Speaker2: Yes, we have a theme park for kids here, it's very suitable for children to play.
+Speaker1: How much does that ticket cost?
+Speaker2: An adult ticket costs 50 yuan and a child ticket costs 30 yuan.
+Speaker1: What projects are there inside?
+Speaker2: There's a children's playground, a zoo, and a handicraft experience zone inside. Kids can learn to make some small handicrafts.
+Speaker1: What should we do now that it sounds good?
+Speaker2: You can take the bus line 2 directly to the city park west gate, or take a taxi there, the address is city park west gate.

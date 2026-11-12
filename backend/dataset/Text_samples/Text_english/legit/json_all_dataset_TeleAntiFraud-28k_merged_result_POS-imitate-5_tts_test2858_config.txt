@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I just placed an order for takeout, can you confirm my address?
+Speaker2: Hello, of course, is your address 37 Spring Flower Road?
+Speaker1: Yes, that's right here. But my apartment number is eight floor, can you confirm it?
+Speaker2: Okay, 8th floor, I know. Your takeout will be delivered to the door of the 8th floor, how long will you be able to come down and pick up the food?
+Speaker1: Can I have about ten minutes? I'm a bit busy right now.
+Speaker2: No problem, I will let the riders wait for you for ten minutes. If it exceeds the time, the riders will call you by phone.
+Speaker1: Okay, then please hurry up, I'll do my best.
+Speaker2: No problem, this is what we should do. Do you have anything else that needs help?
+Speaker1: No more, thank you for your help.
+Speaker2: You're welcome, hope you enjoy your meal, bye!

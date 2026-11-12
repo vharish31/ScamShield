@@ -1,0 +1,14 @@
+Speaker2: Hello, how are you?
+Speaker1: I work for that property company, and you're the new tenant, right?
+Speaker2: Yes, I just moved in, is there anything I need to pay attention to?
+Speaker1: Hey, our community management fee is one hundred yuan per month, and the water and electricity fees are calculated separately.
+Speaker2: Okay, how do you pay for water and electricity?
+Speaker1: Electricity bills should be paid to the property management office by the 10th of each month, or through Alipay and WeChat.
+Speaker2: Okay, I understand. And how do you handle trash?
+Speaker1: Please sort and dispose of trash according to its type, separate kitchen waste and other trash, and there are special cleaners who collect them from 7 am to 9 am every day.
+Speaker2: Okay, thank you. Is there a fitness room in the community?
+Speaker1: Yes, the fitness room is on the first floor, open from Monday to Friday, 3 pm to 9 pm.
+Speaker2: Okay, I understand. Thank you for your help.
+Speaker1: No problem, feel free to find us anytime if you have any questions.
+Speaker2: Okay, thank you. Bye.
+Speaker1: Goodbye.

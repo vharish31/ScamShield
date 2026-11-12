@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of Meishikitang, and I want to know if you have any special preferences for our restaurant's menu items?
+Speaker2: Hello, I recently want to try your restaurant's new menu, do you have any recommendations?
+Speaker1: Of course, we recently introduced a new dish, called "Ma La Xiāng Gǎo," which has a variety of vegetables and meats inside, and the taste is amazing, many customers have given it a five-star rating.
+Speaker2: How much does that dish cost?
+Speaker1: The price of this dish is 68 yuan, and it's currently on promotion, so you can enjoy a 90% discount if you order it now.
+Speaker2: That's great, I plan to try it out this weekend, what are your business hours?
+Speaker1: Our restaurant business hours are from 10 am to 10 pm every day, and on weekends they will be extended to 11 pm, you can come to dine at any time.
+Speaker2: Would you like me to reserve a seat for you around six o'clock?
+Speaker1: I suggest you book in advance, especially on weekends when it's crowded. I can help you book a four-person table for you, is that okay?
+Speaker2: Okay, let's reserve a four-person table, thank you.

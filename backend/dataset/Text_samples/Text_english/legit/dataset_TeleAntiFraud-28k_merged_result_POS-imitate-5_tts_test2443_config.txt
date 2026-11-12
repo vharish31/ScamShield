@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Have you seen the electric car on your website that I just saw?
+Speaker2: Which electric car model are you interested in?
+Speaker1: That's the red one, with a range of three hundred kilometers.
+Speaker2: Yes, that red electric car has a range of three hundred kilometers.
+Speaker1: What is the price?
+Speaker2: The price is 2580 yuan.
+Speaker1: Can you make it cheaper?
+Speaker2: Sure, there's an activity going on right now, you can get a one thousand yuan discount.
+Speaker1: What now? How do I pay for it?
+Speaker2: You can pay online through our website, or you can come to the store and pay with cash or card.
+Speaker1: Can I go to your store tomorrow and see it? Where is your store located?
+Speaker2: We are in the car city three in the north district, very easy to find.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow.

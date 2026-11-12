@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of Agricultural and Commercial Bank, do you have any recent funding needs?
+Speaker2: Hello, no need at the moment.
+Speaker1: That's great, but if you need anything, we have a low-interest loan product here that you can consider.
+Speaker2: What do I need to do?
+Speaker1: Just click this link, fill out your personal info, and our customer service will contact you right away.
+Speaker2: Okay, let me try.
+Speaker1: Great, click on the link to enter, remember to choose the fast lane, this way the approval will be faster.
+Speaker2: I understand, thank you, Zhang Jingni.
+Speaker1: No problem, feel free to contact me for any questions. Have a great day. Goodbye.
+Speaker2: Goodbye.

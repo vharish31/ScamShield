@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Can you tell me about your family's smartwatch, have you done anything interesting lately?
+Speaker2: Hello, welcome to consult. We recently have several smartwatches on promotion activities, which one are you interested in knowing?
+Speaker1: I want to see the latest models with all functions.
+Speaker2: Okay, our latest smartwatch is XYZ brand, which has health monitoring, message notification, payment function and more, and now you can buy it with an additional year of health service.
+Speaker1: How long does the battery of this watch last?
+Speaker2: This watch's battery life is excellent, it can last about seven days with normal use. If you frequently use GPS or heart rate monitoring, it may be a little shorter.
+Speaker1: How much does it cost to sound good?
+Speaker2: The original price was three thousand yuan, the promotional price is two thousand five hundred yuan, and you can still enjoy installment payment service.
+Speaker1: How much money is due per month for installment payments?
+Speaker2: If you choose our installment service, for twelve months it's approximately two hundred and fifteen yuan per month, no handling fees.

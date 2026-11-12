@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Lee Huai?
+Speaker2: Hello, I am Lee Huai, who are you?
+Speaker1: Hello, I am the customer manager of Guangxing Bank, my name is Zhang Wei, we have a new financial product that is very suitable for you, the return is very high, and the risk is very low, are you interested in learning more?
+Speaker2: Hey, can you give me a detailed introduction about investing some money recently?
+Speaker1: Of course, this product is mainly invested in stable type funds, with an annual return rate of over 10%, I have a link here, you can click on it to understand the product information in detail, do you think it's convenient?
+Speaker2: Okay, how do I open the link?
+Speaker1: Just open your phone browser and type in this URL, I'll send you a text message with the link right away.
+Speaker2: Okay, I'll check it out later.
+Speaker1: Okay, the text message has been sent. Please pay attention to check it. If you have any questions, feel free to contact me anytime. My phone number is 400123456.
+Speaker2: Okay, thank you, I will look into it quickly.

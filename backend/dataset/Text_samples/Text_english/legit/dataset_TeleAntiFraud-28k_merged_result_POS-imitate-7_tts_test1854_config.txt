@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative for quick delivery food, it seems you recently placed an order on our platform but encountered some issues, would you like to provide feedback?
+Speaker2: Oh, hello, yes, the food I ordered yesterday was delivered but the dishes got cold, and the delivery time was later than expected by nearly an hour.
+Speaker1: I'm very sorry to bring you an unpleasant experience, we're actively improving our delivery service. As an apology, we'd like to send you a 20 yuan discount coupon, which you can use to offset your next order.
+Speaker2: It's not bad, but I hope to be more punctual in the future, the time for eating is always fixed.
+Speaker1: Understood, we will strengthen our hand training and optimize our delivery routes. Okay, do you have any other suggestions for our platform?
+Speaker2: Hmm, I think your menu search function could be smarter, sometimes it's hard to find my favorite dishes.
+Speaker1: Okay, we will feedback this suggestion to the technology department. Thank you for your feedback, hope to provide you better service next time.
+Speaker2: Okay, thank you, I hope the next experience will be better.
+Speaker1: I'm sure, I apologize again for the inconvenience, wish you a good day. Goodbye!
+Speaker2: Goodbye, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, can you hear me, say something.
+Speaker1: I'm your delivery, it's here now, where are you?
+Speaker2: Are you there at the community door? Did your takeout arrive?
+Speaker1: Not yet, I can't find the specific location, which floor is the first one you mentioned?
+Speaker2: You entered the community from the big gate, the first building on the left was it, with the door number written on it.
+Speaker1: Is there several buildings with number one floor here? Can you confirm which building it is?
+Speaker2: That's the building on the left, with a big number on the door.
+Speaker1: Okay, I'll come right over, just wait for me a minute.
+Speaker2: Okay, hurry up and come over here, I'm waiting for you here.

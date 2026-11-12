@@ -1,0 +1,9 @@
+Speaker2: Hello, do you want to make an appointment for haircut tomorrow?
+Speaker1: Yes, I want to make a reservation for tomorrow afternoon.
+Speaker2: Okay, can you tell me your name and contact information?
+Speaker1: My name is Zhang Qiang, phone number is 13801380138.
+Speaker2: Mr. Zhang Qiang, have you recorded your name and phone number? What time slot would you like to schedule?
+Speaker1: 3 PM is best.
+Speaker2: Afternoon three o'clock time slot is available for booking.
+Speaker1: Okay, I'll arrive at three o'clock in the afternoon tomorrow.
+Speaker2: Okay, see you tomorrow. If there are any changes, please inform me in advance.

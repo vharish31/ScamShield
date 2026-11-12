@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask, do you have beef noodles over there?
+Speaker2: Hello, have you, our beef noodle soup here is very popular. What information do you want to know?
+Speaker1: I want to know the price and business hours.
+Speaker2: The price of beef noodles is 20 yuan. Our business hours are from 7 am to 9 pm.
+Speaker1: Okay, when would be a good time for me to compare?
+Speaker2: If you don't mind waiting, the peak hours are from 11:30 am to 2 pm. There might be a little queue. If you want to avoid crowds, you can come in the evening after 6 pm.
+Speaker1: Can I go out at seven o'clock tonight? Yes, do you support takeout here?
+Speaker2: Okay, you can place an order through the delivery platform, and we will prepare it quickly.
+Speaker1: Okay, thank you for your answer, see you later.
+Speaker2: No problem, see you tonight, wish you a happy day.

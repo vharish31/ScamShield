@@ -1,0 +1,10 @@
+Speaker1: Hey, are you still open at this restaurant?
+Speaker2: Hello, yes, we are still open for business. Do you want to reserve a spot?
+Speaker1: Yes, I want to reserve a four-person seat.
+Speaker2: Okay, book a table for four people. Can you please inform me of the reservation time?
+Speaker1: About seven in the evening.
+Speaker2: Okay, your 7 o'clock seat has been reserved. Do you have any special seating requirements, such as by the window or in a quiet corner?
+Speaker1: If there are quiet corners, that would be better.
+Speaker2: Understood, we will try to arrange a quiet corner. Is there anything else you need help with?
+Speaker1: No more, thank you.
+Speaker2: You're welcome, I'm looking forward to your arrival. Goodbye!

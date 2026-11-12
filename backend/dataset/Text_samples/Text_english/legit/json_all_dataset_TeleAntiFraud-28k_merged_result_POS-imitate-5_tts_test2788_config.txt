@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I want to book a haircut time tomorrow afternoon.
+Speaker2: Hello, Xiao Wang, I am the customer service of the hair salon. What time would you like to make an appointment?
+Speaker1: About three in the afternoon.
+Speaker2: Okay, we have a spot at 3 pm. Do you have any special requests, like hairstyle or hairdresser?
+Speaker1: I want to cut my hair short, clean and neat, if possible, I hope Li master can cut it.
+Speaker2: Okay, Li teacher has a free slot at 3 pm tomorrow. I have booked it for you. After the booking is successful, we will send a text message to your phone to confirm.
+Speaker1: Okay, thank you. Can I just go directly tomorrow?
+Speaker2: Yes, you can come directly tomorrow. If there are any changes, please contact us in advance.
+Speaker1: Okay, I understand. Thank you for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival. Goodbye!

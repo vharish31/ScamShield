@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me now?
+Speaker2: Can you hear, your voice is a little small on that side.
+Speaker1: Okay, I'm outside. The sound is a bit chaotic. Wait a minute.
+Speaker2: Sure, go ahead and say it.
+Speaker1: I saw the new phone in your store and wanted to know more about it.
+Speaker2: Okay, that phone is our best-selling model, it has a high configuration, and the price-performance ratio is not bad.
+Speaker1: What's the price?
+Speaker2: The price is 2999 yuan, and there's a small gift included when you buy now.
+Speaker1: Do you have any fresh stuff?
+Speaker2: Yes, there is fresh produce available now, you can come directly to pick it up.

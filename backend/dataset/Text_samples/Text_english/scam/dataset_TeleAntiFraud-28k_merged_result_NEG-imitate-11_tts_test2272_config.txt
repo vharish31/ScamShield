@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I'm little Li, we are XX finance company's customer service, recently we launched a very favorable loan policy, especially suitable for small business owners like you.
+Speaker2: Is that so? What are the conditions for your loan?
+Speaker1: Our loan policy is very flexible, no collateral required, interest rate is low, and approval speed is fast. Apply today, get approved today, and receive funding today.
+Speaker2: How do I apply for it if it sounds good?
+Speaker1: Great, just download our company's official app and follow the instructions to fill out the information and submit the application.
+Speaker2: Where can I download the app?
+Speaker1: You can search our company name in the mobile app store and download it, or I can give you a link, you can click on the link to download it directly, very convenient.
+Speaker2: Can you send me the link? How do you send it?
+Speaker1: Okay, please provide a phone number or WeChat, I will send it directly to you, and you can operate according to the instructions after receiving it.
+Speaker2: Okay, send the link to this WeChat.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I made an appointment for housekeeping service at your platform yesterday at 2 pm, but no one has come yet.
+Speaker2: Hello, little Li, I am customer service Zhang, very sorry to bring you inconvenience. I will check your specific booking situation now.
+Speaker1: Okay, can you help me?
+Speaker2: Found out because an order was cancelled in the morning, our staff handled that side of things, so it delayed us a bit.
+Speaker1: What should I do now? There are other things to handle at home.
+Speaker2: I'm very sorry, we'll arrange staff to go over there immediately, about 30 minutes later we'll arrive. If your time isn't convenient, you can also rebook another time.
+Speaker1: Let's stick to the original plan, I'll be right back.
+Speaker2: Okay, I apologize again for the delay this time. Our staff will arrive quickly, and if there's anything else you need help with, please feel free to contact me.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, I look forward to providing you with high-quality service. Goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of Yángguāng huādiàn, you have consulted our flower basket before, now do you want to know any special activities?
+Speaker2: Hi, how are you? Is it okay? What are some recent flower recommendations?
+Speaker1: Have you heard about our recent recommendation of combining roses and lilies, which has been very popular and suitable for various occasions?
+Speaker2: How much does this combination cost?
+Speaker1: This bouquet is currently on sale, the original price is one hundred eighty yuan, now only one hundred fifty yuan, very cheap.
+Speaker2: Good, what time do I need to pick it up?
+Speaker1: You can choose to pick up at the store or have us deliver, if it's convenient for you, you can come to pick up between 3 and 5 pm tomorrow afternoon.
+Speaker2: Okay, I'll go over there in the afternoon around four o'clock.
+Speaker1: Okay, let's meet tomorrow, wish you happy life, bye.
+Speaker2: Thank you, goodbye.

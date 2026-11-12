@@ -1,0 +1,13 @@
+Speaker1: Hey, how are you? Can I ask if there are any available spots to reserve for this weekend?
+Speaker2: Hello, do you want to reserve a seat at our restaurant?
+Speaker1: Yes, indeed.
+Speaker2: Okay, sure. How many seats would you like to reserve?
+Speaker1: Four people.
+Speaker2: Okay, four people. Can you tell me what time you will arrive?
+Speaker1: Let's meet at 5:30 in the afternoon.
+Speaker2: Okay, I'll take note of that. Do you have any special requirements, such as seating preference?
+Speaker1: Please arrange a seat by the window if possible, thank you.
+Speaker2: No problem, we will do our best to arrange. Can you provide your name and contact information please?
+Speaker1: I am Li Huai, my phone number is 1345678900.
+Speaker2: Okay, Mr. Lee, your reservation was successful. If there are any changes, we will contact you promptly. See you later.
+Speaker1: Okay, thank you. See you later.

@@ -1,0 +1,10 @@
+Speaker1: Hello, I have a new phone here, want to take a look?
+Speaker2: Hello, is this a new phone? What's special about it?
+Speaker1: This phone uses the latest processor, runs very fast, and has a strong battery life, making it especially suitable for long-term use.
+Speaker2: What's the price? It sounds good.
+Speaker1: This phone costs 3500 yuan, there's a discount activity now, you can get a 90% discount.
+Speaker2: Nine-discount is great, it's still quite reasonable. Do you have any goods now?
+Speaker1: Yes, we have fresh produce here, ready to ship at any time.
+Speaker2: Okay, I'll think about it. How is your after-sales service?
+Speaker1: Our after-sales service is very good, seven-day no-reason return or exchange, one-year warranty, any questions can be contacted anytime.
+Speaker2: Okay, now I'm relaxed, I just placed an order.

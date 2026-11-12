@@ -1,0 +1,9 @@
+Speaker2: Hello
+Speaker1: How is the beef noodle soup at your store?
+Speaker2: Our beef noodle soup is very popular, the broth is fresh and delicious, the beef is cooked to a crisp, and many customers say it's delicious.
+Speaker1: What is the price?
+Speaker2: The price of beef noodle soup is 20 yuan per bowl.
+Speaker1: Do you have any discount activities now?
+Speaker2: Yes, you can enjoy a 90% discount when placing an order now, and you'll also get a free small dish when you spend 50 yuan.
+Speaker1: Okay, I'll come over in the afternoon to eat.
+Speaker2: Okay, let's meet in the afternoon.

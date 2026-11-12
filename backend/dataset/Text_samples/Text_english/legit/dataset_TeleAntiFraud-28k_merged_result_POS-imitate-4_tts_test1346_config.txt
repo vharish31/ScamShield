@@ -1,0 +1,9 @@
+Speaker1: Hi, how are you? I'm the property manager of the community, just confirming if you've paid your recent electricity bill yet?
+Speaker2: Hello, I haven't paid yet, how can I check the specific amount and payment method?
+Speaker1: You can inquire through our WeChat public platform or directly handle it at the property management office.
+Speaker2: How do I enter WeChat public platform?
+Speaker1: You can search for our community's name on WeChat and follow our public account. There's a payment entrance inside, it's very convenient.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, feel free to contact us if you have any other questions.
+Speaker2: Okay, I will handle it quickly. Thank you again!
+Speaker1: Okay, feel free to contact us if you have any questions. Have a happy life!

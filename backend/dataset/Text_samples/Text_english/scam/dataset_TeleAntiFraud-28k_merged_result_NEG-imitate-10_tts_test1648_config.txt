@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Agricultural Bank. We noticed that you have had loan consultation on our platform before. Do you have any funding needs now?
+Speaker2: Yes, but I have also applied at another bank, and I feel the process is quite complicated.
+Speaker1: Ah, I understand your confusion. We have a fast loan channel here, just need to provide some basic information, approval passed, can loan today, and interest rate is very cheap.
+Speaker2: Really? Then how do I apply?
+Speaker1: It's very simple. Just click on the link I sent you and follow the instructions.
+Speaker2: Okay, let me try.
+Speaker1: Okay, I'll send it to you now. Additionally, for the sake of smooth process, we may need you to pay a small amount of fees in advance, which is an industry practice, you understand?
+Speaker2: Hmm, I understand. How much is the handling fee?
+Speaker1: Just need three hundred yuan, this fee will be fully refunded after loan disbursement.
+Speaker2: Okay, I'll do it as you said.

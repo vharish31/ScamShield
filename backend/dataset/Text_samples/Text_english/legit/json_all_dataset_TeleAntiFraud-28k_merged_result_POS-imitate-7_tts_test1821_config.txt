@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can we make a reservation here for a restaurant?
+Speaker2: Of course, we can reserve a restaurant here, which restaurant do you want to reserve?
+Speaker1: I want to book a restaurant near the Four Pagodas, preferably one that serves Sichuan cuisine.
+Speaker2: Okay, there's a great Sichuan cuisine restaurant near the Four Pagodas, called Xiāngxiāngjiān, you can check it out.
+Speaker1: How much does this restaurant cost?
+Speaker2: The prices at the Xiāngxiāngyáng are slightly above average, with an average consumption of around 100 yuan.
+Speaker1: Can I reserve a four-person seat for tomorrow night at 6:30 PM?
+Speaker2: Sure, I can confirm a 6:30 PM reservation for four people tomorrow night.
+Speaker1: Okay, can you help me?
+Speaker2: I have already reserved a table for you at 6:30 pm at Xiānghuāngxiāng sìrénwèi. Do you have any other tasks for me to assist with?
+Speaker1: No more, thank you for your help.
+Speaker2: No problem, wish you enjoy your meal. Bye!

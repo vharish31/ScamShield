@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, your air conditioner has been acting up lately, want you guys to take a look?
+Speaker2: Hello, little Li, I am the customer service of maintenance service, can you tell me specific issues?
+Speaker1: It's been really hot lately, but the air conditioning isn't working well, and sometimes there are strange noises.
+Speaker2: Okay, this situation may be due to the filter being clogged or the refrigerant being insufficient. We will arrange for the technician to come over and check immediately.
+Speaker1: When will you arrive approximately?
+Speaker2: Can we take a look at the schedule and see if three in the afternoon is possible today?
+Speaker1: Three o'clock is fine, the address is Yangguang Huanjuan Sanhao Lou Yī dān yī xīng liù xiàng èr shì.
+Speaker2: Okay, we noted down that the master will arrive on time. Is there anything else we can help with?
+Speaker1: No more, thank you.
+Speaker2: No problem, please feel free to contact us anytime.

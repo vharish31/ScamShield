@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: I'd like to consult your hairdressing service.
+Speaker2: Of course, we provide various haircut, dye, and perm services for men and women. Are you looking to make an appointment?
+Speaker1: Yes, I want to make an appointment for tomorrow afternoon at 3 pm for a haircut.
+Speaker2: Okay, tomorrow afternoon at three o'clock, haircut service, I will help you register, please provide a contact method.
+Speaker1: Okay, my phone number is one three four five six seven eight nine zero.
+Speaker2: Thank you, we will call you before the service to confirm. Do you have any special requirements, such as preferred hairstylist or haircut style?
+Speaker1: No specific requirements, just cut it naturally
+Speaker2: Understood, we will arrange a stylist with rich experience for you. See you tomorrow!

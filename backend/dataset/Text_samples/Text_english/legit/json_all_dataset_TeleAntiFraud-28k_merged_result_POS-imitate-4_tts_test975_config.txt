@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I recently wanted to buy a house, did you see a house for sale on the internet?
+Speaker2: Yes, we do have a house for sale, are you interested?
+Speaker1: I'm quite interested, can you tell me more about the specific details and price?
+Speaker2: This apartment is located in the city center, 120 square meters, three bedrooms, two living rooms, beautifully decorated, the market price is six thousand five hundred yuan per square meter.
+Speaker1: How are the facilities around here?
+Speaker2: There are large shopping centers, hospitals, and schools around, transportation is convenient, and the lifestyle is complete.
+Speaker1: Can I schedule a time to view a property?
+Speaker2: Of course, whenever you're convenient, we can arrange a house viewing.
+Speaker1: Is this weekend okay?
+Speaker2: Can we do this weekend? What specific time works for you?
+Speaker1: 3:00 PM.
+Speaker2: Okay, let's agree to meet at three o'clock on Saturday afternoon and say goodbye.

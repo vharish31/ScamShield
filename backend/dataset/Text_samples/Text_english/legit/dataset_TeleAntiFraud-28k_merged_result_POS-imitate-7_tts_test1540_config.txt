@@ -1,0 +1,11 @@
+Speaker2: Hello
+Speaker1: Hey, I'm Xiaoming, I recently bought a phone from you and there are some issues I want to consult about.
+Speaker2: Hey, it's Xiaoming. Hi, do you have any questions you can directly ask?
+Speaker1: The battery life of my phone isn't as long as you guys said it would be, and I found out it drained quickly after using it for two days.
+Speaker2: This situation is not quite normal, is the phone you bought here our new one?
+Speaker1: Yes, just bought it back not long ago.
+Speaker2: Let's bring your phone to our store first, we'll check if the battery is okay.
+Speaker1: When is it most convenient for me to go over?
+Speaker2: Come over tomorrow afternoon around three o'clock, there will be someone to meet you here.
+Speaker1: Okay, see you tomorrow, sorry to bother you.
+Speaker2: No problem, feel free to contact us anytime, see you tomorrow.

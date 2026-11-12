@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you recommend any notebook computers in your store?
+Speaker2: Of course, we have several notebooks with high value-for-money here, such as this Lenovo ThinkPad X1 Carbon, with good configuration and an appropriate price.
+Speaker1: How is this configuration?
+Speaker2: This is an 11th generation Intel Core i5 processor with 8GB of memory and a 512GB solid-state drive, making it suitable for everyday use and light gaming.
+Speaker1: How much is it?
+Speaker2: This notebook costs 4999 yuan, there's currently an activity, you can enjoy one year of free in-home service.
+Speaker1: Can I try it?
+Speaker2: Sure, our store supports a 7-day no-reason return policy. You can try it out first.
+Speaker1: Okay, I'll go to your store tomorrow.
+Speaker2: Okay, see you tomorrow! If you have any questions, feel free to contact me anytime.

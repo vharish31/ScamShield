@@ -1,0 +1,11 @@
+Speaker1: Hello, are you a taxi service?
+Speaker2: Hey, hi, yes, I just got my driver's license, want to rent a car, can I?
+Speaker1: Sure, as long as your driver's license is valid, you can rent a car.
+Speaker2: Do you need a deposit? My WeChat credit is 543, can I?
+Speaker1: Which is more convenient for you, WeChat needs 650 yuan, or PayPal needs 550 yuan?
+Speaker2: What should be done if credit score is not enough?
+Speaker1: If your credit score is not enough, you can choose a cash deposit, which is usually 5,000 yuan for a car, 2,000 yuan for traffic violations, and your deposit will be returned after a month if you have no traffic violations.
+Speaker2: What's the way to calculate the cost of renting a car?
+Speaker1: The rental car price is calculated based on the car type and rental period you choose. You can find the specific price on our website, or tell me your needs and I can help you calculate.
+Speaker2: Okay, thank you for your help. I will think about it again.
+Speaker1: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy life.

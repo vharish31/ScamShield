@@ -1,0 +1,17 @@
+Speaker1: Hello, how are you?
+Speaker2: Sigh, hello.
+Speaker1: Are you still sending takeout to your home today?
+Speaker2: Sent, sent, you can order now and be ready immediately.
+Speaker1: That's great, I just ordered a beef set meal on your website.
+Speaker2: Okay, I'll check, what's your order number?
+Speaker1: The order number is 5678.
+Speaker2: Just a moment, I'll check.
+Speaker1: Okay, thank you.
+Speaker2: Found it, your address is Yangguang Hua Yuan Xiǎoquān, right?
+Speaker1: Yes, it's the third floor of the Yangguang Huanjuan Xianguan apartment complex.
+Speaker2: Okay, we're getting ready for your meal, it should be there in about thirty minutes.
+Speaker1: Okay, could you guys hurry up a bit? I'm getting hungry.
+Speaker2: Understood, we will deliver quickly. Are there any other tasks that need help?
+Speaker1: No more, thank you.
+Speaker2: Okay, have a nice meal, bye.
+Speaker1: Goodbye.

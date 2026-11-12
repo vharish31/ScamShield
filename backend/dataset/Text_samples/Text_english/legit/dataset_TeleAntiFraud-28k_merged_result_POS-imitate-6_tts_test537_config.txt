@@ -1,0 +1,14 @@
+Speaker1: Hi, how are you? I'm little Li, I want to consult your delivery service.
+Speaker2: Hello, little Li, I am customer service Zhang, what can I help you with?
+Speaker1: I've been ordering food at your place recently, I find it quite convenient, just sometimes the delivery time takes a bit long.
+Speaker2: Thank you very much for your feedback. Our delivery time is indeed affected by traffic and order volume.
+Speaker1: What do you have to reduce waiting time?
+Speaker2: We are optimizing delivery routes and increasing the number of delivery personnel, and at the same time, we will send text messages to remind merchants to prepare in advance during peak hours.
+Speaker1: That sounds good, I hope it will be better after improvement. By the way, do you have any discount activities?
+Speaker2: Yes, we have activities such as "full fifty minus five" and "full hundred minus fifteen." You can follow our small program, and all activity information will be updated in a timely manner.
+Speaker1: Okay, I will pay attention. Do you want to order a beef noodle soup this time?
+Speaker2: Yes, our beef noodle soup is very popular. Do you need to add any vegetables or snacks?
+Speaker1: Let's have a beef noodle soup, thank you.
+Speaker2: Okay, I have recorded your order. It will arrive in about 30 minutes. If there are any changes, we will contact you promptly.
+Speaker1: Okay, thank you for your service, goodbye.
+Speaker2: You're welcome, hope you enjoy your meal, bye.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Where are you?
+Speaker2: Can you see me from your location?
+Speaker1: I saw it, but I'm not sure how to get there.
+Speaker2: After you come out, turn left, walk straight along the big road, and you will see the flag of the pioneer on the east road when you are right.
+Speaker1: Okay, I see the first road ahead, so which direction should I walk?
+Speaker2: Walking along the First Pioneer East Road, you will see a subway station, I am waiting for you at the station opposite.
+Speaker1: Okay, I see the subway station, can you see me too?
+Speaker2: I see you, if you flash your lights twice, I'll know it's you.

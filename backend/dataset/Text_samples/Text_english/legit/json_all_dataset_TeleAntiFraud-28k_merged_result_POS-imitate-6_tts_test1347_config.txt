@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm interested in learning more about your fitness program.
+Speaker2: Hello, I am the customer service representative at the fitness center, you can call me Xiaoming. What courses are you interested in?
+Speaker1: I want to know more about yoga classes, I've been under a lot of pressure lately and want to relax a bit.
+Speaker2: Yoga classes are very suitable for you, we have basic yoga and advanced yoga, as well as specialized relaxation yoga. Relaxation yoga is held every Wednesday and Friday evening at 7 pm, each class lasts 60 minutes.
+Speaker1: How much does it cost for a relaxing yoga class?
+Speaker2: A single session of yoga experience costs 100 yuan, but if you sign up for a membership card, the fee for each class will be more discounted.
+Speaker1: The sound is good, I plan to try it first.
+Speaker2: Okay, you can book the course for this Friday, please arrive one hour in advance to complete the registration.
+Speaker1: Okay, I'll schedule a class for Friday.
+Speaker2: I have already made a reservation for you. Remember to bring a water bottle and a yoga mat. If you have any questions, feel free to contact me anytime. I wish you a happy practice!

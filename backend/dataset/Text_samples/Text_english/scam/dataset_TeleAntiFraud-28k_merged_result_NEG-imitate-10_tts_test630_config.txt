@@ -1,0 +1,11 @@
+Speaker1: Hello, nice to meet you, I am the manager of the small loan department at Commercial Bank, responsible for small loan business.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, our bank recently introduced a credit loan service for high-quality customers, with monthly interest as low as two cents, no collateral required, fast approval, and very suitable for short-term cash flow.
+Speaker2: Oh, it sounds good, but I recently don't have any financial needs.
+Speaker1: That's really too bad. But if you change your mind, you can contact me anytime. For your convenience, I can send you a link with detailed information about our loan products and application process.
+Speaker2: Sure, you can show it to me.
+Speaker1: Okay, I'll send it to you now. Additionally, to ensure your information is secure, can you provide a verification code? I'll send you a text message, just let me know when you receive it.
+Speaker2: Okay, I'll wait for a text message.
+Speaker1: Already sent, you check receipt.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Thank you, I'll send you the link now. Additionally, if you have any questions, feel free to add my WeChat, you can contact me anytime. My WeChat number is 13800138000.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Have you got any recommendations for a new computer recently?
+Speaker2: Of course, is it for work or leisure?
+Speaker1: I mainly use it for work, occasionally watch movies.
+Speaker2: Understood, we have a great business notebook here with excellent configuration, stable performance, and is perfect for office use while also providing a great entertainment experience.
+Speaker1: How much does this computer cost?
+Speaker2: This computer is currently selling for 6800 yuan, and it also comes with an original mouse and laptop bag.
+Speaker1: Do you still have any gifts? That's quite a good deal. Can I go take a look now?
+Speaker2: Okay, we're waiting for you at the store. The address is the third floor of the technology square in the city center. Please feel free to visit anytime.

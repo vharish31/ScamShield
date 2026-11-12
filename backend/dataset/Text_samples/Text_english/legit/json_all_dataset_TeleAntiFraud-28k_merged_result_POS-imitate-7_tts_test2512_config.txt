@@ -1,0 +1,10 @@
+Speaker1: Hello, have you recently checked out the smartwatch in our store?
+Speaker2: "Hmm, I understand it, but I'm not sure about its function."
+Speaker1: This watch has a lot of functions, it can monitor heart rate, blood pressure, and analyze sleep quality, suitable for daily use.
+Speaker2: How's the battery life?
+Speaker1: The battery life is about seven days, no need to charge every day, very convenient.
+Speaker2: How much does it cost to listen?
+Speaker1: The promotional price is 299 yuan, and you'll get a special handband with it.
+Speaker2: Okay, I'll think about it.
+Speaker1: Okay, if you decide to buy, you can directly place an online order, and feel free to contact me if you have any questions.
+Speaker2: Thank you, I will consider it.

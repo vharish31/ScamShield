@@ -1,0 +1,10 @@
+Speaker1: Hey, how's the weather tomorrow?
+Speaker2: Hello, where are you from?
+Speaker1: I am in Beijing.
+Speaker2: Okay, let me check. The weather forecast for tomorrow in Beijing is clear, with temperatures between 15 and 25 degrees, perfect for outdoor activities.
+Speaker1: Great, can you tell me the most convenient way to walk from Beijing Station to Yuan Hua Yuan?
+Speaker2: You can take the subway line 4 from Beijing station to North Palace Gate station, get off at C exit, and walk about fifteen minutes to reach Yuan Hua Yuan.
+Speaker1: What is the operating time of line 4 of the subway?
+Speaker2: The first car of line 4 of the subway is at 5 am, the last car is at 11 pm, there is a car every few minutes, so you don't have to worry too much about missing it.
+Speaker1: Okay, thank you for your help. I will leave earlier.
+Speaker2: No problem, feel free to contact me if you have any other questions. Have a great time!

@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hello, can you hear me? Who are you?
+Speaker1: I am a waiter at the restaurant, can you confirm the time of your dinner reservation?
+Speaker2: Hmm, I think it should be seven o'clock in the evening.
+Speaker1: Yes, it's seven o'clock in the evening. We have reserved a place for you here, remember to come on time.
+Speaker2: Okay, I noted it down, thank you for reminding me.
+Speaker1: No thanks, by the way, we have new items on our menu, do you have any special dishes you want to try?
+Speaker2: Is there any recommendation?
+Speaker1: Try our signature dishes, the spicy pork and steamed fish, very popular.
+Speaker2: Listen sounds good, then I'll try it later.

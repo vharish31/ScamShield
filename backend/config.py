@@ -43,7 +43,7 @@ class Settings(BaseSettings):
     WHISPER_COMPUTE_TYPE: str = "int8"
 
     # Machine Learning Model Integration
-    ML_MODEL_ENABLED: bool = False
+    ML_MODEL_ENABLED: bool = True
     ML_MODEL_PATH: str = "models/artifacts/scam_classifier.joblib"
     ML_VECTORIZER_PATH: str = "models/artifacts/vectorizer.joblib"
     ML_DECISION_THRESHOLD: float = 0.5

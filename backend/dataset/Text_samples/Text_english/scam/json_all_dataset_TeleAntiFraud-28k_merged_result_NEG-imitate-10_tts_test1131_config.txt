@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from China Construction Bank. We have a special discounted loan product here that you might be interested in learning more about.
+Speaker2: Hey, do you have a loan? I'm a bit tight right now, but I'm also considering, can you say specifically what kind of discounts you have?
+Speaker1: Of course, our loan product has no collateral or guarantee, and the interest rate is very low, the approval is very fast, just click on this link and fill out the relevant information to apply.
+Speaker2: That sounds good, but I've had scams before, is the link safe?
+Speaker1: Don't worry, we are a legitimate bank, our link is absolutely safe. To ensure your information is safe, I also have a verification code, please input the verification code and you can use it securely after.
+Speaker2: Okay, let me try. What is the verification code?
+Speaker1: The verification code is 123456, you can start applying after inputting it.
+Speaker2: Okay, I'll go operate.
+Speaker1: Great! If you have any questions, feel free to contact me anytime. Best wishes for your application!
+Speaker2: Thank you, I will.

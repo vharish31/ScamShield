@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Meituan Waimai, your food is here.
+Speaker2: Hey, hello, could you please take it to the community door?
+Speaker1: Is the door at the community entrance?
+Speaker2: Yes, there's a small pavilion at the entrance of the big gate.
+Speaker1: Okay, I understand, it'll probably take five minutes, just pay attention.
+Speaker2: Okay, I'll go downstairs and wait for you.
+Speaker1: Okay, I'll call you when I arrive.
+Speaker2: Be careful on the road.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye.

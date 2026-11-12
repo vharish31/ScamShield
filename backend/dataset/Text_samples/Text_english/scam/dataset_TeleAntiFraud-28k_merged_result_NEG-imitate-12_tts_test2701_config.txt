@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager at Guangfa Bank. We have a recent promotion activity. Would you be interested in learning more about it?
+Speaker2: Hello, what activity?
+Speaker1: We recently have a low interest loan project with high credit limit and fast approval, which is very suitable for customers with funding needs.
+Speaker2: How do I apply?
+Speaker1: It's very simple. Just click this link, fill out some basic information, and our review team will quickly process it.
+Speaker2: Link? How do I give it to you?
+Speaker1: Add my WeChat, I'll send you the link, my WeChat number is 888888888.
+Speaker2: Okay, I'll add you.
+Speaker1: Okay, after you add WeChat, please tell me once, and I will immediately send you a link.
+Speaker2: Okay, I understand, thank you.

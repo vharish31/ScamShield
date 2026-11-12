@@ -1,0 +1,10 @@
+Speaker1: Hello, is it the small Li car repair center?
+Speaker2: Hello, this is the small Li car repair center, what can I help you with?
+Speaker1: I've been having trouble starting my car lately, so I'd like to schedule a time to check it out.
+Speaker2: Okay, can you tell me your license plate number and car model? This way it's convenient for us to record.
+Speaker1: The license plate number is Jing A12345, the car model is Toyota Corolla.
+Speaker2: Understood, Feng Tian Kǎ Luó Rǎ, Jīn A12345, we recorded it down. Can you come in the morning tomorrow?
+Speaker1: Can I come at nine in the morning tomorrow?
+Speaker2: Okay, we'll meet at nine o'clock. Is there anything else you need to consult?
+Speaker1: No need, thank you.
+Speaker2: No problem, be careful on the road. See you later.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: Yes, I am a server at the Xiǎo Qiáo Kāfēi Jiān, you previously reserved an afternoon tea here, and you want to confirm the time.
+Speaker2: Is your reservation for today at two in the afternoon?
+Speaker1: Okay, it's two o'clock this afternoon. However, we have a small change here, and need to adjust to two and a half, can you see?
+Speaker2: Sure, can I get there at 2:45 PM?
+Speaker1: Of course, 2:45 is perfect, we will be ready for you.
+Speaker2: Okay, thank you. Can I just go directly there at the time?
+Speaker1: Yes, you can come directly, we will prepare in advance.
+Speaker2: Okay, thank you, see you later.
+Speaker1: Okay, see you later, wish you a happy day.

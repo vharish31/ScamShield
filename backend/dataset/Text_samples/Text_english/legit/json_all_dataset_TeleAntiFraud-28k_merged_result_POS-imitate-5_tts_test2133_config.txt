@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service monkey of the point store. Why haven't you ever redeemed your points in your account? Tonight at midnight, all points will be cleared.
+Speaker2: Oh, really? How did I miss that?
+Speaker1: Yes, your points can be directly redeemed for cash, such as to purchase white wine gift boxes, brand-name suits, high-definition TVs, or smartwatches.
+Speaker2: How do I check my points?
+Speaker1: You can view it through our app or website, or directly tell me your phone number, I can help you query.
+Speaker2: Okay, my phone number is 13812345678.
+Speaker1: Okay, just a moment, I'll check... Your account currently has 26,880 points, which can be exchanged for goods worth about 4,000 yuan.
+Speaker2: How do I exchange it?
+Speaker1: You can select the products you want on our app or website and then use points to exchange them. If you need help, you can directly contact me.
+Speaker2: Okay, thank you for your reminder. I will check it out soon.

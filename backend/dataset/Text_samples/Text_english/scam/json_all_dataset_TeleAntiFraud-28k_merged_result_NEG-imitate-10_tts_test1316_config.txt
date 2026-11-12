@@ -1,0 +1,14 @@
+Speaker1: Hey, are you Wang Ming?
+Speaker2: Yes, who are you?
+Speaker1: I am an AliExpress customer service representative. Your package was accidentally lost during transportation, and we will handle the compensation for you.
+Speaker2: Really? Then what do we do now?
+Speaker1: Don't worry, to facilitate processing, please provide your bank account, we will directly transfer the compensation money to your account.
+Speaker2: Okay, my bank account number is 1234567890.
+Speaker1: Thank you very much, we still need you to provide a verification code. You will receive a short message later with a six-digit verification code.
+Speaker2: Okay, I'll be right back.
+Speaker1: Okay, the verification code has been sent, please check your text message.
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Okay, we have confirmed the information. The compensation money will be credited to your account within 24 hours. Moreover, to ensure the safety of your account, you can download our official app to track the processing progress.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Thanks for your cooperation. If you have any questions, feel free to contact us anytime. Bye.
+Speaker2: Goodbye.

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? What can I help you with?
+Speaker1: Do you have any good hairdresser on this side? I want to make an appointment to cut my hair.
+Speaker2: Yes, we have several good hair stylists with good technology here. Which day do you want to book?
+Speaker1: Is this weekend okay?
+Speaker2: Sure, this weekend we have a lot of time. Do you want to schedule for Saturday or Sunday?
+Speaker1: Sunday morning at 10 o'clock, okay?
+Speaker2: Sunday morning at 10 am is available, this time slot we have a break.
+Speaker1: Great, I'll book it for Sunday morning at 10 am.
+Speaker2: Okay, I have already made a reservation for you. Just come to the store directly when the time comes.
+Speaker1: Okay, thank you. See you later.
+Speaker2: No problem, see you later. Wish you a happy day!

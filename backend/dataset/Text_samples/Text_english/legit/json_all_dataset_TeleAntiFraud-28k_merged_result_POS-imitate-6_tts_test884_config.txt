@@ -1,0 +1,10 @@
+Speaker1: Hey, are you ready to pick up the car?
+Speaker2: Hello, are you ready? Where are you?
+Speaker1: Just arrived at the door, saw a big ad board, is it there?
+Speaker2: Okay, you see the billboard, walk straight ahead, see the first left turn.
+Speaker1: Okay, I see a left turn, then what?
+Speaker2: Turn left and walk straight to the bottom, there's a parking lot there, our service counter is at the entrance of the parking lot.
+Speaker1: Okay, I know, roughly how long until I arrive?
+Speaker2: Follow the path I told you, it should take about three to five minutes to get there.
+Speaker1: Okay, thank you for your guidance, I'll go over there right away.
+Speaker2: No problem, you can contact me anytime if you have any questions after you arrive.

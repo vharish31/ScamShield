@@ -1,0 +1,10 @@
+Speaker1: Hello, I am a customer service representative from Commercial Bank, your loan amount has been approved.
+Speaker2: Really? That's great, I recently need to transfer funds.
+Speaker1: Yes, just download our bank's official app, complete identity verification, and the money will be directly transferred to your account.
+Speaker2: Okay, I'll download it right away.
+Speaker1: To ensure safety, you need to pay a small amount of verification fee first, which is a necessary step to verify your identity.
+Speaker2: How much money is needed to verify gold?
+Speaker1: Just need 200 yuan, verification done, full refund to your account.
+Speaker2: Okay, I'll transfer the money.
+Speaker1: Thank you very much, please send me the transaction screenshot after the transfer, I will handle the next steps for you.
+Speaker2: Okay, I'll handle it right away.

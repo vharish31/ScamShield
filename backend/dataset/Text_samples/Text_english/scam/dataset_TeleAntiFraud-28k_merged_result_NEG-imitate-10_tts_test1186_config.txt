@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Zhang Xiǎoqīn?
+Speaker2: Hey, it's me.
+Speaker1: Hello, I am Tmall customer service representative Li Xiao, I see that you have recently purchased a product with quality issues on our platform, we are ready to process your return and refund, can you please provide your order number?
+Speaker2: Okay, the order number is 1234567890.
+Speaker1: Okay, we have received the order number. To facilitate our handling of the refund, please click on this link to download our refund processing app and follow the instructions to operate it.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Don't worry, this is our official channel, very safe, many users have successfully refunded through this way.
+Speaker2: Okay, let me try.
+Speaker1: Okay, after clicking on the link, you may need to enter a verification code, which will be sent to your phone, please pay attention to receive it.
+Speaker2: Okay, I will pay attention to receiving.

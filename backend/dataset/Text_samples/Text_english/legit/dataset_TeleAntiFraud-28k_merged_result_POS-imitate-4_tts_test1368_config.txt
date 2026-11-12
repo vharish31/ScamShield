@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a server at the Flower Flower Restaurant. Could you please confirm the time for your dinner reservation from yesterday?
+Speaker2: Okay, is it a seven o'clock reservation?
+Speaker1: Okay, 7:00 PM, can you confirm the number of people, last time you ordered four seats.
+Speaker2: Hmm, the number of people hasn't changed, it's still four.
+Speaker1: Okay, I have confirmed it here. Also, do you have any special requirements for our menu items?
+Speaker2: Yes, I want to try your signature dish, and please make it a little less spicy.
+Speaker1: Okay, I've noted down the menu board and the clear taste. Moreover, our restaurant now offers free parking service, please inform me in advance if needed.
+Speaker2: Great, can we drive over and stop at your place?
+Speaker1: Of course, you can park your car directly at the parking lot next to the restaurant when you arrive.
+Speaker2: Okay, thank you for your help, see you later.
+Speaker1: No problem, we'll meet at the restaurant at the appointed time. Wishing you a happy day!

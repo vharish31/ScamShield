@@ -1,0 +1,14 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I want to consult your store's pipeline materials.
+Speaker2: Hello, Xiao Ming, I am the salesperson at the store, you can call me Xiao Zhang. What information do you want to know?
+Speaker1: Can you tell me more about your pipeline materials, specifically durability and cost?
+Speaker2: All the materials used in our pipes are made of high-quality materials, very durable, and the prices are quite reasonable. What project do you want to use them for?
+Speaker1: What do you recommend for renovating my kitchen at home?
+Speaker2: For family use, I recommend our PVC pipes, durable, easy to install, and priced reasonably.
+Speaker1: How much does a PVC pipe cost?
+Speaker2: The price of PVC pipes is 20 cents per meter. If you need it, I can help you calculate it in detail.
+Speaker1: Okay, I roughly need 30 meters, can you calculate the total price for me?
+Speaker2: Okay, the total price for a 30-meter PVC pipe is six hundred yuan. If you place an order now, we can also provide free door-to-door delivery service.
+Speaker1: That's great, I'll define a 30-meter PVC pipe.
+Speaker2: Okay, I have recorded your order. We will arrange for shipping as soon as possible. Is there anything else you need help with?
+Speaker1: Thanks for your help. I'm sorry, I don't have it right now.
+Speaker2: No problem, feel free to contact us anytime if you have any questions. Have a great day!

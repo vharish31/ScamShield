@@ -1,0 +1,13 @@
+Speaker1: Hello, this is a good restaurant here.
+Speaker2: Hello, I want to know more about your menu.
+Speaker1: Of course, we have a variety of flavors here, such as Sichuan, Cantonese and local cuisine. Do you have a particular preference for flavor?
+Speaker2: What do you recommend for Sichuan cuisine?
+Speaker1: Our spicy pot and steamed fish here are very popular, the taste is authentic, and the spiciness can be adjusted according to your preference.
+Speaker2: Does your business open now?
+Speaker1: We are open from 10 am to 10 pm every day, so now you can come have a meal.
+Speaker2: Okay, I'll probably arrive in half an hour. Do I need to reserve a seat in advance?
+Speaker1: It's recommended to book in advance, so you can ensure a comfortable dining environment. How many people?
+Speaker2: Four people.
+Speaker1: Okay, I have reserved a four-person seat for you. Just give your name when you arrive.
+Speaker2: Thank you, see you then.
+Speaker1: See you then, I'm looking forward to your arrival, goodbye.

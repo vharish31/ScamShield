@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, hello, I want to consult your car rental service on this side
+Speaker1: Hello, we provide various car rental services here. What can I help you with?
+Speaker2: I plan to go out with some friends on the weekend and rent a car. Do you have any car types to recommend here?
+Speaker1: Based on your requirements, I recommend considering our seven-seat business car, with spacious seating, suitable for group travel.
+Speaker2: The seven-seat business car sounds good, how much is the rental fee?
+Speaker1: The daily rental fee for seven business cars is three hundred yuan. If rented for three days or more, we have a discount activity, and can enjoy a nine-discount.
+Speaker2: Okay, do I need to pay the deposit in advance?
+Speaker1: Yes, in order to confirm your order, we need you to pay a deposit of one hundred yuan. If you cancel the order, as long as you notify us one day in advance, the deposit is fully refundable.
+Speaker2: I understand, so I'll take the car this weekend, what are your business hours?
+Speaker1: Our business hours are from 8am to 8pm every day. You can come to pick up your car anytime during our business hours.
+Speaker2: Okay, thank you for your help. I'll go get my car this weekend. Goodbye.
+Speaker1: You're welcome, wish you a happy weekend trip, bye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw a set of sofas in your store, and I want to know more about it in detail.
+Speaker2: Hello, I am the customer service representative in the store. What information about sofas are you looking for?
+Speaker1: What is the material and price of this sofa?
+Speaker2: This sofa is made of high-quality leather material, very durable, priced at six thousand eight hundred yuan.
+Speaker1: Is this sofa in stock?
+Speaker2: The store currently has stock, you can come try seating or directly purchase.
+Speaker1: I have some free time tomorrow morning, can I come take a look?
+Speaker2: Tomorrow morning from 10 to 11 we have a promotion at our store, it's perfect for you to come at that time.
+Speaker1: That's great, I'll probably be there around 10:30.
+Speaker2: Okay, I'll be at the store at the designated time, and you can contact me anytime if you have other questions.

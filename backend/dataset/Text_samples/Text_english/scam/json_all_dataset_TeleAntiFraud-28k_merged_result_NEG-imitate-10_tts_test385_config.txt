@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the customer service center of Silver Sea Bank, I am the customer service manager Zhang Ming, are you Lee Huai?
+Speaker2: Yes, I am Lee Huai.
+Speaker1: Mr. Li, we found a suspicious transaction on your account. For your financial safety, we need your cooperation.
+Speaker2: Oh, really? Then what should I do?
+Speaker1: Please provide your ID number and bank card number, we need to verify your identity.
+Speaker2: Okay, my ID number is 19666666666666, my bank card number is 622208666666666666.
+Speaker1: Okay, we have recorded it down. Please click on this link to download our official safe software, so we can help you check your account.
+Speaker2: Okay, I'll go download it now.
+Speaker1: After downloading, please open the software and enter the verification code "eight eight eight eight". Then bind your bank card to the software, so we can proceed with the next step.
+Speaker2: Okay, I understand now, thank you.

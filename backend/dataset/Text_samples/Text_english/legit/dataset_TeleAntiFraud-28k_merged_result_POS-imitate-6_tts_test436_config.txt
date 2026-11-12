@@ -1,0 +1,10 @@
+Speaker1: Hey, where are you?
+Speaker2: Just arrived at the subway station, hurry over.
+Speaker1: Okay, I'll go now, it should take about ten minutes.
+Speaker2: Okay, I'm waiting for you at the exit of the subway station.
+Speaker1: Can you help me carry some water, I'm thirsty.
+Speaker2: Okay, I have a bottle of water, I'll give it to you later.
+Speaker1: That's great, thank you.
+Speaker2: No problem, we are friends.
+Speaker1: Uh, did you bring an umbrella? The weather forecast says there's a chance of rain.
+Speaker2: Bring it, I have two, one for you.

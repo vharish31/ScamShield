@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer manager of Guangfa Bank. We recently launched a low-interest loan product. Would you be interested in learning more about it?
+Speaker2: Low interest loan? It sounds good, how does it work?
+Speaker1: This loan product is very suitable for you, a high-quality customer, no collateral required, quick approval, and the fastest possible funding on the same day.
+Speaker2: How do I apply?
+Speaker1: It's very simple. Just click on the link I sent you and fill out the relevant information. We'll have a specialist review it.
+Speaker2: Link? No problem, right?
+Speaker1: Please rest assured, this is our official application link, absolutely safe. For your convenience, I will send it to you immediately.
+Speaker2: Okay, let me try.
+Speaker1: Okay, just a moment, the link has been sent to your phone. Please check it out. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

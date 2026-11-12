@@ -1,0 +1,10 @@
+Speaker1: Hey, are you busy?
+Speaker2: Hello, hello, just sat down.
+Speaker1: That's great, I've been considering buying a new phone these days, do you know a lot about phones and can give me some advice?
+Speaker2: Of course, what price point do you want for the phone? Are you planning to use it for a long time or just a couple of years before switching to a new one?
+Speaker1: I plan to use it for a long time, roughly around 3,000 yuan.
+Speaker2: This budget can buy some high-value phones, such as brand new mid-range phones, with stable performance, which can be used for three to five years without any problems.
+Speaker1: What do you think are the best phone brands?
+Speaker2: Small Mi, Rongyao, Oppo these brands all have good choices, you can go take a look at their new products.
+Speaker1: Hey, have a look at the small mi, I heard the battery life is good.
+Speaker2: Yes, the battery life of Xiaomi's phone is quite good, and the system is quite smooth. You can go to the official website or physical store to try it out.

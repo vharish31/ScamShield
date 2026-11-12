@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm a new tenant, want to check out the house?
+Speaker2: Hello, is that information from the internet? We also have housing here.
+Speaker1: Yes, I found it online. Can you give me the specific address?
+Speaker2: The address is in the city garden small community. You can navigate there. When you arrive at the small community door, call me.
+Speaker1: Okay, I should be there in about twenty minutes. Also, how many rooms and halls are there in this house?
+Speaker2: It's a two-room apartment with a separate bathroom, good lighting, and suitable for a small family to live in.
+Speaker1: How much is the rent?
+Speaker2: Rent is three thousand yuan per month, deposit is one month's rent, and water and electricity are self-paid.
+Speaker1: Okay, I understand. Then I'll call you directly in a while.
+Speaker2: Okay, call me when you arrive at the community gate. Be careful on the road.

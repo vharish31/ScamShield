@@ -1,0 +1,10 @@
+Speaker1: Hello, I am the manager of the Tianhe River Bank branch of the Bank of China, and we have a special service for our high-quality customers here, which can provide a credit limit of 50,000 yuan, do you want to know more about it?
+Speaker2: Is this really true?
+Speaker1: Yes, we introduced this service to reward our quality customers, all you need to do is provide proof of property ownership to easily obtain a credit limit.
+Speaker2: What do I need to do?
+Speaker1: It's very simple. Just click on the link I sent you and fill out some basic information. Once we approve, we can provide the service.
+Speaker2: Okay, let me try.
+Speaker1: Great, here's the link: <http://example.com>, please fill it out quickly, and feel free to contact me if you have any questions.
+Speaker2: Okay, I'll go fill it out right away.
+Speaker1: Okay, if you have any questions, feel free to contact me anytime, wish you a happy life.
+Speaker2: Thank you, goodbye.

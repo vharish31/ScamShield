@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to know more about your fitness program.
+Speaker2: Hello, I'm very happy to serve you. What courses would you like to know about?
+Speaker1: I recently wanted to lose weight, look for any courses suitable for women.
+Speaker2: We have special yoga and Pilates courses designed for women that are great for weight loss and toning.
+Speaker1: Is yoga class every day?
+Speaker2: Yoga classes are held every Monday, Wednesday, and Friday at 10 am in the morning and 5 pm in the afternoon.
+Speaker1: Do I need to make a reservation?
+Speaker2: Yes, in order to ensure teaching quality, we suggest you book in advance.
+Speaker1: Okay, let's schedule a morning class for next Tuesday.
+Speaker2: Okay, I have already reserved a seat for you. Please sign in at the front desk before class starts.

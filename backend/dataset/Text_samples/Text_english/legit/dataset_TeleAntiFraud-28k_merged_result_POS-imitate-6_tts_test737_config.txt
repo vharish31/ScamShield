@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello, do you have anything?
+Speaker1: I am a customer service person at the food square. Would you be interested in reserving lunch for tomorrow at noon?
+Speaker2: Would you like to order lunch? It sounds good, do you have any recommendations for dishes?
+Speaker1: We have special roast duck and seafood fried rice here, both very popular. There are also many vegetables and soup options to choose from.
+Speaker2: Can I reserve two seats for two people?
+Speaker1: Of course, what time did you book?
+Speaker2: About 12:30.
+Speaker1: Okay, your 12:30 reservation is for two people. Do you have any special requirements or preferences, such as window seats or child seats?
+Speaker2: No need for anything special, thank you.
+Speaker1: Okay, then we'll see each other tomorrow. If there are any changes, please call us in advance.
+Speaker2: Okay, thank you for your service, see you tomorrow.

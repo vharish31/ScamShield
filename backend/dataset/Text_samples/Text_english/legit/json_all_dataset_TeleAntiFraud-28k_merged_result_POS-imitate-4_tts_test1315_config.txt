@@ -1,0 +1,14 @@
+Speaker1: Hey, are you okay?
+Speaker2: Hello, I'm good, how are you?
+Speaker1: I'm good too. Hey, do you have time tonight?
+Speaker2: What do you do when you have time?
+Speaker1: Can we grab dinner and catch up on recent stuff?
+Speaker2: Where do you want to eat?
+Speaker1: Have you heard that a new Italian restaurant just opened? The reviews aren't bad, want to give it a try?
+Speaker2: Let's go, what's the name of that restaurant?
+Speaker1: Can you tell me how to go to happy time?
+Speaker2: It's not clear, I'll check the map. Do you know the specific address?
+Speaker1: The address is Happiness Road 100th number, check it out.
+Speaker2: Okay, I'll check. What time is good?
+Speaker1: What's it like at 6:30?
+Speaker2: Six thirty okay, see you then.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, have you seen the information I sent?
+Speaker2: Can you make time this afternoon?
+Speaker1: What do you do when you have time?
+Speaker2: I just bought a new bike, want you to take a look, does it fit you to ride?
+Speaker1: Great, I also want to see your new bike.
+Speaker2: That's great, I'll be at home at three in the afternoon, come over.
+Speaker1: Okay, I arrive at three o'clock.
+Speaker2: Okay, see you then.

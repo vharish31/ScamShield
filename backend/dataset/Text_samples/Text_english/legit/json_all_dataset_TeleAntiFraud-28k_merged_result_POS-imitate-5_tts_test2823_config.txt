@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from some e-commerce platform. I just wanted to remind you that your account has a large amount of points that will expire tonight at midnight.
+Speaker2: Hey, hello, clear zero points? What's going on?
+Speaker1: That's how it is, the accumulated points you earn while shopping on our platform can be used to exchange products or cashback, if not used, they will be automatically cleared when they expire.
+Speaker2: Uh, like this, then how do I use these points?
+Speaker1: You just need to log in to our platform, enter my account, select point redemption, and you can see the products and discount amount that can be redeemed.
+Speaker2: Okay, now I'll go take a look.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact our customer service at any time, we will provide assistance.
+Speaker2: Thank you for your reminder. I'll handle it now.
+Speaker1: No problem, I hope you can use your points in time to enjoy more discounts. If you have any other questions, please feel free to contact us anytime. Have a happy life!
+Speaker2: Okay, thank you, bye!

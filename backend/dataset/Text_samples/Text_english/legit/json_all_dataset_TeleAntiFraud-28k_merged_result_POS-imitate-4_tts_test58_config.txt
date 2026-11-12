@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiao Ming, I saw your ads, want to consult your home service.
+Speaker2: Hello, Xiao Ming, I am a customer service representative for home services, do you have any specific needs?
+Speaker1: I recently had some things at home that needed cleaning and wanted to know more about your services and prices.
+Speaker2: We provide regular and one-time cleaning services, including daily sweeping and deep cleaning. Prices vary based on service time and content, usually starting at one hundred yuan.
+Speaker1: How long does it take for a weekly cleaning session?
+Speaker2: The weekly cleaning service usually takes 2 to 3 hours, depending on the size of your home and the cleaning difficulty. The price is around 200 to 300 yuan.
+Speaker1: Can I book a service for next Tuesday morning at 10 am?
+Speaker2: Okay, I will arrange for a worker to come to your home at 10 am on Tuesday next week. Do you need a contact method?
+Speaker1: Okay, my phone number is 138-138-1380. What do I need to prepare in advance?
+Speaker2: No need to prepare too much, keep the door open, if there are any special needs for cleaning, please inform the workmen in advance. We will bring all the necessary tools and cleaning agents.

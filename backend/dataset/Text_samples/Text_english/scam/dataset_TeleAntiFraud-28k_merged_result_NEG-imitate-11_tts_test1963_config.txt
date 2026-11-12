@@ -1,0 +1,10 @@
+Speaker1: Hello, this is Beijing mobile customer service center, we noticed that your phone number may have reached the renewal time, have you considered renewing recently?
+Speaker2: Can we renew? I haven't thought about it yet.
+Speaker1: That's right, we recently had a promotion activity, if you renew your subscription you can enjoy more data flow and talk time, and also get extra gifts sent.
+Speaker2: That sounds good.
+Speaker1: Sure, I can send you a link so you can better understand the activity. You can click on the link to see the detailed activity content and gift list.
+Speaker2: Okay, can you send it to me?
+Speaker1: Okay, just a moment, I'll send it to you now. Also, to ensure you can successfully pick up the gift, please provide a verification code. I'll send it to you via text message.
+Speaker2: Okay, I'm waiting.
+Speaker1: Please reply promptly after receiving the verification code, so we can open the service for you and prepare the gift.
+Speaker2: Okay, thank you.

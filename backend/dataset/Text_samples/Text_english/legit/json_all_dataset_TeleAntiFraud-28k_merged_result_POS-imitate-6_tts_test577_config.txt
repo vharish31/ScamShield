@@ -1,0 +1,12 @@
+Speaker1: Hello, you.
+Speaker2: Hello, how are you?
+Speaker1: Can you meet me this afternoon? I was the person who contacted you about the house earlier.
+Speaker2: Would you like to take a look for a few minutes?
+Speaker1: Can we meet around 3:30?
+Speaker2: Three o'clock is fine, the address is the same as the one I gave you last time, right?
+Speaker1: Yes, that's the address. I will arrive early.
+Speaker2: Okay, see you then.
+Speaker1: So, are you planning to stay or help others look around?
+Speaker2: I'm staying here, so this time I'm looking at the apartment myself.
+Speaker1: Got it, let's meet in the afternoon, be careful on the road.
+Speaker2: Okay, thank you, see you in the afternoon.

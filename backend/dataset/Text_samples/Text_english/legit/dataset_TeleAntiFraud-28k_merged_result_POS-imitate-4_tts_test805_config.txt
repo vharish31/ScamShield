@@ -1,0 +1,10 @@
+Speaker1: Hey, hi there, my car battery is dead, I can't run anymore.
+Speaker2: Are you sure?
+Speaker1: I'm sure, I only have 60% of my phone charged, I'm afraid it won't be enough.
+Speaker2: What should we do?
+Speaker1: Can you check if there's another time available, or find another car?
+Speaker2: Okay, let me check other platforms for cars.
+Speaker1: Okay, I'm really sorry, I've caused you trouble.
+Speaker2: No problem, safety first, pay attention to safety on the road.
+Speaker1: Thank you, you too. See you later.
+Speaker2: Okay, see you tomorrow.

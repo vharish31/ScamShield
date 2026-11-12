@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hello, I'm Little Li from Yuncheng Technology, we noticed you might have some trouble with online shopping recently, do you want to know if you're interested in solving these problems?
+Speaker2: What's the problem?
+Speaker1: Have you recently encountered any difficulties with product quality not meeting expectations, returning or exchanging items, or receiving timely refunds?
+Speaker2: Yes, I recently encountered some problems.
+Speaker1: Great, our company has a solution that can effectively avoid these problems. You just need to download our official app, register as a member, and enjoy one-on-one customer service as well as priority refunds.
+Speaker2: What is the name of this app?
+Speaker1: You can download the Enjoy Shopping app from the app store.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues after downloading, feel free to contact me on WeChat, I'll help you solve them.
+Speaker2: Can I add you on WeChat?
+Speaker1: Of course, my WeChat number is yunchengkeji001, add me as a friend.
+Speaker2: Okay, I'll add you.
+Speaker1: Okay, I'll wait for your friend request. If you have any questions, feel free to contact me anytime. Have a happy life. Bye.
+Speaker2: Goodbye.

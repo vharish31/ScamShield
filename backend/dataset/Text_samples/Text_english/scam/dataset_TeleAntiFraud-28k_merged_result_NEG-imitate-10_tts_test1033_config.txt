@@ -1,0 +1,15 @@
+Speaker1: Hello, are you Lee Huai?
+Speaker2: Yes, who are you?
+Speaker1: Hello, I am a customer manager at Commercial Bank, have you recently had any financial needs? We can provide low-interest loans here.
+Speaker2: "Loan, I don't need it now."
+Speaker1: Okay, feel free to contact me anytime if you need anything. By the way, have you received any notification about lost package delivery recently?
+Speaker2: Did you lose your package? No, what happened?
+Speaker1: That's right, we received a notification that one of your packages was lost during transportation. To compensate you, we can process a refund.
+Speaker2: Is it really? How do I handle a refund?
+Speaker1: It's simple, just click on the link we send you and fill out the relevant information to complete the refund.
+Speaker2: Okay, I'll take a look later.
+Speaker1: Okay, I'll send you the link later. By the way, if you're interested in our loan services, you can download our app, it's very convenient to use.
+Speaker2: Download the app? How do you download it?
+Speaker1: Just search '工商银行贷款' in the app store, download and register to apply.
+Speaker2: Okay, I'll give it a try. Thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Have a nice day.

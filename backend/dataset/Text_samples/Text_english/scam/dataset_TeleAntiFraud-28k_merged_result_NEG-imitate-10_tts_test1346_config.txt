@@ -1,0 +1,10 @@
+Speaker1: Hello, you, I am the customer manager of Ningbo Bank, Zhang Huai.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we recently launched a fixed deposit product with an annual interest rate of 2.8%, which is higher than most products on the market.
+Speaker2: Hmm, is that so? It sounds good.
+Speaker1: Yes, there's also a limited-time discount. If you sign up now, you'll also get an extra insurance policy for free.
+Speaker2: Is it really? How do you handle it?
+Speaker1: You can click on the link I sent you to directly process it online, very convenient.
+Speaker2: Okay, I'll take a look.
+Speaker1: Additionally, if you have any questions, feel free to contact me anytime, my phone number is 13800138000.
+Speaker2: Thank you, I will consider it.

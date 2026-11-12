@@ -1,0 +1,10 @@
+Speaker1: Hey, did you arrive?
+Speaker2: Hey, I just arrived, where are you?
+Speaker1: Have you seen the big screen at the subway station exit?
+Speaker2: I see you, you walk to the right, I wait for you here.
+Speaker1: Okay, I'll go over there right away.
+Speaker2: Hurry up, I'm waiting for you here.
+Speaker1: I see you, there are so many people here.
+Speaker2: Yes, there are a lot of people today, be careful.
+Speaker1: Have you arrived at the restaurant you reserved?
+Speaker2: Wait a minute, I'm calling to ask. Come over first, I'm waiting for you here.

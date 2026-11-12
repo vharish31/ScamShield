@@ -1,0 +1,13 @@
+Speaker1: Hello, this is some bank's customer service, recently there has been some unusual activity in your account with us, we need to verify your information.
+Speaker2: Hello, do you have any questions?
+Speaker1: That's it, we found out someone is trying to log into your account, for your account safety, you need to cooperate with us to complete identity verification.
+Speaker2: What do I need to do?
+Speaker1: Please provide your ID number and bank card number, we need to verify this information.
+Speaker2: Okay, my ID number is... my bank card number is...
+Speaker1: Thank you for your cooperation. We also need you to provide a verification code. The verification code has already been sent to your phone, please check it.
+Speaker2: Okay, I received it. The verification code is...
+Speaker1: Thank you, we have confirmed your identity. To ensure the safety of your account, we recommend installing our latest security protection app.
+Speaker2: Okay, how do I install it?
+Speaker1: You can click this link to download our app, the link is... After installation, you can better protect your account.
+Speaker2: Okay, I'll download it right away. Thank you for reminding me.
+Speaker1: You're welcome, feel free to contact us anytime if you have any questions, wish you a happy life, goodbye.

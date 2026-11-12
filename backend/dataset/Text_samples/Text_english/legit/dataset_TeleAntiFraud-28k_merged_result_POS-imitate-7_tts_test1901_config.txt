@@ -1,0 +1,12 @@
+Speaker1: Hello, this is a fast food restaurant. What can I help you with?
+Speaker2: Hello, I want to reserve a seat, around six thirty in the evening.
+Speaker1: Okay, what is the number of seats you reserved?
+Speaker2: We are about five people.
+Speaker1: Okay, five seats have been reserved for you. Do you have any special requirements, such as by the window or a quiet corner?
+Speaker2: If possible, I hope to sit by the window.
+Speaker1: Okay, I've noted down the location by the window. Do you have any special dietary requirements that you need to inform us about in advance?
+Speaker2: One friend doesn't eat spicy, the others have no special requirements.
+Speaker1: Understood, we will pay special attention. Can you provide your name and contact information so we can confirm the reservation?
+Speaker2: My name is Zhang Ming, phone number is 1345678900.
+Speaker1: Okay, Mr. Zhang Ming, we have recorded your reservation information. At six and a half, five people, window seats, we will take care of your friend who doesn't like spicy food. See you then!
+Speaker2: Okay, thank you, see you later!

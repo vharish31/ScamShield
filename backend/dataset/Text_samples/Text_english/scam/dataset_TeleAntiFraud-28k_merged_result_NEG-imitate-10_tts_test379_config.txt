@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative from Speedy Finance, your loan application on our platform has been preliminarily approved.
+Speaker2: Oh, really? That's great, I really need some cash flow lately.
+Speaker1: Yes, but in order to ensure that the loan can be smoothly issued, we need you to pay a processing fee first.
+Speaker2: How much do you need to pay in handling fees?
+Speaker1: The service fee is 0.5% of the total loan amount, which can ensure that your loan application will not be rejected.
+Speaker2: How do I pay? Can I transfer money to the bank?
+Speaker1: To make it convenient and quick, we suggest you pay through our special link, so you can update your application status in real-time.
+Speaker2: Okay, how do I get this link?
+Speaker1: You can click on the link in the text message I send you and follow the instructions.
+Speaker2: Okay, I'll take a look. Thank you for your help.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Best wishes for your loan!

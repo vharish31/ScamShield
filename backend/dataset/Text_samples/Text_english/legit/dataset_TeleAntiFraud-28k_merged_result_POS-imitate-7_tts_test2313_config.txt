@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Zhang, I want to consult your bike shop
+Speaker2: Hello, I am the customer service at the store. What can I help you with?
+Speaker1: I plan to buy a bicycle, I saw your store's reviews online are good, I want to know more details
+Speaker2: Of course, we have various models of bicycles here. What type are you mainly considering?
+Speaker1: I mainly use it for daily commuting, occasionally go on weekends for leisure, and want a high-value, low-price car.
+Speaker2: I understand, we have a bike that's suitable for both city commuting and leisurely travel, with stable performance and an affordable price.
+Speaker1: How much does this self-bike cost?
+Speaker2: This bicycle costs 1500 yuan, our store is currently running a promotion, and buying it will also receive a small gift
+Speaker1: Does this price include all fees?
+Speaker2: Yes, this price includes all the fees for the bicycle, you don't need to pay any extra fees. If you're interested, you can come to the store anytime to try it out.
+Speaker1: Okay, I'll go take a look this weekend. Thank you for your recommendation!
+Speaker2: No problem, I'm looking forward to your arrival. If you have any other questions, feel free to contact me anytime. Have a great weekend!

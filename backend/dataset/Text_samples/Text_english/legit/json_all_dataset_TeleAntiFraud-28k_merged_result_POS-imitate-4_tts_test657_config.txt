@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I just arrived at your store door.
+Speaker2: You arrived. I take a look. Hmm, I see it. You walk forward a little. Stop at the door.
+Speaker1: Okay, I see you.
+Speaker2: Hey, stop here, I'm coming over to open the door for you.
+Speaker1: Okay, thank you.
+Speaker2: No problem, you arrived just in time, we have a promotion activity today.
+Speaker1: Are you? I just want to see your new products.
+Speaker2: Okay, let's go, I'll introduce you to a few.
+Speaker1: How much does this style cost?
+Speaker2: This product originally costs 500 yuan, but there's a discount today, only 400 yuan.

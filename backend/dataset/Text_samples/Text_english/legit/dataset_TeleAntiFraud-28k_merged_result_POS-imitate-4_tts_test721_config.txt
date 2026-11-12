@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I'm little king, want to consult with you about your store's birthday cake, plan to give my friend a birthday celebration.
+Speaker2: Hello, little Wang, we have a lot of cake flavors here, including fruit cake, chocolate cake, and milk cake, which one does your friend like?
+Speaker1: He should like fruit cake. How much does your fruit cake cost one?
+Speaker2: Our family's watermelon cake, eight inches in size, is sold for 268 yuan, while the ten-inch size is sold for 332 yuan.
+Speaker1: Can you give me a discount? After all, I am one of your regular customers.
+Speaker2: Mr. Xiao Wang, considering you as a long-time customer, the eight-inch can be discounted to 250 yuan, the ten-inch can be discounted to 295 yuan, it cannot be further reduced.
+Speaker1: Can I have an eight-inch one? Can you deliver it to my door?
+Speaker2: Is it okay? What time do you need to send it by?
+Speaker1: Tomorrow at 5 pm, deliver to the Blue Lake villa.
+Speaker2: Okay, noted. Deliver to Blue Lake Villa at 5 pm in the afternoon. Do you have anything else to add?
+Speaker1: No longer available, thank you.
+Speaker2: You're welcome, please feel free to contact us if you have any questions. Happy birthday to your friend! Goodbye.

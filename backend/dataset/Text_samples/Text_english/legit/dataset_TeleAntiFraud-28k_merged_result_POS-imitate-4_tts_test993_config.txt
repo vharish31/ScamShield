@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the Happy Restaurant. You have a reservation for tonight at 6:30. Can you confirm?
+Speaker2: Hello, yes, I am reserved.
+Speaker1: Okay, how many of you are there?
+Speaker2: We are four.
+Speaker1: Understood, for the four of you, we will prepare a window seat for you, so you can see the beautiful night view.
+Speaker2: Can we inform you in advance if we have special dietary requirements?
+Speaker1: Of course, you have any specific requirements, such as vegetarian, taboo foods or allergens, you can inform me in advance.
+Speaker2: My friend is allergic to seafood, and there's also a vegetarian.
+Speaker1: Okay, I will mark special notes in the comments to ensure that there are no seafood, and I will prepare appropriate dishes for your vegetarian friend.
+Speaker2: Great, we'll be on time.
+Speaker1: Okay, we're waiting for your arrival. If there are any changes, please contact us anytime.

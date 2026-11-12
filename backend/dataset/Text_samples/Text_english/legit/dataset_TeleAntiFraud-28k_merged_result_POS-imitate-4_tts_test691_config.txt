@@ -1,0 +1,10 @@
+Speaker1: Hey, what's the name of the menu at your store?
+Speaker2: Hello, our store's signboard menu has spicy Sichuan hotpot and steamed sea bass, both are very popular.
+Speaker1: What are your business hours from what time to what time?
+Speaker2: We are open from 11 am to 10 pm during weekdays and extend to 11 pm on weekends.
+Speaker1: Okay, do I need to make a reservation in advance for dinner at seven o'clock tomorrow night?
+Speaker2: It's recommended to book in advance, especially on weekends and holidays, as there will be more guests.
+Speaker1: Can I reserve a four-person table?
+Speaker2: Of course, I will reserve a four-person table for you. Remember to bring your reservation information.
+Speaker1: Okay, thank you for your help, see you tomorrow.
+Speaker2: No problem, see you tomorrow, looking forward to your visit.

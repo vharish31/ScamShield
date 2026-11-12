@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I just ordered takeout, but it hasn't arrived yet, can you help me check?
+Speaker2: Hello, I am customer service Li from the delivery platform. Can you tell me your order number, please?
+Speaker1: Could you please check my order number 1234567?
+Speaker2: Okay, just a moment, I'll check on my end. Uh, your order is currently being delivered, and we estimate it will take about ten minutes to arrive.
+Speaker1: Can you please deliver the package directly to my doorstep? I'm waiting at the door for 10 minutes.
+Speaker2: Okay, I will note down your requirements and have the delivery guy drop it off right at your doorstep.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome. If you have any other questions, feel free to contact us anytime. Enjoy your meal!
+Speaker1: Okay, thank you, bye.
+Speaker2: Goodbye.

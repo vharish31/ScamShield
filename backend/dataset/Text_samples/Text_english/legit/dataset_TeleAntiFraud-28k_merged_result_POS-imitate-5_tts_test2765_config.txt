@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? Where are you?
+Speaker2: Hello, I just arrived at the mall, where are you at the exit?
+Speaker1: Have you seen the parking lot sign at the fourth exit?
+Speaker2: Can you see if the parking lot is on the ground floor?
+Speaker1: Okay, just go straight down to the first floor after you come out. When you see the basketball court, find me.
+Speaker2: Okay, I'll be there in about five minutes.
+Speaker1: No problem, I'm here waiting for you, be careful on the road.
+Speaker2: Thank you, wait a moment, I see you.
+Speaker1: Okay, okay, come quickly, I'll hold a spot for you here.
+Speaker2: See you later.
+Speaker1: Bye.

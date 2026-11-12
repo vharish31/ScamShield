@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Zong?
+Speaker2: Hey, who are you?
+Speaker1: Hi, I'm Zhang, the customer manager at Huaxing Bank. We have a very attractive loan project recently. Would you like to know if you have any need for cash flow?
+Speaker2: Hmm, I'm not familiar with this, can you give me more details?
+Speaker1: That's right, our bank has introduced a no collateral, low interest rate loan service for small and medium-sized enterprise owners, with quick approval and high credit limits, which is very suitable for solving temporary cash flow problems.
+Speaker2: How do I apply? It sounds good.
+Speaker1: You can first download our bank's official app, which has detailed application procedures, or you can directly click on the link I sent you for a more convenient and quicker process.
+Speaker2: Can you send a link? How do you send it? I don't have a computer right now.
+Speaker1: You can use your phone, I'll send you a text message with a link, just click it to enter the application page directly.
+Speaker2: Okay, let me try.

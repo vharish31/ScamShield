@@ -1,0 +1,12 @@
+Speaker1: Hello, you are welcome to the South Jin Bank Customer Service Center. I am Lee Manager.
+Speaker2: Hello, Li Manager.
+Speaker1: We noticed that you recently applied for a small loan on our platform, but the review seems to have encountered some issues.
+Speaker2: Oh, really? What problem did you encounter?
+Speaker1: That's it. The system shows your credit score is low. To improve your loan success rate, we need you to complete a small task first.
+Speaker2: What task?
+Speaker1: You need to download our official app first, then complete a small fee task inside the app, which will help boost your credit score.
+Speaker2: Do you want to download the app? Is it safe?
+Speaker1: Of course, our app is officially certified and very safe. You can download it directly through this link:
+Speaker2: Okay, let me try.
+Speaker1: Great, download and register immediately after, I'll wait for your good news here.
+Speaker2: Thank you, Li Jingli, I will complete it quickly.

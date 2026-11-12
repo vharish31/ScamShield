@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the Yánggōng chǎnxiàn, do you want to reserve a seat?
+Speaker2: Sure, I'd like to reserve a window seat for two people tomorrow evening at 6:30.
+Speaker1: Okay, tomorrow at 6:30 p.m., by the window, two people. What's your name and contact info?
+Speaker2: My name is Li Ming, phone number is 13800000000.
+Speaker1: Okay, Mr. Li, I have already booked for you. Do you have any special dietary requirements?
+Speaker2: Can you arrange non-spicy food for my friend who doesn't like spicy food?
+Speaker1: Of course, we will prepare non-spicy dishes for you. Moreover, we also have some special dishes, do you want to try any of them?
+Speaker2: Can I try a bite of your steamed fish? My friend said it's very good.
+Speaker1: Of course, steamed fish is one of our signature dishes, you will definitely enjoy it.
+Speaker2: Okay, thank you. See you tomorrow.
+Speaker1: No problem, see you tomorrow. Wish you a happy day.

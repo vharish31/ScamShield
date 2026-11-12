@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, recently renovated, want to consult your wallpaper service.
+Speaker2: Hello, Xiao Ming, I am customer service representative Zhang, how can I assist you with wallpaper service?
+Speaker1: Hey, can you tell me about the types and prices of wallpaper in your family, as well as the installation service?
+Speaker2: We have various wallpaper styles here, from simple modern to ancient luxury, priced from 50 yuan per square meter to 150 yuan not equal. The installation service is extra charged, 20 yuan per square meter.
+Speaker1: If I buy wallpaper, can you guys come in and measure the size?
+Speaker2: Of course, we provide free on-site measurement services. You just need to schedule a time, and we will dispatch a professional measurement master.
+Speaker1: How do I make a reservation?
+Speaker2: You can book through our official website or WeChat public account, or directly call our customer service hotline. Our hotline is 4008888888.
+Speaker1: Okay, can I schedule a reservation for this Saturday morning at 9am?
+Speaker2: Okay, there are no issues on Saturday morning. I will arrange for you. Are there any other things you need to consult?

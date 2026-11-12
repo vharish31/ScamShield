@@ -1,0 +1,11 @@
+Speaker2: Hey, are you there? Did my package arrive?
+Speaker1: Which courier company?
+Speaker2: Round through, single number is one two three four five six seven eight nine
+Speaker1: Okay, I'll check and wait for a moment.
+Speaker2: Okay, thank you.
+Speaker1: Did you get your package? Your package was delivered to the community mailbox last night. Have you picked up the retrieval code?
+Speaker2: No, I didn't see the message either.
+Speaker1: It's possible that your phone has text message interception set, you can go to the delivery counter and input your phone number to retrieve your package.
+Speaker2: Okay, I'll go take a look, thank you.
+Speaker1: No problem, please contact me if you have any questions. Goodbye.
+Speaker2: Goodbye.

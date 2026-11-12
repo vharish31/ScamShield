@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from China Construction Bank. We have a special promotion for a loan project recently. Would you like to know more about it?
+Speaker2: Hey, how are you? Loan? I don't need it now.
+Speaker1: Hmm, that's right. But our loan interest rate is very low, and the approval is fast, no collateral required. Would you consider it?
+Speaker2: I'm not really interested.
+Speaker1: That's really too bad. But if you have any financial needs in the future, you can contact me anytime, my WeChat is zhongxin1234, you can add me as a friend, and you can directly consult me about any questions.
+Speaker2: WeChat is fine, thank you.
+Speaker1: Okay, but I still want to keep a contact method, in case you need help in the future. This is my phone number, 13800138000, you can contact me anytime.
+Speaker2: Okay, thank you, I will consider it.
+Speaker1: Thank you so much, I hope we have the chance to work together in the future. Goodbye.
+Speaker2: Goodbye.

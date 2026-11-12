@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Li, recently I want to buy a new phone, I saw your website has a phone, want to consult.
+Speaker2: Hello, little Li, I am customer service Zhang, what phone do you want to know about?
+Speaker1: I want to know the pixel of the camera of the recently popular interstellar explorer five, and also the battery capacity.
+Speaker2: The camera of the spaceship five is 48 million pixels, the battery capacity is 4000 milliampere-hours, very suitable for daily use and photography.
+Speaker1: Hey, is this phone in stock?
+Speaker2: The current stock of this phone is sufficient, you can directly place an order to purchase.
+Speaker1: Okay, if I buy it, how long will it take to deliver?
+Speaker2: In general, we will ship within 24 hours after your order, and it takes about 2-3 days to deliver in the Jiangsu, Zhejiang, and Shanghai areas.
+Speaker1: If I receive my phone with issues, can I return or exchange it?
+Speaker2: Of course, we provide a seven-day no-reason return service, and if there are any issues, you can contact our customer service to handle them.

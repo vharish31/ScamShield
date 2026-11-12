@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm your friend, the one we ate dinner with last time.
+Speaker2: Hey, who are you again? How have you been lately?
+Speaker1: Hello, just busy with work lately. How about you?
+Speaker2: Yeah, but life still needs to continue, right?
+Speaker1: Hey, do you have time this weekend? Let's go hiking together.
+Speaker2: Great, it's been a long time since we went out for activities, where is the location?
+Speaker1: Let's go to the forest park near our company. The environment is good and it's close.
+Speaker2: Okay, when do we leave?
+Speaker1: Eight o'clock or so, have breakfast and then leave.
+Speaker2: Okay, no problem, see you later.

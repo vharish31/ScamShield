@@ -1,0 +1,12 @@
+Speaker1: Hello, can you find me a customer service representative?
+Speaker2: Hello, I am a customer service representative. What can I help you with?
+Speaker1: I recently bought a shirt here, but the size isn't right, I want to exchange it for a bigger one.
+Speaker2: Okay, can you tell me the order number and specific size requirements?
+Speaker1: Order number is 2345, I want to change to 1001.
+Speaker2: Okay, I'll check your order. Just a moment.
+Speaker1: Okay, you can come slowly.
+Speaker2: Found it, your order meets the exchange conditions. We can give you a larger number here, when would you like to pick it up?
+Speaker1: Can I come over on Saturday afternoon this weekend?
+Speaker2: Sure, you can come to my place on Saturday afternoon. The address is the third floor of the shopping center in the city center. We'll be ready for you.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, if you have any other questions, please contact us anytime. Have a great weekend!

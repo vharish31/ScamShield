@@ -1,0 +1,8 @@
+Speaker1: Hello, this is Shenzhen Bank's customer service. The loan amount you applied for on our platform has been approved. We can provide you with a credit loan of 50,000 yuan.
+Speaker2: Really or not? How come I don't know?
+Speaker1: Yes, we recently introduced a new customer discount policy. You can enjoy a lower rate. To confirm your information, please provide the last four digits of your ID number. We need to verify it.
+Speaker2: Okay, my ID number ends in 1234.
+Speaker1: Thank you for your cooperation, the information is accurate. To facilitate your quick processing of the loan procedures, you can click on the link I sent you, download our official app, and then follow the instructions to proceed.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Okay, download it and feel free to contact our customer service if you have any questions. Have a nice day!
+Speaker2: Thank you, goodbye.

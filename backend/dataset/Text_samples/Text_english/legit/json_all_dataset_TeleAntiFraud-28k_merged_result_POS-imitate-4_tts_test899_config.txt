@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the delivery platform. Your order is ready. Is it convenient for you to pick it up?
+Speaker2: Hello, can you drop me off at the company entrance?
+Speaker1: Okay, please give me the specific address, I will inform the rider to deliver it to you.
+Speaker2: Okay, the address is New Century Building, the front desk will help me check in.
+Speaker1: Got it, New Century Building, I will have the courier deliver to the front desk. It will take about twenty minutes, please pay attention.
+Speaker2: Okay, thank you. And can you confirm if there's anything missing in the order?
+Speaker1: Okay, I'll check for you. Your order has two portions of beef and broccoli, one portion of sweet and sour pork, and one portion of spicy and sour soup, right?
+Speaker2: Yes, that's it.
+Speaker1: Okay, I confirm that your order is complete, the courier will deliver it to you quickly.
+Speaker2: Okay, thank you for your help.

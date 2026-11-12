@@ -1,0 +1,10 @@
+Speaker2: Hey, how are you?
+Speaker1: Is your hair salon still open?
+Speaker2: Are you still open, what time is convenient for you to come over?
+Speaker1: I should be able to arrive around three in the afternoon.
+Speaker2: Okay, 3 o'clock is fine, you can come a little earlier, around 10 minutes.
+Speaker1: Okay, do I need to make a reservation?
+Speaker2: It's better to make a reservation, so you can be sure of a place.
+Speaker1: Okay, I'll make a reservation.
+Speaker2: Okay, the appointment was successful. See you then.
+Speaker1: Thank you, see you later.

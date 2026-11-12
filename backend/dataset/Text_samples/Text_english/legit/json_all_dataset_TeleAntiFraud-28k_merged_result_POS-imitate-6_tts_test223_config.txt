@@ -1,0 +1,10 @@
+Speaker1: Hello
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: What massage services do you provide here?
+Speaker2: We offer various massage services here, including full-body relaxation massage, deep tissue massage, and essential oil massage, all of which can help you relieve fatigue and relax your mind and body.
+Speaker1: What is the price of these services?
+Speaker2: A full-body relaxation massage is 268 yuan per session, a deep-tissue massage is 300 yuan, and an oil massage is 350 yuan because the oil used is expensive, so it's 350 yuan.
+Speaker1: Sounds good, let's book a full body relaxation massage for tomorrow afternoon at 3 PM, okay?
+Speaker2: Okay, tomorrow at 3 pm, I will reserve a spot for you. Do you need to leave contact information?
+Speaker1: Please, my phone number is 1354123456
+Speaker2: Okay, I've recorded it down. See you tomorrow!

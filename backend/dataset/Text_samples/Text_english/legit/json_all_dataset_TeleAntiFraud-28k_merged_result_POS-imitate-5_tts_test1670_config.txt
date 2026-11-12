@@ -1,0 +1,10 @@
+Speaker1: Hey, did you arrive?
+Speaker2: I'm still on the road, there's a bit of congestion up ahead, don't worry, I'm almost there.
+Speaker1: Okay, just be careful, let me know when you arrive.
+Speaker2: Okay, I know, I'll call you soon.
+Speaker1: Be careful on the road.
+Speaker2: Don't worry, just find a place and wait for me, we'll meet soon.
+Speaker1: Okay, I'm waiting for you at the old place.
+Speaker2: Okay, see you later.
+Speaker1: Be careful on the road.
+Speaker2: Okay, see you later.

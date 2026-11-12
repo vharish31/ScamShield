@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I saw a computer on your website that I'm interested in, can I ask you a few questions about it?
+Speaker2: Okay, which computer are you referring to?
+Speaker1: That's the notebook, model is Xiaoyue San Zero Baozi.
+Speaker2: This computer has an eighth generation Intel Core processor, NVIDIA GeForce RTX 360 graphics card, 16GB of memory, and a 512GB solid-state drive.
+Speaker1: How much does it cost to sound good?
+Speaker2: The price of this computer is 8300 yuan.
+Speaker1: Are there any promotional activities?
+Speaker2: We currently have a promotion activity. When you buy this computer, you will get a mouse and a computer bag for free, and your three-month warranty will be extended.
+Speaker1: When can I receive the goods?
+Speaker2: If you place an order now, we will ship it within one workday, and depending on your location, it usually takes 3 to 5 workdays to receive it.
+Speaker1: Okay, now I'll place an order.
+Speaker2: Okay, I'll handle it now. You'll receive a confirmation after placing the order. Thank you for your support!

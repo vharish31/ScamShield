@@ -1,0 +1,10 @@
+Speaker1: Hello, nice to meet you, I am a customer manager of some bank, Li Ming.
+Speaker2: Hello, do you have anything?
+Speaker1: That's right, we noticed your credit situation is very good, and we want to provide you with a no-collateral loan.
+Speaker2: Really? That's good.
+Speaker1: Yes, we have a new product with a very favorable interest rate. All you need to do is download our app and fill out some basic information to quickly get approved.
+Speaker2: Download the app? How do you download it?
+Speaker1: It's very simple. You can download it through this link, or scan my QR code.
+Speaker2: Okay, let me try.
+Speaker1: Great, if you have any issues after downloading, feel free to contact me anytime.
+Speaker2: Thank you, I'll download it right away.

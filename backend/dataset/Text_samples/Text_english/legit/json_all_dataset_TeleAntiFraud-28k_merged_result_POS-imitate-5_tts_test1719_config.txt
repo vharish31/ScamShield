@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you? I'm little king, I recently want to buy an electric car, want to know your side situation.
+Speaker2: Hello, little king, I am customer service little Li, what can I help you with?
+Speaker1: Hey, do you have a Yatou electric car for rent on your website for 249 yuan a month?
+Speaker2: Yes, the Yajiudi is a simple electric car model.
+Speaker1: How far can this electric car run? Is it easy to charge?
+Speaker2: This electric car has a range of approximately 50 kilometers, charging is very convenient, and it usually takes six to eight hours to fully charge.
+Speaker1: If the phone runs out of power on the road, do I have to push it back myself?
+Speaker2: If you run out of power on the road, you can choose the charging service, we have a special charging station, charging only sixteen yuan.
+Speaker1: Do you need money to change the electricity?
+Speaker2: Yes, changing the electricity service requires payment, but it's very convenient, just a few minutes to complete.
+Speaker1: Okay, if I decide to rent this car, how do I place an order?
+Speaker2: You can select the corresponding package on our website, fill in the relevant information, submit the order, and we will arrange for delivery as soon as possible.
+Speaker1: Okay, thank you for your detailed introduction. I will consider it.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Have a happy life!

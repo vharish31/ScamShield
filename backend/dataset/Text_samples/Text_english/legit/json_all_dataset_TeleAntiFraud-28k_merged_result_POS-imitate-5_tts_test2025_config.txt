@@ -1,0 +1,10 @@
+Speaker1: Hey, are you little Zhang?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm Li Xiao, do you want to study together at the library today?
+Speaker2: Hey hey, I just got off the subway station, where are you?
+Speaker1: Did you see the big glass doors when I just arrived at the library entrance?
+Speaker2: Can you see which direction I am walking?
+Speaker1: Walking along the right side of the road, you will see the library entrance when you reach the end.
+Speaker2: Okay, I'll go over there now, you can take a seat first.
+Speaker1: No problem, come quickly, I have already put the backpack on the table.
+Speaker2: Thank you, see you later!

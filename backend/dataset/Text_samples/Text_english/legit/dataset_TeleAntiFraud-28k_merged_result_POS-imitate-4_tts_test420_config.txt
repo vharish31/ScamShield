@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to consult your delivery service.
+Speaker2: Hello, I am the delivery assistant here. What can I help you with?
+Speaker1: What's the latest time you can deliver food?
+Speaker2: We will provide our service until 10 pm tonight, but there may be some differences in different regions. You can tell me your address, and I will confirm it.
+Speaker1: Okay, I live in the city garden villas.
+Speaker2: The city garden community's delivery, we can send the latest until 9:30 pm.
+Speaker1: That's great, I'll place an order around 9:15 PM.
+Speaker2: No problem, you can place your order in advance, we will prepare your food on time.
+Speaker1: Can you introduce the member activities that I recently saw you guys have?
+Speaker2: Of course, our members can enjoy a free weekly delivery and a monthly member discount, you can follow our app for more details.

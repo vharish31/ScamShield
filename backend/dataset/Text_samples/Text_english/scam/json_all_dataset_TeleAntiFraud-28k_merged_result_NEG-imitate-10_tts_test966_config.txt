@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Hi, I'm Lee Xiaoxiao, the customer service representative from Speed Selling. We noticed an issue with your order, and we need your cooperation to handle it.
+Speaker2: Hey, what's up with my order?
+Speaker1: Your order was lost during delivery, and we can now provide you with a full refund. However, you need to click on the link and fill out the relevant information.
+Speaker2: How can I confirm if it's true or not?
+Speaker1: You can contact us through the customer service phone in the link, we are the official customer service of speed selling, you can rest assured.
+Speaker2: Okay, let me try.
+Speaker1: Thank you very much for your cooperation. Please click on the link and follow the instructions. We will process it quickly.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you have any questions, please contact us anytime. Wish you happy life, bye.

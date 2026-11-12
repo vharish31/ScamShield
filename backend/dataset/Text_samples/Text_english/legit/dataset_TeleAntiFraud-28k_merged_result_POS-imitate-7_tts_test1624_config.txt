@@ -1,0 +1,12 @@
+Speaker1: Hey, hi, I'm the customer service monkey of the point store, we see that you haven't used your member points in your account before.
+Speaker2: Oh, really? I haven't paid attention to it.
+Speaker1: Yes, all points can be directly deducted for cash. Did you see the reminder SMS we sent you?
+Speaker2: Text message? I seem to have missed it, can you send another one to me?
+Speaker1: Okay, I'll resend it now. You currently have over 26,000 member points in your account, which can be exchanged for many products.
+Speaker2: So many? Then I'll take a closer look. Do you have any recommended products?
+Speaker1: Yes, items such as white wine gift boxes, famous brand four-piece sets, high-definition televisions, and smartwatches are all products that can be exchanged for points.
+Speaker2: Listen good, then how exchange?
+Speaker1: You can log in to our point store, select your favorite products, and pay with points. If you need help, I can guide you online.
+Speaker2: Okay, I'll try. But can I exchange it before midnight tonight?
+Speaker1: There's still enough time, but to ensure a smooth exchange, it's recommended to act quickly.
+Speaker2: Okay, thank you for your reminder. I will handle it quickly.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer service representative for Xiǎo Dù wǎimǎi. Your food should arrive in about twenty minutes.
+Speaker2: Okay, how's it going? The weather has been bad lately, be careful on the road.
+Speaker1: Thank you for your understanding and support. We will pay attention to safety.
+Speaker2: Excuse me, the drink I ordered before was a bit cold. Could you please change it to a hot one this time?
+Speaker1: Okay, I will make a clear note, so the merchant can prepare hot drinks for you.
+Speaker2: No problem, can you help me?
+Speaker1: No problem, this is what we should do. If you have any other needs, feel free to let me know anytime.
+Speaker2: No more, just these, thank you.
+Speaker1: Okay, your meal is ready. We will deliver it quickly. Enjoy your meal.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

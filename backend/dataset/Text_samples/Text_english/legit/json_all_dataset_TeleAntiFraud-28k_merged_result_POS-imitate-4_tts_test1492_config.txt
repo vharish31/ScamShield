@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Do you have any chef positions on this side?
+Speaker2: Hey, have you done stir-fry before?
+Speaker1: I did it at a small restaurant, making cold dishes.
+Speaker2: Sure, our requirement is a base salary of 4,500 yuan plus commission, with a four-day monthly rest.
+Speaker1: What's the location of your workplace?
+Speaker2: The work location is on a small alley near Tiankang Road, and the transportation is quite convenient.
+Speaker1: Do I need to schedule an interview in advance?
+Speaker2: You can directly come for the interview, bring your ID and health certificate with you.
+Speaker1: Okay, can I go over there in the afternoon tomorrow?
+Speaker2: Tomorrow from three to five in the afternoon is fine, remember to be on time.
+Speaker1: Thank you, I will arrive on time, goodbye.
+Speaker2: No problem, goodbye.

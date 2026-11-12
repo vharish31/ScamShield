@@ -1,0 +1,9 @@
+Speaker2: Hello!
+Speaker1: Where are you? Are you waiting for the bus at the station?
+Speaker2: I'm at the bus station, but the bus hasn't come yet, where are you?
+Speaker1: I'm at the subway station, about to go home, you worked early today, huh?
+Speaker2: Yeah, today I didn't have much work, so I finished early. How about you? How was your work today?
+Speaker1: Hello, just a little busy. So, where are you planning to go later?
+Speaker2: I want to go to the supermarket and buy some stuff, I'll prepare some delicious food for dinner tonight.
+Speaker1: Great idea, I also plan to buy some food, shall we go together?
+Speaker2: Okay, then you wait for me at the subway station, I'll call you as soon as I get on the bus.

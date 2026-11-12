@@ -1,0 +1,13 @@
+Speaker1: Are you a customer service representative from a household management company?
+Speaker2: Yes, I am a customer service representative. What can I help you with?
+Speaker1: Can you provide a house cleaning service at my home?
+Speaker2: Of course, we provide door-to-door cleaning service. Do you need to specify which day you want to book it?
+Speaker1: What are you doing on Friday afternoon next week?
+Speaker2: Is 2:00 PM on Friday next week okay for you?
+Speaker1: Can we meet around 3 o'clock?
+Speaker2: Sure, can I schedule a cleaning service for you next Friday at 3 PM? Do you need to provide your address and contact information?
+Speaker1: Okay, the address is Blue Sky Villa No. 3, Unit 2, Room 402, and the phone number is 13800000000.
+Speaker2: Okay, I have recorded it down. We will arrive on time at 3 pm on Friday next week. If there are any changes, we will contact you in advance.
+Speaker1: Okay, thank you.
+Speaker2: You're welcome, we're looking forward to serving you, goodbye.
+Speaker1: Goodbye.

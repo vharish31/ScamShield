@@ -1,0 +1,16 @@
+Speaker1: Hey, can you hear me talk?
+Speaker2: Can you hear me? Hello, do you have anything?
+Speaker1: Hi, I'm little Li, your friend Wang asked me to contact you and ask if you want to buy a new car recently?
+Speaker2: Yes, I plan to buy a new car. Do you have any recommendations here?
+Speaker1: What's your budget? Are you looking to buy a new car or a used one?
+Speaker2: I plan to buy a new car, my budget is approximately 20,000.
+Speaker1: You may consider this new family car, the configuration is good, and the price is also very high.
+Speaker2: How much is the registration fee and insurance for this car?
+Speaker1: The down payment is approximately 10,000, and the insurance cost varies depending on the type of risk you choose, and is approximately between 6,000 and 8,000.
+Speaker2: Okay, when do I have time to go take a look at the car?
+Speaker1: Can we meet at 3 PM tomorrow? I'll prepare the materials in advance.
+Speaker2: I can meet you tomorrow at three in the afternoon. Please send me the address.
+Speaker1: Okay, the address is Car City Three Building Exhibition Hall, I add you WeChat, send you detailed address and route.
+Speaker2: Okay, WeChat is 527998887.
+Speaker1: Okay, I'll add you now. See you tomorrow!
+Speaker2: See you tomorrow, thank you!

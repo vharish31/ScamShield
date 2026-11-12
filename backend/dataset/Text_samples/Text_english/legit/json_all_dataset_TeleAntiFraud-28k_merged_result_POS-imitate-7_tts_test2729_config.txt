@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to consult your household services.
+Speaker2: Hello, I'm very happy to serve you. What specific aspects of home service do you want to know about?
+Speaker1: Can you tell me about your cleaning service and how much it costs?
+Speaker2: Our cleaning services are divided into one-time cleaning and regular cleaning. The price of one-time cleaning is based on the size of the house and the level of cleaning, ranging from 100 to 300 yuan. If it's regular cleaning, we have monthly and quarterly packages, which are more affordable.
+Speaker1: How is the fee for regular cleaning charged?
+Speaker2: Regular cleaning is 304 yuan for four times a month, and each cleaning session takes about two to three hours, suitable for houses with an area of 50 square meters. Quarterly cleaning is 800 yuan for twelve times, and the cleaning time will be adjusted according to your needs.
+Speaker1: Is it possible to adjust the number of cleaning times or time during the process if I want to?
+Speaker2: Of course, our service is very flexible, you can contact us anytime to adjust the frequency and time of cleaning, we will do our best to meet your needs.
+Speaker1: Okay, if I make a reservation now, when can I start the service?
+Speaker2: If you make an appointment now, we can start serving you tomorrow morning, is this time convenient for you?

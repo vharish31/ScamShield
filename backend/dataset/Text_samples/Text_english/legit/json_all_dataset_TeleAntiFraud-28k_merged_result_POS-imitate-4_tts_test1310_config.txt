@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I see your restaurant has a unique menu system, I want to know more about it
+Speaker2: Alright, our restaurant's specialty cuisine is mainly Sichuan cuisine, with a strong emphasis on spicy and numbing flavors, including Sichuan-style hot pot and boiled meat slices.
+Speaker1: What are your business hours like?
+Speaker2: Our restaurant business hours are from 10 am to 10 pm, no holidays.
+Speaker1: Okay, I plan to come at 7 pm on Saturday night. Do I need to make a reservation in advance?
+Speaker2: I suggest you book in advance, especially on weekends, when there are many customers, booking can ensure you have a seat.
+Speaker1: Can I reserve a four-person seat?
+Speaker2: Of course, do you need to leave contact information so we can confirm the reservation?
+Speaker1: Okay, my phone number is 13813801380.
+Speaker2: Okay, your reservation has been successful. Saturday at 7pm, for four people. See you then!
+Speaker1: Thank you, see you later!

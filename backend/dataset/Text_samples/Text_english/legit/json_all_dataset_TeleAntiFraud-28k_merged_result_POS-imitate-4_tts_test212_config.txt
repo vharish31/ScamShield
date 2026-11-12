@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? I am the customer service of Meishikitianri. I see that you have made a dinner reservation with us before. Do you have any feedback on our service and dishes?
+Speaker2: Hmm, not bad, just a bit slow coming out.
+Speaker1: Thank you very much for your feedback. We will pass your opinions to the relevant department, hoping to improve. Moreover, which of our dishes do you remember most deeply?
+Speaker2: That Sichuan flower is really delicious, I want to try it again next time.
+Speaker1: Great, Sichuan flower is one of our signature dishes. Next time you come, we can also provide you with some special discounts, like free dessert or drink, we hope you can come back to experience it.
+Speaker2: That's great, I'll consider it for the next gathering.
+Speaker1: I'm looking forward to your return very much. If you have any other needs or suggestions, please feel free to contact us anytime. Have a nice day!
+Speaker2: Okay, thank you, bye.

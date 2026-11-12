@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you there?
+Speaker1: Come out for a minute, I'm waiting for a taxi at the red light, walking in the direction of the red light.
+Speaker2: Okay, I'm on the green tea side.
+Speaker1: Okay, I see you, you walk towards the red green light, I can't stop my car here.
+Speaker2: Okay, I see you, white car, right?
+Speaker1: Okay, white car, I'm waiting for you on the roadside.
+Speaker2: Okay, I'll be there soon.
+Speaker1: You arrived, tell me one sound, I'm waiting for you here.
+Speaker2: Okay, I arrived to call you.

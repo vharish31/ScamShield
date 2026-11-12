@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the customer service of Meishikitianzhi, did you know if you are satisfied with our service for the lunch you ordered before?
+Speaker2: That's great, I'm very satisfied.
+Speaker1: Great, we always strive to provide the best service. Yes, do you know about our recent lunch special promotion?
+Speaker2: Is there any good recommendation?
+Speaker1: We have launched several lunch sets, including seafood fried rice, beef noodle soup and vegetable fried rice, each set comes with a free soup and dessert, and the prices are very reasonable.
+Speaker2: How much does it cost to sound good?
+Speaker1: Each suit is priced at 30 yuan, and if you're a member, you can enjoy a 90% discount.
+Speaker2: Can I reserve a beef noodle soup set for tomorrow?
+Speaker1: Of course, can you come at 7 o'clock? Our lunch time is from 11 to 2.
+Speaker2: I arrived around twelve.
+Speaker1: Okay, I will reserve a beef noodle soup for you. Looking forward to your arrival, wish you a happy day!
+Speaker2: Thank you, goodbye.

@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear my voice clearly on this side?
+Speaker1: Very clear, I am the customer service of the food square, want to know what feedback you have on the dining experience of the last time?
+Speaker2: "Hmm, the dining experience last time was okay, just a bit slow with the food."
+Speaker1: Thank you very much for your feedback. We will report this situation to the relevant department. By the way, we recently introduced several new dishes. Are you interested in trying them?
+Speaker2: Do you have any new dishes? They sound good, what do you recommend?
+Speaker1: Our newly launched signboard menu features spicy crab with chili and sour fish, both made with premium ingredients, and many customers have given high praise.
+Speaker2: That sounds really good, I have some free time this weekend, can I give it a try?
+Speaker1: That's great, you can come directly over the weekend. If you need to reserve a spot, please let me know in advance, I'll reserve it for you.
+Speaker2: Okay, I'll contact you in advance. Thank you for your recommendation.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you want to consult us about the new house information here?
+Speaker2: Yes, I want to know more about your 60,000-plus house here, can you make it cheaper?
+Speaker1: Hmm, the market has been a bit volatile lately. Can we lower the price a bit, say to fifty-eight thousand?
+Speaker2: Can you lower the price by a little bit? It's still a bit over my budget at 58,000.
+Speaker1: Alright, considering your sincere purchase, we can discuss a minimum of 56,800 yuan, which cannot be lower.
+Speaker2: I can consider the 56,800 yuan offer, but I need to check the room type and location first, can I go see the house today?
+Speaker1: Is it okay? Do you have time at three in the afternoon? I'll arrange a specialist to take you to see the houses.
+Speaker2: Three o'clock is fine, then I'll come directly at that time.

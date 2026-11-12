@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the customer service representative of the Commercial Bank, Li Manager.
+Speaker2: Hello, what do you have?
+Speaker1: That's right, we noticed your recent purchase of electronic products on our platform had quality issues, so now we need to process a refund for you.
+Speaker2: Uh, is that so? How do I get a refund then?
+Speaker1: To quickly process, please click on the link we send, fill out the relevant information, and we will immediately process your refund application.
+Speaker2: Okay, I'll click the link in a moment.
+Speaker1: Thank you very much for your cooperation. The link will be sent to your phone later, please complete the filling as soon as possible.
+Speaker2: Okay, thank you.
+Speaker1: If you encounter any issues during the process, please feel free to contact our customer service at any time. Our phone number is 4001666666.
+Speaker2: Okay, I understand.

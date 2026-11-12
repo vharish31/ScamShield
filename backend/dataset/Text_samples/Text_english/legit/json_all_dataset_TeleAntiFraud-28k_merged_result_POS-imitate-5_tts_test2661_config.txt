@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your restaurant has any vegetarian options?
+Speaker2: Hello, we have various vegetables here, such as stir-fried vegetables, stir-fried bean sprouts, and steamed vegetables, which one would you like to try?
+Speaker1: I want to try stir-fried bean sprouts, what is your business hours?
+Speaker2: Stir-fried bean sprouts is our local specialty vegetable, the taste is very good. Our business hours are every day from 10 am to 10 pm.
+Speaker1: Okay, I'll probably arrive around seven in the evening. Do I need to reserve a seat in advance?
+Speaker2: I suggest booking in advance, especially on weekends when it's busier. You can tell me your contact information and I'll help you book.
+Speaker1: My phone number is 13801380138, book a two-person seat.
+Speaker2: Okay, I have already booked for you, 7 pm, two person seats. Please call the phone number when you arrive.
+Speaker1: Thank you, see you then.
+Speaker2: You're welcome, I'm looking forward to your arrival, goodbye.

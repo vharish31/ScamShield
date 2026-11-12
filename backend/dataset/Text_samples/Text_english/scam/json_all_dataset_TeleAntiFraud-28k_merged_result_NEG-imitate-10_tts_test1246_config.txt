@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank, work number six seven eight nine. Recently we have introduced a new financial product with very stable returns. Would you like to know more about it?
+Speaker2: Can you give a specific explanation of financial products?
+Speaker1: Of course, this product is developed in collaboration with a well-known international financial institution, with an annual yield of up to 12%, and the risk is very low, making it very suitable for conservative investors.
+Speaker2: Sounds good, but I've heard many fake investment platforms before, how can you guarantee your platform is safe?
+Speaker1: We are a legitimate financial institution, you can query through our official website or app. For more detailed information, please click on the link to register, after registration you can see more detailed product information.
+Speaker2: Okay, let me try.
+Speaker1: Great, the link is https://fakebank.com. Just click and follow the instructions. If you have any questions, feel free to contact me.
+Speaker2: Okay, thank you for your introduction.
+Speaker1: No problem, wish your investment to be successful. If you have any other questions, feel free to consult anytime. Bye!
+Speaker2: Goodbye.

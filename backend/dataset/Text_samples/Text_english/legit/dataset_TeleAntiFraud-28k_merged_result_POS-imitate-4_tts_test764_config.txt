@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm waiting for you at the exit of the subway station.
+Speaker2: Okay, I'll be there soon. Can you see the big tree next to the subway station?
+Speaker1: I can see you, I'm just waiting under the big tree.
+Speaker2: Okay, I see you, are you wearing blue clothes?
+Speaker1: Yes, it's blue. How's the traffic on your side?
+Speaker2: Hello, it's a bit congested, but it was quick to arrive.
+Speaker1: Okay, I'm a bit cold too, you wear some more clothes.
+Speaker2: Okay, I know, I put on clothes. See you later.
+Speaker1: Okay, see you later.
+Speaker2: Pay attention to safety on the road.

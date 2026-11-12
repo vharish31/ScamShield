@@ -1,0 +1,12 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Hello.
+Speaker1: Hello, I am a server from a local restaurant, can you inquire if there is a small private room available for ten people on this side?
+Speaker2: Yes, we have several different styles of rooms to meet your needs.
+Speaker1: Great, we want to have a banquet this weekend, do you have any recommendations for private rooms?
+Speaker2: Do you guys want to have a dinner party in our southern style room? It's elegant and comfortable.
+Speaker1: What is the lowest consumption price in that room?
+Speaker2: The minimum consumption in this room is three thousand yuan, but there will be some discount activities on weekends, so the actual consumption may be lower.
+Speaker1: Is this room big enough for ten people?
+Speaker2: You're welcome, and there's also a little restaurant service, you can freely choose your menu items.
+Speaker1: Great, let's set this room for Saturday night at 6 pm.
+Speaker2: Okay, I'll book it for you, on Saturday at 6pm, in the Jiangnan style room, for 10 people, no problem.

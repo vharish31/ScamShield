@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Tian An Kuai Di, and there has been a mistake with your recent package. We need to confirm your delivery information again.
+Speaker2: Have you? I recently had a package.
+Speaker1: Yes, to avoid causing you unnecessary trouble, we need you to cooperate with us to complete a simple verification.
+Speaker2: Okay, what do I need to do?
+Speaker1: Please click on the link we send to you, enter your name and phone number, so we can confirm your information.
+Speaker2: Will you send me a text message?
+Speaker1: Okay, we will send you a text message soon, please pay attention to check it.
+Speaker2: Okay, I'm waiting.
+Speaker1: Additionally, if you encounter any issues, you can contact me anytime, my phone number is 13800138000.
+Speaker2: Okay, thank you.

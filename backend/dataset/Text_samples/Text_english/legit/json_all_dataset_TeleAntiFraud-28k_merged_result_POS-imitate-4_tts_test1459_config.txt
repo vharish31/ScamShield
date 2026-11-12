@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, I recently want to change my job, I saw job information in your place, can you help me understand a little?
+Speaker2: Hello, little Li, I am small Zhang from the HR department, can I help you? What specific position are you interested in?
+Speaker1: I saw an administrative assistant position that requires proficiency in office software, and I'm still proficient in this area, but I don't know if I can meet the requirements.
+Speaker2: Your situation sounds like it fits our requirements quite well. Do you have any relevant work experience with office software?
+Speaker1: I worked at an office for two years, mainly responsible for managing documents and handling daily tasks, and I am very familiar with office software.
+Speaker2: That's great, your background is very suitable for this position. We can arrange an interview, how about this Thursday morning at 10am?
+Speaker1: Can we schedule the interview at 11:30 on Friday morning? But I have a meeting that day which ends at 11 am. Is it possible to reschedule the interview to 11:30 am?
+Speaker2: Of course, we'll set the time at 11:30 and the location is our office, the address is XX road XX number XX building.
+Speaker1: Okay, 11:30, I've got the address down. Thanks for your help, little Zhang.
+Speaker2: No problem, little Li, I'm looking forward to seeing you, wish you a happy day.

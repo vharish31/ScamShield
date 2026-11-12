@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, this is the food square, is your reservation for tonight at seven still valid?
+Speaker2: I'll be going out tonight.
+Speaker1: Okay, what special services do you need for you? Like children's chairs or non-smoking areas?
+Speaker2: No more, just the two of us, we won't smoke.
+Speaker1: Are there any dishes you would like to order in advance?
+Speaker2: Sure, let me order a beef and seafood hot plate first, and we can look at the rest later.
+Speaker1: Okay, I have recorded it down for you. Do you need to arrive half an hour early?
+Speaker2: Okay, this way is more relaxed.
+Speaker1: Okay, let's meet tomorrow. If there are any changes, please inform us in advance.
+Speaker2: Okay, thank you, bye.

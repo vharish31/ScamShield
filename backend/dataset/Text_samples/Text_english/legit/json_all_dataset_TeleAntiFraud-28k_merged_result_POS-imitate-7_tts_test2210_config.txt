@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a server at the happy restaurant. You made a reservation for tonight at six for a couple's dinner. Can you confirm if you will come?
+Speaker2: Hey, okay, I'll go, where is your restaurant location?
+Speaker1: Alright, get off the subway line 2 at Longyang Road station, turn left after exiting, walk straight along the main road for about 500 meters, you will see a red building, that's our restaurant.
+Speaker2: Okay, I know, can I park there?
+Speaker1: There's a large parking lot next to the restaurant, parking is very convenient, and parking is free after 6 pm.
+Speaker2: Great, I'll drive over. Oh, do you have seafood?
+Speaker1: We have fresh seafood, such as ginger steamed clams and clear steamed abalone, which are all very popular with our customers.
+Speaker2: That sounds good, I'll order some seafood later.
+Speaker1: Okay, we will prepare for you. If you have any special requirements, such as allergies or food preferences, please let me know in advance.
+Speaker2: Okay, thank you for your reminder, see you later.

@@ -1,0 +1,10 @@
+Speaker2: Hello, how can I help you?
+Speaker1: Hello, I want to know more about your hairdressing appointment service, can you help me book one?
+Speaker2: Of course, what time do you want to make a reservation?
+Speaker1: Is it possible to be at 3:30 PM on Saturday this weekend?
+Speaker2: Let me check, okay, Saturday afternoon three o'clock and a half has a free slot, can I book it for you?
+Speaker1: Great, what information do I need to provide?
+Speaker2: Please just tell me your name and contact number.
+Speaker1: Okay, my name is Zhang San, phone number is 13800138000.
+Speaker2: Okay, Mr. Zhang, your appointment has been successful. Saturday at 3:30 PM, remember to be on time.
+Speaker1: Okay, thank you.

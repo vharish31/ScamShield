@@ -1,0 +1,10 @@
+Speaker2: Hey, how are you?
+Speaker1: How have you been lately?
+Speaker2: Hello, just work is a bit busy. You?
+Speaker1: I'm also, recently preparing to move, a bit busy with hands and feet.
+Speaker2: Moving house, have you found your new home yet?
+Speaker1: Hey, found it, but the new neighbor is a bit far from the company, and he's still worried about how to solve the transportation problem.
+Speaker2: Okay, take a look to see if there are any direct buses, or consider the subway.
+Speaker1: Taking the subway is still a bit far from home, so it's possible to ride a shared bike over first.
+Speaker2: That's fine, sharing a bike is quite convenient now, and it also helps exercise the body.
+Speaker1: Okay, that's how it is now. Thank you for your advice.

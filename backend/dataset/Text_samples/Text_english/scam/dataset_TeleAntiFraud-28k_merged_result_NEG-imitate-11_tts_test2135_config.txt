@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative for the construction bank. Have you recently applied for a loan with us?
+Speaker2: Yes, what's the problem?
+Speaker1: We found some issues with the information you submitted for your loan application. You need to work with us to resubmit some information, so we can complete the loan approval process smoothly.
+Speaker2: What do I need to submit?
+Speaker1: You need to provide the front and back of your ID, bank card information, and the latest income proof.
+Speaker2: How do you submit these materials to you?
+Speaker1: You can click on the link I sent you and upload the data according to the instructions.
+Speaker2: Okay, I'll handle it right away.
+Speaker1: Okay, thank you for your cooperation. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

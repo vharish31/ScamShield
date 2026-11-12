@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Is there still hiring on your side?
+Speaker2: Hello, which position are you interested in?
+Speaker1: Can you tell me more about the job and benefits of customer service representatives?
+Speaker2: The base salary of a customer service representative is 3,500 yuan, plus commission, with an average monthly income of 4,000 to 5,000 yuan.
+Speaker1: What is the working hours?
+Speaker2: Work hours are from 9 am to 6 pm, with a one-hour lunch break in the middle.
+Speaker1: Is there overtime?
+Speaker2: Sometimes there are overtime, but the company will pay overtime according to national regulations.
+Speaker1: How about the reward?
+Speaker2: We provide five insurance and one gold, also holiday benefits, employee birthday gifts, and a paid vacation after one year of work.
+Speaker1: Can we go for the interview now?
+Speaker2: Can you come to the company for an interview tomorrow morning at 10 am? The location is the XX building, third floor.

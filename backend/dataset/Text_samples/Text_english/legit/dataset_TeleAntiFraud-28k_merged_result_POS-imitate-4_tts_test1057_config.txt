@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the food square, you ordered a place with us before, tonight at seven o'clock, are you still there?
+Speaker2: Oh, okay, I remember, but I might be late, around eight o'clock.
+Speaker1: Okay, no problem, we can hold it here until eight, be careful on the road.
+Speaker2: That's great, thank you, right, what do you recommend for dinner tonight?
+Speaker1: Today's special dishes are spicy crab and steamed sea bass, both very popular. You can try them.
+Speaker2: The sound is good, I'll try it later. By the way, my friend may come over together, do you guys have any room left?
+Speaker1: Do you want me to reserve one of the two private rooms for you?
+Speaker2: Okay, let's leave one, there will probably be four people.
+Speaker1: Okay, I have reserved a four-person private room for you, see you later.
+Speaker2: Thank you, see you later.

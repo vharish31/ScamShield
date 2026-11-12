@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you have anything?
+Speaker1: I am the customer service at the food square, did you confirm your reservation for six o'clock on Saturday evening at the table you previously booked?
+Speaker2: Okay, yes, my reservation is still coming, but it might be a little late, can we arrive at seven o'clock?
+Speaker1: Okay, 7 o'clock is fine, we'll hold a spot for you here.
+Speaker2: That's great, thank you.
+Speaker1: No problem, just a reminder, the restaurant is usually crowded on Saturdays, so please arrive fifteen minutes early to allow us to arrange for you.
+Speaker2: Okay, I will pay attention, thank you for reminding.
+Speaker1: Do you want to know about our restaurant's recommended dishes before you order?
+Speaker2: Of course, can you tell me a few?

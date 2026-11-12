@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the property management service of the community, I just want to remind you that your water bill has not been paid for two consecutive months.
+Speaker2: Oh, that's how it is, I've been pretty busy lately, I forgot about this thing.
+Speaker1: No problem, but just to avoid affecting your normal water usage, it's recommended that you quickly handle it.
+Speaker2: Okay, what do I need to do now?
+Speaker1: You can directly pay to the property office or pay online through our WeChat public account.
+Speaker2: I'll pay online, it's more convenient.
+Speaker1: Okay, please open WeChat, search for our public account, enter and click on the 'online payment' at the bottom, follow the instructions to complete the payment.
+Speaker2: I understand, thank you for your reminder.
+Speaker1: You're welcome. If you have other questions, please contact us anytime. Wish you a happy life!
+Speaker2: Okay, thank you. Bye!

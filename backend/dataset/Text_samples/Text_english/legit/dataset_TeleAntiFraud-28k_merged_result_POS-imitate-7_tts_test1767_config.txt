@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from the point reward mall, recently I found that there are many points in your account that have not been used.
+Speaker2: Wow, really? I didn't know there was this score.
+Speaker1: Yes, your account currently has over ten thousand points, which can be exchanged for a variety of products, such as electronic devices and daily necessities.
+Speaker2: How do I use points?
+Speaker1: You just need to log in to our website or app, select the products you want, and then choose the credit card payment option to redeem your points.
+Speaker2: How many yuan can I redeem with points?
+Speaker1: Generally, 1000 points can be redeemed for 10 yuan, but the specific ratio may vary depending on the activity.
+Speaker2: I'll go take a look at what products are available.
+Speaker1: Okay, if you have any issues while using it, feel free to contact me anytime. Have a great shopping!
+Speaker2: Okay, thank you for your reminder, I will take a look.

@@ -1,0 +1,18 @@
+Speaker1: Hello, are you Zhang Xiǎo'er?
+Speaker2: Yes, who are you?
+Speaker1: Hi, I'm the customer manager at Huatai Bank, Lee. I saw that you recently applied for a loan with us, and I wanted to know more about your specific situation.
+Speaker2: Oh, the loan hasn't been approved yet.
+Speaker1: Can you specifically explain why it hasn't been approved yet?
+Speaker2: They said my income is not enough, and I don't have a car or a house.
+Speaker1: That's right, we recently launched a new loan product specifically designed for low-income customers.
+Speaker2: Is that so? What conditions are needed?
+Speaker1: As long as your recommendation letter is valid and you are under sixty years old, you can apply.
+Speaker2: What do you do if there is a problem with the recommendation letter?
+Speaker1: If your reference problem is not big, we can also help solve it. You just need to provide some basic information.
+Speaker2: What information do you need?
+Speaker1: Identity card, salary slip, credit report. If you have other sources of income, you can also provide them.
+Speaker2: Can you try to see what your loan interest rate is?
+Speaker1: Interest rates are approximately between 5% and 10%, but the specifics depend on your credit situation. If you need it, I can send you a link, you fill out the information, and our backend will review it and get back to you quickly.
+Speaker2: Okay, give it to me.
+Speaker1: Okay, I will send it to you right away. Please fill it out as soon as possible, and feel free to contact me if you have any questions.
+Speaker2: Okay, thank you.

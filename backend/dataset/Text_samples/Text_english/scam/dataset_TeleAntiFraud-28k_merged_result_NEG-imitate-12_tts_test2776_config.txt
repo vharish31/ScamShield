@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the happy finance customer service center, I am the customer service manager Zhang, we noticed that you have been looking for loan information recently, do you have any financial needs?
+Speaker2: Uh, I kind of need it, can you be specific?
+Speaker1: Of course, we have a special product that is perfect for your low-interest loan, with a maximum loan amount of up to 30,000, and the process is very simple, just need you to provide some basic information, we can quickly process it for you.
+Speaker2: What do I need to do to make it sound good?
+Speaker1: Just click on the link to download our official app, then fill out the relevant information, and we will arrange for a specialist to serve you.
+Speaker2: Okay, how do I get this link?
+Speaker1: Would you prefer to receive the link through text message or would you like me to send it directly?
+Speaker2: Let's see how this app works.
+Speaker1: Okay, just a moment, I'll send you a short message. Additionally, to ensure your information is secure, we need you to provide a verification code. The verification code will be sent via text message, you just need to input it during app registration.
+Speaker2: I understand, thank you.

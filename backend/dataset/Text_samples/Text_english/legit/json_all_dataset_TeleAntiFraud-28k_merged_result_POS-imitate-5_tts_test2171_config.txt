@@ -1,0 +1,10 @@
+Speaker1: How's the weather lately? Is it good to go outside?
+Speaker2: The weather is still good, just a little windy, suitable for short-distance travel.
+Speaker1: What do you recommend for a hiking route on the weekend?
+Speaker2: You can try the routes of Qingyunshan, the scenery is great, the difficulty is moderate.
+Speaker1: Does the traffic on that side sound good?
+Speaker2: You can take the bus directly, or take a taxi. Taking a taxi would take about 30 minutes.
+Speaker1: Okay, I'll leave on Saturday morning at 9am. It shouldn't be too early, right?
+Speaker2: Leaving at 9 am is perfect, avoiding morning rush hour and not too late.
+Speaker1: Thank you, I'll see you on Saturday.
+Speaker2: Okay, wish you have a happy weekend. Bye!

@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if there are any beginner-friendly programming courses here?
+Speaker2: Yes, we have beginner programming courses here, including Python and Java, which one do you want to study?
+Speaker1: I plan to start learning Python first, as my friend said this language is easy to pick up.
+Speaker2: Yes, Python is indeed a good beginner language. Our Python course is divided into beginner, intermediate and advanced levels, you can start from the beginner level.
+Speaker1: What did the initial course cover?
+Speaker2: In the beginner course, you will learn the basic syntax of Python, including variables, data types, control structures, and functions, and you will also have some small project practice.
+Speaker1: What is the schedule for that course?
+Speaker2: The course meets twice a week, each session lasting about two hours, and the entire beginner course takes approximately ten weeks. You can adjust the class time according to your own schedule.
+Speaker1: Okay, I'll think about it and get back to you if I decide to sign up.
+Speaker2: Sure, you can contact us anytime, and feel free to consult us if you have any other questions. Best wishes for your consideration.

@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: I'm little king, recently want find place cut head hair, hear say here not bad, can help me book one time?
+Speaker2: Hello, little king. We really provide haircut service here, what time is convenient for you to come?
+Speaker1: Can I schedule that time slot for three o'clock in the afternoon tomorrow?
+Speaker2: Sure, I'll reserve a spot for you at 3 PM tomorrow. Do you need me to record your contact information?
+Speaker1: Okay, my phone number is 138-138-1380. Also, I have long hair, I want to cut a short hair, how good are the barbers here?
+Speaker2: Don't worry, all our barbers here are very experienced, especially good at cutting short hair. You can take a look at our portfolio to understand the style.
+Speaker1: That's great, I'll go there tomorrow. Thank you for your help.
+Speaker2: No problem, see you tomorrow.

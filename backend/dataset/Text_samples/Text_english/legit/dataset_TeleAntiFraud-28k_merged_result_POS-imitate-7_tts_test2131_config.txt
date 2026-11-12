@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Hey, do you guys sell that air purifier over there?
+Speaker2: Okay, we have several brands of air purifiers here. Which brand would you like to know more about?
+Speaker1: Take a look at that little rice, they say the price-performance ratio is quite high.
+Speaker2: The air purifiers for small rice are really good, we now have several different models, which room in your home would you mainly use them in?
+Speaker1: I want to put it in the living room, about 25 square meters.
+Speaker2: Okay, for a 25 square meter living room, I recommend using the Xiaomi air purifier 2S, which is suitable for spaces of 20 to 30 square meters, and the noise level is low, and the purification effect is good.
+Speaker1: How much does this one cost?
+Speaker2: The price of the second S-type small rice air purifier is eight hundred ninety-nine yuan, and there is now a discount activity, which can be given a set of filters.
+Speaker1: Oh, that's great, so I'll order now.
+Speaker2: Okay, I'll help you process the order. What's your information?

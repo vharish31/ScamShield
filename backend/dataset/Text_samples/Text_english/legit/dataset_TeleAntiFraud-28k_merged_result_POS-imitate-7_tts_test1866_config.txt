@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, I ordered a cake online yesterday, can you deliver it today?
+Speaker2: Hello, I am the customer service of the cake shop, can you tell me your order number?
+Speaker1: Okay, my order number is one two three five four six seven eight nine zero.
+Speaker2: Okay, I'll check. Hmm, your order has been arranged for delivery, estimated delivery time is around 3 pm.
+Speaker1: That's great, can you help me?
+Speaker2: No problem, this is what we should do. If you have any other questions, please contact us anytime.
+Speaker1: Do you need to confirm by phone when sending?
+Speaker2: Yes, the delivery man will call you ahead to confirm the address and delivery time.
+Speaker1: Okay, I know, so I'll just wait for the phone.
+Speaker2: Okay, wish you a happy day, bye!

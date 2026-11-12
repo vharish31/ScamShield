@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a server at the food square, are you calling to reserve a spot for tonight?
+Speaker2: Yes, I see your restaurant reviews are good, want to reserve a table.
+Speaker1: Okay, how many seats do you want for your group?
+Speaker2: Two people, I hope the window position.
+Speaker1: No problem, our restaurant's window view is very good. Do you have any special requirements for the menu items?
+Speaker2: Do you guys have any spicy special dishes? I like to eat spicy things.
+Speaker1: We have a lot of spicy food, such as dry-fried frog with garlic and pepper, stir-fried spicy chicken, all very popular. Which one would you like to try?
+Speaker2: The dry pan-fried frog sounds good, let's order this one.
+Speaker1: Okay, I'll remember that for you. Do you need anything else to prepare in advance?
+Speaker2: No more, thank you. Then we see each other tomorrow.
+Speaker1: Okay, see you tomorrow, looking forward to your arrival. Goodbye.
+Speaker2: Goodbye.

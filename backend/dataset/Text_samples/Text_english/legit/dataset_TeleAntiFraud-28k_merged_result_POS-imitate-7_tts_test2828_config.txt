@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: Hey, I just booked a train ticket to Beijing for tomorrow on your website. Can you confirm it?
+Speaker2: Okay, could you please provide your order number so I can look it up for you?
+Speaker1: My order number is 234567, can you help me?
+Speaker2: Okay, I'll check. Please wait a moment.
+Speaker1: Okay, thank you.
+Speaker2: Found it, your order status is already issued, tomorrow morning at eight o'clock, from Shanghai station departure, everything is normal
+Speaker1: Okay, can I just go to the station and buy a ticket directly tomorrow?
+Speaker2: Yes, you can directly take a ticket from the self-service ticket machine at the station with your identity card, or directly swipe your identity card through the gate to enter the station.
+Speaker1: Okay, now I can relax, thank you for your help.
+Speaker2: You're welcome, I hope your trip is enjoyable, if you have any other questions, please feel free to ask anytime.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of Huaxing Technology, we noticed that you recently purchased a smartwatch on our platform, but we found that the watch may have a small problem and need to be returned for refund.
+Speaker2: Really? Then what do we do now?
+Speaker1: Don't worry, we have a fast refund process. Just click this link, download our official app, and follow the instructions to complete the refund.
+Speaker2: Okay, what information do I need to provide?
+Speaker1: Please provide your order number and bank card information so we can directly deposit the refund into your account.
+Speaker2: Is this app safe?
+Speaker1: Absolutely safe, our app is officially certified, you can use it with confidence. Additionally, to ensure your account safety, we need to verify your identity information before refund.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great, download it and open the app after. Follow the instructions. If you have any problems, feel free to contact our customer service anytime.
+Speaker2: Okay, thank you for your help.

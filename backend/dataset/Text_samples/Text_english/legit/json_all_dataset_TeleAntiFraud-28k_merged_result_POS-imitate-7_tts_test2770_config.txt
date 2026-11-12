@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I bought an electric kettle from your store yesterday, now there's a problem, I want to consult you about it.
+Speaker2: Hello, little Zhang, I am customer service Li, can help you solve the problem. What problem did the electric water heater appear?
+Speaker1: I found out that the heating speed had slowed down after using it yesterday, and sometimes it would even smoke.
+Speaker2: This situation may be due to a problem with the heating element inside the electric water heater. If it's convenient, can you bring it over so we can check it out?
+Speaker1: Okay, when can I go over?
+Speaker2: Our store is open from 9 am to 8 pm every day. You can come during business hours.
+Speaker1: Can I go out at three in the afternoon today?
+Speaker2: Okay, there are three people here at three o'clock. Remember to bring your purchase certificate when you come.
+Speaker1: Okay, thank you, I'll see you at three in the afternoon.
+Speaker2: No problem, see you in the afternoon.

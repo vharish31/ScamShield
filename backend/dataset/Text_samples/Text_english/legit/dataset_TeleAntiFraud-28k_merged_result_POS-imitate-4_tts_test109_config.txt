@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm a new tenant, can you consult me about the situation of property fees and parking fees?
+Speaker2: Hello, which building are you a resident of?
+Speaker1: I am the third floor.
+Speaker2: Oh, the third floor. The property fee and parking fee are separate, the property fee is a fixed monthly amount, and the parking fee is adjusted based on the parking space availability.
+Speaker1: If I have already paid the property fee, can I get a discount on the parking fee?
+Speaker2: Typically, property fees include basic parking fees, but if parking spaces are particularly tight, there may be additional parking fees. You can confirm this at the property management office.
+Speaker1: Okay, I'll go to the property office tomorrow and ask questions. Thank you for your help.
+Speaker2: No problem, feel free to ask me any questions anytime. I hope you enjoy your stay here.
+Speaker1: Thank you, goodbye.
+Speaker2: Goodbye.

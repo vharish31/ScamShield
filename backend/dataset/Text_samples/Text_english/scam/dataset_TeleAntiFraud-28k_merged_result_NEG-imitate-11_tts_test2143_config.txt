@@ -1,0 +1,10 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Hello, I am, what do you have in mind?
+Speaker1: I am a customer service representative for FedEx, regarding the package you ordered two days ago, we found out it might have been lost during transportation.
+Speaker2: Uh? How do I handle that?
+Speaker1: Please don't worry, to compensate you, we can process a refund and also provide additional compensation. For convenience, just click on the link we provide and fill out the relevant information.
+Speaker2: Okay, how do I get this link?
+Speaker1: You can follow our official WeChat number and reply with the key word 'compensation' to receive the link.
+Speaker2: Okay, let me try it out.
+Speaker1: Okay, if you have any questions, feel free to contact me anytime. My WeChat ID is speedda-kfzxiao-zhang.
+Speaker2: Okay, thank you for your help. I will contact you.

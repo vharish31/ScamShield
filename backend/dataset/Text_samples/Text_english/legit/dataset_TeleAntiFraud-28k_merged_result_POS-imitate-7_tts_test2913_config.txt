@@ -1,0 +1,12 @@
+Speaker1: Hi, how's the self-service situation at your restaurant?
+Speaker2: Hello, our restaurant has a variety of self-service food options, including seafood, grilled food, and desserts. What specific information are you looking for?
+Speaker1: I want to know the price and business hours.
+Speaker2: The price of self-service meals is 150 yuan per person, open from 11 am to 2 pm in the afternoon and from 5 pm to 9 pm in the evening.
+Speaker1: Can I reserve a four-person seat?
+Speaker2: Of course, can you tell me the specific date and time of your reservation?
+Speaker1: I want to book a room on Saturday evening at six o'clock.
+Speaker2: Okay, your 4-person reservation for Saturday evening at 6 pm has been successfully booked. Remember to arrive 10 minutes early.
+Speaker1: Okay, thank you. And do you have children's meals?
+Speaker2: Yes, we provide children's plates and utensils, as well as a special children's menu, which is very suitable for little friends.
+Speaker1: Great, then we'll meet on Saturday.
+Speaker2: See you on Saturday, looking forward to your arrival, goodbye.

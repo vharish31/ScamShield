@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: I am the customer service monkey of the point store, do you know that there are some points in your account that have not been used?
+Speaker2: Is it?
+Speaker1: Yes, points can be exchanged for many products, such as daily necessities and electronic products, and they can also be redeemed for cash.
+Speaker2: What? I didn't see the exchange information before?
+Speaker1: We send regular text message reminders, you might have missed them before. Your points are about to be cleared, so we suggest you exchange them quickly.
+Speaker2: What can I exchange for points now?
+Speaker1: You have over 20,000 points, which can be exchanged for high-end products such as smartwatches, high-definition TVs, and practical household items.
+Speaker2: Listen up, what specific choices do I have?
+Speaker1: Okay, I'll send you a link, you can directly select the products you need from the link, if you need help, feel free to contact me anytime.
+Speaker2: Okay, thank you for your reminder. I'll check it out right away.

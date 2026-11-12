@@ -1,0 +1,11 @@
+Speaker1: Hi, I'm small Li, this is some e-commerce platform's customer service, your recent purchase has a problem, need to handle refund for you.
+Speaker2: Oh, really? Then what do we do now?
+Speaker1: That's right, to ensure your rights, we need you to cooperate with us by completing some steps. First, please click on the link we sent to you to verify your identity.
+Speaker2: Okay, why didn't I receive the link?
+Speaker1: It's possible that your phone was intercepted, you can use this link to open it directly: [fake link], we guarantee it's safe.
+Speaker2: Okay, I'll try.
+Speaker1: Okay, after you click, there will be an identity verification page. Follow the instructions to proceed.
+Speaker2: Okay, I see it, what do we do next?
+Speaker1: After you fill out the information, we will generate a refund code, which you need to confirm on our page using the refund code.
+Speaker2: Okay, I filled it out.
+Speaker1: Thank you very much for your cooperation. We will process your refund application within 24 hours. If you have any questions, please feel free to contact our customer service at any time.

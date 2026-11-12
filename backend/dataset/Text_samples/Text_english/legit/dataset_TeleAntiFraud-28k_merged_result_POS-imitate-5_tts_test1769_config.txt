@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you? Is there anything I can help you with?
+Speaker1: Can you recommend any new running shoes here?
+Speaker2: Yes, we recently bought a new pair of sports shoes, lightweight and comfortable, suitable for daily wear, do you want to know the specific style?
+Speaker1: Can this shoe come in what colors?
+Speaker2: This shoe comes in black, white, and gray, you can choose based on your preference.
+Speaker1: How much is it?
+Speaker2: The price of this sports shoe is 499 yuan, with a 90% discount currently available.
+Speaker1: How long will I receive the goods if I buy them?
+Speaker2: After shipping from here, it usually takes 3 to 5 business days to arrive, with specific delivery times varying by region.
+Speaker1: Okay, I'll place the order, thank you.
+Speaker2: You're welcome! If you have any questions, feel free to contact our customer service anytime. Have a great shopping experience!

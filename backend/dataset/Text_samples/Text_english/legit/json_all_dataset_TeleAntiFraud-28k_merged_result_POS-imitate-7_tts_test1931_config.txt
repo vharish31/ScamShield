@@ -1,0 +1,10 @@
+Speaker1: Hi, you, I am small Li, the customer service of the food delivery platform, you ordered food from us before, now we have a new activity, want to introduce to you.
+Speaker2: Hello, do you have any activities?
+Speaker1: That's right, our platform is now launching a limited-time promotion, and if you place an order within the next hour, you can enjoy a discount of 15 yuan off a purchase of 50 yuan or more.
+Speaker2: Is it really that good?
+Speaker1: Yes, our platform always has different discount activities every month to reward our customers, this time's activity is to give you more discounts.
+Speaker2: How can I participate in this activity?
+Speaker1: It's very simple. Just open our App, select your favorite restaurant and dish, and the system will automatically deduct the fee for you during ordering.
+Speaker2: Okay, now I'll go take a look.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact our customer service at any time, I will assist you.
+Speaker2: Thank you, I will pay attention.

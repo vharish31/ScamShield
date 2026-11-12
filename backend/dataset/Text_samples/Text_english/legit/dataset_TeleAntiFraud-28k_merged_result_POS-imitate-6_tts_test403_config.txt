@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me, say something.
+Speaker1: I am the customer service of the dining platform, you have made a reservation for dinner on our platform before, and you want to confirm the details of your reservation.
+Speaker2: Can I cancel my reservation on your platform?
+Speaker1: Okay, but you need to cancel two hours before eating, otherwise you'll be charged for cancellation.
+Speaker2: Can you help me cancel my plans for tonight?
+Speaker1: Sure, I can help you with that. However, due to time pressure, there may be a 20% cancellation fee.
+Speaker2: Well, that's fine, after all, it's my responsibility.
+Speaker1: Okay, I'll cancel it. Also, feel free to contact us anytime for any booking or consultation needs.
+Speaker2: Okay, thank you for your help.
+Speaker1: You're welcome, wish you a happy day.

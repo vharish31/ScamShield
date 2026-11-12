@@ -1,0 +1,18 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Hello, I am.
+Speaker1: Mr. Li, good afternoon, I am a loan consultant from Shenzhen Bank, I saw that you have opened a new tech company in Nanshan, congratulations congratulations.
+Speaker2: Thank you, what can I help you with?
+Speaker1: Our bank recently introduced a series of loan services specifically for start-up companies, with particularly favorable interest rates, which you may want to consider to increase your company's liquidity.
+Speaker2: This sounds good, but I'm not very familiar with these.
+Speaker1: No problem, I can provide you with a detailed introduction. However, in order to provide you with better service, I need to know a bit about your company situation.
+Speaker2: Okay, you say.
+Speaker1: How much funding does your company need? We can provide corresponding loan plans based on your requirements.
+Speaker2: About one hundred thousand.
+Speaker1: Okay, we can fully meet this quota. To speed up the loan approval process, you can first download our official app and fill out some basic information.
+Speaker2: Download the app? Is it safe?
+Speaker1: Of course, we are a regular bank, and our app is very safe. After downloading, you can also enjoy more convenient services.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you download, you can directly book a time in the app, and our customer manager will communicate with you in detail.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Wish you a happy life, goodbye.
+Speaker2: Goodbye.

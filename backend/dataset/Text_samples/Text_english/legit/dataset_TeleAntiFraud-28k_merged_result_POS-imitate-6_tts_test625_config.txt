@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm waiting for you at the entrance of the Huaxing parking lot.
+Speaker2: Hey, are you there? I'm almost here, can you see my car?
+Speaker1: I haven't seen you yet, you come in first, I'm waiting at the door.
+Speaker2: Okay, I'm walking in, you walk a little forward, I see you.
+Speaker1: Okay, I walked forward.
+Speaker2: I'll turn right at the end of the road and wait for you there.
+Speaker1: Okay, I see you.
+Speaker2: You arrived so quickly, where should we park?
+Speaker1: There are more spaces over there, let's go there.
+Speaker2: Okay, I'll follow you.

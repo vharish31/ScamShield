@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you?
+Speaker1: Are you helping to transfer the big bus?
+Speaker2: Okay, I'm here to help with the car, what can I help you with?
+Speaker1: Can you give me a ride on that electric car over there?
+Speaker2: An electric car can pick you up, but it costs extra because this service wasn't originally included.
+Speaker1: That's it, then I won't use it, we have a unified arrangement, no extra money can be added.
+Speaker2: Okay, then you wait for the big bus to pick you up.
+Speaker1: Okay, thank you.
+Speaker2: No problem, safety first, goodbye.

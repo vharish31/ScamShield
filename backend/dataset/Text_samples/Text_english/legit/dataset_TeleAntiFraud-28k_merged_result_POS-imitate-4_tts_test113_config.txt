@@ -1,0 +1,16 @@
+Speaker1: Hello, how are you? I'm from a real estate company. Do you still rent out your house?
+Speaker2: Hello, is this apartment for rent still available?
+Speaker1: That's the one right next to the subway station, Yangguang Huanjuan Xiangquan.
+Speaker2: Yes, that suite is still rented out.
+Speaker1: How big is that suite of rooms?
+Speaker2: It's a two-room apartment, about 80 square meters in size.
+Speaker1: How much is the rent?
+Speaker2: Rent is one thousand eight hundred yuan per month.
+Speaker1: Is everything in the house complete, including furniture and appliances?
+Speaker2: All furniture and appliances are complete, you can directly move in.
+Speaker1: That's great, a recent customer has shown particular interest in this type of housing.
+Speaker2: Can you let him come take a look, so we can coordinate the house viewing time?
+Speaker1: Can we meet at ten o'clock on Saturday morning?
+Speaker2: Okay, I'll wait for you guys at home at that time.
+Speaker1: Okay, thank you, see you later.
+Speaker2: Okay, bye.

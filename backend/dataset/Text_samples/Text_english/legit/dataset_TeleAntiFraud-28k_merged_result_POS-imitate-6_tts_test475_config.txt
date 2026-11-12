@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have any vacant rooms for rent here?
+Speaker2: Can you come over now?
+Speaker1: I'm nearby, can I come over? What's the specific location?
+Speaker2: The house is on Lightning Road in the Lightning Park Small Community. It's next to the Lightning Park. You come in from the North Gate, turn left at the third street corner, turn right, and walk two hundred meters forward to get there.
+Speaker1: Okay, I'll be right there. Is the room facing south?
+Speaker2: Yes, the room faces south, the lighting is great.
+Speaker1: How is the rent calculated?
+Speaker2: Rent is two thousand yuan per month, including water and electricity, three months' deposit.
+Speaker1: I sound good, I'll probably be there in ten minutes.
+Speaker2: Okay, I'm waiting for you here.

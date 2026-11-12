@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm the property manager of your community, I noticed that your water bill is a bit unusual, can you tell me more about it?
+Speaker2: Oh, really? I've been at home lately, so my water usage should be about the same, right?
+Speaker1: Can you take a look at the recent water meter readings and see if there is a noticeable increase?
+Speaker2: Okay, I'll go take a look right away.
+Speaker1: Okay, please check it and call me back, we can confirm further.
+Speaker2: Okay, I'll go. If there really is a problem, you guys might need to help take a look.
+Speaker1: No problem, we can send someone over anytime. Please call me back after you check it.
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I want to consult your household services.
+Speaker2: Hello, I'm very happy to serve you, what aspect of home service do you want to know about?
+Speaker1: Can you tell me more about your cleaning service, specifically how you charge?
+Speaker2: Our cleaning service here is charged by the hour, fifty yuan per hour, and if it's a one-time service, we'll give a reasonable quote based on the size of the house and the cleaning difficulty.
+Speaker1: How much would it cost to make a reservation for a service?
+Speaker2: Is it possible for you to tell me the approximate size of your home? This way I can give you a more accurate quote.
+Speaker1: My house is about one hundred twenty square meters, mainly I need to sweep the living room and two bedrooms.
+Speaker2: Based on the situation you described, it will take approximately three hours, and the cost is 150 yuan. If you require more detailed services, such as glass cleaning or carpet washing, it may take longer.
+Speaker1: Okay, I plan to make a reservation for this weekend, is the time convenient for you?
+Speaker2: This weekend we have more time, which time would you like to choose, 9am on Saturday or 2pm on Sunday, which one do you think is suitable?

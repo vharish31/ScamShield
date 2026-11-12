@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I want to book a massage service for tomorrow.
+Speaker2: Hello, I'm very happy to serve you, what time would you like to book?
+Speaker1: Can I make a reservation for 3 PM this afternoon?
+Speaker2: 3 o'clock is fine, please provide a contact method here to confirm the appointment.
+Speaker1: Okay, my phone number is 1381238888.
+Speaker2: Okay, I have recorded your phone number. Tomorrow afternoon at three o'clock, we will contact you in advance to confirm.
+Speaker1: How early do we need to arrive?
+Speaker2: Please arrive 15 minutes in advance, if there are any changes, you can contact us anytime.
+Speaker1: Okay, thank you, see you tomorrow.
+Speaker2: No problem, see you tomorrow, wish you have a happy day.

@@ -1,0 +1,11 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Can you hear me? Do you have anything to say?
+Speaker1: Can I reserve a seat at noon tomorrow at your restaurant? Do you have any available seats?
+Speaker2: How many of you are there?
+Speaker1: We are four.
+Speaker2: Okay, the four-person seats are fine. Do you have any special seating requirements, such as a window seat?
+Speaker1: If possible, it's best to sit by the window.
+Speaker2: Okay, the window seat has been reserved for you. Do you have any special dietary requirements, such as not eating spicy or seafood?
+Speaker1: I don't eat spicy, there are no special requirements for others.
+Speaker2: Okay, you don't eat spicy, we will pay special attention. Is there anything else we can help with?
+Speaker1: No more, thank you.

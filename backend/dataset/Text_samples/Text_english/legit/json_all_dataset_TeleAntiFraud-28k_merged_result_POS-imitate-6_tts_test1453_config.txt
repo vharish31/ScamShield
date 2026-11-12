@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I bought a phone from your store yesterday, and today I found the screen has some problems, can you help me fix it?
+Speaker2: Hello, little Zhang, I am customer service king, can you please tell me specifically what the problem is? We can help you handle it here.
+Speaker1: The screen sometimes jumps automatically, and you can't click on it, it feels like the screen is broken.
+Speaker2: I checked your order and noticed that the products you purchased are still within the warranty period. We can provide you with free testing and repair services.
+Speaker1: When can I go to your store?
+Speaker2: Our store is open from 9 am to 6 pm every day. You can come at any convenient time.
+Speaker1: Okay, can I go over at three in the afternoon tomorrow?
+Speaker2: Okay, tomorrow afternoon at three o'clock, we will be ready for you on this side, you can come directly.
+Speaker1: That's great, thank you for your help.
+Speaker2: No problem, feel free to contact us anytime if you have any questions, hope your phone issue gets resolved quickly.

@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Do you have any free time this weekend?
+Speaker2: Hello, which service do you want to book?
+Speaker1: Can you book me a haircut, short hair style, do you have any good masters?
+Speaker2: Okay, do we have enough haircut time this weekend? Which day do you want to book?
+Speaker1: Is Saturday afternoon okay? I'm free around four o'clock.
+Speaker2: Is it possible to meet at 4 pm on Saturday? Several barbers in this time slot are skilled at cutting short hair. Do you have a favorite barber?
+Speaker1: I don't have any specific preferences, just recommend whatever you like.
+Speaker2: Okay, I will arrange a master with rich experience and good evaluation for you. Can you leave your contact information?
+Speaker1: Okay, my phone number is 13123678.
+Speaker2: Okay, I have recorded it down. On Saturday afternoon at four o'clock, we will call you ten minutes in advance to confirm, and if there are any changes, we will contact you in advance.

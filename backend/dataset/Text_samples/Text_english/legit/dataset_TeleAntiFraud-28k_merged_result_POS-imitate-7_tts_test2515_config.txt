@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, do you have any recommendations?
+Speaker2: Hello, Xiaoming, what do you mainly use your phone for? For example, is it playing games, taking photos, or daily use?
+Speaker1: I like to play games occasionally, take photos, and my phone's battery life should be better.
+Speaker2: I understand, based on your needs, there are several phones on the market that are quite suitable for you, such as the latest Huawei P series and Xiaomi flagship phone. Their cameras are all very powerful, and their battery life is not bad.
+Speaker1: What is the approximate price of them?
+Speaker2: The price of Huawei P series is around 3,000 to 4,000 yuan, and the flagship phone of Xiaomi is slightly cheaper, around 2,500 yuan left or right.
+Speaker1: Everyone says it sounds good, but I prefer Huawei, how is its performance?
+Speaker2: The performance of the Huawei P series is excellent, not only is the processor powerful, but the system optimization is also very good, making it suitable for long-term gaming and high-definition photography.
+Speaker1: Great, I'll decide to buy Huawei then, thank you for your recommendation!
+Speaker2: You're welcome. I hope you enjoy it. If you have any other questions, feel free to ask me anytime.

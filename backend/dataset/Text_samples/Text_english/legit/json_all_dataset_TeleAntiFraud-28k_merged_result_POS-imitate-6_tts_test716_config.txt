@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I just bought an air purifier on your website, but I haven't received it yet, can you check it out?
+Speaker2: Hello, little Zhang, I am customer service Li, can help you query. Please provide the order number, I will help you check the current delivery status.
+Speaker1: Okay, my order number is one two three four five six seven eight nine zero.
+Speaker2: Okay, just a moment, I'll help you look it up.
+Speaker1: Okay, thank you.
+Speaker2: Found it, your order has been shipped, it's currently in transit and is expected to arrive tomorrow afternoon.
+Speaker1: Tomorrow afternoon, okay, then I will pay attention.
+Speaker2: Yes, if there are any changes, our logistics system will automatically send a short message notification to you.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome. If you have other questions, please feel free to contact us anytime. Have a nice day!

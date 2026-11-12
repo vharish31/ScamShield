@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? This is the Commercial Bank, I am the customer manager Liu, we noticed that you have been looking for loan information recently, can we provide you with some low interest loan options?
+Speaker2: Oh, is that so? I happen to have some cash needs right now.
+Speaker1: Great, we have a product that's perfect for you. The monthly interest rate is only 0.02, and the disbursement speed is fast, no collateral required.
+Speaker2: The sound is good, but I need to know more details.
+Speaker1: Okay, I can send you detailed information via WeChat. Can you add my WeChat?
+Speaker2: Sure, but I need to understand your service terms first.
+Speaker1: No problem, just click on this link to see our detailed terms and interest rates.
+Speaker2: Okay, I'll go take a look right away.
+Speaker1: Thank you for your cooperation. If you have any questions, please feel free to contact me directly or download our official app for consultation.
+Speaker2: Okay, I understand, thank you.

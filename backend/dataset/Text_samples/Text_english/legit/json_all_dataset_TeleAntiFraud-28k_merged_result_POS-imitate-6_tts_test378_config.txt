@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you recommend any good Sichuan cuisine here?
+Speaker2: Of course, our steamed fish with gong bao sauce and palace chicken are very popular here. You can try them.
+Speaker1: What are your business hours like?
+Speaker2: What time do you plan to come? We are open from 11 am to 10 pm every day.
+Speaker1: Can I book in advance if I'll arrive around six in the evening?
+Speaker2: No problem, but if you have any special seat requirements, please let me know in advance, I will reserve it for you.
+Speaker1: Okay, can you reserve a spot for me next to the window, please?
+Speaker2: Okay, I have reserved it for you, just come directly when the time comes.

@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Are you little Ming?
+Speaker2: No, I'm Li Xiaoming, Ming is not here, what's up?
+Speaker1: Oh, that's annoying. I want to ask little Ming if he's coming to the party next week.
+Speaker2: Let's go to the party, he should come, but I'll check with him later, do you have a phone?
+Speaker1: Sure, my phone number is 130567890, can you leave a message?
+Speaker2: Okay, I will let him call you back.
+Speaker1: Okay, thank you.
+Speaker2: No problem, contact me later if there's anything. Bye!

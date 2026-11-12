@@ -1,0 +1,14 @@
+Speaker1: Hey, how are you? I want to ask if your store has children's meals?
+Speaker2: Hello, we have children's food here, all of our friends like them, which ones do you want to know about?
+Speaker1: Is there a specific image and introduction on the menu?
+Speaker2: Yes, the menu has detailed pictures and descriptions of each children's dish, including explanations and nutritional information. You can take a look at the menu first, and I can help you with anything that needs answering.
+Speaker1: How can I get your menu?
+Speaker2: You can download our official website or mobile app for the electronic menu, or you can come directly to the store, our waiters will give you a detailed introduction.
+Speaker1: What are the current business hours?
+Speaker2: We are open from 10 am to 10 pm every day, and on weekends we will be open until 11 pm.
+Speaker1: Okay, I'll probably come in the afternoon tomorrow, do you have rooms?
+Speaker2: Yes, we have different sized rooms, you can pre-order, this way when you arrive you can immediately use them.
+Speaker1: Can I reserve a four-person small room for tomorrow afternoon at three o'clock?
+Speaker2: Okay, I'll book it for you now. Just remember to bring the phone number when you come, we'll verify it here.
+Speaker1: Okay, thank you for your help.
+Speaker2: You're welcome, I'm looking forward to your arrival, wish you have a good day, bye.

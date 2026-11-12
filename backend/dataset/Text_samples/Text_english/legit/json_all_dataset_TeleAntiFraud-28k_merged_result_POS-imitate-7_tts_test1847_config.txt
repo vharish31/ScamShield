@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, who are you looking for?
+Speaker1: I'm little Li, I need to talk to little Wang about something.
+Speaker2: Hey, little king, where are you temporarily? What events can I relay to you?
+Speaker1: Okay, can you please tell him to meet me at the old place at 3 pm tomorrow afternoon to discuss the project matters?
+Speaker2: Okay, I noted it down. Is the old place the coffee shop you usually go to?
+Speaker1: Yes, that's it. Sorry to bother you.
+Speaker2: No problem, I will tell him. Is there anything else that needs to be conveyed?
+Speaker1: No more, just these. Thank you.
+Speaker2: No problem, contact me anytime if you have anything. Goodbye.
+Speaker1: Okay, bye.

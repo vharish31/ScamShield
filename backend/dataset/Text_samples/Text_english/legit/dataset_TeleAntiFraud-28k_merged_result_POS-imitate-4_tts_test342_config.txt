@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: I made a hair appointment with you guys for tomorrow morning at 10 am. Can you confirm it?
+Speaker2: Okay, could you provide me with the phone number for the appointment, I'll check it out here.
+Speaker1: The phone number is 13801380138.
+Speaker2: Okay, I found it. There's a 10 am appointment tomorrow.
+Speaker1: Can I go directly tomorrow?
+Speaker2: Yes, you can come directly. If there are any changes, we will contact you in advance.
+Speaker1: Okay, thank you, I'll go tomorrow.
+Speaker2: No problem, see you tomorrow.

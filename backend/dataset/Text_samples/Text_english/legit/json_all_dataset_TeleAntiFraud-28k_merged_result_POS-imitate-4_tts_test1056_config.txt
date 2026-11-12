@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: Just placed an order for takeout from your store, how long will it take to deliver?
+Speaker2: Hello, we have received your order. It should arrive in about 30 minutes.
+Speaker1: Okay, I'll come back later. By the way, are your takeout containers eco-friendly?
+Speaker2: Yes, all our takeout containers are made of eco-friendly materials, you can rest assured to use them.
+Speaker1: That's great, now everyone is more concerned about environmental protection.
+Speaker2: Yes, we also support environmental protection actions. If there are any other needs, please let me know anytime.
+Speaker1: Okay, thank you. I'll check the situation later and get back to you.
+Speaker2: Okay, welcome anytime. Enjoy your meal!

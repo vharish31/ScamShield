@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? We are customer service representatives at Xiao Li's fruit store.
+Speaker2: Hello, what can I help you with?
+Speaker1: Have you any interest in the new tropical fruits we've recently received, such as the longan from Thailand and the dragon fruit from Vietnam?
+Speaker2: Great, are these fruits fresh?
+Speaker1: All fresh, all are today morning just arrived goods.
+Speaker2: What's the price like?
+Speaker1: Dragon eye costs 15 yuan per kilogram, fire dragon fruit costs 10 yuan per piece, and now there's a buy five get one free promotion.
+Speaker2: The sound is good, I plan to go see something on the weekend.
+Speaker1: Okay, our store is open from 9am to 7pm on weekends. What time is convenient for you to come?
+Speaker2: About three in the afternoon.
+Speaker1: Okay, we'll wait for you at the store at 3:30 PM. If you need to, you can contact us in advance.
+Speaker2: Okay, thank you, see you later.

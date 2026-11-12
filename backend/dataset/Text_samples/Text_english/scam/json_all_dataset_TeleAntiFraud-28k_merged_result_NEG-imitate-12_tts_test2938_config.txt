@@ -1,0 +1,14 @@
+Speaker1: Hello, we noticed some issues with the clothing you purchased from our online store. We need to confirm with you.
+Speaker2: What's the issue?
+Speaker1: Hey, there might have been some technical issues with your order, now we need you to work with us to handle it.
+Speaker2: What do I need to do?
+Speaker1: Just click on the link we sent you and follow the instructions on the page to solve it.
+Speaker2: Okay, I'll go take a look later.
+Speaker1: Okay, in addition, to ensure your rights, we need you to provide some bank card information, so we can verify.
+Speaker2: Bank card information? This is not good.
+Speaker1: Rest assured, we are a legitimate e-commerce platform, just to ensure your financial safety.
+Speaker2: Okay, I'll send it to you later.
+Speaker1: Thank you very much for your cooperation. We will process it quickly. If there are any issues, please feel free to contact us anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, wish you happy life, bye.
+Speaker2: Goodbye.

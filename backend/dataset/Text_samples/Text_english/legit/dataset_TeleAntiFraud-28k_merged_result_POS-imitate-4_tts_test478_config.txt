@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, are you little Li?
+Speaker1: Yes, what do you want to talk to me about?
+Speaker2: Hi, I'm the small Zhang at the downstairs hair salon. You made an appointment for tomorrow morning at 10am. Can we confirm the time is convenient for you?
+Speaker1: Sure, tomorrow morning at ten, no problem.
+Speaker2: Okay, I'll arrange it for tomorrow, see you then.
+Speaker1: See you tomorrow.
+Speaker2: So, do you have any special requirements, like hairstyle or hair dye?
+Speaker1: I want to cut my hair short, not too short, just clean and clear.
+Speaker2: Understood, I will tell my hairdresser, you can come directly tomorrow.
+Speaker1: Okay, thank you.
+Speaker2: No problem, feel free to contact me anytime, bye.
+Speaker1: Goodbye.

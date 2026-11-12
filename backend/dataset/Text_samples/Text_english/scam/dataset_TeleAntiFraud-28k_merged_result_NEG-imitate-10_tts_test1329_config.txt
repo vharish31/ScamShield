@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of Speedy Express, your parcel has been returned because the address was not detailed, can you please take the call?
+Speaker2: Oh, hello, I did have some online shopping recently, maybe I made a mistake with the address, what should I do now?
+Speaker1: Alright, to ensure that your package arrives smoothly, we need some information. You can first add a WeChat, so we can send you the package number and confirm the new address.
+Speaker2: Add WeChat, is it safe?
+Speaker1: Of course, after adding WeChat, I will directly send you the delivery number and address confirmation table, which is very convenient.
+Speaker2: Okay, how do I add you on WeChat?
+Speaker1: Open WeChat, search for "小白快递客服", add me as a friend, note down your name and phone number, so I can easily find your information.
+Speaker2: Okay, I'll try.
+Speaker1: Okay, after adding WeChat, I will quickly send you the data, and you can contact me anytime if you have any questions.
+Speaker2: Thank you, I added you.

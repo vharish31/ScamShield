@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little king, just ordered a seat at your restaurant, want to confirm.
+Speaker2: Hello, Mr. Wang, I am a waiter at the restaurant, may I know what time you have reserved?
+Speaker1: I am the three o'clock in the afternoon reserved seat, the seven o'clock in the evening seat.
+Speaker2: Okay, I'll check. Hmm, found it. Your reservation is for 7 pm, is it a table for four people?
+Speaker1: Yes, it's a four-person table.
+Speaker2: Okay, I have confirmed it for you. Do you have any special requirements, such as a quiet corner or a window seat?
+Speaker1: If there's a quiet corner, that's best. We have a few friends who want to hang out.
+Speaker2: I understand, I will try my best to arrange a quiet corner by the window. Is there anything else you need help with?
+Speaker1: No more, thank you for your help.
+Speaker2: You're welcome. If there are any changes, please feel free to contact us anytime. Have a nice dinner. Goodbye.

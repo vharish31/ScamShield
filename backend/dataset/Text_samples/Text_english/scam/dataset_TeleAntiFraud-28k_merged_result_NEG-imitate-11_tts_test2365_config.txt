@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao, a customer service representative at Agricultural Bank.
+Speaker2: Hello, what can I help you with?
+Speaker1: Is that so, our bank recently introduced a special discounted loan product that can be quickly approved, no collateral, and has a very low interest rate. Would you be interested in learning more?
+Speaker2: Can you give me a detailed introduction on how to get some cash flow recently?
+Speaker1: Of course, this loan product is very suitable for your needs, just need to provide some basic information, we can quickly approve. To facilitate your application, you can first click on the link I sent you, download our official app, and then follow the instructions to operate.
+Speaker2: How do I know this link is safe?
+Speaker1: This is our official link, it's very safe, you can download it without any worries. After downloading, if you have any questions, please contact me. To speed up the approval process, you can also provide some additional information, such as salary slip, property proof, etc.
+Speaker2: Then I'll download it now, how can I contact you after downloading?
+Speaker1: After downloading the app, you can find my customer service number in the app and contact me directly, or you can add my WeChat, my WeChat number is abcd1234, which is more convenient to communicate.
+Speaker2: Okay, I'll download it right away, thank you.

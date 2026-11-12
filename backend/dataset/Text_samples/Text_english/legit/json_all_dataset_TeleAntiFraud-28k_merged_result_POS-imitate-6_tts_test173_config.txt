@@ -1,0 +1,10 @@
+Speaker1: Hello, I want to consult your household services.
+Speaker2: Hello, I'm very happy to serve you. What aspects of home service do you want to know about?
+Speaker1: Can you tell me more about your cleaning service, such as how often it is and how much it costs?
+Speaker2: Our cleaning services can be customized according to your needs, with weekly, bi-weekly, and monthly options. Prices vary based on service content and time, and if you provide specific details, I can give you a more accurate quote.
+Speaker1: I need a comprehensive cleaning once a month, including windows and floors.
+Speaker2: Okay, for your needs, our monthly full-service fee is three hundred yuan, including window and floor cleaning. If you're satisfied, we can sign a long-term service agreement and enjoy a discount.
+Speaker1: Does it sound good? Then do I need to make a reservation in advance?
+Speaker2: Yes, to ensure service quality, we suggest you book in advance one week. This way we can arrange service personnel in advance.
+Speaker1: Okay, I want to make a reservation for a trial session this weekend.
+Speaker2: Okay, I have scheduled a service for you this weekend. Our staff will contact you in advance to confirm the delivery time. If you have any special requirements, please let us know in advance.

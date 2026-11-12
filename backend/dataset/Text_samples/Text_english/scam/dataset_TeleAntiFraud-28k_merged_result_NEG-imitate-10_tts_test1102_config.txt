@@ -1,0 +1,12 @@
+Speaker1: Hello, are you Lee Huai? I am a customer service representative from Ping An Bank.
+Speaker2: Hey, it's me, what's up?
+Speaker1: Have you heard about our new loan product that just came out? The interest rate is incredibly low.
+Speaker2: Loan? I have enough funds now, so I don't need a loan.
+Speaker1: That's it, but this is a very flexible product. It can be used for both capital rotation and investment, and improve the efficiency of capital utilization.
+Speaker2: That sounds good, but I'm not familiar with these, can you explain in detail?
+Speaker1: Of course, I have a link here that you can click to see the detailed introduction and the application process.
+Speaker2: Link? I'm afraid it's not safe, can you directly tell me?
+Speaker1: Okay, I'll just send you a text message with detailed information, you can take a look first.
+Speaker2: Okay, I'll wait for a while and take a look.
+Speaker1: Hello, if you have any questions, please feel free to contact me anytime. My phone number is 1357924680, you can also add me on WeChat by searching for this number.
+Speaker2: Okay, thank you. I will consider it.

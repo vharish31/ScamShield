@@ -1,0 +1,15 @@
+Speaker1: Hey, how are you, I'm little Li, have you been looking for a loan lately?
+Speaker2: Yes, I recently had some trouble with cash flow, so I want to know more about loans.
+Speaker1: That's great, we have a low-interest loan project that's perfect for you.
+Speaker2: Is there any requirement for this loan project?
+Speaker1: It's simple. Just provide some basic personal information, and we can quickly approve.
+Speaker2: What materials do I need to prepare?
+Speaker1: You just need to provide your ID, bank statement, and salary proof, and we'll take care of the rest.
+Speaker2: Okay, how do I submit these documents?
+Speaker1: You can click this link to enter our application page and fill out the information according to the instructions.
+Speaker2: Is this link safe?
+Speaker1: Absolutely safe, we are a legitimate lending platform, you can rest assured using it.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you submit your materials, we will quickly review them, and if there are any issues, we will contact you.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, wish your loan goes smoothly. If you have other issues, feel free to contact me anytime.

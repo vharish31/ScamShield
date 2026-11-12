@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm the plumber master, I've arrived at your community door.
+Speaker2: Hello, you arrived, I'm on the floor now, just wait a minute, I'll come down to meet you.
+Speaker1: Okay, hurry up and come down here, I'm waiting for you.
+Speaker2: Okay, I'll go now. You call me when you see me.
+Speaker1: Okay, I'll call you as soon as I see you. What's your phone number? I'll write it down.
+Speaker2: Okay, remember my phone number is 13700000000.
+Speaker1: I'll remember, I'll call you when I see you.
+Speaker2: Okay, you wait a minute, I'll come down now.
+Speaker1: Okay, I'm waiting for you here.
+Speaker2: Okay, see you later.

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? This is the Happy Restaurant. I am server Zhang. What can I help you with?
+Speaker2: Hello, what are your special dishes?
+Speaker1: Our signature dishes here include red braised pork, steamed grouper with scallions and ginger, and stir-fried oysters with garlic and chives, all of which are very popular with customers.
+Speaker2: How much does the red meat sound?
+Speaker1: The price of red braised pork is 38 yuan per portion, which is enough for two to three people to share.
+Speaker2: Okay, what are your restaurant's business hours?
+Speaker1: Our restaurant business hours are from 10 am to 10 pm every day, all year round.
+Speaker2: Can I go out around 7 o'clock tonight?
+Speaker1: Of course, but this time period may be busier, so I suggest you book your seat in advance.
+Speaker2: Okay, I'll reserve a four-person table, thank you.
+Speaker1: Okay, I have booked for you. See you later. Be careful on the road.

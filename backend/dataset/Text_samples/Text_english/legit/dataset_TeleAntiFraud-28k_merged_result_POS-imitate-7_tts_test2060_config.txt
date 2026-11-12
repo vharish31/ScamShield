@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your restaurant has private rooms?
+Speaker2: Hello, do you want to reserve which time slot in our private room?
+Speaker1: I plan to come at six in the evening, around ten people.
+Speaker2: Okay, 6:00 PM, 10 people, can we reserve a private room at this time? Do you need me to hold it for you?
+Speaker1: Can you please?
+Speaker2: No problem, can you tell me your contact information in a moment?
+Speaker1: Okay, my phone number is 1312367890.
+Speaker2: Okay, I've recorded it down, six o'clock, ten people, remember to come on time.
+Speaker1: Okay, thank you, see you later.
+Speaker2: Okay, see you later, wish you a happy day.

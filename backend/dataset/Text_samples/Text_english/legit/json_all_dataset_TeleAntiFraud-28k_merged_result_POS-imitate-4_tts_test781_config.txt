@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Ming, how about you recently?
+Speaker2: Hello, Xiaoming, I'm good, thank you. How are you lately?
+Speaker1: I'm not bad, lately my work has been pretty busy. I heard you moved to a new place, why didn't you tell me?
+Speaker2: Yeah, just moved in, haven't had a chance to notify you yet. Actually, there's a small gathering on Saturday next week, do you have time to come?
+Speaker1: Sure, where is the new house? Do I need to do anything to go there?
+Speaker2: I am in the new district of the city center, specifically at Happiness Road 16th number. You can take the subway line 2 to Happiness Station, then walk east 500 meters from the station to get there.
+Speaker1: Okay, I understand. Can I come at around five in the afternoon that day?
+Speaker2: Of course, it's perfect that we eat dinner together. Do you have anything special you want to eat?
+Speaker1: Hey, do you have any recommendations for good food near your home?
+Speaker2: Have you been to the Sichuan restaurant nearby? The taste is great, right?

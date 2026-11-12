@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, do you want to consult car information?
+Speaker1: Okay, can you tell me more about your sky car?
+Speaker2: Okay, the Tianfeng car is a popular model here, with 2222 units currently available, and an approximate driving range of 8000 kilometers.
+Speaker1: What is the maintenance condition of this 228 car with 8000 km mileage?
+Speaker2: This car's maintenance record is very complete, it's serviced every 5,000 km on time, you can rest assured.
+Speaker1: What about the price?
+Speaker2: The current price of this car is eight thousand five hundred yuan. If you decide to buy, we can also provide a discount.
+Speaker1: Can you cut the price a little?
+Speaker2: Sure, if you decide to buy today, we can give you a discount of eight thousand three hundred yuan.
+Speaker1: Okay, I'll think about it. By the way, what are your store's business hours?
+Speaker2: Our store's business hours are from 9 am to 7 pm, weekends are also normal business hours.

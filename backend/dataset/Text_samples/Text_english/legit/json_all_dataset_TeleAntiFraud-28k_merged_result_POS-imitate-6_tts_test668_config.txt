@@ -1,0 +1,15 @@
+Speaker1: Hello, how are you? I am a customer service representative for a car rental platform.
+Speaker2: Hello, what can I help you with?
+Speaker1: So, we have a service project here related to the installation of car underbody panels, six pieces, total cost of one hundred thirty-five yuan, can you accept it?
+Speaker2: One hundred thirty-five yuan? This price sounds a bit high.
+Speaker1: This price is uniform across the platform and remains the same every day, without any changes.
+Speaker2: Hmm, that's how it is, then I need to consider it.
+Speaker1: You can consider it, if you decide to install it, you can contact me, I will arrange it for you.
+Speaker2: Okay, how do I pay?
+Speaker1: The payment method is very simple, we will give you a voucher code, you directly cash out on the car rental platform account, then you can withdraw.
+Speaker2: I haven't used this account for a long time, I don't know if it's still usable.
+Speaker1: You can log in to the WeChat public account of the car pig alliance, and activate your account through customer service.
+Speaker2: I changed my phone, all the information from the old one is lost.
+Speaker1: No problem, you can search for the car pig union number on WeChat, follow it to contact customer service, they will help you handle it.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, feel free to contact me anytime if you have any questions. Wishing you all the best. Goodbye.

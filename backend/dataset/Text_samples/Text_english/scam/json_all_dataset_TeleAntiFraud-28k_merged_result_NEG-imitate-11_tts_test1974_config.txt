@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm little Li from Tian An Kuai Di. You lost a package, need to handle compensation.
+Speaker2: Really? Then what do we do?
+Speaker1: Yes, for convenience in processing, we need you to provide some personal information, including name, ID number and bank card number.
+Speaker2: So, how do I know you're really a courier company?
+Speaker1: You can check my work number, 00758, or call our official customer service hotline 400-123-4567 for verification.
+Speaker2: Okay, then I will provide it to you.
+Speaker1: Great, to process the compensation more quickly, please download our official app by clicking this link: [link], install and follow the instructions.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Okay, after downloading and installing, you can find the compensation claim process in the app, and feel free to contact me if you have any questions.
+Speaker2: Thank you, I'll handle it right away.

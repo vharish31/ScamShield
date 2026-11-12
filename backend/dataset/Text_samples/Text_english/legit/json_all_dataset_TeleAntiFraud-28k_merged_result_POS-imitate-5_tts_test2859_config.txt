@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me more about your yoga classes here?
+Speaker2: Of course, our yoga classes here are divided into beginner, intermediate and advanced levels, suitable for friends of different levels.
+Speaker1: What is the initial course like?
+Speaker2: The primary goal of beginner courses is to help students master basic yoga postures and breathing techniques, which are very suitable for yoga beginners.
+Speaker1: Can I make a reservation?
+Speaker2: Yes, to ensure that everyone has enough space and coach attention, we recommend booking in advance.
+Speaker1: Okay, can I reserve a spot for the beginner class tomorrow?
+Speaker2: Of course, you can book through our app or phone directly, see you tomorrow!

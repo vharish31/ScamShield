@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the branch manager of Agricultural and Commercial Bank, you have consulted with us about business loans before, do you have time?
+Speaker2: Let's talk when you have time.
+Speaker1: Great, I have a special opportunity to provide you with a no-collateral, low-interest business loan. Are you interested in learning more?
+Speaker2: What is the interest rate? How do I operate it?
+Speaker1: The interest rate is very low, currently at an annual 0.3%, just download our app, fill out some basic information, and we'll arrange for a workperson to contact you for further guidance on how to operate.
+Speaker2: Is the app safe to download?
+Speaker1: Very safe, we are a regular bank, all operations are under our supervision, you can rest assured.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you download the app, remember to use this invitation code to register, so we can process your application faster. The invitation code is: ABCD1234.
+Speaker2: Okay, I understand, thank you.

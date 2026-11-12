@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I ordered takeout from your store, why hasn't it been delivered yet?
+Speaker2: Hello, I am the customer service of the delivery platform. Can you please provide me with the order number?
+Speaker1: Okay, my order number is one two three four five six seven.
+Speaker2: Okay, I'll check. Where are you?
+Speaker1: I am in the city center, near the park road.
+Speaker2: Okay, I found it. Your order is being delivered and is estimated to take approximately twenty minutes.
+Speaker1: Twenty minutes? Will it be too long, I'm starving here.
+Speaker2: I'm very sorry, due to recent orders being quite a few, there might be some delays. We'll arrange delivery as soon as possible.
+Speaker1: Okay, can you contact the delivery guy? Let him come quickly.
+Speaker2: Okay, I will immediately contact the delivery man and urge him to speed up. Again, I apologize for the inconvenience caused.

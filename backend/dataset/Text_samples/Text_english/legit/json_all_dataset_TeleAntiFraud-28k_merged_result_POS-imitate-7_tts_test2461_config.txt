@@ -1,0 +1,10 @@
+Speaker1: Hi, is it possible to make a haircut appointment here?
+Speaker2: Hello, yes, we can make an appointment here for a haircut, what time do you want to make an appointment?
+Speaker1: Do you guys have a place for this Saturday afternoon?
+Speaker2: Can you take a look at the available time slots for Saturday afternoon? They are at 2 PM and 4 PM. Which one is more convenient for you?
+Speaker1: Four o'clock is okay, so I'll book four o'clock then.
+Speaker2: Okay, the appointment was successful. Remember to arrive ten minutes early to avoid missing the appointment time.
+Speaker1: Okay, I'll come early. Do I need to bring anything over?
+Speaker2: You don't need to bring anything, we'll provide all the items you need here. Just bring yourself.
+Speaker1: That's great, thank you for your reminder.
+Speaker2: No problem, feel free to contact us anytime with any questions. See you on Saturday!

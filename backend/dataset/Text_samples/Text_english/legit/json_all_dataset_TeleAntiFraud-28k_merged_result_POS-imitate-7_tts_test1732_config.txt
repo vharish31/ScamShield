@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? Do you have any part-time jobs here suitable for students?
+Speaker2: Hello, there are often part-time jobs suitable for students here. Which aspect are you interested in?
+Speaker1: I want to know more about the work of clerks, mainly helping with organizing documents.
+Speaker2: Okay, this type of work we have, but need certain office software operation ability, you familiar?
+Speaker1: Well, I studied at school, I should be able to handle it.
+Speaker2: That's great, our work hours are quite flexible here, you can adjust according to your course schedule.
+Speaker1: That's great, I have a lot of classes this week, maybe I need the weekend to finish them.
+Speaker2: No problem, we can start from the weekend, and adjust later when you have more time.
+Speaker1: Okay, when can I come for the interview?
+Speaker2: You can come to our place at 3 pm tomorrow afternoon, I will arrange a simple interview for you.

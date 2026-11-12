@@ -1,0 +1,15 @@
+Speaker1: Hey, how are you? I want to ask, do your restaurant have any vegetarian stir-fry?
+Speaker2: Hey, hello, we have stir-fried vegetables here, do you want to reserve?
+Speaker1: Yes, I want to book a room, around what time would it be best to send it over?
+Speaker2: What time would you like to order? Our delivery time is from 11 am to 9 pm.
+Speaker1: Can I book a 1:30 PM slot?
+Speaker2: Is it okay? Do you need to book several?
+Speaker1: One is enough, and what vegetables are there in your stir-fried pork and vegetables?
+Speaker2: Our stir-fried vegetables include carrots, green beans, corn, and mushrooms, all fresh.
+Speaker1: That sounds good, so I'll add another bowl of green soup.
+Speaker2: Okay, one portion of stir-fried vegetables and one portion of green soup, delivered at 1:30 pm. Is there anything else to add?
+Speaker1: Do you need to pay a deposit now?
+Speaker2: No need, you can pay the delivery boy when he arrives.
+Speaker1: Okay, thank you, then I'll wait for your phone call to confirm.
+Speaker2: Okay, we will contact you soon, thank you for your reservation, goodbye.
+Speaker1: Goodbye.

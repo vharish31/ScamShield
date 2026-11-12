@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am Lee Huang, the customer service manager of Commercial Bank, have you considered any investment in financial planning recently?
+Speaker2: Investment in wealth management? I'm not very familiar with this, can you give me a detailed explanation?
+Speaker1: Of course, we have a new high-yield financial product that has low risk and stable returns, which is very suitable for new investors. Are you interested in learning more about it?
+Speaker2: Can you give me a detailed introduction of these, as it sounds good but I don't understand them well?
+Speaker1: Of course. For your convenience, I have a link here that you can click to see the detailed introduction and profit situation. Are you okay?
+Speaker2: Okay, let me try.
+Speaker1: Great, this link is http://example.com/investment. Click it, then register an account, I'll be waiting here.
+Speaker2: Okay, I'll register right away.
+Speaker1: Great, after registering, you can see detailed financial product information on the platform, and you can contact me anytime if you have any questions.
+Speaker2: Okay, thank you for your help.

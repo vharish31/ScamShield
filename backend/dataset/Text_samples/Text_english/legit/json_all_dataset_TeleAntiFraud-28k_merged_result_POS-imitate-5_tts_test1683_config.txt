@@ -1,0 +1,10 @@
+Speaker1: Hey, are you the new joy restaurant?
+Speaker2: Hello, yes, are you wanting to book a seat?
+Speaker1: Yes, I want to reserve a table for two tonight.
+Speaker2: What time is it tomorrow night?
+Speaker1: Six and a half.
+Speaker2: Okay, 6:30, two people's positions are already reserved for you, do you have any special seat requirements? Like by the window?
+Speaker1: If there's a spot by the window, that's best.
+Speaker2: Understood, please arrange seats near the window as much as possible. Can you provide your name and contact information?
+Speaker1: My name is Li Ming, phone number is 133123456.
+Speaker2: Okay, Li Xiāngshēng, I have recorded it down. Tomorrow evening at six thirty, Xīnjìyàn rèntiān, two people's window seats. Looking forward to your arrival!

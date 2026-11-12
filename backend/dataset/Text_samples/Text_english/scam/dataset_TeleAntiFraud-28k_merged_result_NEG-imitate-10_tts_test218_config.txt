@@ -1,0 +1,13 @@
+Speaker1: Hello, this is Li Xiao, the customer service representative for Speedy Express. We're calling because there was a problem with your recent delivery.
+Speaker2: Oh, really? What's the problem with my package?
+Speaker1: That's right, your package was lost during delivery, we can now process a refund for you.
+Speaker2: That's so annoying, how do I request a refund?
+Speaker1: It's very simple. Just click on the link we give you and follow the instructions to complete the refund.
+Speaker2: How can I receive this link?
+Speaker1: Please wait a moment, I'll send it over now, please pay attention to check the text message.
+Speaker2: Okay, I'll be right back.
+Speaker1: Have you received it yet?
+Speaker2: Received, I look, seems need input bank card info?
+Speaker1: Yes, in order to facilitate the refund, we need to verify your bank card information, so we can return the money to your account.
+Speaker2: Okay, then I'll follow the steps.
+Speaker1: Okay, feel free to contact me anytime if you have any questions. I hope our service can assist you.

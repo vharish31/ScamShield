@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, can I ask about your restaurant's business hours?
+Speaker2: Hello, Xiaoming, our restaurant is open from 10 am to 10 pm every day, and on weekends it's open until 11 pm.
+Speaker1: Do you provide delivery service?
+Speaker2: Yes, we support online ordering for takeout, and we also allow phone reservations. We will have a dedicated delivery person.
+Speaker1: Sounds good, I want to have beef stir-fry with rice and a pork rib with sweet and sour sauce.
+Speaker2: Okay, all these dishes we have, about 30 minutes preparation time, are you ready to order now?
+Speaker1: Yes, I'm ordering now, the address is Xiàngfú xiǎojū shí shíngzhōu lóu sān dàn yī xīng bì rì zhōng ér liú shìng.
+Speaker2: Okay, your order has been recorded. It will arrive in about forty minutes. Please pay attention to the delivery call.
+Speaker1: Okay, thank you, looking forward to the food.
+Speaker2: You're welcome, hope you enjoy your meal, bye.

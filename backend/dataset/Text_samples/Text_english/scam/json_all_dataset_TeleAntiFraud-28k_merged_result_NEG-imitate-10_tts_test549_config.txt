@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager from Huaxia Bank. Recently we have launched a new loan product with a high credit limit, low interest rate, and fast approval. Would you be interested in learning more about it?
+Speaker2: Oh, a loan, I'm feeling pretty good right now, but what's the specific situation?
+Speaker1: That's great, this loan product is very suitable for you as a high-quality customer. To make it easier for you to understand, you can download our official Hua Xia Bank app, which has detailed information and application process.
+Speaker2: Can I download the app? Can I directly check it on your bank website?
+Speaker1: Of course, but to ensure the safety of your information, I recommend that you operate through our official app, which is more secure. Downloading the app is very simple. I'll send you a link, and you can download it by clicking on it.
+Speaker2: Okay, what you said makes sense. How do I send that link to you?
+Speaker1: Please wait, I'll send it over now. What's your phone number?
+Speaker2: My phone number is 13812345678, come over.
+Speaker1: Okay, 13812345678, I will send it to you right away. Please pay attention to check the message, and you can contact me anytime if there are any issues after downloading the app.
+Speaker2: Okay, thank you, I'll check later.

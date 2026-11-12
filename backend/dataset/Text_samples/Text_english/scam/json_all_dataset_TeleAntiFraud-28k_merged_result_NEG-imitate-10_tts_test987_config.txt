@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer service manager of the Agricultural Bank. Do you have any recent requirements for capital rotation?
+Speaker2: Hello, I don't have any need at the moment, how is your service?
+Speaker1: We provide fast and convenient loan services for high-quality customers. You can download our official app, register and then see detailed information.
+Speaker2: Do you want to download the app? I'm afraid it's not safe, is it really?
+Speaker1: We are a legitimate financial institution. I will send you the download link, and you will follow the instructions, it's very convenient.
+Speaker2: Okay, let me try, please give me the link.
+Speaker1: Okay, just a moment, I'll send it over to you now. Besides loans, we also have many financial products with high returns, you can take a look too.
+Speaker2: Oh, financial products can also be introduced, can you introduce them to me?
+Speaker1: We have a short-term financial product with an annual return of 10%, which is very cost-effective. You can try investing a small amount first to experience it.
+Speaker2: Listen well, then what do I do after downloading the app?
+Speaker1: After downloading, register and you'll see our financial products on the homepage. Choose what you're interested in and follow the instructions to complete the purchase process. If you have any issues, feel free to contact our customer service anytime.

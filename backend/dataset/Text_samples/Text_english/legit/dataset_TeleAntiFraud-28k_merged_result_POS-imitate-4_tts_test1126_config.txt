@@ -1,0 +1,11 @@
+Speaker2: Hey, how are you? What's up?
+Speaker1: Hey, nice to meet you, I'm little Li, recently I've been looking for a good place to eat, I heard your restaurant is quite good, could you introduce it to me?
+Speaker2: Of course, our restaurant specializes in local delicacies, such as red braised pork, steamed fish, handmade noodles, and various vegetable dishes, and the prices are quite reasonable.
+Speaker1: How is your business hours?
+Speaker2: We usually open the door at 11 am in the morning and close it at 9 pm in the evening. We don't rest on holidays.
+Speaker1: Okay, can I reserve a window seat for two people tomorrow evening at 6:30?
+Speaker2: Okay, the window seat has been reserved for you. Remember to come half an hour earlier tomorrow at six o'clock.
+Speaker1: Okay, thank you. Right, do you provide free parking?
+Speaker2: We have a parking lot behind our restaurant. Parking is free. You can directly park your car there.
+Speaker1: Goodbye, thank you so much. See you tomorrow!
+Speaker2: No problem, see you tomorrow, wish you have a nice dinner!

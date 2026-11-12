@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you? I am the customer service of XX e-commerce platform. We found that the products you recently bought may have quality issues. To ensure your rights, we decided to provide you with return and refund service.
+Speaker2: Oh, really? That's great, my product really has some issues.
+Speaker1: Yes, for convenience in processing, could you please provide the purchase order number at the time of purchase?
+Speaker2: Okay, my order number is 123456789.
+Speaker1: Okay, I have recorded it down. To process your refund faster, please click this link and fill in the relevant information.
+Speaker2: Okay, I'll handle it right away.
+Speaker1: Thank you very much for your cooperation. If you have any questions, please feel free to contact me anytime.
+Speaker2: Thank you, I will pay attention.
+Speaker1: By the way, our platform recently had a promotion, inviting new users to register can enjoy a large discount coupon, are you interested?
+Speaker2: How can I participate in this activity?
+Speaker1: Just download our app and use the invitation code 123456 to register, and you'll get a discount.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Okay, feel free to contact me anytime if you have any questions. Wishing you a happy life.
+Speaker2: Thank you, goodbye.

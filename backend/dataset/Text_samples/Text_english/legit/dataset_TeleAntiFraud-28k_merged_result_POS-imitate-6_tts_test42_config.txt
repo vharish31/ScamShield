@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm Xiaoming, I recently want to buy a new phone, can you recommend me one?
+Speaker2: Hello, Xiaoming, we have many styles here. Do you have any specific requirements, such as budget, brand or functionality?
+Speaker1: I plan to buy a computer around 3,000 yuan, mainly for browsing the internet and taking photos, I hope it will be smooth.
+Speaker2: Okay, based on your needs, I recommend you consider this XXX phone, it's priced at around 3,000 and has a great value for money, the camera quality is also not bad.
+Speaker1: How long does the battery of this phone last? I often go out and hope the phone can last all day.
+Speaker2: This phone's battery capacity is 4000mAh, it's no problem to use it for a whole day, and it also supports fast charging technology, the charging speed is very fast.
+Speaker1: Can I go to your store to take a look at this phone?
+Speaker2: Of course, our store is on the third floor of the electronic square in the city center. You can come directly. If you are convenient now, I can arrange a trial time for you here.
+Speaker1: That's great, I have some free time tomorrow afternoon, around 3 pm, I can probably get to your store.
+Speaker2: Okay, tomorrow afternoon at three o'clock, I will be here waiting for you, and then I can introduce this phone to you in detail. See you then!

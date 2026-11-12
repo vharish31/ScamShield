@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm Li Xiao, this is the customer service representative of Net Security Technology.
+Speaker2: Hello, do you have anything?
+Speaker1: We found some unusual activity in your recent transactions. It's possible your account has been stolen.
+Speaker2: Really? Then what do we do?
+Speaker1: To ensure the safety of your funds, we need you to cooperate and do some verification.
+Speaker2: Okay, what do you need me to do?
+Speaker1: Please click on the link we send to you, enter your bank card number and verification code, so we can confirm your account security.
+Speaker2: Okay, I'll go operate right away.
+Speaker1: Okay, thank you for your cooperation. If you have any questions, feel free to contact us anytime.
+Speaker2: Thank you, I will pay attention.

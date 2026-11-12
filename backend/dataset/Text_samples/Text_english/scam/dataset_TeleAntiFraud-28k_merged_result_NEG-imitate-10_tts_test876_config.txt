@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank, were you previously a customer of our financial product?
+Speaker2: Okay, what now?
+Speaker1: We recently discovered some unusual activity on your account. It's possible that a third party is trying to illegally access your account. To ensure your financial safety, we need you to cooperate and complete some security verification.
+Speaker2: What should I do if it's true or false?
+Speaker1: First, you need to click on the SMS link we send to you to complete identity verification.
+Speaker2: Okay, I'll check my messages right away.
+Speaker1: Okay, after verification, please tell me the verification code so we can ensure your account is safe.
+Speaker2: Okay, I'll send it now.
+Speaker1: Are you receiving the verification code now?
+Speaker2: Received, is 123456.
+Speaker1: Thank you, we have recorded it down. Next, to further confirm your identity, we need you to provide the last four digits of your bank card.
+Speaker2: Okay, it's 6789.
+Speaker1: Thank you very much for your cooperation. We will immediately process this issue and ensure your account is safe. If there are any other issues, please feel free to contact us anytime.

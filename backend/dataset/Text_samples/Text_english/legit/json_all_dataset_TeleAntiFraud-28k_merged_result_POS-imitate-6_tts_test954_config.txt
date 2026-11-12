@@ -1,0 +1,16 @@
+Speaker1: Hey, how are you? I'm little Li, I've been shopping on your platform quite frequently recently.
+Speaker2: Hello, little Li, I am customer service king Wang, what can I help you with?
+Speaker1: Hey, can you check my account balance to see if there are any points?
+Speaker2: Okay, just a moment, I'll check your account.
+Speaker1: Okay, thank you.
+Speaker2: Found it, your account has three thousand six hundred plus points, these points can be used to exchange products or cash back.
+Speaker1: Uh, how do I use these points?
+Speaker2: You can select the products you want on our platform and then choose to use points deduction during checkout, the system will automatically calculate the discount.
+Speaker1: When will these points expire?
+Speaker2: These points have an effective period until December 31st, 2021. After that, they will automatically clear zero.
+Speaker1: Okay, how many points do I need to buy a phone?
+Speaker2: What phone model do you want? I can help you check how many points it costs.
+Speaker1: I want to buy a new blue brand phone.
+Speaker2: Okay, this phone costs 2500 points. You can use your current points to deduct some amount of money.
+Speaker1: Great, I'll place an order now. Thank you for your help!
+Speaker2: No problem, if you have any other questions, feel free to contact me. Have a nice shopping!

@@ -1,0 +1,8 @@
+Speaker1: Hello, how are you? I am a small king at Agricultural Bank, do you have any recent funding needs? We can provide you with a no-collateral loan here, with a very low interest rate.
+Speaker2: Hello, I currently don't have any financial needs, thank you.
+Speaker1: Okay, I understand. But if you need anything in the future, feel free to contact us. For your convenience, I can send you a link here, which you can click to view detailed product information and application process. Are you okay with that?
+Speaker2: Let's go, then you can send it.
+Speaker1: Okay, I'll send it right away. Additionally, if you have any questions, you can directly add my WeChat, and feel free to consult at any time. My WeChat number is wx123456789.
+Speaker2: Okay, thank you.
+Speaker1: No problem, if you need anything, feel free to contact me. Wish you a happy life, goodbye.
+Speaker2: Goodbye.

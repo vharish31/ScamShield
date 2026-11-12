@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Li, are you there?
+Speaker2: Hey, Li, how are you?
+Speaker1: What do you recommend for a new phone?
+Speaker2: The latest flagship phone is very popular, has great performance, and offers many new features.
+Speaker1: How much does that machine cost?
+Speaker2: The price is approximately three thousand, if it's an online order there will be a discount.
+Speaker1: The sound is good, but I'm still using the old model. Can data transfer be convenient if I switch to a new machine?
+Speaker2: It's very convenient now that many phones support cloud services. You just need to log in with the same account, and most data will automatically sync.
+Speaker1: That's great, I'm still worried about the data transfer hassle. Oh, do you have any recommendations for a buying platform?
+Speaker2: You can check the official website or some big e-commerce platforms, sometimes there are special price activities, more affordable.

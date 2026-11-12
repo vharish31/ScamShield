@@ -1,0 +1,11 @@
+Speaker1: Hey, are you Wang Xiaojie?
+Speaker2: Hello, I am, may I ask who you are?
+Speaker1: I am a customer service representative at Jiangnan Bank. Do you have any recent business needs? We have specialized loan services here for entrepreneurs.
+Speaker2: Wow, really? I've been considering opening an online store lately.
+Speaker1: Great, this is the reason I'm contacting you. We have a special loan product for online entrepreneurs, no collateral, simple paperwork, fast approval.
+Speaker2: It sounds good, but I don't understand these loan processes well, will it be that complicated?
+Speaker1: No problem at all, just provide some basic information and we'll have a dedicated customer manager guide you through all the processes.
+Speaker2: What do I need to prepare?
+Speaker1: You just need to prepare your identity card and business license copy, then click this link, fill out some basic information and you're done.
+Speaker2: Okay, let me try.
+Speaker1: Great! The link is already on your phone. Feel free to contact me if you have any questions. Best wishes for your business!

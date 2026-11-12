@@ -1,0 +1,10 @@
+Speaker1: Hello, I'm the manager of Haitein Investment.
+Speaker2: Hello, do you have anything?
+Speaker1: Have you recently considered investing in finance? Our recent investment project has a high return, low risk, and is highly observable.
+Speaker2: Do you invest in finance? I'm not very familiar with this.
+Speaker1: No problem, we have a professional team here to guide you. Just download our app, register an account, and you can start investing.
+Speaker2: Do you want to download the app? This sounds a little scary.
+Speaker1: Don't worry, our platform is very safe, many customers have already been using it. You can try a small investment first, experience it.
+Speaker2: How do I download this app?
+Speaker1: You can click on this link to directly download our app. The link is: [fake link]. After downloading, if you have any questions, please contact me.
+Speaker2: Okay, I'll try it out. Thank you.

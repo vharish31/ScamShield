@@ -1,0 +1,11 @@
+Speaker1: Hey, are you little Li?
+Speaker2: Yes, who are you?
+Speaker1: I am a customer service representative at the Bank of China, Li. We noticed that you recently have a loan need, and we can provide you with low interest rate, no collateral, quick loan service.
+Speaker2: Oh, really? I really need some money recently.
+Speaker1: Yes, we have a special activity, just need to fill out a simple application form, can quickly get a loan.
+Speaker2: How do I apply?
+Speaker1: It's very simple. Just click this link and fill out the relevant information.
+Speaker2: Link? How do I know this link is safe?
+Speaker1: Don't worry, we are a regular bank, the link is our official website. You can also download our official app, it's more convenient to operate.
+Speaker2: Okay, let me try.
+Speaker1: Great, after you download the app, you can directly register and fill out the loan application. Our staff will quickly review it. If there are any issues, you can contact me anytime.

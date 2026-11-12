@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Mr. Zhang? This is the loan department of Huaxia Bank.
+Speaker2: Hello, I am Zhang San.
+Speaker1: Mr. Zhang, we have a product without collateral and low interest rate on credit loans that is very suitable for the current economic environment. Do you have any recent financial needs?
+Speaker2: Uh, I recently need some cash flow.
+Speaker1: Great, I can provide you with a loan of 50,000 yuan with a very low interest rate, and the approval process is simple and fast.
+Speaker2: What does it sound like? What do I need to do?
+Speaker1: You just need to download our bank's official app, fill out some basic information, and we will immediately process it for you.
+Speaker2: Okay, how do I download your app?
+Speaker1: You can download the app by clicking this link: http://example.com/app. After downloading, follow the instructions.
+Speaker2: I understand, thank you for your help.

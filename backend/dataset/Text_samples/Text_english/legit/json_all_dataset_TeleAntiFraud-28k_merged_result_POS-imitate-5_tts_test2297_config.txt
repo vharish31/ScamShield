@@ -1,0 +1,10 @@
+Speaker1: Hey, are your restaurant still open?
+Speaker2: Hello, are you still open, do you want to know what menu items or reserve a seat?
+Speaker1: Can I reserve a window seat for two people around 7 pm tonight?
+Speaker2: Of course, the window position has been reserved for you, and it will be opened at exactly seven o'clock.
+Speaker1: Okay, thank you. So, do you have any special dishes to recommend at your restaurant?
+Speaker2: Our menu has red braised pork, steamed fish and scallion green onion, all very popular.
+Speaker1: The seafood sounds good, let's try these when we arrive. Also, I have a friend who's allergic to seafood, will your menu contain any seafood?
+Speaker2: We will adjust the menu based on the customer's needs. If your friend is allergic to seafood, we will pay special attention and avoid using any seafood ingredients.
+Speaker1: That's great, thank you so much for being so punctual.
+Speaker2: No problem, your satisfaction is our pursuit. See you later.

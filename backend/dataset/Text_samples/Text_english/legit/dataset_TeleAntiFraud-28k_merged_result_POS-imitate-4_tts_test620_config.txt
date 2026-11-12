@@ -1,0 +1,10 @@
+Speaker1: Hey, can you hear me?
+Speaker2: Hey, how are you? Can you hear me? What's up?
+Speaker1: I am a customer service representative for a food delivery platform. I see that you often order food from our platform. Would you like to share any suggestions or opinions about our service today?
+Speaker2: "Oh, your service is pretty good, delivery is pretty fast, I don't have any special opinions."
+Speaker1: That's great, thank you for your approval. If you have time, can you give us a good review on the platform?
+Speaker2: Okay, I'll go evaluate in a while.
+Speaker1: Thank you very much! Do you have any opinions on our new member service?
+Speaker2: Can you tell me more about the member services? I haven't tried it yet, can you give me specific discounts?
+Speaker1: Of course, the member service allows you to enjoy two free deliveries per month, as well as additional bonus points, which can be exchanged for various discount coupons on the platform.
+Speaker2: Sounds good, I'll think about it, thanks for the introduction.

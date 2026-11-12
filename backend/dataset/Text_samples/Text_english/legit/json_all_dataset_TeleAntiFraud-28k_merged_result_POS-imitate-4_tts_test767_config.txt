@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm Xiaoming, want to consult your delivery service.
+Speaker2: Hello, Xiaoming, I am the delivery customer service king, what can I help you with?
+Speaker1: Can you tell me about your delivery range? I live in Yangguang Xiaoquan.
+Speaker2: The sunshine small community is within our delivery range, you can rest assured to order.
+Speaker1: That's great, can you give me a look at your menu?
+Speaker2: Sure, you can view the menu on our app, or you can directly tell me what you want to order, I'll help you place the order.
+Speaker1: I want to order a beef stir-fry and a spicy chicken wing, and a glass of iced tea.
+Speaker2: Okay, your order is beef and broccoli stir-fry, spicy chicken wings, and a glass of iced tea, total price is 30 yuan.
+Speaker1: Okay, how long will you be able to send it?
+Speaker2: We will arrive within thirty to forty minutes, please prepare in advance to receive.
+Speaker1: Okay, I understand, thank you for your help.
+Speaker2: No problem, feel free to contact me if you have any other questions, enjoy your meal.

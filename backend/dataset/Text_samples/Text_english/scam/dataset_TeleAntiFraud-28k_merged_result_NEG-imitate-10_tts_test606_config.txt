@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service center of Tongda express, your package was lost during transportation, we can apply for compensation here.
+Speaker2: Really? Then what do we do?
+Speaker1: Yes, in order to facilitate processing, you need to provide some information, including your name, phone number and identity card number, we will complete the registration in the system.
+Speaker2: Okay, how can I provide?
+Speaker1: You can click on the links we send you and fill in the relevant information according to the instructions, and we will process it quickly.
+Speaker2: Okay, can you give me a link?
+Speaker1: Okay, I'll send it to you right away. Additionally, to speed up the compensation process, you can also add our customer service specialist's WeChat, and communicate directly with the specialist.
+Speaker2: Okay, let me add WeChat later.
+Speaker1: Okay, your WeChat number will be sent to you via text message shortly. Thank you for your cooperation. You can contact us anytime if you have any questions.
+Speaker2: Okay, thank you.

@@ -1,0 +1,12 @@
+Speaker1: Hello, boss.
+Speaker2: Hey, how are you?
+Speaker1: What is the specific job content of the position you applied for?
+Speaker2: The main responsibility of taking care of a pet store is to clean up the animals, feed them, and do some simple grooming.
+Speaker1: Hmm, this job sounds good, how do you calculate the salary?
+Speaker2: The salary is 3,500 yuan per month, including meals and housing, with a four-day rest each month.
+Speaker1: What is the working hours?
+Speaker2: Generally, it's from eight in the morning to six in the evening, with two hours of lunch break in the middle.
+Speaker1: Okay, what documents do I need to provide?
+Speaker2: Please provide identity card and health certificate, we need to ensure the safety and health of pets here.
+Speaker1: Understood, can I go to the interview tomorrow?
+Speaker2: Of course, come over tomorrow morning at ten o'clock, I'll be waiting for you here.

@@ -1,0 +1,8 @@
+Speaker1: Hello, I am a customer manager at Huaxia Bank, we recently introduced a very affordable credit loan, are you interested in learning more?
+Speaker2: "Hey, I recently have a bit of cash flow needs."
+Speaker1: Great, our loan products have a very low interest rate, fast approval speed, and no collateral is required. As long as you have a stable income source, you can apply.
+Speaker2: What materials do I need to prepare?
+Speaker1: You need to prepare identity card, income proof and bank statement. However, to speed up the approval, you can first scan this QR code, download our loan application app, fill in some basic information.
+Speaker2: Okay, I'll download it now.
+Speaker1: After downloading, you can upload the required data in the app. If you have any questions, feel free to contact me anytime. My phone number is 400123456.
+Speaker2: Okay, thank you.

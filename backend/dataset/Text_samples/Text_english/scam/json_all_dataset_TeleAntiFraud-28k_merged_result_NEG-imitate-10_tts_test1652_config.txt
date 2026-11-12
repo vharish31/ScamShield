@@ -1,0 +1,8 @@
+Speaker2: Hello, how are you? I am a customer service representative from Guangfa Bank, my name is Liang Xīn, you recently applied for a loan with us, do you need to know the progress of your loan?
+Speaker1: I haven't applied for a loan yet.
+Speaker2: That's it, we have a record showing that you have an incomplete loan application, it's possible that your personal information has been stolen. To protect your rights, we recommend that you log in to our bank's official website as soon as possible through a specific link to verify it.
+Speaker1: How do I know if you're a scammer?
+Speaker2: We are official bank customer service, we can provide you with the official customer service phone number, you can call to confirm. At the same time, our official website address is www.guangfawork.com, you can directly input this address in the browser to access it, there will be no security issues.
+Speaker1: Okay, let me try.
+Speaker2: Okay, thank you very much for your cooperation. If you have any questions, please feel free to contact me anytime. This is my work number 13800138000, 24/7 service. Have a happy life, goodbye.
+Speaker1: Okay, thank you, bye.

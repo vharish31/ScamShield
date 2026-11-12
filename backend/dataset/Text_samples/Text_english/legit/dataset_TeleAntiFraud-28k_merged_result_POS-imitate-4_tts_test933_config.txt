@@ -1,0 +1,12 @@
+Speaker1: Hi, I'm little Li, I want to consult your family's new body flower garden house source.
+Speaker2: Hello, I am landlord Xiao Wang, how can I help you?
+Speaker1: Yesterday I took a client to see a house, they were quite satisfied with the house, but they had some questions about the payment method.
+Speaker2: Okay, you ask, I will do my best to answer.
+Speaker1: The customer wants to rent for a year, but they suggested whether it's possible to pay in three installments, so their pressure is reduced a bit.
+Speaker2: Sure, a three-year lease is acceptable, since it benefits everyone.
+Speaker1: Okay, I'll reply to the customer. However, if you want to sign a contract, I need you to provide some contact information so that the customer can directly contact you.
+Speaker2: Okay, give my phone number to the customer, my phone number is 13812345678.
+Speaker1: Okay, thank you. I'll get back to the customer quickly. If there are any issues, the customer will contact you directly.
+Speaker2: Okay, no problem. I hope this cooperation goes smoothly.
+Speaker1: Thank you, we will also do our best to cooperate. Goodbye.
+Speaker2: Goodbye, wish you well.

@@ -1,0 +1,13 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have any open appointments this weekend?
+Speaker2: Yes, what service would you like to book?
+Speaker1: I want to make a beauty appointment and see what projects are recommended.
+Speaker2: Do you want our special weekend spa package that includes facial care and body massage?
+Speaker1: How long does this dish usually take to prepare?
+Speaker2: How about 2 hours for the whole process? What time is convenient for you?
+Speaker1: Are you going out at three o'clock on Saturday afternoon?
+Speaker2: Sure, I'll reserve this time slot for you on Saturday afternoon at 3 PM.
+Speaker1: Okay, how do we calculate the cost?
+Speaker2: The cost of this special set menu is 500 yuan, you can pay when you come.
+Speaker1: Okay, thank you, see you on Saturday.
+Speaker2: Okay, see you on Saturday, looking forward to your arrival.

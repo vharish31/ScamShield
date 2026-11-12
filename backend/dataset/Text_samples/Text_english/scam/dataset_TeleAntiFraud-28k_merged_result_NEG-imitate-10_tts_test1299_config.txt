@@ -1,0 +1,10 @@
+Speaker1: Hello, are you the boss Lee at the Guangzhou Bank?
+Speaker2: Hello, it's me.
+Speaker1: Mr. Li, hello, I am the client manager of Guangzhou Bank, based on our assessment of your enterprise, you are eligible to apply for a loan of up to 50,000 yuan without collateral, which can solve your enterprise's cash flow problem.
+Speaker2: Wow, really? This is great.
+Speaker1: Yes, you just need to provide some basic information, and we can handle it for you. For your convenience, you can download our bank's official app, which has detailed application procedures on it.
+Speaker2: Okay, how do I download this app?
+Speaker1: It's very simple. You can search for "Guangzhou Yinhang" in the app store on your phone, download and install it, and then register and log in with your phone number. If you have any questions, feel free to contact me. My phone number is 13800138000.
+Speaker2: Okay, I'll download it now, thank you for your help.
+Speaker1: No problem, if you encounter any issues during the download or use process, please feel free to contact me at any time. Wish you all the best, goodbye!
+Speaker2: Okay, bye.

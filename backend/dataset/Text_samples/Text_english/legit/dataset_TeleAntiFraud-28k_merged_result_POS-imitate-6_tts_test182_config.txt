@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I'm ordering food at your store, could you please give me some information about the menu?
+Speaker2: Hello, Xiao Ming, I am restaurant server Zhang Xiao, what can I help you with?
+Speaker1: Can you tell me what's on your menu, and roughly how much it costs?
+Speaker2: Our store's signboard menu has Kung Pao Chicken, Water Boiled Fish, and Mapo Tofu. Kung Pao Chicken is 38 yuan, Water Boiled Fish is 68 yuan, and Mapo Tofu is 28 yuan.
+Speaker1: Is there a spicy option for the boiled fish?
+Speaker2: Yes, you can choose from mild, medium, or spicy when cooking fish in water, based on your own taste.
+Speaker1: Okay, I want one spicy steamed fish and one mapo tofu, about how long will it take to deliver?
+Speaker2: Can you please confirm your order now? It will be delivered approximately forty minutes later to the same address as last time?
+Speaker1: Okay, it's the same address, thank you.
+Speaker2: Okay, your order has been recorded, it will arrive in 40 minutes. Do you need any further assistance?

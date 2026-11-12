@@ -1,0 +1,10 @@
+Speaker1: Hello, you, this is Huaxia Bank Loan Center, your previous loan application has been approved, you can come to handle the disbursement procedures now.
+Speaker2: Really? Great, I've been waiting for a long time.
+Speaker1: Yes, but in order to ensure the safety of your account, you need to pay a deposit first.
+Speaker2: Deposit? How much money is needed?
+Speaker1: Just need three thousand yuan, wait for loan success, this money will return to original route.
+Speaker2: Okay, how do I pay?
+Speaker1: You can pay through our special link, I will send you a text message.
+Speaker2: Okay, I'm waiting for your text message.
+Speaker1: Okay, just a moment, I'll send you a text message right away. Additionally, to speed up the process, you can download our app, it's more convenient to operate.
+Speaker2: Do you want to download the app? Okay, I'll try.

@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Zhang, I ordered an outside food at your store, why haven't you sent it yet?
+Speaker2: Hello, little Zhang, I am delivery boy Li, your delivery is on the road, maybe because of the traffic, a little late.
+Speaker1: Hmm, like this, how long do you think it will take?
+Speaker2: I'll arrive in about ten minutes, don't worry.
+Speaker1: Okay, thank you, I'm waiting.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, enjoy your meal.
+Speaker1: Can you give me a call when I arrived at the community gate?
+Speaker2: Okay, I will call you ahead to confirm the convenient dining location.
+Speaker1: Okay, I'll wait for your call.
+Speaker2: Okay, be careful on the way, goodbye.

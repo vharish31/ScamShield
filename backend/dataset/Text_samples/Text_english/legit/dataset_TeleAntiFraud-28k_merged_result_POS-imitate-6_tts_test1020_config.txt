@@ -1,0 +1,10 @@
+Speaker1: Hey, are you the car repair place?
+Speaker2: Hello, this is a car repair center. How can I help you?
+Speaker1: I scheduled an appointment to fix my car yesterday at nine o'clock, but I might be late now.
+Speaker2: Is it nine o'clock? No problem, you can come a little later than nine, as long as you come before nine and a half.
+Speaker1: Okay, I'll probably arrive at nine and a half.
+Speaker2: Okay, you can go before nine and a half, remember to bring the appointment certificate.
+Speaker1: Is the reservation voucher on your phone via text message?
+Speaker2: Yes, it's a text message, or you can bring your ID with you.
+Speaker1: Okay, I understand, thank you.
+Speaker2: No problem, feel free to contact us anytime, be careful on the road.

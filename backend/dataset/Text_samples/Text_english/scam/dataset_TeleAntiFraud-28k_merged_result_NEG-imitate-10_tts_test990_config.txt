@@ -1,0 +1,10 @@
+Speaker1: Hello, you are the security center of Jing Cheng, I am your security consultant, Li Ming.
+Speaker2: Hello, what do you have?
+Speaker1: That's it, we detected unusual activity on your bank account, it might be fraud.
+Speaker2: Really? Then what do we do?
+Speaker1: To ensure your funds are safe, please cooperate with us for an account verification.
+Speaker2: What do you need me to do?
+Speaker1: Please log in to our official website, enter your bank card number and verification code, we will verify it in the backend.
+Speaker2: How do I log into your website?
+Speaker1: You can click on the link I sent you, and directly enter the verification page.
+Speaker2: Okay, let me try.

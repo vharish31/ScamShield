@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you sell that kind of waterproof outdoor backpack at your store?
+Speaker2: Okay, we have different types of waterproof backpacks here. What information do you want to know?
+Speaker1: I mainly use it for hiking, it should be able to hold a 15-inch notebook computer, and it should have waterproof functionality, and it should be lightweight.
+Speaker2: We have a backpack that's perfect for you, it's designed specifically for outdoor activities and is waterproof, can fit a 15-inch laptop and notebook, and is very lightweight.
+Speaker1: How much does this backpack cost?
+Speaker2: This backpack costs 350 yuan, and if you order now, you can enjoy a 90% discount.
+Speaker1: That's great, I decided to buy it. Can you deliver it to my home quickly?
+Speaker2: Of course, we support all national express, you can tell me your address and phone, we will arrange delivery quickly.

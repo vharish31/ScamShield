@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I book a haircut appointment for tomorrow at noon?
+Speaker2: Of course, we have a free slot at twelve o'clock. What kind of service do you need to book?
+Speaker1: I want to cut short my hair and then wash my head.
+Speaker2: Okay, short hair haircut and head wash service, it's 80 yuan in total. Can you confirm your phone number?
+Speaker1: My phone number is 13123456.
+Speaker2: Okay, I have recorded it down. Tomorrow at noon twelve, we will be ready ten minutes early on this side.
+Speaker1: Okay, thank you. Is there free parking at your place?
+Speaker2: Yes, we have a free parking lot, you can directly enter.
+Speaker1: That's great, thank you for your help.
+Speaker2: No problem, feel free to contact us anytime if you have any questions. See you tomorrow!

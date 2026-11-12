@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything you can help me with?
+Speaker1: I'd like to inquire about your repair service, my washing machine is broken.
+Speaker2: Of course, we provide home appliance repair services. Can you please tell me the brand and specific issue of your washing machine?
+Speaker1: It's Heer's, mainly it's not draining, there's a bit of leaking.
+Speaker2: Understood, in this situation we can arrange for the master to come to your door to check. Are you convenient to schedule a time?
+Speaker1: Is Friday afternoon okay?
+Speaker2: Can we meet on Friday afternoon between 2 and 4 PM? Do I need to schedule it for you?
+Speaker1: Okay, let's schedule this time. And what's the estimated repair cost?
+Speaker2: The repair cost depends on the specific issue. If it's just replacing the drain pump, it's about 300 to 400.
+Speaker1: Okay, thank you. See you later, master.
+Speaker2: Okay, remember to keep the phone call clear. Goodbye.

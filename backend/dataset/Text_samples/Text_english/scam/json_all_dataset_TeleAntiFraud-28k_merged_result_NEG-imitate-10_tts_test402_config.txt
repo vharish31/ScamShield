@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm customer service representative Li from China, I see you have some recent purchase records on our platform, there's a promotion going on now, would you like to know more?
+Speaker2: Hey, how are you? Is it okay? What discount activities?
+Speaker1: We have a new user cashback activity. Download our app and complete registration to get a hundred yuan cashback, and also have a chance to win higher value prizes.
+Speaker2: How do I download that app?
+Speaker1: Clicking this link directly will download it, very convenient.
+Speaker2: Okay, let me try.
+Speaker1: Okay, after you download and install, use this phone number to register. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, please complete the verification after registering, so you can receive the cashback.
+Speaker2: Okay, I understand, thank you for your help.

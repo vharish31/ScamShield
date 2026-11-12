@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the customer service of the community property, want to confirm the recent repair situation of your home's water and electricity.
+Speaker2: Hey, how are you? Do you have any questions?
+Speaker1: Can you confirm if the electrical issue at your home is resolved now that the maintenance technician has been there?
+Speaker2: Gone, gone, all good now.
+Speaker1: That's great, if there are any issues in the future, feel free to contact us anytime.
+Speaker2: Okay, thank you.
+Speaker1: No problem, we're just here to provide better service to the landlord. By the way, how's the water pressure at your home?
+Speaker2: The water pressure is good, no problem.
+Speaker1: Okay, if there are any issues in the future, remember to notify us first.
+Speaker2: Okay, thank you, you guys have worked hard.

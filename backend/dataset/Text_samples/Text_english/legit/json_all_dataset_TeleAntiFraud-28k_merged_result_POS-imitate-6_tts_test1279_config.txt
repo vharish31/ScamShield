@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I'm the delivery boy, your food is here, now I'm bringing it up to you.
+Speaker2: Okay, I'll wait for you at the elevator.
+Speaker1: Okay, I'll be there soon.
+Speaker2: Do you have it? You put it on the ground, I'm a bit busy here.
+Speaker1: Okay, I put it down, you be careful when picking it up.
+Speaker2: Thank you so much, you worked hard.
+Speaker1: No problem, this is my job. Eat slowly, bye.
+Speaker2: Okay, bye.

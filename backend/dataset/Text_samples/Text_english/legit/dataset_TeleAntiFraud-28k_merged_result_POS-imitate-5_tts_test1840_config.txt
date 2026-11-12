@@ -1,0 +1,14 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can I reserve a single room for tomorrow's stay?
+Speaker2: Sure, our hotel has a vacant room. How many days do you need to stay?
+Speaker1: How much is your price for three days?
+Speaker2: The price for a single person in this room is three hundred yuan per night, including breakfast. If you book for three days, we can give you a discount, totaling eight hundred and fifty yuan.
+Speaker1: Does it sound good? Then do I need to pay in advance?
+Speaker2: Yes, we suggest you pay half of the rent in advance as a deposit, and the remaining fees upon check-in.
+Speaker1: Okay, how do I pay the deposit?
+Speaker2: You can pay the deposit through our website or WeChat, or you can call me directly and I will handle it for you.
+Speaker1: Can I pay directly through WeChat? Do I need to inform you of the payment receipt after payment?
+Speaker2: Yes, please send us the payment voucher screenshot, we will confirm it for you.
+Speaker1: Okay, I'll go pay now, I'll send you the receipt later. Thank you.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions. Have a great day!

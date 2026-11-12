@@ -1,0 +1,11 @@
+Speaker1: Hey, are you Li boss?
+Speaker2: Yes, who are you?
+Speaker1: Hello Li Laoban, I am Zhang Xiaojing, the client manager of Yángguāng Yínkǎo, we noticed you opened a new electronics store in Nánchéngqū, now our bank has a loan project for small business owners, high amount, low interest, fast approval.
+Speaker2: Hey, how do I apply for this loan? What conditions do I need to meet?
+Speaker1: The conditions are very simple. You just need to have a business license, good business status, and no negative credit records. If you're interested, you can click this link and fill out some basic information, and our staff will contact you quickly.
+Speaker2: Link? How do I know this link is safe?
+Speaker1: Mr. Li, this link directly takes you to our bank's official website, which is very safe. You can rest assured. Additionally, if you're not comfortable clicking the link, you can also download our mobile banking app, which is more convenient to operate.
+Speaker2: How do I know if this app is real when I download it?
+Speaker1: You can download our bank app from all major app stores. Just search for "Yangguang Bank" and make sure it's safe. After downloading, if you have any questions, you can directly contact me. My phone number is 134567890.
+Speaker2: Okay, I'll try it out. Thank you.
+Speaker1: No problem, Li Laoban. If you have any questions, please contact me anytime. Wish your business prosperity. Goodbye.

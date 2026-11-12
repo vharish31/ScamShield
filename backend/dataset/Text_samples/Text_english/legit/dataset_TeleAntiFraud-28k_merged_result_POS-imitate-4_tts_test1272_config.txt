@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hey, how are you?
+Speaker1: I am a customer service representative for small beauty home service, I want to confirm the time for the home cleaning service you booked last time.
+Speaker2: Okay, let's double-check the time together.
+Speaker1: Is your appointment on Saturday morning from 10 to 12 am?
+Speaker2: Yes, the time is correct, but there was someone at my house that day, can your staff come early at 9:30 to start work?
+Speaker1: Sure, can we adjust the time to 9:30am? Is that okay with you?
+Speaker2: Okay, then please bother us.
+Speaker1: No problem, this is what we should do. Do you need us to bring cleaning tools up to your door or do you have them prepared at home?
+Speaker2: It's best if you bring a set of cleaning tools with you, our family's cleaning tools are not complete.
+Speaker1: Okay, we will definitely prepare all the cleaning tools, ensure the service quality and efficiency. If you have any other needs, please feel free to contact me anytime.
+Speaker2: Okay, thank you for your service.
+Speaker1: You're welcome, wish you a happy day, see you on Saturday.

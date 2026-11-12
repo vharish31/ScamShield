@@ -1,0 +1,13 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any haircut appointment on Saturday here?
+Speaker2: Okay, what time do you want to make a reservation?
+Speaker1: Can we meet at three in the afternoon?
+Speaker2: 3 o'clock is fine, but we suggest coming a little earlier to avoid traffic congestion.
+Speaker1: Okay, I'll be there at around 2:40.
+Speaker2: Okay, 2:40, we'll hold a spot for you here.
+Speaker1: Thank you, can I just go directly there when the time comes?
+Speaker2: Yes, please tell the front desk your appointment name when you arrive, and we will arrange it.
+Speaker1: Okay, thank you. Then I'll see you on Saturday.
+Speaker2: Okay, see you on Saturday. I hope you have a great experience. Bye.
+Speaker1: Goodbye.

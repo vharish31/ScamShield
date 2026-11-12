@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, this is the small king of the customer service center, you may have encountered some problems with the products you bought recently on our platform, please cooperate to handle it.
+Speaker2: What problem?
+Speaker1: We received feedback that your order may be at risk of fraud, so we need you to provide some information for verification.
+Speaker2: What do I need to do?
+Speaker1: To ensure your rights, I need you to provide your bank card number and verification code. We will return the funds directly.
+Speaker2: Okay, how can I provide this information?
+Speaker1: You can click this link and fill out the relevant information, we will process it quickly.
+Speaker2: Link? How do I know this is safe?
+Speaker1: This link is our official link, absolutely safe, you can relax.
+Speaker2: Okay, let me try.

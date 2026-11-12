@@ -1,0 +1,9 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I am the manager of the Agricultural Bank, we recently launched a high-yield investment product, are you interested in learning more?
+Speaker2: Hey, invest in financial products?
+Speaker1: Yes, this product has a monthly return rate of 3%, which is very suitable for short-term investment. You just need to provide some basic information, and we can open an account for you.
+Speaker2: What do I do now?
+Speaker1: It's very simple. Just click this link, fill out the relevant information, and our customer service team will contact you to complete the next steps.
+Speaker2: Okay, let me try.
+Speaker1: Great, this link is: [fake link], hurry up, limited spots.
+Speaker2: Thank you, I will pay attention.

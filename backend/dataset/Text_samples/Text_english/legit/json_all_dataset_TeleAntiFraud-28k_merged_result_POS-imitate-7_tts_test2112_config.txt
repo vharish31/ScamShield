@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, I'm little Zhang, yesterday I set up your car, can you confirm the time?
+Speaker2: Hello, little Zhang, I am the customer service of the car rental company, which day did you book the car?
+Speaker1: I'm definitely going to be at the airport at 8:30 am tomorrow.
+Speaker2: Okay, I'll check. Hmm, your order has been confirmed, you can pick up the car tomorrow morning at 8:30.
+Speaker1: Can I go around 9 o'clock?
+Speaker2: Okay, you can pick up the car before 9am, it won't affect your order.
+Speaker1: Okay, then I'll go around nine o'clock. What time do we need to leave?
+Speaker2: You will arrive on the 25th at 6 PM or earlier on the 25th evening.
+Speaker1: Okay, I'll return the car on time. Do I need to buy insurance?
+Speaker2: Insurance is not mandatory to buy, but it's recommended to buy it to protect your rights.
+Speaker1: Okay, I'll think about it. Thank you for your help. Bye.
+Speaker2: No problem, please contact me if you have any questions. Goodbye.

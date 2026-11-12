@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you recommend any nearby weekend travel routes for a weekend trip around here?
+Speaker2: Of course, we have several recommended routes, one is to go on a natural scenery tour in the mountains, the other is to go on a cultural tour of ancient towns, which one do you prefer?
+Speaker1: Can you give me a detailed introduction to the ancient town culture?
+Speaker2: Okay, the ancient town culture tour includes visiting old streets, tasting local snacks, and experiencing traditional handicrafts. The trip takes about a whole day, starting at 8 am and returning at 5 pm.
+Speaker1: How much does this trip cost?
+Speaker2: Each person's expense is 150 yuan, which includes return transportation, lunch, and admission tickets to scenic spots.
+Speaker1: How can I register?
+Speaker2: You can directly sign up through our website or add my WeChat, I'll help you register, my WeChat number is 3579.
+Speaker1: Okay, I added you on WeChat to get more info, thanks.
+Speaker2: You're welcome, I'm looking forward to your joining, feel free to contact me anytime if you have any questions.

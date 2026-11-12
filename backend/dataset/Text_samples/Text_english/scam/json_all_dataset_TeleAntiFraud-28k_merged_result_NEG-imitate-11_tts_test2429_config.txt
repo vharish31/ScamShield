@@ -1,0 +1,11 @@
+Speaker1: Hey, are you Li Ming?
+Speaker2: Yes, who are you?
+Speaker1: Hello, I am a customer service representative from JD Finance, we noticed that your recent loan application on our platform did not pass, do you want to know the specific situation?
+Speaker2: Oh, really? I did apply, but I didn't pass.
+Speaker1: Yes, your application was rejected because the information was incomplete. However, we have a special channel that can help you quickly get a loan.
+Speaker2: Really? Then what do I need to do?
+Speaker1: You need to download our exclusive app, through which you can submit more detailed information, we will prioritize your application.
+Speaker2: Okay, how do I download this app?
+Speaker1: You can search 'extreme loan' on your phone app store, download our official app, register and log in, then follow the instructions to proceed.
+Speaker2: I understand, thank you for your help.
+Speaker1: No problem, feel free to contact our customer service anytime if you have any questions. Best wishes for your loan!

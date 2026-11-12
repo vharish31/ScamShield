@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your home repair service.
+Speaker2: Hello, this is the repair service center. What can I help you with?
+Speaker1: My home air conditioner broke down, how do I schedule a repair technician to come over and check it?
+Speaker2: Okay, could you please provide specific address and contact information, we will arrange the teacher to come over as soon as possible.
+Speaker1: I live in Happiness Villa, apartment 3, unit 2, room 402, phone number is 134567890.
+Speaker2: Okay, we recorded it down. We estimate that someone will knock on the door between 9am and 11am tomorrow morning. Please keep the phone line open.
+Speaker1: Okay, thank you. Do I need to prepare anything else?
+Speaker2: No special preparation is needed, keep indoor ventilation, master brings all necessary tools when he arrives.
+Speaker1: What is the calculation for maintenance fees?
+Speaker2: The repair cost will be calculated based on the actual repair project and the materials used, and the master will conduct an initial inspection and provide a quote after arriving, and then proceed with the repair after confirmation.
+Speaker1: Okay, that's all for you now.
+Speaker2: No problem, we will solve your issue quickly, feel free to contact us if you have any other questions.

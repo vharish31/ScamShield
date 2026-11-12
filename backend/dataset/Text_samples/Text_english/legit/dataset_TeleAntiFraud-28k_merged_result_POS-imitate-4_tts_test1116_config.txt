@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Do you have any new movie tickets for sale here?
+Speaker2: Yes, we have the latest movie tickets here. Which movie do you like?
+Speaker1: Can you tell me if there are any more episodes of "Star Crossed"?
+Speaker2: What time do you plan to watch "Star Crossed"? There are afternoon two o'clock and evening seven o'clock sessions.
+Speaker1: Can I book two tickets for 7:00?
+Speaker2: Of course, there are enough seats at 7:00, I booked two for you. What information do you need to confirm the booking?
+Speaker1: My phone number is 13801380138, use this number to confirm.
+Speaker2: Okay, I have recorded it. Your two tickets for the "Interstellar" movie have been successfully reserved for tonight at 7:00 p.m. Remember to arrive fifteen minutes early at the theater to pick up your tickets.
+Speaker1: Okay, thank you for your help.
+Speaker2: No problem, wish you enjoy the movie. Bye!

@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm little Zhang, I saw your hair salon reviews are pretty good, want to book a time to cut my head hair.
+Speaker2: Hello, little Zhang, thank you for your trust. What time do you plan to come?
+Speaker1: Can I have this Saturday afternoon around three o'clock?
+Speaker2: Saturday afternoon at three o'clock is okay, but we suggest coming earlier, so you have more time to choose your favorite hairstyle.
+Speaker1: Okay, I'll arrive fifteen minutes early.
+Speaker2: Okay, so we'll agree to meet on Saturday at 2:45 PM. Do you need me to confirm the hairdresser for you?
+Speaker1: If possible, I want to book a lesson with Li teacher, hear his technology is good.
+Speaker2: Okay, Li's technology is really good, I will book him for you. On Saturday at 2:45 PM, remember to bring your ID, because first-time service requires registration.
+Speaker1: Okay, thank you for your reminder, see you later.
+Speaker2: No problem, see you on Saturday. Wish you a happy day.

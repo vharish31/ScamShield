@@ -1,0 +1,15 @@
+Speaker2: Hello, who are you?
+Speaker1: Hi, I'm little Li, how have you been recently?
+Speaker2: Hey, little Li, I'm pretty good, you?
+Speaker1: I'm doing well too, lately my work has been pretty busy, how about you?
+Speaker2: Hello, it's just that the project is a bit too many, but I can handle it.
+Speaker1: So, are there any free weekends? Let's go eat together.
+Speaker2: Sounds good, but I have something on the weekend, how about next Friday?
+Speaker1: Can we eat dinner at which location next Friday?
+Speaker2: Let's go try out that new restaurant that everyone's been talking about.
+Speaker1: Okay, let's go to that new restaurant. Do you know the specific address?
+Speaker2: Can you check the address for me and let me know when it's convenient for you?
+Speaker1: I'm done by 7, are you?
+Speaker2: Let's meet at 7:30 then.
+Speaker1: Okay, see you later, have you found the address and send it to me.
+Speaker2: Okay, I'll check and give it to you later.

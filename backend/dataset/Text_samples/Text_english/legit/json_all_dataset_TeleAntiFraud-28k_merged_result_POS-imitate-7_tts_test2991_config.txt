@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm customer service Li from the e-commerce platform. We see that you have a lot of points in your account that haven't been used.
+Speaker2: Oh, really? I didn't notice.
+Speaker1: Yes, your account has 30,000 points, which can be exchanged for goods worth over 4,000 yuan.
+Speaker2: Really? Then how do I exchange it?
+Speaker1: It's very simple. We've already sent you a text message with a link. Just click on the link in the text message to enter the point shop and select the products you like to exchange.
+Speaker2: Okay, I'll go take a look later.
+Speaker1: Hey, your points will expire at midnight tonight, so you'd better hurry up.
+Speaker2: Got it, I'll handle it now. Thanks for reminding me.
+Speaker1: You're welcome. If you have any issues, please contact us anytime. Have a happy shopping.
+Speaker2: Okay, thank you. Bye.

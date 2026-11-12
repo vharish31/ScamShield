@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, do you have any new sports shoes in your store?
+Speaker2: Yes, we just got a new batch, with many colors and styles to choose from.
+Speaker1: What's the price like?
+Speaker2: The price ranges from 300 to 600 yuan, please specify your chosen style.
+Speaker1: Can I try it on?
+Speaker2: Of course, when do you have time to try on?
+Speaker1: Can I have some space in the afternoon around three o'clock tomorrow?
+Speaker2: Okay, tomorrow afternoon three o'clock, I'll be here waiting for you.
+Speaker1: Okay, thank you. See you tomorrow.
+Speaker2: No problem, see you tomorrow.

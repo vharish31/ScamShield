@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I saw a blue sports shoe in your store, want to know more about it?
+Speaker2: Hello, this blue sports shoe is our best-selling item, what information do you need?
+Speaker1: Can you tell me the price, and do you have the number 38 for me?
+Speaker2: We have blue running shoes in size 38 here, priced at 498 yuan. Would you like to try them on?
+Speaker1: Can I try on, I'm at your store nearby, about ten minutes away.
+Speaker2: Okay, we'll meet here in ten minutes. If you have any other questions, feel free to ask me anytime.
+Speaker1: Okay, thank you. Right, does this shoe have a discount promotion?
+Speaker2: There isn't any special discount promotion for this shoe brand currently, but our store is having a buy-one-get-five-percent-off deal now, you can check if there are any other products you like to buy together.
+Speaker1: Okay, I'll wait a moment to take a look. Thank you for your service.
+Speaker2: No problem, I'm looking forward to your arrival. Wish you a happy shopping!

@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am a customer manager from some bank. Recently we launched a special promotion loan project. Do you have any interest in learning more about it?
+Speaker2: Can you give me a loan? I recently have some cash needs, can you give me a detailed explanation?
+Speaker1: Of course, our loan project has no collateral, interest rate is as low as two cents, approval is fast, disbursement is also very fast, very suitable for your situation.
+Speaker2: The sound is good, but I had a lot of problems when I applied for a loan at another bank before. Is your process complex?
+Speaker1: Our process here is very simple. You just need to provide some basic personal information, and after a simple review, you can quickly get a loan.
+Speaker2: What do I need to prepare?
+Speaker1: Just prepare your ID and income proof, add my WeChat, we'll communicate further and submit documents through WeChat.
+Speaker2: Wechat? How do I know you're real?
+Speaker1: You can verify my work number, and I will send you my work certificate through WeChat, ensuring safety.
+Speaker2: Okay, I'll add you on WeChat, but first tell me your work number.
+Speaker1: Okay, my work number is 12345. Add me on WeChat and I'll send you the work certificate after that. Let's continue to communicate in detail.

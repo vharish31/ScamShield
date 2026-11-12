@@ -1,0 +1,10 @@
+Speaker1: Hey, hi, I'm Lee Huai, there's a problem with your delivery, you need to cooperate and handle it together.
+Speaker2: What problem?
+Speaker1: Your package was lost during delivery, to compensate you, we need you to provide your bank card information so we can process a refund.
+Speaker2: Is it really you? How do I know you're a real courier company employee?
+Speaker1: You can check my ID card to see my employee number. I am a customer service representative for a courier company. You can call our official customer service hotline to verify.
+Speaker2: Okay, how do I provide bank card information?
+Speaker1: Just click on the link we send you and follow the instructions.
+Speaker2: How do I send you a link?
+Speaker1: I will send the link via text message to the phone number you provided, please pay attention to check it.
+Speaker2: Okay, I'll wait for a text message.

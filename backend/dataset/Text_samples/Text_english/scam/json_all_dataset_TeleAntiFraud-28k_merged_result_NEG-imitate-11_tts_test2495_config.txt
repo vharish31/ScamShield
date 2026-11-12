@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the Commercial Bank of China, Tianhe Branch.
+Speaker2: Hello, what's up?
+Speaker1: We noticed you recently have a need for buying a house, to better help you solve your financial problems, we can provide you with a no collateral credit loan of 50,000 yuan.
+Speaker2: Really? That's great, I really need money.
+Speaker1: Yes, to make it easier for you to operate, you can first download our loan app, register and you will have a dedicated customer manager serving you.
+Speaker2: Okay, how do I download it?
+Speaker1: You can scan the QR code I send you or click this link to directly download our app.
+Speaker2: Okay, let me try.
+Speaker1: Okay, download it and remember to register and fill out the relevant information. If you have any questions, feel free to contact me anytime.
+Speaker2: Thank you, I will contact you.

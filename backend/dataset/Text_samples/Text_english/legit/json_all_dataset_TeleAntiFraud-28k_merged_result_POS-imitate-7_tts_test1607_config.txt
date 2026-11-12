@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: What's the weather like tomorrow? I'm planning to go out and play.
+Speaker2: Tomorrow's weather forecast is clear, with a high temperature of around 25 degrees Celsius, which is perfect for outdoor activities.
+Speaker1: That's great, let's go to the south mountain park for a picnic, can you help me find out how to take the bus there?
+Speaker2: Sure, you can take the subway line 2 to the city library station, then transfer to bus 3, and you'll be at south mountain park in about three stations.
+Speaker1: Okay, thank you for your help. Do you know any good small shops for food near the park?
+Speaker2: There's a popular old Zhang fried dough shop near South Mountain Park, and the taste is great. There's also a small Li grilled fish shop nearby that's quite popular.
+Speaker1: I'm already looking forward to it after hearing you say that. Yes, can we set up a tent in the park?
+Speaker2: Sure, the grassland in South Mountain Park is very large, many places allow you to set up tents, but remember not to damage the grass, okay?
+Speaker1: Okay, we will pay attention. Thank you so much, have fun tomorrow!
+Speaker2: No problem, wish you all have fun, feel free to contact me if you need help.

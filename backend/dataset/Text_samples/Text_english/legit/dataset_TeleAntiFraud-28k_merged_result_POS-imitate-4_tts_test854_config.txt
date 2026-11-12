@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you? I am the customer service of the community property, are you reporting the leakage of the water pipe in your kitchen?
+Speaker2: Is that so? I reported a repair yesterday evening. What happened?
+Speaker1: Okay, we have recorded your repair request, and we will arrange for a maintenance technician to come to your home this morning to check it out.
+Speaker2: What time do you arrive approximately?
+Speaker1: Master is expected to arrive around 10 am, can you wait at home for a while?
+Speaker2: Sure, I'll wait at home.
+Speaker1: Okay, the teacher will contact you in advance to confirm. Additionally, if you need to replace parts, you may have to pay extra fees.
+Speaker2: How much does it cost approximately?
+Speaker1: The specific cost depends on the replacement parts, but it's usually not more than 200 yuan.
+Speaker2: Okay, I understand, thank you.
+Speaker1: No problem, feel free to contact us if you have any other questions.

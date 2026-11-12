@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm little Li, I'm waiting for you at the subway station exit.
+Speaker2: Hello, little Li, where are you? I can't find you.
+Speaker1: Exit from the second door, then walk straight and turn right at the first crossroad.
+Speaker2: Okay, I see it, I'm at the right turn on the crossroads, where are you?
+Speaker1: I'm standing on the right side of you, do you see a small square there?
+Speaker2: I see you, I'm walking towards you. What color are you wearing?
+Speaker1: I am wearing a blue jacket.
+Speaker2: Okay, I see you, come over soon.
+Speaker1: Okay, slow down, pay attention to safety.
+Speaker2: You're welcome, please be careful too.

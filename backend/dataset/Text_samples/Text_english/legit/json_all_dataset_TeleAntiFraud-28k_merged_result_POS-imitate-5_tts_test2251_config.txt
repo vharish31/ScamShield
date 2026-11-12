@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Lee Huai, can you tell me if there are any yoga classes suitable for beginners here?
+Speaker2: Hello, Lee Huang, we have a special yoga course here for beginners, three times a week, each session for an hour, very suitable for beginners.
+Speaker1: How much is the course fee?
+Speaker2: The starter package for beginners is 300 yuan per month and includes all courses.
+Speaker1: Okay, it sounds good. Do I need to make an appointment in advance?
+Speaker2: Yes, we suggest you book in advance, so we can reserve a spot for you. You can book by phone or WeChat.
+Speaker1: Can I try it tomorrow?
+Speaker2: Of course, there's a beginner's class at nine o'clock in the morning tomorrow. Would you be convenient to come and join?
+Speaker1: What do I need to prepare at 9:00?
+Speaker2: You just need to wear comfortable clothes, we provide yoga mats and other necessary items here.

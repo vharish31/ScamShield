@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I want to ask if your store has a vegetarian set meal?
+Speaker2: Hello, yes, we have a lot of vegetable dishes here, do you want to know more about them?
+Speaker1: Sure, can you introduce yourself?
+Speaker2: Of course, our vegetarian set meal here has vegetarian dumplings, vegetable stir-fry, and also vegetable hot pot, each portion is carefully prepared, and the taste is very good.
+Speaker1: Can I order a vegetarian dumplings at six o'clock tonight?
+Speaker2: Sure, 6:00 PM vegetarian dumplings are fine, do you need to reserve a name or phone number?
+Speaker1: No need for name, phone number is 8654321.
+Speaker2: Okay, 8654321, I recorded it for you, we'll have vegetable dumplings ready at 6 pm tonight, just go straight to the store when you arrive.
+Speaker1: Okay, thank you, see you later.
+Speaker2: No problem, see you later, wish you have a good day.

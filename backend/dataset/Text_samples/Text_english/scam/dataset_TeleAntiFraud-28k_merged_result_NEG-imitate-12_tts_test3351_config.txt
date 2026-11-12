@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager of a commercial bank, and I have a special discount loan plan to recommend to you.
+Speaker2: Loan? I don't need it.
+Speaker1: Hey, do you know, we now have a special promotion, with an annual interest rate as low as 0.3%, and quick approval, and simple procedures.
+Speaker2: No need, thank you.
+Speaker1: That's really too bad, but if you change your mind, you can contact me anytime, this is my phone number: 13801380138.
+Speaker2: Okay, thank you.
+Speaker1: We recently have a special activity, if you download our APP, register and complete the first loan, you will get a 500 yuan cash red packet.
+Speaker2: Do you want to download the app?
+Speaker1: Yes, download our app, the operation is very simple, I will send you a link, you can directly click on download after opening it.
+Speaker2: Okay, let me try.

@@ -1,0 +1,12 @@
+Speaker1: Hey, how are you? I'm Xiaoming, our company just started a new project and we'd like to hear your thoughts.
+Speaker2: Hello, Xiaoming, what project?
+Speaker1: Do you think there's a demand for a smart home product in the market?
+Speaker2: That's great, smart home is very popular now.
+Speaker1: What do you think we should start from?
+Speaker2: I think we can start with security and convenience, like smart door locks and smart light control.
+Speaker1: Hmm, this suggestion is good, we will also consider adding some smart voice control functionality.
+Speaker2: Voice control is indeed convenient, now many families are using smart speakers.
+Speaker1: Yes, we are also considering cooperation with mainstream smart speakers on the market.
+Speaker2: How's your project going? Do you need help?
+Speaker1: Still in the initial stage, if there's a suitable opportunity, I hope to get your support.
+Speaker2: Okay, if there's anything I can help with, feel free to contact me anytime.

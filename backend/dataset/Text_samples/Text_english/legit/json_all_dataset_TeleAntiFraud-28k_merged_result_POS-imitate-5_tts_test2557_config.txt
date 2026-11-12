@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I'm Xiaoming, I'm standing in front of your store, how can I get in?
+Speaker2: Hello, Xiaoming, are you at the door on the left? We seem to have made some changes here.
+Speaker1: Yes, I am on the left, the lock on the left door is locked.
+Speaker2: Oh, that's it, you go around to the right, there's a little door on the right, there's a bell on top, just ring it and we'll come open the door.
+Speaker1: Okay, I'll try.
+Speaker2: Okay, we're ready to open the door. Just ring the bell, and we'll be right over.
+Speaker1: Did you see it?
+Speaker2: I see you, we're coming over, just wait a moment.
+Speaker1: Okay, thank you.
+Speaker2: No problem, see you later.

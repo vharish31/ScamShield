@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at the Happy Restaurant?
+Speaker2: Hello, could you tell me about your signature dishes and their prices?
+Speaker1: Our menu here has red braised pork, steamed fish, and spicy pot, red braised pork is 48 yuan per portion, steamed fish is priced differently based on size between 68 to 98 yuan, and spicy pot is 108 yuan.
+Speaker2: Okay, do you have a private room? I plan to have dinner with my family this weekend.
+Speaker1: We have several private rooms to choose from here, please let us know how many people you would like to reserve a room for.
+Speaker2: About ten people left and right.
+Speaker1: Okay, we'll reserve a room for ten people for you. Can you please leave your contact information? We'll confirm again on the day of the reservation.
+Speaker2: Okay, my phone number is 13812345678.
+Speaker1: Okay, I have recorded it. Do you have any other questions?
+Speaker2: Goodbye, thank you. See you this weekend.
+Speaker1: Okay, see you this weekend, wish you a happy weekend. Bye.

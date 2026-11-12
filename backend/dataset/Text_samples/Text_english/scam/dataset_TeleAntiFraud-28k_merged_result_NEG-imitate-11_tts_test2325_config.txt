@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the speed loan customer service center. I am the customer service manager, Zhang. Are you Li Ming?
+Speaker2: Yes, who are you?
+Speaker1: Hello, Li Ming, I am the customer service manager of Speed Loan. We noticed that you recently have a cash need, and we can provide you with a loan without collateral and low interest rate. Do you need to know more?
+Speaker2: I'm a bit tight-handed right now, I really need some money. What are your loan conditions?
+Speaker1: It's very simple. Just provide some basic personal information and we'll quickly approve. For security reasons, you need to first download our official app, complete registration and identity verification.
+Speaker2: Okay, how do I download your app?
+Speaker1: You can download our app through this link: http://example.com. After downloading, register and fill out the relevant information, we will quickly review it.
+Speaker2: Okay, I'll download it now.
+Speaker1: Great! After downloading, please complete registration quickly. If you have any issues, feel free to contact me anytime. Best wishes!
+Speaker2: Thank you, I will contact you.

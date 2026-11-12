@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am the manager of the Zhangjing Building Construction Bank Tianhe Branch. We have a new loan product with a very low interest rate. Would you like to know more about it?
+Speaker2: Okay, can you understand a bit?
+Speaker1: Great, just provide some basic info and we can apply for you. But for easier communication, can you add a WeChat?
+Speaker2: Add me on WeChat.
+Speaker1: Okay, just wait a moment, I'll send you my WeChat number right away.
+Speaker2: Okay.
+Speaker1: WeChat has already sent you, you can pass through it.
+Speaker2: Okay, I'll pass right away.
+Speaker1: Okay, after you add me, I'll send you a link, you click the link and fill out the info, and we can start applying.
+Speaker2: Okay, I understand, thank you.

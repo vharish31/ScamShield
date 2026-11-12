@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the credit center of XYZ Bank, I am customer service manager Zhang.
+Speaker2: Hello, do you have anything?
+Speaker1: Is that right, we found out that your recent credit card usage is not very frequent, as a token of appreciation for your continuous support, we have a special promotion, you can enjoy a free increase of your credit limit, up to a maximum of ten thousand, are you interested in learning more?
+Speaker2: Increase credit limit? It sounds good, how to do it?
+Speaker1: It's very simple. Just click on the link we send, fill out your personal information, and we'll automatically upgrade your credit limit once it's approved.
+Speaker2: Is that link safe?
+Speaker1: Absolutely safe, this is our official link. You can trust it. For your convenience, I will add you to my WeChat and send it to you directly through WeChat, which is more convenient.
+Speaker2: Okay, add me on WeChat. My phone number is 13812345678.
+Speaker1: Okay, I'll call you soon. You can contact me later. And if you have any questions, feel free to reach out to me, I'll provide detailed answers.
+Speaker2: Okay, thank you.

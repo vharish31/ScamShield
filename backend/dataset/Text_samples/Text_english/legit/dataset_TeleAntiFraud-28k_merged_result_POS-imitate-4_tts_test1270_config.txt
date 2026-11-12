@@ -1,0 +1,12 @@
+Speaker1: Hey, hello, this is the happy restaurant, did you hear your company wants to order food?
+Speaker2: Yes, we would like to order lunch from your company this week, do you have any recommended dishes?
+Speaker1: Of course, our special dishes this week include scallions and oyster mushrooms, red braised pork, and steamed cod, all of which are very popular. Can you see these?
+Speaker2: The sound is all good, we need twenty portions of red braised pork and fifteen portions of steamed fish with green onions.
+Speaker1: Okay, these are all fine, how long do you need to send them?
+Speaker2: It's best to send it before twelve, our lunch break starts at twelve.
+Speaker1: No problem, we will deliver on time. Do you need any drinks or small dishes?
+Speaker2: Drink water, each person one bottle of mineral water, add some sour and spicy white mustard greens to the small vegetables.
+Speaker1: Okay, there are 10 portions of red meat, 10 portions of steamed fish, 15 portions of garlic and mushroom, 1 bottle of mineral water per person, 15 portions of sour and spicy cabbage, right?
+Speaker2: Yes, that's it. Thank you.
+Speaker1: No problem, we will prepare according to your requirements. If there are any other needs, please contact me anytime.
+Speaker2: Okay, thank you, see you later.

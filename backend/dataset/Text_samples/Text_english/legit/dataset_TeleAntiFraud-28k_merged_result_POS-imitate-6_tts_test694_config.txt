@@ -1,0 +1,10 @@
+Speaker1: Hey, hello, I just placed an order for takeout at your store, why hasn't it been delivered yet?
+Speaker2: Hello, which area are you from? Our delivery time is usually around 30 minutes, but it might be a little delayed due to the high traffic now.
+Speaker1: I've been waiting in the sunshine for an hour now, what should I do?
+Speaker2: I'm very sorry, there might be an issue on our end. I'll look into the delivery situation right away.
+Speaker1: Okay, can you help me?
+Speaker2: I found it, your order has been delivered to courier Zhang, he is now on his way and may encounter traffic congestion.
+Speaker1: Can I contact him?
+Speaker2: Sure, I can give you his phone number here. Just wait for a moment.
+Speaker1: Okay, thank you.
+Speaker2: This is the phone number of delivery man Zhang Xiao, 12345678901, you can directly contact him. Again, I apologize for the inconvenience brought to you.

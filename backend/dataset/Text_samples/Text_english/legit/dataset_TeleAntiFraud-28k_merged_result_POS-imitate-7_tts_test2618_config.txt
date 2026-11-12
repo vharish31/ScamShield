@@ -1,0 +1,9 @@
+Speaker1: Hey, are you at home?
+Speaker2: Hey, just got home, how's it going?
+Speaker1: I just bought a coffee machine, want to try it out, do you have time to come over and have a cup of coffee together?
+Speaker2: Sounds good, I'm just in the mood to try your skills. Is it convenient now?
+Speaker1: Convenient, I'm ready here, come quickly.
+Speaker2: Okay, I'll be there in about ten minutes.
+Speaker1: Okay, let's wait for you.
+Speaker2: Be careful on the road, see you later.
+Speaker1: Okay, see you later.

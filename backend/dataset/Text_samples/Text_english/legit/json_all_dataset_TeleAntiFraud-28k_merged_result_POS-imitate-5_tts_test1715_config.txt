@@ -1,0 +1,10 @@
+Speaker1: Hey, are you looking for a hair salon nearby?
+Speaker2: Okay, I want to make an appointment for tomorrow morning's haircut.
+Speaker1: Okay, we have several hair stylists here. Do you have any specific requirements, such as the style of the hairdresser or the hairstyle you want?
+Speaker2: Can you recommend a hair stylist for me who can give me a clean and short haircut?
+Speaker1: Of course, our little Li master here is very skilled at cutting clean and sharp hair, his handiwork is very good.
+Speaker2: Great, I'll book Little Li's master.
+Speaker1: Is 10 am tomorrow morning suitable for you?
+Speaker2: I can make it at 10 o'clock, so I'll book this time.
+Speaker1: Okay, I have already made a reservation for you. Remember to come on time tomorrow, and you can contact me if you need any further assistance.
+Speaker2: Okay, thank you, see you tomorrow.

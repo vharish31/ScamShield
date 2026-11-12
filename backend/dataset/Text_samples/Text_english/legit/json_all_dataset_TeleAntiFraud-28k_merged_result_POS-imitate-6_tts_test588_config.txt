@@ -1,0 +1,11 @@
+Speaker1: Hey, hi, I'm little Li, I saw the job post you guys put up on the community group, want to know more details?
+Speaker2: Hello, little Li, I am the small Wang from the human resources department, which position are you interested in?
+Speaker1: I am quite interested in the position of financial assistant.
+Speaker2: Okay, the primary responsibilities of the financial assistant position include daily record-keeping and review, as well as the creation of some financial reports.
+Speaker1: What are the specific requirements for this job position?
+Speaker2: It is best if you have a background in accounting or financial management and at least one year of work experience, and are familiar with the use of financial software.
+Speaker1: I just graduated, but I've been exposed to financial software during my time in school and have practical experience.
+Speaker2: That's great, can you come for an interview? What time is convenient for you to come for an interview?
+Speaker1: What day of this week is best for me to have some free time in the afternoon?
+Speaker2: How about we meet on Tuesday at 3 PM?
+Speaker1: Okay, thank you, on Thursday afternoon at three o'clock, I will arrive on time.

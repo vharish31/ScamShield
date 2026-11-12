@@ -1,0 +1,10 @@
+Speaker1: Hi, I'm small Liu, I want to consult your hair appointment service.
+Speaker2: Hello, little Liu, I am small Zhang from the hair salon, what can I help you with?
+Speaker1: Can you check if there's an available spot for a weekend haircut on Saturday afternoon?
+Speaker2: Okay, I'll check. There are 3 and 4 pm on Saturday afternoon, which time do you want?
+Speaker1: Four o'clock is fine, I have time at four o'clock.
+Speaker2: Okay, I'll schedule a 4 pm appointment for you. Do you need to provide your contact information?
+Speaker1: Please, my phone number is 555-000-0000.
+Speaker2: Okay, I have recorded it down. I will send you a text message to confirm the appointment later.
+Speaker1: Okay, thank you.
+Speaker2: No problem, feel free to contact us anytime. Have a nice day!

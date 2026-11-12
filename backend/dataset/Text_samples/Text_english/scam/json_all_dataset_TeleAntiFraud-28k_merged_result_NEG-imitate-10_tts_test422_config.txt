@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service of China Post, your parcel has been returned because the address is not detailed.
+Speaker2: Really? Then what do we do?
+Speaker1: To facilitate you, we can help you re-ship, but you need to provide some information to confirm your identity.
+Speaker2: Okay, what information do you need from me?
+Speaker1: We need your full name, phone number, and ID number to ensure the accuracy of the information.
+Speaker2: That's it, I'm a bit worried about the safety of my personal information.
+Speaker1: Don't worry, we are a legitimate company, and we won't leak your information. You can also click on the links we provide, and fill out the form directly on the website.
+Speaker2: How do I know this link is safe?
+Speaker1: Our website for China Post is very safe, you can relax now. I will send you the link to your phone, just click on it after you receive it.
+Speaker2: Okay, let me try.

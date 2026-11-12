@@ -1,0 +1,12 @@
+Speaker1: Hey, are you Chen boss?
+Speaker2: Hey, it's me.
+Speaker1: Good morning, Mr. Chen. I am the manager of the Agricultural and Commercial Bank. We noticed that your business license at Yongyuan Baihuo Store has been valid for a year now, and we can provide you with a business loan at a discounted interest rate, with simple procedures. Would you be interested in learning more about it?
+Speaker2: Enterprise loan? I recently need some cash flow, how much can you provide?
+Speaker1: Based on your situation, we can provide a loan amount of up to 50,000 yuan. You only need to provide some basic information, and once approved, the funds will be available quickly.
+Speaker2: What materials do I need to prepare?
+Speaker1: You need to prepare copies of business license, bank receipts, personal ID, etc. To speed up the approval process, you can first upload the documents through the link we provide.
+Speaker2: Okay, how do you get the link?
+Speaker1: Okay, I'll send you a link to your phone, just click on it and follow the instructions.
+Speaker2: Okay, I'll take a look in a moment.
+Speaker1: Okay, Chen Laoban, you can contact me anytime if you have any questions. Wish your business prosperity. Bye.
+Speaker2: Thank you, goodbye.

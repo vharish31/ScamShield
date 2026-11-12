@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the loan department of the Bank of Commerce, how are you? Have you recently had any financial needs, such as renovation, travel, or investment?
+Speaker2: Hello, temporarily no need for this, thank you.
+Speaker1: Oh, that's how it is. But now we have a special promotion, if you apply through our bank's app, you can enjoy zero down payment and zero interest, and the approval is very fast, are you interested in learning more?
+Speaker2: The sound is good, but I don't need a loan right now.
+Speaker1: I understand, but this kind of discount is not common, if you change your mind, you can contact me anytime. Here's a QR code, scan it and you can directly download our app, it's very easy to use, try it out.
+Speaker2: Okay, let me try.
+Speaker1: Great, just scan the QR code and register an account after. Then follow the instructions and you're good to go. If you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you for your recommendation.
+Speaker1: No problem, feel free to contact me anytime if you need. Have a great day!
+Speaker2: Thank you, goodbye.

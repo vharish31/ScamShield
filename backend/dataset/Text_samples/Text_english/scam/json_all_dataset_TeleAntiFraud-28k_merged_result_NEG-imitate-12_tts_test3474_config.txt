@@ -1,0 +1,11 @@
+Speaker1: Hey, Li Laoban?
+Speaker2: Yes, hello, who are you?
+Speaker1: Hi, I'm Wang, a loan officer at Agricultural and Commercial Bank. We noticed your company may have some cash needs recently, so we're calling to recommend our low-interest loan services.
+Speaker2: Oh, I don't need this, thank you.
+Speaker1: Mr. Li, are you sure you don't need this loan? It can help you expand your business, and our interest rate is very competitive, lower than other banks in the market.
+Speaker2: No need, I have enough money now.
+Speaker1: That's great, but if you need anything in the future, you can directly contact us. This is my personal WeChat number, convenient for any time contact.
+Speaker2: Okay, thank you for your recommendation.
+Speaker1: No problem, this is my phone number and WeChat number. My WeChat is 13812345678, feel free to contact me anytime.
+Speaker2: Okay, I'll keep it. Thank you, goodbye.
+Speaker1: Goodbye, wish you business prosperity.

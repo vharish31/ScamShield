@@ -1,0 +1,10 @@
+Speaker1: Hello, you good, here happy bank service center, I is customer service staff young yang.
+Speaker2: Hello, what can I help you with?
+Speaker1: We noticed some unusual orders in your recent shopping records on our platform. It might be due to shipping issues.
+Speaker2: Really? Then what do we do now?
+Speaker1: Don't worry, we have already prepared a solution for you. To ensure your rights, we need you to cooperate and complete a simple verification process.
+Speaker2: How to verify?
+Speaker1: Please click on the link in the text message we sent you, download our official app, and follow the instructions to operate it.
+Speaker2: Okay, I'll download it right away.
+Speaker1: Thank you very much for your cooperation. If you encounter any issues during the operation, please feel free to contact our customer service hotline at any time.
+Speaker2: Okay, thank you for your help.

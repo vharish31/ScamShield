@@ -1,0 +1,11 @@
+Speaker1: Hello, how can I help you at the Flower City Restaurant?
+Speaker2: Hello, what are your special dishes?
+Speaker1: Our signature dishes here include red braised fish, gong bao chicken and steamed dungeness crab, all of which are very popular.
+Speaker2: How much do these menus cost?
+Speaker1: Red boiled fish is 80 yuan, palace stir-fried chicken is 45 yuan, steamed large crab is 120 yuan.
+Speaker2: What are your business hours like?
+Speaker1: Our business hours are from 11 am to 9 pm every day, and on weekends they are extended to 10 pm.
+Speaker2: Okay, I want to reserve a four-person table, around seven o'clock tomorrow night.
+Speaker1: Okay, I have reserved a table for four people at seven o'clock tomorrow night for you. Is there anything else you need help with?
+Speaker2: No longer available, thank you.
+Speaker1: You're welcome, I'm looking forward to your arrival, goodbye.

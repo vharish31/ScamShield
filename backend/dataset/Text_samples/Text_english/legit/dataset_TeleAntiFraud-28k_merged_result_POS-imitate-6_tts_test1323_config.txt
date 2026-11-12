@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, how are you?
+Speaker1: Is that a two-bedroom, one-bathroom apartment for rent that I saw on your website really?
+Speaker2: Yes, we really have a two-bedroom, one-living-room apartment for rent.
+Speaker1: What furniture is in that house?
+Speaker2: The house is equipped with a bed, sofa, wardrobe, and other basic furniture. The kitchen and bathroom are also complete.
+Speaker1: Do you have air conditioners and hot water heaters among these devices?
+Speaker2: The air conditioner is there, the water heater is brand new, you don't have to worry at all.
+Speaker1: How much is the rent?
+Speaker2: Rent is one month three thousand yuan, deposit one pay three, water and electricity self-pay.

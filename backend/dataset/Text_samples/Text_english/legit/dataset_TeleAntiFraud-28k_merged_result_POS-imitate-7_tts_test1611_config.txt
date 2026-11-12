@@ -1,0 +1,12 @@
+Speaker1: Hi, how are you? I'm Xiaoming, I want to consult your restaurant reservation service.
+Speaker2: Hello, Xiaoming, I am a waiter at the restaurant, what can I help you with?
+Speaker1: I want to reserve a four-person table, how far in advance do I need to book?
+Speaker2: We suggest booking at least one day in advance to ensure there's a suitable seat.
+Speaker1: Okay, can I reserve a spot at seven o'clock tomorrow night?
+Speaker2: Of course, tomorrow evening at seven o'clock, a table for four has been reserved for you.
+Speaker1: Thanks, do I need to call ahead and confirm beforehand?
+Speaker2: No problem, as long as you come on time. But if there are any changes, please inform us in advance.
+Speaker1: Okay, I understand. What do you recommend for dishes?
+Speaker2: Our restaurant's signboard menu has steamed sea bass, ginger and green onion, and spicy fish head, all very popular.
+Speaker1: It sounds great, I'll try it later. Thank you for your help.
+Speaker2: No problem, feel free to contact me anytime if you have any questions. Enjoy your meal!

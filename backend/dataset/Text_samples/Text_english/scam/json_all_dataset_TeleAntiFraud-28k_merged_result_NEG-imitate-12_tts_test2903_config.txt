@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am the manager of the Li from Guangzhou Bank. We have a special promotion activity for high-quality customers on this side. Do you have any interest in learning more about it?
+Speaker2: Hello, what activities do you have?
+Speaker1: We recently launched a low-interest loan product, with a maximum loan amount of one hundred thousand, no collateral required, fast approval, and very suitable for friends with funding needs.
+Speaker2: How do I apply? It sounds good.
+Speaker1: It's very simple. Just provide some basic personal information, and we can do a preliminary review.
+Speaker2: What materials do I need to prepare?
+Speaker1: Identity card front and back photos, and your bank card number, this way we can quickly process for you.
+Speaker2: Okay, how do I send you the data?
+Speaker1: You can click this link to enter our official website, upload information, and complete the application.
+Speaker2: Is this link safe?
+Speaker1: Absolutely safe, we are a regular bank, all data will undergo encryption processing, you can rest assured now.
+Speaker2: Okay, let's try it. Thank you.

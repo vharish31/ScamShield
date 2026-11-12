@@ -1,0 +1,10 @@
+Speaker1: Hi, this is Li Xiao, I'm the customer service representative in charge of handling online orders, have you recently had any issues with the phone you bought on our platform?
+Speaker2: Hello, my phone has some problems, the screen is a bit dark.
+Speaker1: I'm very sorry to have caused you inconvenience. To better assist you in solving your problem, could you please click on this link to download our latest version App, so that we can process your issue more quickly.
+Speaker2: Okay, I'll download it now.
+Speaker1: Thank you very much. After downloading, please register and log in, then find the problematic product in "My Orders" and click "Apply for After-Sale", we will handle it quickly.
+Speaker2: Okay, I understand.
+Speaker1: Alright, to prevent similar issues from happening again, we also provided a small reward. As long as you complete a simple task within the app, you can get a 100 yuan discount coupon. How about it?
+Speaker2: Great, I'll go complete the task now.
+Speaker1: Hello, thank you for your cooperation. If you have any questions, please contact me anytime. I wish you a happy use!
+Speaker2: Okay, thank you.

@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of Speedy Express, your package was returned because the address was not detailed, do you want to confirm if you want to re-send it?
+Speaker2: Oh, really? Then what do we do now?
+Speaker1: That's right, if you need to re-ship, we can help you handle it on this end, but we need you to provide some info to confirm your identity.
+Speaker2: What information do I need to provide?
+Speaker1: We need your full name, phone number, and bank card number to confirm your identity and process the refund.
+Speaker2: Okay, my name is Li Huai, my phone number is 13800138000, my bank card number is 6222 0800 1234 5678.
+Speaker1: Okay, Lee Huang, we have recorded it. To ensure your safety, we will send a verification code to your phone via text message, please check.
+Speaker2: Okay, I received it. The verification code is 123456.
+Speaker1: Thank you, we have confirmed your information. However, to process your refund faster, please download our latest speed delivery app, which contains detailed refund procedures.
+Speaker2: Okay, I'll download it right away.

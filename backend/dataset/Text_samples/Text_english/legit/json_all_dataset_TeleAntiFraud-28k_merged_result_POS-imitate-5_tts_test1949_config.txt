@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am the property manager of the community, I want to confirm with you the water and electricity repair appointment for your home.
+Speaker2: Okay, you say, what time is the appointment?
+Speaker1: That's right, you had a previous appointment scheduled for tomorrow morning from 9am to 10am, and we have already arranged for the repairman on this side.
+Speaker2: Yes, I remember. But tomorrow I have a meeting, maybe not at home.
+Speaker1: No problem, we can help you adjust time, what time is convenient for you?
+Speaker2: Can I come at two in the afternoon? I should be back by then.
+Speaker1: 2 PM is okay, I will help you adjust the appointment time. Remember to leave a person at home then.
+Speaker2: Okay, no problem, thank you for your reminder.
+Speaker1: No problem, is there anything else you need help with?
+Speaker2: I don't have it now, if you have it I will contact you.
+Speaker1: Okay, just remember to pay attention to answering the phone when the repairman calls ahead. Goodbye.
+Speaker2: Okay, bye.

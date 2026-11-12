@@ -1,0 +1,8 @@
+Speaker1: Hey, are you there? I'm at the east gate, have you arrived?
+Speaker2: Just a moment, I just arrived at the south gate, you can wait for me a bit.
+Speaker1: Okay, hurry up, it's a bit cold here.
+Speaker2: I know, I'll come quickly, you put on some clothes, don't freeze up.
+Speaker1: Hey, be careful while driving, there are many cars on the road.
+Speaker2: Don't worry, I'll pay attention to safety. See you soon.
+Speaker1: Okay, are you ready?
+Speaker2: I'll be on the road for a while, see you later.

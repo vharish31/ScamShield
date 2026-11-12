@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Hey, yes, you are?
+Speaker1: I am the manager of the credit department at Guangfa Bank, recently we launched a very good loan product, the interest rate is very low, the approval is very fast, do you have any interest in learning more about it?
+Speaker2: Loan, I'm okay now, but can you tell me what conditions do I need for this loan?
+Speaker1: Please provide your ID and income proof, and we can pre-approve your application with additional discounts available now.
+Speaker2: The sound is good, but I haven't had time to go to the bank lately, what should I do?
+Speaker1: No problem, you can click this link and fill out the relevant information, and we will have a specialist provide you with one-on-one service.
+Speaker2: Link, I'm afraid it's not safe, do you guys have an official bank app?
+Speaker1: Of course, you can download the official app of Guangfa Bank, then find the loan section on the homepage, input the recommendation code 123456, and enjoy exclusive discounts.
+Speaker2: Okay, let me try it out, thank you for your recommendation.

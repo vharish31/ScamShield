@@ -1,0 +1,9 @@
+Speaker1: Hello, this is the delivery customer service representative. We have detected a problem with your recent package and need to confirm some information with you.
+Speaker2: Is there a problem with my package?
+Speaker1: Yes, your package was accidentally damaged during transportation, and we suspect there may be a quality issue with the products inside. For your safety, we need you to cooperate with us for a simple verification.
+Speaker2: What do I need to do?
+Speaker1: Please click on the link we sent you via text message. It's a simple verification form that you just need to fill out.
+Speaker2: Okay, I'll look for a text message.
+Speaker1: Okay, you can find it, the message is from speed delivery service, there's a link inside, click it to fill it out directly.
+Speaker2: Found it, I opened it to take a look.
+Speaker1: Okay, please follow the instructions inside and you'll be fine. If you have any questions, feel free to contact me anytime.

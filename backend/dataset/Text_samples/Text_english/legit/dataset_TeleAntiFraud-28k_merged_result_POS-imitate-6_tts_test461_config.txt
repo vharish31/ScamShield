@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, hello
+Speaker1: Do you still hire people there?
+Speaker2: What position are you looking for when applying for a job?
+Speaker1: I want to know what the requirements are for positions in the technology department.
+Speaker2: The technology department mainly hires software development engineers with relevant work experience, proficient in Java or Python, and familiar with project management tools.
+Speaker1: What about salary and benefits?
+Speaker2: Salaries are generally between 8,000 to 15,000 yuan based on personal ability and experience, and there are also annual and performance bonuses.
+Speaker1: That sounds good, I'm looking for work in this area recently, can you send me a resume?
+Speaker2: Of course, you can send your resume to our email, and we will arrange an interview as soon as we receive it.

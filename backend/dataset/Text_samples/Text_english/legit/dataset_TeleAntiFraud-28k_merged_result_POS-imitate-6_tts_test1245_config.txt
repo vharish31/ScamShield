@@ -1,0 +1,11 @@
+Speaker2: Hello, how are you?
+Speaker1: Hello, I'm Li Xiao, the customer service at the New Century Mall, I saw your member points are about to expire, I want to remind you.
+Speaker2: Oh, really? I still don't know.
+Speaker1: Yes, your account has over ten thousand points, if you don't use them in time, they will expire.
+Speaker2: What should we do now?
+Speaker1: You can log in to our app, select your favorite products to exchange, many products can be redeemed with points for cash.
+Speaker2: Really? That's great.
+Speaker1: Yes, for example, we have new smartphones and household appliances that can be exchanged with points.
+Speaker2: I had better hurry and take a look.
+Speaker1: Okay, feel free to contact me anytime if you have any questions.
+Speaker2: Okay, thank you for your reminder.

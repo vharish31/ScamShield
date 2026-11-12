@@ -1,0 +1,15 @@
+Speaker1: Hello, are you Mr. Li?
+Speaker2: Hello, who are you?
+Speaker1: I am a customer service representative at Huaxing Bank's credit department. We noticed that you may have recently had a need for cash flow, so we would like to recommend our fast loan service.
+Speaker2: I don't need a loan.
+Speaker1: Okay, but our loan service is very flexible, zero interest, simple procedures, if you change your mind, can you contact us anytime, convenient to leave contact information?
+Speaker2: Sure, add me on WeChat.
+Speaker1: Okay, add me on WeChat with the username hxbank001. Please put your name as a remark when adding me.
+Speaker2: Okay, are you from the bank?
+Speaker1: We are a partner of the bank, responsible for loan consultation and document review. Any loan needs can be consulted through me.
+Speaker2: How much can you lend?
+Speaker1: The maximum loan amount per pen is one hundred thousand yuan, and the specific amount needs to be approved based on your personal conditions.
+Speaker2: Do you have any app or website to apply?
+Speaker1: Yes, you can download our official app 'Hua Xiang Bai', register and fill in the relevant information, and our customer manager will contact you quickly.
+Speaker2: Okay, I will consider it, thank you.
+Speaker1: No problem, feel free to contact me anytime if you have any questions, wish you a happy life.

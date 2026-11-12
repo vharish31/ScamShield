@@ -1,0 +1,9 @@
+Speaker1: Hey, how are you? I'm little Zhang, I rented an electric car from your store last time, can I exchange the battery for a more durable one?
+Speaker2: Hey, little Zhang, how are you? I'm small Li from the car rental company. Of course you can switch cars. Can you specifically say what problems are there with the car now?
+Speaker1: This car's battery can only ride ten kilometers on a full charge now, which was twenty kilometers before, the weather is cold now, the battery's endurance is worse.
+Speaker2: Hey, I understand now, the cold weather will definitely affect the battery performance, do you have time this afternoon? I can give you a longer range car to replace.
+Speaker1: Okay, I have time in the afternoon, so can I just go to your car rental place directly?
+Speaker2: Okay, just come directly, I have prepared a new electric car for you, with longer range, more suitable for winter use.
+Speaker1: Okay, I'll come over in the afternoon, thank you.
+Speaker2: No problem, feel free to contact me anytime if you have any questions, see you later!
+Speaker1: Okay, see you in the afternoon.

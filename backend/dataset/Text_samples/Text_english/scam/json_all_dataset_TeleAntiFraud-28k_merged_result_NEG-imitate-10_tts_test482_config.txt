@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I am a customer manager of Agricultural Bank, my name is Li Qiang, we have a new loan product, are you interested in learning more about it?
+Speaker2: Hello, loan products, I recently have some cash needs, can you tell me more details?
+Speaker1: Of course, our loan products are very flexible, with high credit limits, low interest rates, and fast approval. As long as you provide some basic information, we can immediately approve you.
+Speaker2: Listen well, then what do I need to do?
+Speaker1: Firstly, you need to download our official app, register and fill in the application form. If you don't want to download, I can also send you a link, you can click on it to quickly apply.
+Speaker2: Send me the link, I can't download the app on my phone right now.
+Speaker1: Okay, just a moment, I'll send it to you now. Right, to ensure your information is safe, you need to provide a verification code. I'll text it to you, you let me know once you get it.
+Speaker2: Okay, I will pay attention to checking my messages.
+Speaker1: Have you received the message I sent?
+Speaker2: I received it. The verification code is 123456.
+Speaker1: Okay, I have recorded the information you provided. Now you can click on the link I sent you and follow the instructions, and we can quickly review your application.
+Speaker2: Okay, I'll go operate now. Thank you for your help.

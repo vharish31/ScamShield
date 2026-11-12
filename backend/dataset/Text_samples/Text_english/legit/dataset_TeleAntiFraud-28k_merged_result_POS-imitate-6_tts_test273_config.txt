@@ -1,0 +1,11 @@
+Speaker1: Hello, delivery.
+Speaker2: Hello, did my takeout arrive?
+Speaker1: Arrived, arrived. I just arrived at your community gate, which floor do you live on?
+Speaker2: I am on the third floor, third unit, left side of the fifth floor.
+Speaker1: Okay, third floor, third unit, I arrived.
+Speaker2: Can you please tell me where the elevator is? It's on the left side, the second door.
+Speaker1: I see the elevator, you wait for me at home.
+Speaker2: Okay, I'll go home and wait for you.
+Speaker1: Do you have any special requirements? For example, should I ring the bell or leave the door open?
+Speaker2: Just put it down at the door, I'm not convenient to open the door.
+Speaker1: Okay, I'll leave the door open, you pay attention to check it.

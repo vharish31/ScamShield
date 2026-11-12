@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what can I help you with?
+Speaker1: Can you tell me if there are any new notebook computers here?
+Speaker2: Yes, we recently launched several new series of notebook computers with excellent performance.
+Speaker1: What's the price like?
+Speaker2: What specific configuration are you looking for, between five thousand and one million?
+Speaker1: I mainly use it for work and occasionally play games, I hope the performance isn't too bad.
+Speaker2: I understand, I recommend this mid-range laptop configuration to you, the price-performance ratio is very high, it can meet both office and entertainment needs.
+Speaker1: Is this laptop in stock?
+Speaker2: Yes, if you place an order now, it will be shipped tomorrow.
+Speaker1: Can you please place an order for me? The delivery address is Beijing city Chaoyang district Xichang Road 100th number.
+Speaker2: Okay, I'll handle this for you. I'll carefully check the address you left.

@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm little Li, I want to consult your restaurant's special dishes.
+Speaker2: Hello, Mr. Li, I am Zhang, our restaurant has many special dishes, such as red braised pork, steamed fish with ginger and scallions, and beef noodle soup, what do you like?
+Speaker1: How much does beef noodle soup cost?
+Speaker2: Our beef noodle soup is thirty yuan per portion, the portion is very big, all the beef is selected, very tender and smooth.
+Speaker1: Does anything happen now?
+Speaker2: Yes, today's dining customers can enjoy a 90% discount, and those who spend over 100 yuan can participate in the lottery.
+Speaker1: Okay, can I reserve in advance if I arrive at seven in the evening?
+Speaker2: I suggest you book in advance, especially on weekends and holidays, so you can be sure to have a spot. I booked you a two-person spot, okay?
+Speaker1: Okay, thank you for your help, see you later.
+Speaker2: No problem, see you later, wish you a happy day.

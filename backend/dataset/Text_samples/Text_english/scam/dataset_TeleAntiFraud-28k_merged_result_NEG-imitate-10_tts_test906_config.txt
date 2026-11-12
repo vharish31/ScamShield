@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li Zong?
+Speaker2: Hello, who are you?
+Speaker1: Mr. Li, I am the client manager of Huatai Bank, Zhang. Recently, our bank has a very good wealth management project, with an annual return rate of up to 10%, are you interested in learning more?
+Speaker2: Oh, really? How do I participate in this project?
+Speaker1: It's very simple. Just click on the link I sent you, register an account, and then you can start investing.
+Speaker2: Link? How do you send it to me?
+Speaker1: Can I send you the link through text message or WeChat? Is it convenient for you to receive it?
+Speaker2: Okay, I can receive through WeChat.
+Speaker1: Okay, I'll send it to you right away. Please check it as soon as you receive it. This project has limited spots, so first come first served.
+Speaker2: Okay, thank you for your recommendation. I will check it out.

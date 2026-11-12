@@ -1,0 +1,15 @@
+Speaker1: Hello, you are happy family service, I am customer service Li.
+Speaker2: Hello, I want to consult your household services.
+Speaker1: Okay, we provide daily cleaning, cooking, and family care services among many others. What specific help do you need?
+Speaker2: Can you tell me more about your daily cleaning service, including specific contents and pricing?
+Speaker1: Our daily cleaning service includes sweeping the floor, wiping windows, washing dishes, and straightening up the room, and the price varies depending on the duration and content of the service. For example, the two-hour basic cleaning service is eighty dollars.
+Speaker2: What should I do if I need to make a reservation?
+Speaker1: You can directly book on our website or tell me your convenient time, I can help you arrange.
+Speaker2: How far in advance do I need to make a reservation?
+Speaker1: We suggest booking at least one day in advance, so we can ensure we assign the right service personnel to you.
+Speaker2: Okay, I plan to schedule a cleaning service next Saturday.
+Speaker1: Is Saturday at nine in the morning convenient for you? We can provide service between nine and eleven in the morning.
+Speaker2: Can I come at 9:30 in the morning?
+Speaker1: Sure, I'll book a cleaning service for you on Saturday morning at 9:30am, the service will last for two hours.
+Speaker2: Okay, thank you for your help.
+Speaker1: No problem, if you have any other questions, feel free to contact me. Have a great day!

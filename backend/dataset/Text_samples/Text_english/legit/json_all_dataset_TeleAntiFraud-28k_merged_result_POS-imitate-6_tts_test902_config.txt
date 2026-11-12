@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I saw some new phones in your store, want to know more about them?
+Speaker2: Hello, I'm very happy to serve you. Do you have any special requirements for your phone? For example, do you value performance or battery life more?
+Speaker1: I mainly use it for gaming, so performance needs to be good, and the battery should be a bit more durable.
+Speaker2: Understood, our store recently launched a new game phone with extremely strong performance and a very large battery capacity, making it very suitable for game enthusiasts.
+Speaker1: What are the specifications of this phone and how much does it cost?
+Speaker2: This phone is equipped with the latest processor, running large games with no pressure. The battery capacity is 4500mAh, the continuous gaming time is above 8 hours. The current selling price is 3500 yuan.
+Speaker1: Do you have any fresh produce? I plan to come over today to buy.
+Speaker2: The store currently has fresh products, you can directly come to buy them. Do you plan to come yourself, or do you need us to reserve a time for you?
+Speaker1: I'll come over in an hour, can you reserve a spot for me?
+Speaker2: Okay, I will reserve a small hour for you. The address is the third floor of the electronic mall in the city center. I'm looking forward to your arrival.

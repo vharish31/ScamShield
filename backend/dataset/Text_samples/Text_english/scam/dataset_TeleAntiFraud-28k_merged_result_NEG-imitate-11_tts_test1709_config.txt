@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer service representative from Commercial Bank. We have found some unusual transactions on your bank card. Please cooperate with us to conduct a verification.
+Speaker2: Okay, you say, what do I need to do?
+Speaker1: To ensure your funds are safe, we need you to provide the last four digits of your bank card and verification code. We'll send the verification code to your phone.
+Speaker2: Okay, I'll check my phone later.
+Speaker1: Okay, the verification code has been sent, please check.
+Speaker2: I received it. The verification code is 1234.
+Speaker1: Thank you for cooperating, we still need you to click this link to confirm the information.
+Speaker2: Okay, I'll order now.
+Speaker1: After clicking, follow the on-screen instructions, and if you have any issues, feel free to contact me anytime.
+Speaker2: Okay, thank you.

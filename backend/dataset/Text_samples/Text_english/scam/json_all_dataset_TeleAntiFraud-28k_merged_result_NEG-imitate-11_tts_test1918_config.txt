@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, where are you?
+Speaker1: Hello, I am on the construction of the bank's credit center for building, recently we have launched a low-threshold, no collateral enterprise loan, do you have any capital needs?
+Speaker2: Okay, no problem, thank you.
+Speaker1: Hey, it's good to understand a bit, considering the current capital circulation may encounter some difficulties, our loan product is very flexible, no need for complex procedures, you can consider it.
+Speaker2: So, I do have some cash flow needs, how do I apply?
+Speaker1: Great, just click this link, fill out some basic info, and our customer manager will contact you soon.
+Speaker2: Okay, I'll try it out. Is this link safe?
+Speaker1: Absolutely safe, we are a regular bank, you can trust clicking. Moreover, for your convenience, I can also send you a QR code, you scan it and directly enter the application page.
+Speaker2: Okay, then I'll wait for your QR code.

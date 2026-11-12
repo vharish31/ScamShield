@@ -1,0 +1,14 @@
+Speaker1: Hello, this is the customer service of Flower Flower Mall, the air purifier you bought from us before is now having a sale after service.
+Speaker2: Hey, how are you? Do you have any questions?
+Speaker1: Can you tell me about your experience using this air purifier? Have you encountered any problems?
+Speaker2: Hmm, it's not bad to use, but I feel like the filter needs to be changed often, it's a bit annoying.
+Speaker1: Hey, that's right, we actually have an activity lately, users who buy air purifiers can enjoy a free filter net replacement service.
+Speaker2: Is it really? That's great. How can I join this activity?
+Speaker1: Please provide your purchase order number, and we will arrange a free in-home service for you to replace your filter.
+Speaker2: Can you help me book a reservation with my order number H20230415?
+Speaker1: Okay, I'll arrange it right away. What's a convenient time for you to come over?
+Speaker2: Can I come over this weekend morning?
+Speaker1: Sure, I'll schedule an appointment for you on Saturday morning at 10 am. A staff member will contact you.
+Speaker2: Okay, thank you for your service.
+Speaker1: You're welcome, feel free to contact us anytime if you have any questions. Wishing you a happy life.
+Speaker2: Okay, bye.

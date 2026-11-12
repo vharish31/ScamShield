@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? This is the customer service representative, I am Lee Huai, you recently purchased products on our platform have the latest after-sale policy, we can process a refund for you.
+Speaker2: Really? I really have a product with a problem.
+Speaker1: Yes, to confirm your personal information, please click on the link we sent you first.
+Speaker2: Okay, I'll go take a look.
+Speaker1: That's great! Just click on the link and follow the instructions. If you have any questions, feel free to contact me anytime.
+Speaker2: What information do I need to provide?
+Speaker1: You just need to provide your name, phone number, and bank card number, and we will directly deposit the refund onto your card.
+Speaker2: Okay, then I'll go operate.
+Speaker1: Okay, if you encounter any issues during the operation, feel free to contact me anytime. We will handle it quickly.
+Speaker2: Thank you, I will process it quickly.

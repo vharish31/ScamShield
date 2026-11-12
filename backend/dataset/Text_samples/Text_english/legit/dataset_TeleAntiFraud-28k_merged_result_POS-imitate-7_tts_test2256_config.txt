@@ -1,0 +1,10 @@
+Speaker1: Hi, how are you? I'm Xiao Ming, I'm here to inquire about the health club membership information.
+Speaker2: Hello, Xiao Ming, I am customer service Zhang. Our gym membership cards have various types, which one do you want to know about?
+Speaker1: Can you tell me about your monthly membership, how much does it cost, and can I enter and exit at any time?
+Speaker2: Our monthly card is three hundred yuan, and you can enter and exit the store at any time during business hours after purchasing it, with no limit on the number of times.
+Speaker1: Do you have any discount activities if I go to buy a card this week?
+Speaker2: We have a promotion this week. Buy a monthly card and get an 80% discount, for only 240 yuan.
+Speaker1: What documents do I need to bring when I go to the bank to open a card?
+Speaker2: You just need to bring your ID and two photos, and we'll take care of all the procedures here.
+Speaker1: Okay, thank you for your answer. I'll go shopping this weekend.
+Speaker2: No problem, little Ming, we're waiting for you on the weekend here, wish you a happy life!

@@ -1,0 +1,12 @@
+Speaker1: Hey, are you looking for your car?
+Speaker2: Hello, found it, but still thank you.
+Speaker1: No thanks, is that your blue car?
+Speaker2: Yes, that's the blue car with license plate number 123.
+Speaker1: Okay, I see you, get in the car.
+Speaker2: Okay, let's go.
+Speaker1: Where are you going this trip?
+Speaker2: Do you know how to walk to the city center library?
+Speaker1: Know, this road straight walk, then in the third red light left turn, all the way open to the city center.
+Speaker2: How long will it take us to walk this road?
+Speaker1: If the road is not congested, it will take approximately twenty minutes.
+Speaker2: Okay, thank you.

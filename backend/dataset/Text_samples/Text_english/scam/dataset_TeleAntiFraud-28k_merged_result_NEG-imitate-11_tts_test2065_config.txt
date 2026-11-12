@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm the manager here at Huaxin Bank. Do you want to know about the big-spend discounts on your credit card?
+Speaker2: Okay, you say.
+Speaker1: Great! We have a limited-time promotion. If you buy the specified product through our recommended link, you'll get a 50% discount and a beautiful gift. Are you interested?
+Speaker2: Listen well, how to operate?
+Speaker1: It's very simple. Just click on the link I sent you, select the product, and pay with your credit card.
+Speaker2: Okay, give me the link.
+Speaker1: Okay, I will send it to you right away. However, to ensure your information is secure, I need you to provide your phone number, so we can send the link.
+Speaker2: My phone number is 13812345678.
+Speaker1: Okay, 13812345678, I'll send you the link right away. Remember to open it quickly after receiving, this promotion is only valid for one day.
+Speaker2: Okay, thank you.

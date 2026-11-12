@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to know more about your delivery service.
+Speaker2: Hello, I'm very happy to serve you. What information do you want to know?
+Speaker1: Can you tell me your delivery time and delivery range?
+Speaker2: We usually deliver within 30 minutes after ordering, the maximum delivery range is within 3 kilometers of the store.
+Speaker1: If I live a little further, say five kilometers, can you send me?
+Speaker2: For orders over three kilometers, we may charge an additional delivery fee, which you can see in the order process.
+Speaker1: Understood, what are your payment methods?
+Speaker2: We support online payment methods such as WeChat Pay, Alipay, and cash on delivery.
+Speaker1: Okay, I want to order beef stir-fry and a soup tonight, do you guys have any stock?
+Speaker2: Both of these dishes are currently in stock, so you can place an order directly.
+Speaker1: Great, I'll place the order now. Thank you for your help.
+Speaker2: You're welcome. If you have any other questions, please feel free to consult us anytime. Enjoy your meal!

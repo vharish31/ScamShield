@@ -1,0 +1,10 @@
+Speaker1: Hello, this is the customer service representative of Sequoia Express, your package was lost during transportation, we will handle the compensation for you.
+Speaker2: Oh, really? Then what do we do now?
+Speaker1: Yes, in order to process quickly, you need to provide some information, including your name, ID number and bank card number, so we can proceed with the refund.
+Speaker2: Okay, how can I provide this information?
+Speaker1: You can click on the links we send you and fill in the relevant information, and we will process it quickly.
+Speaker2: Okay, I'll handle it right away.
+Speaker1: Thank you very much for your cooperation. Once the processing is done, we will notify you via text message. Are there any other issues?
+Speaker2: No more, thank you.
+Speaker1: No problem, wish you all the best. Bye.
+Speaker2: Goodbye.

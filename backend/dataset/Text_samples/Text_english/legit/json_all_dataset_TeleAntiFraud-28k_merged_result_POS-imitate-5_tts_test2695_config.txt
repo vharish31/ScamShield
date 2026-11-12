@@ -1,0 +1,12 @@
+Speaker1: Hey, are you Little Li's delivery?
+Speaker2: Hello, yes, what can I help you with?
+Speaker1: I ordered a takeout, but I don't know where it was delivered to?
+Speaker2: Can you please tell me your order number? I'll check it.
+Speaker1: Order number is 123456789.
+Speaker2: Okay, let me check. Hmm, your order has been delivered to courier Zhang, he should be on his way now.
+Speaker1: How do I know his current location?
+Speaker2: You can directly contact the delivery man, his phone number is 13800138000, or you can also check the delivery man's location on our App.
+Speaker1: Okay, thank you. How long will it take to send it?
+Speaker2: Based on the current road conditions, it's roughly 20 minutes left. If there are any changes, the delivery person will contact you in advance.
+Speaker1: Okay, thank you for your help. I'll be right back.
+Speaker2: You're welcome. If you have any other questions, please contact us anytime. Enjoy your meal!

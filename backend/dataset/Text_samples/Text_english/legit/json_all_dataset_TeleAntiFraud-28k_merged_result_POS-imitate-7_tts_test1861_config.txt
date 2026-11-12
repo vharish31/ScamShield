@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, is there anything I can help you with?
+Speaker1: Can you tell me if there are any job positions here that suit my work?
+Speaker2: So, do you want to be full-time or part-time?
+Speaker1: I'm looking for a full-time job, preferably nearby.
+Speaker2: Okay, we have several positions here, one is sales advisor, the other is customer service specialist, you can choose.
+Speaker1: What are the job contents of these two positions?
+Speaker2: Sales consultants mainly focus on promoting and selling products, requiring good communication skills and sales techniques. Customer service representatives mainly focus on answering customer calls, handling customer inquiries and complaints.
+Speaker1: What are the salary and benefits for these two positions?
+Speaker2: The base salary of a sales representative plus commission can reach an average of 6,000 to 8,000 yuan per month. The salary of a customer service representative is relatively stable, with an average monthly salary of around 4,000 to 5,000 yuan.
+Speaker1: Sounds good, I can consider it. And what's the work schedule like?
+Speaker2: The sales consultant's work hours are more flexible, while the customer service specialist's work hours are standard eight-hour shifts, with two days off per week.

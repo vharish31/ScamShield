@@ -1,0 +1,12 @@
+Speaker2: Hello, how are you?
+Speaker1: Just looked at your website info, can I book a haircut here?
+Speaker2: Yes, we can make a haircut appointment here, what time do you need to make an appointment?
+Speaker1: Can I make a reservation for tomorrow afternoon at 2 PM?
+Speaker2: Can we meet at two in the afternoon tomorrow? But that time slot is quite tight, do you need me to confirm it for you?
+Speaker1: Okay, could you confirm if that time doesn't work, can I check other times with you?
+Speaker2: Okay, I'll help you check. Just wait a moment, I'll take a look at tomorrow's appointment schedule.
+Speaker1: Okay, thank you.
+Speaker2: Looked up, there's an opening at two o'clock tomorrow afternoon. You can book it. Do you have any special requirements, like a hairdresser?
+Speaker1: No special requirements, just regular haircuts.
+Speaker2: Okay, I'll book an appointment for you tomorrow at 2 pm for a regular haircut. After the booking is successful, we'll send a text message to confirm, so please pay attention to check it.
+Speaker1: Okay, thank you.

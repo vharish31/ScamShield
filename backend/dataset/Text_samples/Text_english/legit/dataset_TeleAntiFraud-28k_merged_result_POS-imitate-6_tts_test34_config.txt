@@ -1,0 +1,10 @@
+Speaker1: Hey, how are you? I'm little Ming, where are you?
+Speaker2: Hey, Xiaoming, I'm waiting for you at the exit of the subway station.
+Speaker1: Okay, I'm going there now, have you seen that convenience store yet?
+Speaker2: I see, just outside the exit, you hurry over there.
+Speaker1: Okay, I'll be there soon, it should take about a few minutes.
+Speaker2: Okay, I'm waiting for you here. Don't leave me behind.
+Speaker1: I don't know, we've seen it many times before, do you remember bringing an umbrella? It might rain today.
+Speaker2: Bring an umbrella, I'm afraid it's raining too much, you also need to remember to bring an umbrella.
+Speaker1: Okay, thank you for reminding me, see you later.
+Speaker2: See you soon, be careful on the road.

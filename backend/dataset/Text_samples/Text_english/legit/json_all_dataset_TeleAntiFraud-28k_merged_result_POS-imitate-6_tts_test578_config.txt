@@ -1,0 +1,11 @@
+Speaker1: Hey, how are you? I'm little king, how are you recently?
+Speaker2: Hello little king, I'm good, thank you. How about you?
+Speaker1: I'm good too, lately work has been pretty busy. Hey, do you have time to eat out this weekend?
+Speaker2: Great, I'm free this weekend. What do you want to eat?
+Speaker1: What do you recommend?
+Speaker2: Have you heard that a new Thai restaurant just opened up? Want to give it a try?
+Speaker1: Sounds good, let's go to a Thai restaurant then. What time do you want to meet?
+Speaker2: How are you at six thirty in the afternoon?
+Speaker1: Okay, six thirty meet. Address give me later.
+Speaker2: Okay, I'll give it to you later. See you this weekend!
+Speaker1: Okay, see you this weekend!

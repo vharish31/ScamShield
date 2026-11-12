@@ -1,0 +1,9 @@
+Speaker2: Hello, this is the food square, what can I help you with?
+Speaker1: Can I reserve a seat for tonight at six and a half?
+Speaker2: Sure, how many?
+Speaker1: Two people.
+Speaker2: Okay, the two seats have been reserved for you. Do you need to order in advance?
+Speaker1: No need, let's talk later. Right, do you have rooms?
+Speaker2: Yes, but you need to book in advance. Do you need to book a room?
+Speaker1: No need, thank you.
+Speaker2: Okay, if you have other needs, feel free to contact us. Enjoy your meal!

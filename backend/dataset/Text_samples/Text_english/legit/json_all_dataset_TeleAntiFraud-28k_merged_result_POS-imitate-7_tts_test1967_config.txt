@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you? I want to consult your massage service.
+Speaker2: Hello, I'm very happy to serve you. What information do you want to know?
+Speaker1: What are the projects you all have, and how much do they cost?
+Speaker2: We provide full body massage, shoulder and neck massage, and foot massage here. The prices are 200 yuan, 150 yuan, and 100 yuan respectively.
+Speaker1: How long does a full body massage take?
+Speaker2: The standard time for a full-body massage is 60 minutes. If you need to extend the time, you will add 50 yuan every 30 minutes.
+Speaker1: Sounds good, I plan to try it out this weekend. Do I need to make a reservation?
+Speaker2: Of course you can make a reservation, this way you can ensure you have a comfortable service time. What time is convenient for you?
+Speaker1: Is three o'clock on Saturday afternoon okay?
+Speaker2: Saturday afternoon at three o'clock is fine, I will reserve this time slot for you. Please remember to come on time.
+Speaker1: Okay, thank you. See you on Saturday.
+Speaker2: You're welcome, I'm looking forward to your arrival. See you on Saturday.

@@ -1,0 +1,8 @@
+Speaker1: Hey, hello, I'm waiting for you at the bus stop.
+Speaker2: Hello, I'm about to arrive, can you see my car lights?
+Speaker1: I see it, you can move forward a little bit, there's a zigzag line in front.
+Speaker2: Okay, I see you are on the zebra line?
+Speaker1: Okay, I'm over there, come over and pick me up.
+Speaker2: Okay, I'll be right there, pay attention to safety.
+Speaker1: Okay, thank you, I'll wait for you.
+Speaker2: No problem, see you later.

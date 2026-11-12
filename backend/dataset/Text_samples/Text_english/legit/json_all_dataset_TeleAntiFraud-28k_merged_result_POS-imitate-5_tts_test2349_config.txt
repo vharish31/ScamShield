@@ -1,0 +1,9 @@
+Speaker1: Did you arrive?
+Speaker2: Are you at home yet?
+Speaker1: I'm here, you arrived, let's go straight up to my place on the fourth floor.
+Speaker2: Okay, I arrived to call you.
+Speaker1: Okay, when you arrive, press the doorbell, I'll open the door for you.
+Speaker2: Where is the doorbell?
+Speaker1: The doorbell is on the left side of the door, a small button.
+Speaker2: Okay, I know, see you later.
+Speaker1: See you soon, be careful on the road.

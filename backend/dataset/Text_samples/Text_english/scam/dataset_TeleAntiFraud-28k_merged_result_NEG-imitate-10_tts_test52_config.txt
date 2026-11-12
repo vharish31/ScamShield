@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I am a customer manager at Commercial Bank, and we have a special discount loan service here. Are you interested?
+Speaker2: Loan? I'm currently short of funds, not really needed.
+Speaker1: Oh, I understand. But, our this service is specifically designed for small and medium-sized enterprise owners, interest rate is very low, and approval speed is fast, no transaction fees are charged. You can consider it, in case it will be useful in the future.
+Speaker2: The sound is good, but I don't really plan to borrow money now.
+Speaker1: Okay, I'll send you a link where you can learn more detailed information about the products, see if there's anything suitable for you.
+Speaker2: Can you send me the link? I'm not very convenient for searching the internet.
+Speaker1: No problem, let me add you on WeChat, after you add me on WeChat I can send you the data, you can take a look at it when you have time.
+Speaker2: Wechat? Okay, you add.
+Speaker1: Okay, I'll add you now. Just let me know when you see it, and I'll send the data over.
+Speaker2: Okay.

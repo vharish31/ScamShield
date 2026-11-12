@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello
+Speaker1: I am the manager of the Dongjing Bank, recently we launched a special promotion for credit loans, do you want to know more?
+Speaker2: Can I borrow some money? I actually need it recently, can you explain it in detail?
+Speaker1: Of course, this loan has no collateral, approval is fast, interest rate is low, and it's very suitable for you. You just need to provide some basic information, and we can pre-approve it for you.
+Speaker2: Can you please provide me with the information?
+Speaker1: Please provide your identity card number, mobile phone number, and bank account flow information. To simplify the process, you can directly click on this link and fill in the relevant information.
+Speaker2: Link? How do I know this is safe?
+Speaker1: Don't worry, this is our official link. It's absolutely safe. You can click on it first to see the detailed explanation inside.
+Speaker2: Okay, I'll try.
+Speaker1: Great, please fill out the information and we will quickly review it and contact you for the next step. If you have any questions, feel free to contact me anytime.
+Speaker2: Okay, thank you.

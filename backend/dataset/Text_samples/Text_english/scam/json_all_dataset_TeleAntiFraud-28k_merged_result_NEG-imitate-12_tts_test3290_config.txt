@@ -1,0 +1,11 @@
+Speaker1: Hello, you, I am Li, the manager of construction bank.
+Speaker2: Hello, who are you?
+Speaker1: I am Lee manager, our bank recently has a special promotion loan activity, interest rate is very low, want to know more?
+Speaker2: Oh, really? I actually need some cash flow recently.
+Speaker1: Great, this loan is very convenient, no collateral required, just provide some basic personal information.
+Speaker2: What do I need to do?
+Speaker1: You just need to download our bank app, fill out the information as prompted, and I'll handle it urgently on this end.
+Speaker2: Is the app safe to download?
+Speaker1: Very safe, we are a regular bank, our APP has been officially certified. You can scan the QR code we sent you to download.
+Speaker2: Okay, let me try.
+Speaker1: Great, I'll send the QR code to your phone. Please download and fill out the form ASAP. If you have any questions, feel free to contact me.

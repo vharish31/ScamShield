@@ -1,0 +1,10 @@
+Speaker1: Hi, how's it going? Can you tell me your delivery service hours?
+Speaker2: Hello, our delivery service time is from 10 am to 9 pm. Do you have anything to consult?
+Speaker1: Can you send it to my apartment in the Happy Community?
+Speaker2: Sure, the Happy Village community is within our delivery range. What do you want to order?
+Speaker1: Do you have a beef stir-fry and a glass of iced red tea?
+Speaker2: Yes, we have both beef fried rice and red tea, do you need any other small dishes?
+Speaker1: No need, just these, bother you.
+Speaker2: Okay, we'll deliver your order within thirty minutes after you place it. Just remember to have cash ready.
+Speaker1: Okay, thank you, so I'll just place the order.
+Speaker2: You're welcome, feel free to contact us anytime if you have any questions, enjoy your meal.

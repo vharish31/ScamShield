@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I want to consult your beauty service.
+Speaker2: Hello, I am a beauty salon service consultant. What can I help you with?
+Speaker1: Can you tell me how much it costs for the below nursing project?
+Speaker2: We have various facial care packages, the basic care is 200 yuan per time, which includes cleansing, removing dead skin, facial mask and massage. The advanced care is 500 yuan, and it also includes deep cleansing and special care.
+Speaker1: How did you schedule the appointment?
+Speaker2: Could you give me a rough estimate of time, so I can check if there's any available slot?
+Speaker1: Can I go out this weekend?
+Speaker2: Would you be able to take a break from 3pm on Saturday afternoon this weekend?
+Speaker1: Okay, let's set it for Saturday afternoon at three o'clock.
+Speaker2: Okay, I have made a reservation for you. On Saturday at 3 pm, please arrive ten minutes early. See you then!

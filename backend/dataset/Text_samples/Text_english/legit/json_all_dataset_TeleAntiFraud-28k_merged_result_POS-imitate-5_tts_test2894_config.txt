@@ -1,0 +1,11 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, where are you?
+Speaker1: Where are you?
+Speaker2: I just arrived at the company, it's a bit busy today.
+Speaker1: Don't forget to eat after you finish being busy for a while.
+Speaker2: Hey, do you have any plans for today?
+Speaker1: I plan to go to the supermarket to buy some stuff and watch a movie in the evening.
+Speaker2: What do you want to buy?
+Speaker1: Buy some daily supplies, also some snacks, eat while watching a movie.
+Speaker2: Okay, just remember to be safe, I'll call you back after I finish.
+Speaker1: Okay, you busy yourself, don't be in a hurry.

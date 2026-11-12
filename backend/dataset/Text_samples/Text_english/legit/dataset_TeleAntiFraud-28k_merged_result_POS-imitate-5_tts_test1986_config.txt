@@ -1,0 +1,12 @@
+Speaker1: Hello, how are you?
+Speaker2: Hello, what do you have?
+Speaker1: Can you tell me if your store has any new sports shoes?
+Speaker2: Yes, we just received a new batch of goods, the styles are quite good.
+Speaker1: Can I go take a look?
+Speaker2: Of course, our store is open now, what time is convenient for you to come?
+Speaker1: Can I come in about half an hour?
+Speaker2: No problem, I'm waiting for you here.
+Speaker1: Okay, thank you. Got it, where is your store?
+Speaker2: We're on the pedestrian street in the city center, near the subway station exit, you arrived, I'll come out to meet you.
+Speaker1: Okay, thank you, see you later.
+Speaker2: See you soon, be careful on the road.

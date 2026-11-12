@@ -1,0 +1,11 @@
+Speaker1: Hello
+Speaker1: Hello, this is the manager of the Shenzhen Bank, are you Li Boss?
+Speaker2: Yes, what do you have in mind?
+Speaker1: Mr. Li, have you any interest in learning more about the new low-interest loan product recently introduced by the bank, which is very suitable for small and medium-sized enterprise owners?
+Speaker2: Can I borrow some money? I have a bit of a cash need recently.
+Speaker1: Great, this loan product has a low interest rate, quick approval speed, and no collateral required. You just need to provide some basic information, and we can handle it for you.
+Speaker2: What do I need to do?
+Speaker1: Just click this link and fill out the application form, and we will have a specialist serve you. I'll send it to you right away.
+Speaker2: Okay, I'll be right back.
+Speaker1: Okay, the link has been sent to your phone. Please pay attention to check it and fill it out quickly, we will process it as soon as possible.
+Speaker2: Okay, thank you.

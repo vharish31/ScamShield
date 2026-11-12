@@ -1,0 +1,10 @@
+Speaker1: Hello, how are you? I'm little Li, this is somebao customer service center, we found that you have a recent order with issues, need to process a refund for you.
+Speaker2: Oh, really? I did buy some stuff recently, what's up?
+Speaker1: That's right, your order was lost during delivery, so we need to give you a refund to compensate for your loss.
+Speaker2: How can I process a refund?
+Speaker1: Please click on this link, then follow the instructions and fill in the relevant information, and we can process your refund.
+Speaker2: Okay, I'll take a look right away.
+Speaker1: Please let me know if you encounter any issues during the operation. You can contact me anytime, my phone number is 13800138000.
+Speaker2: Okay, I noted it down, thank you.
+Speaker1: No problem, to ensure the safety of your account, please don't tell anyone your verification code when operating, but if you need help, you can contact me.
+Speaker2: Okay, I understand.

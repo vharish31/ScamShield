@@ -1,0 +1,15 @@
+Speaker1: Hi, how are you? I'm the property manager of the community, I want to confirm with you about your parking space issue.
+Speaker2: Hello, which parking spot did you say?
+Speaker1: It's the underground parking spot corresponding to your family's house number, recently someone reported that they can't find the parking spot sometimes.
+Speaker2: Oh, I know this situation. Sometimes we come back late at night and someone else has taken our parking spot.
+Speaker1: So, what time do you usually go home? Can we coordinate a bit?
+Speaker2: Generally, people are around ten o'clock in the evening, sometimes later.
+Speaker1: Understood, I'll record it here and see if I can coordinate with other business owners on parking time.
+Speaker2: Okay, can you help me?
+Speaker1: No problem, there's a question, do you have any plans to renovate your home recently?
+Speaker2: No, what now?
+Speaker1: Recently some neighbors have reported hearing noises coming from your house at night, and they're not sure if it's renovation.
+Speaker2: Oh, that might be my son practicing the piano last night, I will pay attention to controlling the volume.
+Speaker1: Okay, thank you for your cooperation. If you need any help from property management, please contact us anytime.
+Speaker2: Okay, thank you, bye.
+Speaker1: Goodbye.

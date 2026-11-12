@@ -1,0 +1,9 @@
+Speaker1: Hello, how are you?
+Speaker1: Is that right? I am a customer service representative from Huatong Yinhang Bank. We now have a new loan product that can provide you with a low interest rate, no collateral, and fast disbursement. Would you be interested in learning more about it?
+Speaker2: Hey, I recently need to turn over some cash, what are your loan conditions like?
+Speaker1: Hello, our current loan product is very suitable for you. Just provide some basic personal information and apply through our online platform. After approval, the funds will be in your account as soon as possible.
+Speaker2: How do I apply? It sounds good.
+Speaker1: Just click this link to download our official app, register and fill out the relevant information, and our customer service will quickly contact you to complete the subsequent process.
+Speaker2: Okay, I'll go download it now.
+Speaker1: Great! If you have any issues during the download or registration process, please feel free to contact our customer service at any time. Our phone number is 400123456. Enjoy your use, goodbye!
+Speaker2: Thank you, goodbye.

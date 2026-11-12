@@ -1,0 +1,10 @@
+Speaker1: Hello, are you Li teacher?
+Speaker2: Who are you?
+Speaker1: I am the manager of Agricultural and Commercial Bank, we have a loan product designed specifically for entrepreneurs, would you be interested in knowing more?
+Speaker2: Can you provide a loan? I recently need to convert funds, can you provide detailed information?
+Speaker1: Of course, this product has no collateral, the approval is fast, and the interest rate is very favorable. As long as you provide some basic information, we can quickly approve.
+Speaker2: What information do I need to provide?
+Speaker1: Please provide your ID, business license, and the latest financial report for the past year. If it's convenient, you can click on this link to fill out the information, and our backend will process it immediately.
+Speaker2: Link? How do I know this is safe?
+Speaker1: You can rest assured that this is our official link, very safe. To ensure your rights, we also provide a phone verification service, you can contact us through this number to confirm.
+Speaker2: Okay, let me try.
