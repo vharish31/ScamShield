@@ -79,34 +79,54 @@ class Settings(BaseSettings):
         return p
 
     @property
-    def firebase_credential_path(self) -> Path:
+    def firebase_credential_path(self) -> Optional[Path]:
         """Resolve Firebase credential path as an absolute Path with fallback checks."""
-        p = Path(self.FIREBASE_SERVICE_ACCOUNT_PATH)
-        if p.exists():
-            return p
+        val = str(self.FIREBASE_SERVICE_ACCOUNT_PATH).strip()
+        # If raw JSON was provided instead of a file path, return None immediately
+        if val.startswith("{") or len(val) > 260 or "\n" in val:
+            return None
+
+        p = Path(val)
+        try:
+            if p.exists():
+                return p
+        except OSError:
+            return None
 
         # Check Render standard secret file directory (/etc/secrets/...)
-        render_secret = Path("/etc/secrets") / p.name
-        if render_secret.exists():
-            return render_secret
+        try:
+            render_secret = Path("/etc/secrets") / p.name
+            if render_secret.exists():
+                return render_secret
+        except OSError:
+            pass
 
         # Check relative to backend BASE_DIR
         if not p.is_absolute():
-            base_p = BASE_DIR / p
-            if base_p.exists():
-                return base_p
+            try:
+                base_p = BASE_DIR / p
+                if base_p.exists():
+                    return base_p
+            except OSError:
+                pass
 
         # Check repo root / Docker WORKDIR (/app/...)
-        app_p = Path("/app") / p.name
-        if app_p.exists():
-            return app_p
+        try:
+            app_p = Path("/app") / p.name
+            if app_p.exists():
+                return app_p
+        except OSError:
+            pass
 
         # Graceful check for Windows duplicate extension (e.g. .json.json)
-        double_ext = Path(str(BASE_DIR / p) + ".json")
-        if double_ext.exists():
-            return double_ext
+        try:
+            double_ext = Path(str(BASE_DIR / p) + ".json")
+            if double_ext.exists():
+                return double_ext
+        except OSError:
+            pass
 
-        return BASE_DIR / p if not p.is_absolute() else p
+        return None
 
 
 settings = Settings()

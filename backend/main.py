@@ -50,15 +50,18 @@ async def lifespan(app: FastAPI):
     """
     logger.info(f"Starting {settings.APP_NAME} v{settings.APP_VERSION}...")
 
-    # Attempt Firebase initialization
-    firebase_ok = initialize_firebase()
-    if firebase_ok:
-        logger.info("Firebase Cloud Firestore successfully connected.")
-    else:
-        logger.warning(
-            "Firebase not connected. Authentication and Firestore persistence will be inactive "
-            "until credentials are placed in the configured path."
-        )
+    # Attempt Firebase initialization gracefully without crashing startup
+    try:
+        firebase_ok = initialize_firebase()
+        if firebase_ok:
+            logger.info("Firebase Cloud Firestore successfully connected.")
+        else:
+            logger.warning(
+                "Firebase not connected. Authentication and Firestore persistence will be inactive "
+                "until credentials are placed in the configured path."
+            )
+    except Exception as exc:
+        logger.error(f"Non-fatal Firebase initialization error during startup: {exc}")
 
     yield
 
