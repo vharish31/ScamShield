@@ -5,7 +5,7 @@ Loads environment variables safely and provides structured, typed settings.
 
 import os
 from pathlib import Path
-from typing import List
+from typing import List, Optional
 from pydantic_settings import BaseSettings, SettingsConfigDict
 from pydantic import Field
 
@@ -32,6 +32,7 @@ class Settings(BaseSettings):
 
     # Firebase Configuration
     FIREBASE_SERVICE_ACCOUNT_PATH: str = "./firebase-service-account.json"
+    FIREBASE_SERVICE_ACCOUNT_JSON: Optional[str] = None
 
     # Audio Processing & Storage
     MAX_AUDIO_SIZE_MB: int = Field(default=25, description="Maximum audio file size in MB")
@@ -79,17 +80,33 @@ class Settings(BaseSettings):
 
     @property
     def firebase_credential_path(self) -> Path:
-        """Resolve Firebase credential path as an absolute Path with fallback check."""
+        """Resolve Firebase credential path as an absolute Path with fallback checks."""
         p = Path(self.FIREBASE_SERVICE_ACCOUNT_PATH)
+        if p.exists():
+            return p
+
+        # Check Render standard secret file directory (/etc/secrets/...)
+        render_secret = Path("/etc/secrets") / p.name
+        if render_secret.exists():
+            return render_secret
+
+        # Check relative to backend BASE_DIR
         if not p.is_absolute():
-            p = BASE_DIR / p
+            base_p = BASE_DIR / p
+            if base_p.exists():
+                return base_p
+
+        # Check repo root / Docker WORKDIR (/app/...)
+        app_p = Path("/app") / p.name
+        if app_p.exists():
+            return app_p
 
         # Graceful check for Windows duplicate extension (e.g. .json.json)
-        if not p.exists():
-            double_ext = Path(str(p) + ".json")
-            if double_ext.exists():
-                return double_ext
-        return p
+        double_ext = Path(str(BASE_DIR / p) + ".json")
+        if double_ext.exists():
+            return double_ext
+
+        return BASE_DIR / p if not p.is_absolute() else p
 
 
 settings = Settings()

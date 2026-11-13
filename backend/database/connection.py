@@ -72,7 +72,22 @@ def initialize_firebase() -> bool:
             logger.error(f"Failed to acquire Firestore client from existing app: {e}")
             return False
 
-    # Resolve credential file path
+    # 1. Attempt initialization from raw JSON environment variable (convenient for cloud deployment)
+    raw_json = os.environ.get("FIREBASE_SERVICE_ACCOUNT_JSON") or getattr(settings, "FIREBASE_SERVICE_ACCOUNT_JSON", None)
+    if raw_json and raw_json.strip():
+        try:
+            import json
+            cert_dict = json.loads(raw_json.strip())
+            cred = credentials.Certificate(cert_dict)
+            _firebase_app = firebase_admin.initialize_app(cred)
+            _firestore_client = firestore.client()
+            _is_initialized = True
+            logger.info("Successfully connected to Cloud Firestore using FIREBASE_SERVICE_ACCOUNT_JSON environment variable.")
+            return True
+        except Exception as exc:
+            logger.error(f"Error initializing Firebase from FIREBASE_SERVICE_ACCOUNT_JSON: {exc}")
+
+    # 2. Resolve credential file path
     cred_path = settings.firebase_credential_path
     if not cred_path or not cred_path.exists():
         logger.warning(
