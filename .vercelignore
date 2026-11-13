@@ -1,0 +1,44 @@
+# ==============================================================================
+# Vercel Ignore Rules - Exclude heavy non-runtime assets from Serverless Functions
+# ==============================================================================
+
+# Offline ML Training Dataset (189k files, 432 MB)
+dataset/
+backend/dataset/
+**/Text_samples/**
+
+# Virtual Environments (550+ MB)
+.venv/
+backend/.venv/
+venv/
+backend/venv/
+**/venv/**
+
+# Audio Storage & Local Uploads
+uploads/
+backend/uploads/
+*.wav
+*.mp3
+*.m4a
+
+# Python Cache & Bytecode
+__pycache__/
+**/__pycache__/**
+*.py[cod]
+*$py.class
+
+# Tests & Test Caches
+tests/
+backend/tests/
+.pytest_cache/
+backend/.pytest_cache/
+
+# Android Project & Built Artifacts
+android/
+*.apk
+*.aab
+
+# Miscellaneous
+*.docx
+*.md
+

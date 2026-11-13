@@ -1,0 +1,35 @@
+# ==============================================================================
+# Vercel Ignore Rules (Backend Root)
+# ==============================================================================
+
+# Offline ML Training Dataset (189k files, 432 MB)
+dataset/
+Text_samples/
+**/Text_samples/**
+
+# Virtual Environments (550+ MB)
+.venv/
+venv/
+**/venv/**
+
+# Audio Storage & Local Uploads
+uploads/
+*.wav
+*.mp3
+*.m4a
+
+# Python Cache & Bytecode
+__pycache__/
+**/__pycache__/**
+*.py[cod]
+*$py.class
+
+# Tests & Test Caches
+tests/
+.pytest_cache/
+
+# Miscellaneous
+*.docx
+*.md
+train_scam_model.py
+

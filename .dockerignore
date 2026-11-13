@@ -1,0 +1,34 @@
+# ==============================================================================
+# Docker Ignore Rules
+# ==============================================================================
+
+# Offline ML Training Dataset
+backend/dataset/
+dataset/
+**/Text_samples/**
+
+# Virtual Environments
+.venv/
+backend/.venv/
+venv/
+backend/venv/
+
+# Android Project & Built Artifacts
+android/
+*.apk
+*.aab
+
+# Local Audio Uploads
+backend/uploads/*.wav
+backend/uploads/*.mp3
+
+# Testing & Cache
+.git/
+.pytest_cache/
+backend/.pytest_cache/
+__pycache__/
+**/__pycache__/**
+
+*.docx
+*.md
+
