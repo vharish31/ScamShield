@@ -39,8 +39,8 @@ htmlcov/
 # Machine Learning Artifacts & Weights (Private models)
 models/artifacts/*
 !models/artifacts/.gitkeep
+!models/artifacts/*.joblib
 *.pkl
-*.joblib
 *.onnx
 *.pt
 *.bin

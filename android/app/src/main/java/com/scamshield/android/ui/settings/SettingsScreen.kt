@@ -257,11 +257,11 @@ fun SettingsScreen(
                     horizontalArrangement = Arrangement.spacedBy(8.dp)
                 ) {
                     OutlinedButton(
-                        onClick = { viewModel.updateDraftUrl("http://127.0.0.1:8000") },
+                        onClick = { viewModel.updateDraftUrl("https://scamshield-4ati.onrender.com") },
                         shape = RoundedCornerShape(12.dp),
                         modifier = Modifier.weight(1f)
                     ) {
-                        Text("USB Local")
+                        Text("Cloud Render")
                     }
                     OutlinedButton(
                         onClick = { viewModel.updateDraftUrl("http://192.168.1.79:8000") },
@@ -271,11 +271,11 @@ fun SettingsScreen(
                         Text("Wi-Fi PC")
                     }
                     OutlinedButton(
-                        onClick = { viewModel.updateDraftUrl("http://10.0.2.2:8000") },
+                        onClick = { viewModel.updateDraftUrl("http://127.0.0.1:8000") },
                         shape = RoundedCornerShape(12.dp),
                         modifier = Modifier.weight(1f)
                     ) {
-                        Text("Emulator")
+                        Text("USB Local")
                     }
                 }
                 Button(

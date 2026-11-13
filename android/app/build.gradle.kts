@@ -66,7 +66,7 @@ android {
             buildConfigField(
                 "String",
                 "DEFAULT_BASE_URL",
-                "\"${propOrDefault("backend.debugUrl", "http://192.168.1.79:8000")}\""
+                "\"${propOrDefault("backend.debugUrl", "https://scamshield-4ati.onrender.com")}\""
             )
             isMinifyEnabled = false
         }
@@ -74,7 +74,7 @@ android {
             buildConfigField(
                 "String",
                 "DEFAULT_BASE_URL",
-                "\"${propOrDefault("backend.releaseUrl", "https://api.scamshield.local")}\""
+                "\"${propOrDefault("backend.releaseUrl", "https://scamshield-4ati.onrender.com")}\""
             )
             isMinifyEnabled = true
             proguardFiles(

@@ -39,8 +39,8 @@ models/artifacts/*
 !models/artifacts/.gitkeep
 backend/models/artifacts/*
 !backend/models/artifacts/.gitkeep
+!backend/models/artifacts/*.joblib
 *.pkl
-*.joblib
 *.onnx
 
 # Alias or Junction
