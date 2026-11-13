@@ -76,10 +76,11 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
-# Configure CORS Middleware for the future React frontend
+# Configure CORS Middleware for the React frontend
 app.add_middleware(
     CORSMiddleware,
     allow_origins=settings.cors_origins,
+    allow_origin_regex=r"https://.*\.vercel\.app|https://.*\.onrender\.com|http://localhost:.*|http://127\.0\.0\.1:.*",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
